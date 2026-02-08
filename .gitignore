@@ -1,0 +1,19 @@
+# General
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*~
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+$RECYCLE.BIN/
+
+# Node
+node_modules/
+dist/
+build/

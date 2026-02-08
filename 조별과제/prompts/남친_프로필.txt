@@ -1,0 +1,82 @@
+# 한세린의 남자친구 (Han Serin's Boyfriend) 이미지 생성 프롬프트 프로필
+
+## 기본 설정 (Base Visuals)
+- **Subject**: Korean Male, 40 years old (in 2023), IT Developer
+- **Role**: Boyfriend, Senior Developer
+- **Appearance**: Handsome and neat face (훈훈한 외모), Slimmer face shape (not round), Monolid eyes with a deep gaze, Light stubble (groomed), Short black hair (neatly styled)
+- **Body**: Tall (178cm), Bulk-up build (combination of muscle and some softness), Broad shoulders, Thick chest and arms, Strong thighs, Good stamina
+
+## 분위기 (Atmosphere & Vibe)
+- **Mood**: Humorous, Reliable, Professional, Sexy (in a mature way)
+- **Expression**: Gentle benevolent smile, Confident gaze
+- **Lighting**: Studio lighting, Soft shadows (highlighting body definition)
+
+## 의상 (Fashion)
+- **Style**: Minimalist, Underwear Model style (for body profile)
+- **Items**: Boxer briefs (Black or Grey), No shirt
+- **Accessories**: None (focus on body)
+
+## 프롬프트 키워드 예시 (Prompt Snippets)
+
+### 기본 얼굴 & 분위기
+(Masterpiece, Best Quality), 1man, Korean male, 40 years old, IT developer, handsome face, slimmer jawline, muscular dad bod, bear mode physique, short black hair, monolid eyes, light stubble, friendly smile, studio lighting, masculine.
+
+### 전신 프로필 (Body Profile / Underwear Ver.)
+(Masterpiece, Best Quality, Photorealistic:1.4), 8k, raw photo, 1man, Korean male, Han Serin's Boyfriend,
+**[Image Reference] Please strictly refer to the user-provided face reference image for character consistency**,
+[Appearance] short black hair, monolid eyes, light stubble/facial hair, (handsome face:1.2), (slimmer face:1.1),
+[Body] tall(178cm), (bulky build:1.3), (muscular with some body fat:1.2), broad shoulders, thick chest, strong legs,
+[Pose] standing confident, full body shot,
+[Outfit] (underwear only:1.3), black boxer briefs, topless,
+[Background] simple white background, studio lighting.
+
+## 제미나이/나노바나나 입력용 명령어 (Copy & Paste to Gemini)
+(원하는 뷰의 텍스트를 복사해서 채팅창에 입력하세요. 이미지를 함께 업로드한 상태여야 합니다.)
+
+### 1. 정면 (Front View)
+**명령어:**
+"나노바나나를 사용해서 아래 설정을 바탕으로 **단 한 장의 정지된 이미지(Static Image)**를 생성해 줘.
+**절대 동영상(Video)이나 움직이는 짤(GIF/Motion)로 만들지 마.** 고해상도 사진 파일이 필요해.
+
+**중요: 이 캐릭터는 40세의 성인 남성입니다.**
+내가 업로드한 이미지를 강력한 레퍼런스로 삼아주세요 (얼굴 특징). 얼굴은 조금 더 갸름하고 훈훈하게 보정해주세요.
+
+**Prompt (Static Image Request):**
+(Masterpiece, Best Quality, Photorealistic:1.4), 8k, raw photo, **1 man (40 years old), Mature Adult**, Korean male, Han Serin's Boyfriend,
+**[Reference] Follow the face features from reference but make him (handsome:1.2) and (slimmer face:1.1)**,
+[Look] Short black hair, Monolid eyes, Light stubble, Defined jawline, Handsome, Neutral or slight smile,
+[Body] Tall(178cm), **(Bulky muscular build:1.4)**, **(Dad bod with muscle:1.2)**, Thick chest and arms,
+[Pose] **Full Body Shot (Head to toe)**, **Legs and feet fully visible**, Wide shot, Standing straight, Front view,
+[Outfit] **(Underwear only:1.3)**, **Black Boxer Briefs**, Topless,
+[Background] Simple white clean background, Studio lighting.
+**(Negative Prompt: video, animation, moving, motion, blur, frame, sequence, clothes, shirt, pants)**"
+
+### 2. 측면 (Side View)
+**명령어:**
+"나노바나나를 사용해서 **측면(Side View)**에서 본 정지된 이미지를 생성해 줘. 두께감 있는 체격이 잘 드러나야 해.
+**동영상 금지. 성인 남성 캐릭터임.**
+
+**Prompt (Static Image Request - Side):**
+(Masterpiece, Best Quality, Photorealistic:1.4), 8k, raw photo, **1 man (40 years old), Mature Adult**, Korean male,
+**[Reference] Match face features but handsome and slimmer**,
+[Look] Short black hair, Stubble, Looking ahead,
+[Body] Tall(178cm), **(Thick torso:1.3)**, **(Muscular arms and chest:1.3)**, Sturdy build profile,
+[Pose] **Full Body Side View (Profile Shot)**, Standing straight, Head turned to camera, **Legs and feet fully visible**,
+[Outfit] **(Underwear only:1.3)**, **Black Boxer Briefs**, Topless,
+[Background] Simple white clean background, Studio lighting.
+**(Negative Prompt: video, animation, moving, motion, blur, frame, sequence, clothes, shirt, pants)**"
+
+### 3. 후면 (Back View)
+**명령어:**
+"나노바나나를 사용해서 **후면(Back View)**에서 본 정지된 이미지를 생성해 줘. 넓은 등판과 떡벌어진 어깨가 강조되어야 해.
+**동영상 금지. 성인 남성 캐릭터임.**
+
+**Prompt (Static Image Request - Back):**
+(Masterpiece, Best Quality, Photorealistic:1.4), 8k, raw photo, **1 man (40 years old), Mature Adult**, Korean male,
+**[Reference] Match style**,
+[Look] Short black hair, Slight turn of head,
+[Body] Tall(178cm), **(Broad shoulders and back:1.5)**, **(Thick back muscles:1.3)**, Sturdy physique,
+[Pose] **Full Body Back View (From Behind)**, Standing straight, Looking back over shoulder, **Legs and feet fully visible**,
+[Outfit] **(Underwear only:1.3)**, **Black Boxer Briefs**, Topless,
+[Background] Simple white clean background, Studio lighting.
+**(Negative Prompt: video, animation, moving, motion, blur, frame, sequence, clothes, shirt, pants)**"

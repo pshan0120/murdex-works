@@ -1,0 +1,40 @@
+﻿// 첫 번째 질문
+<div class="story-content">
+  <div class="section-title">최후의 선택</div>
+  <p>
+    당신의 복수는 이미 방향을 잃었습니다. 이제 당신은 죄책감을 씻기 위해 모든 것을 고백하시겠습니까? 
+    아니면 무사한 졸업을 위해 끝까지 입을 닫고 <span class="highlight">'완벽한 조장'</span>의 가면을 쓴 채 이 팀을 성공시키시겠습니까?
+  </p>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 A: 책임의 완수</div>
+  <p class="quote-box">
+    "지금의 침묵이 모두를 살리는 유일한 선택이다. 자백으로 팀의 노력을 물거품으로 만드는 대신, 이 죄책감을 홀로 짊어지고 과제를 성공시켜 속죄하겠다."
+  </p>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 B: 정직한 속죄</div>
+  <p class="quote-box">
+    "거짓된 성공은 지혜에 대한 모욕이다. 내가 범인임을 밝히고, 조원들에게 정당한 비난을 받겠다."
+  </p>
+</div>
+
+
+// 두 번째 질문
+<div class="story-content">
+  <div class="section-title">범인 투표 결과</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 A: 아무도 당신을 범인으로 지목하지 않았다.</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 B: 1~2명이 당신을 범인으로 지목했다.</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 C: 3명이 당신을 범인으로 지목했다.</div>
+</div>

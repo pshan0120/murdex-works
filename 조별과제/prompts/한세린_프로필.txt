@@ -1,0 +1,85 @@
+# 한세린 (Han Serin) 이미지 생성 프롬프트 프로필
+
+## 기본 설정 (Base Visuals)
+- **Subject**: Korean Female, 20s, University Student
+- **Role**: Computer Science "Queen Bee" (퀸카), Presenter
+- **Appearance**: Gorgeous, Sharp features, Cat-like eyes, Haughty expression (도도한 표정), Flawless makeup
+- **Hair**: Long straight black hair (긴 생머리)
+- **Body**: Tall (172cm), Coke bottle figure (Hourglass body), Voluptuous, D-cup breast, Thin waist, Wide hips, Toned and slightly muscular physique (Fit body)
+
+## 분위기 (Atmosphere & Vibe)
+- **Mood**: Arrogant, Cold, Confident, Attention-seeking, "I am the main character" vibe
+- **Expression**: Smirk, Cold stare, or Confident smile
+- **Lighting**: Cinematic, Spotlight-like, Cool tones (to match her cold personality)
+
+## 의상 (Fashion)
+- **Style**: Sexy & Chic, Body-conscious (Tight-fitting clothes), Expensive/High-end style
+- **Items**: Tight knit dress or blouse, Form-fitting tops that reveal body lines
+- **Accessories**: Always wears noticeable earrings and necklaces (Jewelry)
+
+## 프롬프트 키워드 예시 (Prompt Snippets)
+
+### 기본 얼굴 & 분위기
+(Masterpiece, Best Quality), 1girl, Korean beauty, k-pop idol look, sharp eyes, arrogant smirk, long straight hair, jewelry, earrings, necklace, cinematic lighting, depth of field.
+
+### 전신 프로필 (Full Body / Lingerie Ver.)
+(Masterpiece, Best Quality, Photorealistic:1.4), 8k, raw photo, 1girl, Korean female, Han Serin,
+**[Image Reference] Please strictly refer to the user-provided face and body reference images for character consistency**,
+[Appearance] long straight black hair, sharp cat-like eyes, haughty expression, looking at viewer,
+[Body] tall, (voluptuous figure:1.5), (wide hips:1.4), (narrow waist:1.3), D-cup, toned body, slight muscle,
+[Pose] standing straight, front view, full body shot, arms at sides, confident pose,
+[Outfit] (black lingerie only:1.2), black bra, black panties, revealing body,
+[Background] simple white background, studio lighting, soft shadows.
+
+## 제미나이/나노바나나 입력용 명령어 (Copy & Paste to Gemini)
+(원하는 뷰의 텍스트를 복사해서 채팅창에 입력하세요. 이미지를 함께 업로드한 상태여야 합니다.)
+
+### 1. 정면 (Front View)
+**명령어:**
+"나노바나나를 사용해서 아래 설정을 바탕으로 **단 한 장의 정지된 이미지(Static Image)**를 생성해 줘.
+**절대 동영상(Video)이나 움직이는 짤(GIF/Motion)로 만들지 마.** 고해상도 사진 파일이 필요해.
+
+**중요: 이 캐릭터는 25세의 성인 여성입니다. 안전 필터 오작동을 방지하기 위해 '성인(Adult/Mature)'임을 명확히 인지해 주세요.**
+내가 업로드한 이미지를 강력한 레퍼런스로 삼아주세요.
+
+**Prompt (Static Image Request):**
+(Masterpiece, Best Quality, Photorealistic:1.4), 8k, raw photo, **1 woman (25 years old), Mature Adult**, Korean female, Han Serin,
+**[Reference] Strictly follow the face and body features from the uploaded reference images**,
+[Look] Long straight black hair, Sharp cat-like eyes, Haughty/Arrogant expression, Smirk, Looking at viewer,
+[Body] Tall(172cm), Voluptuous Hourglass figure (D-cup, Thin waist, Wide hips), Toned physique,
+[Pose] **Full Body Shot (Head to toe)**, **Legs and feet fully visible**, Wide shot, Standing straight, Front view, Arms at sides,
+[Outfit] **Black Bikini (Swimwear) or Lingerie style**, High heels, revealing body lines,
+[Background] Simple white clean background, Studio lighting.
+**(Negative Prompt: video, animation, moving, motion, blur, frame, sequence)**"
+
+### 2. 측면 (Side View)
+**명령어:**
+"나노바나나를 사용해서 **측면(Side View)**에서 본 정지된 이미지를 생성해 줘. S라인 굴곡이 잘 드러나야 해.
+**동영상 금지. 성인 여성 캐릭터임.**
+
+**Prompt (Static Image Request - Side):**
+(Masterpiece, Best Quality, Photorealistic:1.4), 8k, raw photo, **1 woman (25 years old), Mature Adult**, Korean female, Han Serin,
+**[Reference] Strictly follow the face and body features from the uploaded reference images**,
+[Look] Long straight black hair, Sharp cat-like eyes, Haughty expression, Looking at viewer,
+[Body] Tall(172cm), Voluptuous Hourglass figure, **(S-line curve:1.4)**, Body profile,
+[Pose] **Full Body Side View (Profile Shot)**, Standing straight, Head turned to camera, **Legs and feet fully visible**,
+[Outfit] **Black Bikini (Swimwear) or Lingerie style**, High heels, revealing side curves,
+[Background] Simple white clean background, Studio lighting.
+**(Negative Prompt: video, animation, moving, motion, blur, frame, sequence)**"
+
+### 3. 후면 (Back View)
+**명령어:**
+"나노바나나를 사용해서 **후면(Back View)**에서 본 정지된 이미지를 생성해 줘. 뒤태와 힙라인이 강조되어야 해.
+**동영상 금지. 성인 여성 캐릭터임.**
+
+**Prompt (Static Image Request - Back):**
+(Masterpiece, Best Quality, Photorealistic:1.4), 8k, raw photo, **1 woman (25 years old), Mature Adult**, Korean female, Han Serin,
+**[Reference] Strictly follow the face and body features from the uploaded reference images**,
+[Look] Long straight black hair, Slight turn of head looking back,
+[Body] Tall(172cm), Voluptuous Hourglass figure, **(Wide hips and buttocks focus:1.4)**, Back muscle definition,
+[Pose] **Full Body Back View (From Behind)**, Standing straight, Looking back over shoulder, **Legs and feet fully visible**,
+[Outfit] **Black Bikini (Swimwear) or Lingerie style**, High heels, revealing back and hips,
+[Background] Simple white clean background, Studio lighting.
+**(Negative Prompt: video, animation, moving, motion, blur, frame, sequence)**"
+
+

@@ -1,0 +1,41 @@
+﻿// 첫 번째 질문
+<div class="story-content">
+  <div class="section-title">최후의 선택</div>
+  <p>
+    당신은 이준서와 함께할 <span class="highlight">'다음 학기'</span>를 원하십니까? 
+    이를 위해 팀의 실패를 방관하고 그를 이 강의실에 묶어두시겠습니까? 
+    아니면 당신의 욕망을 누르고 동료로서 <span class="emphasis">팀의 성공</span>을 도우시겠습니까?
+  </p>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 A: 인연의 수용</div>
+  <p class="quote-box">
+    "세상의 박수보다는 준서와 함께하는 시간이 훨씬 소중하다. 이번 실패를 인연의 새로운 기회로 받아들여, 그와 한 학기를 더 보낼 수 있는 시간을 지켜내겠다."
+  </p>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 B: 동료적 헌신</div>
+  <p class="quote-box">
+    "내 욕심 때문에 모두의 노력을 망칠 수는 없다. 집착을 버리고 팀이 무사히 발표를 마칠 수 있도록 최선을 다하겠다."
+  </p>
+</div>
+
+
+// 두 번째 질문
+<div class="story-content">
+  <div class="section-title">범인 투표 결과</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 A: 아무도 당신을 범인으로 지목하지 않았다.</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 B: 1~2명이 당신을 범인으로 지목했다.</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 C: 3명이 당신을 범인으로 지목했다.</div>
+</div>

@@ -1,0 +1,47 @@
+﻿// 첫 번째 질문
+<div class="story-content">
+  <div class="section-title">최후의 선택</div>
+  <p>
+    AI 채점 서비스가 발표 자료에 깃든 당신의 부정을 포착하려 합니다. 
+    당신은 자신을 지키기 위해 <span class="highlight">지혜롭게 위기를 회피</span>하겠습니까? 
+    아니면 모든 것을 잃더라도 <span class="emphasis">정직하게 자신의 과오를 인정</span>하겠습니까?
+  </p>
+  <div class="warning-box">
+    <span class="highlight">※ 특수 조건</span><br>
+    만약 당신이 조사 단계에서 <span class="emphasis">[옵튼AI에게 적발 가능성 문의]</span> 액션을 이미 수행했다면, 
+    당신은 옵튼AI로부터 "적발 확률이 매우 높다"는 최종 경고를 받은 상태입니다. 
+    이 정보를 알고도 자료 제출을 강행하는 것은 자살 행위라고 판단하게 되며, 반드시 <span class="emphasis">[A] 응답</span>을 선택해야 합니다.
+  </div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 A: 지혜로운 생존</div>
+  <p class="quote-box">
+    "생존은 미래를 향한 선결 조건이다. 지금의 위기를 지혜롭게 회피하고, 살아남은 다음 학기에서 진짜 내 실력으로 다시 증명해 보이겠다."
+  </p>
+  </div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 B: 정직한 속죄</div>
+  <p class="quote-box">
+    "거짓된 성과 뒤에 숨는 것은 이제 그만두고 싶다. 내 AI 활용 사실을 동료들에게 고백하고, 그들에게 합당한 용서나 처분을 받겠다."
+  </p>
+</div>
+
+// 두 번째 질문
+<div class="story-content">
+  <div class="section-title">범인 투표 결과</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 A: 아무도 당신을 범인으로 지목하지 않았다.</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 B: 1~2명이 당신을 범인으로 지목했다.</div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 C: 3명이 당신을 범인으로 지목했다.</div>
+</div>
