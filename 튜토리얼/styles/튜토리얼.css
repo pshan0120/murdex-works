@@ -1,6 +1,6 @@
 /* 튜토리얼 (심야의 편의점) 테마 스타일 */
+/* 입문 작가들이 샘플 템플릿의 클래스 구조를 이해하기 쉽도록 표준 가이드를 따릅니다. */
 
-/* 전체적인 분위기: 비 오는 밤, 차가운 도시, 네온 사인 */
 :root {
     --tutorial-bg-primary: #1a1a2e;
     /* 어두운 남색 배경 */
@@ -17,85 +17,280 @@
     --tutorial-card-bg: rgba(22, 33, 62, 0.9);
     /* 반투명 카드 배경 */
     --tutorial-neon-blue: #00f2ff;
-    /* 네온 블루 */
+    /* 네온 블루 (주요 포인트/성공) */
+    --tutorial-glass: rgba(255, 255, 255, 0.05);
 }
 
-/* 배경 설정 (비 내리는 창문 느낌) */
-body {
-    background-color: var(--tutorial-bg-primary);
+/* 1. 기본 배경 및 폰트 설정 */
+.game-content-area {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+    line-height: 1.7;
     color: var(--tutorial-text-main);
-    font-family: 'Pretendard', sans-serif;
+    word-break: keep-all;
 }
 
-/* 공통 카드 스타일 */
-.card-base {
+.game-content-area h1,
+.game-content-area h2,
+.game-content-area h3 {
+    color: var(--tutorial-neon-blue);
+    text-shadow: 0 0 10px rgba(0, 242, 255, 0.3);
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+/* 2. 공통 가로 구분선 */
+.divider {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--tutorial-accent), var(--tutorial-neon-blue), var(--tutorial-accent), transparent);
+    margin: 2rem 0;
+}
+
+/* 3. 시나리오 소개 (STORY_DESCRIPTION) */
+.story-intro {
+    padding: 2rem;
     background: var(--tutorial-card-bg);
     border: 1px solid var(--tutorial-accent);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-    border-radius: 8px;
-    backdrop-filter: blur(5px);
+    border-radius: 12px;
 }
 
-/* 단서 카드 스타일 */
-.clue-card {
-    border-left: 4px solid var(--tutorial-neon-blue);
+.intro-text {
+    font-size: 1.1rem;
+    color: var(--tutorial-text-main);
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.feature-item {
+    background: var(--tutorial-glass);
     padding: 1rem;
-    margin-bottom: 1rem;
-    background: linear-gradient(135deg, rgba(26, 26, 46, 0.8) 0%, rgba(22, 33, 62, 0.9) 100%);
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid rgba(0, 242, 255, 0.1);
 }
 
-.clue-card h3 {
-    color: var(--tutorial-neon-blue);
-    text-shadow: 0 0 5px rgba(0, 242, 255, 0.5);
+.feature-item h3 {
+    font-size: 0.9rem;
+    margin: 0 0 0.5rem 0;
+    color: var(--tutorial-text-sub);
+}
+
+/* 4. 인물 프로필 (ROLE_DESCRIPTION) */
+.profile-card {
+    background: var(--tutorial-card-bg);
+    border: 1px solid var(--tutorial-accent);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.profile-card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle at top right, rgba(0, 242, 255, 0.1), transparent);
+}
+
+.role-badge {
+    display: inline-block;
+    background: var(--tutorial-highlight);
+    color: white;
+    padding: 0.2rem 0.8rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
     margin-bottom: 0.5rem;
 }
 
-/* 역할 시트 스타일 */
-.role-sheet-header {
-    background: linear-gradient(to right, var(--tutorial-accent), transparent);
-    padding: 0.5rem 1rem;
-    border-bottom: 2px solid var(--tutorial-highlight);
-    margin-bottom: 1rem;
+.profile-section {
+    margin-top: 1.5rem;
 }
 
-.role-secret {
-    background-color: rgba(233, 69, 96, 0.1);
-    border: 1px solid var(--tutorial-highlight);
+.profile-section h3 {
+    font-size: 1rem;
+    border-left: 3px solid var(--tutorial-neon-blue);
+    padding-left: 10px;
+    background: linear-gradient(to right, rgba(0, 242, 255, 0.05), transparent);
+}
+
+.quote-box {
+    margin-top: 1.5rem;
     padding: 1rem;
-    border-radius: 4px;
-    color: #ffcccc;
-}
-
-/* 타임라인 스타일 */
-.timeline-item {
-    border-left: 2px solid var(--tutorial-text-sub);
-    padding-left: 1rem;
-    margin-left: 0.5rem;
-    margin-bottom: 1rem;
-    position: relative;
-}
-
-.timeline-item::before {
-    content: '';
-    position: absolute;
-    left: -5px;
-    top: 0;
-    width: 8px;
-    height: 8px;
-    background-color: var(--tutorial-neon-blue);
-    border-radius: 50%;
-}
-
-.timeline-time {
-    font-weight: bold;
+    border-left: 4px solid var(--tutorial-accent);
+    background: rgba(15, 52, 96, 0.3);
+    font-style: italic;
     color: var(--tutorial-neon-blue);
 }
 
-/* 모달 스타일 */
-.modal-content {
-    background-color: var(--tutorial-bg-secondary);
+/* 5. 비밀 정보 (ROLE_SECRET) */
+.secret-document {
+    background: rgba(233, 69, 96, 0.05);
+    border: 1px solid var(--tutorial-highlight);
+    padding: 1.5rem;
+    border-radius: 8px;
+    position: relative;
+}
+
+.secret-highlight {
+    background: rgba(233, 69, 96, 0.15);
+    border-radius: 4px;
+    padding: 1rem;
+    margin: 1rem 0;
+    color: #ffcccc;
+}
+
+.meta-info {
+    font-size: 0.85rem;
+    color: var(--tutorial-text-sub);
+    margin-top: 1rem;
+}
+
+/* 6. 단서 상세 (CLUE_DETAILS) */
+.clue-detail {
+    background: var(--tutorial-card-bg);
     border: 1px solid var(--tutorial-accent);
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border-left: 4px solid var(--tutorial-neon-blue);
+    padding: 1.5rem;
+    border-radius: 4px 12px 12px 4px;
+}
+
+.observation-box {
+    background: rgba(0, 242, 255, 0.05);
+    border: 1px dashed var(--tutorial-neon-blue);
+    padding: 1rem;
+    margin-top: 1.5rem;
+    border-radius: 8px;
+}
+
+.document-paper {
+    background: #e5e7eb;
+    color: #1f2937;
+    padding: 2rem;
+    border-radius: 2px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    font-family: 'Gowun Batang', serif;
+    position: relative;
+}
+
+.document-paper::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.05) 0%, transparent 10%, transparent 90%, rgba(0, 0, 0, 0.05) 100%);
+    pointer-events: none;
+}
+
+/* 7. 대화 로그 (CHAT_LOG) */
+.chat-log {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.chat-bubble {
+    max-width: 85%;
+    padding: 1rem;
+    border-radius: 12px;
+    font-size: 0.95rem;
+}
+
+.chat-bubble.left {
+    align-self: flex-start;
+    background: var(--tutorial-accent);
+    border-bottom-left-radius: 2px;
+}
+
+.chat-bubble.right {
+    align-self: flex-end;
+    background: #2a2a4e;
+    border-bottom-right-radius: 2px;
+    border: 1px solid var(--tutorial-neon-blue);
+}
+
+.chat-bubble strong {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--tutorial-neon-blue);
+    margin-bottom: 0.3rem;
+}
+
+/* 8. 단계 설명 (STEP_DESCRIPTION) */
+.step-intro {
+    background: linear-gradient(135deg, var(--tutorial-bg-secondary) 0%, var(--tutorial-accent) 100%);
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid var(--tutorial-neon-blue);
+}
+
+.narrative {
+    font-size: 1.1rem;
+    color: var(--tutorial-text-main);
+    margin: 1.5rem 0;
+    line-height: 1.8;
+}
+
+.objective-box {
+    background: rgba(0, 242, 255, 0.1);
+    border-radius: 8px;
+    padding: 1.2rem;
+}
+
+.objective-box strong {
+    color: var(--tutorial-neon-blue);
+}
+
+/* 9. 엔딩 (ENDING_STORY) */
+.ending-scene {
+    text-align: center;
+    padding: 3rem 1rem;
+}
+
+.climax {
+    font-size: 1.3rem;
+    color: var(--tutorial-highlight);
+    font-weight: bold;
+    margin: 2rem 0;
+    text-shadow: 0 0 15px rgba(233, 69, 96, 0.5);
+}
+
+/* 10. 기타 박스 (SAMPLE용) */
+.warning-box {
+    background: rgba(233, 69, 96, 0.1);
+    border: 1px solid var(--tutorial-highlight);
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
+.letter-container {
+    background: #fdf6e3;
+    color: #5c4b37;
+    padding: 2.5rem;
+    border-radius: 4px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+    font-family: 'Gowun Batang', serif;
+}
+
+.letter-content h2 {
+    color: #8b4513;
+    text-align: center;
+    border-bottom: 2px solid #e5d5c5;
+    padding-bottom: 1rem;
 }
 
 /* 빗방울 효과 (애니메이션) */
