@@ -44,7 +44,7 @@
                     "actionDescription": "<p>쌍화차 잔 바닥에 가라앉은 <strong>계란 노른자</strong>를 건져내어 돋보기로 면밀히 관찰합니다.</p>",
                     "actionEffect": "<p>육안으로 보이지 않는 <strong>미세한 흔적</strong>을 발견할 수 있습니다.</p>",
                     "actionType": "MODIFY_CLUE",
-                    "apCost": 3,
+                    "apCost": 2,
                     "executionResult": "<p>당신은 조심스럽게 노른자를 건져 올려 돋보기를 갖다 댑니다. 조명 아래에서 노른자를 돌려보다가 무언가를 발견합니다.</p>",
                     "actionEffects": [
                         {
@@ -61,7 +61,7 @@
                     "actionDescription": "<p>이 군이 안절부절못하며 지키고 있는 <strong>낡은 가죽 가방</strong>의 내용물을 샅샅이 뒤집니다.</p>",
                     "actionEffect": "<p>가방 깊숙한 곳에 숨겨진 <strong>의외의 물건</strong>을 찾아낼 수 있습니다.</p>",
                     "actionType": "MODIFY_CLUE",
-                    "apCost": 3,
+                    "apCost": 2,
                     "executionResult": "<p>\"이... 이건 개인 프라이버시 아닙니까!\" 이 군의 항변을 무시하고 가방을 거꾸로 탈탈 텁니다.</p>",
                     "actionEffects": [
                         {
@@ -78,7 +78,7 @@
                     "actionDescription": "<p>김 사장이 품에 안고 있는 <strong>누런 서류 봉투</strong>를 빼앗아 그 내용을 검토합니다.</p>",
                     "actionEffect": "<p>서류에 적힌 <strong>계약의 실체</strong>를 파악할 수 있습니다.</p>",
                     "actionType": "MODIFY_CLUE",
-                    "apCost": 3,
+                    "apCost": 2,
                     "executionResult": "<p>\"내놓으시오! 이건 내 재산이오!\" 김 사장의 저항을 뿌리치고 서류를 꺼내 읽어 내려갑니다.</p>",
                     "actionEffects": [
                         {
@@ -95,7 +95,7 @@
                     "actionDescription": "<p>숙소 사물함에서 발견된 <strong>낡은 일기장</strong>을 압수하여 최근 기록을 읽어봅니다.</p>",
                     "actionEffect": "<p>미스 양이 감추고 있던 <strong>내면의 심리</strong>를 엿볼 수 있습니다.</p>",
                     "actionType": "MODIFY_CLUE",
-                    "apCost": 3,
+                    "apCost": 2,
                     "executionResult": "<p>먼지 쌓인 일기장을 펼치자, 꾹꾹 눌러쓴 글씨들이 그녀의 억눌린 감정을 토해내듯 쏟아집니다.</p>",
                     "actionEffects": [
                         {
@@ -116,7 +116,7 @@
             "clueType": "PHYSICAL",
             "clueSource": "OBJECTIVE_FACT",
             "importanceLevel": "HIGH",
-            "apCost": 0,
+            "apCost": 1,
             "isRevealable": true,
             "isExchangeable": false,
             "isAcquirable": true,
@@ -148,6 +148,13 @@
                     "clueContent": "<p>1번 테이블 위, 낮게 내려앉은 담배 연기 아래 놓인 <strong>최 마담의 찻잔</strong>입니다. 두툼한 자기 잔 안에는 식어버린 쌍화차가 반쯤 남아있고, 잣과 호두 조각들이 둥둥 떠다닙니다. 비릿한 냄새가 올라오며, 잔 테두리에는 그녀의 트레이드마크인 붉은 립스틱 자국이 선명하게 남아있습니다.</p>",
                     "isDefault": true,
                     "priority": 10
+                },
+                {
+                    "variantId": "variant_01_hidden",
+                    "clueName": "남겨진 쌍화차 찻잔",
+                    "clueContent": "<p>가까이 다가가서 냄새를 맡자 특유의 <strong>한약 냄새 사이로 톡 쏘는 듯한 비릿한 악취</strong>가 미세하게 느껴집니다.</p>",
+                    "isDefault": true,
+                    "priority": 20
                 }
             ]
         },
@@ -156,7 +163,7 @@
             "clueType": "PHYSICAL",
             "clueSource": "OBJECTIVE_FACT",
             "importanceLevel": "HIGH",
-            "apCost": 2,
+            "apCost": 1,
             "isRevealable": true,
             "isExchangeable": false,
             "isAcquirable": true,
@@ -164,19 +171,11 @@
             "variants": [
                 {
                     "variantId": "variant_02_default",
-                    "clueName": "평범해 보이는 쌍화차",
-                    "clueContent": "<p>쌍화차 잔에 남은 찻물과 노른자입니다. 겉보기에는 아주 평범해 보이지만, 가까이 다가가자 특유의 <strong>한약 냄새 사이로 톡 쏘는 듯한 비릿한 악취</strong>가 미세하게 느껴집니다.</p>",
+                    "clueName": "철가방",
+                    "clueContent": "<p>철가방 안에는 배달을 마친 <strong>빈 그릇</strong>들이 담겨 있습니다. 바닥에 떨어진 간이 영수증에는 <strong>'21:50 역전 당구장'</strong>이라는 배달 시간과 서명이 적혀 있군요. 역전 당구장은 이곳에서 오토바이로 <strong>왕복 30분</strong> 거리입니다.</p>",
                     "isDefault": true,
-                    "priority": 10
-                },
-                {
-                    "variantId": "variant_02_hidden",
-                    "clueName": "노른자의 마늘 냄새",
-                    "clueContent": "<p><span class=\"highlight\">냄새를 정밀하게 맡아본 결과</span>, 썩은 계란 냄새나 유황 냄새가 아닌, <strong>강렬한 마늘 냄새</strong>가 코를 찌릅니다. 이것은 농약, 특히 <strong>파라티온</strong> 계열에서 나는 특징적인 냄새와 유사합니다.</p>",
-                    "isDefault": false,
-                    "priority": 20,
-                    "variantType": "MODIFIED_BY_ACTION",
-                    "conditionDescription": "정밀 조사(후각) 후"
+                    "priority": 10,
+                    "variantType": null
                 }
             ]
         },
@@ -185,7 +184,7 @@
             "clueType": "PHYSICAL",
             "clueSource": "OBJECTIVE_FACT",
             "importanceLevel": "HIGH",
-            "apCost": 2,
+            "apCost": 1,
             "isRevealable": true,
             "isExchangeable": false,
             "isAcquirable": true,
@@ -194,18 +193,9 @@
                 {
                     "variantId": "variant_03_default",
                     "clueName": "주방 찬장 구석",
-                    "clueContent": "<p>주방 안쪽, 곰팡이 핀 벽면과 찬장 사이의 좁은 틈새입니다. 먼지가 수북이 쌓여 있지만, 최근에 누군가 건드린 듯 먼지가 쓸린 자국이 선명합니다. 안쪽에 무언가가 신문지로 엉성하게 말려 있습니다.</p>",
+                    "clueContent": "<p>주방 안쪽, 곰팡이 핀 벽면과 찬장 사이의 좁은 틈새입니다. 먼지가 수북이 쌓여 있지만, 최근에 누군가 건드린 듯 먼지가 쓸린 자국이 선명합니다. 안쪽에 무언가가 신문지로 엉성하게 말려 있습니다. <span class=\"highlight\">신문지를 풀러 확인한 결과</span>, 사용하다 남은 <strong>이름 모를 갈색 유리병</strong>이 나옵니다. 라벨은 훼손되어 '..독성.. 주의..'라는 글자만 보입니다. 뚜껑 주위에는 <strong>정체불명의 끈적한 갈색 가루</strong>가 눌어붙어 있고, 병에서는 어디선가 맡아 본 듯한 냄새가 납니다.</p>",
                     "isDefault": true,
                     "priority": 10
-                },
-                {
-                    "variantId": "variant_03_hidden",
-                    "clueName": "갈색 유리병",
-                    "clueContent": "<p><span class=\"highlight\">신문지를 풀러 확인한 결과</span>, 사용하다 남은 <strong>이름 모를 갈색 유리병</strong>이 나옵니다. 라벨은 훼손되어 '..독성.. 주의..'라는 글자만 보입니다. 뚜껑 주위에는 <strong>정체불명의 끈적한 갈색 가루</strong>가 눌어붙어 있고, 병에서는 어디선가 맡아 본 듯한 냄새가 납니다.</p>",
-                    "isDefault": false,
-                    "priority": 20,
-                    "variantType": "MODIFIED_BY_ACTION",
-                    "conditionDescription": "신문지 개봉 후"
                 }
             ]
         },
@@ -271,7 +261,7 @@
             "variants": [
                 {
                     "variantId": "variant_06_default",
-                    "clueName": "김 사장의 서류 봉투",
+                    "clueName": "서류 봉투",
                     "clueContent": "<p>김 사장이 품속에 소중히 안고 있는 누런 서류 봉투입니다. 겉면에는 굵은 매직으로 '목련다방 건물 매매 계약서(가)'라고 적혀 있습니다. 봉투 입구는 봉인되어 있습니다.</p>",
                     "isDefault": true,
                     "priority": 10
@@ -320,15 +310,15 @@
             "variants": [
                 {
                     "variantId": "variant_08_default",
-                    "clueName": "미스 양의 일기장",
-                    "clueContent": "<p>종업원 숙소, 낡은 사물함 깊숙이 숨겨진 일기장입니다. 겉표지가 낡아 제목조차 보이지 않습니다.</p>",
+                    "clueName": "종업원 숙소",
+                    "clueContent": "<p>종업원들의 낡은 숙소, 한 사람이 간신히 누울 만한 비좁은 방입니다. 곰팡이가 슬어 있는 벽지와 낡은 이불 한 채가 덩그러니 놓여 있지만, 방금까지 누군가 있었던 것처럼 온기가 남아 있습니다. 한 쪽 구석에는 옷가지와 세면도구가 급하게 담긴 <strong>여행 가방</strong>이 놓여 있으며, 어수선한 짐 더미 사이로 낡은 사물함이 굳게 닫혀 있습니다.</p>",
                     "isDefault": true,
                     "priority": 10
                 },
                 {
                     "variantId": "variant_08_hidden",
-                    "clueName": "비밀 일기",
-                    "clueContent": "<p><span class=\"highlight\">일기장을 펼쳐 내용을 읽어본 결과</span>, 충격적인 내용이 적혀 있습니다. <br>\"11월 20일: 내 통장까지 건드린 것 같다. 용서할 수 없다. 더 이상 참을 수 없다. 오늘 밤, 이 질긴 악연을 끝내야겠다.\" 뒷장은 눈물 자국으로 번져 있어 내용을 알아볼 수 없습니다.</p>",
+                    "clueName": "일기장",
+                    "clueContent": "<p><span class=\"highlight\">일기장을 펼쳐 내용을 읽어본 결과</span>, 충격적인 내용이 적혀 있습니다. <br>\"11월 20일: 내 통장까지 건드린 것 같다. 용서할 수 없다. 더 이상 참을 수 없다. 오늘 밤, 이 질긴 악연을 끝내야겠다.\" 뒷장은 눈물 자국으로 번져 있어 내용을 알아볼 수 없습니다. 미스 양은 일기장을 빼앗으려다 털썩 주저앉습니다. \"그... 그냥 홧김에 쓴 거예요! 정말 죽였다는 게 아니라고요! 그저 통장에 손댄 게 너무 억울해서... 따지러 갔는데 이미 죽어 있었다고요! 전 맹세코...!\"</p>",
                     "isDefault": false,
                     "priority": 20,
                     "variantType": "MODIFIED_BY_ACTION",
@@ -357,18 +347,18 @@
             ]
         },
         {
-            "id": "clue_11",
+            "id": "clue_10",
             "clueType": "TESTIMONY",
             "clueSource": "SUSPECT_TESTIMONY",
             "importanceLevel": "HIGH",
-            "apCost": 0,
+            "apCost": 1,
             "isRevealable": true,
             "isExchangeable": false,
             "isAcquirable": true,
-            "clueOrder": 12,
+            "clueOrder": 11,
             "variants": [
                 {
-                    "variantId": "variant_11_default",
+                    "variantId": "variant_10_default",
                     "clueName": "김 사장의 증언",
                     "clueContent": "<p>김 사장은 땀을 닦으며 목소리를 높입니다. \"아니, 난 9시 40분쯤에 옆집 슈퍼에 있었다니까! 차라리 <strong>저 둘을 조사해 봐요!</strong> 배달통에 쥐약이나 넣고 다니는 놈이나, 빚 때문에 쩔쩔매던 계집애나... 둘 다 마담 죽이고 돈 챙기려고 작당한 거 아니오?\"</p>",
                     "isDefault": true,
@@ -377,7 +367,7 @@
             ]
         },
         {
-            "id": "clue_12",
+            "id": "clue_11",
             "clueType": "TESTIMONY",
             "clueSource": "SUSPECT_TESTIMONY",
             "importanceLevel": "MEDIUM",
@@ -385,10 +375,10 @@
             "isRevealable": true,
             "isExchangeable": false,
             "isAcquirable": true,
-            "clueOrder": 13,
+            "clueOrder": 12,
             "variants": [
                 {
-                    "variantId": "variant_12_default",
+                    "variantId": "variant_11_default",
                     "clueName": "미스 양의 증언",
                     "clueContent": "<p>미스 양은 창백한 얼굴로 눈물을 글썽이며 말합니다. \"저... 저는 봤어요. <strong>9시 40분쯤</strong>에, 제가 주방에서 설거지를 하다가 얼핏 봤는데... <strong>어떤 남자</strong>가 급하게 다방을 나가는 걸요! 누군지는 못 봤지만... 김 사장님이나 이 군 같기도 하고...\" 그녀의 시선이 불안하게 흔들립니다.</p>",
                     "isDefault": true,
@@ -397,22 +387,44 @@
             ]
         },
         {
-            "id": "clue_13",
-            "clueType": "TESTIMONY",
-            "clueSource": "SUSPECT_TESTIMONY",
+            "id": "clue_12",
+            "clueType": "PHYSICAL",
+            "clueSource": "OBJECTIVE_FACT",
             "importanceLevel": "HIGH",
-            "apCost": 0,
+            "apCost": 1,
             "isRevealable": true,
             "isExchangeable": false,
-            "isAcquirable": false,
+            "isAcquirable": true,
+            "clueOrder": 13,
+            "variants": [
+                {
+                    "variantId": "variant_12_default",
+                    "clueName": "배달통 속 쥐약",
+                    "clueContent": "<p>다방 구석에 놓인 이 군의 철가방(배달통) 안쪽 구석에서 발견된 <strong>쥐약</strong> 병입니다. 뚜껑이 느슨하게 닫혀 있고 가루가 조금 새어 나와 있습니다. 이 군은 \"자취방에 쥐가 많아서 샀다\"고 주장합니다.</p>",
+                    "isDefault": true,
+                    "priority": 10,
+                    "variantType": null
+                }
+            ]
+        },
+        {
+            "id": "clue_13",
+            "clueType": "TESTIMONY",
+            "clueSource": "Witness",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "isRevealable": true,
+            "isExchangeable": false,
+            "isAcquirable": true,
             "clueOrder": 14,
             "variants": [
                 {
                     "variantId": "variant_13_default",
-                    "clueName": "이 군의 고백 (절도)",
-                    "clueContent": "<p>이 군은 고개를 푹 숙이며 털어놓습니다. \"정말 죽은 줄 몰랐어요... 배달 다녀오니까 마담이 자고 있길래, 그냥 돈만 조금 가져가려고 했던 건데... 카운터 금고 열쇠가 마담 앞치마에 있어서 다가갔을 뿐이고... 진짜 죽이진 않았어요! 맹세해요!\"</p>",
+                    "clueName": "슈퍼 주인의 목격담",
+                    "clueContent": "<p>다방 옆 '서울슈퍼' 주인이 김 사장을 목격했다고 합니다. \"아, 김 사장요? 9시 40분쯤 와서 <strong>락스</strong>를 사 갔어요. 이런 걸 사갈 사람이 아닌데 이상했죠.\"</p>",
                     "isDefault": true,
-                    "priority": 10
+                    "priority": 10,
+                    "variantType": null
                 }
             ]
         },
@@ -429,8 +441,8 @@
             "variants": [
                 {
                     "variantId": "variant_14_default",
-                    "clueName": "배달통 속 쥐약",
-                    "clueContent": "<p>다방 구석에 놓인 이 군의 철가방(배달통) 안쪽 구석에서 발견된 <strong>쥐약</strong> 병입니다. 뚜껑이 느슨하게 닫혀 있고 가루가 조금 새어 나와 있습니다. 이 군은 \"자취방에 쥐가 많아서 샀다\"고 주장합니다.</p>",
+                    "clueName": "사채업자의 독촉장",
+                    "clueContent": "<p>김 사장의 지갑 속에서 발견된 꼬깃꼬깃한 <strong>지불 각서와 독촉장</strong>입니다. \"김 팔봉, 내일까지 목련다방 계약 못 따내면 당신 사무실은 우리 거다.\"라는 살벌한 내용이 적혀 있습니다.</p>",
                     "isDefault": true,
                     "priority": 10,
                     "variantType": null
@@ -439,9 +451,9 @@
         },
         {
             "id": "clue_15",
-            "clueType": "TESTIMONY",
-            "clueSource": "Witness",
-            "importanceLevel": "MEDIUM",
+            "clueType": "PHYSICAL",
+            "clueSource": "OBJECTIVE_FACT",
+            "importanceLevel": "HIGH",
             "apCost": 1,
             "isRevealable": true,
             "isExchangeable": false,
@@ -450,71 +462,8 @@
             "variants": [
                 {
                     "variantId": "variant_15_default",
-                    "clueName": "슈퍼 주인의 목격담",
-                    "clueContent": "<p>다방 옆 '서울슈퍼' 주인의 통화 내용입니다. \"아, 김 사장요? 9시 40분쯤 와서 <strong>화장실 락스</strong>를 사 갔어요. 냄새가 독해서 사람 잡겠다고 농담까지 했는데...\"</p>",
-                    "isDefault": true,
-                    "priority": 10,
-                    "variantType": null
-                }
-            ]
-        },
-        {
-            "id": "clue_17",
-            "clueType": "RELATIONSHIP",
-            "clueSource": "OBJECTIVE_FACT",
-            "importanceLevel": "HIGH",
-            "apCost": 1,
-            "isRevealable": true,
-            "isExchangeable": false,
-            "isAcquirable": true,
-            "clueOrder": 18,
-            "variants": [
-                {
-                    "variantId": "variant_17_default",
-                    "clueName": "사채업자의 독촉장",
-                    "clueContent": "<p>김 사장의 지갑 속에서 발견된 꼬깃꼬깃한 <strong>지불 각서와 독촉장</strong>입니다. \"김 사장, 내일까지 목련다방 계약 못 따내면 당신 사무실은 우리 거다.\"라는 살벌한 내용이 적혀 있습니다.</p>",
-                    "isDefault": true,
-                    "priority": 10,
-                    "variantType": null
-                }
-            ]
-        },
-        {
-            "id": "clue_18",
-            "clueType": "PHYSICAL",
-            "clueSource": "OBJECTIVE_FACT",
-            "importanceLevel": "HIGH",
-            "apCost": 1,
-            "isRevealable": true,
-            "isExchangeable": false,
-            "isAcquirable": true,
-            "clueOrder": 19,
-            "variants": [
-                {
-                    "variantId": "variant_18_default",
-                    "clueName": "강력 화장실 락스",
-                    "clueContent": "<p>김 사장의 양복 안주머니에서 발견된 <strong>독한 냄새가 나는 락스</strong> 한 병입니다. 김 사장은 \"화장실 청소나 시키려고 샀다\"고 주장합니다.</p>",
-                    "isDefault": true,
-                    "priority": 10,
-                    "variantType": null
-                }
-            ]
-        },
-        {
-            "id": "clue_16",
-            "clueType": "PHYSICAL",
-            "clueSource": "OBJECTIVE_FACT",
-            "importanceLevel": "HIGH",
-            "apCost": 1,
-            "isRevealable": true,
-            "isExchangeable": false,
-            "isAcquirable": true,
-            "clueOrder": 17,
-            "variants": [
-                {
-                    "variantId": "variant_16_default",
-                    "clueName": "회수된 빈 그릇과 영수증",
-                    "clueContent": "<p>철가방 안에는 배달을 마친 <strong>빈 그릇</strong>들이 담겨 있습니다. 바닥에 떨어진 간이 영수증에는 <strong>'21:50 역전 당구장'</strong>이라는 배달 시간과 서명이 적혀 있군요. 역전 당구장은 이곳에서 오토바이로 <strong>왕복 30분</strong> 거리입니다.</p>",
+                    "clueName": "락스",
+                    "clueContent": "<p>김 사장의 양복 안주머니에서 발견된 <strong>독한 냄새가 나는 락스</strong> 한 병입니다. 김 사장은 \"화장실 청소나 시키려고 샀다\"고 주장합니다. 하지만 계속된 추궁에 결국 실토합니다. \"아, 알았소! 사실, 그 여우 같은 여자가 계약을 안 해주니까... 겁 좀 주려고 찻잔에 조금 타려고 했소! 그냥 배탈이나 좀 나게 하려고 했던 거지, 죽일 생각은 없었다고! 막상 가보니 엎드려 자고 있길래 무서워서 그냥 나왔단 말이오!\"</p>",
                     "isDefault": true,
                     "priority": 10,
                     "variantType": null
@@ -527,7 +476,7 @@
             "stepOrder": 1,
             "stepName": "현장 임검 및 신원 파악",
             "stepType": "INTRODUCTION",
-            "description": "<p>1982년, 동대문의 겨울밤은 깊어만 갑니다. 낡은 목련다방의 문을 열고 들어가자 자욱한 담배 연기와 연탄 가스 냄새가 섞인 매캐한 공기가 코를 찌릅니다. 그리고 1번 테이블 위에는, 붉은 립스틱 자국이 묻은 찻잔 옆에 <strong>최 마담이 싸늘한 주검</strong>이 되어 엎드려 있습니다.</p><p>수년 만에 다방을 찾았다가 밖에서 머뭇거리던 형사 <strong>박 반장</strong>은, <strong>21시 35분부터 외부인의 출입이 전혀 없었음</strong>을 확신합니다. 범인은 이 안에 갇혀 있습니다. 서로를 의심하는 세 명의 용의자들 사이에서 진실을 찾아내십시오.</p><ul><li><strong>이 군(배달원)</strong>: <strong>마르고 껑충한 체구</strong>에 유행 지난 붉은 잠바를 걸쳤습니다. <strong>눈을 가리는 덥수룩한 더벅머리</strong> 사이로 불안한 눈빛을 보내며, 짝퉁 청바지를 입은 다리를 계속 떨고 있습니다.</li><li><strong>김 사장(집주인)</strong>: <strong>두꺼비처럼 비대한 체형</strong>으로 배가 남산만 하게 나왔습니다. 기름진 <strong>올백 포마드 머리</strong>와 붉게 달아오른 얼굴, 그리고 값비싼 회색 양복에 금반지를 낀 손이 탐욕스러워 보입니다.</li><li><strong>미스 양(종업원)</strong>: <strong>작고 왜소하며 가냘픈 체구</strong>입니다. 검은 머리를 질끈 묶은 <strong>포니테일 스타일</strong>이며, 낡고 보풀이 인 분홍색 가디건을 입고 창백한 얼굴로 구석에서 떨고 있습니다.</li></ul>",
+            "description": "<p>1982년, 동대문의 겨울밤은 깊어만 갑니다. 낡은 목련다방의 문을 열고 들어가자 자욱한 담배 연기와 연탄 가스 냄새가 섞인 매캐한 공기가 코를 찌릅니다. 그리고 1번 테이블 위에는, 붉은 립스틱 자국이 묻은 찻잔 옆에 <strong>최 마담이 싸늘한 주검</strong>이 되어 엎드려 있습니다.</p><p>수년 만에 다방을 찾았다가 밖에서 머뭇거리던 형사 <strong>박 반장</strong>은, <strong>21시 35분부터 외부인의 출입이 전혀 없었음</strong>을 확신합니다. 범인은 이 안에 갇혀 있습니다. 서로를 의심하는 세 명의 용의자들 사이에서 진실을 찾아내십시오.</p><ul><li><strong>이 군(배달원)</strong>: <strong>마르고 껑충한 체구</strong>에 유행 지난 붉은 잠바를 걸쳤습니다. <strong>눈을 가리는 덥수룩한 더벅머리</strong> 사이로 불안한 눈빛을 보내며, 짝퉁 청바지를 입은 다리를 계속 떨고 있습니다.</li><li><strong>김 사장(집주인)</strong>: <strong>두꺼비처럼 비대한 체형</strong>으로 배가 남산만 하게 나왔습니다. 기름진 <strong>올백 포마드 머리</strong>와 붉게 달아오른 얼굴, 그리고 값비싼 회색 양복에 금반지를 낀 손이 탐욕스러워 보입니다.</li><li><strong>미스 양(종업원)</strong>: <strong>작고 왜소하며 가냘픈 체구</strong>입니다. 검은 머리를 질끈 묶은 <strong>포니테일 스타일</strong>이며, 낡고 보풀이 인 분홍색 가디건을 입고 창백한 얼굴로 구석에서 떨고 있습니다.</li></ul><br><p>💡 <strong>플레이 팁</strong>: 시작 단계에서는 아직 단서가 공개되지 않습니다. 단계 설명과 용의자들의 역할 정보를 모두 읽으셨다면, 우측 하단의 <strong>'다음 단계로'</strong> 버튼을 눌러 본격적인 수사를 시작해 주세요!</p>",
             "outro": "<p>기초 조사는 끝났습니다. 용의자들의 신원과 기본적인 상황은 파악되었습니다. 외부인은 없습니다. 범인은 이 안에 있습니다. 이제 박 반장은 낡은 가죽 장갑을 끼고 본격적으로 현장을 뒤질 준비를 합니다.</p>",
             "estimatedDuration": 5,
             "isAutoProceed": false,
@@ -540,7 +489,7 @@
             "stepOrder": 2,
             "stepName": "다방 현장 수색",
             "stepType": "INVESTIGATION",
-            "description": "<p>이제부터 본격적인 수사가 시작됩니다. 당신은 다방 곳곳을 조사하여 범인이 흘리고 간 <strong>실수</strong>를 찾아내야 합니다. 카운터의 장부, 주방 위생 상태, 그리고 뒷마당의 연탄재까지... 당신의 형사 수첩을 채울 결정적 증거는 어디에 있을까요? 모든 것을 조사하기엔 시간이 부족합니다. 직감을 믿고 <strong>가장 의심스러운 곳</strong>을 정밀 조사하십시오.</p>",
+            "description": "<p>이제부터 본격적인 수사가 시작됩니다. 당신은 다방 곳곳을 조사하여 범인이 흘리고 간 <strong>실수</strong>를 찾아내야 합니다. 카운터의 장부, 주방 위생 상태, 그리고 뒷마당의 연탄재까지... 당신의 형사 수첩을 채울 결정적 증거는 어디에 있을까요? 모든 것을 조사하기엔 시간이 부족합니다. 직감을 믿고 <strong>가장 의심스러운 곳</strong>을 정밀 조사하십시오.</p><br><p>💡 <strong>플레이 팁</strong>: 행동력(AP)은 한정되어 있습니다. 단서 목록에서 의심스러운 항목을 선택해 조사하고, 특히 중요한 단서는 <strong>'정밀 조사'</strong> 액션을 통해 숨겨진 정보를 더 찾아낼 수 있습니다.</p>",
             "outro": "<p>수색이 종료되었습니다. 확보한 증거물들이 테이블 위에 놓였습니다. 육안으로는 보이지 않던 미세한 구멍이 난 노른자, 유황 냄새가 나는 주사기, 훔친 돈다발과 조작된 계약서들... 이제 이 조각들을 맞춰 용의자들의 거짓말을 깨부술 차례입니다.</p>",
             "estimatedDuration": 15,
             "isAutoProceed": false,
@@ -553,7 +502,7 @@
             "stepOrder": 3,
             "stepName": "증언 대조 및 심문",
             "stepType": "DEDUCTION",
-            "description": "<p>이제 확보된 증거들을 바탕으로 용의자들의 알리바이와 진술의 모순을 찾아낼 시간입니다. 이 군의 도박 빚과 훔친 돈, 김 사장의 위조 계약서와 협박, 그리고 미스 양의 일기장에 적힌 살의. 이들 중 진짜 살인범은 누구입니까? 서로 엇갈리는 그들의 증언 속에서 진짜 범인의 꼬리를 잡으십시오.</p>",
+            "description": "<p>이제 확보된 증거들을 바탕으로 용의자들의 알리바이와 진술의 모순을 찾아낼 시간입니다. 각자가 숨기고 있는 비밀, 그리고 어딘가 앞뒤가 맞지 않는 알리바이... 이들 중 진짜 살인범은 누구입니까? 서로 엇갈리는 그들의 증언 속에서 진짜 범인의 꼬리를 잡으십시오.</p><br><p>💡 <strong>플레이 팁</strong>: 지금까지 모은 단서들을 다시 한번 꼼꼼히 읽어보세요. 용의자들의 증언과 확보한 물증 사이에 모순되는 점이 없는지 찾아내는 것이 중요합니다.</p>",
             "outro": "<p>모든 심문이 끝났습니다. 용의자들의 표정에서 진실과 거짓을 읽어내셨습니까? 이제 당신의 수첩을 덮고, 최후의 결론을 내릴 시간입니다.</p>",
             "estimatedDuration": 5,
             "isAutoProceed": false,
@@ -566,7 +515,7 @@
             "stepOrder": 4,
             "stepName": "범인 지목",
             "stepType": "CONCLUSION",
-            "description": "<p>모든 추리가 끝났습니다. 이제 당신은 확신을 가지고 진범을 지목해야 합니다. 틀릴 경우 진실은 영원히 묻힐 수도 있습니다. 신중하게 선택하십시오.</p>",
+            "description": "<p>모든 추리가 끝났습니다. 이제 당신은 확신을 가지고 진범을 지목해야 합니다. 틀릴 경우 진실은 영원히 묻힐 수도 있습니다. 신중하게 선택하십시오.</p><br><p>💡 <strong>플레이 팁</strong>: 모든 증거와 정황이 한 사람을 가리키고 있나요? 범인과 범행 수단을 신중하게 선택해 주세요. 선택은 되돌릴 수 없으니 마지막으로 단서들을 복기해 보시기 바랍니다.</p>",
             "outro": "<p>박 반장은 깊은 한숨을 내쉬며 범인을 지목하기 위해 입을 뗍니다. \"범인은... 바로 당신이야.\"</p>",
             "estimatedDuration": 3,
             "isAutoProceed": false,
@@ -629,7 +578,7 @@
             "stepOrder": 5,
             "stepName": "목련다방의 황혼",
             "stepType": "ENDING",
-            "description": "<p>사건의 마침표를 찍을 시간입니다. 지목된 범인의 최후와 최 마담이 남긴 마지막 이야기를 들어보십시오.</p>",
+            "description": "<p>사건의 마침표를 찍을 시간입니다. 지목된 범인의 최후와 최 마담이 남긴 마지막 이야기를 들어보십시오.</p><br><p>💡 <strong>플레이 팁</strong>: 수고하셨습니다! 당신의 추리가 맞았는지, 그리고 사건 뒤에 숨겨진 진실은 무엇이었는지 확인하며 이야기를 마무리해 보세요.</p>",
             "outro": "<p>사건은 일단락되었지만, 목련다방에 남겨진 슬픈 여운은 박 반장의 가슴속에 오래도록 머물렀습니다.</p>",
             "estimatedDuration": 2,
             "isAutoProceed": true,
