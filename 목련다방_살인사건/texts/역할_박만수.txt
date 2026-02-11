@@ -17,7 +17,13 @@
 [2. 역할 시트]
 <div class="story-content">
   <details>
-    <summary>캐릭터 배경</summary>
+    <summary>
+      캐릭터 배경
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
     <div class="collapsible-content">
       <p>당신은 동대문 경찰서 강력계에서 잔뼈가 굵은 형사입니다. 수많은 범죄자를 잡아들이며 이름을 알렸지만, 마음 어딘가에는 늘 지워지지 않는 허전함과 피로가 남아 있습니다.</p>
       <p>사망한 최 마담(최순옥)은 신참 시절, 연고도 없는 서울에서 길을 잃고 방황하던 당신에게 따뜻한 밥 한 끼를 내어주던 고향 누나 같은 존재였습니다. 더 나아가 보증 사기로 곤경에 빠졌던 당신을 위해 전세금까지 빼서 도와준 사람—그 은혜를 평생 잊기 어려웠습니다.</p>
@@ -49,7 +55,13 @@
   </details>
 
   <details>
-    <summary>목표 (Goals)</summary>
+    <summary>
+      목표
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
     <div class="collapsible-content">
       <p>당신은 오늘 밤, 이 다방 안에 있는 세 명 중 하나가 그녀를 죽였다는 사실을 확신합니다. 외부의 침입 흔적은 없습니다.</p>
       <p>당신의 목표는 명확합니다. <strong>논리적인 증거를 찾아 범인을 법의 심판대에 세우는 것</strong>, 그리고 그녀에게 진 마음의 빚을 갚는 것입니다.</p>
