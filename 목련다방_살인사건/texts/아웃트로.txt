@@ -27,4 +27,22 @@
   <p>박 반장은 주머니에서 구겨진 담배를 꺼내 물었습니다.</p>
   <p>"눈이... 그치질 않는군."</p>
   <p>하얗게 덮여가는 세상 위로, 진실과 거짓, 죄와 벌, 그리고 남겨진 사람들의 이야기가 조용히 묻힙니다.</p>
+
+  <hr style="border-color: #444; margin: 32px 0;">
+
+  <div class="next-step-guide">
+    <h3>🎉 수사 종료! 이제 무엇을 해야 할까요?</h3>
+    <p>축하합니다! 당신은 성공적으로 첫 번째 사건을 해결했습니다. 이제 <strong>[게임하기]</strong> 메뉴로 이동하여 더 거대하고 복잡한 미스터리에 도전해 보세요.</p>
+    
+    <div class="mode-comparison" style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 8px; margin-top: 20px;">
+      <h4>🔍 1인용 vs 다인용 게임의 차이점</h4>
+      <p>이번 사건은 튜토리얼을 위한 1인용 모드였습니다. 본편인 <strong>다인용 게임</strong>에서는 다음과 같은 재미가 추가됩니다:</p>
+      <ul style="list-style-type: disc; margin-left: 20px; margin-top: 10px;">
+        <li><strong>실시간 심리전</strong>: 다른 플레이어들과 실시간으로 대화하며, 서로를 속이고 진실을 파헤치는 치열한 심리전을 펼칩니다.</li>
+        <li><strong>역할 연기</strong>: 각자에게 부여된 배역을 연기하며, 자신만의 비밀 목표를 달성해야 합니다.</li>
+        <li><strong>투표 시스템</strong>: 증거와 정황을 바탕으로 다수결 투표를 통해 범인을 지목합니다. 당신의 설득력이 승패를 좌우합니다.</li>
+        <li><strong>제한 시간</strong>: 긴박한 제한 시간 안에 단서를 찾고 추리해야 하는 스릴을 느낄 수 있습니다.</li>
+      </ul>
+    </div>
+  </div>
 </div>
