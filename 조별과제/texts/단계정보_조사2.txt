@@ -11,30 +11,41 @@
     각 플레이어 시트에 있는 전용 대본에서 <span class="highlight">조사 2단계 시작</span>을 확인하고 연기하듯 낭독해 주시기 바랍니다. 모든 낭독이 끝나면 조사를 재개합니다.
   </p>
 
-  <div class="section-title">3. 학생증 교환 (필수)</div>
-  <div class="important-notice">
-    <p>
-      <b>⚠️ 중요: 이 단계에서는 모든 플레이어가 반드시 학생증을 교환해야 합니다.</b><br/>
-      특정 강의실 출입, 학사 시스템 접속 등을 위해서는 해당 학과의 학생증 권한이 필수적입니다. 학생증 없이는 핵심 증거를 조사할 수 없습니다.
-    </p>
-  </div>
-  
-  <div class="system-guide">
-    <p class="guide-title">⚙️ 시스템 이용 방법</p>
-    <ol>
-      <li>MY > 내 단서에서 자신의 <b>학생증 단서</b>를 선택합니다.</li>
-      <li>하단의 <span class="highlight-blue">[교환 제안]</span> 버튼을 클릭합니다.</li>
-      <li>받을 사람을 선택하고, 방식에서 반드시 <span class="highlight-blue">[건네주기]</span>를 선택하여 제안을 보냅니다.</li>
-      <li><b>중요:</b> 이 과정은 내 학생증을 '주는' 행위입니다. 서로 교환하려면 <b>상대방도 동일한 방법으로 나에게 제안</b>을 보내야 합니다. (양방향 제안 및 수락 필요)</li>
-    </ol>
-  </div>
+  <details style="margin-top: 20px;">
+    <summary>
+      2단계 추가 지침 (대본 리딩 완료 후 확인)
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <div class="section-title">학생증 교환 (필수)</div>
+      <div class="important-notice">
+        <p>
+          <b>⚠️ 중요: 이 단계에서는 모든 플레이어가 반드시 학생증을 교환해야 합니다.</b><br/>
+          특정 강의실 출입, 학사 시스템 접속 등을 위해서는 해당 학과의 학생증 권한이 필수적입니다. 학생증 없이는 핵심 증거를 조사할 수 없습니다.
+        </p>
+      </div>
+      
+      <div class="system-guide">
+        <p class="guide-title">시스템 이용 방법</p>
+        <ol>
+          <li>내 단서에서 자신의 <b>학생증 단서</b>를 선택합니다.</li>
+          <li>하단의 <span class="highlight-blue">[교환 제안]</span> 버튼을 클릭합니다.</li>
+          <li>받을 사람을 선택하고, 방식에서 반드시 <span class="highlight-blue">[건네주기]</span>를 선택하여 제안을 보냅니다.</li>
+          <li><b>중요:</b> 이 과정은 내 학생증을 '주는' 행위입니다. 서로 교환하려면 <b>상대방도 동일한 방법으로 나에게 제안</b>을 보내야 합니다. (양방향 제안 및 수락 필요)</li>
+        </ol>
+      </div>
 
-  <ul>
-    <li><span class="highlight">교환 규칙</span>: 플레이어들은 합의하에 서로의 학생증 단서를 교환하여 새로운 접근 권한을 획득합니다.</li>
-    <li><span class="highlight">제한 조건</span>: <span class="emphasis">같은 학과 학생끼리는 학생증을 교환할 수 없습니다.</span> 서로 다른 학과의 권한을 확보하여 단서에 접근하십시오. (예: 컴공과 ↔ 수학과)</li>
-  </ul>
+      <ul style="margin-bottom: 0;">
+        <li><span class="highlight">교환 규칙</span>: 플레이어들은 합의하에 서로의 학생증 단서를 교환하여 새로운 접근 권한을 획득합니다.</li>
+        <li><span class="highlight">제한 조건</span>: <span class="emphasis">같은 학과 학생끼리는 학생증을 교환할 수 없습니다.</span> 서로 다른 학과의 권한을 확보하여 단서에 접근하십시오. (예: 컴공과 ↔ 수학과)</li>
+      </ul>
+    </div>
+  </details>
 
-  <div class="section-title">4. 심화 조사 규칙</div>
+  <div class="section-title">3. 심화 조사 규칙</div>
   <ul>
     <li><span class="highlight">단서 확장</span>: 조사 1단계에서 공개되지 않았던 새로운 단서를 발견할 수 있습니다. 적극적으로 탐색하십시오.</li>
     <li><span class="highlight">독립 조사 원칙</span>: 1단계와 마찬가지로 <b>플레이어 간의 밀담이나 토론, 논의는 불가능합니다.</b> 모든 대화와 회의는 조사가 끝난 후 '추리 단계'에서 진행할 수 있으니, 지금은 각자의 조사에 집중해 주십시오.</li>

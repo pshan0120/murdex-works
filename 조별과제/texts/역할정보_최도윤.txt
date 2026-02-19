@@ -213,7 +213,7 @@
 
   <details>
     <summary class="summary-header">
-      이준서에 대해
+      <span class="character-lee">이준서에 대해</span>
       <span class="toggle-wrapper">
         <span class="toggle-text"></span>
         <span class="toggle-icon">▼</span>
@@ -231,7 +231,7 @@
 
   <details>
     <summary class="summary-header">
-      한세린에 대해
+      <span class="character-han">한세린에 대해</span>
       <span class="toggle-wrapper">
         <span class="toggle-text"></span>
         <span class="toggle-icon">▼</span>
@@ -249,7 +249,7 @@
 
   <details>
     <summary class="summary-header">
-      황기순에 대해
+      <span class="character-hwang">황기순에 대해</span>
       <span class="toggle-wrapper">
         <span class="toggle-text"></span>
         <span class="toggle-icon">▼</span>
@@ -266,6 +266,14 @@
   </details>
 
   <div class="section-title">전용 대본 <span class="stage-restriction-title">※ 지시할 때까지 열람하지 마세요</span></div>
+
+  <div class="script-guide" style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px; margin: 15px 0; border: 1px dashed rgba(255, 255, 255, 0.2);">
+    <h4 style="margin-top: 0; color: #ffcc00; margin-bottom: 8px;">📜 대본 읽기 가이드</h4>
+    <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #eee;">
+      1. 대본 리딩은 <strong>조장 이준서</strong>부터 시작해 주세요.<br>
+      2. 대사 속의 <strong>긴 공백</strong>은 다른 플레이어의 대사가 있는 구역입니다. 드라마틱한 전개를 위해 자신의 역할지에서는 보이지 않도록 숨겨둔 것이니, 상대방의 대사를 경청하며 자연스럽게 이어가 주세요.
+    </p>
+  </div>
 
   <details>
     <summary class="summary-header">
