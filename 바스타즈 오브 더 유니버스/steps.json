@@ -1,0 +1,147 @@
+{
+    "steps": [
+        {
+            "stepOrder": 1,
+            "stepName": "승리의 그림자",
+            "stepType": "INTRODUCTION",
+            "description": "<div class='step-desc'><p>정복 전쟁의 마지막 전장이었던 <span class='emphasis'>그레이스컬 성</span>. 이제 이 성은 빌런 연합 '배스터즈'의 것입니다.</p><p>골든 킹의 왕좌를 빼앗은 <span class='highlight'>로드 스컬크러셔</span>는 승리를 자축하는 만찬을 선포했고, 일곱 명의 악당들이 대연회장에 모였습니다.</p><p>하지만 축배의 분위기 아래, 냉혹한 긴장이 흐릅니다. 설계자 <span class='mystery'>엘드리치 위자드</span>는 모두의 약점을 쥐고 있으며, 그의 침묵만이 각자의 치부를 지켜주고 있었습니다.</p><p>위자드가 잔을 들며 말합니다. <span class='quote-box'>\"이 성은 모든 것을 기억합니다. 여러분의 영광도, 여러분의 <em>치부</em>도.\"</span></p><p>만찬이 시작됩니다. 당신의 비밀 임무를 확인하십시오.</p></div>",
+            "outro": null,
+            "estimatedDuration": 10,
+            "isAutoProceed": false,
+            "roleApLimits": {},
+            "questions": []
+        },
+        {
+            "stepOrder": 2,
+            "stepName": "조사 1단계: 정복자의 전리품",
+            "stepType": "INVESTIGATION",
+            "description": "<div class='step-desc'><p>만찬이 한창입니다. 배스터즈의 구성원들은 자연스럽게 성채 곳곳을 돌아다니며 <span class='emphasis'>자신의 비밀을 감추거나</span>, 다른 이의 약점을 찾습니다.</p><p>위자드는 연구실과 만찬장을 오가며 의미심장한 미소를 짓고 있습니다. 그의 눈빛은 마치 모든 것을 알고 있다는 듯합니다.</p><p>만찬이 끝나기 전에, 당신이 숨겨야 할 것은 숨기고, 찾아야 할 것은 찾으십시오. <span class='mystery'>시간은 당신의 편이 아닙니다.</span></p></div>",
+            "outro": null,
+            "estimatedDuration": 25,
+            "isAutoProceed": false,
+            "roleApLimits": {
+                "role_01": 6,
+                "role_02": 6,
+                "role_03": 6,
+                "role_04": 6,
+                "role_05": 6,
+                "role_06": 6,
+                "role_07": 6
+            },
+            "questions": []
+        },
+        {
+            "stepOrder": 3,
+            "stepName": "추리 1단계: 죽음의 만찬",
+            "stepType": "DEDUCTION",
+            "description": "<div class='step-desc'><p><span class='highlight'>엘드리치 위자드</span>가 죽었습니다.</p><p>잠긴 연구실 안, 의자에 앉은 채 가슴에 단검이 꽂혀 있는 위자드의 시신을 <span class='emphasis'>슬리더</span>가 발견했습니다. 문은 안에서 잠겨 있었으며, 창문도 없습니다.</p><p>성채의 보안 마법이 작동하여 <span class='mystery'>모든 출입구가 봉쇄</span>되었습니다. 범인을 찾을 때까지 아무도 이곳을 떠날 수 없습니다.</p><p>수집한 단서를 바탕으로 서로의 알리바이를 확인하고, 의심스러운 점을 추궁하십시오.</p></div>",
+            "outro": null,
+            "estimatedDuration": 15,
+            "isAutoProceed": false,
+            "roleApLimits": {},
+            "questions": []
+        },
+        {
+            "stepOrder": 4,
+            "stepName": "조사 2단계: 유령의 성채",
+            "stepType": "INVESTIGATION",
+            "description": "<div class='step-desc'><p>위자드의 죽음 이후, 성채의 마법 봉인 일부가 <span class='emphasis'>풀려버렸습니다</span>. 이전에는 접근할 수 없었던 장소와 물건들이 드러납니다.</p><p>위자드가 쥐고 있던 <span class='highlight'>비밀 기록 보관함</span>의 봉인도 해제되었습니다. 그 안에 배스터즈 각자에 대한 기록이 들어 있을지도 모릅니다.</p><p>이번에는 <span class='mystery'>범인을 특정할 결정적 증거</span>를 찾아야 합니다. 동시에, 자신의 비밀이 다른 이에게 발각되지 않도록 주의하십시오.</p></div>",
+            "outro": null,
+            "estimatedDuration": 25,
+            "isAutoProceed": false,
+            "roleApLimits": {
+                "role_01": 6,
+                "role_02": 6,
+                "role_03": 6,
+                "role_04": 6,
+                "role_05": 6,
+                "role_06": 6,
+                "role_07": 6
+            },
+            "questions": []
+        },
+        {
+            "stepOrder": 5,
+            "stepName": "추리 2단계: 최후의 공방",
+            "stepType": "DEDUCTION",
+            "description": "<div class='step-desc'><p>모든 증거가 테이블 위에 놓였습니다.</p><p>위자드를 죽인 <span class='emphasis'>흉기</span>, 범행의 <span class='highlight'>방법</span>, 그리고 각자가 숨기고 있는 <span class='mystery'>치명적인 비밀들</span>.</p><p>이제 마지막 추리의 시간입니다. 수집한 모든 단서를 종합하여 범인을 특정하십시오.</p></div>",
+            "outro": null,
+            "estimatedDuration": 15,
+            "isAutoProceed": false,
+            "roleApLimits": {},
+            "questions": []
+        },
+        {
+            "stepOrder": 6,
+            "stepName": "피의 투표",
+            "stepType": "CONCLUSION",
+            "description": "<div class='step-desc'><p>성채의 벽이 <span class='emphasis'>검붉게 빛나며</span> 진동합니다. 봉쇄 마법이 임계점을 넘어섰습니다.</p><p>더 이상의 시간은 없습니다. <span class='highlight'>지금 이 자리에서 범인을 지목</span>하지 않으면, 성채의 마법이 폭주하여 모두가 파멸합니다.</p><p>아래의 질문을 확인하기 <span class='emphasis'>전에</span>, 반드시 구성원 전원이 <span class='highlight'>범인 투표를 먼저 진행</span>해 주십시오. 투표는 마음의 결정을 한 뒤, 구성원 전원이 동시에 <span class='highlight'>범인이라 생각하는 상대를 가리키는</span> 방식으로 진행합니다. 범인으로 확신하는 인물이 없다면 <span class='mystery'>하늘을 가리켜 기권</span>하십시오.</p><p>투표가 끝났다면, 아래 질문에서 투표 결과를 입력하십시오.</p></div>",
+            "outro": null,
+            "estimatedDuration": 10,
+            "isAutoProceed": false,
+            "roleApLimits": {},
+            "questions": [
+                {
+                    "id": "q_step6_01",
+                    "title": "<div class='question-title'><p><span class='emphasis'>범인 투표 결과</span>를 입력해 주세요. (죽은 위자드는 투표 불가)</p></div>",
+                    "isMultipleChoice": false,
+                    "questionOrder": 1,
+                    "roleId": null,
+                    "options": [
+                        {
+                            "id": "opt_q6_01_a",
+                            "optionText": "<div class='option'><p>로드 스컬크러셔 최다 득표</p></div>",
+                            "optionOrder": 1
+                        },
+                        {
+                            "id": "opt_q6_01_b",
+                            "optionText": "<div class='option'><p>레이디 말리스 최다 득표</p></div>",
+                            "optionOrder": 2
+                        },
+                        {
+                            "id": "opt_q6_01_c",
+                            "optionText": "<div class='option'><p>암살자 슬리더 최다 득표</p></div>",
+                            "optionOrder": 3
+                        },
+                        {
+                            "id": "opt_q6_01_d",
+                            "optionText": "<div class='option'><p>돌격대장 고어-후프 최다 득표</p></div>",
+                            "optionOrder": 4
+                        },
+                        {
+                            "id": "opt_q6_01_e",
+                            "optionText": "<div class='option'><p>파괴의 화신 발로그 최다 득표</p></div>",
+                            "optionOrder": 5
+                        },
+                        {
+                            "id": "opt_q6_01_f",
+                            "optionText": "<div class='option'><p>강철의 워로드 발트라 최다 득표</p></div>",
+                            "optionOrder": 6
+                        },
+                        {
+                            "id": "opt_q6_01_g",
+                            "optionText": "<div class='option'><p>단독 최다 득표 없음</p></div>",
+                            "optionOrder": 7
+                        },
+                        {
+                            "id": "opt_q6_01_h",
+                            "optionText": "<div class='option'><p>전원 범인 지목 포기</p></div>",
+                            "optionOrder": 8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "stepOrder": 7,
+            "stepName": "우주의 운명",
+            "stepType": "ENDING",
+            "description": "<div class='step-desc'><p>투표가 완료되었습니다.</p><p>성채의 마법 문양이 <span class='emphasis'>찬란하게 빛나며</span> 판결의 결과를 기다립니다.</p><p>배스터즈의 운명이 결정됩니다.</p></div>",
+            "outro": "<div class='step-outro'><p>그레이스컬 성의 마법이 <span class='emphasis'>서서히 잦아듭니다</span>. 봉쇄가 풀리고, 바깥의 차가운 바람이 성채 안으로 밀려들어옵니다.</p><p>이 밤의 진실이 무엇이었든, 배스터즈의 이야기는 여기서 끝나지 않습니다.</p><p><span class='mystery'>우주의 왕좌는 아직 비어 있습니다.</span></p></div>",
+            "estimatedDuration": 10,
+            "isAutoProceed": true,
+            "roleApLimits": {},
+            "questions": []
+        }
+    ]
+}

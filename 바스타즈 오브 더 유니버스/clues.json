@@ -1,0 +1,607 @@
+{
+    "clues": [
+        {
+            "clueId": "clue_01",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 1,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "푸른 얼룩의 비단 수건",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 스컬크러셔의 자리 옆 바닥에 떨어져 있는 고급 비단 수건입니다. 귀족 문장이 수놓아져 있으며, 한쪽 귀퉁이에 <span class='emphasis'>짙은 푸른색 액체</span>가 스며들어 딱딱하게 굳어 있습니다. 예리한 칼날을 닦아낸 듯한 선명한 직선 자국이 남아 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                },
+                {
+                    "clueName": "찢어진 비단 조각",
+                    "clueContent": "<div class='clue-detail'><p>누군가 비단 수건의 <span class='emphasis'>푸른 얼룩 부분을 급히 찢어낸</span> 흔적이 있습니다. 남은 조각에서 희미한 약제 냄새가 나지만, 핵심 증거 부분은 이미 사라졌습니다. 주변 바닥에 비단 올이 몇 가닥 흩어져 있습니다.</p></div>",
+                    "variantType": "MODIFIED_BY_ACTION",
+                    "isDefault": false,
+                    "priority": 200
+                }
+            ]
+        },
+        {
+            "clueId": "clue_02",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 2,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "골든 킹의 부러진 장검",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 벽에 전리품으로 걸려 있는 <span class='highlight'>골든 킹의 장검</span>입니다. 칼날 중간이 깨끗하게 부러져 있으며, 부러진 단면 근처에 <span class='emphasis'>칼날로는 생길 수 없는 미세한 구멍</span>이 하나 뚫려 있습니다. 구멍 주변이 검게 변색되어 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_03",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 3,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드 책상 위 작은 은팔찌",
+                    "clueContent": "<div class='clue-detail'><p>위자드의 집무실 책상 서랍 안에서 발견된 <span class='mystery'>아이 손목 크기의 작은 은팔찌</span>입니다. 안쪽에 알아볼 수 없는 이름이 새겨져 있으며, 한쪽이 열에 의해 녹아 변형되어 있습니다. 팔찌 옆에 <span class='highlight'>보라색 머리카락 한 올</span>이 놓여 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                },
+                {
+                    "clueName": "비어 있는 서랍",
+                    "clueContent": "<div class='clue-detail'><p>위자드 책상의 서랍이 <span class='emphasis'>열린 채 텅 비어</span> 있습니다. 서랍 안쪽 벨벳 깔개에 <span class='highlight'>작고 둥근 물체가 오래 놓여 있던 자국</span>만 남아 있으며, 서랍 손잡이에 미세한 보라색 마력 잔여물이 묻어 있습니다.</p></div>",
+                    "variantType": "MODIFIED_BY_ACTION",
+                    "isDefault": false,
+                    "priority": 200
+                }
+            ]
+        },
+        {
+            "clueId": "clue_04",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 4,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연구실에 감도는 향기",
+                    "clueContent": "<div class='clue-detail'><p>위자드의 연구실 공기 중에 <span class='emphasis'>달콤하면서도 날카로운 향</span>이 감돌고 있습니다. 마력이 담긴 약초나 연금술 재료의 냄새와는 다르며, <span class='highlight'>누군가 사용하는 향수</span>의 향과 유사합니다. 향이 특히 위자드의 약병 근처에서 강하게 납니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_05",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 5,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "지하 보관소의 빈 선반",
+                    "clueContent": "<div class='clue-detail'><p>성채 지하 보관소 가장 깊은 곳에 <span class='mystery'>마법 봉인이 풀린 빈 선반</span>이 있습니다. 선반 위의 먼지가 무언가를 들어 올린 듯 원형으로 깨끗하며, <span class='highlight'>날카로운 발톱이 긁은 자국</span>이 선반 모서리에 나 있습니다. 주변 바닥 돌에 <span class='emphasis'>비정상적인 열기</span>가 잔류합니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                },
+                {
+                    "clueName": "정돈된 선반",
+                    "clueContent": "<div class='clue-detail'><p>지하 보관소 깊숙한 곳의 선반입니다. 표면이 <span class='emphasis'>최근 닦은 듯 깨끗</span>하며, 원래 있었을 먼지 자국이나 긁힌 흔적이 모두 지워져 있습니다. 다만 주변 바닥 돌의 <span class='highlight'>미세한 열기</span>는 여전히 남아 있습니다.</p></div>",
+                    "variantType": "MODIFIED_BY_ACTION",
+                    "isDefault": false,
+                    "priority": 200
+                }
+            ]
+        },
+        {
+            "clueId": "clue_06",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "clueOrder": 6,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "환기구 내부의 비늘 자국",
+                    "clueContent": "<div class='clue-detail'><p>위자드 연구실 천장의 환기구 입구에 <span class='emphasis'>녹색 비늘 조각</span> 여러 개가 긁혀 붙어 있습니다. 안쪽에 비늘이 더 많이 벗겨져 있어 <span class='highlight'>밖에서 안으로 기어들어간 것</span>처럼 보입니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_07",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 7,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "이상한 뼛조각이 섞인 접시",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 고어-후프의 자리 앞에 놓인 거대한 은 접시입니다. 짐승의 뼈가 잔뜩 쌓여 있는데, 그 사이에 <span class='mystery'>짐승의 것과는 형태가 다른 뼛조각</span>이 섞여 있습니다. 그 뼈에도 <span class='highlight'>깊은 이빨 자국</span>이 패여 있으며, 접시 가장자리에 은색 금속 가루가 묻어 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                },
+                {
+                    "clueName": "깨끗하게 치워진 접시",
+                    "clueContent": "<div class='clue-detail'><p>고어-후프의 자리 앞 접시가 <span class='emphasis'>텅 비어</span> 있습니다. 접시 표면을 거칠게 닦아낸 흔적이 있으며 <span class='highlight'>접시 가장자리에 거대한 이빨로 눌린 자국</span>만 희미하게 남아 있습니다. 접시 아래 바닥에 미세한 뼈 가루가 떨어져 있습니다.</p></div>",
+                    "variantType": "MODIFIED_BY_ACTION",
+                    "isDefault": false,
+                    "priority": 200
+                }
+            ]
+        },
+        {
+            "clueId": "clue_08",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 8,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "유황 냄새가 배인 양피지",
+                    "clueContent": "<div class='clue-detail'><p>위자드 집무실 책장 뒤쪽에 숨겨져 있던 <span class='mystery'>검붉은 양피지</span>입니다. 지옥의 고대 문자로 작성되어 있으며, 강렬한 유황 냄새가 납니다. 양피지 아래에 <span class='highlight'>차원 좌표로 보이는 복잡한 수식</span>이 적혀 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                },
+                {
+                    "clueName": "재가 된 양피지",
+                    "clueContent": "<div class='clue-detail'><p>위자드 집무실 책장 뒤쪽에 <span class='emphasis'>무언가 격렬하게 불탄 흔적</span>이 남아 있습니다. 검붉은 재와 유황 냄새만 남아 있으며, 원래 무엇이 있었는지는 알 수 없습니다. 벽면 돌이 <span class='highlight'>지옥의 불꽃에 의한 독특한 검댕</span>으로 그을려 있습니다.</p></div>",
+                    "variantType": "MODIFIED_BY_ACTION",
+                    "isDefault": false,
+                    "priority": 200
+                }
+            ]
+        },
+        {
+            "clueId": "clue_09",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 9,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "발로그의 자리 주변 균열",
+                    "clueContent": "<div class='clue-detail'><p>대연회장에서 발로그가 앉았던 자리 주변 바닥 돌에 <span class='emphasis'>미세한 차원 균열</span>이 발견됩니다. 균열에서 희미한 푸른 빛이 깜빡거리며, 균열 가장자리에 <span class='highlight'>이 세계의 것이 아닌 광물 결정</span>이 돋아 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_10",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 10,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "골든 킹 인장의 밀봉 서신",
+                    "clueContent": "<div class='clue-detail'><p>위자드 집무실 금고 안에서 발견된 <span class='emphasis'>밀랍으로 봉인된 서신</span>입니다. 봉인에는 <span class='highlight'>골든 킹의 황금 사자 인장</span>이 찍혀 있습니다. 서신 겉면에 '부족의 자치권에 관하여'라는 문구가 적혀 있으며, 필적이 발트라의 것과 유사합니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                },
+                {
+                    "clueName": "빈 금고",
+                    "clueContent": "<div class='clue-detail'><p>위자드 집무실의 금고가 <span class='emphasis'>열린 채 텅 비어</span> 있습니다. 금고 내부 바닥에 <span class='highlight'>밀랍 봉인의 조각</span>이 미세하게 떨어져 있으며, 금속 경첩에 최근 힘으로 열린 흔적이 있습니다.</p></div>",
+                    "variantType": "MODIFIED_BY_ACTION",
+                    "isDefault": false,
+                    "priority": 200
+                }
+            ]
+        },
+        {
+            "clueId": "clue_11",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 11,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "수정된 전략 지도",
+                    "clueContent": "<div class='clue-detail'><p>성채 지하 보관소에 걸린 <span class='emphasis'>정복 전쟁 당시의 전략 지도</span>입니다. 대부분의 화살표가 한 방향을 가리키지만, <span class='highlight'>일부 진격로가 다른 잉크로 수정</span>되어 적군에게 유리한 우회 경로를 표시하고 있습니다. 수정된 부분은 원본과 <span class='emphasis'>다른 잉크와 필체</span>로 작성되어 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_12",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "clueOrder": 12,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드의 약병",
+                    "clueContent": "<div class='clue-detail'><p>위자드가 평소 마시던 <span class='emphasis'>푸른 유리 약병</span>입니다. 쓴 약초 냄새가 나며, 병 바닥에 <span class='highlight'>녹색 침전물</span>이 미세하게 가라앉아 있습니다. 코르크 마개에 <span class='emphasis'>바늘로 뚫은 듯한 작은 구멍</span>이 하나 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_13",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "clueOrder": 13,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드의 미완성 유언 메모",
+                    "clueContent": "<div class='clue-detail'><p>위자드의 책상 위에 놓인 양피지입니다. <span class='quote-box'>\"모든 것은 제자리로 돌아간다. 성채는 나의 의지를 기억할 것이다.\"</span>라는 문장이 적혀 있으며, 그 뒤로 글씨가 끊겨 있습니다. <span class='highlight'>잉크가 아직 완전히 마르지 않았습니다.</span></p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_14",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 14,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연구실 천장의 긁힌 자국",
+                    "clueContent": "<div class='clue-detail'><p>위자드 연구실 천장의 환기구 격자에 <span class='emphasis'>가느다란 무언가가 걸려 있던 마찰 흔적</span>이 있습니다. 격자 한쪽에 <span class='highlight'>보라색 섬유 올 한 가닥</span>이 끼어 있으며, 환기구 내부에서 아래쪽(위자드의 의자 방향)으로 무언가를 매달았던 것처럼 <span class='emphasis'>미세한 홈</span>이 파여 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_15",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "LOW",
+            "apCost": 1,
+            "clueOrder": 15,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "먼지 쌓인 전신 거울",
+                    "clueContent": "<div class='clue-detail'><p>위자드 연구실 벽에 걸린 낡은 전신 거울입니다. 두꺼운 먼지가 쌓여 제대로 비추지 못하며, 거울 테두리에 <span class='highlight'>위자드의 혈흔으로 보이는 검붉은 얼룩</span>이 말라붙어 있습니다. 거울 뒷면에 <span class='emphasis'>복잡한 마법 문양</span>이 새겨져 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_16",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 16,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "말리스의 실험 기구",
+                    "clueContent": "<div class='clue-detail'><p>말리스의 침소에 있는 <span class='emphasis'>소형 연금술 증류 장치</span>입니다. 플라스크 안에 <span class='highlight'>짙은 푸른색 액체</span>가 소량 남아 있으며, 장치 옆에는 달콤하면서도 날카로운 향이 나는 <span class='emphasis'>촉매제 병</span>이 놓여 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_17",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "clueOrder": 17,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "만찬장 자리 배치",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 테이블의 자리 배치입니다. 스컬크러셔가 상석, 양 옆으로 말리스와 발트라, 맞은편에 위자드, 나머지에 슬리더·고어-후프·발로그가 앉아 있었습니다. <span class='highlight'>위자드의 연구실은 연회장과 바로 연결</span>되어 있으며, 테이블 어느 자리에서든 연구실 입구까지는 직선 거리로 약 20보입니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_18",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 18,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "스컬크러셔의 갑옷 안쪽 흔적",
+                    "clueContent": "<div class='clue-detail'><p>스컬크러셔의 판금 갑옷 내부, 팔꿈치 관절 부분에 <span class='emphasis'>소형 칼집을 숨긴 흔적</span>이 있습니다. 칼집은 비어 있으며, <span class='highlight'>칼집 안쪽에 같은 푸른색 약제 잔여물</span>이 묻어 있습니다. [푸른 얼룩의 비단 수건]의 얼룩과 동일한 색상입니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_19",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "LOW",
+            "apCost": 1,
+            "clueOrder": 19,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "슬리더의 빈 칼집",
+                    "clueContent": "<div class='clue-detail'><p>슬리더의 허리춤에 매달린 <span class='emphasis'>단검용 가죽 칼집</span>입니다. 칼집이 비어 있으며, 슬리더는 '만찬 전에 잃어버렸다'고 주장합니다. 칼집 끈에 <span class='highlight'>보라색 섬유 올</span>이 한 가닥 걸려 있으며, [연구실 천장의 긁힌 자국]에서 발견된 섬유 올과 동일한 재질입니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_20",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 20,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드의 봉인된 기록 보관함",
+                    "clueContent": "<div class='clue-detail'><p>위자드 집무실에 있는 <span class='emphasis'>강력한 마법으로 봉인된 철제 보관함</span>입니다. 보관함 표면에 <span class='highlight'>배스터즈 구성원 일곱 명의 이름</span>이 각각 새겨져 있습니다. 봉인을 풀 수 없지만, 보관함에서 <span class='mystery'>위자드 특유의 마력 파동</span>이 느껴지며 위자드가 구성원 각자에 대한 무언가를 보관하고 있음을 암시합니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_21",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 21,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드의 끊어진 쇠사슬",
+                    "clueContent": "<div class='clue-detail'><p>위자드 집무실 벽에 걸려 있는 <span class='emphasis'>굵은 쇠사슬 조각</span>입니다. 사슬은 한쪽이 힘으로 끊어진 듯 거칠게 벌어져 있으며, 고리 틈새에 <span class='highlight'>은색 금속 가루</span>와 검붉은 얼룩이 묻어 있습니다. 사슬의 크기로 보아 상당히 큰 존재를 구속하기 위한 것으로 보입니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_22",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 22,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "푸른 얼룩의 정체",
+                    "clueContent": "<div class='clue-detail'><p>[푸른 얼룩의 비단 수건]의 얼룩을 마법 감정한 결과입니다. 기름이 아니라 <span class='emphasis'>'용의 독(Dragon Poison)'</span>이라 불리는 치명적 마비독으로 판명되었습니다. 이 독은 피부에 닿으면 30초 내에 전신 마비를 일으키며, <span class='highlight'>고급 연금술 지식이 있어야만 조제 가능</span>합니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_23",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 23,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "부러진 암살 단검",
+                    "clueContent": "<div class='clue-detail'><p>위자드의 가슴에 꽂혀 있던 단검을 추출한 결과입니다. 칼날이 깨끗하게 부러져 있으며, 손잡이 뒷면에 <span class='highlight'>특정 부족의 문양</span>이 미세하게 새겨져 있습니다. 칼날에 <span class='emphasis'>가느다란 보라색 실</span>이 감겨 있던 자국이 남아 있으며, 칼자루에서 지문은 검출되지 않았습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_24",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 24,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "네크로맨틱 와이어 잔해",
+                    "clueContent": "<div class='clue-detail'><p>[연구실 천장의 긁힌 자국] 부근 환기구 내부에서 <span class='emphasis'>끊어진 보라색 마법 실</span>의 잔해가 발견되었습니다. 실의 한쪽 끝은 환기구 격자에 묶여 있었고, 다른 쪽은 <span class='highlight'>단검의 손잡이에 감겨 있던 것</span>으로 추정됩니다. 이 실은 네크로맨틱 마법에 사용되는 소재이며, 장력이 풀리면 연결된 물체를 <span class='emphasis'>중력 방향으로 낙하</span>시키는 특성이 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_25",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 25,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "향수와 약초의 반응 보고",
+                    "clueContent": "<div class='clue-detail'><p>[연구실에 감도는 향기]와 [위자드의 약병] 내용물을 교차 분석한 결과입니다. 특정 향수에 포함된 촉매 성분이 약초 차와 반응하면 <span class='emphasis'>급성 마비 증세</span>를 유발합니다. 약병 마개의 구멍은 이 <span class='highlight'>촉매를 미량 주입하기 위한 것</span>으로 추정됩니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_26",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 26,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "갑옷 파편의 이빨 자국",
+                    "clueContent": "<div class='clue-detail'><p>[이상한 뼛조각이 섞인 접시]에서 발견된 뼛조각과 함께 <span class='emphasis'>은색 갑옷 파편</span>이 추가로 발견되었습니다. 파편에 남은 반복적 자국은 무기가 아니라 <span class='highlight'>날카로운 이빨 자국</span>이며, 자국의 크기와 간격으로 보아 <span class='emphasis'>인간이 아닌 매우 큰 존재</span>의 것입니다. 갑옷 파편에 포위전 중 <span class='emphasis'>실종된 동료 악당의 부대 문양</span>이 새겨져 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_27",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 27,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "지옥의 추방 명령서",
+                    "clueContent": "<div class='clue-detail'><p>[발로그의 자리 주변 균열] 속에서 <span class='mystery'>차원 에너지에 의해 떠오른 양피지</span>가 발견되었습니다. 지옥의 고대 문자로 <span class='emphasis'>'겁쟁이 발로그를 영원히 추방한다'</span>는 내용이 적혀 있으며, <span class='highlight'>지옥 군주 세 명의 인장</span>이 선명하게 찍혀 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_28",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 28,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "서신의 보이지 않는 잉크",
+                    "clueContent": "<div class='clue-detail'><p>[골든 킹 인장의 밀봉 서신]을 횃불에 비추자 <span class='mystery'>열에 반응하는 잉크로 작성된 숨겨진 문장</span>이 떠올랐습니다. <span class='quote-box'>\"배스터즈의 좌익 진격로를 다음 보름달에 보내겠습니다. 부족의 자치권을 보장하십시오.\"</span> <span class='emphasis'>발트라의 필적</span>과 일치하는 서체로 작성되어 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_29",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 29,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드의 진짜 약 분석",
+                    "clueContent": "<div class='clue-detail'><p>[위자드의 약병] 침전물을 정밀 분석한 결과, 건강 회복제가 아니라 <span class='emphasis'>'괴사 방지제'</span>로 판명되었습니다. 이 약은 이미 죽어가는 신체 조직의 부패를 <span class='highlight'>며칠간 늦추는 효과</span>만 있으며, 약의 주인이 심각한 건강 문제를 안고 있었음을 시사합니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_30",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 30,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "진실의 거울",
+                    "clueContent": "<div class='clue-detail'><p>[먼지 쌓인 전신 거울]에 핏방울을 떨어뜨리자, 거울 표면에 <span class='mystery'>흐릿한 환영</span>이 나타났습니다. 어두운 방 안에 <span class='emphasis'>누군가의 윤곽</span>이 보이고, 위에서 무언가가 빠르게 떨어집니다. 환영이 너무 흐려 인물의 표정이나 세부 사항은 <span class='highlight'>식별할 수 없으며</span>, 곧 거울 표면에 금이 가며 장면이 사라집니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_31",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 31,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "성채 마법 회로의 변화",
+                    "clueContent": "<div class='clue-detail'><p>위자드 사망 직후 성채의 <span class='emphasis'>모든 출입구가 자동으로 봉쇄</span>되었습니다. 벽면의 방어 문양이 <span class='highlight'>붉게 점멸</span>하며, 이는 성채에 설치된 보안 마법이 내부 위협을 감지했을 때 작동하는 자동 봉쇄 체계로 보입니다. 봉쇄가 풀리기 전까지 아무도 성채를 떠날 수 없습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_32",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 32,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "말리스 침소의 보라색 실타래",
+                    "clueContent": "<div class='clue-detail'><p>말리스의 방에서 발견된 <span class='emphasis'>보라색 실뭉치</span>입니다. 실의 재질이 [네크로맨틱 와이어 잔해]와 <span class='highlight'>동일한 성분</span>이며, 실이 한쪽에서 잘려나간 흔적이 있습니다. 잘려나간 부분의 단면이 깨끗하여 <span class='emphasis'>도구로 정밀하게 재단</span>했음을 알 수 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_33",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 33,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "슬리더의 비늘 이상 온기",
+                    "clueContent": "<div class='clue-detail'><p>슬리더의 왼쪽 가슴 비늘 부근에서 <span class='emphasis'>비정상적인 열기</span>가 감지됩니다. 리저드맨은 냉혈동물이므로 신체에서 열이 발산될 수 없으며, 이 열기는 <span class='highlight'>[지하 보관소의 빈 선반] 주변에서 감지된 것과 동일한 마력 파장</span>입니다. 열의 출처는 외부에서 확인할 수 없습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        }
+    ]
+}
