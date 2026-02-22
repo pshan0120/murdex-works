@@ -34,7 +34,7 @@
             "variants": [
                 {
                     "clueName": "골든 킹의 부러진 장검",
-                    "clueContent": "<div class='clue-detail'><p>대연회장 벽에 전리품으로 걸려 있는 <span class='highlight'>골든 킹의 장검</span>입니다. 칼날 중간이 깨끗하게 부러져 있으며, 부러진 단면 근처에 <span class='emphasis'>칼날로는 생길 수 없는 미세한 구멍</span>이 하나 뚫려 있습니다. 구멍 주변이 검게 변색되어 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>무기고 안쪽 벽, 영웅들의 장검이 진열된 선반 가장 높은 곳에 <span class='highlight'>전리품으로 걸린 장검</span>이 있습니다. 한때 찬란했을 황금빛 칼자루가 퇴색되어 있으며, 칼날 중간이 깨끗하게 부러져 있습니다. 부러진 단면 근처에 <span class='emphasis'>칼날로는 생길 수 없는 미세한 구멍</span>이 하나 뚫려 있고, 구멍 주변이 검게 변색되어 있습니다. 장검 아래 선반에는 먼지가 최근 흐트러진 자국이 남아 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -91,15 +91,15 @@
             "clueSource": "OBJECTIVE_FACT",
             "variants": [
                 {
-                    "clueName": "지하 보관소의 빈 선반",
-                    "clueContent": "<div class='clue-detail'><p>성채 지하 보관소 가장 깊은 곳에 <span class='mystery'>마법 봉인이 풀린 빈 선반</span>이 있습니다. 선반 위의 먼지가 무언가를 들어 올린 듯 원형으로 깨끗하며, <span class='highlight'>날카로운 발톱이 긁은 자국</span>이 선반 모서리에 나 있습니다. 주변 바닥 돌에 <span class='emphasis'>비정상적인 열기</span>가 잔류합니다.</p></div>",
+                    "clueName": "망루 구석의 빈 선반",
+                    "clueContent": "<div class='clue-detail'><p>성벽 위 망루의 감시 장비가 놓여 있던 선반 구석에 <span class='mystery'>마법 봉인이 풀린 빈 공간</span>이 있습니다. 선반 위의 먼지가 무언가를 들어 올린 듯 원형으로 깨끗하며, <span class='highlight'>날카로운 발톱이 긁은 자국</span>이 선반 모서리에 나 있습니다. 주변 돌바닥에 <span class='emphasis'>비정상적인 열기</span>가 잔류하고, 망루 난간에 같은 발톱 자국이 추가로 발견됩니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
                 },
                 {
                     "clueName": "정돈된 선반",
-                    "clueContent": "<div class='clue-detail'><p>지하 보관소 깊숙한 곳의 선반입니다. 표면이 <span class='emphasis'>최근 닦은 듯 깨끗</span>하며, 원래 있었을 먼지 자국이나 긁힌 흔적이 모두 지워져 있습니다. 다만 주변 바닥 돌의 <span class='highlight'>미세한 열기</span>는 여전히 남아 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>망루 구석의 선반입니다. 표면이 <span class='emphasis'>최근 닦은 듯 깨끗</span>하며, 원래 있었을 먼지 자국이나 긁힌 흔적이 모두 지워져 있습니다. 다만 주변 돌바닥의 <span class='highlight'>미세한 열기</span>는 여전히 남아 있습니다.</p></div>",
                     "variantType": "MODIFIED_BY_ACTION",
                     "isDefault": false,
                     "priority": 200
@@ -133,14 +133,14 @@
             "variants": [
                 {
                     "clueName": "이상한 뼛조각이 섞인 접시",
-                    "clueContent": "<div class='clue-detail'><p>대연회장 고어-후프의 자리 앞에 놓인 거대한 은 접시입니다. 짐승의 뼈가 잔뜩 쌓여 있는데, 그 사이에 <span class='mystery'>짐승의 것과는 형태가 다른 뼛조각</span>이 섞여 있습니다. 그 뼈에도 <span class='highlight'>깊은 이빨 자국</span>이 패여 있으며, 접시 가장자리에 은색 금속 가루가 묻어 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>성채 주방의 거친 돌 조리대 위에 놓인 거대한 은 접시입니다. 영웅들의 식기라고는 믿기 어려울 만큼 거칠게 사용된 흔적이 있으며, 짐승의 뼈가 잔뜩 쌓여 있습니다. 그 사이에 <span class='mystery'>짐승의 것과는 형태가 다른 뼛조각</span>이 섞여 있고, 그 뼈에도 <span class='highlight'>깊은 이빨 자국</span>이 패여 있습니다. 접시 가장자리에 은색 금속 가루가 묻어 있으며, 조리대 아래 바닥에도 같은 종류의 뼈 파편이 흩어져 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
                 },
                 {
                     "clueName": "깨끗하게 치워진 접시",
-                    "clueContent": "<div class='clue-detail'><p>고어-후프의 자리 앞 접시가 <span class='emphasis'>텅 비어</span> 있습니다. 접시 표면을 거칠게 닦아낸 흔적이 있으며 <span class='highlight'>접시 가장자리에 거대한 이빨로 눌린 자국</span>만 희미하게 남아 있습니다. 접시 아래 바닥에 미세한 뼈 가루가 떨어져 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>주방 조리대 위의 접시가 <span class='emphasis'>텅 비어</span> 있습니다. 접시 표면을 거칠게 닦아낸 흔적이 있으며 <span class='highlight'>접시 가장자리에 거대한 이빨로 눌린 자국</span>만 희미하게 남아 있습니다. 조리대 아래 바닥에 미세한 뼈 가루가 떨어져 있습니다.</p></div>",
                     "variantType": "MODIFIED_BY_ACTION",
                     "isDefault": false,
                     "priority": 200
@@ -180,8 +180,8 @@
             "clueSource": "OBJECTIVE_FACT",
             "variants": [
                 {
-                    "clueName": "발로그의 자리 주변 균열",
-                    "clueContent": "<div class='clue-detail'><p>대연회장에서 발로그가 앉았던 자리 주변 바닥 돌에 <span class='emphasis'>미세한 차원 균열</span>이 발견됩니다. 균열에서 희미한 푸른 빛이 깜빡거리며, 균열 가장자리에 <span class='highlight'>이 세계의 것이 아닌 광물 결정</span>이 돋아 있습니다.</p></div>",
+                    "clueName": "망루 바닥의 차원 균열",
+                    "clueContent": "<div class='clue-detail'><p>성벽 위 망루의 돌바닥 한쪽에 <span class='emphasis'>미세한 차원 균열</span>이 발견됩니다. 균열에서 희미한 푸른 빛이 깜빡거리며, 균열 가장자리에 <span class='highlight'>이 세계의 것이 아닌 광물 결정</span>이 돋아 있습니다. 균열 주변에는 높은 열에 의해 돌이 그을린 흔적과 <span class='emphasis'>유황 냄새</span>가 잔류하고 있으며, 누군가 이곳에서 오래 서성인 듯 바닥이 매끄럽게 닳아 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -273,7 +273,7 @@
             "variants": [
                 {
                     "clueName": "연구실 천장의 긁힌 자국",
-                    "clueContent": "<div class='clue-detail'><p>위자드 연구실 천장의 환기구 격자에 <span class='emphasis'>가느다란 무언가가 걸려 있던 마찰 흔적</span>이 있습니다. 격자 한쪽에 <span class='highlight'>보라색 섬유 올 한 가닥</span>이 끼어 있으며, 환기구 내부에서 아래쪽(위자드의 의자 방향)으로 무언가를 매달았던 것처럼 <span class='emphasis'>미세한 홈</span>이 파여 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>위자드 연구실 천장의 환기구 격자에 <span class='emphasis'>가느다란 무언가가 걸려 있던 마찰 흔적</span>이 있습니다. 격자 한쪽에 <span class='highlight'>짙은 색의 섬유 올 한 가닥</span>이 끼어 있으나 푸른 횃불의 희미한 조명으로는 정확한 색상을 판별하기 어렵습니다. 환기구 내부에서 의자 방향으로 무언가를 매달았던 것처럼 <span class='emphasis'>미세한 홈</span>이 파여 있습니다. 격자 반대편에는 <span class='emphasis'>금속이 긁힌 미세한 자국</span>도 남아 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -290,7 +290,7 @@
             "variants": [
                 {
                     "clueName": "먼지 쌓인 전신 거울",
-                    "clueContent": "<div class='clue-detail'><p>위자드 연구실 벽에 걸린 낡은 전신 거울입니다. 두꺼운 먼지가 쌓여 제대로 비추지 못하며, 거울 테두리에 <span class='highlight'>위자드의 혈흔으로 보이는 검붉은 얼룩</span>이 말라붙어 있습니다. 거울 뒷면에 <span class='emphasis'>복잡한 마법 문양</span>이 새겨져 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>위자드 연구실 벽에 걸린 낡은 전신 거울입니다. 두꺼운 먼지가 쌓여 제대로 비추지 못하며, 거울 테두리에 <span class='highlight'>검붉은 얼룩</span>이 말라붙어 있습니다. 먼지 위에 <span class='emphasis'>커다란 손가락으로 거울을 만진 흔적</span>이 하나 남아 있으며, 손가락 자국의 크기가 일반 인간보다 상당히 큽니다. 거울 뒷면에 <span class='emphasis'>복잡한 마법 문양</span>이 새겨져 있고, 문양의 일부가 <span class='highlight'>최근 열에 노출된 듯 그을려</span> 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -340,8 +340,8 @@
             "clueSource": "OBJECTIVE_FACT",
             "variants": [
                 {
-                    "clueName": "스컬크러셔의 갑옷 안쪽 흔적",
-                    "clueContent": "<div class='clue-detail'><p>대연회장 갑옷 걸이에 걸린 판금 갑옷 내부, 팔꿈치 관절 부분에 <span class='emphasis'>소형 칼집을 숨긴 흔적</span>이 있습니다. 칼집은 비어 있으며, <span class='highlight'>칼집 안쪽에 푸른색 약제 잔여물</span>이 묻어 있습니다.</p></div>",
+                    "clueName": "판금 갑옷 안쪽 흔적",
+                    "clueContent": "<div class='clue-detail'><p>무기고의 갑옷 걸이에 걸린 거대한 판금 갑옷입니다. 영웅들의 갑옷과는 확연히 다른 어두운 금속 질감이며, 팔꿈치 관절 부분 안쪽에 <span class='emphasis'>소형 칼집을 숨긴 흔적</span>이 있습니다. 칼집은 비어 있으며, <span class='highlight'>칼집 안쪽에 푸른색 약제 잔여물</span>이 묻어 있습니다. 갑옷 표면에는 최근 전투의 칼자국이 선명하고, 가슴 부분에 <span class='emphasis'>갈라진 태양 문양</span>이 새겨져 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -357,8 +357,8 @@
             "clueSource": "OBJECTIVE_FACT",
             "variants": [
                 {
-                    "clueName": "슬리더의 빈 칼집",
-                    "clueContent": "<div class='clue-detail'><p>대연회장 한쪽 구석에 놓인 <span class='emphasis'>단검용 가죽 칼집</span>입니다. 칼집이 비어 있으며, 칼집 끈에 <span class='highlight'>보라색 섬유 올</span>이 한 가닥 걸려 있습니다. 칼집의 크기와 형태로 보아 <span class='emphasis'>곡선형 단검</span>을 수납하기 위한 것으로 보입니다.</p></div>",
+                    "clueName": "망루에 버려진 빈 칼집",
+                    "clueContent": "<div class='clue-detail'><p>망루 구석, 쓰러진 깃대 뒤에 숨겨져 있던 <span class='emphasis'>단검용 가죽 칼집</span>입니다. 칼집이 비어 있으며, 칼집 끈에 <span class='highlight'>보라색 섬유 올</span>이 한 가닥 걸려 있습니다. 칼집의 크기와 형태로 보아 <span class='emphasis'>곡선형 단검</span>을 수납하기 위한 것이며, 가죽 표면에 <span class='emphasis'>비늘 자국과 유사한 마찰 흔적</span>이 남아 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -409,7 +409,7 @@
             "variants": [
                 {
                     "clueName": "푸른 얼룩의 정체",
-                    "clueContent": "<div class='clue-detail'><p>[푸른 얼룩의 비단 수건]의 얼룩을 마법 감정한 결과입니다. 기름이 아니라 <span class='emphasis'>'용의 독(Dragon Poison)'</span>이라 불리는 치명적 마비독으로 판명되었습니다. 이 독은 피부에 닿으면 30초 내에 전신 마비를 일으키며, <span class='highlight'>고급 연금술 지식이 있어야만 조제 가능</span>합니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>[푸른 얼룩의 비단 수건]의 얼룩을 마법 감정한 결과입니다. 기름이 아니라 <span class='emphasis'>'용의 독(Dragon Poison)'</span>이라 불리는 치명적 마비독으로 판명되었습니다. 이 독은 피부에 닿으면 30초 내에 전신 마비를 일으키며, <span class='highlight'>고급 연금술 또는 지옥의 독물학 지식</span>이 있어야만 조제 가능합니다. 과거 전쟁 중 <span class='emphasis'>암살 목적으로 소량 유통된 기록</span>이 있어, 군사 지휘관급 인물도 입수 경로를 알고 있을 수 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -545,7 +545,7 @@
             "variants": [
                 {
                     "clueName": "진실의 거울",
-                    "clueContent": "<div class='clue-detail'><p>[먼지 쌓인 전신 거울]에 핏방울을 떨어뜨리자, 거울 표면에 <span class='mystery'>흐릿한 환영</span>이 나타났습니다. 어두운 방 안에 <span class='emphasis'>누군가의 윤곽</span>이 보이고, 위에서 무언가가 빠르게 떨어집니다. 환영이 너무 흐려 인물의 표정이나 세부 사항은 <span class='highlight'>식별할 수 없으며</span>, 곧 거울 표면에 금이 가며 장면이 사라집니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>[먼지 쌓인 전신 거울]에 핏방울을 떨어뜨리자, 거울 표면에 <span class='mystery'>흐릿한 환영</span>이 나타났습니다. 어두운 방 안에 <span class='emphasis'>누군가의 윤곽</span>이 보이고, 위에서 무언가가 빠르게 떨어집니다. 장면이 바뀌며 <span class='emphasis'>거대한 날개 같은 그림자</span>가 방 밖을 스쳐 지나가고, 이어서 <span class='highlight'>금속이 부딪치는 듯한 소리의 잔향</span>이 거울에 울립니다. 환영이 너무 흐려 인물의 표정이나 세부 사항은 <span class='highlight'>식별할 수 없으며</span>, 곧 거울 표면에 금이 가며 장면이 사라집니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -613,7 +613,7 @@
             "variants": [
                 {
                     "clueName": "시신의 경직 상태",
-                    "clueContent": "<div class='clue-detail'><p>위자드의 시신을 조사한 결과입니다. 사지에 <span class='emphasis'>미세한 경직</span>이 시작되고 있으며, 피부가 차갑게 식어 있습니다. 이 정도의 경직은 사망 후 <span class='highlight'>최소 10분에서 최대 30분</span> 사이에 나타나는 것입니다. 시신 발견 시각이 오후 10:15인 점을 고려하면, 사망 시각은 <span class='emphasis'>오후 9:45에서 10:05 사이</span>로 추정됩니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>위자드의 시신을 조사한 결과입니다. 사지에 <span class='emphasis'>미세한 경직</span>이 시작되고 있으며, 피부가 차갑게 식어 있습니다. 이 정도의 경직은 사망 후 <span class='highlight'>최소 10분에서 최대 30분</span> 사이에 나타나는 것입니다. 시신 발견 시각이 오후 10:15인 점을 고려하면, 사망 시각은 <span class='emphasis'>오후 9:45에서 10:05 사이</span>로 추정됩니다. 주목할 점은 시신의 로브 한쪽 어깨 부분이 <span class='highlight'>높은 열에 의해 미세하게 그을려</span> 있으며, 의자 팔걸이에는 <span class='emphasis'>무거운 금속이 눌린 듯한 압흔</span>이 남아 있다는 것입니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -647,7 +647,7 @@
             "variants": [
                 {
                     "clueName": "연회장 급사의 증언 기록",
-                    "clueContent": "<div class='clue-detail'><p>만찬을 시중들던 급사(언데드 하인)의 <span class='emphasis'>마법적 기억 추출 기록</span>입니다. 오후 9:30경, <span class='highlight'>보라색 안광의 인물이 약병 근처에서 무언가를 만지작거렸으며</span>, 곧바로 자리로 돌아갔습니다. 오후 9:45경, 위자드가 약병의 차를 마시고 연구실로 향했습니다. 급사의 시야에서 <span class='emphasis'>연구실 방향으로 이동한 인물은 위자드가 유일</span>했습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>만찬을 시중들던 급사로부터 추출한 <span class='emphasis'>마법적 기억 기록</span>입니다. 오후 9:30경, <span class='highlight'>어둠 속에서 빛나는 안광의 인물이 약병 근처에서 무언가를 만지작거렸으며</span>, 곧바로 자리로 돌아갔습니다. 해골 샹들리에의 희미한 조명 아래에서는 <span class='emphasis'>안광의 정확한 색상을 분별할 수 없었다</span>고 기록되어 있습니다. 희미하게 붉은빛 또는 보라빛으로 빛난 것만 확인됩니다. 오후 9:45경, 위자드가 약병의 차를 마시고 연구실로 향했습니다. 급사의 시야에서 <span class='emphasis'>연구실 방향으로 이동한 인물은 위자드가 유일</span>했습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -664,7 +664,7 @@
             "variants": [
                 {
                     "clueName": "만찬장 횃불의 그을음 패턴",
-                    "clueContent": "<div class='clue-detail'><p>대연회장 벽면 횃불의 그을음 방향을 분석한 결과입니다. 오후 9:40에서 10:00 사이, 연회장과 연구실 사이의 통로에서 <span class='emphasis'>강한 공기 흐름이 발생</span>한 흔적이 있습니다. 이는 <span class='highlight'>환기구의 격자가 일시적으로 개방</span>되었을 때 나타나는 현상과 일치합니다. 통로 반대편, 지하실로 향하는 복도의 횃불에는 <span class='emphasis'>같은 시간대에 별도의 공기 교란 흔적</span>이 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 벽면 횃불의 그을음 방향을 분석한 결과입니다. 오후 9:40에서 10:00 사이, 연회장과 연구실 사이의 통로에서 <span class='emphasis'>강한 공기 흐름이 발생</span>한 흔적이 있습니다. 이는 <span class='highlight'>환기구의 격자가 일시적으로 개방</span>되었을 때 나타나는 현상과 일치합니다. 통로 반대편, 망루로 향하는 계단 입구의 횃불에는 <span class='emphasis'>같은 시간대에 별도의 공기 교란 흔적</span>이 있으며, 그을음에서 <span class='highlight'>미세한 유황 성분</span>이 검출됩니다. <span class='emphasis'>강한 열원에 장시간 노출되었거나, 열원이 근처를 스쳐 지나갔을 때</span> 나타나는 현상입니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -681,7 +681,7 @@
             "variants": [
                 {
                     "clueName": "바닥 먼지 위의 발자국들",
-                    "clueContent": "<div class='clue-detail'><p>연회장에서 연구실로 이어지는 통로 바닥의 먼지 위에 <span class='emphasis'>여러 종류의 발자국</span>이 찍혀 있습니다. 식별 가능한 자국은 다음과 같습니다: <span class='highlight'>발굽 자국</span>(큰 체구에 걸맞은 깊이), <span class='emphasis'>맨발의 갈퀴 발자국</span>(비늘 무늬 압흔 포함), 그리고 <span class='highlight'>일반적인 군화 자국</span> 두 종류. 모든 자국이 <span class='emphasis'>연구실 방향으로 갔다가 되돌아온</span> 왕복 패턴을 보이나, 시간 순서는 특정할 수 없습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>연회장에서 연구실로 이어지는 통로 바닥의 먼지 위에 <span class='emphasis'>여러 종류의 발자국</span>이 찍혀 있습니다. <span class='highlight'>발굽 자국</span>이 바닥 돌을 깊게 눌러 있고, <span class='emphasis'>맨발의 갈퀴 발자국</span>이 비늘 무늬의 압흔을 남기며 바닥을 훑고 있습니다. <span class='highlight'>일반적인 군화 자국</span>도 두 종류 보입니다. 모든 자국이 <span class='emphasis'>연구실 방향으로 갔다가 되돌아온</span> 왕복 패턴을 보이나, 시간 순서는 특정할 수 없습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -698,7 +698,7 @@
             "variants": [
                 {
                     "clueName": "테이블 위 술잔 배치 분석",
-                    "clueContent": "<div class='clue-detail'><p>만찬 테이블 위 술잔들의 상태입니다. 상석의 잔은 <span class='emphasis'>절반 이상 남아</span> 있고, 그 양옆 잔 중 하나는 <span class='highlight'>거의 비워져 있으며 잔 바닥에 향수 성분이 미량 묻어</span> 있습니다. 다른 하나는 술이 가득하여 <span class='emphasis'>거의 입을 대지 않은</span> 상태입니다. 맞은편(위자드 자리)의 잔은 엎어져 있으며 약초 냄새가 납니다. 나머지 세 자리의 잔은 모두 <span class='highlight'>비워져</span> 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>만찬 테이블 위 술잔들의 상태입니다. 상석의 잔은 <span class='emphasis'>절반 이상 남아</span> 있고, 그 양옆 잔 중 하나는 <span class='highlight'>거의 비워져 있으며 잔 바닥에 향수 성분이 미량 묻어</span> 있습니다. 나머지 하나는 술이 가득하여 <span class='emphasis'>거의 입을 대지 않았습니다</span>. 맞은편 잔은 엎어져 있으며 약초 냄새가 납니다. 나머지 세 자리의 잔은 모두 <span class='highlight'>비워져</span> 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -715,7 +715,7 @@
             "variants": [
                 {
                     "clueName": "연구실 환기구 내부 비늘 분포",
-                    "clueContent": "<div class='clue-detail'><p>[환기구 내부의 비늘 자국]을 추가 조사한 결과입니다. 비늘이 긁혀 떨어진 방향과 분포로 보아, <span class='emphasis'>환기구를 통과한 시점은 한 차례</span>에 한합니다. 비늘의 건조 상태로 추정하면 <span class='highlight'>통과 시점은 사건 발생 시각보다 훨씬 이전</span>(최소 수 시간 전)인 것으로 보입니다. 환기구 출구 쪽에 <span class='emphasis'>비늘 외에 다른 이물질은 발견되지 않았습니다.</span></p></div>",
+                    "clueContent": "<div class='clue-detail'><p>[<span class='highlight'>환기구 내부의 비늘 자국</span>]을 추가 조사한 결과입니다. 비늘이 긁혀 떨어진 방향과 분포로 보아, <span class='emphasis'>환기구를 통과한 시점은 한 차례</span>에 한합니다. 비늘의 건조 상태로 미루어 통과 시점은 <span class='highlight'>사건 발생 시각보다 훨씬 이전</span>으로, 최소 수 시간이 경과한 것으로 보입니다. 환기구 출구 쪽에 <span class='emphasis'>비늘 외에 다른 이물질은 발견되지 않았습니다.</span></p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -731,8 +731,8 @@
             "clueSource": "OBJECTIVE_FACT",
             "variants": [
                 {
-                    "clueName": "복도 벽면의 그을린 손자국",
-                    "clueContent": "<div class='clue-detail'><p>연회장에서 지하 보관소로 내려가는 복도 벽에 <span class='emphasis'>열에 의해 그을린 손바닥 자국</span>이 찍혀 있습니다. 자국의 크기가 <span class='highlight'>일반 인간보다 훨씬 크며</span>, 다섯 손가락 끝에 <span class='emphasis'>날카로운 손톱 자국</span>이 선명합니다. 그을음에서 <span class='highlight'>유황 냄새</span>가 납니다. 자국은 지하로 향하는 방향과 돌아오는 방향 양쪽 모두에 있습니다.</p></div>",
+                    "clueName": "망루 벽면의 그을린 손자국",
+                    "clueContent": "<div class='clue-detail'><p>망루로 올라가는 나선 계단 벽에 <span class='emphasis'>열에 의해 그을린 손바닥 자국</span>이 찍혀 있습니다. 자국의 크기가 <span class='highlight'>일반 인간보다 훨씬 크며</span>, 다섯 손가락 끝에 <span class='emphasis'>날카로운 손톱 자국</span>이 선명합니다. 그을음에서 <span class='highlight'>유황 냄새</span>가 납니다. 자국은 망루로 올라가는 방향과 내려오는 방향 양쪽 모두에 있으며, 계단 돌이 열에 그을려 갈라진 곳도 보입니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -749,7 +749,7 @@
             "variants": [
                 {
                     "clueName": "연구실 입구의 향기 잔류",
-                    "clueContent": "<div class='clue-detail'><p>연구실 문 앞 공기 중에 <span class='emphasis'>두 가지 서로 다른 냄새</span>가 겹쳐져 있습니다. 하나는 [연구실에 감도는 향기]와 동일한 <span class='highlight'>달콤하면서도 날카로운 향</span>이고, 다른 하나는 <span class='emphasis'>금속과 가죽이 뒤섞인 무거운 냄새</span>입니다. 두 냄새 모두 문 바깥쪽에서만 감지되며, <span class='highlight'>연구실 안쪽에서는 첫 번째 향만</span> 감지됩니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>연구실 문 앞 공기 중에 <span class='emphasis'>세 가지 서로 다른 냄새</span>가 겹쳐져 있습니다. 첫째는 [연구실에 감도는 향기]와 동일한 <span class='highlight'>달콤하면서도 날카로운 향</span>, 둘째는 <span class='emphasis'>판금 갑옷의 기름과 가죽이 뒤섞인 무거운 냄새</span>, 셋째는 <span class='highlight'>희미하지만 분명한 유황 냄새</span>입니다. 첫째와 둘째 냄새는 문 바깥쪽에서만 감지되며, <span class='emphasis'>셋째 냄새는 문 앞과 통로 천장 쪽 양쪽에서</span> 감지됩니다. <span class='highlight'>연구실 안쪽에서는 첫 번째 향만</span> 감지됩니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -783,7 +783,7 @@
             "variants": [
                 {
                     "clueName": "위자드의 둘째 잔",
-                    "clueContent": "<div class='clue-detail'><p>위자드 자리 옆 바닥에서 발견된 <span class='emphasis'>두 번째 약초 잔</span>입니다. 첫 번째 잔(엎어진 것)과 달리 이 잔은 <span class='highlight'>온전히 남아 있으며 액체가 가득</span>합니다. 잔의 내용물에서는 <span class='emphasis'>촉매 성분이 검출되지 않습니다</span>. 잔 표면에 위자드의 고유 마력 잔여물이 남아 있어, 위자드가 <span class='highlight'>직접 따라놓은 두 번째 잔</span>으로 추정됩니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>위자드 자리 옆 바닥에서 발견된 <span class='emphasis'>두 번째 약초 잔</span>입니다. 테이블 위에서 엎어진 첫 번째 잔과 달리 이 잔은 <span class='highlight'>온전히 남아 있으며 액체가 가득</span>합니다. 잔의 내용물에서는 <span class='emphasis'>촉매 성분이 검출되지 않습니다</span>. 잔 표면에 단일한 고유 마력 잔여물이 남아 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -850,8 +850,8 @@
             "clueSource": "OBJECTIVE_FACT",
             "variants": [
                 {
-                    "clueName": "지하 보관소 입구의 출입 흔적",
-                    "clueContent": "<div class='clue-detail'><p>지하 보관소 입구 돌계단에 <span class='emphasis'>마법 감지 먼지</span>가 뿌려져 있었습니다(위자드의 보안 조치로 추정). 먼지가 밟혀 흐트러진 자국이 <span class='highlight'>세 종류</span> 있습니다: <span class='emphasis'>갈퀴 발자국</span>(가장 오래되어 먼지가 다시 가라앉기 시작), <span class='highlight'>발굽 자국</span>(비교적 선명), 그리고 <span class='emphasis'>군화 자국</span>(가장 최근의 것으로 먼지가 아직 공중에 떠 있음). 각 자국은 모두 <span class='highlight'>왕복으로 찍혀</span> 있습니다.</p></div>",
+                    "clueName": "지하 금고 입구의 출입 흔적",
+                    "clueContent": "<div class='clue-detail'><p>지하 금고 입구 돌계단에 <span class='emphasis'>마법 감지 먼지</span>가 고르게 뿌려져 있습니다. 먼지가 밟혀 흐트러진 자국이 <span class='highlight'>세 종류</span> 있습니다. <span class='emphasis'>갈퀴 발자국</span>은 가장 오래되어 먼지가 다시 가라앉기 시작했습니다. <span class='highlight'>발굽 자국</span>은 비교적 선명하며, 자국 주변 돌이 <span class='emphasis'>열에 의해 미세하게 변색</span>되어 있습니다. <span class='emphasis'>군화 자국</span>은 가장 최근의 것으로 먼지가 아직 공중에 떠 있습니다. 세 종류의 자국은 모두 <span class='highlight'>왕복으로 찍혀</span> 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
