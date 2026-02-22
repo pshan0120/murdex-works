@@ -198,7 +198,7 @@
             "variants": [
                 {
                     "clueName": "골든 킹 인장의 밀봉 서신",
-                    "clueContent": "<div class='clue-detail'><p>위자드 집무실 금고 안에서 발견된 <span class='emphasis'>밀랍으로 봉인된 서신</span>입니다. 봉인에는 <span class='highlight'>골든 킹의 황금 사자 인장</span>이 찍혀 있습니다. 서신 겉면에 '부족의 자치권에 관하여'라는 문구가 적혀 있으며, 필적이 발트라의 것과 유사합니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>위자드 집무실 금고 안에서 발견된 <span class='emphasis'>밀랍으로 봉인된 서신</span>입니다. 봉인에는 <span class='highlight'>골든 킹의 황금 사자 인장</span>이 찍혀 있습니다. 서신 겉면에 '부족의 자치권에 관하여'라는 문구가 적혀 있으며, <span class='emphasis'>원본과 다른 필체</span>로 작성되어 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -341,7 +341,7 @@
             "variants": [
                 {
                     "clueName": "스컬크러셔의 갑옷 안쪽 흔적",
-                    "clueContent": "<div class='clue-detail'><p>스컬크러셔의 판금 갑옷 내부, 팔꿈치 관절 부분에 <span class='emphasis'>소형 칼집을 숨긴 흔적</span>이 있습니다. 칼집은 비어 있으며, <span class='highlight'>칼집 안쪽에 같은 푸른색 약제 잔여물</span>이 묻어 있습니다. [푸른 얼룩의 비단 수건]의 얼룩과 동일한 색상입니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 갑옷 걸이에 걸린 판금 갑옷 내부, 팔꿈치 관절 부분에 <span class='emphasis'>소형 칼집을 숨긴 흔적</span>이 있습니다. 칼집은 비어 있으며, <span class='highlight'>칼집 안쪽에 푸른색 약제 잔여물</span>이 묻어 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -358,7 +358,7 @@
             "variants": [
                 {
                     "clueName": "슬리더의 빈 칼집",
-                    "clueContent": "<div class='clue-detail'><p>슬리더의 허리춤에 매달린 <span class='emphasis'>단검용 가죽 칼집</span>입니다. 칼집이 비어 있으며, 슬리더는 '만찬 전에 잃어버렸다'고 주장합니다. 칼집 끈에 <span class='highlight'>보라색 섬유 올</span>이 한 가닥 걸려 있으며, [연구실 천장의 긁힌 자국]에서 발견된 섬유 올과 동일한 재질입니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 한쪽 구석에 놓인 <span class='emphasis'>단검용 가죽 칼집</span>입니다. 칼집이 비어 있으며, 칼집 끈에 <span class='highlight'>보라색 섬유 올</span>이 한 가닥 걸려 있습니다. 칼집의 크기와 형태로 보아 <span class='emphasis'>곡선형 단검</span>을 수납하기 위한 것으로 보입니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -511,7 +511,7 @@
             "variants": [
                 {
                     "clueName": "서신의 보이지 않는 잉크",
-                    "clueContent": "<div class='clue-detail'><p>[골든 킹 인장의 밀봉 서신]을 횃불에 비추자 <span class='mystery'>열에 반응하는 잉크로 작성된 숨겨진 문장</span>이 떠올랐습니다. <span class='quote-box'>\"배스터즈의 좌익 진격로를 다음 보름달에 보내겠습니다. 부족의 자치권을 보장하십시오.\"</span> <span class='emphasis'>발트라의 필적</span>과 일치하는 서체로 작성되어 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>[골든 킹 인장의 밀봉 서신]을 횃불에 비추자 <span class='mystery'>열에 반응하는 잉크로 작성된 숨겨진 문장</span>이 떠올랐습니다. <span class='quote-box'>\"배스터즈의 좌익 진격로를 다음 보름달에 보내겠습니다. 부족의 자치권을 보장하십시오.\"</span> 서신 겉면의 필체와 <span class='emphasis'>동일한 서체</span>로 작성되어 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -579,7 +579,7 @@
             "variants": [
                 {
                     "clueName": "말리스 침소의 보라색 실타래",
-                    "clueContent": "<div class='clue-detail'><p>말리스의 방에서 발견된 <span class='emphasis'>보라색 실뭉치</span>입니다. 실의 재질이 [네크로맨틱 와이어 잔해]와 <span class='highlight'>동일한 성분</span>이며, 실이 한쪽에서 잘려나간 흔적이 있습니다. 잘려나간 부분의 단면이 깨끗하여 <span class='emphasis'>도구로 정밀하게 재단</span>했음을 알 수 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>침소의 화장대 서랍 안에서 발견된 <span class='emphasis'>보라색 실뭉치</span>입니다. 실에서 <span class='highlight'>미세한 마력 파동</span>이 감지되며, 실이 한쪽에서 잘려나간 흔적이 있습니다. 잘려나간 부분의 단면이 깨끗하여 <span class='emphasis'>도구로 정밀하게 재단</span>했음을 알 수 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -596,7 +596,432 @@
             "variants": [
                 {
                     "clueName": "슬리더의 비늘 이상 온기",
-                    "clueContent": "<div class='clue-detail'><p>슬리더의 왼쪽 가슴 비늘 부근에서 <span class='emphasis'>비정상적인 열기</span>가 감지됩니다. 리저드맨은 냉혈동물이므로 신체에서 열이 발산될 수 없으며, 이 열기는 <span class='highlight'>[지하 보관소의 빈 선반] 주변에서 감지된 것과 동일한 마력 파장</span>입니다. 열의 출처는 외부에서 확인할 수 없습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>녹색 비늘로 덮인 존재의 왼쪽 가슴 부근에서 <span class='emphasis'>비정상적인 열기</span>가 감지됩니다. 냉혈 파충류에게서 이런 온기가 발산되는 것은 극히 비정상적이며, 열의 <span class='highlight'>마력 파장</span>이 독특한 파형을 보입니다. 열의 출처는 외부에서 확인할 수 없습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_34",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 34,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "시신의 경직 상태",
+                    "clueContent": "<div class='clue-detail'><p>위자드의 시신을 조사한 결과입니다. 사지에 <span class='emphasis'>미세한 경직</span>이 시작되고 있으며, 피부가 차갑게 식어 있습니다. 이 정도의 경직은 사망 후 <span class='highlight'>최소 10분에서 최대 30분</span> 사이에 나타나는 것입니다. 시신 발견 시각이 오후 10:15인 점을 고려하면, 사망 시각은 <span class='emphasis'>오후 9:45에서 10:05 사이</span>로 추정됩니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_35",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 35,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연구실 잠금 장치의 마법 기록",
+                    "clueContent": "<div class='clue-detail'><p>연구실 문의 마법 잠금 장치에 <span class='emphasis'>마지막 시전 기록</span>이 남아 있습니다. 잠금이 활성화된 시각은 <span class='highlight'>오후 9:50</span>이며, 이후 물리적으로나 마법적으로 문이 열린 기록은 없습니다. 잠금 마법의 시전자 서명은 <span class='emphasis'>위자드 본인의 마력 파동</span>과 일치합니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_36",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 36,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연회장 급사의 증언 기록",
+                    "clueContent": "<div class='clue-detail'><p>만찬을 시중들던 급사(언데드 하인)의 <span class='emphasis'>마법적 기억 추출 기록</span>입니다. 오후 9:30경, <span class='highlight'>보라색 안광의 인물이 약병 근처에서 무언가를 만지작거렸으며</span>, 곧바로 자리로 돌아갔습니다. 오후 9:45경, 위자드가 약병의 차를 마시고 연구실로 향했습니다. 급사의 시야에서 <span class='emphasis'>연구실 방향으로 이동한 인물은 위자드가 유일</span>했습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_37",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "clueOrder": 37,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "만찬장 횃불의 그을음 패턴",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 벽면 횃불의 그을음 방향을 분석한 결과입니다. 오후 9:40에서 10:00 사이, 연회장과 연구실 사이의 통로에서 <span class='emphasis'>강한 공기 흐름이 발생</span>한 흔적이 있습니다. 이는 <span class='highlight'>환기구의 격자가 일시적으로 개방</span>되었을 때 나타나는 현상과 일치합니다. 통로 반대편, 지하실로 향하는 복도의 횃불에는 <span class='emphasis'>같은 시간대에 별도의 공기 교란 흔적</span>이 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_38",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 38,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "바닥 먼지 위의 발자국들",
+                    "clueContent": "<div class='clue-detail'><p>연회장에서 연구실로 이어지는 통로 바닥의 먼지 위에 <span class='emphasis'>여러 종류의 발자국</span>이 찍혀 있습니다. 식별 가능한 자국은 다음과 같습니다: <span class='highlight'>발굽 자국</span>(큰 체구에 걸맞은 깊이), <span class='emphasis'>맨발의 갈퀴 발자국</span>(비늘 무늬 압흔 포함), 그리고 <span class='highlight'>일반적인 군화 자국</span> 두 종류. 모든 자국이 <span class='emphasis'>연구실 방향으로 갔다가 되돌아온</span> 왕복 패턴을 보이나, 시간 순서는 특정할 수 없습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_39",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 39,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "테이블 위 술잔 배치 분석",
+                    "clueContent": "<div class='clue-detail'><p>만찬 테이블 위 술잔들의 상태입니다. 상석의 잔은 <span class='emphasis'>절반 이상 남아</span> 있고, 그 양옆 잔 중 하나는 <span class='highlight'>거의 비워져 있으며 잔 바닥에 향수 성분이 미량 묻어</span> 있습니다. 다른 하나는 술이 가득하여 <span class='emphasis'>거의 입을 대지 않은</span> 상태입니다. 맞은편(위자드 자리)의 잔은 엎어져 있으며 약초 냄새가 납니다. 나머지 세 자리의 잔은 모두 <span class='highlight'>비워져</span> 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_40",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "clueOrder": 40,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연구실 환기구 내부 비늘 분포",
+                    "clueContent": "<div class='clue-detail'><p>[환기구 내부의 비늘 자국]을 추가 조사한 결과입니다. 비늘이 긁혀 떨어진 방향과 분포로 보아, <span class='emphasis'>환기구를 통과한 시점은 한 차례</span>에 한합니다. 비늘의 건조 상태로 추정하면 <span class='highlight'>통과 시점은 사건 발생 시각보다 훨씬 이전</span>(최소 수 시간 전)인 것으로 보입니다. 환기구 출구 쪽에 <span class='emphasis'>비늘 외에 다른 이물질은 발견되지 않았습니다.</span></p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_41",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 41,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "복도 벽면의 그을린 손자국",
+                    "clueContent": "<div class='clue-detail'><p>연회장에서 지하 보관소로 내려가는 복도 벽에 <span class='emphasis'>열에 의해 그을린 손바닥 자국</span>이 찍혀 있습니다. 자국의 크기가 <span class='highlight'>일반 인간보다 훨씬 크며</span>, 다섯 손가락 끝에 <span class='emphasis'>날카로운 손톱 자국</span>이 선명합니다. 그을음에서 <span class='highlight'>유황 냄새</span>가 납니다. 자국은 지하로 향하는 방향과 돌아오는 방향 양쪽 모두에 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_42",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 42,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연구실 입구의 향기 잔류",
+                    "clueContent": "<div class='clue-detail'><p>연구실 문 앞 공기 중에 <span class='emphasis'>두 가지 서로 다른 냄새</span>가 겹쳐져 있습니다. 하나는 [연구실에 감도는 향기]와 동일한 <span class='highlight'>달콤하면서도 날카로운 향</span>이고, 다른 하나는 <span class='emphasis'>금속과 가죽이 뒤섞인 무거운 냄새</span>입니다. 두 냄새 모두 문 바깥쪽에서만 감지되며, <span class='highlight'>연구실 안쪽에서는 첫 번째 향만</span> 감지됩니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_43",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 43,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "만찬 중 이석 기록",
+                    "clueContent": "<div class='clue-detail'><p>급사의 기억 기록 추가 분석입니다. 만찬 도중(오후 8:00~10:00) <span class='emphasis'>자리를 비운 인물</span>에 대한 기록입니다. <span class='highlight'>오후 9:20경 뿔 달린 거구가 '용변'을 핑계로 자리를 떠나 약 15분간 부재</span>했으며, <span class='emphasis'>오후 9:35경 은색 갑옷의 여전사가 '순찰'을 이유로 약 10분간 자리를 비웠습니다</span>. 나머지 인물들은 위자드가 퇴장하기 전까지 <span class='highlight'>자리를 이탈한 기록이 없습니다.</span></p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_44",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "clueOrder": 44,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드의 둘째 잔",
+                    "clueContent": "<div class='clue-detail'><p>위자드 자리 옆 바닥에서 발견된 <span class='emphasis'>두 번째 약초 잔</span>입니다. 첫 번째 잔(엎어진 것)과 달리 이 잔은 <span class='highlight'>온전히 남아 있으며 액체가 가득</span>합니다. 잔의 내용물에서는 <span class='emphasis'>촉매 성분이 검출되지 않습니다</span>. 잔 표면에 위자드의 고유 마력 잔여물이 남아 있어, 위자드가 <span class='highlight'>직접 따라놓은 두 번째 잔</span>으로 추정됩니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_45",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 45,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드 퇴장 직후 연회장 상황",
+                    "clueContent": "<div class='clue-detail'><p>급사 기억 기록의 세 번째 추출입니다. 위자드가 연구실로 퇴장한 오후 9:45 직후, <span class='emphasis'>상석의 판금 갑옷 인물이 '그 노인네를 데려오라'라고 비늘 인물에게 명령</span>했습니다. 비늘 인물이 자리에서 일어나 연구실 방향으로 향했으나, <span class='highlight'>약 5분 뒤 아무 일 없다는 듯 되돌아와 앉았습니다</span>. 이후 오후 10:15에 비늘 인물이 다시 일어나 연구실로 향하고, 곧 <span class='emphasis'>비명이 들렸습니다</span>.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_46",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 1,
+            "clueOrder": 46,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "통로 벽의 갑옷 긁힌 자국",
+                    "clueContent": "<div class='clue-detail'><p>연회장에서 연구실로 이어지는 좁은 통로 벽면에 <span class='emphasis'>금속이 긁힌 선명한 자국</span>이 두 줄 나 있습니다. 자국의 높이는 <span class='highlight'>지면에서 약 170cm</span>이며, 자국에 남은 금속 가루의 색상은 <span class='emphasis'>어두운 은색</span>입니다. 긁힌 방향은 연구실을 향한 쪽입니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_47",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 47,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "환기구 격자의 설치 시점",
+                    "clueContent": "<div class='clue-detail'><p>연구실 천장 환기구 격자에 매여 있던 도구의 <span class='emphasis'>마법적 잔류 시간을 분석</span>한 결과입니다. 격자에 도구가 묶인 시점은 <span class='highlight'>오후 9:25에서 9:35 사이</span>로 추정됩니다. 이 시간은 만찬이 한창이던 때이며, <span class='emphasis'>누군가 연회장에서 빠져나와 연구실 천장에 접근했어야 함</span>을 의미합니다. 도구를 묶는 데는 환기구 위쪽에서의 작업이 필요하며, <span class='highlight'>일반적인 키의 인간이 도달할 수 없는 높이</span>입니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_48",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 48,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "지하 보관소 입구의 출입 흔적",
+                    "clueContent": "<div class='clue-detail'><p>지하 보관소 입구 돌계단에 <span class='emphasis'>마법 감지 먼지</span>가 뿌려져 있었습니다(위자드의 보안 조치로 추정). 먼지가 밟혀 흐트러진 자국이 <span class='highlight'>세 종류</span> 있습니다: <span class='emphasis'>갈퀴 발자국</span>(가장 오래되어 먼지가 다시 가라앉기 시작), <span class='highlight'>발굽 자국</span>(비교적 선명), 그리고 <span class='emphasis'>군화 자국</span>(가장 최근의 것으로 먼지가 아직 공중에 떠 있음). 각 자국은 모두 <span class='highlight'>왕복으로 찍혀</span> 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_49",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 49,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연구실 창문의 응결 패턴",
+                    "clueContent": "<div class='clue-detail'><p>연구실 유리창 안쪽에 <span class='emphasis'>수증기가 응결된 흔적</span>이 남아 있습니다. 응결이 특히 심한 곳은 <span class='highlight'>위자드의 의자 뒤편 창문</span>이며, 이는 사망 직전 위자드의 체온이 급격히 상승했음을 시사합니다. 창문 하단에 <span class='emphasis'>손가락으로 쓴 듯한 불규칙한 자국</span>이 있으나, 응결수에 의해 대부분 흘러내려 판독이 불가합니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_50",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "LOW",
+            "apCost": 1,
+            "clueOrder": 50,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연회장 뒤편 화덕 재",
+                    "clueContent": "<div class='clue-detail'><p>연회장 뒤편 큰 화덕에서 <span class='emphasis'>최근 무언가를 태운 흔적</span>이 있습니다. 재 속에 <span class='highlight'>가죽 조각의 잔해</span>가 섞여 있으며, 완전히 타지 않은 조각에 <span class='emphasis'>부족 문양의 일부</span>가 남아 있습니다. 화덕의 불은 만찬 도중에도 피워져 있었으므로 <span class='highlight'>태운 시점을 특정하기 어렵습니다</span>.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_51",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 2,
+            "clueOrder": 51,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "단검의 낙하 각도 분석",
+                    "clueContent": "<div class='clue-detail'><p>[부러진 암살 단검]이 가슴에 박힌 각도를 분석한 결과입니다. 단검은 <span class='emphasis'>정확히 수직에 가까운 낙하 궤적</span>으로 가슴에 꽂혀 있으며, 수평으로 찌른 자국이 아닙니다. 이는 <span class='highlight'>누군가 직접 찔렀다면 천장에 매달린 상태</span>에서만 가능한 각도입니다. 단검 주위 상처 가장자리에 <span class='emphasis'>마비된 조직 특유의 변색</span>이 관찰됩니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_52",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 52,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "침소 복도의 향수 자취",
+                    "clueContent": "<div class='clue-detail'><p>각 침소가 위치한 복도의 공기를 분석한 결과입니다. <span class='emphasis'>달콤하면서도 날카로운 향</span>이 한 침소에서 연회장 방향으로 <span class='highlight'>일직선의 이동 경로를 따라</span> 잔류하고 있습니다. 향의 농도는 침소에서 가장 짙고 연회장으로 갈수록 옅어집니다. 같은 복도의 <span class='emphasis'>다른 침소 앞에서는 이 향이 전혀 감지되지 않습니다</span>.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_53",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 53,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드의 수정 구슬 기록",
+                    "clueContent": "<div class='clue-detail'><p>위자드의 책상 위 수정 구슬이 <span class='emphasis'>깨져 있습니다</span>. 구슬 내부에 남은 마지막 영상 잔류가 희미하게 감지됩니다. 어둠 속에서 <span class='highlight'>푸른 후드 로브를 입은 인물이 의자에 앉아 천장을 올려다보는</span> 모습이 비칩니다. 인물의 입가에 <span class='emphasis'>미소 같은 것</span>이 보이나 영상이 끊기며 구슬에 금이 갑니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_54",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "LOW",
+            "apCost": 1,
+            "clueOrder": 54,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "연회장 기둥의 도끼 자국",
+                    "clueContent": "<div class='clue-detail'><p>연회장 돌기둥 하나에 <span class='emphasis'>최근 생긴 깊은 칼자국</span>이 패여 있습니다. 자국의 폭과 깊이로 보아 <span class='highlight'>양날 도끼에 의한 것</span>으로 추정됩니다. 자국 주변 돌가루가 아직 바닥에 흩어져 있어 <span class='emphasis'>만찬 도중 또는 직후에 생긴 것</span>으로 보입니다. 기둥은 연구실 입구와 가까운 위치에 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_55",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 55,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "마비독과 촉매의 반응 시간",
+                    "clueContent": "<div class='clue-detail'><p>[향수와 약초의 반응 보고]에 대한 추가 실험 결과입니다. 촉매 성분이 약초 차와 반응하여 마비를 일으키기까지의 시간은 <span class='highlight'>섭취 후 약 5~10분</span>입니다. 마비가 시작되면 <span class='emphasis'>전신 근육이 순차적으로 굳어가며</span>, 의식은 있으나 몸을 움직일 수 없는 상태가 됩니다. 마비 상태의 피해자는 <span class='highlight'>외부 공격에 대한 저항이 불가능</span>합니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_56",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "MEDIUM",
+            "apCost": 2,
+            "clueOrder": 56,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "침소 잠금 기록 종합",
+                    "clueContent": "<div class='clue-detail'><p>성채 각 침소의 마법 잠금 기록을 종합한 결과입니다. 만찬 시작 전 오후 7:30에서 8:00 사이, <span class='emphasis'>모든 침소가 잠금 처리</span>되었습니다. 그러나 <span class='highlight'>한 침소만 오후 9:25에 일시적으로 해제된 뒤 9:28에 다시 잠긴 기록</span>이 있습니다. 해당 침소의 위치는 <span class='emphasis'>연구실과 같은 층, 환기구가 연결된 복도</span>에 있습니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_57",
+            "clueType": "PHYSICAL",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 57,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "위자드의 비밀 일지 조각",
+                    "clueContent": "<div class='clue-detail'><p>위자드의 책상 다리에 <span class='emphasis'>양피지가 접착되어 숨겨져</span> 있었습니다. 대부분 해독 불가하나 판독 가능한 부분은 다음과 같습니다: <span class='quote-box'>\"...모두가 나를 죽이고 싶어 안달이다. 완벽하다. ...이 몸이 무너지면... 성채가 기억할 것이다... ...누가 손을 대든 결과는 같다...\"</span> 양피지 하단에 <span class='highlight'>마법 회로도의 일부</span>가 그려져 있으며, 성채의 방어 문양과 유사한 패턴입니다.</p></div>",
+                    "variantType": "DEFAULT",
+                    "isDefault": true,
+                    "priority": 100
+                }
+            ]
+        },
+        {
+            "clueId": "clue_58",
+            "clueType": "OBSERVATION",
+            "importanceLevel": "HIGH",
+            "apCost": 3,
+            "clueOrder": 58,
+            "clueSource": "OBJECTIVE_FACT",
+            "variants": [
+                {
+                    "clueName": "성채 봉쇄 마법의 기원 분석",
+                    "clueContent": "<div class='clue-detail'><p>[성채 마법 회로의 변화]에 대한 정밀 마법 분석 결과입니다. 봉쇄 마법의 회로를 추적해보면, <span class='emphasis'>위자드 사망 이전에 이미 회로가 준비되어 있었음</span>을 알 수 있습니다. 회로의 활성화 조건은 <span class='highlight'>'특정 마력 파동의 소멸'</span>로 설정되어 있으며, 이는 <span class='emphasis'>사건 발생 이후가 아닌 사전에 의도적으로 설계된 것</span>입니다. 회로 설계의 정교함은 <span class='highlight'>수십 년에 걸친 마법 지식</span>을 요구하는 수준입니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
