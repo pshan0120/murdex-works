@@ -1,0 +1,303 @@
+{
+    "basicInfo": {
+        "title": "바스타즈 오브 더 유니버스: 그레이스컬의 핏빛 만찬",
+        "summary": "정복 전쟁에서 승리하고 그레이스컬 성을 점령한 바로 그 날 만찬이 무르익던 밤, 성의 지배자 중 한 명인 위자드가 시신으로 발견된다. 전투력과 치부가 난무하는 악당들의 피비린내 나는 추리 및 결투극.",
+        "description": "<div class='story-description'><p>위대한 승리 후, <span class='emphasis'>그레이스컬 성</span>을 점령한 악당들은 성대한 축배를 들었습니다.</p><p>하지만 잔이 비워지기도 전에, 성의 마법을 관장하던 <span class='mystery'>엘드리치 위자드</span>가 잠긴 연구실 안에서 단검에 관통된 채 발견됩니다.</p><p>문제는 오늘 밤 전리품 분배 전 자신들의 약점을 은폐하려던 모든 빌런이 그를 주기적으로 죽이고 싶어 했다는 것.</p><p>성채는 봉쇄되었고 탈출구는 없습니다. <span class='highlight'>진범을 찾을 것인가, 압도적인 힘으로 생존을 증명할 것인가?</span></p></div>",
+        "category": "CLASSIC_MYSTERY",
+        "price": null,
+        "playTime": 120,
+        "minPlayers": 7,
+        "maxPlayers": 7,
+        "difficulty": "HIGH",
+        "recommendedAge": "15",
+        "textColor": "#E8D5B7",
+        "backgroundColor": "#1A0A2E",
+        "coverImageUrl": null,
+        "tags": [
+            "FANTASY",
+            "THRILLER",
+            "SUSPENSE"
+        ],
+        "customCss": null
+    },
+    "roles": [
+        {
+            "characterName": "발레리우스",
+            "roleName": "로드 스컬크러셔",
+            "roleOrder": 1,
+            "summary": "바스터즈의 두목. 오늘 아침 골든 킹을 쓰러뜨리고 왕좌에 앉았지만, 그 승리 뒤에는 차마 밝힐 수 없는 비겁한 비밀이 숨겨져 있다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>190cm 이상의 거구</span>, 판금 갑옷으로 무장한 위압적인 체형. 얼굴 전체를 가린 해골 투구 너머로 차가운 붉은 안광이 번뜩인다. 거대한 강철 장검을 소지하고 있다.</p><p>바스터즈 연합의 두목이자 그레이스컬 성의 새로운 지배자.</p><p><strong><span class='emphasis'>기본 전투력: 8</span></strong></p></div>",
+            "baseCombatPower": 8,
+            "description": "<div class='role-private'><p>한때 당신은 질서의 군단에서 가장 눈부시게 빛나는 칼날이었습니다. 그러나 위선에 환멸을 느끼고 스스로 해골 가면을 쓴 채 바스터즈를 이끌어 마침내 오늘, 영웅 연합을 궤멸시켰습니다.</p><p>오늘 아침 골든 킹과의 최후 결전에서 당신은 7일간의 지독한 싸움 끝에 지쳐가고 있었습니다. 골든 킹의 빈틈이 보이던 순간, 당신은 정당한 승부 대신 레이디 말리스가 만들어준 <span class='emphasis'>'용의 독(Dragon Poison)'</span>이 발린 단검을 꺼내 기습했습니다.</p><p>만약 다른 짐승 같은 바스터즈들이 이를 안다면 당신의 권위는 즉시 무너질 것입니다. 위자드는 오늘 있었던 이 비겁한 살해를 보았으며, 독을 닦았던 헝겊을 숨겨두고 당신을 압박하고 있습니다.</p></div>",
+            "secrets": [
+                {
+                    "secretTitle": "비겁한 암살자의 진실",
+                    "secretContent": "<div class='secret-content'><p>당신은 골든 킹을 정당하게 이기지 못했습니다. 위자드가 <span class='emphasis'>'용의 독이 묻은 비단 수건'</span>을 소지하고 증거로 삼고 있으며, 만약 이 사실이 알려지면 다른 바스터즈들이 하극상을 일으킬 것입니다.</p></div>",
+                    "disclosureTiming": "IMMEDIATE"
+                },
+                {
+                    "secretTitle": "변경된 목표: 왕좌의 방어",
+                    "secretContent": "<div class='secret-content'><p>위자드가 죽었으니 증거를 없앨 절호의 기회입니다. <strong>'독이 묻은 수건'</strong>의 흔적을 반드시 없애야 하며, 전투력 무기들을 파밍해 어떤 녀석이 반란을 일으키더라도 찍어 누를 압도적 힘을 모아야 합니다.</p></div>",
+                    "disclosureTiming": "STEP_SPECIFIC",
+                    "disclosureStepId": "investigation1"
+                }
+            ],
+            "actions": [
+                {
+                    "actionName": "독 묻은 비단 은닉",
+                    "actionDescription": "<div class='action-desc'><p>독이 묻어있는 비단 수건을 찾아 파괴합니다.</p></div>",
+                    "apCost": 3,
+                    "additionalApCost": 0,
+                    "effectType": "MODIFY_CLUE",
+                    "effectDescription": "<div class='effect-desc'><p>수상한 비단 수건이 현장에서 사라집니다.</p></div>",
+                    "targetClueId": "clue_01",
+                    "availableStepOrder": [
+                        2,
+                        4
+                    ],
+                    "isReusable": false
+                }
+            ]
+        },
+        {
+            "characterName": "말리스",
+            "roleName": "레이디 말리스",
+            "roleOrder": 2,
+            "summary": "우아하고 치명적인 바스터즈의 책략가. 위자드의 협박에서 벗어나기 위해 오늘 밤, 완벽한 살인을 실행했다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>170cm 초반의 우아하고 날카로운 체형</span>. 진홍색 판금 갑옷과 긴 로브를 착용. 오른손에는 붉은 오브가 박힌 지팡이를 쥐고 있다.</p><p>바스터즈 연합 내에서 가장 우아하고 치명적인 무기. 무력이 아닌 두뇌와 저주로 상대를 굴복시킨다.</p><p><strong><span class='emphasis'>기본 전투력: 4</span></strong></p></div>",
+            "baseCombatPower": 4,
+            "description": "<div class='role-private'><p>정복 전쟁을 승리하기 위해, 당신은 당신의 친자식 <span class='mystery'>'마멜리아'</span>를 과거 심연의 제물로 바쳤습니다. 하지만 위자드가 당시 타다 남은 <span class='highlight'>은팔찌</span>를 주워 당신의 모성을 비웃고 치부를 폭로하려 했습니다.</p><p>오늘 오후 4시 성채가 점령되자마자, 당신은 결심을 굳혔습니다. 슬리더의 단검을 훔쳐 위자드 연구실 천장에 <span class='emphasis'>네크로맨틱 와이어</span>로 단검을 매달고, 당신의 향수를 촉매로 위자드의 약초 차를 마비 독으로 만들었습니다.</p><p>와이어를 해제해 위자드를 깔끔하게 처리했지만, 당신은 무력이 아주 약합니다. 당장 아이템을 긁어모으지 못하면 이 야만적인 짐승들의 혈투에서 살아남지 못합니다.</p></div>",
+            "secrets": [
+                {
+                    "secretTitle": "위자드 제단 위의 핏줄",
+                    "secretContent": "<div class='secret-content'><p>당신은 위자드를 실제로 죽인 <strong>진범</strong>입니다. 또한 당신의 과거가 담긴 <strong>은팔찌</strong>를 위자드가 가지고 있어, 범인으로 몰리거나 약점이 노출될 위기입니다.</p></div>",
+                    "disclosureTiming": "IMMEDIATE"
+                },
+                {
+                    "secretTitle": "변경된 목표: 생존을 위한 권모술수",
+                    "secretContent": "<div class='secret-content'><p>가장 시급한 것은 <strong>'마멜리아의 은팔찌'</strong>를 처분해 의심을 피하는 것입니다. 그리고 낮은 전투력을 메꾸기 위해 눈에 불을 켜고 전투력 아이템 단서를 파밍해야 합니다. 놈들의 무력 앞에 갈기갈기 찢기기 전에.</p></div>",
+                    "disclosureTiming": "STEP_SPECIFIC",
+                    "disclosureStepId": "investigation1"
+                }
+            ],
+            "actions": [
+                {
+                    "actionName": "은팔찌 회수",
+                    "actionDescription": "<div class='action-desc'><p>위자드가 소지하고 있는 은팔찌를 찾아 회수합니다.</p></div>",
+                    "apCost": 3,
+                    "additionalApCost": 0,
+                    "effectType": "MODIFY_CLUE",
+                    "effectDescription": "<div class='effect-desc'><p>수상한 은제 팔찌가 현장에서 사라집니다.</p></div>",
+                    "targetClueId": "clue_03",
+                    "availableStepOrder": [
+                        2,
+                        4
+                    ],
+                    "isReusable": false
+                }
+            ]
+        },
+        {
+            "characterName": "엘드리치",
+            "roleName": "엘드리치 위자드",
+            "roleOrder": 3,
+            "summary": "자신의 수명이 다했음을 직감하고, 악당들에게 살해당하는 것을 역이용해 신으로 부활하려는 종말의 지휘자.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>165cm 정도의 왜소하지만 기운이 넘치는 노인</span>. 푸른 수정 구슬이 빛나는 긴 지팡이를 소지.</p><p>성채의 모든 마법 체계를 관장하는 현자였으나, 오늘 만찬 중에 기이한 시신으로 발견되었다.</p><p><strong><span class='emphasis'>생전 기본 전투력: 3 / 부활 마신 전투력: 35</span></strong></p></div>",
+            "baseCombatPower": 3,
+            "description": "<div class='role-private'><p>오늘 오후, 그레이스컬 점령의 환호성 속에서 당신은 당신의 수명이 단 몇 시간밖에 남지 않았음을 깨달았습니다.</p><p>게다가 투명 마법을 통해 말리스가 천장에 네크로맨틱 와이어와 단검을 매달아 당신을 암살하려는 장면까지 지켜보았습니다.</p><p>당신은 이 상황을 즐기기로 했습니다. 당신의 영혼을 성채의 코어와 동기화시킬 함정을 파 두고, 로드 스컬크러셔의 독 헝겊, 슬리더의 훔친 보석, 고어-후프의 식인 증거 갑옷 등 그들이 가장 숨기고 싶어할 단서들을 성채 곳곳에 노골적으로 흩뿌렸습니다.</p><p>당신의 시신이 바닥에 쓰러지는 순간, 당신의 영혼은 성채와 하나가 되어 저 오만한 악당들이 서로를 의심하고 무력을 휘두르며 죽고 죽이게 조종할 것입니다.</p></div>",
+            "secrets": [
+                {
+                    "secretTitle": "죽음의 설계자 (유령 모드)",
+                    "secretContent": "<div class='secret-content'><p>당신은 사망했지만 <strong>조사 1단계 이후, 투표 1단계가 시작되는 시점부터 유령 모드</strong>로 전환되어 게임 시스템을 왜곡합니다. 성채에 속박된 당신은 이후 페이즈 제약이나 AP 소모 없이 모든 단서를 엿보고, 누구의 밀담이든 끼어들 수 있습니다.</p></div>",
+                    "disclosureTiming": "IMMEDIATE"
+                },
+                {
+                    "secretTitle": "변경된 목표: 희생양과 부활의 힘",
+                    "secretContent": "<div class='secret-content'><p>부활을 위해선 가장 강력한 영혼이 필요합니다! 바스터즈들이 투표에서 무력이 제일 높은 자를 골라 처형하도록 교묘하게 이간질하십시오. 처형당한 자의 모든 전투력(장비 포함)은 부활한 당신의 마신 본체 전투력(35)에 합산됩니다. 생존자들이 살기 위해 '약한 자'를 고르려 할 테니, 강한 자들이 서로를 공격하게 유도하십시오!</p></div>",
+                    "disclosureTiming": "STEP_SPECIFIC",
+                    "disclosureStepId": "investigation1"
+                }
+            ],
+            "actions": [
+                {
+                    "actionName": "마법의 눈",
+                    "actionDescription": "<div class='action-desc'><p>수정 구슬과 성채에 새겨진 룬을 통해 다른 이들의 행적을 마법적으로 관찰합니다. 살아있는 동안 사용 가능합니다.</p></div>",
+                    "apCost": 1,
+                    "additionalApCost": 0,
+                    "effectType": "PEEK_CLUE",
+                    "effectDescription": "<div class='effect-desc'><p>단서에 대한 추가 정보를 확인합니다.</p></div>",
+                    "targetClueId": null,
+                    "availableStepOrder": [
+                        2
+                    ],
+                    "isReusable": true
+                },
+                {
+                    "actionName": "성채의 눈으로 관찰",
+                    "actionDescription": "<div class='action-desc'><p>유령 상태에서 성채의 벽과 마법 회로를 통해 모든 장소의 단서를 무제한 관찰할 수 있습니다.</p></div>",
+                    "apCost": 0,
+                    "additionalApCost": 0,
+                    "effectType": "PEEK_ALL_CLUES",
+                    "effectDescription": "<div class='effect-desc'><p>유령의 시야로 현장의 단서를 확인합니다.</p></div>",
+                    "targetClueId": null,
+                    "availableStepOrder": [
+                        4
+                    ],
+                    "isReusable": true
+                }
+            ]
+        },
+        {
+            "characterName": "슬리더",
+            "roleName": "암살자 슬리더",
+            "roleOrder": 4,
+            "summary": "기민한 암살자. 오늘 오후 점령의 혼란을 틈타 금지된 전리품인 창조의 보석을 훔친 대가로 육체가 타들어가는 고통을 겪고 있다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>180cm, 몸을 낮게 웅크린 기민한 체형</span>. 전신이 녹색 비늘로 덮인 리저드맨. 날카로운 곡도를 쥐고 있다.</p><p>바스터즈의 '보이지 않는 손'. 쉿쉿거리는 마찰음이 섞인 짧은 말투를 사용하며 암살과 잠입에 특화되어 있다.</p><p><strong><span class='emphasis'>기본 전투력: 5</span></strong></p></div>",
+            "baseCombatPower": 5,
+            "description": "<div class='role-private'><p>오늘 오후 4시, 마침내 성채가 함락되자 당신은 가장 먼저 지하 창고 '시작의 방'에 잠입해 <span class='mystery'>'창조의 보석'</span>을 삼켰습니다.</p><p>보석을 녹아내린 비늘 안쪽에 쑤셔 넣었지만, 열기가 너무 엄청나서 파충류인 당신의 체온은 펄펄 끓고 흉측한 화상 자국과 흉터가 생겨버렸습니다.</p><p>위자드는 연회 전에 이미 당신의 흉터를 보고 조롱하며 장부를 뒤지고 있었습니다. 당신의 단검마저 누군가 훔쳐갔는데, 하필 죽은 위자드 머리에 꽂혀 있다니 당신이 가장 먼저 의심을 받을 것이 분명합니다.</p></div>",
+            "secrets": [
+                {
+                    "secretTitle": "화산으로 변한 몸",
+                    "secretContent": "<div class='secret-content'><p>당신은 비늘 안쪽에 훔친 보석을 숨겨 비정상적인 고열과 심각한 화상을 앓고 있습니다. 위자드가 남긴 <strong>'보석 도난 일지'</strong>와 당신이 남긴 화상 허물들은 당신의 목을 조일 것입니다.</p></div>",
+                    "disclosureTiming": "IMMEDIATE"
+                },
+                {
+                    "secretTitle": "변경된 목표: 의심 회피와 힘의 추구",
+                    "secretContent": "<div class='secret-content'><p>당장 사람들이 최초 발견자인 당신의 단검을 의심하고 있습니다. 알리바이를 조작하면서 화상의 흠집과 보석의 존재를 감안할 <strong>'단서'</strong>들을 파괴하고, 어중간한 무력을 보완할 전투력 무기를 선점하십시오.</p></div>",
+                    "disclosureTiming": "STEP_SPECIFIC",
+                    "disclosureStepId": "investigation1"
+                }
+            ],
+            "actions": [
+                {
+                    "actionName": "보석함 흔적 은닉",
+                    "actionDescription": "<div class='action-desc'><p>지하 보관소에서 보석이 사라진 선반의 흔적과 당신의 화상 허물을 치웁니다.</p></div>",
+                    "apCost": 2,
+                    "additionalApCost": 0,
+                    "effectType": "MODIFY_CLUE",
+                    "effectDescription": "<div class='effect-desc'><p>선반 주변의 흔적이 깔끔하게 정리됩니다.</p></div>",
+                    "targetClueId": "clue_05",
+                    "availableStepOrder": [
+                        2,
+                        4
+                    ],
+                    "isReusable": false
+                }
+            ]
+        },
+        {
+            "characterName": "고어-후프",
+            "roleName": "돌격대장 고어-후프",
+            "roleOrder": 5,
+            "summary": "짐승 같은 파괴력의 반인반수. 포위전 중 심각한 금기를 저질렀고, 오늘 위자드의 끔찍한 조롱을 받았다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>210cm의 압도적인 거구</span>. 숫양의 거대한 뿔과 거친 근육질 상체. 양손 가득 거대한 양날 도끼를 들고 있다.</p><p>바스터즈의 선봉장이자 학살자. 전장에서는 파괴신이나 지능은 다소 떨어진다.</p><p><strong><span class='emphasis'>기본 전투력: 6</span></strong></p></div>",
+            "baseCombatPower": 6,
+            "description": "<div class='role-private'><p>공성전 도중 맹렬한 굶주림에 미쳐 당신은 전사한 악당 동료를 잡아먹는 금기를 저질렀습니다.</p><p>오늘 성이 함락된 직후 연회를 준비할 무렵, 위자드가 당신에게 다가와 <span class='quote-box'>\"너의 동료 뼈로 뜨끈한 국이라도 끓여줄까?\"</span>라고 비웃으며, 당신의 이빨 자국이 선명하게 남은 '가여운 동료의 은색 갑옷 파편'을 흔들어 보였습니다.</p><p>분노와 두려움. 위자드를 죽여버리고 싶었지만 어느새 그는 밀실에서 시체가 되어 있었습니다. 확실한 건, 당신은 무력만 강할 뿐 애매한 중위권(전투력 6)이므로 장비를 더 얻지 못하면 살아남지 못한다는 점입니다.</p></div>",
+            "secrets": [
+                {
+                    "secretTitle": "금기된 만찬의 잔해",
+                    "secretContent": "<div class='secret-content'><p>당신의 끔찍한 이빨 자국이 남은 갑옷 파편이 위자드의 손에 있습니다. 식인 사실이 들통나면 다른 짐승들이 당신을 가만두지 않을 것입니다.</p></div>",
+                    "disclosureTiming": "IMMEDIATE"
+                },
+                {
+                    "secretTitle": "변경된 목표: 야수의 생존 본능",
+                    "secretContent": "<div class='secret-content'><p>갑옷 파편부터 무조건 씹어 없애야 합니다. 그리고 당장 강력한 무기(전투력 아이템)들을 주워모아 당신의 애매한 전투력 6을 최강의 수준으로 끌어올리십시오!</p></div>",
+                    "disclosureTiming": "STEP_SPECIFIC",
+                    "disclosureStepId": "investigation1"
+                }
+            ],
+            "actions": [
+                {
+                    "actionName": "갑옷 파편 회수",
+                    "actionDescription": "<div class='action-desc'><p>위자드가 보관하고 있는 '동료의 은색 갑옷 파편'을 찾아 파괴합니다.</p></div>",
+                    "apCost": 3,
+                    "additionalApCost": 0,
+                    "effectType": "MODIFY_CLUE",
+                    "effectDescription": "<div class='effect-desc'><p>갑옷 파편 흔적이 사라집니다.</p></div>",
+                    "targetClueId": "clue_07",
+                    "availableStepOrder": [
+                        2,
+                        4
+                    ],
+                    "isReusable": false
+                }
+            ]
+        },
+        {
+            "characterName": "발로그",
+            "roleName": "파괴의 화신 발로그",
+            "roleOrder": 6,
+            "summary": "순수 무력 최강의 지옥 출신 고위 악마. 하지만 위자드에게 영혼의 목줄이 잡혀 영원한 노예 신세가 될 위기에 처해 있었다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>250cm(날개 포함)</span>, 강렬한 붉은 피부와 박쥐 날개를 가진 악마. 불과 열을 자유자재로 다룬다.</p><p>바스터즈 내에서 압도적인 파괴력을 지닌 짐승 같은 존재. 오만하고 잔혹하다.</p><p><strong><span class='emphasis'>기본 전투력: 9</span></strong></p></div>",
+            "baseCombatPower": 9,
+            "description": "<div class='role-private'><p>지옥 전쟁에서 겁에 질려 도망친 대가로 추방당한 당신. 위자드는 오늘 무심하게 지옥 추방령이 임박함을 암시하며 '추방 명령서'의 조각을 흘렸습니다.</p><p>오늘 밤 그것을 부수지 못하면 지옥의 사냥꾼들에게 끌려가 영원히 타오르는 노예가 됩니다.</p><p>비록 당신은 그 누구도 함부로 대적할 수 없는 압도적인 기본 전투력(9)을 지녔지만, 만약 다른 녀석들이 사기급 장비를 둘둘 말고 당신을 덮친다면 승리를 장담할 수 없습니다.</p></div>",
+            "secrets": [
+                {
+                    "secretTitle": "도망친 파괴신",
+                    "secretContent": "<div class='secret-content'><p>지옥 사냥꾼을 부를 발신기가 위자드의 수중에 있습니다. 겁쟁이라는 낙인을 들키는 순간 당신에 대한 두려움은 사라질 것입니다.</p></div>",
+                    "disclosureTiming": "IMMEDIATE"
+                },
+                {
+                    "secretTitle": "변경된 목표: 무력의 독점",
+                    "secretContent": "<div class='secret-content'><p>추방 명령서를 불태워버리는 것이 첫째입니다. 둘째는 성채에 숨겨진 강력한 무기들을 전부 쓸어 담아 당신 아래의 버러지들이 감히 하극상을 벌이지 못하도록 압도적 격차를 벌리는 일입니다.</p></div>",
+                    "disclosureTiming": "STEP_SPECIFIC",
+                    "disclosureStepId": "investigation1"
+                }
+            ],
+            "actions": [
+                {
+                    "actionName": "추방 명령서 파괴",
+                    "actionDescription": "<div class='action-desc'><p>위자드가 소지한 지옥의 자취를 불꽃으로 완전히 박살냅니다.</p></div>",
+                    "apCost": 3,
+                    "additionalApCost": 0,
+                    "effectType": "MODIFY_CLUE",
+                    "effectDescription": "<div class='effect-desc'><p>양피지가 불에 타 재가 됩니다.</p></div>",
+                    "targetClueId": "clue_08",
+                    "availableStepOrder": [
+                        2,
+                        4
+                    ],
+                    "isReusable": false
+                }
+            ]
+        },
+        {
+            "characterName": "발트라",
+            "roleName": "강철의 워로드 발트라",
+            "roleOrder": 7,
+            "summary": "냉철한 명예를 중시하는 대장군이나, 적과 맺었던 내통 사실을 은폐하기 위해 혈안이 되어 있다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>175cm, 다부진 체격의 여성 전사</span>. 어두운 은색 판금 갑옷과 둥근 방패를 소지.</p><p>강철과 명예, 규율을 중시하는 최상위권 전사. 논리적이며 배신을 혐오하는 태도를 보인다.</p><p><strong><span class='emphasis'>기본 전투력: 7</span></strong></p></div>",
+            "baseCombatPower": 7,
+            "description": "<div class='role-private'><p>바스터즈 내에서 유일하게 전술과 규율을 상징하던 당신. 사실 전쟁 중 부족의 안전을 위해 영웅 연합의 골든 킹과 내통 서신을 주고받았습니다.</p><p>승기가 기울자 당신은 오늘 아침 전령을 베고 배신을 무효화하려 했지만, 위자드의 손에 당신의 내통 서신이 들어갔다는 것을 확인했습니다.</p><p>당신의 무력은 꽤 강력하지만 괴수 놈들을 완벽히 제압하기엔 한 끗이 모자랍니다(전투력 7). 당신의 자존심을 지키기 위해서라도 치명적 약점을 은폐하고, 사기적인 전투 아이템들을 기필코 탈취해 진정한 최강자로 서야 합니다.</p></div>",
+            "secrets": [
+                {
+                    "secretTitle": "눈 아래 숨겨진 진흙",
+                    "secretContent": "<div class='secret-content'><p>골든 킹과 교환했던 밀서. 당신이 진정으로 영웅 편이었다면 바스터즈가 이기지 못했을 것입니다. 이 서신 하나면 당신은 배신자로 참수형입니다.</p></div>",
+                    "disclosureTiming": "IMMEDIATE"
+                },
+                {
+                    "secretTitle": "변경된 목표: 피로 씻어내는 수치",
+                    "secretContent": "<div class='secret-content'><p>당장 위자드의 밀실을 털어 내통 서신을 갈기갈기 찢어야 합니다! 또한 전사로서 자존심을 굽히지 않으려면 강력한 마도구들을 얻어 부족한 무력을 완벽히 보완해야 할 것입니다.</p></div>",
+                    "disclosureTiming": "STEP_SPECIFIC",
+                    "disclosureStepId": "investigation1"
+                }
+            ],
+            "actions": [
+                {
+                    "actionName": "내통 서신 탈취",
+                    "actionDescription": "<div class='action-desc'><p>위자드가 가지고 있는 서신을 탈취하여 없앱니다.</p></div>",
+                    "apCost": 3,
+                    "additionalApCost": 0,
+                    "effectType": "MODIFY_CLUE",
+                    "effectDescription": "<div class='effect-desc'><p>서신이 현장에서 사라집니다.</p></div>",
+                    "targetClueId": "clue_10",
+                    "availableStepOrder": [
+                        2,
+                        4
+                    ],
+                    "isReusable": false
+                }
+            ]
+        }
+    ]
+}
