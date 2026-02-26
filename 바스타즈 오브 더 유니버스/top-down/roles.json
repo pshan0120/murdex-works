@@ -1,25 +1,4 @@
 {
-    "basicInfo": {
-        "title": "바스타즈 오브 더 유니버스: 그레이스컬의 핏빛 만찬",
-        "summary": "정복 전쟁에서 승리하고 그레이스컬 성을 점령한 바로 그 날 만찬이 무르익던 밤, 성의 지배자 중 한 명인 위자드가 시신으로 발견된다. 전투력과 치부가 난무하는 악당들의 피비린내 나는 추리 및 결투극.",
-        "description": "<div class='story-description'><p>위대한 승리 후, <span class='emphasis'>그레이스컬 성</span>을 점령한 악당들은 성대한 축배를 들었습니다.</p><p>하지만 잔이 비워지기도 전에, 성의 마법을 관장하던 <span class='mystery'>엘드리치 위자드</span>가 잠긴 연구실 안에서 단검에 관통된 채 발견됩니다.</p><p>문제는 오늘 밤 전리품 분배 전 자신들의 약점을 은폐하려던 모든 빌런이 그를 주기적으로 죽이고 싶어 했다는 것.</p><p>성채는 봉쇄되었고 탈출구는 없습니다. <span class='highlight'>진범을 찾을 것인가, 압도적인 힘으로 생존을 증명할 것인가?</span></p></div>",
-        "category": "CLASSIC_MYSTERY",
-        "price": null,
-        "playTime": 120,
-        "minPlayers": 7,
-        "maxPlayers": 7,
-        "difficulty": "HIGH",
-        "recommendedAge": "15",
-        "textColor": "#E8D5B7",
-        "backgroundColor": "#1A0A2E",
-        "coverImageUrl": null,
-        "tags": [
-            "FANTASY",
-            "THRILLER",
-            "SUSPENSE"
-        ],
-        "customCss": null
-    },
     "roles": [
         {
             "roleId": "role_01",
