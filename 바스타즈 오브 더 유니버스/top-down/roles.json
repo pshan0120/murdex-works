@@ -22,6 +22,7 @@
     },
     "roles": [
         {
+            "roleId": "role_01",
             "characterName": "발레리우스",
             "roleName": "로드 스컬크러셔",
             "roleOrder": 1,
@@ -60,6 +61,7 @@
             ]
         },
         {
+            "roleId": "role_02",
             "characterName": "말리스",
             "roleName": "레이디 말리스",
             "roleOrder": 2,
@@ -98,12 +100,14 @@
             ]
         },
         {
+            "roleId": "role_03",
             "characterName": "엘드리치",
             "roleName": "엘드리치 위자드",
             "roleOrder": 3,
             "summary": "자신의 수명이 다했음을 직감하고, 악당들에게 살해당하는 것을 역이용해 신으로 부활하려는 종말의 지휘자.",
             "publicInfo": "<div class='role-public'><p><span class='emphasis'>165cm 정도의 왜소하지만 기운이 넘치는 노인</span>. 푸른 수정 구슬이 빛나는 긴 지팡이를 소지.</p><p>성채의 모든 마법 체계를 관장하는 현자였으나, 오늘 만찬 중에 기이한 시신으로 발견되었다.</p><p><strong><span class='emphasis'>생전 기본 전투력: 3 / 부활 마신 전투력: 35</span></strong></p></div>",
             "baseCombatPower": 3,
+            "demonGodCombatPower": 35,
             "description": "<div class='role-private'><p>오늘 오후, 그레이스컬 점령의 환호성 속에서 당신은 당신의 수명이 단 몇 시간밖에 남지 않았음을 깨달았습니다.</p><p>게다가 투명 마법을 통해 말리스가 천장에 네크로맨틱 와이어와 단검을 매달아 당신을 암살하려는 장면까지 지켜보았습니다.</p><p>당신은 이 상황을 즐기기로 했습니다. 당신의 영혼을 성채의 코어와 동기화시킬 함정을 파 두고, 로드 스컬크러셔의 독 헝겊, 슬리더의 훔친 보석, 고어-후프의 식인 증거 갑옷 등 그들이 가장 숨기고 싶어할 단서들을 성채 곳곳에 노골적으로 흩뿌렸습니다.</p><p>당신의 시신이 바닥에 쓰러지는 순간, 당신의 영혼은 성채와 하나가 되어 저 오만한 악당들이 서로를 의심하고 무력을 휘두르며 죽고 죽이게 조종할 것입니다.</p></div>",
             "secrets": [
                 {
@@ -148,6 +152,7 @@
             ]
         },
         {
+            "roleId": "role_04",
             "characterName": "슬리더",
             "roleName": "암살자 슬리더",
             "roleOrder": 4,
@@ -186,6 +191,7 @@
             ]
         },
         {
+            "roleId": "role_05",
             "characterName": "고어-후프",
             "roleName": "돌격대장 고어-후프",
             "roleOrder": 5,
@@ -224,6 +230,7 @@
             ]
         },
         {
+            "roleId": "role_06",
             "characterName": "발로그",
             "roleName": "파괴의 화신 발로그",
             "roleOrder": 6,
@@ -262,6 +269,7 @@
             ]
         },
         {
+            "roleId": "role_07",
             "characterName": "발트라",
             "roleName": "강철의 워로드 발트라",
             "roleOrder": 7,

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "로드 스컬크러셔 (Lord Skullcrusher)",
+    "description": "해골 투구를 쓴 위압적인 전사. 투구의 눈구멍에서 붉은 안광이 빛남. 튼튼한 강철 판금 갑옷을 입고 있으며, 가슴에는 금색의 갈라진 태양 문양이 새겨져 있음. 붉은색 망토를 두르고, 오른손에 거대한 강철 장검을 들고 정면을 응시하는 자세."
+  },
+  {
+    "name": "레이디 말리스 (Lady Malice)",
+    "description": "차갑고 매혹적인 분위기의 여성 마법사. 가시가 돋친 붉은색(진홍색) 판금 갑옷과 긴 로브를 착용. 머리에는 날카로운 가시 형태의 붉은 왕관을 쓰고 있음. 오른손에 붉은색 마력 구슬이 박힌 지팡이를 들고 있음. 전신에서 붉은 마력이 감도는 듯한 모습."
+  },
+  {
+    "name": "고어-후프 (Gore-Hoof)",
+    "description": "흉포한 인상의 반인반수(숫양 괴물). 거대하고 둥글게 말린 뿔과 붉은색 피부/털을 가짐. 상체는 근육질이며 금속 장식이 달린 가죽 멜빵을 착용. 하체는 털로 뒤덮여 있고 발굽이 있음. 양손으로 거대한 양날 전투 도끼를 비스듬히 들고 있는 역동적인 자세."
+  },
+  {
+    "name": "슬리더 (Lizardman, Slither)",
+    "description": "녹색 비늘로 뒤덮인 리저드맨. 날카로운 이빨과 파충류의 눈. 몸을 낮게 수구린 민첩한 자세. 복잡한 갑옷 대신 간소한 갈색 가죽 하네스와 허리 가리개를 착용하여 근육질의 몸이 드러남. 오른손에 날카로운 곡도(scimitar)를 들고 경계하는 모습."
+  },
+  {
+    "name": "발로그 (Balrog)",
+    "description": "전형적인 악마의 형상. 강렬한 붉은색 피부와 근육질의 거대한 체격. 머리에는 뿔이 솟아 있고, 등 뒤에는 거대한 붉은색 박쥐 날개가 펼쳐져 있음. 날카로운 손발톱을 가졌으며, 어두운색 요포(loincloth)만 걸친 채 위압적으로 서 있는 모습."
+  },
+  {
+    "name": "엘드리치 위자드 (Eldritch Wizard)",
+    "description": "긴 흰 수염을 기른 노현자. 금색 테두리 장식이 있는 푸른색 후드 로브를 입고 있음. 깊은 지혜가 느껴지는 눈빛. 왼손에 푸른색 수정 구슬이 빛나는 긴 마법 지팡이를 들고 서 있으며, 오른손은 가볍게 들어 올린 자세."
+  },
+  {
+    "name": "발트라 (Valtra)",
+    "description": "강인한 인상의 여성 전사. 어두운 은색(Dark silver)의 판금 갑옷과 가죽 스커트를 착용. 긴 흑발을 휘날리며 당당하게 서 있음. 오른손에는 장검을 들고, 왼손에는 둥근 방패를 들고 전투 준비 태세를 갖춘 모습."
+  }
+]
+
+
+
+캐릭터 프로필 이미지 생성 프롬프트 가이드 (최종 개정판 - 포스터 화풍 적용)
+
+공통 스타일 가이드 (Master Style):
+Single character only, solo portrait. 1980s Retro Fantasy Oil Painting illustration style, perfectly matching the rich texture, dramatic lighting, and deep color palette of the reference image "BASTARDS OF THE UNIVERSE" poster. Highly detailed rendering of fur, scales, and metal. Visible brush strokes. Not a flat cartoon, not a toy photograph. Plain white background, no background elements, solid white isolation.
+
+1. 슬리더 (Slither) - 왼쪽에서 1번째
+- 정면 프롬프트:
+  Single character only, front view of Slither from Bastards of the Universe. Green-scaled lizardman with sharp teeth and reptilian eyes. Wearing a simple brown leather harness across the chest and a leather loincloth, showing muscular build. Holding a sharp scimitar in his right hand, crouched in an agile, ready pose. Rendered in a detailed 1980s fantasy oil painting style with deep shadows and rich textures, matching the poster art. Plain white background.
+
+- 뒷면 프롬프트:
+  Single character only, back view of Slither from Bastards of the Universe. Showing the back of the green-scaled lizardman with a long tail. Rear view of the brown leather harness and loincloth. Highly detailed scales and leather texture. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+2. 고어-후프 (Gore-Hoof) - 왼쪽에서 2번째
+- 정면 프롬프트:
+  Single character only, front view of Gore-Hoof from Bastards of the Universe. Ferocious ram-headed demon with massive curled horns and red fur/skin. Muscular upper body wearing a leather harness with metal details. Lower body covered in thick, coarse fur with hooves. Holding a massive double-bladed battle axe diagonally with both hands. Dramatic lighting emphasizing muscle and fur texture. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+- 뒷면 프롬프트:
+  Single character only, back view of Gore-Hoof from Bastards of the Universe. Showing the back of the furry ram demon, the large curled horns from behind, and the rear straps of the leather harness. Thick fur texture visible on back and legs. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+3. 레이디 말리스 (Lady Malice) - 왼쪽에서 3번째
+- 정면 프롬프트:
+  Single character only, front view of Lady Malice from Bastards of the Universe. Pale sorceress in ornate crimson and gold plate armor over a long flowing crimson robe with rich fabric folds. Wearing a crown of thorns on her head. Holding a staff topped with a glowing red orb emitting dramatic red energy light onto her armor. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+- 뒷면 프롬프트:
+  Single character only, back view of Lady Malice from Bastards of the Universe. Showing the highly detailed back of the crimson armor and the long flowing crimson robe with deep shadows. Rear view of the thorn crown. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+4. 로드 스컬크러셔 (Lord Skullcrusher) - 왼쪽에서 4번째 (중앙)
+- 정면 프롬프트:
+  Single character only, front view of Lord Skullcrusher from Bastards of the Universe. Imposing warrior wearing a detailed skull helmet with glowing red eyes. Clad in sturdy steel plate armor with realistic metal texture and battle wear, featuring a golden cracked sun emblem on the chest. Wearing a heavy, flowing red cape. Holding a massive steel broadsword in his right hand. Dramatic lighting. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+- 뒷면 프롬프트:
+  Single character only, back view of Lord Skullcrusher from Bastards of the Universe. Showing the heavy texture and folds of the flowing red cape and the detailed rear of the steel plate armor. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+5. 엘드리치 위자드 (Eldritch Wizard) - 왼쪽에서 5번째
+- 정면 프롬프트:
+  Single character only, front view of Eldritch Wizard from Bastards of the Universe. Old sage with a long, detailed white beard. Wearing a heavy blue hooded robe with rich gold trim details and realistic fabric texture. Holding a long magic staff topped with a glowing blue crystal orb in his left hand, casting blue light. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+- 뒷면 프롬프트:
+  Single character only, back view of Eldritch Wizard from Bastards of the Universe. Showing the back of the heavy blue hooded robe and the flowing cloak with deep folds and shadows. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+6. 발로그 (Balrog) - 왼쪽에서 6번째
+- 정면 프롬프트:
+  Single character only, front view of Balrog from Bastards of the Universe. Typical demon figure with intense, highly textured red skin and muscular build. Horns on head, massive leathery red bat wings spread behind back showing vein details. Sharp claws, wearing only a dark loincloth. Dramatic lighting highlighting muscles. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+- 뒷면 프롬프트:
+  Single character only, back view of Balrog from Bastards of the Universe. Showing the massive leathery red bat wings spread wide from behind, detailed texture visible. Muscular back and rear of the dark loincloth. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+7. 발트라 (Valtra) - 왼쪽에서 7번째
+- 정면 프롬프트:
+  Single character only, front view of Valtra from Bastards of the Universe. Strong female warrior with long black hair. Wearing highly detailed dark silver plate armor with metal reflections and a leather skirt. Holding a longsword in her right hand and a round shield in her left, ready for battle. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+- 뒷면 프롬프트:
+  Single character only, back view of Valtra from Bastards of the Universe. Showing the detailed back of the dark silver armor, leather skirt, and long black hair. Rear view of the shield showing texture. Rendered in a detailed 1980s fantasy oil painting style, matching the poster art. Plain white background.
+
+
+🎨 공통 스타일 프롬프트 (Style Base)
+모든 배경 생성 시 프롬프트 끝에 반드시 포함해야 할 공통 문구입니다.
+
+"Detailed 1980s fantasy oil painting style, matching the poster art. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, vintage analog fantasy aesthetic."
