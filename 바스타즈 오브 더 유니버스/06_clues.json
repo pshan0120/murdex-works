@@ -1,403 +1,404 @@
 {
     "clues": [
         {
-            "id": "clue_01_intro",
-            "clueName": "날카로운 눈초리와 초조함",
-            "subtitle": "관찰",
+            "id": "clue_01_intro_skull",
+            "clueName": "회랑을 배회하던 스컬크러셔",
+            "subtitle": "관찰 기록",
             "targetLocationId": "role_01",
             "clueType": "INSIGHT",
-            "clueContent": "<div class='clue-container'><p><span class='highlight'>스컬크러셔</span>의 행동 양식이 평소의 거만한 모습과 다소 다릅니다.</p><p>그는 자리표에서 멀찍이 떨어져 성채 곳곳을 빠른 걸음으로 오가고 있으며, 시선은 끊임없이 바닥의 구석진 곳이나 장식물 뒤편을 향해 있습니다. 호흡이 얕고 거칠며, 눈동자가 불안정하게 흔들리는 모습이 관찰됩니다.</p></div>"
+            "clueContent": "<div class='clue-container'><p><span class='highlight'>회랑을 배회하던 스컬크러셔</span>의 세부 정보입니다.</p><p>연회 전(18:30~19:50)에 자신의 치부(독살 증거물)를 급박하게 찾고 다니던 불안정한 심리 노출</p></div>"
         },
         {
-            "id": "clue_02_intro",
-            "clueName": "서늘한 손끝의 기운",
-            "subtitle": "관찰",
+            "id": "clue_02_intro_mallice",
+            "clueName": "허공을 응시하는 레이디 말리스",
+            "subtitle": "관찰 기록",
             "targetLocationId": "role_02",
             "clueType": "INSIGHT",
-            "clueContent": "<div class='clue-container'><p><span class='highlight'>레이디 말리스</span>가 곁을 스쳐 지나갈 때 찰나의 이질적인 기운이 맨살을 스칩니다.</p><p>서늘하다 못해 찌르는 듯한 날카로운 냉기가 그녀의 손끝과 소매 부근에서 희미하게 피어오르고 있습니다. 주변 공기의 온도를 국소적으로 떨어뜨릴 정도의 무거운 기류가 몸놀림을 따라 느릿하게 흩어집니다.</p></div>"
+            "clueContent": "<div class='clue-container'><p><span class='highlight'>허공을 응시하는 레이디 말리스</span>의 세부 정보입니다.</p><p>연회석에 여유롭게 앉아 천장을 바라보는 모습으로 원격 살해(와이어 트릭) 타이밍을 재고 있음을 암시</p></div>"
         },
         {
-            "id": "clue_03_intro",
-            "clueName": "비릿한 냄새",
-            "subtitle": "관찰",
+            "id": "clue_03_intro_gore",
+            "clueName": "지하를 헤집고 다니던 고어-후프",
+            "subtitle": "관찰 기록",
             "targetLocationId": "role_03",
             "clueType": "INSIGHT",
-            "clueContent": "<div class='clue-container'><p><span class='highlight'>고어-후프</span>가 숨을 내쉴 때마다 무거운 악취가 훅 끼쳐옵니다.</p><p>일반적인 땀이나 금속 냄새와는 거리가 멉니다. 두껍고 뾰족한 이빨 사이사이로 검붉게 말라붙은 무언가가 엉겨 있으며, 코를 찌르는 진득한 쇠비린내가 깊은 숨을 타고 흘러나오고 있습니다.</p></div>"
+            "clueContent": "<div class='clue-container'><p><span class='highlight'>지하를 헤집고 다니던 고어-후프</span>의 세부 정보입니다.</p><p>연회 직전, 수일 전 동료 시신을 먹었던 흔적(이빨 자국 갑옷)의 냄새를 맡고 성채 지하를 미친 듯 배회한 모습</p></div>"
         },
         {
-            "id": "clue_04_intro",
-            "clueName": "비어있는 칼집",
-            "subtitle": "소지품 관찰",
+            "id": "clue_04_intro_slither",
+            "clueName": "오래전 비워진 단검 칼집",
+            "subtitle": "관찰 기록",
             "targetLocationId": "role_04",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>당신은 버릇처럼 허리춤으로 손을 내리다 등골이 서늘해짐을 느낍니다.</p><p>단단하게 결속되어 있어야 할 가죽 칼집 안쪽이 <span class='highlight'>텅 비어있습니다.</span> 무기의 무게감이나 차가운 자루의 감촉이 완전히 사라졌으며, 칼집 입구 부분 가죽이 무언가에 쓸린 듯 미세하게 일어나 있습니다.</p></div>"
+            "clueType": "INSIGHT",
+            "clueContent": "<div class='clue-container'><p><span class='highlight'>오래전 비워진 단검 칼집</span>의 세부 정보입니다.</p><p>(알리바이 겸용) 방금 무기를 뽑은 것이 아니라, 오후 5시경부터 한참 비어있었다는 점을 증명하는 마른 먼지 자국</p></div>"
         },
         {
-            "id": "clue_05_intro",
-            "clueName": "목덜미에 새겨진 붉은 흔적",
-            "subtitle": "육신 관찰",
+            "id": "clue_05_intro_balrog",
+            "clueName": "연구실 앞에서 서성인 발로그",
+            "subtitle": "관찰 기록",
             "targetLocationId": "role_05",
             "clueType": "INSIGHT",
-            "clueContent": "<div class='clue-container'><p>당신의 목덜미 피부 아래 깊숙한 곳에서, 불규칙적이고 예리한 통증이 일정 주기로 맥박치듯 번져옵니다.</p><p>목덜미 겉부분 피부 위로 기하학적인 <span class='highlight'>붉은색 형태의 선</span>이 혈관을 타고 은은하게 떠올랐다 가라앉기를 반복합니다. 억눌린 박동은 당신의 호흡을 미세하게 옥죄고 있습니다.</p></div>"
+            "clueContent": "<div class='clue-container'><p><span class='highlight'>연구실 앞에서 서성인 발로그</span>의 세부 정보입니다.</p><p>위자드를 향한 살의를 억누르며 연회 시작 전 그의 방 근처를 서성거렸던 위협적 동기 노출</p></div>"
         },
         {
-            "id": "clue_06_intro",
-            "clueName": "거만한 미소 속의 미세한 떨림",
-            "subtitle": "위자드 관찰",
+            "id": "clue_06_intro_valtra",
+            "clueName": "식은땀을 흘리는 발트라",
+            "subtitle": "관찰 기록",
+            "targetLocationId": "role_07",
+            "clueType": "INSIGHT",
+            "clueContent": "<div class='clue-container'><p><span class='highlight'>식은땀을 흘리는 발트라</span>의 세부 정보입니다.</p><p>과거 영웅과 내통한 서신이 폭로될까 두려워 무기고와 회랑을 샅샅이 뒤지고 연회에 참석한 초조한 모습</p></div>"
+        },
+        {
+            "id": "clue_07_intro_wizard",
+            "clueName": "창백해진 위자드",
+            "subtitle": "군주의 한계",
             "targetLocationId": "role_06",
             "clueType": "INSIGHT",
-            "clueContent": "<div class='clue-container'><p>엘드리치 위자드가 연회장 단상 위 옥좌에 비스듬히 기대어 아래를 내려다보고 있습니다.</p><p>입꼬리에는 늘 그렇듯 거만하고 비릿한 미소가 띄워져 있습니다. 그러나 옥좌의 팔걸이에 얹힌 그의 앙상한 손가락 끝이 불규칙하게, 그리고 아주 미세하게 연신 떨리고 있으며, 이따금씩 뱉어내는 숨소리에 밭은 기침이 섞여 들어갑니다.</p></div>"
+            "clueContent": "<div class=\"clue-container\"><p>위자드가 연회장의 높은 옥좌에 앉아 군주로서의 위엄을 내세우려 했으나, 육신의 상태는 그렇지 못했습니다.</p><div class=\"quote-box\">그의 창백한 피부 아래로 검푸른 핏줄이 도드라졌고, 입가를 가린 손끝은 눈에 띄게 떨리고 있었습니다.</div><p>마른 기침이 옥좌 너머로 희미하게 새어 나왔으며, 이는 압도적인 마력 뒤에 숨겨진 <span class=\"highlight\">생명력의 고갈</span>을 투명하게 드러내고 있었습니다.</p></div>"
         },
         {
-            "id": "clue_07_intro",
-            "clueName": "군화에 묻은 다른 색깔의 흙",
-            "subtitle": "관찰",
+            "id": "clue_08_inv1_lab_dagger",
+            "clueName": "정수리를 관통한 독사 단검",
+            "subtitle": "치명적인 낙하물",
+            "targetLocationId": "loc_02",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>어두운 광택이 흐르는 독사 형상의 단검이, 시신의 정수리를 기괴할 정도로 정확하고 수직적으로 관통해 있습니다.</p><div class=\"quote-box\">단검이 꽂힌 각도와 두개골의 파손 형태를 볼 때, 수평적인 타격이나 사람의 완력이 아닌 위에서 아래로 떨어지는 강한 직진 에너지만이 관찰됩니다.</div><p>칼자루 끝부분에는 미세한 긁힘 자국이 있으며, 중력과 가속도만이 이러한 <span class=\"highlight\">수직 관통상</span>을 만들어낼 수 있는 유일한 물리적 원인으로 분석됩니다.</p></div>"
+        },
+        {
+            "id": "clue_09_inv1_lab_clean",
+            "clueName": "파손 없는 연구실 내부",
+            "subtitle": "정돈된 현장",
+            "targetLocationId": "loc_02",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>살인이라는 끔찍한 사건이 일어난 연구실 내부라고는 믿기지 않을 만큼, 방 안의 물건들은 놀라울 정도로 정돈되어 있습니다.</p><div class=\"quote-box\">바닥에 깔린 양탄자에는 누군가 격렬하게 거부하거나 몸싸움을 벌인 흔적이 없으며, 깨지기 쉬운 실험 도구들 역시 제자리에 안착해 있습니다.</div><p>이는 거대한 무기나 둔중한 완력을 휘두르는 <span class=\"highlight\">물리적 폭력이 수반되지 않았음</span>을 강력하게 시사하는 현장의 침묵입니다.</p></div>"
+        },
+        {
+            "id": "clue_10_inv1_lab_cup",
+            "clueName": "온기가 남은 향긋한 차",
+            "subtitle": "남겨진 온기",
+            "targetLocationId": "loc_02",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>시신이 엎어져 있는 책상 가장자리, 정교하게 세공된 찻잔 속에 아직 옅은 온기를 품은 붉은 차가 반쯤 남아 있습니다.</p><div class=\"quote-box\">수면에는 미세한 먼지조차 내려앉지 않았으며, 찻잔의 손잡이는 방금 전까지 누군가 쥐고 있었던 듯 미묘한 체온을 간직하고 있습니다.</div><p>이 고요한 찻잔은 대상이 죽음을 맞이하는 그 찰나까지 <span class=\"highlight\">어떠한 물리적 위협도 인지하지 못하고</span> 평온한 상태였음을 방증합니다.</p></div>"
+        },
+        {
+            "id": "clue_11_inv1_sli_burn",
+            "clueName": "화상 입은 피 묻은 허물",
+            "subtitle": "고통의 탈각",
+            "targetLocationId": "loc_03",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>어두운 구석에서 발견된, 점액질이 완전히 말라버린 반투명한 허물의 잔해입니다.</p><div class=\"quote-box\">허물의 표면 곳곳에는 강력한 산성 물질 혹은 고열의 마력에 의해 검게 타들어가고 녹아내린 끔찍한 화상 흉터가 선명하게 남아 있습니다.</div><p>일반적인 탈피 과정에서 발생하는 껍질이 아니라, 내부에서 끓어오르는 극심한 반발 작용을 견디지 못하고 <span class=\"highlight\">고통 속에 강제 탈각</span>된 기형적인 부산물입니다.</p></div>"
+        },
+        {
+            "id": "clue_12_inv1_sli_chest",
+            "clueName": "자물쇠가 녹아내린 무기함",
+            "subtitle": "파괴된 보관함",
+            "targetLocationId": "loc_03",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>금속판으로 덧대어진 두꺼운 무기 보관함의 문이 비뚜름하게 열려 있습니다.</p><div class=\"quote-box\">열쇠 구멍 부근의 금속이 고열의 화학 반응에 의해 진흙처럼 흐물흐물하게 녹아내렸고, 자물쇠의 내부 기어는 완전히 융해되어 형체를 잃었습니다.</div><p>정상적인 열쇠로 개방된 흔적이 아니며, 산성 용액이나 파괴적인 힘에 의해 <span class=\"highlight\">외부에서 강제로 문을 개방</span>당한 명백한 훼손의 현장입니다.</p></div>"
+        },
+        {
+            "id": "clue_13_inv1_arm_mace",
+            "clueName": "거미줄이 쳐진 철퇴",
+            "subtitle": "방치된 파괴구",
+            "targetLocationId": "loc_04",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>무기고 한구석, 육중한 거치대 위에 안착된 거대한 가시 철퇴입니다.</p><div class=\"quote-box\">손잡이의 가죽 그립 사이사이에는 메마른 먼지가 뽀얗게 내려앉아 있고, 철퇴의 헤드 부근에는 낡은 거미줄 무리가 끊어짐 없이 엮여 있습니다.</div><p>최근 누군가 이 무기를 쥐고 <span class=\"highlight\">휘두르거나 타격을 가한 물리적 마찰</span>이 수일 동안 전혀 발생하지 않았음을 조용히 증명하고 있습니다.</p></div>"
+        },
+        {
+            "id": "clue_14_inv1_arm_poison",
+            "clueName": "독이 묻어 말라붙은 헝겊",
+            "subtitle": "말라붙은 얼룩",
+            "targetLocationId": "loc_04",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>무기 손질 도구들이 정돈된 탁자 한편에 구겨진 채 방치된 거친 질감의 헝겊입니다.</p><div class=\"quote-box\">헝겊 중앙부에는 검녹색 액체가 섬유 깊숙이 스며들어 완전히 말라붙은 단단한 자국이 남아 있으며, 코를 찌르는 극도로 씁쓸하고 자극적인 향이 희미하게 남아 있습니다.</div><p>일반적인 기름때나 피의 얼룩과는 분자 구조부터 다른, 강력한 속효성 <span class=\"highlight\">마비 조제 액체</span>가 스포이드나 병에서 묻어난 치명적 흔적입니다.</p></div>"
+        },
+        {
+            "id": "clue_15_inv1_hall_armor",
+            "clueName": "짐승 이빨 자국이 패인 갑옷 조각",
+            "subtitle": "비정상적 파손",
+            "targetLocationId": "loc_01",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>구석에 처박힌 찌그러진 강철 갑옷의 흉갑 부분입니다.</p><div class=\"quote-box\">무기로 베이거나 둔기로 맞은 찌그러짐과는 근본적으로 다른, 무언가 거대하고 날카로운 것에 무참히 짓씹힌 채 뜯겨 나간 기괴한 파열구들이 밀집해 있습니다.</div><p>금속의 찢어진 단면에는 희미한 타액과 동물의 강한 턱힘에 의해 파고든 <span class=\"highlight\">거대한 이빨 자국</span>이 마치 도장처럼 남겨져 있습니다.</p></div>"
+        },
+        {
+            "id": "clue_16_inv1_hall_log",
+            "clueName": "연회장 하인의 배식 장부",
+            "subtitle": "시간의 기록",
+            "targetLocationId": "loc_01",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>하인들이 연회를 준비하며 작성한 배식 및 작업 일지가 기록된 낡은 양피지 문서입니다.</p><div class=\"quote-box\">\"19시 50분부터 20시 10분, 메인 샹들리에 점화 및 연회장 중앙 통제. 총책임자가 옥좌 앞에서 고성을 지르며 배치를 지휘함\"이라는 잉크의 필적이 또렷합니다.</div><p>적어도 살해가 발생한 기점 전후로, 한 개인의 <span class=\"highlight\">알리바이와 공간적 위치</span>를 복수의 시선이 확보하고 있었다는 서면상의 명백한 타임라인입니다.</p></div>"
+        },
+        {
+            "id": "clue_17_inv1_hall_door",
+            "clueName": "문설주 앞의 닳아버린 발자국",
+            "subtitle": "고정된 무게",
+            "targetLocationId": "loc_01",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>연회장으로 향하는 메인 복도의 특정 문설주 앞, 바닥에 깔린 카펫의 일부분입니다.</p><div class=\"quote-box\">카펫의 부드러운 직조물이 육중한 철제 군화의 형태 그대로 깊숙이, 그리고 단단하게 눌린 채 복원되지 않고 있습니다. 그 주변으로 주변 먼지들이 미미하게 쌓이는 경계선이 생겼습니다.</div><p>이는 누군가 오랜 시간 동안 <span class=\"highlight\">문설주 앞을 떠나지 않고 하나의 요지부동의 자세로</span> 경계를 서고 있었음을 증명하는 물리적 압력의 결과물입니다.</p></div>"
+        },
+        {
+            "id": "clue_18_inv1_cor_letter",
+            "clueName": "골든 킹의 압인이 남은 서신",
+            "subtitle": "이질적인 문양",
+            "targetLocationId": "loc_05",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>바닥에 찢겨져 떨어진 두꺼운 서신의 잔해입니다. 종이의 재료 자체가 제국의 보급품과는 다른 귀한 양피지입니다.</p><div class=\"quote-box\">서신의 한쪽 모서리에는 태양을 형상화한 반짝이는 금박 문양이 압인으로 눌려 있으며, 타다 남은 문장 속에는 성채 내부의 정보 배치가 암호화되어 기록된 정황이 보입니다.</div><p>이는 성채 외부의 거대한 적대 세력과 내부의 장성이 은밀한 채널로 <span class=\"highlight\">군사적 기밀을 소통</span>하고 있었음을 보여주는 치명적 증거입니다.</p></div>"
+        },
+        {
+            "id": "clue_19_inv1_cor_scorch",
+            "clueName": "연구실 문 앞의 거대한 악마 화상 자국",
+            "subtitle": "거부된 흔적",
+            "targetLocationId": "loc_05",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>연구실 문으로 향하는 복도 바닥과 벽면에 새겨진 광범위하고 기괴한 형태의 화상 자국입니다.</p><div class=\"quote-box\">일반적인 화염병이나 불꽃이 퍼진 흔적이 아니며, 마치 눈에 보이지 않는 구형의 강력한 장벽에 무언가 거대한 덩어리가 거세게 부딪힌 뒤 튕겨나가며 흩뿌려진 듯한 동심원 형태의 그을음입니다.</div><p>특정 대상의 출입을 철저히 차단하는 강력한 <span class=\"highlight\">마법적 결계 시스템이 격렬하게 작동</span>했음을 시각적으로 증명하고 있습니다.</p></div>"
+        },
+        {
+            "id": "clue_20_inv2_lab_wire",
+            "clueName": "천장 환기구의 일자형 그을음",
+            "subtitle": "천장의 흑색선",
+            "targetLocationId": "loc_02",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>사건 현장인 연구실의 높은 천장, 통풍구 쇠창살에 희미하게 남겨진 기이한 흔적입니다.</p><div class=\"quote-box\">쇠창살의 단면을 가로지르며, 폭이 단 1밀리미터도 되지 않는 극도로 얇고 날카로운 일자형 그을음이 맺혀 있습니다. 주변으로 미세한 잿가루가 공중으로 퍼지다 굳은 양상입니다.</div><p>무언가 가늘고 예리한 마력 구속구가 짧고 강력한 에너지를 발산하며 <span class=\"highlight\">기화하듯 한순간에 산화</span>된 물리적 잔해입니다.</p></div>"
+        },
+        {
+            "id": "clue_21_inv2_lab_fingerprint",
+            "clueName": "지문 하나 없는 흉기 손잡이",
+            "subtitle": "깨끗한 자루",
+            "targetLocationId": "loc_02",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>관통된 단검의 손잡이 표면을 정밀하게 조사한 결과입니다.</p><div class=\"quote-box\">손잡이의 가죽 그립 부분에는 그 흔한 땀자국이나 마찰로 인한 얼룩, 지문의 유분조차 전혀 남아있지 않은 완벽한 무균 상태의 건조함을 유지하고 있습니다.</div><p>점액질이나 땀이 끊임없이 배어 나오는 신체 조건을 가진 자가 무기를 직접 쥐고 살을 파고들 정도의 압력을 가했다면 <span class=\"highlight\">물리적으로 존재할 수 없는 깨끗함</span>입니다.</p></div>"
+        },
+        {
+            "id": "clue_22_inv2_lab_window",
+            "clueName": "반대로 부서진 창틀 파편",
+            "subtitle": "어설픈 위장",
+            "targetLocationId": "loc_02",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>연구실 외부로 난 창살 틈 사이의 유리 파편들의 비정상적인 분포 상태입니다.</p><div class=\"quote-box\">외부 침입자가 유리를 깨고 들어온 궤적을 연출하려 한 듯 창틀이 부서져 있으나, 정작 산산조각 난 유리 조각들의 80% 이상이 밖이 아닌 방 안쪽 바닥을 향해 흩뿌려져 있습니다.</div><p>이는 바깥에서 힘을 가해 창을 깬 것이 아니라, 내부에서 바깥으로 위장하기 위해 <span class=\"highlight\">조작된 충격의 역학</span>을 뚜렷하게 보여주는 오류입니다.</p></div>"
+        },
+        {
+            "id": "clue_23_inv2_lab_ledger",
+            "clueName": "피에 젖은 협박 장부",
+            "subtitle": "심연의 장부",
+            "targetLocationId": "loc_02",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>피바다가 된 연구실 바닥에 비스듬히 떨어져 있는 두꺼운 양장본 수첩입니다. 표지가 반쯤 뜯겨져 나갔습니다.</p><div class=\"quote-box\">빽빽한 필기체로 기록된 페이지들에는 성채 내부 각 구성원들의 숨기고 싶은 과거, 치부, 그리고 그들의 목숨줄을 쥘 수 있는 은밀한 비위 사실들이 치밀한 날짜와 함께 나열되어 있습니다.</div><p>이 장부가 공개되는 순간, 연회에 참석한 <span class=\"highlight\">모든 이들이 범행의 강력한 당위성</span>을 갖게 만든다는 서면화된 파멸의 군상기입니다.</p></div>"
+        },
+        {
+            "id": "clue_24_inv2_cor_shoes",
+            "clueName": "마멜리아의 아이용 헝겊 신발",
+            "subtitle": "시간이 멈춘 가죽",
+            "targetLocationId": "loc_05",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>성채의 우울하고 어두운 복도 구석에서 발견된, 성인의 손바닥만 한 아주 낡은 아이용 헝겊 신발 한 짝입니다.</p><div class=\"quote-box\">신발의 천은 오랜 세월의 흔적과 함께 미세한 자줏빛 마력 구름에 휩싸여 있으며, 이는 치명적인 저주나 깊은 구렁에 오랫동안 봉인되어 있던 물건특유의 부식 흔적입니다.</div><p>가장 순수한 생명력이 <span class=\"highlight\">강력한 암흑 마력의 자양분으로 치환</span>될 때 남겨지는 슬프고도 명백한 감정적 오브제입니다.</p></div>"
+        },
+        {
+            "id": "clue_25_inv2_cor_slave",
+            "clueName": "지옥 추방 명령 및 영구 노예 계약서",
+            "subtitle": "절대 구속",
+            "targetLocationId": "loc_05",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>단단한 묘비석의 탁본처럼 보이는, 철저한 강제성을 띄는 고대 양피지 문서의 파편입니다.</p><div class=\"quote-box\">문서의 중앙에는 한때 강력했던 악마의 진명(True Name)이 적혀 있고, 그 텍스트 위로 \"소유자의 심장이 멈추는 날, 이 영혼의 구속 또한 그 결속을 파기한다\"는 맹세의 봉인이 찍혀 있습니다.</div><p>특정 대상에게 있어 이 계약의 성립자는 곧 <span class=\"highlight\">반드시 죽여야만 자신이 자유를 얻을 수 있는 유일한 통로</span>임을 증명하는 운명의 족쇄입니다.</p></div>"
+        },
+        {
+            "id": "clue_26_inv2_arm_log",
+            "clueName": "무기고 대출입 기록부의 위조",
+            "subtitle": "기이한 필통",
+            "targetLocationId": "loc_04",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>무기고의 출입과 장비 무단 반출을 기록하는 허름한 대출 병참 일지입니다.</p><div class=\"quote-box\">사고 당일 오후 5시에 특정 인물이 숫돌을 빌려 갔다는 기록이 적혀 있으나, 잉크가 깃펜에서 한 번에 쏟아진 듯 필압이 매우 깊고, 서명의 끝선이 부자연스럽게 비틀려 있습니다.</div><p>이는 당사자가 직접 쓴 필체가 아니라, 누군가 다른 대상에게 혐의를 강제로 부여하기 위해 <span class=\"highlight\">필체를 서툴게 모방한 서류 조작</span>의 강력한 정황입니다.</p></div>"
+        },
+        {
+            "id": "clue_27_inv2_arm_fake",
+            "clueName": "가짜 짐승 발톱 자국 문",
+            "subtitle": "정밀한 파괴",
+            "targetLocationId": "loc_04",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>연구실 접근로 근처 목재 벽면에 깊게 파인 세 줄기의 날카로운 짐승 발톱 자국입니다.</p><div class=\"quote-box\">언뜻 흉포한 야수가 벽을 긁은 것처럼 보이나, 단면을 자세히 보면 나뭇결이 뜯긴 것이 아니라 예리한 금속 조각칼 같은 공구를 이용해 정교하고 일정한 힘으로 깎아낸 흔적입니다.</div><p>더군다나 상흔의 높이가 성인 허리춤에도 미치지 않아, 통제가 불가능한 거구의 짐승이 분노하여 남긴 <span class=\"highlight\">자연스러운 동역학적 산물조차 아님이 증명</span>됩니다.</p></div>"
+        },
+        {
+            "id": "clue_28_inv2_sli_gem",
+            "clueName": "바스라진 창조의 보석 가루",
+            "subtitle": "깨어진 창조원",
+            "targetLocationId": "loc_03",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>슬리더의 동선이 머물던 바닥 틈새에서 채취된 기이한 빛을 발하는 미세한 모래알 크기의 가루들입니다.</p><div class=\"quote-box\">가루 주변으로는 희미한 공간의 일렁임이 관찰되며, 일반적인 광물이 파괴된 가루가 아닌 극도로 응축된 근원적 마력이 외부의 강한 충격이나 소화액에 의해 강제로 갈라진 파편들입니다.</div><p>이는 도난당한 절대적인 권능의 물체가 <span class=\"highlight\">어리석은 탐욕에 의해 이미 흡수/파괴</span>되는 과정을 겪고 있다는 명백한 결과율을 보여줍니다.</p></div>"
+        },
+        {
+            "id": "clue_29_inv2_sli_pain",
+            "clueName": "고통에 뒹군 카펫",
+            "subtitle": "몸부림의 흔적",
+            "targetLocationId": "loc_03",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>슬리더가 기거하던 구역바닥의 두꺼운 직조 카펫에 남겨진 난잡한 주름과 마찰 자국들입니다.</p><div class=\"quote-box\">직조물의 결이 사방으로 심하게 헝클어져 있고, 중간중간 고열에 의해 직물이 누렇게 늘어붙은 흔적들이 여러 군데에서 발견됩니다.</div><p>이는 특정 시간에 대상이 견딜 수 없는 극심한 신체적 고통에 휩싸여 바닥을 뒹굴며 <span class=\"highlight\">제대로 단 한 걸음도 걷기 힘든 마비 및 발열 상태</span>에 놓여 있었음을 방증하는 흔적입니다.</p></div>"
+        },
+        {
+            "id": "clue_30_inv2_hall_magic",
+            "clueName": "보랏빛 마나 잔여물",
+            "subtitle": "잔여 마력 구조",
+            "targetLocationId": "loc_01",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>연회장 내 레이디 말리스의 지정석 바로 아래, 눈에 잘 띄지 않는 조밀한 카펫 섬유 안쪽에서 관찰된 현상입니다.</p><div class=\"quote-box\">육안으로는 식별이 어려우나, 특정 마법적 파장 아래에서 보랏빛으로 희미하게 발광하는 극미량의 재(Ash) 형태의 입자들이 반경을 그리며 떨어져 있습니다.</div><p>방대한 저주나 소환 마법의 흔적이 아닌, 아주 미세하고 정교한 <span class=\"highlight\">단일 연결술(와이어 등의 원격 해제) 작동 시 발생하는 마력의 지문</span>과 동일한 입자 배열을 지닙니다.</p></div>"
+        },
+        {
+            "id": "clue_31_combat_amulet",
+            "clueName": "전사의 고대 부적",
+            "subtitle": "전투 보조품",
+            "targetLocationId": "loc_01",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>주인을 잃고 한쪽에 방치된 빛바랜 고대 부적입니다. 거친 가죽줄 끝에 묵직한 동석탄이 매달려 있습니다.</p><div class=\"quote-box\">희미하게 남은 룬 문자가 착용자의 근력을 끌어올리는 효과를 발휘합니다.</div><p>착용 시 <span class=\"highlight\">근거리 제압 시 물리력이 상승</span>할 것입니다. (+전투력)</p></div>"
+        },
+        {
+            "id": "clue_32_combat_sword",
+            "clueName": "날이 휘어진 장검",
+            "subtitle": "녹슨 투기",
+            "targetLocationId": "loc_04",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>무기고 틈새에 숨겨져 있던 장건한 형태의 철제 장검입니다. 날은 이가 빠졌으나 여전히 묵직한 질량을 자랑합니다.</p><div class=\"quote-box\">자루의 가죽은 마모되었지만 검신의 균형은 훌륭하여 실전에서 즉각 사용할 수 있습니다.</div><p>이를 손에 쥐면 어떠한 육탄전에서도 <span class=\"highlight\">결정적인 우위 요소</span>로 작용할 물리적 도구가 됩니다. (+전투력)</p></div>"
+        },
+        {
+            "id": "clue_33_combat_ring",
+            "clueName": "어둠의 속박 반지",
+            "subtitle": "마력의 반지",
+            "targetLocationId": "loc_02",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>연구실 근처에서 포착된 작은 음각 반지입니다. 어두운 오닉스가 중앙에 박혀 서늘한 냉기를 뿜어냅니다.</p><div class=\"quote-box\">오닉스에 머무는 에너지는 주변의 마찰력을 한순간에 무효화하는 암흑의 성질을 띠고 있습니다.</div><p>장착하는 자에게 <span class=\"highlight\">기이한 기동 타격력</span>을 부여해 줍니다. (+전투력)</p></div>"
+        },
+        {
+            "id": "clue_34_combat_potion",
+            "clueName": "야성의 분노 비약",
+            "subtitle": "미확인 용액",
+            "targetLocationId": "loc_03",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>두꺼운 코르크로 밀봉된 붉은 빛깔의 작은 유리병입니다.</p><div class=\"quote-box\">액체 내부에선 미세한 기포가 끊임없이 솟아오르고 있으며, 용기에 귀를 대면 마치 짐승의 으르렁거림 같은 파도 소리가 울립니다.</div><p>음용 시 혈류를 폭발적으로 연소시켜 매우 강력하나 리스크가 따르는 <span class=\"highlight\">야성적인 위력</span>을 순간 발휘하게 해 줍니다. (+전투력)</p></div>"
+        },
+        {
+            "id": "clue_35_valtra_seal",
+            "clueName": "부서진 금빛 밀랍(골든 킹)",
+            "subtitle": "금빛 파편",
+            "targetLocationId": "loc_05",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>서신과는 별개의 구석에서 발견된, 깨어지고 부스러진 굳은 밀랍 조각들입니다.</p><div class=\"quote-box\">단순한 봉인용 왁스가 아니라, 밀랍의 표면에는 찬란한 금가루가 섞여 있으며, 거대한 우주의 적들을 상징하는 태양 폭발 문양의 파편이 여전히 선명하게 형태를 유지하고 있습니다.</div><p>이는 제국 내부의 문서가 아니라 외부, 그것도 <span class=\"highlight\">골든 킹 세력의 친서에만 사용되는 최고위급 외교용 봉인체</span>의 잔재입니다.</p></div>"
+        },
+        {
+            "id": "clue_36_valtra_cipher",
+            "clueName": "난해한 기호가 적힌 해독표 일부",
+            "subtitle": "이해할 수 없는 배열",
             "targetLocationId": "role_07",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p><span class='highlight'>발트라</span>가 꼿꼿하게 선 자세로 주변을 응시하고 있습니다.</p><p>건조한 회백색 석재 바닥 위에 놓인 그녀의 군화 밑창 가장자리에 붉고 축축한 찰흙 지질의 흙덩이가 여러 겹 엉겨 붙어 있습니다. 연회장 주변의 토질과는 수분감과 색상이 확연히 대비됩니다.</p></div>"
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>종속 장군의 품속 혹은 개인 물품 속에서 발견된 마모된 금속판 조각입니다.</p><div class=\"quote-box\">판의 표면에는 특정 단어 대신 복잡한 도형과 성좌의 위치, 그리고 제국어와는 전혀 다른 형태의 기하학적 난수 기호들이 빼곡하게 음각되어 있습니다.</div><p>단독으로는 아무런 의미도 갖지 못하지만, 특정 복호화 된 문서(서신)에 프레임을 덮어씌웠을 때 <span class=\"highlight\">숨겨진 진짜 단어들을 필터링해 주는 해독 툴의 일부</span>임이 분명합니다.</p></div>"
         },
         {
-            "id": "clue_08_inv1_hall",
-            "clueName": "검게 그을린 쇠사슬 마디",
-            "subtitle": "파손된 금속",
+            "id": "clue_37_skull_vial",
+            "clueName": "무색 무취 액체가 담긴 빈 병",
+            "subtitle": "잔류하는 투명함",
+            "targetLocationId": "role_01",
+            "clueType": "PHYSICAL",
+            "clueContent": "<div class=\"clue-container\"><p>누군가의 보관함 구석에 은밀하게 숨겨져 있던 손가락 마디만 한 투명한 유리관입니다.</p><div class=\"quote-box\">유리관 내부는 완전히 메말라 있으나, 관을 빛에 비춰보면 극도로 미세하고 끈적한 수막 형태의 잔류 무색 잔여물이 내부 벽을 희미하게 코팅하고 있습니다.</div><p>색상도 향취도 없는 이 맹독의 흔적은, 과거 정정당당한 전투가 아닌 <span class=\"highlight\">무언가의 칼날에 치명적인 용액을 발라 넣었을 때</span> 쓰이는 소분용 도구로서의 역할을 암시합니다.</p></div>"
+        },
+        {
+            "id": "clue_38_skull_book",
+            "clueName": "희귀 식물 독 도감",
+            "subtitle": "결여된 식생 정보",
+            "targetLocationId": "loc_01",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>오래된 서가 한편에 방치되어 있던, 먼지가 두껍게 내려앉은 은하계 맹독 식물 도감입니다.</p><div class=\"quote-box\">도감을 훑어보면 유독 한 구역—호흡과 근육을 정지시키는 점액질 신경독에 관련된 페이지 무리—만이 거칠고 급하게 뜯겨 나간 톱니 모양의 찢긴 자국을 보이고 있습니다.</div><p>누군가 이 도감의 광범위한 독성 정보 중, <span class=\"highlight\">대상을 굳게 묶어 서서히 사망에 이르게 하는 특정한 방식</span>만을 오려내 집중적으로 배양하거나 참고했음을 뚜렷하게 보여줍니다.</p></div>"
+        },
+        {
+            "id": "clue_39_gore_bone",
+            "clueName": "이빨에 심하게 갉힌 사골뼈",
+            "subtitle": "모순된 부산물",
             "targetLocationId": "loc_01",
             "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>구석진 기둥 아래, 성인 팔뚝 굵기의 두꺼운 쇠사슬 링크 하나가 절단되어 떨어져 있습니다.</p><p>물리적인 톱이나 도구로 잘린 것이 아니라, 초고온의 극단적인 열기에 의해 금속이 맥없이 녹아내려 뚝 끊어진 형태입니다. 절단면 주변의 대리석 바닥이 고열로 인해 까맣게 변색되어 파생된 열기의 주인을 짐작게 합니다.</p></div>"
+            "clueContent": "<div class=\"clue-container\"><p>연회장 한편 쓰레기 더미 사이에서 다른 식재료 쓰레기와 함께 버려져 있던 뼈 조각들입니다.</p><div class=\"quote-box\">뼈의 크기나 관절의 구조가 가축의 것이라기엔 지나치게 직립 보행 생물체의 대퇴골과 유사하며, 표면에는 도구로 썰어낸 흔적이 아닌 불규칙하고 육중한 치열 형태의 갉아먹은 흔적이 빽빽하게 분포합니다.</div><p>오늘의 연회 메뉴와는 전혀 관련 없는, <span class=\"highlight\">누군가 은폐하고자 급하게 처리한 듯한 동족 포식의 혐오스러운 잔재물</span>로 분석됩니다.</p></div>"
         },
         {
-            "id": "clue_09_inv1_hall",
-            "clueName": "바닥에 흘린 붉은 꼬임털",
-            "subtitle": "오염 물질",
-            "targetLocationId": "loc_01",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>기둥 밑동 근처에 검붉은 색상의 뻣뻣한 털 한 뭉치가 뭉쳐 있습니다.</p><p>손가락으로 펼쳐보면 끝부분이 잘린 것처럼 평평하고 결이 인위적으로 모여 있습니다. 자연스럽게 짐승의 몸에서 빠진 털이라기 보다는 <span class='highlight'>뭉텅이로 절단되어 이곳에 놓인 듯한</span> 반듯한 절단면을 보여줍니다.</p></div>"
+            "id": "clue_40_gore_report",
+            "clueName": "성채 병사 실종 보고서",
+            "subtitle": "누락된 명부",
+            "targetLocationId": "loc_04",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>성채 경비 부대의 당직소에서 발견된 인명 피해 요약 보고서 문서입니다.</p><div class=\"quote-box\">\"최근 교전 중 외부 적군에 의한 직접 타격 흔적이 없음에도 불구하고, 후위 수비 대형을 유지하던 병력 3명의 신체가 흔적도 없이 완전히 사라진 상태로 이탈 처리됨\"이라는 당혹스러운 비문이 붉은 잉크로 적혀 있습니다.</div><p>외부 요인이 아닌 내부 수비 진영 깊숙한 곳에서 벌어진, <span class=\"highlight\">절대 사라질 수 없는 물리적 질량의 기이한 증발</span>을 증명하는 공식적인 경계 실패 기록입니다.</p></div>"
         },
         {
-            "id": "clue_10_inv1_hall",
-            "clueName": "짐승 뼈에 남은 기괴한 치흔",
-            "subtitle": "뼈 잔해",
-            "targetLocationId": "loc_01",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>테이블 아래에서, 먹고 버린 듯한 거대한 짐승의 다리뼈가 뒹굴고 있습니다.</p><p>뼈의 단면에는 일반적인 육식동물이 남길 수 없는, 비정상적으로 간격이 넓고 톱니처럼 날카로운 여러 겹의 파괴적인 이빨 자국(치흔)이 깊게 패어 있습니다. 뼈마저 으스러뜨릴 수 있는 엄청난 악력의 흔적입니다.</p></div>"
-        },
-        {
-            "id": "clue_11_inv1_hall",
-            "clueName": "한기가 서린 은장미 조각",
-            "subtitle": "차게 식은 장신구",
-            "targetLocationId": "loc_01",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>연회장 탁자 구석에 장식된 은장미 하나가 주변 장식물들과 확연히 다릅니다.</p><p>꽃조각 전체에 하얗게 두꺼운 성에가 껴 있으며, 바닥과 거의 얼어붙은 채 결속되어 있습니다. 누군가 극도의 차가운 감정이나 빙한의 마력을 이곳에서 통제하지 못하고 은밀히 쏟아낸 흔적입니다.</p></div>"
-        },
-        {
-            "id": "clue_12_inv1_corridor",
-            "clueName": "낡은 이국의 은화 한 닢",
-            "subtitle": "반짝이는 금속",
-            "targetLocationId": "loc_05",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>바닥의 얕은 홈 사이에서 먼지가 내려앉은 무거운 은화 한 닢이 발견됩니다.</p><p>표면에는 사자가 포효하는 양각 문양이 정교하게 새겨져 있습니다. 깎여나간 테두리의 질감으로 보아 만들어진 지 오래된 주화이며, 바스타즈 연합의 조악한 주조 시설에서는 구경할 수 없는 퀄리티의 금속 세공품입니다.</p></div>"
-        },
-        {
-            "id": "clue_13_inv1_corridor",
-            "clueName": "찢겨진 보라색 소매 조각",
-            "subtitle": "직물 파편",
-            "targetLocationId": "loc_05",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>벽면 장식의 예리한 돌출부에 짙은 보라색 벨벳 원단의 끝부분이 걸려 있습니다.</p><p>직물의 올이 팽팽하게 당겨지다 끊어진 흔적이 있으며, 코를 가까이 대보면 희미하지만 무겁고 이국적인 향냄새가 원단의 섬유 사이에 깊게 스며들어 있습니다.</p></div>"
-        },
-        {
-            "id": "clue_14_inv1_corridor",
-            "clueName": "작은 가죽 신발 한 짝",
-            "subtitle": "버려진 가죽",
-            "targetLocationId": "loc_05",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>먼지 쌓인 빈 통 안에 성인의 손바닥 크기도 되지 않는 낡고 작은 가죽 신발 한 짝이 놓여 있습니다.</p><p>가죽의 마모 상태와 바느질 자국을 보면 오랜 기간 신었던 물건입니다. 신발의 안창 쪽 가죽에는 '소중한 M' 이라는 글자가 바늘로 조밀하게 박음질되어 있습니다.</p></div>"
-        },
-        {
-            "id": "clue_15_inv1_corridor",
-            "clueName": "속이 빈 유리병",
-            "subtitle": "투명 용기",
-            "targetLocationId": "loc_05",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>코르크 마개가 빠진 채 바닥을 나뒹구는 단단하고 작고 투명한 유리병입니다.</p><p>병의 내부는 바짝 말라 있지만, 병의 입구 주변을 문지르면 옅은 자줏빛 성분이 아주 미세하게 묻어납니다. 병의 외관에는 굵고 탁한 지문의 흔적이 여러 개 찍혀 있습니다.</p></div>"
-        },
-        {
-            "id": "clue_16_inv1_corridor",
-            "clueName": "거대하고 얕은 발자국",
-            "subtitle": "족적",
-            "targetLocationId": "loc_05",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>회백색 돌바닥 위에 진흙으로 그려진 커다란 군화 발자국 무늬가 두세 개 이어져 있습니다.</p><p>크기는 전사의 육중한 체격을 가늠케 할 만큼 거대하지만, 바닥의 흙이 눌린 깊이나 앞코의 압점이 지나치게 수평적입니다. 뒤꿈치부터 땅에 닿으며 남기는 체중의 무게중심 이동 궤적이 보이지 않습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_17_inv1_slither",
-            "clueName": "푸르게 인광을 내는 가루",
-            "subtitle": "미세 가루",
+            "id": "clue_41_sli_scales",
+            "clueName": "금고 앞 떨어져 있는 녹색 비늘들",
+            "subtitle": "위치적 모순",
             "targetLocationId": "loc_03",
             "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>바닥의 고르지 못한 틈새에 고운 입자의 푸른 가루가 얇게 덮여 있습니다.</p><p>어두운 곳에서 묘한 자체 발광성을 띠며, 손을 가까이 가져가면 정전기처럼 미세하게 따끔거리는 파동이 주변 공기를 건드리는 것이 느껴집니다.</p></div>"
+            "clueContent": "<div class=\"clue-container\"><p>파손된 일반 무기함 구역이 아닌, 위자드의 가장 강력한 개인 금고실 문틈 주변에서 채취된 미세 물증들입니다.</p><div class=\"quote-box\">녹색 빛을 띠고 있으며, 마찰에 의해 살갗에서 떨어진 듯 부드럽고 끈적한 체액이 약간 묻어 있는 비늘 조각 대여섯 개가 눈에 띄지 않게 바닥 가장자리에 흩어져 있습니다.</div><p>이는 비늘의 주인이 무기 창고가 아니라, 자신의 능력 이상의 욕망을 탐하기 위해 <span class=\"highlight\">가장 위험한 절대자의 금고에 매우 가까이 밀착해 있었음</span>을 증명하는 부인할 수 없는 궤적 성분입니다.</p></div>"
         },
         {
-            "clueId": "clue_18_inv1_slither",
-            "clueName": "비틀려 열린 가죽 궤짝",
-            "subtitle": "훼손된 도구",
-            "targetLocationId": "loc_03",
+            "id": "clue_42_sli_medicine",
+            "clueName": "검게 타버린 화상 연고통",
+            "subtitle": "처절한 응급처치",
+            "targetLocationId": "role_04",
             "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>가죽과 철심으로 마감된 직사각형의 보관함입니다. 뚜껑 한쪽이 강한 힘으로 뒤틀려 있습니다.</p><p>철제 잠금장치 부분이 완전히 녹아내리고 부식되어 형체를 알아볼 수 없는 상태입니다. 단단한 금속을 단숨에 검게 변색시킬 정도의 고열이 아주 좁은 면적에만 집중적으로 가해진 흔적입니다.</p></div>"
+            "clueContent": "<div class=\"clue-container\"><p>용의자의 침소 깊숙한 곳, 더럽혀진 의류들 사이에 짓눌려 있던 금속제 연고 용기입니다.</p><div class=\"quote-box\">통의 입구 주변이 지독하게 까맣게 타들어가 엉겨 붙어 있으며, 용기 내부에 남아있던 진정 효과의 약물은 열렬한 마나 반응을 일으킨 듯 부글거리며 변색된 상태입니다.</div><p>누군가 단순히 다친 것이 아니라, 자신의 피부 안팎을 태우는 <span class=\"highlight\">기이하고 파괴적인 열화 현상</span>을 어떻게든 급히 억누르고 숨기려 했던 처절한 의료품 오남용의 흔적입니다.</p></div>"
         },
         {
-            "clueId": "clue_19_inv1_armory",
-            "clueName": "무기고 출입장 기록",
-            "subtitle": "양피지 기록",
-            "targetLocationId": "loc_04",
-            "clueType": "RECORD",
-            "clueContent": "<div class='clue-container'><p>벽면의 못에 꽂힌 양피지 다발에 누군가 휘갈긴 짧은 문구들이 적혀 있습니다.</p><div class='quote-box'>'창대 수선 요청 건수 폭발. 날을 전부 세워놓길 원함. 방호구의 미세 균열 교체 빈도 증가.'</div><p>연회를 앞둔 평화로운 시기임에도, 무기고의 장비 점검 주기와 대출 요청 건수가 비정상적으로 급증한 상태임을 수치들이 말해주고 있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_20_inv1_armory",
-            "clueName": "그을린 양피지 조각",
-            "subtitle": "문서 파편",
-            "targetLocationId": "loc_04",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>가장자리가 바스러지는 검은 재 상태의 양피지 일부입니다.</p><p>타다 남은 종이 표면 중앙에, 직선과 곡선이 복잡하게 얽힌 문양의 일부가 붉은 안료로 겹겹이 칠해져 있습니다. 하단의 여백에는 공용어로 '계약', '지옥', '규율'이라는 단어의 일부분만이 간신히 남아있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_21_inv1_combat",
-            "clueName": "녹슨 철퇴",
-            "subtitle": "무기",
-            "targetLocationId": "loc_04",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>무거운 무쇠 덩어리에 가시가 듬성듬성 박힌 철퇴입니다. 손잡이 가죽은 낡았지만 무기의 기본적인 파괴력은 유지하고 있습니다.</p><div class='quote-box'>아이템 획득: 전투력(무력) +1 부여</div></div>"
-        },
-        {
-            "clueId": "clue_22_inv2_body",
-            "clueName": "위자드의 사체",
-            "subtitle": "사망 상태 관찰",
-            "targetLocationId": "loc_02",
-            "clueType": "DIRECT",
-            "clueContent": "<div class='clue-container'><p>엘드리치 위자드의 시신이 그의 연구실 한가운데에 기괴한 자세로 굳어있습니다.</p><p>방 안의 집기들은 어느 하나 부서진 것 없이 정리가 잘 되어 있으며, 그의 로브 역시 흐트러짐이 없습니다. 방어 본능으로 팔을 들어 올리거나 발버둥 친 흔적 없이, 수직으로 정수리를 파고든 치명상 외에는 다른 외상이 보이지 않습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_23_inv2_dagger",
-            "clueName": "정수리에 꽂힌 장식 단검",
-            "subtitle": "흉기 관찰",
-            "targetLocationId": "loc_02",
-            "clueType": "DIRECT",
-            "clueContent": "<div class='clue-container'><p>두개골 상단을 깊숙이 뚫고 들어간 짧은 칼날과 그 위의 자루 부분입니다.</p><p>자루 표면에 푸른 사파이어가 코브라 형상으로 세공되어 있으며, 칼날을 감싼 얕은 홈에는 기름진 푸른빛 액체가 맺혀 있습니다. 날렵한 곡선으로 주조된 이 무기의 외형적 특징이 시각적으로 명확하게 드러납니다.</p></div>"
-        },
-        {
-            "clueId": "clue_24_inv2_ceiling",
-            "clueName": "환기구 창살의 그을음",
-            "targetLocationId": "loc_02",
-            "clueType": "INDIRECT",
-            "clueContent": "<div class='clue-container'><p>바닥에서 아득히 높은 환기구 입구 쪽 쇠창살의 하단 단면에 길쭉하게 뻗은 검은 자국이 있습니다.</p><p>단순한 화재의 열기로 생긴 넓은 퍼짐 현상이 아니라, 아주 얇은 실 형태의 무언가가 창살을 꽉 조인 상태로 닿아 있다가 순간적으로 열을 내며 타들어갔다 사라진 듯 좁고 직선적인 그을음입니다.</p></div>"
-        },
-        {
-            "clueId": "clue_25_inv2_desk",
-            "clueName": "기록이 가득한 장부",
-            "subtitle": "펼쳐진 책자",
-            "targetLocationId": "loc_02",
-            "clueType": "RECORD",
-            "clueContent": "<div class='clue-container'><p>책상 위, 빛바랜 가죽 표지의 두꺼운 서적 페이지가 펼쳐져 있습니다. 잉크가 번진 문장들이 나열되어 있습니다.</p><div class='quote-box'>'야만의 식욕, 숨긴 배신, 과거의 제단, 탐욕의 후유증... 이들의 목줄은 이미 내 책상 서랍 속에 늘어놓은 쪽지 조각들 안에 묶여 있다.'</div><p>여러 인물들의 동태와 약점으로 추정되는 묘사 단어들이 빽빽하게 얽혀 텍스트를 이루고 있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_26_inv2_desk",
-            "clueName": "액체가 남은 찻잔",
-            "subtitle": "탁자 배치 묘사",
-            "targetLocationId": "loc_02",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>시신의 책상 한구석에 도자기 찻잔이 놓여 있습니다. 잔 내부의 가장자리를 따라 연한 붉은 립 자국과 함께 허브 침전물이 고여 있습니다.</p><p>잔 표면에 아직 온도감이 남아 있으며, 찻잔의 밑동이나 컵 받침 주변으로 액체가 흔들리거나 바깥으로 튄 물방울의 흔적이 없습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_27_inv2_desk",
-            "clueName": "고귀한 혈육의 대가 쪽지",
-            "subtitle": "종이 문서",
-            "targetLocationId": "loc_02",
-            "clueType": "RECORD",
-            "clueContent": "<div class='clue-container'><p>책상 서랍 안, 잘게 접혀있는 빳빳한 종이입니다.</p><div class='quote-box'>'신선한 영혼의 마력에 취해, 눈에 넣어도 아프지 않을 자신의 제물을 차가운 진 위로 던져 올렸지. 비명을 지르던 그 작은 육신은 재가 되었지만, 흔적은 남는 법.'</div><p>오래된 형벌과 영혼의 흡수에 대해 섬뜩한 어조로 비꼬고 있는 내용의 글귀가 적혀있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_28_inv2_desk",
-            "clueName": "황금빛 서신 쪽지",
-            "subtitle": "접힌 메모",
-            "targetLocationId": "loc_02",
-            "clueType": "RECORD",
-            "clueContent": "<div class='clue-container'><p>책 사이로 삐져나온 거칠고 얇은 종이에 간결한 필체가 남아있습니다.</p><div class='quote-box'>'강철 뒤에 숨은 동맹의 파기. 적장의 주머니에서 떨어진 동전을 주워 담으며 성문을 열어젖힌 긍지라니. 서신이 세상에 모습을 드러내는 순간, 목숨은 장담할 수 없을 텐데.'</div><p>외부 병력과의 접선과 뒷거래를 간접적으로 가리키고 있는 글의 형태입니다.</p></div>"
-        },
-        {
-            "clueId": "clue_29_inv2_desk",
-            "clueName": "보라색 액체 조롱 쪽지",
-            "subtitle": "서랍 속 조각",
-            "targetLocationId": "loc_02",
-            "clueType": "RECORD",
-            "clueContent": "<div class='clue-container'><p>무게감 있는 금속 펜대 아래 눌려 있는 메모지입니다.</p><div class='quote-box'>'거대한 왕좌의 무게를 버티기엔 스스로의 악력이 부족했던 탓인가. 호언장담했던 그 완벽한 승리의 뒤편에는 짙은 보라색 액체가 묻은 추악한 천 쪼가리가 있었을 뿐.'</div><p>물리력에 대한 명성과 다르게 불명예스러운 수단을 활용한 모순을 적나라하게 건드리고 있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_30_inv2_floor",
-            "clueName": "창틀의 바깥쪽 손상 흔적",
-            "subtitle": "목재 손상",
-            "targetLocationId": "loc_02",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>연구실 창문을 지탱하는 두꺼운 목재 프레임 바깥쪽이 도끼 같은 것에 크게 찍혀 날아가 있습니다.</p><p>단단한 것이 강하게 충돌한 자국이지만, 파여진 목재 톱밥과 파편 조각들은 중력의 영향을 받아 바깥 허공으로 떨어지지 않고 <span class='highlight'>연구실 안쪽 바닥의 카펫 위로 긴 포물선</span>을 그리며 비산되어 모여 있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_31_inv2_corridor",
-            "clueName": "보랏빛 웅덩이가 진 짐승 가죽 헝겊",
-            "subtitle": "오염된 천",
+            "id": "clue_43_balrog_summon",
+            "clueName": "복원된 결계석 조각",
+            "subtitle": "응집된 구속력",
             "targetLocationId": "loc_05",
             "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>대형 석상의 뒷면 거미줄 사이에서 크고 더러운 헝겊을 빼냅니다.</p><p>두터운 가죽 재질의 헝겊 한가운데는 짙은 자줏빛 액체를 잔뜩 머금어 얼룩져 있습니다. 중요한 것은 얼룩진 문양의 바깥 경계를 따라 다각형의 넓적한 압흔, 즉 크고 두툼한 기하학적 장비가 깊게 눌린 패턴이 마치 스탬프처럼 찍혀 남아있다는 점입니다.</p></div>"
+            "clueContent": "<div class=\"clue-container\"><p>희미한 빛을 발하는 날카로운 단면의 자수정 조각들이 모여 일정한 진법의 형태를 이루고 있습니다.</p><div class=\"quote-box\">조각들에 남아 있는 마력의 흐름선(Leyline)을 추적해 보면, 이것이 단순한 장식품이 아니라 거대하고 이질적인 타 차원의 영혼을 강제로 물질계에 찍어 누르기 위해 압축된 사상적 닻(Anchor)의 핵심 파편임을 알 수 있습니다.</div><p>위자드의 소지품 중 일부였던 이 광석은, 그가 얼마나 강력한 의지로 <span class=\"highlight\">통제 불능의 존재를 자신에게 예속</span>시켜 왔는지를 보여주는 응축된 사슬의 산구물입니다.</p></div>"
         },
         {
-            "clueId": "clue_32_inv2_corridor",
-            "clueName": "녹아내린 금속 펜던트 껍질",
-            "subtitle": "불탄 장신구",
-            "targetLocationId": "loc_05",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>회랑 바닥을 구르는 까맣게 타들어가 덩어리진 형태의 둥근 금속 뚜껑입니다.</p><p>고열에 의해 금속 케이스는 거의 용접되다시피 눌어붙었으나, 열기가 상대적으로 덜 닿은 내부 틈새를 억지로 벌려보면 불에 그을려 형체를 잃어버린 유색 판화(초상화)의 종이 재질감이 아직 바스라지지 않고 붙어 있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_33_inv2_corridor",
-            "clueName": "그을린 인장 파편",
-            "subtitle": "문장 각인 쇳조각",
-            "targetLocationId": "loc_05",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>고열에 일그러진 금속의 뒷면 중앙부에, 오돌토돌한 테두리의 육각형 문양 일부가 흐릿하게 남아있습니다.</p><p>자세히 표면을 문질러 안료를 걷어내면, 수개의 둥근 곡선이 엇갈리며 교차하는 특유의 곡선형 가문 상징이 시야에 들어옵니다. 곡선 끝부분의 문양 꼬리가 날개 형태로 빠져나가는 디자인입니다.</p></div>"
-        },
-        {
-            "clueId": "clue_34_inv2_corridor",
-            "clueName": "양피지 뭉치 (병력 일지)",
-            "subtitle": "숨겨진 서류",
-            "targetLocationId": "loc_05",
-            "clueType": "RECORD",
-            "clueContent": "<div class='clue-container'><p>벽체 돌덩이 틈에서 단단히 말린 오래된 양피지 다발을 끌어 올립니다.</p><p>결속된 다발을 풀면, 맨 윗장에 커다란 사자 문장이 푸른 잉크로 날인되어 있습니다. 기록된 숫자들과 지명들이 빼곡하며, 여백마다 '방어 허가 구역', '시간대별 순찰 배치'와 같은 치밀한 성벽 방어군의 동선이 제3자의 언어로 덧대어 적혀 있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_35_inv2_armory",
-            "clueName": "서약의 스크롤 원본",
-            "subtitle": "봉인된 양피지",
-            "targetLocationId": "loc_04",
-            "clueType": "RECORD",
-            "clueContent": "<div class='clue-container'><p>특수 금고 속, 가장 깊은 곳에 놓인 두꺼운 흑색 가죽 스크롤 원본입니다.</p><p>문서 정중앙에는 고대어로 쓰인 긴 이름이 핏빛 잉크로 굵게 서명되어 있습니다. 텍스트 하단 마지막 줄의 필체가 유독 힘주어 쓰여 있습니다. <span class='highlight'>'주인의 육신이 숨을 쉬는 한, 족쇄의 사슬은 결코 제단의 심연으로 회귀하지 아니한다.'</span></p></div>"
-        },
-        {
-            "id": "clue_36_inv2_armory",
-            "clueName": "눌어붙은 체액과 뼈 조각이 낀 흉갑",
-            "subtitle": "금속 장구류",
-            "targetLocationId": "loc_04",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>거대한 흉갑이 구석에 종잇장처럼 심하게 구겨진 채 던져져 있습니다. 두꺼운 강철을 엄청난 무게로 우그러뜨린 흔적입니다.</p><p>구겨진 철의 벌어진 틈새를 살펴보면, 철저히 건조된 검은 피와 옅은 색의 부서진 뼛조각들이 덩어리져 있습니다. 뼛조각 표면에 남아있는 기괴하고 간격이 넓은 파괴적 치흔은 연회장에서 보았던 짐승 뼈의 이빨 패턴과 정확히 일치합니다.</p></div>"
-        },
-        {
-            "clueId": "clue_37_inv2_armory",
-            "clueName": "거칠게 쓰여진 일기장 조각",
-            "subtitle": "페이지 조각",
-            "targetLocationId": "loc_04",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>마름모꼴로 잘려 나간 두꺼운 수제 종이의 단면입니다. 잉크의 농도가 매우 짙습니다.</p><p>'갈기갈기 찢겠다', '분노의 밤' 등의 굵고 거친 단어들이 시야를 메웁니다. 하지만 글씨의 선 굵기를 확대해 볼수록 모서리의 곡선 처리가 매우 일정하고 얇아, 종이를 누른 필압이 단어의 뉘앙스처럼 폭발적이거나 육중하지 않음을 확인할 수 있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_38_inv2_slither",
-            "clueName": "녹색 파충류 화상 허물",
-            "subtitle": "피부 껍질",
-            "targetLocationId": "loc_03",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>은밀한 금고 바닥에 비닐과 같은 질감의 거대한 피부 껍질 덩어리가 뭉쳐 있습니다.</p><p>보통의 매끄러운 탈피 허물이 아닙니다. 껍질 안쪽 면부터 바깥 방향으로 원형을 그리며 까맣게 타들어 간 궤적이 넓게 퍼져 있습니다. 표면은 완전히 수분을 잃고 시뻘겋게 짓무른 형태의 화상 자국이 남은 채 고착화되어 있습니다.</p></div>"
-        },
-        {
-            "clueId": "clue_39_inv2_slither",
-            "clueName": "화려한 금장 단추 하나",
-            "subtitle": "둥근 구조물",
-            "targetLocationId": "loc_03",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>부서진 자물쇠 틈의 아주 작고 날카로운 접합부 아래에 동그란 금속 체결구가 끼어 있습니다.</p><p>표면에 연보라색 빛깔의 실오라기 한 가닥이 잔뜩 꼬인 채 떨어지지 않고 매달려 있습니다. 힘주어 뽑힌 탓에 단추 뒷면의 실구멍 고리가 완전히 구부러져 변형된 상태입니다.</p></div>"
-        },
-        {
-            "id": "clue_40_inv2_corridor",
-            "clueName": "야수의 피가 담긴 전시용 병",
-            "subtitle": "위자드의 전리품",
-            "targetLocationId": "loc_05",
-            "clueType": "RECORD",
-            "clueContent": "<div class='clue-container'><p>벽면의 파인 전시 공간에 밀봉된 두꺼운 유리병 조형물이 놓여있습니다. 내부에 진득하고 시뻘건 이종족의 피가 박제되어 있습니다.</p><p>라벨에는 <span class='highlight'>'야만족 우두머리 사냥 기념. 훌륭한 생체 마력 공급원'</span>이라는 문구가 오만한 필체로 적혀있습니다. 누군가 이 끔찍한 전리품 앞을 서성인 듯 유리병 표면에 굵은 숨결의 자국이 뿌옇게 흐려져 있습니다.</p></div>"
-        },
-        {
-            "id": "clue_41_inv2_slither",
-            "clueName": "텅 빈 마력 중화제 호리병",
-            "subtitle": "연금술 병",
-            "targetLocationId": "loc_03",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>금속 금고 아래쪽 그림자 진 구석에서 푸른빛 장식이 달린 작은 호리병이 굴러다닙니다.</p><p>내부는 말라붙어 있지만, 코를 대보면 방어 마법진의 감응력을 일시적으로 마비시키는 무색무취의 고급 마력 중화제 잔향이 맴돕니다. 완력이나 열쇠 없이 치밀하고 조용하게 마법적 잠금장치를 해제하려 한 누군가의 동선입니다.</p></div>"
-        },
-        {
-            "id": "clue_42_inv2_armory",
-            "clueName": "완전히 찌그러진 보초병 투구",
-            "subtitle": "파손된 무구",
-            "targetLocationId": "loc_04",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>장비 더미 이면의 후미진 곳에, 원래 주인이 누구였는지 알아보기 힘들 정도로 함몰된 쇳덩어리 투구가 버려져 있습니다.</p><p>위에서 아래로 향한 무자비한 악력 혹은 무식한 형태의 둔기 타격에 의해 정수리 쪽 두꺼운 철판이 종잇장처럼 완전히 우그러져 있습니다. 무기고를 돌파하며 침묵을 강요한 압도적인 완력의 흔적입니다.</p></div>"
-        },
-        {
-            "id": "clue_43_inv2_combat",
-            "clueName": "응축된 결정 귀걸이",
-            "subtitle": "보석 장신구",
-            "targetLocationId": "loc_03",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>차가운 온도를 유지하는 다면체 결정체가 달린 장신구입니다. 착용 시 호흡수가 안정화되는 기분이 듭니다.</p><div class='quote-box'>아이템 효과: 수치 보너스 +3 부여</div></div>"
-        },
-        {
-            "id": "clue_44_inv2_combat",
-            "clueName": "육중한 양손 도끼",
-            "subtitle": "무기",
-            "targetLocationId": "loc_04",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>성인 남성의 상반신만 한 거대한 날을 지닌 파괴적인 형태의 도끼입니다.</p><div class='quote-box'>아이템 효과: 전투력(무력) +4 상승</div></div>"
-        },
-        {
-            "id": "clue_45_inv2_combat",
-            "clueName": "검은 마력수 보주",
-            "subtitle": "마법 구체",
+            "id": "clue_44_balrog_burn",
+            "clueName": "주변이 타버린 마법진의 잔해",
+            "subtitle": "타오른 반발",
             "targetLocationId": "loc_02",
             "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>내부에 소용돌이치는 짙은 안개 형태의 에너지가 관찰되는 매끄러운 둥근 오브입니다.</p><div class='quote-box'>아이템 효과: 전투력(마력) +4 부여</div></div>"
+            "clueContent": "<div class=\"clue-container\"><p>위자드 연구실 앞 복도 바닥의 기하학적 도형(방어 마법진) 귀퉁이에 남은 강렬한 에너지 충돌의 결과물입니다.</p><div class=\"quote-box\">마법진의 푸른빛 방어선 외부 표면이 무언가 엄청난 밀도의 심연 화염에 의해 닿자마자 바스라지듯 타버렸지만, 결국 내부 선형 구조를 뚫어내지는 못하고 불길이 역류하여 주변 벽을 검게 그을려 버렸습니다.</div><p>강력한 완력이나 무기가 아닌, <span class=\"highlight\">차원과 태생이 다른 지옥 불꽃이 투사</span>되었으나 무참히 튕겨나간 무력한 분노의 파동을 시각적으로 고정시킨 현상입니다.</p></div>"
         },
         {
-            "id": "clue_46_inv2_combat",
-            "clueName": "빛바랜 은갑옷",
-            "subtitle": "전신 방호구",
-            "targetLocationId": "loc_04",
+            "id": "clue_45_mallice_toy",
+            "clueName": "부서진 나무 인형",
+            "subtitle": "퇴색된 온정",
+            "targetLocationId": "role_02",
             "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>견고한 판금으로 이루어진 전신 세트 장비입니다. 표면의 은빛 광택이 시선을 튕겨냅니다.</p><div class='quote-box'>아이템 효과: 전투력(방어력) +5 부여</div></div>"
+            "clueContent": "<div class=\"clue-container\"><p>말리스의 처소 혹은 품속 깊은 곳에서 조심스레 보관되어 있던, 나무를 조각해 만든 투박한 아이의 장난감 잔해입니다.</p><div class=\"quote-box\">장난감 인형의 얼굴 부분은 오랫동안 누군가 격렬하게 움켜쥐고 쓰다듬은 탓에 칠이 완전히 벗겨져 나무 결이 드러나 있으며, 등 뒤에는 희미한 혈흔이 오래된 녹처럼 말라붙어 굳어 있습니다.</div><p>잔혹하고 차가운 저주술사의 겉모습 이면에, 그녀가 절대 잊지 못하고 과거의 파멸(친딸 마멜리아)을 끊임없이 상기하는 <span class=\"highlight\">심연과도 같은 애착과 후회</span>의 유품입니다.</p></div>"
         },
         {
-            "id": "clue_47_inv2_combat",
-            "clueName": "코어 단검",
-            "subtitle": "예리한 무기",
-            "targetLocationId": "loc_04",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>칼날 가장자리를 따라 불안정한 에너지가 일렁이는 기하학적인 형태의 단검을 획득했습니다.</p><div class='quote-box'>아이템 효과: 전투력(관통력) +4 부여</div></div>"
-        },
-        {
-            "id": "clue_48_inv2_combat",
-            "clueName": "흑요석 머리가 달린 스태프",
-            "subtitle": "지팡이",
+            "id": "clue_46_mallice_diary",
+            "clueName": "저주술사의 일기장 페이지",
+            "subtitle": "원념의 활자",
             "targetLocationId": "loc_05",
-            "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>긴 나무 봉 위에 조각된 흑요석이 박힌 지팡이입니다. 손에 쥐었을 때 강렬한 파동이 전해집니다.</p><div class='quote-box'>아이템 효과: 전투력(마법) +4 부여</div></div>"
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>말리스의 흔적이 묻은 공간 속, 부식된 가죽 커버로 덮인 개인 비망록의 찢겨 나간 몇 페이지들입니다.</p><div class=\"quote-box\">\"그는 나의 가장 어두운 희생마저 자신의 권좌를 채우는 땔감으로 이용하려 든다... 나의 피가 그 사슬의 재주가 될 날을 용서하지 않으리라\"라는, 피가 굳은 듯한 검붉은 잉크가 종이를 찢을 듯한 필압으로 새겨져 있습니다.</div><p>단순한 살의를 넘어, 자신의 끔찍한 과거 사실을 권력술에 이용하는 폭군을 향한 <span class=\"highlight\">통제할 수 없는 기나긴 저주의 맹세</span>가 명징한 문자로 화석화된 물증입니다.</p></div>"
         },
         {
-            "id": "clue_49_inv2_combat",
-            "clueName": "태양의 눈물 - 초광검",
-            "subtitle": "발광 무기",
-            "targetLocationId": "loc_04",
+            "id": "clue_47_trap_thread",
+            "clueName": "검은 마당실(네크로맨틱 와이어) 실패",
+            "subtitle": "어둠의 실타래",
+            "targetLocationId": "role_02",
             "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>손잡이 버튼을 누르면 눈부신 빛의 기둥이 직선으로 뻗어나와 검날을 형성하는 무기입니다.</p><div class='quote-box'>아이템 효과: 전투력(무력) +5 극대화</div></div>"
+            "clueContent": "<div class=\"clue-container\"><p>살인 용의자의 방 구석, 기괴한 주술 도구들 틈에 섞여 있던 소모가 덜 된 작은 타래입니다.</p><div class=\"quote-box\">햇빛 아래에서도 전혀 빛을 반사하지 않는 침묵의 검은 실로 얽혀 있으며, 손가락을 가져다 대면 미세한 정전기처럼 등골을 서늘하게 만드는 어둠의 마력이 가느다란 직조물 사이로 오소소 흐르는 것을 느낄 수 있습니다.</div><p>천장 통풍구에서 소멸한 네크로맨틱 그을음의 물질적 질량과 완벽히 일치하는, <span class=\"highlight\">원격 사상(Death) 기믹을 구성하는 원자재의 본체</span>가 은밀하게 보관되어 있던 형태입니다.</p></div>"
         },
         {
-            "id": "clue_50_inv2_combat",
-            "clueName": "심연 결핵석 파편",
-            "subtitle": "미지의 광석",
-            "targetLocationId": "loc_06",
+            "id": "clue_48_trap_wire_manual",
+            "clueName": "네크로맨틱 와이어의 인장력 기록",
+            "subtitle": "치밀한 설계 이론",
+            "targetLocationId": "loc_02",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>연구실 서류 더미 속 깊은 곳에서 발견된 복잡한 인장 계산 기호와 마력 해제 도해를 엮은 여러 매의 기록서입니다.</p><div class=\"quote-box\">수식들 끄트머리에는 무거운 질량(약 2kg)을 1.5밀리미터 수준의 특정 마력선에 매달아 두었다가, 마력을 차단하는 순간 선이 소멸하며 대상물이 자유 낙하하는 역학적 실험 결과들이 명확하게 기록되어 있습니다.</div><p>범인은 살해 대상을 찌른 것이 아니라, 이 방에 존재하는 이 정밀한 연구 논문을 바탕으로 <span class=\"highlight\">중력과 마력 단절을 결합한 원격 낙하 시스템</span>의 영감을 얻고 투영했음이 지식의 경로로 확인됩니다.</p></div>"
+        },
+        {
+            "id": "clue_49_wizard_blood",
+            "clueName": "피를 토한 손수건",
+            "subtitle": "임박한 몰락",
+            "targetLocationId": "role_06",
             "clueType": "PHYSICAL",
-            "clueContent": "<div class='clue-container'><p>다각형의 검붉은 광석 덩어리입니다. 물질 주변의 공간이 미세하게 뒤틀리는 듯한 왜곡 현상이 관찰됩니다.</p><div class='quote-box'>아이템 효과: 전투력 통합 점수 +6 부여</div></div>"
+            "clueContent": "<div class=\"clue-container\"><p>주인 잃은 화려한 옥좌 뒷편 깊숙한 틈새에 구깃구깃 숨겨져 있던 최고급 실크 재질의 하얀 손수건 뭉텅이입니다.</p><div class=\"quote-box\">손수건의 중심부터 시커멓게 산화된 엄청난 양의 혈흔들이 수십 차례 층을 이루며 굳어 있으며, 혈액 내에서는 살아있는 자의 생명력이 아닌 썩어가는 장기와 마력 독소가 부패하여 엉킨 악취가 코를 찌릅니다.</div><p>무시무시한 권능을 행사하던 육신이 사실 이미 내부 원호부터 치명적으로 무너져 내려, <span class=\"highlight\">오늘 내일 그 자체의 죽음이 초읽기에 들어갔음</span>을 보여주는 생물학적 시한폭탄의 흔적입니다.</p></div>"
+        },
+        {
+            "id": "clue_50_wizard_scheme",
+            "clueName": "해독 불가능한 고대 심연의 은유시",
+            "subtitle": "금지된 은유",
+            "targetLocationId": "loc_02",
+            "clueType": "RECORD",
+            "clueContent": "<div class=\"clue-container\"><p>위자드의 가장 내밀한 품속 혹은 가장 강력한 마법 진이 새겨진 책상 아래 홈에서 뽑아낸 오래된 양피지 두루마리입니다.</p><div class=\"quote-box\">이성적인 글이 아닌, \"오직 썩어 문드러진 껍질을 스스로 깨부수는 찰나의 희생만이, 무한한 심연의 군주가 되기 위한 유일한 통과의례\"라는 극도로 기이하고 광기 어린 제례의 고대 구절만이 붉게 적혀 있습니다.</div><p>이는 우발적인 사건의 희생자가 아니라, 자신의 죽음마저 거대한 목적을 위한 트리거로 활용하려는 <span class=\"highlight\">가장 거대하고 끔찍한 자작극의 이면</span>을 은밀히 속삭이는 이해 불가한 진리의 조각입니다.</p></div>"
         }
     ]
 }

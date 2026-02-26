@@ -8,7 +8,8 @@
             "unlockPhase": "시작 단계",
             "acquisitionMethod": "PUBLIC_REVEAL",
             "inventoryTarget": null,
-            "designerPurpose": "연회 전(18:30~19:50)에 자신의 치부(독살 증거물)를 급박하게 찾고 다니던 불안정한 심리 노출"
+            "designerPurpose": "연회 전(18:30~19:50)에 자신의 치부(독살 증거물)를 급박하게 찾고 다니던 불안정한 심리 노출",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_02_intro_mallice",
@@ -18,7 +19,8 @@
             "unlockPhase": "시작 단계",
             "acquisitionMethod": "PUBLIC_REVEAL",
             "inventoryTarget": null,
-            "designerPurpose": "연회석에 여유롭게 앉아 천장을 바라보는 모습으로 원격 살해(와이어 트릭) 타이밍을 재고 있음을 암시"
+            "designerPurpose": "연회석에 여유롭게 앉아 천장을 바라보는 모습으로 원격 살해(와이어 트릭) 타이밍을 재고 있음을 암시",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_03_intro_gore",
@@ -28,7 +30,8 @@
             "unlockPhase": "시작 단계",
             "acquisitionMethod": "PUBLIC_REVEAL",
             "inventoryTarget": null,
-            "designerPurpose": "연회 직전, 어제 포로를 먹었던 흔적(이빨 자국 갑옷)의 냄새를 맡고 성채 지하를 미친 듯 배회한 모습"
+            "designerPurpose": "연회 직전, 수일 전 동료 시신을 먹었던 흔적(이빨 자국 갑옷)의 냄새를 맡고 성채 지하를 미친 듯 배회한 모습",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_04_intro_slither",
@@ -38,7 +41,8 @@
             "unlockPhase": "시작 단계",
             "acquisitionMethod": "PUBLIC_REVEAL",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이 겸용) 방금 무기를 뽑은 것이 아니라, 오후 5시경부터 한참 비어있었다는 점을 증명하는 마른 먼지 자국"
+            "designerPurpose": "(알리바이 겸용) 방금 무기를 뽑은 것이 아니라, 오후 5시경부터 한참 비어있었다는 점을 증명하는 마른 먼지 자국",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_05_intro_balrog",
@@ -48,7 +52,8 @@
             "unlockPhase": "시작 단계",
             "acquisitionMethod": "PUBLIC_REVEAL",
             "inventoryTarget": null,
-            "designerPurpose": "위자드를 향한 살의를 억누르며 연회 시작 전 그의 방 근처를 서성거렸던 위협적 동기 노출"
+            "designerPurpose": "위자드를 향한 살의를 억누르며 연회 시작 전 그의 방 근처를 서성거렸던 위협적 동기 노출",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_06_intro_valtra",
@@ -58,7 +63,8 @@
             "unlockPhase": "시작 단계",
             "acquisitionMethod": "PUBLIC_REVEAL",
             "inventoryTarget": null,
-            "designerPurpose": "과거 영웅과 내통한 서신이 폭로될까 두려워 무기고와 회랑을 샅샅이 뒤지고 연회에 참석한 초조한 모습"
+            "designerPurpose": "과거 영웅과 내통한 서신이 폭로될까 두려워 무기고와 회랑을 샅샅이 뒤지고 연회에 참석한 초조한 모습",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_07_intro_wizard",
@@ -68,7 +74,8 @@
             "unlockPhase": "시작 단계",
             "acquisitionMethod": "PUBLIC_REVEAL",
             "inventoryTarget": null,
-            "designerPurpose": "기침을 하며 떨리는 손으로 옥좌에 앉아있던 모습 (육신의 수명이 얼마 남지 않아 죽음을 목전에 둔 한계 상태임을 명확히 시사)"
+            "designerPurpose": "기침을 하며 떨리는 손으로 옥좌에 앉아있던 모습 (육신의 수명이 얼마 남지 않아 죽음을 목전에 둔 한계 상태임을 명확히 시사)",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_08_inv1_lab_dagger",
@@ -78,7 +85,10 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "육중한 힘이 아니라 오직 수직으로 떨어지는 중력 포기 가속도에 의해 머리를 뚫었음을 입증하여 '천장 낙하 트릭'임을 시사"
+            "designerPurpose": "육중한 힘이 아니라 오직 수직으로 떨어지는 중력 포기 가속도에 의해 머리를 뚫었음을 입증하여 '천장 낙하 트릭'임을 시사",
+            "relatedClueIds": [
+                "clue_20_inv2_lab_wire"
+            ]
         },
         {
             "clueId": "clue_09_inv1_lab_clean",
@@ -88,7 +98,8 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이) 고어-후프(거구), 스컬크러셔(둔기), 발로그(파괴력)가 휘두른 물리적 살해가 아님을 증명. 이들의 침입/폭력 소거"
+            "designerPurpose": "(알리바이) 고어-후프(거구), 스컬크러셔(둔기), 발로그(파괴력)가 휘두른 물리적 살해가 아님을 증명. 이들의 침입/폭력 소거",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_10_inv1_lab_cup",
@@ -98,7 +109,8 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "죽기 직전까지 평온하게 차를 마시고 있었음. 방 내부에 위협적인 침입자가 없었음을 방증"
+            "designerPurpose": "죽기 직전까지 평온하게 차를 마시고 있었음. 방 내부에 위협적인 침입자가 없었음을 방증",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_11_inv1_sli_burn",
@@ -108,7 +120,11 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "슬리더가 '창조의 보석'을 훔쳐 삼킨 뒤 극심한 부작용을 겪고 있음을 보여주는 살해 명분(위자드에게 잡힌 약점)"
+            "designerPurpose": "슬리더가 '창조의 보석'을 훔쳐 삼킨 뒤 극심한 부작용을 겪고 있음을 보여주는 살해 명분(위자드에게 잡힌 약점)",
+            "relatedClueIds": [
+                "clue_28_inv2_sli_gem",
+                "clue_29_inv2_sli_pain"
+            ]
         },
         {
             "clueId": "clue_12_inv1_sli_chest",
@@ -118,7 +134,10 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이 겸용) 슬리더 본인이 열쇠로 뺀 것이 아니라 산성/마법으로 무기함이 강제 훼손됨. 누군가(말리스)가 단검을 훔쳐간 물증."
+            "designerPurpose": "(알리바이 겸용) 슬리더 본인이 열쇠로 뺀 것이 아니라 산성/마법으로 무기함이 강제 훼손됨. 누군가(말리스)가 단검을 훔쳐간 물증.",
+            "relatedClueIds": [
+                "clue_26_inv2_arm_log"
+            ]
         },
         {
             "clueId": "clue_13_inv1_arm_mace",
@@ -128,7 +147,8 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이) 스컬크러셔의 주무기는 수일 전부터 사용되지 않았음. 폭력적인 근접 살해 가능성을 철저히 지워줌."
+            "designerPurpose": "(알리바이) 스컬크러셔의 주무기는 수일 전부터 사용되지 않았음. 폭력적인 근접 살해 가능성을 철저히 지워줌.",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_14_inv1_arm_poison",
@@ -138,7 +158,8 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "스컬크러셔가 과거 '골든 킹'을 정정당당하게 이기지 않고 비겁한 마비독으로 암살했다는 치명적인 치부(위자드의 협박 도구)."
+            "designerPurpose": "스컬크러셔가 과거 '골든 킹'을 정정당당하게 이기지 않고 비겁한 마비독으로 암살했다는 치명적인 치부(위자드의 협박 도구).",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_15_inv1_hall_armor",
@@ -148,7 +169,10 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "고어-후프가 어제 공성전 중 식인을 저지르고 은폐했음을 명백히 입증하는 물리적 확증 (위자드가 확보한 약점)."
+            "designerPurpose": "고어-후프가 어제 공성전 중 식인을 저지르고 은폐했음을 명백히 입증하는 물리적 확증 (위자드가 확보한 약점).",
+            "relatedClueIds": [
+                "clue_27_inv2_arm_fake"
+            ]
         },
         {
             "clueId": "clue_16_inv1_hall_log",
@@ -158,7 +182,8 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이) 7시 50분부터 8시 정각 살해 발생 시점까지 스컬크러셔가 옥좌에서 소리를 지르며 연회를 준비하고 있었음을 증명."
+            "designerPurpose": "(알리바이) 7시 50분부터 8시 정각 살해 발생 시점까지 스컬크러셔가 옥좌에서 소리를 지르며 연회를 준비하고 있었음을 증명.",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_17_inv1_hall_door",
@@ -168,7 +193,8 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이) 발트라가 연회 시작(8시) 전부터 내내 문설주 앞 경계 자리에 고정되어 서 있었음을 증명하는 분명한 체중계 족적."
+            "designerPurpose": "(알리바이) 발트라가 연회 시작(8시) 전부터 내내 문설주 앞 경계 자리에 고정되어 서 있었음을 증명하는 분명한 체중계 족적.",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_18_inv1_cor_letter",
@@ -178,7 +204,8 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "발트라가 과거 우주 영웅 '골든 킹' 측과 몰래 군사 정보를 내통했다는 반역조작의 명백한 물증 (위자드가 쥔 가장 위험한 약점)."
+            "designerPurpose": "발트라가 과거 우주 영웅 '골든 킹' 측과 몰래 군사 정보를 내통했다는 반역조작의 명백한 물증 (위자드가 쥔 가장 위험한 약점).",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_19_inv1_cor_scorch",
@@ -188,7 +215,8 @@
             "unlockPhase": "조사 1단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이) 발로그가 연구실에 접근하려 했으나 강력한 마법 결계에 튕겨져 나간 흔적. 발로그는 사건 발생 시각 즈음 방 안으로 절대 들어갈 수 없었음."
+            "designerPurpose": "(알리바이) 발로그가 연구실에 접근하려 했으나 강력한 마법 결계에 튕겨져 나간 흔적. 발로그는 사건 발생 시각 즈음 방 안으로 절대 들어갈 수 없었음.",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_20_inv2_lab_wire",
@@ -198,7 +226,11 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "단검을 공중에 매달고 있던 '네크로맨틱 와이어'가 8시 원격 마력 해제와 함께 짧게 타들어가 산화한 흔적 (원격 살해 트릭의 핵심 증거)."
+            "designerPurpose": "단검을 공중에 매달고 있던 '네크로맨틱 와이어'가 8시 원격 마력 해제와 함께 짧게 타들어가 산화한 흔적 (원격 살해 트릭의 핵심 증거).",
+            "relatedClueIds": [
+                "clue_08_inv1_lab_dagger",
+                "clue_30_inv2_hall_magic"
+            ]
         },
         {
             "clueId": "clue_21_inv2_lab_fingerprint",
@@ -208,7 +240,8 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이) 피부에서 끈적한 점액(허물)과 땀이 흐르는 슬리더가 맨손으로 찔렀다면 절대 불가능하게 깨끗하게 닦인 무기 자루."
+            "designerPurpose": "(알리바이) 피부에서 끈적한 점액(허물)과 땀이 흐르는 슬리더가 맨손으로 찔렀다면 절대 불가능하게 깨끗하게 닦인 무기 자루.",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_22_inv2_lab_window",
@@ -218,7 +251,8 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "밖에서 창문을 깨고 들어온 듯 위장했으나, 파편 조각들이 바깥으로 떨어지지 않고 방 안에 흩어져 있는 명백한 위장의 흔적."
+            "designerPurpose": "밖에서 창문을 깨고 들어온 듯 위장했으나, 파편 조각들이 바깥으로 떨어지지 않고 방 안에 흩어져 있는 명백한 위장의 흔적.",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_23_inv2_lab_ledger",
@@ -228,7 +262,8 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "'식인 괴물, 독살자, 내통하는 장군, 보석 훔친 쥐새끼, 아이를 바친 마녀, 불타는 노예' 모두의 약점이 기록되어 있음을 전원에게 공표."
+            "designerPurpose": "'식인 괴물, 독살자, 내통하는 장군, 보석 훔친 쥐새끼, 아이를 바친 마녀, 불타는 노예' 모두의 약점이 기록되어 있음을 전원에게 공표.",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_24_inv2_cor_shoes",
@@ -238,7 +273,8 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "레이디 말리스가 더욱 강렬한 타락 마력을 획득하기 위해 심연에 제물로 바쳤던 자신의 친딸(마멜리아)의 유품 (위자드가 손에 넣은 살해 동기)."
+            "designerPurpose": "레이디 말리스가 더욱 강렬한 타락 마력을 획득하기 위해 심연에 제물로 바쳤던 자신의 친딸(마멜리아)의 유품 (위자드가 손에 넣은 살해 동기).",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_25_inv2_cor_slave",
@@ -248,7 +284,8 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "발로그의 본명이 적혀 있으며, 위자드가 죽어야만 계약이 풀리는 절대적인 숙명적 조건을 내포함 (발로그의 강력한 살해 동기)."
+            "designerPurpose": "발로그의 본명이 적혀 있으며, 위자드가 죽어야만 계약이 풀리는 절대적인 숙명적 조건을 내포함 (발로그의 강력한 살해 동기).",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_26_inv2_arm_log",
@@ -258,7 +295,10 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "오후 5시에 슬리더가 연마석을 빌렸다는 거짓 장부 기록. 필체 분석 결과 레이디 말리스가 필압을 흉내 내 슬리더에게 혐의를 덮어씌우려 한 흔적."
+            "designerPurpose": "오후 5시에 슬리더가 연마석을 빌렸다는 거짓 장부 기록. 필체 분석 결과 레이디 말리스가 필압을 흉내 내 슬리더에게 혐의를 덮어씌우려 한 흔적.",
+            "relatedClueIds": [
+                "clue_12_inv1_sli_chest"
+            ]
         },
         {
             "clueId": "clue_27_inv2_arm_fake",
@@ -268,7 +308,10 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "마치 고어-후프가 미쳐 날뛰며 연구실로 접근한 것처럼 조각칼로 파낸 가짜 발톱 자국. 높이가 너무 낮아 고어-후프의 신체 구조와 맞지 않음."
+            "designerPurpose": "마치 고어-후프가 미쳐 날뛰며 연구실로 접근한 것처럼 조각칼로 파낸 가짜 발톱 자국. 높이가 너무 낮아 고어-후프의 신체 구조와 맞지 않음.",
+            "relatedClueIds": [
+                "clue_15_inv1_hall_armor"
+            ]
         },
         {
             "clueId": "clue_28_inv2_sli_gem",
@@ -278,7 +321,10 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "슬리더가 위자드의 경고병을 무시하고 몰래 창조의 보석을 삼켰다는 탐욕적 동기의 잔여물을 입증."
+            "designerPurpose": "슬리더가 위자드의 경고병을 무시하고 몰래 창조의 보석을 삼켰다는 탐욕적 동기의 잔여물을 입증.",
+            "relatedClueIds": [
+                "clue_11_inv1_sli_burn"
+            ]
         },
         {
             "clueId": "clue_29_inv2_sli_pain",
@@ -288,7 +334,10 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "(알리바이) 7시경 보석 부작용으로 인한 열병과 고통으로 바닥을 뒹굴며 몸부림친 자국. 이 상태로 절묘한 천장 와이어 트릭을 세팅하는 것은 신체적으로 불가능."
+            "designerPurpose": "(알리바이) 7시경 보석 부작용으로 인한 열병과 고통으로 바닥을 뒹굴며 몸부림친 자국. 이 상태로 절묘한 천장 와이어 트릭을 세팅하는 것은 신체적으로 불가능.",
+            "relatedClueIds": [
+                "clue_11_inv1_sli_burn"
+            ]
         },
         {
             "clueId": "clue_30_inv2_hall_magic",
@@ -298,7 +347,10 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "8시 정각 연회석에 앉아 있던 레이디 말리스의 자리 하단 카펫에 보이지 않을 만큼 미세하게 떨어져 있는 네크로맨틱 마력 활성화 파편 (원격 해제의 흔적)."
+            "designerPurpose": "8시 정각 연회석에 앉아 있던 레이디 말리스의 자리 하단 카펫에 보이지 않을 만큼 미세하게 떨어져 있는 네크로맨틱 마력 활성화 파편 (원격 해제의 흔적).",
+            "relatedClueIds": [
+                "clue_20_inv2_lab_wire"
+            ]
         },
         {
             "clueId": "clue_31_combat_amulet",
@@ -308,7 +360,8 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "전투력 강화 장비품 (전투력 +3)"
+            "designerPurpose": "전투력 강화 장비품 (전투력 +3)",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_32_combat_sword",
@@ -318,7 +371,8 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "전투력 강화 무기 파밍 (전투력 +4)"
+            "designerPurpose": "전투력 강화 무기 파밍 (전투력 +4)",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_33_combat_ring",
@@ -328,7 +382,8 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "전투력 상승 아티팩트 (전투력 +4)"
+            "designerPurpose": "전투력 상승 아티팩트 (전투력 +4)",
+            "relatedClueIds": []
         },
         {
             "clueId": "clue_34_combat_potion",
@@ -338,15 +393,224 @@
             "unlockPhase": "조사 2단계",
             "acquisitionMethod": "STANDARD",
             "inventoryTarget": null,
-            "designerPurpose": "일시적 완력 강화 아이템 (전투력 +3)"
+            "designerPurpose": "일시적 완력 강화 아이템 (전투력 +3)",
+            "relatedClueIds": []
+        },
+        {
+            "clueId": "clue_35_valtra_seal",
+            "clueName": "부서진 금빛 밀랍(골든 킹)",
+            "targetLocationId": "loc_05",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 1단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(발트라 내통 파편 1) 편지를 봉인했던 영웅 세력의 문양. 편지 본문과 별도로 발견됨.",
+            "relatedClueIds": [
+                "clue_18_inv1_cor_letter"
+            ]
+        },
+        {
+            "clueId": "clue_36_valtra_cipher",
+            "clueName": "난해한 기호가 적힌 해독표 일부",
+            "targetLocationId": "role_07",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 2단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(발트라 내통 파편 2) 발트라의 소지품. 밀서의 내용을 풀기 위한 암호키 조각.",
+            "relatedClueIds": [
+                "clue_18_inv1_cor_letter"
+            ]
+        },
+        {
+            "clueId": "clue_37_skull_vial",
+            "clueName": "무색 무취 액체가 담긴 빈 병",
+            "targetLocationId": "role_01",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 1단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(스컬크러셔 독살 파편 1) 무기에 독을 바를 때 썼던 투명한 맹독의 빈 병.",
+            "relatedClueIds": [
+                "clue_14_inv1_arm_poison"
+            ]
+        },
+        {
+            "clueId": "clue_38_skull_book",
+            "clueName": "희귀 식물 독 도감",
+            "targetLocationId": "loc_01",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 2단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(스컬크러셔 독살 파편 2) 특정 페이지(마비독)만 찢어진 오래된 도감.",
+            "relatedClueIds": [
+                "clue_14_inv1_arm_poison"
+            ]
+        },
+        {
+            "clueId": "clue_39_gore_bone",
+            "clueName": "이빨에 심하게 갉힌 사골뼈",
+            "targetLocationId": "loc_01",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 1단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(고어후프 식인 파편 1) 연회 음식이 아닌 인간의 뼈. 갑옷 이빨 자국과 교차검증용.",
+            "relatedClueIds": [
+                "clue_15_inv1_hall_armor"
+            ]
+        },
+        {
+            "clueId": "clue_40_gore_report",
+            "clueName": "성채 병사 실종 보고서",
+            "targetLocationId": "loc_04",
+            "designerType": "RECORD",
+            "unlockPhase": "조사 2단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(고어후프 식인 파편 2) 전투 중 적이 아닌 내부 병사들이 기이하게 실종되었다는 기록.",
+            "relatedClueIds": [
+                "clue_15_inv1_hall_armor"
+            ]
+        },
+        {
+            "clueId": "clue_41_sli_scales",
+            "clueName": "금고 앞 떨어져 있는 녹색 비늘들",
+            "targetLocationId": "loc_03",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 1단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(슬리더 절도 파편 1) 무기함이 아니라 위자드의 금고 주변에서 발견된 슬리더의 비늘.",
+            "relatedClueIds": [
+                "clue_11_inv1_sli_burn",
+                "clue_28_inv2_sli_gem"
+            ]
+        },
+        {
+            "clueId": "clue_42_sli_medicine",
+            "clueName": "검게 타버린 화상 연고통",
+            "targetLocationId": "role_04",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 2단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(슬리더 절도 파편 2) 슬리더가 극심한 부작용(화상)을 진정시키려 썼던 의료품. 알리바이 지탱.",
+            "relatedClueIds": [
+                "clue_29_inv2_sli_pain"
+            ]
+        },
+        {
+            "clueId": "clue_43_balrog_summon",
+            "clueName": "복원된 결계석 조각",
+            "targetLocationId": "loc_05",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 1단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(발로그 족쇄 파편 1) 위자드가 발로그를 복종시킬 때 썼던 결계석의 마력 응집체.",
+            "relatedClueIds": [
+                "clue_25_inv2_cor_slave"
+            ]
+        },
+        {
+            "clueId": "clue_44_balrog_burn",
+            "clueName": "주변이 타버린 마법진의 잔해",
+            "targetLocationId": "loc_02",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 2단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(발로그 족쇄 파편 2) 위자드 연구실 앞마당에 남은, 발로그가 접근했다가 데인 자국의 근원 마법진.",
+            "relatedClueIds": [
+                "clue_19_inv1_cor_scorch"
+            ]
+        },
+        {
+            "clueId": "clue_45_mallice_toy",
+            "clueName": "부서진 나무 인형",
+            "targetLocationId": "role_02",
+            "designerType": "PSYCHO",
+            "unlockPhase": "조사 1단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(말리스 동기 파편 1) 아이의 신발과 짝을 이루는, 말리스가 품고 다니던 마멜리아의 장난감.",
+            "relatedClueIds": [
+                "clue_24_inv2_cor_shoes"
+            ]
+        },
+        {
+            "clueId": "clue_46_mallice_diary",
+            "clueName": "저주술사의 일기장 페이지",
+            "targetLocationId": "loc_05",
+            "designerType": "RECORD",
+            "unlockPhase": "조사 2단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(말리스 동기 파편 2) 위자드가 자신의 과거를 협박하며 수족으로 부리려 한다는 분노가 담긴 기록.",
+            "relatedClueIds": [
+                "clue_24_inv2_cor_shoes"
+            ]
+        },
+        {
+            "clueId": "clue_47_trap_thread",
+            "clueName": "검은 마당실(네크로맨틱 와이어) 실패",
+            "targetLocationId": "role_02",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 1단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(살해 트릭 파편 1) 환기구 그을음의 원재료. 말리스의 방(혹은 소지품)에서 흑마법 실타래가 발견됨.",
+            "relatedClueIds": [
+                "clue_20_inv2_lab_wire"
+            ]
+        },
+        {
+            "clueId": "clue_48_trap_wire_manual",
+            "clueName": "네크로맨틱 와이어의 인장력 기록",
+            "targetLocationId": "loc_02",
+            "designerType": "RECORD",
+            "unlockPhase": "조사 2단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(살해 트릭 파편 2) 특정 마력 해제 시 와이어가 끊어지는 원리와 수용 중량(단검 무게와 일치)에 대한 연구 기록. 범인이 트릭을 위해 참고한 자료.",
+            "relatedClueIds": [
+                "clue_20_inv2_lab_wire",
+                "clue_47_trap_thread"
+            ]
+        },
+        {
+            "clueId": "clue_49_wizard_blood",
+            "clueName": "피를 토한 손수건",
+            "targetLocationId": "role_06",
+            "designerType": "INDIRECT",
+            "unlockPhase": "조사 1단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(위자드 흑막 파편 1) 육신이 한계에 달해 곧 죽을 운명이었음을 나타내는 강한 증거.",
+            "relatedClueIds": [
+                "clue_07_intro_wizard"
+            ]
+        },
+        {
+            "clueId": "clue_50_wizard_scheme",
+            "clueName": "해독 불가능한 고대 심연의 은유시",
+            "targetLocationId": "loc_02",
+            "designerType": "RECORD",
+            "unlockPhase": "조사 2단계",
+            "acquisitionMethod": "STANDARD",
+            "inventoryTarget": null,
+            "designerPurpose": "(위자드 흑막 파편 2) '스스로 육신을 부순 자만이 영원한 군주로 깨어난다'는 매우 난해한 비유적 문구. 위자드의 자작극과 흑막 가능성을 시사하는 극도로 추리 난이도가 높은 단서.",
+            "relatedClueIds": []
         }
     ],
     "balanceReport": {
-        "totalCount": 34,
+        "totalCount": 50,
         "directCount": 5,
-        "indirectCount": 14,
+        "indirectCount": 28,
         "psychoCount": 6,
         "fakeCount": 2,
-        "recordCount": 7
+        "recordCount": 9
     }
 }
