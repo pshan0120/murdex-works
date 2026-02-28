@@ -84,7 +84,7 @@
 /* 인용구 박스 */
 .story-content .quote-box {
     display: block;
-    padding: 1.2em 1.5em;
+    padding: 1em 1.25em;
     margin: 1.5em 0;
     color: #d0d0d0;
     background: rgba(255, 215, 0, 0.05);
@@ -225,7 +225,6 @@
 
 .story-content .script-line {
     margin-bottom: 0.5em;
-    font-family: "Courier New", monospace;
 }
 
 .story-content .script-character {
