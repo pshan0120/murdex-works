@@ -206,6 +206,7 @@
 }
 
 .story-content .goal-list {
+    margin-top: 1rem;
     list-style: none;
     padding-left: 0;
 }
@@ -653,4 +654,10 @@
 .story-content .highlight-blue {
     color: #60a5fa;
     font-weight: 700;
+}
+
+/* --- 가이드 섹션 (단계별 지침 및 대본) --- */
+.story-content .guide-text {
+    color: #ffcc00;
+    margin-bottom: 15px;
 }

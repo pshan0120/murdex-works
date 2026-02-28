@@ -1,0 +1,26 @@
+<div class="story-content">
+  <details>
+    <summary>
+      자기 소개 - 같은 조가 된 팀원들에게
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <div class="guide-section">
+        <p class="guide-text">
+          [지침] 팀원들에게 자신을 소개하는 시간입니다. 컴공과 퀸카다운 당당하고 자신감 넘치는 모습을 보여주세요. 발표를 맡겠다는 제안을 하면서 주도권을 잡는 것이 포인트입니다.
+        </p>
+        <div class="quote-box">
+          "아, 네. 저는 컴퓨터공학과 4학년, 19학번 한세린이에요.<br />
+          조별과제로 바뀐 건 저도 조금 당황하긴 했는데... 어차피 발표는 피할 수 없을 것 같아서요.<br />
+          그럼 발표는 제가 맡을게요. 이런 건 제가 제일 익숙하거든요.<br />
+          자료 내용이 아무리 좋아도 전달이 안 되면 의미 없잖아요.<br />
+          흐름 정리랑 설명은 제가 책임질게요.<br />
+          대신 세부 자료 정리나 계산 쪽은 다른 분들이 도와주시면 좋겠어요."
+        </div>
+      </div>
+    </div>
+  </details>
+</div>

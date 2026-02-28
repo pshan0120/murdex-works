@@ -20,13 +20,12 @@
 <!-- ============================================ -->
 
 <div class="story-content">
-
   <details>
     <summary>
       캐릭터 배경
       <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
@@ -37,8 +36,8 @@
         입학 초기의 성적은 평범했다. 평균학점 3점대 초반. 세상에는 자신보다 훨씬 쉽게 잘해내는 사람들이 있다는 사실을 일찍 깨달았을 뿐이다. 그런 사람들 중 하나가 바로 <span class="emphasis">한세린</span>이었다. OT에서 처음 본 한세린 선배는 화려했고, 자신감이 넘쳤다. 도윤은 단번에 알았다. 자신은 저런 사람에게 쉽게 다가갈 수 없겠구나. 하지만 이상하게도, 한세린이 강의실에 들어오면 도윤의 시선은 늘 그쪽으로 향했다.
       </p>
       <p>
-      <span class="quote-box compact">
-          "똑똑한 사람이 좋아."
+        <span class="quote-box compact">
+        "똑똑한 사람이 좋아."
         </span>
       </p>
       <p>
@@ -60,19 +59,18 @@
         최도윤은 여전히 침착한 얼굴로 강의실 문을 연다. 하지만 그 안에는 단 하나의 생각만이 맴돈다.
       </p>
       <p>
-      <span class="quote-box compact">
-          "여기까지 온 이상, 무너지지 않게 해야 한다."
+        <span class="quote-box compact">
+        "여기까지 온 이상, 무너지지 않게 해야 한다."
         </span>
       </p>
     </div>
   </details>
-
   <details>
     <summary>
       세계관 설정
       <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
@@ -90,91 +88,21 @@
       </ul>
     </div>
   </details>
-
-  <details>
-    <summary>
-      숨기고 싶은 비밀
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="secret-section">
-        <p>최도윤은 늘 조용한 학생이었다. 그 조용함은 자신을 숨기기 위한 가장 확실한 방법이기도 했다.</p>
-
-        <div class="subsection-title">■ 갑작스러운 성적 상승의 진실</div>
-        <p>
-          2022년 여름, 미국 어학연수에서 대화형 AI 서비스를 접한 이후 모든 것이 달라졌다. 질문을 던지면 정리된 사고가 돌아왔고 논리가 만들어졌다. 결과는 완벽한 만점 행렬이었다. 그리고 그와 함께 이 모든 것이 무너질지도 모른다는 공포가 자라기 시작했다.
-        </p>
-
-        <div class="subsection-title">■ '창의적 설계' 수업을 선택한 이유</div>
-        <p>
-          AI를 믿었기 때문이다. 시험 없이 과제로만 평가되는 수업. 그리고 <span class="emphasis">한세린</span>. "똑똑한 사람이 좋아"라는 기준에 맞추고 싶었다.
-        </p>
-
-        <div class="subsection-title">■ 과 사무실에서 들은 대화</div>
-        <p>
-          사건 당일 저녁, <span class="highlight">"옵튼AI 채점 서비스 시범 도입"</span> 소식을 듣고 머릿속이 하얘졌다. 이번 과제가 제출되면 지금까지 쌓아 온 모든 것이 무너질 것이다. 조별과제가 아니라 자기 자신을 증명해 온 전부를 지키기 위해 그는 극단적인 결론에 도달했다. <span class="emphasis">"과제가 제출되지 않으면, 채점도 없다."</span>
-        </p>
-
-        <div class="subsection-title">■ 잘못된 결론</div>
-        <p>
-          PPT를 통째로 삭제할 생각으로 강의실 근처까지 갔으나, 안에서 들리는 목소리 때문에 문을 열지 못했다. 학생휴게실에서 기회를 엿보기로 했다.
-        </p>
-
-        <div class="subsection-title">■ 메시지를 늦게 확인한 이유</div>
-        <p>
-          학생휴게실에서 긴장과 피로로 잠깐 졸았다. 소리에 깨서 확인해보니 단톡 메시지는 이미 20분 전에 와 있었다. 그 순간 그는 안도했다. 누군가 이미 자신이 하지 못한 일을 해버렸다는 사실에. 하지만 곧 자신이 범인으로 보일까 봐 계산적으로 행동했다. 이준서의 뒷모습을 보고 조금 떨어져 따라가며 방금 올라온 것처럼 연기했다.
-        </p>
-
-        <div class="subsection-title">■ 그가 끝까지 숨기려는 것</div>
-        <p>
-          자신이 AI를 사용했다는 사실, AI 채점 서비스에 대한 공포, 그리고 오늘 밤 무언가를 지울 생각을 했다는 사실. 그는 침묵함으로써 자신을 지키려 한다.
-        </p>
-      </div>
-    </div>
-  </details>
-
-  <details>
-    <summary>
-      목표
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li>
-          <strong>‘천재’라는 가면을 지키기</strong>: 이 가면이 벗겨지는 순간, 나는 아무것도 아니다. 들키면 성적도, 평판도, 내가 버텨온 이유도 전부 무너진다.
-        </li>
-        <li>
-          <strong>옵튼AI의 눈을 피하기</strong>: 발표가 이뤄지면 적발된다—그 공포가 내 숨을 조인다. 그래서 나는 “제출되지 않는 결말”까지도 계산하게 된다.
-        </li>
-        <li>
-          <strong>‘유능한 후배’로 살아남기</strong>: 무능해 보이는 순간, 선배들의 신뢰는 끊기고 나는 제물이 된다. 설령 망해도, 책임이 내 이름 하나로 고정되면 안 된다.
-        </li>
-      </ul>
-    </div>
-  </details>
-  
   <details>
     <summary>
       타임라인
       <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
       <div class="subsection-title">■ 공통 행적</div>
       <ul class="goal-list">
-        <li><strong>15:00 ~ 17:30</strong>: 팀 전원과 강의실에서 최종 점검. PPT, 발표자 노트 모두 정상</li>
+        <li><strong>15:00 ~ 17:40</strong>: 팀 전원과 강의실에서 최종 점검. PPT, 발표자 노트 모두 정상</li>
         <li><strong>17:40</strong>: 팀 해산, 각자 귀가하기로 함</li>
         <li><strong>19:00</strong>: 눈이 내리기 시작함</li>
       </ul>
-
       <div class="subsection-title">■ 개인 행적</div>
       <ul class="goal-list">
         <li><strong>17:40 ~ 18:00</strong>: 컴공과 사무실 근처에서 옵튼 AI의 AI채첨서비스가 '창의적 설계'에 시범 도입된다는 대화 엿듣기, 심각한 위기 인지. PPT를 삭제하기로 결심</li>
@@ -185,38 +113,13 @@
       </ul>
     </div>
   </details>
-
-  <details>
-    <summary>
-      자기 소개
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="quote-box">
-        "아… 안녕하세요. 컴퓨터공학과 3학년, 20학번 최도윤입니다.<br /><br />
-        원래 개인과제인 줄 알고 준비하고 있었는데,<br />
-        갑자기 조별로 바뀌어서 조금 당황하긴 했어요.<br /><br />
-        아직 많이 부족한 편이라<br />
-        앞에 나서서 발표하거나 그런 역할은 자신이 없고요.<br />
-        대신 자료 찾는 거나 정리하는 쪽은<br />
-        시키시면 최대한 맞춰서 해보겠습니다.<br /><br />
-        선배님들한테 배우는 입장이니까<br />
-        폐 안 되게 노력할게요. 잘 부탁드립니다."
-      </div>
-    </div>
-  </details>
-
   <div class="section-title">인물 간 관계 및 말투</div>
-
   <details>
     <summary class="summary-header">
       <span class="character-lee">이준서에 대해</span>
       <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
@@ -228,13 +131,12 @@
       </p>
     </div>
   </details>
-
   <details>
     <summary class="summary-header">
       <span class="character-han">한세린에 대해</span>
       <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
@@ -246,13 +148,12 @@
       </p>
     </div>
   </details>
-
   <details>
     <summary class="summary-header">
       <span class="character-hwang">황기순에 대해</span>
       <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
@@ -264,263 +165,4 @@
       </p>
     </div>
   </details>
-
-  <div class="section-title">전용 대본 <span class="stage-restriction-title">※ 지시할 때까지 열람하지 마세요</span></div>
-
-  <div class="script-guide" style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px; margin: 15px 0; border: 1px dashed rgba(255, 255, 255, 0.2);">
-    <h4 style="margin-top: 0; color: #ffcc00; margin-bottom: 8px;">📜 대본 읽기 가이드</h4>
-    <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #eee;">
-      1. 대본 리딩은 <strong>조장 이준서</strong>부터 시작해 주세요.<br>
-      2. 대사 속의 <strong>긴 공백</strong>은 다른 플레이어의 대사가 있는 구역입니다. 드라마틱한 전개를 위해 자신의 역할지에서는 보이지 않도록 숨겨둔 것이니, 상대방의 대사를 경청하며 자연스럽게 이어가 주세요.
-    </p>
-  </div>
-
-  <details>
-    <summary class="summary-header">
-      조사 1단계 시작 (강의실, 19:20)
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;무슨 짓 할지 몰라."
-        </div>
-        <div class="divider"></div>
-        <div class="script-line script-direction">(최도윤 등장)</div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "어… 선배님들?"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;도윤 씨, 왔어요?"
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "네. 단톡 이제 봤어요. 무슨 일인가 해서…"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다 삭제됐어."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "…네?"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;노트만 없어졌어요."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "그럼… 발표는 가능한 거죠?"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다시야."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "…그럼 이거 사고네요."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;얘기 중이에요."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "근데… 혹시 다른 조 사람이 들어왔을 가능성은요?"
-        </div>
-        <div class="divider"></div>
-        <div class="script-line script-direction">(황기순 등장)</div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;있겠네요."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "아니면, 일부러 다른 목적이 있을 수도 있고요."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;각자 조금씩 알아보자."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "그게 좋을 것 같아요. 크게 벌리지 말고요."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다시 모여요."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-      </div>
-    </div>
-  </details>
-
-  <details>
-    <summary class="summary-header">
-      조사 2단계 시작 (강의실, 19:50)
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;답이 나올 것 같진 않아."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "선배, 죄송하지만요. 저는 아직 끝난 느낌이 안 듭니다."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;부분이요?"
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "강의실만 봐서는 정보가 너무 제한적입니다. 각 과 학생휴게실이나 공용 공간도 한 번쯤은 확인해 봐야 할 것 같습니다."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;모르겠어."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "없을 수도 있죠. 근데 안 보면 계속 마음에 걸릴 것 같습니다."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나누는 게 좋겠다."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "근데 학생휴게실은 보통 자기 과 학생증 있어야 들어갈 수 있잖아요."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다시 바꾸고."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "저는 괜찮습니다."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">한세린</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">이준서</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;공유하는 걸로 하죠."
-        </div>
-        <div class="script-line my-line">
-          <span class="script-character my-character">최도윤</span>: "네, 선배."
-        </div>
-        <div class="script-line other-character">
-          <span class="script-character">황기순</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-        </div>
-      </div>
-    </div>
-  </details>
-  
 </div>
