@@ -84,10 +84,8 @@
 /* 인용구 박스 */
 .story-content .quote-box {
     display: block;
-    border-left: 4px solid #ffd700;
     padding: 1.2em 1.5em;
     margin: 1.5em 0;
-    font-style: italic;
     color: #d0d0d0;
     background: rgba(255, 215, 0, 0.05);
     border-radius: 4px;
@@ -175,7 +173,7 @@
     간단한 애니메이션 효과 
     (주의: height 애니메이션은 auto값 처리가 복잡하므로 여기선 제외하거나 간단히 처리)
   */
-    padding: 1.5em 1em;
+    padding: 1em;
     animation: fadeSlideDown 0.3s ease-out;
 }
 
