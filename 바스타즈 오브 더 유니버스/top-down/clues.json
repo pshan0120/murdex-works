@@ -324,7 +324,7 @@
             "variants": [
                 {
                     "clueName": "만찬장 자리 배치",
-                    "clueContent": "<div class='clue-detail'><p>대연회장 테이블의 자리 배치입니다. 스컬크러셔가 상석, 양 옆으로 말리스와 발트라, 맞은편에 위자드, 나머지에 슬리더·고어-후프·발로그가 앉아 있었습니다. <span class='highlight'>위자드의 연구실은 연회장과 바로 연결</span>되어 있으며, 테이블 어느 자리에서든 연구실 입구까지는 직선 거리로 약 20보입니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>대연회장 테이블의 자리 배치입니다. 스컬크러셔가 상석, 양 옆으로 말리스와 워로드 발트라, 맞은편에 위자드, 나머지에 슬리더·고어후프·악마 발로그가 앉아 있었습니다. <span class='highlight'>위자드의 연구실은 연회장과 바로 연결</span>되어 있으며, 테이블 어느 자리에서든 연구실 입구까지는 직선 거리로 약 20보입니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
@@ -494,7 +494,7 @@
             "variants": [
                 {
                     "clueName": "지옥의 추방 명령서",
-                    "clueContent": "<div class='clue-detail'><p>[발로그의 자리 주변 균열] 속에서 <span class='mystery'>차원 에너지에 의해 떠오른 양피지</span>가 발견되었습니다. 지옥의 고대 문자로 <span class='emphasis'>'겁쟁이 발로그를 영원히 추방한다'</span>는 내용이 적혀 있으며, <span class='highlight'>지옥 군주 세 명의 인장</span>이 선명하게 찍혀 있습니다.</p></div>",
+                    "clueContent": "<div class='clue-detail'><p>[악마 발로그의 자리 주변 균열] 속에서 <span class='mystery'>차원 에너지에 의해 떠오른 양피지</span>가 발견되었습니다. 지옥의 고대 문자로 <span class='emphasis'>'겁쟁이 악마 발로그를 영원히 추방한다'</span>는 내용이 적혀 있으며, <span class='highlight'>지옥 군주 세 명의 인장</span>이 선명하게 찍혀 있습니다.</p></div>",
                     "variantType": "DEFAULT",
                     "isDefault": true,
                     "priority": 100
