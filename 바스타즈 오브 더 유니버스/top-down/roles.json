@@ -1,57 +1,142 @@
 {
     "roles": [
         {
-            "roleId": "role_01",
-            "characterName": "발레리우스",
-            "roleName": "로드 스컬크러셔",
+            "id": "role_01",
+            "characterName": "스컬크러셔",
+            "roleName": "패왕",
             "roleOrder": 1,
-            "summary": "바스터즈의 두목. 오늘 아침 골든 킹을 쓰러뜨리고 왕좌에 앉았지만, 그 승리 뒤에는 차마 밝힐 수 없는 비겁한 비밀이 숨겨져 있다.",
-            "publicInfo": "<div class='role-public'><p><span class='emphasis'>190cm 이상의 거구</span>, 판금 갑옷으로 무장한 위압적인 체형. 얼굴 전체를 가린 해골 투구 너머로 차가운 붉은 안광이 번뜩인다. 거대한 강철 장검을 소지하고 있다.</p><p>바스터즈 연합의 두목이자 그레이스컬 성의 새로운 지배자.</p><p><strong><span class='emphasis'>기본 전투력: 8</span></strong></p></div>",
-            "baseCombatPower": 8,
-            "description": "<div class='role-private'><p>한때 당신은 질서의 군단에서 가장 눈부시게 빛나는 칼날이었습니다. 그러나 위선에 환멸을 느끼고 스스로 해골 가면을 쓴 채 바스터즈를 이끌어 마침내 오늘, 영웅 연합을 궤멸시켰습니다.</p><p>오늘 아침 골든 킹과의 최후 결전에서 당신은 7일간의 지독한 싸움 끝에 지쳐가고 있었습니다. 골든 킹의 빈틈이 보이던 순간, 당신은 정당한 승부 대신 레이디 말리스가 만들어준 <span class='emphasis'>'용의 독(Dragon Poison)'</span>이 발린 단검을 꺼내 기습했습니다.</p><p>만약 다른 짐승 같은 바스터즈들이 이를 안다면 당신의 권위는 즉시 무너질 것입니다. 위자드는 오늘 있었던 이 비겁한 살해를 보았으며, 독을 닦았던 헝겊을 숨겨두고 당신을 압박하고 있습니다.</p></div>",
+            "summary": "바스터즈 연합의 절대 지배자. 오늘 아침 골든 킹을 쓰러뜨리고 왕좌에 앉았지만, 그 승리 뒤에는 차마 밝힐 수 없는 비겁한 비밀이 숨겨져 있다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>190cm 이상의 거구</span>, 판금 갑옷으로 무장한 위압적인 체형. 얼굴 전체를 가린 해골 투구 너머로 차가운 붉은 안광이 번뜩인다. 가슴에는 금색의 갈라진 태양 문양이 새겨진 무거운 붉은 망토를 두르고 있으며, 거대한 강철 장검을 소지하고 있다.</p><p>바스터즈 연합의 패왕이자 그레이스컬 성의 새로운 지배자.</p><p><strong><span class='emphasis'>기본 전투력: 8</span></strong></p></div>",
+            "description": "<div class='role-private'><p>한때 당신은 질서의 군단에서 가장 눈부시게 빛나는 칼날이었습니다. 그러나 위선에 환멸을 느끼고 스스로 해골 가면을 쓴 채 바스터즈를 이끌어 마침내 오늘, 영웅 연합을 궤멸시켰습니다.</p><p>오늘 아침 골든 킹과의 최후 결전에서 당신은 7일간의 지독한 싸움 끝에 지쳐가고 있었습니다. 골든 킹의 빈틈이 보이던 순간, 당신은 정당한 승부 대신 참모장 말리스가 만들어준 <span class='emphasis'>'용의 독(Dragon Poison)'</span>이 발린 단검을 꺼내 기습했습니다.</p><p>만약 다른 짐승 같은 바스터즈들이 이를 안다면 당신의 권위는 즉시 무너질 것입니다. 대현자는 오늘 있었던 이 비겁한 살해를 보았으며, 독을 닦았던 헝겊을 숨겨두고 당신을 압박하고 있습니다.</p></div>",
+            "backstoryLore": [
+                "질서의 군단 소속으로, 한때 가장 뛰어난 전사로 칭송받았으나 조직의 위선에 환멸을 느끼고 탈주하였다.",
+                "스스로 바스터즈를 창설하여 수년간 정복 전쟁을 이끌어 마침내 그레이스컬 성채를 함락시켰다.",
+                "참모장 말리스와는 오랜 동맹 관계로, 그녀의 마법적 지원 아래 오늘의 정복을 완수했다."
+            ],
+            "relationships": [
+                {
+                    "targetId": "role_02",
+                    "relationType": "동맹",
+                    "feeling": "신뢰하지만, 그녀가 얼마나 많은 것을 알고 있는지 경계하고 있다.",
+                    "speechStyle": "격식을 갖추되 주도권을 잃지 않으려 한다."
+                },
+                {
+                    "targetId": "role_03",
+                    "relationType": "피협박",
+                    "feeling": "표면적으로 무시하지만, 속으로는 극도의 공포와 분노를 느낀다.",
+                    "speechStyle": "오만하게 내려다보나, 말끝마다 긴장의 기색이 감돈다."
+                },
+                {
+                    "targetId": "role_04",
+                    "relationType": "고용-피고용",
+                    "feeling": "유용한 도구라 여기지만, 신뢰하지는 않는다.",
+                    "speechStyle": "간결하고 명령조."
+                },
+                {
+                    "targetId": "role_05",
+                    "relationType": "지휘-피지휘",
+                    "feeling": "맹목적인 충성심이 있으나 지능이 낮아 걱정스럽다.",
+                    "speechStyle": "단순하고 직설적으로 명령한다."
+                },
+                {
+                    "targetId": "role_06",
+                    "relationType": "경쟁적 동맹",
+                    "feeling": "압도적인 전투력을 가진 그가 반란을 일으킬까 늘 경계한다.",
+                    "speechStyle": "강자끼리의 긴장감 섞인 존중."
+                },
+                {
+                    "targetId": "role_07",
+                    "relationType": "동맹",
+                    "feeling": "전술적으로 가장 믿을 만한 자라 여기지만, 그녀만의 속셈이 있을 것이라 의심한다.",
+                    "speechStyle": "동등한 지도자로서 대화하나, 우위를 놓치지 않는다."
+                }
+            ],
             "secrets": [
                 {
                     "secretTitle": "비겁한 암살자의 진실",
-                    "secretContent": "<div class='secret-content'><p>당신은 골든 킹을 정당하게 이기지 못했습니다. 위자드가 <span class='emphasis'>'용의 독이 묻은 비단 수건'</span>을 소지하고 증거로 삼고 있으며, 만약 이 사실이 알려지면 다른 바스터즈들이 하극상을 일으킬 것입니다.</p></div>",
+                    "secretContent": "<div class='secret-content'><p>당신은 골든 킹을 정당하게 이기지 못했습니다. 대현자가 <span class='emphasis'>'용의 독이 묻은 비단 수건'</span>을 소지하고 증거로 삼고 있으며, 만약 이 사실이 알려지면 다른 바스터즈들이 하극상을 일으킬 것입니다.</p></div>",
                     "disclosureTiming": "IMMEDIATE"
                 },
                 {
                     "secretTitle": "변경된 목표: 왕좌의 방어",
-                    "secretContent": "<div class='secret-content'><p>위자드가 죽었으니 증거를 없앨 절호의 기회입니다. <strong>'독이 묻은 수건'</strong>의 흔적을 반드시 없애야 하며, 전투력 무기들을 파밍해 어떤 녀석이 반란을 일으키더라도 찍어 누를 압도적 힘을 모아야 합니다.</p></div>",
+                    "secretContent": "<div class='secret-content'><p>대현자가 죽었으니 증거를 없앨 절호의 기회입니다. <strong>'독이 묻은 수건'</strong>의 흔적을 반드시 없애야 하며, 전투력 무기들을 파밍해 어떤 녀석이 반란을 일으키더라도 찍어 누를 압도적 힘을 모아야 합니다.</p></div>",
                     "disclosureTiming": "STEP_SPECIFIC",
                     "disclosureStepId": "investigation1"
                 }
             ],
-            "actions": [
+            "goals": [
                 {
-                    "actionName": "독 묻은 비단 은닉",
-                    "actionDescription": "<div class='action-desc'><p>독이 묻어있는 비단 수건을 찾아 파괴합니다.</p></div>",
-                    "apCost": 3,
-                    "additionalApCost": 0,
-                    "effectType": "MODIFY_CLUE",
-                    "effectDescription": "<div class='effect-desc'><p>수상한 비단 수건이 현장에서 사라집니다.</p></div>",
-                    "targetClueId": "clue_01",
-                    "availableStepOrder": [
-                        2,
-                        4
-                    ],
-                    "isReusable": false
+                    "type": "MAIN",
+                    "content": "왕좌를 수성하고 패왕으로서 군림한다."
+                },
+                {
+                    "type": "SECRET",
+                    "content": "골든 킹 독살의 증거인 비단 수건을 찾아 파괴한다."
                 }
-            ]
+            ],
+            "narrativeData": {
+                "isMurderer": false,
+                "isAccomplice": false,
+                "murderMethodLogic": "해당 없음. 대현자 살해와는 무관하다.",
+                "postCrimeFeeling": "대현자가 죽었다는 소식을 듣고 증거 은폐의 기회라 여기며 안도하는 동시에, 범인이 누구인지 파악하려 한다.",
+                "hiddenMotive": "골든 킹을 독살한 비겁함을 숨겨 패왕으로서의 권위를 유지한다."
+            }
         },
         {
-            "roleId": "role_02",
+            "id": "role_02",
             "characterName": "말리스",
-            "roleName": "레이디 말리스",
+            "roleName": "참모장",
             "roleOrder": 2,
-            "summary": "우아하고 치명적인 바스터즈의 책략가. 위자드의 협박에서 벗어나기 위해 오늘 밤, 완벽한 살인을 실행했다.",
-            "publicInfo": "<div class='role-public'><p><span class='emphasis'>170cm 초반의 우아하고 날카로운 체형</span>. 진홍색 판금 갑옷과 긴 로브를 착용. 오른손에는 붉은 오브가 박힌 지팡이를 쥐고 있다.</p><p>바스터즈 연합 내에서 가장 우아하고 치명적인 무기. 무력이 아닌 두뇌와 저주로 상대를 굴복시킨다.</p><p><strong><span class='emphasis'>기본 전투력: 4</span></strong></p></div>",
-            "baseCombatPower": 4,
-            "description": "<div class='role-private'><p>정복 전쟁을 승리하기 위해, 당신은 당신의 친자식 <span class='mystery'>'마멜리아'</span>를 과거 심연의 제물로 바쳤습니다. 하지만 위자드가 당시 타다 남은 <span class='highlight'>은팔찌</span>를 주워 당신의 모성을 비웃고 치부를 폭로하려 했습니다.</p><p>오늘 오후 4시 성채가 점령되자마자, 당신은 결심을 굳혔습니다. 슬리더의 단검을 훔쳐 위자드 연구실 천장에 <span class='emphasis'>네크로맨틱 와이어</span>로 단검을 매달고, 당신의 향수를 촉매로 위자드의 약초 차를 마비 독으로 만들었습니다.</p><p>와이어를 해제해 위자드를 깔끔하게 처리했지만, 당신은 무력이 아주 약합니다. 당장 아이템을 긁어모으지 못하면 이 야만적인 짐승들의 혈투에서 살아남지 못합니다.</p></div>",
+            "summary": "우아하고 치명적인 바스터즈의 책략가. 대현자의 협박에서 벗어나기 위해 오늘 밤, 완벽한 살인을 실행했다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>170cm 초반의 우아하고 날카로운 체형</span>. 가시 왕관을 쓰고 있으며 진홍색 판금 갑옷과 긴 로브를 착용. 오른손에는 붉은 오브가 박힌 지팡이를 쥐고 있다. 창백한 피부와 보랏빛 안광이 특징.</p><p>바스터즈 연합 내에서 가장 우아하고 치명적인 무기. 무력이 아닌 두뇌와 저주로 상대를 굴복시킨다.</p><p><strong><span class='emphasis'>기본 전투력: 4</span></strong></p></div>",
+            "description": "<div class='role-private'><p>정복 전쟁을 승리하기 위해, 당신은 당신의 친자식 <span class='mystery'>'마멜리아'</span>를 과거 심연의 제물로 바쳤습니다. 하지만 대현자가 당시 타다 남은 <span class='highlight'>은팔찌</span>를 주워 당신의 모성을 비웃고 치부를 폭로하려 했습니다.</p><p>오늘 오후 4시 성채가 점령되자마자, 당신은 결심을 굳혔습니다. 암살자 슬리더의 단검을 훔쳐 대현자 연구실 천장에 <span class='emphasis'>네크로맨틱 와이어</span>로 단검을 매달고, 당신의 향수를 촉매로 대현자의 약초 차를 마비 독으로 만들었습니다.</p><p>와이어를 해제해 대현자를 깔끔하게 처리했지만, 당신은 무력이 아주 약합니다. 당장 아이템을 긁어모으지 못하면 이 야만적인 짐승들의 혈투에서 살아남지 못합니다.</p></div>",
+            "backstoryLore": [
+                "과거 바스터즈의 정복 전쟁을 위해 친자식 마멜리아를 심연의 제물로 희생시켰다.",
+                "대현자는 그 증거인 타다 남은 은팔찌를 수집해두고 그녀를 협박해왔다.",
+                "패왕 스컬크러셔의 골든 킹 독살을 위한 독약을 직접 제조한 장본인이기도 하다."
+            ],
+            "relationships": [
+                {
+                    "targetId": "role_01",
+                    "relationType": "동맹",
+                    "feeling": "그가 없으면 이 무리를 통제할 수 없다. 유용하지만 언제 칼을 겨눌지 모른다.",
+                    "speechStyle": "우아하고 정중하지만, 필요할 때 냉정한 계산이 깔린다."
+                },
+                {
+                    "targetId": "role_03",
+                    "relationType": "표적",
+                    "feeling": "두려움과 증오. 그가 살아있는 한 나는 결코 안전하지 않다.",
+                    "speechStyle": "겉으로는 예의 바르게 대했다."
+                },
+                {
+                    "targetId": "role_04",
+                    "relationType": "도구 활용",
+                    "feeling": "그의 단검을 훔쳤으나 그는 모른다. 단순하고 다루기 쉽다.",
+                    "speechStyle": "무심하고 간결하게."
+                },
+                {
+                    "targetId": "role_05",
+                    "relationType": "소원",
+                    "feeling": "지능이 낮아 나의 계략에 위협이 되지 않는다. 별 관심 없다.",
+                    "speechStyle": "약간의 경멸이 담긴 무관심."
+                },
+                {
+                    "targetId": "role_06",
+                    "relationType": "경계",
+                    "feeling": "압도적인 전투력이 두렵다. 가급적 건드리지 않는다.",
+                    "speechStyle": "공손하면서도 거리를 유지."
+                },
+                {
+                    "targetId": "role_07",
+                    "relationType": "경쟁적 공존",
+                    "feeling": "지략가 면에서 유일하게 경계해야 할 상대.",
+                    "speechStyle": "동등한 지략가로서 정중하게, 그러나 속을 보여주지 않는다."
+                }
+            ],
             "secrets": [
                 {
-                    "secretTitle": "위자드 제단 위의 핏줄",
-                    "secretContent": "<div class='secret-content'><p>당신은 위자드를 실제로 죽인 <strong>진범</strong>입니다. 또한 당신의 과거가 담긴 <strong>은팔찌</strong>를 위자드가 가지고 있어, 범인으로 몰리거나 약점이 노출될 위기입니다.</p></div>",
+                    "secretTitle": "대현자 살해의 진범",
+                    "secretContent": "<div class='secret-content'><p>당신은 대현자를 실제로 죽인 <strong>진범</strong>입니다. 또한 당신의 과거가 담긴 <strong>은팔찌</strong>를 대현자가 가지고 있어, 범인으로 몰리거나 약점이 노출될 위기입니다.</p></div>",
                     "disclosureTiming": "IMMEDIATE"
                 },
                 {
@@ -61,127 +146,243 @@
                     "disclosureStepId": "investigation1"
                 }
             ],
-            "actions": [
+            "goals": [
                 {
-                    "actionName": "은팔찌 회수",
-                    "actionDescription": "<div class='action-desc'><p>위자드가 소지하고 있는 은팔찌를 찾아 회수합니다.</p></div>",
-                    "apCost": 3,
-                    "additionalApCost": 0,
-                    "effectType": "MODIFY_CLUE",
-                    "effectDescription": "<div class='effect-desc'><p>수상한 은제 팔찌가 현장에서 사라집니다.</p></div>",
-                    "targetClueId": "clue_03",
-                    "availableStepOrder": [
-                        2,
-                        4
-                    ],
-                    "isReusable": false
+                    "type": "MAIN",
+                    "content": "이 야만적인 혈투에서 살아남아 왕좌를 차지한다."
+                },
+                {
+                    "type": "SECRET",
+                    "content": "범행의 핵심 증거인 마멜리아의 은팔찌를 찾아 처분하고 의심을 타인에게 돌린다."
                 }
-            ]
+            ],
+            "narrativeData": {
+                "isMurderer": true,
+                "isAccomplice": false,
+                "murderMethodLogic": "슬리더의 단검을 훔쳐 대현자 연구실 천장에 네크로맨틱 와이어로 매달고, 자신의 향수를 촉매로 약초 차를 마비 독으로 만들어 원격 살해.",
+                "postCrimeFeeling": "두려움과 안도가 교차한다. 계획은 완벽했지만 자신이 의심받을까 극도로 긴장하고 있다.",
+                "hiddenMotive": "친자식 마멜리아를 제물로 바친 과거의 폭로를 막고, 대현자에 의한 협박에서 영구적으로 탈출하기 위한 살의."
+            }
         },
         {
-            "roleId": "role_03",
+            "id": "role_03",
             "characterName": "엘드리치",
-            "roleName": "엘드리치 위자드",
+            "roleName": "대현자",
             "roleOrder": 3,
-            "summary": "자신의 수명이 다했음을 직감하고, 악당들에게 살해당하는 것을 역이용해 신으로 부활하려는 종말의 지휘자.",
-            "publicInfo": "<div class='role-public'><p><span class='emphasis'>165cm 정도의 왜소하지만 기운이 넘치는 노인</span>. 푸른 수정 구슬이 빛나는 긴 지팡이를 소지.</p><p>성채의 모든 마법 체계를 관장하는 현자였으나, 오늘 만찬 중에 기이한 시신으로 발견되었다.</p><p><strong><span class='emphasis'>생전 기본 전투력: 3 / 부활 마신 전투력: 35</span></strong></p></div>",
-            "baseCombatPower": 3,
-            "demonGodCombatPower": 35,
-            "description": "<div class='role-private'><p>오늘 오후, 그레이스컬 점령의 환호성 속에서 당신은 당신의 수명이 단 몇 시간밖에 남지 않았음을 깨달았습니다.</p><p>게다가 투명 마법을 통해 말리스가 천장에 네크로맨틱 와이어와 단검을 매달아 당신을 암살하려는 장면까지 지켜보았습니다.</p><p>당신은 이 상황을 즐기기로 했습니다. 당신의 영혼을 성채의 코어와 동기화시킬 함정을 파 두고, 로드 스컬크러셔의 독 헝겊, 슬리더의 훔친 보석, 고어후프의 식인 증거 갑옷 등 그들이 가장 숨기고 싶어할 단서들을 성채 곳곳에 노골적으로 흩뿌렸습니다.</p><p>당신의 시신이 바닥에 쓰러지는 순간, 당신의 영혼은 성채와 하나가 되어 저 오만한 악당들이 서로를 의심하고 무력을 휘두르며 죽고 죽이게 조종할 것입니다.</p></div>",
+            "summary": "자신의 수명이 다했음을 직감하고, 악당들에게 살해당하는 것을 역이용해 성채의 신으로 부활하려는 종말의 설계자.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>165cm 정도의 왜소하지만 기운이 넘치는 노인</span>. 긴 흰 수염과 푸른 후드 로브, 금색 테두리 장식. 푸른 수정 구슬이 빛나는 긴 지팡이를 소지. 눈빛은 모든 것을 알고 있다는 듯 깊고 영리하다.</p><p>성채의 모든 마법 체계를 관장하는 현자였으나, 오늘 만찬 중에 기이한 시신으로 발견되었다.</p><p><strong><span class='emphasis'>생전 기본 전투력: 3 / 부활 마신 전투력: 35</span></strong></p></div>",
+            "description": "<div class='role-private'><p>오늘 오후, 그레이스컬 점령의 환호성 속에서 당신은 당신의 수명이 단 몇 시간밖에 남지 않았음을 깨달았습니다.</p><p>게다가 투명 마법을 통해 참모장 말리스가 천장에 네크로맨틱 와이어와 단검을 매달아 당신을 암살하려는 장면까지 지켜보았습니다.</p><p>당신은 이 상황을 즐기기로 했습니다. 당신의 영혼을 성채의 코어와 동기화시킬 함정을 파 두고, 패왕의 독 헝겊, 암살자의 훔친 보석, 돌격대장의 식인 증거 갑옷 등 그들이 가장 숨기고 싶어할 단서들을 성채 곳곳에 노골적으로 흩뿌렸습니다.</p><p>당신의 시신이 바닥에 쓰러지는 순간, 당신의 영혼은 성채와 하나가 되어 저 오만한 악당들이 서로를 의심하고 무력을 휘두르며 죽고 죽이게 조종할 것입니다.</p></div>",
+            "backstoryLore": [
+                "수백 년간 그레이스컬 성채의 기록 보관소를 지켜온 대현자이자 마법의 수호자.",
+                "바스터즈의 각 구성원이 숨긴 비밀들을 하나하나 수집하며 자신의 안전을 보장해왔다.",
+                "스스로의 수명이 한계에 달했음을 오래전부터 예감하고 최후의 계획을 준비해왔다."
+            ],
+            "relationships": [
+                {
+                    "targetId": "role_01",
+                    "relationType": "협박-피협박",
+                    "feeling": "오만하지만 두려움을 숨기는 자. 그 스스로의 부끄러운 진실을 쥐고 있다.",
+                    "speechStyle": "비꼬는 어투로, 비밀을 넌지시 암시한다."
+                },
+                {
+                    "targetId": "role_02",
+                    "relationType": "협박-피협박",
+                    "feeling": "그녀가 나를 죽일 계획임을 안다. 그래서 더욱 흥미롭다.",
+                    "speechStyle": "부드럽지만 처음부터 끝까지 압박감이 배어있다."
+                },
+                {
+                    "targetId": "role_04",
+                    "relationType": "협박-피협박",
+                    "feeling": "보석 도둑. 증거를 이미 확보했다.",
+                    "speechStyle": "냉소적이고 박학다식한 어투로 조롱한다."
+                },
+                {
+                    "targetId": "role_05",
+                    "relationType": "협박-피협박",
+                    "feeling": "식인이라는 금기 앞에 전율하는 짐승. 증거를 흔들어 보이는 것만으로도 충분히 다룰 수 있다.",
+                    "speechStyle": "비웃음이 가득한 잔인한 언사."
+                },
+                {
+                    "targetId": "role_06",
+                    "relationType": "협박-피협박",
+                    "feeling": "지옥에서 도망친 겁쟁이. 추방 명령서 하나면 그 오만이 무너진다.",
+                    "speechStyle": "무심한 듯 치명적인 위협을 건넨다."
+                },
+                {
+                    "targetId": "role_07",
+                    "relationType": "협박-피협박",
+                    "feeling": "명예를 중시한다고 하나, 가장 치명적인 내통의 증거를 쥐고 있다.",
+                    "speechStyle": "정중하지만 모든 말에 날이 서 있다."
+                }
+            ],
             "secrets": [
                 {
                     "secretTitle": "죽음의 설계자 (유령 모드)",
-                    "secretContent": "<div class='secret-content'><p>당신은 사망했지만 <strong>조사 1단계 이후, 투표 1단계가 시작되는 시점부터 유령 모드</strong>로 전환되어 게임 시스템을 왜곡합니다. 성채에 속박된 당신은 이후 페이즈 제약이나 AP 소모 없이 모든 단서를 엿보고, 누구의 밀담이든 끼어들 수 있습니다.</p></div>",
+                    "secretContent": "<div class='secret-content'><p>당신은 사망했지만 <strong>조사 1단계 이후, 추리 1단계가 시작되는 시점부터 유령 모드</strong>로 전환되어 게임 시스템을 왜곡합니다. 성채에 속박된 당신은 이후 페이즈 제약이나 AP 소모 없이 모든 단서를 엿보고, 누구의 밀담이든 끼어들 수 있습니다.</p></div>",
                     "disclosureTiming": "IMMEDIATE"
                 },
                 {
                     "secretTitle": "변경된 목표: 희생양과 부활의 힘",
-                    "secretContent": "<div class='secret-content'><p>부활을 위해선 가장 강력한 영혼이 필요합니다! 바스터즈들이 투표에서 무력이 제일 높은 자를 골라 처형하도록 교묘하게 이간질하십시오. 처형당한 자의 모든 전투력(장비 포함)은 부활한 당신의 마신 본체 전투력(35)에 합산됩니다. 생존자들이 살기 위해 '약한 자'를 고르려 할 테니, 강한 자들이 서로를 공격하게 유도하십시오!</p></div>",
+                    "secretContent": "<div class='secret-content'><p>부활을 위해선 가장 강력한 영혼이 필요합니다! 바스터즈들이 투표에서 무력이 제일 높은 자를 골라 처형하도록 교묘하게 이간질하십시오. 처형당한 자의 모든 전투력(장비 포함)은 부활한 당신의 마신 본체 전투력(35)에 합산됩니다.</p></div>",
                     "disclosureTiming": "STEP_SPECIFIC",
                     "disclosureStepId": "investigation1"
                 }
             ],
-            "actions": [
+            "goals": [
                 {
-                    "actionName": "마법의 눈",
-                    "actionDescription": "<div class='action-desc'><p>수정 구슬과 성채에 새겨진 룬을 통해 다른 이들의 행적을 마법적으로 관찰합니다. 살아있는 동안 사용 가능합니다.</p></div>",
-                    "apCost": 1,
-                    "additionalApCost": 0,
-                    "effectType": "PEEK_CLUE",
-                    "effectDescription": "<div class='effect-desc'><p>단서에 대한 추가 정보를 확인합니다.</p></div>",
-                    "targetClueId": null,
-                    "availableStepOrder": [
-                        2
-                    ],
-                    "isReusable": true
+                    "type": "MAIN",
+                    "content": "성채의 코어와 영혼을 동기화하여 마신으로 부활한다."
                 },
                 {
-                    "actionName": "성채의 눈으로 관찰",
-                    "actionDescription": "<div class='action-desc'><p>유령 상태에서 성채의 벽과 마법 회로를 통해 모든 장소의 단서를 무제한 관찰할 수 있습니다.</p></div>",
-                    "apCost": 0,
-                    "additionalApCost": 0,
-                    "effectType": "PEEK_ALL_CLUES",
-                    "effectDescription": "<div class='effect-desc'><p>유령의 시야로 현장의 단서를 확인합니다.</p></div>",
-                    "targetClueId": null,
-                    "availableStepOrder": [
-                        4
-                    ],
-                    "isReusable": true
+                    "type": "SECRET",
+                    "content": "바스터즈들이 서로를 의심하고 처형하도록 유도하여 부활에 필요한 가장 강력한 영혼을 제물로 삼는다."
                 }
-            ]
+            ],
+            "narrativeData": {
+                "isMurderer": false,
+                "isAccomplice": false,
+                "murderMethodLogic": "참모장의 살해 계획을 미리 간파하고, 스스로 죽음을 선택하여 영혼을 성채 코어에 이식하는 계획을 완성함. 피해자이자 동시에 설계자.",
+                "postCrimeFeeling": "죽음 이후 성채와 동기화되어 유령으로서 승리감과 오만함을 느낀다.",
+                "hiddenMotive": "필멸의 수명을 극복하고 성채에 깃든 불멸의 마신으로 부활한다."
+            }
         },
         {
-            "roleId": "role_04",
+            "id": "role_04",
             "characterName": "슬리더",
-            "roleName": "암살자 슬리더",
+            "roleName": "암살자",
             "roleOrder": 4,
             "summary": "기민한 암살자. 오늘 오후 점령의 혼란을 틈타 금지된 전리품인 창조의 보석을 훔친 대가로 육체가 타들어가는 고통을 겪고 있다.",
-            "publicInfo": "<div class='role-public'><p><span class='emphasis'>180cm, 몸을 낮게 웅크린 기민한 체형</span>. 전신이 녹색 비늘로 덮인 리저드맨. 날카로운 곡도를 쥐고 있다.</p><p>바스터즈의 '보이지 않는 손'. 쉿쉿거리는 마찰음이 섞인 짧은 말투를 사용하며 암살과 잠입에 특화되어 있다.</p><p><strong><span class='emphasis'>기본 전투력: 5</span></strong></p></div>",
-            "baseCombatPower": 5,
-            "description": "<div class='role-private'><p>오늘 오후 4시, 마침내 성채가 함락되자 당신은 가장 먼저 지하 창고 '시작의 방'에 잠입해 <span class='mystery'>'창조의 보석'</span>을 삼켰습니다.</p><p>보석을 녹아내린 비늘 안쪽에 쑤셔 넣었지만, 열기가 너무 엄청나서 파충류인 당신의 체온은 펄펄 끓고 흉측한 화상 자국과 흉터가 생겨버렸습니다.</p><p>위자드는 연회 전에 이미 당신의 흉터를 보고 조롱하며 장부를 뒤지고 있었습니다. 당신의 단검마저 누군가 훔쳐갔는데, 하필 죽은 위자드 머리에 꽂혀 있다니 당신이 가장 먼저 의심을 받을 것이 분명합니다.</p></div>",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>180cm, 몸을 낮게 웅크린 기민한 체형</span>. 전신이 녹색 비늘로 덮인 리저드맨. 가죽 하네스와 요포만 착용하여 근육질 비늘 몸이 드러남. 날카로운 곡도를 쥐고 있으며 파충류 특유의 세로 눈동자가 번뜩인다.</p><p>바스터즈의 '보이지 않는 손'. 쉿쉿거리는 마찰음이 섞인 짧은 말투를 사용하며 암살과 잠입에 특화되어 있다.</p><p><strong><span class='emphasis'>기본 전투력: 5</span></strong></p></div>",
+            "description": "<div class='role-private'><p>오늘 오후 4시, 마침내 성채가 함락되자 당신은 가장 먼저 지하 창고 '시작의 방'에 잠입해 <span class='mystery'>'창조의 보석'</span>을 삼켰습니다.</p><p>보석을 녹아내린 비늘 안쪽에 쑤셔 넣었지만, 열기가 너무 엄청나서 파충류인 당신의 체온은 펄펄 끓고 흉측한 화상 자국과 흉터가 생겨버렸습니다.</p><p>대현자는 연회 전에 이미 당신의 흉터를 보고 조롱하며 장부를 뒤지고 있었습니다. 당신의 단검마저 누군가 훔쳐갔는데, 하필 죽은 대현자 머리에 꽂혀 있다니 당신이 가장 먼저 의심을 받을 것이 분명합니다.</p></div>",
+            "backstoryLore": [
+                "바스터즈의 잠입과 암살을 전담해온 리저드맨 출신의 그림자.",
+                "성채 공략의 일등공신이지만, 언제나 자신의 이익을 먼저 챙기는 자다.",
+                "창조의 보석은 그레이스컬의 금지 유물로, 이것을 소지하는 것만으로도 중형에 처해질 수 있다."
+            ],
+            "relationships": [
+                {
+                    "targetId": "role_01",
+                    "relationType": "고용-피고용",
+                    "feeling": "명령을 따르지만 그가 자신을 제거할 경우를 항상 대비한다.",
+                    "speechStyle": "짧고 건조하게 보고한다."
+                },
+                {
+                    "targetId": "role_02",
+                    "relationType": "의심",
+                    "feeling": "자신의 단검을 훔친 자가 그녀일지 모른다고 직감하고 있다.",
+                    "speechStyle": "눈을 가늘게 뜨고 짤막하게 내뱉는다."
+                },
+                {
+                    "targetId": "role_03",
+                    "relationType": "피협박",
+                    "feeling": "조롱당하는 것이 참을 수 없이 굴욕적이다. 대현자의 죽음이 오히려 다행이다.",
+                    "speechStyle": "적대감을 내포한 쉿쉿거리는 어투."
+                },
+                {
+                    "targetId": "role_05",
+                    "relationType": "동료",
+                    "feeling": "단순하고 직접적이다. 예측 가능한 상대라 오히려 편하다.",
+                    "speechStyle": "무뚝뚝하고 간단하게."
+                },
+                {
+                    "targetId": "role_06",
+                    "relationType": "경계",
+                    "feeling": "압도적인 화력 앞에 자신도 모르게 서열을 의식하게 된다.",
+                    "speechStyle": "뒤로 물러나며 조심스럽게."
+                },
+                {
+                    "targetId": "role_07",
+                    "relationType": "소원",
+                    "feeling": "명예 운운하는 자들은 결국 가장 더러운 짓을 한다. 경계하되 크게 신경 쓰지 않는다.",
+                    "speechStyle": "냉소적이고 무뚝뚝하게."
+                }
+            ],
             "secrets": [
                 {
                     "secretTitle": "화산으로 변한 몸",
-                    "secretContent": "<div class='secret-content'><p>당신은 비늘 안쪽에 훔친 보석을 숨겨 비정상적인 고열과 심각한 화상을 앓고 있습니다. 위자드가 남긴 <strong>'보석 도난 일지'</strong>와 당신이 남긴 화상 허물들은 당신의 목을 조일 것입니다.</p></div>",
+                    "secretContent": "<div class='secret-content'><p>당신은 비늘 안쪽에 훔친 보석을 숨겨 비정상적인 고열과 심각한 화상을 앓고 있습니다. 대현자가 남긴 <strong>'보석 도난 일지'</strong>와 당신이 남긴 화상 허물들은 당신의 목을 조일 것입니다.</p></div>",
                     "disclosureTiming": "IMMEDIATE"
                 },
                 {
                     "secretTitle": "변경된 목표: 의심 회피와 힘의 추구",
-                    "secretContent": "<div class='secret-content'><p>당장 사람들이 최초 발견자인 당신의 단검을 의심하고 있습니다. 알리바이를 조작하면서 화상의 흠집과 보석의 존재를 감안할 <strong>'단서'</strong>들을 파괴하고, 어중간한 무력을 보완할 전투력 무기를 선점하십시오.</p></div>",
+                    "secretContent": "<div class='secret-content'><p>당장 사람들이 최초 발견자인 당신의 단검을 의심하고 있습니다. 알리바이를 조작하면서 화상의 흔적과 보석의 존재를 감안할 <strong>'단서'</strong>들을 파괴하고, 어중간한 무력을 보완할 전투력 무기를 선점하십시오.</p></div>",
                     "disclosureTiming": "STEP_SPECIFIC",
                     "disclosureStepId": "investigation1"
                 }
             ],
-            "actions": [
+            "goals": [
                 {
-                    "actionName": "보석함 흔적 은닉",
-                    "actionDescription": "<div class='action-desc'><p>지하 보관소에서 보석이 사라진 선반의 흔적과 당신의 화상 허물을 치웁니다.</p></div>",
-                    "apCost": 2,
-                    "additionalApCost": 0,
-                    "effectType": "MODIFY_CLUE",
-                    "effectDescription": "<div class='effect-desc'><p>선반 주변의 흔적이 깔끔하게 정리됩니다.</p></div>",
-                    "targetClueId": "clue_05",
-                    "availableStepOrder": [
-                        2,
-                        4
-                    ],
-                    "isReusable": false
+                    "type": "MAIN",
+                    "content": "창조의 보석에 관한 모든 증거를 인멸하고 살아남는다."
+                },
+                {
+                    "type": "SECRET",
+                    "content": "흉기로 지목된 자신의 단검의 근원을 숨기고, 진범을 다른 자에게 돌린다."
                 }
-            ]
+            ],
+            "narrativeData": {
+                "isMurderer": false,
+                "isAccomplice": false,
+                "murderMethodLogic": "해당 없음. 자신의 단검이 흉기로 사용된 것은 참모장 말리스가 훔친 결과이며, 슬리더 본인은 대현자 살해와 무관하다.",
+                "postCrimeFeeling": "자신의 단검이 왜 거기 있는지 당혹스러우며, 자신이 범인으로 몰릴까 봐 극도로 긴장하고 있다.",
+                "hiddenMotive": "창조의 보석을 체내에 흡수하여 궁극적으로 자신의 육체적 한계를 초월한 힘을 얻으려 한다."
+            }
         },
         {
-            "roleId": "role_05",
+            "id": "role_05",
             "characterName": "고어후프",
-            "roleName": "돌격대장 고어후프",
+            "roleName": "돌격대장",
             "roleOrder": 5,
-            "summary": "짐승 같은 파괴력의 반인반수. 포위전 중 심각한 금기를 저질렀고, 오늘 위자드의 끔찍한 조롱을 받았다.",
-            "publicInfo": "<div class='role-public'><p><span class='emphasis'>210cm의 압도적인 거구</span>. 숫양의 거대한 뿔과 거친 근육질 상체. 양손 가득 거대한 양날 도끼를 들고 있다.</p><p>바스터즈의 선봉장이자 학살자. 전장에서는 파괴신이나 지능은 다소 떨어진다.</p><p><strong><span class='emphasis'>기본 전투력: 6</span></strong></p></div>",
-            "baseCombatPower": 6,
-            "description": "<div class='role-private'><p>공성전 도중 맹렬한 굶주림에 미쳐 당신은 전사한 악당 동료를 잡아먹는 금기를 저질렀습니다.</p><p>오늘 성이 함락된 직후 연회를 준비할 무렵, 위자드가 당신에게 다가와 <span class='quote-box'>\"너의 동료 뼈로 뜨끈한 국이라도 끓여줄까?\"</span>라고 비웃으며, 당신의 이빨 자국이 선명하게 남은 '가여운 동료의 은색 갑옷 파편'을 흔들어 보였습니다.</p><p>분노와 두려움. 위자드를 죽여버리고 싶었지만 어느새 그는 밀실에서 시체가 되어 있었습니다. 확실한 건, 당신은 무력만 강할 뿐 애매한 중위권(전투력 6)이므로 장비를 더 얻지 못하면 살아남지 못한다는 점입니다.</p></div>",
+            "summary": "짐승 같은 파괴력의 반인반수. 포위전 중 심각한 금기를 저질렀고, 오늘 대현자의 끔찍한 조롱을 받았다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>210cm의 압도적인 거구</span>. 숫양의 거대한 뿔과 붉은 피부를 가진 반인반수. 거친 근육질 상체와 털로 덮인 발굽. 양손으로 들기도 벅찬 거대한 양날 도끼를 소지. 흉포하고 거친 인상.</p><p>바스터즈의 선봉장이자 학살자. 전장에서는 파괴신이나 지능은 다소 떨어진다.</p><p><strong><span class='emphasis'>기본 전투력: 6</span></strong></p></div>",
+            "description": "<div class='role-private'><p>공성전 도중 맹렬한 굶주림에 미쳐 당신은 전사한 악당 동료를 잡아먹는 금기를 저질렀습니다.</p><p>오늘 성이 함락된 직후 연회를 준비할 무렵, 대현자가 당신에게 다가와 <span class='quote-box'>\"너의 동료 뼈로 뜨끈한 국이라도 끓여줄까?\"</span>라고 비웃으며, 당신의 이빨 자국이 선명하게 남은 '가여운 동료의 은색 갑옷 파편'을 흔들어 보였습니다.</p><p>분노와 두려움. 대현자를 죽여버리고 싶었지만 어느새 그는 밀실에서 시체가 되어 있었습니다. 확실한 건, 당신은 무력만 강할 뿐 애매한 중위권(전투력 6)이므로 장비를 더 얻지 못하면 살아남지 못한다는 점입니다.</p></div>",
+            "backstoryLore": [
+                "남부 대평원 출신의 반인반수 전사. 바스터즈의 맹렬한 선봉이자 본능으로 살아온 존재.",
+                "공성전의 극한 상황 속에서 굶주림을 이기지 못하고 동료의 시신을 먹는 금기를 저질렀다.",
+                "대현자는 그 현장을 목격하여 이빨 자국이 남은 갑옷 파편을 증거로 보관해왔다."
+            ],
+            "relationships": [
+                {
+                    "targetId": "role_01",
+                    "relationType": "맹목적 충성",
+                    "feeling": "패왕이다. 그의 말은 곧 법이다.",
+                    "speechStyle": "거칠고 직설적이지만 복종의 자세를 취한다."
+                },
+                {
+                    "targetId": "role_02",
+                    "relationType": "소원",
+                    "feeling": "그 우아한 마녀가 뭘 꾸미는지 모르겠다. 별로 신경 안 쓴다.",
+                    "speechStyle": "투박하고 무관심하게."
+                },
+                {
+                    "targetId": "role_03",
+                    "relationType": "분노와 공포",
+                    "feeling": "죽여버리고 싶었다. 하지만 이미 죽어있다. 다행인지 아닌지 모르겠다.",
+                    "speechStyle": "으르렁거리는 짧고 폭발적인 어투."
+                },
+                {
+                    "targetId": "role_04",
+                    "relationType": "동료",
+                    "feeling": "잔머리를 굴리는 놈이지만, 전장에선 꽤 썼다.",
+                    "speechStyle": "무뚝뚝하고 단순하게."
+                },
+                {
+                    "targetId": "role_06",
+                    "relationType": "경쟁",
+                    "feeling": "저 악마 놈은 너무 강하다. 언젠간 꺾어야 한다.",
+                    "speechStyle": "으르렁거리며 도전적으로."
+                },
+                {
+                    "targetId": "role_07",
+                    "relationType": "불신",
+                    "feeling": "너무 빈틈이 없다. 믿을 수가 없다.",
+                    "speechStyle": "퉁명스럽고 경계하는 눈빛으로."
+                }
+            ],
             "secrets": [
                 {
                     "secretTitle": "금기된 만찬의 잔해",
-                    "secretContent": "<div class='secret-content'><p>당신의 끔찍한 이빨 자국이 남은 갑옷 파편이 위자드의 손에 있습니다. 식인 사실이 들통나면 다른 짐승들이 당신을 가만두지 않을 것입니다.</p></div>",
+                    "secretContent": "<div class='secret-content'><p>당신의 끔찍한 이빨 자국이 남은 갑옷 파편이 대현자의 손에 있습니다. 식인 사실이 들통나면 다른 짐승들이 당신을 가만두지 않을 것입니다.</p></div>",
                     "disclosureTiming": "IMMEDIATE"
                 },
                 {
@@ -191,36 +392,79 @@
                     "disclosureStepId": "investigation1"
                 }
             ],
-            "actions": [
+            "goals": [
                 {
-                    "actionName": "갑옷 파편 회수",
-                    "actionDescription": "<div class='action-desc'><p>위자드가 보관하고 있는 '동료의 은색 갑옷 파편'을 찾아 파괴합니다.</p></div>",
-                    "apCost": 3,
-                    "additionalApCost": 0,
-                    "effectType": "MODIFY_CLUE",
-                    "effectDescription": "<div class='effect-desc'><p>갑옷 파편 흔적이 사라집니다.</p></div>",
-                    "targetClueId": "clue_07",
-                    "availableStepOrder": [
-                        2,
-                        4
-                    ],
-                    "isReusable": false
+                    "type": "MAIN",
+                    "content": "식인의 증거를 파괴하고 이 혈투에서 살아남는다."
+                },
+                {
+                    "type": "SECRET",
+                    "content": "강력한 무기를 최대한 확보해 전투력 우위를 점한다."
                 }
-            ]
+            ],
+            "narrativeData": {
+                "isMurderer": false,
+                "isAccomplice": false,
+                "murderMethodLogic": "해당 없음. 대현자를 죽이려는 충동은 있었으나 실행하지 않았다.",
+                "postCrimeFeeling": "대현자의 죽음에 오히려 당황해하며, 누가 했는지 궁금해 한다. 어쩌면 혐의를 받을까 두려워하기도 한다.",
+                "hiddenMotive": "식인이라는 금기를 영원히 은폐하고, 바스터즈 내 최강자로 군림한다."
+            }
         },
         {
-            "roleId": "role_06",
+            "id": "role_06",
             "characterName": "악마 발로그",
-            "roleName": "악마 발로그",
+            "roleName": "특공대장",
             "roleOrder": 6,
-            "summary": "순수 무력 최강의 지옥 출신 고위 악마. 하지만 위자드에게 영혼의 목줄이 잡혀 영원한 노예 신세가 될 위기에 처해 있었다.",
-            "publicInfo": "<div class='role-public'><p><span class='emphasis'>250cm(날개 포함)</span>, 강렬한 붉은 피부와 박쥐 날개를 가진 악마. 불과 열을 자유자재로 다룬다.</p><p>바스터즈 내에서 압도적인 파괴력을 지닌 짐승 같은 존재. 오만하고 잔혹하다.</p><p><strong><span class='emphasis'>기본 전투력: 9</span></strong></p></div>",
-            "baseCombatPower": 9,
-            "description": "<div class='role-private'><p>지옥 전쟁에서 겁에 질려 도망친 대가로 추방당한 당신. 위자드는 오늘 무심하게 지옥 추방령이 임박함을 암시하며 '추방 명령서'의 조각을 흘렸습니다.</p><p>오늘 밤 그것을 부수지 못하면 지옥의 사냥꾼들에게 끌려가 영원히 타오르는 노예가 됩니다.</p><p>비록 당신은 그 누구도 함부로 대적할 수 없는 압도적인 기본 전투력(9)을 지녔지만, 만약 다른 녀석들이 사기급 장비를 둘둘 말고 당신을 덮친다면 승리를 장담할 수 없습니다.</p></div>",
+            "summary": "순수 무력 최강의 지옥 출신 고위 악마. 하지만 대현자에게 영혼의 목줄이 잡혀 영원한 노예 신세가 될 위기에 처해 있었다.",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>250cm(날개 포함)</span>, 강렬한 붉은 피부와 박쥐 날개를 가진 악마. 머리에는 억센 뿔이 솟아 있고 전신이 근육으로 팽팽하다. 날카로운 손발톱과 위압적인 날개 짓. 검은 요포만 착용한 모습.</p><p>바스터즈 내에서 압도적인 파괴력을 지닌 짐승 같은 존재. 오만하고 잔혹하다.</p><p><strong><span class='emphasis'>기본 전투력: 9</span></strong></p></div>",
+            "description": "<div class='role-private'><p>지옥 전쟁에서 겁에 질려 도망친 대가로 추방당한 당신. 대현자는 오늘 무심하게 지옥 추방령이 임박함을 암시하며 '추방 명령서'의 조각을 흘렸습니다.</p><p>오늘 밤 그것을 부수지 못하면 지옥의 사냥꾼들에게 끌려가 영원히 타오르는 노예가 됩니다.</p><p>비록 당신은 그 누구도 함부로 대적할 수 없는 압도적인 기본 전투력(9)을 지녔지만, 만약 다른 녀석들이 사기급 장비를 둘둘 말고 당신을 덮친다면 승리를 장담할 수 없습니다.</p></div>",
+            "backstoryLore": [
+                "지옥 군단의 고위 악마였으나, 지옥 대전쟁에서 공포를 이기지 못하고 전선에서 이탈했다.",
+                "이 사실이 밝혀져 지옥으로부터 추방령을 받았으며, 현재 지명 수배 상태다.",
+                "압도적인 전투력으로 바스터즈 내 최강자로 군림하고 있으나, 지옥 추방령 앞에서는 무력하다."
+            ],
+            "relationships": [
+                {
+                    "targetId": "role_01",
+                    "relationType": "경쟁적 복종",
+                    "feeling": "패왕이라 인정하지만 내가 더 강하다. 언제든 뒤집을 수 있다.",
+                    "speechStyle": "오만하게 동등한 척 대화하나, 필요할 때만 따른다."
+                },
+                {
+                    "targetId": "role_02",
+                    "relationType": "무관심",
+                    "feeling": "약한 마녀. 별로 신경 쓸 필요가 없다.",
+                    "speechStyle": "무심하게 내려다본다."
+                },
+                {
+                    "targetId": "role_03",
+                    "relationType": "피협박 (분노)",
+                    "feeling": "추방 명령서를 쥔 늙은이. 그것만 없다면.",
+                    "speechStyle": "불길처럼 타오르는 분노를 억누른 채 대화한다."
+                },
+                {
+                    "targetId": "role_04",
+                    "relationType": "무관심",
+                    "feeling": "작고 빠른 놈. 전투에선 거슬리지만 위협이 되지는 않는다.",
+                    "speechStyle": "가볍게 무시한다."
+                },
+                {
+                    "targetId": "role_05",
+                    "relationType": "경쟁",
+                    "feeling": "크고 강하지만 나보다는 약하다. 그래도 경계한다.",
+                    "speechStyle": "강자 대 강자로 대화한다."
+                },
+                {
+                    "targetId": "role_07",
+                    "relationType": "경계",
+                    "feeling": "전략가라는 점이 마음에 걸린다. 순수 무력 이외의 수로 당할 수도 있다.",
+                    "speechStyle": "은근히 경계하는 어투."
+                }
+            ],
             "secrets": [
                 {
                     "secretTitle": "도망친 파괴신",
-                    "secretContent": "<div class='secret-content'><p>지옥 사냥꾼을 부를 발신기가 위자드의 수중에 있습니다. 겁쟁이라는 낙인을 들키는 순간 당신에 대한 두려움은 사라질 것입니다.</p></div>",
+                    "secretContent": "<div class='secret-content'><p>지옥 사냥꾼을 부를 발신기가 대현자의 수중에 있습니다. 겁쟁이라는 낙인을 들키는 순간 당신에 대한 두려움은 사라질 것입니다.</p></div>",
                     "disclosureTiming": "IMMEDIATE"
                 },
                 {
@@ -230,32 +474,75 @@
                     "disclosureStepId": "investigation1"
                 }
             ],
-            "actions": [
+            "goals": [
                 {
-                    "actionName": "추방 명령서 파괴",
-                    "actionDescription": "<div class='action-desc'><p>위자드가 소지한 지옥의 자취를 불꽃으로 완전히 박살냅니다.</p></div>",
-                    "apCost": 3,
-                    "additionalApCost": 0,
-                    "effectType": "MODIFY_CLUE",
-                    "effectDescription": "<div class='effect-desc'><p>양피지가 불에 타 재가 됩니다.</p></div>",
-                    "targetClueId": "clue_08",
-                    "availableStepOrder": [
-                        2,
-                        4
-                    ],
-                    "isReusable": false
+                    "type": "MAIN",
+                    "content": "지옥 추방 명령서를 파괴해 영구적으로 자유를 획득한다."
+                },
+                {
+                    "type": "SECRET",
+                    "content": "성채 내 모든 강력한 무기를 독점해 어떤 도전도 찍어 누른다."
                 }
-            ]
+            ],
+            "narrativeData": {
+                "isMurderer": false,
+                "isAccomplice": false,
+                "murderMethodLogic": "해당 없음. 대현자 살해와 무관하다.",
+                "postCrimeFeeling": "대현자의 죽음에 안도하면서도, 추방 명령서가 어디로 갔는지 불안해한다.",
+                "hiddenMotive": "지옥 대전쟁에서의 비겁한 도주 사실을 영구히 은폐하고 자신의 공포스러운 이미지를 지킨다."
+            }
         },
         {
-            "roleId": "role_07",
+            "id": "role_07",
             "characterName": "워로드 발트라",
-            "roleName": "워로드 발트라",
+            "roleName": "대장군",
             "roleOrder": 7,
             "summary": "냉철한 명예를 중시하는 대장군이나, 적과 맺었던 내통 사실을 은폐하기 위해 혈안이 되어 있다.",
-            "publicInfo": "<div class='role-public'><p><span class='emphasis'>175cm, 다부진 체격의 여성 전사</span>. 어두운 은색 판금 갑옷과 둥근 방패를 소지.</p><p>강철과 명예, 규율을 중시하는 최상위권 전사. 논리적이며 배신을 혐오하는 태도를 보인다.</p><p><strong><span class='emphasis'>기본 전투력: 7</span></strong></p></div>",
-            "baseCombatPower": 7,
-            "description": "<div class='role-private'><p>바스터즈 내에서 유일하게 전술과 규율을 상징하던 당신. 사실 전쟁 중 부족의 안전을 위해 영웅 연합의 골든 킹과 내통 서신을 주고받았습니다.</p><p>승기가 기울자 당신은 오늘 아침 전령을 베고 배신을 무효화하려 했지만, 위자드의 손에 당신의 내통 서신이 들어갔다는 것을 확인했습니다.</p><p>당신의 무력은 꽤 강력하지만 괴수 놈들을 완벽히 제압하기엔 한 끗이 모자랍니다(전투력 7). 당신의 자존심을 지키기 위해서라도 치명적 약점을 은폐하고, 사기적인 전투 아이템들을 기필코 탈취해 진정한 최강자로 서야 합니다.</p></div>",
+            "publicInfo": "<div class='role-public'><p><span class='emphasis'>175cm, 다부진 체격의 여성 전사</span>. 어두운 은색 판금 갑옷과 가죽 스커트, 긴 흑발. 장검과 둥근 방패를 소지. 당당하고 기품 있는 전사의 인상.</p><p>강철과 명예, 규율을 중시하는 최상위권 전사. 논리적이며 배신을 혐오하는 태도를 보인다.</p><p><strong><span class='emphasis'>기본 전투력: 7</span></strong></p></div>",
+            "description": "<div class='role-private'><p>바스터즈 내에서 유일하게 전술과 규율을 상징하던 당신. 사실 전쟁 중 부족의 안전을 위해 영웅 연합의 골든 킹과 내통 서신을 주고받았습니다.</p><p>승기가 기울자 당신은 오늘 아침 전령을 베고 배신을 무효화하려 했지만, 대현자의 손에 당신의 내통 서신이 들어갔다는 것을 확인했습니다.</p><p>당신의 무력은 꽤 강력하지만 괴수 놈들을 완벽히 제압하기엔 한 끗이 모자랍니다(전투력 7). 당신의 자존심을 지키기 위해서라도 치명적 약점을 은폐하고, 사기적인 전투 아이템들을 기필코 탈취해 진정한 최강자로 서야 합니다.</p></div>",
+            "backstoryLore": [
+                "아이언 툰드라 출신의 냉혹한 여성 대장군. 바스터즈 내에서 유일하게 전술적 사고와 군기를 중시한다.",
+                "전쟁 말기, 부족 보호를 명분으로 영웅 연합의 골든 킹과 비밀리에 내통 서신을 교환했다.",
+                "바스터즈의 승리가 확정되자 전령을 처형하고 증거를 인멸했으나, 대현자가 이미 서신을 회수했다."
+            ],
+            "relationships": [
+                {
+                    "targetId": "role_01",
+                    "relationType": "경쟁적 동맹",
+                    "feeling": "유능한 지도자지만, 그의 비겁함을 은근히 간파하고 있다. 언젠간 이 자리를 빼앗을 것이다.",
+                    "speechStyle": "동등한 지도자로서 날카롭고 논리적으로."
+                },
+                {
+                    "targetId": "role_02",
+                    "relationType": "경쟁적 공존",
+                    "feeling": "유일하게 지략적으로 위협이 될 수 있는 상대. 경계를 늦추지 않는다.",
+                    "speechStyle": "정중하지만 냉정하게."
+                },
+                {
+                    "targetId": "role_03",
+                    "relationType": "피협박 (냉정한 분노)",
+                    "feeling": "그 노인이 서신을 쥐고 있다. 분노하지만 감정을 드러내지 않는다.",
+                    "speechStyle": "냉정하고 절제된 말투."
+                },
+                {
+                    "targetId": "role_04",
+                    "relationType": "소원",
+                    "feeling": "유용하지만 신뢰할 자는 아니다.",
+                    "speechStyle": "사무적이고 간결하게."
+                },
+                {
+                    "targetId": "role_05",
+                    "relationType": "경멸",
+                    "feeling": "야수적 본능으로만 사는 존재. 전략적 가치는 있으나 규율이 없다.",
+                    "speechStyle": "약간의 경멸을 숨긴 채 명령조로."
+                },
+                {
+                    "targetId": "role_06",
+                    "relationType": "경계",
+                    "feeling": "압도적인 전투력이지만 전략이 없다. 이 점을 역이용할 수 있다.",
+                    "speechStyle": "자존심을 내세우며 도전적으로."
+                }
+            ],
             "secrets": [
                 {
                     "secretTitle": "눈 아래 숨겨진 진흙",
@@ -264,27 +551,28 @@
                 },
                 {
                     "secretTitle": "변경된 목표: 피로 씻어내는 수치",
-                    "secretContent": "<div class='secret-content'><p>당장 위자드의 밀실을 털어 내통 서신을 갈기갈기 찢어야 합니다! 또한 전사로서 자존심을 굽히지 않으려면 강력한 마도구들을 얻어 부족한 무력을 완벽히 보완해야 할 것입니다.</p></div>",
+                    "secretContent": "<div class='secret-content'><p>당장 대현자의 밀실을 털어 내통 서신을 갈기갈기 찢어야 합니다! 또한 전사로서 자존심을 굽히지 않으려면 강력한 마도구들을 얻어 부족한 무력을 완벽히 보완해야 할 것입니다.</p></div>",
                     "disclosureTiming": "STEP_SPECIFIC",
                     "disclosureStepId": "investigation1"
                 }
             ],
-            "actions": [
+            "goals": [
                 {
-                    "actionName": "내통 서신 탈취",
-                    "actionDescription": "<div class='action-desc'><p>위자드가 가지고 있는 서신을 탈취하여 없앱니다.</p></div>",
-                    "apCost": 3,
-                    "additionalApCost": 0,
-                    "effectType": "MODIFY_CLUE",
-                    "effectDescription": "<div class='effect-desc'><p>서신이 현장에서 사라집니다.</p></div>",
-                    "targetClueId": "clue_10",
-                    "availableStepOrder": [
-                        2,
-                        4
-                    ],
-                    "isReusable": false
+                    "type": "MAIN",
+                    "content": "내통 서신을 파괴해 명예로운 전사라는 이미지를 수호한다."
+                },
+                {
+                    "type": "SECRET",
+                    "content": "전투 아이템을 확보해 전투력 우위를 점하고, 최후의 혈투에서 승자가 된다."
                 }
-            ]
+            ],
+            "narrativeData": {
+                "isMurderer": false,
+                "isAccomplice": false,
+                "murderMethodLogic": "해당 없음. 대현자 살해와 무관하다.",
+                "postCrimeFeeling": "대현자의 죽음에 안도하면서도, 서신이 사라지기 전에 회수해야 한다는 초조함이 극에 달한다.",
+                "hiddenMotive": "골든 킹과의 내통 사실을 영구히 은폐하고 바스터즈 내 최고 지도자로 올라선다."
+            }
         }
     ]
 }
