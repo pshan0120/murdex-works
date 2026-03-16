@@ -34,25 +34,25 @@
   <div class="section-title">2. 전력 평가: 최종 결의</div>
   <p>
     처형된 동료를 제외한 <span class="highlight">나머지 바스타즈의 총 전투력 합계</span>가 기준치를 초과합니까?
-    아래 가이드에 따라 본인의 최종 전투력을 먼저 계산한 뒤, 생존한 동료들의 수치와 합산하십시오.
+    아래 가이드에 따라 본인의 최종 전투력을 계산한 뒤, <span class="emphasis">전체 합산을 위해 <span class="character-eldritch">엘드리치 플레이어</span>에게 자신의 수치를 공개적으로 보고하십시오.</span>
   </p>
   <div class="quote-box">
     <strong>[본인 전투력 계산 가이드]</strong><br>
-    - <strong>기본 전투력</strong>: 5<br>
-    - <strong>물의 검</strong> 소유 시: +5
+    - <strong>기본 전투력</strong>: 6<br>
+    - <strong>물의 검</strong> 소유 시: +3
   </div>
   <div class="quote-box">
     <strong>[승리 조건 계산]</strong><br>
-    - <strong>연합 전력</strong> = 처형된 자를 제외한 생존한 바스타즈의 전투력 총합<br>
+    - <strong>바스타즈 전투력</strong> = 처형된 자를 제외한 생존한 바스타즈의 전투력 총합<br>
     - <strong>기준치</strong> = (처형된 자의 전투력) + 35
   </div>
 </div>
 
 <div class="story-content">
-  <div class="subsection-title">■ 선택 A: 기준치 이하 (연합 전력 ≤ 기준치)</div>
+  <div class="subsection-title">■ 선택 A: 기준치 이하 (바스타즈 전투력 ≤ 기준치)</div>
 </div>
 
 <div class="story-content">
-  <div class="subsection-title">■ 선택 B: 기준치 초과 (연합 전력 > 기준치)</div>
+  <div class="subsection-title">■ 선택 B: 기준치 초과 (바스타즈 전투력 > 기준치)</div>
 </div>
-
+
