@@ -1,0 +1,54 @@
+﻿// 첫 번째 질문
+<div class="story-content">
+  <div class="section-title">1. 운명의 심판: 처형 지목</div>
+  <p>
+    긴 토론 끝에, 바스타즈의 이름으로 처형하기로 결정한 <span class="highlight">지목 대상</span>은 누구입니까? 
+    현장의 투표 결과를 정확히 입력하십시오.
+  </p>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 A: 로드 <span class="character-skullcrusher">스컬크러셔</span> (role_01)</div>
+</div>
+<div class="story-content">
+  <div class="subsection-title">■ 선택 B: 레이디 <span class="character-malice">말리스</span> (role_02)</div>
+</div>
+<div class="story-content">
+  <div class="subsection-title">■ 선택 C: 악마 <span class="character-balrog">발로그</span> (role_06)</div>
+</div>
+<div class="story-content">
+  <div class="subsection-title">■ 선택 D: 기민한 <span class="character-slither">슬리더</span> (role_04)</div>
+</div>
+<div class="story-content">
+  <div class="subsection-title">■ 선택 E: 야수 <span class="character-gorehoof">고어후프</span> (role_05)</div>
+</div>
+<div class="story-content">
+  <div class="subsection-title">■ 선택 F: 워로드 <span class="character-valtra">발트라</span> (role_07)</div>
+</div>
+<div class="story-content">
+  <div class="subsection-title">■ 선택 G: 하늘 (아무도 처형하지 않음)</div>
+</div>
+
+// 두 번째 질문
+<div class="story-content">
+  <div class="section-title">2. 최후의 격돌: 전력 비교</div>
+  <p>
+    처형된 동료의 영혼을 흡수해 부활한 <span class="character-eldritch">마신 엘드리치</span>에 맞서, 생존한 바스타즈들의 <span class="highlight">총합 지배력(CP)</span>은 충분합니까?
+  </p>
+  <div class="quote-box">
+    <strong>[계산 가이드]</strong><br>
+    - <strong>마신 전력</strong> = (처형된 자의 CP 총합) + 35<br>
+    - <strong>연합 전력</strong> = (본인을 포함한 생존자 5명의 CP 합산)<br>
+    * 당신의 <span class='emphasis'>기본 전투력(9)</span>과 유황 불꽃 관련 단서들의 수치를 더하십시오.
+  </div>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 A: 힘의 열세 (연합 전력 < 마신 전력)</div>
+  <p class="quote-box">"우리의 결속이 부족했다... 마신의 압도적인 권능 앞에 바스타즈의 야망은 무참히 꺾이고 말 것이다."</p>
+</div>
+
+<div class="story-content">
+  <div class="subsection-title">■ 선택 B: 힘의 우위 (연합 전력 ≥ 마신 전력)</div>
+  <p class="quote-box">"우리는 살아남았다! 흩어졌던 힘이 하나로 모여, 부활한 마신을 다시금 영원한 어둠 속으로 내던질 것이다."</p>
+</div>

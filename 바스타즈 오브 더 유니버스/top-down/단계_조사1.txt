@@ -1,0 +1,40 @@
+﻿<div class="story-content">
+  <div class="section-title">1. 개요: 전리품과 진실의 조사</div>
+  <p>
+    화이트스컬 성의 옥좌 뒤에서 발견된 의문의 흔적과 골든 킹의 죽음. 
+    이제 각자 지정된 구역으로 흩어져 성 내부를 조사하고, 숨겨진 전리품과 서로의 행적을 확인해야 합니다. 
+    승리의 대가를 독점하기 위한 첫 번째 전쟁이 시작됩니다.
+  </p>
+
+  <div class="section-title">2. 조사 진행 및 액션</div>
+  <ul>
+    <li><span class="highlight">조사 진행</span>: 각 구역(서재, 연구실, 무기고 등)에 흩어진 단서들을 자유롭게 조사할 수 있습니다.</li>
+    <li><span class="highlight">액션 사용</span>: 각 캐릭터는 조사 중 고유한 <span class="highlight">'액션'</span>을 수행할 수 있습니다. 액션에는 액션 포인트(AP)가 소모되며, 그 결과는 오직 수행한 본인만 확인할 수 있습니다.</li>
+    <li><span class="highlight">침묵의 수색</span>: 이 단계에서는 플레이어 간의 대화나 토론이 금지됩니다. 각자의 구역에서 비밀리에 단서를 수집하고, 자신의 행적을 증명할 물증을 확보하는 데 집중하십시오.</li>
+  </ul>
+
+  <div class="section-title">3. 액션포인트(AP) 관리</div>
+  <p>
+    모든 조사 활동에는 <strong>'액션포인트(AP)'</strong>가 소모됩니다.
+  </p>
+  <ul>
+    <li><span class="highlight">정보의 비대칭성</span>: 자신의 잔여 AP는 타인에게 공개되지 않습니다.</li>
+    <li><span class="highlight">효율적 수색</span>: AP가 소진되면 더 이상 단서를 얻거나 액션을 발동할 수 없습니다. 중요한 정보가 어디에 있을지 신중히 판단하십시오.</li>
+    <li><span class="highlight">단계적 소멸</span>: 남은 AP는 다음 단계로 이월되지 않고 사라집니다.</li>
+  </ul>
+
+  <div class="section-title">4. 단서의 법칙</div>
+  <ul>
+    <li><span class="highlight">타인의 그림자</span>: 자신의 정체나 행적에 대한 단서는 스스로 획득할 수 없습니다. 타인의 치부를 조사하십시오.</li>
+    <li><span class="highlight">절대적 지시</span>: 단서 내용에 특별한 지침이 포함되어 있다면, 즉시 그 명령을 따라야 합니다.</li>
+    <li><span class="highlight">정보의 배포</span>: 획득한 단서를 전체 공개하여 공용 보드에 올릴 수 있습니다. 공개된 정보는 모두가 공유하지만, 소유권은 사라집니다.</li>
+    <li>
+      <span class="highlight">은밀한 거래</span>: <strong>'단서 교환 제안'</strong> 기능을 통해 특정 플레이어와만 정보를 나눌 수 있습니다.
+      <ul style="margin-top: 0.5em; margin-left: 1.5em;">
+        <li><strong>건네주기</strong>: 정보를 넘기고 소유권을 이전합니다.</li>
+        <li><strong>함께보기</strong>: 소유권을 유지한 채 내용만 공유합니다.</li>
+      </ul>
+      신뢰할 수 없는 동료와 어떤 거래를 할지 신중하게 선택하십시오.
+    </li>
+  </ul>
+</div>
