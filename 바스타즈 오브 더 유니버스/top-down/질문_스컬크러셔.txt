@@ -1,4 +1,4 @@
-﻿// 첫 번째 질문
+// 첫 번째 질문
 <div class="story-content">
   <div class="section-title">1. 운명의 심판: 처형 지목</div>
   <p>
@@ -8,22 +8,22 @@
 </div>
 
 <div class="story-content">
-  <div class="subsection-title">■ 선택 A: 로드 <span class="character-skullcrusher">스컬크러셔</span> (role_01)</div>
+  <div class="subsection-title">■ 선택 A: <span class="character-skullcrusher">스컬크러셔</span> (role_01)</div>
 </div>
 <div class="story-content">
-  <div class="subsection-title">■ 선택 B: 레이디 <span class="character-malice">말리스</span> (role_02)</div>
+  <div class="subsection-title">■ 선택 B: <span class="character-malice">말리스</span> (role_02)</div>
 </div>
 <div class="story-content">
-  <div class="subsection-title">■ 선택 C: 악마 <span class="character-balrog">발로그</span> (role_06)</div>
+  <div class="subsection-title">■ 선택 C: <span class="character-balrog">발로그</span> (role_06)</div>
 </div>
 <div class="story-content">
-  <div class="subsection-title">■ 선택 D: 기민한 <span class="character-slither">슬리더</span> (role_04)</div>
+  <div class="subsection-title">■ 선택 D: <span class="character-slither">슬리더</span> (role_04)</div>
 </div>
 <div class="story-content">
-  <div class="subsection-title">■ 선택 E: 야수 <span class="character-gorehoof">고어후프</span> (role_05)</div>
+  <div class="subsection-title">■ 선택 E: <span class="character-gorehoof">고어후프</span> (role_05)</div>
 </div>
 <div class="story-content">
-  <div class="subsection-title">■ 선택 F: 워로드 <span class="character-valtra">발트라</span> (role_07)</div>
+  <div class="subsection-title">■ 선택 F: <span class="character-valtra">발트라</span> (role_07)</div>
 </div>
 <div class="story-content">
   <div class="subsection-title">■ 선택 G: 하늘 (아무도 처형하지 않음)</div>
@@ -31,24 +31,28 @@
 
 // 두 번째 질문
 <div class="story-content">
-  <div class="section-title">2. 최후의 격돌: 전력 비교</div>
+  <div class="section-title">2. 전력 평가: 최종 결의</div>
   <p>
-    처형된 동료의 영혼을 흡수해 부활한 <span class="character-eldritch">마신 엘드리치</span>에 맞서, 생존한 바스타즈들의 <span class="highlight">총합 지배력(CP)</span>은 충분합니까?
+    처형된 동료를 제외한 <span class="highlight">나머지 바스타즈의 총 전투력 합계</span>가 기준치를 초과합니까?
+    아래 가이드에 따라 본인의 최종 전투력을 먼저 계산한 뒤, 생존한 동료들의 수치와 합산하십시오.
   </p>
   <div class="quote-box">
-    <strong>[계산 가이드]</strong><br>
-    - <strong>마신 전력</strong> = (처형된 자의 CP 총합) + 35<br>
-    - <strong>연합 전력</strong> = (본인을 포함한 생존자 5명의 CP 합산)<br>
-    * 당신의 <span class='emphasis'>기본 전투력(8)</span>과 보유한 무구 단서들의 수치를 합산하십시오.
+    <strong>[본인 전투력 계산 가이드]</strong><br>
+    - <strong>기본 전투력</strong>: 9<br>
+    - <strong>빛의 검</strong> 소유 시: +4
+  </div>
+  <div class="quote-box">
+    <strong>[승리 조건 계산]</strong><br>
+    - <strong>연합 전력</strong> = 처형된 자를 제외한 생존한 바스타즈의 전투력 총합<br>
+    - <strong>기준치</strong> = (처형된 자의 전투력) + 35
   </div>
 </div>
 
 <div class="story-content">
-  <div class="subsection-title">■ 선택 A: 힘의 열세 (연합 전력 < 마신 전력)</div>
-  <p class="quote-box">"우리의 결속이 부족했다... 마신의 압도적인 권능 앞에 바스타즈의 야망은 무참히 꺾이고 말 것이다."</p>
+  <div class="subsection-title">■ 선택 A: 기준치 이하 (연합 전력 ≤ 기준치)</div>
 </div>
 
 <div class="story-content">
-  <div class="subsection-title">■ 선택 B: 힘의 우위 (연합 전력 ≥ 마신 전력)</div>
-  <p class="quote-box">"우리는 살아남았다! 흩어졌던 힘이 하나로 모여, 부활한 마신을 다시금 영원한 어둠 속으로 내던질 것이다."</p>
+  <div class="subsection-title">■ 선택 B: 기준치 초과 (연합 전력 > 기준치)</div>
 </div>
+
