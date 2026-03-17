@@ -1,0 +1,292 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Nanum+Myeongjo:wght@400;700;800&family=Cinzel:wght@400;700;900&display=swap");
+
+/* 
+ * 바스타즈 오브 더 유니버스 - 커스텀 테마 CSS
+ * 1980년대 레트로 판타지 유화 화풍과 영웅적 서사 분위기를 반영한 스타일입니다.
+ */
+
+:root {
+    --fantasy-gold: #d4af37;
+    --fantasy-crimson: #a52a2a;
+    --fantasy-steel: #708090;
+    --fantasy-magic: #6a5acd;
+    --fantasy-text: #fdf5e6;
+    --fantasy-shadow: rgba(0, 0, 0, 0.6);
+}
+
+/* 기본 폰트 및 컬러 설정 */
+.story-content {
+    font-size: 1rem; /* 약간 더 크게 조정하여 가독성 확보 */
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    color: var(--fantasy-text);
+    line-height: 1.75;
+    letter-spacing: -0.01em;
+}
+
+/* 제목 스타일 - 서사적 느낌 강조 */
+.story-content .section-title {
+    font-family: "Cinzel", "Nanum Myeongjo", serif;
+    font-size: 1.4em;
+    font-weight: 900;
+    color: var(--fantasy-gold);
+    margin-top: 2.5em;
+    margin-bottom: 1.2em;
+    padding-bottom: 0.6em;
+    border-bottom: 3px double var(--fantasy-gold);
+    text-shadow: 2px 2px 4px var(--fantasy-shadow);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* 소제목 스타일 */
+.story-content .subsection-title {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #ff4500; /* 오렌지 레드 느낌의 강렬한 소제목 */
+    margin-top: 1.8em;
+    margin-bottom: 0.9em;
+    border-left: 4px solid var(--fantasy-crimson);
+    padding-left: 0.8em;
+}
+
+/* 본문 스타일 */
+.story-content p {
+    margin-bottom: 1.4em;
+    text-align: justify;
+}
+
+/* 리스트 스타일 - 옛 전설의 목록 느낌 */
+.story-content ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1.8em;
+}
+
+.story-content li {
+    margin-bottom: 1em;
+    padding-left: 1.8em;
+    position: relative;
+}
+
+.story-content li::before {
+    content: "⚔️"; /* 칼 이모지로 판타지 느낌 추가 */
+    position: absolute;
+    left: 0;
+    font-size: 0.9em;
+    color: var(--fantasy-gold);
+}
+
+/* 강조 스타일 */
+.story-content .highlight {
+    color: var(--fantasy-gold);
+    font-weight: 700;
+    text-shadow: 0 0 5px rgba(212, 175, 55, 0.4);
+}
+
+.story-content .emphasis {
+    color: #ff6347; /* Tomato color */
+    font-weight: 600;
+}
+
+/* 인용구 박스 - 오래된 양피지나 비석 느낌 */
+.story-content .quote-box {
+    display: block;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+    color: #e0e0e0;
+    background: rgba(47, 79, 79, 0.2);
+    border: 1px solid rgba(212, 175, 55, 0.2);
+    border-radius: 8px;
+    font-style: italic;
+    position: relative;
+}
+
+/* 테이블 스타일 */
+.story-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2em 0;
+    background: rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 15px var(--fantasy-shadow);
+}
+
+.story-content th,
+.story-content td {
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    padding: 1em;
+    text-align: left;
+}
+
+.story-content th {
+    background: rgba(165, 42, 42, 0.2);
+    color: var(--fantasy-gold);
+    font-family: "Cinzel", serif;
+    font-weight: 700;
+}
+
+/* 아코디언 (Details/Summary) 스타일 */
+.story-content details {
+    margin: 2em 0;
+}
+
+.story-content details summary {
+    cursor: pointer;
+    user-select: none;
+    padding: 1.25em 1.5em;
+    background: linear-gradient(135deg, rgba(165, 42, 42, 0.1), rgba(0, 0, 0, 0.3));
+    border: 2px solid var(--fantasy-gold);
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    color: var(--fantasy-gold);
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.story-content details summary:hover {
+    background: rgba(212, 175, 55, 0.15);
+    box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
+}
+
+/* 추가적인 커스텀 클래스들 */
+.story-content .mystery {
+    color: #dda0dd; /* Plum 컬러로 신비로운 느낌 */
+    font-weight: 400;
+    text-shadow: 0 0 8px rgba(221, 160, 221, 0.5);
+}
+
+.story-content .secret-section {
+    background: rgba(139, 0, 0, 0.15);
+    border-left: 5px solid var(--fantasy-crimson);
+    padding: 1.5em;
+    margin: 2em 0;
+    border-radius: 4px;
+}
+
+.story-content .goal-list li::before {
+    content: "🏹";
+    color: var(--fantasy-gold);
+}
+
+.story-content .action-section {
+    background: rgba(212, 175, 55, 0.08);
+    border: 1px solid var(--fantasy-gold);
+    border-left-width: 6px;
+    padding: 1.5em;
+    margin: 2em 0;
+    border-radius: 4px;
+}
+
+.story-content .divider {
+    height: 2px;
+    background: linear-gradient(90deg,
+            transparent,
+            var(--fantasy-gold),
+            transparent);
+    margin: 2.5em 0;
+    opacity: 0.5;
+}
+
+/* --- 캐릭터 테마 색상 (바스타즈 라인업) --- */
+
+/* 로드 스컬크러셔: 강철과 붉은색 */
+.story-content .character-skullcrusher {
+    color: #e0e0e0 !important;
+    font-weight: 800;
+    text-shadow: 0 0 10px rgba(255, 0, 0, 0.4);
+}
+
+/* 레이디 말리스: 진홍색과 금색 */
+.story-content .character-malice {
+    color: #ff2400 !important;
+    font-weight: 800;
+}
+
+/* 고어후프: 흉포한 레드/브라운 */
+.story-content .character-gorehoof {
+    color: #cd5c5c !important;
+    font-weight: 800;
+}
+
+/* 슬리더: 파충류의 그린 */
+.story-content .character-slither {
+    color: #32cd32 !important;
+    font-weight: 800;
+}
+
+/* 악마 발로그: 불타는 레드 */
+.story-content .character-balrog {
+    color: #ff0000 !important;
+    font-weight: 900;
+    text-shadow: 0 0 12px rgba(255, 69, 0, 0.6);
+}
+
+/* 엘드리치 위자드: 신비로운 블루 */
+.story-content .character-wizard {
+    color: #1e90ff !important;
+    font-weight: 800;
+    text-shadow: 0 0 10px rgba(30, 144, 255, 0.5);
+}
+
+/* 워로드 발트라: 다크 실버 */
+.story-content .character-valtra {
+    color: #c0c0c0 !important;
+    font-weight: 800;
+}
+
+/* PPT 및 문서 표현 (옛 서 기록 느낌) */
+.story-content .document-page {
+    font-family: "Gowun Batang", serif;
+    background-color: #f4ecd8; /* 바랜 종이색 */
+    color: #2c1e11; /* 짙은 갈색 잉크 */
+    max-width: 650px;
+    margin: 20px auto;
+    padding: 30px 40px;
+    border: 1px solid #d2b48c;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.7);
+    background-image: url('https://www.transparenttextures.com/patterns/dark-matter.png'); /* 질감 추가 */
+}
+
+.story-content .document-page h2 {
+    color: #4a3728;
+    border-bottom: 2px solid #4a3728;
+    text-align: center;
+    width: 100%;
+}
+
+.story-content .system-guide {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid var(--fantasy-gold);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: inset 0 0 20px rgba(212, 175, 55, 0.1);
+}
+
+.story-content .guide-title {
+    color: var(--fantasy-gold);
+    font-family: "Cinzel", serif;
+    letter-spacing: 0.05em;
+}
+
+/* 스크립트 강조 */
+.story-content .script-character {
+    font-family: "Cinzel", serif;
+    color: var(--fantasy-gold);
+    font-size: 1.1em;
+}
+
+.story-content .script-character.my-character {
+    color: #ffffff !important;
+    text-shadow: 0 0 15px var(--fantasy-gold);
+}
+
+.story-content .script-line.my-line {
+    background: rgba(212, 175, 55, 0.15);
+    border-left: 4px solid var(--fantasy-gold);
+}
