@@ -114,8 +114,8 @@ HTML :
 HTML :
 <div class="story-content">
   <div class="quote-box">
-    <p>"고어후프, 그대의 그 갈구하는 눈빛에 담긴 <span class="emphasis">'짐승의 허기'</span>는 차마 숨길 수 없는 모양이군. 우연히 발견한 갑옷 파편에 남은 그 <span class="highlight">기괴한 이빨 자국</span>들을 보며 나는 그대의 비밀스러운 만찬을 떠올렸네.</p>
-    <p>이 추악한 진실이 동료들 사이에 퍼진다면, 그대의 그 비대한 몸뚱아리가 설 곳이 있을까? 내 입을 막고 싶다면, 앞으로는 내가 던져주는 먹잇감만 받아먹는 충견이 되어줘야겠어."</p>
+    <p>"고어후프, 그대의 그 갈구하는 눈빛에 담긴 <span class="emphasis">'짐승의 허기'</span>는 차마 숨길 수 없는 모양이군. 우연히 발견한 갑옷 파편에 남은 그 <span class="highlight">기괴한 사각형 이빨 자국</span>들을 보며 나는 그대의 비밀스러운 만찬을 떠올렸네.</p>
+    <p>이 추악한 진실이 동료들 사이에 퍼진다면, 그대의 그 비대한 몸뚱아리가 설 곳이 있을까? 내 입을 막고 싶다면, 앞으로는내가 던져주는 먹잇감만 받아먹는 충견이 되어줘야겠어."</p>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text fills the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -328,7 +328,7 @@ HTML :
     <p>서재의 공기 중에 은밀하게 감도는 정체불명의 향취다. 묘하게 <span class="emphasis">눅눅하고 쾨쾨한 냄새</span>가 희미하게 흩어져 있다.</p>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dimly lit interior of an ancient library with faint, hazy wisps of greenish-grey vapor or smoke drifting between towering bookshelves. Use the attached Library image (02_서재) for environment and lighting. No people. Detailed 1980s fantasy oil painting style. Deep shadows, mysterious and eerie atmosphere.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dimly lit interior of an ancient library with faint, hazy wisps of greenish-grey vapor or smoke drifting between towering bookshelves. Use the attached Library image (02_서재) for environment and lighting. No people. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
 파일명 : 11_서재_1
 
@@ -366,7 +366,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a heavy leather-bound encyclopedia opened to a page. The page is filled with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish), with no illustrations. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a heavy leather-bound encyclopedia opened to a page. The yellowed pages are filled with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish), with no illustrations. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
 파일명 : 12_서재_2
 
@@ -408,7 +408,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of weathered parchment pages in a massive open book. The pages are covered exclusively with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No diagrams. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of weathered parchment pages in a massive open book. The pages are covered exclusively with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No diagrams. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
 파일명 : 13_서재_3
 
@@ -449,7 +449,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, torn scrap of paper lying flat on a dark, weathered wooden laboratory desk. Soft shadows are cast under the paper's edges. The paper features sharp, hasty ink calculations and illegible Nordic-style characters (Norwegian or Finnish). No runes. Shallow depth of field, background shows blurred shapes of alchemical apparatus. Moody candlelight illumination. Detailed 1980s fantasy oil painting style.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, torn scrap of paper lying flat on a dark, weathered wooden laboratory desk. Soft shadows are cast under the paper's edges. The paper features sharp, hasty ink calculations and illegible Nordic-style characters (Norwegian or Finnish). No runes. Shallow depth of field, background shows blurred shapes of alchemical apparatus. Moody candlelight illumination. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 03_연구실
 파일명 : 14_연구실_1
 
@@ -489,7 +489,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a yellowed parchment chart lying flat on a cluttered alchemy table. Shadows are cast beneath its curled edges. It features messy, hand-drawn potion categories with illegible script in a modern Nordic language style (Norwegian or Finnish). No runes. Shallow depth of field, background shows blurred shapes of potion bottles. Detailed 1980s fantasy oil painting style.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a yellowed parchment chart lying flat on a cluttered alchemy table. Shadows are cast beneath its curled edges. It features messy, hand-drawn potion categories with illegible script in a modern Nordic language style (Norwegian or Finnish). No runes. Shallow depth of field, background shows blurred shapes of potion bottles. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 03_연구실
 파일명 : 15_연구실_2
 
@@ -579,14 +579,14 @@ HTML :
 관련 : 고어후프
 의도 : 갑옷 파편 단서와 연계되어, 과거 고어후프의 식인 단서.
 내용 :
-식료품 창고 구석에서 발견된 커다란 짐승의 뼈다. 고기가 급하게 발라진 듯 표면에는 아직 미끈거리는 침 같은 물기가 희미하게 남아 있으며, 뼈 곳곳에는 무언가 강력한 힘에 의해 으깨지고 짓눌린 거친 이빨 자국이 깊게 새겨져 있다. 일반적인 식사라기보다는 극심한 허기에 시달린 괴수가 뼈까지 씹어 돌린 듯한 흔적이 역력하다.
+고어후프가 앉아 있던 식당 의자 밑에는 내버려진 뼈다귀가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 액체의 흔적이 희미하게 남아 번들거린다. 특히 단단한 뼈 곳곳에는 뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국들이 뚜렷하게 박혀 있다.
 HTML :
 <div class="story-content">
   <div class="quote-box">
-    <p>식료품 창고 구석에서 발견된 커다란 짐승의 뼈다. 아직 표면에 <span class="highlight">미끈거리는 물기</span>가 남아 있으며, 뼈 곳곳에는 강력한 힘에 의해 <span class="emphasis">으깨지고 짓눌린 거친 이빨 자국</span>이 새겨져 있다. 괴수가 <span class="highlight">뼈까지 씹어 돌린 듯한 흔적</span>이 역력하다.</p>
+    <p>고어후프가 앉아 있던 <span class="highlight">식당 의자 밑</span>에는 내버려진 <span class="highlight">뼈다귀</span>가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 <span class="highlight">액체의 흔적</span>이 희미하게 남아 번들거린다. 특히 단단한 뼈 곳곳에는 <span class="emphasis">뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국</span>들이 뚜렷하게 박혀 있다.</p>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a large animal bone with a faint, glistening saliva-like sheen on its surface, resting on a dark stone floor in a corner. Soft shadows are cast beneath it. No blood or red marrow. Deep, crushed and mangled bite marks are clearly visible on the bone. Shallow depth of field, background is an indistinct dark stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A massive, clean white animal bone lying on a dark, dusty stone floor beneath the legs of a heavy wooden dining chair and table. The legs of the chair cast long shadows over the bone. Dim, moody interior lighting (09_식당 environment). No metal plates, no tags, no text, and no large pieces of meat. Shallow depth of field, background is indistinct dark furniture. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 09_식당
 파일명 : 18_식당_2
 
@@ -816,7 +816,7 @@ HTML :
     <p>지하창고의 습한 정적을 뚫고 들려오는 낮은 울림이다. 좁은 수로를 따라 <span class="emphasis">쉴 새 없이 물이 흘러드는 소리</span>가 메아리친다. 이는 철문 대신 누군가 <span class="highlight">은밀히 성 내부로 스며들 수 있는 통로</span>를 암시한다.</p>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a small iron grate over a dark stone water duct. Faint glistening of wet algae and moss on the stone. Shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a small iron grate covering a drain embedded in the stone floor in a dark corner of a basement. Faint glistening of wet algae and moss on the stone floor around the grate. Shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
 파일명 : 25_지하창고_1
 
@@ -1658,7 +1658,7 @@ HTML :
 관련 : 고어후프, 스컬크러셔
 의도 : 고어후프의 복잡한 심리 상태 증언.
 내용 :
-연회장 기물을 정리하던 보급대원의 이야기이다. "고어후프 님이 대장님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 마치 무언가 아주 중요한 것을 잊어버린 person처럼, 자신의 커다란 손바닥을 폈다 쥐었다 하며 미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다."
+연회장 기물을 정리하던 보급대원의 이야기이다. "고어후프 님이 대장님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 마치 무언가 아주 중요한 것을 잊어버린 사람처럼, 자신의 커다란 손바닥을 폈다 쥐었다 하며 미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다."
 HTML :
 <div class="story-content">
   <div class="quote-box">
@@ -1688,14 +1688,14 @@ HTML :
 관련 : 고어후프
 의도 : 고어후프의 식인 혹은 아군 공격 흔적에 대한 결정적 물증.
 내용 :
-무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 무언가 거대한 힘에 의해 짓눌리고 뜯겨나간 자국이 선명하다. 표면 곳곳에는 크고 불규칙한 이빨 자국이 남아 있다.
+무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 거대한 이빨 자국이 선명하다. 특히 식당 의자 밑에서 발견된 것과 동일하게 뭉툭한 사각형 형태의 이빨 자국들이 강철 표면에 뚜렷하게 남아 있다.
 HTML :
 <div class="story-content">
   <div class="quote-box">
-    <p>찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 무언가 거대한 힘에 의해 <span class="emphasis">짓눌리고 뜯겨나간 자국</span>이 선명하다. 표면 곳곳에는 <span class="highlight">불규칙한 이빨 자국</span>이 남아 있다.</p>
+    <p>찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 무언가 거대한 힘에 의해 <span class="emphasis">짓눌리고 뚫린 자국</span>이 선명하다. 표면에는 식당 보관실에서 본 것과 같은 <span class="highlight">각진 사각형의 이빨 자국</span>이 남아 있다.</p>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a dented steel breastplate fragment lying on a cold stone floor. Jagged bite marks and rough scratches are clearly visible on the metal, casting small shadows. Shallow depth of field, background is indistinct stone floor. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a dented steel breastplate fragment lying on a cold stone floor. Several distinct, blunt rectangular-shaped puncture marks and heavy crushing indentations are clearly visible on the metal surface, piercing through the armor. Shallow depth of field, background is indistinct stone floor. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 04_무기고
 파일명 : 53_무기고_3
 
