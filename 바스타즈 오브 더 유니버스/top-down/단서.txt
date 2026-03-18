@@ -837,11 +837,11 @@ HTML :
 관련 : 공통
 의도 : 지하창고 입구의 상태 특징 기술.
 내용 :
-한치의 오차도 없이 맞물린 채 굳게 닫힌 강철 문이다. 문 표면에는 끊임없이 일렁이는 파도와 같은 물결 문양의 부조가 정교하게 새겨져 있다. 그 위로 매달린 육중한 마법 자물쇠에서는 서늘한 청람색 빛이 감돌며, 허가되지 않은 자의 접근을 거부하는 강렬한 위압감을 내뿜고 있다.
+한치의 오차도 없이 맞물린 채 굳게 닫힌 강철 문이다. 문 표면에는 끊임없이 일렁이는 파도와 같은 물결 문양의 부조가 정교하게 새겨져 있다. 그 위로 매달린 육중한 마법 자물쇠에서는 서늘한 금빛이 감돌며, 허가되지 않은 자의 접근을 거부하는 강렬한 위압감을 내뿜고 있다.
 HTML :
 <div class="story-content">
   <div class="quote-box">
-    <p>굳게 닫힌 강철 문이다. 문 표면에는 <span class="highlight">물결 문양의 부조</span>가 정교하게 새겨져 있다. 자물쇠에서는 <span class="emphasis">서늘한 청람색 빛</span>이 감돌며 접근을 거부하는 위압감을 내뿜는다.</p>
+    <p>한치의 오차도 없이 맞물린 채 굳게 닫힌 강철 문이다. 문 표면에는 끊임없이 일렁이는 파도와 같은 <span class="highlight">물결 문양의 부조</span>가 정교하게 새겨져 있다. 육중한 마법 자물쇠에서는 <span class="emphasis">서늘한 금빛</span>이 감돌며 접근을 거부하는 강렬한 위압감을 내뿜는다.</p>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a massive iron lock. Intricate wave patterns are carved into the dark metal surface. Extremely shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
