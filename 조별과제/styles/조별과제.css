@@ -272,15 +272,9 @@
     margin-left: -0.5em;
 }
 
-/* 다른 캐릭터 대사 약화 */
+/* 다른 캐릭터 대사 약화 (Hover 효과 제거됨) */
 .story-content .script-line.other-character {
     opacity: 0.6;
-}
-
-/* 다른 캐릭터 대사에 마우스 오버 시 */
-.story-content .script-line.other-character:hover {
-    opacity: 0.85;
-    transition: opacity 0.2s ease;
 }
 
 /* 시점 제한 안내 문구 */
