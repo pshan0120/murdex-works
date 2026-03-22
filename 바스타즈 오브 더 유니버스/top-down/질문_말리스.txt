@@ -42,7 +42,7 @@
     - <strong>마력석</strong> 소유 시: +8
   </div>
   <div class="quote-box">
-    <strong>[승리 조건 계산]</strong><br>
+    <strong>[기준치 계산]</strong><br>
     - <strong>바스타즈 전투력</strong> = 처형된 자를 제외한 생존한 바스타즈의 전투력 총합<br>
     - <strong>기준치</strong> = (처형된 자의 전투력) + 35
   </div>
@@ -55,4 +55,4 @@
 <div class="story-content">
   <div class="subsection-title">■ 선택 B: 기준치 초과 (바스타즈 전투력 > 기준치)</div>
 </div>
-
+
