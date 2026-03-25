@@ -1723,11 +1723,11 @@ HTML :
 관련 : 발로그
 의도 : 발로그가 비행으로 낙하했으며, 원소 마법에 면역이었고 마력을 개방할 수 있다는 증거.
 내용 :
-성문 앞을 지키던 마법사들이 하늘을 올려다보는 자세 그대로 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 과부하를 견디지 못한 듯 모두 검게 타버린 채 매캐한 연기를 내뿜고 있다.
+마법탑 상층부를 지키던 마법사들이 하늘을 올려다보는 자세 그대로 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 소유자의 마력이 폭주하며 발생한 과부하를 견디지 못한 듯 모두 검게 타버린 채 매캐한 연기를 내뿜고 있다.
 HTML :
 <div class="story-content">
   <div class="quote-box">
-    <p>성문 앞을 지키던 마법사들이 <span class="emphasis">하늘을 올려다보는 자세 그대로</span> 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 과부하를 견디지 못한 듯 모두 <span class="highlight">검게 타버린 채 매캐한 연기</span>를 내뿜고 있다.</p>
+    <p>마법탑 상층부를 지키던 마법사들이 <span class="emphasis">하늘을 올려다보는 자세 그대로</span> 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 소유자의 마력이 폭주하며 발생한 과부하를 견디지 못한 듯 모두 <span class="highlight">검게 타버린 채 매캐한 연기</span>를 내뿜고 있다.</p>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a fallen sorcerer's staff and burnt jewelry lying on a scorched, cracked stone floor. Tendrils of faint smoke rise from the staff. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
