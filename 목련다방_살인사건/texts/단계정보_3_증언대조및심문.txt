@@ -18,7 +18,7 @@ AP 제한: {"role_bak": 10}
     <h3>🔰 튜토리얼: 추리와 토론</h3>
     <p>수집한 단서를 바탕으로 사건의 진상을 파악하는 단계입니다.</p>
     
-    <ol style="margin-top: 12px; padding-left: 20px; line-height: 1.8;">
+    <ol style="margin-top: 12px; line-height: 1.8;">
       <li><strong>단서 조합 및 분석</strong>
         <p>화면에 표시된 <strong>단서 목록</strong>을 다시 훑어보세요. 서로 모순되는 증언은 없는지, 알리바이가 빈약한 사람은 누구인지 체크해야 합니다.</p>
       </li>
@@ -28,7 +28,7 @@ AP 제한: {"role_bak": 10}
       </li>
 
       <li><strong>범인 결정 준비</strong>
-        <p>충분히 생각을 정리했다면, <strong>[다음 단계로]</strong>를 눌러 결론 단계로 넘어갑니다.</p>
+        <p>충분히 생각을 정리했다면, <strong>[NEXT]</strong>를 눌러 결론 단계로 넘어갑니다.</p>
       </li>
     </ol>
   </div>

@@ -24,7 +24,7 @@ AP 제한: {"role_bak": 10}
     <h3>🔰 튜토리얼: 게임 화면 익히기</h3>
     <p>이 시나리오는 머더엑스 플랫폼의 <strong>기본적인 조작법</strong>을 익히기 위해 제작되었습니다.</p>
     
-    <ol style="margin-top: 12px; padding-left: 20px; line-height: 1.8;">
+    <ol style="margin-top: 12px; line-height: 1.8;">
       <li><strong>내 정보 확인 (비밀 확인)</strong>
         <p>화면의 <strong>[내 정보]</strong> 탭을 클릭해 보세요. 당신의 캐릭터 배경과 <strong>비밀(약점)</strong>, 그리고 <strong>승리 조건</strong>이 적혀 있습니다. 사건을 해결하기 위한 목표를 이곳에서 확인하세요.</p>
       </li>
@@ -38,7 +38,7 @@ AP 제한: {"role_bak": 10}
       </li>
 
       <li><strong>다음 단계로 이동</strong>
-        <p>내용을 모두 확인하셨나요? 우측 하단의 <strong>[다음 단계로]</strong> 버튼을 누르면 다음 단계로 진행됩니다.</p>
+        <p>내용을 모두 확인하셨나요? 우측 하단의 <strong>[NEXT]</strong> 버튼을 누르면 다음 단계로 진행됩니다.</p>
       </li>
     </ol>
   </div>
