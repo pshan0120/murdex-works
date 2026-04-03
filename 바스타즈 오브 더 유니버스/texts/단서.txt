@@ -81,12 +81,12 @@ HTML :
 관련 : 슬리더
 의도 : 슬리더가 과거에 암살하려고 했던 성기사 류크가 바로 현재의 수장 스컬크러셔임을 폭로하겠다는 협박
 내용 :
-"슬리더, 과거 그대가 완벽히 마무리했다고 믿었던 그 은밀한 지령 말일세... 그대의 칼날에 스러졌다고 믿는 '그 자'가 정말로 영원한 죽음을 맞이했다고 생각하나? 매일 아침 그대의 위에서 군림하며 등을 보이고 선 그 거대한 사내의 투기에서, 일말의 낯익은 빛을 느끼지 못했냔 말일세. 이 흥미로운 진실이 우리 대장의 귀에 들어간다면 과연 어떤 일이 벌어질지 상상만 해도 즐거워지는군. 그대의 그 날카로운 비밀을 가슴 깊이 묻어두고 싶다면, 이제부터는 나의 명령을 가장 우선하여 받들어주게나."
+"슬리더, 과거 그대가 완벽히 마무리했다고 믿었던 그 은밀한 의뢰 말일세... 그대의 칼날에 스러졌다고 믿는 '그 자'가 정말로 영원한 죽음을 맞이했다고 생각하나? 매일 아침 그대의 위에서 군림하며 등을 보이고 선 그 거대한 사내의 투기에서, 일말의 낯익은 빛을 느끼지 못했냔 말일세. 이 흥미로운 진실이 그의 귀에 들어간다면 과연 어떤 일이 벌어질지 상상만 해도 즐거워지는군. 그대의 그 날카로운 비밀을 가슴 깊이 묻어두고 싶다면, 이제부터는 나의 명령을 가장 우선하여 받들어주게나."
 HTML :
 <div class="story-content">
   <div class="quote-box">
     <p>"슬리더, 과거 그대가 <span class="emphasis">완벽히 마무리</span>했다고 믿었던 그 <span class="emphasis">은밀한 지령</span> 말일세... 그대의 칼날에 스러졌다고 믿는 <span class="highlight">'그 자'</span>가 정말로 영원한 죽음을 맞이했다고 생각하나?</p>
-    <p>매일 아침 그대의 위에서 군림하며 등을 보이고 선 그 <span class="character-skull">거대한 사내</span>의 투기에서, 일말의 낯익은 빛을 느끼지 못했냔 말일세. 이 흥미로운 진실이 우리 대장의 귀에 들어간다면 과연 어떤 일이 벌어질지 상상만 해도 즐거워지는군. 그대의 그 <span class="emphasis">날카로운 비밀</span>을 가슴 깊이 묻어두고 싶다면, 이제부터는 나의 명령을 가장 우선하여 받들어주게나."</p>
+    <p>매일 아침 그대의 위에서 군림하며 등을 보이고 선 그 <span class="character-skull">거대한 사내</span>의 투기에서, 일말의 낯익은 빛을 느끼지 못했냔 말일세. 이 흥미로운 진실이 그의 귀에 들어간다면 과연 어떤 일이 벌어질지 상상만 해도 즐거워지는군. 그대의 그 <span class="emphasis">날카로운 비밀</span>을 가슴 깊이 묻어두고 싶다면, 이제부터는 나의 명령을 가장 우선하여 받들어주게나."</p>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text fills the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -1000,14 +1000,14 @@ HTML :
 관련 : 스컬크러셔, 슬리더
 의도 : 골든 킹이 슬리더에게 류크 제거를 의뢰했음을 증명.
 내용 :
-왕좌 아래 눈에 띄지 않는 아주 비밀스러운 공간에서 발견된 골든 킹의 친필 지령. "빛의 기사 류크의 제거를 의뢰하며, 요구한 금액과 함께 '어둠의 단검'을 지급한다"고 적혀 있다. 수신자는 슬리더.
+왕좌 아래 눈에 띄지 않는 아주 비밀스러운 공간에서 발견된 의뢰서. "기사 류크의 제거를 의뢰하며, 요구한 금액과 함께 '어둠의 단검'을 지급한다"고 적혀 있다. 수신자는 슬리더.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>친필 지령서</h4>
+    <h4>의뢰서</h4>
     <div class="divider-gold"></div>
     <div class="document-body small">
-      <p>"빛의 기사 류크의 제거를 의뢰하며, 요구한 금액과 함께 <span class="emphasis">'어둠의 단검'</span>을 지급한다."</p>
+      <p>"마스터즈의 기사 류크의 제거를 의뢰하며, 요구한 금액과 함께 <span class="emphasis">'어둠의 단검'</span>을 지급한다."</p>
       <p class="text-right">- 수신자: <span class="character-slither">슬리더</span></p>
     </div>
   </div>
