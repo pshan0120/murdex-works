@@ -233,7 +233,7 @@
 }
 
 /* 엘드리치 위자드: 신비로운 블루 */
-.story-content .character-wizard {
+.story-content .character-eldritch {
     color: #1e90ff !important;
     font-weight: 800;
     text-shadow: 0 0 10px rgba(30, 144, 255, 0.5);
@@ -243,6 +243,19 @@
 .story-content .character-valtra {
     color: #c0c0c0 !important;
     font-weight: 800;
+}
+
+/* 골든 킹: 눈부신 황금색 */
+.story-content .character-goldenking {
+    color: #ffd700 !important;
+    font-weight: 800;
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+}
+
+/* 마스터즈: 신성한 빛의 은하색 */
+.story-content .character-masters {
+    color: #e6e6fa !important;
+    font-weight: 700;
 }
 
 /* PPT 및 문서 표현 (옛 서 기록 느낌) */
