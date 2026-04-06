@@ -1914,7 +1914,7 @@ HTML :
 파일명 : 60_중앙_복도_2
 
 [clue_61]
-이름 : 엘드리치의 비망록 - '길동무를 향한 자애로운 기록'
+이름 : 엘드리치의 수첩
 유형 : 물증
 단계 : 조사 2단계
 소모AP : 3
@@ -1930,6 +1930,8 @@ HTML :
 관련 : 공통
 의도 : 자애로운 현자의 문체로 위장하여 각 캐릭터의 약점과 협박 정황을 은유적으로 암시함. 타 단서들과 조합하여 동기를 유추하게 만듦.
 내용 :
+책상 위에는 엘드리치의 것으로 보이는 낡은 가죽 수첩이 펼쳐져 있다.
+
 "달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며..."
 
 1. 노란 돌 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.
@@ -1943,6 +1945,7 @@ HTML :
     <h4 class="no-margin">어둠 속에서 길을 찾는 이들에게</h4>
     <div class="divider-gold"></div>
     <div class="document-body small">
+      <p class="script-direction">책상 위에는 엘드리치의 것으로 보이는 낡은 가죽 수첩이 펼쳐져 있다.</p>
       <p>"달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며..."</p>
       <p>1. <span class="highlight">노란 돌</span> 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.</p>
       <p>2. 달궈진 쇠를 두드려 <span class="emphasis">날개</span>를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.</p>
@@ -1955,4 +1958,52 @@ HTML :
 이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small, thin, aged dark leather-bound personal notebook opened to a single, flat page. The page features dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No illustrations. Extremely shallow depth of field, background is dark and completely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, ancient and mysterious atmosphere.
 
 장소 : 02_서재
-파일명 : 61_서재_비망록
+파일명 : 61_서재_엘드리치의_수첩
+
+[clue_62]
+이름 : 바스타즈 강령
+유형 : 통찰
+단계 : 조사 1단계
+소모AP : 2
+정렬순서 : 620
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : Y
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 공통
+의도 : 바스타즈의 엄격한 군대식 질서와 규율을 보여줌으로써, 각 멤버의 비밀이 밝혀질 경우 '사형'에 처해질 수 있다는 논리적 공포와 당위성을 부여함.
+내용 :
+당신은 바스타즈의 강령을 떠올려 보았다.
+
+바스타즈 강령
+1조. 제 한 몸이나 핏줄의 안위만을 챙기는 자는 엄벌한다.
+2조. 목표를 달성하기 전 이탈하려는 자는 도망자로 간주한다.
+3조. 동료의 명예를 더럽히는 자는 짐승으로 보아 무리에서 내쫓는다.
+4조. 어떠한 이유로든 동료를 해치는 것은 용납하지 않는다.
+5조. 적과 내통하여 무리를 위험에 빠뜨린 자는 배신자로 처단한다.
+6조. 대장은 대원의 목숨과 규칙을 끝까지 지킨다.
+7조. 실책으로 동료를 사지로 몰아넣은 자는 무거운 책임을 묻는다.
+HTML :
+<div class="story-content">
+  <p class="script-direction">당신은 바스타즈의 강령을 떠올려 보았다.</p>
+  <div class="document-page">
+    <h4 class="no-margin">바스타즈 강령</h4>
+    <div class="divider-gold"></div>
+    <div class="document-body small">
+      <p>1조. 제 한 몸이나 <b>핏줄의 안위</b>만을 챙기는 자는 <span class="highlight">엄벌</span>한다.</p>
+      <p>2조. 목표를 달성하기 전 <b>이탈</b>하려는 자는 <span class="emphasis">도망자</span>로 간주한다.</p>
+      <p>3조. 동료의 <b>명예를 더럽히는 자</b>는 <span class="highlight">짐승</span>으로 보아 무리에서 내쫓는다.</p>
+      <p>4조. 어떠한 이유로든 <b>동료를 해치는 것</b>은 <span class="emphasis">용납하지 않는다</span>.</p>
+      <p>5조. 적과 <b>내통</b>하여 무리를 위험에 빠뜨린 자는 <span class="highlight">배신자</span>로 처단한다.</p>
+      <p>6조. 대장은 대원의 <b>목숨과 규칙</b>을 끝까지 지킨다.</p>
+      <p>7조. 실책으로 <b>동료를 사지</b>로 몰아넣은 자는 <span class="emphasis">무거운 책임</span>을 묻는다.</p>
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic, angled close-up of a long, vertically-unrolled aged parchment lying on a dark wooden table. The parchment is slightly curled at the edges. At the bottom center, seven dark red blood signatures are prominently displayed in a row. A single warm candle nearby casts flickering light and long, deep shadows across the textured, weathered paper. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (aged paper, dark wood), heavy brushstrokes, dramatic chiaroscuro lighting, solemn and martial atmosphere.
+장소 : 없음
+파일명 : 62_바스타즈_강령
