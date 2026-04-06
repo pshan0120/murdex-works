@@ -1912,3 +1912,47 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an old, hunched-over cleaner seen from behind, standing in the middle of a grand, empty central corridor of the fortress (based strictly and exclusively on the background seen in 12_중앙_복도.png). No doors, no drainage pipes, and no basement elements are present. The background consists only of the high, repetitive stone arches, massive pillars, and the long, echoing stone floor of the central hallway at night. The old man is clad in tattered brown work clothes, holding a primitive straw broom in one hand, appearing small against the overwhelming scale of the empty corridor. Deep, heavy shadows stretch between the pillars, with a faint, cold moonlight or distant torchlight illuminating the textured stone surfaces. Extremely shallow depth of field, focused on the weary silhouette of the old man. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, somber atmosphere. No faces visible, just the lone figure in the dark, silent hallway.
 장소 : 11_중앙_복도
 파일명 : 60_중앙_복도_2
+
+[clue_61]
+이름 : 엘드리치의 비망록 - '길동무를 향한 자애로운 기록'
+유형 : 물증
+단계 : 조사 2단계
+소모AP : 3
+정렬순서 : 610
+중요도 : 최고
+핵심 단서 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 공통
+의도 : 자애로운 현자의 문체로 위장하여 각 캐릭터의 약점과 협박 정황을 은유적으로 암시함. 타 단서들과 조합하여 동기를 유추하게 만듦.
+내용 :
+"달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며..."
+
+1. 노란 돌 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.
+2. 달궈진 쇠를 두드려 날개를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.
+3. 자신이 꺼뜨렸다 믿던 저 밝은 해가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.
+4. 홀로 벗을 삼키던 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.
+5. 칼끝이 머무는 곳은 여전히 저 멀리 하얀 성의 빛을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.
+HTML :
+<div class="story-content">
+  <div class="document-page">
+    <h4 class="no-margin">어둠 속에서 길을 찾는 이들에게</h4>
+    <div class="divider-gold"></div>
+    <div class="document-body small">
+      <p>"달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며..."</p>
+      <p>1. <span class="highlight">노란 돌</span> 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.</p>
+      <p>2. 달궈진 쇠를 두드려 <span class="emphasis">날개</span>를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.</p>
+      <p>3. 자신이 꺼뜨렸다 믿던 저 <span class="emphasis">밝은 해</span>가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.</p>
+      <p>4. 홀로 <span class="highlight">벗을 삼키던</span> 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.</p>
+      <p>5. 칼끝이 머무는 곳은 여전히 저 멀리 <span class="emphasis">하얀 성의 빛</span>을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.</p>
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small, thin, aged dark leather-bound personal notebook opened to a single, flat page. The page features dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No illustrations. Extremely shallow depth of field, background is dark and completely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, ancient and mysterious atmosphere.
+
+장소 : 02_서재
+파일명 : 61_서재_비망록

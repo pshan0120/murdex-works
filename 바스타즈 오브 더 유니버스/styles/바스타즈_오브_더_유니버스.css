@@ -17,7 +17,8 @@
 
 /* 기본 폰트 및 컬러 설정 */
 .story-content {
-    font-size: 1rem; /* 약간 더 크게 조정하여 가독성 확보 */
+    font-size: 1rem;
+    /* 약간 더 크게 조정하여 가독성 확보 */
     font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
     color: var(--fantasy-text);
     line-height: 1.75;
@@ -45,7 +46,8 @@
     font-family: "Nanum Myeongjo", serif;
     font-size: 1.2em;
     font-weight: 700;
-    color: #ff4500; /* 오렌지 레드 느낌의 강렬한 소제목 */
+    color: #ff4500;
+    /* 오렌지 레드 느낌의 강렬한 소제목 */
     margin-top: 1.8em;
     margin-bottom: 0.9em;
     border-left: 4px solid var(--fantasy-crimson);
@@ -72,7 +74,8 @@
 }
 
 .story-content li::before {
-    content: "⚔️"; /* 칼 이모지로 판타지 느낌 추가 */
+    content: "⚔️";
+    /* 칼 이모지로 판타지 느낌 추가 */
     position: absolute;
     left: 0;
     font-size: 0.9em;
@@ -87,7 +90,8 @@
 }
 
 .story-content .emphasis {
-    color: #ff6347; /* Tomato color */
+    color: #ff6347;
+    /* Tomato color */
     font-weight: 600;
 }
 
@@ -156,7 +160,8 @@
 
 /* 추가적인 커스텀 클래스들 */
 .story-content .mystery {
-    color: #dda0dd; /* Plum 컬러로 신비로운 느낌 */
+    color: #dda0dd;
+    /* Plum 컬러로 신비로운 느낌 */
     font-weight: 400;
     text-shadow: 0 0 8px rgba(221, 160, 221, 0.5);
 }
@@ -243,14 +248,17 @@
 /* PPT 및 문서 표현 (옛 서 기록 느낌) */
 .story-content .document-page {
     font-family: "Gowun Batang", serif;
-    background-color: #f4ecd8; /* 바랜 종이색 */
-    color: #2c1e11; /* 짙은 갈색 잉크 */
+    background-color: #f4ecd8;
+    /* 바랜 종이색 */
+    color: #2c1e11;
+    /* 짙은 갈색 잉크 */
     max-width: 650px;
     margin: 20px auto;
     padding: 30px 40px;
     border: 1px solid #d2b48c;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.7);
-    background-image: url('https://www.transparenttextures.com/patterns/dark-matter.png'); /* 질감 추가 */
+    background-image: url('https://www.transparenttextures.com/patterns/dark-matter.png');
+    /* 질감 추가 */
 }
 
 .story-content .document-page h2 {
@@ -289,4 +297,36 @@
 .story-content .script-line.my-line {
     background: rgba(212, 175, 55, 0.15);
     border-left: 4px solid var(--fantasy-gold);
+}
+
+/* --- 유틸리티 클래스 (단서 표현용) --- */
+.no-margin {
+    margin: 0 !important;
+}
+
+.divider-gold {
+    height: 1px;
+    background: var(--fantasy-gold);
+    margin: 0.8em 0;
+    opacity: 0.6;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.document-body {
+    margin-top: 1.2em;
+}
+
+.document-body.small {
+    font-size: 0.88em;
+    line-height: 1.65;
+    color: #3e2b1a;
+    /* 본문보다 약간 더 연한 잉크색 */
+}
+
+.emphasis-box {
+    border: 1.5px solid var(--fantasy-gold);
+    padding: 1em;
+    margin: 1.5em 0;
+    background: rgba(212, 175, 55, 0.05);
+    border-radius: 4px;
 }
