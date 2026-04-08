@@ -343,3 +343,51 @@
     background: rgba(212, 175, 55, 0.05);
     border-radius: 4px;
 }
+
+/* --- 추리 단계 및 긴급 상황 스타일 --- */
+/* 긴급 상황 공지 박스 */
+.story-content .emergency-notice {
+    border: 2px solid #ff4d4d;
+    background-color: rgba(255, 77, 77, 0.05);
+    padding: 1.5em;
+    border-radius: 8px;
+    margin-bottom: 25px;
+}
+
+.story-content .emergency-title {
+    color: #ff4d4d;
+    margin-top: 0;
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+
+/* 스크립트 뷰어 컨테이너 (추리 단계 전용) */
+.story-content .script-container {
+    margin-top: 15px;
+    background: #111111;
+    padding: 20px;
+    border-radius: 6px;
+    border-left: 5px solid #ff4d4d;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+.story-content .script-direction {
+    font-style: italic;
+    color: #999999;
+    margin: 10px 0;
+    font-size: 0.9em;
+    padding: 5px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.story-content .script-line {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+/* 아코디언 요약 커스텀 (긴급용) */
+.story-content .emergency-summary {
+    color: #ff4d4d !important;
+    border-color: #ff4d4d !important;
+}

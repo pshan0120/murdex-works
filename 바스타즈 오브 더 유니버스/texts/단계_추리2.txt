@@ -1,46 +1,52 @@
 <div class="story-content">
-  <div class="section-title">1. 개요: 우주 최후의 심판</div>
+  <div class="section-title">1. 개요</div>
   <p>
-    화이트스컬 성의 모든 비밀이 드러났습니다. 
-    수집된 모든 단서와 엇갈린 행적들을 종합하여, <span class="character-eldritch">엘드리치</span>를 살해하고 우주의 운명을 뒤흔든 <span class="emphasis">진범</span>을 가려내야 할 시간입니다.
-    당신의 지목이 바스타즈의 영광, 또는 비극적인 종말을 결정할 것입니다.
+    모든 수색이 끝났습니다. 화이트스컬 성의 차가운 복도를 떠돌던 의혹의 조각들도 이제는 하나의 진실을 가리키고 있습니다. 
+    동료를 배신하고 바스타즈의 영광을 더럽힌 배신자는 누구인가? 
+    이제 각자의 추리를 정리하고, 우주의 새로운 질서를 위해 심판의 칼날을 휘두를 시간입니다.
   </p>
 
-  <div class="section-title">2. 최종 토론 및 밀담 규칙</div>
-  <p>
-    범인 투표 전, 마지막 자유 토론을 진행합니다. 이 단계에서는 대규모 토론뿐만 아니라, <span class="character-eldritch">엘드리치 플레이어</span>의 통제 하에 더욱 은밀한 소통이 가능합니다.
-  </p>
+  <div class="section-title">2. 추리 단계 및 밀담 규칙</div>
   <ul>
-    <li><span class="highlight">최후의 밀담</span>: 최종 발언 직전까지, <span class="character-eldritch">엘드리치 플레이어</span>는 누구와 누가 은밀히 대화할지 지정할 수 있습니다. 밀담의 인원 제한(최대 3인) 및 고립 방지 규칙은 조사 단계와 동일하게 적용됩니다.</li>
-    <li><span class="highlight">전략적 논의</span>: 밀담을 통해 서로의 주장을 맞추거나, 결정적인 증거를 공유하며 배신자를 확정하십시오.</li>
+    <li><span class="highlight">조사 불가</span>: 이번 단계에서도 <strong>추가적인 단서 조사는 엄격히 금지됩니다.</strong> 이미 확보한 단서와 대화를 통해 진실을 유추하십시오.</li>
+    <li><span class="highlight">자유로운 추론</span>: 발견된 물증과 서로의 알리바이를 대조하십시오. 배신자의 실수를 놓치지 않는 날카로운 통찰력이 필요합니다.</li>
+    <li>
+      <span class="highlight">은밀한 밀담</span>: 이번 단계에서는 플레이어 간의 비공개 대화가 허용됩니다. 단, 다음의 <span class="highlight">엄격한 규칙</span>을 따라야 합니다.
+      <ul class="sub-list">
+        <li><span class="highlight">관찰자의 통제</span>: 누가 누구와 밀담을 나눌지는 오직 <span class="character-eldritch">엘드리치 플레이어</span>만이 지정할 수 있습니다.</li>
+        <li><span class="highlight"><span class="character-eldritch">엘드리치</span>의 개입</span>: <span class="character-eldritch">엘드리치</span> 본인은 어떤 밀담 그룹이든 자유롭게 참여하거나 오갈 수 있습니다.</li>
+        <li><span class="highlight">그룹 구성</span>: 밀담 그룹은 최소 2명에서 최대 3명까지(<span class="character-eldritch">엘드리치</span> 제외) 구성 가능합니다.</li>
+        <li><span class="highlight">고립 방지</span>: 어떠한 경우에도 혼자 남겨지는 인원이 있어서는 안 됩니다.</li>
+        <li><span class="highlight">유동적 조정</span>: 대화가 종료되었거나 그룹 교체를 원할 경우, <span class="character-eldritch">엘드리치 플레이어</span>의 허락 하에 구성을 다시 조정할 수 있습니다.</li>
+      </ul>
+    </li>
   </ul>
 
-  <div class="section-title">3. 최후 변론 및 발언 순서</div>
+  <div class="section-title">3. 망자의 시선: <span class="character-eldritch">엘드리치 플레이어</span>의 역할</div>
   <p>
-    모든 논의가 마무리되면, 플레이어들은 각자의 최종 결론을 공유하는 <span class="emphasis">최후 변론</span> 시간을 가집니다.
+    육신을 잃은 <span class="character-eldritch">엘드리치</span>는 이제 보이지 않는 <span class="highlight">영적 관찰자</span>이자 사건의 조율자가 됩니다.
   </p>
   <ul>
-    <li><span class="highlight">순서 결정</span>: 최종 발언의 순서는 관찰자인 <span class="character-eldritch">엘드리치 플레이어</span>가 결정합니다.</li>
-    <li><span class="highlight">발언 시간</span>: 한 플레이어당 <span class="emphasis">1분간</span>의 시간이 주어지며, 이 시간 동안 타인의 방해 없이 자신의 논리를 펼칠 수 있습니다.</li>
-    <li><span class="highlight">논리의 증명</span>: 자신이 진범으로 생각하는 인물과 그 이유를 명확히 제시하여 동료들을 설득하십시오. 모든 발언이 끝나면 즉시 투표로 이어집니다.</li>
+    <li><span class="highlight">논리의 조율</span>: 단서들을 취합하고 멤버들의 증언에서 발견되는 모순을 지적하십시오.</li>
+    <li><span class="highlight">진실의 유도</span>: 밀담 그룹을 배정하고 발언 순서를 정하여, 멤버들이 올바른 의구심으로 배신자를 가려낼 수 있게 이끄십시오.</li>
   </ul>
 
-  <div class="section-title">4. 최종 추리 가이드</div>
+  <div class="section-title">4. 최후 발언: 심판의 대화</div>
   <p>
-    안개 속에 가려졌던 진실을 정밀하게 재구성하십시오.
+    밀담과 자유 토론이 끝나면, 모든 플레이어는 한 명씩 돌아가며 자신의 최종 추론을 공유합니다. 
+    이 발언은 당신의 결백을 증명하고, 배신자를 단죄하기 위한 마지막 기회입니다.
   </p>
   <ul>
-    <li><span class="highlight">타임라인의 완성</span>: 1, 2차 조사에서 얻은 모든 알리바이와 단서들을 하나의 선상에 놓으십시오. 오직 범인만이 채우지 못한 거대한 공백이 존재할 것입니다.</li>
-    <li><span class="highlight">욕망의 실체</span>: 누가 가장 <span class="character-eldritch">엘드리치</span>의 죽음을 원했습니까? 그가 사라졌을 때 가장 큰 이득을 취하거나, 자신의 치부를 영원히 덮을 수 있었던 인물을 추적하십시오.</li>
-    <li><span class="highlight">마지막 공방</span>: 범인은 끝까지 무고함을 주장하며 타인에게 혐의를 덮씌우려 할 것입니다. 사소한 말실수와 논리적 모순을 놓치지 마십시오.</li>
+    <li><span class="highlight">최종 변론</span>: <span class="character-eldritch">엘드리치 플레이어</span>가 지정하는 순서에 따라 자신의 추리와 결백을 주장하십시오.</li>
   </ul>
 
-  <div class="section-title">5. 다음 단계 안내</div>
+  <div class="section-title">5. 다음 단계 예고: 처형의 시간</div>
   <p>
-    모든 플레이어의 변론이 끝났다면 <span class="highlight">다음 단계</span>로 이동하여 범인 지목 투표와 최후의 선고를 진행하십시오.
+    모든 발언이 끝나면 곧바로 <strong>'투표 단계'</strong>로 진입합니다. 
+    바스타즈의 일원이지만 우리를 배신한 자, 즉 <span class="emphasis">오늘 이 자리에서 처형될 자</span>를 여러분의 손으로 직접 결정하게 될 것입니다.
   </p>
 
   <div class="quote-box">
-    "이제 칼날은 주인을 향해 가려져 있다. 우주의 새로운 주인들 중, 누가 이 비극의 설계자인지 증명하라."
+    "우리의 결속은 피로 맺어졌으니, 그 결속을 깬 대가 또한 피로 치러야 할 것이다."
   </div>
 </div>

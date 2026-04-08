@@ -2,7 +2,7 @@
 <div class="story-content">
   <div class="section-title">1. 운명의 심판: 처형 지목</div>
   <p>
-    긴 토론 끝에, 바스타즈의 이름으로 처형하기로 결정한 <span class="highlight">지목 대상</span>은 누구입니까? 
+    긴 토론 끝에, 바스타즈의 이름으로 처형하기로 결정한 <span class="highlight">대상</span>은 누구입니까? 
     현장의 투표 결과를 정확히 입력하십시오.
   </p>
 </div>
@@ -26,24 +26,28 @@
   <div class="subsection-title">■ 선택 F: <span class="character-valtra">발트라</span> (role_07)</div>
 </div>
 <div class="story-content">
-  <div class="subsection-title">■ 선택 G: 하늘 (아무도 처형하지 않음)</div>
+  <div class="subsection-title">■ 선택 G: 아무도 처형되지 않음</div>
 </div>
 
 // 두 번째 질문
 <div class="story-content">
   <div class="section-title">2. 전력 평가: 최종 결의</div>
   <p>
-    처형된 동료를 제외한 <span class="highlight">나머지 바스타즈의 총 전투력 합계</span>가 기준치를 초과합니까?
-    아래 가이드에 따라 본인의 최종 전투력을 계산한 뒤, <span class="emphasis">전체 합산을 위해 <span class="character-eldritch">엘드리치 플레이어</span>에게 자신의 수치를 공개적으로 보고하십시오.</span>
+    처형된 동료를 제외한 <span class="highlight">생존한 동료들의 총 전투력 합계</span>를 아래 가이드를 참고하여 계산하십시오.
   </p>
   <div class="quote-box">
-    <strong>[본인 전투력 계산 가이드]</strong><br>
-    - <strong>기본 전투력</strong>: 8<br>
-    - <strong>대지의 도끼</strong> 소유 시: +3
+    <strong>[동료 전투력 계산 가이드]</strong><br>
+    - <strong>스컬크러셔</strong>: 기본 9 (빛의 검 소유 시 +4)<br>
+    - <strong>고어후프</strong>: 기본 8 (대지의 도끼 소유 시 +3)<br>
+    - <strong>발로그</strong>: 기본 7 (바람의 창 소유 시 +3)<br>
+    - <strong>슬리더</strong>: 기본 6 (물의 검 소유 시 +3)<br>
+    - <strong>발트라</strong>: 기본 5 (바람의 창/대지의 도끼/물의 검 소유 시 +3)<br>
+    - <strong>말리스</strong>: 기본 2 (마력석 소유 시 +8)<br>
+    - <strong>엘드리치</strong> (본인): 0 (계산 제외)
   </div>
   <div class="quote-box">
     <strong>[기준치 계산]</strong><br>
-    - <strong>바스타즈 전투력</strong> = 처형된 자를 제외한 생존한 바스타즈의 전투력 총합<br>
+    - <strong>바스타즈 전투력</strong> = 생존한 모든 바스타즈의 전투력 총합<br>
     - <strong>기준치</strong> = (처형된 자의 전투력) + 35
   </div>
 </div>

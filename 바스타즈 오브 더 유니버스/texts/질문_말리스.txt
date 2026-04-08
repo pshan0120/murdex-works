@@ -2,7 +2,7 @@
 <div class="story-content">
   <div class="section-title">1. 운명의 심판: 처형 지목</div>
   <p>
-    긴 토론 끝에, 바스타즈의 이름으로 처형하기로 결정한 <span class="highlight">지목 대상</span>은 누구입니까? 
+    긴 토론 끝에, 바스타즈의 이름으로 처형하기로 결정한 <span class="highlight">대상</span>은 누구입니까? 
     현장의 투표 결과를 정확히 입력하십시오.
   </p>
 </div>
@@ -26,7 +26,7 @@
   <div class="subsection-title">■ 선택 F: <span class="character-valtra">발트라</span> (role_07)</div>
 </div>
 <div class="story-content">
-  <div class="subsection-title">■ 선택 G: 하늘 (아무도 처형하지 않음)</div>
+  <div class="subsection-title">■ 선택 G: 아무도 처형되지 않음</div>
 </div>
 
 // 두 번째 질문
@@ -38,8 +38,8 @@
   </p>
   <div class="quote-box">
     <strong>[본인 전투력 계산 가이드]</strong><br>
-    - <strong>기본 전투력</strong>: 7<br>
-    - <strong>바람의 창</strong> 소유 시: +3
+    - <strong>기본 전투력</strong>: 2<br>
+    - <strong>마력석</strong> 소유 시: +8
   </div>
   <div class="quote-box">
     <strong>[기준치 계산]</strong><br>
