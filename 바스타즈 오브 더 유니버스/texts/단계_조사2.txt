@@ -1,0 +1,45 @@
+﻿<div class="story-content">
+  <div class="section-title">1. 개요: 심화 수색과 은밀한 결속</div>
+  <p>
+    <span class="character-eldritch">엘드리치</span>의 죽음을 둘러싼 의혹이 짙어지는 가운데, 성의 더 깊은 곳으로 조사가 확대됩니다. 
+    누군가는 진실을 덮으려 하고, 누군가는 배신자를 찾기 위해 위험한 동맹을 맺기 시작합니다. 
+    승리의 대가가 피로 물들기 전, 당신의 야망을 실현할 마지막 기회를 잡으십시오.
+  </p>
+
+  <div class="section-title">2. 조사 진행 및 밀담 규칙</div>
+  <ul>
+    <li><span class="highlight">심화 조사</span>: 성 내의 새로운 구역이나 더욱 은밀한 단서들을 수색할 수 있습니다.</li>
+    <li><span class="highlight">액션 사용</span>: 남아있는 AP를 활용해 캐릭터 고유의 액션을 수행하십시오.</li>
+    <li><span class="highlight">비밀 유지 및 협력 조사</span>: 각자의 단서와 액션 소유권은 비밀로 유지되지만, 효율적인 조사를 위해 플레이어 간의 소통은 가능합니다. 조사 관련 논의는 자유롭게 진행해 주세요. 다만, 사건의 진상을 파헤치는 본격적인 추리와 토론은 조사가 모두 끝난 후 '추리 단계'에서 진행해 주시기 바랍니다.</li>
+    <li>
+      <span class="highlight">은밀한 밀담</span>: 이번 단계에서는 플레이어 간의 비공개 대화가 허용됩니다. 단, 다음의 <span class="highlight">엄격한 규칙</span>을 따라야 합니다.
+      <ul class="sub-list">
+        <li><span class="highlight">관찰자의 통제</span>: 누가 누구와 밀담을 나눌지는 오직 <span class="character-eldritch">엘드리치 플레이어</span>만이 지정할 수 있습니다.</li>
+        <li><span class="highlight"><span class="character-eldritch">엘드리치</span>의 개입</span>: <span class="character-eldritch">엘드리치</span> 본인은 어떤 밀담 그룹이든 자유롭게 참여하거나 오갈 수 있습니다.</li>
+        <li><span class="highlight">그룹 구성</span>: 밀담 그룹은 최소 2명에서 최대 3명까지(<span class="character-eldritch">엘드리치</span> 제외) 구성 가능합니다.</li>
+        <li><span class="highlight">고립 방지</span>: 어떠한 경우에도 혼자 남겨지는 인원이 있어서는 안 됩니다.</li>
+        <li><span class="highlight">유동적 조정</span>: 대화가 종료되었거나 그룹 교체를 원할 경우, <span class="character-eldritch">엘드리치 플레이어</span>의 허락 하에 구성을 다시 조정할 수 있습니다.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <div class="section-title">3. 액션포인트(AP) 관리</div>
+  <p>
+    조사 활동과 특수 액션에는 자원이 소모됩니다.
+  </p>
+  <ul>
+    <li><span class="highlight">잔여 AP 확인</span>: 이번 단계가 끝나면 남은 AP는 모두 소멸됩니다. 효율적으로 자원을 배분하십시오.</li>
+    <li><span class="highlight">비공개 원칙</span>: 자신의 활동 내역과 남은 자원은 타인에게 비밀로 유지하십시오.</li>
+  </ul>
+
+  <div class="section-title">4. 단서와 거래</div>
+  <ul>
+    <li><span class="highlight">단서 확보</span>: 수집한 단서가 가리키는 진실이 무엇인지, 그리고 그것이 당신에게 유리한 정보인지 신중히 판단하십시오.</li>
+    <li><span class="highlight">공개 및 교환</span>: <span class='emphasis'>전체 공개</span>를 통해 여론을 주도하거나, <span class='emphasis'>단서 교환 제안</span>을 통해 밀담 중인 상대와 은밀한 거래를 시도할 수 있습니다.</li>
+    <li><span class="highlight">지시 이행</span>: 획득한 단서 하단에 적힌 지시사항(누구에게 보여주기 등)은 즉시 수행해야 하는 의무 사항입니다.</li>
+  </ul>
+
+  <div class="quote-box">
+    "화이트스컬 성의 벽에는 귀가 있고, 그림자에는 칼날이 숨겨져 있다. 신뢰할 수 없는 동료의 손을 잡는 것이 오늘의 유일한 생존법일지도 모르지."
+  </div>
+</div>

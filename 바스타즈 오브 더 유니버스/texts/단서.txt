@@ -393,7 +393,9 @@ HTML :
 ■ 물 ↔ 불: 대립적인 에너지 흐름을 가지며 서로를 약화시킨다.
 ■ 땅 ↔ 바람: 견고함과 변칙성의 상성을 형성한다.
 ■ 무속성: 어떤 마력 반응도 보이지 않는 순수한 상태.
-※ 주의사항: 공격 시 상극인 속성을 가진 무기나 주문은 상대에게 치명적인 대미지를 입힐 수 있다. 하지만 방어 혹은 보조적인 주문을 시전할 때는 매개체와 시전자의 속성이 상극일 경우 주문이 작동하지 않거나, 오히려 역효과를 불러올 수 있다.
+※ 공격 시 상극인 속성을 가진 무기나 주문은 상대에게 치명적인 대미지를 입힐 수 있다. 하지만 방어 혹은 보조적인 주문을 시전할 때는 매개체와 시전자의 속성이 상극일 경우 주문이 작동하지 않을 수 있다.
+※ 속성 마법을 공격적으로 시전할 때, 상대가 같은 속성이라면 오히려 역효과를 불러올 수 있다.
+※ 빛과 어둠 속성은 물, 불, 땅, 바람 속성에 우위에 있다. 또한 빛과 어둠 속성을 가진 존재는 대부분의 해로운 효과에 면역이 된다.
 HTML :
 <div class="story-content">
   <div class="document-page">
@@ -405,7 +407,9 @@ HTML :
       <p>■ <span class="highlight">땅 ↔ 바람</span>: 견고함과 변칙성의 상성을 형성한다.</p>
       <p>■ <span class="emphasis">무속성</span>: 어떤 마력 반응도 보이지 않는 순수한 상태.</p>
       <div class="important-notice">
-        <p>※ 주의사항: 공격 시 상극인 속성을 가진 무기나 주문은 상대에게 <span class="emphasis">치명적인 대미지</span>를 입힐 수 있다. 하지만 방어 혹은 보조적인 주문을 시전할 때는 매개체와 시전자의 속성이 상극일 경우 주문이 작동하지 않거나, 오히려 역효과를 불러올 수 있다.</p>
+        <p>※ 공격 시 상극인 속성을 가진 무기나 주문은 상대에게 치명적인 대미지를 입힐 수 있다. 하지만 방어 혹은 보조적인 주문을 시전할 때는 매개체와 시전자의 속성이 상극일 경우 주문이 작동하지 않을 수 있다.</p>
+        <p>※ 속성 마법을 공격적으로 시전할 때, 상대가 같은 속성이라면 오히려 역효과를 불러올 수 있다.</p>
+        <p>※ 빛과 어둠 속성은 물, 불, 땅, 바람 속성에 우위에 있다. 또한 빛과 어둠 속성을 가진 존재는 대부분의 해로운 효과에 면역이 된다.</p>
       </div>
     </div>
   </div>
@@ -934,7 +938,7 @@ HTML :
 
 ■ [빛의 검]: "빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 '순수한 빛의 속성'을 지닌 자만이 그 자루를 허락받는다. 자격 없는 자가 감히 손을 대는 순간, 그 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다."
 ■ [어둠의 단검]: "20년 전 '빛의 성전'(내부 작전명: '대정화')의 혼란 속에서 자취를 감춘 비운의 검. 그림자를 실체화한 듯한 검신은 주변의 모든 빛을 빨아들이는 성질이 있다. 왕실 지하 깊숙한 곳의 비밀 보관소로 옮겨졌다는 기록을 끝으로 더 이상 시장에 모습을 드러내지 않고 있다."
-■ [고대인의 검]: "영웅담 속에나 등장하는 전설적인 은색의 보검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 '은빛'을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 '물결 문양'이 이 검의 독보적인 상징이다.
+■ [고대인의 검]: "옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 은빛을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 이 검의 독보적인 상징이다.
 HTML :
 <div class="story-content">
   <div class="document-page">
@@ -942,7 +946,7 @@ HTML :
     <div class="document-body small">
       <p>■ [<span class="highlight">빛의 검</span>]: "빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 <span class="emphasis">'순수한 빛의 속성'</span>을 지닌 자만이 그 자루를 허락받는다. 자격 없는 자가 감히 손을 대는 순간, 그 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다."</p>
       <p>■ [<span class="emphasis">어둠의 단검</span>]: "20년 전 '빛의 성전'(내부 작전명: '대정화')의 혼란 속에서 자취를 감춘 비운의 검. 그림자를 실체화한 듯한 검신은 주변의 모든 빛을 빨아들이는 성질이 있다. 왕실 지하 깊숙한 곳의 <span class="highlight">비밀 보관소</span>로 옮겨졌다는 기록을 끝으로 더 이상 시장에 모습을 드러내지 않고 있다."</p>
-      <p>■ [<span class="highlight">고대인의 검</span>]: "영웅담 속에나 등장하는 전설적인 은색의 보검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 <span class="emphasis">'은빛'</span>을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 <span class="emphasis">'물결 문양'</span>이 이 검의 독보적인 상징이다."</p>
+      <p>■ [<span class="highlight">고대인의 검</span>]: "옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 <span class="emphasis">고대인의 문자</span>들이 이 검의 독보적인 상징이다."</p>
     </div>
   </div>
 </div>
@@ -1141,7 +1145,7 @@ HTML :
 
 [clue_36]
 이름 : 서재#5
-유형 : 물증
+유형 : 관찰
 단계 : 조사 2단계
 소모AP : 3
 정렬순서 : 360
@@ -1153,17 +1157,17 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 말리스, 발로그
-의도 : 마나플레어 와이어가 사용되었다는 증거.
+관련 : 말리스, 발로그, 슬리더
+의도 : 흉기가 현장에서 사라졌으며, 정수리에 깊은 자상이 남았음을 암시.
 내용 :
-엘드리치의 정수리에 수직으로 박혀 있는 검은색 단검이다. 칠흑의 검신 주위로 서늘한 냉기가 감돌고 있으며, 단검의 자루 부분을 살짝 만져보니 손가락 끝에 검은색 재가 조금 묻어난다.
+엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 위에서부터 순식간에 박힌 듯하다.
 HTML :
 <div class="story-content">
   <div class="quote-box">
-    <p>엘드리치의 정수리에 수직으로 박혀 있는 <span class="emphasis">검은색 단검</span>이다. 칠흑의 검신 주위로 서늘한 냉기가 감돌고 있으며, 단검의 자루 부분을 <span class="highlight">살짝 만져보니 손가락 끝에 검은색 재</span>가 조금 묻어난다.</p>
+    <p>엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 위에서부터 순식간에 박힌 듯하다.</p>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An extreme macro close-up focus on a dark, mystical black-bladed dagger resting on a polished mahogany library floor. The blade of the dagger is made of pitch-black, light-absorbing metal, marred with dried, dark crimson stains. The ornate gray hilt is subtly marred by a very slight, faint trace of black powdery ash on its textured surface, as if barely touched. In the blurred background, the heavy base of a bookshelf filled with old volumes and a single fallen parchment are visible, establishing the library setting. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered grain, dark metal, rough gray hilt, old parchment), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the delicate, slight black mark on the gray hilt and the obsidian-like texture of the black blade. No signs of current violence, just the haunting traces on the weapon in the library.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic crime scene in a dark, candlelit study. View from behind a high-backed gothic armchair. An elderly man with long white hair and navy blue robes sits in the chair, slumped forward over a heavy wooden desk. His head is down against the desk surface. A dark, spreading pool of blood is clearly visible on the desk surface around his head, staining the wood. The background shows dark, blurred bookshelves. Detailed 1980s fantasy oil painting style. Rich, thick textures of wood and cloth. Moody chiaroscuro lighting from candles inside the room. No vertical lines, no rays of light, and no artificial shadows. The focus is entirely on the still, slumped figure and the dark pool of blood on the desk.
 장소 : 02_서재
 파일명 : 36_서재_5
 
@@ -1184,11 +1188,11 @@ HTML :
 관련 : 발로그
 의도 : 발로그가 비행해서 올라갔다는 증거.
 내용 :
-서재 천장, 엘드리치가 앉아 있던 의자 바로 위 지점에 매달린 화려한 수정 샹들리에다. 금속 프레임에 수많은 수정 조각들이 정교하게 엮여 있으며, 고정 사슬은 아주 미세하게 좌우로 흔들리고 있다.
+서재 천장, 엘드리치가 앉아 있던 의자 바로 위 지점에 매달린 화려한 수정 샹들리에다. 금속 프레임에 수많은 수정 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.
 HTML :
 <div class="story-content">
   <div class="quote-box">
-    <p>엘드리치가 앉아 있던 의자 바로 위, 서재 천장의 화려한 <span class="highlight">수정 샹들리에</span>다. 고정 사슬이 <span class="emphasis">아주 미세하게 좌우로 흔들리고 있다.</span></p>
+    <p>서재 천장, 엘드리치가 앉아 있던 의자 바로 위 지점에 매달린 화려한 <span class="highlight">수정 샹들리에</span>다. 금속 프레임에 수많은 수정 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.</p>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A medium close-up focused shot of a grand, ornate gothic chandelier that fills most of the frame. The intricate dark wrought iron frame and glittering, faceted crystal pendants are the primary focus, radiating a warm, flickering golden glow from within. The light refracts through the glass, casting sharp, dramatic highlights and deep, rich shadows within the chandelier's structure itself. The background is completely swallowed by deep, velvety shadows, ensuring undivided attention on the intricate craftsmanship and the haunting light of the chandelier. Detailed 1980s fantasy oil painting style. Heavy brushstrokes, rich textures (dark iron, sparkling crystal), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the interplay of golden light and dark metal. No background elements, just the chandelier itself glowing in the darkness.
@@ -1210,26 +1214,34 @@ HTML :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 엘드리치
-의도 : 엘드리치가 바스타즈들을 뒷조사하고 있었다는 증거. 실제로는 엘드리치가 분쟁을 일으키기 위해 남긴 장치.
+의도 : 자애로운 현자의 문체로 위장하여 각 캐릭터의 약점과 협박 정황을 은유적으로 암시함. 타 단서들과 조합하여 동기를 유추하게 만듦.
 내용 :
-오랜 기간에 걸쳐 작성된 것으로 보이는 엘드리치의 개인 수첩이다. 양피지의 빛바랜 정도와 필체의 미세한 변화가 긴 시간의 흐름을 짐작하게 한다.
+책상 위에는 엘드리치의 것으로 보이는 낡은 가죽 수첩이 펼쳐져 있다.
 
-"...고원 부족의 폐허에서 거대한 짐승의 궤적을 보았다. 단순한 포식이라기엔 지나치게 파괴적이며 집착적이다. 연합이라는 톱니바퀴는 아마도 가장 거친 부분부터 마모될 것이다."
-"...늪지대의 안개는 생각보다 많은 비밀을 품고 있었다. 그자가 그림자 뒤에 숨긴 예리한 수단이 군주의 대의를 위한 것인지, 아니면 묻어둔 복수심의 발로인지 지켜볼 필요가 있다."
-"...변방 행성들을 순회하며 확인한 특정인의 행적은 정교하게 조작된 허구에 가깝다. 위장된 신분과 기묘하게 얽힌 동선... 그들의 심연은 생각보다 깊고 탁하다."
-"불협화음은 이미 내재되어 있다. 이 균열이 언제쯤 명확한 파열음으로 드러날지, 관찰자로서 나는 그 과정을 묵묵히 기록할 뿐이다."
+"달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며..."
+
+1. 노란 돌 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.
+2. 달궈진 쇠를 두드려 날개를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.
+3. 자신이 꺼뜨렸다 믿던 저 밝은 해가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.
+4. 홀로 벗을 삼키던 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.
+5. 칼끝이 머무는 곳은 여전히 저 멀리 하얀 성의 빛을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>엘드리치의 관찰 기록</h4>
+    <h4 class="no-margin">어둠 속에서 길을 찾는 이들에게</h4>
+    <div class="divider-gold"></div>
     <div class="document-body small">
-      <p>"...고원 부족의 폐허에서 <span class="emphasis">거대한 짐승</span>의 궤적을 보았다. 단순한 포식이라기엔 지나치게 파괴적이며 집착적이다. 연합이라는 톱니바퀴는 아마도 가장 거친 부분부터 마모될 것이다."</p>
-      <p>"...늪지대의 안개는 생각보다 많은 비밀을 품고 있었다. 그자가 그림자 뒤에 숨긴 예리한 수단이 군주의 대의를 위한 것인지, 아니면 묻어둔 <span class="highlight">복수심의 발로</span>인지 지켜볼 필요가 있다."</p>
-      <p>"...변방 행성들을 순회하며 확인한 특정인의 행적은 정교하게 조작된 허구에 가깝다. <span class="emphasis">위장된 신분과 기묘하게 얽힌 동선</span>... 그들의 심연은 생각보다 깊고 탁하다. 불협화음은 이미 내재되어 있다. 이 균열이 언제쯤 명확한 파열음으로 드러날지, <span class="emphasis">관찰자로서 나는 그 과정을 묵묵히 기록할 뿐</span>이다."</p>
+      <p class="script-direction">책상 위에는 엘드리치의 것으로 보이는 낡은 가죽 수첩이 펼쳐져 있다.</p>
+      <p>"달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며..."</p>
+      <p>1. <span class="highlight">노란 돌</span> 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.</p>
+      <p>2. 달궈진 쇠를 두드려 <span class="emphasis">날개</span>를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.</p>
+      <p>3. 자신이 꺼뜨렸다 믿던 저 <span class="emphasis">밝은 해</span>가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.</p>
+      <p>4. 홀로 <span class="highlight">벗을 삼키던</span> 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.</p>
+      <p>5. 칼끝이 머무는 곳은 여전히 저 멀리 <span class="emphasis">하얀 성의 빛</span>을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.</p>
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of pages in an old, leather-bound notebook open on a library table. Shadows fall across the textured paper. It is filled with dense, hurried, illegible script in a modern Nordic style (Norwegian or Finnish). Shallow depth of field, focus on the ink texture. Background is dark and blurred library shelves. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small, thin, aged dark leather-bound personal notebook opened to a single, flat page. The page features dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No illustrations. Extremely shallow depth of field, background is dark and completely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, ancient and mysterious atmosphere.
 장소 : 02_서재
 파일명 : 38_서재_7
 
@@ -1382,7 +1394,7 @@ HTML :
 대상: 기사 류크
 사유: '빛의 성전'(내부 작전명: '대정화') 완수 및 변방 행성 평정.
 내역: 제2외곽 '푸른빛 행성' 자치권 하사 및 행성 총독 임명.
-비고: 대상은 부임 직후 실종, 통치 공백 장기화에 의거하여 해당 직위를 '궐위' 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함.
+비고: 대상은 부임 직후 실종, 통치 공백 장기화에 의거하여 해당 직위를 '공석' 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함.
 HTML :
 <div class="story-content">
   <div class="document-page">
@@ -1400,13 +1412,44 @@ HTML :
 장소 : 06_문서고
 파일명 : 43_문서고_8
 
-### 6) 지하창고 (6, 6-1)
+
 [clue_44]
+이름 : 문서고#9
+유형 : 물증
+단계 : 조사 2단계
+소모AP : 2
+정렬순서 : 440
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 슬리더, 발로그
+의도 : 살해 도구를 되돌려 둠.
+내용 :
+문서고 선반 구석에 놓여 있던 새까만 단검이다. 칼날에는 검붉은 혈흔이 묻어 있다. 자루 부분을 만져보니 검은 가루가 묻어 나온다.
+HTML :
+<div class="story-content">
+  <div class="quote-box">
+    <p>문서고 선반 구석에 놓여 있던 <span class="highlight">새까만 단검</span>이다. 칼날에는 <span class="emphasis">검붉은 혈흔</span>이 묻어 있다. 자루 부분을 만져보니 <span class="highlight">검은 가루</span>가 묻어 나온다.</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a dark, obsidian-like dagger tucked away in the corner of a dusty archive shelf, partially hidden between ancient, leather-bound books. Flickering candlelight catches the lethal, sharp edge of the blade, revealing a dark crimson bloodstain. The background shows the blurred textures of old parchment and wood. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+장소 : 06_문서고
+파일명 : 44_문서고_9
+
+
+
+### 6) 지하창고 (6, 6-1)
+[clue_45]
 이름 : 지하창고#4
 유형 : 장치
 단계 : 조사 2단계
 소모AP : 2
-정렬순서 : 440
+정렬순서 : 450
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1427,14 +1470,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain exactly the same composition, perspective, and heavy iron texture as the provided reference image (clue_26). An extreme macro close-up focus on the same magic lock from the previous scene, but now a blindingly bright, holy silver and pure white light emanates from its central wavy geometric engravings. The divine radiance pulsates and spreads across the riveted iron-bound door, illuminating the cold metal with intense silver brilliance. No blue light remains; only the pure, sanctified silver glow that resonates with the holy sword. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting. Focus on the transition where the silver light meets the dark, weathered iron of the door.
 장소 : 07_지하창고
-파일명 : 44_지하창고_4
+파일명 : 45_지하창고_4
 
-[clue_45]
+[clue_46]
 이름 : 지하창고#5
 유형 : 증언
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 450
+정렬순서 : 460
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1456,14 +1499,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic shot showing the dark, unidentifiable silhouette of a mercenary warrior seen from behind, standing in a cold and damp stone hallway of the underground warehouse. The mercenary wears a tattered cloak and primitive leather and iron armor. Flickering torchlight from an unseen source on the wall casts soft, natural shadows across the wet stone tiles and the rough stone wall. The atmosphere is quiet and tense. Extremely shallow depth of field, background is dark and indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stones, worn leather, metal highlights), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the steady, silent presence of the mercenary in the darkness. No face visible, just the silhouette.
 장소 : 07_지하창고
-파일명 : 45_지하창고_5
+파일명 : 46_지하창고_5
 
-[clue_46]
+[clue_47]
 이름 : 지하창고#6
 유형 : 관찰
 단계 : 조사 2단계
 소모AP : 2
-정렬순서 : 460
+정렬순서 : 470
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1484,14 +1527,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an empty, velvet-lined wooden box resting on a dark stone floor. Shadows are cast inside and beneath the box. Faint dust motes in the air catch the dim light. Shallow depth of field, background is a dark stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
-파일명 : 46_지하창고_6
+파일명 : 47_지하창고_6
 
-[clue_47]
+[clue_48]
 이름 : 지하창고#7
 유형 : 관찰
 단계 : 조사 2단계
 소모AP : 2
-정렬순서 : 470
+정렬순서 : 480
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1512,14 +1555,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain the same perspective and floor-level view as the provided reference image (25_지하창고_1.jpg). An extreme macro close-up focus on a heavy, iron-grated drainage cover set into the dark stone floorboards in a corner of the underground warehouse. Only a small, subtle amount of moisture is visible, with tiny glistening water droplets on the metal grate and a faint dampness on the surrounding wet stone tiles. The rest of the floor is dry, creating a clear contrast with the localized wetness near the drain. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered iron, cold damp stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the delicate, slight wetness as a haunting clue. No background elements, just the floor and the grate.
 장소 : 07_지하창고
-파일명 : 47_지하창고_7
+파일명 : 48_지하창고_7
 
-[clue_48]
+[clue_49]
 이름 : 지하창고#8
 유형 : 물증
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 480
+정렬순서 : 490
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1545,14 +1588,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a long spear with a translucent emerald blade. Faint swirling air currents wrap around the sharp tip. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
-파일명 : 48_지하창고_8
+파일명 : 49_지하창고_8
 
-[clue_49]
+[clue_50]
 이름 : 지하창고#9
 유형 : 물증
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 490
+정렬순서 : 500
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1578,14 +1621,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a massive stone-headed battle axe. A golden-brown gemstone embedded in the head emits a faint, earthy glow. Shallow depth of field, background is a cold stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
-파일명 : 49_지하창고_9
+파일명 : 50_지하창고_9
 
-[clue_50]
+[clue_51]
 이름 : 지하창고#10
 유형 : 물증
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 500
+정렬순서 : 510
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1611,14 +1654,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a beautiful, translucent blue sword. Rippling water patterns appear within the glass-like blade. Extremely shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
-파일명 : 50_지하창고_10
+파일명 : 51_지하창고_10
 
-[clue_51]
+[clue_52]
 이름 : 지하창고#11
 유형 : 물증
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 510
+정렬순서 : 520
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1644,15 +1687,15 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a magnificent holy sword resting on a cold white marble slab. Blinding white light emits from its blade, casting strong shadows on the marble. The golden hilt is intricately carved with royal emblems. Shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
-파일명 : 51_지하창고_11
+파일명 : 52_지하창고_11
 
 ### 7) 연회장
-[clue_52]
+[clue_53]
 이름 : 연회장#2
 유형 : 증언
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 520
+정렬순서 : 530
 중요도 : 낮음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1674,15 +1717,15 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a supply unit member (laborer) standing in a dimly lit banquet hall. The figure wears common laborer's clothes with rolled-up sleeves and a heavy leather vest, emphasizing a rugged, working-class silhouette—no hoods, no robes. He is positioned naturally near the corner of a long, polished banquet table, with a faint warm glow from a distant chandelier illuminating the edge of the furniture and the textured stone floor. The grand banquet hall setting is suggested by the blurred high-backed chairs and the massive scale of the table in the background. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered grain, worn leather, rough fabric, polished wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the quiet, steady presence of the worker within the hall. No face visible, just the back of the figure's head and shoulders.
 장소 : 05_연회장
-파일명 : 52_연회장_2
+파일명 : 53_연회장_2
 
 ### 8) 무기고
-[clue_53]
+[clue_54]
 이름 : 무기고#3
 유형 : 물증
 단계 : 조사 2단계
 소모AP : 3
-정렬순서 : 530
+정렬순서 : 540
 중요도 : 최고
 핵심 단서 여부 : Y
 교환 가능 여부 : Y
@@ -1703,15 +1746,15 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a violently torn and mangled steel breastplate fragment lying on a dark, cold stone floor. One large section and a jagged corner of the armor are completely ripped away, leaving a violently twisted, jagged, and mangled metallic edge. The broken steel is crumpled and warped with immense physical force, showing raw, unrefined destruction. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted dark iron, sharp jagged steel, rough weathered stone), heavy brushstrokes, dramatic chiaroscuro lighting, heavy atmosphere. Focus on the brutal, irregular jagged break of the mangled metal fragment. No symbols, no patterns, just the raw destruction of the steel.
 장소 : 04_무기고
-파일명 : 53_무기고_3
+파일명 : 54_무기고_3
 
 ### 9) 마법탑
-[clue_54]
+[clue_55]
 이름 : 마법탑#1
 유형 : 관찰
 단계 : 조사 2단계
 소모AP : 2
-정렬순서 : 540
+정렬순서 : 550
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1732,14 +1775,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a fallen sorcerer's staff and burnt jewelry lying on a scorched, cracked stone floor. Tendrils of faint smoke rise from the staff. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 08_마법탑
-파일명 : 54_마법탑_1
+파일명 : 55_마법탑_1
 
-[clue_55]
+[clue_56]
 이름 : 마법탑#2
 유형 : 증언
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 550
+정렬순서 : 560
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1761,14 +1804,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured sorcerer (prisoner) seen from behind, sitting motionless on a heavy stone chair in a high-vaulted chamber of the Mage Tower (based on ref 11). The Mage Tower setting is visible in the background with grand arches and cold, mystical stone architecture with bluish magic glow in the distance. The prisoner, wearing tattered dark robes and a hood, sits with his head bowed and arms slightly positioned behind, showing a resigned and restrained state. Faint blue magical light or cold candlelight illuminates the vast, silent, and somber chamber. Extremely shallow depth of field, focused on the prisoner's back. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, tattered fabrics, old wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the solitary, defeated silhouette of the wizard as he provides his testimony. No face visible, just the back of the figure's head and shoulders.
 장소 : 08_마법탑
-파일명 : 55_마법탑_2
+파일명 : 56_마법탑_2
 
-[clue_56]
+[clue_57]
 이름 : 연구실#5
 유형 : 정보
 단계 : 조사 2단계
 소모AP : 2
-정렬순서 : 560
+정렬순서 : 570
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1793,15 +1836,15 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a detailed, complex geometric diagram drawn in dark blue-violet ink on a yellowed, weathered leather parchment (vellum). At the center is a massive multi-layered circular mandala-like pattern, with thousands of fine, swirling indigo-colored lines radiating outwards. Tiny, barely legible ancient script symbols are inscribed at every intersection (nodal point) of the lines. Around the periphery, empty circular slots are marked with cryptic symbols, each connected to the central circle by significantly thicker, bold indigo lines that dominate the visual hierarchy. Intense focus on the rich ink texture and the rough, aged skin surface of the parchment. Soft, dramatic chiaroscuro lighting, deep shadows under the edges of the leather. Detailed 1980s fantasy oil painting style. Warm, sepia-toned paper against a dark, blurred laboratory background.
 장소 : 03_연구실
-파일명 : 56_연구실_5
+파일명 : 57_연구실_5
 
 ### 10) 외곽 망루
-[clue_57]
+[clue_58]
 이름 : 외곽 망루#1
 유형 : 증언
 단계 : 조사 2단계
 소모AP : 2
-정렬순서 : 570
+정렬순서 : 580
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1823,14 +1866,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured bastion guard (prisoner) seen from behind, standing on the edge of a dark, cold stone rampart at night. Thick, dark fog fills the background behind the guard's silhouette. The guard wears tattered leather and rusted iron armor pieces, with a simple worn cloak hanging from his shoulders. Faint, cold moonlight or warm light from a distant torch highlights the rough texture of the weathered stone battlements and the metal fragments on his back. The atmosphere is quiet, tense, and heavy. Extremely shallow depth of field, focused on the steady, defeated silhouette of the guard as he provides his testimony. No face visible, just the back of the figure's head and shoulders. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted steel, холодный камень, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
 장소 : 10_외곽_망루
-파일명 : 57_외곽_망루_1
+파일명 : 58_외곽_망루_1
 
-[clue_58]
+[clue_59]
 이름 : 외곽 망루#2
 유형 : 증언
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 580
+정렬순서 : 590
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1852,15 +1895,15 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a weathered mercenary warrior seen from behind, standing high on the dark stone outer ramparts (as seen in 10_외곽_망루.png). The mercenary is captured in the middle of cleaning a large blade, head slightly turned as if speaking to someone off-camera. In the background, the cold night fog creeps over the stone battlements and crenellations, with a few distant stars visible in the dark, heavy sky. A nearby flickering torch casts long, dancing shadows and provides a warm glow that catch the texture of his worn cloak and the metallic sheen of the weapon in his hands. Shallow depth of field, focused on the steady, silent presence of the mercenary as he provides his testimony. No face visible, just the silhouette in the darkness. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, rusted iron, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
 장소 : 10_외곽_망루
-파일명 : 58_외곽_망루_2
+파일명 : 59_외곽_망루_2
 
 ### 11) 중앙 복도
-[clue_59]
+[clue_60]
 이름 : 중앙 복도#1
 유형 : 증언
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 590
+정렬순서 : 600
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1882,14 +1925,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an elite assassin member (scout) seen from behind, standing in the long, dimly lit central corridor of the fortress (as seen in 12_중앙_복도.png). The assassin is clad in dark, non-reflective leather armor and a deep hood, his silhouette blending into the heavy shadows cast by the high arcs and stone pillars of the corridor. He is captured in a still, alert posture as if delivering a confidential report. In the background, a single flickering wall torch casts a narrow, dancing pool of warm light, highlighting the rough texture of the ancient stone floor and the cold, dark atmosphere of the hallway. Extremely shallow depth of field, focused on the steady, mysterious presence of the scout. No face visible, just the dark silhouette in the shadows. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 11_중앙_복도
-파일명 : 59_중앙_복도_1
+파일명 : 60_중앙_복도_1
 
-[clue_60]
+[clue_61]
 이름 : 중앙 복도#2
 유형 : 증언
 단계 : 조사 2단계
 소모AP : 1
-정렬순서 : 600
+정렬순서 : 610
 중요도 : 낮음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1911,54 +1954,9 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an old, hunched-over cleaner seen from behind, standing in the middle of a grand, empty central corridor of the fortress (based strictly and exclusively on the background seen in 12_중앙_복도.png). No doors, no drainage pipes, and no basement elements are present. The background consists only of the high, repetitive stone arches, massive pillars, and the long, echoing stone floor of the central hallway at night. The old man is clad in tattered brown work clothes, holding a primitive straw broom in one hand, appearing small against the overwhelming scale of the empty corridor. Deep, heavy shadows stretch between the pillars, with a faint, cold moonlight or distant torchlight illuminating the textured stone surfaces. Extremely shallow depth of field, focused on the weary silhouette of the old man. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, somber atmosphere. No faces visible, just the lone figure in the dark, silent hallway.
 장소 : 11_중앙_복도
-파일명 : 60_중앙_복도_2
+파일명 : 61_중앙_복도_2
 
-[clue_61]
-이름 : 엘드리치의 수첩
-유형 : 물증
-단계 : 조사 2단계
-소모AP : 3
-정렬순서 : 610
-중요도 : 최고
-핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 공통
-의도 : 자애로운 현자의 문체로 위장하여 각 캐릭터의 약점과 협박 정황을 은유적으로 암시함. 타 단서들과 조합하여 동기를 유추하게 만듦.
-내용 :
-책상 위에는 엘드리치의 것으로 보이는 낡은 가죽 수첩이 펼쳐져 있다.
 
-"달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며..."
-
-1. 노란 돌 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.
-2. 달궈진 쇠를 두드려 날개를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.
-3. 자신이 꺼뜨렸다 믿던 저 밝은 해가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.
-4. 홀로 벗을 삼키던 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.
-5. 칼끝이 머무는 곳은 여전히 저 멀리 하얀 성의 빛을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.
-HTML :
-<div class="story-content">
-  <div class="document-page">
-    <h4 class="no-margin">어둠 속에서 길을 찾는 이들에게</h4>
-    <div class="divider-gold"></div>
-    <div class="document-body small">
-      <p class="script-direction">책상 위에는 엘드리치의 것으로 보이는 낡은 가죽 수첩이 펼쳐져 있다.</p>
-      <p>"달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며..."</p>
-      <p>1. <span class="highlight">노란 돌</span> 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.</p>
-      <p>2. 달궈진 쇠를 두드려 <span class="emphasis">날개</span>를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.</p>
-      <p>3. 자신이 꺼뜨렸다 믿던 저 <span class="emphasis">밝은 해</span>가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.</p>
-      <p>4. 홀로 <span class="highlight">벗을 삼키던</span> 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.</p>
-      <p>5. 칼끝이 머무는 곳은 여전히 저 멀리 <span class="emphasis">하얀 성의 빛</span>을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.</p>
-    </div>
-  </div>
-</div>
-이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small, thin, aged dark leather-bound personal notebook opened to a single, flat page. The page features dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No illustrations. Extremely shallow depth of field, background is dark and completely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, ancient and mysterious atmosphere.
-
-장소 : 02_서재
-파일명 : 61_서재_엘드리치의_수첩
 
 [clue_62]
 이름 : 바스타즈 강령
