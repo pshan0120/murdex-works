@@ -28,7 +28,7 @@
 /* 제목 스타일 - 서사적 느낌 강조 */
 .story-content .section-title {
     font-family: "Cinzel", "Nanum Myeongjo", serif;
-    font-size: 1.4em;
+    font-size: 1.2em;
     font-weight: 900;
     color: var(--fantasy-gold);
     margin-top: 2.5em;
@@ -43,7 +43,7 @@
 /* 소제목 스타일 */
 .story-content .subsection-title {
     font-family: "Nanum Myeongjo", serif;
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 700;
     color: #ff4500;
     /* 오렌지 레드 느낌의 강렬한 소제목 */
@@ -334,11 +334,9 @@
     /* 짙은 갈색 잉크 */
     max-width: 650px;
     margin: 20px auto;
-    padding: 30px 40px;
+    padding: 20px;
     border: 1px solid #d2b48c;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.7);
-    background-image: url('https://www.transparenttextures.com/patterns/dark-matter.png');
-    /* 질감 추가 */
 }
 
 .story-content .document-page h2,
