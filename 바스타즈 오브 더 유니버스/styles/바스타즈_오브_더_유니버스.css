@@ -341,9 +341,21 @@
     /* 질감 추가 */
 }
 
-.story-content .document-page h2 {
+.story-content .document-page h2,
+.story-content .document-page h3,
+.story-content .document-page h4 {
     color: #4a3728;
     border-bottom: 2px solid #4a3728;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
+
+.story-content .document-page h3,
+.story-content .document-page h4 {
+    color: #4a3728;
+    border-bottom: 2px solid #4a3728;
+    font-weight: bold;
     text-align: center;
     width: 100%;
 }
@@ -391,7 +403,8 @@
 }
 
 .document-body {
-    margin-top: 1.2em;
+    margin-top: 0;
+    /* margin-top: 1.2em; */
 }
 
 .document-body.small {
@@ -468,7 +481,7 @@
 
 .story-content .important-notice p {
     margin-bottom: 0;
-    color: #ffbaba;
+    color: #af0404;
     font-size: 0.9em;
 }
 
@@ -519,6 +532,7 @@
 /* 스크립트 뷰어 컨테이너 (추리 단계 전용) */
 .story-content .script-container {
     margin-top: 15px;
+    margin-bottom: 15px;
     background: #111111;
     padding: 20px;
     border-radius: 6px;

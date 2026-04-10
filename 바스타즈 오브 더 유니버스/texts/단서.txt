@@ -1,4 +1,4 @@
-﻿# 바스타즈 오브 더 유니버스 - 상세 단서 목록 (Detailed Clues)
+# 바스타즈 오브 더 유니버스 - 상세 단서 목록 (Detailed Clues)
 
 이 문서는 게임 내의 모든 조사 가능한 단서와 캐릭터별 목표를 정리한 것입니다. 타임라인에 명시된 내용을 기반으로 구성되었습니다.
 
@@ -7,7 +7,7 @@
 ## [1] 역할 보유 단서 (Personal Clues)
 
 [clue_01]
-이름 : 말리스 - 협박 쪽지
+이름 : 협박 쪽지 - 말리스
 유형 : 물증
 단계 : 시작 단계
 소모AP : 0
@@ -23,12 +23,14 @@
 관련 : 말리스
 의도 : 딸의 영혼이 갇힌 봉인석을 찾아냈으며, 자신의 수족이 되지 않으면 그걸 파괴하겠다는 내용. 말리스가 딸을 구하기 위해 바스타즈에 들어왔다는 것을 알게 되면, 말리스를 의심할 수 있음.
 내용 :
-&quot;말리스, 그대 딸아이의 가냘픈 영혼은 지금 내 손안의 봉인석 속에서 아주 작게 떨고 있더군. 이 아이를 영원한 침묵 속에 가둘지, 다시 품으로 돌려보낼지는 오직 그대의 정성에 달렸네. 오늘 밤부터 내 침소에서 개인적인 시중을 들어주게나. 잠자리를 살피는 사소한 일부터... 내가 요구하는 그 모든 은밀한 수발까지 말이야. 그대의 헌신이 부족하다면, 이 돌은 내 손안에서 무참히 바스러질 것이네.&quot;
+말리스, 그대 딸아이의 가냘픈 영혼은 지금 내 손안의 봉인석 속에서 아주 작게 떨고 있더군. 이 아이를 영원한 침묵 속에 가둘지, 다시 품으로 돌려보낼지는 오직 그대의 정성에 달렸네. 오늘 밤부터 내 침소에서 개인적인 시중을 들어주게나. 잠자리를 살피는 사소한 일부터... 내가 요구하는 그 모든 은밀한 수발까지 말이야. 그대의 헌신이 부족하다면, 이 돌은 내 손안에서 무참히 바스러질 것이네.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&quot;말리스, 그대 딸아이의 가냘픈 영혼은 지금 내 손안의 <span class="emphasis">봉인석</span> 속에서 아주 작게 떨고 있더군. 이 아이를 영원한 침묵 속에 가둘지, 다시 품으로 돌려보낼지는 오직 그대의 정성에 달렸네.</p>
-    <p>오늘 밤부터 내 침소에서 개인적인 시중을 들어주게나. 잠자리를 살피는 사소한 일부터... 내가 요구하는 그 모든 <span class="highlight">은밀한 수발</span>까지 말이야. 그대의 헌신이 부족하다면, 이 돌은 내 손안에서 무참히 바스러질 것이네.&quot;</p>
+  <div class="document-page">
+    <div class="document-body small">
+      <span class="character-malice">말리스</span>, 그대 딸아이의 가냘픈 영혼은 지금 내 손안의 <span class="emphasis">봉인석</span> 속에서 아주 작게 떨고 있더군. 이 아이를 영원한 침묵 속에 가둘지, 다시 품으로 돌려보낼지는 오직 그대의 정성에 달렸네.
+      오늘 밤부터 내 침소에서 개인적인 시중을 들어주게나. 잠자리를 살피는 사소한 일부터... 내가 요구하는 그 모든 <span class="highlight">은밀한 수발</span>까지 말이야. 그대의 헌신이 부족하다면, 이 돌은 내 손안에서 무참히 바스러질 것이네.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text fills the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -36,7 +38,7 @@ HTML :
 파일명 : 01_말리스_협박_쪽지
 
 [clue_02]
-이름 : 발로그 - 협박 쪽지
+이름 : 협박 쪽지 - 발로그
 유형 : 물증
 단계 : 시작 단계
 소모AP : 0
@@ -52,12 +54,14 @@ HTML :
 관련 : 발로그
 의도 : 전쟁이 끝났지만 계약은 해지하지 않겠다고 번복. 
 내용 :
-&quot;발로그, 전쟁이 끝났다고 해서 그대 목에 걸린 사슬이 절로 풀릴 것이라 믿었나? 그대와 맺은 계약서의 여백은 아직 내가 채워 넣을 구속으로 가득하다네. 자유라는 달콤한 환상에서 깨어나게나. 그대는 영원히 나의 비천한 하수인으로 남아야 할 운명이니. 내 변덕이 그대의 목숨을 거두기 전에, 그 비상한 재주를 오직 나만을 위해 공손히 바치도록 하게.&quot;
+발로그, 전쟁이 끝났다고 해서 그대 목에 걸린 사슬이 절로 풀릴 것이라 믿었나? 그대와 맺은 계약서의 여백은 아직 내가 채워 넣을 구속으로 가득하다네. 자유라는 달콤한 환상에서 깨어나게나. 그대는 영원히 나의 비천한 하수인으로 남아야 할 운명이니. 내 변덕이 그대의 목숨을 거두기 전에, 그 비상한 재주를 오직 나만을 위해 공손히 바치도록 하게.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&quot;발로그, 전쟁이 끝났다고 해서 그대 목에 걸린 <span class="emphasis">사슬</span>이 절로 풀릴 것이라 믿었나? 그대와 맺은 계약서의 여백은 아직 내가 채워 넣을 <span class="emphasis">구속</span>으로 가득하다네.</p>
-    <p>자유라는 달콤한 환상에서 깨어나게나. 그대는 영원히 나의 <span class="emphasis">비천한 하수인</span>으로 남아야 할 운명이니. 내 변덕이 그대의 목숨을 거두기 전에, 그 비상한 재주를 오직 나만을 위해 공손히 바치도록 하게.&quot;</p>
+  <div class="document-page">
+    <div class="document-body small">
+      <span class="character-balrog">발로그</span>, 전쟁이 끝났다고 해서 그대 목에 걸린 <span class="emphasis">사슬</span>이 절로 풀릴 것이라 믿었나? 그대와 맺은 계약서의 여백은 아직 내가 채워 넣을 <span class="emphasis">구속</span>으로 가득하다네.
+      자유라는 달콤한 환상에서 깨어나게나. 그대는 영원히 나의 <span class="emphasis">비천한 하수인</span>으로 남아야 할 운명이니. 내 변덕이 그대의 목숨을 거두기 전에, 그 비상한 재주를 오직 나만을 위해 공손히 바치도록 하게.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text fills the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -65,7 +69,7 @@ HTML :
 파일명 : 02_발로그_협박_쪽지
 
 [clue_03]
-이름 : 슬리더 - 협박 쪽지
+이름 : 협박 쪽지 - 슬리더
 유형 : 물증
 단계 : 시작 단계
 소모AP : 0
@@ -81,12 +85,14 @@ HTML :
 관련 : 슬리더
 의도 : 슬리더가 과거에 암살하려고 했던 성기사 류크가 바로 현재의 수장 스컬크러셔임을 폭로하겠다는 협박
 내용 :
-&quot;슬리더, 과거 그대가 완벽히 마무리했다고 믿었던 그 은밀한 의뢰 말일세... 그대의 칼날에 스러졌다고 믿는 &apos;그 자&apos;가 정말로 영원한 죽음을 맞이했다고 생각하나? 매일 아침 그대의 위에서 군림하며 등을 보이고 선 그 거대한 사내의 투기에서, 일말의 낯익은 빛을 느끼지 못했냔 말일세. 이 흥미로운 진실이 그의 귀에 들어간다면 과연 어떤 일이 벌어질지 상상만 해도 즐거워지는군. 그대의 그 날카로운 비밀을 가슴 깊이 묻어두고 싶다면, 이제부터는 나의 명령을 가장 우선하여 받들어주게나.&quot;
+슬리더, 과거 그대가 완벽히 마무리했다고 믿었던 그 은밀한 의뢰 말일세... 그대의 칼날에 스러졌다고 믿는 &apos;그 자&apos;가 정말로 영원한 죽음을 맞이했다고 생각하나? 매일 아침 그대의 위에서 군림하며 등을 보이고 선 그 거대한 사내의 투기에서, 일말의 낯익은 빛을 느끼지 못했냔 말일세. 이 흥미로운 진실이 그의 귀에 들어간다면 과연 어떤 일이 벌어질지 상상만 해도 즐거워지는군. 그대의 그 날카로운 비밀을 가슴 깊이 묻어두고 싶다면, 이제부터는 나의 명령을 가장 우선하여 받들어주게나.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&quot;슬리더, 과거 그대가 <span class="emphasis">완벽히 마무리</span>했다고 믿었던 그 <span class="emphasis">은밀한 의뢰</span> 말일세... 그대의 칼날에 스러졌다고 믿는 <span class="highlight">&apos;그 자&apos;</span>가 정말로 영원한 죽음을 맞이했다고 생각하나?</p>
-    <p>매일 아침 그대의 위에서 군림하며 등을 보이고 선 그 <span class="character-skull">거대한 사내</span>의 투기에서, 일말의 낯익은 빛을 느끼지 못했냔 말일세. 이 흥미로운 진실이 그의 귀에 들어간다면 과연 어떤 일이 벌어질지 상상만 해도 즐거워지는군. 그대의 그 <span class="emphasis">날카로운 비밀</span>을 가슴 깊이 묻어두고 싶다면, 이제부터는 나의 명령을 가장 우선하여 받들어주게나.&quot;</p>
+  <div class="document-page">
+    <div class="document-body small">
+      <span class="character-slyther">슬리더</span>, 과거 그대가 <span class="emphasis">완벽히 마무리</span>했다고 믿었던 그 <span class="emphasis">은밀한 의뢰</span> 말일세... 그대의 칼날에 스러졌다고 믿는 <span class="highlight">&apos;그 자&apos;</span>가 정말로 영원한 죽음을 맞이했다고 생각하나?
+      매일 아침 그대의 위에서 군림하며 등을 보이고 선 그 <span class="character-skull">거대한 사내</span>의 투기에서, 일말의 낯익은 빛을 느끼지 못했냔 말일세. 이 흥미로운 진실이 그의 귀에 들어간다면 과연 어떤 일이 벌어질지 상상만 해도 즐거워지는군. 그대의 그 <span class="emphasis">날카로운 비밀</span>을 가슴 깊이 묻어두고 싶다면, 이제부터는 나의 명령을 가장 우선하여 받들어주게나.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text fills the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -94,7 +100,7 @@ HTML :
 파일명 : 03_슬리더_협박_쪽지
 
 [clue_04]
-이름 : 고어후프 - 협박 쪽지
+이름 : 협박 쪽지 - 고어후프
 유형 : 물증
 단계 : 시작 단계
 소모AP : 0
@@ -110,12 +116,14 @@ HTML :
 관련 : 고어후프
 의도 : 고어후프의 이빨 자국이 있는 갑옷 파편에 대해 언급.
 내용 :
-&quot;고어후프, 그대의 그 갈구하는 눈빛에 담긴 &apos;짐승의 허기&apos;는 차마 숨길 수 없는 모양이군. 우연히 발견한 갑옷 파편에 남은 그 기괴한 이빨 자국들을 보며 나는 그대의 비밀스러운 만찬을 떠올렸네. 이 추악한 진실이 동료들 사이에 퍼진다면, 그대의 그 비대한 몸뚱아리가 설 곳이 있을까? 내 입을 막고 싶다면, 앞으로는 내가 던져주는 먹잇감만 받아먹는 충견이 되어줘야겠어.&quot;
+고어후프, 그대의 그 갈구하는 눈빛에 담긴 &apos;짐승의 허기&apos;는 차마 숨길 수 없는 모양이군. 우연히 발견한 갑옷 파편에 남은 그 기괴한 이빨 자국들을 보며 나는 그대의 비밀스러운 만찬을 떠올렸네. 이 추악한 진실이 동료들 사이에 퍼진다면, 그대의 그 비대한 몸뚱아리가 설 곳이 있을까? 내 입을 막고 싶다면, 앞으로는 내가 던져주는 먹잇감만 받아먹는 충견이 되어줘야겠어.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&quot;고어후프, 그대의 그 갈구하는 눈빛에 담긴 <span class="emphasis">&apos;짐승의 허기&apos;</span>는 차마 숨길 수 없는 모양이군. 우연히 발견한 갑옷 파편에 남은 그 <span class="highlight">기괴한 이빨 자국</span>들을 보며 나는 그대의 비밀스러운 만찬을 떠올렸네.</p>
-    <p>이 추악한 진실이 동료들 사이에 퍼진다면, 그대의 그 비대한 몸뚱아리가 설 곳이 있을까? 내 입을 막고 싶다면, 앞으로는 내가 던져주는 먹잇감만 받아먹는 충견이 되어줘야겠어.&quot;</p>
+  <div class="document-page">
+    <div class="document-body small">
+      <span class="character-gorehoof">고어후프</span>, 그대의 그 갈구하는 눈빛에 담긴 <span class="emphasis">&apos;짐승의 허기&apos;</span>는 차마 숨길 수 없는 모양이군. 우연히 발견한 갑옷 파편에 남은 그 <span class="highlight">기괴한 이빨 자국</span>들을 보며 나는 그대의 비밀스러운 만찬을 떠올렸네.
+      이 추악한 진실이 동료들 사이에 퍼진다면, 그대의 그 비대한 몸뚱아리가 설 곳이 있을까? 내 입을 막고 싶다면, 앞으로는 내가 던져주는 먹잇감만 받아먹는 충견이 되어줘야겠어.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text fills the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -123,7 +131,7 @@ HTML :
 파일명 : 04_고어후프_협박_쪽지
 
 [clue_05]
-이름 : 발트라 - 협박 쪽지
+이름 : 협박 쪽지 - 발트라
 유형 : 물증
 단계 : 시작 단계
 소모AP : 0
@@ -139,12 +147,14 @@ HTML :
 관련 : 발트라
 의도 : 10년 전쟁 전반, 마스터즈의 스파이로서 바스타즈의 정보를 유출했던 기록과 잠입 지령서에 대한 협박
 내용 :
-&quot;발트라, 용병대장이라는 허울좋은 가죽 아래 숨겨진 그대의 진짜 정체... 마스터즈의 스파이로서 우리 바스타즈의 정보를 유출하던 그대의 명민함은 참으로 인상적이었네. 지난 전쟁 중에 그대가 작성했던 그 은밀한 보고서와 지령서들은 지금 내가 아주 소중히 보관하고 있지. 이 흥미로운 기록들이 동료들 사이에 알려진다면, 과연 그대의 그 빛나는 명예가 어찌 될지 상상해 보았나? 그대의 그 추악한 과거를 무덤까지 가져가고 싶다면, 이제부터는 오직 나만을 위한 단검이 되어주게나.&quot;
+발트라, 용병대장이라는 허울좋은 가죽 아래 숨겨진 그대의 진짜 정체... 마스터즈의 스파이로서 우리 바스타즈의 정보를 유출하던 그대의 명민함은 참으로 인상적이었네. 지난 전쟁 중에 그대가 작성했던 그 은밀한 보고서와 지령서들은 지금 내가 아주 소중히 보관하고 있지. 이 흥미로운 기록들이 동료들 사이에 알려진다면, 과연 그대의 그 빛나는 명예가 어찌 될지 상상해 보았나? 그대의 그 추악한 과거를 무덤까지 가져가고 싶다면, 이제부터는 오직 나만을 위한 단검이 되어주게나.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&quot;발트라, 용병대장이라는 허울좋은 가죽 아래 숨겨진 그대의 진짜 정체... <span class="character-masters">마스터즈의 스파이</span>로서 우리 바스타즈의 정보를 유출하던 그대의 명민함은 참으로 인상적이었네. 지난 전쟁 중에 그대가 작성했던 그 <span class="emphasis">은밀한 보고서와 지령서</span>들은 지금 내가 아주 소중히 보관하고 있지.</p>
-    <p>이 흥미로운 기록들이 동료들 사이에 알려진다면, 과연 그대의 그 <span class="highlight">빛나는 명예</span>가 어찌 될지 상상해 보았나? 그대의 그 추악한 과거를 무덤까지 가져가고 싶다면, 이제부터는 오직 나만을 위한 단검이 되어주게나.&quot;</p>
+  <div class="document-page">
+    <div class="document-body small">
+      <span class="character-valtra">발트라</span>, 용병대장이라는 허울좋은 가죽 아래 숨겨진 그대의 진짜 정체... <span class="character-masters">마스터즈의 스파이</span>로서 우리 바스타즈의 정보를 유출하던 그대의 명민함은 참으로 인상적이었네. 지난 전쟁 중에 그대가 작성했던 그 <span class="emphasis">은밀한 보고서와 지령서</span>들은 지금 내가 아주 소중히 보관하고 있지.
+      이 흥미로운 기록들이 동료들 사이에 알려진다면, 과연 그대의 그 <span class="highlight">빛나는 명예</span>가 어찌 될지 상상해 보았나? 그대의 그 추악한 과거를 무덤까지 가져가고 싶다면, 이제부터는 오직 나만을 위한 단검이 되어주게나.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text is long and dense, filling the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -171,9 +181,7 @@ HTML :
 표면의 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오는 신비한 돌이다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>표면의 <span class="highlight">은빛 문양</span> 사이로 강렬한 <span class="emphasis">청람색 빛</span>이 뿜어져 나오는 신비한 돌이다.</p>
-  </div>
+  표면의 <span class="highlight">은빛 문양</span> 사이로 강렬한 <span class="emphasis">청람색 빛</span>이 뿜어져 나오는 신비한 돌이다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small mysterious gemstone. The stone features glowing silver patterns and intense cyan-blue light inside. No people. Shallow depth of field, background is indistinct and dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, vintage analog fantasy aesthetic.
 장소 : 없음
@@ -201,12 +209,10 @@ HTML :
 관련 : 스컬크러셔
 의도 : 스컬크러셔의 정체가 빛의 기사 류크였다는 단서.
 내용 :
-격렬한 전투의 흔적이 고스란히 남은 해골 투구의 파편이다. 안쪽 틈새에는 눈부신 은빛 머리카락 몇 가닥이 엉켜 있다.
+격렬한 전투의 흔적이 고스란히 남은 투구의 파편이다. 안쪽 틈새에는 눈부신 은빛 머리카락 몇 가닥이 엉켜 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>격렬한 전투의 흔적이 고스란히 남은 <span class="emphasis">해골 투구의 파편</span>이다. 안쪽 틈새에는 눈부신 <span class="highlight">은빛 머리카락</span> 몇 가닥이 엉켜 있다.</p>
-  </div>
+  격렬한 전투의 흔적이 고스란히 남은 <span class="emphasis">투구의 파편</span>이다. 안쪽 틈새에는 눈부신 <span class="highlight">은빛 머리카락</span> 몇 가닥이 엉켜 있다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An extreme macro cinemetic close-up focus on a single tiny, jagged dark metal shard. Two or three fine, silvery-white hair strands are tangled in the sharp, broken edge of the metal piece. The background is extremely blurred and non-descript stone floor. No helmet shape is visible, only the small fragment. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 01_왕좌의_방
@@ -232,9 +238,10 @@ HTML :
 겁에 질린 시종이 벌벌 떨며 전하는 증언이다. &quot;왕좌 뒤 기둥에 숨어 모든 것을 보았습니다. 골든 킹께서 패색이 짙어졌을 때, 눈을 크게 뜨고 &apos;네놈은... 설마...!&apos;라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, 스컬크러셔 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.&quot;
 HTML :
 <div class="story-content">
+  <div class="script-direction">겁에 질린 시종이 벌벌 떨며 전하는 증언이다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>겁에 질린 시종이 벌벌 떨며 전하는 증언이다.</p>
-    <p class="script-line">&quot;<span class="script-character">시종</span>: 왕좌 뒤 기둥에 숨어 모든 것을 보았습니다. 골든 킹께서 패색이 짙어졌을 때, 눈을 크게 뜨고 <span class="emphasis">&apos;네놈은... 설마...!&apos;</span>라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, <span class="character-skullcrusher">스컬크러셔</span> 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.&quot;</p>
+    왕좌 뒤 기둥에 숨어 모든 것을 보았습니다. 골든 킹께서 패색이 짙어졌을 때, 눈을 크게 뜨고 <span class="emphasis">&apos;네놈은... 설마...!&apos;</span>라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, <span class="character-skullcrusher">스컬크러셔</span> 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of a textured marble pillar surface. In the deep shadows to the side, a faint silhouette of a person&apos;s eye or hand is barely visible, as if peeking. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -258,15 +265,14 @@ HTML :
 관련 : 엘드리치
 의도 : 30년 전 다크시리어스와 전쟁 이후 어둠에 기운에 잠식되고 있었다는 단서.
 내용 :
-먼지가 뽀얗게 쌓여있던 왕실 서기의 수기록 일부다. &quot;기록을 시작한 지 30년... 마신과의 전쟁 이후 폐하에게선 예의 그 성스러운 기운이 조금씩 자취를 감추기 시작했다. 백성들을 사랑하시던 자비로운 미소는 메말라갔고, 대신 원인을 알 수 없는 적막함과 낯선 냉기가 그 자리를 채웠다. 무엇이 그 고결했던 인간성과 온기를 이토록 낯설게 바꾸어 버린 것일까? 마신의 어둠을 마주했던 그날 이후, 폐하의 마음속 가장 소중한 무언가가 영원히 빛을 잃어버린 것만 같아 두려움이 앞선다.&quot;
+먼지가 뽀얗게 쌓여있던 왕실 서기의 수기록 일부다. "기록을 시작한 지 30년... 마신과의 전쟁 이후 폐하에게선 예의 그 성스러운 기운이 조금씩 자취를 감추기 시작했다. 백성들을 사랑하시던 자비로운 미소는 메말라갔고, 대신 원인을 알 수 없는 적막함과 낯선 냉기가 그 자리를 채웠다. 무엇이 그 고결했던 인간성과 온기를 이토록 낯설게 바꾸어 버린 것일까? 마신의 어둠을 마주했던 그날 이후, 폐하의 마음속 가장 소중한 무언가가 영원히 빛을 잃어버린 것만 같아 두려움이 앞선다."
 HTML :
 <div class="story-content">
+  <div class="script-direction">먼지가 뽀얗게 쌓여있던 왕실 서기의 수기록 일부다.</div>
+  <div class="divider-gold"></div>
   <div class="document-page">
-    <p class="script-direction">먼지가 뽀얗게 쌓여있던 왕실 서기의 수기록 일부다.</p>
-    <div class="divider-gold"></div>
     <div class="document-body small">
-      <p>&quot;기록을 시작한 지 30년... <span class="emphasis">마신과의 전쟁</span> 이후 폐하에게선 예의 그 성스러운 기운이 조금씩 자취를 감추기 시작했다. 백성들을 사랑하시던 자비로운 미소는 메말라갔고, 대신 원인을 알 수 없는 적막함과 낯선 냉기가 그 자리를 채웠다.&quot;</p>
-      <p>&quot;무엇이 그 고결했던 <span class="highlight">인간성과 온기</span>를 이토록 낯설게 바꾸어 버린 것일까? 마신의 어둠을 마주했던 그날 이후, 폐하의 마음속 가장 소중한 <span class="emphasis">무언가가 영원히 빛을 잃어버린 것만 같아</span> 두려움이 앞선다.&quot;</p>
+      기록을 시작한 지 30년... <span class="emphasis">마신과의 전쟁</span> 이후 폐하에게선 예의 그 성스러운 기운이 조금씩 자취를 감추기 시작했다. 백성들을 사랑하시던 자비로운 미소는 메말라갔고, 대신 원인을 알 수 없는 적막함과 낯선 냉기가 그 자리를 채웠다. 무엇이 그 고결했던 <span class="highlight">인간성과 온기</span>를 이토록 낯설게 바꾸어 버린 것일까? 마신의 어둠을 마주했던 그날 이후, 폐하의 마음속 가장 소중한 <span class="emphasis">무언가가 영원히 빛을 잃어버린 것만 같아</span> 두려움이 앞선다.
     </div>
   </div>
 </div>
@@ -291,14 +297,12 @@ HTML :
 관련 : 스컬크러셔
 의도 : 멤버들이 한자리에 모이지 못하게 각자 다른 장소로 배치했음을 암시.
 내용 :
-거칠게 찢어낸 흔적이 남은 메모지의 조각이다. 전투의 긴박함이 느껴지는 날카롭고 거친 필체로 멤버들의 이름과 위치가 적혀 있다. &quot;엘드리치-서재, 말리스-연구실, 발로그-무기고, 고어후프-연회장, 슬리더-문서고, 발트라-지하창고...&quot;
+거칠게 찢어낸 흔적이 남은 메모지의 조각이다. 전투의 긴박함이 느껴지는 날카롭고 거친 필체로 멤버들의 이름과 위치가 적혀 있다. "엘드리치-서재, 말리스-연구실, 발로그-무기고, 고어후프-연회장, 슬리더-문서고, 발트라-지하창고..."
 HTML :
 <div class="story-content">
-  <div class="notice-box">
-    <p class="script-direction">거칠게 찢어낸 흔적이 남은 메모지의 조각이다. 전투의 긴박함이 느껴지는 날카롭고 거칠 필체로 멤버들의 이름과 위치가 적혀 있다.</p>
-    <div class="divider-gold"></div>
-    <p class="script-direction text-center">&quot;엘드리치-서재, 말리스-연구실, 발로그-무기고, 고어후프-연회장, 슬리더-문서고, 발트라-지하창고...&quot;</p>
-  </div>
+  <div class="script-direction">거칠게 찢어낸 흔적이 남은 메모지의 조각이다. 전투의 긴박함이 느껴지는 날카롭고 거친 필체로 멤버들의 이름과 위치가 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">엘드리치-서재, 말리스-연구실, 발로그-무기고, 고어후프-연회장, 슬리더-문서고, 발트라-지하창고...</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, torn scrap of paper lying on a dark, textured surface. It features sharp, dark ink-written unreadable characters in a modern Nordic script (Norwegian or Finnish). No runes. Shallow depth of field, background is extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 01_왕좌의_방
@@ -322,13 +326,10 @@ HTML :
 관련 : 말리스, 발로그, 슬리더
 의도 : 서재에 무색무취의 수면가스가 사용되었음을 증명. 일반인은 알 수 없으나 특수한 후각을 가진 슬리더만 포착할 수 있음.
 내용 :
-일반적인 인간의 감각으로는 전혀 인지할 수 없는, 무색무취에 가까운 은밀한 공기의 흐름이다. 하지만 지독하리만큼 예민한 감각을 가진 자라면, 서재의 공기 속에 묘하게 눅눅하고 쾨쾨한 잔향이 아주 미세하게 뒤섞여 있음을 간신히 포착해낼 수 있다.
+예민한 후각을 가진 당신은 서재의 공기 속에 아주 미세하게 눅눅하고 쿰쿰한 잔향이 뒤섞여 있음을 간신히 포착할 수 있었다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>일반적인 인간의 감각으로는 전혀 인지할 수 없는, <span class="emphasis">무색무취에 가까운 은밀한 공기의 흐름</span>이다.</p>
-    <p>하지만 지독하리만큼 <span class="highlight">예민한 감각을 가진 자</span>라면, 서재의 공기 속에 묘하게 <span class="emphasis">눅눅하고 쾨쾨한 잔향</span>이 아주 미세하게 뒤섞여 있음을 간신히 포착해낼 수 있다.</p>
-  </div>
+  서재의 공기 속에 아주 미세하게 <span class="emphasis">눅눅하고 쿰쿰한 잔향</span>이 뒤섞여 있음을 간신히 포착할 수 있었다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dimly lit interior of an ancient library with faint, hazy wisps of greenish-grey vapor or smoke drifting between towering bookshelves. Use the attached Library image (02_서재) for environment and lighting. No people. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
@@ -336,7 +337,7 @@ HTML :
 
 [clue_12]
 이름 : 서재#2
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 4
 정렬순서 : 120
@@ -361,10 +362,10 @@ HTML :
   <div class="document-page">
     <h3>&lt;제1권: 마도 광물편&gt;</h3>
     <div class="document-body small">
-      <p>■ <span class="emphasis">영혼석</span>: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. 영혼이 깃들 수 있으며, 사령술 의식의 핵심 매개체이다.</p>
-      <p>■ <span class="highlight">봉인석</span>: 반투명한 호박색을 띠며 내부에 촛불 같은 빛의 핵이 일렁이는 돌. 살아있는 생명을 구속하여 봉인할 수 있다. 해제 시 봉인된 생명체가 다시 해방되지만, 돌이 파괴되면 봉인된 자는 영구적으로 소멸한다.</p>
-      <p>■ <span class="highlight">마력석</span>: 표면의 정교한 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오는 돌. 막대한 양의 마력이 응축되어 있으며, <span class="emphasis">인간이 아닌 존재가 사용한다면</span> 황폐해진 대지에 생명력을 불어넣는 기적을 일으킨다고 전해진다. 파괴될 경우 광범위한 마력이 일시에 방출된다.</p>
-      <p>■ <span class="emphasis">흑요석</span>: 인간들 사이에서는 하급 보석으로 취급되나, 악마들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.</p>
+      <div>■ <strong>영혼석</strong>: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. <span class="emphasis">영혼이 깃들 수 있으며, 사령술 의식의 핵심 매개체이다.</span></div>
+      <div>■ <strong>봉인석</strong>: 반투명한 호박색을 띠며 내부에 촛불 같은 빛의 핵이 일렁이는 돌. <span class="emphasis">살아있는 생명을 구속하여 봉인할 수 있다.</span> 해제 시 봉인된 생명체가 다시 해방되지만, 돌이 파괴되면 봉인된 자는 영구적으로 소멸한다.</div>
+      <div>■ <strong>마력석</strong>: 표면의 정교한 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오는 돌. 막대한 양의 마력이 응축되어 있으며, <span class="emphasis">인간이 아닌 존재가 사용한다면</span> 황폐해진 대지에 생명력을 불어넣는 기적을 일으킨다고 전해진다. 파괴될 경우 광범위한 마력이 일시에 방출된다.</div>
+      <div>■ <strong>흑요석</strong>: 인간들 사이에서는 하급 보석으로 취급되나, <span class="emphasis">마족</span>들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.</div>
     </div>
   </div>
 </div>
@@ -374,7 +375,7 @@ HTML :
 
 [clue_13]
 이름 : 서재#3
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 4
 정렬순서 : 130
@@ -403,15 +404,15 @@ HTML :
   <div class="document-page">
     <h3>&lt;제2권: 속성론 개요&gt;</h3>
     <div class="document-body small">
-      <p>본 장에서는 우주를 구성하는 <span class="emphasis">근원 속성과 그 상성 관계</span>를 다룬다.</p>
-      <p>■ <span class="highlight">빛 ↔ 어둠</span>: 서로를 가장 강력하게 상쇄하는 상극 속성.</p>
-      <p>■ <span class="emphasis">물 ↔ 불</span>: 대립적인 에너지 흐름을 가지며 서로를 약화시킨다.</p>
-      <p>■ <span class="highlight">땅 ↔ 바람</span>: 견고함과 변칙성의 상성을 형성한다.</p>
-      <p>■ <span class="emphasis">무속성</span>: 어떤 마력 반응도 보이지 않는 순수한 상태.</p>
+      <div>본 장에서는 우주를 구성하는 <span class="emphasis">근원 속성과 그 상성 관계</span>를 다룬다.</div>
+      <div>■ <span class="highlight">빛 ↔ 어둠</span>: 서로를 가장 강력하게 상쇄하는 상극 속성.</div>
+      <div>■ <span class="emphasis">물 ↔ 불</span>: 대립적인 에너지 흐름을 가지며 서로를 약화시킨다.</div>
+      <div>■ <span class="highlight">땅 ↔ 바람</span>: 견고함과 변칙성의 상성을 형성한다.</div>
+      <div>■ <span class="emphasis">무속성</span>: 어떤 마력 반응도 보이지 않는 순수한 상태.</div>
       <div class="important-notice">
-        <p>※ 공격 시 상극인 속성을 가진 무기나 마법은 상대에게 치명적인 대미지를 입힐 수 있다.</p>
-        <p>※ 속성 마법을 공격적으로 시전할 때, 상대가 같은 속성이라면 오히려 역효과를 불러올 수 있다.</p>
-        <p>※ 빛과 어둠 속성은 물, 불, 땅, 바람 속성에 우위에 있다. 또한 빛과 어둠 속성을 가진 존재는 대부분의 해로운 효과에 면역이 된다.</p>
+        <div>※ 공격 시 상극인 속성을 가진 무기나 마법은 상대에게 치명적인 대미지를 입힐 수 있다.</div>
+        <div>※ 속성 마법을 공격적으로 시전할 때, 상대가 같은 속성이라면 오히려 역효과를 불러올 수 있다.</div>
+        <div>※ 빛과 어둠 속성은 물, 불, 땅, 바람 속성에 우위에 있다. 또한 빛과 어둠 속성을 가진 존재는 대부분의 해로운 효과에 면역이 된다.</div>
       </div>
     </div>
   </div>
@@ -443,17 +444,19 @@ HTML :
 - μ: 1.20+α
 - Φ: ∇ × [2·Γ·ζ]^(1/2)
 - τ: ∏(2ζ/Γ)^0.5 ≒ T_min
-- ψ: ∠70° + arctan(δ)
+- ψ: ∠90° + arctan(δ)
 HTML :
 <div class="story-content">
-  <div class="notice-box">
-    <p class="script-direction">찢겨진 기록지 조각이다. 한쪽 면에 날카로운 필체로 쓰여진 계산식들이 나열되어 있다.</p>
-    <div class="divider-gold"></div>
-    <div class="data-table">
-      <p>- ζ: 4.48-ref(Z) | - μ: 1.20+α</p>
-      <p>- Φ: ∇ × [2·Γ·ζ]^(1/2)</p>
-      <p>- τ: ∏(2ζ/Γ)^0.5 ≒ <span class="highlight">T_min</span></p>
-      <p>- ψ: <span class="emphasis">∠70°</span> + arctan(δ)</p>
+  <div class="script-direction">
+    찢겨진 기록지 조각이다. 한쪽 면에 날카로운 필체로 쓰여진 계산식들이 나열되어 있다.
+  </div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">
+      <div>- ζ: 4.48-ref(Z) | - μ: 1.20+α</div>
+      <div>- Φ: ∇ × [2·Γ·ζ]^(1/2)</div>
+      <div>- τ: ∏(2ζ/Γ)^0.5 ≒ <span class="highlight">T_min</span></div>
+      <div>- ψ: <span class="emphasis">∠90°</span> + arctan(δ)</div>
     </div>
   </div>
 </div>
@@ -463,7 +466,7 @@ HTML :
 
 [clue_15]
 이름 : 연구실#2
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 4
 정렬순서 : 150
@@ -481,19 +484,19 @@ HTML :
 <연금술 연구실: 재료 목록>
 ■ 레드 시럽: 일반적인 상처를 즉각적으로 아물게 하는 응급 처치용 연고. 진한 베리류의 달콤한 향이 나는 것이 특징이다.
 ■ 광전사의 비약: 일시적으로 공포 기제를 차단하고 근력을 증폭시키나, 약효가 끝난 후 심각한 근육 파괴를 동반한다. 구역질 나는 피 비린내와 매캐한 탄내가 섞인 강렬한 악취가 난다.
-■ 몽유석: 공기 중으로 서서히 기화하며 강제적인 수면을 유도하는 투명한 광석. 원석 상태에서는 단단한 껍질에 싸여 안정적이나, 가공되어 내부가 드러나는 순간부터 기화가 시작된다. 인간에게만 작용하며, 기화 후에는 쿰쿰한 잔향이 남는다.
+■ 몽유석: 공기 중으로 서서히 기화하며 강제적인 수면을 유도하는 투명한 광석. 원석 상태에서는 단단한 껍질에 싸여 안정적이나, 가공되어 내부가 드러나는 순간부터 기화가 시작된다. 인간에게만 작용하며, 기화 후에는 쿰쿰한 냄새가 남는다.
 ■ 마력 여과액: 마도구 세척에 사용되는 고농축 알칼리 용액. 피부 접촉 시 화상의 위험이 있으며, 코를 찌르는 자극적인 금속성 냄새가 난다.
 ■ 진실의 눈물: 복용자의 이성 통제력을 약화시켜 질문에 무조건 응답하게 만드는 고문의 보조제. 마음을 안정시키는 희미한 라벤더 향이 감돈다.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h3>연금술 연구실: 재료 목록</h3>
+    <h3>&lt;연금술 연구실: 재료 목록&gt;</h3>
     <div class="document-body small">
-      <p>■ <span class="highlight">레드 시럽</span>: 일반적인 상처를 즉각적으로 아물게 하는 응급 처치용 연고. 진한 <span class="emphasis">베리류의 달콤한 향</span>이 나는 것이 특징이다.</p>
-      <p>■ <span class="emphasis">광전사의 비약</span>: 일시적으로 공포 기제를 차단하고 근력을 증폭시키나, 약효가 끝난 후 심각한 근육 파괴를 동반한다. <span class="emphasis">구역질 나는 피 비린내와 매캐한 탄내</span>가 섞인 강렬한 악취가 난다.</p>
-      <p>■ <span class="highlight">몽유석</span>: 공기 중으로 서서히 기화하며 강제적인 수면을 유도하는 투명한 광석. 원석 상태에서는 단단한 껍질에 싸여 안정적이나, 가공되어 내부가 드러나는 순간부터 기화가 시작된다. 인간에게만 작용하며, 기화 후에는 <span class="emphasis">쿰쿰한 잔향</span>이 남는다.</p>
-      <p>■ <span class="emphasis">마력 여과액</span>: 마도구 세척에 사용되는 고농축 알칼리 용액. 피부 접촉 시 화상의 위험이 있으며, 코를 찌르는 <span class="emphasis">자극적인 금속성 냄새</span>가 난다.</p>
-      <p>■ <span class="highlight">진실의 눈물</span>: 복용자의 이성 통제력을 약화시켜 질문에 무조건 응답하게 만드는 고문의 보조제. 마음을 안정시키는 <span class="emphasis">희미한 라벤더 향</span>이 감돈다.</p>
+      <div>■ <strong>레드 시럽</strong>: 일반적인 상처를 즉각적으로 아물게 하는 응급 처치용 연고. 진한 <span class="emphasis">베리류의 달콤한 향</span>이 나는 것이 특징이다.</div>
+      <div>■ <strong>광전사의 비약</strong>: 일시적으로 공포 기제를 차단하고 근력을 증폭시키나, 약효가 끝난 후 심각한 근육 파괴를 동반한다. <span class="emphasis">구역질 나는 피 비린내와 매캐한 탄내</span>가 섞인 강렬한 악취가 난다.</div>
+      <div>■ <strong>몽유석</strong>: 공기 중으로 서서히 기화하며 강제적인 수면을 유도하는 투명한 광석. 원석 상태에서는 단단한 껍질에 싸여 안정적이나, 가공되어 내부가 드러나는 순간부터 기화가 시작된다. 인간에게만 작용하며, 기화 후에는 <span class="emphasis">쿰쿰한 냄새</span>가 남는다.</div>
+      <div>■ <strong>마력 여과액</strong>: 마도구 세척에 사용되는 고농축 알칼리 용액. 피부 접촉 시 화상의 위험이 있으며, 코를 찌르는 <span class="emphasis">자극적인 금속성 냄새</span>가 난다.</div>
+      <div>■ <strong>진실의 눈물</strong>: 복용자의 이성 통제력을 약화시켜 질문에 무조건 응답하게 만드는 고문의 보조제. 마음을 안정시키는 <span class="emphasis">희미한 라벤더 향</span>이 감돈다.</div>
     </div>
   </div>
 </div>
@@ -503,7 +506,7 @@ HTML :
 
 [clue_16]
 이름 : 연구실#3
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 4
 정렬순서 : 160
@@ -530,12 +533,12 @@ HTML :
   <div class="document-page">
     <h3>&lt;희귀 마도구 조사 보고&gt;</h3>
     <div class="document-body small">
-      <p>■ <span class="highlight">무한 식수통</span>: 공기 중의 수분을 응집하여 끊임없이 맑은 물을 생성해내는 고대의 마법 가죽부대. 내부의 온도를 언제나 서늘하게 유지하여, 척박한 전장을 누비는 병사들에게는 <span class="emphasis">황금보다 귀한 보급품</span>으로 취급된다. [연구실 내 보관 중]</p>
-      <p>■ <span class="emphasis">대지의 심장</span>: 대지의 정수가 결정화된 고급 유물. 소유자의 육체 능력을 폭발적으로 강화하고 상처 영구 재생력을 부여한다. 다만, 소유자가 극심한 분노나 허기를 느낄 경우 <span class="emphasis">대지의 광기에 의식이 잠식</span>되는 치명적인 부작용이 보고되어 있다.</p>
-      <p>■ <span class="highlight">투명 망토</span>: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 <span class="emphasis">빛을 굴절</span>시켜 착용자의 모습을 완전히 감춘다.</p>
-      <p>■ <span class="emphasis">마나플레어 와이어</span>: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 주변에 일정 강도 이상의 마력이 감지되는 즉시 <span class="emphasis">도화선처럼 작렬</span>하며 타오르는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]</p>
-      <p>■ <span class="highlight">보온 브로치</span>: 파이어 드레이크의 비늘을 가공하여 제작된 장신구. 장착 시 사용자의 체열이 밖으로 새나가지 않도록 보호막을 형성하며, 영하의 혹한이나 설산의 매서운 칼바람 속에서도 <span class="emphasis">체온을 일정하게 유지</span>시켜 생존을 돕는다. [연구실 내 보관 중]</p>
-      <p>■ <span class="highlight">비전 세공함</span>: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 <span class="emphasis">본질적인 형상</span>을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]</p>
+      <div>■ <strong>무한 식수통</strong>: 공기 중의 수분을 응집하여 끊임없이 맑은 물을 생성해내는 고대의 마법 가죽부대. 내부의 온도를 언제나 서늘하게 유지하여, 척박한 전장을 누비는 병사들에게는 <span class="emphasis">황금보다 귀한 보급품</span>으로 취급된다. [연구실 내 보관 중]</div>
+      <div>■ <strong>대지의 심장</strong>: 대지의 정수가 결정화된 고급 유물. 소유자의 육체 능력을 폭발적으로 강화하고 상처 영구 재생력을 부여한다. 다만, 소유자가 극심한 분노나 허기를 느낄 경우 <span class="emphasis">대지의 광기에 의식이 잠식</span>되는 치명적인 부작용이 보고되어 있다.</div>
+      <div>■ <strong>투명 망토</strong>: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 <span class="emphasis">빛을 굴절</span>시켜 착용자의 모습을 완전히 감춘다.</div>
+      <div>■ <strong>마나플레어 와이어</strong>: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 주변에 일정 강도 이상의 마력이 감지되는 즉시 <span class="emphasis">도화선처럼 작렬</span>하며 타오르는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]</div>
+      <div>■ <strong>보온 브로치</strong>: 파이어 드레이크의 비늘을 가공하여 제작된 장신구. 장착 시 사용자의 체열이 밖으로 새나가지 않도록 보호막을 형성하며, 영하의 혹한이나 설산의 매서운 칼바람 속에서도 <span class="emphasis">체온을 일정하게 유지</span>시켜 생존을 돕는다. [연구실 내 보관 중]</div>
+      <div>■ <strong>비전 세공함</strong>: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 <span class="emphasis">본질적인 형상</span>을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]</div>
     </div>
   </div>
 </div>
@@ -564,9 +567,7 @@ HTML :
 주방 조리대 위에 나열된 도구들이다. 뼈를 단번에 끊어낼 듯한 육중한 푸줏칼과 살점을 정교하게 발라낼 수 있는 날카로운 발골용 칼들이 곳곳에 놓여 있다. 저녁 연회 준비가 한창인 듯, 도구들의 날카로운 금속 표면에는 아직 닦이지 않은 붉은 핏물과 물기가 진득하게 남아 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>주방 조리대 위에 나열된 도구들이다. 뼈를 단번에 끊어낼 듯한 <span class="emphasis">육중한 푸줏칼</span>과 살점을 정교하게 발라낼 수 있는 <span class="emphasis">날카로운 발골용 칼</span>들이 곳곳에 놓여 있다. <span class="highlight">저녁 연회 준비</span>가 한창인 듯, 도구들의 날카로운 금속 표면에는 아직 닦이지 않은 <span class="highlight">붉은 핏물과 물기</span>가 진득하게 남아 있다.</p>
-  </div>
+  <div>주방 조리대 위에 나열된 도구들이다. 뼈를 단번에 끊어낼 듯한 <span class="emphasis">육중한 푸줏칼</span>과 살점을 정교하게 발라낼 수 있는 <span class="emphasis">날카로운 발골용 칼</span>들이 곳곳에 놓여 있다. <span class="highlight">저녁 연회 준비</span>가 한창인 듯, 도구들의 날카로운 금속 표면에는 아직 닦이지 않은 <span class="highlight">붉은 핏물과 물기</span>가 진득하게 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a heavy iron butcher&apos;s cleaver and sharp skinning knives lying on a dark wooden kitchen table. Subtle traces of red blood and water droplets are visible on the sharp edges of the blades. Soft shadows under the tools. Shallow depth of field, background is a dark, extremely blurred rustic medieval kitchen during evening banquet preparations. Moody candlelight and warm orange glow. No people. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 09_식당
@@ -589,12 +590,10 @@ HTML :
 관련 : 고어후프
 의도 : 갑옷 파편 단서와 연계되어, 과거 고어후프의 식인 단서.
 내용 :
-고어후프가 앉아 있던 식당 의자 밑에는 내버려진 뼈다귀가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 액체의 흔적이 희미하게 남아 번들거린다. 특히 단단한 뼈 곳곳에는 뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국들이 뚜렷하게 박혀 있다.
+식당 의자 밑에 내버려진 뼈다귀가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 액체의 흔적이 희미하게 남아 번들거린다. 특히 단단한 뼈 곳곳에는 뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국들이 뚜렷하게 박혀 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>고어후프가 앉아 있던 <span class="highlight">식당 의자 밑</span>에는 내버려진 <span class="highlight">뼈다귀</span>가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 <span class="highlight">액체의 흔적</span>이 희미하게 남아 번들거린다. 특히 단단한 뼈 곳곳에는 <span class="emphasis">뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국</span>들이 뚜렷하게 박혀 있다.</p>
-  </div>
+  <span class="highlight">식당 의자 밑</span>에 내버려진 <span class="highlight">뼈다귀</span>가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 <span class="highlight">액체의 흔적</span>이 희미하게 남아 번들거린다. 특히 단단한 뼈 곳곳에는 <span class="emphasis">뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국</span>들이 뚜렷하게 박혀 있다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A massive, clean white animal bone lying on a dark, dusty stone floor beneath the legs of a heavy wooden dining chair and table. The legs of the chair cast long shadows over the bone. Dim, moody interior lighting (09_식당 environment). No metal plates, no tags, no text, and no large pieces of meat. Shallow depth of field, background is indistinct dark furniture. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 09_식당
@@ -617,12 +616,15 @@ HTML :
 관련 : 고어후프
 의도 : 고어후프가 스트레스를 받았다는 단서.
 내용 :
-성을 점령한 직후의 상황을 기억하는 요리사의 증언이다. &quot;그 거대한 덩치가 주방으로 들이닥쳤을 때의 눈빛은 정말이지 제정신이 아닌 굶주린 짐승 그 자체였습니다. 조리가 끝나기도 전에 고기들을 닥치는 대로 씹어 삼키는데, 무언가에 쫓기듯 식은땀을 흘리며 허겁지겁 먹어치우는 모습이 몹시 위태로워 보였습니다.&quot;
+성을 점령한 직후의 상황을 기억하는 요리사의 증언이다. &quot;그 거대한 덩치가 주방으로 들이닥쳤을 때의 눈빛은 정말이지 제정신이 아닌 굶주린 짐승 그 자체더군. 조리가 끝나기도 전에 고기들을 닥치는 대로 씹어 삼키는데, 무언가에 쫓기듯 식은땀을 흘리며 허겁지겁 먹어치우는 모습이 몹시 위태로워 보였다네.&quot;
 HTML :
 <div class="story-content">
+  <div class="script-direction">
+    성을 점령한 직후의 상황을 기억하는 요리사의 증언이다.
+  </div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>성을 점령한 직후의 상황을 기억하는 요리사의 증언이다.</p>
-    <p class="script-line">&quot;<span class="script-character">요리사</span>: 그 거대한 덩치가 주방으로 들이닥쳤을 때의 눈빛은 정말이지 <span class="emphasis">제정신이 아닌 굶주린 짐승 그 자체</span>였습니다. 조리가 끝나기도 전에 고기들을 닥치는 대로 씹어 삼키는데, 무언가에 쫓기듯 <span class="highlight">식은땀을 흘리며 허겁지겁 먹어치우는 모습</span>이 몹시 위태로워 보였습니다.&quot;</p>
+    그 거대한 덩치가 주방으로 들이닥쳤을 때의 눈빛은 정말이지 <span class="emphasis">제정신이 아닌 굶주린 짐승 그 자체</span>더군. 조리가 끝나기도 전에 고기들을 닥치는 대로 씹어 삼키는데, 무언가에 쫓기듯 <span class="highlight">식은땀을 흘리며 허겁지겁 먹어치우는 모습</span>이 몹시 위태로워 보였다네.
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a royal chef wearing a crisp, clean white professional linen apron with subtle silver embroidery. The cook&apos;s hands are partially visible near the apron&apos;s strings. Shallow depth of field, background is the warm, soft bokeh of a grand palace kitchen with glowing embers. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -650,9 +652,7 @@ HTML :
 본래 철저하게 정리되어 있어야 할 국왕 직속 문서고의 풍경과는 대조적으로, 수많은 문서와 보관 상자들이 바닥에 어지럽게 흩어져 있다. 특히 서랍들 내부뿐만 아니라 가구 밑바닥까지 무언가를 헤집어 놓은 듯한 흔적이 문서고 전 구역에 남아 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>본래 철저하게 정리되어 있어야 할 <span class="emphasis">국왕 직속 문서고</span>의 풍경과는 대조적으로, 수많은 문서와 <span class="emphasis">보관 상자들이 바닥에 어지럽게 흩어져 있다.</span> 특히 서랍들 내부뿐만 아니라 <span class="highlight">가구 밑바닥까지 무언가를 헤집어 놓은 듯한 흔적</span>이 문서고 전 구역에 남아 있다.</p>
-  </div>
+  <div>본래 철저하게 정리되어 있어야 할 <span class="emphasis">국왕 직속 문서고</span>의 풍경과는 대조적으로, 수많은 문서와 <span class="emphasis">보관 상자들이 바닥에 어지럽게 흩어져 있다.</span> 특히 서랍들 내부뿐만 아니라 <span class="highlight">가구 밑바닥까지 무언가를 헤집어 놓은 듯한 흔적</span>이 문서고 전 구역에 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of hundreds of loose parchment papers and scrolls scattered on a dark stone floor. The lighting is low and dramatic. Shallow depth of field, background is indistinct. No people. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 06_문서고
@@ -660,7 +660,7 @@ HTML :
 
 [clue_21]
 이름 : 문서고#2
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 4
 정렬순서 : 210
@@ -676,13 +676,13 @@ HTML :
 의도 : 마신 다크시리어스와 골든 킹의 과거사 정보 제공.
 내용 :
 <성전 기록물 - 골든 서클 마법사와의 대화>
-&quot;정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, &apos;얼티밋 선샤인&apos;이 전장을 집어삼켰습니다. 무적이라 믿었던 마신의 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌지요. 마신 다크시리어스조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌습니다. 그 틈을 타 폐하와 우리 마법사들이 사력을 다해 황금 결계로 그를 봉인하기까지, 그 짧은 시간은 신이 허락한 기적과도 같았습니다.&quot;
+"...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, 얼티밋 선샤인이 전장을 집어삼켰습니다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌지요. 마신 다크시리어스조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌습니다. 그 틈을 타 폐하와 우리 마법사들이 사력을 다해 황금 결계로 그를 봉인하기까지, 그 짧은 시간은 신이 허락한 기적과도 같았습니다."
 HTML :
 <div class="story-content">
   <div class="document-page">
     <h3>&lt;성전 기록물 - 골든 서클 마법사와의 대화&gt;</h3>
     <div class="document-body small">
-      <p>&quot;정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="highlight">&apos;얼티밋 선샤인&apos;</span>이 전장을 집어삼켰습니다. 무적이라 믿었던 마신의 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌지요. 마신 <span class="emphasis">다크시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌습니다. 그 틈을 타 폐하와 우리 마법사들이 사력을 다해 <span class="highlight">황금 결계</span>로 그를 봉인하기까지, 그 짧은 시간은 신이 허락한 기적과도 같았습니다.&quot;</p>
+      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="highlight">얼티밋 선샤인</span>이 전장을 집어삼켰습니다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌지요. <span class="mystery">마신 다크시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌습니다. 그 틈을 타 폐하와 우리 마법사들이 사력을 다해 <span class="highlight">황금 결계</span>로 그를 봉인하기까지, 그 짧은 시간은 신이 허락한 기적과도 같았습니다.&quot;</div>
     </div>
   </div>
 </div>
@@ -692,7 +692,7 @@ HTML :
 
 [clue_22]
 이름 : 문서고#3
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 5
 정렬순서 : 220
@@ -708,15 +708,14 @@ HTML :
 의도 : 고어후프와 슬리더의 복수심의 근원이자, 류크가 마스터즈에 의구심을 품게 된 계기. 발트라가 마스터즈의 살인병기로 키워진 계기.
 내용 :
 <국왕 령 제202호: 대정화 작전 사후 보고서>
-&quot;우주의 신성한 질서를 유지하기 위해 단행된 &apos;빛의 성전&apos;(작전명: &apos;대정화&apos;)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, 기사 류크는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 일부 생존 세력이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 완전 정복 선언함.&quot;
+우주의 신성한 질서를 유지하기 위해 단행된 빛의 성전(작전명: 대정화)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, 기사 류크는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 일부 생존 세력이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 완전 정복을 선언함.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>국왕 령 제202호: 대정화 작전 사후 보고서</h4>
+    <h4>&lt;국왕 령 제202호: 대정화 작전 사후 보고서&gt;</h4>
     <div class="divider-gold"></div>
     <div class="document-body small">
-      <p>&quot;우주의 신성한 질서를 유지하기 위해 단행된 <span class="emphasis">&apos;빛의 성전&apos;(작전명: &apos;대정화&apos;)</span>은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, <span class="character-masters">기사 류크</span>는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다.&quot;</p>
-      <p>&quot;비록 일부 생존 세력이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 <span class="highlight">완전 정복</span>을 선언함.&quot;</p>
+      <div>우주의 신성한 질서를 유지하기 위해 단행된 <span class="emphasis">빛의 성전</span>(작전명: <span class="emphasis">대정화</span>)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, <span class="character-masters">기사 류크</span>는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 일부 생존 세력이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 <span class="highlight">완전 정복</span>을 선언함.</div>
     </div>
   </div>
 </div>
@@ -726,7 +725,7 @@ HTML :
 
 [clue_23]
 이름 : 문서고#4
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 4
 정렬순서 : 230
@@ -742,14 +741,14 @@ HTML :
 의도 : 마스터즈 입장에서 본 바스타즈의 기록. 저주받은 검에 대한 묘사.
 내용 :
 <수성전 기록보관소 - 전선 기록 요약>
-&quot;성문을 향해 진군하는 저 해골 투구의 광인이 휘두르는 검에서는 소름 끼치는 검붉은 광채가 끊임없이 번뜩이고 있다. 그 불길한 안개와 같은 기운은 우리 기사들의 전의를 꺾고 공포에 질리게 만든다. 저 흉폭하고 기세 앞에, 우리 마스터즈의 방어선은 무력하게 무너져 내리고 있다.&quot;
+성문을 향해 진군하는 저 해골 투구의 광인이 휘두르는 검에서는 소름 끼치는 검붉은 광채가 끊임없이 번뜩이고 있다. 그 불길한 안개와 같은 기운은 우리 기사들의 전의를 꺾고 공포에 질리게 만든다. 저 흉폭하고 기세 앞에, 우리 마스터즈의 방어선은 무력하게 무너져 내리고 있다.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>수성전 기록보관소 - 전선 기록 요약</h4>
+    <h4>&lt;수성전 기록보관소 - 전선 기록 요약&gt;</h4>
     <div class="divider-gold"></div>
     <div class="document-body small">
-      <p>&quot;성문을 향해 진군하는 저 <span class="highlight">해골 투구의 광인</span>이 휘두르는 검에서는 소름 끼치는 <span class="emphasis">검붉은 광채</span>가 끊임없이 번뜩이고 있다. 그 불길한 안개와 같은 기운은 우리 기사들의 전의를 꺾고 <span class="emphasis">공포에 질리게 만든다.</span> 저 흉폭하고 기세 앞에, 우리 마스터즈의 방어선은 무력하게 무너져 내리고 있다.&quot;</p>
+      <div>성문을 향해 진군하는 저 <span class="highlight">해골 투구의 광인</span>이 휘두르는 검에서는 소름 끼치는 <span class="emphasis">검붉은 광채</span>가 끊임없이 번뜩이고 있다. 그 불길한 안개와 같은 기운은 우리 기사들의 전의를 꺾고 <span class="emphasis">공포에 질리게 만든다.</span> 저 흉폭하고 기세 앞에, 우리 마스터즈의 방어선은 무력하게 무너져 내리고 있다.</div>
     </div>
   </div>
 </div>
@@ -759,7 +758,7 @@ HTML :
 
 [clue_24]
 이름 : 문서고#5
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 5
 정렬순서 : 240
@@ -775,25 +774,25 @@ HTML :
 의도 : 과거 발트라의 행적 정보 제공.
 내용 :
 <화이트클로 기밀 인사 기록보관소>
-■ 임무: 26호 &apos;바스타즈&apos; 수뇌부 잠입 및 작전 기밀 탈취
+■ 임무: 26호 '바스타즈' 수뇌부 잠입 및 작전 기밀 탈취
 ■ 기록 이력:
 - [20년 전] 변방 행성 정화 작전 종료 후 잔존 인원 중 최적격체 강제 차출. 인간 병기 육성 교육 이수.
-- [10년 전] 악당 연합 &apos;바스타즈&apos; 결성 포착. 핵심 요원 26호 잠입 성공.
+- [10년 전] 반역자 연합 '바스타즈' 결성 포착. 핵심 요원 26호 잠입 성공.
 - [6년 전] 바스타즈 수뇌부의 전술 배치 및 후방 보급로 기밀 총 47건 탈취 보고. 본대 승기 확보에 결정적 기여.
 - [5년 전] 전략적 우위가 확고해짐에 따라 보안 유지를 위한 26호 폐기 지시 하달. 가짜 접선지로 유인 후 매복 친위대 투입.
-- [5년 전] 제거 작전 실패 및 26호 실종 보고. 이후 해당 요원을 &apos;반역자&apos; 명단으로 재분류하고 즉시 처단 대상으로 지정함.
+- [5년 전] 제거 작전 실패 및 26호 실종 보고. 이후 해당 요원을 '반역자' 명단으로 재분류하고 즉시 처단 대상으로 지정함.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h3>화이트클로 기밀 인사 기록보관소</h3>
+    <h4>&lt;화이트클로 기밀 인사 기록보관소&gt;</h4>
     <div class="document-body small">
-      <p>■ 임무: 26호 &apos;바스타즈&apos; 수뇌부 잠입 및 작전 기밀 탈취</p>
-      <p>■ 기록 이력:</p>
-      <p>- [20년 전] 변방 행성 정화 작전 종료 후 잔존 인원 중 최적격체 강제 차출. <span class="emphasis">인간 병기</span> 육성 교육 이수.</p>
-      <p>- [10년 전] 악당 연합 &apos;바스타즈&apos; 결성 포착. 핵심 요원 26호 잠입 성공.</p>
-      <p>- [6년 전] 바스타즈 수뇌부의 전술 배치 및 후방 보급로 기밀 총 <span class="highlight">47건 탈취 보고</span>. 본대 승기 <span class="emphasis">확보에</span> 결정적 기여.</p>
-      <p>- [5년 전] 전략적 우위가 확고해짐에 따라 보안 유지를 위한 <span class="emphasis">26호 폐기 지시</span> 하달. 가짜 접선지로 유인 후 매복 친위대 투입.</p>
-      <p>- [5년 전] 제거 작전 실패 및 26호 실종 보고. 이후 해당 요원을 <span class="highlight">&apos;반역자&apos; 명단으로 재분류</span>하고 즉시 처단 대상으로 지정함.</p>
+      <div>■ 임무: 26호 &apos;바스타즈&apos; 수뇌부 잠입 및 작전 기밀 탈취</div>
+      <div>■ 기록 이력:</div>
+      <div>- [20년 전] 변방 행성 정화 작전 종료 후 잔존 인원 중 최적격체 강제 차출. <span class="emphasis">인간 병기</span> 육성 교육 이수.</div>
+      <div>- [10년 전] 반역자 연합 &apos;바스타즈&apos; 결성 포착. 핵심 요원 26호 잠입 성공.</div>
+      <div>- [6년 전] 바스타즈 수뇌부의 전술 배치 및 후방 보급로 기밀 총 <span class="highlight">47건 탈취 보고</span>. 본대 승기 <span class="emphasis">확보에</span> 결정적 기여.</div>
+      <div>- [5년 전] 전략적 우위가 확고해짐에 따라 보안 유지를 위한 <span class="emphasis">26호 폐기 지시</span> 하달. 가짜 접선지로 유인 후 매복 친위대 투입.</div>
+      <div>- [5년 전] 제거 작전 실패 및 26호 실종 보고. 이후 해당 요원을 <span class="highlight">&apos;반역자&apos; 명단으로 재분류</span>하고 즉시 처단 대상으로 지정함.</div>
     </div>
   </div>
 </div>
@@ -822,10 +821,8 @@ HTML :
 성벽 아래 깊숙이 파고든 좁은 수로를 따라 쉴 새 없이 물이 흘러드는 소리가 벽면을 타고 울려온다. 이끼 낀 돌 틈 사이로 흐르는 물살은, 겉으로 드러난 철문 대신 누군가 은밀히 성 내부로 스며들 수 있는 통로가 존재함을 암시하고 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>성벽 아래 깊숙이 파고든 좁은 수로를 따라 <span class="emphasis">쉴 새 없이 물이 흘러드는 소리</span>가 벽면을 타고 울려온다.</p>
-    <p>이끼 낀 돌 틈 사이로 흐르는 물살은, 겉으로 드러난 철문 대신 누군가 <span class="highlight">은밀히 성 내부로 스며들 수 있는 통로</span>가 존재함을 암시하고 있다.</p>
-  </div>
+  <div>성벽 아래 깊숙이 파고든 좁은 수로를 따라 <span class="emphasis">쉴 새 없이 물이 흘러드는 소리</span>가 벽면을 타고 울려온다.</div>
+  <div>이끼 낀 돌 틈 사이로 흐르는 물살은, 겉으로 드러난 철문 대신 누군가 <span class="highlight">은밀히 성 내부로 스며들 수 있는 통로</span>가 존재함을 암시하고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a small iron grate covering a drain embedded in the stone floor in a dark corner of a basement. Faint glistening of wet algae and moss on the stone floor around the grate. Shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -851,9 +848,7 @@ HTML :
 한치의 오차도 없이 맞물린 채 굳게 닫힌 강철 문이다. 문 표면에는 끊임없이 일렁이는 파도와 같은 물결 문양의 부조가 정교하게 새겨져 있다. 그 위로 매달린 육중한 마법 자물쇠에서는 서늘한 금빛이 감돌며, 허가되지 않은 자의 접근을 거부하는 강렬한 위압감을 내뿜고 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>한치의 오차도 없이 맞물린 채 굳게 닫힌 강철 문이다. 문 표면에는 끊임없이 일렁이는 파도와 같은 <span class="highlight">물결 문양의 부조</span>가 정교하게 새겨져 있다. 그 위로 매달린 육중한 마법 자물쇠에서는 <span class="emphasis">서늘한 금빛</span>이 감돌며, 허가되지 않은 자의 접근을 거부하는 강렬한 위압감을 내뿜고 있다.</p>
-  </div>
+  <div>한치의 오차도 없이 맞물린 채 굳게 닫힌 강철 문이다. 문 표면에는 끊임없이 일렁이는 파도와 같은 <span class="highlight">물결 문양의 부조</span>가 정교하게 새겨져 있다. 그 위로 매달린 육중한 마법 자물쇠에서는 <span class="emphasis">서늘한 금빛</span>이 감돌며, 허가되지 않은 자의 접근을 거부하는 강렬한 위압감을 내뿜고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a massive iron lock. Intricate wave patterns are carved into the dark metal surface. Extremely shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -879,9 +874,12 @@ HTML :
 성스러운 빛이 결계가 되어 겹겹이 두르고 있죠. 어둠의 힘을 머금은 물건이나 생명체는 그 안으로 발을 들이는 것조차 비명이 나올 만큼 고통스러울 겁니다. 만약 억지로 들여보내려 했다면, 마치 거대한 벽에 가로막힌 듯 결코 그 안으로 들어설 수 없었을 테니까요.&quot;
 HTML :
 <div class="story-content">
+  <div class="script-direction">
+    취조실의 어스름한 불빛 아래, 창고지기 포로가 마른침을 삼키며 전하는 떨리는 목소리다.
+  </div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>취조실의 어스름한 불빛 아래, 창고지기 포로가 마른침을 삼키며 전하는 떨리는 목소리다.</p>
-    <p class="script-line">&quot;<span class="script-character">포로</span>: 그 지하 깊은 곳은... 단순한 보물창고가 아닙니다. <span class="emphasis">성스러운 빛이 결계</span>가 되어 겹겹이 두르고 있죠. 어둠의 힘을 머금은 물건이나 생명체는 그 안으로 발을 들이는 것조차 비명이 나올 만큼 고통스러울 겁니다. 만약 억지로 들여보내려 했다면, 마치 거대한 벽에 가로막힌 듯 결코 그 안으로 들어설 수 없었을 테니까요.&quot;</p>
+    <div>그 지하 깊은 곳은... 단순한 보물창고가 아닙니다. <span class="emphasis">성스러운 빛이 결계</span>가 되어 겹겹이 두르고 있죠. <span class="emphasis">어둠의 힘을 머금은 물건이나 생명체</span>는 그 안으로 발을 들이는 것조차 비명이 나올 만큼 고통스러울 겁니다. 만약 억지로 들여보내려 했다면, 마치 거대한 벽에 가로막힌 듯 결코 그 안으로 들어설 수 없었을 테니까요.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of the rough grain and texture of a single wooden chair in deep shadows. A cold, dim light catches only one edge of the wood. Extremely shallow depth of field, background is a dark, indistinct stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -906,12 +904,15 @@ HTML :
 관련 : 고어후프
 의도 : 실제로는 질책 때문에 스트레스를 받은 게 아니라 엘드리치의 쪽지를 읽고 스트레스를 받았음.
 내용 :
-연회장 구석에서 몸을 숨기고 있던 시녀의 증언이다. &quot;스컬크러셔 님께 호되게 질책을 듣고 돌아온 고어후프 님은 평소처럼 화를 내는 대신, 오히려 죽은 듯이 고요히 자리에 앉으셨어요. 그러더니 테이블 위에 놓인 작은 종이 조각을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 눈빛이 마치 굶주린 맹수처럼 붉게 번뜩이기 시작했습니다. 고어후프 님은 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 황급히 식당 쪽으로 달려가셨습니다.&quot;
+연회장 구석에서 몸을 숨기고 있던 시녀의 증언이다. &quot;스컬크러셔 님께 호되게 질책을 듣고 돌아온 고어후프 님은 평소처럼 화를 내는 대신, 오히려 죽은 듯이 고요히 자리에 앉으셨어요. 그러더니 테이블 위에 놓인 작은 종이 조각을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 눈빛이 마치 굶주린 맹수처럼 붉게 번뜩이기 시작했습니다. 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 황급히 식당 쪽으로 달려가셨습니다.&quot;
 HTML :
 <div class="story-content">
+  <div class="script-direction">
+    연회장 구석에서 몸을 숨기고 있던 시녀의 증언이다.
+  </div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>연회장 구석에서 몸을 숨기고 있던 시녀의 증언이다.</p>
-    <p class="script-line">&quot;<span class="script-character">시녀</span>: 스컬크러셔 님께 호되게 질책을 듣고 돌아온 고어후프 님은 평소처럼 화를 내는 대신, 오히려 죽은 듯이 <span class="emphasis">고요히 자리에 앉으셨어요.</span> 그러더니 테이블 위에 놓인 <span class="highlight">작은 종이 조각</span>을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 <span class="emphasis">눈빛이 마치 굶주린 맹수처럼 붉게 번뜩이기</span> 시작했습니다. 고어후프 님은 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 <span class="highlight">황급히 식당 쪽으로</span> 달려가셨습니다.&quot;</p>
+    <div>스컬크러셔 님께 호되게 질책을 듣고 돌아온 <span class="character-gorehoof">고어후프</span> 님은 평소처럼 화를 내는 대신, 오히려 죽은 듯이 <span class="emphasis">고요히 자리에 앉으셨어요.</span> 그러더니 테이블 위에 놓인 <span class="highlight">작은 종이 조각</span>을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 <span class="emphasis">눈빛이 마치 굶주린 맹수처럼 붉게 번뜩이기</span> 시작했습니다. 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 <span class="highlight">황급히 식당 쪽으로</span> 달려가셨습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up of long, menacing shadows cast across a textured wooden table surface. Shallow depth of field, background is completely dark and indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -921,7 +922,7 @@ HTML :
 ### 8) 무기고
 [clue_29]
 이름 : 무기고#1
-유형 : 정보
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 5
 정렬순서 : 290
@@ -938,17 +939,20 @@ HTML :
 내용 :
 평생을 무구 수집에 바친 광적인 수집가의 개인적인 감평이 적힌 수첩이다. 세월의 흔적이 묻은 가죽 표지 안쪽에는 탐욕스러운 필체로 다음과 같은 기록이 남겨져 있다.
 
-■ [빛의 검]: &quot;빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 &apos;순수한 빛의 속성&apos;을 지닌 자만이 다룰 수 있다. 자격 없는 자가 감히 손을 대는 순간, 그 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다.&quot;
-■ [어둠의 단검]: &quot;20년 전 &apos;빛의 성전&apos;의 혼란 속에서 자취를 감춘 비운의 검. 그림자를 실체화한 듯한 검신은 주변의 모든 빛을 빨아들이는 성질이 있다. 왕실 지하 깊숙한 곳의 비밀 보관소로 옮겨졌다는 기록을 끝으로 더 이상 시장에 모습을 드러내지 않고 있다.&quot;
-■ [고대인의 검]: &quot;옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 은빛을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 이 검의 독보적인 상징이다.&quot;
+■ 빛의 검: 빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 순수한 빛의 속성을 지닌 자만이 다룰 수 있다. 자격 없는 자가 감히 손을 대는 순간, 그 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다.
+■ 어둠의 단검: 20년 전 빛의 성전의 혼란 속에서 자취를 감춘 비운의 검. 그림자를 실체화한 듯한 검신은 주변의 모든 빛을 빨아들이는 성질이 있다. 왕실 지하 깊숙한 곳의 비밀 보관소로 옮겨졌다는 기록을 끝으로 더 이상 시장에 모습을 드러내지 않고 있다.
+■ 고대인의 검: 옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 은빛을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 이 검의 독보적인 상징이다.
 HTML :
 <div class="story-content">
+  <div class="script-direction">
+    평생을 무구 수집에 바친 광적인 수집가의 개인적인 감평이 적힌 수첩이다. 세월의 흔적이 묻은 가죽 표지 안쪽에는 탐욕스러운 필체로 다음과 같은 기록이 남겨져 있다.
+  </div>
+  <div class="divider-gold"></div>
   <div class="document-page">
-    <h4>무기 수집가의 노트</h4>
     <div class="document-body small">
-      <p>■ [<span class="highlight">빛의 검</span>]: &quot;빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 <span class="emphasis">&apos;순수한 빛의 속성&apos;</span>을 지닌 자만이 다룰 수 있다. 자격 없는 자가 감히 손을 대는 순간, 그 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다.&quot;</p>
-      <p>■ [<span class="emphasis">어둠의 단검</span>]: &quot;20년 전 &apos;빛의 성전&apos;의 혼란 속에서 자취를 감춘 비운의 검. 그림자를 실체화한 듯한 검신은 주변의 모든 빛을 빨아들이는 성질이 있다. 왕실 지하 깊숙한 곳의 <span class="highlight">비밀 보관소</span>로 옮겨졌다는 기록을 끝으로 더 이상 시장에 모습을 드러내지 않고 있다.&quot;</p>
-      <p>■ [<span class="highlight">고대인의 검</span>]: &quot;옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 <span class="emphasis">고대인의 문자</span>들이 이 검의 독보적인 상징이다.&quot;</p>
+      <div>■ <strong>빛의 검</strong>: 빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 순수한 <span class="emphasis">빛의 속성</span>을 지닌 자만이 다룰 수 있다. 자격 없는 자가 감히 손을 대는 순간, 그 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다.</div>
+      <div>■ <strong>어둠의 단검</strong>: 20년 전 빛의 성전의 혼란 속에서 자취를 감춘 비운의 검. 그림자를 실체화한 듯한 검신은 주변의 모든 빛을 빨아들이는 성질이 있다. 왕실 지하 깊숙한 곳의 비밀 보관소로 옮겨졌다는 기록을 끝으로 더 이상 시장에 모습을 드러내지 않고 있다.</div>
+      <div>■ <strong>고대인의 검</strong>: 옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 이 검의 독보적인 상징이다.</div>
     </div>
   </div>
 </div>
@@ -976,9 +980,7 @@ HTML :
 무기고 구석, 육중한 무기 거치대 아래에 검은색 가루가 떨어져 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>무기고 구석, 육중한 무기 거치대 아래에 검은색 가루가 떨어져 있다.</p>
-  </div>
+  <div>무기고 구석, 육중한 무기 거치대 아래에 <span class="highlight">검은색 가루</span>가 떨어져 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of fine black crystalline powder scattered on a dark stone floor. A low-angle shot with extremely shallow depth of field, background is blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 04_무기고
@@ -1006,14 +1008,17 @@ HTML :
 관련 : 스컬크러셔, 슬리더
 의도 : 골든 킹이 슬리더에게 류크 제거를 의뢰했음을 증명.
 내용 :
-왕좌 아래 눈에 띄지 않는 아주 비밀스러운 공간에서 발견된 의뢰서. &quot;기사 류크의 제거를 의뢰하며, 요구한 금액과 함께 &apos;어둠의 단검&apos;을 지급한다&quot;고 적혀 있다.
+왕좌 아래 눈에 띄지 않는 아주 비밀스러운 공간에서 의뢰서가 발견되었다.
+기사 류크의 제거를 의뢰하며, 요구한 금액과 함께 '어둠의 단검'을 지급한다.
 HTML :
 <div class="story-content">
+  <div class="script-direction">
+    왕좌 아래 눈에 띄지 않는 아주 비밀스러운 공간에서 의뢰서가 발견되었다.
+  </div>
+  <div class="divider-gold"></div>
   <div class="document-page">
-    <p class="script-direction">왕좌 아래 눈에 띄지 않는 아주 비밀스러운 공간에서 발견된 의뢰서.</p>
-    <div class="divider-gold"></div>
     <div class="document-body small">
-      <p>&quot;기사 류크의 제거를 의뢰하며, 요구한 금액과 함께 <span class="emphasis">&apos;어둠의 단검&apos;</span>을 지급한다.&quot;</p>
+      <div><span class="character-masters">기사 류크</span>의 제거를 의뢰하며, 요구한 금액과 함께 <span class="emphasis">어둠의 단검</span>을 지급한다.</div>
     </div>
   </div>
 </div>
@@ -1038,18 +1043,18 @@ HTML :
 관련 : 발트라
 의도 : 발트라가 마스터즈의 스파이였다는 구체적인 증거.
 내용 :
-[기밀] 기동 분대 1차 거점 보고서
+기동 분대 1차 거점 보고서
 수신: 마스터즈 작전 지휘부
 발신: 26호
-내용: 수뇌부 신뢰 확보됨. 초기 주둔지 좌표 및 주요 보급 경로 파악 완료. 차주 예정된 &apos;안개의 계곡&apos; 이동 시, 북방 사면을 매복 지점으로 활용할 계획임을 확인. 해당 위치에서의 선제 타격 시 유의미한 타격 가능할 것으로 판단됨. 신속한 매복 조 편성을 권고함.
+내용: 수뇌부 신뢰 확보됨. 초기 주둔지 좌표 및 주요 보급 경로 파악 완료. 차주 예정된 '안개의 계곡' 이동 시, 북방 사면을 매복 지점으로 활용할 계획임을 확인. 해당 위치에서의 선제 타격 시 유의미한 타격 가능할 것으로 판단됨. 신속한 매복 조 편성을 권고함.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>[기밀] 기동 분대 1차 거점 보고서</h4>
+    <h4>&lt;기동 분대 1차 거점 보고서&gt;</h4>
     <div class="document-body small">
-      <p>수신: <span class="character-masters">마스터즈 작전 지휘부</span> / 발신: <span class="emphasis">26호</span></p>
-      <div class="divider-gold"></div>
-      <p>수뇌부 신뢰 확보됨. <span class="highlight">초기 주둔지 좌표 및 주요 보급 경로</span> 파악 완료. 차주 예정된 &apos;안개의 계곡&apos; 이동 시, 북방 사면을 매복 지점으로 활용할 계획임을 확인. 해당 위치에서의 선제 타격 시 유의미한 타격 가능할 것으로 판단됨. 신속한 매복 조 편성을 권고함.</p>
+      <div>수신: <span class="character-masters">마스터즈</span> 작전 지휘부</div>
+      <div>발신: <span class="emphasis">26호</span></div>
+      <div>내용: 수뇌부 신뢰 확보됨. <span class="highlight">초기 주둔지 좌표 및 주요 보급 경로</span> 파악 완료. 차주 예정된 &apos;안개의 계곡&apos; 이동 시, 북방 사면을 매복 지점으로 활용할 계획임을 확인. 해당 위치에서의 선제 타격 시 유의미한 타격 가능할 것으로 판단됨. 신속한 매복 조 편성을 권고함.</div>
     </div>
   </div>
 </div>
@@ -1077,9 +1082,12 @@ HTML :
 왕좌의 방 복도를 지키던 근위대원의 증언이다. &quot;그 무렵 발트라 님이 오셔서 스컬크러셔 님이 어디 계신지 물어보셨습니다. 몹시 급한 기색이셨는데, 대장님께 꼭 보고해야 할 일이 있다며 초조하게 주변을 살피시더군요. 제가 모른다고 답하니 혀를 차며 &apos;이걸 어떻게 한다...&apos;라며 혼잣말로 중얼거리며 다른 곳으로 가버리셨습니다.&quot;
 HTML :
 <div class="story-content">
+  <div class="script-direction">
+    왕좌의 방 복도를 지키던 근위대원의 증언이다.
+  </div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>왕좌의 방 복도를 지키던 근위대원의 증언이다.</p>
-    <p class="script-line">&quot;<span class="script-character">근위대원</span>: 그 무렵 <span class="character-valtra">발트라</span> 님이 오셔서 스컬크러셔 님이 어디 계신지 물어보셨습니다. 몹시 급한 기색이셨는데, 대장님께 꼭 보고해야 할 일이 있다며 초조하게 주변을 살피시더군요. 제가 모른다고 답하니 혀를 차며 <span class="emphasis">&apos;이걸 어떻게 한다...&apos;</span>라며 혼잣말로 중얼거리며 다른 곳으로 가버리셨습니다.&quot;</p>
+    <div>그 무렵 <span class="character-valtra">발트라</span> 님이 오셔서 <span class="character-skullcrusher">스컬크러셔</span> 님이 어디 계신지 물어보셨습니다. 몹시 급한 기색이셨는데, 대장님께 꼭 보고해야 할 일이 있다며 초조하게 주변을 살피시더군요. 제가 모른다고 답하니 혀를 차며 <span class="emphasis">&apos;이걸 어떻게 한다...&apos;</span>라며 혼잣말로 중얼거리며 다른 곳으로 가버리셨습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic focus on a sharp shadow of a guard&apos;s silhouette cast against a rough, textured stone wall. Extremely shallow depth of field, background is dark and indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -1103,13 +1111,11 @@ HTML :
 관련 : 말리스
 의도 : 말리스와 골든 킹 사이의 과거사 실마리 제공.
 내용 :
-골든 킹의 집무실, 가장 깊숙한 비밀 서랍 안쪽에서 발견된 낡은 금색 펜던트. 겉면은 오랜 세월의 풍파에 긁히고 빛이 바랬지만, 누군가 매일같이 매만진 듯 특정 부위의 표면만 비정상적으로 매끄럽다. 뚜껑의 찌그러진 틈을 벌려 열어보면, 내부에는 섬세한 화풍으로 그려진 젊은 여인의 초상화가 담겨 있다. 이상할 정도로 말리스를 닮은 초상화 속 여인은 단정한 흑발을 늘어뜨린 채 수줍은 미소를 짓고 있어 묘한 괴리감과 슬픔을 자아낸다.
+골든 킹의 집무실, 가장 깊숙한 비밀 서랍 안쪽에서 발견된 낡은 금색 펜던트. 겉면은 오랜 세월의 풍파에 긁히고 빛이 바랬지만, 누군가 매일같이 매만진 듯 꽤 매끄럽다. 뚜껑의 찌그러진 틈을 벌려 열어보면, 내부에는 섬세한 화풍으로 그려진 젊은 여인의 초상화가 담겨 있다. 이상할 정도로 말리스를 닮은 초상화 속 여인은 수줍은 미소를 짓고 있어 묘한 괴리감과 슬픔을 자아낸다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>골든 킹의 집무실, 가장 깊숙한 비밀 서랍 안쪽에서 발견된 <span class="highlight">낡은 금색 펜던트</span>. 겉면은 오랜 세월의 풍파에 긁히고 빛이 바랬지만, 누군가 매일같이 매만진 듯 <span class="emphasis">특정 부위의 표면만 비정상적으로 매끄럽다.</span></p>
-    <p>뚜껑의 찌그러진 틈을 벌려 열어보면, 내부에는 섬세한 화풍으로 그려진 <span class="emphasis">젊은 여인의 초상화</span>가 담겨 있다. 이상할 정도로 <span class="character-malice">말리스</span>를 닮은 초상화 속 여인은 단정한 흑발을 늘어뜨린 채 수줍은 미소를 짓고 있어 묘한 괴리감과 슬픔을 자아낸다.</p>
-  </div>
+  <div><span class="character-goldenking">골든 킹</span>의 집무실, 가장 깊숙한 비밀 서랍 안쪽에서 발견된 <span class="highlight">낡은 금색 펜던트</span>. 겉면은 오랜 세월의 풍파에 긁히고 빛이 바랬지만, 누군가 매일같이 매만진 듯 꽤 매끄럽다.</div>
+  <div>뚜껑의 찌그러진 틈을 벌려 열어보면, 내부에는 섬세한 화풍으로 그려진 <span class="emphasis">젊은 여인의 초상화</span>가 담겨 있다. 이상할 정도로 <span class="character-malice">말리스</span>를 닮은 초상화 속 여인은 수줍은 미소를 짓고 있어 묘한 괴리감과 슬픔을 자아낸다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old, tarnished open golden pendant resting inside a dark, velvet-lined wooden jewelry box. Shadows are cast inside the box. Inside is a miniature oil portrait of a young woman with neat black hair. Shallow depth of field, focus is solely on the woman&apos;s face. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 01_왕좌의_방
@@ -1133,12 +1139,10 @@ HTML :
 관련 : 엘드리치
 의도 : 엘드리치는 봉인된 마신이었다는 증거.
 내용 :
-서재 한복판에 고꾸라져 있는 엘드리치의 시신이다. 그의 뒷목에는 평소 보이지 않던 기하학적인 물결 모양의 문양이 새겨져 있다. 화려하게 빛나던 평소의 기운과 달리, 지금은 색이 완전히 빠져나간 채 거칠게 갈라져 있다.
+서재 한복판에 고꾸라져 있는 엘드리치의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 물결 모양의 문양이 새겨져 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>서재 한복판에 고꾸라져 있는 <span class="character-eldritch">엘드리치</span>의 시신이다. 그의 뒷목에는 평소 보이지 않던 <span class="emphasis">기하학적인 물결 모양의 문양</span>이 새겨져 있다. 화려하게 빛나던 평소의 기운과 달리, 지금은 색이 완전히 빠져나간 채 거칠게 갈라져 있다.</p>
-  </div>
+  <div>서재 한복판에 고꾸라져 있는 <span class="character-eldritch">엘드리치</span>의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 <span class="emphasis">물결 모양의 문양</span>이 새겨져 있다./div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on the side of a neck showing faint, complex geometric patterns. Cold, pale skin texture. Shallow depth of field, background is completely dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
@@ -1164,9 +1168,7 @@ HTML :
 엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 위에서부터 순식간에 박힌 듯하다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 위에서부터 순식간에 박힌 듯하다.</p>
-  </div>
+  <div>엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 위에서부터 순식간에 박힌 듯하다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic crime scene in a dark, candlelit study. View from behind a high-backed gothic armchair. An elderly man with long white hair and navy blue robes sits in the chair, slumped forward over a heavy wooden desk. His head is down against the desk surface. A dark, spreading pool of blood is clearly visible on the desk surface around his head, staining the wood. The background shows dark, blurred bookshelves. Detailed 1980s fantasy oil painting style. Rich, thick textures of wood and cloth. Moody chiaroscuro lighting from candles inside the room. No vertical lines, no rays of light, and no artificial shadows. The focus is entirely on the still, slumped figure and the dark pool of blood on the desk.
 장소 : 02_서재
@@ -1189,12 +1191,10 @@ HTML :
 관련 : 발로그
 의도 : 발로그가 비행해서 올라갔다는 증거.
 내용 :
-서재 천장, 엘드리치가 앉아 있던 의자 바로 위 지점에 매달린 화려한 수정 샹들리에다. 금속 프레임에 수많은 수정 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.
+서재 천장, 엘드리치가 앉아 있던 의자 바로 위 지점에 매달린 화려한 샹들리에다. 금속 프레임에 수많은 크리스털 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>서재 천장, 엘드리치가 앉아 있던 의자 바로 위 지점에 매달린 화려한 <span class="highlight">수정 샹들리에</span>다. 금속 프레임에 수많은 수정 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.</p>
-  </div>
+  <div>서재 천장, 엘드리치가 앉아 있던 <span class="emphasis">의자 바로 위</span> 지점에 매달린 화려한 <span class="highlight">샹들리에</span>다. 금속 프레임에 수많은 <span class="emphasis">크리스털 조각</span>들이 촘촘히 박혀 있으며, <span class="emphasis">천장</span>과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A medium close-up focused shot of a grand, ornate gothic chandelier that fills most of the frame. The intricate dark wrought iron frame and glittering, faceted crystal pendants are the primary focus, radiating a warm, flickering golden glow from within. The light refracts through the glass, casting sharp, dramatic highlights and deep, rich shadows within the chandelier&apos;s structure itself. The background is completely swallowed by deep, velvety shadows, ensuring undivided attention on the intricate craftsmanship and the haunting light of the chandelier. Detailed 1980s fantasy oil painting style. Heavy brushstrokes, rich textures (dark iron, sparkling crystal), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the interplay of golden light and dark metal. No background elements, just the chandelier itself glowing in the darkness.
 장소 : 02_서재
@@ -1217,9 +1217,9 @@ HTML :
 관련 : 엘드리치
 의도 : 자애로운 현자의 문체로 위장하여 각 캐릭터의 약점과 협박 정황을 은유적으로 암시함. 타 단서들과 조합하여 동기를 유추하게 만듦.
 내용 :
-책상 위에는 엘드리치의 것으로 보이는 낡은 가죽 수첩이 펼쳐져 있다.
+책상 위에는 낡은 가죽 수첩이 펼쳐져 있다.
 
-&quot;달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며...&quot;
+달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며...
 
 1. 노란 돌 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.
 2. 달궈진 쇠를 두드려 날개를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.
@@ -1228,17 +1228,16 @@ HTML :
 5. 칼끝이 머무는 곳은 여전히 저 멀리 하얀 성의 빛을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.
 HTML :
 <div class="story-content">
+  <div class="script-direction">책상 위에는 낡은 가죽 수첩이 펼쳐져 있다.</div>
+  <div class="divider-gold"></div>
   <div class="document-page">
-    <h4 class="no-margin">어둠 속에서 길을 찾는 이들에게</h4>
-    <div class="divider-gold"></div>
     <div class="document-body small">
-      <p class="script-direction">책상 위에는 엘드리치의 것으로 보이는 낡은 가죽 수첩이 펼쳐져 있다.</p>
-      <p>&quot;달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며...&quot;</p>
-      <p>1. <span class="highlight">노란 돌</span> 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.</p>
-      <p>2. 달궈진 쇠를 두드려 <span class="emphasis">날개</span>를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.</p>
-      <p>3. 자신이 꺼뜨렸다 믿던 저 <span class="emphasis">밝은 해</span>가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.</p>
-      <p>4. 홀로 <span class="highlight">벗을 삼키던</span> 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.</p>
-      <p>5. 칼끝이 머무는 곳은 여전히 저 멀리 <span class="emphasis">하얀 성의 빛</span>을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.</p>
+      <div><strong>달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며...</strong></div>
+      <div>1. <span class="highlight">노란 돌</span> 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.</div>
+      <div>2. 달궈진 쇠를 두드려 <span class="emphasis">날개</span>를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.</div>
+      <div>3. 자신이 꺼뜨렸다 믿던 저 <span class="emphasis">밝은 해</span>가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.</div>
+      <div>4. 홀로 <span class="highlight">벗을 삼키던</span> 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.</div>
+      <div>5. 칼끝이 머무는 곳은 여전히 저 멀리 <span class="emphasis">하얀 성의 빛</span>을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.</div>
     </div>
   </div>
 </div>
@@ -1264,12 +1263,13 @@ HTML :
 관련 : 말리스, 발로그
 의도 : 연구실 내부 공범 존재 가능성 시사.
 내용 :
-연구실 입구에서 경비를 서던 병사의 증언이다. &quot;그때 분명 연구실 안쪽에서 대화 소리가 들려왔습니다. 한 명은 동굴 속에서 울리는 듯한 굵고 낮은 목소리였고, 다른 한 명은 그와는 확연히 다른 여성의 목소리였지요. 아주 낮게 소곤거리는 듯한 소리여서 구체적인 대화 내용까지는 알아들을 수 없었지만, 두 사람이 이야기를 주고받는 것은 분명히 들었습니다.&quot;
+연구실 입구에서 경비를 서던 병사의 증언이다. "그때 분명 연구실 안쪽에서 대화 소리가 들려왔습니다. 한 명은 동굴 속에서 울리는 듯한 굵고 낮은 목소리였고, 다른 한 명은 그와는 확연히 다른 여성의 목소리였지요. 아주 낮게 소곤거리는 듯한 소리여서 구체적인 대화 내용까지는 알아들을 수 없었지만, 두 사람이 이야기를 주고받는 것은 분명히 들었습니다."
 HTML :
 <div class="story-content">
+  <div class="script-direction">연구실 입구에서 경비를 서던 병사의 증언이다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>연구실 입구에서 경비를 서던 병사의 증언이다.</p>
-    <p class="script-line">&quot;<span class="script-character">병사</span>: 그때 분명 연구실 안쪽에서 대화 소리가 들려왔습니다. 한 명은 동굴 속에서 울리는 듯한 <span class="emphasis">굵고 낮은 목소리</span>였고, 다른 한 명은 그와는 확연히 다른 <span class="highlight">여성의 목소리</span>였지요. 아주 낮게 소곤거리는 듯한 소리여서 구체적인 대화 내용까지는 알아들을 수 없었지만, 두 사람이 이야기를 주고받는 것은 분명히 들었습니다.&quot;</p>
+    <div>그때 분명 연구실 안쪽에서 대화 소리가 들려왔습니다. 한 명은 동굴 속에서 울리는 듯한 <span class="emphasis">굵고 낮은 목소리</span>였고, 다른 한 명은 그와는 확연히 다른 <span class="emphasis">여성의 목소리</span>였지요. 아주 낮게 소곤거리는 듯한 소리여서 구체적인 대화 내용까지는 알아들을 수 없었지만, 두 사람이 이야기를 주고받는 것은 분명히 들었습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic shot seen through a narrow door gap, showing the dark, imposing silhouette of a heavily armored guard standing watch in a dimly lit stone corridor. The guard is seen from behind, his face hidden within a visored helmet as he leans slightly on a long spear. Flickering torchlight from deep within the corridor casts a long, distorted shadow that stretches toward the camera across the floorboards. The background is mostly dark, defined by the rough textures of the stone walls. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (cold plate mail, weathered stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the ominous presence of the guard seen through the narrow opening. No faces visible, just the silhouette in the darkness.
@@ -1294,12 +1294,13 @@ HTML :
 관련 : 고어후프
 의도 : 고어후프의 광폭화에 대한 단서.
 내용 :
-성문 돌격 당시 고어후프 님의 뒤를 따르던 돌격대원의 이야기를 들어보았다. &quot;그 거대한 도끼를 휘두르며 적진을 향해 앞장서시던 고어후프 님의 투구 틈새를 우연히 보게 되었습니다. 분명 평상시에는 검은 빛이던 그분의 눈이, 그때는 마치 신선한 피를 담아놓은 듯 짙은 붉은색으로 일렁이고 있었죠. 그 서슬 퍼런 안광과 마주친 순간, 동료인 저조차 소름이 돋아 길을 비켜서야만 했습니다.&quot;
+성문 돌격 당시 고어후프의 뒤를 따르던 돌격대원의 이야기를 들어보았다. "거대한 도끼를 휘두르며 적진을 향해 앞장서던 대장의 투구 틈새를 우연히 보게 되었습니다. 분명 평상시에는 검은 빛이던 그분의 눈이, 그때는 마치 신선한 피를 담아놓은 듯 짙은 붉은색으로 일렁이고 있었죠. 그 서슬 퍼런 안광과 마주친 순간, 소름이 돋아 길을 비켜서야만 했습니다."
 HTML :
 <div class="story-content">
+  <div class="script-direction">성문 돌격 당시 <span class="character-gorehoof">고어후프</span>의 뒤를 따르던 돌격대원의 이야기를 들어보았다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>성문 돌격 당시 고어후프 님의 뒤를 따르던 돌격대원의 이야기를 들어보았다.</p>
-    <p class="script-line">&quot;<span class="script-character">돌격대원</span>: 그 거대한 도끼를 휘두르며 적진을 향해 앞장서시던 고어후프 님의 투구 틈새를 우연히 보게 되었습니다. 분명 평상시에는 검은 빛이던 그분의 눈이, 그때는 마치 신선한 피를 담아놓은 듯 <span class="emphasis">짙은 붉은색</span>으로 일렁이고 있었죠. 그 서슬 퍼런 <span class="highlight">안광</span>과 마주친 순간, 동료인 저조차 소름이 돋아 길을 비켜서야만 했습니다.&quot;</p>
+    <div>그 거대한 도끼를 휘두르며 적진을 향해 앞장서던 대장의 투구 틈새를 우연히 보게 되었습니다. 분명 평상시에는 검은 빛이던 그분의 눈이, 그때는 마치 신선한 피를 담아놓은 듯 <span class="emphasis">짙은 붉은색</span>으로 일렁이고 있었죠. 그 서슬 퍼런 안광과 마주친 순간, 소름이 돋아 길을 비켜서야만 했습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the massive, imposing silhouette of a heavily armored warrior seen from behind, standing in a large, dark, and empty dining hall. In the blurred background, the faint silhouettes of long, heavy wooden tables and some overturned chairs are barely visible, establishing the dining hall setting. He holds a colossal, notched battle axe over his broad shoulder, the harsh red-tinted light from an unseen source catching the lethal, jagged edge of the blade. The red light spills across his back, highlighting the metal spikes of his armor and the heavy, worn texture of the axe head. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (dark iron, weathered wood, cold stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the ominous presence of the warrior and his massive weapon. No face visible, just the silhouette in the darkness.
@@ -1324,14 +1325,14 @@ HTML :
 관련 : 발로그
 의도 : 발로그가 직접 살해할 수 없고 공범만 될 수 있다는 이유.
 내용 :
-오랜 시간의 흔적이 묻은 가죽 표지의 마도서 한 면에 기록된 내용이다. &quot;사역마와 계약주 사이의 영혼 결속은 생사의 끈이 얽힌 절대적인 계약이다. 그 어떠한 사역마도 계약주를 자신의 의지로 해할 수 없으며, 이 강력한 구속은 오직 계약주 스스로의 의지로 계약을 해지하거나, 계약주가 죽었을 때에만 비로소 파기된다.&quot;
+오랜 시간의 흔적이 묻은 가죽 표지의 마도서 한 면에 기록된 내용이다. "사역마와 계약주 사이의 마법 계약은 생사의 끈이 얽힌 절대적인 것이다. 그 어떠한 사역마도 계약주를 자신의 의지로 해할 수 없으며, 이 강력한 구속은 오직 계약주 스스로의 의지로 계약을 해지하거나, 계약주가 죽었을 때에만 비로소 파기된다."
 HTML :
 <div class="story-content">
+  <div class="script-direction">오랜 시간의 흔적이 묻은 가죽 표지의 마도서 한 면에 기록된 내용이다.</div>
+  <div class="divider-gold"></div>
   <div class="document-page">
-    <p class="script-direction">오랜 시간의 흔적이 묻은 가죽 표지의 마도서 한 면에 기록된 내용이다.</p>
-    <div class="divider-gold"></div>
     <div class="document-body small">
-      <p>&quot;사역마와 계약주 사이의 <span class="emphasis">영혼 결속</span>은 생사의 끈이 얽힌 절대적인 계약이다. 그 어떠한 사역마도 계약주를 자신의 의지로 해할 수 없으며, 이 <span class="highlight">강력한 구속</span>은 오직 계약주 스스로의 의지로 계약을 해지하거나, 계약주가 죽었을 때에만 비로소 파기된다.&quot;</p>
+      <div>사역마와 계약주 사이의 <span class="emphasis">마법 계약</span>은 생사의 끈이 얽힌 절대적인 것이다. 그 어떠한 사역마도 <span class="highlight">계약주를 자신의 의지로 해할 수 없으며</span>, 이 강력한 구속은 오직 <span class="highlight">계약주 스스로의 의지로 계약을 해지</span>하거나, <span class="highlight">계약주가 죽었을 때</span>에만 비로소 파기된다.</div>
     </div>
   </div>
 </div>
@@ -1341,7 +1342,7 @@ HTML :
 
 [clue_42]
 이름 : 문서고#7
-유형 : 정보
+유형 : 물증
 단계 : 조사 2단계
 소모AP : 4
 정렬순서 : 420
@@ -1356,18 +1357,17 @@ HTML :
 관련 : 발트라
 의도 : 발트라 숙청 작전 실패에 관한 정보 제공.
 내용 :
-[기밀] 사후 보고 - 26호 폐기에 대한 건
+사후 보고 - 26호 폐기에 대한 건
 상태: 작전 실패
-내용: 보안 유지를 위해 결정된 26호의 폐기 작전 수행 중 예기치 못한 사태 발생. 매복 조가 대상을 포위하였으나, 거대 이종족이 난입하여 봉쇄망을 무력화함. 해당 개체는 26호를 탈취하여 아군의 추적 범위 밖으로 도주함. 이후 26호를 &apos;배신자&apos;로, 해당 이종족을 &apos;위험 요소&apos;로 재분류함.
+내용: 보안 유지를 위해 결정된 폐기 작전 수행 중 예기치 못한 사태 발생. 매복 조가 대상을 포위하였으나, 정체불명의 수인족이 난입하여 봉쇄망에 균열 발생, 그 결과 목표 탈주함. 이후 26호를 '배신자'로, 해당 수인족을 '위험 요소'로 재분류함.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>[기밀] 사후 보고 - 26호 폐기에 대한 건</h4>
+    <h4>&lt;사후 보고 - 26호 폐기에 대한 건&gt;</h4>
     <div class="document-body small">
-      <p>상태: <span class="emphasis">작전 실패</span></p>
-      <div class="divider-gold"></div>
-      <p>보안 유지를 위해 결정된 26호의 폐기 작전 수행 중 예기치 못한 사태 발생. 매복 조가 대상을 포위하였으나, <span class="highlight">거대 이종족</span>이 난입하여 봉쇄망을 무력화함. 해당 개체는 26호를 탈취하여 아군의 추적 범위 밖으로 도주함.</p>
-      <p>이후 26호를 <span class="emphasis">&apos;배신자&apos;</span>로, 해당 이종족을 <span class="emphasis">&apos;위험 요소&apos;</span>로 재분류함.</p>
+      <div>상태: <span class="emphasis">작전 실패</span></div>
+      <div>보안 유지를 위해 결정된 폐기 작전 수행 중 예기치 못한 사태 발생. 매복 조가 대상을 포위하였으나, 정체불명의 <span class="highlight">수인족</span>이 난입하여 봉쇄망에 균열 발생, 그 결과 목표 탈주함.</div>
+      <div>이후 <span class="highlight">26호</span>를 <span class="emphasis">&apos;배신자&apos;</span>로, 해당 <span class="highlight">수인족</span>을 <span class="emphasis">&apos;위험 요소&apos;</span>로 재분류함.</div>
     </div>
   </div>
 </div>
@@ -1377,7 +1377,7 @@ HTML :
 
 [clue_43]
 이름 : 문서고#8
-유형 : 정보
+유형 : 물증
 단계 : 조사 2단계
 소모AP : 4
 정렬순서 : 430
@@ -1392,21 +1392,21 @@ HTML :
 관련 : 스컬크러셔
 의도 : 류크의 과거 공적과 행적에 대한 정보 제공.
 내용 :
-[포상 기록]
+<포상 기록>
 대상: 기사 류크
-사유: &apos;빛의 성전&apos;(내부 작전명: &apos;대정화&apos;) 완수 및 변방 행성 평정.
-내역: 제2외곽 &apos;푸른빛 행성&apos; 자치권 하사 및 행성 총독 임명.
-비고: 대상은 부임 직후 실종, 통치 공백 장기화에 의거하여 해당 직위를 &apos;공석&apos; 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함.
+사유: 대정화 완수 및 변방 행성 평정
+내역: 제2외곽 행성 자치권 하사 및 행성 총독 임명
+비고: 대상은 부임 직후 실종, 통치 공백 장기화에 의거하여 해당 직위를 공석 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>[포상 기록]</h4>
+    <h4>&lt;포상 기록&gt;</h4>
     <div class="document-body small">
-      <p>대상: <span class="character-masters">기사 류크</span></p>
-      <p>사유: &apos;빛의 성전&apos;(내부 작전명: &apos;대정화&apos;) 완수 및 변방 행성 평정.</p>
-      <p>내역: <span class="highlight">제2외곽 &apos;푸른빛 행성&apos; 자치권 하사 및 행성 총독 임명</span></p>
+      <div>대상: <span class="character-masters">기사 류크</span></div>
+      <div>사유: <span class="emphasis">대정화 완수 및 변방 행성 평정</span></div>
+      <div>내역: <span class="highlight">제2외곽 행성 자치권 하사 및 행성 총독 임명</span></div>
       <div class="divider-gold"></div>
-      <p>비고: 대상은 부임 직후 <span class="emphasis">실종</span>, 통치 공백 장기화에 의거하여 해당 직위를 &apos;공석&apos; 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함.</p>
+      <div>비고: 대상은 부임 직후 <span class="emphasis">실종</span>, 통치 공백 장기화에 의거하여 해당 직위를 <span class="emphasis">공석</span> 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함</div>
     </div>
   </div>
 </div>
@@ -1435,9 +1435,7 @@ HTML :
 문서고 선반 구석에 놓여 있던 새까만 단검이다. 칼날에는 검붉은 혈흔이 묻어 있다. 자루 부분을 만져보니 검은 가루가 묻어 나온다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>문서고 선반 구석에 놓여 있던 <span class="highlight">새까만 단검</span>이다. 칼날에는 <span class="emphasis">검붉은 혈흔</span>이 묻어 있다. 자루 부분을 만져보니 <span class="highlight">검은 가루</span>가 묻어 나온다.</p>
-  </div>
+  <div>문서고 선반 구석에 놓여 있던 <span class="highlight">새까만 단검</span>이다. 칼날에는 <span class="emphasis">검붉은 혈흔</span>이 묻어 있다. 자루 부분을 만져보니 <span class="highlight">검은 가루</span>가 묻어 나온다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a dark, obsidian-like dagger tucked away in the corner of a dusty archive shelf, partially hidden between ancient, leather-bound books. Flickering candlelight catches the lethal, sharp edge of the blade, revealing a dark crimson bloodstain. The background shows the blurred textures of old parchment and wood. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 06_문서고
@@ -1448,7 +1446,7 @@ HTML :
 ### 6) 지하창고 (6, 6-1)
 [clue_45]
 이름 : 지하창고#4
-유형 : 장치
+유형 : 물증
 단계 : 조사 2단계
 소모AP : 4
 정렬순서 : 450
@@ -1466,9 +1464,7 @@ HTML :
 굳게 잠긴 지하창고 문의 중앙, 정교하게 각인된 물결 문양이 눈부신 빛을 내뿜으며 문 전체로 퍼져나간다. 차가운 청람색 위압감을 내뿜던 마법 자물쇠가 성스러운 은빛 광휘와 공명하더니, 이윽고 육중한 기계음과 함께 스스로 잠금을 해제하며 거대한 철문이 서서히 열리기 시작한다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>굳게 잠긴 지하창고 문의 중앙, 정교하게 각인된 <span class="highlight">물결 문양</span>이 눈부신 빛을 내뿜으며 문 전체로 퍼져나간다. 차가운 청람색 위압감을 내뿜던 마법 자물쇠가 <span class="emphasis">성스러운 은빛 광휘</span>와 공명하더니, 이윽고 육중한 기계음과 함께 스스로 잠금을 해제하며 거대한 철문이 서서히 열리기 시작한다.</p>
-  </div>
+  <div>굳게 잠긴 지하창고 문의 중앙, 정교하게 각인된 <span class="highlight">물결 문양</span>이 눈부신 빛을 내뿜으며 문 전체로 퍼져나간다. 차가운 청람색 위압감을 내뿜던 마법 자물쇠가 <span class="emphasis">성스러운 은빛 광휘</span>와 공명하더니, 이윽고 육중한 기계음과 함께 스스로 잠금을 해제하며 거대한 철문이 서서히 열리기 시작한다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain exactly the same composition, perspective, and heavy iron texture as the provided reference image (clue_26). An extreme macro close-up focus on the same magic lock from the previous scene, but now a blindingly bright, holy silver and pure white light emanates from its central wavy geometric engravings. The divine radiance pulsates and spreads across the riveted iron-bound door, illuminating the cold metal with intense silver brilliance. No blue light remains; only the pure, sanctified silver glow that resonates with the holy sword. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting. Focus on the transition where the silver light meets the dark, weathered iron of the door.
 장소 : 07_지하창고
@@ -1491,12 +1487,13 @@ HTML :
 관련 : 발트라
 의도 : 발트라의 알리바이에 대한 의구심 생성.
 내용 :
-지하창고 조사 임무를 함께 수행하던 대원의 증언이다. &quot;16시 10분경이었습니다. 대장님의 지시로 함께 창고 내부를 살피던 중이었는데, 어느 순간 발트라 님이 보이지 않더군요. 한 30~40분 정도 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다.&quot;
+지하창고 탐색 임무를 수행하던 대원의 증언이다. "16시 10분경이었습니다. 대장님의 지시로 함께 창고 내부를 살피던 중이었는데, 어느 순간 발트라 님이 보이지 않더군요. 한 30~40분 정도 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다."
 HTML :
 <div class="story-content">
+  <div class="script-direction">지하창고 탐색 임무를 수행하던 대원의 증언이다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>지하창고 조사 임무를 함께 수행하던 대원의 증언이다.</p>
-    <p class="script-line">&quot;<span class="script-character">대원</span>: 16시 10분경이었습니다. 대장님의 지시로 함께 창고 내부를 살피던 중이었는데, 어느 순간 <span class="character-valtra">발트라</span> 님이 보이지 않더군요. <span class="emphasis">한 30~40분 정도</span> 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다.&quot;</p>
+    <div>16시 10분경이었습니다. 대장님의 지시로 함께 창고 내부를 살피던 중이었는데, 어느 순간 <span class="character-valtra">발트라</span> 님이 보이지 않더군요. <span class="emphasis">한 30~40분 정도</span> 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic shot showing the dark, unidentifiable silhouette of a mercenary warrior seen from behind, standing in a cold and damp stone hallway of the underground warehouse. The mercenary wears a tattered cloak and primitive leather and iron armor. Flickering torchlight from an unseen source on the wall casts soft, natural shadows across the wet stone tiles and the rough stone wall. The atmosphere is quiet and tense. Extremely shallow depth of field, background is dark and indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stones, worn leather, metal highlights), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the steady, silent presence of the mercenary in the darkness. No face visible, just the silhouette.
@@ -1520,12 +1517,10 @@ HTML :
 관련 : 슬리더, 말리스
 의도 : 이 마력석은 과거 말리스의 마력이 봉인되어 있음.
 내용 :
-&apos;마력석&apos;이라고 적혀 있는 보관함이다. 잠겨 있지 않으며, 열어보니 안에는 아무것도 들어 있지 않다.
+'마력석'이라고 적혀 있는 보관함이다. 잠겨 있지 않으며, 열어보니 안에는 아무것도 들어 있지 않다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&apos;마력석&apos;이라고 적혀 있는 보관함이다. 잠겨 있지 않으며, 열어보니 <span class="emphasis">안에는 아무것도 들어 있지 않다.</span></p>
-  </div>
+  <div>&apos;마력석&apos;이라고 적혀 있는 보관함이다. 잠겨 있지 않으며, 열어보니 <span class="emphasis">안에는 아무것도 들어 있지 않다.</span></div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an empty, velvet-lined wooden box resting on a dark stone floor. Shadows are cast inside and beneath the box. Faint dust motes in the air catch the dim light. Shallow depth of field, background is a dark stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -1551,9 +1546,7 @@ HTML :
 지하창고 구석 벽면 아래로 연결된 비좁은 배수로다. 성인이라면 도저히 통과할 수 없을 만큼 입구가 협소하며, 주변에는 약간의 물기가 남아 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>지하창고 구석 벽면 아래로 연결된 <span class="emphasis">비좁은 배수로</span>다. 성인이라면 도저히 통과할 수 없을 만큼 입구가 협소하며, 주변에는 <span class="highlight">약간의 물기</span>가 남아 있다.</p>
-  </div>
+  <div>지하창고 구석 벽면 아래로 연결된 <span class="emphasis">비좁은 배수로</span>다. 성인이라면 도저히 통과할 수 없을 만큼 입구가 협소하며, 주변에는 <span class="highlight">약간의 물기</span>가 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain the same perspective and floor-level view as the provided reference image (25_지하창고_1.jpg). An extreme macro close-up focus on a heavy, iron-grated drainage cover set into the dark stone floorboards in a corner of the underground warehouse. Only a small, subtle amount of moisture is visible, with tiny glistening water droplets on the metal grate and a faint dampness on the surrounding wet stone tiles. The rest of the floor is dry, creating a clear contrast with the localized wetness near the drain. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered iron, cold damp stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the delicate, slight wetness as a haunting clue. No background elements, just the floor and the grate.
 장소 : 07_지하창고
@@ -1576,17 +1569,15 @@ HTML :
 관련 : 발로그, 발트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
-&apos;바람의 창&apos;이라고 적혀 있는 보관함 안에는 가늘고 긴 창신 전체가 투명한 에메랄드빛 광채를 내뿜고 있는 창이 들어 있다. 창끝에는 끊임없이 소용돌이치는 기류가 감돌고 있으며, 자루를 쥐는 순간 주변의 공기가 가벼워지는 듯한 기분이 든다.
-[속성]: 바람
-[전투력]: 발로그/발트라가 소유했다면 +3
+'바람의 창'이라고 적혀 있는 보관함 안에는 가늘고 긴 창신 전체가 투명한 에메랄드빛 광채를 내뿜고 있는 창이 들어 있다. 창끝에는 끊임없이 소용돌이치는 기류가 감돌고 있으며, 자루를 쥐는 순간 주변의 공기가 가벼워지는 듯한 기분이 든다.
+속성: 바람
+전투력: 발로그/발트라가 소유했다면 +3
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&apos;바람의 창&apos;이라고 적혀 있는 보관함 안에는 가늘고 긴 창신 전체가 투명한 <span class="highlight">에메랄드빛 광채</span>를 내뿜고 있는 창이 들어 있다. 창끝에는 끊임없이 소용돌이치는 기류가 감돌고 있으며, 자루를 쥐는 순간 <span class="emphasis">주변의 공기가 가벼워지는 듯한 기분</span>이 든다.</p>
-    <div class="divider-gold"></div>
-    <p class="no-margin"><span class="emphasis">[속성]</span>: 바람</p>
-    <p class="no-margin"><span class="emphasis">[전투력]</span>: <span class="highlight">발로그/발트라</span>가 소유했다면 <span class="highlight">+3</span></p>
-  </div>
+  <div>&apos;바람의 창&apos;이라고 적혀 있는 보관함 안에는 가늘고 긴 창신 전체가 투명한 에메랄드빛 광채를 내뿜고 있는 창이 들어 있다. 창끝에는 끊임없이 소용돌이치는 기류가 감돌고 있으며, 자루를 쥐는 순간 주변의 공기가 가벼워지는 듯한 기분이 든다.</div>
+  <div class="divider-gold"></div>
+  <div>속성: 바람</div>
+  <div>전투력: <span class="character-balrog">발로그</span>/<span class="character-valtra">발트라</span>가 소유했다면 +3</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a long spear with a translucent emerald blade. Faint swirling air currents wrap around the sharp tip. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -1609,17 +1600,15 @@ HTML :
 관련 : 고어후프, 발트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
-&apos;대지의 도끼&apos;라고 적혀 있는 보관함 안에는 육중한 바위를 깎아 만든 듯한 거대한 양손 도끼가 들어 있다. 날 부분에는 대지의 정수가 결정화된 황갈색 광석이 박혀 있으며, 자루에서는 묵직한 진동이 느껴진다.
-[속성]: 대지
-[전투력]: 고어후프/발트라가 소유했다면 +3
+'대지의 도끼'라고 적혀 있는 보관함 안에는 육중한 바위를 깎아 만든 듯한 거대한 양손 도끼가 들어 있다. 날 부분에는 대지의 정수가 결정화된 황갈색 광석이 박혀 있으며, 자루에서는 묵직한 진동이 느껴진다.
+속성: 대지
+전투력: 고어후프/발트라가 소유했다면 +3
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&apos;대지의 도끼&apos;라고 적혀 있는 보관함 안에는 육중한 바위를 깎아 만든 듯한 거대한 양손 도끼가 들어 있다. 날 부분에는 대지의 정수가 결정화된 <span class="highlight">황갈색 광석</span>이 박혀 있으며, 자루에서는 묵직한 진동이 느껴진다.</p>
-    <div class="divider-gold"></div>
-    <p class="no-margin"><span class="emphasis">[속성]</span>: 대지</p>
-    <p class="no-margin"><span class="emphasis">[전투력]</span>: <span class="highlight">고어후프/발트라</span>가 소유했다면 <span class="highlight">+3</span></p>
-  </div>
+  <div>&apos;대지의 도끼&apos;라고 적혀 있는 보관함 안에는 육중한 바위를 깎아 만든 듯한 거대한 양손 도끼가 들어 있다. 날 부분에는 대지의 정수가 결정화된 황갈색 광석이 박혀 있으며, 자루에서는 묵직한 진동이 느껴진다.</div>
+  <div class="divider-gold"></div>
+  <div>속성: 대지</div>
+  <div>전투력: <span class="character-gorehoof">고어후프</span>/<span class="character-valtra">발트라</span>가 소유했다면 +3</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a massive stone-headed battle axe. A golden-brown gemstone embedded in the head emits a faint, earthy glow. Shallow depth of field, background is a cold stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -1642,17 +1631,15 @@ HTML :
 관련 : 슬리더, 발트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
-&apos;물의 검&apos;이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 맑고 투명한 검신의 보검이 들어 있다. 칼날 주변으로는 항상 잔잔한 물결이 일렁이는 듯한 환각이 보이며, 휘두를 때마다 청량한 물소리가 공명을 일으킨다.
-[속성]: 물
-[전투력]: 슬리더/발트라가 소유했다면 +3
+'물의 검'이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 맑고 투명한 검신의 보검이 들어 있다. 칼날 주변으로는 항상 잔잔한 물결이 일렁이는 듯한 환각이 보이며, 휘두를 때마다 청량한 물소리가 공명을 일으킨다.
+속성: 물
+전투력: 슬리더/발트라가 소유했다면 +3
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&apos;물의 검&apos;이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 <span class="highlight">맑고 투명한 검신의 보검</span>이 들어 있다. 칼날 주변으로는 항상 잔잔한 물결이 일렁이는 듯한 환각이 보이며, 휘두를 때마다 청량한 물소리가 공명을 일으킨다.</p>
-    <div class="divider-gold"></div>
-    <p class="no-margin"><span class="emphasis">[속성]</span>: 물</p>
-    <p class="no-margin"><span class="emphasis">[전투력]</span>: <span class="highlight">슬리더/발트라</span>가 소유했다면 <span class="highlight">+3</span></p>
-  </div>
+  <div>&apos;물의 검&apos;이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 <span class="highlight">맑고 투명한 검신의 보검</span>이 들어 있다. 칼날 주변으로는 항상 잔잔한 물결이 일렁이는 듯한 환각이 보이며, 휘두를 때마다 청량한 물소리가 공명을 일으킨다.</div>
+  <div class="divider-gold"></div>
+  <div>속성: 물</div>
+  <div>전투력: <span class="character-slither">슬리더</span>/<span class="character-valtra">발트라</span>가 소유했다면 +3</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a beautiful, translucent blue sword. Rippling water patterns appear within the glass-like blade. Extremely shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -1675,17 +1662,15 @@ HTML :
 관련 : 스컬크러셔
 의도 : 캐릭터 능력치 보정 아이템. 스컬크러셔가 소유했다면 +4이며 결론 단계에서 밝혀짐
 내용 :
-&apos;빛의 검&apos;이라고 적혀 있는 보관함 안에는 눈이 멀 듯한 성백색 광휘를 내뿜는 성검이 들어 있다. 정오의 태양빛을 결정화한 듯한 검신을 지니고 있으며, 자루 부분에는 마스터즈의 문장이 정교하게 새겨져 있다.
-[속성]: 빛
-[전투력]: +?
+'빛의 검'이라고 적혀 있는 보관함 안에는 눈이 멀 듯한 성백색 광휘를 내뿜는 검이 들어 있다. 정오의 태양빛을 결정화한 듯한 검신을 지니고 있으며, 자루 부분에는 마스터즈의 문장이 정교하게 새겨져 있다.
+속성: 빛
+전투력: +?
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>&apos;빛의 검&apos;이라고 적혀 있는 보관함 안에는 눈이 멀 듯한 <span class="emphasis">성백색 광휘</span>를 내뿜는 성검이 들어 있다. 정오의 태양빛을 결정화한 듯한 검신을 지니고 있으며, 자루 부분에는 <span class="character-masters">마스터즈의 문장</span>이 정교하게 새겨져 있다.</p>
-    <div class="divider-gold"></div>
-    <p class="no-margin"><span class="emphasis">[속성]</span>: 빛</p>
-    <p class="no-margin"><span class="emphasis">[전투력]</span>: <span class="highlight">+?</span></p>
-  </div>
+  <div>&apos;빛의 검&apos;이라고 적혀 있는 보관함 안에는 눈이 멀 듯한 성백색 광휘를 내뿜는 검이 들어 있다. 정오의 태양빛을 결정화한 듯한 검신을 지니고 있으며, 자루 부분에는 <span class="character-masters">마스터즈</span>의 문장이 정교하게 새겨져 있다.</div>
+  <div class="divider-gold"></div>
+  <div>속성: 빛</div>
+  <div>전투력: +?</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a magnificent holy sword resting on a cold white marble slab. Blinding white light emits from its blade, casting strong shadows on the marble. The golden hilt is intricately carved with royal emblems. Shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -1709,12 +1694,13 @@ HTML :
 관련 : 고어후프, 스컬크러셔
 의도 : 고어후프의 복잡한 심리 상태 증언.
 내용 :
-연회장 기물을 정리하던 보급대원의 이야기이다. &quot;고어후프 님이 대장님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 마치 무언가 아주 중요한 것을 잊어버린 사람처럼, 자신의 커다란 손바닥을 폈다 쥐었다 하며 미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다.&quot;
+연회장 기물을 정리하던 보급대원의 이야기이다. "고어후프님이 스컬크러셔님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 마치 무언가 아주 중요한 것을 잊어버린 사람처럼, 자신의 커다란 손바닥을 폈다 쥐었다 하며 미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다."
 HTML :
 <div class="story-content">
+  <div class="script-direction">연회장 기물을 정리하던 보급대원의 이야기이다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>연회장 기물을 정리하던 보급대원의 이야기이다.</p>
-    <p class="script-line">&quot;<span class="script-character">보급대원</span>: 고어후프 님이 대장님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 <span class="emphasis">멍하니 대장님의 뒷모습</span>을 한참이나 바라보고 계시더군요. 마치 무언가 아주 중요한 것을 잊어버린 사람처럼, 자신의 커다란 손바닥을 폈다 쥐었다 하며 미간을 찌푸린 채 <span class="highlight">괴로운 듯 혼잣말을 중얼거리는 모습</span>이 몹시 기이했습니다.&quot;</p>
+    <div><span class="character-gorehoof">고어후프</span>님이 <span class="character-skullcrusher">스컬크러셔</span>님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 마치 무언가 아주 중요한 것을 잊어버린 사람처럼, 자신의 커다란 손바닥을 폈다 쥐었다 하며 미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a supply unit member (laborer) standing in a dimly lit banquet hall. The figure wears common laborer&apos;s clothes with rolled-up sleeves and a heavy leather vest, emphasizing a rugged, working-class silhouette—no hoods, no robes. He is positioned naturally near the corner of a long, polished banquet table, with a faint warm glow from a distant chandelier illuminating the edge of the furniture and the textured stone floor. The grand banquet hall setting is suggested by the blurred high-backed chairs and the massive scale of the table in the background. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered grain, worn leather, rough fabric, polished wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the quiet, steady presence of the worker within the hall. No face visible, just the back of the figure&apos;s head and shoulders.
@@ -1739,12 +1725,10 @@ HTML :
 관련 : 고어후프
 의도 : 고어후프의 식인 혹은 아군 공격 흔적에 대한 결정적 물증.
 내용 :
-무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 거대한 이빨 자국이 선명하다. 특히 식당 의자 밑에서 발견된 것과 동일하게 뭉툭한 사각형 형태의 이빨 자국들이 강철 표면에 뚜렷하게 남아 있다.
+무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 뭉툭한 사각형 형태의 이빨 자국이 선명하다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, <span class="emphasis">금속을 종잇장처럼 구기고 뚫어버린 거대한 이빨 자국</span>이 선명하다. 특히 식당 의자 밑에서 발견된 것과 동일하게 <span class="highlight">뭉툭한 사각형 형태의 이빨 자국</span>들이 강철 표면에 뚜렷하게 남아 있다.</p>
-  </div>
+  <div>무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 <span class="emphasis">뭉툭한 사각형 형태의 이빨 자국</span>이 선명하다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a violently torn and mangled steel breastplate fragment lying on a dark, cold stone floor. One large section and a jagged corner of the armor are completely ripped away, leaving a violently twisted, jagged, and mangled metallic edge. The broken steel is crumpled and warped with immense physical force, showing raw, unrefined destruction. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted dark iron, sharp jagged steel, rough weathered stone), heavy brushstrokes, dramatic chiaroscuro lighting, heavy atmosphere. Focus on the brutal, irregular jagged break of the mangled metal fragment. No symbols, no patterns, just the raw destruction of the steel.
 장소 : 04_무기고
@@ -1771,9 +1755,7 @@ HTML :
 마법탑 상층부를 지키던 마법사들이 하늘을 올려다보는 자세 그대로 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 소유자의 마력이 폭주하며 발생한 과부하를 견디지 못한 듯 모두 검게 타버린 채 매캐한 연기를 내뿜고 있다.
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>마법탑 상층부를 지키던 마법사들이 <span class="emphasis">하늘을 올려다보는 자세 그대로</span> 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 소유자의 마력이 폭주하며 발생한 과부하를 견디지 못한 듯 모두 <span class="highlight">검게 타버린 채 매캐한 연기</span>를 내뿜고 있다.</p>
-  </div>
+  <div>마법탑 상층부를 지키던 마법사들이 <span class="emphasis">하늘을 올려다보는 자세 그대로</span> 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 소유자의 <span class="emphasis">마력이 폭주하며 발생한 과부하</span>를 견디지 못한 듯 모두 <span class="highlight">검게 타버린 채 매캐한 연기</span>를 내뿜고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a fallen sorcerer&apos;s staff and burnt jewelry lying on a scorched, cracked stone floor. Tendrils of faint smoke rise from the staff. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 08_마법탑
@@ -1796,21 +1778,20 @@ HTML :
 관련 : 발로그
 의도 : 전투 중 발로그의 상태에 대한 정보 제공.
 내용 :
-조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다. &quot;정오쯤이었을 겁니다. 성벽 위를 날아다니던 그자의 날갯짓이 갑자기 멈추더니, 그대로 균형을 잃고 지면으로 수직 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요. 평소 번뜩이던 금색 눈동자는 초점이 완전히 풀린 채 흐릿해져 있었고, 마치 온몸의 근력이 일시에 마비된 것처럼 무력하게 엎드려 있었습니다.&quot;
+조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다. "정오쯤이었을 겁니다. 성벽 위를 날아다니던 그자의 날갯짓이 갑자기 멈추더니, 그대로 균형을 잃고 지면으로 수직 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요. 평소 번뜩이던 금색 눈동자는 초점이 완전히 풀린 채 흐릿해져 있었고, 마치 온몸의 근력이 일시에 마비된 것처럼 무력하게 엎드려 있었습니다."
 HTML :
 <div class="story-content">
-  <div class="quote-box">
-    <p>조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다.</p>
-    <p class="script-line">&quot;<span class="script-character">마법사 포로</span>: 정오쯤이었을 겁니다. 성벽 위를 날아다니던 그자의 날갯짓이 갑자기 멈추더니, 그대로 균형을 잃고 <span class="emphasis">지면으로 수직 추락</span>했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요. 평소 번뜩이던 금색 눈동자는 초점이 완전히 풀린 채 흐릿해져 있었고, 마치 <span class="highlight">온몸의 근력이 일시에 마비된 것처럼</span> 무력하게 엎드려 있었습니다.&quot;</p>
-  </div>
+  <div class="script-direction">조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다.</div>
+  <div class="divider-gold"></div>
+  <div>정오쯤이었을 겁니다. 성벽 위를 날아다니던 그자의 날갯짓이 갑자기 멈추더니, 그대로 균형을 잃고 <span class="emphasis">지면으로 수직 추락</span>했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요. 평소 번뜩이던 금색 눈동자는 초점이 완전히 풀린 채 흐릿해져 있었고, 마치 <span class="highlight">온몸의 근력이 일시에 마비된 것처럼</span> 무력하게 엎드려 있었습니다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured sorcerer (prisoner) seen from behind, sitting motionless on a heavy stone chair in a high-vaulted chamber of the Mage Tower (based on ref 11). The Mage Tower setting is visible in the background with grand arches and cold, mystical stone architecture with bluish magic glow in the distance. The prisoner, wearing tattered dark robes and a hood, sits with his head bowed and arms slightly positioned behind, showing a resigned and restrained state. Faint blue magical light or cold candlelight illuminates the vast, silent, and somber chamber. Extremely shallow depth of field, focused on the prisoner&apos;s back. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, tattered fabrics, old wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the solitary, defeated silhouette of the wizard as he provides his testimony. No face visible, just the back of the figure&apos;s head and shoulders.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured sorcerer (prisoner) seen from behind, sitting motionless on a heavy stone chair in a high-vaulted chamber of the Mage Tower (based on ref 11). The Mage Tower setting is visible in the background with grand arches and cold, mystical stone architecture with bluish magic glow in the distance. The prisoner, wearing tattered dark robes and a hood, sits with his head bowed and arms slightly positioned behind, showing a resigned and defeated state. Faint blue magical light or cold candlelight illuminates the vast, silent, and somber chamber. Extremely shallow depth of field, focused on the prisoner&apos;s back. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, tattered fabrics, old wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the solitary, defeated silhouette of the wizard as he provides his testimony. No face visible, just the back of the figure&apos;s head and shoulders.
 장소 : 08_마법탑
 파일명 : 56_마법탑_2
 
 [clue_57]
 이름 : 연구실#5
-유형 : 정보
+유형 : 물증
 단계 : 조사 2단계
 소모AP : 4
 정렬순서 : 570
@@ -1828,14 +1809,8 @@ HTML :
 누렇게 변색된 가죽 양피지 전면에 걸쳐 짙은 청자색 잉크로 그려진 정교한 기하학 도식이다. 중앙의 거대한 다중 원형 문양을 중심으로 수천 개의 미세한 선들이 소용돌이치듯 얽혀 있으며, 선들이 교차하는 모든 결절점마다 육안으로 겨우 식별 가능한 크기의 고대 문자들이 빼곡히 기입되어 있다. 도식의 외곽에는 일정한 간격을 둔 채 빈 원형 칸들이 나열되어 있는데, 각각의 칸 옆에는 무언가를 배치하기 위한 듯한 작은 기호들이 표시되어 있다. 모든 외곽의 칸에서 중앙의 거대 원으로 이어지는 선들은 다른 선들보다 유독 굵고 진하게 강조된 구조를 띠고 있다.
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <p class="script-direction">누렇게 변색된 가죽 양피지 전면에 걸쳐 짙은 청자색 잉크로 그려진 정교한 기하학 도식이다.</p>
-    <div class="divider-gold"></div>
-    <div class="document-body small">
-      <p>중앙의 거대한 다중 원형 문양을 중심으로 수천 개의 미세한 선들이 소용돌이치듯 얽혀 있으며, 선들이 교차하는 모든 결절점마다 육안으로 겨우 식별 가능한 크기의 <span class="emphasis">고대 문자</span>들이 빼곡히 기입되어 있다.</p>
-      <p>도식의 외곽에는 일정한 간격을 둔 채 빈 원형 칸들이 나열되어 있는데, 각각의 칸 옆에는 무언가를 배치하기 위한 듯한 작은 기호들이 표시되어 있다. 모든 외곽의 칸에서 중앙의 거대 원으로 이어지는 선들은 다른 선들보다 <span class="emphasis">유독 굵고 진하게 강조된 구조</span>를 띠고 있다.</p>
-    </div>
-  </div>
+  <div>누렇게 변색된 가죽 양피지 전면에 걸쳐 짙은 청자색 잉크로 그려진 정교한 기하학 도식이다. 중앙의 거대한 다중 원형 문양을 중심으로 수천 개의 미세한 선들이 소용돌이치듯 얽혀 있으며, 선들이 교차하는 모든 결절점마다 육안으로 겨우 식별 가능한 크기의 <span class="emphasis">고대 문자</span>들이 빼곡히 기입되어 있다.</div>
+  <div>도식의 외곽에는 일정한 간격을 둔 채 빈 원형 칸들이 나열되어 있는데, 각각의 칸 옆에는 무언가를 배치하기 위한 듯한 작은 기호들이 표시되어 있다. <span class="emphasis">모든 외곽의 칸에서 중앙의 거대 원</span>으로 이어지는 선들은 다른 선들보다 유독 굵고 진하게 강조된 구조를 띠고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a detailed, complex geometric diagram drawn in dark blue-violet ink on a yellowed, weathered leather parchment (vellum). At the center is a massive multi-layered circular mandala-like pattern, with thousands of fine, swirling indigo-colored lines radiating outwards. Tiny, barely legible ancient script symbols are inscribed at every intersection (nodal point) of the lines. Around the periphery, empty circular slots are marked with cryptic symbols, each connected to the central circle by significantly thicker, bold indigo lines that dominate the visual hierarchy. Intense focus on the rich ink texture and the rough, aged skin surface of the parchment. Soft, dramatic chiaroscuro lighting, deep shadows under the edges of the leather. Detailed 1980s fantasy oil painting style. Warm, sepia-toned paper against a dark, blurred laboratory background.
 장소 : 03_연구실
@@ -1859,12 +1834,13 @@ HTML :
 관련 : 발트라
 의도 : 스컬크러셔 입장에서 자신이 당했던 방식과 매우 흡사.
 내용 :
-포박된 채 성벽 아래 차갑게 식어버린 수비대장의 시신을 바라보며 부르르 떨고 있는 마스터즈 수비대원 포로의 증언이다. &quot;그... 그건 정말 순식간이었습니다. 대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 그림자처럼 소리도 없이 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 단검을 목덜미 쪽 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 대장님의 등을 발로 강하게 걷어차 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다.&quot;
+포박된 채 성벽 아래 차갑게 식어버린 수비대장의 시신을 바라보며 부르르 떨고 있는 마스터즈 수비대원 포로의 증언이다. "그... 그건 정말 순식간이었습니다. 대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 단검을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 대장님의 등을 발로 강하게 걷어차 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다."
 HTML :
 <div class="story-content">
+  <div class="script-direction">포박된 채 성벽 아래 차갑게 식어버린 수비대장의 시신을 바라보며 부르르 떨고 있는 마스터즈 수비대원 포로의 증언이다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>포박된 채 성벽 아래 차갑게 식어버린 수비대장의 시신을 바라보며 부르르 떨고 있는 <span class="character-masters">마스터즈 수비대원</span> 포로의 증언이다.</p>
-    <p class="script-line">&quot;<span class="script-character">수비대원</span>: 그... 그건 정말 순식간이었습니다. 대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 그림자처럼 소리도 없이 누군가 나타났죠. 비명도 지르지 못하도록 <span class="emphasis">한 손으로 입을 틀어막더니</span>, 다른 손에 든 단검을 목덜미 쪽 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 대장님의 등을 발로 강하게 걷어차 <span class="highlight">벽 밑으로 밀어버렸지 뭡니까.</span> 제가 본 건 그게 전부입니다.&quot;</p>
+    <div>그... 그건 정말 순식간이었습니다. 대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 <span class="emphasis">단검</span>을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 대장님의 <span class="emphasis">등을 발로 강하게 걷어차</span> 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured bastion guard (prisoner) seen from behind, standing on the edge of a dark, cold stone rampart at night. Thick, dark fog fills the background behind the guard&apos;s silhouette. The guard wears tattered leather and rusted iron armor pieces, with a simple worn cloak hanging from his shoulders. Faint, cold moonlight or warm light from a distant torch highlights the rough texture of the weathered stone battlements and the metal fragments on his back. The atmosphere is quiet, tense, and heavy. Extremely shallow depth of field, focused on the steady, defeated silhouette of the guard as he provides his testimony. No face visible, just the back of the figure&apos;s head and shoulders. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted steel, холодный камень, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
@@ -1888,12 +1864,13 @@ HTML :
 관련 : 발트라
 의도 : 단검의 명수라는 점과, 발트라에게 무기를 넘기는 것에 대한 경계심을 갖게 만듬.
 내용 :
-옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다. &quot;우리 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인보다 더 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지.&quot;
+옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다. "우리 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지."
 HTML :
 <div class="story-content">
+  <div class="script-direction">옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다.</p>
-    <p class="script-line">&quot;<span class="script-character">용병</span>: 우리 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인보다 더 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 <span class="emphasis">야간 훈련 때 횃불도 없는 어둠 속</span>에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 <span class="highlight">겹쳐 박히더군.</span> 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 <span class="emphasis">상대를 어떻게 끝낼지 계산</span>이 끝났다는 생각이 들 정도지.&quot;</p>
+    <div>우리 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, <span class="emphasis">본래 주인만큼 완벽하게 그 무게와 균형</span>을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a weathered mercenary warrior seen from behind, standing high on the dark stone outer ramparts (as seen in 10_외곽_망루.png). The mercenary is captured in the middle of cleaning a large blade, head slightly turned as if speaking to someone off-camera. In the background, the cold night fog creeps over the stone battlements and crenellations, with a few distant stars visible in the dark, heavy sky. A nearby flickering torch casts long, dancing shadows and provides a warm glow that catch the texture of his worn cloak and the metallic sheen of the weapon in his hands. Shallow depth of field, focused on the steady, silent presence of the mercenary as he provides his testimony. No face visible, just the silhouette in the darkness. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, rusted iron, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
@@ -1918,12 +1895,13 @@ HTML :
 관련 : 슬리더
 의도 : 슬리더가 암흑의 단검을 늘 가지고 다녔다는 증언
 내용 :
-슬리더를 수행하던 암살대원의 실무적인 보고 내용이다. &quot;슬리더 님은 항상 품속에 새카만 단검 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 빛을 전혀 반사하지 않는 특이한 재질인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다.&quot;
+슬리더를 수행하던 암살대원의 실무적인 보고 내용이다. "대장님은 항상 품속에 새카만 단검 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 빛을 전혀 반사하지 않는 특이한 재질인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다."
 HTML :
 <div class="story-content">
+  <div class="script-direction"><span class="character-slither">슬리더</span>를 수행하던 암살대원의 실무적인 보고 내용이다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>슬리더를 수행하던 암살대원의 실무적인 보고 내용이다.</p>
-    <p class="script-line">&quot;<span class="script-character">암살대원</span>: <span class="character-slither">슬리더</span> 님은 항상 품속에 <span class="emphasis">새카만 단검</span> 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 빛을 전혀 반사하지 않는 특이한 재질인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 <span class="highlight">한시도 몸에서 떼지 않는 것</span>을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다.&quot;</p>
+    <div>대장님은 항상 품속에 <span class="emphasis">새카만 단검</span> 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 빛을 전혀 반사하지 않는 특이한 재질인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 <span class="highlight">한시도 몸에서 떼지 않는 것</span>을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an elite assassin member (scout) seen from behind, standing in the long, dimly lit central corridor of the fortress (as seen in 12_중앙_복도.png). The assassin is clad in dark, non-reflective leather armor and a deep hood, his silhouette blending into the heavy shadows cast by the high arcs and stone pillars of the corridor. He is captured in a still, alert posture as if delivering a confidential report. In the background, a single flickering wall torch casts a narrow, dancing pool of warm light, highlighting the rough texture of the ancient stone floor and the cold, dark atmosphere of the hallway. Extremely shallow depth of field, focused on the steady, mysterious presence of the scout. No face visible, just the dark silhouette in the shadows. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -1947,12 +1925,13 @@ HTML :
 관련 : 엘드리치
 의도 : 성 내부 곳곳에 마력석이 배치되었음을 암시.
 내용 :
-평생 이 성 바닥을 닦아온 늙은 청소부의 증언이다. &quot;내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 낯설고 해괴한 게 스며든 게 확실혀요.&quot;
+늙은 청소부의 증언이다. "내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 낯설고 해괴한 게 스며든 게 확실혀요."
 HTML :
 <div class="story-content">
+  <div class="script-direction">늙은 청소부의 증언이다.</div>
+  <div class="divider-gold"></div>
   <div class="quote-box">
-    <p>평생 성 바닥을 닦아온 늙은 청소부의 증언이다.</p>
-    <p class="script-line">&quot;<span class="script-character">청소부</span>: 내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 낯설고 해괴한 게 스며든 게 확실혀요.&quot;</p>
+    <div>내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... <span class="emphasis">분명 오늘 이 성 안에 뭔가 낯설고 해괴한 게 스며든 게 확실혀요.</span></div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an old, hunched-over cleaner seen from behind, standing in the middle of a grand, empty central corridor of the fortress (based strictly and exclusively on the background seen in 12_중앙_복도.png). No doors, no drainage pipes, and no basement elements are present. The background consists only of the high, repetitive stone arches, massive pillars, and the long, echoing stone floor of the central hallway at night. The old man is clad in tattered brown work clothes, holding a primitive straw broom in one hand, appearing small against the overwhelming scale of the empty corridor. Deep, heavy shadows stretch between the pillars, with a faint, cold moonlight or distant torchlight illuminating the textured stone surfaces. Extremely shallow depth of field, focused on the weary silhouette of the old man. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, somber atmosphere. No faces visible, just the lone figure in the dark, silent hallway.
@@ -1978,7 +1957,7 @@ HTML :
 내용 :
 당신은 바스타즈의 강령을 떠올려 보았다.
 
-바스타즈 강령
+<바스타즈 강령>
 1조. 제 한 몸이나 핏줄의 안위만을 챙기는 자는 엄벌한다.
 2조. 목표를 달성하기 전 이탈하려는 자는 도망자로 간주한다.
 3조. 동료의 명예를 더럽히는 자는 짐승으로 보아 무리에서 내쫓는다.
@@ -1988,18 +1967,18 @@ HTML :
 7조. 실책으로 동료를 사지로 몰아넣은 자는 무거운 책임을 묻는다.
 HTML :
 <div class="story-content">
-  <p class="script-direction">당신은 바스타즈의 강령을 떠올려 보았다.</p>
+  <div class="script-direction">당신은 바스타즈의 강령을 떠올려 보았다.</div>
+  <div class="divider-gold"></div>
   <div class="document-page">
-    <h4 class="no-margin">바스타즈 강령</h4>
-    <div class="divider-gold"></div>
+    <h4>&lt;바스타즈 강령&gt;</h4>
     <div class="document-body small">
-      <p>1조. 제 한 몸이나 <b>핏줄의 안위</b>만을 챙기는 자는 <span class="highlight">엄벌</span>한다.</p>
-      <p>2조. 목표를 달성하기 전 <b>이탈</b>하려는 자는 <span class="emphasis">도망자</span>로 간주한다.</p>
-      <p>3조. 동료의 <b>명예를 더럽히는 자</b>는 <span class="highlight">짐승</span>으로 보아 무리에서 내쫓는다.</p>
-      <p>4조. 어떠한 이유로든 <b>동료를 해치는 것</b>은 <span class="emphasis">용납하지 않는다</span>.</p>
-      <p>5조. 적과 <b>내통</b>하여 무리를 위험에 빠뜨린 자는 <span class="highlight">배신자</span>로 처단한다.</p>
-      <p>6조. 대장은 대원의 <b>목숨과 규칙</b>을 끝까지 지킨다.</p>
-      <p>7조. 실책으로 <b>동료를 사지</b>로 몰아넣은 자는 <span class="emphasis">무거운 책임</span>을 묻는다.</p>
+      <div>1조. 제 한 몸이나 <b>핏줄의 안위</b>만을 챙기는 자는 <span class="highlight">엄벌</span>한다.</div>
+      <div>2조. 목표를 달성하기 전 <b>이탈</b>하려는 자는 <span class="emphasis">도망자</span>로 간주한다.</div>
+      <div>3조. 동료의 <b>명예를 더럽히는 자</b>는 <span class="highlight">짐승</span>으로 보아 무리에서 내쫓는다.</div>
+      <div>4조. 어떠한 이유로든 <b>동료를 해치는 것</b>은 <span class="emphasis">용납하지 않는다</span>.</div>
+      <div>5조. 적과 <b>내통</b>하여 무리를 위험에 빠뜨린 자는 <span class="highlight">배신자</span>로 처단한다.</div>
+      <div>6조. 대장은 대원의 <b>목숨과 규칙</b>을 끝까지 지킨다.</div>
+      <div>7조. 실책으로 <b>동료를 사지</b>로 몰아넣은 자는 <span class="emphasis">무거운 책임</span>을 묻는다.</div>
     </div>
   </div>
 </div>
