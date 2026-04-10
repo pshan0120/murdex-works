@@ -24,18 +24,17 @@
   </ul>
 </div>
 
-7. 역할 시트 (상세 설명 / 타임라인 / 특징 / 인물관계 통합)
+7. 역할 시트 (캐릭터 배경 / 타임라인 / 특징 / 인물관계 통합)
 <div class="story-content">
   <details open>
     <summary>
-      상세 설명
+      캐릭터 배경
       <span class="toggle-wrapper">
         <span class="toggle-text"></span>
         <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
-      <p class="subsection-title">캐릭터 배경</p>
       <p>
         전 우주를 멸망 직전까지 몰고 갔던 <span class="emphasis">'신들의 전쟁'</span>이 끝나고, 마신 <span class="mystery">다크 시리어스</span>가 봉인된 후 <span class="character-masters">마스터즈</span>가 질서를 재편하며 힘을 회복해 가던 시기. 
         당신은 <span class="character-masters">마스터즈</span>의 본성이 위치한 성계에서 태어났다. 어린 시절부터 탁월한 마법적 재능을 보였던 당신은, 천고의 기재로 칭송받으며 <span class="character-masters">마스터즈</span>의 마법사 집단인 <span class="highlight">골든 서클</span>에 입단했다. 
@@ -159,123 +158,27 @@
     </div>
   </details>
 
-  <!-- 인물 관계 -->
-  <div class="section-title">인물 간 관계 및 말투</div>
   <details>
     <summary>
-      <span class="character-skullcrusher">스컬크러셔에 대해</span>
+      인물 관계
       <span class="toggle-wrapper">
         <span class="toggle-text"></span>
         <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
-      <p>
-        바스타즈를 하나로 묶어낸 강력한 수장이자, 전 우주를 압도하는 무력을 가진 지도자다. 지난 10년의 전쟁 동안 당신은 그의 곁에서 수많은 승리를 설계하며, 그의 뛰어난 전투 능력과 카리스마를 인정해 왔다. 
-        그가 가진 파괴적인 힘은 오합지졸에 불과했던 연합원들을 결속시키는 가장 확실한 수단이었음을 당신 또한 잘 알고 있다. 
-        하지만 당신에게 있어 <span class="highlight">바스타즈</span>란 잃어버린 딸을 되찾고 <span class="character-masters">마스터즈</span>를 무너뜨리기 위해 마련한 도구일 뿐, <span class="character-skullcrusher">스컬크러셔</span>는 그 목적을 달성하게 해 줄 가장 강력한 패 중 하나에 지나지 않는다. 
-        오늘 아침, <span class="character-goldenking">골든 킹</span>을 처단하고 왕좌의 방에서 나온 그에게서 평소와 다른 묘한 고양감과 기류를 감지했다. 
-        무언가 숨기는 듯한 그의 태도와 갑작스러운 수색 지시는 당신의 경계심을 자극하기에 충분했다. 
-        이제 복수의 끝에 도달했고 딸의 봉인석을 되찾을 마지막 단계만을 남겨둔 지금, 만약 그가 당신의 앞길을 방해하거나 새로운 걸림돌이 된다면 언제든 그를 배신할 준비가 되어 있다. 
-        그동안 그에게 보여온 충성은 오로지 자신의 목적을 완수하기 위한 철저한 연기였을 뿐이다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-eldritch">엘드리치에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        오늘 오후 4시 이전까지, 그는 당신이 누구에게도 말하지 못한 사연을 털어놓을 수 있었던 지혜로운 현자였다. 
-        지난 10년의 전쟁 동안 당신은 그의 지혜를 빌려 무너진 마음을 추슬렀고, 그를 향한 신뢰는 험난한 연합 생활 속에서 큰 의지처가 되었다. 
-        하지만 오늘 <span class="emphasis">연구실</span>에서 마주한 협박 쪽지는 그동안의 교감을 한순간에 지워버렸다. 
-        딸의 신변을 약점 잡아 자신의 욕망을 채우려는 파렴치한 요구는, 그가 10년 전부터 당신의 절실함을 이용해 왔음을 말해줄 뿐이었다. 
-        공들여 지켜온 명예가 짓밟힌 순간, 그를 향한 존경은 증오로 바뀌었다. 
-        현재 당신은 차분하게 평소와 같은 태도를 유지하고 있지만, 내면으로는 이미 그를 파멸로 몰아넣을 정교한 설계를 마친 상태다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-balrog">발로그에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        강력한 마력을 지녔음에도 <span class="character-eldritch">엘드리치</span>의 명에 예속되어 복종해 온 마족 특공대장이다. 
-        당신은 그가 억누르던 불만과, <span class="character-eldritch">엘드리치</span>의 부당한 지시에도 침묵하며 명을 따르던 비굴한 처지를 일찍이 간파하고 있었다. 
-        당신은 그에게 <span class="emphasis">'자유'</span>를 명분으로 내세워 <span class="character-eldritch">엘드리치</span> 암살 계획의 실행자로 포섭했다. 
-        겉으로는 그의 처지에 공감하며 동정하는 척 손을 내밀었으나, 사실 당신에게 있어 그는 직접 손을 더럽히지 않고 적을 제거하기 위한 도구에 지나지 않는다. 
-        만약 조사 과정에서 의심을 사게 된다면, 모든 정황을 조작해 그를 주도적인 범행자로 몰고 자신은 결백한 참모로 남을 준비를 마쳤다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-slither">슬리더에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        그늘진 구석에서 소리 없이 움직이는 연합의 가장 날카로운 칼날이다. 
-        10년 동안 동료로서 보여준 그의 실력은 완벽에 가까웠으나, 인간의 범위를 벗어난 기괴한 몸놀림과 감정 읽을 수 없는 파충류의 황금빛 눈동자는 당신에게 늘 이질적인 거부감을 불러일으켰다. 
-        아무도 없던 <span class="emphasis">문서고</span> 선반 구석에 놓여 있던 단검을 손에 넣은 순간, 당신은 이 정체 모호한 암살자가 이번 계획의 희생양이 될 것임을 직감했다. 
-        평소 모두와 거리를 두며 비밀스럽게 행동해 온 그의 모습은, 흉기가 발견되었을 때 그를 범인으로 몰아세우기에 충분한 명분이 될 것이다. 
-        그가 진실을 깨닫기도 전에, 당신은 그를 비극의 무대 위로 밀어 넣어 당신의 결백을 증명할 방패로 삼을 것이다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-gorehoof">고어후프에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        붉은 대지의 야성을 간직한 저돌적인 돌격대장이다. 이성보다 본능이 앞서는 그의 무식한 괴력은 전장의 선봉에서 적의 방어선의 짓밟는 데 더할 나위 없는 도구였다. 
-        당신은 그가 전장에서 돌아올 때마다 가끔씩 보이는, 무언가에 쫓기는 듯한 눈빛과 비정상적으로 흥분된 기색을 예리하게 포착해 왔다. 
-        그 투박한 겉모습 이면에 어떤 어두운 얼룩이 숨겨져 있는지 정확히 알 길은 없으나, 그가 스스로 제어하지 못하는 불안을 품고 있다는 사실만큼은 분명하다. 
-        그의 우발적이고 단순한 성미는 수사망이 좁혀올 때 시선을 돌리기 가장 좋은 먹잇감이 될 것이다. 
-        당신은 필요하다면 그 거구를 당신의 책략을 보호할 가장 두껍고 든든한 방패로 삼을 준비가 되어 있다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-valtra">발트라에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        바스타즈의 주요 전역을 승리로 이끈 유능한 전략가이자, 거친 사내들로 가득한 연합 내에서 당신이 유일하게 동질감을 느끼는 여성 동료다. 
-        상황을 수치와 논리로 분석하는 그녀의 이성적인 태도는 책략가인 당신과 결을 같이하며, 짧지 않은 세월 동안 서로의 처지를 묵묵히 이해해 온 꽤 가까운 관계를 유지해 왔다. 
-        하지만 당신은 그녀가 가끔 보여주는 지나치게 냉정한 판단과, 사적인 감정을 철저히 배제한 기계적인 행동 방식에서 설명하기 힘든 이질감을 느끼곤 한다. 
-        당신은 그녀가 결코 입 밖으로 내지 않는 무거운 비밀을 품고 있음을 직감하고 있다. 
-        당신이 그러하듯 그녀 역시 드러낼 수 없는 과거가 있음을 알기에, 서로의 치부를 깊이 파헤치지 않는 위태로운 신뢰를 유지하고 있다. 
-        그녀의 지략은 승리를 위한 든든한 자산이지만, 만약 그녀의 비밀이 연합을 위협하는 칼날이 된다면 당신은 가장 먼저 그 이면을 파고들 준비가 되어 있다.
-      </p>
+      <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 바스타즈를 하나로 묶어낸 강력한 수장이자, 전 우주를 압도하는 무력을 가진 지도자다. 지난 10년의 전쟁 동안 당신은 그의 곁에서 수많은 승리를 설계하며, 그의 뛰어난 전투 능력과 카리스마를 인정해 왔다. 그가 가진 파괴적인 힘은 오합지졸에 불과했던 연합원들을 결속시키는 가장 확실한 수단이었음을 당신 또한 잘 알고 있다. 하지만 당신에게 있어 <span class="highlight">바스타즈</span>란 잃어버린 딸을 되찾고 <span class="character-masters">마스터즈</span>를 무너뜨리기 위해 마련한 도구일 뿐, <span class="character-skullcrusher">스컬크러셔</span>는 그 목적을 달성하게 해 줄 가장 강력한 패 중 하나에 지나지 않는다. 오늘 아침, <span class="character-goldenking">골든 킹</span>을 처단하고 왕좌의 방에서 나온 그에게서 평소와 다른 묘한 고양감과 기류를 감지했다. 무언가 숨기는 듯한 그의 태도와 갑작스러운 수색 지시는 당신의 경계심을 자극하기에 충분했다. 이제 복수의 끝에 도달했고 딸의 봉인석을 되찾을 마지막 단계만을 남겨둔 지금, 만약 그가 당신의 앞길을 방해하거나 새로운 걸림돌이 된다면 언제든 그를 배신할 준비가 되어 있다. 그동안 그에게 보여온 충성은 오로지 자신의 목적을 완수하기 위한 철저한 연기였을 뿐이다.</p>
+      <p><strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 오늘 오후 4시 이전까지, 그는 당신이 누구에게도 말하지 못한 사연을 털어놓울 수 있었던 지혜로운 현자였다. 지난 10년의 전쟁 동안 당신은 그의 지혜를 빌려 무너진 마음을 추슬렀고, 그를 향한 신뢰는 험난한 연합 생활 속에서 큰 의지처가 되었다. 하지만 오늘 <span class="emphasis">연구실</span>에서 마주한 협박 쪽지는 그동안의 교감을 한순간에 지워버렸다. 딸의 신변을 약점 잡아 자신의 욕망을 채우려는 파렴치한 요구는, 그가 10년 전부터 당신의 절실함을 이용해 왔음을 말해줄 뿐이었다. 공들여 지켜온 명예가 짓밟힌 순간, 그를 향한 존경은 증오로 바뀌었다. 현재 당신은 차분하게 평소와 같은 태도를 유지하고 있지만, 내면으로는 이미 그를 파멸로 몰아넣을 정교한 설계를 마친 상태다.</p>
+      <p><strong><span class="character-balrog">발로그에 대해</span></strong>: 강력한 마력을 지녔음에도 <span class="character-eldritch">엘드리치</span>의 명에 예속되어 복종해 온 마족 특공대장이다. 당신은 그가 억누르던 불만과, <span class="character-eldritch">엘드리치</span>의 부당한 지시에도 침묵하며 명을 따르던 비굴한 처지를 일찍이 간파하고 있었다. 당신은 그에게 <span class="emphasis">'자유'</span>를 명분으로 내세워 <span class="character-eldritch">엘드리치</span> 암살 계획의 실행자로 포섭했다. 겉으로는 그의 처지에 공감하며 동정하는 척 손을 내밀었으나, 사실 당신에게 있어 그는 직접 손을 더럽히지 않고 적을 제거하기 위한 도구에 지나지 않는다. 만약 조사 과정에서 의심을 사게 된다면, 모든 정황을 조작해 그를 주도적인 범행자로 몰고 자신은 결백한 참모로 남을 준비를 마쳤다.</p>
+      <p><strong><span class="character-slither">슬리더에 대해</span></strong>: 그늘진 구석에서 소리 없이 움직이는 연합의 가장 날카로운 칼날이다. 10년 동안 동료로서 보여준 그의 실력은 완벽에 가까웠으나, 인간의 범위를 벗어난 기괴한 몸놀림과 감정 읽을 수 없는 파충류의 황금빛 눈동자는 당신에게 늘 이질적인 거부감을 불러일으켰다. 아무도 없던 <span class="emphasis">문서고</span> 선반 구석에 놓여 있던 단검을 손에 넣은 순간, 당신은 이 정체 모호한 암살자가 이번 계획의 희생양이 될 것임을 직감했다. 평소 모두와 거리를 두며 비밀스럽게 행동해 온 그의 모습은, 흉기가 발견되었을 때 그를 범인으로 몰아세우기에 충분한 명분이 될 것이다. 그가 진실을 깨닫기도 전에, 당신은 그를 비극의 무대 위로 밀어 넣어 당신의 결백을 증명할 방패로 삼을 것이다.</p>
+      <p><strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 붉은 대지의 야성을 간직한 저돌적인 돌격대장이다. 이성보다 본능이 앞서는 그의 무식한 괴력은 전장의 선봉에서 적의 방어선의 짓밟는 데 더할 나위 없는 도구였다. 당신은 그가 전장에서 돌아올 때마다 가끔씩 보이는, 무언가에 쫓기는 듯한 눈빛과 비정상적으로 흥분된 기색을 예리하게 포착해 왔다. 그 투박한 겉모습 이면에 어떤 어두운 얼룩이 숨겨져 있는지 정확히 알 길은 없으나, 그가 스스로 제어하지 못하는 불안을 품고 있다는 사실만큼은 분명하다. 그의 우발적이고 단순한 성미는 수사망이 좁혀올 때 시선을 돌리기 가장 좋은 먹잇감이 될 것이다. 당신은 필요하다면 그 거구를 당신의 책략을 보호할 가장 두껍고 든든한 방패로 삼을 준비가 되어 있다.</p>
+      <p><strong><span class="character-valtra">발트라에 대해</span></strong>: 바스타즈의 주요 전역을 승리로 이끈 유능한 전략가이자, 거친 사내들로 가득한 연합 내에서 당신이 유일하게 동질감을 느끼는 여성 동료다. 상황을 수치와 논리로 분석하는 그녀의 이성적인 태도는 책략가인 당신과 결을 같이하며, 짧지 않은 세월 동안 서로의 처지를 묵묵히 이해해 온 꽤 가까운 관계를 유지해 왔다. 하지만 당신은 그녀가 가끔 보여주는 지나치게 냉정한 판단과, 사적인 감정을 철저히 배제한 기계적인 행동 방식에서 설명하기 힘든 이질감을 느끼곤 한다. 당신은 그녀가 결코 입 밖으로 내지 않는 무거운 비밀을 품고 있음을 직감하고 있다. 당신이 그러하듯 그녀 역시 드러낼 수 없는 과거가 있음을 알기에, 서로의 치부를 깊이 파헤치지 않는 위태로운 신뢰를 유지하고 있다. 그녀의 지략은 승리를 위한 든든한 자산이지만, 만약 그녀의 비밀이 연합을 위협하는 칼날이 된다면 당신은 가장 먼저 그 이면을 파고들 준비가 되어 있다.</p>
     </div>
   </details>
 </div>
 
-8. 비밀
+8. 숨기고 싶은 비밀
+
 <div class="secret-section">
     <ul>
       <li><strong>추락한 빛의 계승자</strong>: 당신이 한때 <span class="highlight">골든 서클</span>에서 가장 촉망받던 마법사였다는 사실은 마음을 허락한 <span class="character-eldritch">엘드리치</span>를 제외하면 아무도 모르는 비밀이다. 당신은 자신의 과거를 철저히 지운 채, 오직 냉철한 지략을 가진 책략가로서 연합에 자진 합류했다.</li>

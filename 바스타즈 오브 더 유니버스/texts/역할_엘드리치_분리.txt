@@ -24,19 +24,17 @@
   </ul>
 </div>
 
-7. 역할 시트 (상세 설명 / 타임라인 / 특징 / 인물관계 통합)
+7. 역할 시트 (캐릭터 배경 / 타임라인 / 특징 / 인물관계 통합)
 <div class="story-content">
-  <!-- 상세 설명 -->
   <details open>
     <summary>
-      상세 설명
+      캐릭터 배경
       <span class="toggle-wrapper">
         <span class="toggle-text"></span>
         <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
-      <p class="subsection-title">캐릭터 배경</p>
       <p>
         당신의 존재는 천체가 궤도를 갖추기도 전, 우주가 오직 차갑고 끝없는 암흑만을 품고 있던 태초의 시간까지 거슬러 올라간다. 생명의 숨결조차 스치지 않던 공허의 가장 깊은 바닥에서 태어난, 만물의 종말을 상징하는 존재. 모든 빛을 소거하여 우주를 영원한 침묵의 심연으로 되돌리려 했던 순수한 암흑 그 자체. 그것이 바로 당신의 본모습이며, 우주가 감히 두려워하고 경외해야 할 유일한 진실이다.
       </p>
@@ -149,95 +147,27 @@
     </div>
   </details>
 
-  <!-- 인물 관계 -->
-  <div class="section-title">인물 간 관계 및 말투</div>
   <details>
     <summary>
-      <span class="character-skullcrusher">스컬크러셔에 대해</span>
+      인물 관계
       <span class="toggle-wrapper">
         <span class="toggle-text"></span>
         <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
-      <p>
-        무너진 성기사 <span class="character-skullcrusher">류크</span>를 '스컬크러셔'로 재탄생시킨 것은 당신의 부활을 위한 계획의 일환이었다. 지난 10년 동안 그는 당신을 유일한 조력자로 믿고 따라왔으며, 당신은 그 신뢰를 바탕으로 그를 조종해 왔다. 하지만 당신에게 그는 오직 목적을 위한 도구일 뿐이다. 필요하다면 언제든 그의 진짜 정체를 드러내 연합의 적으로 만들 준비가 되어 있으며, 당신의 계획을 위해서라면 언제든 버릴 수 있는 존재로 여기고 있다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-malice">말리스에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        바스타즈의 책략가인 그녀는 전직 마법사였다. 10년 전 바스타즈 결성 소식을 듣고 자진 합류한 그녀는 오랜 시간 당신과 교류하며 조금씩 심리적인 경계를 풀었다. 결국 그녀는 자신이 <span class="mystery">골든 서클</span> 출신이며 마력을 잃었다는 사실과, 행방불명된 딸에 대한 비밀을 오직 당신에게만 털어놓았다. 당신은 10년간 이 비밀을 묻어두었으나, 전쟁이 끝난 오늘 이를 이용해 그녀를 압박하기 시작했다. 딸의 봉인석을 이미 손에 넣었다는 거짓 쪽지로 그녀를 위협했고, 비밀을 지키고 싶다면 자신의 수발을 들라는 명령을 내렸다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-bal로그">발로그에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        현재 <span class="highlight">바스타즈</span>의 특공대장인 그는, 사실 30년 전 전장에서 도망친 마신 군단의 패잔병이다. 태초의 마신 <span class="mystery">'다크 시리어스'</span>였던 당신이 빚어낸 모든 마족은 창조주의 기운에 무조건 복종하도록 설계되어 있다. 과거 당신과 마주쳤을 때 그가 영문도 모른 채 공포에 질려 짓눌렸던 것 또한 그 본능 때문이다. 당신은 무기력하게 떨고 있는 그 반응만으로 그가 숨어 지내던 탈영병임을 단숨에 간파했고, 정체를 폭로하겠다는 협박과 함께 절대 거부할 수 없는 '마법 노예 계약'을 강요했다. 그는 창조주를 향한 근원적인 굴복의 본능에 가로막혀, 자신이 왜 저항조차 하지 못하는지 깨닫지도 못한 채 완벽한 무저항 상태로 계약서에 서명했다. 이 계약은 <span class="character-bal로그">발로그</span>가 당신을 해치려 할 경우 즉시 영혼이 소멸하도록 설계되었으며, 오직 당신이 직접 해지하거나 사망해야만 파기된다. 이후 당신은 <span class="character-skullcrusher">스컬크러셔</span>에게 그의 진짜 과거를 숨긴 채 "고대 유물로 통제 가능한 마족"이라며 그를 연합에 합류시켰다. 지난 10년 동안 "전쟁에 공을 세우면 과거를 지워주고 자유를 주겠다"고 속여 사냥개처럼 부렸지만, <span class="character-goldenking">골든 킹</span>이 죽은 오늘 마침내 "계약은 영원하며 넌 평생 내 하수인일 뿐이다"라고 통보했다. 간절했던 마지막 희망이 무참히 짓밟힌 순간, 그가 품게 된 절망은 당신을 향한 맹렬한 살의로 변해 타오르기 시작했다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-gorehoof">고어후프에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        압도적인 무력을 지녔지만 그 이면에 억누를 수 없는 식욕을 감춘 굶주린 야수다. 10년 전, 매복에 걸린 <span class="character-valtra">발트라</span>를 구출하다 부하들과 함께 폐허에 고립되었던 그가 구조된 직후, 당신은 피비린내 나는 현장에서 그가 남긴 참혹한 흔적을 발견했다. 극한의 굶주림을 이기지 못한 그가 아군을 포식하고 내팽개친 동료의 갑옷 파편이었다. 금속 조각에 깊게 파인 이빨 자국은 그가 인간을 사냥했다는 지울 수 없는 낙인이자 명백한 증거였다. 지난 10년 동안 당신은 인자한 현자의 얼굴로 이 추악한 진실을 덮어두었으나, 전쟁이 끝난 오늘 마침내 감춰둔 발톱을 드러냈다. 쪽지를 통해 "그날의 갑옷 파편을 내가 가지고 있다"며 정체를 폭로하겠다고 위협했고, 비밀을 지키고 싶다면 자신의 발밑에서 짖는 충견이 되라며 그를 압박했다. 평생의 자부심과 금기를 맞바꾼 기억이 당신에게 붙잡힌 순간, <span class="character-gorehoof">고어후프</span>는 무거운 침묵 속에서 당신을 향한 살의를 품게 될 것이다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-slither">슬리더에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        연합에서 암살자로 활동하는 인물이다. 10년 전 바스타즈가 결성되기 전, 당신은 습격받아 쓰러진 <span class="character-skullcrusher">류크</span>를 발견했고 그의 등에 남은 상처가 어둠의 마력이 깃든 무기에 의한 것임을 알아챘다. 성기사였던 <span class="character-skullcrusher">류크</span>에게 그토록 치명적인 상처를 입힐 수 있는 무기는 흔치 않았기 때문이다. 이후 <span class="character-slither">슬리더</span>가 당시 사용된 것과 같은 계열의 '어둠의 단검'을 소유하고 있다는 사실을 확인하며, 당신은 그가 과거 류크를 암습했던 범인임을 확신하게 되었다. <span class="character-skullcrusher">스컬크러셔</span>는 과거 자신을 비겁하게 공격했던 자를 결코 용서하지 않는 성격이다. 전쟁이 끝난 오늘, 당신은 <span class="character-slither">슬리더</span>에게 "그날 쓰러졌던 자가 정말 죽었다고 생각하나?"라는 쪽지를 보냈다. 그가 암살하려 했던 대상이 바로 지금의 수장인 <span class="character-skullcrusher">스컬크러셔</span>라는 사실을 넌지시 드러내며, 정체를 폭로하겠다고 위협해 그를 압박했다. 과거의 행적이 수장에게 알려질 경우 <span class="character-slither">슬리더</span>가 처할 위태로운 상황을 당신은 이용하고 있다.
-      </p>
-    </div>
-  </details>
-  <details>
-    <summary>
-      <span class="character-valtra">발트라에 대해</span>
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p>
-        <span class="highlight">바스타즈</span>의 전략가로 활동하고 있지만, 사실 <span class="character-masters">마스터즈</span>에서 보낸 스파이다. 당신은 그녀가 합류한 초기부터 보고서의 서술 체계와 필체 등을 통해 그녀의 정체를 이미 파악하고 있었다. 전쟁이 끝난 오늘, 당신은 <span class="character-valtra">발트라</span>에게 쪽지를 보내 정체를 폭로하겠다고 위협하며 자신을 위해 움직일 것을 요구했다. 지난 10년간의 노력이 무위로 돌아갈 위기에 처한 그녀는 자신의 비밀을 지키기 위해 당신을 제거해야 한다고 판단했을 것이다.
-      </p>
+      <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 무너진 성기사 <span class="character-skullcrusher">류크</span>를 '스컬크러셔'로 재탄생시킨 것은 당신의 부활을 위한 계획의 일환이었다. 지난 10년 동안 그는 당신을 유일한 조력자로 믿고 따라왔으며, 당신은 그 신뢰를 바탕으로 그를 조종해 왔다. 하지만 당신에게 그는 오직 목적을 위한 도구일 뿐이다. 필요하다면 언제든 그의 진짜 정체를 드러내 연합의 적으로 만들 준비가 되어 있으며, 당신의 계획을 위해서라면 언제든 버릴 수 있는 존재로 여기고 있다.</p>
+      <p><strong><span class="character-malice">말리스에 대해</span></strong>: 바스타즈의 책략가인 그녀는 전직 마법사였다. 10년 전 바스타즈 결성 소식을 듣고 자진 합류한 그녀는 오랜 시간 당신과 교류하며 조금씩 심리적인 경계를 풀었다. 결국 그녀는 자신이 <span class="mystery">골든 서클</span> 출신이며 마력을 잃었다는 사실과, 행방불명된 딸에 대한 비밀을 오직 당신에게만 털어놓았다. 당신은 10년간 이 비밀을 묻어두었으나, 전쟁이 끝난 오늘 이를 이용해 그녀를 압박하기 시작했다. 딸의 봉인석을 이미 손에 넣었다는 거짓 쪽지로 그녀를 위협했고, 비밀을 지키고 싶다면 자신의 수발을 들라는 명령을 내렸다.</p>
+      <p><strong><span class="character-balrog">발로그에 대해</span></strong>: 현재 <span class="highlight">바스타즈</span>의 특공대장인 그는, 사실 30년 전 전장에서 도망친 마신 군단의 패잔병이다. 태초의 마신 <span class="mystery">'다크 시리어스'</span>였던 당신이 빚어낸 모든 마족은 창조주의 기운에 무조건 복종하도록 설계되어 있다. 과거 당신과 마주쳤을 때 그가 영문도 모른 채 공포에 질려 짓눌렸던 것 또한 그 본능 때문이다. 당신은 무기력하게 떨고 있는 그 반응만으로 그가 숨어 지내던 탈영병임을 단숨에 간파했고, 정체를 폭로하겠다는 협박과 함께 절대 거부할 수 없는 '마법 노예 계약'을 강요했다. 그는 창조주를 향한 근원적인 굴복의 본능에 가로막혀, 자신이 왜 저항조차 하지 못하는지 깨닫지도 못한 채 완벽한 무저항 상태로 계약서에 서명했다. 이 계약은 <span class="character-balrog">발로그</span>가 당신을 해치려 할 경우 즉시 영혼이 소멸하도록 설계되었으며, 오직 당신이 직접 해지하거나 사망해야만 파기된다. 이후 당신은 <span class="character-skullcrusher">스컬크러셔</span>에게 그의 진짜 과거를 숨긴 채 "고대 유물로 통제 가능한 마족"이라며 그를 연합에 합류시켰다. 지난 10년 동안 "전쟁에 공을 세우면 과거를 지워주고 자유를 주겠다"고 속여 사냥개처럼 부렸지만, <span class="character-goldenking">골든 킹</span>이 죽은 오늘 마침내 "계약은 영원하며 넌 평생 내 하수인일 뿐이다"라고 통보했다. 간절했던 마지막 희망이 무참히 짓밟힌 순간, 그가 품게 된 절망은 당신을 향한 맹렬한 살의로 변해 타오르기 시작했다.</p>
+      <p><strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 압도적인 무력을 지녔지만 그 이면에 억누를 수 없는 식욕을 감춘 굶주린 야수다. 10년 전, 매복에 걸린 <span class="character-valtra">발트라</span>를 구출하다 부하들과 함께 폐허에 고립되었던 그가 구조된 직후, 당신은 피비린내 나는 현장에서 그가 남긴 참혹한 흔적을 발견했다. 극한의 굶주림을 이기지 못한 그가 아군을 포식하고 내팽개친 동료의 갑옷 파편이었다. 금속 조각에 깊게 파인 이빨 자국은 그가 인간을 사냥했다는 지울 수 없는 낙인이자 명백한 증거였다. 지난 10년 동안 당신은 인자한 현자의 얼굴로 이 추악한 진실을 덮어두었으나, 전쟁이 끝난 오늘 마침내 감춰둔 발톱을 드러냈다. 쪽지를 통해 "그날의 갑옷 파편을 내가 가지고 있다"며 정체를 폭로하겠다고 위협했고, 비밀을 지키고 싶다면 자신의 발밑에서 짖는 충견이 되라며 그를 압박했다. 평생의 자부심과 금기를 맞바꾼 기억이 당신에게 붙잡힌 순간, <span class="character-gorehoof">고어후프</span>는 무거운 침묵 속에서 당신을 향한 살의를 품게 될 것이다.</p>
+      <p><strong><span class="character-slither">슬리더에 대해</span></strong>: 연합에서 암살자로 활동하는 인물이다. 10년 전 바스타즈가 결성되기 전, 당신은 습격받아 쓰러진 <span class="character-skullcrusher">류크</span>를 발견했고 그의 등에 남은 상처가 어둠의 마력이 깃든 무기에 의한 것임을 알아챘다. 성기사였던 <span class="character-skullcrusher">류크</span>에게 그토록 치명적인 상처를 입힐 수 있는 무기는 흔치 않았기 때문이다. 이후 <span class="character-slither">슬리더</span>가 당시 사용된 것과 같은 계열의 '어둠의 단검'을 소유하고 있다는 사실을 확인하며, 당신은 그가 과거 류크를 암습했던 범인임을 확신하게 되었다. <span class="character-skullcrusher">스컬크러셔</span>는 과거 자신을 비겁하게 공격했던 자를 결코 용서하지 않는 성격이다. 전쟁이 끝난 오늘, 당신은 <span class="character-slither">슬리더</span>에게 "그날 쓰러졌던 자가 정말 죽었다고 생각하나?"라는 쪽지를 보냈다. 그가 암살하려 했던 대상이 바로 지금의 수장인 <span class="character-skullcrusher">스컬크러셔</span>라는 사실을 넌지시 드러내며, 정체를 폭로하겠다고 위협해 그를 압박했다. 과거의 행적이 수장에게 알려질 경우 <span class="character-slither">슬리더</span>가 처할 위태로운 상황을 당신은 이용하고 있다.</p>
+      <p><strong><span class="character-valtra">발트라에 대해</span></strong>: <span class="highlight">바스타즈</span>의 전략가로 활동하고 있지만, 사실 <span class="character-masters">마스터즈</span>에서 보낸 스파이다. 당신은 그녀가 합류한 초기부터 보고서의 서술 체계와 필체 등을 통해 그녀의 정체를 이미 파악하고 있었다. 전쟁이 끝난 오늘, 당신은 <span class="character-valtra">발트라</span>에게 쪽지를 보내 정체를 폭로하겠다고 위협하며 자신을 위해 움직일 것을 요구했다. 지난 10년간의 노력이 무위로 돌아갈 위기에 처한 그녀는 자신의 비밀을 지키기 위해 당신을 제거해야 한다고 판단했을 것이다.</p>
     </div>
   </details>
 </div>
 
-8. 비밀
+8. 숨기고 싶은 비밀
+
 <div class="secret-section">
     <ul>
       <li><strong>마신 다크 시리어스</strong>: 당신의 정체는 태초부터 우주를 공포로 몰아넣었던 마신 <span class="mystery">'다크 시리어스'</span>이다. 지금의 현자 모습은 힘을 되찾기 위한 위장일 뿐이다.</li>

@@ -24,12 +24,17 @@
   </ul>
 </div>
 
-7. 역할 시트 (상세 설명 / 타임라인 / 특징 / 인물관계 통합)
+7. 역할 시트 (캐릭터 배경 / 타임라인 / 특징 / 인물관계 통합)
 <div class="story-content">
-  <details open>
-    <summary>상세 설명</summary>
+  <details>
+    <summary>
+      캐릭터 배경
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
     <div class="collapsible-content">
-      <p class="subsection-title">캐릭터 배경</p>
       <p>
         당신의 본명은 <span class="character-skullcrusher">'류크'</span>. 오래 전, 황폐한 변방 행성의 가난한 마을에서 자란 소년이었다. 어느 날 마을을 습격한 괴수들로부터 사람들을 구해낸 <span class="character-masters">마스터즈</span> 성기사의 눈부신 모습을 본 뒤로, 기사가 되는 것은 당신의 유일한 꿈이자 삶의 전부가 되었다. 
         당신은 정해진 운명을 거부한 채 무작정 <span class="character-masters">마스터즈</span>의 본성으로 향했고, 아무런 배경도 없는 변방 출신으로서 견뎌야 했던 시련을 오직 타고난 재능과 노력으로 이겨냈다. 
@@ -149,7 +154,13 @@
   </details>
 
   <details>
-    <summary>타임라인</summary>
+    <summary>
+      타임라인
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
     <div class="collapsible-content">
       <ul class="goal-list">
         <li><strong>09:00</strong>: 지휘관 <span class="character-valtra">발트라</span>가 올린 공성 작전안을 검토하고 각 멤버의 담당 구역을 지정하며 공격 시작 명령을 내림.</li>
@@ -170,7 +181,13 @@
   </details>
 
   <details>
-    <summary>특징</summary>
+    <summary>
+      특징
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
     <div class="collapsible-content">
       <ul>
         <li><strong>속성</strong>: <span class="character-goldenking">골든 킹</span>의 <span class="emphasis">'선샤인'</span>을 격중당하기 전까지는 <span class="highlight">어둠</span>. 현재는 <span class="highlight">빛</span>.</li>
@@ -183,7 +200,13 @@
   </details>
 
   <details>
-    <summary>인물 관계</summary>
+    <summary>
+      인물 관계
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
     <div class="collapsible-content">
       <p>
         <strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 모두가 존경하는 지혜로운 현자이자 연합의 정신적 지주. 대외적으로는 그저 훌륭한 참모일 뿐이지만, 사실 그는 10년 전 대협곡에 버려져 죽어가던 당신을 구해낸 생명의 은인이다. 골든 킹에게 배신당해 영혼마저 산산조각 났던 당신을 다시 일으켜 세우고, 복수의 화신 <span class="character-skullcrusher">스컬크러셔</span>로 다시 태어나게 이끌어준 진정한 스승이기도 하다. 이 거대한 복수극의 모든 전략을 그와 함께 설계해 왔기에, 당신에게 <span class="character-eldritch">엘드리치</span>는 이 험난한 여정을 버티게 한 유일한 안식처와 같다. 다만, 연합의 엄격한 기강과 수장으로서의 권위를 유지하기 위해 두 사람의 각별한 사제 관계는 다른 멤버들에게 결코 밝혀서는 안 될 철저한 비밀로 남겨두고 있다.
@@ -207,14 +230,14 @@
   </details>
 </div>
 
-8. 비밀
+8. 숨기고 싶은 비밀
 
 <div class="secret-section">
-    <ul>
-      <li><strong>성기사 류크</strong>: 당신의 실제 정체는 과거 <span class="character-masters">마스터즈</span>의 영웅이자 가장 충직한 성기사였던 <span class="character-skullcrusher">'류크'</span>이다.</li>
-      <li><strong>스승과 제자</strong>: 당신과 현자 <span class="character-eldritch">엘드리치</span>는 단순한 전우가 아니라, 30년 전 죽음의 문턱에서 당신을 구해준 그를 스승으로 모시는 깊은 사제 관계이다.</li>
-      <li><strong>목격자 색출</strong>: 멤버들을 성채 곳곳으로 흩어지게 한 진짜 목적은 단순한 수색이 아니다. <span class="character-goldenking">골든 킹</span>을 처단할 당시 그의 마지막 외침을 엿들은 자가 누구인지, 각 멤버들을 지정된 장소에 고립시켜 그들의 반응을 살피며 비밀리에 찾아내려는 것이다.</li>
-    </ul>
+  <ul>
+    <li><strong>성기사 류크</strong>: 당신의 실제 정체는 과거 <span class="character-masters">마스터즈</span>의 영웅이자 가장 충직한 성기사였던 <span class="character-skullcrusher">'류크'</span>이다.</li>
+    <li><strong>스승과 제자</strong>: 당신과 현자 <span class="character-eldritch">엘드리치</span>는 단순한 전우가 아니라, 30년 전 죽음의 문턱에서 당신을 구해준 그를 스승으로 모시는 깊은 사제 관계이다.</li>
+    <li><strong>목격자 색출</strong>: 멤버들을 성채 곳곳으로 흩어지게 한 진짜 목적은 단순한 수색이 아니다. <span class="character-goldenking">골든 킹</span>을 처단할 당시 그의 마지막 외침을 엿들은 자가 누구인지, 각 멤버들을 지정된 장소에 고립시켜 그들의 반응을 살피며 비밀리에 찾아내려는 것이다.</li>
+  </ul>
 </div>
 
 9. 목표

@@ -60,7 +60,7 @@
     text-align: justify;
 }
 
-/* 리스트 스타일 - 옛 전설의 목록 느낌 */
+/* 리스트 스타일 */
 .story-content ul {
     list-style: none;
     padding-left: 0;
@@ -69,17 +69,6 @@
 
 .story-content li {
     margin-bottom: 1em;
-    padding-left: 1.8em;
-    position: relative;
-}
-
-.story-content li::before {
-    content: "⚔️";
-    /* 칼 이모지로 판타지 느낌 추가 */
-    position: absolute;
-    left: 0;
-    font-size: 0.9em;
-    color: var(--fantasy-gold);
 }
 
 /* 강조 스타일 */
@@ -153,39 +142,102 @@
     letter-spacing: 0.1em;
 }
 
+.story-content details summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content details summary::marker {
+    display: none;
+}
+
 .story-content details summary:hover {
     background: rgba(212, 175, 55, 0.15);
     box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
 }
 
+.story-content details summary .toggle-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    font-size: 0.7em;
+    font-weight: 600;
+}
+
+.story-content details summary .toggle-text {
+    color: var(--fantasy-gold);
+}
+
+.story-content details summary .toggle-icon {
+    color: var(--fantasy-gold);
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+.story-content details[open] summary .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.story-content details .collapsible-content {
+    padding: 1.5em;
+    animation: fadeSlideDown 0.3s ease-out;
+}
+
+@keyframes fadeSlideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 /* 추가적인 커스텀 클래스들 */
-.story-content .mystery {
+.mystery {
     color: #dda0dd;
     /* Plum 컬러로 신비로운 느낌 */
     font-weight: 400;
     text-shadow: 0 0 8px rgba(221, 160, 221, 0.5);
 }
 
-.story-content .secret-section {
+.secret-section {
     background: rgba(139, 0, 0, 0.15);
     border-left: 5px solid var(--fantasy-crimson);
     padding: 1.5em;
     margin: 2em 0;
     border-radius: 4px;
+    /* story-content 스타일 수동 적용 (독립적 사용 보장) */
+    font-family: "Pretendard Variable", Pretendard, sans-serif;
+    color: var(--fantasy-text);
+    line-height: 1.75;
 }
 
-.story-content .goal-list li::before {
-    content: "🏹";
-    color: var(--fantasy-gold);
+.goal-list {
+    list-style: none;
+    padding-left: 0;
 }
 
-.story-content .action-section {
+.goal-list li {
+    padding-left: 0;
+}
+
+.goal-list li::before {
+    content: none;
+}
+
+.action-section {
     background: rgba(212, 175, 55, 0.08);
     border: 1px solid var(--fantasy-gold);
     border-left-width: 6px;
     padding: 1.5em;
     margin: 2em 0;
     border-radius: 4px;
+    /* story-content 스타일 수동 적용 (독립적 사용 보장) */
+    font-family: "Pretendard Variable", Pretendard, sans-serif;
+    color: var(--fantasy-text);
+    line-height: 1.75;
 }
 
 .story-content .divider {
@@ -200,62 +252,62 @@
 
 /* --- 캐릭터 테마 색상 (바스타즈 라인업) --- */
 
-/* 로드 스컬크러셔: 강철과 붉은색 */
+/* 로드 스컬크러셔: 강철과 붉은색 (붉은 광채의 다크 실버) */
 .story-content .character-skullcrusher {
-    color: #e0e0e0 !important;
+    color: #ff5e5e !important;
     font-weight: 800;
-    text-shadow: 0 0 10px rgba(255, 0, 0, 0.4);
+    text-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
 }
 
-/* 레이디 말리스: 진홍색과 금색 */
+/* 레이디 말리스: 진홍색과 금색 (깊은 버밀리온) */
 .story-content .character-malice {
-    color: #ff2400 !important;
+    color: #e34234 !important;
     font-weight: 800;
 }
 
-/* 고어후프: 흉포한 레드/브라운 */
+/* 고어후프: 흉포한 레드/브라운 (번트 시에나 레드) */
 .story-content .character-gorehoof {
-    color: #cd5c5c !important;
+    color: #b22222 !important;
     font-weight: 800;
 }
 
-/* 슬리더: 파충류의 그린 */
+/* 슬리더: 파충류의 그린 (세이지/에메랄드 다크) */
 .story-content .character-slither {
-    color: #32cd32 !important;
+    color: #2e8b57 !important;
     font-weight: 800;
 }
 
-/* 악마 발로그: 불타는 레드 */
+/* 악마 발로그: 불타는 레드 (크림슨 레드) */
 .story-content .character-balrog {
-    color: #ff0000 !important;
+    color: #cf1020 !important;
     font-weight: 900;
-    text-shadow: 0 0 12px rgba(255, 69, 0, 0.6);
+    text-shadow: 0 0 12px rgba(207, 16, 32, 0.6);
 }
 
-/* 엘드리치 위자드: 신비로운 블루 */
+/* 엘드리치 위자드: 신비로운 블루 (미드나잇 스카이 블루) */
 .story-content .character-eldritch {
-    color: #1e90ff !important;
+    color: #60a5fa !important;
     font-weight: 800;
-    text-shadow: 0 0 10px rgba(30, 144, 255, 0.5);
+    text-shadow: 0 0 10px rgba(96, 165, 250, 0.5);
 }
 
-/* 워로드 발트라: 다크 실버 */
+/* 워로드 발트라: 다크 실버 (지휘관의 슬레이트 그레이) */
 .story-content .character-valtra {
-    color: #c0c0c0 !important;
+    color: #94a3b8 !important;
     font-weight: 800;
 }
 
-/* 골든 킹: 눈부신 황금색 */
+/* 골든 킹: 눈부신 황금색 (클래식 앤틱 골드) */
 .story-content .character-goldenking {
-    color: #ffd700 !important;
+    color: #cca43b !important;
     font-weight: 800;
-    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+    text-shadow: 0 0 8px rgba(204, 164, 59, 0.5);
 }
 
-/* 마스터즈: 신성한 빛의 은하색 */
+/* 마스터즈: 신성한 빛의 은하색 (성스러운 인디고/퍼플) */
 .story-content .character-masters {
-    color: #e6e6fa !important;
-    font-weight: 700;
+    color: #a78bfa !important;
+    font-weight: 800;
 }
 
 /* PPT 및 문서 표현 (옛 서 기록 느낌) */
@@ -342,6 +394,74 @@
     margin: 1.5em 0;
     background: rgba(212, 175, 55, 0.05);
     border-radius: 4px;
+}
+
+/* 추가 확장 스타일 (조별과제 이식) */
+.story-content .quote-box.compact {
+    margin: 1em 0;
+    padding: 0.8em 1.2em;
+}
+
+.story-content .summary-header {
+    font-size: 1.05em;
+    font-weight: 600;
+    color: var(--fantasy-text);
+    background: rgba(255, 255, 255, 0.05);
+    padding: 0.6em 1em;
+    border-radius: 4px;
+}
+
+.story-content .summary-header.warning {
+    color: #ff4d4d;
+    background: rgba(255, 77, 77, 0.05);
+}
+
+.story-content .result-box {
+    background: rgba(212, 175, 55, 0.1);
+    border-left: 3px solid var(--fantasy-gold);
+    padding: 1.2em;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+    border-radius: 4px;
+    font-style: italic;
+    color: #dfdfdf;
+}
+
+.story-content .game-effect-notice {
+    padding: 10px;
+    background: rgba(30, 144, 255, 0.1);
+    border-left: 3px solid #1e90ff;
+    border-radius: 4px;
+    margin: 1em 0;
+}
+
+.story-content .game-effect-notice strong {
+    color: #1e90ff;
+}
+
+.story-content .game-effect-notice.warning {
+    background: rgba(255, 77, 77, 0.1);
+    border-left: 3px solid #ff4d4d;
+}
+
+.story-content .important-notice {
+    background: rgba(255, 77, 77, 0.1);
+    border: 1px solid rgba(255, 77, 77, 0.2);
+    border-left: 4px solid #ff4d4d;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin: 1.5rem 0;
+}
+
+.story-content .important-notice p {
+    margin-bottom: 0;
+    color: #ffbaba;
+    font-size: 0.9em;
+}
+
+.story-content .highlight-blue {
+    color: #1e90ff;
+    font-weight: 700;
 }
 
 /* --- 추리 단계 및 긴급 상황 스타일 --- */
