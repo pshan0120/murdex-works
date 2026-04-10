@@ -106,7 +106,7 @@
 /* 인용구 박스 - 오래된 양피지나 비석 느낌 */
 .story-content .quote-box {
     display: block;
-    padding: 1.5em 1.8em;
+    padding: 1em 1.2em;
     margin: 2em 0;
     color: #e0e0e0;
     background: rgba(47, 79, 79, 0.2);
@@ -147,7 +147,7 @@
 .story-content details summary {
     cursor: pointer;
     user-select: none;
-    padding: 1.25em 1.5em;
+    padding: 1.0em;
     background: linear-gradient(135deg, rgba(165, 42, 42, 0.1), rgba(0, 0, 0, 0.3));
     border: 2px solid var(--fantasy-gold);
     border-radius: 6px;
@@ -159,6 +159,7 @@
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
+    font-size: 0.8em;
 }
 
 .story-content details summary::-webkit-details-marker {
@@ -197,7 +198,11 @@
 }
 
 .story-content details .collapsible-content {
-    padding: 1.5em;
+    padding-top: 1.0em;
+    padding-bottom: 1.0em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 0.9em;
     animation: fadeSlideDown 0.3s ease-out;
 }
 
@@ -420,10 +425,10 @@
     border-radius: 4px;
 }
 
-/* 추가 확장 스타일 (조별과제 이식) */
+/* 추가 확장 스타일 */
 .story-content .quote-box.compact {
     margin: 1em 0;
-    padding: 0.8em 1.2em;
+    padding: 0.8em 1.0em;
 }
 
 .story-content .summary-header {
