@@ -27,7 +27,7 @@
 
 7. 역할 시트 (캐릭터 배경 / 타임라인 / 특징 / 인물관계 통합)
 <div class="story-content">
-  <details open>
+  <details>
     <summary>
       캐릭터 배경
       <span class="toggle-wrapper">
@@ -139,7 +139,7 @@
 
 8. 숨기고 싶은 비밀
 
-<div class="secret-section">
+<div class="story-content secret-section">
   <ul>
     <li><strong>요원 26호</strong>: 당신은 과거 <span class="character-masters">마스터즈</span>의 비밀 조직인 <span class="highlight">'화이트클로'</span> 소속의 요원 <span class="emphasis">'26호'</span>였다. 용병대장의 신분으로 위장해 <span class="highlight">바스타즈</span>에 합류했으며, 조직의 지시를 받아 연합의 기밀 정보를 <span class="character-masters">마스터즈</span>에 유출해왔으나 결국 소모품처럼 이용당하고 버려졌다.</li>
     <li><strong>비극의 실체</strong>: 당신은 <span class="character-masters">마스터즈</span>와 합류하기 위해 좌표를 넘겼으나, 그것은 조직이 쓸모없어진 당신을 제거하려는 함정이었다. 결과적으로 당신이 유출한 정보 때문에 <span class="character-gorehoof">고어후프</span>의 동료들이 참혹하게 전멸했다는 것을 알게 된 이후로, 그에게 평생 씻을 수 없는 무거운 부채감을 느끼고 있다.</li>
@@ -149,8 +149,10 @@
 
 9. 목표
 
-[조사 1단계 17:00 ~ 18:00]
-<div class="story-content">
+[조사 1단계]
+제목: 목표
+내용:
+<div class="story-content secret-section">
   <ul class="goal-list">
     <li><strong>협박의 근거 탈취 및 파기</strong>: <span class="character-eldritch">엘드리치</span>가 당신을 스파이라고 확신하며 협박하는 데는 분명 결정적인 증거가 있을 것이다. 그가 이를 어디에 숨겼는지 찾아내어 파기하라.</li>
     <li><strong>엘드리치의 약점 포착</strong>: 저 늙은이에게도 분명 남몰래 숨기고 있는 비밀이 있을 것이다. 그것을 찾아내서 그의 입을 막아야 한다. 만약 도저히 방법을 찾을 수 없다면, 그를 제거하는 것도 고려해봐야 한다.</li>
@@ -158,8 +160,10 @@
   </ul>
 </div>
 
-[추리 1단계 이후 18:00 ~ ]
-<div class="story-content">
+[추리 1단계 이후]
+제목: 목표 - 추리 1단계 이후
+내용:
+<div class="story-content secret-section">
   <ul class="goal-list">
     <li><strong>진범 추적</strong>: 당신을 협박하던 <span class="character-eldritch">엘드리치</span>는 죽었지만 마음을 놓고 있을 때가 아니다. 누군가는 당신의 과거를 약점 삼아 범인으로 몰아세울 수 있기 때문이다. 진짜 범인이 누구인지 반드시 밝혀내어 의심의 화살을 피해야 한다.</li>
     <li><strong>유품 속에 숨겨진 물증 인멸</strong>: <span class="character-eldritch">엘드리치</span>가 사라졌으니 이제 그의 물품을 살펴볼 기회가 생겼다. 협박 쪽지에 언급된 당신의 과거에 대한 증거가 다른 사람의 손에 들어가기 전에, 누구보다 먼저 그것을 찾아내어 없애야 한다.</li>

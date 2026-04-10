@@ -27,7 +27,7 @@
 
 7. 역할 시트 (캐릭터 배경 / 타임라인 / 특징 / 인물관계 통합)
 <div class="story-content">
-  <details open>
+  <details>
     <summary>
       캐릭터 배경
       <span class="toggle-wrapper">
@@ -135,7 +135,7 @@
 
 8. 숨기고 싶은 비밀
 
-<div class="secret-section">
+<div class="story-content secret-section">
     <ul>
       <li><strong>피로 얼룩진 생존의 굶주림</strong>: 10년 전쟁 당시, <span class="character-valtra">발트라</span>를 구한 후 적진에 고립되었을 때의 일이다. 극한의 허기와 마력 폭주를 견디지 못한 당신은 어두운 잔해 속에서 함께 있던 아군들을 도살하고 그들의 살점을 먹어 치우는 비극을 저질렀다. 이는 당신 평생의 수치이자 지독한 트라우마이며, 당시 <span class="highlight">"동료들이 적의 함정에 빠져 전멸하는 것을 지켜볼 수밖에 없었다"</span>고 올린 거짓 보고는 지금 당신의 목을 조이는 치명적인 약점이 되었다.</li>
       <li><strong>폭주하는 대지의 심장</strong>: 고대 유물 <span class="emphasis">'대지의 심장'</span>을 흡수해 얻은 이 압도적인 힘은 불행히도 불완전하다. 분노나 허기가 한계치를 넘으면 이성을 잃고 눈앞의 모든 것을 파괴하는 야수로 변해버린다. 오늘 오후, <span class="character-eldritch">엘드리치</span>의 협박 쪽지를 확인한 순간 몰려온 극심한 스트레스는 다시 한번 통제 불능의 굶주림을 불러왔고, 결국 당신은 식당의 음식들을 짐승처럼 먹어 치우며 또 한 번 본능에 굴복하고 말았다.</li>
@@ -144,8 +144,8 @@
 
 9. 목표
 
-[조사 1단계 (17:00 ~ 18:00)]
-<div class="story-content">
+[조사 1단계]
+<div class="story-content secret-section">
   <ul class="goal-list">
     <li><strong>비열한 위협에 대응</strong>: <span class="character-eldritch">엘드리치</span>의 협박이 단순히 말뿐인지, 아니면 당신의 명예를 완전히 무너뜨릴 실질적인 무언가를 쥐고 있는 것인지 파악하라. 그것이 무엇이든 당신의 과거 실수를 수면 위로 끌어올릴 만한 것이라면 선제적으로 대처해야 한다.</li>
     <li><strong>폭식의 흔적 수습</strong>: <span class="character-skullcrusher">스컬크러셔</span>에게 질책당한 직후 극심한 스트레스로 인해 저지른 당신의 추태가 다른 멤버들에게 발각되지 않도록 해야 한다.</li>
@@ -153,8 +153,8 @@
   </ul>
 </div>
 
-[추리 1단계 이후 (18:00 ~ )]
-<div class="story-content">
+[추리 1단계 이후]
+<div class="story-content secret-section">
   <ul class="goal-list">
     <li><strong>결백 증명과 비밀 엄수</strong>: <span class="character-eldritch">엘드리치</span>를 죽인 범인을 찾기 위해 협력하되, 조사의 방향이 당신의 과거 행적이나 제어할 수 없는 신체적 부작용으로 향하지 않도록 유도하라. 범행 상황을 당신의 장점인 전우애와 헌신적인 공로로 덮어씌워 방어하라.</li>
     <li><strong>발트라의 적극적인 조력 확보</strong>: 당신은 그녀의 목숨을 구한 생명의 은인이다. 그녀가 가진 부채감을 자극하여 당신의 비밀을 감춰주거나 조사 과정에서 당신을 적극 옹호하도록 유도하여 도움을 받아라. 그녀를 당신의 가장 강력한 우군이자 방패로 활용해야 한다.</li>

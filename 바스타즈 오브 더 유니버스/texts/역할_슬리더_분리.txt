@@ -27,7 +27,7 @@
 
 7. 역할 시트 (캐릭터 배경 / 타임라인 / 특징 / 인물관계 통합)
 <div class="story-content">
-  <details open>
+  <details>
     <summary>
       캐릭터 배경
       <span class="toggle-wrapper">
@@ -135,7 +135,7 @@
 
 8. 숨기고 싶은 비밀
 
-<div class="secret-section">
+<div class="story-content secret-section">
     <ul>
       <li><strong>왕좌의 방 목격</strong>: <span class="character-goldenking">골든 킹</span>이 숨이 끊기기 직전 <span class="character-skullcrusher">스컬크러셔</span>를 향해 <span class="emphasis">"네놈은... 설마...!"</span>라고 소리친 결정적 순간을 목격했다. <span class="character-skullcrusher">스컬크러셔</span>가 다급하게 그의 목을 베어 진실을 영원히 묻어버린 것으로 보아, 그가 감추려 하는 비밀이 있다고 확신한다.</li>
       <li><strong>과거의 생존자와 엘드리치의 협박</strong>: <span class="character-eldritch">엘드리치</span>가 보낸 쪽지에 따르면, 과거 당신이 완벽하게 처리했다고 믿었던 암살 대상(<span class="emphasis">기사 류크</span>) 중 누군가가 살아있으며 현재 이 성 안에 있을 가능성이 높다. 이 사실이 폭로되면 당신의 정체는 물론 고향 재건의 숙원도 수포로 돌아가기에, <span class="character-eldritch">엘드리치</span>의 입을 막고 살아남은 자가 누구인지 반드시 알아내야 한다.</li>
@@ -145,8 +145,10 @@
 
 9. 목표
 
-[조사 1단계 17:00 ~ 18:00]
-<div class="story-content">
+[조사 1단계]
+제목: 목표
+내용:
+<div class="story-content secret-section">
   <ul class="goal-list">
     <li><strong>엘드리치의 협박 대응 및 약점 파악</strong>: 당신이 과거에 완벽히 처리했다 믿었던 암살 대상 중 누가 살아남아 이 성 안에 있는지 정체를 밝혀내라. 또한 당신을 협박하는 <span class="character-eldritch">엘드리치</span>의 입을 막기 위해 그의 약점을 찾아내어 반대로 협박하라.</li>
     <li><strong>사라진 어둠의 단검 추적</strong>: <span class="emphasis">문서고</span>에 잠시 놓아두었던 당신의 무기 <span class="highlight">'어둠의 단검'</span>이 감쪽같이 사라졌다. 누가 어떤 의도로 당신의 무기를 훔쳐갔는지 밝혀내고 반드시 회수하라.</li>
@@ -154,8 +156,10 @@
   </ul>
 </div>
 
-[추리 1단계 이후 18:00 ~ ]
-<div class="story-content">
+[추리 1단계 이후]
+제목: 목표 - 추리 1단계 이후
+내용:
+<div class="story-content secret-section">
   <ul class="goal-list">
     <li><strong>단검 도난 입증 및 알리바이 확보</strong>: 당신의 무기가 범행 현장에서 발견된 이상, 이 단검을 사전에 누군가에게 도난당했음을 다른 이들에게 납득시켜야 한다. 또한 <span class="highlight">마력석</span>을 훔치기 위해 <span class="emphasis">문서고</span>를 비운 시간 동안 당신이 어디서 무엇을 했는지 추궁당할 것에 대비해, 의심을 피할 수 있는 철저한 핑계거리를 마련하라.</li>
     <li><strong>엘드리치 살해의 진범 포착</strong>: 당신의 무기를 훔쳐 <span class="character-eldritch">엘드리치</span>를 살해하고 모든 죄를 당신에게 뒤집어씌우려 한 진짜 범인을 찾아내라. 진범의 정체를 밝히는 것만이 당신의 결백을 완벽히 입증할 유일한 길이다.</li>

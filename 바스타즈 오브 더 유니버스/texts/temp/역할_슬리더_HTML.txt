@@ -242,13 +242,23 @@
       </span>
     </summary>
     <div class="collapsible-content">
-      <p class="subsection-title">조사 1단계 (17:00 ~ 18:00)</p>
       <ul class="goal-list">
         <li><strong>협박 대응</strong>: 성 안에 숨어있는 '살아남은 표적'의 정체를 밝히고, <span class="character-eldritch">엘드리치</span>의 약점을 찾아 반격하라.</li>
         <li><strong>단검 추적</strong>: <span class="emphasis">문서고</span>에서 사라진 <span class="highlight">'어둠의 단검'</span>의 행방과 훔쳐간 인물을 찾아라.</li>
         <li><strong>수장의 실체</strong>: <span class="character-skullcrusher">스컬크러셔</span>가 숨기려 했던 진실과 관련된 단서를 확보하라.</li>
       </ul>
-      <p class="subsection-title">추리 1단계 이후 (18:00 ~ )</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      목표: 엘드리치 사망 이후
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
       <ul class="goal-list">
         <li><strong>알리바이 확보</strong>: 단검 도난 사실을 입증하여 당신에게 씌워진 누명을 벗겨라. 자리를 비웠던 시간에 대한 적절한 핑계거리를 준비하라.</li>
         <li><strong>마력석 사수</strong>: 훔쳐낸 <span class="highlight">마력석</span>의 존재를 끝까지 숨기고 무사히 성을 빠져나가는 것이 최종 목적이다.</li>

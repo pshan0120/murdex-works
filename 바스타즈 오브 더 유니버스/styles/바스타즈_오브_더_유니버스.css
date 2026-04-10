@@ -38,7 +38,6 @@
     text-shadow: 2px 2px 4px var(--fantasy-shadow);
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    text-align: center;
 }
 
 /* 소제목 스타일 */
@@ -69,6 +68,26 @@
 
 .story-content li {
     margin-bottom: 1em;
+}
+
+/* 하위 리스트 스타일 */
+.story-content .sub-list {
+    margin-top: 0.5em;
+    margin-left: 1.2em;
+}
+
+.story-content .sub-list li {
+    position: relative;
+    padding-left: 1em;
+    margin-bottom: 0.4em;
+}
+
+.story-content .sub-list li::before {
+    content: "·";
+    position: absolute;
+    left: 0;
+    color: var(--fantasy-gold);
+    font-weight: bold;
 }
 
 /* 강조 스타일 */
@@ -252,61 +271,57 @@
 
 /* --- 캐릭터 테마 색상 (바스타즈 라인업) --- */
 
-/* 로드 스컬크러셔: 강철과 붉은색 (붉은 광채의 다크 실버) */
+/* 스컬크러셔: 강철 느낌의 실버 */
 .story-content .character-skullcrusher {
-    color: #ff5e5e !important;
+    color: #e2e8f0 !important;
     font-weight: 800;
-    text-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
 }
 
-/* 레이디 말리스: 진홍색과 금색 (깊은 버밀리온) */
+/* 말리스: 선명한 앰버 (Tomato와 구분) */
 .story-content .character-malice {
-    color: #e34234 !important;
+    color: #f59e0b !important;
     font-weight: 800;
 }
 
-/* 고어후프: 흉포한 레드/브라운 (번트 시에나 레드) */
+/* 고어후프: 짙은 레드 */
 .story-content .character-gorehoof {
-    color: #b22222 !important;
+    color: #b91c1c !important;
     font-weight: 800;
 }
 
-/* 슬리더: 파충류의 그린 (세이지/에메랄드 다크) */
+/* 슬리더: 밝은 에메랄드 그린 */
 .story-content .character-slither {
-    color: #2e8b57 !important;
+    color: #10b981 !important;
     font-weight: 800;
 }
 
-/* 악마 발로그: 불타는 레드 (크림슨 레드) */
+/* 발로그: 선명한 레드 */
 .story-content .character-balrog {
-    color: #cf1020 !important;
+    color: #ef4444 !important;
     font-weight: 900;
-    text-shadow: 0 0 12px rgba(207, 16, 32, 0.6);
 }
 
-/* 엘드리치 위자드: 신비로운 블루 (미드나잇 스카이 블루) */
+/* 엘드리치 위자드: 밝은 스카이 블루 */
 .story-content .character-eldritch {
-    color: #60a5fa !important;
+    color: #38bdf8 !important;
     font-weight: 800;
-    text-shadow: 0 0 10px rgba(96, 165, 250, 0.5);
 }
 
-/* 워로드 발트라: 다크 실버 (지휘관의 슬레이트 그레이) */
+/* 워로드 발트라: 신비로운 바이올렛 (Plum과 구분되는 선명한 보라) */
 .story-content .character-valtra {
-    color: #94a3b8 !important;
+    color: #8b5cf6 !important;
     font-weight: 800;
 }
 
-/* 골든 킹: 눈부신 황금색 (클래식 앤틱 골드) */
+/* 골든 킹: 선명한 황금색 */
 .story-content .character-goldenking {
-    color: #cca43b !important;
+    color: #eebb3b !important;
     font-weight: 800;
-    text-shadow: 0 0 8px rgba(204, 164, 59, 0.5);
 }
 
-/* 마스터즈: 신성한 빛의 은하색 (성스러운 인디고/퍼플) */
+/* 마스터즈 */
 .story-content .character-masters {
-    color: #a78bfa !important;
+    color: #e0ad2c !important;
     font-weight: 800;
 }
 
@@ -349,9 +364,7 @@
 
 /* 스크립트 강조 */
 .story-content .script-character {
-    font-family: "Cinzel", serif;
     color: var(--fantasy-gold);
-    font-size: 1.1em;
 }
 
 .story-content .script-character.my-character {
@@ -457,6 +470,28 @@
     margin-bottom: 0;
     color: #ffbaba;
     font-size: 0.9em;
+}
+
+/* 안내/가이드 박스 스타일 (황금색 테마) */
+.story-content .guide-box {
+    background: rgba(212, 175, 55, 0.08);
+    border: 1px solid rgba(212, 175, 55, 0.2);
+    border-left: 5px solid var(--fantasy-gold);
+    padding: 1.25em 1.5em;
+    margin: 2em 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.story-content .guide-box p {
+    margin-bottom: 0 !important;
+    color: #fdf5e6;
+    font-size: 0.92em;
+    line-height: 1.65;
+}
+
+.story-content .guide-box strong {
+    color: var(--fantasy-gold);
 }
 
 .story-content .highlight-blue {

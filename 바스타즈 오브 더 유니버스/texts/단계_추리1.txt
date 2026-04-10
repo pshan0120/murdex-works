@@ -2,13 +2,13 @@
 3
 
 2. 단계 이름
-깨어진 유대
+승전 연회
 
 3. 단계 유형
 DEDUCTION
 
 4. 예상 소요 시간
-30분
+20분
 
 5. 자동 진행 여부
 N
@@ -19,18 +19,30 @@ N
 7. 단계 설명
 
 <div class="story-content">
-  <!-- 긴급 상황 발생: 엘드리치의 죽음 -->
-  <div class="emergency-notice">
-    <h1 class="emergency-title">⚠️ 긴급 상황 발생: 연회장의 비보</h1>
-    <p>승리의 함성이 채 가시기도 전, 바스타즈의 귀한 동료인 <span class="character-eldritch">엘드리치</span>가 차가운 시신으로 발견되었습니다. 본격적인 추론에 앞서, 아래의 정황을 펼쳐 당시의 소동을 확인해 주십시오.</p>
-    
-    <details>
-      <summary class="emergency-summary">[상황 확인] 18:00~18:15 연회장의 소동</summary>
+  <p>
+    함락된 화이트스컬 성의 연회장은 핏빛 노을보다 진한 포도주의 향기와 승전의 열기로 가득합니다. 
+    전장의 먼지를 털어낸 정복자들이 하나둘씩 무거운 갑옷을 내려놓으며 모여들고, 곧 우주의 새로운 역사가 기록될 성대한 만찬이 시작되려 합니다. 
+    하지만 모두가 잔을 높이 들 준비를 마쳤음에도, 지혜의 석상처럼 그늘 속에 든든히 자리를 지키던 한 명의 모습이 보이지 않습니다.
+  </p>
+
+  <div class="guide-box">
+    <p>승리의 함성이 채 가시기도 전, 성채 내부에 <strong>비상 상황</strong>이 발생했습니다. '1. 개요'를 읽기 전, 반드시 아래의 <span class="highlight">비상 상황</span>을 클릭하여 무슨 일이 일어났는지 확인해 주시기 바랍니다.</p>
+  </div>
+
+  <details>
+    <summary class="emergency-summary">
+      비상 상황
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
       <div class="script-container">
-        <div class="script-direction">(18:00, 함락된 화이트스컬 성의 대연회장. 승전을 축하하는 만찬이 마련되었으나 엘드리치의 자리는 여전히 비어 있다.)</div>
+        <div class="script-direction">(18:00, 연회장. 승전을 축하하는 만찬이 마련되었으나 <span class="character-eldritch">엘드리치</span>의 자리는 여전히 비어 있다.)</div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: "<span class="character-eldritch">엘드리치 님</span>이 보이지 않는군. 그가 만찬에 늦다니, 드문 일이야."
+          <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: "<span class="character-eldritch">엘드리치</span>가 보이지 않는군. 그가 만찬에 늦다니, 드문 일이야."
         </div>
         
         <div class="script-line">
@@ -42,31 +54,31 @@ N
         </div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-slither">슬리더</span></span>: "(혓바닥을 날카롭게 놀리며) 서두를 필요 있나. 기다림도 승리의 소금 같은 것이니 말이야."
+          <span class="script-character"><span class="character-slither">슬리더</span></span>: "(혓바닥을 날카롭게 놀리며) 쉿쉿. 서두를 필요 있나. 기다림도 승리의 소금 같은 것이니 말이야."
         </div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: "<span class="character-balrog">발로그</span>, 네가 가서 <span class="character-eldritch">엘드리치 님</span>을 모셔와라. 다들 모인 후에야 제대로 된 축배를 들 수 있을 테니."
+          <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: "<span class="character-balrog">발로그</span>, 네가 가서 <span class="character-eldritch">엘드리치</span>를 데려와라. 다들 모인 후에야 제대로 된 축배를 들 수 있을 테니."
         </div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-balrog">발로그</span></span>: "알았다. 그 영감이 책 사이에서 졸고 있는지 내가 보고 오지."
+          <span class="script-character"><span class="character-balrog">발로그</span></span>: "알았다. 곧 데려오지."
         </div>
         
-        <div class="script-direction">(18:05, <span class="character-balrog">발로그</span>가 가벼운 몸짓으로 연회장을 나선다. 남은 이들 사이엔 묘한 긴장감이 흐른다.)</div>
+        <div class="script-direction">(18:05, <span class="character-balrog">발로그</span>가 연회장을 나선다. 남은 이들 사이엔 묘한 긴장감이 흐른다.)</div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-valtra">발트라</span></span>: "...전장의 기운이 가라앉질 않는군. 승리했는데도 마음 한구석이 서늘해지는 기분이야."
+          <span class="script-character"><span class="character-valtra">발트라</span></span>: "...불길하군. 승리했는데도 마음 한구석이 서늘해지는 기분이야."
         </div>
         
-        <div class="script-direction">(18:15, 서재로 갔던 <span class="character-balrog">발로그</span>가 굳은 표정으로 서둘러 돌아온다.)</div>
+        <div class="script-direction">(서재로 갔던 <span class="character-balrog">발로그</span>가 굳은 표정으로 돌아온다.)</div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-balrog">발로그</span></span>: "수장, 상황이 안 좋아. <span class="character-eldritch">엘드리치</span>가... 서재에서 죽어 있다!"
+          <span class="script-character"><span class="character-balrog">발로그</span></span>: "믿을 수 없는 일이 벌어졌군. <span class="character-eldritch">엘드리치</span>가... 서재에서 죽어 있다!"
         </div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: "뭐라고?! 그게 대체 무슨 소리냐, <span class="character-balrog">발로그</span>! 엘드리치가 죽다니...!"
+          <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: "뭐라고?! 그게 대체 무슨 소리냐, <span class="character-balrog">발로그</span>! <span class="character-eldritch">엘드리치</span>가 죽다니...!"
         </div>
         
         <div class="script-line">
@@ -74,26 +86,28 @@ N
         </div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-malice">말리스</span></span>: "(지팡이를 움켜쥐며) 외상도 없이 죽었다고요? 하필 이 승리의 순간에 우리 동료가 쓰러지다니... 믿을 수 없는 일이군요."
+          <span class="script-character"><span class="character-malice">말리스</span></span>: "그가 죽었다고요? 하필 이 승리의 순간에... 믿을 수 없는 일이군요."
         </div>
         
         <div class="script-line">
-          <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: "누가 감히 내 성 안에서 이런 짓을 저질렀단 말이냐! 전원 서재로 이동한다. 범인이 누구든, 내 손으로 직접 찢어버리기 전까진 아무도 이 성문을 나가지 못할 것이다!"
+          <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: "누가 감히 성 안에서 이런 짓을 저질렀단 말이냐! 전원 서재로 이동한다. 범인이 누구든, 내 손으로 직접 찢어버리기 전까진 아무도 이 성문을 나가지 못할 것이다!"
         </div>
+
+        <div class="script-direction">(18:15, 전원 서재로 이동한다.)</div>
       </div>
-    </details>
-  </div>
+    </div>
+  </details>
 
   <div class="section-title">1. 개요</div>
   <p>
-    동료이자 정신적 지주였던 <span class="character-eldritch">엘드리치</span>의 수수께끼 같은 죽음. 
-    조사 1단계에서 각자 수집한 단서들을 펼쳐놓고, 이 비극적인 사건의 진상을 가려내야 할 시간입니다. 
+    바스타즈의 정신적 지주였던 <span class="character-eldritch">엘드리치</span>의 수수께끼 같은 죽음. 
+    이전 조사 단계에서 각자 수집한 단서들을 바탕으로 이 비극적인 사건의 진상을 밝혀내야 할 시간입니다. 
     지금 이 순간에도 당신 곁의 누군가는 완벽한 연기를 펼치고 있을지 모릅니다.
   </p>
 
   <div class="section-title">2. 추리 단계 규칙</div>
   <ul>
-    <li><span class="highlight">조사 불가</span>: 이번 추리 단계에서는 <strong>추가적인 단서 조사가 금지됩니다.</strong> 오직 금방 전 단계에서 획득한 정보와 대화를 통해 진실을 유추하십시오.</li>
+    <li><span class="highlight">조사 불가</span>: 추리 단계에서는 <strong>단서 조사가 불가능합니다.</strong> 오직 이전 단계에서 획득한 정보와 대화를 통해 진실을 유추하십시오.</li>
     <li><span class="highlight">범인 지목 불가</span>: 현재 단계는 자유로운 토론과 정황 분석을 위한 단계입니다. <strong>아직 범인에 대한 투표나 최종 지목은 수행하지 않습니다.</strong></li>
     <li><span class="highlight">자유로운 추론</span>: 엘드리치의 사망 원인이 타살인지, 혹은 다른 비밀이 숨겨져 있는지 모든 가능성을 열어두고 동료들의 알리바이를 대조하십시오.</li>
   </ul>
@@ -103,18 +117,23 @@ N
     육신을 잃은 <span class="character-eldritch">엘드리치</span>는 이제 보이지 않는 <span class="highlight">영적 관찰자</span>가 됩니다. 당신은 육신의 한계를 벗어나 멤버들의 위선을 더 날카롭게 꿰뚫어 볼 수 있습니다.
   </p>
   <ul>
-    <li><span class="highlight">논리의 조율</span>: 단서들을 취합하고 멤버들의 증언에서 발견되는 모순을 지적하십시오.</li>
-    <li><span class="highlight">진실의 유도</span>: 멤버들이 엉뚱한 방향으로 추리하고 있다면, 질문을 통해 그들을 올바른 의구심으로 이끌어 주십시오.</li>
+    <li><span class="highlight">논리의 조율</span>: 공개된 단서와 멤버들의 증언에서 발견되는 모순을 지적하십시오.</li>
+    <li><span class="highlight">진실의 유도</span>: 플레이어들이 엉뚱한 방향으로 추리하고 있다면, 스스로 깨우칠 수 있는 질문을 던져 올바른 방향으로 이끌어 주십시오.</li>
   </ul>
 
-  <div class="section-title">4. 추리 가이드: 진실의 조각</div>
+  <div class="section-title">4. 추리 가이드</div>
   <ul>
-    <li><span class="highlight">현장의 위화감</span>: 최초 목격자가 전한 현장의 모습이 논리적으로 타당한지, 혹은 마땅히 있어야 할 흔적이 부자연스럽게 결핍되어 있지는 않은지 확인하십시오.</li>
-    <li><span class="highlight">비어 있는 1시간</span>: 수장의 명령으로 각자 흩어졌던 16:00부터 17:00 사이, 멤버들의 구체적인 행적과 동선을 대조하여 논리적인 구멍을 찾으십시오.</li>
-    <li><span class="highlight">엇갈린 단서의 취합</span>: 본인이 찾지 못한 결정적인 정보를 다른 누군가 쥐고 있을 수 있습니다. 공유와 거래를 통해 흩어진 진실의 퍼즐을 완성하십시오.</li>
+    <li><span class="highlight">어긋난 정적</span>: 죽음이 내려앉은 자리에는 언제나 형언할 수 없는 위화감이 감돕니다. 있어야 할 흔적의 부재, 혹은 마땅히 없어야 할 기묘한 자취가 당신의 시선을 붙잡지는 않는지 예리하게 살피십시오.</li>
+    <li><span class="highlight">흐릿해진 궤적</span>: 승리의 환호와 수색의 분주함 속에 가려진 짧은 공백을 조심스럽게 되짚어 보십시오. 누군가의 자취가 끊겼거나, 혹은 타인의 기억과 어긋난 채 겉돌고 있는 시간이 있을지도 모릅니다.</li>
+    <li><span class="highlight">파편의 연대</span>: 당신이 쥔 한 조각의 빛만으로는 이 깊은 어둠을 전부 밝힐 수 없습니다. 동료들의 손에 들린 파편들이 당신의 의문과 맞닿는 순간, 비로소 은폐되어 있던 추악한 실체가 그 모습을 드러낼 것입니다.</li>
   </ul>
+
+  <div class="section-title">5. 다음 단계 안내</div>
+  <p>
+    플레이어들끼리 충분한 이야기를 나누셨나요? 아직 해결되지 않은 의문이 있더라도, <span class="highlight">다음 단계</span>에서 더 많은 단서들을 찾아낼 수 있습니다. 모든 플레이어가 준비되었다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계를 진행해 주십시오.
+  </p>
   
   <div class="quote-box">
-    "우리의 축배는 피비린내로 얼룩졌다. 이 성의 주인이 바뀐 첫날, 우리의 우대에도 금이 가기 시작했군."
+    "우리의 축배는 피비린내로 얼룩졌다. 이 성의 주인이 바뀐 첫날, 우리의 유대에도 금이 가기 시작했군."
   </div>
 </div>

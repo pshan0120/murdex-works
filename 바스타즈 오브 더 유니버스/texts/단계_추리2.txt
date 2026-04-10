@@ -2,13 +2,13 @@
 5
 
 2. 단계 이름
-정복의 밤
+최종 토론
 
 3. 단계 유형
 DEDUCTION
 
 4. 예상 소요 시간
-30분
+40분
 
 5. 자동 진행 여부
 N
@@ -22,13 +22,13 @@ N
   <div class="section-title">1. 개요</div>
   <p>
     모든 수색이 끝났습니다. 화이트스컬 성의 차가운 복도를 떠돌던 의혹의 조각들도 이제는 하나의 진실을 가리키고 있습니다. 
-    동료를 배신하고 바스타즈의 영광을 더럽힌 배신자는 누구인가? 
+    동료를 배신하고 <span class="highlight">바스타즈</span>의 영광을 더럽힌 배신자는 누구인가? 
     이제 각자의 추리를 정리하고, 우주의 새로운 질서를 위해 심판의 칼날을 휘두를 시간입니다.
   </p>
 
   <div class="section-title">2. 추리 단계 및 밀담 규칙</div>
   <ul>
-    <li><span class="highlight">조사 불가</span>: 이번 단계에서도 <strong>추가적인 단서 조사는 엄격히 금지됩니다.</strong> 이미 확보한 단서와 대화를 통해 진실을 유추하십시오.</li>
+    <li><span class="highlight">조사 불가</span>: 추리 단계에서는 <strong>단서 조사가 불가능합니다.</strong> 이미 확보한 단서와 대화를 통해 진실을 유추하십시오.</li>
     <li><span class="highlight">자유로운 추론</span>: 발견된 물증과 서로의 알리바이를 대조하십시오. 배신자의 실수를 놓치지 않는 날카로운 통찰력이 필요합니다.</li>
     <li>
       <span class="highlight">은밀한 밀담</span>: 이번 단계에서는 플레이어 간의 비공개 대화가 허용됩니다. 단, 다음의 <span class="highlight">엄격한 규칙</span>을 따라야 합니다.
@@ -42,7 +42,7 @@ N
     </li>
   </ul>
 
-  <div class="section-title">3. 망자의 시선: <span class="character-eldritch">엘드리치 플레이어</span>의 역할</div>
+  <div class="section-title">3. 망자의 시선: <span class="character-eldritch">엘드리치</span> 플레이어의 역할</div>
   <p>
     육신을 잃은 <span class="character-eldritch">엘드리치</span>는 이제 보이지 않는 <span class="highlight">영적 관찰자</span>이자 사건의 조율자가 됩니다.
   </p>
@@ -57,13 +57,12 @@ N
     이 발언은 당신의 결백을 증명하고, 배신자를 단죄하기 위한 마지막 기회입니다.
   </p>
   <ul>
-    <li><span class="highlight">최종 변론</span>: <span class="character-eldritch">엘드리치 플레이어</span>가 지정하는 순서에 따라 자신의 추리와 결백을 주장하십시오.</li>
+    <li><span class="highlight">최종 변론</span>: <span class="character-eldritch">엘드리치</span> 플레이어가 지정하는 순서에 따라 자신의 추리와 결백을 주장하십시오.</li>
   </ul>
 
-  <div class="section-title">5. 다음 단계 예고: 처형의 시간</div>
+  <div class="section-title">5. 다음 단계 안내</div>
   <p>
-    모든 발언이 끝나면 곧바로 <strong>'투표 단계'</strong>로 진입합니다. 
-    바스타즈의 일원이지만 우리를 배신한 자, 즉 <span class="emphasis">오늘 이 자리에서 처형될 자</span>를 여러분의 손으로 직접 결정하게 될 것입니다.
+    최종 변론을 통해 각자의 의심을 확신으로 굳히셨나요? 다음 단계로 넘어가면 드디어 진범을 가려내기 위한 <span class="highlight">범인 지목 및 투표</span>가 시작됩니다. 모든 플레이어가 마음의 준비를 마쳤다면 하단의 <span class="highlight">NEXT</span> 버튼을 눌러 결론 단계로 진행해 주십시오. 바스타즈를 배신한 대가를 치를 자가 누구인지, 이제 여러분의 손으로 결정하십시오.
   </p>
 
   <div class="quote-box">

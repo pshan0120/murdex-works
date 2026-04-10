@@ -1,6 +1,6 @@
 // 첫 번째 질문
 <div class="story-content">
-  <div class="section-title">1. 운명의 심판: 처형 지목</div>
+  <div class="section-title">1. 투표결과 입력</div>
   <p>
     긴 토론 끝에, 바스타즈의 이름으로 처형하기로 결정한 <span class="highlight">대상</span>은 누구입니까? 
     현장의 투표 결과를 정확히 입력하십시오.
@@ -31,7 +31,7 @@
 
 // 두 번째 질문
 <div class="story-content">
-  <div class="section-title">2. 전력 평가: 최종 결의</div>
+  <div class="section-title">2. 전투력 평가</div>
   <p>
     처형된 동료를 제외한 <span class="highlight">생존한 동료들의 총 전투력 합계</span>를 아래 가이드를 참고하여 계산하십시오.
   </p>
@@ -43,12 +43,12 @@
     - <strong>슬리더</strong>: 기본 6 (물의 검 소유 시 +3)<br>
     - <strong>발트라</strong>: 기본 5 (바람의 창/대지의 도끼/물의 검 소유 시 +3)<br>
     - <strong>말리스</strong>: 기본 2 (마력석 소유 시 +8)<br>
-    - <strong>엘드리치</strong> (본인): 0 (계산 제외)
   </div>
   <div class="quote-box">
     <strong>[기준치 계산]</strong><br>
     - <strong>바스타즈 전투력</strong> = 생존한 모든 바스타즈의 전투력 총합<br>
     - <strong>기준치</strong> = (처형된 자의 전투력) + 35
+    (35는 마신 다크시리어스의 전투력입니다.)
   </div>
 </div>
 
@@ -59,4 +59,3 @@
 <div class="story-content">
   <div class="subsection-title">■ 선택 B: 기준치 초과 (바스타즈 전투력 > 기준치)</div>
 </div>
-

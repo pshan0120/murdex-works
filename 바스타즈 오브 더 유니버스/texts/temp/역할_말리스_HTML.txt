@@ -308,15 +308,25 @@
       </span>
     </summary>
     <div class="collapsible-content">
-      <p class="subsection-title">조사 1단계 (17:00 ~ 18:00)</p>
       <ul class="goal-list">
         <li><strong>봉인석 탈환</strong>: <span class="character-eldritch">엘드리치</span>의 협박 쪽지에 언급된 딸의 <span class="emphasis">'봉인석'</span>은 그가 직접 가지고 있거나, 혹은 그가 머물던 서재 어딘가에 숨겨두었을 가능성이 크다. 주변을 샅샅이 뒤져 반드시 찾아내라.</li>
         <li><strong>상실한 마력의 회복</strong>: 화이트스컬 성 안에는 과거 당신의 힘이 깃든 <span class="emphasis">'마력석'</span>이 있을 것이다. 이를 확보하여 무력한 현재 상태에서 벗어나라.</li>
         <li><strong>살인 트랩의 은폐</strong>: <span class="character-balrog">발로그</span>와 공모한 살인 트랩이 조사 과정에서 발각되지 않도록 알리바이를 철저히 관리하고, 흉기의 주인이 당신으로 지목되지 않도록 하라.</li>
       </ul>
-      <p class="subsection-title">추리 1단계 이후 (18:00 ~ )</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      목표: 엘드리치 사망 이후
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
       <ul class="goal-list">
-        <li><strong>혐의의 전가와 생존</strong>: <span class="character-eldritch">엘드리치</span> 사망 후 수사망이 좁혀온다면, 모든 계획을 <span class="character-balrog">발로그</span>가 단독으로 처리한 것으로 몰거나 흉기 소유자에게 혐의를 뒤집어씌워 결백을 증명하라.</li>
+        <li><strong>혐의의 전가와 생존</strong>: <span class="character-eldritch">엘드리치</span> 사망 후 수사망이 좁혀온다면, 모든 계획을 <span class="character-balrog">발로그가</span> 단독으로 처리한 것으로 몰거나 흉기 소유자에게 혐의를 뒤집어씌워 결백을 증명하라.</li>
         <li><strong>비극적인 모성애 강조</strong>: 자신이 딸의 생명을 볼모로 <span class="character-eldritch">엘드리치</span>에게 협박받던 비극적인 어머니임을 강조하라. 이를 통해 의심을 차단하고 동정을 유도하라.</li>
         <li><strong>최종 복수의 설계</strong>: 연합의 두뇌라는 지위를 이용해 수사의 방향을 유리하게 유도하고, 당신의 딸과 마력을 앗아간 <span class="character-masters">마스터즈</span>의 흔적을 완전히 지우는 판을 짜라.</li>
       </ul>

@@ -254,13 +254,23 @@
       </span>
     </summary>
     <div class="collapsible-content">
-      <p class="subsection-title">조사 1단계 (17:00 ~ 18:00)</p>
       <ul class="goal-list">
         <li><strong>위협에 대처하라</strong>: <span class="character-eldritch">엘드리치</span>가 쥐고 있는 '이빨 자국이 남은 갑옷 파편' 등 실질적인 증거를 찾아내어 선제적으로 대응하라.</li>
         <li><strong>흔적 수습</strong>: 식당에서의 폭식 흔적(뼈다귀, 빈 접시 등)이 다른 멤버들에게 발견되지 않도록 하라.</li>
         <li><strong>기시감의 정체</strong>: <span class="character-skullcrusher">스컬크러셔</span>에게서 맡았던 묘한 체취의 실마리를 추적하라.</li>
       </ul>
-      <p class="subsection-title">추리 1단계 이후 (18:00 ~ )</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      목표: 엘드리치 사망 이후
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
       <ul class="goal-list">
         <li><strong>비밀 엄수</strong>: 조사의 방향이 당신의 과거 식인 행위나 신체적 부작용으로 향하지 않도록 유도하라.</li>
         <li><strong>발트라의 조력</strong>: 생명의 은인이라는 사실을 내세워 <span class="character-valtra">발트라</span>가 당신을 적극 옹호하도록 만들라.</li>

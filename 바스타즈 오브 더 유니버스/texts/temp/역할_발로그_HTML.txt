@@ -1,4 +1,4 @@
-<!-- ============================================ -->
+﻿<!-- ============================================ -->
 <!-- 1) 공개정보 -->
 <!-- ============================================ -->
 
@@ -294,16 +294,26 @@
       </span>
     </summary>
     <div class="collapsible-content">
-      <p class="subsection-title">조사 1단계 (17:00 ~ 18:00)</p>
       <ul class="goal-list">
         <li><strong>완벽한 은닉</strong>: 당신이 과거 마신 군단의 탈영병이었다는 사실이 바스타즈 멤버들에게 들통나지 않도록 주의하라.</li>
         <li><strong>살인 트랩</strong>: 서재의 살인 트랩이 발각되지 않도록 주의하며, 연회장에서 신호가 올 때까지 마력을 갈무리하며 대기하라.</li>
         <li><strong>'계약' 관련 정보의 선점</strong>: 화이트캐슬 성 안에서 발견될지도 모르는 <span class="emphasis">'계약'</span>에 대한 기록 등을 남들보다 먼저 선점하라.</li>
       </ul>
-      <p class="subsection-title">추리 1단계 이후 (18:00 ~ )</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      목표: 엘드리치 사망 이후
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
       <ul class="goal-list">
         <li><strong>자유의 몸으로서의 생존</strong>: 드디어 계약에서 벗어나 진정한 자유를 얻었다. 하지만 범인으로 몰려 처형된다면 의미가 없다. 끝까지 살아남아라.</li>
-        <li><strong>'직접 살해 불가능' 논리 활용</strong>: <span class="emphasis">"사역마는 계약주인 엘드리치를 직접 죽일 수 없다"</span>는 절대적 계약 규칙을 내세워, 당신은 결코 그를 죽일 수 없는 존재였음을 강조하며 혐의를 부정하라.</li>
+        <li><strong>'직접 살해 불가능' 논리 활용</strong>: <span class="emphasis">"사역마는 계약주인 엘드리치를 직접 죽일 수 없다"</span>는 절대적 계약 규칙을 내세워, 당신은 결코 그를 죽일 수 없는 존재였임을 강조하며 혐의를 부정하라.</li>
         <li><strong>혐의의 외부 전가</strong>: 살인 도구인 단검의 주인을 찾아내 그에게 혐의를 덮어씌우거나, <span class="character-malice">말리스</span>의 강압에 의해 도구로 이용되었을 뿐인 피해자임을 호소하라.</li>
       </ul>
     </div>
@@ -338,7 +348,7 @@
         <p class="subsection-title">추리 1단계 이후 (18:00 ~ )</p>
         <p><span class="character-eldritch">엘드리치</span>의 사망이 확인된 후, 당신은 비로소 자유의 몸이 될 기회를 얻었습니다. 하지만 범인으로 지목된다면 그 자유는 처형장에서 끝날 것입니다.</p>
         <ul>
-          <li><strong>'직접 살해 불가능' 논리를 사용하세요</strong>: 만약 누군가 당신의 트랩이나 살의를 추궁한다면, <span class="emphasis">'사역마는 자신의 의지로 계약주를 결코 해칠 수 없다'</span>는 절대적인 규칙을 내세워, 당신은 죽이고 싶어도 죽일 수 없는 존재였음을 강조하며 혐의를 벗으십시오.</li>
+          <li><strong>'직접 살해 불가능' 논리를 사용하세요</strong>: 만약 누군가 당신의 트랩이나 살의를 추궁한다면, <span class="emphasis">'사역마는 자신의 의지로 계약주를 결코 해칠 수 없다'</span>는 절대적인 규칙을 내세워, 당신은 죽이고 싶어도 죽일 수 없는 존재였임을 강조하며 혐의를 벗으십시오.</li>
           <li><strong>지연된 범행 시각을 활용하세요</strong>: 살인 트랩은 당신만이 작동시킬 수 있도록 설계되었습니다. 만약 <span class="character-eldritch">엘드리치</span>가 그전에 죽었거나 다른 방식으로 사망했다면, 당신의 트랩은 실행조차 되지 않은 '미수'에 불과하다는 논리를 펼치십시오.</li>
           <li><strong>혐의를 외부로 돌리세요</strong>: 살해 도구인 단검의 출처를 추적하여, 다른 누군가의 소행인 것처럼 수사 방향을 유도하십시오. 갈망하던 자유를 찾은 당신은 수장 <span class="character-skullcrusher">스컬크러셔</span>의 뒤를 따르는 충실한 특공대장으로 살아남아야 합니다.</li>
         </ul>
