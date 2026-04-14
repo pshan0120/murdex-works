@@ -1543,10 +1543,10 @@ HTML :
 관련 : 슬리더
 의도 : 외부로부터 잠입할 수 있는 경로. 슬리더가 다녀갔다는 단서.
 내용 :
-지하창고 구석 벽면 아래로 연결된 비좁은 배수로다. 성인이라면 도저히 통과할 수 없을 만큼 입구가 협소하며, 주변에는 약간의 물기가 남아 있다.
+지하창고 구석 벽면 아래로 연결된 비좁은 배수로다. 주변에는 약간의 물기가 남아 있다.
 HTML :
 <div class="story-content">
-  <div>지하창고 구석 벽면 아래로 연결된 <span class="emphasis">비좁은 배수로</span>다. 성인이라면 도저히 통과할 수 없을 만큼 입구가 협소하며, 주변에는 <span class="highlight">약간의 물기</span>가 남아 있다.</div>
+  <div>지하창고 구석 벽면 아래로 연결된 <span class="emphasis">비좁은 배수로</span>다. 주변에는 <span class="highlight">약간의 물기</span>가 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain the same perspective and floor-level view as the provided reference image (25_지하창고_1.jpg). An extreme macro close-up focus on a heavy, iron-grated drainage cover set into the dark stone floorboards in a corner of the underground warehouse. Only a small, subtle amount of moisture is visible, with tiny glistening water droplets on the metal grate and a faint dampness on the surrounding wet stone tiles. The rest of the floor is dry, creating a clear contrast with the localized wetness near the drain. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered iron, cold damp stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the delicate, slight wetness as a haunting clue. No background elements, just the floor and the grate.
 장소 : 07_지하창고

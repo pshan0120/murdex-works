@@ -94,7 +94,6 @@
 .story-content .highlight {
     color: var(--fantasy-gold);
     font-weight: 700;
-    text-shadow: 0 0 5px rgba(212, 175, 55, 0.4);
 }
 
 .story-content .emphasis {
@@ -223,7 +222,6 @@
     color: #dda0dd;
     /* Plum 컬러로 신비로운 느낌 */
     font-weight: 400;
-    text-shadow: 0 0 8px rgba(221, 160, 221, 0.5);
 }
 
 .secret-section {
@@ -384,7 +382,8 @@
 
 .story-content .script-character.my-character {
     color: #ffffff !important;
-    text-shadow: 0 0 15px var(--fantasy-gold);
+    text-decoration: underline;
+    text-underline-offset: 4px;
 }
 
 .story-content .script-line.my-line {
@@ -454,6 +453,21 @@
     border-radius: 4px;
     font-style: italic;
     color: #dfdfdf;
+}
+
+.story-content .ending-result {
+    text-align: center;
+    margin: 3rem 0;
+    padding: 1.5rem 0;
+    background: linear-gradient(90deg, transparent, rgba(212, 175, 55, 0.15), transparent);
+    border-top: 1px solid rgba(212, 175, 55, 0.3);
+    border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+    font-family: "Cinzel", "Nanum Myeongjo", serif;
+    font-weight: 900;
+    font-size: 1.0em;
+    letter-spacing: 0.2em;
+    color: var(--fantasy-gold);
+    text-shadow: 0 0 12px rgba(212, 175, 55, 0.5);
 }
 
 .story-content .game-effect-notice {
@@ -562,7 +576,7 @@
 .story-content .location-box {
     background: linear-gradient(135deg, rgba(20, 20, 20, 0.8), rgba(40, 40, 40, 0.6));
     border: 1px solid rgba(212, 175, 55, 0.25);
-    padding: 1em 1.5em;
+    padding: 1.0em;
     border-radius: 10px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
     position: relative;
@@ -582,7 +596,7 @@
 
 .story-content .location-text {
     font-family: "Gowun Batang", serif;
-    font-size: 0.9em;
+    font-size: 0.7em;
     line-height: 1.7;
     color: var(--fantasy-text);
     text-align: justify;
