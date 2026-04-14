@@ -199,8 +199,6 @@
 .story-content details .collapsible-content {
     padding-top: 1.0em;
     padding-bottom: 1.0em;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
     font-size: 0.9em;
     animation: fadeSlideDown 0.3s ease-out;
 }
@@ -222,18 +220,6 @@
     color: #dda0dd;
     /* Plum 컬러로 신비로운 느낌 */
     font-weight: 400;
-}
-
-.secret-section {
-    background: rgba(139, 0, 0, 0.15);
-    border-left: 5px solid var(--fantasy-crimson);
-    padding: 1.5em;
-    margin: 2em 0;
-    border-radius: 4px;
-    /* story-content 스타일 수동 적용 (독립적 사용 보장) */
-    font-family: "Pretendard Variable", Pretendard, sans-serif;
-    color: var(--fantasy-text);
-    line-height: 1.75;
 }
 
 .goal-list {
@@ -581,7 +567,6 @@
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
     position: relative;
     overflow: hidden;
-    margin: 0.8em 0;
 }
 
 .story-content .location-box::before {
@@ -600,5 +585,35 @@
     line-height: 1.7;
     color: var(--fantasy-text);
     text-align: justify;
-    margin-top: 0.8em;
+}
+
+.story-content .disclosure-box {
+    margin: 1.5rem 0;
+}
+
+.story-content .disclosure-box summary {
+    cursor: pointer;
+    color: var(--fantasy-gold);
+    font-weight: 700;
+    font-size: 0.95rem;
+    list-style: none;
+    transition: opacity 0.2s;
+}
+
+.story-content .disclosure-box summary:hover {
+    opacity: 0.8;
+}
+
+.story-content .disclosure-box summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content .disclosure-box .disclosure-content {
+    margin-top: 0.75rem;
+    padding: 1.25rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(212, 175, 55, 0.1);
+    border-radius: 8px;
+    font-size: 0.92rem;
+    animation: fadeSlideDown 0.3s ease-out;
 }

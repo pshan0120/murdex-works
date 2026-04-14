@@ -1,4 +1,4 @@
-﻿1. 순서
+1. 순서
 1
 
 2. 단계 이름
@@ -21,61 +21,43 @@ N
 <div class="story-content">
   <div class="section-title">1. 준비</div>
   <p>
-    게임을 시작하기 전, 지금 보고 계신 단계 설명 창을 닫은 뒤 하단 컨트롤 패널에서 <span class="highlight">MY &gt; 내 역할</span>을 클릭하여 창을 열어주세요. 여기에는 당신이 맡은 캐릭터의 중요한 정보들이 담겨 있습니다. 모든 플레이어가 역할 시트를 충분히 숙지했다면, 화면 상단의 '단계 1: 서막'을 통해 지금 이 창을 다시 열어볼 수 있습니다.
+    원활한 게임 진행을 위해, 지금 보고 계신 <span class="highlight">단계 설명</span>을 먼저 꼼꼼히 읽어주는 것이 중요합니다. 이 안내창은 매 단계가 시작될 때마다 자동으로 표시되며, 해당 단계에서 수행해야 할 목표와 핵심 규칙이 담겨 있습니다.
   </p>
   <div class="guide-box">
     <p>
-      아래 <strong>2. 규칙</strong>을 읽기 전, 자신의 역할 시트 내용이 숙지되지 않으면 이어지는 내용을 이해하기 어려울 수 있습니다.
+      <strong>단계 설명을 숙지하지 않고 창을 닫을 경우 게임 흐름을 이해하기 어려울 수 있습니다.</strong> 반드시 본 내용을 모두 함께 읽은 후 다음 활동을 진행해 주세요.
     </p>
   </div>
+  <p>
+    안내를 모두 확인하셨다면, 창을 닫고 하단 컨트롤 패널의 <span class="highlight">MY &gt; 내 역할</span>을 클릭하여 본인의 캐릭터 시트를 숙지해 주십시오.
+  </p>
 
   <div class="section-title">2. 규칙</div>
   <p>
-    이곳에 모인 자들 중 결백한 자는 없습니다. 범인을 포함한 모든 플레이어는 자신의 목적과 비밀을 지키기 위해 <span class="emphasis">거짓말이나 정보 왜곡</span>을 할 수 있습니다. 다만, 당신의 주장이 나중에 발견될 객관적인 물증들과 모순된다면 의심의 화살을 피하기 어려울 것입니다. 비밀을 숨기거나 정보를 전략적으로 선택하는 것은 당신의 몫입니다.
+    모든 플레이어는 자신의 목적을 달성하기 위해 <span class="emphasis">거짓말</span>을 할 수 있습니다. 다만, 당신의 주장이 나중에 발견될 객관적인 물증들과 모순된다면 의심을 피하기 어려울 것입니다.
   </p>
 
-  <div class="section-title">3. 설정</div>
+  <div class="section-title">3. 플레이 팁</div>
   <ul>
-    <li><span class="highlight">화이트스컬 성</span>: 한때 <span class="character-masters">마스터즈</span>의 난공불락 요새였던 이곳은 오늘 <span class="highlight">바스타즈</span>에 의해 함락되었습니다.</li>
-    <li><span class="highlight">남겨진 흔적</span>: 성채 안에는 아직 우리가 그 실체와 용도를 명확히 알지 못하는 수많은 것들이 흩어져 있습니다. 이 기묘한 잔재들 속에 숨겨진 의도를 읽어내는 것이 진실에 다가가는 열쇠가 될 것입니다.</li>
-    <li><span class="highlight">속성 시스템</span>: 이 세계의 모든 존재는 고유한 속성을 지니고 있습니다. 누군가는 이를 이용해 불가능해 보이는 일을 해냈을지도 모릅니다.</li>
-  </ul>
-
-  <div class="section-title">4. 플레이 팁</div>
-  <ul>
-    <li><span class="highlight">적극적인 역할 연기</span>: 당신은 정의롭고 올곧은, 그런 전형적인 영웅이 아닙니다. 역할 시트에 명시된 말투와 성격을 활용해 동료들을 위압하거나 기만해 보세요.</li>
+    <li><span class="highlight">적극적인 역할 연기</span>: 당신은 정의롭고 올곧은 영웅이 아닙니다. 역할 시트에 명시된 말투와 성격을 활용해 동료들을 위압하거나 기만해 보세요.</li>
     <li><span class="highlight">전략적 정보 공유</span>: 모든 역할에게는 비밀이 있습니다. 자신에게 불리한 정보는 숨기거나 교묘하게 돌려 말하십시오. 다만, 공개된 단서와 대조되었을 때 알리바이가 깨지지 않도록 신중해야 합니다.</li>
     <li><span class="highlight">유연한 동맹 형성</span>: 혼자서 모든 진실을 밝히기는 어렵습니다. 때로는 공통의 이해관계를 가진 자와 정보를 공유하여 서로의 결백을 증명해 보세요.</li>
   </ul>
 
-  <div class="section-title">5. 정복자의 대면</div>
+  <div class="section-title" id="introduction">4. 자기소개</div>
   <p>
     시트 숙지가 끝났다면 본격적인 이야기가 시작됩니다.
   </p>
   <p>
-    여러분은 이제 우주의 새로운 지배자들입니다. 하지만 서로를 바라보는 눈빛에는 여전히 의심과 경계가 서려 있습니다. <span class="highlight">자신의 역할 시트에 기록된 공개 정보를 바탕으로</span> 동료들에게 간단하게 자기소개를 진행해 주십시오. 당신이 이 연합에서 어떤 위치에 있는지, 그리고 오늘 어떤 임무를 부여받아 수색을 진행해 왔는지 멤버들에게 각인시키십시오. 자기소개 순서는 가장 영웅다워 보이는 플레이어부터 진행합니다.
+    여러분은 이제 우주의 새로운 지배자들입니다. 하지만 서로를 바라보는 눈빛에는 여전히 의심과 경계가 서려 있습니다. 자신의 역할 시트에 적혀 있는 <span class="highlight">공개 정보</span>를 바탕으로 동료들에게 간단하게 <span class="highlight">자기소개</span>를 진행해 주십시오.
   </p>
-
-  <div class="section-title">6. 10년 전쟁의 종지부</div>
-  <div class="quote-box">
-    &quot;우리의 시대가 도래했다.&quot;
+  <div class="guide-box">
+    <p>순서는 가장 영웅답게 생긴 플레이어부터 시작합니다. 만약 결정하기 어렵다면, 수장인 <span class="character-skullcrusher">스컬크러셔</span>부터 시작해 주세요.</p>
   </div>
-  <p>
-    <span class="highlight">바스타즈</span>가 결성된 지 10년. <span class="character-skullcrusher">스컬크러셔</span>를 필두로 한 7명의 멤버는 오늘 마침내 골든 킹을 처단했습니다. 승리의 축배를 들기도 전, 수장 <span class="character-skullcrusher">스컬크러셔</span>는 오후 16시 정각에 모두를 소집하여 성 내부의 잔당 수색과 전리품 확보를 위한 개별 임무를 부여했습니다.
-  </p>
 
-  <div class="section-title">7. 사건의 시작</div>
+  <div class="section-title">5. 다음 단계 안내</div>
   <p>
-    수장 <span class="character-skullcrusher">스컬크러셔</span>의 명령이 하달된 지 이제 한 시간이 지났습니다. 주인을 잃은 화이트스컬 성의 거대한 정적 속에서 여러분은 여전히 부여받은 임무를 수행 중입니다. 승리를 자축할 <span class="highlight">승전 연회</span>까지는 아직 한 시간의 여유가 남아 있습니다.
-  </p>
-  <p class="emphasis">
-    하지만 차가운 석벽 사이로 흐르는 공기에는 승리의 기쁨보다 서늘한 불신의 냄새가 먼저 실려 옵니다.<br>
-    수색의 끝자락에서 마주친 동료들의 의심스러운 눈빛, 그리고 그들이 머문 자리에 남겨진 기묘한 흔적들. 이제 당신들이 발견한 조각난 진실과 거짓이 이곳에서 격렬하게 충돌하기 시작할 것입니다.
-  </p>
-
-  <div class="section-title">8. 다음 단계 안내</div>
-  <p>
-    단계 설명에서 안내된 사항(역할 숙지 및 자기소개 등)을 모든 플레이어가 완료하셨나요? 모든 준비가 끝났다면 하단의 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계를 진행해 주십시오.
+    단계 설명에서 안내된 사항(역할 숙지 및 자기소개 등)을 모든 플레이어가 완료하셨나요? 모든 준비가 끝났다면 하단의 <span class="highlight">NEXT</span> 버튼을 눌러 본격적인 조사를 시작해 주십시오.
   </p>
 
   <div class="quote-box">

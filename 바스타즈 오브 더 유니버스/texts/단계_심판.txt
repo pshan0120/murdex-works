@@ -1,5 +1,5 @@
-﻿1. 순서
-6
+1. 순서
+4
 
 2. 단계 이름
 투표와 질문
@@ -41,22 +41,26 @@ N
   <p>투표와 논의가 마무리되면, 모든 플레이어는 하단의 질문 섹션에 <strong>반드시 동일한 답변</strong>을 입력하여 제출해야 합니다. 올바른 엔딩 분기로 진입하기 위해 다음 가이드를 따르십시오.</p>
   <ul>
     <li>
-      <span class="highlight">투표결과 입력</span>: 투표 결과에 따라 최다 득표를 기록한 인물을 모든 플레이어가 동일하게 선택하십시오. (동률로 인해 처형자가 없을 경우 &apos;아무도 처형되지 않음&apos; 선택)
+      <span class="highlight">투표결과 입력</span>: 투표 결과에 따라 최다 득표를 기록한 인물을 <strong>모든 플레이어가 동일하게 선택</strong>하십시오. (동률로 인해 처형자가 없을 경우 &apos;아무도 처형되지 않음&apos; 선택)
     </li>
     <li>
-      <span class="highlight">전력 평가</span>: 이 문항의 결과는 <span class="character-eldritch">엘드리치</span> 플레이어의 판정에 따릅니다.
-      <ul class="sub-list">
-        <li>· <strong>전투력 공개</strong>: 각 생존 플레이어는 질문지의 가이드에 따라 자신의 최종 전투력을 계산하여 <span class="character-eldritch">엘드리치</span> 플레이어에게 알리십시오.</li>
-        <li>· <strong>판정 및 선포</strong>: <span class="character-eldritch">엘드리치</span> 플레이어는 처형된 자를 제외한 멤버들의 전투력 총합과 기준치를 대조하여 최종 결과(선택지 A 또는 B)를 도출한 뒤 모두에게 선포하십시오.</li>
-        <li>· <strong>동일 답변 제출</strong>: 전원(<span class="character-eldritch">엘드리치</span> 포함)은 선포된 결과에 맞춰 <strong>동일한 선택지를 입력</strong>한 뒤 제출하십시오.</li>
-      </ul>
+      <span class="highlight">전투력 평가</span>
+      <details class="disclosure-box">
+        <summary>투표결과가 정해진 후 확인하십시오</summary>
+        <div class="disclosure-content">
+          <ul class="sub-list">
+            <li>· <strong>전투력 공개</strong>: 각 생존 플레이어는 질문지의 가이드에 따라 자신의 최종 전투력을 계산하여 <span class="character-eldritch">엘드리치</span> 플레이어에게 알리십시오.</li>
+            <li>· <strong>판정 및 선포</strong>: <span class="character-eldritch">엘드리치</span> 플레이어는 처형된 자를 제외한 멤버들의 전투력 총합과 기준치를 대조하여 최종 결과(선택지 A 또는 B)를 도출한 뒤 모두에게 선포하십시오.</li>
+            <li>· <strong>동일 답변 제출</strong>: 전원(<span class="character-eldritch">엘드리치</span> 포함)은 선포된 결과에 맞춰 <strong>동일한 선택지를 입력</strong>한 뒤 제출하십시오.</li>
+          </ul>
+        </div>
+      </details>
     </li>
   </ul>
 
   <div class="section-title">4. 다음 단계 안내</div>
   <p>
-    모든 플레이어가 판결 질문에 대한 답변을 완료하셨나요? 여러분이 지목한 그가 진범일지, 아니면 또 다른 비극의 희생자일지 확인할 시간입니다. 
-    질문에 대한 모든 답변 제출이 완료되었다면 하단의 <span class="highlight">NEXT</span> 버튼을 눌러 이 이야기의 마지막 결말을 확인해 주십시오.
+    질문에 대한 모든 답변 제출이 완료되었다면 하단의 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계를 진행해 주십시오.
   </p>
 
   <div class="quote-box">
