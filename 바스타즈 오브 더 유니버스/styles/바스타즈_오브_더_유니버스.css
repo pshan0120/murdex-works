@@ -308,8 +308,8 @@
     font-weight: 800;
 }
 
-/* 마스터즈 */
-.story-content .character-masters {
+/* 솔라이트 */
+.story-content .character-solite {
     color: #a38c70 !important;
     font-weight: 800;
 }
@@ -558,7 +558,15 @@
     line-height: 1.6;
 }
 
-/* --- 장소(Location) 표현 스타일 --- */
+/* --- 장소(Location) 표현 스타일/* 솔라이트 */
+.story-content .character-solite {
+  background: linear-gradient(135deg, #ffd700, #ff8c00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+}
+
 .story-content .location-box {
     background: linear-gradient(135deg, rgba(20, 20, 20, 0.8), rgba(40, 40, 40, 0.6));
     border: 1px solid rgba(212, 175, 55, 0.25);
