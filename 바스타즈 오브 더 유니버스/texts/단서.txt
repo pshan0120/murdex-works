@@ -167,7 +167,7 @@ HTML :
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      <span class="character-valtra">발트라</span>, 용병대장이라는 허울좋은 가죽 아래 숨겨진 그대의 진짜 정체... <span class="character-solite">솔라이트의 스파이</span>로서 우리 바스타즈의 정보를 유출하던 그대의 명민함은 참으로 인상적이었네. 지난 전쟁 중에 그대가 작성했던 그 <span class="emphasis">은밀한 보고서와 지령서</span>들은 지금 내가 아주 소중히 보관하고 있지.
+      <span class="character-valtra">발트라</span>, 용병대장이라는 허울좋은 가죽 아래 숨겨진 그대의 진짜 정체... <span class="character-solite">솔라이트</span>의 스파이로서 우리 바스타즈의 정보를 유출하던 그대의 명민함은 참으로 인상적이었네. 지난 전쟁 중에 그대가 작성했던 그 <span class="emphasis">은밀한 보고서와 지령서</span>들은 지금 내가 아주 소중히 보관하고 있지.
       이 흥미로운 기록들이 동료들 사이에 알려진다면, 과연 그대의 그 <span class="highlight">빛나는 명예</span>가 어찌 될지 상상해 보았나? 그대의 그 추악한 과거를 무덤까지 가져가고 싶다면, 이제부터는 오직 나만을 위한 단검이 되어주게나.
     </div>
   </div>
@@ -1878,13 +1878,13 @@ HTML :
 관련 : 발트라
 의도 : 단검의 명수라는 점과, 발트라에게 무기를 넘기는 것에 대한 경계심을 갖게 만듬.
 내용 :
-옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다. "우리 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지."
+옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다. "우리 발트라 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지."
 HTML :
 <div class="story-content">
   <div class="script-direction">옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>우리 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, <span class="emphasis">본래 주인만큼 완벽하게 그 무게와 균형</span>을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지.</div>
+    <div>우리 <span class="character-valtra">발트라</span> 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 <span class="emphasis">단검</span>을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a weathered mercenary warrior seen from behind, standing high on the dark stone outer ramparts (as seen in 10_외곽_망루.png). The mercenary is captured in the middle of cleaning a large blade, head slightly turned as if speaking to someone off-camera. In the background, the cold night fog creeps over the stone battlements and crenellations, with a few distant stars visible in the dark, heavy sky. A nearby flickering torch casts long, dancing shadows and provides a warm glow that catch the texture of his worn cloak and the metallic sheen of the weapon in his hands. Shallow depth of field, focused on the steady, silent presence of the mercenary as he provides his testimony. No face visible, just the silhouette in the darkness. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, rusted iron, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
