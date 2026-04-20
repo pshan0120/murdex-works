@@ -1,38 +1,44 @@
 // 첫 번째 질문
 <div class="story-content">
-  <div class="section-title">1. 투표결과 입력</div>
+  <div class="section-title">1. 처형 대상 지목</div>
   <p>
-    긴 토론 끝에, <span class="highlight">바스타즈</span>의 이름으로 처형하기로 결정된 <span class="highlight">대상</span>은 누구입니까? 
-    투표 결과를 정확히 입력하십시오. <span class="emphasis">모든 플레이어는 동일한 결과</span>를 입력해야 합니다.
+    <span class="highlight">바스타즈</span>의 이름으로 처형할 <span class="highlight">대상</span>은 누구라 생각하십니까? 
+    <span class="emphasis">가장 많은 지목을 받은 자</span>가 처형되며, <span class="emphasis">기권</span>할 수도 있습니다.
   </p>
 </div>
 
 <div class="story-content">
-  ■ 선택 A: <span class="character-skullcrusher">스컬크러셔</span>
+  <span class="character-skullcrusher">스컬크러셔</span>
 </div>
 <div class="story-content">
-  ■ 선택 B: <span class="character-malice">말리스</span>
+  <span class="character-malice">말리스</span>
 </div>
 <div class="story-content">
-  ■ 선택 C: <span class="character-balrog">발로그</span>
+  <span class="character-balrog">발로그</span>
 </div>
 <div class="story-content">
-  ■ 선택 D: <span class="character-slither">슬리더</span>
+  <span class="character-slither">슬리더</span>
 </div>
 <div class="story-content">
-  ■ 선택 E: <span class="character-gorehoof">고어후프</span>
+  <span class="character-gorehoof">고어후프</span>
 </div>
 <div class="story-content">
-  ■ 선택 F: <span class="character-valtra">발트라</span>
+  <span class="character-valtra">발트라</span>
 </div>
 <div class="story-content">
-  ■ 선택 G: 아무도 처형되지 않음
+  기권
 </div>
 
 // 두 번째 질문
 <div class="story-content">
   <details class="disclosure-box">
-    <summary>투표결과가 정해진 후 확인하십시오</summary>
+    <summary>
+      투표결과가 정해진 후 확인하십시오
+      <span class="toggle-wrapper">
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
     <div class="disclosure-content">
       <div class="section-title">2. 전투력 평가</div>
       <p>
@@ -51,7 +57,7 @@
       <div class="guide-box">
         <strong>[기준치 계산]</strong><br>
         - <span class="highlight">바스타즈 전투력</span> = 생존한 모든 바스타즈의 전투력 총합<br>
-        - <span class="highlight">기준치</span> = (처형된 자의 전투력) + 30
+        - <span class="highlight">기준치</span> = (처형된 자의 전투력) + 30<br>
         <strong>[선택값 결정]</strong><br>
         - <span class="highlight">선택 A</span>: 기준치 이하 (바스타즈 전투력 ≤ 기준치)<br>
         - <span class="highlight">선택 B</span>: 기준치 초과 (바스타즈 전투력 > 기준치)
