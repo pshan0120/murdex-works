@@ -47,15 +47,15 @@
     font-weight: 700;
     color: #ff4500;
     /* 오렌지 레드 느낌의 강렬한 소제목 */
-    margin-top: 1.8em;
-    margin-bottom: 0.9em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
     border-left: 4px solid var(--fantasy-crimson);
     padding-left: 0.8em;
 }
 
 /* 본문 스타일 */
 .story-content p {
-    margin-bottom: 1.4em;
+    margin-bottom: 0.8em;
     text-align: justify;
 }
 
@@ -105,8 +105,8 @@
 /* 인용구 박스 - 오래된 양피지나 비석 느낌 */
 .story-content .quote-box {
     display: block;
-    padding: 1em 1.2em;
-    margin: 2em 0;
+    padding: 0.5em 0.5em;
+    margin: 0.5em 0;
     color: #e0e0e0;
     background: rgba(47, 79, 79, 0.2);
     border: 1px solid rgba(212, 175, 55, 0.2);

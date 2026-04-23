@@ -1,4 +1,30 @@
-﻿// 첫 번째 질문
+﻿// 첫 번째 질문: 범인 투표
+<div class="story-content">
+  <div class="section-title">범인 투표</div>
+  <p>
+    이 사건의 범인이라고 생각하는 조원을 비공개로 지목해 주세요.
+  </p>
+</div>
+
+
+// 두 번째 질문
+<div class="story-content">
+  <div class="section-title">범인 투표 결과</div>
+</div>
+
+<div class="story-content">
+  아무도 당신을 범인으로 지목하지 않았다.
+</div>
+
+<div class="story-content">
+  1~2명이 당신을 범인으로 지목했다.
+</div>
+
+<div class="story-content">
+  3명이 당신을 범인으로 지목했다.
+</div>
+
+// 세 번째 질문
 <div class="story-content">
   <div class="section-title">최후의 선택</div>
   <p>
@@ -21,21 +47,4 @@
   <p class="quote-box">
     "AI의 문장 뒤에 숨어 얻은 결과는 결코 내 것이 아니다. 비겁한 성취보다 솔직한 실패를 택함으로써, 이제는 기계의 목소리가 아닌 나의 목소리로 세상을 마주하겠다."
   </p>
-</div>
-
-// 두 번째 질문
-<div class="story-content">
-  <div class="section-title">범인 투표 결과</div>
-</div>
-
-<div class="story-content">
-  <div class="subsection-title">■ 선택 A: 아무도 당신을 범인으로 지목하지 않았다.</div>
-</div>
-
-<div class="story-content">
-  <div class="subsection-title">■ 선택 B: 1~2명이 당신을 범인으로 지목했다.</div>
-</div>
-
-<div class="story-content">
-  <div class="subsection-title">■ 선택 C: 3명이 당신을 범인으로 지목했다.</div>
 </div>

@@ -39,13 +39,13 @@
     font-size: 1.05em;
     font-weight: 700;
     color: #ff6b6b;
-    margin-top: 1.5em;
-    margin-bottom: 0.8em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
 }
 
 /* 본문 스타일 */
 .story-content p {
-    margin-bottom: 1.2em;
+    margin-bottom: 0.8em;
     text-align: justify;
 }
 
@@ -84,8 +84,7 @@
 /* 인용구 박스 */
 .story-content .quote-box {
     display: block;
-    padding: 1em 1.25em;
-    margin: 1.5em 0;
+    margin: 0.5em 0;
     color: #d0d0d0;
     background: rgba(255, 215, 0, 0.05);
     border-radius: 4px;
@@ -306,7 +305,7 @@
 /* 인용구 박스 (인라인 대체용 컴팩트 버전) */
 .story-content .quote-box.compact {
     margin: 1em 0;
-    padding: 0.8em 1.2em;
+    padding: 0.8em 1.0em;
 }
 
 /* 요약 헤더 (인물 관계 등) */
