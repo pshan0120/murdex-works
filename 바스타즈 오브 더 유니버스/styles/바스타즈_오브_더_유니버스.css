@@ -31,8 +31,8 @@
     font-size: 1.2em;
     font-weight: 900;
     color: var(--fantasy-gold);
-    margin-top: 2.5em;
-    margin-bottom: 1.2em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
     padding-bottom: 0.6em;
     border-bottom: 3px double var(--fantasy-gold);
     text-shadow: 2px 2px 4px var(--fantasy-shadow);
@@ -105,7 +105,7 @@
 /* 인용구 박스 - 오래된 양피지나 비석 느낌 */
 .story-content .quote-box {
     display: block;
-    padding: 0.5em 0.5em;
+    padding: 0.8em;
     margin: 0.5em 0;
     color: #e0e0e0;
     background: rgba(47, 79, 79, 0.2);
@@ -433,9 +433,9 @@
 .story-content .result-box {
     background: rgba(212, 175, 55, 0.1);
     border-left: 3px solid var(--fantasy-gold);
-    padding: 1.2em;
-    margin-top: 1.5em;
-    margin-bottom: 2em;
+    padding: 0.8em;
+    margin-top: 1.0em;
+    margin-bottom: 1.0em;
     border-radius: 4px;
     font-style: italic;
     color: #dfdfdf;

@@ -25,8 +25,8 @@
     font-size: 1.15em;
     font-weight: 800;
     color: #ffd700;
-    margin-top: 2em;
-    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
     padding-bottom: 0.5em;
     border-bottom: 2px solid rgba(255, 215, 0, 0.3);
     letter-spacing: -0.03em;
@@ -85,6 +85,7 @@
 .story-content .quote-box {
     display: block;
     margin: 0.5em 0;
+    padding: 0.8em;
     color: #d0d0d0;
     background: rgba(255, 215, 0, 0.05);
     border-radius: 4px;
@@ -328,9 +329,9 @@
 .story-content .result-box {
     background: rgba(168, 230, 207, 0.15);
     border-left: 3px solid #a8e6cf;
-    padding: 1.2em;
-    margin-top: 1.5em;
-    margin-bottom: 2em;
+    padding: 0.8em;
+    margin-top: 1.0em;
+    margin-bottom: 1.0em;
     border-radius: 4px;
     font-style: italic;
     color: #d0d0d0;
