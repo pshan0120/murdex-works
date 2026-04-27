@@ -256,7 +256,7 @@ HTML :
   <div class="script-direction">겁에 질린 시종이 벌벌 떨며 전하는 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    왕좌 뒤 기둥에 숨어 모든 것을 보았습니다. 골든 킹께서 패색이 짙어졌을 때, 눈을 크게 뜨고 <span class="emphasis">&apos;네놈은... 설마...!&apos;</span>라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, <span class="character-skullcrusher">스컬크러셔</span> 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.
+    왕좌 뒤 기둥에 숨어 모든 것을 보았습니다. <span class="character-goldenking">골든 킹</span>께서 패색이 짙어졌을 때, 눈을 크게 뜨고 <span class="emphasis">&apos;네놈은... 설마...!&apos;</span>라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, <span class="character-skullcrusher">스컬크러셔</span> 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of a textured marble pillar surface. In the deep shadows to the side, a faint silhouette of a person&apos;s eye or hand is barely visible, as if peeking. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -537,22 +537,22 @@ HTML :
 의도 : 작중 등장하는 특수 마법 도구들의 효과 명시.
 내용 :
 <희귀 마도구 조사 보고>
-■ 무한 식수통: 공기 중의 수분을 응집하여 끊임없이 맑은 물을 생성해내는 고대의 마법 가죽부대. 내부의 온도를 언제나 서늘하게 유지하여, 척박한 전장을 누비는 병사들에게는 황금보다 귀한 보급품으로 취급된다. [연구실 내 보관 중]
+■ 무한 식수통: 공기 중의 수분을 응집하여 끊임없이 맑은 물을 생성해내는 고대의 마법 가죽부대. 내부의 온도를 언제나 서늘하게 유지하여, 척박한 전장을 누비는 병사들에게는 황금보다 귀한 보급품으로 취급된다.
 ■ 대지의 심장: 대지의 정수가 결정화된 고급 유물. 소유자의 육체 능력을 폭발적으로 강화하고 상처 영구 재생력을 부여한다. 다만, 소유자가 극심한 분노나 허기를 느낄 경우 대지의 광기에 의식이 잠식되는 치명적인 부작용이 보고되어 있다.
 ■ 투명 망토: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 빛을 굴절시켜 착용자의 모습을 완전히 감춘다.
 ■ 마나플레어 와이어: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 주변에 일정 강도 이상의 마력이 감지되는 즉시 도화선처럼 작렬하며 타오르는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]
-■ 보온 브로치: 파이어 드레이크의 비늘을 가공하여 제작된 장신구. 장착 시 사용자의 체열이 밖으로 새나가지 않도록 보호막을 형성하며, 영하의 혹한이나 설산의 매서운 칼바람 속에서도 체온을 일정하게 유지시켜 생존을 돕는다. [연구실 내 보관 중]
+■ 보온 브로치: 파이어 드레이크의 비늘을 가공하여 제작된 장신구. 장착 시 사용자의 체열이 밖으로 새나가지 않도록 보호막을 형성하며, 영하의 혹한이나 설산의 매서운 칼바람 속에서도 체온을 일정하게 유지시켜 생존을 돕는다.
 ■ 비전 세공함: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 본질적인 형상을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]
 HTML :
 <div class="story-content">
   <div class="document-page">
     <h3>&lt;희귀 마도구 조사 보고&gt;</h3>
     <div class="document-body small">
-      <div>■ <strong>무한 식수통</strong>: 공기 중의 수분을 응집하여 끊임없이 맑은 물을 생성해내는 고대의 마법 가죽부대. 내부의 온도를 언제나 서늘하게 유지하여, 척박한 전장을 누비는 병사들에게는 <span class="emphasis">황금보다 귀한 보급품</span>으로 취급된다. [연구실 내 보관 중]</div>
+      <div>■ <strong>무한 식수통</strong>: 공기 중의 수분을 응집하여 끊임없이 맑은 물을 생성해내는 고대의 마법 가죽부대. 내부의 온도를 언제나 서늘하게 유지하여, 척박한 전장을 누비는 병사들에게는 <span class="emphasis">황금보다 귀한 보급품</span>으로 취급된다.</div>
       <div>■ <strong>대지의 심장</strong>: 대지의 정수가 결정화된 고급 유물. 소유자의 육체 능력을 폭발적으로 강화하고 상처 영구 재생력을 부여한다. 다만, 소유자가 극심한 분노나 허기를 느낄 경우 <span class="emphasis">대지의 광기에 의식이 잠식</span>되는 치명적인 부작용이 보고되어 있다.</div>
       <div>■ <strong>투명 망토</strong>: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 <span class="emphasis">빛을 굴절</span>시켜 착용자의 모습을 완전히 감춘다.</div>
       <div>■ <strong>마나플레어 와이어</strong>: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 주변에 일정 강도 이상의 마력이 감지되는 즉시 <span class="emphasis">도화선처럼 작렬</span>하며 타오르는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]</div>
-      <div>■ <strong>보온 브로치</strong>: 파이어 드레이크의 비늘을 가공하여 제작된 장신구. 장착 시 사용자의 체열이 밖으로 새나가지 않도록 보호막을 형성하며, 영하의 혹한이나 설산의 매서운 칼바람 속에서도 <span class="emphasis">체온을 일정하게 유지</span>시켜 생존을 돕는다. [연구실 내 보관 중]</div>
+      <div>■ <strong>보온 브로치</strong>: 파이어 드레이크의 비늘을 가공하여 제작된 장신구. 장착 시 사용자의 체열이 밖으로 새나가지 않도록 보호막을 형성하며, 영하의 혹한이나 설산의 매서운 칼바람 속에서도 <span class="emphasis">체온을 일정하게 유지</span>시켜 생존을 돕는다.</div>
       <div>■ <strong>비전 세공함</strong>: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 <span class="emphasis">본질적인 형상</span>을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]</div>
     </div>
   </div>
@@ -664,10 +664,10 @@ HTML :
 관련 : 슬리더
 의도 : 마구 흐트러진 문서들. 슬리더가 무언가 급하게 찾고 있었다는 증거.
 내용 :
-본래 철저하게 정리되어 있어야 할 국왕 직속 문서고의 풍경과는 대조적으로, 수많은 문서와 보관 상자들이 바닥에 어지럽게 흩어져 있다. 특히 서랍들 내부뿐만 아니라 가구 밑바닥까지 무언가를 헤집어 놓은 듯한 흔적이 문서고 전 구역에 남아 있다.
+본래 철저하게 정리되어 있어야 할 국왕 직속 문서고의 풍경과는 달리, 수많은 문서와 보관 상자들이 바닥에 어지럽게 흩어져 있다.
 HTML :
 <div class="story-content">
-  <div>본래 철저하게 정리되어 있어야 할 <span class="emphasis">국왕 직속 문서고</span>의 풍경과는 대조적으로, 수많은 문서와 <span class="emphasis">보관 상자들이 바닥에 어지럽게 흩어져 있다.</span> 특히 서랍들 내부뿐만 아니라 <span class="highlight">가구 밑바닥까지 무언가를 헤집어 놓은 듯한 흔적</span>이 문서고 전 구역에 남아 있다.</div>
+  <div>본래 철저하게 정리되어 있어야 할 <span class="emphasis">국왕 직속 문서고</span>의 풍경과는 달리, 수많은 문서와 <span class="emphasis">보관 상자들이 바닥에 어지럽게 흩어져 있다.</span></div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of hundreds of loose parchment papers and scrolls scattered on a dark stone floor. The lighting is low and dramatic. Shallow depth of field, background is indistinct. No people. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 06_문서고
@@ -690,14 +690,14 @@ HTML :
 관련 : 엘드리치, 발로그
 의도 : 마신 다크 시리어스와 골든 킹의 과거사 정보 제공.
 내용 :
-<성전 기록물 - 골든 서클 마법사와의 대화>
+<성전 기록물>
 "...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, 얼티밋 선샤인이 전장을 집어삼켰습니다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌지요. 마신 다크 시리어스조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌습니다. 그 틈을 타 폐하와 우리 마법사들이 사력을 다해 황금 결계로 그를 봉인하기까지, 그 짧은 시간은 신이 허락한 기적과도 같았습니다."
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h3>&lt;성전 기록물 - 골든 서클 마법사와의 대화&gt;</h3>
+    <h3>&lt;성전 기록물&gt;</h3>
     <div class="document-body small">
-      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="highlight">얼티밋 선샤인</span>이 전장을 집어삼켰습니다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌지요. <span class="mystery">마신 다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌습니다. 그 틈을 타 폐하와 우리 마법사들이 사력을 다해 <span class="highlight">황금 결계</span>로 그를 봉인하기까지, 그 짧은 시간은 신이 허락한 기적과도 같았습니다.&quot;</div>
+      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="highlight">얼티밋 선샤인</span>이 전장을 집어삼켰습니다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌지요. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌습니다. 그 틈을 타 폐하와 우리 마법사들이 사력을 다해 <span class="highlight">황금 결계</span>로 그를 봉인하기까지, 그 짧은 시간은 신이 허락한 기적과도 같았습니다.&quot;</div>
     </div>
   </div>
 </div>
@@ -763,7 +763,7 @@ HTML :
     <h4>&lt;수성전 기록보관소 - 전선 기록 요약&gt;</h4>
     <div class="divider-gold"></div>
     <div class="document-body small">
-      <div>성문을 향해 진군하는 저 <span class="highlight">해골 투구의 광인</span>이 휘두르는 검에서는 소름 끼치는 <span class="emphasis">검붉은 광채</span>가 끊임없이 번뜩이고 있다. 그 불길한 안개와 같은 기운은 우리 기사들의 전의를 꺾고 <span class="emphasis">공포에 질리게 만든다.</span> 저 흉폭하고 기세 앞에, 우리 솔라이트의 방어선은 무력하게 무너져 내리고 있다.</div>
+      <div>성문을 향해 진군하는 저 <span class="highlight">해골 투구의 광인</span>이 휘두르는 검에서는 소름 끼치는 <span class="emphasis">검붉은 광채</span>가 끊임없이 번뜩이고 있다. 그 불길한 안개와 같은 기운은 우리 기사들의 전의를 꺾고 <span class="emphasis">공포에 질리게 만든다.</span> 저 흉폭하고 기세 앞에, 우리 <span class="character-solite">솔라이트</span>의 방어선은 무력하게 무너져 내리고 있다.</div>
     </div>
   </div>
 </div>
@@ -1939,13 +1939,13 @@ HTML :
 관련 : 엘드리치
 의도 : 성 내부 곳곳에 마력석이 배치되었음을 암시.
 내용 :
-늙은 청소부의 증언이다. "내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 게다가 말이유, 어둑한 구석 같은 데를 힐끔힐끔 보믄… 뭔가가 번뜩이는 것 같기도 하고, 아닌 것 같기도 하고… 눈을 비비고 다시 보면 또 멀쩡한디, 자꾸 그런 게 눈에 밟히는 게 영 꺼림칙허더라고요. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 낯설고 해괴한 것이 스며든 게 확실혀요."
+늙은 청소부의 증언이다. "내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 게다가 말이유, 어둑한 구석 같은 데를 힐끔힐끔 보믄... 뭔가가 별처럼 반짝이는 것 같기도 하고, 아닌 것 같기도 하고… 눈을 비비고 다시 보면 또 멀쩡한디, 자꾸 그런 게 눈에 밟히는 게 영 꺼림칙허더라고요. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 낯설고 해괴한 것이 스며든 게 확실혀요."
 HTML :
 <div class="story-content">
   <div class="script-direction">늙은 청소부의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 게다가 말이유, 어둑한 구석 같은 데를 힐끔힐끔 보믄… <span class="emphasis">뭔가가 번뜩이는 것</span> 같기도 하고, 아닌 것 같기도 하고… 눈을 비비고 다시 보면 또 멀쩡한디, 자꾸 그런 게 눈에 밟히는 게 영 꺼림칙허더라고요. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 <span class="emphasis">낯설고 해괴한 것이 스며든 게</span> 확실혀요.</div>
+    <div>내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 게다가 말이유, 어둑한 구석 같은 데를 힐끔힐끔 보믄... 뭔가가 <span class="emphasis">별처럼 반짝이는 것</span> 같기도 하고, 아닌 것 같기도 하고… 눈을 비비고 다시 보면 또 멀쩡한디, 자꾸 그런 게 눈에 밟히는 게 영 꺼림칙허더라고요. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 <span class="mystery">낯설고 해괴한 것이 스며든 게</span> 확실혀요.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an old, hunched-over cleaner seen from behind, standing in the middle of a grand, empty central corridor of the fortress (based strictly and exclusively on the background seen in 12_중앙_복도.png). No doors, no drainage pipes, and no basement elements are present. The background consists only of the high, repetitive stone arches, massive pillars, and the long, echoing stone floor of the central hallway at night. The old man is clad in tattered brown work clothes, holding a primitive straw broom in one hand, appearing small against the overwhelming scale of the empty corridor. Deep, heavy shadows stretch between the pillars, with a faint, cold moonlight or distant torchlight illuminating the textured stone surfaces. Extremely shallow depth of field, focused on the weary silhouette of the old man. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, somber atmosphere. No faces visible, just the lone figure in the dark, silent hallway.
