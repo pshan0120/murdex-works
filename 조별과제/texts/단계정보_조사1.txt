@@ -1,52 +1,10 @@
 <div class="story-content">
   <div class="section-title">1. 개요</div>
   <p>
-    사건 발생 직후, 범인을 찾기 위한 첫 번째 조사 단계입니다.
-    플레이어들은 현장을 조사하고 서로의 알리바이를 확인해야 합니다.
-    효율적인 조사를 위해 다음 규칙들을 꼼꼼히 확인해 주시기 바랍니다.
+    사건 발생 직후, 범인을 찾기 위한 첫 번째 조사입니다. 현장을 조사하고 서로의 알리바이를 확인하세요.
   </p>
-  <div class="section-title">2. 대본 낭독</div>
+  <div class="section-title">2. 다음 단계 안내</div>
   <p>
-    하단의 <strong>역할별 지침</strong>에서 <span class="highlight">전용 대본</span>을 확인해 주세요. 
-    조장 이준서 플레이어부터 시작하며, 자신의 역할 차례가 되었을 때 역할에 몰입하여 연기하듯 낭독해 주시기 바랍니다. 
-    모든 조원의 낭독이 끝나면 본격적인 조사가 시작됩니다.
+    충분한 조사를 마쳤다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동하세요.
   </p>
-  <div class="section-title">3. 조사 진행 및 액션</div>
-  <ul>
-    <li><span class="highlight">조사 진행</span>: 각 플레이어는 강의실 내부와 특정 장소, 혹은 인물 등의 단서를 자유롭게 조사할 수 있습니다.</li>
-    <li><span class="highlight">액션 사용</span>: 각 역할은 조사 단계에서 부여된 고유한 <span class="highlight">'액션'</span>을 사용할 수 있습니다. 액션 사용은 액션 포인트(AP)가 소모되며 이야기 진행에 영향을 미칠 수 있으니 신중하게 사용하세요. 액션의 결과는 오직 본인만 확인할 수 있습니다.</li>
-    <li><span class="highlight">비밀 유지 및 협력 조사</span>: 각자의 단서와 액션 소유권은 비밀로 유지되지만, 효율적인 조사를 위해 플레이어 간의 소통은 가능합니다. 조사 관련 논의는 자유롭게 진행해 주세요. 다만, 사건의 진상을 파헤치는 본격적인 추리와 토론은 조사가 모두 끝난 후 '추리 단계'에서 진행해 주시기 바랍니다.</li>
-  </ul>
-  <div class="section-title">4. 액션포인트 관리</div>
-  <p>
-    모든 조사 활동(단서 획득, 액션 사용)에는 <strong>'액션포인트(AP)'</strong>라는 자원이 소모됩니다.
-  </p>
-  <ul>
-    <li><span class="highlight">비공개 원칙</span>: 자신의 잔여 AP는 자기 자신만 실시간으로 확인할 수 있으며, 타인에게는 비공개입니다.</li>
-    <li><span class="highlight">제한된 자원</span>: AP가 모두 소진되면 더 이상 새로운 조사나 액션을 수행할 수 없습니다. 주어진 AP 내에서 가장 효율적인 단서를 찾아내야 합니다.</li>
-    <li><span class="highlight">소멸 주의</span>: 단계가 넘어가면 남은 액션포인트는 모두 사라지며, 다음 단계로 누적되지 않습니다.</li>
-  </ul>
-  <div class="section-title">5. 단서 규칙</div>
-  <ul>
-    <li><span class="highlight">획득 제한</span>: 각 캐릭터는 <span class="emphasis">자기 자신에 대한 단서(예: <span class="character-lee">이준서</span> 플레이어는 '<span class="character-lee">이준서에 대하여</span>')를 스스로 획득할 수 없습니다.</span> 타인에 대한 정보만 수집하십시오.</li>
-    <li><span class="highlight">지시문 이행</span>: 획득한 단서 내용 중 특별한 지시(예: '누구에게 보여주세요', '특정 단서를 추가 획득합니다' 등)가 있다면 즉시 그에 따라 행동해야 합니다.</li>
-    <li>
-      <span class="highlight">단서 공개</span>: 자신이 획득한 단서를 게임 보드에 <strong>앞면으로 공개</strong>할 수 있습니다. 
-      <span class="emphasis">공개된 단서는 모든 플레이어가 확인할 수 있으며, 해당 단서에 대한 소유권은 사라집니다.</span> 
-      단, 단서에 따라 공개가 불가능한 경우도 있습니다.
-    </li>
-    <li>
-      <span class="highlight">단서 교환 제안</span>: 상단 메뉴의 <strong>내 단서</strong>에서 단서 상세 창을 열어 <strong>'교환 제안'</strong> 기능을 사용할 수 있습니다.
-      <ul style="margin-top: 0.5em; margin-left: 1.5em;">
-        <li><strong>건네주기</strong>: 자신의 단서를 상대방에게 완전히 넘깁니다. 성공 시 소유권이 이전됩니다.</li>
-        <li><strong>함께보기</strong>: 단서의 내용을 상대방과 공유하지만, 소유권은 유지됩니다.</li>
-      </ul>
-      <span class="emphasis">상대방이 제안을 수락하면 교환이 성공하고, 거부하면 무효가 됩니다.</span> 
-      단, 단서에 따라 교환 제안이 불가능한 경우도 있습니다.
-    </li>
-    <li>
-      <span class="highlight">전략적 선택</span>: 단서를 언제, 누구에게, 어떤 방식으로 공유할지는 전적으로 당신의 전략적 선택입니다. 
-      협력과 배신의 경계에서 신중하게 판단하십시오.
-    </li>
-  </ul>
 </div>

@@ -1,37 +1,28 @@
 <div class="story-content">
   <div class="section-title">1. 개요</div>
   <p>
-    모든 단서가 공개되었습니다. 
-    수집된 모든 정보를 종합하여 최후의 범인을 추려내기 위한 <span class="emphasis">마지막 토론</span>을 진행하십시오.
-    당신의 선택이 이 이야기의 결말을 결정합니다.
+    2차 조사 결과를 바탕으로 자유롭게 토론하는 단계입니다. 수집된 정보를 종합하여 범인을 가려내기 위한 자유 토론을 진행하십시오.
   </p>
-  <div class="section-title">2. 토론 및 발언 순서</div>
+
+  <div class="section-title">2. 규칙</div>
+  <ul>
+    <li><span class="highlight">기능 제한</span>: 이 단계에서는 <strong>단서 조사, 액션 사용, 정보 공유</strong> 기능이 모두 비활성화됩니다. 오직 소지한 단서를 게임 보드에 공개하는 것만 가능합니다.</li>
+    <li><span class="highlight">밀담 허용</span>: 필요한 경우 최대 2인까지, 5분 내외로 자유롭게 <strong>밀담</strong>을 나눌 수 있습니다.</li>
+  </ul>
+
+  <div class="section-title">3. 최후 발언</div>
   <p>
-    범인 투표 전, 마지막 <strong>자유 토론</strong> 시간을 갖습니다. 수집된 모든 단서와 타임라인을 대조하며 사건의 전말을 밝혀내십시오. 
-  </p>
-  <p>
-    토론이 마무리되면, 각자의 최종 추리를 갈무리하는 <strong>최후 변론</strong> 시간을 가집니다. 발언 순서는 상대적으로 조사 기회가 적었던 플레이어에게 혜택을 주기 위해, <strong>현재까지 누적 사용한 액션 포인트(AP)가 가장 많은 플레이어부터</strong> 순차적으로 진행합니다.
+    토론 마무리 후, 각자의 최종 추리를 발표하는 시간을 갖습니다.
   </p>
   <ul>
-    <li>최후 발언은 한 플레이어당 <span class="highlight">1분간의 시간</span>이 주어집니다. 이 때, 다른 플레이어의 방해는 금지됩니다.</li>
-    <li>자신이 생각한 진범과 그렇게 판단한 논리적 근거를 명확히 제시하십시오.</li>
-    <li>모든 플레이어의 발언이 끝나면 즉시 범인 투표 단계로 이동하므로, 이 시간을 최후의 설득 기회로 활용하십시오.</li>
+    <li><span class="highlight">발언 순서</span>: 현재까지 누적 사용 AP가 가장 많은 플레이어부터 순차 진행</li>
+    <li><span class="highlight">발언 시간</span>: 인당 1분 내외 (발언 중 타인의 개입 및 방해 금지)</li>
+    <li><span class="highlight">내용</span>: 자신이 생각하는 진범과 그에 대한 논리적 근거 제시</li>
   </ul>
-  <div class="section-title">3. 최종 토론 가이드</div>
-  <p>
-    이제 더 이상 숨길 곳이 없습니다. 마지막으로 모든 정보를 쏟아내십시오.
-  </p>
-  <ul>
-    <li><span class="highlight">정보의 통합</span>: 1, 2차 조사에서 얻은 모든 단서와 증언을 하나의 타임라인으로 연결해 보십시오. 모순되는 지점이 보일 수 있습니다.</li>
-    <li><span class="highlight">마지막 공방</span>: 서로를 향한 의심을 이제 숨김없이 드러내십시오. 범인은 끝까지 자신의 결백을 주장하거나, 교묘하게 책임을 회피할 것입니다.</li>
-    <li><span class="highlight">동기 추적</span>: 단순히 '어떻게' 했는지 뿐만 아니라, <span class="emphasis">'왜'</span> 그랬는지에 집중하십시오. 가장 강력한 동기를 가진 사람은 누구입니까?</li>
-    <li><span class="highlight">밀담 규칙</span>: 최대 2인까지 <span class="emphasis">밀담</span>을 나눌 수 있습니다. 밀담 시간은 최대 5분입니다.</li>
-  </ul>
+
   <div class="section-title">4. 다음 단계 안내</div>
   <p>
-    토론이 완료되었다면 <span class="highlight">'다음 단계'</span>로 이동하여 범인 투표와 최후의 질문을 진행하십시오.
+    모든 발언이 끝났다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동하세요.
   </p>
-  <div class="quote-box">
-    "더 이상 조사는 의미 없어. 이제 선택해야 해."
-  </div>
+
 </div>
