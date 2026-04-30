@@ -4,41 +4,48 @@
 자동 진행: false
 AP 제한: {"role_bak": 10}
 
-<div class="step-intro">
-  <div class="section-title"><h2>차가운 겨울밤, 닫힌 다방의 비극</h2></div>
-  <p>1982년 12월, 통행금지가 해제된 직후의 서울 변두리에는 유독 많은 눈이 내리고 있습니다. 낡은 LP판 소리가 맴도는 '목련다방'의 문을 열고 들어서자, 자욱한 담배 연기와 연탄 가스 냄새가 섞인 매캐한 공기가 당신을 맞이합니다.</p>
+<div class="story-content">
+  <div class="section-title">차가운 겨울밤, 닫힌 다방의 비극</div>
+  
+  <p>1982년 12월, 통행금지가 해제된 직후의 서울 변두리에는 유독 많은 눈이 내리고 있습니다. 낡은 LP판 소리가 맴도는 <strong>'목련다방'</strong>의 문을 열고 들어서자, 자욱한 담배 연기와 연탄 가스 냄새가 섞인 매캐한 공기가 당신을 맞이합니다.</p>
+  
   <p>구석진 1번 테이블 위에는, 붉은 립스틱 자국이 선명한 찻잔 옆에 <strong>최 마담이 싸늘한 주검</strong>이 되어 엎드려 있습니다. 그녀의 손톱은 자줏빛으로 변해있고, 입가에는 말라붙은 거품 자국이 보입니다.</p>
-  <br>
-  <p>현장을 지키고 선 형사 <strong>박 반장</strong>인 당신은, <strong>21시 35분부터 외부인의 출입이 전혀 없었음</strong>을 확신합니다. 범인은 이 눈보라 속에 갇힌 다방 안에 있습니다.</p>
+  
+  <div class="script-direction">천장 끝에서 깜빡이는 형광등이 기괴한 그림자를 만들어낸다.</div>
+
+  <p>현장을 지키고 선 형사 <span class="character-bak">박 반장</span>인 당신은, <strong>21시 35분부터 외부인의 출입이 전혀 없었음</strong>을 확신합니다. 범인은 이 눈보라 속에 갇힌 다방 안에 있습니다.</p>
+  
   <p>당신의 앞에는 서로를 의심하며 불안에 떠는 세 명의 용의자가 있습니다.</p>
+  
   <ul>
-    <li>불안한 눈빛으로 다리를 떨고 있는 배달원 <strong>이 군</strong>.</li>
-    <li>탐욕스러운 얼굴로 땀을 흘리는 집주인 <strong>김 사장</strong>.</li>
-    <li>창백한 얼굴로 구석에 움츠려 있는 종업원 <strong>미스 양</strong>.</li>
+    <li>불안한 눈빛으로 다리를 떨고 있는 배달원 <span class="character-lee">이 군</span>.</li>
+    <li>탐욕스러운 얼굴로 땀을 흘리는 집주인 <span class="character-kim">김 사장</span>.</li>
+    <li>창백한 얼굴로 구석에 움츠려 있는 종업원 <span class="character-yang">미스 양</span>.</li>
   </ul>
+  
   <p>이제부터 당신은 이들의 신원을 파악하고, 그들 사이에 흐르는 미묘한 기류를 읽어내야 합니다. 사건 현장의 모든 것이 당신의 관찰을 기다리고 있습니다.</p>
-  <br>
-  <hr style="border-color: #444; margin: 24px 0;">
+  
+  <hr>
   
   <div class="beginner-guide">
-    <h3>🔰 튜토리얼: 게임 화면 익히기</h3>
+    <h3>튜토리얼: 게임 화면 익히기</h3>
     <p>이 시나리오는 머덱스 플랫폼의 <strong>기본적인 조작법</strong>을 익히기 위해 제작되었습니다.</p>
     
     <ol style="margin-top: 12px; line-height: 1.8;">
       <li><strong>내 정보 확인 (비밀 확인)</strong>
-        <p>화면의 <strong>[내 정보]</strong> 탭을 클릭해 보세요. 당신의 캐릭터 배경과 <strong>비밀(약점)</strong>, 그리고 <strong>승리 조건</strong>이 적혀 있습니다. 사건을 해결하기 위한 목표를 이곳에서 확인하세요.</p>
+        <p>하단 메뉴의 <span class="highlight">MY</span> 버튼을 누르고 <span class="highlight">내 역할</span>을 클릭해 보세요. 당신의 <span class="highlight">캐릭터 배경</span>, <span class="highlight">수사 규칙</span>, 그리고 <span class="highlight">목표</span>가 상세히 적혀 있습니다. 또한, 별도의 <span class="emphasis">비밀 정보</span> 탭을 통해 당신만이 알고 있는 과거의 인연을 꼭 확인하세요.</p>
       </li>
       
-      <li><strong>공통 정보 (현재 화면)</strong>
-        <p>지금 보고 계신 화면은 현재 단계의 <strong>사건 개요</strong>입니다. 게임이 진행됨에 따라 이곳에 새로운 상황 설명이 업데이트됩니다.</p>
+      <li><strong>단계 설명 (현재 화면)</strong>
+        <p>지금 보고 계신 화면은 현재 단계의 <strong>사건 개요</strong>입니다. 하단 메뉴의 <span class="highlight">INFO</span> > <span class="highlight">단계 설명</span>을 통해 언제든지 다시 확인할 수 있습니다.</p>
       </li>
 
       <li><strong>다음 단계 예고: 조사와 행동력(AP)</strong>
-        <p>현재는 <strong>도입</strong> 단계라 조사를 할 수 없습니다. 다음 단계인 <strong>현장 조사</strong>로 넘어가면 <strong>행동력(AP)</strong>을 사용해 현장을 수색하고 단서를 얻을 수 있습니다. 획득한 단서는 <strong>[소지품]</strong> 탭에 보관됩니다.</p>
+        <p>다음 단계인 <strong>현장 조사</strong>로 넘어가면 <span class="highlight">행동력(AP)</span>을 사용해 현장을 수색하고 단서를 얻을 수 있습니다. 획득한 단서는 <span class="highlight">MY</span> > <span class="highlight">내 단서</span>에서 확인 가능합니다.</p>
       </li>
 
       <li><strong>다음 단계로 이동</strong>
-        <p>내용을 모두 확인하셨나요? 우측 하단의 <strong>[NEXT]</strong> 버튼을 누르면 다음 단계로 진행됩니다.</p>
+        <p>내용을 모두 확인하셨다면, 하단 메뉴 바 우측의 <span class="highlight">Next</span> 버튼을 눌러 진행해 주세요.</p>
       </li>
     </ol>
   </div>

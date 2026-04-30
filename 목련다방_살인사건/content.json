@@ -2,7 +2,7 @@
     "basicInfo": {
         "title": "목련다방 살인사건",
         "summary": "1982년 겨울, 눈 내리는 서울 변두리의 다방에서 발생한 기묘한 살인. 닫힌 공간에서 벌어진 비극 뒤에 숨겨진 진실은?",
-        "description": "<div class=\"story-content\">\n  <p>1982년 겨울, 통행금지가 해제된 직후의 서울 변두리.</p>\n  <p>낡은 LP판 소리가 맴도는 <strong>'목련다방'</strong>의 1번 테이블에서 다방 여주인 최 마담이 싸늘한 주검으로 발견되었습니다.</p>\n  <p>흩날리는 함박눈 속에 갇혀버린 다방, 그곳에는 각자의 사정을 숨긴 채 서로를 불신하는 세 명의 용의자만이 남았습니다.</p>\n  <br>\n  <p>누구보다 다방의 속사정을 잘 알던 종업원 미스 양,</p>\n  <p>최 마담과 은밀한 거래를 이어오던 김 사장,</p>\n  <p>그리고 거친 숨을 몰아쉬며 현장을 맴돌던 배달원 이 군.</p>\n  <br>\n  <p>사건 현장 곳곳에 흩어진 80년대의 흔적들을 추적하고,</p>\n  <p>차게 식어버린 쌍화차 한 잔 뒤에 숨겨진 치명적인 진실을 파헤치십시오.</p>\n  <p>당신의 날카로운 통찰력만이 이 비극의 마침표를 찍을 수 있습니다.</p>\n</div>",
+        "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1982년, 눈보라 속의 목련다방</div>\n  <p>통행금지가 해제된 직후의 서울 변두리. 낡은 LP판 소리가 맴도는 <strong>'목련다방'</strong>의 문을 열고 들어서자, 자욱한 담배 연기와 연탄 가스 냄새가 섞인 매캐한 공기가 당신을 맞이합니다.</p>\n  <p>1번 테이블 위에는 붉은 립스틱 자국이 선명한 찻잔 옆에 <span class=\"emphasis\">최 마담이 싸늘한 주검</span>이 되어 엎드려 있습니다.</p>\n  <br>\n  <div class=\"retro-box with-label\" style=\"--box-label: '용의자'\">\n    누구보다 다방의 속사정을 잘 알던 종업원 <span class=\"character-yang\">미스 양</span>,<br>\n    최 마담과 은밀한 거래를 이어오던 <span class=\"character-kim\">김 사장</span>,<br>\n    그리고 거친 숨을 몰아쉬며 현장을 맴돌던 배달원 <span class=\"character-lee\">이 군</span>.\n  </div>\n  <br>\n  <p>사건 현장 곳곳에 흩어진 80년대의 흔적들을 추적하고, 차게 식어버린 쌍화차 한 잔 뒤에 숨겨진 치명적인 진실을 파헤치십시오.</p>\n  <p>당신의 날카로운 통찰력만이 이 비극의 마침표를 찍을 수 있습니다.</p>\n</div>",
         "category": "CLASSIC_MYSTERY",
         "price": null,
         "playTime": 120,
@@ -18,7 +18,7 @@
             "CRIME",
             "HISTORICAL"
         ],
-        "customCss": null
+        "customCss": "@import url(\"https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css\");\n@import url(\"https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Nanum+Myeongjo:wght@400;700;800&display=swap\");\n\n.story-content {\n    font-family: \"Pretendard Variable\", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;\n    font-size: 1rem;\n    line-height: 1.8;\n    color: #d5cea3;\n    background-color: #1a120b;\n    padding: 1.5rem;\n    border-radius: 8px;\n    letter-spacing: -0.01em;\n}\n\n.story-content h1, \n.story-content h2, \n.story-content .section-title {\n    font-family: \"Nanum Myeongjo\", serif;\n    color: #e5ba73;\n    border-bottom: 1px solid rgba(229, 186, 115, 0.3);\n    padding-bottom: 0.5rem;\n    margin-top: 1.5rem;\n    margin-bottom: 1rem;\n    font-weight: 800;\n}\n\n.story-content h3,\n.story-content .subsection-title {\n    font-family: \"Nanum Myeongjo\", serif;\n    color: #c85c5c;\n    margin-top: 1.2rem;\n    font-weight: 700;\n}\n\n.story-content strong,\n.story-content .highlight {\n    color: #e5ba73;\n    font-weight: 700;\n}\n\n.story-content .emphasis {\n    color: #c85c5c;\n    font-style: italic;\n}\n\n.character-bak { color: #90a4ae !important; font-weight: 700; }\n.character-lee { color: #ff8a65 !important; font-weight: 700; }\n.character-kim { color: #ffd54f !important; font-weight: 700; }\n.character-yang { color: #f48fb1 !important; font-weight: 700; }\n\n.script-direction {\n    font-style: italic;\n    color: #8d6e63;\n    margin: 1rem 0;\n    padding-left: 1rem;\n    border-left: 2px solid #3e2723;\n    font-size: 0.95rem;\n}\n\n.script-line {\n    margin-bottom: 0.5rem;\n}\n\n.retro-box {\n    background: rgba(213, 206, 163, 0.05);\n    border: 1px double #e5ba73;\n    padding: 1.2rem;\n    margin: 1.5rem 0;\n    position: relative;\n}\n\n.retro-box::before {\n    content: \"NOTICE\";\n    position: absolute;\n    top: -10px;\n    left: 20px;\n    background: #1a120b;\n    padding: 0 10px;\n    font-size: 0.7rem;\n    color: #e5ba73;\n    letter-spacing: 0.2em;\n}\n\n.story-content ul {\n    list-style: none;\n    padding-left: 0;\n}\n\n.story-content li {\n    position: relative;\n    padding-left: 1.5rem;\n    margin-bottom: 0.5rem;\n}\n\n.story-content li::before {\n    content: \"◈\";\n    position: absolute;\n    left: 0;\n    color: #e5ba73;\n    font-size: 0.8rem;\n}\n\n.beginner-guide {\n    margin-top: 2rem;\n    padding: 1rem;\n    background: rgba(229, 186, 115, 0.1);\n    border-radius: 4px;\n    border: 1px solid rgba(229, 186, 115, 0.2);\n}\n\n.beginner-guide h3 {\n    margin-top: 0;\n    font-size: 1.1rem;\n    display: flex;\n    align-items: center;\n    gap: 0.5rem;\n}\n\n.story-content hr {\n    border: none;\n    height: 1px;\n    background: linear-gradient(90deg, transparent, #e5ba73, transparent);\n    margin: 2rem 0;\n}\n"
     },
     "roles": [
         {
@@ -26,12 +26,12 @@
             "roleName": "수사반장",
             "roleOrder": 1,
             "summary": "동대문 경찰서 소속의 베테랑 강력계 형사",
-            "publicInfo": "<div class='role-intro'><p>1982년 12월, 동대문의 매서운 바람을 뚫고 목련다방에 도착한 <strong>박 반장</strong>은 현장의 모든 출구를 봉쇄했습니다.</p><p>당신은 <strong>훤칠한 키에 다부지지만 구부정한 체형</strong>을 하고 있습니다. 낡은 베이지색 트렌치코트 깃을 세우고, 며칠 감지 않은 <strong>반백의 헝클어진 머리</strong>를 쓸어 넘깁니다. 거친 피부와 깊게 패인 주름 사이로 피로가 역력하지만, 눈빛만은 형형하게 빛납니다. 입에는 습관처럼 다 타들어가는 담배를 물고 있습니다.</p><p>\"아무도 나갈 생각 마시오.\" 당신의 거친 한마디에 다방 안의 공기가 얼어붙습니다.</p></div>",
-            "description": "<div class='role-bg'><p>사망한 최 마담(최순옥)은 사실 당신이 신참 순경 시절, 연고도 없는 서울에서 길을 잃었을 때 따뜻한 밥 한 끼를 내어주던 고향 누나 같은 존재였습니다. 공적으로는 엄정한 형사여야 하지만, 내적으로는 그녀의 죽음을 헛되이 하고 싶지 않은 강한 부채감을 느끼고 있습니다.</p><p>당신은 오늘 밤, 이 다방 안에 있는 세 명 중 하나가 그녀를 죽였다는 사실을 확신합니다. 당신의 목표는 명확합니다. <strong>논리적인 증거를 찾아 범인을 법의 심판대에 세우는 것</strong>, 그리고 그녀에게 진 빚을 갚는 것입니다.</p></div>",
+            "publicInfo": "<div class=\"story-content\">\n  <div class=\"retro-box\">\n    <p>1982년 12월, 동대문의 매서운 바람을 뚫고 목련다방에 도착한 <span class=\"character-bak\">박 반장</span>은 현장의 모든 출구를 봉쇄했습니다.</p>\n    <p>당신은 <strong>훤칠한 키에 다부지지만 구부정한 체형</strong>을 하고 있습니다. 낡은 베이지색 트렌치코트 깃을 세우고, 며칠 감지 않은 <strong>반백의 헝클어진 머리</strong>를 쓸어 넘깁니다. 거친 피부와 깊게 패인 주름 사이로 피로가 역력하지만, 눈빛만은 형형하게 빛납니다. 입에는 습관처럼 다 타들어가는 담배를 물고 있습니다.</p>\n    <div class=\"script-line\"><span class=\"character-bak\">박 반장</span>: \"아무도 나갈 생각 마시오.\"</div>\n    <p>당신의 거친 한마디에 다방 안의 공기가 얼어붙습니다.</p>\n  </div>\n</div>",
+            "description": "<div class=\"story-content\">\n  <details open>\n    <summary>캐릭터 배경</summary>\n    <div class=\"collapsible-content\">\n      <p>당신은 동대문 경찰서 강력계에서 잔뼈가 굵은 형사입니다. 수많은 범죄자를 잡아들이며 이름을 알렸지만, 마음 어딘가에는 늘 지워지지 않는 허전함과 피로가 남아 있습니다.</p>\n      <p>사망한 <strong>최 마담(최순옥)</strong>은 신참 시절, 연고도 없는 서울에서 길을 잃고 방황하던 당신에게 따뜻한 밥 한 끼를 내어주던 고향 누나 같은 존재였습니다. 더 나아가 보증 사기로 곤경에 빠졌던 당신을 위해 전세금까지 빼서 도와준 사람—그 은혜를 평생 잊기 어려웠습니다.</p>\n      <p>하지만 몇 년 뒤, 그녀가 억울한 일을 당해 도움을 요청했을 때 당신은 <span class=\"emphasis\">승진 심사를 의식해 그 손을 잡지 못했습니다.</span> 그날의 선택은 마음속 깊은 곳에 오래된 흉터처럼 새겨졌고, 오늘까지도 지울 수 없는 후회로 남아 있습니다.</p>\n      <p>얼마 전, 최 마담이 조심스레 연락을 보내왔습니다. 짧은 말 너머로 뭔가 잘못되었다는 기운이 느껴졌고, 당신은 외면만 해온 지난 시간을 견딜 수 없어 결국 오늘 밤 그녀를 보기 위해 목련다방으로 향했습니다.</p>\n    </div>\n  </details>\n\n  <details>\n    <summary>공통 정보 및 수사 규칙</summary>\n    <div class=\"collapsible-content\">\n      <ul>\n        <li><strong>시대적 배경</strong>: 1982년 1월, 야간 통행금지가 해제된 직후의 혼란스러운 서울.</li>\n        <li><strong>목련다방</strong>: 동대문 시장통 뒷골목에 위치. 낮에는 상인들이, 밤에는 수상한 거래꾼들이 드나드는 곳.</li>\n        <li><strong>수사 권한</strong>: 당신에게는 현장 통제권과 임의 동행 요구권이 있습니다. 하지만 결정적인 물증 없이는 체포할 수 없습니다.</li>\n        <li><strong>용의자들</strong>: 현장에는 세 명의 용의자가 있습니다. 종업원 <span class=\"character-yang\">미스 양</span>, 단골손님 <span class=\"character-kim\">김 사장</span>, 배달원 <span class=\"character-lee\">이 군</span>.</li>\n      </ul>\n    </div>\n  </details>\n\n  <details>\n    <summary>목표</summary>\n    <div class=\"collapsible-content\">\n      <p>당신은 오늘 밤, 이 다방 안에 있는 세 명 중 하나가 그녀를 죽였다는 사실을 확신합니다. 외부의 침입 흔적은 없습니다.</p>\n      <p>당신의 목표는 명확합니다. <span class=\"highlight\">논리적인 증거를 찾아 범인을 법의 심판대에 세우는 것</span>, 그리고 그녀에게 진 마음의 빚을 갚는 것입니다.</p>\n      <p>감정에 치우치지 말고, 오직 증거만이 말하게 하십시오.</p>\n    </div>\n  </details>\n</div>",
             "secrets": [
                 {
                     "secretTitle": "최 마담과의 과거 인연",
-                    "secretContent": "<div class='secret-content'><p>박 반장은 과거 신참 시절, 최 마담에게 큰 빚을 졌습니다. 보증 사기로 길어 앉게 된 당신에게 그녀는 전세금을 빼서 도움을 주었습니다. 하지만 그로부터 얼마 후, <strong>그녀가 억울한 누명을 쓰고 도움을 요청했을 때 당신은 이제 막 잡은 자리를 지키기 위해 그녀를 외면했습니다.</strong> 그 배신감 때문이었을까요? 그 후 그녀는 돈과 이익만을 좇는 냉혹한 사람으로 변해버렸습니다. 그녀의 타락에 당신의 책임이 없다고 말할 수 있을까요?</p></div>",
+                    "secretContent": "<div class=\"story-content\">\n  <div class=\"secret-document\">\n    <p><span class=\"character-bak\">박 반장</span>은 과거 신참 시절, 최 마담에게 큰 빚을 졌습니다. 보증 사기로 길바닥에 나앉게 된 당신에게 그녀는 전세금을 빼서 도움을 주었습니다.</p>\n    <p>하지만 그로부터 얼마 후, <strong>그녀가 억울한 누명을 쓰고 도움을 요청했을 때 당신은 이제 막 잡은 자리를 지키기 위해 그녀를 외면했습니다.</strong></p>\n    <p>그 배신감 때문이었을까요? 그 후 그녀는 돈과 이익만을 좇는 냉혹한 사람으로 변해버렸습니다. 그녀의 타락에 당신의 책임이 없다고 말할 수 있을까요?</p>\n  </div>\n</div>",
                     "importanceLevel": "MEDIUM",
                     "disclosureTiming": "NEVER",
                     "canShare": false,
@@ -41,11 +41,11 @@
             "actions": [
                 {
                     "actionName": "정밀 조사: 계란 노른자",
-                    "actionDescription": "<p>쌍화차 잔 바닥에 가라앉은 <strong>계란 노른자</strong>를 건져내어 돋보기로 면밀히 관찰합니다.</p>",
-                    "actionEffect": "<p>육안으로 보이지 않는 <strong>미세한 흔적</strong>을 발견할 수 있습니다.</p>",
+                    "actionDescription": "<div class=\"story-content\"><p>쌍화차 잔 바닥에 가라앉은 <span class=\"highlight\">계란 노른자</span>를 건져내어 돋보기로 면밀히 관찰합니다.</p></div>",
+                    "actionEffect": "<div class=\"story-content\"><p>육안으로 보이지 않는 <span class=\"emphasis\">미세한 흔적</span>을 발견할 수 있습니다.</p></div>",
                     "actionType": "MODIFY_CLUE",
                     "apCost": 2,
-                    "executionResult": "<p>당신은 조심스럽게 노른자를 건져 올려 돋보기를 갖다 댑니다. 조명 아래에서 노른자를 돌려보다가 무언가를 발견합니다.</p>",
+                    "executionResult": "<div class=\"story-content\"><div class=\"script-direction\"><span class=\"character-bak\">박 반장</span>은 조심스럽게 노른자를 건져 올려 돋보기를 갖다 댔다.</div><p>조명 아래에서 노른자를 돌려보다가 무언가를 발견합니다.</p></div>",
                     "actionEffects": [
                         {
                             "effectType": "REPLACE",
@@ -58,11 +58,11 @@
                 },
                 {
                     "actionName": "정밀 조사: 이 군의 가방",
-                    "actionDescription": "<p>이 군이 안절부절못하며 지키고 있는 <strong>낡은 가죽 가방</strong>의 내용물을 샅샅이 뒤집니다.</p>",
-                    "actionEffect": "<p>가방 깊숙한 곳에 숨겨진 <strong>의외의 물건</strong>을 찾아낼 수 있습니다.</p>",
+                    "actionDescription": "<div class=\"story-content\"><p><span class=\"character-lee\">이 군</span>이 안절부절못하며 지키고 있는 <span class=\"highlight\">낡은 가죽 가방</span>의 내용물을 샅샅이 뒤집니다.</p></div>",
+                    "actionEffect": "<div class=\"story-content\"><p>가방 깊숙한 곳에 숨겨진 <span class=\"emphasis\">의외의 물건</span>을 찾아낼 수 있습니다.</p></div>",
                     "actionType": "MODIFY_CLUE",
                     "apCost": 2,
-                    "executionResult": "<p>\"이... 이건 개인 프라이버시 아닙니까!\" 이 군의 항변을 무시하고 가방을 거꾸로 탈탈 텁니다.</p>",
+                    "executionResult": "<div class=\"story-content\"><div class=\"script-line\"><span class=\"character-lee\">이 군</span>: \"이... 이건 개인 프라이버시 아닙니까!\"</div><div class=\"script-direction\"><span class=\"character-bak\">박 반장</span>은 항변을 무시하고 가방을 거꾸로 탈탈 털었다.</div></div>",
                     "actionEffects": [
                         {
                             "effectType": "REPLACE",
@@ -75,11 +75,11 @@
                 },
                 {
                     "actionName": "정밀 조사: 김 사장의 봉투",
-                    "actionDescription": "<p>김 사장이 품에 안고 있는 <strong>누런 서류 봉투</strong>를 빼앗아 그 내용을 검토합니다.</p>",
-                    "actionEffect": "<p>서류에 적힌 <strong>계약의 실체</strong>를 파악할 수 있습니다.</p>",
+                    "actionDescription": "<div class=\"story-content\"><p><span class=\"character-kim\">김 사장</span>이 품에 안고 있는 <span class=\"highlight\">누런 서류 봉투</span>를 빼앗아 그 내용을 검토합니다.</p></div>",
+                    "actionEffect": "<div class=\"story-content\"><p>서류에 적힌 <span class=\"emphasis\">계약의 실체</span>를 파악할 수 있습니다.</p></div>",
                     "actionType": "MODIFY_CLUE",
                     "apCost": 2,
-                    "executionResult": "<p>\"내놓으시오! 이건 내 재산이오!\" 김 사장의 저항을 뿌리치고 서류를 꺼내 읽어 내려갑니다.</p>",
+                    "executionResult": "<div class=\"story-content\"><div class=\"script-line\"><span class=\"character-kim\">김 사장</span>: \"내놓으시오! 이건 내 재산이오!\"</div><div class=\"script-direction\"><span class=\"character-bak\">박 반장</span>은 저항을 뿌리치고 서류를 꺼내 읽어 내려갔다.</div></div>",
                     "actionEffects": [
                         {
                             "effectType": "REPLACE",
@@ -92,11 +92,11 @@
                 },
                 {
                     "actionName": "정밀 조사: 미스 양의 일기",
-                    "actionDescription": "<p>숙소 사물함에서 발견된 <strong>낡은 일기장</strong>을 압수하여 최근 기록을 읽어봅니다.</p>",
-                    "actionEffect": "<p>미스 양이 감추고 있던 <strong>내면의 심리</strong>를 엿볼 수 있습니다.</p>",
+                    "actionDescription": "<div class=\"story-content\"><p>숙소 사물함에서 발견된 <span class=\"highlight\">낡은 일기장</span>을 압수하여 최근 기록을 읽어봅니다.</p></div>",
+                    "actionEffect": "<div class=\"story-content\"><p><span class=\"character-yang\">미스 양</span>이 감추고 있던 <span class=\"emphasis\">내면의 심리</span>를 엿볼 수 있습니다.</p></div>",
                     "actionType": "MODIFY_CLUE",
                     "apCost": 2,
-                    "executionResult": "<p>먼지 쌓인 일기장을 펼치자, 꾹꾹 눌러쓴 글씨들이 그녀의 억눌린 감정을 토해내듯 쏟아집니다.</p>",
+                    "executionResult": "<div class=\"story-content\"><div class=\"script-direction\">먼지 쌓인 일기장을 펼치자, 꾹꾹 눌러쓴 글씨들이 그녀의 억눌린 감정을 토해내듯 쏟아졌다.</div></div>",
                     "actionEffects": [
                         {
                             "effectType": "REPLACE",
@@ -489,7 +489,7 @@
             "stepOrder": 2,
             "stepName": "다방 현장 수색",
             "stepType": "INVESTIGATION",
-            "description": "<p>이제부터 본격적인 수사가 시작됩니다. 당신은 다방 곳곳을 조사하여 범인이 흘리고 간 <strong>실수</strong>를 찾아내야 합니다. 카운터의 장부, 주방 위생 상태, 그리고 뒷마당의 연탄재까지... 당신의 형사 수첩을 채울 결정적 증거는 어디에 있을까요? 모든 것을 조사하기엔 시간이 부족합니다. 직감을 믿고 <strong>가장 의심스러운 곳</strong>을 정밀 조사하십시오.</p><br><p>💡 <strong>플레이 팁</strong>: 행동력(AP)은 한정되어 있습니다. 단서 목록에서 의심스러운 항목을 선택해 조사하고, 특히 중요한 단서는 <strong>'정밀 조사'</strong> 액션을 통해 숨겨진 정보를 더 찾아낼 수 있습니다.</p>",
+            "description": "<div class=\"story-content\">\n  <div class=\"section-title\">숨겨진 진실의 조각들을 찾아서</div>\n  <p>이제부터 본격적인 수사가 시작됩니다. 다방 안은 좁지만, 봐야 할 곳은 많습니다.</p>\n  <p>1번 테이블의 찻잔부터 주방의 찬장, 카운터의 낡은 장부, 그리고 용의자들의 소지품까지... 범인은 반드시 <strong>자신의 흔적</strong>을 남겼을 것입니다. 단순히 눈에 보이는 것만이 전부가 아닙니다.</p>\n  <div class=\"script-direction\">차가운 연탄재 냄새와 비릿한 쌍화차 향이 코끝을 맴돈다.</div>\n  <p>형사의 직감으로 가장 의심스러운 곳을 골라 <span class=\"highlight\">정밀 조사</span>를 수행하십시오. 평범해 보이는 물건 속에서 결정적인 단서를 찾아낼 수 있을 것입니다. 사소한 냄새, 지워진 글자, 숨겨진 물건 하나가 사건의 판도를 뒤집을 수 있습니다.</p>\n  <p>용의자들은 자신의 죄를 감추려 필사적일 것입니다. 그들의 거짓말을 뚫고, 오직 <span class=\"emphasis\">팩트</span>만이 말하는 진실에 귀를 기울이십시오.</p>\n  <hr>\n  <div class=\"beginner-guide\">\n    <h3>튜토리얼: 조사와 행동력(AP)</h3>\n    <p>이번 단계의 핵심은 <strong>단서 수집</strong>입니다. 범인을 잡으려면 증거가 필요합니다.</p>\n    <ol style=\"margin-top: 12px; line-height: 1.8;\">\n      <li><strong>조사 대상 선택</strong>\n        <p>화면에 배치된 <strong>조사 대상(카드)</strong>들을 확인하세요. '최 마담의 시신', '철가방', '종업원 숙소' 등 수상한 대상들을 클릭하여 조사할 수 있습니다.</p>\n      </li>\n      <li><strong>행동력(AP) 사용</strong>\n        <p>각 장소를 조사할 때마다 하단에 표시된 <span class=\"highlight\">행동력(AP)</span>이 소모됩니다. 당신에게 주어진 AP는 한정되어 있으니 신중하게 선택해야 합니다.</p>\n      </li>\n      <li><strong>단서 획득 및 분석</strong>\n        <p>조사에 성공하면 <strong>단서</strong>를 획득하게 됩니다. 획득한 단서는 하단 메뉴의 <span class=\"highlight\">MY</span> > <span class=\"highlight\">내 단서</span>에서 언제든지 다시 읽어볼 수 있습니다.</p>\n      </li>\n      <li><strong>액션 사용</strong>\n        <p>캐릭터에 따라 특수 능력(액션)이 있을 수 있습니다. 하단 메뉴의 <span class=\"highlight\">MY</span> > <span class=\"highlight\">내 액션</span>에서 사용 가능한 액션이 있는지 확인해 보세요.</p>\n      </li>\n    </ol>\n  </div>\n</div>",
             "outro": "<p>수색이 종료되었습니다. 확보한 증거물들이 테이블 위에 놓였습니다. 육안으로는 보이지 않던 미세한 구멍이 난 노른자, 유황 냄새가 나는 주사기, 훔친 돈다발과 조작된 계약서들... 이제 이 조각들을 맞춰 용의자들의 거짓말을 깨부술 차례입니다.</p>",
             "estimatedDuration": 15,
             "isAutoProceed": false,
@@ -502,7 +502,7 @@
             "stepOrder": 3,
             "stepName": "증언 대조 및 심문",
             "stepType": "DEDUCTION",
-            "description": "<p>이제 확보된 증거들을 바탕으로 용의자들의 알리바이와 진술의 모순을 찾아낼 시간입니다. 각자가 숨기고 있는 비밀, 그리고 어딘가 앞뒤가 맞지 않는 알리바이... 이들 중 진짜 살인범은 누구입니까? 서로 엇갈리는 그들의 증언 속에서 진짜 범인의 꼬리를 잡으십시오.</p><br><p>💡 <strong>플레이 팁</strong>: 지금까지 모은 단서들을 다시 한번 꼼꼼히 읽어보세요. 용의자들의 증언과 확보한 물증 사이에 모순되는 점이 없는지 찾아내는 것이 중요합니다.</p>",
+            "description": "<div class=\"story-content\">\n  <div class=\"section-title\">거짓과 진실의 교차 검증</div>\n  <p>현장 곳곳에서 확보한 증거물들이 테이블 위에 놓였습니다. 이제 이 조각들을 용의자들의 증언과 맞춰볼 시간입니다.</p>\n  <div class=\"retro-box with-label\" style=\"--box-label: '증거 목록'\">\n    <span class=\"character-lee\">이 군</span>의 가방에서 나온 돈다발과 도박 빚,<br>\n    <span class=\"character-kim\">김 사장</span>이 품고 있던 수상한 계약서와 락스,<br>\n    그리고 <span class=\"character-yang\">미스 양</span>의 일기장에 적힌 분노의 기록들.\n  </div>\n  <p>이 모든 것이 가리키는 방향은 어디입니까? 용의자들은 서로를 범인으로 지목하며 알리바이를 주장하고 있습니다. 하지만 그들의 증언 속에는 분명 <span class=\"emphasis\">모순</span>이 존재합니다.</p>\n  <div class=\"script-direction\">박 반장은 타들어 가는 담배를 재떨이에 비벼 껐다.</div>\n  <p>당신의 찾은 물증과 그들의 말을 대조하십시오. 누가 거짓말을 하고 있습니까? 누가 가장 큰 범행 동기를 가지고 있습니까? 그리고 누가 실제로 범행을 저지를 수 있었습니까?</p>\n  <p>지금 이 순간, 당신의 논리만이 진실을 가려낼 수 있습니다. 용의자들의 표정 변화 하나까지 놓치지 말고 날카롭게 파고드십시오.</p>\n  <hr>\n  <div class=\"beginner-guide\">\n    <h3>튜토리얼: 추리와 토론</h3>\n    <p>수집한 단서를 바탕으로 사건의 진상을 파악하는 단계입니다.</p>\n    <ol style=\"margin-top: 12px; line-height: 1.8;\">\n      <li><strong>단서 조합 및 분석</strong>\n        <p>확보한 단서들을 다시 훑어보세요. 하단 메뉴의 <span class=\"highlight\">MY</span> > <span class=\"highlight\">내 단서</span>에서 서로 모순되는 증언은 없는지, 알리바이가 빈약한 사람은 누구인지 체크해야 합니다.</p>\n      </li>\n      <li><strong>범인 결정 준비</strong>\n        <p>충분히 생각을 정리했다면, 하단 메뉴 바 우측의 <span class=\"highlight\">Next</span> 버튼을 눌러 결론 단계로 넘어갑니다.</p>\n      </li>\n    </ol>\n  </div>\n</div>",
             "outro": "<p>모든 심문이 끝났습니다. 용의자들의 표정에서 진실과 거짓을 읽어내셨습니까? 이제 당신의 수첩을 덮고, 최후의 결론을 내릴 시간입니다.</p>",
             "estimatedDuration": 5,
             "isAutoProceed": false,
@@ -515,7 +515,7 @@
             "stepOrder": 4,
             "stepName": "범인 지목",
             "stepType": "CONCLUSION",
-            "description": "<p>모든 추리가 끝났습니다. 이제 당신은 확신을 가지고 진범을 지목해야 합니다. 틀릴 경우 진실은 영원히 묻힐 수도 있습니다. 신중하게 선택하십시오.</p><br><p>💡 <strong>플레이 팁</strong>: 모든 증거와 정황이 한 사람을 가리키고 있나요? 범인과 범행 수단을 신중하게 선택해 주세요. 선택은 되돌릴 수 없으니 마지막으로 단서들을 복기해 보시기 바랍니다.</p>",
+            "description": "<div class=\"story-content\">\n  <div class=\"section-title\">최후의 심판</div>\n  <p>모든 조사는 끝났습니다. 이제 당신의 수첩을 덮고, 결단을 내려야 할 시간입니다.</p>\n  <p>세 명의 용의자, 그리고 엇갈리는 증거들. 당신의 머릿속에서 사건의 퍼즐이 완성되었습니까? 범인은 누구이며, 어떤 방법으로, 왜 최 마담을 살해했습니까?</p>\n  <div class=\"script-direction\">다방 안의 공기가 무겁게 가라앉는다. 모두가 박 반장의 입술만을 주시하고 있다.</div>\n  <p>이 선택은 되돌릴 수 없습니다. 당신의 손끝에 억울한 피해자의 원한을 풀어줄 정의와, 무고한 사람을 단죄할지도 모를 책임이 함께 달려 있습니다.</p>\n  <p>심호흡을 하고, 당신이 도달한 진실을 가리키십시오.</p>\n  <p><span class=\"character-bak\">박 반장</span>: \"범인은... 바로 당신이야.\"</p>\n  <hr>\n  <div class=\"beginner-guide\">\n    <h3>튜토리얼: 최종 결론 내리기</h3>\n    <p>게임의 클라이막스입니다. 이제 당신의 추리를 시스템에 입력할 차례입니다.</p>\n    <ol style=\"margin-top: 12px; line-height: 1.8;\">\n      <li><strong>사건 진상 규명 (질문 답변)</strong>\n        <p>하단 메뉴 바 우측의 <span class=\"highlight\">Next</span> 버튼을 누르면 사건의 진상을 묻는 질문 창이 나타납니다. 수집한 단서들을 바탕으로 <strong>살해 수단</strong>과 <strong>진범</strong>을 정확히 지목해 주세요.</p>\n      </li>\n      <li><strong>결과 확인 및 엔딩</strong>\n        <p>질문에 대한 답변을 모두 마치고 제출하면 모든 플레이 과정이 종료됩니다. 당신의 추리 성공 여부에 따라 <span class=\"highlight\">진 엔딩</span> 혹은 <span class=\"highlight\">배드 엔딩</span>으로 이어집니다.</p>\n      </li>\n    </ol>\n  </div>\n</div>",
             "outro": "<p>박 반장은 깊은 한숨을 내쉬며 범인을 지목하기 위해 입을 뗍니다. \"범인은... 바로 당신이야.\"</p>",
             "estimatedDuration": 3,
             "isAutoProceed": false,
@@ -578,8 +578,8 @@
             "stepOrder": 5,
             "stepName": "목련다방의 황혼",
             "stepType": "ENDING",
-            "description": "<p>사건의 마침표를 찍을 시간입니다. 지목된 범인의 최후와 최 마담이 남긴 마지막 이야기를 들어보십시오.</p><br><p>💡 <strong>플레이 팁</strong>: 수고하셨습니다! 당신의 추리가 맞았는지, 그리고 사건 뒤에 숨겨진 진실은 무엇이었는지 확인하며 이야기를 마무리해 보세요.</p>",
-            "outro": "<p>사건은 일단락되었지만, 목련다방에 남겨진 슬픈 여운은 박 반장의 가슴속에 오래도록 머물렀습니다.</p>",
+            "description": "<div class=\"story-content\">\n  <div class=\"section-title\">긴 밤의 끝, 그리고 새로운 미스터리</div>\n  <p>당신의 날카로운 추리로 목련다방을 감싸던 눈보라가 걷히고, 사건의 전말이 백일하에 드러났습니다. 차가운 수갑 소리와 함께 범인은 연행되고, 다방에는 다시 무거운 정적이 찾아옵니다.</p>\n  <div class=\"script-direction\">창밖에는 여전히 함박눈이 내리고 있지만, 다방 안을 짓누르던 매캐한 연기는 조금씩 흩어져 간다.</div>\n  <p>하지만 이것은 그저 시작일 뿐입니다. 도시의 어두운 뒷골목, 화려한 저택의 밀실, 혹은 기괴한 비명소리가 들리는 외딴섬에서... 더 복잡하고, 더 치명적이며, 당신의 숨통을 조여올 <span class=\"highlight\">진짜 사건들</span>이 기다리고 있습니다.</p>\n  <p>이 짧은 사건에서 추리의 전율을 느끼셨나요? 그렇다면 이제 준비 운동은 끝났습니다. 머덱스의 <strong>본격적인 프리미엄 시나리오</strong>에 도전하여, 차원이 다른 서사와 정교한 트릭의 주인공이 되어보세요.</p>\n  <hr>\n  <div class=\"beginner-guide\">\n    <h3>튜토리얼 완료!</h3>\n    <p>축하합니다! 머더 미스터리의 기본기를 모두 익히셨습니다.</p>\n    <p>이 창을 닫으면 사건의 결말이 공개됩니다. 엔딩을 충분히 즐기신 후, 다른 작품을 이용하시려면 반드시 <span class=\"emphasis\">이용 종료</span>를 해주셔야 합니다. 당신을 기다리는 또 다른 미스터리에서 다시 뵙기를 고대하겠습니다.</p>\n  </div>\n</div>",
+            "outro": "<div class=\"story-content\"><p>사건은 일단락되었지만, 목련다방에 남겨진 슬픈 여운은 <span class=\"character-bak\">박 반장</span>의 가슴속에 오래도록 머물렀습니다.</p></div>",
             "estimatedDuration": 2,
             "isAutoProceed": true,
             "roleApLimits": {},
@@ -596,7 +596,7 @@
             "method": "쌍화차에 미리 준비한 농약(파라티온)을 탐",
             "timeline": "21:40 주방 조제 -> 21:45 음독 -> 21:50 도주 실패 및 은닉",
             "keyClues": "clue_02, clue_03, clue_15",
-            "endingStory": "<p>\"마늘 냄새... 파라티온 농약이군.\" 박 반장의 추궁과 슈퍼 주인의 증언이 이어지자 미스 양은 결국 무너져 내렸습니다. \"마담은... 제 꿈을 훔쳐갔어요. 죽이고 도망치려고 했는데...\" 그녀가 주방 찬장에 숨겨둔 농약 병이 발견되자 모든 것이 명백해졌습니다. 차가운 수갑이 채워지는 소리만이 다방을 메웁니다. 박 반장은 그녀를 연행하며 씁쓸한 표정으로 뒤를 돌아봅니다.</p>",
+            "endingStory": "<div class=\"story-content\"><div class=\"section-title\">진실의 황혼</div><div class=\"script-line\"><span class=\"character-bak\">박 반장</span>: \"마늘 냄새... 파라티온 농약이군. 자네 옷소매에서 나는 이 냄새, 더는 부정하기 힘들겠어.\"</div><p><span class=\"character-bak\">박 반장</span>의 낮게 깔린 목소리에 다방 안의 공기가 차갑게 얼어붙었습니다. 구석에 웅크리고 있던 <span class=\"character-yang\">미스 양</span>의 어깨가 눈에 띄게 떨리기 시작했습니다. 슈퍼 주인의 결정적인 증언과 주방 찬장 뒤편에서 발견된 작고 검은 농약 병—그것이 그녀의 마지막 보루를 무너뜨렸습니다.</p><div class=\"script-line\"><span class=\"character-yang\">미스 양</span>: \"마담은... 마담은 제 모든 것을 가져갔어요.\"</div><p>그녀가 갈라진 목소리로 입을 열었습니다. 뺨을 타고 흐르는 눈물이 화장기 없는 얼굴에 얼룩을 남겼습니다. \"고향에 계신 노모 약값 때문에 잠시만 돈이 필요했어요. 근데 알고 보니, 그 차용증에 작은 글씨로 말도 안 되는 조항들이 숨어 있었어요. 제 청춘을, 제 미래를 마담이 저 작은 글씨 몇 줄로 짓밟아버린 거예요!\"</p><div class=\"script-direction\">철컥, 차가운 수갑이 그녀의 가냘픈 손목을 파고들었다.</div><p><span class=\"character-bak\">박 반장</span>은 그녀를 연행하며 창밖으로 흩날리는 눈송이를 물끄러미 바라보았습니다. 범인을 잡았다는 쾌감보다는, 시대의 어둠 속에 매몰되어버린 한 여인의 삶에 대한 연민이 가슴 한구석을 시리게 파고들었습니다.</p><div class=\"script-line\"><span class=\"character-bak\">박 반장</span>: \"이제 그만 편히 쉬게나. 다음 생엔 이런 눈물 없는 세상에서 만나기를.\"</div></div>",
             "endingRules": [
                 {
                     "targetEndingId": "ending_true",
@@ -610,7 +610,7 @@
             "endingName": "흐릿해진 진실 (실패)",
             "endingType": "BAD_ENDING",
             "endingOrder": 2,
-            "endingStory": "<p>결정적인 증거를 확보하지 못한 채 박 반장의 수사는 미궁에 빠졌습니다. 심증은 있었으나, 확실한 물증이 없었기에 미스 양은 유유히 현장을 빠져나갔습니다. 다음 날 새벽, 다방 금고가 털린 채 발견되었고 그녀의 행방은 묘연해졌습니다. 억울하게 몰린 이 군은 경찰서 취조실에서 눈물을 흘려야 했고, 사건은 영원히 미제로 남게 되었습니다.</p>",
+            "endingStory": "<div class=\"story-content\"><div class=\"section-title\">흐릿해진 진실</div><p>결정적인 증거를 확보하지 못한 채, 시간은 야속하게 흘러갔습니다.</p><div class=\"script-line\"><span class=\"character-bak\">박 반장</span>: \"심증만으로는 아무도 잡아들일 수 없어. 법이라는 게 원래 이렇단 말이지...\"</div><p>확실한 물증이 없었기에 진실은 안개 속으로 사라졌고, 현장을 빠져나가는 이들의 뒷모습을 보며 <span class=\"character-bak\">박 반장</span>은 허탈하게 마른세수를 했습니다. 저들 중 누군가는 분명 마담을 죽인 범인일 터인데.</p><p>다음 날 새벽, 목련다방의 금고가 털린 채 발견되었고 누군가는 영영 종적을 감췄습니다. <span class=\"character-bak\">박 반장</span>은 텅 빈 다방 소파에 홀로 앉아 식어버린 잔을 바라보았습니다. \"미안하네, 최 마담... 끝내 자네를 위한 진실조차 찾아주지 못했구먼.\"</p><p>밖에는 여전히 무거운 눈발이 날리고 있었고, 진실은 영원히 그 차가운 눈 속에 파묻혀버리고 말았습니다.</p></div>",
             "endingRules": [
                 {
                     "targetEndingId": "ending_bad",

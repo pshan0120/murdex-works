@@ -4,31 +4,38 @@
 자동 진행: false
 AP 제한: {"role_bak": 10}
 
-<div class="step-intro">
-  <div class="section-title"><h2>거짓과 진실의 교차 검증</h2></div>
+<div class="story-content">
+  <div class="section-title">거짓과 진실의 교차 검증</div>
+  
   <p>현장 곳곳에서 확보한 증거물들이 테이블 위에 놓였습니다. 이제 이 조각들을 용의자들의 증언과 맞춰볼 시간입니다.</p>
-  <p>이 군의 가방에서 나온 돈다발과 도박 빚, 김 사장이 품고 있던 수상한 계약서와 락스, 그리고 미스 양의 일기장에 적힌 분노의 기록들. 이 모든 것이 가리키는 방향은 어디입니까?</p>
-  <p>용의자들은 서로를 범인으로 지목하며 알리바이를 주장하고 있습니다. 하지만 그들의 증언 속에는 분명 <strong>모순</strong>이 존재합니다.</p>
+  
+  <div class="retro-box with-label" style="--box-label: '증거 목록'">
+    <span class="character-lee">이 군</span>의 가방에서 나온 돈다발과 도박 빚,<br>
+    <span class="character-kim">김 사장</span>이 품고 있던 수상한 계약서와 락스,<br>
+    그리고 <span class="character-yang">미스 양</span>의 일기장에 적힌 분노의 기록들.
+  </div>
+
+  <p>이 모든 것이 가리키는 방향은 어디입니까? 용의자들은 서로를 범인으로 지목하며 알리바이를 주장하고 있습니다. 하지만 그들의 증언 속에는 분명 <span class="emphasis">모순</span>이 존재합니다.</p>
+  
+  <div class="script-direction">박 반장은 타들어 가는 담배를 재떨이에 비벼 껐다.</div>
+
   <p>당신이 찾은 물증과 그들의 말을 대조하십시오. 누가 거짓말을 하고 있습니까? 누가 가장 큰 범행 동기를 가지고 있습니까? 그리고 누가 실제로 범행을 저지를 수 있었습니까?</p>
+  
   <p>지금 이 순간, 당신의 논리만이 진실을 가려낼 수 있습니다. 용의자들의 표정 변화 하나까지 놓치지 말고 날카롭게 파고드십시오.</p>
-  <br>
-  <hr style="border-color: #444; margin: 24px 0;">
+  
+  <hr>
 
   <div class="beginner-guide">
-    <h3>🔰 튜토리얼: 추리와 토론</h3>
+    <h3>튜토리얼: 추리와 토론</h3>
     <p>수집한 단서를 바탕으로 사건의 진상을 파악하는 단계입니다.</p>
     
     <ol style="margin-top: 12px; line-height: 1.8;">
       <li><strong>단서 조합 및 분석</strong>
-        <p>화면에 표시된 <strong>단서 목록</strong>을 다시 훑어보세요. 서로 모순되는 증언은 없는지, 알리바이가 빈약한 사람은 누구인지 체크해야 합니다.</p>
+        <p>확보한 단서들을 다시 훑어보세요. 하단 메뉴의 <span class="highlight">MY</span> > <span class="highlight">내 단서</span>에서 서로 모순되는 증언은 없는지, 알리바이가 빈약한 사람은 누구인지 체크해야 합니다.</p>
       </li>
       
-      <li><strong>정보 교환 (채팅/음성)</strong>
-        <p>멀티플레이 게임이라면 이 단계에서 치열한 <strong>토론</strong>이 벌어집니다. 자신이 찾은 단서를 공유하고, 다른 사람이 찾은 단서에 대해 물어보세요. (지금은 혼자이므로, 획득한 단서를 바탕으로 가상의 용의자들을 심문한다고 상상해 보세요.)</p>
-      </li>
-
       <li><strong>범인 결정 준비</strong>
-        <p>충분히 생각을 정리했다면, <strong>[NEXT]</strong>를 눌러 결론 단계로 넘어갑니다.</p>
+        <p>충분히 생각을 정리했다면, 하단 메뉴 바 우측의 <span class="highlight">Next</span> 버튼을 눌러 결론 단계로 넘어갑니다.</p>
       </li>
     </ol>
   </div>

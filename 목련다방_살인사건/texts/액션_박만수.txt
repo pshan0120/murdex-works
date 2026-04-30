@@ -1,9 +1,12 @@
 [[액션명: 정밀 조사: 남은 쌍화차]]
 유형: MODIFY_CLUE
 비용: 2
-설명: <p>쌍화차 잔에 <strong>남은 찻물</strong>에 코를 가까이 대고, 혹시 모를 이물질의 냄새가 나는지 확인합니다.</p>
-효과 텍스트: <p>찻물에서 풍기는 <strong>미세하지만 이질적인 냄새</strong>를 포착할 수 있습니다.</p>
-실행 결과: <p>당신은 찻잔을 들어 올려 코끝에 가져갑니다. 진한 쌍화차 향기 사이로, 코를 찌르는 듯한 <strong>비릿한 악취</strong>가 희미하게 섞여 있음을 감지합니다.</p>
+설명: <div class="story-content"><p>쌍화차 잔에 <span class="highlight">남은 찻물</span>에 코를 가까이 대고, 혹시 모를 이물질의 냄새가 나는지 확인합니다.</p></div>
+효과 텍스트: <div class="story-content"><p>찻물에서 풍기는 <span class="emphasis">미세하지만 이질적인 냄새</span>를 포착할 수 있습니다.</p></div>
+실행 결과: <div class="story-content">
+  <div class="script-direction"><span class="character-bak">박 반장</span>은 찻잔을 들어 올려 코끝에 가져갔다.</div>
+  <p>진한 쌍화차 향기 사이로, 코를 찌르는 듯한 <span class="emphasis">비릿한 악취</span>가 희미하게 섞여 있음을 감지합니다.</p>
+</div>
 시스템 효과: [
     {
         "effectType": "REPLACE",
@@ -17,9 +20,12 @@
 [[액션명: 정밀 조사: 낡은 가방]]
 유형: MODIFY_CLUE
 비용: 2
-설명: <p>이 군이 안절부절못하며 지키고 있는 <strong>낡은 가죽 가방</strong>의 내용물을 샅샅이 뒤집니다.</p>
-효과 텍스트: <p>가방 깊숙한 곳에 숨겨진 <strong>의외의 물건</strong>을 찾아낼 수 있습니다.</p>
-실행 결과: <p>"이... 이건 프라이버시 침해 아닙니까!" 이 군의 항변을 무시하고 가방을 거꾸로 탈탈 텁니다.</p>
+설명: <div class="story-content"><p><span class="character-lee">이 군</span>이 안절부절못하며 지키고 있는 <span class="highlight">낡은 가죽 가방</span>의 내용물을 샅샅이 뒤집니다.</p></div>
+효과 텍스트: <div class="story-content"><p>가방 깊숙한 곳에 숨겨진 <span class="emphasis">의외의 물건</span>을 찾아낼 수 있습니다.</p></div>
+실행 결과: <div class="story-content">
+  <div class="script-line"><span class="character-lee">이 군</span>: "이... 이건 프라이버시 침해 아닙니까!"</div>
+  <div class="script-direction"><span class="character-bak">박 반장</span>은 항변을 무시하고 가방을 거꾸로 탈탈 털었다.</div>
+</div>
 시스템 효과: [
     {
         "effectType": "REPLACE",
@@ -33,9 +39,12 @@
 [[액션명: 정밀 조사: 서류 봉투]]
 유형: MODIFY_CLUE
 비용: 2
-설명: <p>김 사장이 품에 안고 있는 <strong>누런 서류 봉투</strong>를 빼앗아 그 내용을 검토합니다.</p>
-효과 텍스트: <p>서류에 적힌 <strong>계약의 실체</strong>를 파악할 수 있습니다.</p>
-실행 결과: <p>"내놓으시오! 이건 내 재산이오!" 김 사장의 저항을 뿌리치고 서류를 꺼내 읽어 내려갑니다.</p>
+설명: <div class="story-content"><p><span class="character-kim">김 사장</span>이 품에 안고 있는 <span class="highlight">누런 서류 봉투</span>를 빼앗아 그 내용을 검토합니다.</p></div>
+효과 텍스트: <div class="story-content"><p>서류에 적힌 <span class="emphasis">계약의 실체</span>를 파악할 수 있습니다.</p></div>
+실행 결과: <div class="story-content">
+  <div class="script-line"><span class="character-kim">김 사장</span>: "내놓으시오! 이건 내 재산이오!"</div>
+  <div class="script-direction"><span class="character-bak">박 반장</span>은 저항을 뿌리치고 서류를 꺼내 읽어 내려갔다.</div>
+</div>
 시스템 효과: [
     {
         "effectType": "REPLACE",
@@ -49,9 +58,11 @@
 [[액션명: 정밀 조사: 종업원 숙소]]
 유형: MODIFY_CLUE
 비용: 2
-설명: <p>숙소 사물함에서 발견된 <strong>낡은 일기장</strong>을 압수하여 최근 기록을 읽어봅니다.</p>
-효과 텍스트: <p>미스 양이 감추고 있던 <strong>내면의 심리</strong>를 엿볼 수 있습니다.</p>
-실행 결과: <p>먼지 쌓인 일기장을 펼치자, 꾹꾹 눌러쓴 글씨들이 그녀의 억눌린 감정을 토해내듯 쏟아집니다.</p>
+설명: <div class="story-content"><p>숙소 사물함에서 발견된 <span class="highlight">낡은 일기장</span>을 압수하여 최근 기록을 읽어봅니다.</p></div>
+효과 텍스트: <div class="story-content"><p><span class="character-yang">미스 양</span>이 감추고 있던 <span class="emphasis">내면의 심리</span>를 엿볼 수 있습니다.</p></div>
+실행 결과: <div class="story-content">
+  <div class="script-direction">먼지 쌓인 일기장을 펼치자, 꾹꾹 눌러쓴 글씨들이 그녀의 억눌린 감정을 토해내듯 쏟아졌다.</div>
+</div>
 시스템 효과: [
     {
         "effectType": "REPLACE",
