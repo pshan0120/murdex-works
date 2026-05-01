@@ -56,7 +56,7 @@
 /* 본문 스타일 */
 .story-content p {
     margin-bottom: 0.8em;
-    text-align: justify;
+    text-align: left; /* 양쪽 정렬 해제하여 단어 간격 불균형 해소 */
 }
 
 /* 리스트 스타일 */
@@ -201,6 +201,162 @@
     padding-bottom: 1.0em;
     font-size: 0.9em;
     animation: fadeSlideDown 0.3s ease-out;
+}
+
+/* --- 작품 소개(Intro) 전용 프리미엄 스타일 --- */
+
+.intro-section {
+    padding: 1.5rem 0.5rem;
+    color: var(--fantasy-text);
+    font-family: "Pretendard Variable", sans-serif;
+}
+
+/* 시네마틱 타이틀 */
+.intro-title-cinematic {
+    font-family: "Cinzel", "Nanum Myeongjo", serif;
+    font-size: clamp(1.25rem, 5vw, 1.6rem); /* 반응형 폰트 크기 */
+    font-weight: 900;
+    color: var(--fantasy-gold);
+    text-align: center;
+    line-height: 1.4;
+    margin-bottom: 3rem;
+    text-shadow: 
+        0 0 10px rgba(212, 175, 55, 0.3),
+        2px 2px 4px rgba(0, 0, 0, 0.8),
+        0 0 20px rgba(212, 175, 55, 0.1);
+    position: relative;
+    padding-bottom: 1.8rem;
+    letter-spacing: 0.08em; /* 자간 확장으로 우아함 강조 */
+    word-break: keep-all;
+}
+
+.intro-title-cinematic::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--fantasy-gold), transparent);
+}
+
+/* 본문 문단 */
+.intro-paragraph {
+    font-size: 0.98rem; /* 미세하게 축소하여 가독성 확보 */
+    line-height: 1.85;
+    margin-bottom: 2rem;
+    text-align: left; /* 양쪽 정렬 해제 */
+    word-break: keep-all;
+    opacity: 0.92;
+    color: rgba(253, 245, 230, 0.95);
+    letter-spacing: -0.01em;
+}
+
+.intro-paragraph b, 
+.intro-paragraph strong {
+    color: var(--fantasy-gold);
+    font-weight: 700;
+}
+
+/* 핵심 특징 섹션 */
+.feature-section {
+    margin-top: 3.5rem;
+    border-top: 1px solid rgba(212, 175, 55, 0.2);
+    padding-top: 2rem;
+}
+
+.feature-header {
+    font-family: "Cinzel", serif;
+    font-size: 1.2rem;
+    color: var(--fantasy-gold);
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.feature-header::before {
+    content: "◈";
+    font-size: 0.8rem;
+}
+
+.feature-list-premium {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.feature-item {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.01));
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(212, 175, 55, 0.15);
+    border-left: 4px solid var(--fantasy-gold);
+    padding: 1.4rem;
+    border-radius: 8px;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.feature-item:hover {
+    background: rgba(212, 175, 55, 0.08);
+    transform: translateX(8px) scale(1.01);
+    border-color: rgba(212, 175, 55, 0.4);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.feature-item-title {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-weight: 800;
+    color: var(--fantasy-gold);
+    margin-bottom: 0.6rem;
+    font-size: 1.05rem;
+    letter-spacing: 0.05em;
+    text-shadow: 0 0 8px rgba(212, 175, 55, 0.2);
+}
+
+.feature-item-title::before {
+    content: "✦";
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+
+.feature-item-desc {
+    font-size: 0.92rem;
+    color: rgba(253, 245, 230, 0.85);
+    line-height: 1.6;
+}
+
+/* 모바일 최적화 미디어 쿼리 */
+@media (max-width: 640px) {
+    .intro-section {
+        padding: 1rem 0.25rem;
+    }
+    
+    .intro-title-cinematic {
+        letter-spacing: 0.05em;
+        padding-bottom: 1.4rem;
+        margin-bottom: 2.2rem;
+    }
+    
+    .intro-paragraph {
+        font-size: 0.94rem;
+        line-height: 1.75;
+        margin-bottom: 1.6rem;
+    }
+    
+    .feature-section {
+        margin-top: 2.5rem;
+        padding-top: 1.5rem;
+    }
+    
+    .feature-item {
+        padding: 1.1rem;
+    }
 }
 
 @keyframes fadeSlideDown {
