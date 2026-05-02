@@ -46,7 +46,8 @@
 /* 본문 스타일 */
 .story-content p {
     margin-bottom: 0.8em;
-    text-align: left; /* 단어 간격 불균형 해소를 위해 왼쪽 정렬로 변경 */
+    text-align: left;
+    /* 단어 간격 불균형 해소를 위해 왼쪽 정렬로 변경 */
 }
 
 /* 리스트 스타일 */
@@ -793,18 +794,18 @@
         padding-bottom: 1rem;
         white-space: normal;
     }
-    
+
     .campus-paragraph {
         font-size: 0.85rem;
         line-height: 1.6;
     }
-    
+
     .campus-quote-box {
         padding: 1.2rem;
         font-size: 0.95rem;
     }
-    
+
     .campus-feature-item {
         padding: 1.2rem;
     }
-}
+}
