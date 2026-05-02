@@ -56,7 +56,8 @@
 /* 본문 스타일 */
 .story-content p {
     margin-bottom: 0.8em;
-    text-align: left; /* 양쪽 정렬 해제하여 단어 간격 불균형 해소 */
+    text-align: left;
+    /* 양쪽 정렬 해제하여 단어 간격 불균형 해소 */
 }
 
 /* 리스트 스타일 */
@@ -214,19 +215,21 @@
 /* 시네마틱 타이틀 */
 .intro-title-cinematic {
     font-family: "Cinzel", "Nanum Myeongjo", serif;
-    font-size: clamp(1.25rem, 5vw, 1.6rem); /* 반응형 폰트 크기 */
+    font-size: clamp(1.25rem, 5vw, 1.6rem);
+    /* 반응형 폰트 크기 */
     font-weight: 900;
     color: var(--fantasy-gold);
     text-align: center;
     line-height: 1.4;
     margin-bottom: 3rem;
-    text-shadow: 
+    text-shadow:
         0 0 10px rgba(212, 175, 55, 0.3),
         2px 2px 4px rgba(0, 0, 0, 0.8),
         0 0 20px rgba(212, 175, 55, 0.1);
     position: relative;
     padding-bottom: 1.8rem;
-    letter-spacing: 0.08em; /* 자간 확장으로 우아함 강조 */
+    letter-spacing: 0.08em;
+    /* 자간 확장으로 우아함 강조 */
     word-break: keep-all;
 }
 
@@ -243,17 +246,19 @@
 
 /* 본문 문단 */
 .intro-paragraph {
-    font-size: 0.98rem; /* 미세하게 축소하여 가독성 확보 */
+    font-size: 0.98rem;
+    /* 미세하게 축소하여 가독성 확보 */
     line-height: 1.85;
     margin-bottom: 2rem;
-    text-align: left; /* 양쪽 정렬 해제 */
+    text-align: left;
+    /* 양쪽 정렬 해제 */
     word-break: keep-all;
     opacity: 0.92;
     color: rgba(253, 245, 230, 0.95);
     letter-spacing: -0.01em;
 }
 
-.intro-paragraph b, 
+.intro-paragraph b,
 .intro-paragraph strong {
     color: var(--fantasy-gold);
     font-weight: 700;
@@ -336,24 +341,24 @@
     .intro-section {
         padding: 1rem 0.25rem;
     }
-    
+
     .intro-title-cinematic {
         letter-spacing: 0.05em;
         padding-bottom: 1.4rem;
         margin-bottom: 2.2rem;
     }
-    
+
     .intro-paragraph {
         font-size: 0.94rem;
         line-height: 1.75;
         margin-bottom: 1.6rem;
     }
-    
+
     .feature-section {
         margin-top: 2.5rem;
         padding-top: 1.5rem;
     }
-    
+
     .feature-item {
         padding: 1.1rem;
     }
@@ -780,4 +785,27 @@
     border-radius: 8px;
     font-size: 0.92rem;
     animation: fadeSlideDown 0.3s ease-out;
+}
+
+/* AI 생성 고지 스타일 */
+.ai-notice {
+    margin-top: 3rem;
+    font-size: 0.75rem;
+    opacity: 0.4;
+    text-align: center;
+    letter-spacing: 0.05em;
+    display: block;
+    color: var(--fantasy-text);
+}
+
+/* 아웃로(Outro) 스타일 */
+.intro-outro {
+    margin-top: 4rem;
+    font-family: "Nanum Myeongjo", serif;
+    font-style: italic;
+    opacity: 0.8;
+    text-align: center;
+    line-height: 1.8;
+    word-break: keep-all;
+    color: var(--fantasy-text);
 }
