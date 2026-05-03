@@ -1,0 +1,226 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Orbitron:wght@400;700;900&family=JetBrains+Mono:wght@400;700&display=swap");
+
+/* 
+ * 도플로이드 (Doploid) - 커스텀 테마 CSS
+ * 인류 재부팅 프로토콜 / SF 미스터리 테마
+ */
+
+/* 기본 폰트 및 컬러 설정 */
+.story-content {
+    font-size: 0.875rem;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    color: #d1d1d1;
+    line-height: 1.8;
+    letter-spacing: -0.01em;
+    background-color: #05070a;
+}
+
+/* 제목 스타일 (SF적인 느낌을 위해 Orbitron 폰트 혼용 제안) */
+.story-content .section-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.25em;
+    font-weight: 900;
+    color: #a8c0ff;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid rgba(168, 192, 255, 0.3);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px rgba(168, 192, 255, 0.4);
+}
+
+/* 소제목 스타일 */
+.story-content .subsection-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.05em;
+    font-weight: 700;
+    color: #ff4d4d; /* 붉은색 경고 느낌 */
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.story-content .subsection-title::before {
+    content: ">>";
+    font-size: 0.8em;
+    opacity: 0.7;
+}
+
+/* 본문 스타일 */
+.story-content p {
+    margin-bottom: 1em;
+    text-align: justify;
+    word-break: keep-all;
+}
+
+/* 강조 스타일 */
+.story-content .highlight {
+    color: #a8c0ff;
+    font-weight: 700;
+    text-shadow: 0 0 5px rgba(168, 192, 255, 0.3);
+}
+
+.story-content .emphasis {
+    color: #ff4d4d;
+    font-weight: 600;
+}
+
+/* 인용구 및 시스템 메세지 박스 */
+.story-content .system-msg {
+    display: block;
+    margin: 1.5em 0;
+    padding: 1.25em;
+    background: rgba(168, 192, 255, 0.05);
+    border: 1px solid rgba(168, 192, 255, 0.2);
+    border-left: 4px solid #a8c0ff;
+    border-radius: 2px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.9em;
+    color: #a8c0ff;
+}
+
+/* 작품 소개(Intro) 프리미엄 스타일 */
+.intro-section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.intro-title-cinematic {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: clamp(1.2rem, 5vw, 2rem);
+    font-weight: 800;
+    color: #ffffff;
+    text-align: center;
+    line-height: 1.6;
+    margin-bottom: 4rem;
+    position: relative;
+    padding-bottom: 2rem;
+    word-break: keep-all;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.intro-title-cinematic::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #a8c0ff, transparent);
+}
+
+.intro-paragraph {
+    font-size: 1rem;
+    line-height: 2;
+    margin-bottom: 2rem;
+    opacity: 0.85;
+    color: #e0e0e0;
+}
+
+/* 핵심 특징 섹션 */
+.feature-section {
+    margin-top: 5rem;
+    padding: 2.5rem;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(168, 192, 255, 0.1);
+    border-radius: 4px;
+}
+
+.feature-header {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #a8c0ff;
+    margin-bottom: 2rem;
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+
+.feature-list-premium {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 2rem;
+}
+
+.feature-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.feature-item-title {
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 1.05rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.feature-item-title::before {
+    content: "■";
+    font-size: 0.6em;
+    color: #a8c0ff;
+}
+
+.feature-item-desc {
+    font-size: 0.9rem;
+    color: #a0a0a0;
+    padding-left: 1.2rem;
+}
+
+/* 하단 아웃트로 및 강조 */
+.intro-outro {
+    margin-top: 5rem;
+    text-align: center;
+    font-family: "Nanum Myeongjo", serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #d1d1d1;
+}
+
+.intro-outro .highlight {
+    display: block;
+    margin-top: 1rem;
+    color: #ff4d4d;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+/* AI 생성 고지 */
+.ai-notice {
+    margin-top: 4rem;
+    font-size: 0.7rem;
+    opacity: 0.3;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+
+/* 디지털 노이즈/글리치 효과 (애니메이션 생략, 정적 스타일) */
+.glitch-text {
+    position: relative;
+    display: inline-block;
+}
+
+/* 모바일 대응 */
+@media (max-width: 640px) {
+    .intro-title-cinematic {
+        font-size: 1.1rem;
+    }
+    .intro-paragraph {
+        font-size: 0.9rem;
+    }
+    .feature-section {
+        padding: 1.5rem;
+    }
+}
