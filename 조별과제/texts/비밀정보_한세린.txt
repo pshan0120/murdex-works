@@ -115,6 +115,10 @@
 <!-- 2) 목표 -->
 <!-- ============================================ -->
 <div class="story-content">
+  <div class="role-notice innocent">
+    <div class="role-label">[ 본인 확인 ]</div>
+    <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+  </div>
   <ul class="goal-list">
     <li>
       <strong>사건의 진범 찾기</strong>: 나를 향한 모든 억측을 잘라내고 상황의 주도권을 쥐려면, 이 난장판을 벌인 진짜 범인을 어떻게든 찾아내야 한다.
@@ -124,9 +128,6 @@
     </li>
     <li>
       <strong>이준서의 졸업 늦추기</strong>: 고백을 거절당한 순간 분명해졌다. 사랑이든 집착이든, 지금 내게 남은 방법은 그가 다음 학기에도 학교에 남도록 만드는 것뿐이다. 이준서가 이번 과제 실패로 재수강을 하게 만들고 싶다.
-    </li>
-    <li>
-      <strong>피해자 포지션 차지하기</strong>: 과제가 실패하더라도 나는 가해자가 아닌 피해자로 남아야 한다. 사람들의 동정과 보호를 받아야만 혼자 고립되는 상황을 피할 수 있다.
     </li>
   </ul>
 </div>

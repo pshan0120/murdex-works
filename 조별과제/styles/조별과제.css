@@ -190,6 +190,54 @@
     }
 }
 
+/* --- 역할 고지 안내 박스 (비밀 정보용) --- */
+.story-content .role-notice {
+    background: rgba(255, 107, 107, 0.1);
+    border: 2px solid rgba(255, 107, 107, 0.3);
+    padding: 1.2rem;
+    margin: 1.5rem 0 2rem 0;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.story-content .role-notice .role-label {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 0.85em;
+    color: #ff6b6b;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.story-content .role-notice .role-text {
+    font-size: 1.15em;
+    font-weight: 700;
+    margin: 0;
+}
+
+.story-content .role-notice .role-text .is-culprit {
+    color: #ff6b6b;
+    font-size: 1.2em;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* 비범인(일반인) 스타일 추가 */
+.story-content .role-notice.innocent {
+    background: rgba(168, 230, 207, 0.1);
+    border: 2px solid rgba(168, 230, 207, 0.3);
+}
+
+.story-content .role-notice.innocent .role-label {
+    color: #a8e6cf;
+}
+
+.story-content .role-notice .role-text .is-innocent {
+    color: #a8e6cf;
+    font-size: 1.2em;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
 /* 추가적인 커스텀 클래스들 */
 .story-content .mystery {
     color: #a8e6cf;
