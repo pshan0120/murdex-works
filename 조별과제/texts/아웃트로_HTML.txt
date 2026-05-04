@@ -1,7 +1,54 @@
 <div class="story-content">
   <h1 class="text-center">조별과제 - EPILOGUE</h1>
   <div class="divider-gold"></div>
-  <div class="section-title">1. 비밀의 무게</div>
+
+  <div class="section-title">1. 사건의 진상</div>
+  <div class="result-box">
+    <p><strong>범인:</strong> <span class="character-lee">이준서</span></p>
+    <p><strong>사건 개요:</strong> 과거 연인이었던 <span class="highlight">전지혜</span>를 자퇴로 몰아넣은 루머 유포자인 <span class="character-han">한세린</span>에 대한 계획적인 복수극입니다. <span class="character-lee">이준서</span>는 비품 창고의 사다리를 이용해 강의실 창문으로 침입하여, 공용 PC에 저장된 발표 자료의 2페이지부터 마지막까지의 발표자 노트를 고의로 삭제했습니다.</p>
+  </div>
+
+  <div class="section-title">2. 사건 당일 타임라인</div>
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 15%;">시간</th>
+        <th>주요 사건 및 캐릭터별 행적</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>17:40</td>
+        <td>최종 점검 종료 및 조원 퇴장. <span class="character-lee">이준서</span>는 며칠 전 미리 준비해둔 사다리 이동 경로로 향함. <span class="character-hwang">황기순</span>은 <span class="character-han">한세린</span>을 미행하기 시작함.</td>
+      </tr>
+      <tr>
+        <td>18:00</td>
+        <td><span class="character-lee">이준서</span>, 사다리로 강의실 침입 후 발표자 노트 삭제. <span class="character-choi">최도윤</span>은 복도에서 AI 탐지 도입 소식을 듣고 패닉에 빠짐.</td>
+      </tr>
+      <tr>
+        <td>18:15</td>
+        <td><span class="character-lee">이준서</span>와 <span class="character-han">한세린</span>, 휴게실에서 대면. <span class="character-han">세린</span>이 고백하지만 <span class="character-lee">준서</span>가 거절함. <span class="character-hwang">황기순</span>은 휴게실 밖으로 나온 <span class="emphasis">장필순</span>을 따라가 두 사람의 관계를 캐냄.</td>
+      </tr>
+      <tr>
+        <td>18:25</td>
+        <td><span class="character-hwang">황기순</span>, 강의실 뒷문으로 잠입하여 파일 삭제 사실 발견. <span class="character-choi">최도윤</span>은 과제 삭제를 시도하려다 휴게실로 몸을 숨김.</td>
+      </tr>
+      <tr>
+        <td>18:40</td>
+        <td><span class="character-hwang">황기순</span>, <span class="character-han">한세린</span>에게 고백하려 했으나 거절당함. <span class="character-han">세린</span>이 즉시 강의실을 나가자 <span class="character-hwang">기순</span>이 쫓아갔으나 다시 면박을 당함. 수치심을 느낀 <span class="character-hwang">기순</span>은 진실을 덮기로 결심함.</td>
+      </tr>
+      <tr>
+        <td>18:50</td>
+        <td><span class="character-han">한세린</span>, 장갑을 찾으러 강의실에 돌아왔다가 삭제된 파일을 발견하고 조원들에게 단톡방으로 알림.</td>
+      </tr>
+      <tr>
+        <td>19:20</td>
+        <td>모든 조원이 강의실에 집결하여 사건 인지.</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="divider"></div>
+  <div class="section-title">3. 사건 해설</div>
   <div class="subsection-title">[2019년: 보이지 않는 실의 시작]</div>
   <p>
     2019년의 캠퍼스는 평화로웠습니다. 정보통계학과 19학번 <span class="character-lee">이준서</span>와 <span class="highlight">전지혜</span>의 만남은 어쩌면 필연이었습니다. 신입생 OT에서 처음 옆자리에 앉았던 두 사람은, 요란한 동기들의 술자리보다는 조용한 도서관 뒤편의 커피 향을 더 좋아했습니다. 학과의 보수적인 분위기 탓에 시작된 '비밀 연애'는 오히려 두 사람의 유대를 더 단단하게 만들었습니다. 빈 강의실의 불을 끄고 창밖의 가로등 불빛에 의지해 대화를 나누던 시간들, <span class="character-lee">이준서</span>가 <span class="highlight">전지혜</span>에게만 들려주던 자신의 어린 시절 꿈과 소소한 버릇들. 그것은 두 사람만의 우주이자 가장 순수했던 비밀이었습니다.
@@ -37,11 +84,9 @@
   <p>
     단 한 번의 조별과제 발표를 앞두고, 4년간 쌓여온 오해와 비밀의 도미노가 마지막 한 조각만을 남겨두게 되었습니다.
   </p>
-  <div class="divider"></div>
-  <div class="section-title">2. 그날의 진실</div>
   <div class="subsection-title">[17:40] 퇴장과 잠입</div>
   <p>
-    최종 점검이 끝나자 조원들은 흩어졌습니다. <span class="character-lee">이준서</span>는 조장으로서 마지막으로 강의실 문을 닫았지만, 그의 손에는 이과대학 비품 창고의 낡은 열쇠가 쥐어져 있었습니다. <span class="character-hwang">황기순</span>은 귀가하는 척하며 몰래 <span class="character-han">한세린</span>의 뒤를 밟았고, <span class="character-choi">최도윤</span>은 과제 제출 후 닥쳐올 파멸을 예감하며 복도를 서성였습니다.
+    최종 점검이 끝나자 조원들은 흩어졌습니다. <span class="character-lee">이준서</span>는 조장으로서 마지막으로 강의실 문을 닫고 귀가하는 척했으나, 곧바로 미리 사다리를 옮겨둔 건물 뒤편으로 향했습니다. 이는 며칠 전부터 치밀하게 준비된 계획이었습니다. <span class="character-hwang">황기순</span>은 귀가하는 척하며 몰래 <span class="character-han">한세린</span>의 뒤를 밟았고, <span class="character-choi">최도윤</span>은 과제 제출 후 닥쳐올 파멸을 예감하며 복도를 서성였습니다.
   </p>
   <div class="subsection-title">[18:00] 무너진 방벽</div>
   <p>
@@ -49,15 +94,15 @@
   </p>
   <div class="subsection-title">[18:15] 엇갈린 진심</div>
   <p>
-    교실 침입을 마친 <span class="character-lee">이준서</span>는 밖으로 빠져나오다 <span class="character-han">한세린</span>의 연락을 받았습니다. <span class="highlight">&lt;컴공과 학생휴게실&gt;</span>에서 만난 <span class="character-han">세린</span>은 그에게 서툰 고백을 전했습니다. 하지만 <span class="highlight">지혜</span>의 그림자에 갇힌 <span class="character-lee">준서</span>는 그녀를 매정하게 밀어냈습니다. "지금은 연애할 때가 아니야." <span class="character-han">한세린</span>은 거절당한 스트레스에 떨리는 손으로 팔 안쪽에 <span class="mystery">&lt;니코틴 패치&gt;</span>를 붙이며 무너졌습니다. 그런 그녀의 속도 모른 채, <span class="character-hwang">황기순</span>은 휴게실 밖에서 그녀가 나오기만을 묵묵히 기다리고 있었습니다.
+    교실 침입을 마친 <span class="character-lee">이준서</span>는 밖으로 빠져나오다 <span class="character-han">한세린</span>의 연락을 받았습니다. <span class="highlight">&lt;컴공과 학생휴게실&gt;</span>에서 만난 <span class="character-han">세린</span>은 그에게 서툰 고백을 전했습니다. 하지만 <span class="highlight">지혜</span>의 그림자에 갇힌 <span class="character-lee">준서</span>는 그녀를 매정하게 밀어냈습니다. "지금은 연애할 때가 아니야." <span class="character-han">한세린</span>은 거절당한 스트레스에 떨리는 손으로 팔 안쪽에 <span class="mystery">&lt;니코틴 패치&gt;</span>를 붙이며 무너졌습니다. <span class="character-hwang">황기순</span>은 휴게실로 들어가는 준서를 보았고, 잠시 후 밖으로 나온 장필순을 따라가 두 사람의 관계를 캐묻고 있었습니다.
   </p>
   <div class="subsection-title">[18:25] 비열한 발견</div>
   <p>
     <span class="character-choi">최도윤</span>은 과제를 삭제하기 위해 강의실로 달려갔으나, 안에서 들리는 인기척에 놀라 휴게실로 숨어들었습니다. 그 직후, <span class="character-hwang">황기순</span>은 미리 <span class="mystery">&lt;잠금장치를 풀어두었던 뒷문&gt;</span>으로 들어왔습니다. PPT 속에 숨긴 자신의 '고백 메시지'를 지우려던 그는, 이미 누군가 발표자 노트를 삭제했다는 사실을 발견했습니다. <span class="character-hwang">기순</span>은 경악했지만, 이내 비열한 미소를 지었습니다. <span class="highlight">&lt;백업 파일&gt;</span>이라는 조커 카드가 그에게 쥐어진 순간이었습니다.
   </p>
-  <div class="subsection-title">[18:40] 비겁한 거래</div>
+  <div class="subsection-title">[18:40] 비겁한 보복</div>
   <p>
-    <span class="character-hwang">황기순</span>은 <span class="character-han">한세린</span>을 강의실로 불러냈습니다. "중요한 할 말이 있어." 그는 백업 파일을 미끼로 그녀의 환심을 살 생각이었습니다. 하지만 이미 이준서에게 거절당해 자존심이 상할 대로 상한 <span class="character-han">세린</span>은, <span class="character-hwang">기순</span>이 본론을 꺼내기도 전에 매몰차게 그를 뿌리치고 나갔습니다. 이야기를 꺼내 볼 기회조차 얻지 못한 채 면박을 당한 <span class="character-hwang">기순</span>은 수치심과 분노 속에 "그럼 어디 한번 제대로 망해보라"며 진실을 덮기로 결심했습니다. <span class="character-han">세린</span>은 이 과정에서 자신의 <span class="mystery">&lt;장갑&gt;</span> 한 짝을 의자 밑에 떨어뜨렸습니다.
+    <span class="character-hwang">황기순</span>은 <span class="character-han">한세린</span>을 강의실로 불러냈습니다. "세린아, 할 말이 있어." 그는 오랫동안 품어온 연심을 그녀에게 고백하려 했습니다. 하지만 이미 이준서에게 거절당해 자존심이 상할 대로 상한 <span class="character-han">세린</span>은, <span class="character-hwang">기순</span>이 본론을 꺼내기도 전에 매몰차게 그를 뿌리치고 강의실을 나갔습니다. <span class="character-hwang">기순</span>은 복도까지 그녀를 쫓아갔으나 다시 한번 차가운 면박을 당했고, 수치심과 분노 속에 강의실에서 발견했던 '삭제된 파일'에 대한 진실을 덮기로 결심했습니다.
   </p>
   <div class="subsection-title">[18:50] 마지막 수싸움</div>
   <p>
@@ -74,7 +119,7 @@
     함박눈이 모든 흔적을 덮어버리려는 듯 고요하게 쌓여가던 그 밤. 네 명의 용의자는 각자의 거짓말을 겉옷처럼 껴입은 채, 사건의 중심부로 걸어 들어갔습니다.
   </p>
   <div class="divider"></div>
-  <div class="section-title">3. 단서 해설</div>
+  <div class="section-title">4. 단서 해설</div>
   <p>게임 내 등장하는 모든 단서들의 숨겨진 의미와 해설입니다.</p>
   <div class="subsection-title">[1] 결정적 증거 (스모킹 건: 범인 <span class="character-lee">이준서</span>)</div>
   <p>이준서가 문이 아닌 비정상적인 경로(창문)로 침입했음을 증명하는 핵심 단서들입니다.</p>
@@ -134,7 +179,7 @@
     <li><strong>원스탑 서비스센터#1 / #2 / #3 / #4 (성적 기록)</strong>: <span class="character-lee">이준서</span>(우등생), <span class="character-han">한세린</span>(재수강 위기), <span class="character-choi">최도윤</span>(AI 사용 후 성적 급상승), <span class="character-hwang">황기순</span>(꾸준함)의 성적표는 각자의 처지와 비밀을 대변합니다.</li>
   </ul>
   <div class="divider"></div>
-  <div class="section-title">4. 각 역할의 액션에 대하여</div>
+  <div class="section-title">5. 각 역할의 액션에 대하여</div>
   <p>게임을 플레이하며 여러분이 실행했던 '액션'들은 단순한 버튼 클릭 이상의 의미와 서사를 담고 있었습니다. 각자의 비밀을 지키기 위해 처절했던 그 순간들을 되짚어봅니다.</p>
   <div class="subsection-title"><span class="character-lee">이준서</span>: 증거 인멸 (사다리)</div>
   <p>
@@ -180,7 +225,7 @@
     <span class="mystery"><strong>작가 코멘트:</strong> '삭제'는 <span class="character-choi">도윤</span>에게 있어 유일한 생존 방법이었습니다. 하지만 디지털 기록은 지웠어도 그의 내면에 남은 초조함까지 지우진 못했겠죠.</span>
   </p>
   <div class="divider"></div>
-  <div class="section-title">5. 작가의 말</div>
+  <div class="section-title">6. 작가의 말</div>
   <p>
     안녕하세요, '조별과제' 작품을 집필한 <span class="highlight">머매드 작가</span>입니다.
   </p>
