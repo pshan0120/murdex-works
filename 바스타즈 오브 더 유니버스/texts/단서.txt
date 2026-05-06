@@ -287,7 +287,7 @@ HTML :
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      기록을 시작한 지 30년... <span class="emphasis">마신과의 전쟁</span> 이후 폐하에게선 예의 그 성스러운 기운이 조금씩 자취를 감추기 시작했다. 백성들을 사랑하시던 자비로운 미소는 메말라갔고, 대신 원인을 알 수 없는 적막함과 낯선 냉기가 그 자리를 채웠다. 무엇이 그 고결했던 <span class="highlight">인간성과 온기</span>를 이토록 낯설게 바꾸어 버린 것일까? 마신의 어둠을 마주했던 그날 이후, 폐하의 마음속 가장 소중한 <span class="emphasis">무언가가 영원히 빛을 잃어버린 것만 같아</span> 두려움이 앞선다.
+      기록을 시작한 지 30년... <span class="emphasis">마신과의 전쟁</span> 이후 폐하에게선 예의 그 성스러운 기운이 조금씩 자취를 감추기 시작했다. 백성들을 사랑하시던 자비로운 미소는 메말라갔고, 대신 원인을 알 수 없는 적막함과 낯선 냉기가 그 자리를 채웠다. 무엇이 그 고결했던 인간성과 온기를 이토록 낯설게 바꾸어 버린 것일까? 마신의 어둠을 마주했던 그날 이후, 폐하의 마음속 가장 소중한 무언가가 영원히 빛을 잃어버린 것만 같아 두려움이 앞선다.
     </div>
   </div>
 </div>
@@ -662,10 +662,10 @@ HTML :
 관련 : 슬리더
 의도 : 마구 흐트러진 문서들. 슬리더가 무언가 급하게 찾고 있었다는 증거.
 내용 :
-본래 철저하게 정리되어 있어야 할 국왕 직속 문서고의 풍경과는 달리, 수많은 문서와 보관 상자들이 바닥에 어지럽게 흩어져 있다.
+본래 철저하게 정리되어 있어야 할 문서고는, 예상과 달리 수많은 문서와 서적들이 선반과 바닥에 어지럽게 흩어져 있다.
 HTML :
 <div class="story-content">
-  <div>본래 철저하게 정리되어 있어야 할 <span class="emphasis">국왕 직속 문서고</span>의 풍경과는 달리, 수많은 문서와 <span class="emphasis">보관 상자들이 바닥에 어지럽게 흩어져 있다.</span></div>
+  <div>본래 철저하게 정리되어 있어야 할 문서고는, 예상과 달리 수많은 문서와 서적들이 선반과 바닥에 어지럽게 흩어져 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of hundreds of loose parchment papers and scrolls scattered on a dark stone floor. The lighting is low and dramatic. Shallow depth of field, background is indistinct. No people. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 06_문서고
@@ -721,14 +721,14 @@ HTML :
 의도 : 고어후프와 슬리더의 복수심의 근원이자, 류크가 솔라이트에 의구심을 품게 된 계기. 발트라가 솔라이트의 살인병기로 키워진 계기.
 내용 :
 <국왕 령 제202호: 대정화 작전 사후 보고서>
-우주의 신성한 질서를 유지하기 위해 단행된 빛의 성전(작전명: 대정화)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, 기사 류크는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 일부 생존 세력이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 완전 정복을 선언함.
+우주의 신성한 질서를 유지하기 위해 단행된 빛의 성전(작전명: 대정화)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, 기사 류크는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 일부 생존자들이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 완전 정복을 선언함.
 HTML :
 <div class="story-content">
   <div class="document-page">
     <h4>&lt;국왕 령 제202호: 대정화 작전 사후 보고서&gt;</h4>
     <div class="divider-gold"></div>
     <div class="document-body small">
-      <div>우주의 신성한 질서를 유지하기 위해 단행된 <span class="emphasis">빛의 성전</span>(작전명: <span class="emphasis">대정화</span>)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, <span class="character-solite">기사 류크</span>는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 일부 생존 세력이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 <span class="highlight">완전 정복</span>을 선언함.</div>
+      <div>우주의 신성한 질서를 유지하기 위해 단행된 <span class="emphasis">빛의 성전</span>(작전명: <span class="emphasis">대정화</span>)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, <span class="character-solite">기사 류크</span>는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 <span class="emphasis">일부 생존자들</span>이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 완전 정복을 선언함.</div>
     </div>
   </div>
 </div>
@@ -786,26 +786,26 @@ HTML :
 관련 : 발트라
 의도 : 과거 발트라의 행적 정보 제공.
 내용 :
-<화이트클로 기밀 인사 기록보관소>
+<화이트클로 기록>
 ■ 임무: 26호 '바스타즈' 수뇌부 잠입 및 작전 기밀 탈취
 ■ 기록 이력:
 - [20년 전] 변방 행성 정화 작전 종료 후 잔존 인원 중 최적격체 강제 차출. 인간 병기 육성 교육 이수.
 - [10년 전] 반역자 연합 '바스타즈' 결성 포착. 핵심 요원 26호 잠입 성공.
 - [6년 전] 바스타즈 수뇌부의 전술 배치 및 후방 보급로 기밀 총 47건 탈취 보고. 본대 승기 확보에 결정적 기여.
 - [5년 전] 전략적 우위가 확고해짐에 따라 보안 유지를 위한 26호 폐기 지시 하달. 가짜 접선지로 유인 후 매복 친위대 투입.
-- [5년 전] 제거 작전 실패 및 26호 실종 보고. 이후 해당 요원을 '반역자' 명단으로 재분류하고 즉시 처단 대상으로 지정함.
+- [5년 전] 제거 작전 실패 및 26호 실종 보고. 이후 해당 요원을 '반역자' 명단으로 재분류하고 즉결처분 대상으로 지정함.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>&lt;화이트클로 기밀 인사 기록보관소&gt;</h4>
+    <h4>&lt;화이트클로 기록&gt;</h4>
     <div class="document-body small">
-      <div>■ 임무: 26호 &apos;바스타즈&apos; 수뇌부 잠입 및 작전 기밀 탈취</div>
+      <div>■ 임무: <span class="emphasis">26호</span> <span class="highlight">바스타즈</span> 수뇌부 잠입 및 작전 기밀 탈취</div>
       <div>■ 기록 이력:</div>
-      <div>- [20년 전] 변방 행성 정화 작전 종료 후 잔존 인원 중 최적격체 강제 차출. <span class="emphasis">인간 병기</span> 육성 교육 이수.</div>
-      <div>- [10년 전] 반역자 연합 &apos;바스타즈&apos; 결성 포착. 핵심 요원 26호 잠입 성공.</div>
-      <div>- [6년 전] 바스타즈 수뇌부의 전술 배치 및 후방 보급로 기밀 총 <span class="highlight">47건 탈취 보고</span>. 본대 승기 <span class="emphasis">확보에</span> 결정적 기여.</div>
+      <div>- [20년 전] 변방 행성 정화 작전 종료 후 잔존 인원 중 최적격체 강제 차출. 인간 병기 육성 교육 이수.</div>
+      <div>- [10년 전] 반역자 연합 <span class="highlight">바스타즈</span> 결성 포착. 핵심 요원 <span class="emphasis">26호</span> 잠입 성공.</div>
+      <div>- [6년 전] <span class="highlight">바스타즈</span> 수뇌부의 <span class="emphasis">전술 배치 및 후방 보급로</span> 기밀 총 47건 탈취 보고. 본대 승기 확보에 결정적 기여.</div>
       <div>- [5년 전] 전략적 우위가 확고해짐에 따라 보안 유지를 위한 <span class="emphasis">26호 폐기 지시</span> 하달. 가짜 접선지로 유인 후 매복 친위대 투입.</div>
-      <div>- [5년 전] 제거 작전 실패 및 26호 실종 보고. 이후 해당 요원을 <span class="highlight">&apos;반역자&apos; 명단으로 재분류</span>하고 즉시 처단 대상으로 지정함.</div>
+      <div>- [5년 전] 제거 작전 실패 및 <span class="emphasis">26호</span> 실종 보고. 이후 해당 요원을 <span class="emphasis">반역자</span> 명단으로 재분류하고 즉결처분 대상으로 지정함.</div>
     </div>
   </div>
 </div>
@@ -917,15 +917,15 @@ HTML :
 관련 : 고어후프
 의도 : 실제로는 질책 때문에 스트레스를 받은 게 아니라 엘드리치의 쪽지를 읽고 스트레스를 받았음.
 내용 :
-연회장 구석에서 몸을 숨기고 있던 시녀의 증언이다. &quot;스컬크러셔 님께 호되게 질책을 듣고 돌아온 고어후프 님은 평소처럼 화를 내는 대신, 오히려 죽은 듯이 고요히 자리에 앉으셨어요. 그러더니 테이블 위에 놓인 작은 종이 조각을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 눈빛이 마치 굶주린 맹수처럼 붉게 번뜩이기 시작했습니다. 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 황급히 식당 쪽으로 달려가셨습니다.&quot;
+연회장 구석에 있던 시녀의 증언이다. &quot;스컬크러셔 님께 호되게 질책을 듣고 돌아온 고어후프 님은 평소처럼 화를 내는 대신, 잠자코 자리에 앉으셨어요. 그러더니 테이블 위에 놓인 작은 종이 조각을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 눈빛이 마치 굶주린 맹수처럼 붉게 번뜩이기 시작했습니다. 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 황급히 식당 쪽으로 달려가셨습니다.&quot;
 HTML :
 <div class="story-content">
   <div class="script-direction">
-    연회장 구석에서 몸을 숨기고 있던 시녀의 증언이다.
+    연회장 구석에 있던 시녀의 증언이다.
   </div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>스컬크러셔 님께 호되게 질책을 듣고 돌아온 <span class="character-gorehoof">고어후프</span> 님은 평소처럼 화를 내는 대신, 오히려 죽은 듯이 <span class="emphasis">고요히 자리에 앉으셨어요.</span> 그러더니 테이블 위에 놓인 <span class="highlight">작은 종이 조각</span>을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 <span class="emphasis">눈빛이 마치 굶주린 맹수처럼 붉게 번뜩이기</span> 시작했습니다. 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 <span class="highlight">황급히 식당 쪽으로</span> 달려가셨습니다.</div>
+    <div>스컬크러셔 님께 호되게 질책을 듣고 돌아온 <span class="character-gorehoof">고어후프</span> 님은 평소처럼 화를 내는 대신, 잠자코 자리에 앉으셨어요. 그러더니 테이블 위에 놓인 <span class="emphasis">작은 종이 조각</span>을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 눈빛이 마치 굶주린 맹수처럼 <span class="emphasis">붉게 번뜩이기</span> 시작했습니다. 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 <span class="emphasis">황급히 식당 쪽으로</span> 달려가셨습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A medium shot (upper body) of a frightened royal maid huddled in a dark, shadowy corner of a massive medieval banquet hall. Her face is mostly obscured by deep shadows and turned slightly away as if nervously testifying. She wears simple, rough linen servant clothing. Shallow depth of field, the background faintly implies a grand, dimly lit feast hall with blurred stone pillars and warm flickering candlelights in the distance. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -950,26 +950,28 @@ HTML :
 관련 : 스컬크러셔
 의도 : 스컬크러셔의 검은 진짜 고대인의 검이 아니었다는 증거
 내용 :
-평생을 무구 수집에 바친 광적인 수집가의 개인적인 감평이 적힌 수첩이다. 세월의 흔적이 묻은 가죽 표지 안쪽에는 탐욕스러운 필체로 다음과 같은 기록이 남겨져 있다.
+성채의 무구들을 오랫동안 관리해 온 늙은 무기고 지기가 남긴 기록이다. 전설적인 무구들에 대한 이야기들이 적혀 있다.
 
 ■ 빛의 검: 빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 순수한 빛의 속성을 지닌 자만이 다룰 수 있다. 자격 없는 자가 감히 손을 대는 순간, 그 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다.
-■ 어둠의 단검: 20년 전 빛의 성전의 혼란 속에서 자취를 감춘 비운의 검. 그림자를 실체화한 듯한 검신은 주변의 모든 빛을 빨아들이는 성질이 있다. 왕실 지하 깊숙한 곳의 비밀 보관소로 옮겨졌다는 기록을 끝으로 더 이상 시장에 모습을 드러내지 않고 있다.
-■ 고대인의 검: 옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 은빛을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 이 검의 독보적인 상징이다.
+■ 어둠의 단검: 그림자를 실체화한 듯한 칼날은 빛의 속성을 지닌 존재에게 치명적인 일격을 가할 수 있는 힘을 품고 있다. 지하 창고에 보관 중이었으나, 20년 전 반출된 뒤 행방이 묘연하다.
+■ 고대인의 검: 옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 은빛을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 상징이다. 수천 년 전 소실된 것으로 알려졌으며, 현재까지도 그 행방을 아는 자가 없다.
+■ 공포의 검: 과거 마신이 휘둘렀다고 전해지는 대검. 검신에서 소름 끼치는 검붉은 광채가 끊임없이 번뜩이며, 주변에 안개와 같은 불길한 기운을 퍼뜨린다고 한다.
 HTML :
 <div class="story-content">
   <div class="script-direction">
-    평생을 무구 수집에 바친 광적인 수집가의 개인적인 감평이 적힌 수첩이다. 세월의 흔적이 묻은 가죽 표지 안쪽에는 탐욕스러운 필체로 다음과 같은 기록이 남겨져 있다.
+    성채의 무구들을 오랫동안 관리해 온 늙은 무기고 지기가 남긴 기록이다. 전설적인 무구들에 대한 이야기들이 적혀 있다.
   </div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      <div>■ <strong>빛의 검</strong>: 빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 순수한 <span class="emphasis">빛의 속성</span>을 지닌 자만이 다룰 수 있다. 자격 없는 자가 감히 손을 대는 순간, 그 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다.</div>
-      <div>■ <strong>어둠의 단검</strong>: 20년 전 빛의 성전의 혼란 속에서 자취를 감춘 비운의 검. 그림자를 실체화한 듯한 검신은 주변의 모든 빛을 빨아들이는 성질이 있다. 왕실 지하 깊숙한 곳의 비밀 보관소로 옮겨졌다는 기록을 끝으로 더 이상 시장에 모습을 드러내지 않고 있다.</div>
-      <div>■ <strong>고대인의 검</strong>: 옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 이 검의 독보적인 상징이다.</div>
+      <div>■ <strong>빛의 검</strong>: 빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 순수한 <span class="emphasis">빛의 속성</span>을 지닌 자만이 다룰 수 있다. 자격 없는 자가 감히 손을 대는 순간, 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다.</div>
+      <div>■ <strong>어둠의 단검</strong>: 그림자를 실체화한 듯한 칼날은 <span class="emphasis">빛의 속성</span>을 지닌 존재에게 치명적인 일격을 가할 수 있는 힘을 품고 있다. 지하 창고에 보관 중이었으나, 20년 전 반출된 뒤 행방이 묘연하다.</div>
+      <div>■ <strong>고대인의 검</strong>: 옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 상징이다. 수천 년 전 소실된 것으로 알려졌으며, 현재까지도 그 행방을 아는 자가 없다.</div>
+      <div>■ <strong>공포의 검</strong>: 과거 마신이 휘둘렀다고 전해지는 대검. 검신에서 소름 끼치는 <span class="emphasis">검붉은 광채</span>가 끊임없이 번뜩이며, 주변에 안개와 같은 불길한 기운을 퍼뜨린다고 한다.</div>
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an open leather-bound notebook lying flat on a cluttered wooden table. Shadows are cast into the spine of the book. It features enthusiastic ink handwriting in an illegible Nordic-style script (Norwegian or Finnish) and small, detailed sketches of swords. Shallow depth of field, background is blurred workshop tools. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a thick, aged parchment ledger lying open on a heavy stone pedestal in a dimly lit armory. Dust motes dance in a single beam of light. The ledger features neat, orderly ink handwriting in a formal archaic script with small, technical diagrams of sword hilts and blades. Background shows out-of-focus racks of weapons and armor. Detailed fantasy oil painting style. Deep shadows, rich parchment textures, dramatic chiaroscuro lighting.
 장소 : 04_무기고
 파일명 : 29_무기고_1
 
