@@ -193,10 +193,10 @@ HTML :
 관련 : 슬리더
 의도 : 슬리더가 고향 행성의 부활을 위해 반드시 필요한 물건이며, 과거 말리스의 마력이 담긴 아이템. 마력석을 사용해서 마나플레어 와이어를 인화시킬 수 있다는 사실을 알게 되면 슬리더를 의심할 수 있음. 슬리더가 처음부터 소유함.
 내용 :
-표면의 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오는 신비한 돌이다.
+표면의 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오며, 그 깊은 중심부에서 촛불 같은 빛의 핵이 마치 살아있는 생명처럼 일렁이고 있다.
 HTML :
 <div class="story-content">
-  표면의 <span class="highlight">은빛 문양</span> 사이로 강렬한 <span class="emphasis">청람색 빛</span>이 뿜어져 나오는 신비한 돌이다.
+  표면의 <span class="highlight">은빛 문양</span> 사이로 강렬한 <span class="emphasis">청람색 빛</span>이 뿜어져 나오며, 그 깊은 중심부에서 <span class="highlight">촛불 같은 빛의 핵</span>이 마치 살아있는 생명처럼 일렁이고 있다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small mysterious gemstone. The stone features glowing silver patterns and intense cyan-blue light inside. No people. Shallow depth of field, background is indistinct and dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, vintage analog fantasy aesthetic.
 장소 : 없음
@@ -250,13 +250,13 @@ HTML :
 관련 : 스컬크러셔
 의도 : 골든 킹이 무언가 외치려 할 때 스컬크러셔가 급하게 입막음했음. 본인의 정체를 숨기고 싶어했다는 단서
 내용 :
-겁에 질린 시종이 벌벌 떨며 전하는 증언이다. &quot;왕좌 뒤 기둥에 숨어 모든 것을 보았습니다. 골든 킹께서 패색이 짙어졌을 때, 눈을 크게 뜨고 &apos;네놈은... 설마...!&apos;라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, 스컬크러셔 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.&quot;
+겁에 질린 시종이 벌벌 떨며 전하는 증언이다. &quot;골든 킹께서 패색이 짙어졌을 때, 눈을 크게 뜨고 &apos;네놈은... 설마...!&apos;라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, 스컬크러셔 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.&quot;
 HTML :
 <div class="story-content">
   <div class="script-direction">겁에 질린 시종이 벌벌 떨며 전하는 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    왕좌 뒤 기둥에 숨어 모든 것을 보았습니다. <span class="character-goldenking">골든 킹</span>께서 패색이 짙어졌을 때, 눈을 크게 뜨고 <span class="emphasis">&apos;네놈은... 설마...!&apos;</span>라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, <span class="character-skullcrusher">스컬크러셔</span> 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.
+    <span class="character-goldenking">골든 킹</span>께서 패색이 짙어졌을 때, 눈을 크게 뜨고 <span class="emphasis">&apos;네놈은... 설마...!&apos;</span>라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, <span class="character-skullcrusher">스컬크러셔</span> 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of a textured marble pillar surface. In the deep shadows to the side, a faint silhouette of a person&apos;s eye or hand is barely visible, as if peeking. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -369,8 +369,7 @@ HTML :
 내용 :
 <제1권: 마도 광물편>
 ■ 영혼석: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. 영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체이다.
-■ 봉인석: 반투명한 호박색을 띠며 내부에 촛불 같은 빛의 핵이 일렁이는 돌. 살아있는 생명을 구속하여 봉인할 수 있다. 해제 시 봉인된 생명체가 다시 해방되지만, 돌이 파괴되면 봉인된 자는 영구적으로 소멸한다.
-■ 마력석: 표면의 정교한 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오는 돌. 막대한 양의 마력이 응축되어 있으며, 인간이 아닌 존재가 사용한다면 황폐해진 대지에 생명력을 불어넣는 기적을 일으킨다고 전해진다. 파괴될 경우 광범위한 마력이 일시에 방출된다.
+■ 마력석: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 청색, 영혼이 봉인되면 남색으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 청람색 빛을 발한다. 마력과 영혼이 모두 깃든 청람색 상태에서 돌이 파괴되면 황폐해진 대지를 되살리는 기적을 일으키지만, 이때 봉인된 정수들은 영구히 소멸한다.
 ■ 흑요석: 인간들 사이에서는 하급 보석으로 취급되나, 악마들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.
 HTML :
 <div class="story-content">
@@ -378,8 +377,7 @@ HTML :
     <h3>&lt;제1권: 마도 광물편&gt;</h3>
     <div class="document-body small">
       <div>■ <strong>영혼석</strong>: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. <span class="emphasis">영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체</span>이다.</div>
-      <div>■ <strong>봉인석</strong>: 반투명한 호박색을 띠며 내부에 촛불 같은 빛의 핵이 일렁이는 돌. <span class="emphasis">살아있는 생명을 구속하여 봉인</span>할 수 있다. 해제 시 봉인된 생명체가 다시 해방되지만, 돌이 파괴되면 <span class="emphasis">봉인된 자는 영구적으로 소멸</span>한다.</div>
-      <div>■ <strong>마력석</strong>: 표면의 정교한 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오는 돌. 막대한 양의 마력이 응축되어 있으며, <span class="emphasis">인간이 아닌 존재가 사용</span>한다면 황폐해진 대지에 생명력을 불어넣는 기적을 일으킨다고 전해진다. 파괴될 경우 <span class="emphasis">광범위한 마력이 일시에 방출</span>된다.</div>
+      <div>■ <strong>마력석</strong>: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 <span class="emphasis">청색</span>, 영혼이 봉인되면 <span class="emphasis">남색</span>으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 <span class="emphasis">청람색 빛</span>을 발한다. 마력과 영혼이 모두 깃든 상태에서 돌이 파괴되면 대지를 되살리는 기적을 일으키지만, 이때 <span class="emphasis">봉인된 정수들은 영구히 소멸</span>한다.</div>
       <div>■ <strong>흑요석</strong>: 인간들 사이에서는 하급 보석으로 취급되나, <span class="emphasis">마족</span>들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.</div>
     </div>
   </div>
@@ -1154,10 +1152,10 @@ HTML :
 관련 : 엘드리치
 의도 : 엘드리치는 봉인된 마신이었다는 증거.
 내용 :
-서재 한복판에 고꾸라져 있는 엘드리치의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 물결 모양의 문양이 새겨져 있다.
+서재 한복판에 고꾸라져 있는 엘드리치의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 물결 모양의 문신이 새겨져 있다.
 HTML :
 <div class="story-content">
-  <div>서재 한복판에 고꾸라져 있는 <span class="character-eldritch">엘드리치</span>의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 <span class="emphasis">물결 모양의 문양</span>이 새겨져 있다.</div>
+  <div>서재 한복판에 고꾸라져 있는 <span class="character-eldritch">엘드리치</span>의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 <span class="emphasis">물결 모양의 문신</span>이 새겨져 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on the side of a neck showing faint, complex geometric patterns. Cold, pale skin texture. Shallow depth of field, background is completely dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
@@ -1206,10 +1204,10 @@ HTML :
 관련 : 발로그
 의도 : 발로그가 비행해서 올라갔다는 증거.
 내용 :
-서재 천장, 엘드리치가 앉아 있던 의자 바로 위 지점에 매달린 화려한 샹들리에다. 금속 프레임에 수많은 크리스털 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.
+서재 천장, 지상의 소란함이 닿지 않는 어둠의 끝자락에 매달린 화려한 샹들리에다. 금속 프레임의 정교한 무늬들은 아래에서 바라보는 이들에게 그 세세한 형상을 쉽게 허락하지 않을 만큼 멀리 떨어져 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.
 HTML :
 <div class="story-content">
-  <div>서재 천장, 엘드리치가 앉아 있던 <span class="emphasis">의자 바로 위</span> 지점에 매달린 화려한 <span class="highlight">샹들리에</span>다. 금속 프레임에 수많은 <span class="emphasis">크리스털 조각</span>들이 촘촘히 박혀 있으며, <span class="emphasis">천장</span>과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.</div>
+  <div>서재 천장, <span class="emphasis">지상의 소란함이 닿지 않는 어둠의 끝자락</span>에 매달린 화려한 <span class="highlight">샹들리에</span>다. 금속 프레임의 정교한 무늬들은 아래에서 바라보는 이들에게 <span class="emphasis">그 세세한 형상을 쉽게 허락하지 않을 만큼 멀리</span> 떨어져 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A medium close-up focused shot of a grand, ornate gothic chandelier that fills most of the frame. The intricate dark wrought iron frame and glittering, faceted crystal pendants are the primary focus, radiating a warm, flickering golden glow from within. The light refracts through the glass, casting sharp, dramatic highlights and deep, rich shadows within the chandelier&apos;s structure itself. The background is completely swallowed by deep, velvety shadows, ensuring undivided attention on the intricate craftsmanship and the haunting light of the chandelier. Detailed 1980s fantasy oil painting style. Heavy brushstrokes, rich textures (dark iron, sparkling crystal), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the interplay of golden light and dark metal. No background elements, just the chandelier itself glowing in the darkness.
 장소 : 02_서재
@@ -1278,13 +1276,14 @@ HTML :
 관련 : 말리스, 발로그
 의도 : 연구실 내부 공범 존재 가능성 시사.
 내용 :
-연구실 입구에서 경비를 서던 병사의 증언이다. "그때 분명 연구실 안쪽에서 대화 소리가 들려왔습니다. 한 명은 동굴 속에서 울리는 듯한 굵고 낮은 목소리였고, 다른 한 명은 그와는 확연히 다른 여성의 목소리였지요. 아주 낮게 소곤거리는 듯한 소리여서 구체적인 대화 내용까지는 알아들을 수 없었지만, 두 사람이 이야기를 주고받는 것은 분명히 들었습니다."
+연구실 근처에서 경비를 서던 병사의 증언이다. "스컬크러셔 님이 굳은 표정으로 연구실 주변을 잠시 살피고 떠나신 뒤, 한 20~30분쯤 지났을 때였습니다. 연구실 안쪽에서 대화 소리가 들려왔지요. 한 명은 동굴 속에서 울리는 듯한 굵고 낮은 목소리였고, 다른 한 명은 그와는 확연히 다른 여성의 목소리였지요. 아주 낮게 소곤거리는 듯한 소리여서 구체적인 대화 내용까지는 알아들을 수 없었지만, 두 사람이 이야기를 주고받는 것은 분명히 들었습니다."
+
 HTML :
 <div class="story-content">
   <div class="script-direction">연구실 입구에서 경비를 서던 병사의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>그때 분명 연구실 안쪽에서 대화 소리가 들려왔습니다. 한 명은 동굴 속에서 울리는 듯한 <span class="emphasis">굵고 낮은 목소리</span>였고, 다른 한 명은 그와는 확연히 다른 <span class="emphasis">여성의 목소리</span>였지요. 아주 낮게 소곤거리는 듯한 소리여서 구체적인 대화 내용까지는 알아들을 수 없었지만, 두 사람이 이야기를 주고받는 것은 분명히 들었습니다.</div>
+    <div><span class="character-skullcrusher">스컬크러셔</span> 님이 굳은 표정으로 연구실 주변을 잠시 살피고 떠나신 뒤, 한 20~30분쯤 지났을 때였습니다. 연구실 안쪽에서 대화 소리가 들려왔지요. 한 명은 동굴 속에서 울리는 듯한 <span class="emphasis">굵고 낮은 목소리</span>였고, 다른 한 명은 그와는 확연히 다른 <span class="emphasis">여성의 목소리</span>였지요. 아주 낮게 소곤거리는 듯한 소리여서 구체적인 대화 내용까지는 알아들을 수 없었지만, 두 사람이 이야기를 주고받는 것은 분명히 들었습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic shot seen through a narrow door gap, showing the dark, imposing silhouette of a heavily armored guard standing watch in a dimly lit stone corridor. The guard is seen from behind, his face hidden within a visored helmet as he leans slightly on a long spear. Flickering torchlight from deep within the corridor casts a long, distorted shadow that stretches toward the camera across the floorboards. The background is mostly dark, defined by the rough textures of the stone walls. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (cold plate mail, weathered stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the ominous presence of the guard seen through the narrow opening. No faces visible, just the silhouette in the darkness.
@@ -1502,13 +1501,13 @@ HTML :
 관련 : 발트라
 의도 : 발트라의 알리바이에 대한 의구심 생성.
 내용 :
-지하창고 탐색 임무를 수행하던 대원의 증언이다. "16시 10분경이었습니다. 대장님의 지시로 함께 창고 내부를 살피던 중이었는데, 어느 순간 발트라 님이 보이지 않더군요. 한 30~40분 정도 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다."
+지하창고 탐색 임무를 수행하던 대원의 증언이다. "16시 10분경이었습니다. 대장님의 지시로 함께 창고 입구 부근을 살피던 중이었는데, 어느 순간 발트라 님이 보이지 않더군요. 한 30~40분 정도 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다."
 HTML :
 <div class="story-content">
   <div class="script-direction">지하창고 탐색 임무를 수행하던 대원의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div><span class="emphasis">16시 10분</span>경이었습니다. 대장님의 지시로 함께 창고 내부를 살피던 중이었는데, 어느 순간 <span class="character-valtra">발트라</span> 님이 보이지 않더군요. <span class="emphasis">한 30~40분 정도</span> 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다.</div>
+    <div><span class="emphasis">16시 10분</span>경이었습니다. 대장님의 지시로 함께 창고 입구 부근을 살피던 중이었는데, 어느 순간 <span class="character-valtra">발트라</span> 님이 보이지 않더군요. <span class="emphasis">한 30~40분 정도</span> 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic shot showing the dark, unidentifiable silhouette of a mercenary warrior seen from behind, standing in a cold and damp stone hallway of the underground warehouse. The mercenary wears a tattered cloak and primitive leather and iron armor. Flickering torchlight from an unseen source on the wall casts soft, natural shadows across the wet stone tiles and the rough stone wall. The atmosphere is quiet and tense. Extremely shallow depth of field, background is dark and indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stones, worn leather, metal highlights), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the steady, silent presence of the mercenary in the darkness. No face visible, just the silhouette.
@@ -1937,7 +1936,7 @@ HTML :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 엘드리치
-의도 : 성 내부 곳곳에 마력석이 배치되었음을 암시.
+의도 : 성 내부 곳곳에 영혼석이 배치되었음을 암시.
 내용 :
 늙은 청소부의 증언이다. "내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 게다가 말이유, 어둑한 구석 같은 데를 힐끔힐끔 보믄... 뭔가가 별처럼 반짝이는 것 같기도 하고, 아닌 것 같기도 하고… 눈을 비비고 다시 보면 또 멀쩡한디, 자꾸 그런 게 눈에 밟히는 게 영 꺼림칙허더라고요. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 낯설고 해괴한 것이 스며든 게 확실혀요."
 HTML :

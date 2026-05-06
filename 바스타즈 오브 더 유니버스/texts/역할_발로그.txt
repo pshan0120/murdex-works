@@ -85,7 +85,7 @@
         <li><strong>16:00</strong>: 왕좌의 방으로 합류. <span class="character-skullcrusher">스컬크러셔</span>로부터 <span class="emphasis">무기고</span> 수색 및 조사를 지시받음.</li>
         <li><strong>16:10~16:30</strong>: 무기고 구석에서 <span class="character-eldritch">엘드리치</span>가 남겨둔 은밀한 쪽지를 발견하고 극도로 절망.</li>
         <li><strong>16:30~16:40</strong>: 무기고로 찾아온 <span class="character-malice">말리스</span>와 접촉. <span class="character-eldritch">엘드리치</span>를 암살하고 자유를 되찾자는 계획을 제안받고 이를 수락함. <span class="emphasis">단검</span>, <span class="emphasis">마나플레어 와이어</span>, 가공된 <span class="emphasis">몽유석</span>, 그리고 <span class="emphasis">투명 망토</span>를 받음.</li>
-        <li><strong>16:40~17:00</strong>: <span class="emphasis">투명 망토</span>를 두르고 <span class="character-eldritch">엘드리치</span>의 서재로 은밀히 침입 후, 살인 트랩 설치. 그 후 복귀하여 <span class="character-malice">말리스</span>에게 트랩 설치 완료를 보고함.</li>
+        <li><strong>16:40~17:00</strong>: <span class="emphasis">투명 망토</span>를 두르고 <span class="character-eldritch">엘드리치</span>의 서재로 은밀히 침입 후, 살인 트랩 설치. 그 후 복귀하여 연구실에 있던 <span class="character-malice">말리스</span>에게 트랩 설치 완료를 보고함.</li>
       </ul>
     </div>
   </details>
@@ -145,20 +145,18 @@
         <li><strong>10년 전쟁</strong>: 수장 <span class="character-skullcrusher">스컬크러셔</span>를 필두로 한 연합 <span class="highlight">바스타즈</span>가 <span class="character-solite">솔라이트</span>의 폭정을 끝내기 위해 벌여온 전쟁입니다. 오늘 <span class="highlight">화이트스컬 성채</span>가 함락되고 <span class="character-goldenking">골든 킹</span>이 처단되면서 마침내 승리로 종지부를 찍었습니다.</li>
         <li><strong>속성에 대하여</strong>: 이 세계의 모든 존재는 고유한 속성을 지니고 있습니다. 누군가는 이를 이용해 불가능해 보이는 일을 해냈을지도 모릅니다.</li>
         <li><strong>종족에 대하여</strong>: 이 세계관에는 인간 외에도 수인종과 마족 등 다양한 종족이 공존하며 살아가고 있습니다.</li>
+        <li><strong>성채의 보안</strong>: 화이트스컬 성채는 바스타즈 군대에 의해 완전히 점령되었으며, 현재 성의 모든 출입구는 철통같이 경비되고 있습니다. 외부로부터의 침입이나 내부 인원의 무단 이탈은 절대 불가능한 상태입니다.</li>
+        <li><strong>마법의 제약</strong>: 이 세계에 타인의 외형으로 완벽히 위장하는 '변신 마법'은 존재하지 않습니다.</li>
         <li><strong>승전 연회</strong>: 승리를 자축하는 성대한 연회가 <span class="emphasis">18:00</span>에 예정되어 있습니다. 현재 시각은 <span class="emphasis">17:00</span>, 수장 <span class="character-skullcrusher">스컬크러셔</span>의 명령에 따라 수색 임무를 완수하기 전까지 이제 한 시간의 여유만이 남아 있습니다.</li>
       </ul>
     </div>
   </details>
-  <div class="guide-box">
-    <p>
-      <strong>[안내]</strong> 여기까지 모두 읽으셨다면 숙지가 완료된 것입니다. <strong>다른 플레이어들도 숙지를 마쳤는지 확인한 후</strong>, 상단의 <span class="emphasis">공개 정보</span>를 바탕으로 간단한 자기소개를 시작해 주십시오.
-    </p>
-  </div>
 </div>
 
 8. 숨기고 싶은 비밀
 
 <div class="story-content">
+  <p class="guide-text">※ 비밀의 노출여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
   <ul>
     <li><strong>마신 군단의 탈영병</strong>: 30년 전 세상을 파괴하던 마신 <span class="mystery">다크 시리어스</span> 군단의 탈영병이었다는 사실은 당신의 가장 치명적인 약점이다. 이것이 밝혀지는 순간 당신은 전 우주에서 공공의 적이 되어 처단당할 것이다.</li>
     <li><strong>마법 계약</strong>: 당신은 단순한 동료가 아니라 <span class="character-eldritch">엘드리치</span>와 맺은 <span class="emphasis">마법 계약</span>에 묶인 <span class="highlight">사역마</span>이다. 계약이 유효하다면 당신은 결코 그의 명을 거역할 수 없다.</li>

@@ -660,6 +660,15 @@
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 
+.story-content .guide-text {
+    font-size: 0.85em;
+    color: var(--fantasy-gold);
+    opacity: 0.8;
+    margin-bottom: 1.2em;
+    font-style: italic;
+    line-height: 1.6;
+}
+
 .story-content .guide-box p {
     margin-bottom: 0 !important;
     color: #fdf5e6;
