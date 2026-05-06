@@ -7,7 +7,7 @@
   <ul>
     <li><span class="highlight">거짓말 허용</span>: 범인을 포함한 모든 플레이어는 전략적으로 거짓말을 할 수 있습니다.</li>
     <li><span class="highlight">단서 조사</span>: <span class="emphasis">조사 단계</span>에서 가능하며 AP가 소모됩니다. 기본적으로 선착순이나, 플레이어 간 협의를 통해 순서를 정해도 괜찮습니다. 이번 작품에서는 자신에 대한 단서는 조사가 불가능합니다.</li>
-    <li><span class="highlight">액션</span>: <span class="emphasis">조사 단계</span>에서 가능하며, 캐릭터 고유 액션 실행 시 AP가 소모됩니다. 액션 사용 결과는 본인에게만 표시됩니다.</li>
+    <li><span class="highlight">액션</span>: <span class="emphasis">조사 단계</span>에서 가능하며 AP가 소모됩니다. 액션 사용 결과는 본인에게만 표시됩니다.</li>
     <li><span class="highlight">보드 공개</span>: <span class="emphasis">조사 및 추리 단계</span>에서만 가능하며, 내 단서의 소유권을 포기하고 게임 보드에 앞면으로 공개합니다.</li>
     <li><span class="highlight">단서 공유</span>: <span class="emphasis">조사 및 추리 단계</span>에서만 가능하며, 플레이어 간 함께보기, 건네주기가 가능합니다.</li>
     <li><span class="highlight">AP 관리</span>: 소모성 비공개 자원이며, 단계가 종료되면 남은 AP는 모두 소멸됩니다.</li>

@@ -833,6 +833,17 @@
     line-height: 1.6;
 }
 
+.campus-outro {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    line-height: 2;
+    font-size: 1.05rem;
+    font-family: "Nanum Myeongjo", serif;
+    color: rgba(245, 245, 245, 0.95);
+    word-break: keep-all;
+}
+
 /* 모바일 최적화 */
 @media (max-width: 640px) {
     .intro-title-campus {
@@ -855,5 +866,11 @@
 
     .campus-feature-item {
         padding: 1.2rem;
+    }
+
+    .campus-outro {
+        margin-top: 3.5rem;
+        font-size: 0.95rem;
+        line-height: 1.8;
     }
 }
