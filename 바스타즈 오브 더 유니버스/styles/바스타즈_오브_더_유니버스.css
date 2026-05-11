@@ -64,11 +64,11 @@
 .story-content ul {
     list-style: none;
     padding-left: 0;
-    margin-bottom: 1.8em;
+    margin-bottom: 0em;
 }
 
 .story-content li {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 
 /* 하위 리스트 스타일 */
@@ -159,7 +159,7 @@
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 .story-content details summary::-webkit-details-marker {
@@ -200,7 +200,7 @@
 .story-content details .collapsible-content {
     padding-top: 1.0em;
     padding-bottom: 1.0em;
-    font-size: 0.9em;
+    font-size: 1em;
     animation: fadeSlideDown 0.3s ease-out;
 }
 
