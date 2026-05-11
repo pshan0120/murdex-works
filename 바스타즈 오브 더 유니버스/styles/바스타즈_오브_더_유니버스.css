@@ -732,9 +732,20 @@
 .story-content .character-solite {
     background: linear-gradient(135deg, #ffd700, #ff8c00);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 700;
     text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+}
+
+/* 바스타즈 (솔라이트와 대척점인 보라/푸른빛 그라데이션) */
+.story-content .character-bastards {
+    background: linear-gradient(135deg, #a855f7, #3b82f6);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    text-shadow: 0 0 12px rgba(168, 85, 247, 0.5);
 }
 
 .story-content .location-box {
@@ -817,4 +828,67 @@
     line-height: 1.8;
     word-break: keep-all;
     color: var(--fantasy-text);
+}
+
+/* 공통 정보 등 기본 정보 리스트 스타일 */
+.story-content .info-list {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(212, 175, 55, 0.15);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.story-content .info-list li {
+    position: relative;
+    padding-left: 1.2em;
+    margin-bottom: 1.2em;
+    line-height: 1.6;
+    color: rgba(253, 245, 230, 0.9);
+}
+
+.story-content .info-list li:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .info-list li::before {
+    content: "❖";
+    position: absolute;
+    left: 0;
+    top: 0.1em;
+    color: var(--fantasy-gold);
+    font-size: 0.9em;
+    opacity: 0.8;
+}
+
+.story-content .info-list li strong {
+    color: var(--fantasy-gold);
+    font-weight: 700;
+    margin-right: 0.3em;
+}
+
+/* 도입부 내러티브 강조 박스 */
+.story-content .intro-narrative {
+    position: relative;
+    background: linear-gradient(to bottom, rgba(212, 175, 55, 0.08), transparent);
+    border-top: 1px solid rgba(212, 175, 55, 0.5);
+    border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+    padding: 2rem 1.5rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.story-content .intro-narrative p {
+    text-align: center;
+    font-size: 1.02em;
+    line-height: 1.85;
+    margin-bottom: 1.2em;
+    color: rgba(253, 245, 230, 0.95);
+    word-break: keep-all;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+.story-content .intro-narrative p:last-child {
+    margin-bottom: 0;
 }

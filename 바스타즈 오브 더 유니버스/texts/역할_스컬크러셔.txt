@@ -18,14 +18,34 @@
 6. 공개 정보
 <div class="story-content">
   <ul>
-    <li><strong>역할</strong>: 강력한 무력과 압도적인 카리스마를 가진 바스타즈의 수장</li>
+    <li><strong>역할</strong>: 강력한 무력과 압도적인 카리스마를 가진 <span class="character-bastards">바스타즈</span>의 수장</li>
     <li><strong>외형</strong>: 얼굴을 완전히 가린 해골 투구와 핏빛 망토를 두른 잿빛 판금 갑옷 차림</li>
     <li><strong>말투</strong>: 위엄 있고 단호한 수장의 어조</li>
   </ul>
 </div>
 
-7. 역할 시트 (캐릭터 배경 / 타임라인 / 특징 / 인물 관계 / 설정)
+7. 역할 시트
 <div class="story-content">
+  <div class="section-title">공통 정보</div>
+  <div class="intro-narrative">
+    <p>
+      기나긴 10년 전쟁 끝에 마침내 압제자 <span class="character-solite">솔라이트</span>의 본성인 <span class="emphasis">화이트스컬 성채</span>를 함락시킨 반역자들의 연합 <span class="character-bastards">바스타즈</span>.
+    </p>
+    <p>
+      수장 <span class="character-skullcrusher">스컬크러셔</span>의 손에 지배자 <span class="character-goldenking">골든 킹</span>이 처단되며 우주에는 마침내 새로운 평화가 찾아온 듯했습니다.<br>
+      하지만 승전 연회를 단 한 시간 앞둔 <span class="emphasis">17:00</span> 현재, 기쁨으로 가득해야 할 성채에는 왠지 모를 긴장감이 감돌고 있습니다.
+    </p>
+  </div>
+  <ul class="info-list">
+    <li><strong>솔라이트에 대하여</strong>: <span class="character-goldenking">골든 킹</span>이 이끄는 우주의 거대 통치 연합으로, 전 우주에 자신들의 질서를 강요해 왔습니다. 그들은 정의를 내세워 평화를 수호한다고 주장하지만, 실상은 반대 세력을 무자비하게 탄압하는 압제적인 통치를 이어왔습니다.</li>
+    <li><strong>신들의 전쟁</strong>: 약 30년 전, 마신 <span class="mystery">다크 시리어스</span>가 이끄는 암흑 군단과 <span class="character-solite">솔라이트</span>가 격돌한 전 우주적 대전쟁입니다. <span class="character-solite">솔라이트</span>는 <span class="mystery">다크 시리어스</span>를 봉인하고 전쟁을 승리로 이끌었습니다.</li>
+    <li><strong>10년 전쟁</strong>: 수장 <span class="character-skullcrusher">스컬크러셔</span>를 필두로 한 연합 <span class="character-bastards">바스타즈</span>가 <span class="character-solite">솔라이트</span>의 폭정을 끝내기 위해 벌여온 전쟁입니다. 오늘 <span class="emphasis">화이트스컬 성채</span>가 함락되고 <span class="character-goldenking">골든 킹</span>이 처단되면서 마침내 승리로 종지부를 찍었습니다.</li>
+    <li><strong>속성에 대하여</strong>: 이 세계의 모든 존재는 고유한 <span class="emphasis">속성</span>을 지니고 있습니다.</li>
+    <li><strong>종족에 대하여</strong>: 이 세계관에는 <span class="emphasis">인간</span> 외에도 <span class="emphasis">수인종</span>과 <span class="emphasis">마족</span> 등 다양한 종족이 공존하며 살아가고 있습니다.</li>
+    <li><strong>성채의 보안</strong>: <span class="emphasis">화이트스컬 성채</span>는 <span class="character-bastards">바스타즈</span> 군대에 의해 완전히 점령되었으며, 현재 성의 모든 출입구는 철통같이 경비되고 있습니다. <span class="emphasis">외부로부터의 침입이나 내부 인원의 무단 이탈은 절대 불가능</span>한 상태입니다.</li>
+    <li><strong>마법의 제약</strong>: 이 세계에 타인의 외형으로 완벽히 위장하는 <span class="emphasis">변신 마법</span>은 존재하지 않습니다.</li>
+    <li><strong>승전 연회</strong>: 승리를 자축하는 성대한 연회가 <span class="emphasis">18:00</span>에 예정되어 있습니다. 현재 시각은 <span class="emphasis">17:00</span>, 수장 <span class="character-skullcrusher">스컬크러셔</span>의 명령에 따라 수색 임무를 완수하기 전까지 이제 한 시간의 여유만이 남아 있습니다.</li>
+  </ul>
   <details>
     <summary>
       캐릭터 배경
@@ -68,14 +88,14 @@
         <span class="character-eldritch">엘드리치</span>는 훌륭한 스승이었다. 그는 당신의 마음가짐을 한 자루의 날카로운 칼처럼 단련시켰고, 잃어버린 충성 대신 스스로 선택한 목적을 향해 나아가도록 이끌었다. 
         또한, <span class="emphasis">대협곡</span>의 가장 깊은 곳, 어둠 속에서 오랫동안 잠들어 있던 <span class="emphasis">고대인의 검</span>을 건네주었다. 
         그 후, 당신은 같은 상처를 가진 자들, <span class="character-solite">솔라이트</span>에게 배신당하고 버려진 이들을 하나둘 모아 거두어 나갔다. 
-        그들은 당신의 깃발 아래 뭉쳤고, 그렇게 세상이 말하는 반역자들의 연합 <span class="highlight">바스타즈</span>가 탄생했다.
+        그들은 당신의 깃발 아래 뭉쳤고, 그렇게 세상이 말하는 반역자들의 연합 <span class="character-bastards">바스타즈</span>가 탄생했다.
       </p>
       <p>
         그날부터 시작된 <span class="emphasis">10년 전쟁</span>은 우주의 역사를 피로 물들인 처절한 나날의 연속이었다. 
-        변방의 작은 행성에서 소수의 반역자들로 시작된 <span class="highlight">바스타즈</span>는, <span class="character-solite">솔라이트</span>의 압제에 신음하던 이들의 분노와 고통을 자양분 삼아 몸집을 불려 나갔다. 
+        변방의 작은 행성에서 소수의 반역자들로 시작된 <span class="character-bastards">바스타즈</span>는, <span class="character-solite">솔라이트</span>의 압제에 신음하던 이들의 분노와 고통을 자양분 삼아 몸집을 불려 나갔다. 
         전쟁 초반, <span class="character-solite">솔라이트</span>의 압도적인 군세 앞에 연합은 수차례 멸망의 위기에 처하며 벼랑 끝으로 몰리기도 했으나, 당신은 결코 굴하지 않고 흩어진 저항군들을 하나둘씩 규합해 나갔다. 
         오합지졸에 불과했던 자들이 점차 하나의 군대로서 위용을 갖추어갈 무렵, <span class="emphasis">철의 성계</span>에서 거둔 기적 같은 승리들은 전쟁의 판도를 뒤집는 결정적인 전환점이 되었다. 
-        그 순간부터 <span class="highlight">바스타즈</span>의 깃발은 은하계 외곽을 넘어 중심부를 향해 거침없이 전진했다. 견고하던 요새들은 모래성처럼 무너졌고, 억압받던 성계들은 차례로 해방되었다. 
+        그 순간부터 <span class="character-bastards">바스타즈</span>의 깃발은 은하계 외곽을 넘어 중심부를 향해 거침없이 전진했다. 견고하던 요새들은 모래성처럼 무너졌고, 억압받던 성계들은 차례로 해방되었다. 
         그 모든 시간 동안 당신은 적들에게는 공포의 화신으로, 고통받던 자들에게는 유일한 구원의 빛으로 칭송받았다. 
         마침내 <span class="character-solite">솔라이트</span>의 영토가 본성인 화이트스컬 주역으로 좁혀지자, 당신은 기나긴 투쟁의 마침표를 찍기 위해 <span class="character-goldenking">골든 킹</span>의 심장부인 <span class="emphasis">화이트스컬 성채</span>의 턱밑까지 도달했다. 
         이제 우주에 새로운 시대를 여는 마지막 결전만이 남아 있었다.
@@ -107,9 +127,9 @@
       </p>
       <p>
         당신은 전 우주의 지배자이자 한때 당신의 영웅이었던 <span class="character-goldenking">골든 킹</span>의 목숨을 자기 손으로 끊었다는 감흥을 느낄 새도 없이 고민에 빠졌다. 
-        만약 <span class="highlight">바스타즈</span>의 누군가가 당신의 비밀, 즉 <span class="character-solite">솔라이트</span>의 성기사이자 <span class="character-goldenking">골든 킹</span>의 가장 충직한 심복이었던 과거를 알게 된다면 어떻게 될까. 
+        만약 <span class="character-bastards">바스타즈</span>의 누군가가 당신의 비밀, 즉 <span class="character-solite">솔라이트</span>의 성기사이자 <span class="character-goldenking">골든 킹</span>의 가장 충직한 심복이었던 과거를 알게 된다면 어떻게 될까. 
         그 순간부터 당신을 향한 배신감은 걷잡을 수 없이 번져 연합은 순식간에 복수심으로 들끓는 난투장으로 변할 것이다. 
-        <span class="highlight">바스타즈</span>들의 대부분은 <span class="character-solite">솔라이트</span>가 벌인 무자비한 정벌 전쟁과 대정화 작전 속에서 고향과 가족을 잃고, 오로지 복수만을 의지해 살아남은 자들이다. 
+        <span class="character-bastards">바스타즈</span>들의 대부분은 <span class="character-solite">솔라이트</span>가 벌인 무자비한 정벌 전쟁과 대정화 작전 속에서 고향과 가족을 잃고, 오로지 복수만을 의지해 살아남은 자들이다. 
         그들에게 <span class="character-solite">솔라이트</span>의 기사는 찢어 죽여도 분이 풀리지 않을 원수이며, 그런 존재가 지금까지 자신들의 수장이었다는 사실은 어떤 이유로도 용서받을 수 없을 것이다. 
         당신의 정체가 드러나면, 복수라는 단 하나의 목표로 유지되던 이 연합은 곧바로 당신을 다음 목표로 삼게 될 것이다.
       </p>
@@ -122,7 +142,7 @@
         마지막으로 마음을 굳힌 당신은 육중한 문을 밀어 열고 밖으로 나섰다. 
       </p>
       <p>
-        당신은 문밖을 지키던 병사들에게 명하여, 성채 각지에 흩어진 <span class="highlight">바스타즈</span> 멤버들을 즉시 이곳으로 소집하게 했다. 
+        당신은 문밖을 지키던 병사들에게 명하여, 성채 각지에 흩어진 <span class="character-bastards">바스타즈</span> 멤버들을 즉시 이곳으로 소집하게 했다. 
         다시 방으로 돌아와 차갑게 식어가는 <span class="character-goldenking">골든 킹</span>의 시신을 내려다보며 기다리자, 정적을 깨는 거친 발소리와 금속의 마찰음이 복도를 타고 울려 퍼졌다. 
         곧 모든 멤버들이 당신 앞에 모였다. 투구 너머의 시선으로 그들의 표정을 조용히 훑어내며 천천히 입을 열었다.
       </p>
@@ -190,8 +210,6 @@
       <ul>
         <li><strong>속성</strong>: <span class="character-goldenking">골든 킹</span>의 <span class="emphasis">선샤인</span>을 격중당하기 전까지는 <span class="emphasis">어둠</span>. 현재는 <span class="emphasis">빛</span>.</li>
         <li><strong>전투력</strong>: 9</li>
-        <li><strong>압도적인 무력과 카리스마</strong>: 과거 <span class="character-solite">솔라이트</span> 최강의 성기사 <span class="character-skullcrusher">류크</span>로서 단련된 완벽한 검술에 극한까지 끌어올린 초월적인 육체 능력을 겸비함. 전장을 지배하는 당신의 무력은 적들에게는 무자비한 공포의 대상이지만, 아군인 <span class="highlight">바스타즈</span> 연합에게는 절대적인 승리의 상징이자 연합의 구심점.</li>
-        <li><strong>패왕의 위압감</strong>: 수많은 전장을 지휘하며 뼈에 새겨진 통솔력과 살기. 단지 서 있는 것만으로도 주변 공기가 무겁게 짓눌리며 적들의 전의를 상실케 하는 압도적인 기백을 내뿜음.</li>
         <li><strong>외형</strong>: 가슴 중앙에 부서진 황금 태양 문양이 새겨진 육중한 잿빛 판금 갑옷과 핏빛 망토를 두름. 기괴하고 거대한 해골 형상의 투구가 머리 전체를 빈틈없이 감싸 안쪽의 생김새와 진짜 얼굴을 완벽히 숨기고 있다.</li>
       </ul>
     </div>
@@ -210,7 +228,7 @@
         <strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 모두가 존경하는 지혜로운 현자이자 연합의 정신적 지주. 대외적으로는 그저 훌륭한 참모일 뿐이지만, 사실 그는 10년 전 대협곡에 버려져 죽어가던 당신을 구해낸 생명의 은인이다. 골든 킹에게 배신당해 영혼마저 산산조각 났던 당신을 다시 일으켜 세우고, 복수의 화신 <span class="character-skullcrusher">스컬크러셔</span>로 다시 태어나게 이끌어준 진정한 스승이기도 하다. 이 거대한 복수극의 모든 전략을 그와 함께 설계해 왔기에, 당신에게 <span class="character-eldritch">엘드리치</span>는 이 험난한 여정을 버티게 한 유일한 안식처와 같다. 다만, 연합의 엄격한 기강과 수장으로서의 권위를 유지하기 위해 두 사람의 각별한 사제 관계는 다른 멤버들에게 결코 밝혀서는 안 될 철저한 비밀로 남겨두고 있다.
       </p>
       <p>
-        <strong><span class="character-malice">말리스에 대해</span></strong>: 연합의 승리를 배후에서 설계하는 비정한 책략가. 모든 것을 잃은 듯 처절한 모습으로 나타나 무릎을 꿇으며 충성을 맹세하던 그녀의 눈빛을 당신은 여전히 기억한다. 그녀가 은밀히 짜놓은 치밀한 계략들은 <span class="character-solite">솔라이트</span>의 요새를 내부에서부터 무너뜨리는 가장 치명적인 독이 되어 주었지만, 그 냉철한 머릿속을 도무지 가늠할 수 없어 수장으로서 늘 경계심을 늦추지 않고 있다. 우아한 자태 뒤에 얼핏 비치는 지독한 증오와 실체를 알 수 없는 절박함을 볼 때면, 그녀가 <span class="highlight">바스타즈</span>에 합류한 진짜 목적이 단순한 복수 그 이상임을 예감하게 된다. 그녀가 던진 모략의 말이 언제든 당신의 목을 겨눌 수 있다는 의심을 품은 채, 당신은 그녀의 미소 뒤에 숨겨진 진의를 끊임없이 주시하고 있다.
+        <strong><span class="character-malice">말리스에 대해</span></strong>: 연합의 승리를 배후에서 설계하는 비정한 책략가. 모든 것을 잃은 듯 처절한 모습으로 나타나 무릎을 꿇으며 충성을 맹세하던 그녀의 눈빛을 당신은 여전히 기억한다. 그녀가 은밀히 짜놓은 치밀한 계략들은 <span class="character-solite">솔라이트</span>의 요새를 내부에서부터 무너뜨리는 가장 치명적인 독이 되어 주었지만, 그 냉철한 머릿속을 도무지 가늠할 수 없어 수장으로서 늘 경계심을 늦추지 않고 있다. 우아한 자태 뒤에 얼핏 비치는 지독한 증오와 실체를 알 수 없는 절박함을 볼 때면, 그녀가 <span class="character-bastards">바스타즈</span>에 합류한 진짜 목적이 단순한 복수 그 이상임을 예감하게 된다. 그녀가 던진 모략의 말이 언제든 당신의 목을 겨눌 수 있다는 의심을 품은 채, 당신은 그녀의 미소 뒤에 숨겨진 진의를 끊임없이 주시하고 있다.
       </p>
       <p>
         <strong><span class="character-balrog">발로그에 대해</span></strong>: 빠른 기동력으로 적의 심장부를 타격하는 특공대장. <span class="character-eldritch">엘드리치</span>가 <span class="emphasis">고대 유물의 힘으로 완벽하게 통제한 마족 조력자를 찾아냈다</span>며 당신에게 소개했던 자다. 처음 마주했을 때 그가 내뿜던 마족 특유의 불길함은 경계심을 자객하나, 지난 10년 전쟁 내내 그 어떤 가혹한 임무도 군말 없이 완수해 내는 그의 놀라운 헌신을 보며 점차 깊은 신뢰를 갖게 되었다. 거구의 몸으로 침묵을 지키며 전장을 휩쓰는 그의 모습은 때로 기괴한 위압감을 주기도 하지만, 마치 한 치의 오차도 없이 명을 수행하는 모습에서만큼은 오히려 인간보다 든든할 때도 있다. 다만 가끔씩 그의 눈빛에서 스치는 형용할 수 없는 비굴함은, 스승이 말한 <span class="emphasis">통제</span>라는 굴레가 그를 얼마나 철저히 속박하고 있는지 짐작게 할 뿐이다.
@@ -224,28 +242,6 @@
       <p>
         <strong><span class="character-valtra">발트라에 대해</span></strong>: 연합의 모든 진군 경로를 설계하는 전략가. 연결 결성 초기, 거액의 보수를 요구하던 계산적인 용병대장이었던 그녀를 당신은 결코 완벽히 신뢰하지 않았다. 하지만 전쟁 중반, <span class="character-solite">솔라이트</span>의 매복에 걸려 죽음 직전에 이르렀던 그녀가 <span class="character-gorehoof">고어후프</span>의 헌신적인 희생으로 살아 돌아온 날을 기점으로 그녀의 태도는 완전히 달라졌다. 그날 이후 <span class="character-solite">솔라이트</span>의 허점을 꿰뚫는 완벽한 전략들을 설계하며 연전연패하던 연합을 승리의 길로 이끄는 일등 공신이 되었다. 현재 당신과 대등하게 전략을 논할 수 있는 핵심 참모가 되었음은 의심할 여지가 없으나, 가끔씩 그녀의 무표정한 얼굴 너머로 스치는 짙은 고뇌와 말할 수 없는 부채감을 보며 그날의 참상이 그녀의 가슴에 얼마나 깊은 흉터를 남겼을지 짐작해 볼 뿐이다.
       </p>
-    </div>
-  </details>
-
-  <details>
-    <summary>
-      공통 정보
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul>
-        <li><strong>솔라이트에 대하여</strong>: <span class="character-goldenking">골든 킹</span>이 이끄는 우주의 거대 통치 연합으로, 전 우주에 자신들의 질서를 강요해 왔습니다. 그들은 정의를 내세워 평화를 수호한다고 주장하지만, 실상은 반대 세력을 무자비하게 탄압하는 압제적인 통치를 이어왔습니다.</li>
-        <li><strong>신들의 전쟁</strong>: 약 30년 전, 마신 <span class="mystery">다크 시리어스</span>가 이끄는 암흑 군단과 <span class="character-solite">솔라이트</span>가 격돌한 전 우주적 대전쟁입니다. <span class="character-solite">솔라이트</span>는 <span class="mystery">다크 시리어스</span>를 봉인하고 전쟁을 승리로 이끌었습니다.</li>
-        <li><strong>10년 전쟁</strong>: 수장 <span class="character-skullcrusher">스컬크러셔</span>를 필두로 한 연합 <span class="highlight">바스타즈</span>가 <span class="character-solite">솔라이트</span>의 폭정을 끝내기 위해 벌여온 전쟁입니다. 오늘 <span class="highlight">화이트스컬 성채</span>가 함락되고 <span class="character-goldenking">골든 킹</span>이 처단되면서 마침내 승리로 종지부를 찍었습니다.</li>
-        <li><strong>속성에 대하여</strong>: 이 세계의 모든 존재는 고유한 속성을 지니고 있습니다. 누군가는 이를 이용해 불가능해 보이는 일을 해냈을지도 모릅니다.</li>
-        <li><strong>종족에 대하여</strong>: 이 세계관에는 인간 외에도 수인종과 마족 등 다양한 종족이 공존하며 살아가고 있습니다.</li>
-        <li><strong>성채의 보안</strong>: 화이트스컬 성채는 바스타즈 군대에 의해 완전히 점령되었으며, 현재 성의 모든 출입구는 철통같이 경비되고 있습니다. 외부로부터의 침입이나 내부 인원의 무단 이탈은 절대 불가능한 상태입니다.</li>
-        <li><strong>마법의 제약</strong>: 이 세계에 타인의 외형으로 완벽히 위장하는 '변신 마법'은 존재하지 않습니다.</li>
-        <li><strong>승전 연회</strong>: 승리를 자축하는 성대한 연회가 <span class="emphasis">18:00</span>에 예정되어 있습니다. 현재 시각은 <span class="emphasis">17:00</span>, 수장 <span class="character-skullcrusher">스컬크러셔</span>의 명령에 따라 수색 임무를 완수하기 전까지 이제 한 시간의 여유만이 남아 있습니다.</li>
-      </ul>
     </div>
   </details>
 </div>

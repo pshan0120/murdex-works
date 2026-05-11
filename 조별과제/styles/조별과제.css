@@ -54,7 +54,6 @@
 .story-content ul {
     list-style: none;
     padding-left: 0;
-    margin-bottom: 1.5em;
 }
 
 .story-content li {
@@ -253,13 +252,13 @@
 }
 
 .story-content .goal-list {
-    margin-top: 1rem;
+    margin-top: 0rem;
     list-style: none;
     padding-left: 0;
 }
 
 .story-content .goal-list li {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
     padding-left: 1.5em;
     position: relative;
 }
@@ -873,4 +872,60 @@
         font-size: 0.95rem;
         line-height: 1.8;
     }
+}
+
+/* --- 캐릭터 테마곡 섹션 --- */
+.story-content .theme-song-section {
+    margin: 24px 0;
+    padding: 16px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.story-content .theme-song-section h4 {
+    margin-top: 0;
+    color: #fbbf24;
+    font-size: 1.1em;
+    margin-bottom: 8px;
+}
+
+.story-content .theme-song-section .theme-song-tip {
+    font-size: 1.1em;
+    color: #9ca3af;
+    margin-bottom: 8px;
+}
+
+.story-content .theme-song-section .theme-song-warning {
+    font-size: 0.9em;
+    color: #ef4444;
+    margin-bottom: 16px;
+}
+
+.story-content .theme-song-section iframe {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* 도입부 내러티브 강조 박스 (캠퍼스 미스터리 스타일) */
+.story-content .intro-narrative {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.03), rgba(255, 107, 107, 0.05));
+    border-left: 4px solid #ff6b6b;
+    border-radius: 4px;
+    padding: 1.5rem;
+    margin: 1.5rem 0 2.5rem 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.story-content .intro-narrative p {
+    text-align: left;
+    font-size: 1.02em;
+    line-height: 1.8;
+    margin-bottom: 1.2em;
+    color: rgba(245, 245, 245, 0.95);
+    word-break: keep-all;
+}
+
+.story-content .intro-narrative p:last-child {
+    margin-bottom: 0;
 }
