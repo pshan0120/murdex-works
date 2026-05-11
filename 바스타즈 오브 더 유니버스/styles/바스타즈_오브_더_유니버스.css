@@ -147,7 +147,7 @@
 .story-content details summary {
     cursor: pointer;
     user-select: none;
-    padding: 1.0em;
+    padding: 0.8em;
     background: linear-gradient(135deg, rgba(165, 42, 42, 0.1), rgba(0, 0, 0, 0.3));
     border: 2px solid var(--fantasy-gold);
     border-radius: 6px;
