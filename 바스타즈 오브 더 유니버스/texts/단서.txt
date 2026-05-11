@@ -21,17 +21,17 @@
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 말리스
-의도 : 딸의 영혼이 갇힌 봉인석을 찾아냈으며, 자신의 수족이 되지 않으면 그걸 파괴하겠다는 내용. 말리스가 딸을 구하기 위해 바스타즈에 들어왔다는 것을 알게 되면, 말리스를 의심할 수 있음.
+의도 : 딸의 영혼이 갇힌 마력석을 찾아냈으며, 자신의 수족이 되지 않으면 그걸 파괴하겠다는 내용. 말리스가 딸을 구하기 위해 바스타즈에 들어왔다는 것을 알게 되면, 말리스를 의심할 수 있음.
 내용 :
 고풍스러운 필체로 쓰여진 쪽지를 읽어 보았다.
-'말리스, 그대 딸아이의 가냘픈 영혼은 지금 내 손안의 봉인석 속에서 아주 작게 떨고 있더군. 이 아이를 영원한 침묵 속에 가둘지, 다시 품으로 돌려보낼지는 오직 그대의 정성에 달렸네. 오늘 밤부터 내 침소에서 개인적인 시중을 들어주게나. 잠자리를 살피는 사소한 일부터... 내가 요구하는 그 모든 은밀한 수발까지 말이야. 그대의 헌신이 부족하다면, 이 돌은 내 손안에서 무참히 바스러질 것이네.'
+'말리스, 그대 딸아이의 가냘픈 영혼은 지금 내 손안의 마력석 속에서 아주 작게 떨고 있더군. 이 아이를 영원한 침묵 속에 가둘지, 다시 품으로 돌려보낼지는 오직 그대의 정성에 달렸네. 오늘 밤부터 내 침소에서 개인적인 시중을 들어주게나. 잠자리를 살피는 사소한 일부터... 내가 요구하는 그 모든 은밀한 수발까지 말이야. 그대의 헌신이 부족하다면, 이 돌은 내 손안에서 무참히 바스러질 것이네.'
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">고풍스러운 필체</span>로 쓰여진 쪽지를 읽어 보았다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      <span class="character-malice">말리스</span>, 그대 딸아이의 가냘픈 영혼은 지금 내 손안의 <span class="emphasis">봉인석</span> 속에서 아주 작게 떨고 있더군. 이 아이를 영원한 침묵 속에 가둘지, 다시 품으로 돌려보낼지는 오직 그대의 정성에 달렸네.
+      <span class="character-malice">말리스</span>, 그대 딸아이의 가냘픈 영혼은 지금 내 손안의 <span class="emphasis">마력석</span> 속에서 아주 작게 떨고 있더군. 이 아이를 영원한 침묵 속에 가둘지, 다시 품으로 돌려보낼지는 오직 그대의 정성에 달렸네.
       오늘 밤부터 내 침소에서 개인적인 시중을 들어주게나. 잠자리를 살피는 사소한 일부터... 내가 요구하는 그 모든 <span class="highlight">은밀한 수발</span>까지 말이야. 그대의 헌신이 부족하다면, 이 돌은 내 손안에서 무참히 바스러질 것이네.
     </div>
   </div>
@@ -925,7 +925,7 @@ HTML :
   </div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>스컬크러셔 님께 호되게 질책을 듣고 돌아온 <span class="character-gorehoof">고어후프</span> 님은 평소처럼 화를 내는 대신, 잠자코 자리에 앉으셨어요. 그러더니 테이블 위에 놓인 <span class="emphasis">작은 종이 조각</span>을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 눈빛이 마치 굶주린 맹수처럼 <span class="emphasis">붉게 번뜩이기</span> 시작했습니다. 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 <span class="emphasis">황급히 식당 쪽으로</span> 달려가셨습니다.</div>
+    <div>스컬크러셔 님께 호되게 질책을 듣고 돌아온 <span class="character-gorehoof">고어후프</span> 님은 평소처럼 화를 내는 대신, 잠자코 자리에 앉으셨어요. 그러더니 테이블 위에 놓인 <span class="emphasis">작은 종이 조각</span>을 집어 들고 한참을 뚫어지게 보시더군요. 그 직후였어요. 갑자기 그분의 호흡이 거칠어지더니 눈빛이 마치 굶주린 맹수처럼 <span class="emphasis">붉게 번뜩이기</span> 시작했습니다. 억지로 비명을 참는 듯 몸을 부들부들 떠시더니, 무언가에 쫓기는 사람처럼 황급히 <span class="emphasis">식당</span> 쪽으로 달려가셨습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A medium shot (upper body) of a frightened royal maid huddled in a dark, shadowy corner of a massive medieval banquet hall. Her face is mostly obscured by deep shadows and turned slightly away as if nervously testifying. She wears simple, rough linen servant clothing. Shallow depth of field, the background faintly implies a grand, dimly lit feast hall with blurred stone pillars and warm flickering candlelights in the distance. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -965,7 +965,7 @@ HTML :
   <div class="document-page">
     <div class="document-body small">
       <div>■ <strong>빛의 검</strong>: 빛의 근원에서 추출한 순수한 에너지의 정수. 오직 티끌 하나 없는 순수한 <span class="emphasis">빛의 속성</span>을 지닌 자만이 다룰 수 있다. 자격 없는 자가 감히 손을 대는 순간, 영혼까지 태워버릴 듯한 성스러운 백색 불꽃이 일어난다는 소문은 사실이었다.</div>
-      <div>■ <strong>어둠의 단검</strong>: 그림자를 실체화한 듯한 칼날은 <span class="emphasis">빛의 속성</span>을 지닌 존재에게 치명적인 일격을 가할 수 있는 힘을 품고 있다. 지하 창고에 보관 중이었으나, 20년 전 반출된 뒤 행방이 묘연하다.</div>
+      <div>■ <strong>어둠의 단검</strong>: 그림자를 실체화한 듯한 칼날은 <span class="emphasis">빛의 속성</span>을 지닌 존재에게 치명적인 일격을 가할 수 있는 힘을 품고 있다. <span class="emphasis">지하 창고</span>에 보관 중이었으나, 20년 전 반출된 뒤 행방이 묘연하다.</div>
       <div>■ <strong>고대인의 검</strong>: 옛 이야기 속에나 등장하는 한손검. 칼날 전체가 마치 달빛을 머금은 듯 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신을 따라 정교하게 새겨진 독특한 고대인의 문자들이 상징이다. 수천 년 전 소실된 것으로 알려졌으며, 현재까지도 그 행방을 아는 자가 없다.</div>
       <div>■ <strong>공포의 검</strong>: 과거 마신이 휘둘렀다고 전해지는 대검. 검신에서 소름 끼치는 <span class="emphasis">검붉은 광채</span>가 끊임없이 번뜩이며, 주변에 안개와 같은 불길한 기운을 퍼뜨린다고 한다.</div>
     </div>
@@ -1069,7 +1069,7 @@ HTML :
     <div class="document-body small">
       <div>수신: <span class="character-solite">솔라이트</span> 작전 지휘부</div>
       <div>발신: <span class="emphasis">26호</span></div>
-      <div>내용: 수뇌부 신뢰 확보됨. <span class="highlight">초기 주둔지 좌표 및 주요 보급 경로</span> 파악 완료. 차주 예정된 &apos;안개의 계곡&apos; 이동 시, 북방 사면을 매복 지점으로 활용할 계획임을 확인. 해당 위치에서의 선제 타격 시 유의미한 타격 가능할 것으로 판단됨. 신속한 매복 조 편성을 권고함.</div>
+      <div>내용: <span class="emphasis">수뇌부 신뢰 확보</span>됨. 초기 주둔지 좌표 및 주요 보급 경로 파악 완료. 차주 예정된 &apos;안개의 계곡&apos; 이동 시, 북방 사면을 매복 지점으로 활용할 계획임을 확인. 해당 위치에서의 선제 타격 시 유의미한 타격 가능할 것으로 판단됨. 신속한 매복 조 편성을 권고함.</div>
     </div>
   </div>
 </div>
@@ -1180,10 +1180,10 @@ HTML :
 관련 : 말리스, 발로그, 슬리더
 의도 : 흉기가 현장에서 사라졌으며, 정수리에 깊은 자상이 남았음을 암시.
 내용 :
-엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 위에서부터 순식간에 박힌 듯하다.
+엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 위에서부터 순식간에 박힌 듯 하다.
 HTML :
 <div class="story-content">
-  <div>엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 위에서부터 순식간에 박힌 듯하다.</div>
+  <div>엘드리치의 정수리에는 깊은 자상이 남아 있다. 무엇인가 날카로운 것이 <span class="emphasis">위에서부터 순식간에</span> 박힌 듯 하다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic crime scene in a dark, candlelit study. View from behind a high-backed gothic armchair. An elderly man with long white hair and navy blue robes sits in the chair, slumped forward over a heavy wooden desk. His head is down against the desk surface. A dark, spreading pool of blood is clearly visible on the desk surface around his head, staining the wood. The background shows dark, blurred bookshelves. Detailed 1980s fantasy oil painting style. Rich, thick textures of wood and cloth. Moody chiaroscuro lighting from candles inside the room. No vertical lines, no rays of light, and no artificial shadows. The focus is entirely on the still, slumped figure and the dark pool of blood on the desk.
 장소 : 02_서재
@@ -1206,10 +1206,10 @@ HTML :
 관련 : 발로그
 의도 : 발로그가 비행해서 올라갔다는 증거.
 내용 :
-서재 천장, 지상의 소란함이 닿지 않는 어둠의 끝자락에 매달린 화려한 샹들리에다. 금속 프레임의 정교한 무늬들은 아래에서 바라보는 이들에게 그 세세한 형상을 쉽게 허락하지 않을 만큼 멀리 떨어져 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.
+높은 서재 천장에는 엘드리치가 앉아 있던 의자 바로 위 지점에 화려한 샹들리에가 매달려 있다. 금속 프레임에 수많은 크리스털 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.
 HTML :
 <div class="story-content">
-  <div>서재 천장, <span class="emphasis">지상의 소란함이 닿지 않는 어둠의 끝자락</span>에 매달린 화려한 <span class="highlight">샹들리에</span>다. 금속 프레임의 정교한 무늬들은 아래에서 바라보는 이들에게 <span class="emphasis">그 세세한 형상을 쉽게 허락하지 않을 만큼 멀리</span> 떨어져 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.</div>
+  <div><span class="emphasis">높은 서재 천장</span>에는 엘드리치가 앉아 있던 <span class="emphasis">의자 바로 위</span> 지점에 화려한 <span class="emphasis">샹들리에</span>가 매달려 있다. 금속 프레임에 수많은 <span class="emphasis">크리스털 조각</span>들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A medium close-up focused shot of a grand, ornate gothic chandelier that fills most of the frame. The intricate dark wrought iron frame and glittering, faceted crystal pendants are the primary focus, radiating a warm, flickering golden glow from within. The light refracts through the glass, casting sharp, dramatic highlights and deep, rich shadows within the chandelier&apos;s structure itself. The background is completely swallowed by deep, velvety shadows, ensuring undivided attention on the intricate craftsmanship and the haunting light of the chandelier. Detailed 1980s fantasy oil painting style. Heavy brushstrokes, rich textures (dark iron, sparkling crystal), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the interplay of golden light and dark metal. No background elements, just the chandelier itself glowing in the darkness.
 장소 : 02_서재
@@ -1248,10 +1248,10 @@ HTML :
   <div class="document-page">
     <div class="document-body small">
       <div><strong>달빛 아래 저마다의 무거운 짐을 지고 걷는 길동무들에게, 내 작은 손길이 그대들을 쉬게 하는 쉼터가 되기를 바라며...</strong></div>
-      <div>1. <span class="highlight">노란 돌</span> 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.</div>
+      <div>1. <span class="emphasis">노란 돌</span> 속에 잠든 아이의 숨결이, 그녀의 드높은 뜻을 보듬어 이 깊은 어둠 속에서도 우리를 하나로 잇는 붉은 실이 되었구나.</div>
       <div>2. 달궈진 쇠를 두드려 <span class="emphasis">날개</span>를 만드려는 그 커다란 꿈이, 발목에 감긴 고운 끈을 따라 나를 향한 떨림으로 울려 퍼지니 참으로 보기 좋도다.</div>
       <div>3. 자신이 꺼뜨렸다 믿던 저 <span class="emphasis">밝은 해</span>가, 다시 제 앞에 서 있으니... 가슴 속에 품어둔 오랜 말이 결국 그를 바른 길로 이끄는 가시가 될 터다.</div>
-      <div>4. 홀로 <span class="highlight">벗을 삼키던</span> 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.</div>
+      <div>4. 홀로 <span class="emphasis">벗을 삼키던</span> 그 아픔을 내가 보았노니, 무리에서 벗어나 길을 잃지 않도록 그 무거운 몸을 내 발치에 더 낮게 엎드려 쉬게 하려 함이라.</div>
       <div>5. 칼끝이 머무는 곳은 여전히 저 멀리 <span class="emphasis">하얀 성의 빛</span>을 그리워하고 있으나, 지난날 남겨진 자국이 내 서랍 속에 머무는 한 결코 홀로 서지 못하리라.</div>
     </div>
   </div>
@@ -1348,7 +1348,7 @@ HTML :
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      <div>사역마와 계약주 사이의 <span class="emphasis">마법 계약</span>은 생사의 끈이 얽힌 절대적인 것이다. 그 어떠한 사역마도 <span class="highlight">계약주를 자신의 의지로 해할 수 없으며</span>, 이 강력한 구속은 오직 <span class="highlight">계약주 스스로의 의지로 계약을 해지</span>하거나, <span class="highlight">계약주가 죽었을 때</span>에만 비로소 파기된다.</div>
+      <div>사역마와 계약주 사이의 <span class="emphasis">마법 계약</span>은 생사의 끈이 얽힌 절대적인 것이다. 그 어떠한 사역마도 <span class="emphasis">계약주를 자신의 의지로 해할 수 없으며</span>, 이 강력한 구속은 오직 <span class="emphasis">계약주 스스로의 의지로 계약을 해지</span>하거나, <span class="emphasis">계약주가 죽었을 때</span>에만 비로소 파기된다.</div>
     </div>
   </div>
 </div>
@@ -1382,8 +1382,8 @@ HTML :
     <h4>&lt;사후 보고 - 26호 폐기에 대한 건&gt;</h4>
     <div class="document-body small">
       <div>상태: <span class="emphasis">작전 실패</span></div>
-      <div>보안 유지를 위해 결정된 폐기 작전 수행 중 예기치 못한 사태 발생. 매복 조가 대상을 포위하였으나, 정체불명의 <span class="highlight">수인종</span>이 난입하여 봉쇄망에 균열 발생, 그 결과 목표 탈주함.</div>
-      <div>이후 <span class="highlight">26호</span>를 <span class="emphasis">&apos;배신자&apos;</span>로, 해당 개체를 <span class="emphasis">&apos;위험 요소&apos;</span>로 재분류함.</div>
+      <div>보안 유지를 위해 결정된 폐기 작전 수행 중 예기치 못한 사태 발생. 매복 조가 대상을 포위하였으나, 정체불명의 <span class="emphasis">수인종</span>이 난입하여 봉쇄망에 균열 발생, 그 결과 목표 탈주함.</div>
+      <div>이후 <span class="emphasis">26호</span>를 <span class="emphasis">&apos;배신자&apos;</span>로, 해당 개체를 <span class="emphasis">&apos;위험 요소&apos;</span>로 재분류함.</div>
     </div>
   </div>
 </div>
@@ -1420,9 +1420,9 @@ HTML :
     <div class="document-body small">
       <div>대상: <span class="character-solite">기사 류크</span></div>
       <div>사유: <span class="emphasis">대정화 완수 및 변방 행성 평정</span></div>
-      <div>내역: <span class="highlight">제2외곽 행성 자치권 하사 및 행성 총독 임명</span></div>
+      <div>내역: <span class="emphasis">제2외곽 행성 자치권 하사 및 행성 총독 임명</span></div>
       <div class="divider-gold"></div>
-      <div>비고: 대상은 부임 직후 <span class="emphasis">실종</span>, 통치 공백 장기화에 의거하여 해당 직위를 <span class="emphasis">공석</span> 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함</div>
+      <div>비고: 대상은 부임 직후 <span class="emphasis">실종</span>, 통치 공백 장기화에 의거하여 해당 직위를 공석 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함</div>
     </div>
   </div>
 </div>
@@ -1451,7 +1451,7 @@ HTML :
 문서고 선반 구석에 놓여 있던 새까만 단검이다. 칼날에는 검붉은 혈흔이 묻어 있다. 자루 부분을 만져보니 검은 가루가 묻어 나온다.
 HTML :
 <div class="story-content">
-  <div>문서고 선반 구석에 놓여 있던 <span class="highlight">새까만 단검</span>이다. 칼날에는 <span class="emphasis">검붉은 혈흔</span>이 묻어 있다. 자루 부분을 만져보니 <span class="highlight">검은 가루</span>가 묻어 나온다.</div>
+  <div>문서고 선반 구석에 놓여 있던 <span class="emphasis">새까만 단검</span>이다. 칼날에는 <span class="emphasis">검붉은 혈흔</span>이 묻어 있다. 자루 부분을 만져보니 <span class="emphasis">검은 가루</span>가 묻어 나온다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a dark, obsidian-like dagger tucked away in the corner of a dusty archive shelf, partially hidden between ancient, leather-bound books. Flickering candlelight catches the lethal, sharp edge of the blade, revealing a dark crimson bloodstain. The background shows the blurred textures of old parchment and wood. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 06_문서고
@@ -1480,7 +1480,7 @@ HTML :
 굳게 잠긴 지하창고 문의 중앙, 정교하게 각인된 물결 문양이 눈부신 빛을 내뿜으며 문 전체로 퍼져나간다. 차가운 청람색 위압감을 내뿜던 마법 자물쇠가 성스러운 은빛 광휘와 공명하더니, 이윽고 육중한 기계음과 함께 스스로 잠금을 해제하며 거대한 철문이 서서히 열리기 시작한다.
 HTML :
 <div class="story-content">
-  <div>굳게 잠긴 지하창고 문의 중앙, 정교하게 각인된 <span class="highlight">물결 문양</span>이 눈부신 빛을 내뿜으며 문 전체로 퍼져나간다. 차가운 청람색 위압감을 내뿜던 마법 자물쇠가 <span class="emphasis">성스러운 은빛 광휘</span>와 공명하더니, 이윽고 육중한 기계음과 함께 스스로 잠금을 해제하며 거대한 철문이 서서히 열리기 시작한다.</div>
+  <div>굳게 잠긴 지하창고 문의 중앙, 정교하게 각인된 <span class="emphasis">물결 문양</span>이 눈부신 빛을 내뿜으며 문 전체로 퍼져나간다. 차가운 청람색 위압감을 내뿜던 마법 자물쇠가 <span class="emphasis">성스러운 은빛 광휘</span>와 공명하더니, 이윽고 육중한 기계음과 함께 스스로 잠금을 해제하며 거대한 철문이 서서히 열리기 시작한다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain exactly the same composition, perspective, and heavy iron texture as the provided reference image (clue_26). An extreme macro close-up focus on the same magic lock from the previous scene, but now a blindingly bright, holy silver and pure white light emanates from its central wavy geometric engravings. The divine radiance pulsates and spreads across the riveted iron-bound door, illuminating the cold metal with intense silver brilliance. No blue light remains; only the pure, sanctified silver glow that resonates with the holy sword. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting. Focus on the transition where the silver light meets the dark, weathered iron of the door.
 장소 : 07_지하창고
@@ -1562,7 +1562,7 @@ HTML :
 지하창고 구석 벽면 아래로 연결된 비좁은 배수로다. 주변에는 약간의 물기가 남아 있다.
 HTML :
 <div class="story-content">
-  <div>지하창고 구석 벽면 아래로 연결된 <span class="emphasis">비좁은 배수로</span>다. 주변에는 <span class="highlight">약간의 물기</span>가 남아 있다.</div>
+  <div>지하창고 구석 벽면 아래로 연결된 <span class="emphasis">비좁은 배수로</span>다. 주변에는 <span class="emphasis">약간의 물기</span>가 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain the same perspective and floor-level view as the provided reference image (25_지하창고_1.jpg). An extreme macro close-up focus on a heavy, iron-grated drainage cover set into the dark stone floorboards in a corner of the underground warehouse. Only a small, subtle amount of moisture is visible, with tiny glistening water droplets on the metal grate and a faint dampness on the surrounding wet stone tiles. The rest of the floor is dry, creating a clear contrast with the localized wetness near the drain. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered iron, cold damp stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the delicate, slight wetness as a haunting clue. No background elements, just the floor and the grate.
 장소 : 07_지하창고
@@ -1744,7 +1744,7 @@ HTML :
 무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 뭉툭한 사각형 형태의 이빨 자국이 선명하다.
 HTML :
 <div class="story-content">
-  <div>무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 <span class="emphasis">뭉툭한 사각형 형태의 이빨 자국</span>이 선명하다.
+  <div>무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 <span class="character-bastards">바스타즈</span>의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 <span class="emphasis">뭉툭한 사각형 형태의 이빨 자국</span>이 선명하다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a violently torn and mangled steel breastplate fragment lying on a dark, cold stone floor. One large section and a jagged corner of the armor are completely ripped away, leaving a violently twisted, jagged, and mangled metallic edge. The broken steel is crumpled and warped with immense physical force, showing raw, unrefined destruction. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted dark iron, sharp jagged steel, rough weathered stone), heavy brushstrokes, dramatic chiaroscuro lighting, heavy atmosphere. Focus on the brutal, irregular jagged break of the mangled metal fragment. No symbols, no patterns, just the raw destruction of the steel.
 장소 : 04_무기고
@@ -1771,7 +1771,7 @@ HTML :
 마법탑 상층부를 지키던 마법사들이 하늘을 올려다보는 자세 그대로 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 소유자의 마력이 폭주하며 발생한 과부하를 견디지 못한 듯 모두 검게 타버린 채 매캐한 연기를 내뿜고 있다.
 HTML :
 <div class="story-content">
-  <div>마법탑 상층부를 지키던 마법사들이 <span class="emphasis">하늘을 올려다보는 자세 그대로</span> 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 소유자의 <span class="emphasis">마력이 폭주하며 발생한 과부하</span>를 견디지 못한 듯 모두 <span class="highlight">검게 타버린 채 매캐한 연기</span>를 내뿜고 있다.</div>
+  <div>마법탑 상층부를 지키던 마법사들이 <span class="emphasis">하늘을 올려다보는 자세 그대로</span> 쓰러져 있다. 기이하게도 그들이 서 있던 좁은 반경은 폭풍의 눈처럼 고요한 흔적만이 남았으나, 그 경계 너머의 지면은 무언가에 강력하게 짓눌린 듯 사방으로 으깨지며 터져 나가 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 소유자의 <span class="emphasis">마력이 폭주하며 발생한 과부하</span>를 견디지 못한 듯 모두 <span class="emphasis">검게 타버린 채 매캐한 연기</span>를 내뿜고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a fallen sorcerer&apos;s staff and burnt jewelry lying on a scorched, cracked stone floor. Tendrils of faint smoke rise from the staff. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 08_마법탑
@@ -1799,7 +1799,7 @@ HTML :
 <div class="story-content">
   <div class="script-direction">조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다.</div>
   <div class="divider-gold"></div>
-  <div>정오쯤이었을 겁니다. 성벽 위를 날아다니던 그자의 날갯짓이 갑자기 멈추더니, 그대로 균형을 잃고 <span class="emphasis">지면으로 수직 추락</span>했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요. 평소 번뜩이던 금색 눈동자는 초점이 완전히 풀린 채 흐릿해져 있었고, 마치 <span class="highlight">온몸의 근력이 일시에 마비된 것처럼</span> 무력하게 엎드려 있었습니다.</div>
+  <div>정오쯤이었을 겁니다. 성벽 위를 날아다니던 그자의 날갯짓이 갑자기 멈추더니, 그대로 균형을 잃고 <span class="emphasis">지면으로 수직 추락</span>했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요. 평소 번뜩이던 금색 눈동자는 초점이 완전히 풀린 채 흐릿해져 있었고, 마치 <span class="emphasis">온몸의 근력이 일시에 마비된 것처럼</span> 무력하게 엎드려 있었습니다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured sorcerer (prisoner) seen from behind, sitting motionless on a heavy stone chair in a high-vaulted chamber of the Mage Tower (based on ref 11). The Mage Tower setting is visible in the background with grand arches and cold, mystical stone architecture with bluish magic glow in the distance. The prisoner, wearing tattered dark robes and a hood, sits with his head bowed and arms slightly positioned behind, showing a resigned and defeated state. Faint blue magical light or cold candlelight illuminates the vast, silent, and somber chamber. Extremely shallow depth of field, focused on the prisoner&apos;s back. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, tattered fabrics, old wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the solitary, defeated silhouette of the wizard as he provides his testimony. No face visible, just the back of the figure&apos;s head and shoulders.
 장소 : 08_마법탑
@@ -1916,7 +1916,7 @@ HTML :
   <div class="script-direction"><span class="character-slither">슬리더</span>를 수행하던 암살대원의 실무적인 보고 내용이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>대장님은 항상 품속에 <span class="emphasis">새카만 단검</span> 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 빛을 전혀 반사하지 않는 특이한 재질인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 <span class="highlight">한시도 몸에서 떼지 않는 것</span>을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다.</div>
+    <div>대장님은 항상 품속에 <span class="emphasis">단검</span> 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 <span class="emphasis">빛을 전혀 반사하지 않는 특이한 재질</span>인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an elite assassin member (scout) seen from behind, standing in the long, dimly lit central corridor of the fortress (as seen in 12_중앙_복도.png). The assassin is clad in dark, non-reflective leather armor and a deep hood, his silhouette blending into the heavy shadows cast by the high arcs and stone pillars of the corridor. He is captured in a still, alert posture as if delivering a confidential report. In the background, a single flickering wall torch casts a narrow, dancing pool of warm light, highlighting the rough texture of the ancient stone floor and the cold, dark atmosphere of the hallway. Extremely shallow depth of field, focused on the steady, mysterious presence of the scout. No face visible, just the dark silhouette in the shadows. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -1987,13 +1987,13 @@ HTML :
   <div class="document-page">
     <h4>&lt;바스타즈 강령&gt;</h4>
     <div class="document-body small">
-      <div>1조. 제 한 몸이나 <b>핏줄의 안위</b>만을 챙기는 자는 <span class="highlight">엄벌</span>한다.</div>
-      <div>2조. 목표를 달성하기 전 <b>이탈</b>하려는 자는 <span class="emphasis">도망자</span>로 간주한다.</div>
-      <div>3조. 동료의 <b>명예를 더럽히는 자</b>는 <span class="highlight">짐승</span>으로 보아 무리에서 내쫓는다.</div>
-      <div>4조. 어떠한 이유로든 <b>동료를 해치는 것</b>은 <span class="emphasis">용납하지 않는다</span>.</div>
-      <div>5조. 적과 <b>내통</b>하여 무리를 위험에 빠뜨린 자는 <span class="highlight">배신자</span>로 처단한다.</div>
-      <div>6조. 대장은 대원의 <b>목숨과 규칙</b>을 끝까지 지킨다.</div>
-      <div>7조. 실책으로 <b>동료를 사지</b>로 몰아넣은 자는 <span class="emphasis">무거운 책임</span>을 묻는다.</div>
+      <div>1조. 제 한 몸이나 <span class="emphasis">핏줄의 안위</span>만을 챙기는 자는 <span class="emphasis">엄벌</span>한다.</div>
+      <div>2조. 목표를 달성하기 전 <span class="emphasis">이탈</span>하려는 자는 <span class="emphasis">도망자</span>로 간주한다.</div>
+      <div>3조. 동료의 <span class="emphasis">명예를 더럽히는 자</span>는 <span class="emphasis">짐승</span>으로 보아 무리에서 내쫓는다.</div>
+      <div>4조. 어떠한 이유로든 <span class="emphasis">동료를 해치는 것</span>은 <span class="emphasis">용납하지 않는다</span>.</div>
+      <div>5조. 적과 <span class="emphasis">내통</span>하여 무리를 위험에 빠뜨린 자는 <span class="emphasis">배신자</span>로 처단한다.</div>
+      <div>6조. 대장은 대원의 <span class="emphasis">목숨과 규칙</span>을 끝까지 지킨다.</div>
+      <div>7조. 실책으로 <span class="emphasis">동료를 사지</span>로 몰아넣은 자는 <span class="emphasis">무거운 책임</span>을 묻는다.</div>
     </div>
   </div>
 </div>
