@@ -892,3 +892,89 @@
 .story-content .intro-narrative p:last-child {
     margin-bottom: 0;
 }
+
+/* --- ���� ���� �ȳ� �ڽ� (���� Ȯ�ο�) --- */
+.story-content .role-notice {
+    padding: 1.2rem;
+    margin: 1.5rem 0 2rem 0;
+    border-radius: 12px;
+    text-align: center;
+    backdrop-filter: blur(4px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.story-content .role-notice .role-label {
+    font-family: "Cinzel", "Nanum Myeongjo", serif;
+    font-size: 0.85em;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+}
+
+.story-content .role-notice .role-text {
+    font-size: 1.15em;
+    font-weight: 700;
+    margin: 0;
+}
+
+.story-content .role-notice .role-text span {
+    font-size: 1.2em;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* 1. ������ �ƴ� ��� (innocent) */
+.story-content .role-notice.innocent {
+    background: rgba(168, 230, 207, 0.1);
+    border: 2px solid rgba(168, 230, 207, 0.3);
+}
+
+.story-content .role-notice.innocent .role-label {
+    color: #a8e6cf;
+}
+
+.story-content .role-notice.innocent .is-innocent {
+    color: #a8e6cf;
+}
+
+/* 2. ���� (true-culprit) */
+.story-content .role-notice.true-culprit {
+    background: rgba(255, 77, 77, 0.1);
+    border: 2px solid rgba(255, 77, 77, 0.4);
+}
+
+.story-content .role-notice.true-culprit .role-label {
+    color: #ff4d4d;
+}
+
+.story-content .role-notice.true-culprit .is-culprit {
+    color: #ff4d4d;
+}
+
+/* 3. ���� (accomplice) */
+.story-content .role-notice.accomplice {
+    background: rgba(251, 146, 60, 0.1);
+    border: 2px solid rgba(251, 146, 60, 0.4);
+}
+
+.story-content .role-notice.accomplice .role-label {
+    color: #fb923c;
+}
+
+.story-content .role-notice.accomplice .is-culprit {
+    color: #fb923c;
+}
+
+/* 4. �渷 (mastermind) */
+.story-content .role-notice.mastermind {
+    background: rgba(168, 85, 247, 0.1);
+    border: 2px solid rgba(168, 85, 247, 0.4);
+}
+
+.story-content .role-notice.mastermind .role-label {
+    color: #a855f7;
+}
+
+.story-content .role-notice.mastermind .is-culprit {
+    color: #a855f7;
+}

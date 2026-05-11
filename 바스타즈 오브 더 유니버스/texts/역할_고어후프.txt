@@ -55,6 +55,12 @@
       </span>
     </summary>
     <div class="collapsible-content">
+    
+      <div class="role-notice innocent">
+        <div class="role-label">[ 본인 확인 ]</div>
+        <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+      </div>
+
       <p>
         붉은 대지와 푸른 평원이 지평선 끝까지 펼쳐진 고향 행성은 우주의 변방에 위치한 평온한 낙원이었다. 어린 시절, 당신은 드넓은 초원을 가로지르며 친구들과 뛰놀았고, 밤이면 거대한 붉은 절벽 아래 모여 앉아 흐르는 강물 소리를 자장가 삼아 평화로운 잠에 들곤 했다. 워낙 외진 성계의 낙후된 행성이었기에, 전 우주가 <span class="character-solite">솔라이트</span>의 <span class="emphasis">빛의 성전</span>으로 피비린내 나는 전쟁터가 되어가고 있다는 소식조차 당신의 부족은 꿈에도 알지 못했다. 하지만 <span class="character-solite">솔라이트</span>의 황금 함대는 결국 이 평화로운 낙원까지 집어삼키러 도달했다.
       </p>
