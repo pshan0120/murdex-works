@@ -1,0 +1,60 @@
+1. 순서
+20
+
+2. 단계 이름
+기억의 파편 X
+
+3. 단계 유형
+NARRATIVE
+
+4. 예상 소요 시간
+5분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+
+7. 이전 단계 정답
+A: 탄사 / C: 선전
+
+8. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 대본 낭독</div>
+
+  <div class="guide-box">
+    <p>각 플레이어는 자신의 대사를 감정을 담아 낭독해 주세요.</p>
+  </div>
+
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-leba">레바(A)</span></span>: "이번 문제를 풀고 나니... 아름답게 펼쳐진 황금빛 들판을 보며 나도 모르게 입 밖으로 흘려보냈던 그 경탄이 떠올랐어. 세상을 향한 순수한 찬사 말이야. 하지만 이상하게 그 소리가 곧 기괴하게 뒤틀리더니, 소름 끼치는 웃음소리로 변해 내 귓가를 맴돌기 시작했어. 이 방 안의 공기처럼 말이야."
+    </div>
+    
+    <div class="script-line">
+      <span class="script-character"><span class="character-niac">니악(C)</span></span>: "난 온 세상이 무너질 듯 울려 퍼지던 엄중한 목소리가 생각났어요. 이제 피할 수 없는 국면에 접어들었다고, 물러설 곳은 없다고 선포하던 그 날카로운 외침 말이야. 그런데 그 소리를 떠올릴수록 머릿속이 복잡하게 꼬이고 타버릴 것 같은 지독한 통증이 느껴져요. 당장이라도 모든 게 끊어질 것처럼 아슬아슬하게."
+    </div>
+    
+    <div class="script-line">
+      <span class="script-character"><span class="character-leba">레바(A)</span></span>: "날카로운 외침... 니악, 네놈이 말하는 그 요란한 소음이야말로 결국 나를 현혹하려던 악한 속삭임이었구나. 이제 곧 끝난다. 네놈의 그 사악한 혀도 곧 멈추겠지. 진실의 패널 앞에 서면 네놈의 위장은 모두 벗겨질 거다! 너는 결코 내가 될 수 없는 가짜야!"
+    </div>
+    
+    <div class="script-line">
+      <span class="script-character"><span class="character-niac">니악(C)</span></span>: "무슨 소릴 하는 거야! 난 그냥 여기서 나가고 싶을 뿐이에요. 저 패널에 정답을 입력하고, 내 평범한 일상으로 돌아갈 거라고! 당신 같은 비상식적인 망상에 빠진 사람 없는 곳으로 말이야. 어서 비켜요, 내 상식으로는 당신이 정말 위험해 보이니까."
+    </div>
+    
+    <div class="script-line">
+      <span class="script-character"><span class="character-leba">레바(A)</span></span>: "돌아갈 곳? 네놈에게 돌아갈 곳 따위는 없다! 가서 어둠 속에 처박혀 있거라! 다신 인간 세상에 나오지 못하게 해주마! 너는 결코 빛을 보지 못할 거다! 네놈이 지껄이는 그 허황된 헛소리도 이제 끝이야!"
+    </div>
+    
+    <div class="script-line">
+      <span class="script-character"><span class="character-niac">니악(C)</span></span>: "인간 세상? 여기가 진짜 세상인지 아닌지 당신이 어떻게 알아? 여긴 그냥 쓰레기 같은 환상만 가득한 곳일지도 몰라. 당신처럼 기억이 뒤섞여버린 미친놈들만 모여있는! 이제 마지막 하나만 남았어. 나만이 진짜 인간이라는 걸 증명하면 이 지옥 같은 꿈도 다 깨어나겠지."
+    </div>
+  </div>
+
+  <div class="section-title">2. 다음 단계 안내</div>
+  <p>
+    대본 낭독이 끝났다면 하단의 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
+  </p>
+</div>
