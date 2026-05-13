@@ -1,0 +1,1350 @@
+# 도플로이드 - 상세 단서 목록 (Detailed Clues)
+
+이 문서는 《도플로이드》 내의 모든 조사 가능한 단서와 퀴즈, 기억의 파편을 정리한 것입니다.
+
+---
+
+## [1] 조사 1단계
+
+[clue_01]
+이름 : 레바의 이마 #1
+유형 : 관찰
+단계 : 조사 1단계
+소모AP : 2
+정렬순서 : 10
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 등에 적힌 첫 번째 퀴즈. 정답 '신사'를 역순으로 읽으면 '사신(DEVIL)'이라는 키워드가 도출됨. 이는 레바가 자신을 '사악한 존재'로 오인하게 만드는 첫 번째 트리거임.
+내용 :
+레바의 이마에 아주 작은 글씨로 새겨진 문장이다.
+"어이 젊은 친구, **[  ]**답게 행동해."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "어이 젊은 친구, <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>답게 행동해."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 01_레바_이마_1
+
+[clue_02]
+이름 : 니악의 이마 #1
+유형 : 관찰
+단계 : 조사 1단계
+소모AP : 2
+정렬순서 : 20
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 등에 적힌 첫 번째 퀴즈. 정답 '계기'를 역순으로 읽으면 '기계(ROBOT)'라는 키워드가 도출됨. 이는 니악이 자신을 '인조적인 존재'로 오인하게 만드는 첫 번째 트리거임.
+내용 :
+니악의 이마에 아주 작은 글씨로 새겨진 문장이다.
+"자동차 **[  ]**판을 보니 속도가 너무 빨라."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "자동차 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>판을 보니 속도가 너무 빨라."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 02_니악_이마_1
+
+[clue_03]
+이름 : 레바의 입력 패널 #1
+유형 : 정보
+단계 : 조사 1단계
+소모AP : 2
+정렬순서 : 30
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 첫 번째 힌트. 최종 질문의 답을 구성하는 10개의 알파벳 중 하나이다. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"A"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">A</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'A' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 03_레바_입력패널_1
+
+[clue_04]
+이름 : 니악의 입력 패널 #1
+유형 : 정보
+단계 : 조사 1단계
+소모AP : 2
+정렬순서 : 40
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 첫 번째 힌트. 최종 질문의 답을 구성하는 10개의 알파벳 중 하나이다. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"A"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">A</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'A' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 04_니악_입력패널_1
+
+---
+
+## [2] 조사 2단계
+
+[clue_05]
+이름 : 레바의 목 #2
+유형 : 관찰
+단계 : 조사 2단계
+소모AP : 2
+정렬순서 : 50
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 두 번째 퀴즈. 정답 '기사'를 역순으로 읽으면 '사기(DEVIL)'라는 키워드가 도출됨.
+내용 :
+레바의 목에 아주 작은 글씨로 새겨진 문장이다.
+"오늘자 신문 1면에 뜬 특종 **[  ]** 봤어?"
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "오늘자 신문 1면에 뜬 특종 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span> 봤어?"
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 05_레바_목_1
+
+[clue_06]
+이름 : 니악의 목 #2
+유형 : 관찰
+단계 : 조사 2단계
+소모AP : 2
+정렬순서 : 60
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 두 번째 퀴즈. 정답 '조인'을 역순으로 읽으면 '인조(ROBOT)'라는 키워드가 도출됨.
+내용 :
+니악의 목에 아주 작은 글씨로 새겨진 문장이다.
+"[  ]은 조조의 사촌동생으로 지략과 무예가 뛰어났다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "<span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>은 조조의 사촌동생으로 지략과 무예가 뛰어났다."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 06_니악_목_1
+
+[clue_07]
+이름 : 레바의 입력 패널 #2
+유형 : 정보
+단계 : 조사 2단계
+소모AP : 2
+정렬순서 : 70
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 두 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"D"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">D</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'D' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 07_레바_입력패널_2
+
+[clue_08]
+이름 : 니악의 입력 패널 #2
+유형 : 정보
+단계 : 조사 2단계
+소모AP : 2
+정렬순서 : 80
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 두 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"B"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">B</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'B' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 08_니악_입력패널_2
+
+---
+
+## [3] 조사 3단계
+
+[clue_09]
+이름 : 레바의 어깨 #3
+유형 : 관찰
+단계 : 조사 3단계
+소모AP : 2
+정렬순서 : 90
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 세 번째 퀴즈. 정답 '악사'를 역순으로 읽으면 '사악(DEVIL)'이라는 키워드가 도출됨.
+내용 :
+레바의 어깨에 아주 작은 글씨로 새겨진 문장이다.
+"거리의 **[  ]**들이 연주를 시작했다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "거리의 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>들이 연주를 시작했다."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 09_레바_어깨_1
+
+[clue_10]
+이름 : 니악의 어깨 #3
+유형 : 관찰
+단계 : 조사 3단계
+소모AP : 2
+정렬순서 : 100
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 세 번째 퀴즈. 정답 '유전'을 역순으로 읽으면 '전류(ROBOT)'라는 키워드가 도출됨.
+내용 :
+니악의 어깨에 아주 작은 글씨로 새겨진 문장이다.
+"부모님에게 물려받은 우월한 **[  ]**자."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "부모님에게 물려받은 우월한 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>자."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 10_니악_어깨_1
+
+[clue_11]
+이름 : 레바의 입력 패널 #3
+유형 : 정보
+단계 : 조사 3단계
+소모AP : 2
+정렬순서 : 110
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 세 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"E"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">E</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'E' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 11_레바_입력패널_3
+
+[clue_12]
+이름 : 니악의 입력 패널 #3
+유형 : 정보
+단계 : 조사 3단계
+소모AP : 2
+정렬순서 : 120
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 세 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"H"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">H</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'H' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 12_니악_입력패널_3
+
+---
+
+## [4] 조사 4단계
+
+[clue_13]
+이름 : 레바의 가슴 #4
+유형 : 관찰
+단계 : 조사 4단계
+소모AP : 2
+정렬순서 : 130
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 네 번째 퀴즈. 정답 '주저'를 역순으로 읽으면 '저주(DEVIL)'라는 키워드가 도출됨.
+내용 :
+레바의 가슴 부근에 아주 작은 글씨로 새겨진 문장이다.
+"이번 곡은, **[  ]**하는 연인들을 위해"
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "이번 곡은, <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>하는 연인들을 위해"
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 13_레바_가슴_1
+
+[clue_14]
+이름 : 니악의 가슴 #4
+유형 : 관찰
+단계 : 조사 4단계
+소모AP : 2
+정렬순서 : 140
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 네 번째 퀴즈. 정답 '동작'을 역순으로 읽으면 '작동(ROBOT)'라는 키워드가 도출됨.
+내용 :
+니악의 가슴 부근에 아주 작은 글씨로 새겨진 문장이다.
+"서울시 **[  ]**구 서초동."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "서울시 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>구 서초동."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 14_니악_가슴_1
+
+[clue_15]
+이름 : 레바의 입력 패널 #4
+유형 : 정보
+단계 : 조사 4단계
+소모AP : 2
+정렬순서 : 150
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 네 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"H"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">H</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'H' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 15_레바_입력패널_4
+
+[clue_16]
+이름 : 니악의 입력 패널 #4
+유형 : 정보
+단계 : 조사 4단계
+소모AP : 2
+정렬순서 : 160
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 네 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"M"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">M</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'M' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 16_니악_입력패널_4
+
+---
+
+## [5] 조사 5단계
+
+[clue_17]
+이름 : 레바의 팔뚝 #5
+유형 : 관찰
+단계 : 조사 5단계
+소모AP : 2
+정렬순서 : 170
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 다섯 번째 퀴즈. 정답 '생살'을 역순으로 읽으면 '살생(DEVIL)'이라는 키워드가 도출됨.
+내용 :
+레바의 팔뚝 부근에 아주 작은 글씨로 새겨진 문장이다.
+"지휘관은 부하들의 **[  ]**여탈권을 쥐고 있다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "지휘관은 부하들의 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>여탈권을 쥐고 있다."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 17_레바_팔뚝_1
+
+[clue_18]
+이름 : 니악의 팔뚝 #5
+유형 : 관찰
+단계 : 조사 5단계
+소모AP : 2
+정렬순서 : 180
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 다섯 번째 퀴즈. 정답 '학과'를 역순으로 읽으면 '과학(ROBOT)'라는 키워드가 도출됨.
+내용 :
+니악의 팔뚝 부근에 아주 작은 글씨로 새겨진 문장이다.
+"너 대학교 전공 **[  ]**가 어디니?"
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "너 대학교 전공 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>가 어디니?"
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 18_니악_팔뚝_1
+
+[clue_19]
+이름 : 레바의 입력 패널 #5
+유형 : 정보
+단계 : 조사 5단계
+소모AP : 2
+정렬순서 : 190
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 다섯 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"I"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">I</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'I' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 19_레바_입력패널_5
+
+[clue_20]
+이름 : 니악의 입력 패널 #5
+유형 : 정보
+단계 : 조사 5단계
+소모AP : 2
+정렬순서 : 200
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 다섯 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"N"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">N</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'N' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 20_니악_입력패널_5
+
+---
+
+## [6] 조사 6단계
+
+[clue_21]
+이름 : 레바의 손등 #6
+유형 : 관찰
+단계 : 조사 6단계
+소모AP : 2
+정렬순서 : 210
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 여섯 번째 퀴즈. 정답 '약조'를 역순으로 읽으면 '조약(DEVIL)'이라는 키워드가 도출됨.
+내용 :
+레바의 손등에 아주 작은 글씨로 새겨진 문장이다.
+"저와의 **[  ]**를 잊으셨나이까. 반드시 보위에 오르소서."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "저와의 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>를 잊으셨나이까. 반드시 보위에 오르소서."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 21_레바_손등_1
+
+[clue_22]
+이름 : 니악의 손등 #6
+유형 : 관찰
+단계 : 조사 6단계
+소모AP : 2
+정렬순서 : 220
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 여섯 번째 퀴즈. 정답 '제복'을 역순으로 읽으면 '복제(ROBOT)'라는 키워드가 도출됨.
+내용 :
+니악의 손등에 아주 작은 글씨로 새겨진 문장이다.
+"칼같이 다려 입은 경찰 **[  ]**."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "칼같이 다려 입은 경찰 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 22_니악_손등_1
+
+[clue_23]
+이름 : 레바의 입력 패널 #6
+유형 : 정보
+단계 : 조사 6단계
+소모AP : 2
+정렬순서 : 230
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 여섯 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"L"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">L</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'L' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 23_레바_입력패널_6
+
+[clue_24]
+이름 : 니악의 입력 패널 #6
+유형 : 정보
+단계 : 조사 6단계
+소모AP : 2
+정렬순서 : 240
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 여섯 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"O"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">O</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'O' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 24_니악_입력패널_6
+
+---
+
+## [7] 조사 7단계
+
+[clue_25]
+이름 : 레바의 옆구리 #7
+유형 : 관찰
+단계 : 조사 7단계
+소모AP : 2
+정렬순서 : 250
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 일곱 번째 퀴즈. 정답 '연심'을 역순으로 읽으면 '심연(DEVIL)'이라는 키워드가 도출됨.
+내용 :
+레바의 옆구리 부근에 아주 작은 글씨로 새겨진 문장이다.
+"충심인 줄 알았으나, **[  ]**이었습니다. 연모합니다, 저하."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "충심인 줄 알았으나, <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>이었습니다. 연모합니다, 저하."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 25_레바_옆구리_1
+
+[clue_26]
+이름 : 니악의 옆구리 #7
+유형 : 관찰
+단계 : 조사 7단계
+소모AP : 2
+정렬순서 : 260
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 일곱 번째 퀴즈. 정답 '고사'를 역순으로 읽으면 '사고(ROBOT)'라는 키워드가 도출됨.
+내용 :
+니악의 옆구리 부근에 아주 작은 글씨로 새겨진 문장이다.
+"기말**[  ]** 기간이라 도서관이 꽉 찼어."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "기말<span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span> 기간이라 도서관이 꽉 찼어."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 26_니악_옆구리_1
+
+[clue_27]
+이름 : 레바의 입력 패널 #7
+유형 : 정보
+단계 : 조사 7단계
+소모AP : 2
+정렬순서 : 270
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 일곱 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"M"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">M</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'M' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 27_레바_입력패널_7
+
+[clue_28]
+이름 : 니악의 입력 패널 #7
+유형 : 정보
+단계 : 조사 7단계
+소모AP : 2
+정렬순서 : 280
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 일곱 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"O"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">O</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'O' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 28_니악_입력패널_7
+
+---
+
+## [8] 조사 8단계
+
+[clue_29]
+이름 : 레바의 허벅지 #8
+유형 : 관찰
+단계 : 조사 8단계
+소모AP : 2
+정렬순서 : 290
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 여덟 번째 퀴즈. 정답 '만기'를 역순으로 읽으면 '기만(DEVIL)'이라는 키워드가 도출됨.
+내용 :
+레바의 허벅지 부근에 아주 작은 글씨로 새겨진 문장이다.
+"적금 부은 지 벌써 3년, 드디어 **[  ]**다!"
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "적금 부은 지 벌써 3년, 드디어 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>다!"
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 29_레바_허벅지_1
+
+[clue_30]
+이름 : 니악의 허벅지 #8
+유형 : 관찰
+단계 : 조사 8단계
+소모AP : 2
+정렬순서 : 300
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 여덟 번째 퀴즈. 정답 '동자'를 역순으로 읽으면 '자동(ROBOT)'라는 키워드가 도출됨.
+내용 :
+니악의 허벅지 부근에 아주 작은 글씨로 새겨진 문장이다.
+"귀여운 어린 **[  ]**승이 길을 걷고 있어."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "귀여운 어린 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>승이 길을 걷고 있어."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 30_니악_허벅지_1
+
+[clue_31]
+이름 : 레바의 입력 패널 #8
+유형 : 정보
+단계 : 조사 8단계
+소모AP : 2
+정렬순서 : 310
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 여덟 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"N"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">N</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'N' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 31_레바_입력패널_8
+
+[clue_32]
+이름 : 니악의 입력 패널 #8
+유형 : 정보
+단계 : 조사 8단계
+소모AP : 2
+정렬순서 : 320
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 여덟 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"R"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">R</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'R' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 32_니악_입력패널_8
+
+---
+
+## [9] 조사 9단계
+
+[clue_33]
+이름 : 레바의 정강이 #9
+유형 : 관찰
+단계 : 조사 9단계
+소모AP : 2
+정렬순서 : 330
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 아홉 번째 퀴즈. 정답 '탄사'를 역순으로 읽으면 '사탄(DEVIL)'이라는 키워드가 도출됨.
+내용 :
+레바의 정강이 부근에 아주 작은 글씨로 새겨진 문장이다.
+"아름다운 풍경에 입에서 터져 나오는 감**[  ]**."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "아름다운 풍경에 입에서 터져 나오는 감<span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 33_레바_정강이_1
+
+[clue_34]
+이름 : 니악의 정강이 #9
+유형 : 관찰
+단계 : 조사 9단계
+소모AP : 2
+정렬순서 : 340
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 아홉 번째 퀴즈. 정답 '선전'을 역순으로 읽으면 '전선(ROBOT)'이라는 키워드가 도출됨.
+내용 :
+니악의 정강이 부근에 아주 작은 글씨로 새겨진 문장이다.
+"**[  ]**포고와 함께 전쟁이 시작되었다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "<span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>포고와 함께 전쟁이 시작되었다."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 34_니악_정강이_1
+
+[clue_35]
+이름 : 레바의 입력 패널 #9
+유형 : 정보
+단계 : 조사 9단계
+소모AP : 2
+정렬순서 : 350
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 아홉 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"U"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">U</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'U' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 35_레바_입력패널_9
+
+[clue_36]
+이름 : 니악의 입력 패널 #9
+유형 : 정보
+단계 : 조사 9단계
+소모AP : 2
+정렬순서 : 360
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 아홉 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"T"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">T</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'T' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 36_니악_입력패널_9
+
+---
+
+## [10] 조사 10단계
+
+[clue_37]
+이름 : 레바의 발등 #10
+유형 : 관찰
+단계 : 조사 10단계
+소모AP : 2
+정렬순서 : 370
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 레바의 신체에 적힌 마지막 퀴즈. 정답 '유사'를 역순으로 읽으면 '사유(DEVIL)'이라는 키워드가 도출됨.
+내용 :
+레바의 발등에 아주 작은 글씨로 새겨진 문장이다.
+"정품과 매우 흡사합니다. **[  ]**품에 주의하세요."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "정품과 매우 흡사합니다. <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>품에 주의하세요."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 37_레바_발등_1
+
+[clue_38]
+이름 : 니악의 발등 #10
+유형 : 관찰
+단계 : 조사 10단계
+소모AP : 2
+정렬순서 : 380
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 니악의 신체에 적힌 마지막 퀴즈. 정답 '역동'을 역순으로 읽으면 '동력(ROBOT)'이라는 키워드가 도출됨.
+내용 :
+니악의 발등에 아주 작은 글씨로 새겨진 문장이다.
+"저 댄서의 포즈는 정말 **[  ]**적이야."
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다. (본인의 눈에는 보이지 않는다.)</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box">
+    "저 댄서의 포즈는 정말 <span class="highlight-box">&nbsp;&nbsp;&nbsp;&nbsp;</span>적이야."
+  </div>
+  <div class="guide-box small">
+    <p>※ 정답을 입력 패널에 넣으십시오. (정답은 한글 2글자입니다.)</p>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
+장소 : 실험실
+파일명 : 38_니악_발등_1
+
+[clue_39]
+이름 : 레바의 입력 패널 #10
+유형 : 정보
+단계 : 조사 10단계
+소모AP : 2
+정렬순서 : 390
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 입력 패널에 나타나는 마지막 열 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"V"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">V</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'V' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 39_레바_입력패널_10
+
+[clue_40]
+이름 : 니악의 입력 패널 #10
+유형 : 정보
+단계 : 조사 10단계
+소모AP : 2
+정렬순서 : 400
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능 / 정보 공유 및 공개 불가
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 입력 패널에 나타나는 마지막 열 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
+내용 :
+입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+"U"
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="display-box center">
+    <span class="system-code">U</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'U' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
+장소 : 없음
+파일명 : 40_니악_입력패널_10
+
+
+
+
+
+
+
