@@ -1,0 +1,89 @@
+<div class="story-content">
+  <details>
+    <summary>
+      전용 대본
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <div class="guide-section">
+        <p class="guide-text">
+          [대본 읽기 가이드]<br />
+          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+          2. 대사 중의 긴 공백은 상대방(C)의 대사가 있는 부분입니다.<br />
+          3. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
+        </p>
+        
+        <div class="quote-box">
+          <div class="script-direction">(아무것도 없는 매끄러운 방. A와 C가 서로의 얼굴을 확인하며 경악한다.)</div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">A</span>: "허억... 여기가 지옥인가? 아니면 꿈인가? 아무것도 안 보여. 아무것도 안 느껴져."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 이봐!"
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">A</span>: "윽, 누구냐! 거기 누구야!"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 똑같이 생긴 거야?"
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">A</span>: "거짓말 마라! 네놈이 내 얼굴을 훔친 거겠지! 도대체 무슨 사술을 부린 거냐!"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 보인다고!"
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">A</span>: "가까이 오지 마! 저주받은 괴물 같으니라고!"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 이러고 있는 건데!"
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">A</span>: "앗, 저리 비켜! 등 돌리지 마! 네놈의 몸 여기저기에... 저기 꿈틀거리는 기분 나쁜 글자들은 뭐냐? 무슨 저주를 새겨놓은 거야!"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 거짓말하는 거지?"
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">A</span>: "거짓말이 아니다! 지금 네 왼쪽 어깨랑 팔뚝 위에 선명하게 문장들이 떠오른단 말이다! '자동차...' 어쩌고 하는 기괴한 문자들이!"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 문장들이..."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">A</span>: "내 몸에도? 그럴 리가! 난 아무것도 느껴지지 않는다. 내 눈으로 봐도 아무것도 없단 말이다!"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 스캐너처럼."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">A</span>: "지독한 술수구나... 내 몸에 새겨진 흔적조차 저 투명한 너머로만 볼 수 있다니. 이봐, 네가 읽어주는 그 글귀들이 이 감옥을 나갈 유일한 방책인 거냐?"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 모르니까."
+          </div>
+        </div>
+      </div>
+    </div>
+  </details>
+</div>

@@ -1,0 +1,46 @@
+<div class="story-content">
+  <details>
+    <summary>
+      전용 대본
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <div class="guide-section">
+        <p class="guide-text">
+          [대본 읽기 가이드]<br />
+          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+          2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
+        </p>
+        
+        <div class="quote-box">
+          <div class="script-line my-line">
+            <span class="script-character my-character">레바(A)</span>: "이번 문제를 풀고 나니... 마을 축제에서 울려 퍼지던 구슬픈 가락이 들렸어. 그 음악에 맞춰 사람들이 웃고 춤추던 평화로운 풍경들. 하지만 왜일까, 그 아름다운 음악의 끝자락엔 항상 소름 끼치도록 불길한 웃음소리가 섞여 있었지."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 정해둔 대로만 움직여야 하는 삶 말이야."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">레바(A)</span>: "시계태엽? 니악, 네놈 아까부터 무슨 괴상한 사술의 힘을 말하는 거냐? 우리 마을엔 그런 건 없었어. 오직 풀과 나무, 그리고 정직한 흙뿐이었지. 네놈은 대체 어느 이질적인 땅에서 온 거냐?"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 정보를 캐내려는 수작이거나."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">레바(A)</span>: "이교도... 너는 내가 모르는 아주 먼 땅에서 온 이교도일지도 모르겠군. 아니면, 내 마음의 어둠이 만들어낸 도플갱어거나. 네가 말하는 그 기계적인 무심함이 오히려 네가 인간이 아님을 증명하는 게 아니냐?"
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 절대 서로를 이해할 수 없을 거야."
+          </div>
+        </div>
+      </div>
+    </div>
+  </details>
+</div>

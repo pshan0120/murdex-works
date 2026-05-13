@@ -1,0 +1,46 @@
+<div class="story-content">
+  <details>
+    <summary>
+      전용 대본
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <div class="guide-section">
+        <p class="guide-text">
+          [대본 읽기 가이드]<br />
+          1. 대본 리딩은 상대방(A)부터 시작합니다.<br />
+          2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
+        </p>
+        
+        <div class="quote-box">
+          <div class="script-line other-character">
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 나 여전히 떨고 있었어."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">니악(C)</span>: "난 내가 살던 동네의 익숙한 풍경이 생각났어. 낡은 빌라들과 정겨운 골목길... 아주 평범한 일상의 한 조각 말이야. 그런데 그 익숙한 곳을 떠올릴수록 내 몸이 내 의지와 상관없이 딱딱하게 굳어가는 기분이 들어. 꼭 누군가 전원을 꺼버린 물건처럼 말이지."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 생명의 온기가 없는 괴물이야."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">니악(C)</span>: "괴물이 아니라 상식의 문제야! 당신은 왜 모든 상황을 감상적으로만 보려 하지? 이건 원칙의 문제라고. 우리가 지금 이 방에 갇혀 있는 것도, 어쩌면 우리가 감당하지 못할 어떤 거대한 음모의 일부일 수도 있어."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 인간다운 고뇌가 느껴지지 않아."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">니악(C)</span>: "고뇌 타령 좀 그만해. 난 내 기억 속의 그 장소가 너무나 생생해. 당신의 그 비논리적인 태도가 내 이성을 마비시키고 있을 뿐이야. 자, 어서 다음 문제를 풀어서 이 지옥 같은 방을 나갈 방법이나 찾자고."
+          </div>
+        </div>
+      </div>
+    </div>
+  </details>
+</div>

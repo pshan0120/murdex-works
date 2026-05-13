@@ -1,0 +1,46 @@
+<div class="story-content">
+  <details>
+    <summary>
+      전용 대본
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <div class="guide-section">
+        <p class="guide-text">
+          [대본 읽기 가이드]<br />
+          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+          2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
+        </p>
+        
+        <div class="quote-box">
+          <div class="script-line my-line">
+            <span class="script-character my-character">레바(A)</span>: "이번 답을 적고 나니... 한참을 뒤로 물러서며 제자리에 얼어붙었던 비겁한 내 모습이 떠올랐어. 중요한 선택 앞에서 겁을 먹고 아무것도 하지 못했던 그 순간 말이야. 하지만 그 멈칫거림 뒤엔 항상 끔찍한 재앙이 기다리고 있었지. 방금 그 기억 속에서도 난 여전히 떨고 있었어."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 전원을 꺼버린 물건처럼 말이지."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">레바(A)</span>: "전원? 니악, 네놈은 아까부터 무슨 살벌한 소리를 하는 거냐? 우리 마을에선 전쟁터로 끌려가는 사람들을 보며 모두가 눈물로 기도했어. 그런데 너는 그걸 마치 정해진 것처럼 태연하게 말하는군. 네놈은 분명 생명의 온기가 없는 괴물이야."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 어떤 거대한 음모의 일부일 수도 있어."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">레바(A)</span>: "음모? 네놈의 그 차가운 말이 나를 더 소름 끼치게 하는군. 네놈이 말하는 그 멈춰버린 풍경이야말로 네놈의 정체가 가짜라는 증거다! 네놈에겐 인간다운 고뇌가 느껴지지 않아."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 나갈 방법이나 찾자고."
+          </div>
+        </div>
+      </div>
+    </div>
+  </details>
+</div>
