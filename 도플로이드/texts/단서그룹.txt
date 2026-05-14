@@ -1,0 +1,21 @@
+# 도플로이드 - 단서 그룹 목록
+
+[단서 그룹 1]
+- 그룹 이름: 상대방의 신체
+- 이미지 생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. A horizontal glass window on the wall separates this room from another. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light. The silhouette has no distinct features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Sterile, lonely, and mysterious atmosphere.
+- 그룹 설명(HTML):
+<div class="story-content">
+    <div class="group-box">
+        유리창 너머에 서 있는 상대방의 몸에 새겨진 기묘한 문장들입니다.
+    </div>
+</div>
+
+[단서 그룹 2]
+- 그룹 이름: 입력 패널
+- 이미지 생성용 프롬프트: Anime style digital art, extremely minimalist. A front view of a simple, sleek white digital input panel on a sterile wall. The panel has a clear vertical layout: at the very top, small cryptic text is engraved; directly below it, a small rectangular monochromatic glowing screen shows a single blinking underscore cursor (_); at the bottom, a simple integrated mechanical keyboard. Cool grey and white color palette, sharp clean lines, clinical and high-tech atmosphere.
+- 그룹 설명(HTML):
+<div class="story-content">
+    <div class="group-box">
+        차갑고 정교한 기계 장치의 화면입니다. 화면 위쪽에는 <span class="emphasis">‘진실을 말하는 자는 하나’</span>라는 문구가 새겨져 있습니다.
+    </div>
+</div>
