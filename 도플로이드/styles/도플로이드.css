@@ -17,7 +17,7 @@
     line-height: 1.8;
     letter-spacing: -0.01em;
     background-color: #05070a;
-    padding: 1.5rem;
+    padding: 1rem;
     border-radius: 8px;
 }
 
@@ -28,10 +28,10 @@
     word-break: keep-all;
 }
 
-.story-content ul, .story-content ol {
+/* .story-content ul, .story-content ol {
     margin-bottom: 1.5rem;
     padding-left: 1.5rem;
-}
+} */
 
 .story-content li {
     margin-bottom: 0.8rem;
@@ -40,7 +40,7 @@
 /* 제목 및 강조 */
 .story-content .section-title {
     font-family: "Orbitron", sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 900;
     color: #a8c0ff;
     margin: 2rem 0 1rem 0;
@@ -88,13 +88,12 @@
 /* 분위기 조성을 위한 인용구 박스 */
 .story-content .quote-box {
     position: relative;
-    margin: 2rem 0;
-    padding: 2rem;
+    margin: 1rem 0;
+    padding: 1rem;
     background: rgba(168, 192, 255, 0.03);
     border: 1px solid rgba(168, 192, 255, 0.1);
     border-radius: 4px;
     font-family: "Nanum Myeongjo", serif;
-    font-style: italic;
     color: #e0e0e0;
     line-height: 2;
     text-align: center;
@@ -110,8 +109,15 @@
     color: #a8c0ff;
 }
 
-.story-content .quote-box::before { top: 0; left: 1rem; }
-.story-content .quote-box::after { bottom: -1rem; right: 1rem; }
+.story-content .quote-box::before {
+    top: 0;
+    left: 1rem;
+}
+
+.story-content .quote-box::after {
+    bottom: -1rem;
+    right: 1rem;
+}
 
 /* 시스템 메시지 및 가이드 박스 */
 .story-content .system-msg,
@@ -137,7 +143,6 @@
 
 /* 접이식 섹션 (Details/Summary) */
 .story-content details {
-    margin: 1.5rem 0;
     background: rgba(168, 192, 255, 0.03);
     border: 1px solid rgba(168, 192, 255, 0.1);
     border-radius: 8px;
@@ -197,14 +202,15 @@
 
 .story-content .script-line {
     line-height: 1.6;
-    text-align: left; /* 대본은 항상 왼쪽 정렬 */
+    text-align: left;
+    /* 대본은 항상 왼쪽 정렬 */
 }
 
 .story-content .script-character {
     font-weight: 800;
     margin-right: 0.8rem;
     color: #ffffff;
-    padding: 2px 8px;
+    padding: 2px;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 3px;
     font-family: "Orbitron", sans-serif;
@@ -224,13 +230,14 @@
 }
 
 .story-content .quote-box .script-line {
-    text-align: left; /* 인용구 박스 내부에서도 대본은 왼쪽 정렬 */
+    text-align: left;
+    /* 인용구 박스 내부에서도 대본은 왼쪽 정렬 */
 }
 
 /* 플레이어 전용 대본 스타일 */
 .story-content .script-line.my-line {
     background: rgba(168, 192, 255, 0.12);
-    padding: 12px 16px;
+    padding: 8px 12px;
     border-radius: 6px;
     border-left: 4px solid #a8c0ff;
     margin: 0.8rem 0;
@@ -252,17 +259,20 @@
 
 /* 캐릭터별 고유 컬러 */
 .character-leba {
-    color: #a8c0ff !important; /* Blue - Abel */
+    color: #a8c0ff !important;
+    /* Blue - Abel */
     text-shadow: 0 0 8px rgba(168, 192, 255, 0.5);
 }
 
 .character-niac {
-    color: #00ffcc !important; /* Teal/Cyber - Cain */
+    color: #00ffcc !important;
+    /* Teal/Cyber - Cain */
     text-shadow: 0 0 8px rgba(0, 255, 204, 0.5);
 }
 
 .character-bios {
-    color: #ff3333 !important; /* Red - System */
+    color: #ff3333 !important;
+    /* Red - System */
     text-shadow: 0 0 10px rgba(255, 51, 51, 0.6);
     font-family: "JetBrains Mono", monospace;
     font-weight: 900;
@@ -296,7 +306,7 @@
 
 .intro-title-cinematic {
     font-family: "Nanum Myeongjo", serif;
-    font-size: clamp(1.2rem, 5vw, 2.2rem);
+    font-size: clamp(1.0rem, 5vw, 1.5rem);
     font-weight: 800;
     color: #ffffff;
     text-align: center;
@@ -330,7 +340,7 @@
 /* 핵심 특징 섹션 */
 .feature-section {
     margin: 4rem 0;
-    padding: 2.5rem;
+    padding: 1.25rem;
     background: rgba(168, 192, 255, 0.02);
     border: 1px solid rgba(168, 192, 255, 0.1);
     border-radius: 4px;
@@ -401,8 +411,19 @@
 
 /* 모바일 대응 */
 @media (max-width: 640px) {
-    .intro-title-cinematic { font-size: 1.2rem; }
-    .intro-paragraph { font-size: 0.95rem; }
-    .feature-section { padding: 1.5rem; }
-    .ending-result { font-size: 1.2rem; }
+    .intro-title-cinematic {
+        font-size: 1.2rem;
+    }
+
+    .intro-paragraph {
+        font-size: 0.95rem;
+    }
+
+    .feature-section {
+        padding: 1.5rem;
+    }
+
+    .ending-result {
+        font-size: 1.2rem;
+    }
 }

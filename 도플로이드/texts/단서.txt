@@ -11,7 +11,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778745082/murdex/images/clue
 ## [1] 조사 1단계
 
 [clue_01]
-이름 : A의 이마
+이름 : A의 신체 #1
 유형 : 관찰
 단계 : 조사 1단계
 소모AP : 1
@@ -42,7 +42,7 @@ HTML :
 파일명 : 01_레바_이마_1
 
 [clue_02]
-이름 : C의 이마
+이름 : C의 신체 #1
 유형 : 관찰
 단계 : 조사 1단계
 소모AP : 1
@@ -89,11 +89,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 첫 번째 힌트. 최종 질문의 답을 구성하는 10개의 알파벳 중 하나이다. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "A"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">A</span>
@@ -122,11 +122,11 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778749652/murdex/images/clue
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 첫 번째 힌트. 최종 질문의 답을 구성하는 10개의 알파벳 중 하나이다. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "A"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">A</span>
@@ -141,7 +141,7 @@ HTML :
 ## [2] 조사 2단계
 
 [clue_05]
-이름 : A의 목
+이름 : A의 신체 #2
 유형 : 관찰
 단계 : 조사 2단계
 소모AP : 1
@@ -172,7 +172,7 @@ HTML :
 파일명 : 05_레바_목_1
 
 [clue_06]
-이름 : C의 목
+이름 : C의 신체 #2
 유형 : 관찰
 단계 : 조사 2단계
 소모AP : 1
@@ -219,11 +219,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 두 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "D"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">D</span>
@@ -252,11 +252,11 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778769422/murdex/images/clue
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 두 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "B"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">B</span>
@@ -272,7 +272,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778769482/murdex/images/clue
 ## [3] 조사 3단계
 
 [clue_09]
-이름 : A의 어깨
+이름 : A의 신체 #3
 유형 : 관찰
 단계 : 조사 3단계
 소모AP : 1
@@ -303,7 +303,7 @@ HTML :
 파일명 : 09_레바_어깨_1
 
 [clue_10]
-이름 : C의 어깨
+이름 : C의 신체 #3
 유형 : 관찰
 단계 : 조사 3단계
 소모AP : 1
@@ -350,11 +350,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 세 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "E"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">E</span>
@@ -381,11 +381,11 @@ HTML :
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 세 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "H"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">H</span>
@@ -395,12 +395,14 @@ HTML :
 장소 : 없음
 파일명 : 12_니악_입력패널_3
 
+https://res.cloudinary.com/dkzctfx9z/image/upload/v1778824363/murdex/images/clue/c6047a2e-222c-4f0e-b031-f639619888c0/file_mg9ocd.jpg
+
 ---
 
 ## [4] 조사 4단계
 
 [clue_13]
-이름 : A의 가슴
+이름 : A의 신체 #4
 유형 : 관찰
 단계 : 조사 4단계
 소모AP : 1
@@ -431,7 +433,7 @@ HTML :
 파일명 : 13_레바_가슴_1
 
 [clue_14]
-이름 : C의 가슴
+이름 : C의 신체 #4
 유형 : 관찰
 단계 : 조사 4단계
 소모AP : 1
@@ -448,13 +450,13 @@ HTML :
 의도 : 니악의 신체에 적힌 네 번째 퀴즈. 정답 '동작'을 역순으로 읽으면 '작동(ROBOT)'라는 키워드가 도출됨.
 내용 :
 니악의 가슴 부근에 아주 작은 글씨로 새겨진 문장이다.
-"서울시 **[  ]**구 서초동."
+"서울시 **[  ]**구 사당동."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "서울시 <span class="highlight-box">◯◯</span>구 서초동."
+    "서울시 <span class="highlight-box">◯◯</span>구 사당동."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -478,11 +480,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 네 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "H"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">H</span>
@@ -491,6 +493,8 @@ HTML :
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'H' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
 파일명 : 15_레바_입력패널_4
+https://res.cloudinary.com/dkzctfx9z/image/upload/v1778824363/murdex/images/clue/c6047a2e-222c-4f0e-b031-f639619888c0/file_mg9ocd.jpg
+
 
 [clue_16]
 이름 : C의 입력 패널 #4
@@ -509,11 +513,11 @@ HTML :
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 네 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "M"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">M</span>
@@ -522,13 +526,14 @@ HTML :
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'M' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
 파일명 : 16_니악_입력패널_4
+https://res.cloudinary.com/dkzctfx9z/image/upload/v1778825466/murdex/images/clue/c6047a2e-222c-4f0e-b031-f639619888c0/file_fukm85.jpg
 
 ---
 
 ## [5] 조사 5단계
 
 [clue_17]
-이름 : A의 팔뚝
+이름 : A의 신체 #5
 유형 : 관찰
 단계 : 조사 5단계
 소모AP : 1
@@ -559,7 +564,7 @@ HTML :
 파일명 : 17_레바_팔뚝_1
 
 [clue_18]
-이름 : C의 팔뚝
+이름 : C의 신체 #5
 유형 : 관찰
 단계 : 조사 5단계
 소모AP : 1
@@ -606,11 +611,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 다섯 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "I"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">I</span>
@@ -637,11 +642,11 @@ HTML :
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 다섯 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "N"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">N</span>
@@ -656,7 +661,7 @@ HTML :
 ## [6] 조사 6단계
 
 [clue_21]
-이름 : A의 손등
+이름 : A의 신체 #6
 유형 : 관찰
 단계 : 조사 6단계
 소모AP : 1
@@ -687,7 +692,7 @@ HTML :
 파일명 : 21_레바_손등_1
 
 [clue_22]
-이름 : C의 손등
+이름 : C의 신체 #6
 유형 : 관찰
 단계 : 조사 6단계
 소모AP : 1
@@ -734,11 +739,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 여섯 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "L"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">L</span>
@@ -765,11 +770,11 @@ HTML :
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 여섯 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "O"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">O</span>
@@ -784,7 +789,7 @@ HTML :
 ## [7] 조사 7단계
 
 [clue_25]
-이름 : A의 손목
+이름 : A의 신체 #7
 유형 : 관찰
 단계 : 조사 7단계
 소모AP : 1
@@ -815,7 +820,7 @@ HTML :
 파일명 : 25_A_옆구리_1
 
 [clue_26]
-이름 : C의 손목
+이름 : C의 신체 #7
 유형 : 관찰
 단계 : 조사 7단계
 소모AP : 1
@@ -862,11 +867,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 일곱 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "M"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">M</span>
@@ -875,6 +880,7 @@ HTML :
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'M' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
 파일명 : 27_A_입력패널_7
+https://res.cloudinary.com/dkzctfx9z/image/upload/v1778825466/murdex/images/clue/c6047a2e-222c-4f0e-b031-f639619888c0/file_fukm85.jpg
 
 [clue_28]
 이름 : C의 입력 패널 #7
@@ -893,11 +899,11 @@ HTML :
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 일곱 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "O"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">O</span>
@@ -912,7 +918,7 @@ HTML :
 ## [8] 조사 8단계
 
 [clue_29]
-이름 : A의 등
+이름 : A의 신체 #8
 유형 : 관찰
 단계 : 조사 8단계
 소모AP : 1
@@ -943,7 +949,7 @@ HTML :
 파일명 : 29_A_허벅지_1
 
 [clue_30]
-이름 : C의 등
+이름 : C의 신체 #8
 유형 : 관찰
 단계 : 조사 8단계
 소모AP : 1
@@ -990,11 +996,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 여덟 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "N"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">N</span>
@@ -1003,6 +1009,7 @@ HTML :
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'N' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
 파일명 : 31_A_입력패널_8
+https://res.cloudinary.com/dkzctfx9z/image/upload/v1778829508/murdex/images/clue/c6047a2e-222c-4f0e-b031-f639619888c0/file_yye1ki.jpg
 
 [clue_32]
 이름 : C의 입력 패널 #8
@@ -1021,11 +1028,11 @@ HTML :
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 여덟 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "R"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">R</span>
@@ -1040,7 +1047,7 @@ HTML :
 ## [9] 조사 9단계
 
 [clue_33]
-이름 : 레바의 정강이 #9
+이름 : A의 신체 #9
 유형 : 관찰
 단계 : 조사 9단계
 소모AP : 1
@@ -1071,7 +1078,7 @@ HTML :
 파일명 : 33_레바_정강이_1
 
 [clue_34]
-이름 : 니악의 정강이 #9
+이름 : C의 신체 #9
 유형 : 관찰
 단계 : 조사 9단계
 소모AP : 1
@@ -1102,7 +1109,7 @@ HTML :
 파일명 : 34_니악_정강이_1
 
 [clue_35]
-이름 : 레바의 입력 패널 #9
+이름 : A의 입력 패널 #9
 유형 : 정보
 단계 : 조사 9단계
 소모AP : 1
@@ -1118,11 +1125,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 아홉 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "U"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">U</span>
@@ -1133,7 +1140,7 @@ HTML :
 파일명 : 35_레바_입력패널_9
 
 [clue_36]
-이름 : 니악의 입력 패널 #9
+이름 : C의 입력 패널 #9
 유형 : 정보
 단계 : 조사 9단계
 소모AP : 1
@@ -1149,11 +1156,11 @@ HTML :
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 아홉 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "T"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">T</span>
@@ -1168,7 +1175,7 @@ HTML :
 ## [10] 조사 10단계
 
 [clue_37]
-이름 : 레바의 발등 #10
+이름 : A의 신체 #10
 유형 : 관찰
 단계 : 조사 10단계
 소모AP : 1
@@ -1199,7 +1206,7 @@ HTML :
 파일명 : 37_레바_발등_1
 
 [clue_38]
-이름 : 니악의 발등 #10
+이름 : C의 신체 #10
 유형 : 관찰
 단계 : 조사 10단계
 소모AP : 1
@@ -1216,13 +1223,13 @@ HTML :
 의도 : 니악의 신체에 적힌 마지막 퀴즈. 정답 '역동'을 역순으로 읽으면 '동력(ROBOT)'이라는 키워드가 도출됨.
 내용 :
 니악의 발등에 아주 작은 글씨로 새겨진 문장이다.
-"저 댄서의 포즈는 정말 **[  ]**적이야."
+"저 댄서의 **[  ]**적인 움직임을 봐."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "저 댄서의 포즈는 정말 <span class="highlight-box">◯◯</span>적이야."
+    "저 댄서의 <span class="highlight-box">◯◯</span>적인 움직임을 봐."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -1230,7 +1237,7 @@ HTML :
 파일명 : 38_니악_발등_1
 
 [clue_39]
-이름 : 레바의 입력 패널 #10
+이름 : A의 입력 패널 #10
 유형 : 정보
 단계 : 조사 10단계
 소모AP : 1
@@ -1246,11 +1253,11 @@ HTML :
 관련 : 레바(A)
 의도 : 입력 패널에 나타나는 마지막 열 번째 힌트. (레바의 최종 후보: ADEHILMNUV)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "V"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">V</span>
@@ -1261,7 +1268,7 @@ HTML :
 파일명 : 39_레바_입력패널_10
 
 [clue_40]
-이름 : 니악의 입력 패널 #10
+이름 : C의 입력 패널 #10
 유형 : 정보
 단계 : 조사 10단계
 소모AP : 1
@@ -1277,11 +1284,11 @@ HTML :
 관련 : 니악(C)
 의도 : 입력 패널에 나타나는 마지막 열 번째 힌트. (니악의 최종 후보: ABHMNOORTU)
 내용 :
-입력 패널의 화면에 선명하게 떠오른 알파벳 한 글자이다.
+화면에 선명하게 떠오른 알파벳 한 글자이다.
 "U"
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널의 화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
   <div class="divider-gold"></div>
   <div class="display-box center">
     <span class="system-code">U</span>
@@ -1291,9 +1298,69 @@ HTML :
 장소 : 없음
 파일명 : 40_니악_입력패널_10
 
+---
 
+## [11] 특별 조사 단서
 
+[clue_41]
+이름 : A의 유리창 프레임
+유형 : 관찰
+단계 : 조사 1~10단계
+소모AP : 1
+정렬순서 : 410
+중요도 : 보통
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 레바(A)만 조사 가능
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 레바(A)
+의도 : 유리창 상단에 적힌 'BI' 문구. 이는 'BIOS'의 전반부이다.
+내용 :
+유리창 상단 금속 프레임에 새겨진 기묘한 표식이다.
+"BI"
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 상단 금속 프레임 한구석에 <span class="emphasis">기묘한 문자</span>가 새겨져 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box center">
+    <span class="system-code">BI</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A close-up shot of the top metal frame of a glass window in a sterile white room. On the smooth, grey metallic surface, the letters 'BI' are faintly but clearly engraved in a clean, sans-serif font. The lighting is clinical and soft, casting subtle shadows on the metallic texture. Sterile and high-tech atmosphere.
+장소 : 실험실
+파일명 : 41_레바_유리창_프레임
 
-
-
+[clue_42]
+이름 : C의 유리창 프레임
+유형 : 관찰
+단계 : 조사 1~10단계
+소모AP : 1
+정렬순서 : 420
+중요도 : 보통
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 니악(C)만 조사 가능
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 니악(C)
+의도 : 유리창 상단에 적힌 'OS' 문구. 이는 'BIOS'의 후반부이다.
+내용 :
+유리창 상단 금속 프레임에 새겨진 기묘한 표식이다.
+"OS"
+HTML :
+<div class="story-content">
+  <div class="script-direction">유리창 상단 금속 프레임 한구석에 <span class="emphasis">기묘한 문자</span>가 새겨져 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="quiz-box center">
+    <span class="system-code">OS</span>
+  </div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A close-up shot of the top metal frame of a glass window in a sterile white room. On the smooth, grey metallic surface, the letters 'OS' are faintly but clearly engraved in a clean, sans-serif font. The lighting is clinical and soft, casting subtle shadows on the metallic texture. Sterile and high-tech atmosphere.
+장소 : 실험실
+파일명 : 42_니악_유리창_프레임
 

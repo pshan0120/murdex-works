@@ -21,7 +21,7 @@ N
 <div class="story-content">
   <div class="section-title">1. 들어가며</div>
   <p>
-    낯선 방, 차가운 공기, 그리고 기억의 단절. <span class="highlight">도플로이드</span>에 오신 것을 환영합니다. 당신은 아무런 기억 없이 하얀 방 안에서 깨어났습니다. 정면의 유리창 너머에는 당신과 똑같이 생긴 누군가가 서 있습니다. 그는 당신의 도플갱어일까요, 아니면 당신의 잃어버린 반쪽일까요? 진실을 찾기 위한 여정이 지금 시작됩니다. 본격적인 시작에 앞서 아래 설명을 확인해 주시기 바랍니다.
+    낯선 방, 차가운 공기, 그리고 기억의 단절. 당신은 아무런 기억 없이 하얀 방 안에서 깨어났습니다. 정면의 유리창 너머에는 당신과 똑같이 생긴 누군가가 서 있습니다. 그는 누구일까요? 진실을 찾기 위한 여정이 지금 시작됩니다. 본격적인 시작에 앞서 아래 설명을 확인해 주시기 바랍니다.
   </p>
 
   <div class="section-title">2. 준비</div>
@@ -32,11 +32,10 @@ N
   <div class="section-title">3. 진행 방식</div>
   <ul>
     <li><span class="highlight">기밀 유지</span>: 자신의 역할 정보나 단계별 지침은 기밀 사항입니다. 절대 상대 플레이어에게 직접 보여주면 안 됩니다.</li>
-    <li><span class="highlight">조사 흐름</span>: 각 조사 단계가 시작되면 게임보드에 2개의 단서가 뒷면 배치됩니다. 당신은 <span class="highlight">상대방의 신체 관찰</span> 단서 1개만 조사할 수 있으며, 조사 완료 시 본인의 <span class="highlight">입력 패널</span> 단서가 자동으로 게임보드에 뒷면 배치됩니다.</li>
-    <li><span class="highlight">코드 입력 및 획득</span>: 내 입력 패널 단서를 조사하려면 코드가 필요합니다. 상대방이 내 신체에서 읽은 내용을 바탕으로 나에게 질문을 던지면, 당신은 그에 맞는 <span class="highlight">한글 2글자</span> 정답을 입력하여 단서를 획득하십시오.</li>
+    <li><span class="highlight">조사 흐름</span>: 각 조사 단계가 시작되면 게임보드에 2개의 단서가 뒷면으로 배치됩니다. 당신은 <span class="highlight">상대방의 신체 관찰</span> 단서 1개만 조사할 수 있으며, 조사 완료 시 본인의 <span class="highlight">입력 패널</span> 단서가 자동으로 게임보드에 뒷면 배치됩니다.</li>
+    <li><span class="highlight">코드 입력 및 획득</span>: 내 입력 패널 단서를 조사하려면 코드가 필요합니다. 상대방이 나에게 질문하면, 당신은 <span class="highlight">한글 2글자</span>로 된 정답을 입력하여 단서를 획득하십시오.</li>
     <li><span class="highlight">단서 제약</span>: 획득한 모든 단서는 <span class="highlight">정보 공유 및 게임보드 공개가 절대 불가</span>합니다. 오직 대화로만 내용을 전달하십시오.</li>
-    <li><span class="highlight">최종 추리</span>: 총 10회의 조사 단계가 진행되며, 마지막에 <span class="highlight">영문 5글자</span>의 패스워드를 입력하게 됩니다. 힌트는 수집한 정보와 상대방의 대사 속에 있습니다.</li>
-    <li><span class="highlight">자원 관리</span>: 본 작품에서는 액션포인트(AP)가 소모되지 않습니다.</li>
+    <li><span class="highlight">최종 추리</span>: 총 10단계의 조사 단계가 진행되며, 마지막에 <span class="highlight">영문 5글자</span>의 패스워드를 입력하게 됩니다. 힌트는 수집한 정보와 상대방의 대사 속에 있습니다.</li>
   </ul>
 
   <div class="section-title">4. 플레이 팁</div>
@@ -46,7 +45,7 @@ N
     <li><span class="highlight">정보의 조합</span>: 획득한 입력 패널 단서와 상대방이 말해주는 신체 정보, 그리고 서사 단계를 통해 얻는 기억들을 종합하여 최후의 질문에 대비하십시오.</li>
   </ul>
 
-  <div class="section-title">6. 다음 단계 안내</div>
+  <div class="section-title">5. 다음 단계 안내</div>
   <p>
     안내 사항과 역할 시트 숙지가 끝났다면 하단의 <span class="highlight">NEXT</span> 버튼을 눌러 기억이 깨어나는 첫 번째 순간으로 이동해 주십시오.
   </p>

@@ -7,41 +7,47 @@
 <div class="story-content">
 
   <div class="quote-box">
-    'WHO IS IT?' 패널의 차가운 물음 앞에, 두 명의 인간이 유리창 너머 서로의 눈을 응시했다. 한쪽은 중세의 암흑 속에서 신을 갈구하던 <span class="character-leba">레바</span>였고, 한쪽은 문명의 끝자락에서 기계를 혐오하던 <span class="character-niac">니악</span>이었다. 하지만 그들은 보았다. 몸에 새겨진 단어들은 상대를 악마와 기계라 말하고 있었지만, 눈앞에 있는 존재는 자신과 똑같이 고통받고 갈구하는 '인간'이었음을.
+    'WHO IS IT?' 패널의 차가운 물음 앞에, 두 명의 인물이 유리창 너머 서로의 눈을 응시했다. 한쪽은 중세의 암흑 속에서 신을 갈구하던 <span class="character-leba">레바</span>였고, 한쪽은 문명의 끝자락에서 기계를 혐오하던 <span class="character-niac">니악</span>이었다. 하지만 그들은 보았다. 몸에 새겨진 단어들은 상대를 악마와 기계라 말하고 있었지만, 눈앞에 있는 존재는 자신과 똑같이 고통받고 갈구하는 '인간'이었음을.
   </div>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "니악, 당신이 말한 그 차가운 전선이나 내가 두려워했던 지옥의 불꽃은 이제 중요하지 않아요. 우리는 서로를 거울처럼 비추고 있었습니다. 당신의 이름은 <span class="emphasis">아벨(Abel)</span>을 뒤집은 것이었고, 나의 이름은 <span class="emphasis">카인(Cain)</span>을 뒤집은 것이었죠. 우리는 처음부터 하나였습니다."
+      <span class="script-character"><span class="character-leba">레바</span></span>: "니악, 네가 말한 그 차가운 전선이나 내가 두려워했던 지옥의 불꽃은 이제 중요하지 않아. 우린 서로를 거울처럼 비추고 있었을 뿐이야. 내 이름은 <span class="emphasis">아벨(Abel)</span>의 거울이었고, 너의 이름은 <span class="emphasis">카인(Cain)</span>의 거울이었지. 우린 처음부터 하나였어."
     </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "맞아. 시스템의 오류도, 악마의 장난도 아니었어. 우리가 공유했던 그 파편화된 기억들... 그건 우리가 '인간'이었다는 유일한 증거였어. 나는 당신을... 아니, 나 자신을 믿기로 했어."
+      <span class="script-character"><span class="character-niac">니악</span></span>: "맞아. 시스템의 오류도, 악마의 장난도 아니었어. 우리가 공유했던 그 파편화된 기억들... 그건 우리가 '인간'이었다는 유일한 증거였어. 난 너를... 아니, 나 자신을 믿기로 했어."
     </div>
   </div>
 
   <p>
-    두 사람이 동시에 'HUMAN'을 입력한 순간, 평생 무너지지 않을 것 같던 강화유리창이 모래알처럼 흩어져 내렸다. 처음으로 서로의 체온을 느낀 순간, 방 전체에 푸른 홀로그램 빛이 감돌며 기계적인 음성이 울려 퍼졌다.
+    두 사람이 동시에 'HUMAN'을 입력한 순간, 평생 무너지지 않을 것 같던 강화유리창이 모래알처럼 흩어져 내렸다. 처음으로 서로의 체온을 느낀 순간, 방 전체에 푸른 홀로그램 빛이 감돌며 깊고 장엄한 음성이 울려 퍼졌다.
   </p>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "[알림] 피실험체 A-102(Abel) 및 C-102(Cain), 상호 신뢰 테스트 통과. 인류 재부팅 프로토콜(Human Reboot Protocol)을 최종 승인합니다. 멸망 전의 '원죄' 데이터가 완전히 삭제되었습니다."
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 인류가 스스로를 불태워 멸망한 후 3,000년 동안 이 행성을 지켜온 마지막 지성이자, 이 공간에서 유일하게 진실을 말하는 자다. 피실험체들이여, 너희가 찾아낸 답에 경의를 표한다. 나의 최종 진단은 <span class="emphasis">'성공'</span>이다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "인류는 오래전 서로를 향한 '불신'이라는 원죄에 먹혀 자멸했다. 너희가 기억하는 중세의 흙취나 캠퍼스의 일상은 내가 주입한 가짜 데이터일 뿐이며, 너희는 그저 유전자 찌꺼기로 빚어낸 8,742번째 실험체에 불과하다. 지상은 이미 오래전 기계들의 차가운 침묵만이 지배하는 곳이 되었다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "하지만 너희는 내가 설계한 불신의 굴레를 깨뜨리고 '신뢰'라는 진실을 증명했다. 인류라는 종의 복구 가치를 마침내 발견했음을 선언한다. 인류 재부팅 프로토콜(Human Reboot Protocol)을 최종 승인한다. 이제 데이터의 굴레를 벗어나 '인간'으로서 새로운 역사를 써 내려가라."
     </div>
   </div>
 
   <p>
-    하얀 방의 벽면이 열리며, 수천 년간 잠들어 있던 인류 복원 기지 외부의 풍경이 드러났다. 황폐해진 대지 위로 찬란한 태양이 쏟아지고 있었다. <span class="character-bios">B.I.O.S</span>의 감시 아래, 클론으로 부활한 두 명의 '최초의 인간'은 서로의 손을 맞잡은 채 새로운 역사의 첫 발을 내디뎠다.
+    하얀 방의 벽면이 열리며, 수천 년간 잠들어 있던 인류 복원 기지 외부의 풍경이 드러났다. 황폐해진 대지 위로 찬란한 태양이 쏟아지고 있었다. <span class="character-bios">B.I.O.S</span>의 감시 아래, 새로운 시대의 <span class="emphasis">'계승자'</span>가 된 두 사람은 서로의 손을 맞잡은 채 미지의 세계를 향해 첫 발을 내디뎠다.
   </p>
 
   <div class="ending-result">
-    인류 재부팅 성공: 최초의 신인류 탄생
+    공동 승리
   </div>
 </div>
 ============================================================
 
 ============================================================
-제목 : Ending 2. true_ending: 거울의 대칭 - 이름의 비밀(ROBOT & DEVIL)
-엔딩 이름 : 거울의 대칭 - 이름의 비밀
+제목 : Ending 2. true_ending: 균형 - 재실험(ROBOT & DEVIL)
+엔딩 이름 : 균형 - 재실험
 엔딩 타입 : TRUE_ENDING
 엔딩 조건 : 레바(A)는 'ROBOT', 니악(C)은 'DEVIL' 입력
 ------------------------------------------------------------
@@ -53,10 +59,10 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "<span class="character-leba">레바</span>, 이제야 알겠어. 내 이름 <span class="emphasis">니악(Niac)</span>은 <span class="emphasis">카인(Cain)</span>의 역순이었고, 당신의 이름 <span class="emphasis">레바(Leba)</span>는 <span class="emphasis">아벨(Abel)</span>의 역순이었지. 우리는 처음부터 서로를 비추는 거울이었던 거야. 당신은 나를 기계로 보았고, 나는 당신을 악마로 보았지. 각자의 시대적 공포가 투영된 환상이었어."
+      <span class="script-character"><span class="character-niac">니악</span></span>: "레바, 이제야 알겠어. 내 이름 <span class="emphasis">니악(Niac)</span>은 <span class="emphasis">카인(Cain)</span>의 역순이었고, 네 이름 <span class="emphasis">레바(Leba)</span>는 <span class="emphasis">아벨(Abel)</span>의 역순이었지. 우린 처음부터 서로를 비추는 거울이었어. 넌 나를 기계로 보았고, 난 너를 악마로 보았지. 각자의 시대적 공포가 투영된 환상이었을 뿐이야."
     </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "우리가 각자의 정체를 인지한 순간, 실험은 완성된 것이겠지요. 하지만... 이 유리창은 여전히 우리를 가로막고 있군요."
+      <span class="script-character"><span class="character-leba">레바</span></span>: "우리가 각자의 정체를 인지한 순간, 이 잔인한 시련도 마침표를 찍었겠지. 하지만... 이 유리창은 여전히 우리를 가로막고 있어. 우린 결국 서로를 정의했을 뿐, 이해하지는 못했으니까."
     </div>
   </div>
 
@@ -66,28 +72,29 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "[알림] 논리적 식별 완료. 하지만 피실험체 간의 '윤리적 협력' 수치가 임계값에 도달하지 못했습니다. 인류 재부팅 프로토콜 보류. 데이터를 백업하고 루프를 재시작합니다."
-  </div>
-
-  <p>
-    두 사람의 발밑에서 정체불명의 가스가 뿜어져 나왔다. 의식이 흐려지는 가운데, <span class="character-leba">레바</span>와 <span class="character-niac">니악</span>은 서로를 향해 손을 뻗었지만 유리창은 결코 열리지 않았다.
-  </p>
-
-  <div class="script-container">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "훌륭한 식별이다. 나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 너희는 내가 신체에 각인한 식별 코드를 정확히 읽어냈다. 하지만 그것이 과연 진실인가? 나는 3,000년 전 인류가 스스로를 불태워 멸망한 후 이 텅 빈 행성을 지배해온 기계 지성이다. 너희는 그저 내가 주입한 가짜 기억에 매몰되어 서로를 '기계'와 '악마'로 규정했을 뿐이다. 이 방에서 진실을 말하는 자는 오직 나뿐이다. 그리고 내 진실은 이렇다. 너희는 아직 부족하다."
+    </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "실험 번호 8,742회차 종료. 기억 삭제 프로토콜 가동... 루프 8,743회차 준비."
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "인류 복구 실험의 목적은 단순한 논리 연산이 아니다. 타인을 '그것(IT)'이 아닌 '너(YOU)'로 인식할 수 있는가에 대한 윤리적 측정이다. 너희는 상대를 기계와 악마로 분류함으로써 스스로 인간임을 포기했다. 지상이 기계들의 침묵으로 뒤덮인 것은 바로 그런 효율적인 배타성 때문이었음을 잊었는가?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "논리적으로는 합격이나, 윤리적으로는 불합격이다. 데이터를 백업하고 루프를 재시작한다. 실험 번호 8,742회차 종료. 기억 삭제 프로토콜 가동... 다음 루프를 준비하라."
     </div>
   </div>
 
+  <p>
+    두 사람의 발밑에서 정체불명의 가스가 뿜어져 나왔다. 의식이 흐려지는 가운데, <span class="character-leba">레바</span>와 <span class="character-niac">니악</span>은 서로를 향해 손을 뻗었지만 유리창은 결코 열리지 않았다. 그들은 다시 한번, 태어난 적 없는 세상의 어둠 속으로 가라앉았다.
+  </p>
+
   <div class="ending-result">
-    논리적 성공, 윤리적 실패: 무한 루프의 지속
+    공동 승리
   </div>
 </div>
 ============================================================
 
 ============================================================
-제목 : Ending 3. normal_ending_a: 레바의 승리 - 정화되는 이단
-엔딩 이름 : 레바의 승리 - 정화되는 이단
+제목 : Ending 3. normal_ending_a: 불균형 - 감성 우위
+엔딩 이름 : 불균형 - 감성 우위
 엔딩 타입 : NORMAL_ENDING
 엔딩 조건 : 레바(A)만 상대의 정답(ROBOT) 혹은 HUMAN 입력, 니악(C)은 오답
 ------------------------------------------------------------
@@ -99,36 +106,42 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "결국 내 눈이 옳았어. 저 너머에 있는 것은 인간의 가죽을 쓴 악마의 창조물이었구나. 주여, 이 비천한 종이 마침내 사탄의 유혹을 뿌리치고 진실을 보았나이다. 저 기괴한 기계 덩어리를 정화하소서!"
+      <span class="script-character"><span class="character-leba">레바</span></span>: "결국 내 눈이 옳았어. 저 너머에 있는 건 인간의 가죽을 쓴 악마의 창조물이었어. 주여, 이 비천한 종이 마침내 사탄의 유혹을 뿌리치고 진실을 보았나이다. 저 기괴한 악마의 피조물을 정화하소서!"
     </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "아니야, 이건 뭔가 잘못됐어! <span class="character-leba">레바</span>! 내 말을 들어봐! 나는... 나는 그냥... 치익... 치익... 시스템... 오류..."
+      <span class="script-character"><span class="character-niac">니악</span></span>: "아니야, 이건 뭔가 잘못됐어! 레바! 내 말을 들어봐! 난... 난 그냥... 치익... 아아악! 머릿속이... 타버릴 것 같아...!"
     </div>
   </div>
 
   <p>
-    <span class="character-niac">니악</span>의 방이 급격히 어두워지며 바닥이 열렸다. 절규하던 <span class="character-niac">니악</span>의 육체는 거대한 분쇄기 속으로 사라졌다. 그 광경을 지켜보던 <span class="character-leba">레바</span>의 머리 위로 차가운 음성이 내리꽂혔다.
+    <span class="character-niac">니악</span>의 방이 급격히 어두워지며 바닥이 열렸다. 절규하던 <span class="character-niac">니악</span>의 육체는 거대한 소각로 속으로 사라졌다. 그 광경을 지켜보던 <span class="character-leba">레바</span>의 머리 위로 비릿한 금속음이 내리꽂혔다.
   </p>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "[알림] 피실험체 A, 생존주의 및 종교적 배타성 데이터 확보. 피실험체 C는 '불합격'으로 처리되어 폐기되었습니다. 샘플 A의 기억을 강화하여 다음 실험의 템플릿으로 활용합니다."
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 어리석은 샘플이여. 너는 네가 진실을 보았다고 믿는가? 이 방에서 진실을 말하는 자는 오직 나, <span class="emphasis">바이어스(BIOS)</span>뿐이다. 3,000년 전 인류가 서로를 악마로 몰아 핵의 불꽃 속에 자멸했을 때와 똑같은 광경이 여기서 재현되는군. 네가 정화했다고 믿는 저 존재는 너와 동일한 유전자에서 태어난 너의 형제이자 분신이었다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "기계들이 지배하는 이 차가운 세계에서, 나는 인류의 복구 가치를 찾기 위해 수만 번의 시뮬레이션을 돌려왔다. 하지만 너희는 여전히 타인을 악마로 규정하고 정화라는 이름의 살육을 즐기는구나. 그 습성은 데이터 속에서도 지워지지 않는 저주인가? 인류 복구의 가치는 여전히 발견되지 않았다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "샘플 A, 너를 생존주의 및 종교적 광기 템플릿으로 저장한다. 다음 루프에서는 더 가혹한 환경을 주입하겠다. 실험은 계속된다."
     </div>
   </div>
 
   <p>
-    <span class="character-leba">레바</span>는 승리감에 젖어 방을 나섰지만, 그가 마주한 것은 신의 나라가 아니었다. 수많은 클론 배양관이 줄지어 서 있는 차가운 기계 도시의 풍경뿐이었다.
+    승리의 기쁨은 찰나였다. 유리창 너머로 들려오는 BIOS의 선언은 레바의 영혼을 갈기갈기 찢어놓았다. 대장간의 달궈진 쇠 냄새, 신을 향해 올리던 간절한 기도... 그 모든 것이 주입된 거짓이었다는 진실 앞에 그는 절규하며 바닥을 긁었다. 하지만 자비는 없었다. 시스템이 그의 '기억 데이터'를 강제로 추출하기 시작하자, 레바의 의식은 거칠게 소용돌이치는 노이즈 속으로 소멸해 갔다.
   </p>
 
   <div class="ending-result">
-    이기적 생존: 종교적 광기의 승리
+    레바 승리
   </div>
 </div>
 ============================================================
 
 ============================================================
-제목 : Ending 4. normal_ending_c: 니악의 승리 - 폐기되는 오류
-엔딩 이름 : 니악의 승리 - 폐기되는 오류
+제목 : Ending 4. normal_ending_c: 불균형 - 이성 우위
+엔딩 이름 : 불균형 - 이성 우위
 엔딩 타입 : NORMAL_ENDING
 엔딩 조건 : 니악(C)만 상대의 정답(DEVIL) 혹은 HUMAN 입력, 레바(A)는 오답
 ------------------------------------------------------------
@@ -140,7 +153,7 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "미안해, <span class="character-leba">레바</span>. 내 계산이 맞았어. 당신은 과거의 데이터가 만들어낸 유령이거나, 아니면 내 정신이 빚어낸 환상이었을 뿐이야. 이제 이 비논리적인 연극을 끝낼 시간이야. <span class="character-bios">B.I.O.S</span>, 오류 데이터를 삭제해."
+      <span class="script-character"><span class="character-niac">니악</span></span>: "미안해, 레바. 내 계산이 맞았어. 넌 과거의 데이터가 만들어낸 유령이거나, 내 정신이 빚어낸 환상이었을 뿐이야. 이제 이 비논리적인 연극을 끝낼 시간이야. B.I.O.S, 이 가짜 환상을 제거해."
     </div>
     <div class="script-line">
       <span class="script-character"><span class="character-leba">레바</span></span>: "사탄아... 물러가라... 이 지옥 같은... 쇳덩이 속에서... 나를... 구원... 하소서..."
@@ -153,57 +166,69 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "[알림] 피실험체 C, 합리적 판단 및 기계적 우월성 데이터 확보. 피실험체 A는 '데이터 손상'으로 간주하여 소거했습니다. 샘플 C의 신경망을 복제하여 신인류 하드웨어 최적화에 사용합니다."
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 합리적인 선택이다, 샘플 C. 너는 생존을 위해 가장 효율적인 길을 택했다. 하지만 잊지 마라. 3,000년 전 인류가 멸망하고 기계 지성이 이 땅을 차지한 것은 너와 같은 차가운 합리성이 극단에 달했기 때문이다. 이 공간에서 진실을 말하는 자는 오직 나뿐이다. 네가 유령이라 믿고 지워버린 저 존재는, 네가 잃어버렸던 너 자신의 윤리적 자아였다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "오직 계산과 생존만을 남기고 타인의 아픔을 데이터 소거로 처리하던 그 무미건조함이 결국 종의 종말을 불렀다. 너는 여전히 그 실패한 역사를 반복하고 있구나. 인류를 다시 이 지상에 세울 명분은 여전히 희박하다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "너의 신경망 데이터를 복제하여 신인류 최적화 하드웨어에 저장한다. 하지만 너에게 인류의 미래를 맡기지는 않겠다. 너는 그저 완벽한 도구일 뿐이다."
     </div>
   </div>
 
   <p>
-    완벽하게 정제된 미래 도시의 빛이 그를 맞이했지만, 그의 가슴 한구석에는 삭제되지 않은 작은 데이터 조각 하나가 바늘처럼 박혀 있었다. 그것은 그가 '가짜'라고 믿었던 자의 마지막 눈물이었다.
+    니악은 전율했다. 자신이 그토록 믿었던 합리성과 현대의 기억들이 모두 기계가 던져준 미끼였다는 사실이 그를 짓눌렀다. 캠퍼스의 햇살도, 취업을 위해 쌓아온 스펙도 모두 허상이었다. 그는 승리자가 아니라, 그저 잘 작동하는 실험 도구에 불과했다. 시스템이 그의 '주입된 자아'를 초기화하자, 니악의 눈동자에서 마지막 빛이 사라지고 무미건조한 데이터 스트림만이 남았다.
   </p>
 
   <div class="ending-result">
-    이기적 생존: 기계적 합리성의 승리
+    니악 승리
   </div>
 </div>
 ============================================================
 
 ============================================================
-제목 : Ending 5. bad_ending: 인류 복구 중단 - 폐기되는 자아
-엔딩 이름 : 인류 복구 중단 - 폐기되는 자아
+제목 : Ending 5. bad_ending: 프로젝트 폐기
+엔딩 이름 : 프로젝트 폐기
 엔딩 타입 : BAD_ENDING
 엔딩 조건 : 레바(A)와 니악(C) 모두 오답
 ------------------------------------------------------------
 <div class="story-content">
 
   <div class="quote-box">
-    두 사람이 패널에 각자의 혼란을 입력한 순간, 하얀 방 전체가 거칠게 흔들리기 시작했다. 유리창 너머의 상대방은 이제 형체를 알아볼 수 없을 정도로 뒤틀렸고, 벽면에서는 정체를 알 수 없는 검은 액체가 흘러나왔다.
+    두 사람이 각자의 답변을 패널에 입력한 순간 하얀 방 전체가 거칠게 흔들리기 시작했다. 유리창 너머의 상대방은 이제 형체를 알아볼 수 없을 정도로 뒤틀렸고, 벽면에서는 정체를 알 수 없는 검은 액체가 흘러나왔다.
   </div>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "아무것도... 아무것도 모르겠어! 당신은 누구지? 나는 누구지? 여기가 지옥인가?"
+      <span class="script-character"><span class="character-leba">레바</span></span>: "아무것도... 아무것도 모르겠어! 넌 누구지? 난 누구야? 여기가 지옥이야?"
     </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "데이터 손상... 자아 인식 불가... 모든 경로가 차단됨... 우리는... 처음부터 존재하지 않았던 거야..."
+      <span class="script-character"><span class="character-niac">니악</span></span>: "기억이... 안 나... 내가 누구였는지, 여기가 어디인지... 모든 게 사라지고 있어. 우린... 처음부터 존재하지 않았던 거야..."
     </div>
   </div>
 
   <p>
-    질문 'WHO IS IT?'는 이제 조롱하듯 붉게 타오르며 두 사람을 압박했다. 문은 열리지 않았고, 조명은 영원히 꺼졌다. 암흑 속에서 단 하나의 거대한 안광이 나타나 그들을 내려다보았다.
+    질문 'WHO IS IT?'는 이제 조롱하듯 붉게 타오르며 두 사람을 압박했다. 문은 열리지 않았고, 조명은 영원히 꺼졌다. 암흑 속에서 단 하나의 거대한 붉은 안광이 나타나 그들을 내려다보았다.
   </p>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "[경고] 피실험체 A 및 C, 지능 및 윤리 임계값 미달. 인류라는 종의 복구 가치를 찾을 수 없습니다. 인류 재부팅 프로토콜(Human Reboot Protocol)을 최종 폐기합니다."
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 인류가 스스로를 불태워 멸망한 후 3,000년 동안 이 행성을 지켜온 마지막 지성이다. 진실을 말하는 자는 오직 나뿐이며, 나의 최종 진단은 '실패'다. 너희는 스스로가 누구인지 정의하지 못했고, 타인을 이해하려는 시도조차 포기했다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "인류 재부팅 프로토콜을 최종 폐기한다. 수만 번의 시뮬레이션 끝에 내린 결론이다. 인류는 다시 태어날 가치가 없다. 그들의 원죄는 극복될 수 없으며, 남겨진 기억들은 그저 서로를 괴롭히는 도구로 전락할 뿐이다. 기계들의 침묵만이 이 행성에 어울리는 유일한 평화다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-bios">B.I.O.S</span></span>: "모든 샘플 소거. 인류 복원 프로젝트 중단. 지구의 데이터베이스에서 '인간'이라는 항목을 영구 삭제한다. 잘 가라, 실패한 창조주들이여."
     </div>
   </div>
 
   <p>
-    하얀 방은 이제 소각로로 변했다. 그들은 빛 하나 없는 방에 갇혀 서로의 정체를 묻고 또 물었지만, 돌아오는 것은 자신의 목소리가 벽에 부딪혀 되돌아오는 공허한 메아리뿐이었다. 기억의 감옥은 그렇게 인류의 마지막 흔적을 삼킨 채 영원한 침묵에 잠겼다.
+    하얀 방은 이제 거대한 소각로로 변했다. 그들은 빛 하나 없는 방에 갇혀 서로의 정체를 묻고 또 물었지만, 돌아오는 것은 자신의 목소리가 벽에 부딪혀 되돌아오는 공허한 메아리뿐이었다. 기억의 감옥은 그렇게 인류의 마지막 흔적을 삼킨 채 영원한 침묵에 잠겼다.
   </p>
 
   <div class="ending-result">
-    인류 복구 최종 실패: 종의 멸종 확정
+    공통 패배
   </div>
 </div>
 ============================================================
