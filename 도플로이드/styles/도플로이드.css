@@ -24,7 +24,7 @@
 /* 본문 스타일 */
 .story-content p {
     margin-bottom: 1.2rem;
-    text-align: justify;
+    text-align: left;
     word-break: keep-all;
 }
 
