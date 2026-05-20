@@ -11,33 +11,33 @@
       <div class="guide-section">
         <p class="guide-text">
           [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+          1. 대본 리딩은 상대방(C)부터 시작합니다.<br />
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
         
         <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "기록판에 글자를 마저 써넣고 나니... 마을 축제에서 울려 퍼지던 구슬픈 노래가 떠올랐소. 선율에 맞춰 사람들이 웃고 춤추던 평화로운 풍경이지. 하지만 기이한 일이군. 그 달콤한 멜로디의 끝자락엔 소름 끼치도록 불길한 웃음소리가 뒤섞여 있었소."
-          </div>
-
           <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 무기력한 삶 말이에요."
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 태엽 인형처럼 말이에요."
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "톱니바퀴? 태엽 인형? 당신은 자꾸 정체불명의 사술이나 기계 장치 같은 기괴한 얘기만 늘어놓는군. 내가 살던 곳은 오직 흙과 땀, 정직한 자연뿐이었소. 대체 어떤 미지의 세계에서 왔기에 그런 비현실적인 소리를 태연히 늘어놓는 것이오?"
+            <span class="script-character my-character">레바(A)</span>: "나는 마을 축제에서 울려 퍼지던 구슬픈 선율이 떠올랐소. 선율에 맞춰 사람들이 손을 잡고 춤추던 평화로운 풍경이지. 하지만 기이한 일이군. 그 아름다운 멜로디의 끝자락엔 소름 끼치도록 차가운 실소(失笑)가 뒤섞여 있었소."
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 존재인 건가요?"
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 태연히 늘어놓는 건가요?"
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "자아의 분열이라니, 망상에 사로잡힌 건 당신 같소. 당신은 내가 전혀 알지 못하는 낯선 차원에서 굴러온 이방인일세. 내 가슴속 번뇌와 불신이 빚어낸 헛것이 아니라면 말이오. 그렇게 매사 메마르고 기계적으로 계산하려는 태도가 오히려 당신이 살아있는 인간이 아님을 방증하고 있소."
+            <span class="script-character my-character">레바(A)</span>: "가상 시나리오? 당신이야말로 끊임없이 정체불명의 기계 장치나 사술 같은 궤변을 늘어놓는구려. 내가 살던 고향은 오직 흙과 땀, 자연의 정직한 섭리뿐이었소. 혹시 당신은 내가 극한의 번뇌 속에서 마주한 또 다른 환영인가요? 아니면 내 믿음을 흔들기 위해 쳐놓은 시험의 도구인 것이오?"
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 본질을 가진 것 같아요."
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 아님을 말해주는 것 같네요."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">레바(A)</span>: "이방인이라니... 나는 고향의 이웃들과 평생을 정직하게 호흡하며 살아온 엄연한 인간이오! 당신의 그 삭막하고 계산적인 시선이 오히려 내 경계심을 부추길 뿐일세. 겉모습은 쌍둥이처럼 닮았으되, 결코 하나가 될 수 없는 이질적인 혼을 지닌 것이 분명하구려."
           </div>
         </div>
       </div>

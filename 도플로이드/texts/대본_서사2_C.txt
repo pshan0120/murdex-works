@@ -11,41 +11,41 @@
       <div class="guide-section">
         <p class="guide-text">
           [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(A)부터 시작합니다.<br />
+          1. 대본 리딩은 당신(C)부터 시작합니다.<br />
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
         
         <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 내 이름은 레바야."
-          </div>
-
           <div class="script-line my-line">
-            <span class="script-character my-character">C</span>: "나도 그래. 니악(Niac)... 내 이름은 니악이었어. 도대체 이 시스템은 어떻게 만든 거지? 단어 하나에 기억이 돌아오다니..."
+            <span class="script-character my-character">니악(C)</span>: "윽... 갑자기 머릿속이 핑 돌아. 방금 저 철판에 글자를 써넣은 순간, 머릿속 회로가 맞춰지는 것처럼... 내 이름이 기억났어. 니악(Niac)... 내 이름은 니악이었어."
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 방의 공기처럼."
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 기억이 돌아오다니..."
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "난 눈앞에서 정신없이 돌아가던 숫자들과 바늘들이 생각났어. 무언가 아주 정밀하게 통제되고 있다는 느낌, 그리고 내 삶이 내 의지와 상관없이 흘러가고 있었다는 확신 말이야. 당신이 말하는 그 어둠이라는 건 그냥 착각일 뿐이야. 꼭 오래된 영상이 지지직거리며 노이즈를 일으키는 것처럼."
+            <span class="script-character my-character">니악(C)</span>: "니악... 레바... 방금 문제를 풀고 나니까 다른 기억도 하나 더 떠올랐어. 내 눈앞에서 정신없이 돌아가던 수많은 숫자들과 바늘들이 생각났어. 무언가 아주 정밀하게 통제되고 있다는 느낌, 그리고 내 삶이 내 의지와 상관없이 흘러가고 있었다는 확신 말이야. 마치 이 방을 감도는 보이지 않는 기계 장치처럼."
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 상황을 꾸며낸 걸까?"
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 일으키는 것 같소."
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "내가 꾸민 게 아냐. 나도 당황스럽다고. 우린 사는 세계가 완전히 다른 것 같아. 어떻게 얼굴이 똑같은데 기억은 이렇게 극단적일 수가 있지? 당신 혹시 이 상황에 대해 뭐 아는 거 없어?"
+            <span class="script-character my-character">니악(C)</span>: "그림자? 두려움? 레바, 당신은 자꾸 비과학적이고 감상적인 말만 하는군요. 대체 어느 시대에서 온 사람인가요? 혹시 나를 혼란에 빠뜨리려고 이 상황을 연출한 건가요?"
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 의문만 들 뿐이네."
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 아는 게 없소?"
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "영혼이라니... 솔직히 비현실적으로 들리지만, 일단 당신이 진짜라는 건 믿을게. 우린 서로를 돕지 않으면 여기서 나갈 수 없다는 것만은 확실하니까."
+            <span class="script-character my-character">니악(C)</span>: "아는 게 있다면 내가 왜 이러고 있겠어요. 난 평범하게 문명을 누리며 내 삶을 살아온 엄연한 인간이에요. 도대체 이 기이한 환경이 내 이성을 시험하려는 게 아닌가 의심스러울 뿐이죠."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 명백하니 말이오."
           </div>
         </div>
       </div>

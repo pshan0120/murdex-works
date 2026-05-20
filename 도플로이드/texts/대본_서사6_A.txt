@@ -11,33 +11,33 @@
       <div class="guide-section">
         <p class="guide-text">
           [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+          1. 대본 리딩은 상대방(C)부터 시작합니다.<br />
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
         
         <div class="quote-box">
+          <div class="script-line other-character">
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 그런 기분 말이에요."
+          </div>
+
           <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "기이한 문자틀에 글을 새겨 넣는 순간... 어떤 생명의 숨이 뚝 끊어지던 참혹한 죄업이 떠올랐소. 내 가슴을 적시던 따스한 핏기가 점점 서늘하게 식어갈 때의 형언하기 힘든 무거움, 그리고 찰나에 뒤따른 비겁한 해방감 말이오. 니악, 당신의 그 감정 없는 눈빛을 마주할 때마다, 가끔 그 섬뜩한 식은 온기가 스쳐 지나가는 것 같아 오싹하오."
+            <span class="script-character my-character">레바(A)</span>: "데이터 표본이라니... 기이한 문자틀에 글을 새기는 순간, 내겐 어떤 생명의 숨이 뚝 끊어지던 참혹한 죄업이 떠올랐소. 내 가슴을 적시던 붉은 생명력이 서늘하게 가라앉을 때의 형언하기 힘든 죄책감, 그리고 찰나에 뒤따른 비겁한 해방감 말이오. 니악, 당신의 그 감정 없는 눈빛을 마주할 때마다, 가끔 그 섬뜩하고 스산한 흔적이 스쳐 지나가는 것 같아 소름이 돋소."
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 데이터 표본일 뿐인."
+            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 제발 냉정해지세요."
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "데이터 표본이라니... 당신에겐 그 장엄한 생명의 존엄성이 단지 쪼개고 헤집어 관찰하는 한낱 물질에 지나지 않는단 말이오? 피를 흘리며 겪는 생명의 희생과 고통을 단지 기이한 숫자로 덮으려 하다니. 당신에겐 인간으로서의 마땅한 공감과 영혼이 메말라버린 느낌이오. 어쩌면 이 감옥을 설계한 보이지 않는 손보다 더 냉혈할지도 모르지."
-          </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 냉정해지세요."
-          </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "기획이라니, 허구 속의 이야기처럼 기만하려 들지 마시오. 사물만을 쫓는 그 건조한 시선이 내 안의 불신을 더욱 굳건하게 만들 뿐이오. 저 제단에 글자가 채워질수록, 당신이 쓰고 있는 이성의 탈도 서서히 벗겨져 내릴 것이오."
+            <span class="script-character my-character">레바(A)</span>: "냉정이라니, 내 가슴속의 요동치는 죄책감을 어찌 이성으로만 누를 수 있단 말이오? 당신에겐 그 장엄한 생명의 존엄성이 단지 쪼개고 헤집어 관찰하는 한낱 물질에 지나지 않는단 말이오? 피를 흘리는 희생과 고통을 단지 기이한 숫자로 덮으려 하다니. 당신에겐 인간으로서 가져야 할 공감과 영혼이 황폐해진 느낌이오. 어쩌면 이 감옥을 설계한 보이지 않는 손보다 더 냉혈할지도 모르지."
           </div>
 
           <div class="script-line other-character">
             <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 똑똑히 보여줄 테니까요."
+          </div>
+
+          <div class="script-line my-line">
+            <span class="script-character my-character">레바(A)</span>: "이성의 탈이라니, 당신의 그 차가운 시선이 내 불신을 더욱 굳건하게 만들 뿐이오. 저 제단에 글자가 채워질수록, 당신이 억지로 껴입은 거짓된 냉정도 서서히 무너져 내릴 것이오."
           </div>
         </div>
       </div>

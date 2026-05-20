@@ -11,33 +11,33 @@
       <div class="guide-section">
         <p class="guide-text">
           [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(A)부터 시작합니다.<br />
+          1. 대본 리딩은 당신(C)부터 시작합니다.<br />
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
         
         <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 웃음소리가 뒤섞여 있었소."
-          </div>
-
           <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "난 부모님의 업을 이어받아 정해진 궤도를 한 치도 벗어나지 못했던 내 과거가 떠올랐어요. 그건 피가 끓는 삶이 아니라, 정밀하게 맞물린 톱니바퀴처럼 차갑게 돌아가는 일상이었죠. 마치 태엽 인형처럼, 누군가 프로그래밍한 공식대로만 움직여야 하는 무기력한 삶 말이에요."
+            <span class="script-character my-character">니악(C)</span>: "기록판에 글자를 마저 써넣고 나니... 부모님의 업을 이어받아 정해진 궤도를 한 치도 벗어나지 못했던 내 과거가 생각났어요. 그건 활력 넘치는 삶이 아니라, 정밀하게 맞물린 톱니바퀴처럼 차갑게 돌아가는 시스템이었죠. 마치 누군가 설계한 공식대로만 움직여야 하는 태엽 인형처럼 말이에요."
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 태연히 늘어놓는 것이오?"
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 뒤섞여 있었소."
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "이건 단순한 우연이 아니에요. 어떻게 얼굴만 똑같고 복원되는 기억은 이토록 평행선을 달릴 수 있죠? 기묘하네요. 레바, 혹시 당신은 내가 극한의 공포 속에서 만들어낸 또 다른 분열된 자아인가요? 아니면 고도의 심리 실험을 위해 내 머릿속을 헤집는 존재인 건가요?"
+            <span class="script-character my-character">니악(C)</span>: "춤과 노래라니... 레바, 당신은 자꾸 고전 소설이나 신화 속 이야기 같은 비현실적인 소리만 하는군요. 내가 겪은 건 오직 규격화된 일상과 차가운 계산뿐이었어요. 대체 어떤 가상 시나리오에 갇혀 있기에 그런 황당한 소리를 태연히 늘어놓는 건가요?"
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 인간이 아님을 방증하고 있소."
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 도구인 것이오?"
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "이방인이라니... 난 그저 평범하게 학업과 일상에 치이던 사람일 뿐이에요. 당신의 그 뜬구름 잡는 소설 같은 생각들이 내 머릿속을 더 어지럽게 만드네요. 우리는 이 겉모습만 똑같이 빚어졌을 뿐, 결코 좁혀질 수 없는 본질을 가진 것 같아요."
+            <span class="script-character my-character">니악(C)</span>: "환영이라니, 피해망상이 지나치군요. 당신이야말로 내가 전혀 모르는 데이터 오류 속에서 튀어나온 이방인 같아요. 매사 주관적인 감정과 웅장한 연극 톤으로 상황을 모면하려는 태도가 오히려 당신이 실제 인간이 아님을 말해주는 것 같네요."
+          </div>
+
+          <div class="script-line other-character">
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 분명하구려."
           </div>
         </div>
       </div>

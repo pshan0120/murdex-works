@@ -11,17 +11,21 @@
       <div class="guide-section">
         <p class="guide-text">
           [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(A)부터 시작합니다.<br />
+          1. 대본 리딩은 당신(C)부터 시작합니다.<br />
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
         
         <div class="quote-box">
+          <div class="script-line my-line">
+            <span class="script-character my-character">니악(C)</span>: "난 머릿속이 찢어질 듯 날카롭게 파고들던 어떤 기계적 알람과 정밀한 시스템 경보음이 귓가를 강타하는 게 느껴져. 이제 임계점을 돌파했다고, 더는 지체할 전력이 없다고 울부짖는 섬뜩한 비명이지. 그런데 그 차가운 경보를 머릿속에 되살릴수록, 뇌세포가 타들어 가는 것 같은 극심한 두통이 몰려와. 회로의 모든 가닥이 끊어져 나갈 것처럼 아슬아슬하게 말이야."
+          </div>
+
           <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 숨 막히는 공기처럼 말이오."
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 숨 막히는 공기처럼 말이다."
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "난 온 머릿속이 찢어질 듯 날카롭게 파고들던 어떤 기계적 알람과 정밀한 시스템 경보음이 귓가를 강타해요. 이제 임계점을 돌파했다고, 더는 지체할 예비 전력이 없다고 강변하는 섬뜩한 비명 소리죠. 그런데 그 차가운 경보를 복구할수록, 뇌 주름마다 쇼트가 나서 타들어 가는 듯한 극심한 두통이 느껴지네요. 회로의 모든 가닥이 끊어져 나갈 듯이 아슬아슬하게."
+            <span class="script-character my-character">니악(C)</span>: "허상이라니, 헛소리 좀 그만해! 난 그저 이 지옥 같은 밀실에서 살아서 탈출하고 싶을 뿐이야. 최후의 암호를 풀고, 내가 사랑했던 가족과 매일 걷던 그 평온한 일상으로 무사히 돌아갈 거라고! 너처럼 말도 안 되는 집착과 묵시록에 세뇌당한 미치광이가 없는 곳으로 말이지. 어서 다음 단계로 가. 내 눈엔 네가 이성을 잃고 극도로 미쳐 날뛰는 것처럼 보이니까."
           </div>
 
           <div class="script-line other-character">
@@ -29,15 +33,11 @@
           </div>
 
           <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "허상이라니, 헛소리 좀 적당히 해요! 난 그저 이 지옥 같은 밀실에서 살아서 탈출하고 싶을 뿐이에요. 최후의 퀴즈를 풀고, 내가 사랑했던 가족과 매일 걷던 거리, 내 상식적인 일상으로 무사히 귀환할 거라고요! 당신같이 광신적인 집착과 묵시록에 세뇌당한 인물이 없는 곳으로 말이죠. 어서 다음으로 가요. 내 논리적 판단으로 볼 때, 당신은 지금 이성 마비를 넘어 극도로 위험해 보이니까."
+            <span class="script-character my-character">니악(C)</span>: "그 가짜 성전이 무너지는 건 내가 아니라 너야! 이곳에 실재하는 건 내 머릿속의 확실한 정보뿐이야. 네놈이 망집에 빠져 연출하는 그 가상의 지옥도 이제 마침내 끝을 보겠지. 자, 최후의 순간이야. 내가 진짜 인간이라는 걸 규명하고 나면, 이 기괴한 시뮬레이션의 악몽도 깨끗이 흩어질 거야."
           </div>
 
           <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 영원히 봉인해 주겠소!"
-          </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "봉인이라니, 여전히 현실과 가상을 구별하지 못하는군요! 이곳에 실재하는 건 내 뇌 속의 정밀한 정보뿐이에요. 당신이 망집에 빠져 연기하는 그 가상의 성전은 마침내 끝을 볼 겁니다. 자, 최후의 순간이 왔어요. 내가 진짜 인간이라는 걸 규명하고 나면, 이 기괴한 시뮬레이션의 악몽도 깨끗이 흩어지겠죠."
+            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 영원히 봉인해 주마!"
           </div>
         </div>
       </div>
