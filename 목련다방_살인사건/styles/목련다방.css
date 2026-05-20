@@ -229,3 +229,12 @@
     font-size: 0.7rem;
     letter-spacing: 0.1em;
 }
+
+.clue-group-desc {
+    font-size: 0.8rem;
+    color: #a0a0a0;
+    line-height: 1.6;
+    border-left: 2px solid #d4af37;
+    padding: 0.25rem 0 0.25rem 10px;
+    margin-bottom: 0;
+}

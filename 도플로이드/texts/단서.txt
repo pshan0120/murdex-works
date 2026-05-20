@@ -28,13 +28,13 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778745082/murdex/images/clue
 의도 : 레바의 등에 적힌 첫 번째 퀴즈. 정답 '신사'를 역순으로 읽으면 '사신(DEVIL)'이라는 키워드가 도출됨. 이는 레바가 자신을 '사악한 존재'로 오인하게 만드는 첫 번째 트리거임.
 내용 :
 레바의 이마에 아주 작은 글씨로 새겨진 문장이다.
-"어이 젊은 친구, **[  ]**답게 행동해."
+"높은 교양과 예의를 갖춘 점잖은 사내."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "어이 젊은 친구, <span class="highlight-box">◯◯</span>답게 행동해."
+    "높은 교양과 예의를 갖춘 점잖은 사내."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -59,13 +59,13 @@ HTML :
 의도 : 니악의 등에 적힌 첫 번째 퀴즈. 정답 '계기'를 역순으로 읽으면 '기계(ROBOT)'라는 키워드가 도출됨. 이는 니악이 자신을 '인조적인 존재'로 오인하게 만드는 첫 번째 트리거임.
 내용 :
 니악의 이마에 아주 작은 글씨로 새겨진 문장이다.
-"자동차 **[  ]**판을 보니 속도가 너무 빨라."
+"어떤 변화나 행동을 이끌어내는 결정적인 원인이나 기회."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "자동차 <span class="highlight-box">◯◯</span>판을 보니 속도가 너무 빨라."
+    "어떤 변화나 행동을 이끌어내는 결정적인 원인이나 기회."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -158,13 +158,13 @@ HTML :
 의도 : 레바의 신체에 적힌 두 번째 퀴즈. 정답 '기사'를 역순으로 읽으면 '사기(DEVIL)'라는 키워드가 도출됨.
 내용 :
 레바의 목에 아주 작은 글씨로 새겨진 문장이다.
-"오늘자 신문 1면에 뜬 특종 **[  ]** 봤어?"
+"충성 서약을 맺고 영주를 수호하던 고귀한 무사."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "오늘자 신문 1면에 뜬 특종 <span class="highlight-box">◯◯</span> 봤어?"
+    "충성 서약을 맺고 영주를 수호하던 고귀한 무사."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -189,13 +189,13 @@ HTML :
 의도 : 니악의 신체에 적힌 두 번째 퀴즈. 정답 '조인'을 역순으로 읽으면 '인조(ROBOT)'라는 키워드가 도출됨.
 내용 :
 니악의 목에 아주 작은 글씨로 새겨진 문장이다.
-"[  ]은 조조의 사촌동생으로 지략과 무예가 뛰어났다."
+"조약이나 합의의 성립을 증명하기 위해 문서에 서명하는 행위. '**[  ]**식'"
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "<span class="highlight-box">◯◯</span>은 조조의 사촌동생으로 지략과 무예가 뛰어났다."
+    "조약이나 합의의 성립을 증명하기 위해 문서에 서명하는 행위. '<span class="highlight-box">◯◯</span>식'"
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -289,13 +289,13 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778769482/murdex/images/clue
 의도 : 레바의 신체에 적힌 세 번째 퀴즈. 정답 '악사'를 역순으로 읽으면 '사악(DEVIL)'이라는 키워드가 도출됨.
 내용 :
 레바의 어깨에 아주 작은 글씨로 새겨진 문장이다.
-"거리의 **[  ]**들이 연주를 시작했다."
+"악기를 다루며 아름다운 선율을 연주하는 예술가."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "거리의 <span class="highlight-box">◯◯</span>들이 연주를 시작했다."
+    "악기를 다루며 아름다운 선율을 연주하는 예술가."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -320,13 +320,13 @@ HTML :
 의도 : 니악의 신체에 적힌 세 번째 퀴즈. 정답 '유전'을 역순으로 읽으면 '전류(ROBOT)'라는 키워드가 도출됨.
 내용 :
 니악의 어깨에 아주 작은 글씨로 새겨진 문장이다.
-"부모님에게 물려받은 우월한 **[  ]**자."
+"세대를 거쳐 부모의 성질과 형질이 자식에게 고스란히 물려 내려지는 현상."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "부모님에게 물려받은 우월한 <span class="highlight-box">◯◯</span>자."
+    "세대를 거쳐 부모의 성질과 형질이 자식에게 고스란히 물려 내려지는 현상."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -419,13 +419,13 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778824363/murdex/images/clue
 의도 : 레바의 신체에 적힌 네 번째 퀴즈. 정답 '주저'를 역순으로 읽으면 '저주(DEVIL)'라는 키워드가 도출됨.
 내용 :
 레바의 가슴 부근에 아주 작은 글씨로 새겨진 문장이다.
-"이번 곡은, **[  ]**하는 연인들을 위해"
+"마음이 망설여져 선뜻 앞으로 나아가지 못하는 상태."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "이번 곡은, <span class="highlight-box">◯◯</span>하는 연인들을 위해"
+    "마음이 망설여져 선뜻 앞으로 나아가지 못하는 상태."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -450,13 +450,13 @@ HTML :
 의도 : 니악의 신체에 적힌 네 번째 퀴즈. 정답 '동작'을 역순으로 읽으면 '작동(ROBOT)'라는 키워드가 도출됨.
 내용 :
 니악의 가슴 부근에 아주 작은 글씨로 새겨진 문장이다.
-"서울시 **[  ]**구 사당동."
+"몸이나 손발을 움직이는 상태나 태도. '**[  ]**그만'"
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "서울시 <span class="highlight-box">◯◯</span>구 사당동."
+    "몸이나 손발을 움직이는 상태나 태도. '<span class="highlight-box">◯◯</span>그만'"
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -550,13 +550,13 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778825466/murdex/images/clue
 의도 : 레바의 신체에 적힌 다섯 번째 퀴즈. 정답 '생살'을 역순으로 읽으면 '살생(DEVIL)'이라는 키워드가 도출됨.
 내용 :
 레바의 팔뚝 부근에 아주 작은 글씨로 새겨진 문장이다.
-"지휘관은 부하들의 **[  ]**여탈권을 쥐고 있다."
+"살리고 죽임. '**[  ]**여탈권'"
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "지휘관은 부하들의 <span class="highlight-box">◯◯</span>여탈권을 쥐고 있다."
+    "살리고 죽임. '<span class="highlight-box">◯◯</span>여탈권'"
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -581,13 +581,13 @@ HTML :
 의도 : 니악의 신체에 적힌 다섯 번째 퀴즈. 정답 '학과'를 역순으로 읽으면 '과학(ROBOT)'라는 키워드가 도출됨.
 내용 :
 니악의 팔뚝 부근에 아주 작은 글씨로 새겨진 문장이다.
-"너 대학교 전공 **[  ]**가 뭐니?"
+"대학에서 전문 분야에 따라 나누어 놓은 학문 연구의 단위. '경영**[  ]**'"
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "너 대학교 전공 <span class="highlight-box">◯◯</span>가 뭐니?"
+    "대학에서 전문 분야에 따라 나누어 놓은 학문 연구의 단위. '경영<span class="highlight-box">◯◯</span>'"
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -678,13 +678,13 @@ HTML :
 의도 : 레바의 신체에 적힌 여섯 번째 퀴즈. 정답 '약조'를 역순으로 읽으면 '조약(DEVIL)'이라는 키워드가 도출됨.
 내용 :
 레바의 손등에 아주 작은 글씨로 새겨진 문장이다.
-"저와의 **[  ]**를 잊으셨나이까. 반드시 보위에 오르소서."
+"서로 어기지 않기로 굳게 맹세하여 맺은 약속을 뜻하는 옛 단어."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "저와의 <span class="highlight-box">◯◯</span>를 잊으셨나이까. 반드시 보위에 오르소서."
+    "서로 어기지 않기로 굳게 맹세하여 맺은 약속을 뜻하는 옛 단어."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -709,13 +709,13 @@ HTML :
 의도 : 니악의 신체에 적힌 여섯 번째 퀴즈. 정답 '제복'을 역순으로 읽으면 '복제(ROBOT)'라는 키워드가 도출됨.
 내용 :
 니악의 손등에 아주 작은 글씨로 새겨진 문장이다.
-"칼같이 다려 입은 경찰 **[  ]**."
+"소속이나 신분, 규율을 나타내기 위해 규정해 놓은 똑같은 양식의 옷."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "칼같이 다려 입은 경찰 <span class="highlight-box">◯◯</span>."
+    "소속이나 신분, 규율을 나타내기 위해 규정해 놓은 똑같은 양식의 옷."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -806,13 +806,13 @@ HTML :
 의도 : 레바의 신체에 적힌 일곱 번째 퀴즈. 정답 '연심'을 역순으로 읽으면 '심연(DEVIL)'이라는 키워드가 도출됨.
 내용 :
 레바의 옆구리 부근에 아주 작은 글씨로 새겨진 문장이다.
-"충심인 줄 알았으나, **[  ]**이었습니다. 연모합니다, 저하."
+"누군가를 간절히 그리워하고 사랑하는 깊은 마음을 뜻하는 옛 단어."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "충심인 줄 알았으나, <span class="highlight-box">◯◯</span>이었습니다. 연모합니다, 저하."
+    "누군가를 간절히 그리워하고 사랑하는 깊은 마음을 뜻하는 옛 단어."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -837,13 +837,13 @@ HTML :
 의도 : 니악의 신체에 적힌 일곱 번째 퀴즈. 정답 '고사'를 역순으로 읽으면 '사고(ROBOT)'라는 키워드가 도출됨.
 내용 :
 니악의 옆구리 부근에 아주 작은 글씨로 새겨진 문장이다.
-"기말**[  ]** 기간이라 도서관이 꽉 찼어."
+"학습의 성취도를 정밀하게 검증하기 위해 치르는 시험."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "기말<span class="highlight-box">◯◯</span> 기간이라 도서관이 꽉 찼어."
+    "학습의 성취도를 정밀하게 검증하기 위해 치르는 시험."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -935,13 +935,13 @@ HTML :
 의도 : 레바의 신체에 적힌 여덟 번째 퀴즈. 정답 '만기'를 역순으로 읽으면 '기만(DEVIL)'이라는 키워드가 도출됨.
 내용 :
 레바의 허벅지 부근에 아주 작은 글씨로 새겨진 문장이다.
-"적금 부은 지 벌써 3년, 드디어 **[  ]**다!"
+"약속한 기한이나 정해진 시간이 꽉 차서 끝남."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "적금 부은 지 벌써 3년, 드디어 <span class="highlight-box">◯◯</span>다!"
+    "약속한 기한이나 정해진 시간이 꽉 차서 끝남."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -966,13 +966,13 @@ HTML :
 의도 : 니악의 신체에 적힌 여덟 번째 퀴즈. 정답 '동자'를 역순으로 읽으면 '자동(ROBOT)'라는 키워드가 도출됨.
 내용 :
 니악의 허벅지 부근에 아주 작은 글씨로 새겨진 문장이다.
-"귀여운 어린 **[  ]**승이 길을 걷고 있어."
+"나이가 아주 어린 아이를 뜻하는 한자어. '**[  ]**승'"
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "귀여운 어린 <span class="highlight-box">◯◯</span>승이 길을 걷고 있어."
+    "나이가 아주 어린 아이를 뜻하는 한자어. '<span class="highlight-box">◯◯</span>승'"
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -1064,13 +1064,13 @@ HTML :
 의도 : 레바의 신체에 적힌 아홉 번째 퀴즈. 정답 '탄사'를 역순으로 읽으면 '사탄(DEVIL)'이라는 키워드가 도출됨.
 내용 :
 레바의 정강이 부근에 아주 작은 글씨로 새겨진 문장이다.
-"아름다운 풍경에 입에서 터져 나오는 감**[  ]**."
+"감탄하여 부르짖는 말이나 소리. '감**[  ]**'."
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "아름다운 풍경에 입에서 터져 나오는 감<span class="highlight-box">◯◯</span>."
+    "감탄하여 부르짖는 말이나 소리. '감<span class="highlight-box">◯◯</span>'."
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -1095,13 +1095,13 @@ HTML :
 의도 : 니악의 신체에 적힌 아홉 번째 퀴즈. 정답 '선전'을 역순으로 읽으면 '전선(ROBOT)'이라는 키워드가 도출됨.
 내용 :
 니악의 정강이 부근에 아주 작은 글씨로 새겨진 문장이다.
-"**[  ]**포고와 함께 전쟁이 시작되었다."
+"의견이나 주장을 널리 알리고 설득하는 행위. '**[  ]**물'"
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "<span class="highlight-box">◯◯</span>포고와 함께 전쟁이 시작되었다."
+    "의견이나 주장을 널리 알리고 설득하는 행위. '<span class="highlight-box">◯◯</span>물'"
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -1192,13 +1192,13 @@ HTML :
 의도 : 레바의 신체에 적힌 마지막 퀴즈. 정답 '유사'를 역순으로 읽으면 '사유(DEVIL)'이라는 키워드가 도출됨.
 내용 :
 레바의 발등에 아주 작은 글씨로 새겨진 문장이다.
-"정품과 매우 흡사합니다. **[  ]**품에 주의하세요."
+"서로 아주 비슷하거나 교묘하게 닮아 있는 상태. '<span class="highlight-box">◯◯</span>품'"
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "정품과 매우 흡사합니다. <span class="highlight-box">◯◯</span>품에 주의하세요."
+    "서로 아주 비슷하거나 교묘하게 닮아 있는 상태. '<span class="highlight-box">◯◯</span>품'"
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
@@ -1223,13 +1223,13 @@ HTML :
 의도 : 니악의 신체에 적힌 마지막 퀴즈. 정답 '역동'을 역순으로 읽으면 '동력(ROBOT)'이라는 키워드가 도출됨.
 내용 :
 니악의 발등에 아주 작은 글씨로 새겨진 문장이다.
-"저 댄서의 **[  ]**적인 움직임을 봐."
+"힘차고 생기 있게 활발히 움직이는 상태. '**[  ]**적'"
 HTML :
 <div class="story-content">
   <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
   <div class="divider-gold"></div>
   <div class="quiz-box">
-    "저 댄서의 <span class="highlight-box">◯◯</span>적인 움직임을 봐."
+    "힘차고 생기 있게 활발히 움직이는 상태. '<span class="highlight-box">◯◯</span>적'"
   </div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A wide shot of a stark, empty, sterile white room. The only object in the room is a simple, sleek input panel mounted on a plain wall, featuring a basic keypad and one small, rectangular blank monochromatic screen. A horizontal glass window on the wall separates this room from an identical empty room, positioned at eye-level to show only the upper body of a person. Behind the glass, a faint, dark silhouette of an androgynous, naked person stands in the dim light of the other room. The silhouette has no clothing, no armor, and no distinct hair or gender features, appearing only as a smooth, mysterious dark outline. Cool grey and white color palette, sharp clean lines, soft diffused lighting. Absolutely no other furniture or details. Sterile, lonely, and mysterious atmosphere.
