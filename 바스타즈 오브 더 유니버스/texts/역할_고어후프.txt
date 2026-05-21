@@ -131,7 +131,8 @@
         <li><strong>속성</strong>: 땅</li>
         <li><strong>전투력</strong>: 8</li>
         <li><strong>외형</strong>: 성인 남성의 몸집을 아득히 상회하는 붉은 털의 반인반수 거구. 머리 양옆으로 둥글게 말려 올라간 거대한 야수의 뿔과 짐승 특유의 거친 숨소리가 공포감을 자아냄.</li>
-        <li><strong>수인종의 감각</strong>: 보통 인간이라면 결코 감지할 수 없는, 공기 중에 아주 희미하게 남아 있는 냄새까지 예민하게 식별해낼 수 있다.</li>
+        <li><strong>수인종의 감각</strong>: 보통 인간이라면 결코 감지할 수 없는, 공기 중에 아주 희미하게 남아 있는 냄새나 미세한 온도의 변화까지 예민하게 감지할 수 있다.</li>
+        <li><strong>미노타우로스의 이빨</strong>: 뭉툭한 사각형 형태의 독특한 이빨을 지니고 있다.</li>
       </ul>
     </div>
   </details>
@@ -194,6 +195,24 @@
     <div class="collapsible-content">
       <ul class="goal-list">
         <li><strong>협박 대응</strong>: <span class="character-eldritch">엘드리치</span>의 협박이 단순히 말뿐인지, 아니면 당신의 명예를 완전히 무너뜨릴 실질적인 무언가를 쥐고 있는 것인지 파악하라. 그것이 무엇이든 당신의 과거 실수를 수면 위로 끌어올릴 만한 것이라면 선제적으로 대처해야 한다.</li>
+      </ul>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      역할별 지침 - 고어후프
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p class="guide-text">
+        <strong>[추가 감각 정보]</strong>: 게임이 시작되면서 긴장이 조금 풀리자, 문득 아까 17:00 승전 소집 때 겪었던 기묘한 감각이 머릿속에 다시 떠올랐습니다. 이 정보는 당신만 기억해 낸 사실입니다.
+      </p>
+      <ul class="goal-list">
+        <li><strong>17:00 소집 당시의 기억</strong>: 수색 도중 소집 명령을 받고 왕좌의 방에 모였을 때, 당신은 <span class="character-slither">슬리더</span>의 바로 옆자리에 서 있었습니다. 그 순간 당신의 예민한 <strong>'수인종의 감각'</strong>이 아주 기묘한 온기를 감지했습니다. 원래 파충류 수인은 전신이 시체처럼 차갑고 서늘한 기운을 풍겨야 하는데, 당시 <span class="character-slither">슬리더</span>의 몸에서는 마치 살아있는 사람의 체온처럼 묘하게 훈훈한 온기가 풍겨 나오고 있었습니다. 당시에는 경황이 없어 무심코 넘겼으나, 지금 생각해보니 무척 이상한 일입니다.</li>
       </ul>
     </div>
   </details>
