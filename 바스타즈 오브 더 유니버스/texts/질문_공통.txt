@@ -49,18 +49,25 @@
     - (B) <span class="mystery">?? ????</span>의 전투력: 30<br>
     - (C) 속성 부작용: 처형 대상이 빛의 검을 소유했다면 4, 아니라면 0<br>
     - (D) 부활한 <span class="mystery">?? ????</span>의 전투력 = (A) + (B) - (C)<br>
+    <br>
     
     <span class="highlight">[판정 결과 입력]</span><br>
     - (E) 생존 바스타즈 전투력 = <span class="character-eldritch">엘드리치</span>와 <span class="emphasis">처형 대상</span>을 제외한 모든 바스타즈 멤버들의 전투력 총합<br>
-    - 판정 A: (E) ≤ (D)<br>
-    - 판정 B: (E) > (D)
+    - <span class="emphasis">판정 A</span>: (E) ≤ (D)<br>
+    - <span class="emphasis">판정 B</span>: (E) > (D)<br>
+    <br>
+
+    <span class="highlight">[예시]</span><br>
+    - <span class="character-skullcrusher">스컬크러셔</span>가 처형 대상이 되었고 빛의 검을 소유하고 있었다면 (A)는 <span class="emphasis">13</span>, (C)는 <span class="emphasis">4</span>이므로, (D)는 <span class="emphasis">39</span><br>
+    - 생존 바스타즈 멤버들 중 <span class="character-valtra">발트라</span>가 물의 검(+3), <span class="character-malice">말리스</span>가 마력석(+8)을 소유했다면 (E)는 <span class="emphasis">39</span><br>
+    - 이 경우 <span class="emphasis">(E) ≤ (D)</span> 이므로 <span class="emphasis">판정 A</span>가 됩니다.
   </div>
 </div>
 
 <div class="story-content">
-  판정 A: 기준치 이하
+  판정 A
 </div>
 
 <div class="story-content">
-  판정 B: 기준치 초과
+  판정 B
 </div>
