@@ -237,7 +237,7 @@ HTML :
 이름 : 왕좌의 방#2
 유형 : 증언
 단계 : 조사 1단계
-소모AP : 5
+소모AP : 3
 정렬순서 : 80
 중요도 : 높음
 핵심 단서 여부 : N
@@ -339,7 +339,7 @@ HTML :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 말리스, 발로그, 슬리더
-의도 : 서재에 무색무취의 수면가스가 사용되었음을 증명. 일반인은 알 수 없으나 특수한 후각을 가진 슬리더만 포착할 수 있음.
+의도 : 서재에 무색무취의 수면가스가 사용되었음을 증명. 일반인은 알 수 없으나 특수한 후각을 가진 고어후프와 슬리더만 포착할 수 있음.
 내용 :
 예민한 후각을 가진 당신은 서재의 공기 속에 아주 미세하게 눅눅하고 쿰쿰한 잔향이 뒤섞여 있음을 간신히 포착할 수 있었다.
 HTML :
@@ -358,8 +358,8 @@ HTML :
 정렬순서 : 120
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -394,8 +394,8 @@ HTML :
 정렬순서 : 130
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -527,8 +527,8 @@ HTML :
 정렬순서 : 150
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -567,8 +567,8 @@ HTML :
 정렬순서 : 160
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -913,7 +913,7 @@ HTML :
 이름 : 지하창고#3
 유형 : 증언
 단계 : 조사 1단계
-소모AP : 5
+소모AP : 4
 정렬순서 : 270
 중요도 : 높음
 핵심 단서 여부 : N
@@ -926,7 +926,8 @@ HTML :
 관련 : 슬리더
 의도 : 슬리더가 어둠의 단검을 두고 가야 했던 이유.
 내용 :
-성스러운 빛이 결계가 되어 겹겹이 두르고 있죠. 어둠의 힘을 머금은 물건이나 생명체는 그 안으로 발을 들이는 것조차 비명이 나올 만큼 고통스러울 겁니다. 만약 억지로 들여보내려 했다면, 마치 거대한 벽에 가로막힌 듯 결코 그 안으로 들어설 수 없었을 테니까요.&quot;
+취조실의 어스름한 불빛 아래, 창고지기 포로가 마른침을 삼키며 전하는 떨리는 목소리다.
+"그 지하 깊은 곳은... 단순한 창고가 아닙니다. 성스러운 빛의 결계가 겹겹이 두르고 있죠. 어둠의 힘을 머금은 물건이나 생명체는 그 안에서 밖으로 나오거나 밖에서 안으로 들어갈 수 없을 겁니다. 발을 들이는 것조차 비명이 나올 만큼 고통스러울 테니까요."
 HTML :
 <div class="story-content">
   <div class="script-direction">
@@ -934,7 +935,7 @@ HTML :
   </div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>그 지하 깊은 곳은... 단순한 보물창고가 아닙니다. 성스러운 <span class="emphasis">빛의 결계</span>가 겹겹이 두르고 있죠. <span class="emphasis">어둠의 힘을 머금은 물건이나 생명체</span>는 그 안으로 발을 들이는 것조차 비명이 나올 만큼 고통스러울 겁니다. 만약 억지로 들여보내려 했다면, 마치 거대한 벽에 가로막힌 듯 결코 그 안으로 들어설 수 없었을 테니까요.</div>
+    <div>그 지하 깊은 곳은... 단순한 창고가 아닙니다. 성스러운 <span class="emphasis">빛의 결계</span>가 겹겹이 두르고 있죠. <span class="emphasis">어둠의 힘을 머금은 물건이나 생명체</span>는 그 안에서 밖으로 나오거나 밖에서 안으로 들어갈 수 없을 겁니다. 발을 들이는 것조차 비명이 나올 만큼 고통스러울 테니까요.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of the rough grain and texture of a single wooden chair in deep shadows. A cold, dim light catches only one edge of the wood. Extremely shallow depth of field, background is a dark, indistinct stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -1123,7 +1124,7 @@ HTML :
 이름 : 왕좌의 방#7
 유형 : 증언
 단계 : 조사 2단계
-소모AP : 4
+소모AP : 3
 정렬순서 : 330
 중요도 : 보통
 핵심 단서 여부 : N
@@ -1293,8 +1294,8 @@ HTML :
 정렬순서 : 380
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -1335,7 +1336,7 @@ HTML :
 이름 : 연구실#4
 유형 : 증언
 단계 : 조사 2단계
-소모AP : 4
+소모AP : 3
 정렬순서 : 390
 중요도 : 보통
 핵심 단서 여부 : N
@@ -1367,7 +1368,7 @@ HTML :
 이름 : 식당#4
 유형 : 증언
 단계 : 조사 2단계
-소모AP : 5
+소모AP : 4
 정렬순서 : 400
 중요도 : 높음
 핵심 단서 여부 : N
@@ -1864,12 +1865,12 @@ HTML :
 관련 : 발로그
 의도 : 전투 중 발로그의 상태에 대한 정보 제공.
 내용 :
-조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다. "정오쯤이었을 겁니다. 성벽 위를 날아다니던 그자의 날갯짓이 갑자기 멈추더니, 그대로 균형을 잃고 지면으로 수직 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요. 평소 번뜩이던 금색 눈동자는 초점이 완전히 풀린 채 흐릿해져 있었고, 마치 온몸의 근력이 일시에 마비된 것처럼 무력하게 엎드려 있었습니다."
+조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다. "그 자는 우리들이 일제히 퍼붓는 마법 공격을 버텨내며, 마법탑 중앙으로 천천히 내려앉더군요. 그러고는 엄청난 마력을 사방으로 뿜어냈습니다. 그 힘에 휩쓸려 방어막을 유지하려던 마법사들은 마력이 역류해 그 자리에서 폭사해 버렸지요. 그렇게 탑 전체를 온통 초토화하고는 다시 하늘로 날아오르는가 싶었는데... 정오쯤이 되자 갑자기 균형을 잃고 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요."
 HTML :
 <div class="story-content">
   <div class="script-direction">조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다.</div>
   <div class="divider-gold"></div>
-  <div>정오쯤이었을 겁니다. 성벽 위를 날아다니던 그자의 날갯짓이 갑자기 멈추더니, 그대로 균형을 잃고 <span class="emphasis">지면으로 수직 추락</span>했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요. 평소 번뜩이던 금색 눈동자는 초점이 완전히 풀린 채 흐릿해져 있었고, 마치 <span class="emphasis">온몸의 근력이 일시에 마비된 것처럼</span> 무력하게 엎드려 있었습니다.</div>
+  <div>그 자는 우리들이 일제히 퍼붓는 마법 공격을 버텨내며, 마법탑 중앙으로 천천히 내려앉더군요. 그러고는 엄청난 마력을 사방으로 뿜어냈습니다. 그 힘에 휩쓸려 방어막을 유지하려던 마법사들은 마력이 역류해 그 자리에서 폭사해 버렸지요. 그렇게 탑 전체를 온통 초토화하고는 다시 하늘로 날아오르는가 싶었는데... 정오쯤이 되자 갑자기 균형을 잃고 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 비정상적으로 거친 숨만 몰아쉬더군요.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured sorcerer (prisoner) seen from behind, sitting motionless on a heavy stone chair in a high-vaulted chamber of the Mage Tower (based on ref 11). The Mage Tower setting is visible in the background with grand arches and cold, mystical stone architecture with bluish magic glow in the distance. The prisoner, wearing tattered dark robes and a hood, sits with his head bowed and arms slightly positioned behind, showing a resigned and defeated state. Faint blue magical light or cold candlelight illuminates the vast, silent, and somber chamber. Extremely shallow depth of field, focused on the prisoner&apos;s back. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, tattered fabrics, old wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the solitary, defeated silhouette of the wizard as he provides his testimony. No face visible, just the back of the figure&apos;s head and shoulders.
 장소 : 08_마법탑
