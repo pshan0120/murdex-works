@@ -10,6 +10,31 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778745082/murdex/images/clue
 
 ## [1] 조사 1단계
 
+[clue_00]
+이름 : 평면도
+유형 : 정보
+단계 : 조사 1단계
+소모AP : 0
+정렬순서 : 5
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : N
+관련 : 레바(A), 니악(C)
+의도 : 플레이어가 자신들이 갇힌 3분할 원형 격리실의 기하학적 구도(A방, B방, C방의 배치)와 기괴하게 뒤틀린 시체 B의 위치를 시각적으로 이해할 수 있도록 제공되는 기초 설계도.
+내용 :
+입력 패널 위에는 평면도가 붙어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">입력 패널 위에는 평면도가 붙어 있다.</div>
+</div>
+이미지생성용 프롬프트: Anime style digital art, clean isometric 3D architectural cutaway diagram of a sterile circular cylinder chamber. The chamber is divided into exactly three equal 120-degree sections by three white partition walls radiating from the center to form a perfect Y-shape. Strictly only three sections, absolutely no fourth section. The partition walls are solid white, each featuring a sleek horizontal glass window at eye-level. The curved outer wall of each section is a plain white wall with only a single simple metallic hatch door and a tiny input keypad panel next to it. The entire circular chamber is surrounded by a vast, silent, pitch-black void representing an abyss. In Section A and Section C, an identical dark featureless naked human silhouette stands near the horizontal windows. In Section B, a heavily distorted and twisted human silhouette lies dead on the floor. On the floor of each room, a clean bold single letter is printed: 'A' in the left room, 'C' in the right room, and 'B' in the bottom room. Absolutely no explanatory labels, no pointer lines, no technical text overlays. Minimalist sterile white and soft grey color scheme, thin crisp line art.
+장소 : 실험실
+파일명 : 00_평면도
+
 [clue_01]
 이름 : A의 신체 #1
 유형 : 관찰
