@@ -1490,8 +1490,8 @@ HTML :
     <h4>&lt;포상 기록&gt;</h4>
     <div class="document-body small">
       <div>대상: <span class="character-solite">기사 류크</span></div>
-      <div>사유: <span class="emphasis">대정화 완수 및 변방 행성 평정</span></div>
-      <div>내역: <span class="emphasis">제2외곽 행성 자치권 하사 및 행성 총독 임명</span></div>
+      <div>사유: 대정화 완수 및 변방 행성 평정</div>
+      <div>내역: 제2외곽 행성 자치권 하사 및 행성 총독 임명</div>
       <div class="divider-gold"></div>
       <div>비고: 대상은 부임 직후 <span class="emphasis">실종</span>, 통치 공백 장기화에 의거하여 해당 직위를 공석 상태로 분류하고, 신속한 후임 총독 임명 절차에 착수할 것을 권고함</div>
     </div>
@@ -1919,12 +1919,12 @@ HTML :
 관련 : 말리스
 의도 : 마법진이 거대 영적 수렴 장치이며, 그 중심에 강대한 육체를 매개로 영혼이 깃들면 위력이 극대화됨을 해독.
 내용 :
-말리스가 머릿속에 축적된 고도의 마법 지식을 발휘해 도식의 빈 원형 칸과 별 모양 기호, 그리고 선들이 소용돌이치는 결절점의 문양들을 완벽하게 분석해 낸 번역 내용이다. "이 기하학 도식은 성채의 단순한 방어 결계가 아니다. 외곽의 미세한 순환선을 따라 대지의 마력을 단 한 곳으로 모조리 흡수해 집중시키는 '영적 에너지 수렴 장치'의 설계도다. 또한, 이 회로를 통해 대지의 방대한 마력을 제단 중앙으로 수렴시켜, 준비된 매개체의 육신이 사망한 직후 빠른 시간 내에 영혼을 안착시켜야만 해당 육체를 온전히 지배하고 장악하여 부활 의식을 완전히 성립시킬 수 있다고 명시되어 있다."
+말리스가 머릿속에 축적된 고도의 마법 지식을 발휘해 도식의 빈 원형 칸과 별 모양 기호, 그리고 선들이 소용돌이치는 결절점의 문양들을 완벽하게 분석해 낸 번역 내용이다. "이 도식은 외곽의 미세한 순환선을 따라 마력을 단 한 곳으로 집중시키는 '영적 에너지 수렴 장치'의 설계도다. 회로를 통해 방대한 마력을 제단 중앙으로 수렴시켜, 준비된 매개체의 육신이 사망한 직후 빠른 시간 내에 영혼을 안착시키면 해당 육체를 온전히 지배하고 장악하여 부활 의식을 완전히 성립시킬 수 있다고 적혀있다."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="character-malice">말리스</span>가 머릿속에 축적된 고도의 마법 지식을 발휘해 도식의 문양들을 분석해 낸 번역 내용이다.</div>
   <div class="divider-gold"></div>
-  <div>이 기하학 도식은 성채의 단순한 방어 결계가 아니다. 외곽의 미세한 순환선을 따라 대지의 마력을 단 한 곳으로 모조리 흡수해 집중시키는 <span class="highlight">영적 에너지 수렴 장치</span>의 설계도다. 또한, 이 회로를 통해 대지의 방대한 마력을 제단 중앙으로 수렴시켜, 준비된 <span class="highlight">매개체의 육신이 사망한 직후 빠른 시간 내에</span> 영혼을 안착시켜야만 <span class="highlight">해당 육체를 온전히 지배하고 장악</span>하여 부활 의식을 완전히 성립시킬 수 있다고 명시되어 있다.</div>
+  <div>이 도식은 외곽의 미세한 순환선을 따라 마력을 단 한 곳으로 집중시키는 <span class="emphasis">영적 에너지 수렴 장치</span>의 설계도다. 회로를 통해 방대한 마력을 제단 중앙으로 수렴시켜, 준비된 <span class="emphasis">매개체의 육신</span>이 사망한 직후 빠른 시간 내에 영혼을 안착시키면 해당 육체를 온전히 지배하고 장악하여 <span class="emphasis">부활 의식</span>을 성립시킬 수 있다고 적혀있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a complex geometric diagram on yellowed leather parchment, now dynamically overlaid with glowing, semi-transparent crimson and violet runic characters that seem to float just above the surface of the leather. At the center of the diagram, a bright, mystical violet light surges from the dense intersecting lines, indicating magical activation. The hand of a dark sorcerer (Malice), wearing dark fingerless leather gloves, is gently tracing the glowing ancient script with a finger, leaving a faint trail of purple magical sparks in the air. Soft chiaroscuro lighting, dark and blurry laboratory background with dusty alchemy bottles. Detailed 1980s fantasy oil painting style. High tension and discovery.
 장소 : 03_연구실
