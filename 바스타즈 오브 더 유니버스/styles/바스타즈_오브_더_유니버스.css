@@ -1130,3 +1130,13 @@
     margin-bottom: 0.5rem;
     letter-spacing: 0.02em;
 }
+
+/* 낭독 가이드 스타일 */
+.story-content .reading-guide {
+    margin-bottom: 1.25em;
+    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-left: 4px solid var(--fantasy-gold);
+    font-size: 0.95em;
+    color: var(--fantasy-text);
+}

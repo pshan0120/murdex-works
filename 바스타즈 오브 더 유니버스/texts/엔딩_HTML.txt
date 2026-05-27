@@ -9,6 +9,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방을 감싼 육중한 문이 닫히고, 흐릿한 촛불 아래 <span class="character-bastards">바스타즈</span>의 생존자들이 모였다. 모든 단서와 증거가 가리키는 파멸의 끝은 단 한 곳, 압도적인 힘으로 일행을 이끌어온 수장 <span class="character-skullcrusher">스컬크러셔</span>를 향하고 있었다.
   </div>
@@ -19,11 +23,11 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;같잖은 지략이나 짜내는 계집이 입을 함부로 놀리는구나. 내가 그 현자를 죽여 얻을 게 무엇이 있다고 생각하지? 이 성채를 너희 발아래 바치고, 버림받은 자들의 왕좌를 세운 게 누구인지 벌써 잊었단 말이냐! 고작 과거의 껍데기를 빌미로 나를 심판하겠다고? 네놈들의 비겁한 음모가 도를 넘었군!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;같잖은 지략이나 짜내는 계집이 입을 함부로 놀리는구나. 내가 그 현자를 죽여 얻을 게 무엇이 있다고 생각하지? 이 성채를 너희 발아래 바치고, 버림받은 자들의 왕좌를 세운 게 누구인지 벌써 잊었단 말이냐! 고작 과거의 껍데기를 빌미로 나를 심판하겠다고? 너희들의 비겁한 음모가 도를 넘었군!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;성기사라... 우리 멤버 안에 지옥의 유황 냄새보다 더 고약한 빛의 찌꺼기가 숨어 있었을 줄이야. 네놈의 검술을 볼 때마다 느꼈던 기분 나쁜 떨림이 이제야 설명되는군. 마족인 내가 빛의 사냥개와 한솥밥을 먹었다니... 네놈의 위선적인 심장을 통째로 도려내야만 내 분노가 풀리겠다.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;성기사라... 우리 멤버 안에 지옥의 유황 냄새보다 더 고약한 빛의 찌꺼기가 숨어 있었을 줄이야. 네 검술을 볼 때마다 느꼈던 기분 나쁜 떨림이 이제야 설명되는군. 마족인 내가 빛의 사냥개와 한솥밥을 먹었다니... 네 위선적인 심장을 통째로 도려내야만 내 분노가 풀리겠다.&quot;
     </div>
 
     <div class="script-line">
@@ -31,7 +35,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 목숨을 구했던 게 당신 같은 기사 놈일 리 없어! 아니, 설령 그랬다 하더라도 상관없다! 너희 <span class="character-solite">솔라이트</span> 놈들이 우리 평원을 짓밟고 내 형제들을 도살하던 그 눈빛을 내가 잊었을 것 같나? 내 은인은 오늘 죽었다. 내 눈앞에 있는 건 그저 부수어야 할 덩어리일 뿐이야! 네놈의 거만한 해골 투구를 내 손으로 직접 가루로 만들어주마!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 목숨을 구했던 게 당신 같은 기사 놈일 리 없어! 아니, 설령 그랬다 하더라도 상관없다! 너희 <span class="character-solite">솔라이트</span> 놈들이 우리 평원을 짓밟고 내 형제들을 도살하던 그 눈빛을 내가 잊었을 것 같나? 내 은인은 오늘 죽었다. 내 눈앞에 있는 건 그저 부수어야 할 덩어리일 뿐이야! 네 거만한 해골 투구를 내 손으로 직접 가루로 만들어주마!&quot;
     </div>
 
     <div class="script-line">
@@ -59,7 +63,7 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이 고결하면서도 강력한 육신! 류크, 네가 평생을 갈고닦은 그 힘이 드디어 나의 진정한 부활을 완성시켰구나!&quot;
+      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이토록 훌륭한 육신이라니! 류크, 네가 평생을 바쳐 쌓아 올린 힘이 마침내 나를 부활시켰구나!&quot;
     </div>
   </div>
 
@@ -160,6 +164,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방의 무거운 적막 속에서 모든 시선이 단 한 명, 책략가 <span class="character-malice">말리스</span>를 향해 쏟아졌다. 그녀의 냉철하던 눈동자가 처음으로 흔들리기 시작했다.
   </div>
@@ -170,7 +178,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;현자 <span class="character-eldritch">엘드리치</span>가 평소 당신을 얼마나 신뢰했는지 우리 모두가 알고 있다. 그런데 네년은 그 신뢰를 이용해 그분의 머리 위에 언제든 떨어질 단검을 매달아 두었지. 우리의 두뇌라고 불리던 그 명성이 오늘 <span class="character-bastards">바스타즈</span>의 가장 큰 오점이 되었다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;현자 <span class="character-eldritch">엘드리치</span>가 평소 당신을 얼마나 신뢰했는지 우리 모두가 알고 있다. 그런데 너는 그 신뢰를 이용해 그분의 머리 위에 언제든 떨어질 단검을 매달아 두었지. 우리의 두뇌라고 불리던 그 명성이 오늘 <span class="character-bastards">바스타즈</span>의 가장 큰 오점이 되었다.&quot;
     </div>
 
     <div class="script-line">
@@ -178,16 +186,16 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;<span class="character-malice">말리스</span>, 적당히 해! 네년이 <span class="emphasis">&apos;성채 수색을 위해 필요하다&apos;</span>며 도구들을 내밀었을 때 난 순진하게 그게 우리 모두를 위한 방어책인 줄로만 알았어! 그 뒤에서 이런 끔찍한 살인 트랩을 설계하고 나를 도구로 부려먹었을 줄이야... 마족인 나조차 네년의 그 간교함에는 치가 떨리는군. <span class="character-eldritch">엘드리치</span>를 살해한 건 그 흉측한 야망이야!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;<span class="character-malice">말리스</span>, 적당히 해! 네가 <span class="emphasis">&apos;성채 수색을 위해 필요하다&apos;</span>며 도구들을 내밀었을 때 난 순진하게 그게 우리 모두를 위한 방어책인 줄로만 알았어! 그 뒤에서 이런 끔찍한 살인 트랩을 설계하고 나를 도구로 부려먹었을 줄이야... 마족인 나조차 네 그 간교함에는 치가 떨리는군. <span class="character-eldritch">엘드리치</span>를 살해한 건 그 흉측한 야망이야!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;<span class="character-eldritch">엘드리치</span>는 우리에게 유일하게 휴식을 주던 분이었지... <span class="character-malice">말리스</span>, 네년이 사용한 그 <span class="emphasis">몽유석</span>의 향기처럼, 이제 너도 영원히 깨어날 수 없는 잠에 빠져야 해. 쉿쉿... 네가 뿌린 향기에 네가 취할 시간이야.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;<span class="character-eldritch">엘드리치</span>는 우리에게 유일하게 휴식을 주던 분이었지... <span class="character-malice">말리스</span>, 네가 사용한 그 <span class="emphasis">몽유석</span>의 향기처럼, 이제 너도 영원히 깨어날 수 없는 잠에 빠져야 해. 쉿쉿... 네가 뿌린 향기에 네가 취할 시간이야.&quot;
     </div>
   </div>
 
   <p>
-    비명이 채 끝나기도 전에 네 명의 동료가 그녀를 에워쌌다. <span class="character-skullcrusher">스컬크러셔</span>의 대검이 <span class="character-malice">말리스</span>의 퇴로를 갈랐고, <span class="character-gorehoof">고어후프</span>의 거대한 도끼가 그녀의 허리춤을 겨냥했다. <span class="character-balrog">발로그</span>가 거대한 날개를 펼쳐 공중에서 압박하는 가운데, <span class="character-valtra">발트라</span>가 방패로 압박함과 동시에 투창을 날려 그녀의 도주로를 완벽하게 차단했다. <span class="character-slither">슬리더</span>가 그림자 속에서 나타나 차가운 단검을 그녀의 심장에 박아 넣었을 때, <span class="character-malice">말리스</span>의 눈에는 배신감을 넘어선 지독한 허무함이 서렸다.
+    다섯 명의 동료가 그녀를 에워쌌다. <span class="character-skullcrusher">스컬크러셔</span>의 대검이 <span class="character-malice">말리스</span>의 퇴로를 갈랐고, <span class="character-gorehoof">고어후프</span>의 거대한 도끼가 그녀의 허리춤을 겨냥했다. <span class="character-balrog">발로그</span>가 거대한 날개를 펼쳐 공중에서 압박하는 가운데, <span class="character-valtra">발트라</span>가 방패로 압박함과 동시에 투창을 날려 그녀의 도주로를 완벽하게 차단했다. <span class="character-slither">슬리더</span>가 그림자 속에서 나타나 차가운 단검을 그녀의 심장에 박아 넣었을 때, <span class="character-malice">말리스</span>의 눈에는 배신감을 넘어선 지독한 허무함이 서렸다.
   </p>
 
   <div class="script-container">
@@ -240,7 +248,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;내 기습 비행이 통하질 않아! 마신이 내 강습 경로를 이미 예측하고 공간을 비틀었다! <span class="character-eldritch">엘드리치</span>, 네놈이 어떻게...!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;내 기습 비행이 통하질 않아! 마신이 내 강습 경로를 이미 예측하고 공간을 비틀었다! <span class="character-eldritch">엘드리치</span>, 네가 어떻게...!&quot;
     </div>
 
     <div class="script-line">
@@ -287,6 +295,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방의 모든 등불이 기괴하게 일렁였고, <span class="character-bastards">바스타즈</span>의 살기 어린 시선은 그림자 속에 몸을 숨기려던 암살자 <span class="character-slither">슬리더</span>에게 꽂혔다.
   </div>
@@ -301,7 +313,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;동료를 암살하고 <span class="character-bastards">바스타즈</span>를 무너뜨리려 한 배신자 놈. <span class="character-solite">솔라이트</span>에게 고향을 잃었다더니, 결국 그들과 다를 바 없는 비열한 짓을 저질렀구나. 네놈의 그 축축한 피부를 여기서 갈기갈기 찢어주마.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;동료를 암살하고 <span class="character-bastards">바스타즈</span>를 무너뜨리려 한 배신자 놈. <span class="character-solite">솔라이트</span>에게 고향을 잃었다더니, 결국 그들과 다를 바 없는 비열한 짓을 저질렀구나. 네 그 축축한 피부를 여기서 갈기갈기 찢어주마.&quot;
     </div>
 
     <div class="script-line">
@@ -309,11 +321,11 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;입 닥쳐라, 뱀 같은 놈! 네놈의 그 기분 나쁜 황금빛 눈동자를 볼 때마다 언젠가 우리를 배신할 줄 알았지. <span class="character-eldritch">엘드리치</span>를 죽인 죄는 오직 네놈의 차가운 피로만 씻을 수 있다.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;입 닥쳐라, 뱀 같은 놈! 네 그 기분 나쁜 황금빛 눈동자를 볼 때마다 언젠가 우리를 배신할 줄 알았지. <span class="character-eldritch">엘드리치</span>를 죽인 죄는 오직 네 차가운 피로만 씻을 수 있다.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;포효할 줄도 모르는 겁쟁이 암살자! 네놈의 그 얄팍한 단검으로 우리를 기만하려 들다니! 묵직한 내 도끼맛을 보며 네 고향으로나 돌아가라!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;포효할 줄도 모르는 겁쟁이 암살자! 네 그 얄팍한 단검으로 우리를 기만하려 들다니! 묵직한 내 도끼맛을 보며 네 고향으로나 돌아가라!&quot;
     </div>
   </div>
 
@@ -333,7 +345,7 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이 소름 끼칠 정도의 순발력! <span class="character-slither">슬리더</span>, 네놈이 평생을 갈고닦은 그 암살자의 감각이 드디어 나를 진정한 공간의 지배자로 만들었구나! 이제 누구도 나의 움직임을 쫓지 못할 것이다!&quot;
+      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이 소름 끼칠 정도의 순발력! <span class="character-slither">슬리더</span>, 네가 평생을 갈고닦은 그 암살자의 감각이 드디어 나를 진정한 공간의 지배자로 만들었구나! 이제 누구도 나의 움직임을 쫓지 못할 것이다!&quot;
     </div>
   </div>
 
@@ -394,6 +406,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방의 무거운 공기를 가른 것은 거구의 수인, <span class="character-gorehoof">고어후프</span>의 거친 숨소리였다. 모든 증거는 그가 이성을 잃고 현자 <span class="character-eldritch">엘드리치</span>를 도살했음을 가리키고 있었다.
   </div>
@@ -408,7 +424,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;명예로운 전사인 줄 알았건만... 결국 배은망덕하게 동료를 해치는 짐승에 불과했단 말이냐! <span class="character-gorehoof">고어후프</span>, 네놈의 그 거대한 뿔이 오늘 <span class="character-bastards">바스타즈</span>의 심판을 위해 부러질 것이다!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;명예로운 전사인 줄 알았건만... 결국 배은망덕하게 동료를 해치는 짐승에 불과했단 말이냐! <span class="character-gorehoof">고어후프</span>, 네 그 거대한 뿔이 오늘 <span class="character-bastards">바스타즈</span>의 심판을 위해 부러질 것이다!&quot;
     </div>
 
     <div class="script-line">
@@ -416,7 +432,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;짐승에게 동료애를 기대한 우리가 바보였지. <span class="character-gorehoof">고어후프</span>, <span class="character-malice">말리스</span>의 증언대로 네가 우리 은인을 해치운 것은 명백하다. 네놈의 그 살기 넘치는 눈빛이 모든 것을 말해주더군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;짐승에게 동료애를 기대한 우리가 바보였지. <span class="character-gorehoof">고어후프</span>, <span class="character-malice">말리스</span>의 증언대로 네가 우리 은인을 해치운 것은 명백하다. 네 그 살기 넘치는 눈빛이 모든 것을 말해주더군.&quot;
     </div>
 
     <div class="script-line">
@@ -444,7 +460,7 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이 주체할 수 없는 힘! <span class="character-gorehoof">고어후프</span>, 네놈이 평생을 갈고닦은 그 야성적인 힘이 드디어 나를 진정한 파괴의 화신으로 완성시켰구나! 이제 누구도 나를 막지 못할 것이다!&quot;
+      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이 주체할 수 없는 힘! <span class="character-gorehoof">고어후프</span>, 네가 평생을 갈고닦은 그 야성적인 힘이 드디어 나를 진정한 파괴의 화신으로 완성시켰구나! 이제 누구도 나를 막지 못할 것이다!&quot;
     </div>
   </div>
 
@@ -454,7 +470,7 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;나의 검이 이토록 무력하게 부러지다니... <span class="character-gorehoof">고어후프</span>, 네놈의 그 미련한 힘이 마신의 마력과 합쳐져 이런 괴물을 만들었단 말이냐!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;나의 검이 이토록 무력하게 부러지다니... <span class="character-gorehoof">고어후프</span>, 네 그 미련한 힘이 마신의 마력과 합쳐져 이런 괴물을 만들었단 말이냐!&quot;
     </div>
 
     <div class="script-line">
@@ -505,6 +521,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     마족 <span class="character-balrog">발로그</span>가 동료를 배신하고 주인을 살해한 범인으로 지목되자 왕좌의 방은 차가운 살기만이 맴돌았다. 모든 정황은 그가 자유를 얻기 위해 계약주인 <span class="character-eldritch">엘드리치</span>의 숨통을 끊었음을 가리키고 있었다.
   </div>
@@ -515,11 +535,11 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 네놈의 그 추악한 정체를 알았더라면 결코 동료로 받아들이지 않았을 것이다! <span class="character-balrog">발로그</span>, 네놈의 그 시커먼 날개가 오늘 처형장에서 부러져 네 무덤을 덮는 수의가 될 것이다!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 네 그 추악한 정체를 알았더라면 결코 동료로 받아들이지 않았을 것이다! <span class="character-balrog">발로그</span>, 네 그 시커먼 날개가 오늘 처형장에서 부러져 네 무덤을 덮는 수의가 될 것이다!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;아니야! 난... 난 그를 죽일 의지가 없었어! 계약이 내 영혼을 짓누르고 있었단 말이다! <span class="character-malice">말리스</span>, 네년이 자유를 찾게 해주겠다며 서재에 트랩을 설치하라고 지시하지 않았느냐!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;아니야! 난... 난 그를 죽일 의지가 없었어! 계약이 내 영혼을 짓누르고 있었단 말이다! <span class="character-malice">말리스</span>, 네가 자유를 찾게 해주겠다며 서재에 트랩을 설치하라고 지시하지 않았느냐!&quot;
     </div>
 
     <div class="script-line">
@@ -527,7 +547,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;배신자의 변명은 지겹군! 이제 동료까지 걸고 넘어지다니, 네놈의 그 질긴 날개뼈를 내 도끼로 박살 내주마. 주인을 문 개는 더 이상 <span class="character-bastards">바스타즈</span>에 필요 없다!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;배신자의 변명은 지겹군! 이제 동료까지 걸고 넘어지다니, 네 그 질긴 날개뼈를 내 도끼로 박살 내주마. 주인을 문 개는 더 이상 <span class="character-bastards">바스타즈</span>에 필요 없다!&quot;
     </div>
 
     <div class="script-line">
@@ -616,6 +636,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방의 무거운 정적을 깬 것은 차갑게 가라앉은 <span class="character-valtra">발트라</span>의 건조한 금속음이었다. <span class="character-bastards">바스타즈</span>의 전략가이자 모든 전황을 완벽하게 계산해 내던 그녀가 현자 <span class="character-eldritch">엘드리치</span>를 살해한 범인으로 지목되자, 그녀는 비릿한 비웃음을 흘리며 동료들을 응시했다.
   </div>
@@ -626,15 +650,15 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 너를 제일가는 전략가로서 굳게 신뢰했거늘, 결국 아군의 무덤을 설계한 첩자였단 말이냐! <span class="character-valtra">발트라</span>, 배신자에게는 명예로운 죽음조차 아까운 법. 네년의 그 치밀한 전술과 견고한 방벽도 오늘 <span class="character-bastards">바스타즈</span>의 심판 앞에서는 산산조각 날 것이다!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 너를 제일가는 전략가로서 굳게 신뢰했거늘, 결국 아군의 무덤을 설계한 첩자였단 말이냐! <span class="character-valtra">발트라</span>, 배신자에게는 명예로운 죽음조차 아까운 법. 네 그 치밀한 전술과 견고한 방벽도 오늘 <span class="character-bastards">바스타즈</span>의 심판 앞에서는 산산조각 날 것이다!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;비열한 첩자 자식... 우리가 연전연패하며 은하계 외곽으로 내몰렸던 진짜 이유가 바로 여기 있었군. <span class="character-valtra">발트라</span>, 네년의 그 얄팍한 &apos;전략&apos; 때문에 죽어간 동료들의 원한을 고공 강습으로 뼈저리게 갚아주마!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;비열한 첩자 자식... 우리가 연전연패하며 은하계 외곽으로 내몰렸던 진짜 이유가 바로 여기 있었군. <span class="character-valtra">발트라</span>, 네 그 얄팍한 &apos;전략&apos; 때문에 죽어간 동료들의 원한을 고공 강습으로 뼈저리게 갚아주마!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내가... 내 형제들의 목숨을 버려가며 너를 사지에서 건져냈는데... 우리를 덮쳤던 그 끔찍한 매복 함정이 전부 네년의 보고서 때문이었다고? 네년의 그 차가운 지략은 대체 얼마나 많은 내 부하들의 피로 붉게 물들어 있었단 말이냐! 으아아아!!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내가... 내 형제들의 목숨을 버려가며 너를 사지에서 건져냈는데... 우리를 덮쳤던 그 끔찍한 매복 함정이 전부 네 보고서 때문이었다고? 네 그 차가운 지략은 대체 얼마나 많은 내 부하들의 피로 붉게 물들어 있었단 말이냐! 으아아아!!&quot;
     </div>
 
     <div class="script-line">
@@ -727,6 +751,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방을 감싼 육중한 문이 닫히고, 흐릿한 촛불 아래 <span class="character-bastards">바스타즈</span>의 생존자들이 모였다. 모든 단서와 증거가 가리키는 파멸의 끝은 단 한 곳, 압도적인 힘으로 일행을 이끌어온 수장 <span class="character-skullcrusher">스컬크러셔</span>를 향하고 있었다.
   </div>
@@ -737,11 +765,11 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;같잖은 지략이나 짜내는 계집이 입을 함부로 놀리는구나. 내가 그 현자를 죽여 얻을 게 무엇이 있다고 생각하지? 이 성채를 너희 발아래 바치고, 버림받은 자들의 왕좌를 세운 게 누구인지 벌써 잊었단 말이냐! 고작 과거의 껍데기를 빌미로 나를 심판하겠다고? 네놈들의 비겁한 음모가 도를 넘었군!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;같잖은 지략이나 짜내는 계집이 입을 함부로 놀리는구나. 내가 그 현자를 죽여 얻을 게 무엇이 있다고 생각하지? 이 성채를 너희 발아래 바치고, 버림받은 자들의 왕좌를 세운 게 누구인지 벌써 잊었단 말이냐! 고작 과거의 껍데기를 빌미로 나를 심판하겠다고? 너희들의 비겁한 음모가 도를 넘었군!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;성기사라... 우리 멤버 안에 지옥의 유황 냄새보다 더 고약한 빛의 찌꺼기가 숨어 있었을 줄이야. <span class="character-skullcrusher">류크</span>, 네놈의 검술을 볼 때마다 느꼈던 기분 나쁜 떨림이 이제야 설명되는군. 마족인 내가 빛의 사냥개와 한솥밥을 먹었다니... 네놈의 위선적인 심장을 통째로 도려내야만 내 분노가 풀리겠다.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;성기사라... 우리 멤버 안에 지옥의 유황 냄새보다 더 고약한 빛의 찌꺼기가 숨어 있었을 줄이야. <span class="character-skullcrusher">류크</span>, 네 검술을 볼 때마다 느꼈던 기분 나쁜 떨림이 이제야 설명되는군. 마족인 내가 빛의 사냥개와 한솥밥을 먹었다니... 네 위선적인 심장을 통째로 도려내야만 내 분노가 풀리겠다.&quot;
     </div>
 
     <div class="script-line">
@@ -749,7 +777,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 목숨을 구했던 게 당신 같은 기사 놈일 리 없어! 아니, 설령 그랬다 하더라도 상관없다! 너희 <span class="character-solite">솔라이트</span> 놈들이 우리 평원을 짓밟고 내 형제들을 도살하던 그 눈빛을 내가 잊었을 것 같나? 내 은인은 오늘 죽었다. 내 눈앞에 있는 건 그저 부수어야 할 덩어리일 뿐이야! 네놈의 거만한 해골 투구를 내 손으로 직접 가루로 만들어주마!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 목숨을 구했던 게 당신 같은 기사 놈일 리 없어! 아니, 설령 그랬다 하더라도 상관없다! 너희 <span class="character-solite">솔라이트</span> 놈들이 우리 평원을 짓밟고 내 형제들을 도살하던 그 눈빛을 내가 잊었을 것 같나? 내 은인은 오늘 죽었다. 내 눈앞에 있는 건 그저 부수어야 할 덩어리일 뿐이야! 네 거만한 해골 투구를 내 손으로 직접 가루로 만들어주마!&quot;
     </div>
 
     <div class="script-line">
@@ -777,7 +805,7 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이 고결하면서도 강력한 육신! 류크, 네가 평생을 갈고닦은 그 힘이 드디어 나의 진정한 부활을 완성시켰구나!&quot;
+      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이토록 훌륭한 육신이라니! 류크, 네가 평생을 바쳐 쌓아 올린 힘이 마침내 나를 부활시켰구나!&quot;
     </div>
   </div>
 
@@ -852,6 +880,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방의 무거운 적막 속에서 모든 시선이 단 한 명, <span class="character-slither">슬리더</span>를 향해 쏟아졌다. 모든 단서와 정황이 그가 현자 <span class="character-eldritch">엘드리치</span>의 숨통을 끊은 암살자임을 가리키고 있었다.
   </div>
@@ -862,15 +894,15 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;역시 숲의 배신자는 믿을 게 못 되는군! <span class="character-eldritch">엘드리치</span>가 너를 얼마나 아꼈는지 잊었단 말이냐! 동료를 사냥감으로 여기는 그 비겁한 본성이 오늘 네놈의 목숨을 앗아갈 것이다. <span class="character-slither">슬리더</span>, 네놈의 그 축축한 그림자 속에서 영원히 썩게 해주마!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;역시 숲의 배신자는 믿을 게 못 되는군! <span class="character-eldritch">엘드리치</span>가 너를 얼마나 아꼈는지 잊었단 말이냐! 동료를 사냥감으로 여기는 그 비겁한 본성이 오늘 네 목숨을 앗아갈 것이다. <span class="character-slither">슬리더</span>, 네 그 축축한 그림자 속에서 영원히 썩게 해주마!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;쉿쉿... 거짓이 진실을 덮는 소리가 너무 시끄럽군. <span class="character-malice">말리스</span>, 네년의 그 매끄러운 혓바닥이 내 목을 노리는구나. 하지만 내 단검은 오직 안식만을 선물할 뿐... 원한다면 너에게도 그 고요함을 나누어주지.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;쉿쉿... 거짓이 진실을 덮는 소리가 너무 시끄럽군. <span class="character-malice">말리스</span>, 네 그 매끄러운 혓바닥이 내 목을 노리는구나. 하지만 내 단검은 오직 안식만을 선물할 뿐... 원한다면 너에게도 그 고요함을 나누어주지.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;닥쳐라, 암살자! 네놈의 그 기분 나쁜 침묵이 이제는 구역질이 나는군. 고결한 척하던 그 입술이 내 불꽃에 타들어 갈 때 어떤 비명을 지르는지 확인해주마!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;닥쳐라, 암살자! 네 그 기분 나쁜 침묵이 이제는 구역질이 나는군. 고결한 척하던 그 입술이 내 불꽃에 타들어 갈 때 어떤 비명을 지르는지 확인해주마!&quot;
     </div>
 
     <div class="script-line">
@@ -878,7 +910,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 명예를 걸고 배신자는 용서할 수 없다! <span class="character-slither">슬리더</span>, 네놈의 그 얇은 단검이 내 억센 가죽을 뚫을 수 있을 것 같나? 내 도끼가 네놈의 가냘픈 뼈마디를 가루로 만들어주마!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 명예를 걸고 배신자는 용서할 수 없다! <span class="character-slither">슬리더</span>, 네 그 얇은 단검이 내 억센 가죽을 뚫을 수 있을 것 같나? 내 도끼가 네 가냘픈 뼈마디를 가루로 만들어주마!&quot;
     </div>
   </div>
 
@@ -955,6 +987,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방의 무거운 공기를 가른 것은 거구의 수인, <span class="character-gorehoof">고어후프</span>의 거친 숨소리였다. 모든 증거는 그가 이성을 잃고 현자 <span class="character-eldritch">엘드리치</span>를 도살했음을 가리키고 있었다.
   </div>
@@ -969,7 +1005,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 사지에서 건져 올린 것이 명예로운 전사인 줄 알았건만... 결국 배은망덕하게 동료를 해치는 짐승에 불과했단 말이냐! <span class="character-gorehoof">고어후프</span>, 네놈의 그 거대한 뿔이 오늘 <span class="character-bastards">바스타즈</span>의 심판을 위해 부러질 것이다!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 사지에서 건져 올린 것이 명예로운 전사인 줄 알았건만... 결국 배은망덕하게 동료를 해치는 짐승에 불과했단 말이냐! <span class="character-gorehoof">고어후프</span>, 네 그 거대한 뿔이 오늘 <span class="character-bastards">바스타즈</span>의 심판을 위해 부러질 것이다!&quot;
     </div>
 
     <div class="script-line">
@@ -977,7 +1013,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;짐승에게 우정을 기대한 우리가 바보였지. <span class="character-gorehoof">고어후프</span>, <span class="character-malice">말리스</span>의 증언대로 네가 우리 은인을 해치운 것은 명백하다. 공중에서 내려다본 네놈의 그 살기 넘치는 눈빛이 모든 것을 말해주더군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;짐승에게 우정을 기대한 우리가 바보였지. <span class="character-gorehoof">고어후프</span>, <span class="character-malice">말리스</span>의 증언대로 네가 우리 은인을 해치운 것은 명백하다. 공중에서 내려다본 네 그 살기 넘치는 눈빛이 모든 것을 말해주더군.&quot;
     </div>
 
     <div class="script-line">
@@ -1005,7 +1041,7 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이 주체할 수 없는 물리적 파괴력! <span class="character-gorehoof">고어후프</span>, 네놈이 평생을 갈고닦은 그 야성적인 근력이 드디어 나를 진정한 파괴의 화신으로 완성시켰구나! 이제 누구도 나의 진격을 막지 못할 것이다!&quot;
+      <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;아아... 이 주체할 수 없는 물리적 파괴력! <span class="character-gorehoof">고어후프</span>, 네가 평생을 갈고닦은 그 야성적인 근력이 드디어 나를 진정한 파괴의 화신으로 완성시켰구나! 이제 누구도 나의 진격을 막지 못할 것이다!&quot;
     </div>
   </div>
 
@@ -1080,6 +1116,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     마족 <span class="character-balrog">발로그</span>가 동료를 배신하고 주인을 살해한 범인으로 지목되자 왕좌의 방은 차가운 살기만이 맴돌았다. 모든 정황은 그가 자유를 얻기 위해 계약주인 <span class="character-eldritch">엘드리치</span>의 숨통을 끊었음을 가리키고 있었다.
   </div>
@@ -1090,11 +1130,11 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 네놈의 그 추악한 정체를 알았더라면 결코 동료로 받아들이지 않았을 것이다! <span class="character-balrog">발로그</span>, 네놈의 그 시커먼 날개가 오늘 처형장에서 부러져 네 무덤을 덮는 수의가 될 것이다!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 네 그 추악한 정체를 알았더라면 결코 동료로 받아들이지 않았을 것이다! <span class="character-balrog">발로그</span>, 네 그 시커먼 날개가 오늘 처형장에서 부러져 네 무덤을 덮는 수의가 될 것이다!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;아니야! 난... 난 그를 죽일 의지가 없었어! 계약이 내 영혼을 짓누르고 있었단 말이다! <span class="character-malice">말리스</span>, 네년이 자유를 찾게 해주겠다며 서재에 트랩을 설치하라고 지시하지 않았느냐!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;아니야! 난... 난 그를 죽일 의지가 없었어! 계약이 내 영혼을 짓누르고 있었단 말이다! <span class="character-malice">말리스</span>, 네가 자유를 찾게 해주겠다며 서재에 트랩을 설치하라고 지시하지 않았느냐!&quot;
     </div>
 
     <div class="script-line">
@@ -1102,7 +1142,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;배신자의 변명은 지겹군! 이제 동료까지 걸고 넘어지다니, 네놈의 그 질긴 날개뼈를 내 도끼로 박살 내주마. 주인을 문 개는 더 이상 <span class="character-bastards">바스타즈</span>에 필요 없다!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;배신자의 변명은 지겹군! 이제 동료까지 걸고 넘어지다니, 네 그 질긴 날개뼈를 내 도끼로 박살 내주마. 주인을 문 개는 더 이상 <span class="character-bastards">바스타즈</span>에 필요 없다!&quot;
     </div>
 
     <div class="script-line">
@@ -1152,7 +1192,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;가식적인 날갯짓에 겁먹을 것 없다. 그 기만적인 날개를 고대인의 검으로 완전히 꺾어주마.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;가식적인 날갯짓에 겁먹을 것 없다. 그 기만적인 날개를 대검으로 완전히 꺾어주마.&quot;
     </div>
 
     <div class="script-line">
@@ -1205,6 +1245,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방의 무거운 정적을 깬 것은 차갑게 가라앉은 <span class="character-valtra">발트라</span>의 건조한 금속음이었다. <span class="character-bastards">바스타즈</span>의 전략가이자 모든 전황을 완벽하게 계산해 내던 그녀가 현자 <span class="character-eldritch">엘드리치</span>를 살해한 범인으로 지목되자, 그녀는 비릿한 비웃음을 흘리며 동료들을 응시했다.
   </div>
@@ -1215,15 +1259,15 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 너를 제일가는 전략가로서 굳게 신뢰했거늘, 결국 아군의 무덤을 설계한 첩자였단 말이냐! <span class="character-valtra">발트라</span>, 배신자에게는 명예로운 죽음조차 아까운 법. 네년의 그 치밀한 전술과 견고한 방벽도 오늘 <span class="character-bastards">바스타즈</span>의 심판 앞에서는 산산조각 날 것이다!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내가 너를 제일가는 전략가로서 굳게 신뢰했거늘, 결국 아군의 무덤을 설계한 첩자였단 말이냐! <span class="character-valtra">발트라</span>, 배신자에게는 명예로운 죽음조차 아까운 법. 네 그 치밀한 전술과 견고한 방벽도 오늘 <span class="character-bastards">바스타즈</span>의 심판 앞에서는 산산조각 날 것이다!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;비열한 첩자 자식... 우리가 연전연패하며 은하계 외곽으로 내몰렸던 진짜 이유가 바로 여기 있었군. <span class="character-valtra">발트라</span>, 네년의 그 얄팍한 &apos;전략&apos; 때문에 죽어간 동료들의 원한을 고공 강습으로 뼈저리게 갚아주마!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;비열한 첩자 자식... 우리가 연전연패하며 은하계 외곽으로 내몰렸던 진짜 이유가 바로 여기 있었군. <span class="character-valtra">발트라</span>, 네 그 얄팍한 &apos;전략&apos; 때문에 죽어간 동료들의 원한을 고공 강습으로 뼈저리게 갚아주마!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내가... 내 형제들의 목숨을 버려가며 너를 사지에서 건져냈는데... 우리를 덮쳤던 그 끔찍한 매복 함정이 전부 네년의 보고서 때문이었다고? 네년의 그 차가운 지략은 대체 얼마나 많은 내 부하들의 피로 붉게 물들어 있었단 말이냐! 으아아아!!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내가... 내 형제들의 목숨을 버려가며 너를 사지에서 건져냈는데... 우리를 덮쳤던 그 끔찍한 매복 함정이 전부 네 보고서 때문이었다고? 네 그 차가운 지략은 대체 얼마나 많은 내 부하들의 피로 붉게 물들어 있었단 말이냐! 으아아아!!&quot;
     </div>
 
     <div class="script-line">
@@ -1273,11 +1317,11 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;철벽 같은 방어벽이라... 비겁한 계산 뒤에 숨은 놈들의 수작은 예전부터 봐주기 역겨웠지. 네놈이 세운 그 가식적인 장벽까지 내 대검으로 한꺼번에 으깨버릴 테니까!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;철벽 같은 방어벽이라... 비겁한 계산 뒤에 숨은 놈들의 수작은 예전부터 봐주기 역겨웠지. 네가 세운 그 가식적인 장벽까지 내 대검으로 한꺼번에 으깨버릴 테니까!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;<span class="character-malice">말리스</span>의 말이 맞다! 네놈의 그 잘난 기술이 내 도끼를 언제까지 막아낼 수 있을지 보자고! 으아아아!!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;<span class="character-malice">말리스</span>의 말이 맞다! 네 그 잘난 기술이 내 도끼를 언제까지 막아낼 수 있을지 보자고! 으아아아!!&quot;
     </div>
 
     <div class="script-line">
@@ -1332,6 +1376,10 @@
 내용: 
 <div class="story-content">
 
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
+
   <div class="quote-box">
     왕좌의 방의 무거운 적막 속에서 모든 시선이 단 한 명, 책략가 <span class="character-malice">말리스</span>를 향해 쏟아졌다. 그녀의 냉철하던 눈동자가 처음으로 흔들리기 시작했다.
   </div>
@@ -1342,7 +1390,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;현자 <span class="character-eldritch">엘드리치</span>가 평소 당신을 얼마나 신뢰했는지 우리 모두가 알고 있다. 그런데 당신은 그 신뢰를 이용해 그분의 머리 위에 언제든 떨어질 단검을 매달아 두었지. 책략가라고 불리던 네년의 그 명성이 오늘 <span class="character-bastards">바스타즈</span>의 가장 큰 수치가 되었다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;현자 <span class="character-eldritch">엘드리치</span>가 평소 당신을 얼마나 신뢰했는지 우리 모두가 알고 있다. 그런데 당신은 그 신뢰를 이용해 그분의 머리 위에 언제든 떨어질 단검을 매달아 두었지. 책략가라고 불리던 네 그 명성이 오늘 <span class="character-bastards">바스타즈</span>의 가장 큰 수치가 되었다.&quot;
     </div>
 
     <div class="script-line">
@@ -1350,21 +1398,21 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;<span class="character-malice">말리스</span>, 적당히 해! 네년이 <span class="emphasis">&apos;성채 수색을 위해 필요하다&apos;</span>며 도구들을 내밀었을 때 난 순진하게 그게 우리 모두를 위한 방어책인 줄로만 알았어! 그 뒤에서 이런 끔찍한 살인 트랩을 설계하고 나를 도구로 부려먹었을 줄이야... 마족인 나조차 네년의 그 간교함에는 치가 떨리는군. <span class="character-eldritch">엘드리치</span>를 살해한 건 그 흉측한 야망이야!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;<span class="character-malice">말리스</span>, 적당히 해! 네가 <span class="emphasis">&apos;성채 수색을 위해 필요하다&apos;</span>며 도구들을 내밀었을 때 난 순진하게 그게 우리 모두를 위한 방어책인 줄로만 알았어! 그 뒤에서 이런 끔찍한 살인 트랩을 설계하고 나를 도구로 부려먹었을 줄이야... 마족인 나조차 네 그 간교함에는 치가 떨리는군. <span class="character-eldritch">엘드리치</span>를 살해한 건 그 흉측한 야망이야!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;<span class="character-eldritch">엘드리치</span>는 우리에게 유일하게 휴식을 주던 분이었지... <span class="character-malice">말리스</span>, 네년이 사용한 그 <span class="emphasis">몽유석</span>의 향기처럼, 이제 너도 영원히 깨어날 수 없는 잠에 빠져야 해. 쉿쉿... 네가 뿌린 향기에 네가 취할 시간이야.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;<span class="character-eldritch">엘드리치</span>는 우리에게 유일하게 휴식을 주던 분이었지... <span class="character-malice">말리스</span>, 네가 사용한 그 <span class="emphasis">몽유석</span>의 향기처럼, 이제 너도 영원히 깨어날 수 없는 잠에 빠져야 해. 쉿쉿... 네가 뿌린 향기에 네가 취할 시간이야.&quot;
     </div>
   </div>
 
   <p>
-    비명이 채 끝나기도 전에 네 명의 동료가 그녀를 에워쌌다. <span class="character-skullcrusher">스컬크러셔</span>의 고대인의 검이 <span class="character-malice">말리스</span>의 퇴로를 갈랐고, <span class="character-gorehoof">고어후프</span>의 거대한 양날 전투 도끼가 그녀의 허리춤을 겨냥했다. <span class="character-balrog">발로그</span>가 날개를 펼쳐 공중에서 압박하는 가운데, <span class="character-valtra">발트라</span>가 방패로 압박함과 동시에 전술용 갈고리를 날려 그녀의 도주로를 완벽하게 차단했다. <span class="character-slither">슬리더</span>가 그림자 속에서 나타나 차가운 어둠의 단검을 그녀의 심장에 박아 넣었을 때, <span class="character-malice">말리스</span>의 눈에는 배신감을 넘어선 지독한 허무함이 서렸다.
+    다섯 명의 동료가 그녀를 에워쌌다. <span class="character-skullcrusher">스컬크러셔</span>의 대검이 <span class="character-malice">말리스</span>의 퇴로를 갈랐고, <span class="character-gorehoof">고어후프</span>의 거대한 양날 전투 도끼가 그녀의 허리춤을 겨냥했다. <span class="character-balrog">발로그</span>가 날개를 펼쳐 공중에서 압박하는 가운데, <span class="character-valtra">발트라</span>가 방패로 압박함과 동시에 전술용 갈고리를 날려 그녀의 도주로를 완벽하게 차단했다. <span class="character-slither">슬리더</span>가 그림자 속에서 나타나 차가운 어둠의 단검을 그녀의 심장에 박아 넣었을 때, <span class="character-malice">말리스</span>의 눈에는 배신감을 넘어선 지독한 허무함이 서렸다.
   </p>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;마법도 못 쓴다더니, 결국 이런 비겁한 함정으로 동료를 죽인 거냐! 정면에서 싸울 용기도 없는 겁쟁이 계집... <span class="character-bastards">바스타즈</span>에 네년 같은 배신자가 설 자리는 없다! 부숴주마!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;마법도 못 쓴다더니, 결국 이런 비겁한 함정으로 동료를 죽인 거냐! 정면에서 싸울 용기도 없는 겁쟁이 계집... <span class="character-bastards">바스타즈</span>에 너 같은 배신자가 설 자리는 없다! 부숴주마!&quot;
     </div>
   </div>
 
@@ -1416,7 +1464,7 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;비열한 <span class="character-eldritch">엘드리치</span>! 네놈의 그 얄팍한 부활이, 싸움이라곤 해본 적 없는 계집의 몸뚱이에 처박힌 채 끝날 줄이야! 내 수직 낙격이 그 흐릿한 장막을 영원히 찢어주마!&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;비열한 <span class="character-eldritch">엘드리치</span>! 네 그 얄팍한 부활이, 싸움이라곤 해본 적 없는 계집의 몸뚱이에 처박힌 채 끝날 줄이야! 내 수직 낙격이 그 흐릿한 장막을 영원히 찢어주마!&quot;
     </div>
 
     <div class="script-line">
@@ -1433,7 +1481,7 @@
   </div>
 
   <p>
-    분노한 바스타즈 멤버들의 자비 없는 맹공이 쏟아졌다. 불안정한 장벽을 치려던 <span class="character-eldritch">엘드리치</span>의 옅은 마력은 <span class="character-valtra">발트라</span>가 전진하며 파쇄시킨 무기들의 일격에 허무하게 깨져 나갔고, <span class="character-balrog">발로그</span>의 수직 낙격이 마신의 형상을 그대로 뭉개버렸다. <span class="character-skullcrusher">스컬크러셔</span>의 고전적인 고대인의 검이 마력의 중심을 갈랐으며, <span class="character-gorehoof">고어후프</span>가 양날 전투 도끼로 대지를 내리찍어 파동을 지워버리는 사이 <span class="character-slither">슬리더</span>의 어둠의 단검이 그 일렁이는 그림자를 수없이 난도질했다.
+    분노한 <span class="character-bastards">바스타즈</span> 멤버들의 자비 없는 맹공이 쏟아졌다. 불안정한 장벽을 치려던 <span class="character-eldritch">엘드리치</span>의 옅은 마력은 <span class="character-valtra">발트라</span>가 전진하며 파쇄시킨 무기들의 일격에 허무하게 깨져 나갔고, <span class="character-balrog">발로그</span>의 수직 낙격이 마신의 형상을 그대로 뭉개버렸다. <span class="character-skullcrusher">스컬크러셔</span>의 거대한 대검이 마력의 중심을 갈랐으며, <span class="character-gorehoof">고어후프</span>가 양날 전투 도끼로 대지를 내리찍어 파동을 지워버리는 사이 <span class="character-slither">슬리더</span>의 어둠의 단검이 그 일렁이는 그림자를 수없이 난도질했다.
   </p>
 
   <div class="script-container">
@@ -1470,6 +1518,10 @@
 순서: 13
 내용: 
 <div class="story-content">
+
+  <div class="reading-guide">
+    이 엔딩은 그냥 읽어도 되지만, 각자의 배역을 맡아 <strong>소리 내어 낭독하는 것</strong>을 강력히 추천합니다. 대사가 없는 지문(해설) 부분은 <strong>호스트 플레이어</strong>가 읽어주세요.
+  </div>
 
   <div class="quote-box">
     왕좌의 방을 지배하던 무거운 적막은 더 이상 살기가 아닌, 말로 형언할 수 없는 지독한 허망함으로 변해 있었다. 서로의 목을 향해 칼날을 세우던 육중한 긴장감 사이로, 평생을 감춰온 어둠이 하나둘씩 고개를 들기 시작했다.
@@ -1512,7 +1564,7 @@
   </div>
 
   <p>
-    <span class="character-skullcrusher">류크</span>는 고대인의 검을 거꾸로 세워 바닥에 꽂으며 말을 이었다.
+    <span class="character-skullcrusher">류크</span>는 대검을 거꾸로 세워 바닥에 꽂으며 말을 이었다.
   </p>
 
   <div class="script-container">
@@ -1549,15 +1601,15 @@
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-valtra">발트라</span></span>: &quot;내 방패가 부서지기 전까진 단 한 걸음도 물러서지 않겠다! 괴물아, 네놈의 그 비겁한 음모는 여기까지다!&quot;
+      <span class="script-character"><span class="character-valtra">발트라</span></span>: &quot;내 방패가 부서지기 전까진 단 한 걸음도 물러서지 않겠다! 괴물아, 네 그 비겁한 음모는 여기까지다!&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;네놈의 그림자가... 떨리지 않는군. 우리가 함께라면 저 괴물조차 사냥할 수 있겠어. 쉿쉿... 죽음이 네 뒤를 노리고 있다.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;네 그림자가... 떨리지 않는군. 우리가 함께라면 저 괴물조차 사냥할 수 있겠어. 쉿쉿... 죽음이 네 뒤를 노리고 있다.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">류크(스컬크러셔)</span></span>: &quot;<span class="character-bastards">바스타즈</span>의 이름으로, 네놈을 여기서 끝장내겠다! 사라져라, <span class="mystery">다크 시리어스</span>!&quot;
+      <span class="script-character"><span class="character-skullcrusher">류크(스컬크러셔)</span></span>: &quot;<span class="character-bastards">바스타즈</span>의 이름으로, 너를 여기서 끝장내겠다! 사라져라, <span class="mystery">다크 시리어스</span>!&quot;
     </div>
   </div>
 
