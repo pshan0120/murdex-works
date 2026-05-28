@@ -89,3 +89,173 @@
     </div>
   </details>
 </div>
+
+[3단계: 조사]
+<div class="story-content">
+  <div class="section-title">당신의 행적 (타임라인)</div>
+  <p class="guide-text">※ 아래는 오늘 하루 동안 당신의 대략적인 행적입니다. 게임 내내 이 정보를 참조하여 알리바이를 입증하거나, 다른 사람의 타임라인과 대조해 보세요.</p>
+  <table class="timeline-table">
+    <thead>
+      <tr>
+        <th>시간</th>
+        <th>장소 및 행동</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>오전 8:00 ~ 9:00</td><td>향토사 자료실에서 서류를 정리하고 식물에 물을 줌</td></tr>
+      <tr><td>오전 9:00 ~ 11:00</td><td>마을에서 심부름</td></tr>
+      <tr><td>오전 11:00 ~ 정오</td><td>은금도가 본채에서 강은주와 함께 아침 커피를 마심</td></tr>
+      <tr><td>정오 ~ 오후 12:15</td><td>정해준 도착, 강은주와 대화함</td></tr>
+      <tr><td>오후 12:15 ~ 1:30</td><td>은금도가에서 점심 준비</td></tr>
+      <tr><td>오후 1:30 ~ 2:30</td><td>강은주, 강은지, 백서연 박사와 함께 점심식사</td></tr>
+      <tr><td>오후 2:30 ~ 7:00</td><td>본채 툇마루에서 책을 읽으며 은주를 기다림</td></tr>
+      <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채로 복귀</td></tr>
+    </tbody>
+  </table>
+
+  <details>
+    <summary>
+      당신이 아는 것 (이번 단계에서 다음 사실을 밝혀주세요)
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p><span class="character-seoyeon">백서연 박사</span>는 책 표지 사진에서 본 적이 있습니다. 그녀의 마지막 소설은 거의 베스트셀러가 될 뻔했지만 논란에 휘말렸으며, 소송도 당했다고 들었습니다. 그녀가 여전히 글을 쓰고 있는지 궁금합니다.</p>
+      <p>오늘 아침 향토사 자료실에서 서류를 정리하고 나올 때, 옆 금은방에서 <span class="character-dohun">최도훈</span>이 계산하는 것을 봤습니다. 계산원이 몇 가지 물건을 <span class="character-dohun">도훈</span>의 가방에 넣었는데, 그 중 하나는 확실히 금으로 된 물건이었습니다.</p>
+      <p>아침 커피를 마시던 중, <span class="character-eunju">강은주</span>는 <span class="character-dohun">최도훈</span>이 조금 전(약 30분 전이라고 합니다)에 준 비녀를 보여주었습니다. <span class="character-eunju">은주</span>는 이 선물에 꽤나 당황한 듯 보였고, 정오에 초인종이 울렸을 때에도 그 비녀를 손에 들고 있었다는 사실조차 자각하지 못한 듯했습니다.</p>
+      <p><span class="character-hyunsu">류현수</span>는 <span class="character-kitae">남기태</span>의 죽음 이후, 분명히 여유 자금이 많아졌습니다. 예전보다 자료실엔 덜 나타나고, 차와 친구들에게 더 많은 시간을 쓰는 듯 보입니다.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      당신의 비밀 (이의가 제기될 때만 이 사실을 공개하십시오)
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p>정오에 <span class="character-haejun">정해준</span>은 은금도가를 매입할 목적으로 방문했습니다. 그때 당신은 속이 좋지 않아, <span class="character-eunju">은주</span>가 <span class="character-haejun">해준</span>과 마루에서 대화를 나누는 동안 화장실 약장에서 제산제를 찾고 있었습니다.</p>
+      <p><span class="character-haejun">정해준</span>은 이번 주 자료실에 자주 왔습니다. 그는 마을 역사에 관한 연구 자료를 요청했고, 당신은 그를 위해 몇 가지 자료를 찾아 주었습니다.</p>
+    </div>
+  </details>
+</div>
+
+[4단계: 발견]
+<div class="story-content">
+  <div class="section-title">공통 시나리오</div>
+  <div class="intro-narrative">
+    <p>모두가 흩어져서 실종된 <span class="character-eunju">강은주</span>를 찾기 시작한 지 얼마 되지 않아, 비명 소리가 울려 퍼집니다. 모두 소리가 난 곳을 따라 은금도가 본채 뒤에 위치한 광대한 지하 숙성 토굴 안 깊숙이 들어가게 됩니다.</p>
+    <p>그곳은 미로처럼 복잡한 구조이고, 불은 켜지지 않으며 달빛이 아주 조금 비출 뿐입니다. 어둠 속에서 눈이 적응되자, 커다란 피 웅덩이에 얼굴을 대고 쓰러져 있는 시신을 발견합니다. 직감적으로 그 시신이 바로 <span class="character-eunju">강은주</span>임을 알게 됩니다.</p>
+    <p>토굴의 어둠 때문에 시신을 자세히 살펴볼 수 없고, 결국 그룹은 본채로 돌아가 경찰에 신고하기로 결정합니다. 당신은 이들 중 누군가가 <span class="character-eunju">강은주</span>를 살해한 범인이라고 의심하며, 몇 가지 질문을 하려 합니다.</p>
+  </div>
+
+  <details>
+    <summary>
+      당신이 아는 것 (이번 단계에서 다음 사실을 밝혀주세요)
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p>당신은 <span class="character-kitae">남기태</span>를 잘 알았습니다. 그는 강인하고 유능한 사람이었습니다. 그런 그가 둔기로 맞아 죽었다는 사실은 매우 충격적입니다. 살인범은 그를 기습하거나 속였음이 틀림없습니다. 과연 <span class="character-kitae">기태</span>를 마지막으로 본 사람은 누구일까요?</p>
+      <p>오후 1시경, 본채 전화가 울렸고 당신이 받았습니다. 전화는 <span class="character-dohun">최도훈</span>을 찾는 법률사무소에서 걸려왔습니다. <span class="character-dohun">도훈</span>은 이후 1시간 반 가량 서재에서 통화를 했습니다. 당신은 그 통화를 몰래 들었고, 그가 사기 소송과 횡령 관련 이야기를 변호사와 나누는 것을 들었습니다.</p>
+      <p>오후 1시 30분, <span class="character-seoyeon">백서연 박사</span>가 당신, <span class="character-eunji">강은지</span>, <span class="character-eunju">강은주</span>와 함께 본채에서 점심을 먹으러 합류했습니다. <span class="character-eunju">은주</span>는 여러 번 주제를 바꾸려 했지만 대화는 주로 <span class="character-haejun">정해준</span>이 도가를 대형 리조트로 개발하려 한다는 내용이었고, <span class="character-seoyeon">백서연</span>은 그 계획에 대해 매우 불만스러워했습니다.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      당신의 비밀 (이의가 제기될 때만 이 사실을 공개하십시오)
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p>당신은 <span class="character-hyunsu">류현수</span>에게 매우 끌려 그와 잠자리를 함께 하고 있습니다. 또한 그의 자격증 과제를 대신 해주고 있습니다.</p>
+      <p>향토사 연구 과제를 쓰던 중, 은금리 초창기 개척자 중 한 명인 <span class="character-kitae">은금</span>이 쓴 편지를 발견했습니다. 그는 편지 작성 후 얼마 지나지 않아 근처 은금 저수지에서 익사했습니다.</p>
+      <p>당신은 <span class="character-hyunsu">류현수</span>에게 거의 집착에 가까운 애정을 품고 있습니다. 배경 조사를 한 결과, 그는 1년 전 사기 및 폭력 전과로 체포되었고, 짧은 징역형을 마친 뒤 이곳으로 숨어들었다고 합니다.</p>
+    </div>
+  </details>
+</div>
+
+[5단계: 시험]
+<div class="story-content">
+  <div class="section-title">공통 시나리오</div>
+  <div class="intro-narrative">
+    <p>당신은 손전등을 들고 다시 지하 숙성 토굴로 돌아왔습니다. 빛 아래 늘어선 항아리들이 만들어낸 복잡한 미로 같은 길을 지나 시신이 있는 곳에 다가갔습니다.</p>
+    <p>확인 결과 확실히 <span class="character-eunju">강은주</span>임을 알게 되었습니다. 그리고 즉시 그녀의 사망 원인도 눈에 들어왔죠. 그녀의 목 오른쪽에는 예리한 비녀가 깊숙이 꽂혀 있었습니다. 비녀에는 무언가 글자가 새겨져 있는 듯했으나, 피가 흥건한 웅덩이 때문에 시신에 더 가까이 다가가서 자세히 살펴볼 수는 없었습니다.</p>
+    <p><span class="character-eunju">은주</span>의 끔찍한 시신을 본 몇몇 사람들은 너무 충격적이어서 견디기 힘들어 했고, 결국 당신은 또다시 본채로 돌아가 이번에 새로 발견한 단서들을 곰곰이 생각해 보기로 했습니다.</p>
+  </div>
+
+  <details>
+    <summary>
+      당신이 아는 것 (이번 단계에서 다음 사실을 밝혀주세요)
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p>마지막으로 <span class="character-eunju">은주</span>를 본 것은 점심 때였습니다.</p>
+      <p>오후 4시경, 서둘러 자료실로 돌아가 <span class="character-seoyeon">백서연 박사</span>의 최신 책을 대출했습니다.</p>
+      <p>이후 본채 뒤쪽 마루에 앉아 책을 읽으며 <span class="character-eunju">은주</span>가 <span class="character-haejun">정해준</span>에게 도가를 보여주는 것을 마치기를 기다렸습니다. 하지만 그녀는 돌아오지 않았습니다.</p>
+      <p>오후 6시 45분경, 옆집에서 <span class="character-seoyeon">백서연 박사</span>가 나오는 것을 보았습니다. 그녀는 누군가를 따라 지하 숙성 토굴로 들어갔습니다. 잠시 후, 토굴 창문의 불빛이 깜빡이다 꺼졌습니다.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      당신의 비밀 (이의가 제기될 때만 이 사실을 공개하십시오)
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p>당신은 늘 텔레비전 드라마나 영화에서 스타가 되는 꿈을 품어왔습니다. 그랬기에 오늘 도서관 사서 일을 그만두었습니다.</p>
+    </div>
+  </details>
+</div>
+
+[6단계: 마지막 단서]
+<div class="story-content">
+  <div class="section-title">공통 시나리오</div>
+  <div class="intro-narrative">
+    <p>멀리서 경찰 사이렌 소리가 울려 퍼집니다. 곧 수사관들이 은금도가에 들이닥쳐 당신에게 대답하기 꺼려지는 질문들을 쏟아낼 겁니다.</p>
+    <p>하지만 아직 몇 분의 시간이 남아 있고, 동행한 사람들 사이에 풀어야 할 문제들이 몇 가지 남아 있습니다.</p>
+  </div>
+
+  <details>
+    <summary>
+      당신이 아는 것 (이번 단계에서 다음 사실을 밝혀주세요)
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p><span class="character-eunju">강은주</span>의 안방에 있을 때 선반 위에 낡은 촛대가 놓여 있는 것을 발견했습니다.</p>
+      <p>몇 달 전에 <span class="character-hyunsu">류현수</span>가 생일 선물로 똑같은 촛대를 준 적이 있습니다.</p>
+      <p>하지만 당신이 가진 촛대는 어딘가 찌그러지고 상태가 좋지 않습니다.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>
+      당신의 비밀 (이의가 제기될 때만 이 사실을 공개하십시오)
+      <span class="toggle-wrapper">
+      <span class="toggle-text"></span>
+      <span class="toggle-icon">▼</span>
+      </span>
+    </summary>
+    <div class="collapsible-content">
+      <p>더 이상 감출 비밀이 없습니다.</p>
+    </div>
+  </details>
+</div>
