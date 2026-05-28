@@ -1,0 +1,189 @@
+# 누룩꽃 필 무렵 - 비밀 단서 목록 (Secret Clues)
+
+이 문서는 '분노의 신 포도(Sour Grapes of Wrath)' 원작의 5가지 비밀 단서를 '누룩꽃 필 무렵' 각색 설정(은금도가)에 맞추어 재정리한 상세 단서 목록입니다.
+
+---
+
+## 비밀 단서 (Secret Clues)
+
+### [clue_01]
+이름 : 은금도가 주변 약도 (1라운드 단서)
+유형 : 물증
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 10
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 정해준이 은금도가 매입 및 리조트 개발 타당성을 검토하기 위해 사전에 지참하여 확인한 도가 주변 시설과 야산의 스케치 지도.
+내용 :
+정해준이 지참하고 있는 은금도가 주변 지역의 스케치 지도다. 본채 한옥의 구조와 안마당, 뒤편의 지하 숙성 토굴 입구, 모란 화단(연못 정원), 그리고 은금도가 외곽 경계에 위치한 낡은 헛간과 은금 저수지까지의 이동 동선이 꼼꼼하게 표시되어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction"><span class="emphasis">정해준</span>이 지참한 은금도가 주변 약도를 살펴보았다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">
+      본채 한옥과 안마당, 뒤편의 <span class="emphasis">지하 숙성 토굴 입구</span>, 연못이 있는 모란 화단(정원), 외곽의 낡은 헛간과 저수지까지의 연결로가 세밀하게 스케치되어 있다.
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A hand-drawn sketch map of a traditional Korean courtyard house (Hanok) and surrounding brewery land, on a slightly wrinkled sheet of paper. Annotated with elegant Korean handwriting. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : 01_은금도가_주변_약도
+
+### [clue_02]
+이름 : 6개월 전 신문 기사 (2라운드 단서)
+유형 : 물증
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 20
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : Y
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 최도훈
+의도 : 은금도가의 전 주인 남기태가 저수지에서 의문의 사망체로 발견되었다는 사실과 이를 아내 강은주가 실종 신고 후 현상금을 걸었다는 사실을 나타내는 기사.
+내용 :
+6개월 전 지방 신문의 사회면 기사 스크랩이다.
+'은금 저수지에서 시신 발견된 남성, 은금도가 주인 남기태로 신원 확인'
+경찰은 지난주 은금 저수지에 떠 있는 남성을 은금도가 주인인 남기태(41세)로 확인했습니다. 부검 결과, 그는 머리에 가해진 둔기 외상으로 사망한 것으로 밝혀졌습니다. 2주 전 남기태가 저녁 식사 약속에 나타나지 않자 아내 강은주가 실종 신고를 한 상태였습니다. 미망인 강은주는 범인 체포에 결정적 제보를 한 사람에게 1,000만 원의 현상금을 걸었습니다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">6개월 전 지방 신문의 기사 스크랩을 읽어보았다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">
+      <h4>[은금 저수지 시신 신원 확인]</h4>
+      경찰은 지난주 <span class="emphasis">은금 저수지</span>에 떠오른 시신의 신원이 은금도가 주인 <span class="character-kitae">남기태(41세)</span>인 것을 확인했다. 부검 결과 사망 원인은 <span class="emphasis">두부 둔기 외상</span>이다. 2주 전 남기태가 귀가하지 않자 아내 <span class="character-eunju">강은주</span>가 실종 신고를 한 바 있다. 강은주는 결정적 제보자에게 <span class="emphasis">1,000만 원의 현상금</span>을 걸었다.
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A newspaper clipping in Korean with a monochrome photo of a serene lake. The paper is yellowed with age, sitting on a dark wooden table. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : 02_은금 저수지_신문_기사
+
+### [clue_03]
+이름 : 개척자 '은금'의 편지 (3라운드 단서)
+유형 : 물증
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 30
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : Y
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 류현수
+의도 : 일제강점기 시절 양조장 뒷산에 군용 금괴를 숨겨놓았다는 비밀 한지 편지와, 뒷면에 적힌 금괴의 어마어마한 현대 가치 계산 낙서.
+내용 :
+빛바랜 한지에 붓글씨로 작성된 1944년의 편지다.
+'사랑하는 아우에게. 이 편지는 절대 비밀로 해야 하네. 일본군이 퇴각하며 양조장 뒷산 골짜기 비밀 웅덩이 근처에 은닉해 둔 막대한 양의 군용 금괴를 내가 찾아냈다네. 이 가치는 상상을 초월할 것이나, 일단 숨겨두어야 하네. 신용할 수 있는 일꾼을 모으려면 자금이 필요하니, 가능한 한 서둘러 자네 전 재산을 처분하여 이리로 와주게.'
+편지 뒷면에는 후대의 누군가가 굵은 연필로 휘갈겨 쓴 낙서가 적혀 있다.
+'은금! 1944년 금괴 가치 계산: 현대 가치 환산 시 수십억 원 상당!!!'
+HTML :
+<div class="story-content">
+  <div class="script-direction">붓글씨로 쓰인 누렇게 바랜 한지 편지를 조심스레 읽어보았다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">
+      <span class="emphasis">1944년 9월 18일, 은금리에서</span><br>
+      내 <span class="emphasis">양조장 뒷산 골짜기</span>에서 일본군이 버리고 간 <span class="emphasis">금괴 매장지</span>를 발견했네. 수백, 아니 수천 관의 금이 묻혀 있네! 하지만 이를 안전하게 캐내고 옮기려면 엄청난 돈과 믿을 만한 사람들이 필요하네. 자네의 재산을 모두 처분해 최대한 많은 자금을 들고 이리로 와주게. 이 비밀은 무덤까지 가져가야 하네.
+    </div>
+  </div>
+  <div class="divider-gold"></div>
+  <div class="script-direction">편지 뒷면에는 굵은 연필로 휘갈겨 적은 계산 흔적이 남아 있다.</div>
+  <div class="document-page">
+    <div class="document-body small">
+      <span class="emphasis">금괴 현대 시세 계산: 현대 가치 수십억 원에 육박!!!</span>
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A yellowish, centuries-old traditional Korean paper (Hanji) document with brush calligraphy in classical style. The edges are frayed. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : 03_개척자_은금의_편지
+
+### [clue_04]
+이름 : 강은주의 유서 메모 (4라운드 단서)
+유형 : 물증
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 40
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : Y
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 박단희
+의도 : 강은주가 절친 박단희에게 남긴 것처럼 위조된 수면제 자살 위조 유서.
+내용 :
+은금도가 편지지에 쓰여진 정갈한 글씨의 자살 유서 메모다.
+'사랑하는 단희에게. 남편 기태가 세상을 떠난 이후로 너무나 힘든 시기가 계속되고 있어. 도가의 빚도, 전통 소주를 빚는 일도 내 힘으론 더는 감당하기 어렵구나. 오늘 밤이 지나면 깨어나는 아침은 없을 거야. 이 수면제가 고통을 끝내주겠지. 내 안식처인 은금도가와 모든 재산은 친구인 네가 상속받기를 바란다. 그걸 지키든 팔든 네 행복을 위해서 써주렴. 미안하고 고마워.'
+HTML :
+<div class="story-content">
+  <div class="script-direction"><span class="emphasis">은금도가 편지지</span>에 쓰인 정갈한 메모를 읽어보았다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">
+      사랑하는 <span class="character-danhee">단희</span>에게,<br>
+      기태 씨가 죽은 뒤 하루하루가 고통이었어. 도가의 빚도, 전통주를 빚는 일도 이제 내겐 버겁기만 해. 오늘 밤이 지나면 깨어나는 아침은 없을 거야. 이 수면제가 고통을 끝내주겠지. 내 유일한 안식처인 <span class="emphasis">은금도가와 모든 재산은 친구인 네가 상속받기를 바란다.</span> 네 뜻대로 도가를 운영하든 처분하든 행복하게 살아주렴.
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A clean notepad sheet with Korean handwritten text in a neat, slightly feminine hand. Placed on a dark lacquered wood surface. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : 04_강은주_자살_유서
+
+### [clue_05]
+이름 : 핏자국 묻은 은행 쪽지 (5라운드 단서)
+유형 : 물증
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 50
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : Y
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 백서연
+의도 : 6개월 전 남기태가 사망하기 직전 날짜로 명의가 설정된 공란 약속어음과 계좌 비밀번호 핀코드 정보(핏자국 얼룩).
+내용 :
+수첩 한 귀퉁이를 거칠게 찢어낸 종이에 급히 휘갈겨 쓴 숫자들과 계좌 번호 정보들이다.
+- 저축 은행 계좌 번호: 01-4562-5874-2351 (비밀번호: 52076)
+- 주거래 계좌 번호: 01-6589-4287-8521 (비밀번호: 64649)
+종이 뒷면에는 핏자국이 묻은 채 공란 약속어음 세 장이 스테이플러로 고정되어 있다. 각 어음의 발행인은 6개월 전 사망한 남기태의 명의로 되어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">핏자국이 살짝 얼룩진 거친 종이 조각을 확인했다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">
+      저축 계좌: 01-4562-5874-2351 (PIN: 52076)<br>
+      주거래 계좌: 01-6589-4287-8521 (PIN: 64649)<br>
+      <span class="emphasis">비밀번호(PIN): 52076 / 64649</span><br>
+      [핏자국이 묻은 6개월 전 날짜의 공란 약속어음 3장 스테이플러 고정]
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A torn piece of white scrap paper with handwritten PIN codes and banking details in Korean, stained with dark brownish blood drops. Placed next to rusted paper clips. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : 05_남기태_은행_쪽지
