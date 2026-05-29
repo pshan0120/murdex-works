@@ -49,7 +49,7 @@
   <div class="guide-box">
     <span class="highlight">[최종 전투 판정]</span><br>
     - (A) 처형 대상의 전투력<br>
-    - (B) <span class="mystery">?? ????</span>의 전투력: 30<br>
+    - (B) <span class="mystery">?? ????</span>의 전투력: 30 (단, <span class="character-eldritch">엘드리치</span>가 '마력 흡수' 액션을 사용했다면 <strong>+5</strong> 추가)<br>
     - (C) 속성 부작용: 처형 대상이 빛의 검을 소유했다면 4, 아니라면 0<br>
     - (D) 부활한 <span class="mystery">?? ????</span>의 전투력 = (A) + (B) - (C)<br>
     <br>

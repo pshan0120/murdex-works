@@ -187,3 +187,1819 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A torn piece of white scrap paper with handwritten PIN codes and banking details in Korean, stained with dark brownish blood drops. Placed next to rusted paper clips. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
 장소 : 없음
 파일명 : 05_남기태_은행_쪽지
+
+---
+
+## 개인 전용 단서 (Personal Clues - 강은지 전용)
+※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_eunji_01]
+이름 : [개인] 강은지의 타임라인 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 101
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 조사 3단계에서 강은지가 참고해야 할 하루 행적 알리바이 타임라인 정보.
+내용 :
+오전 9:00 ~ 9:30 : 기상 후 옷을 입음
+오전 9:30 ~ 10:00 : 강은주와 아침 식사
+오전 10:00 ~ 오후 1:30 : 본채 마루에서 휴식
+오후 1:30 ~ 2:30 : 은주, 박단희, 백서연 박사와 점심 식사
+오후 2:30 ~ 3:30 : 도훈과 함께 캠핑카(방)에서
+오후 3:30 ~ 6:30 : 도가 주변 탐방
+오후 6:45 ~ 7:00 : 지하 숙성 토굴 탐험
+오후 7:00 ~ 현재 : 은금도가 본채로 돌아옴
+HTML :
+<div class="story-content">
+  <div class="section-title">강은지의 타임라인 (알리바이)</div>
+  <table class="timeline-table">
+    <thead>
+      <tr><th>시간</th><th>장소 및 행동</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>오전 9:00 ~ 9:30</td><td>기상 후 옷을 입음</td></tr>
+      <tr><td>오전 9:30 ~ 10:00</td><td>강은주와 아침 식사</td></tr>
+      <tr><td>오전 10:00 ~ 오후 1:30</td><td>본채 마루에서 휴식</td></tr>
+      <tr><td>오후 1:30 ~ 2:30</td><td>은주, 박단희, 백서연 박사와 점심 식사</td></tr>
+      <tr><td>오후 2:30 ~ 3:30</td><td>도훈과 함께 캠핑카(방)에서</td></tr>
+      <tr><td>오후 3:30 ~ 6:30</td><td>도가 주변 탐방</td></tr>
+      <tr><td>오후 6:45 ~ 7:00</td><td>지하 숙성 토굴 탐험</td></tr>
+      <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채로 돌아옴</td></tr>
+    </tbody>
+  </table>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A vintage pocket watch resting on a wooden floor near a camper van. Use the first attached image(본채 또는 캠핑카) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : 01_은금도가_주변_약도_1라운드_단서
+
+### [clue_p_eunji_02]
+이름 : [개인] 강은지가 아는 것 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 102
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 조사 3단계에서 강은지가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 아침에 일어났을 때 최도훈이 침대에 없었고, 오후가 되어서야 다시 만났습니다. 이 점은 평소와 달리 조용하고 평화로운 시간을 보낼 수 있어 좋았습니다.
+2. 백서연 박사가 폭행당해 살해되고 은금 저수지에 버려진 남자에 관한 소설을 쓰고 있다는 이야기를 들었습니다. 미해결 상태의 살인인데, 이야기의 줄거리가 형부(남기태)의 사건과 너무나 비슷했습니다. 백 박사가 누굴 용의자로 생각하는지 궁금합니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 정보 (타인에게 자유롭게 공개하세요)</div>
+  <ul>
+    <li>아침에 기상했을 때 남편인 <span class="character-dohun">최도훈</span>이 침대에 없었고, 오후 2시가 되어서야 만났습니다.</li>
+    <li><span class="character-seoyeon">백서연 박사</span>가 쓰고 있는 소설이 6개월 전 저수지에서 살해된 형부 <span class="character-kitae">남기태</span>의 사건과 너무나 유사합니다. 그녀가 누구를 용의자로 의심하고 있는지 캐물어 보세요.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman looking anxious and observing from a distance. Use the first attached image(강은지) as a reference for the female character. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_eunji_02_강은지가_아는_것_3단계
+
+### [clue_p_eunji_03]
+이름 : [개인] 강은지의 비밀 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 103
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 조사 3단계에서 강은지가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 이번 은금도가 방문 전까지 형부 남기태가 죽었다는 사실을 몰랐습니다. 언니 은주가 저를 아직도 용서하지 못해 저에게 완전히 사실을 숨겼던 것 같습니다.
+2. 오늘 아침 9시 30분경 은주와 단둘이 식사하며 돈을 빌려달라고 요청했지만, 은주는 남기태 사망 시 생명 보험이 없어 재정적으로 매우 힘든 상태라며 거절했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀 (추궁받거나 날카로운 지적을 받을 때만 고백하세요)</div>
+  <ul>
+    <li>이번에 도가에 오기 전까지 형부 <span class="character-kitae">남기태</span>의 사망 소식을 전혀 모르고 있었습니다. 언니가 완전히 나를 투명 인간 취급하여 숨긴 것입니다.</li>
+    <li>오늘 아침 9시 30분경 언니 <span class="character-eunju">강은주</span>와 아침 식사를 하며 돈을 빌려달라 부탁했으나, 형부가 죽을 때 남긴 생명 보험금이 없어 매우 어렵다며 한 푼도 빌려주지 않았습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman having a secret, intense conversation with a rough-looking worker. Use the first attached image(강은지) as a reference for the female character, and the second attached image(류현수) as a reference for the male worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_eunji_03_강은지의_비밀_3단계
+
+### [clue_p_eunji_04]
+이름 : [개인] 강은지가 아는 것 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 104
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 발견 4단계에서 강은지가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 오후 1시 30분경 점심 식사에 자청해 합류한 백서연 박사를 은주가 극도로 싫어하고 불편해했습니다.
+2. 백 박사의 노트를 훔쳐보았는데 형부의 서재 바닥에서 피 한 방울 발견, 서류가 뒤섞이고 전화기가 떨어진 기태 살해 정황 메모가 있었습니다. 은주는 피가 오래된 것이라 했지만 엉망진창인 사유는 해명하지 못했습니다.
+3. 정해준이 낯이 익었는데, 작년 최도훈 회사 연말 파티에서 본 적이 있습니다. 두 사람이 아는 사이일 것입니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 정보 (타인에게 자유롭게 공개하세요)</div>
+  <ul>
+    <li>점심 식사 때 <span class="character-seoyeon">백서연 박사</span>가 들이닥쳤을 때 언니 <span class="character-eunju">은주</span>가 대단히 혐오하는 내색을 보였습니다.</li>
+    <li>식사 중 슬쩍 본 백 박사의 노트에는 형부 <span class="character-kitae">남기태</span>가 실종 전 그녀의 서재에서 살해당했음을 뜻하는 정황(혈흔, 어질러진 서류, 떨어진 전화기)이 생생히 적혀 있었습니다.</li>
+    <li>리조트 개발업자라던 <span class="character-haejun">정해준</span>은 작년 남편 <span class="character-dohun">도훈</span>의 회사 연말 파티에서 만났던 사람입니다. 둘은 아는 사이가 분명합니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman carefully watching a man in a sharp suit having a serious phone call inside a car. Use the first attached image(강은지) as a reference for the observing female character, and the second attached image(정해준) as a reference for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_eunji_04_강은지가_아는_것_4단계
+
+### [clue_p_eunji_05]
+이름 : [개인] 강은지의 비밀 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 105
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 발견 4단계에서 강은지가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 아침 식사 때 남편이 나를 때린다고 한 말은 거짓말이었습니다. 언니의 동정을 이끌어내고, 아직 도훈에게 감정이 남았나 떠보기 위한 유도 질문이었습니다.
+2. 도훈과 꼭 이혼하고 싶지만 경제적 무능력으로 질질 끌려다니고 있는 비참한 실정입니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀 (추궁받거나 날카로운 지적을 받을 때만 고백하세요)</div>
+  <ul>
+    <li>언니에게 남편이 자신을 학대한다고 한 것은 돈을 뜯어내기 위해 꾸민 <strong>새빨간 거짓말</strong>이었습니다. 또한 언니가 내 남편 <span class="character-dohun">도훈</span>에게 아직 미련이 남았는지 확인해 보고 싶었습니다.</li>
+    <li>도훈의 무능과 도박에 질려 당장이라도 이혼하고 싶지만, 돈이 한 푼도 없어 빌붙어 지내고 있습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman hiding her face in her hands, looking distressed in a dark room. Use the first attached image(강은지) as a reference for the female character. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_eunji_05_강은지의_비밀_4단계
+
+### [clue_p_eunji_06]
+이름 : [개인] 강은지가 아는 것 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 106
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 시험 5단계에서 강은지가 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 박단희와 본채 뒷마루에 앉아 연예인이 되어 이 시골을 화려하게 탈출하고 싶다는 이야기를 나눴는데, 단희 역시 자신도 조만간 이 작은 시골 구석을 벗어나 호사스럽게 살 것이라며 무섭게 낄낄거리고 웃었습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 정보 (타인에게 자유롭게 공개하세요)</div>
+  <ul>
+    <li>뒷마루에서 <span class="character-danhee">박단희</span>와 야망에 관해 얘기할 때, 그녀는 '자신도 곧 이 따분한 시골 동네를 벗어나 엄청나게 화려한 삶을 살게 될 것'이라며 세상을 다 얻은 듯 이상할 정도로 미친 듯이 웃어댔습니다. 무언가 크게 한 건 잡은 사람처럼 말입니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman exploring a dark underground tunnel illuminated by a flickering flashlight. Use the first attached image(강은지) as a reference for the female character, and the second attached image(지하 숙성 토굴) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_eunji_06_강은지가_아는_것_5단계
+
+### [clue_p_eunji_07]
+이름 : [개인] 강은지의 비밀 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 107
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 시험 5단계에서 강은지가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 오후 5시 30분경 연못 수돗가 근처에서 류현수와 격렬한 눈빛을 교환하다 진하게 키스를 나누었고, 도훈이 잠들면 밤에 몰래 토굴에서 밀회하기로 약속했습니다.
+2. 약속 장소인 토굴 미로로 6시 45분경 향했고, 현수와 만난 순간 펑 소리와 함께 정전이 되며 비명을 질렀고, 이후 기절하여 정신을 잃었다 깨어났습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀 (추궁받거나 날카로운 지적을 받을 때만 고백하세요)</div>
+  <ul>
+    <li>오후 5시 30분경 연못가 수돗가에서 일꾼인 <span class="character-hyunsu">류현수</span>의 야성미에 끌려 격렬하게 키스했습니다. 그리고 남편이 잠들면 밤에 토굴 깊은 곳에서 몰래 다시 정사를 나누기로 굳게 약속했습니다.</li>
+    <li>그 밀회 약속을 지키기 위해 오후 6시 45분경 지하 토굴로 몰래 찾아가 현수와 마주치는 찰나, 갑자기 웅장한 폭음(배전반 펑 소리)과 함께 불이 꺼졌습니다. 공포에 비명을 질렀고, 그 후 기억을 잃었다가 깨어나 보니 이 난장판이 되어 있었습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman and a rough worker embracing and kissing passionately near an outdoor water tap at dusk. Use the first attached image(강은지) as a reference for the female character, and the second attached image(류현수) as a reference for the male character. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_eunji_07_강은지의_비밀_5단계
+
+### [clue_p_eunji_08]
+이름 : [개인] 강은지가 아는 것 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 108
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 마지막 6단계에서 강은지가 적극적으로 밝혀야 할 최종 획득 정보.
+내용 :
+1. 시신 목에 꽂힌 비녀 각인 글씨를 확인했습니다: "은주, 하나뿐인 그대"
+2. 토굴 바닥에 수면제 처방 약병(이틀 전 날짜, 빈 병)이 떨어져 있었습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 정보 (마지막으로 공유할 결정적 정보)</div>
+  <ul>
+    <li>언니의 목에 꽂혀 있던 그 흉기(순금 비녀)에는 분명히 <span class="emphasis">"은주, 하나뿐인 그대"</span>라는 매우 집요하고 징그러운 애정 문구가 선명하게 각인되어 있었습니다.</li>
+    <li>사망 현장 근처 토굴 구석 바닥에서 불과 이틀 전에 서울에서 처방받은 것으로 표기된 빈 <strong>수면제 처방 약병</strong>을 발견했습니다. 이미 알약은 깨끗이 다 비워진 상태였습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A golden ornamental hairpin inscribed with faint Korean letters, lying on the dirt floor next to a woman's hand. Use the first attached image(강은지) as a reference for the woman's hand/style. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_eunji_08_강은지가_아는_것_6단계
+
+---
+
+## 개인 전용 단서 (Personal Clues - 류현수 전용)
+※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_hyunsu_01]
+이름 : [개인] 류현수의 타임라인 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 201
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 조사 3단계에서 류현수가 참고해야 할 하루 행적 알리바이 타임라인 정보.
+내용 :
+오전 6시 ~ 9시 : 밭일 하기
+오전 9시 ~ 정오 : 은금도가 본채 청소하기
+정오 ~ 오후 3시 : 혼자 점심 먹고 낡은 헛간에서 휴식
+오후 3시 ~ 4시 : 지하 숙성 토굴 배선 수리
+오후 4시 ~ 6시 30분 : 낡은 헛간에서 휴식
+오후 6시 30분 ~ 7시 : 지하 숙성 토굴 배선 다시 수리
+오후 7시 ~ 현재 : 은금도가 본채로 복귀
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 행적 (타임라인)</div>
+  <table class="timeline-table">
+    <thead>
+      <tr><th>시간</th><th>장소 및 행동</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>오전 6:00 ~ 9:00</td><td>밭일 하기</td></tr>
+      <tr><td>오전 9:00 ~ 정오</td><td>은금도가 본채 청소하기</td></tr>
+      <tr><td>정오 ~ 오후 3:00</td><td>혼자 점심 먹고 낡은 헛간에서 휴식</td></tr>
+      <tr><td>오후 3:00 ~ 4:00</td><td>지하 숙성 토굴 배선 수리</td></tr>
+      <tr><td>오후 4:00 ~ 6:30</td><td>낡은 헛간에서 휴식</td></tr>
+      <tr><td>오후 6:30 ~ 7:00</td><td>지하 숙성 토굴 배선 다시 수리</td></tr>
+      <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채로 복귀</td></tr>
+    </tbody>
+  </table>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dirty worker's glove and a wrench resting on a fuse box in a dark cellar. Use the first attached image(지하 숙성 토굴) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_01_류현수의_타임라인_3단계
+
+### [clue_p_hyunsu_02]
+이름 : [개인] 류현수가 아는 것 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 202
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 조사 3단계에서 류현수가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 아침 9시 30분쯤 본채 창문을 밖에서 닦고 있을 때 강은지가 아침 식사 중 누군가와 이야기하며 흐느끼는 소리를 들었습니다.
+2. 남기태 사망 후 은주는 동생과 화해하고 싶어 했지만, 동생의 남편만은 피하고 싶어 연락을 주저했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>오늘 아침 9시 30분쯤, 본채 창문을 밖에서 닦고 있었는데, 그때 <span class="character-eunji">강은지</span>가 누군가와 이야기하며 흐느끼는 소리를 들었습니다. 그 때 그녀는 아침 식사를 하던 중이었습니다.</li>
+    <li><span class="character-kitae">남기태</span>가 사망한 후, <span class="character-eunju">강은주</span>는 매우 외롭고 괴로워했습니다. 고등학교 이후로 만나지 않은 여동생과 화해하고 싶었지만, 동생의 남편만은 다시 보고 싶지 않다고 했습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A rough rural worker cleaning the exterior wooden-framed glass window of a traditional Korean Hanok house in the morning light. A quiet rural courtyard is visible. Use the first attached image(류현수) as a reference for the worker, and the second attached image(은금도가 본채) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_02_류현수가_아는_것_3단계
+
+### [clue_p_hyunsu_03]
+이름 : [개인] 류현수의 비밀 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 203
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 조사 3단계에서 류현수가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 오후 12시 45분경 백서연 박사가 정해준에 대해 물어봤고, 그가 대형 리조트 개발업자임을 알아내 오후 1시쯤 그녀에게 알리자 크게 분노했습니다.
+2. 이번 주 내내 박단희에게 과제 도움을 받으러 향토사 자료실에 자주 갔습니다.
+3. 기태가 죽은 직후 은주가 당신에게 크게 의지했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>오후 12시 45분쯤, <span class="character-seoyeon">백서연 박사</span>가 은금도가에 차를 몰고 온 <span class="character-haejun">정해준</span>에 대해 물었고, 수소문 끝에 그가 리조트 개발업자임을 알아냈습니다. 오후 1시쯤 이 사실을 그녀에게 알리자, 그녀는 크게 분노하며 계획을 막겠다 다짐했습니다.</li>
+    <li>이번 주 내내 향토사 자료실에 많이 있었습니다. <span class="character-danhee">박단희</span>가 대학 과제를 도와주고 있었기 때문입니다.</li>
+    <li><span class="character-kitae">남기태</span>가 죽은 직후, <span class="character-eunju">은주</span>는 특히 당신에게 관심을 많이 보이고 관대했습니다. 혼자가 되고 싶지 않았던 거죠.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A rough worker eavesdropping near an old local history archive library. Use the first attached image(류현수) as a reference for the worker, and the second attached image(향토사 자료실) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_03_류현수의_비밀_3단계
+
+### [clue_p_hyunsu_04]
+이름 : [개인] 류현수가 아는 것 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 204
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 발견 4단계에서 류현수가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 어젯밤 도착한 최도훈과 강은지의 캠핑카 안에는 단순한 휴가라고 하기엔 짐이 너무 많았습니다.
+2. 오후 3시 토굴 배선 수리 중 백서연이 다가왔으며, 그녀는 은금도가 정보를 얻어 책 소재로 쓰려 한다는 것을 알고 있습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>어젯밤, <span class="character-dohun">최도훈</span>과 <span class="character-eunji">강은지</span>가 캠핑카를 몰고 도착했을 때 짐 옮기는 걸 도왔는데, 두 사람이 휴가를 즐기기에는 짐이 너무 많았습니다.</li>
+    <li>오후 3시쯤 지하 숙성 토굴에서 전기 배선을 수리 중일 때 <span class="character-seoyeon">백서연 박사</span>가 다가왔습니다. 그녀와 정을 나누지만, 그녀는 당신을 단지 은금도가의 정보를 빼내어 다음 책 소재로 삼기 위한 수단으로만 생각한다는 걸 알고 있습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man in a sharp suit carrying heavy luggage bags towards a parked camper van at night, observed by a worker. Use the first attached image(정해준) as a reference for the man in the suit, and the second attached image(류현수) as a reference for the observing worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_04_류현수가_아는_것_4단계
+
+### [clue_p_hyunsu_05]
+이름 : [개인] 류현수의 비밀 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 205
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 발견 4단계에서 류현수가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸으며 백서연이 훔쳤다고 의심합니다.
+2. 박단희와 은밀한 대가성 관계이며, 그녀를 통해 향토사 자료실의 역사적 자료를 훔쳐 팔려 했습니다. (추궁 시에만 밝힘)
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>당신은 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 <span class="character-seoyeon">백서연 박사</span>가 훔쳐 갔다고 의심하고 있습니다.</li>
+    <li><span class="character-danhee">박단희</span>와는 특별한 사이입니다. 자격증 시험 과제를 대신 써주는 대가로 그녀와 저녁 시간을 함께 보냅니다. 당신은 사서인 그녀의 권한을 이용해 일부 역사적 자료를 훔쳐 팔아보려 했습니다. <strong>(※ 플레이어 지침: 이 사실은 박단희나 타 플레이어에게서 훔쳐낸 역사적 편지에 관해 직접 추궁을 받아 비밀 폭로 이의가 제기되었을 때만 밝히고 [4단계 비밀 단서]를 조사하세요.)</strong></li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A rough worker searching for a lost scrap of paper with bank pins in a dark room. Use the first attached image(류현수) as a reference for the worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_05_류현수의_비밀_4단계
+
+### [clue_p_hyunsu_06]
+이름 : [개인] 류현수가 아는 것 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 206
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 시험 5단계에서 류현수가 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 오후 5시 30분에 정해준과 함께 숙성 토굴로 들어가는 강은주를 마지막으로 보았습니다.
+2. 오후 6시 30분 토굴 배선 수리 중 차단기를 내렸는데 누군가 전기를 올려 감전당했고 15분간 기절해 있었습니다.
+3. 백서연이 남기태 죽음에 너무 큰 관심을 가지는 것에 의심이 듭니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>마지막으로 <span class="character-eunju">강은주</span>를 본 건 오후 5시 30분경 휴식 중일 때였습니다. 그녀는 <span class="character-haejun">정해준</span>과 함께 숙성 토굴로 들어가고 있었습니다.</li>
+    <li>오후 6시 30분, 배선 단락을 고치려 다시 토굴로 갔고 차단기를 내렸다고 확신했지만, 6시 45분쯤 갑자기 전기가 들어오며 감전되어 15분간 기절했습니다. 이 충격으로 조명이 나간 듯합니다.</li>
+    <li><span class="character-seoyeon">백서연 박사</span>가 <span class="character-kitae">남기태</span>의 죽음에 대해 단순한 호기심 이상의 과도한 관심을 가지는 것 같습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A worker standing near a sparking electrical breaker box in a dark underground tunnel, getting electrocuted. Use the first attached image(류현수) as a reference for the worker, and the second attached image(지하 숙성 토굴) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_06_류현수가_아는_것_5단계
+
+### [clue_p_hyunsu_07]
+이름 : [개인] 류현수의 비밀 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 207
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 시험 5단계에서 류현수가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 오후 5시 30분경 연못 수돗가에서 청소 중 강은지와 마주쳐 격렬한 키스를 나누었습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>오후 5시 30분경, 연못 수돗가 주변을 청소하던 중 다가온 <span class="character-eunji">강은지</span>와 대화를 나누다 서로에게 이끌려 격렬한 키스를 나누게 되었습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A rough worker and an elegant woman kissing passionately near an outdoor water tap at dusk. Use the first attached image(류현수) as a reference for the worker, and the second attached image(강은지) as a reference for the woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_07_류현수의_비밀_5단계
+
+### [clue_p_hyunsu_08]
+이름 : [개인] 류현수가 아는 것 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 208
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 마지막 6단계에서 류현수가 적극적으로 밝혀야 할 최종 획득 정보.
+내용 :
+1. 기태가 살해되던 날 백서연과 점심을 먹고 그녀의 애원을 단호히 거절하며 도가에 들이지 않겠다고 선언했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li><span class="character-kitae">남기태</span>가 살해되던 날, 그는 <span class="character-seoyeon">백서연 박사</span>와 점심을 함께했습니다.</li>
+    <li>그녀가 다음 날 꼭 다시 만나야 한다고 애원했지만 기태는 단호히 거절하며, “내 시체를 밟고 지나가지 않는 이상 이 도가에 다시는 들어오지 못할 거야.”라고 말했습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A worker observing a tense conversation between a man and a woman in an elegant restaurant. Use the first attached image(류현수) as a reference for the worker, and the second attached image(고급 식당) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_08_류현수가_아는_것_6단계
+
+### [clue_p_hyunsu_09]
+이름 : [개인] 류현수의 비밀 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 209
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 마지막 6단계에서 류현수가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 당신은 남기태를 마지막으로 본 사람입니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>당신은 6개월 전 죽은 <span class="character-kitae">남기태</span> 사장을 마지막으로 본 사람입니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A shadowy figure of a rough worker standing over another man's body in the dark. Use the first attached image(류현수) as a reference for the standing worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_hyunsu_09_류현수의_비밀_6단계
+
+---
+
+## 개인 전용 단서 (Personal Clues - 박단희 전용)
+※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_danhee_01]
+이름 : [개인] 박단희의 타임라인 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 301
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 조사 3단계에서 박단희가 참고해야 할 하루 행적 알리바이 타임라인 정보.
+내용 :
+오전 8:00 ~ 9:00 : 향토사 자료실에서 서류를 정리하고 식물에 물을 줌
+오전 9:00 ~ 11:00 : 마을에서 심부름
+오전 11:00 ~ 정오 : 은금도가 본채에서 강은주와 함께 아침 커피를 마심
+정오 ~ 오후 12:15 : 정해준 도착, 강은주와 대화함
+오후 12:15 ~ 1:30 : 은금도가에서 점심 준비
+오후 1:30 ~ 2:30 : 강은주, 강은지, 백서연 박사와 함께 점심식사
+오후 2:30 ~ 7:00 : 본채 툇마루에서 책을 읽으며 은주를 기다림
+오후 7:00 ~ 현재 : 은금도가 본채로 복귀
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 행적 (타임라인)</div>
+  <table class="timeline-table">
+    <thead>
+      <tr><th>시간</th><th>장소 및 행동</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>오전 8:00 ~ 9:00</td><td>향토사 자료실에서 서류 정리 및 물주기</td></tr>
+      <tr><td>오전 9:00 ~ 11:00</td><td>마 마을에서 심부름</td></tr>
+      <tr><td>오전 11:00 ~ 정오</td><td>은금도가 본채에서 강은주와 아침 커피</td></tr>
+      <tr><td>정오 ~ 오후 12:15</td><td>정해준 도착, 강은주와 대화</td></tr>
+      <tr><td>오후 12:15 ~ 1:30</td><td>은금도가에서 점심 준비</td></tr>
+      <tr><td>오후 1:30 ~ 2:30</td><td>은주, 은지, 백서연 박사와 점심 식사</td></tr>
+      <tr><td>오후 2:30 ~ 7:00</td><td>본채 툇마루에서 책을 읽으며 은주를 기다림</td></tr>
+      <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채로 복귀</td></tr>
+    </tbody>
+  </table>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A neat librarian's desk with old historical documents and a small potted plant. Use the first attached image(향토사 자료실) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_01_박단희의_타임라인_3단계
+
+### [clue_p_danhee_02]
+이름 : [개인] 박단희가 아는 것 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 302
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 조사 3단계에서 박단희가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 백서연은 베스트셀러 직전 소송당했다고 들었으며, 여전히 글을 쓰는지 궁금합니다.
+2. 아침 자료실에서 나올 때 옆 금은방에서 최도훈이 금으로 된 물건을 가방에 넣는 것을 봤습니다.
+3. 아침 커피 중 강은주는 최도훈이 30분 전 준 비녀를 보여주었는데, 매우 당황한 듯 정오에 초인종이 울렸을 때 손에 쥐고 있는지도 몰랐습니다.
+4. 류현수는 남기태 사망 후 여유 자금이 많아져 자료실보다 친구들과 시간을 많이 보냅니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li><span class="character-seoyeon">백서연 박사</span>는 베스트셀러 작가가 될 뻔하다 소송을 당했다고 들었습니다. 여전히 글을 쓰는지 궁금합니다.</li>
+    <li>아침에 자료실을 나설 때 옆 금은방에서 <span class="character-dohun">최도훈</span>이 금으로 된 물건을 가방에 넣고 계산하는 것을 보았습니다.</li>
+    <li>아침 커피를 마실 때 <span class="character-eunju">강은주</span>가 <span class="character-dohun">최도훈</span>이 방금(30분 전) 줬다며 비녀를 보여주었는데, 무척 당황한 기색이었습니다.</li>
+    <li><span class="character-hyunsu">류현수</span>는 <span class="character-kitae">남기태</span> 사망 후 확연히 여유 자금이 많아진 듯 보입니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young female librarian looking out a window at a man in a suit putting a golden object into his bag in front of a jewelry store. Use the first attached image(박단희) as a reference for the librarian, and the second attached image(정해준) as a reference for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_02_박단희가_아는_것_3단계
+
+### [clue_p_danhee_03]
+이름 : [개인] 박단희의 비밀 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 303
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 조사 3단계에서 박단희가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 정오에 정해준 방문 시 속이 안 좋아 은주가 대화하는 동안 화장실 약장에서 제산제를 찾았습니다.
+2. 정해준은 이번 주 자료실에 자주 와서 마을 역사 연구 자료를 요청했고 찾아주었습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>정오에 <span class="character-haejun">정해준</span>이 도가 매입 건으로 방문했을 때, 속이 좋지 않아 <span class="character-eunju">은주</span>가 대화하는 틈을 타 몰래 화장실 약장에서 제산제를 찾았습니다.</li>
+    <li><span class="character-haejun">정해준</span>은 이번 주 내내 자료실에 자주 방문해 마을 역사 연구 자료를 요청했고, 당신이 이를 찾아주었습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young female librarian secretly taking a small medicine bottle from a bathroom cabinet. Use the first attached image(박단희) as a reference for the librarian. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_03_박단희의_비밀_3단계
+
+### [clue_p_danhee_04]
+이름 : [개인] 박단희가 아는 것 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 304
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 발견 4단계에서 박단희가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 기태를 마지막으로 본 사람은 누구일지 궁금합니다. 살인범은 그를 기습했을 겁니다.
+2. 오후 1시경 최도훈을 찾는 법률사무소 전화를 받아주었고 그가 서재에서 1시간 반 동안 사기 소송/횡령 얘기를 하는 걸 엿들었습니다.
+3. 오후 1시 30분 점심때 정해준의 리조트 개발 얘기에 백서연이 매우 불만스러워했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>유능했던 <span class="character-kitae">남기태</span>가 둔기에 맞아 죽은 것은 충격적입니다. 누군가 기습했음이 틀림없으며, 그를 마지막으로 본 사람이 범인일 가능성이 높습니다.</li>
+    <li>오후 1시경 <span class="character-dohun">최도훈</span>을 찾는 법률사무소의 전화를 받았고, 그가 서재에서 1시간 반 가량 사기 소송 및 횡령 관련 통화를 하는 것을 몰래 들었습니다.</li>
+    <li>오후 1시 30분 점심 식사 자리에서 <span class="character-seoyeon">백서연 박사</span>는 <span class="character-haejun">정해준</span>의 리조트 개발 계획에 매우 불만스러워했습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young female librarian secretly listening through a slightly open door to a man having a serious phone call in a study. Use the first attached image(박단희) as a reference for the librarian, and the second attached image(정해준) as a reference for the man. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_04_박단희가_아는_것_4단계
+
+### [clue_p_danhee_05]
+이름 : [개인] 박단희의 비밀 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 305
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 발견 4단계에서 박단희가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 류현수에게 끌려 육체적 관계를 맺고 자격증 과제를 대신 해주고 있습니다.
+2. 향토사 과제 중 은금이 쓴 편지를 발견했는데, 그는 편지 작성 직후 익사했습니다.
+3. 류현수 배경 조사 결과 1년 전 사기/폭력 전과로 징역 후 숨어들었음을 알았습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>당신은 일꾼 <span class="character-hyunsu">류현수</span>에게 강하게 끌려 잠자리를 함께 하고 있으며, 그의 자격증 과제까지 대신 해주고 있습니다.</li>
+    <li>당신은 그에게 집착하여 배경 조사를 했고, 그가 1년 전 사기 및 폭력 전과로 징역을 살다 이곳에 숨어들었다는 사실을 알고 있습니다.</li>
+    <li>향토사 연구 중 은금리 개척자 <span class="character-kitae">은금</span>이 쓴 편지를 발견했습니다. (그는 편지 작성 후 곧 익사했습니다.)</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A close up of a 100-year-old faded handwritten letter found among dusty archive files by a young woman. Use the first attached image(박단희) as a reference for the woman's hands. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_05_박단희의_비밀_4단계
+
+### [clue_p_danhee_06]
+이름 : [개인] 박단희가 아는 것 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 306
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 시험 5단계에서 박단희가 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 은주를 마지막으로 본 건 점심 때입니다.
+2. 은주의 시신 옆 바닥에서 종이 한 장을 발견했습니다.
+3. 오후 4시경 서둘러 자료실로 가 백서연 박사 최신 책을 대출했습니다.
+4. 오후 6시 45분경 백서연이 누군가를 따라 지하 토굴로 들어가는 걸 보았고 잠시 후 불빛이 꺼졌습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>마지막으로 <span class="character-eunju">강은주</span>를 본 것은 점심 때입니다.</li>
+    <li><strong><span class="character-eunju">강은주</span>의 시신 옆 바닥에서 흘려놓은 종이 한 장을 발견했습니다. (이 정보를 다른 플레이어들에게 즉시 밝히고, <span class="emphasis">[5단계 비밀 단서]</span>를 조사하세요.)</strong></li>
+    <li>오후 4시경 자료실에 가서 <span class="character-seoyeon">백서연 박사</span>의 최신 책을 대출해 본채 마루에서 읽고 있었습니다.</li>
+    <li>오후 6시 45분경, <span class="character-seoyeon">백서연 박사</span>가 옆집에서 나와 누군가를 따라 지하 숙성 토굴로 들어갔고 잠시 후 불이 깜빡이다 꺼졌습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young female librarian watching an older elegant woman follow someone into a dark underground tunnel at dusk. Use the first attached image(박단희) as a reference for the librarian, and the second attached image(백서연) as a reference for the elegant woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_06_박단희가_아는_것_5단계
+
+### [clue_p_danhee_07]
+이름 : [개인] 박단희의 비밀 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 307
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 시험 5단계에서 박단희가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 늘 스타가 되는 꿈을 품었고 오늘 도서관 사서 일을 그만두었습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>당신은 늘 텔레비전 드라마나 영화에서 스타가 되는 꿈을 품어왔으며, 사실 오늘 도서관 사서 일을 그만두었습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A torn librarian resignation letter resting on a desk next to a magazine featuring movie stars. Use the first attached image(향토사 자료실) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_07_박단희의_비밀_5단계
+
+### [clue_p_danhee_08]
+이름 : [개인] 박단희가 아는 것 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 308
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 마지막 6단계에서 박단희가 적극적으로 밝혀야 할 최종 획득 정보.
+내용 :
+1. 강은주 안방 선반에 낡은 촛대가 놓여 있는 것을 발견했습니다.
+2. 몇 달 전 류현수가 생일 선물로 똑같은 촛대를 준 적 있습니다.
+3. 당신이 가진 촛대는 찌그러지고 상태가 안 좋습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li><span class="character-eunju">강은주</span>의 안방 선반 위에 낡은 촛대가 놓여 있는 것을 발견했습니다.</li>
+    <li>몇 달 전 <span class="character-hyunsu">류현수</span>가 당신의 생일 선물로 똑같은 촛대를 준 적이 있습니다. 하지만 당신이 가진 촛대는 어딘가 찌그러지고 상태가 좋지 않습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dented, old golden candlestick resting on a wooden shelf in a dark room. Use the first attached image(본채) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_08_박단희가_아는_것_6단계
+
+### [clue_p_danhee_09]
+이름 : [개인] 박단희의 비밀 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 309
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 마지막 6단계에서 박단희가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 더 이상 감출 비밀이 없습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>더 이상 감출 비밀이 없습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, dark room with a single beam of light shining on a blank piece of paper. Use the first attached image(빈 방) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_danhee_09_박단희의_비밀_6단계
+
+---
+
+## 개인 전용 단서 (Personal Clues - 백서연 전용)
+※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_seoyeon_01]
+이름 : [개인] 백서연의 타임라인 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 101
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 조사 3단계에서 백서연이 참고해야 할 하루 행적 알리바이 타임라인 정보.
+내용 :
+아침 기상 ~ 정오 : 집에서 다음 책 집필
+정오 ~ 오후 1시 15분 : 연못 정원 화단 가꾸기
+오후 1시 15분 ~ 2시 30분 : 강은주와 점심 식사
+오후 2시 30분 ~ 3시 45분 : 책 집필
+오후 3시 45분 ~ 4시 : 은금도가 본채에서 강은주와 대화
+오후 4시 ~ 6시 : 집에서 휴식
+오후 6시 45분 ~ 7시 : 다시 은금도가로 가서 강은주와 대화
+오후 7시 ~ 현재 : 은금도가 본채에 머무름
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 행적 (타임라인)</div>
+  <table class="timeline-table">
+    <thead>
+      <tr><th>시간</th><th>장소 및 행동</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>아침 기상 ~ 정오</td><td>집에서 다음 책 집필</td></tr>
+      <tr><td>정오 ~ 오후 1:15</td><td>연못 정원 화단 가꾸기</td></tr>
+      <tr><td>오후 1:15 ~ 2:30</td><td>강은주와 점심 식사</td></tr>
+      <tr><td>오후 2:30 ~ 3:45</td><td>책 집필</td></tr>
+      <tr><td>오후 3:45 ~ 4:00</td><td>은금도가 본채에서 강은주와 대화</td></tr>
+      <tr><td>오후 4:00 ~ 6:00</td><td>집에서 휴식</td></tr>
+      <tr><td>오후 6:45 ~ 7:00</td><td>다시 은금도가로 가서 강은주와 대화</td></tr>
+      <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채에 머무름</td></tr>
+    </tbody>
+  </table>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An elegant fountain pen resting on a stack of manuscript papers in a cozy study. Use the first attached image(서재) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_01_백서연의_타임라인_3단계
+
+### [clue_p_seoyeon_02]
+이름 : [개인] 백서연이 아는 것 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 102
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 조사 3단계에서 백서연이 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 정오 무렵 정원 일할 때 정해준이 도착해 강은주와 대화하는 것을 지켜보았습니다.
+2. 본채 창문 너머로 박단희가 약장을 뒤져 작은 약병을 주머니에 넣는 걸 봤고, 12시 15분경 은주와 해준에게 합류했습니다.
+3. 이번 주 내내 자료실에서 류현수를 봤지만 공부는 안 하고 사서에게 서류만 받아갔습니다.
+4. 정해준의 차가 지난 4일간 도서관 주차장에 매일 서 있었습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>정오 무렵 화단을 가꿀 때 <span class="character-haejun">정해준</span>이 도착해 현관에서 <span class="character-eunju">강은주</span>와 대화하는 걸 호기심에 지켜봤습니다.</li>
+    <li>열린 창문 너머로 <span class="character-danhee">박단희</span>가 욕실 약장을 뒤져 작은 약병을 챙기는 것을 봤으며, 12시 15분경 현관의 두 사람에게 합류했습니다.</li>
+    <li>이번 주 자료실에 연구차 자주 갔을 때 <span class="character-hyunsu">류현수</span>를 봤으나, 그는 책은 안 가져가고 사서에게서 서류만 받아 갔습니다.</li>
+    <li><span class="character-haejun">정해준</span>의 차가 지난 4일간 도서관 주차장에 매일 주차되어 있었습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An elegant older woman observing a man in a suit talking to a younger woman at a porch, seen from a flower garden. Use the first attached image(백서연) as a reference for the elegant woman, and the second attached image(정해준) for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_02_백서연이_아는_것_3단계
+
+### [clue_p_seoyeon_03]
+이름 : [개인] 백서연의 비밀 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 103
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 조사 3단계에서 백서연이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 전작 소송으로 재정이 바닥났으나 남기태 살인 사건을 소재로 한 새 소설이 출간되어 조금 나아졌습니다.
+2. 만약 정해준이 은금도가를 대형 리조트로 개발하면 조용한 환경이 파괴되어 옆에 있는 당신 땅의 가치가 떨어질까 봐 두려워합니다.
+3. 은주가 기태를 죽이고 생명보험금을 노렸다고 늘 의심했으며, 이게 당신의 다음 소설 줄거리입니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>유명 방송인에게 거액의 소송을 당해 재정이 바닥났으나, <span class="character-kitae">남기태</span> 살인 사건을 모티브로 한 새 소설 덕분에 경제 상황이 나아지는 중입니다.</li>
+    <li>수중에 현금이 거의 없으며, <span class="character-haejun">정해준</span>이 도가 땅을 대형 리조트로 개발하면 조용한 환경이 무너져 바로 옆에 있는 당신의 전원주택 땅값이 폭락할 것이 뻔해 매우 불안합니다.</li>
+    <li>당신은 평소 <span class="character-eunju">강은주</span>가 남편 <span class="character-kitae">기태</span>를 죽이고 생명보험금을 노렸다고 의심해 왔으며, 그것이 다음 미스터리 소설의 핵심 줄거리입니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A close up of a bank statement showing severe debt, partially covered by a new thriller novel manuscript. Use the first attached image(서재) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_03_백서연의_비밀_3단계
+
+### [clue_p_seoyeon_04]
+이름 : [개인] 백서연이 아는 것 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 104
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 발견 4단계에서 백서연이 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 오후 1시 30분, 강은주, 박단희, 강은지와 함께 점심 식사를 했습니다.
+2. 류현수가 저수지 근처에서 불법으로 대마초를 재배하고 있다는 사실을 알고 있습니다.
+3. 강은주는 남편 살인범 체포에 거액의 현상금을 걸었다가 불과 며칠 만에 이를 철회했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>오후 1시 30분에 <span class="character-eunju">강은주</span>, <span class="character-danhee">박단희</span>, <span class="character-eunji">강은지</span>와 함께 본채에서 점심 식사를 했습니다.</li>
+    <li>당신은 이미 오래전부터 <span class="character-hyunsu">류현수</span>가 은금 저수지 근처 외진 곳에서 대마초를 재배하고 있다는 사실을 알고 있습니다. 그가 마약 문제가 있는지 궁금합니다.</li>
+    <li><span class="character-eunju">강은주</span>는 처음에 남편 살인범 체포에 도움이 되는 정보에 거액의 현상금을 내걸었지만, 며칠 만에 돌연 그 제안을 철회했습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A view of a rustic camper van with faint smoke smelling like marijuana drifting from nearby, observed by an elegant woman. Use the first attached image(백서연) as a reference for the elegant woman, and the second attached image(캠핑카) for the camper van. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_04_백서연이_아는_것_4단계
+
+### [clue_p_seoyeon_05]
+이름 : [개인] 백서연의 비밀 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 105
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 발견 4단계에서 백서연이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 6개월 전 남기태가 살아있을 때 마지막으로 만난 사람이 당신이었습니다. (점심을 같이 함)
+2. 류현수와 외로움을 달래기 위해 부적절한 밀회 관계를 맺고 있습니다.
+3. 오후 3시 토굴에서 류현수를 만났을 때 그의 주머니에서 종이가 떨어지는 걸 주워 곧장 본채로 가서 은주를 만나려 했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>6개월 전, 살아있던 <span class="character-kitae">남기태</span>를 가장 마지막으로 만난 사람은 바로 당신이었습니다. 그와 점심을 먹고 출판사 미팅 때문에 떠났을 땐 분명 살아있었습니다.</li>
+    <li>외로움을 달래기 위해 일꾼 <span class="character-hyunsu">류현수</span>를 가끔 침실로 불러 부적절한 밀회를 즐기고 있습니다.</li>
+    <li>오늘 오후 3시 토굴에서 평소처럼 현수를 만났을 때 그의 주머니에서 종이 한 장이 떨어졌습니다. 당신은 그것을 주워 내용을 확인하고는 곧장 본채로 가서 <span class="character-eunju">은주</span>를 만나려 했습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An elegant woman picking up a dropped scrap of paper from the dirt floor of a dark underground tunnel. Use the first attached image(백서연) as a reference for the elegant woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_05_백서연의_비밀_4단계
+
+### [clue_p_seoyeon_06]
+이름 : [개인] 백서연이 아는 것 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 106
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 시험 5단계에서 백서연이 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 토굴 안 시계가 6시 45분에 멈췄습니다. 그때 정전이 된 것입니다.
+2. 당신이 은주를 마지막으로 본 건 3시 45분경 본채에서 새 책에 대해 짧게 대화했을 때입니다.
+3. 오후 5시 30분 류현수와 강은지가 정원에 있었으나 다가갔을 땐 은지가 떠났습니다.
+4. 6시 45분 강은지가 평소와 다른 옷을 입고 숙성 토굴로 가는 걸 봤고 박단희가 마루에 앉아 당신을 지켜봤으나 은지를 따라 토굴 안으로 들어갔습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>지하 토굴 안의 시계가 6시 45분에 정지해 있었습니다. 그때 정전이 된 것입니다.</li>
+    <li>당신이 <span class="character-eunju">강은주</span>를 마지막으로 본 것은 오후 3시 45분, 본채에서 새 소설에 대해 짧게 대화했을 때입니다.</li>
+    <li>오후 5시 30분경 화단에서 <span class="character-hyunsu">류현수</span>와 <span class="character-eunji">강은지</span>가 함께 있는 것을 보았지만, 다가갔을 땐 이미 은지는 자리를 뜬 후였습니다.</li>
+    <li>약 6시 45분, <span class="character-eunji">강은지</span>가 오후와는 다른 옷을 입고 숙성 토굴로 향하는 걸 보았습니다. 마루의 <span class="character-danhee">박단희</span>가 지켜보고 있었지만, 당신은 <span class="character-eunji">은지</span>를 따라 토굴 안으로 깊숙이 들어갔습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A close up of a broken clock inside a dark tunnel, its hands frozen exactly at 6:45. Use the first attached image(지하 숙성 토굴) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_06_백서연이_아는_것_5단계
+
+### [clue_p_seoyeon_07]
+이름 : [개인] 백서연의 비밀 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 107
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 시험 5단계에서 백서연이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 당신은 남기태를 사랑했고 그와 불륜 관계였습니다.
+2. 은주가 이를 눈치채고 따지자 기태는 당신과 관계를 끊었으며 며칠 후 죽었습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>당신은 <span class="character-kitae">남기태</span>를 진심으로 사랑했고, 그가 죽기 전까지 불륜 관계였습니다.</li>
+    <li><span class="character-eunju">은주</span>가 이 관계를 눈치채고 기태에게 따졌습니다. 기태는 부부 관계를 지키려 즉시 당신과 관계를 끊어버렸고, 그로부터 불과 며칠 뒤 사망했습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man and an elegant woman arguing intensely in shadows, signaling the end of an affair. Use the first attached image(남기태) as a reference for the man, and the second attached image(백서연) for the elegant woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_07_백서연의_비밀_5단계
+
+### [clue_p_seoyeon_08]
+이름 : [개인] 백서연이 아는 것 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 108
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 마지막 6단계에서 백서연이 적극적으로 밝혀야 할 최종 획득 정보.
+내용 :
+1. 류현수 주머니에서 떨어진 종이가 기태의 죽음과 관련 있다고 생각하며, 3시 45분 은주에게 그 종이를 보여준 적이 있습니다. (즉시 밝히고 [6단계 비밀 단서] 조사)
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>오후 3시에 만났을 때 <span class="character-hyunsu">류현수</span>의 주머니에서 떨어진 종이를 그가 몹시 찾아다니는 것 같습니다.</li>
+    <li>그 종이가 <span class="character-kitae">기태</span>의 죽음과 관련이 있지 않을까 궁금합니다. <strong>당신은 주운 이 종이 조각을 오후 3시 45분에 <span class="character-eunju">은주</span>에게 찾아가 보여준 적이 있습니다. (이 정보를 다른 플레이어들에게 즉시 밝히고, <span class="emphasis">[6단계 비밀 단서 - 은행 쪽지]</span>를 조사하세요.)</strong></li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An elegant woman holding out a small scrap of paper with bloodstains to another woman in a dark room. Use the first attached image(백서연) as a reference for the elegant woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_08_백서연이_아는_것_6단계
+
+### [clue_p_seoyeon_09]
+이름 : [개인] 백서연의 비밀 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 109
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 마지막 6단계에서 백서연이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 더 이상 감출 비밀이 없습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>더 이상 감출 비밀이 없습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, dark room with a single beam of light shining on a blank piece of paper. Use the first attached image(빈 방) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_seoyeon_09_백서연의_비밀_6단계
+
+---
+
+## 개인 전용 단서 (Personal Clues - 정해준 전용)
+※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_haejun_01]
+이름 : [개인] 정해준의 타임라인 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 401
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 조사 3단계에서 정해준이 참고해야 할 하루 행적 알리바이 타임라인 정보.
+내용 :
+아침 ~ 정오 : 은금도가로 이동
+정오 ~ 오후 12:15 : 강은주와 양조장 매입 논의
+오후 12:15 ~ 1:00 : 강은주와 함께 도가 구경
+오후 1:00 : 은주가 연못 화단에서 벌에 쏘임
+오후 1:00 ~ 1:15 : 은주와 함께 본채로 복귀
+오후 1:15 ~ 3:00 : 차 안에서 업무 전화 통화
+오후 3:00 ~ 5:15 : 혼자서 은금도가 뒷산 및 시설 조사
+오후 5:15 ~ 6:45 : 지하 숙성 토굴에서 강은주와 소주 시음
+오후 6:45 ~ 7:00 : 토굴 조명 꺼짐. 강은주가 조사하러 감
+오후 7:00 ~ 현재 : 은금도가 본채로 복귀
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 행적 (타임라인)</div>
+  <table class="timeline-table">
+    <thead>
+      <tr><th>시간</th><th>장소 및 행동</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>아침 ~ 정오</td><td>은금도가로 이동</td></tr>
+      <tr><td>정오 ~ 오후 12:15</td><td>강은주와 양조장 매입 논의</td></tr>
+      <tr><td>오후 12:15 ~ 1:00</td><td>강은주와 함께 도가 구경</td></tr>
+      <tr><td>오후 1:00</td><td>은주가 연못 화단에서 벌에 쏘임</td></tr>
+      <tr><td>오후 1:00 ~ 1:15</td><td>은주와 함께 본채로 복귀</td></tr>
+      <tr><td>오후 1:15 ~ 3:00</td><td>차 안에서 업무 전화 통화</td></tr>
+      <tr><td>오후 3:00 ~ 5:15</td><td>혼자서 은금도가 뒷산 및 시설 조사</td></tr>
+      <tr><td>오후 5:15 ~ 6:45</td><td>지하 숙성 토굴에서 강은주와 소주 시음</td></tr>
+      <tr><td>오후 6:45 ~ 7:00</td><td>토굴 조명 꺼짐. 강은주가 조사하러 감</td></tr>
+      <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채로 복귀</td></tr>
+    </tbody>
+  </table>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A shiny modern car parked in front of a traditional Korean brewery, a briefcase on the hood. Use the first attached image(은금도가 본채) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_01_정해준의_타임라인_3단계
+
+### [clue_p_haejun_02]
+이름 : [개인] 정해준이 아는 것 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 402
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 조사 3단계에서 정해준이 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 정오 도착 시 은주가 거의 필사적으로 도가를 보여주려 했습니다. 12시 15분경 은주 뒤로 단희가 현관에 합류했습니다.
+2. 은주와 도가 구경 중 그녀가 작은 물건을 들고 다니는 걸 인지 못 할 정도로 몰두해 있었습니다.
+3. 1시쯤 연못에서 은주가 벌에 쏘이자 들고 있던 물건을 풀밭에 떨어뜨리고 집 안으로 달려갔습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>정오 무렵 도착했을 때 <span class="character-eunju">강은주</span>는 도가를 팔고 싶어 거의 필사적인 듯했습니다. 12시 15분경 그녀 뒤로 <span class="character-danhee">박단희</span>가 현관에 합류하는 것을 보았습니다.</li>
+    <li><span class="character-eunju">은주</span>와 도가를 구경하는 동안, 그녀는 설명에 몰두한 나머지 자신이 무언가 작은 물건을 손에 꼭 쥐고 다니는 것조차 모르는 듯했습니다.</li>
+    <li>오후 1시쯤 연못 화단에서 <span class="character-eunju">은주</span>가 벌에 쏘였고, 그녀는 놀라 들고 있던 그 물건을 풀밭에 떨어뜨린 채 집 안으로 달려 들어갔습니다. 당신도 그녀를 뒤따라갔습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young woman dropping a small object in the grass in panic while swatting at a bee, observed by a man in a suit. Use the first attached image(박단희) as a reference for the young woman, and the second attached image(정해준) for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_02_정해준이_아는_것_3단계
+
+### [clue_p_haejun_03]
+이름 : [개인] 정해준의 비밀 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 403
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 조사 3단계에서 정해준이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 지난 4일간 향토사 자료실에서 마을 조사에 시간을 보냈습니다.
+2. 오늘 오후 최도훈이 이력서를 줬지만 거절했습니다. 그의 일자리 상황이 궁금합니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>새로운 개발 마케팅을 위해 지난 4일 동안 향토사 자료실에서 이 마을의 역사를 면밀히 조사했습니다.</li>
+    <li>오늘 오후 <span class="character-dohun">최도훈</span>이 너무 간절해 보이며 이력서를 건넸지만, 채용 계획이 없다며 거절했습니다. 부동산 호황기인데 그의 상황이 이상하게 느껴집니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man in a sharp suit looking at dusty historical town archives in a library. Use the first attached image(정해준) as a reference for the man in the suit, and the second attached image(향토사 자료실) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_03_정해준의_비밀_3단계
+
+### [clue_p_haejun_04]
+이름 : [개인] 정해준이 아는 것 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 404
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 발견 4단계에서 정해준이 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 은주가 벌에 쏘인 후 2시간 동안 차에서 전화 통화를 했습니다.
+2. 오후 3시, 은주가 안 나와서 혼자 도가를 둘러봤습니다.
+3. 오후 3시 15분경 한 여성이 지하 토굴로 들어가 류현수와 은밀히 대화하는 걸 봤습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li><span class="character-eunju">강은주</span>가 벌에 쏘여 본채로 들어간 뒤, 당신은 차 안에서 약 2시간 동안 업무 전화를 하며 머물렀습니다.</li>
+    <li>오후 3시가 되었는데도 <span class="character-eunju">은주</span>가 밖으로 나오지 않아 혼자서 도가 주변을 둘러보러 나섰습니다.</li>
+    <li>오후 3시 15분경, 한 여성이 지하 숙성 토굴로 들어가는 것을 보았습니다. 그녀는 안쪽에서 일꾼 <span class="character-hyunsu">류현수</span>와 무언가 은밀하게 대화를 나누고 있었습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A view from a parked car watching a woman enter a dark underground tunnel to meet a worker. Use the first attached image(강은지) as a reference for the woman, and the second attached image(류현수) for the worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_04_정해준이_아는_것_4단계
+
+### [clue_p_haejun_05]
+이름 : [개인] 정해준의 비밀 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 405
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 발견 4단계에서 정해준이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 대형 리조트 디벨로퍼가 아니라 건설회사 인턴이며 싸게 땅을 사 실적을 올리려 합니다.
+2. 박단희는 이종사촌 누나이며 그녀가 도가를 사라고 정보 주며 돈을 벌게 해주겠다고 했습니다.
+3. 은주가 땅값을 높게 불러 하루 종일 돈을 마련하려 통화하고 가격을 낮춰달라 설득했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>당신은 대형 리조트 디벨로퍼가 아니라 건설 회사의 말단 인턴일 뿐입니다. 회사에 실적을 증명하기 위해 무리해서 싼값에 땅을 사려 하고 있습니다.</li>
+    <li>사서 <span class="character-danhee">박단희</span>는 사실 당신의 이종사촌 누나입니다. 그녀가 은금도가를 사라고 정보를 흘려주었고 나중에 자신이 이익을 붙여 되사주겠다고 약속했습니다.</li>
+    <li><span class="character-eunju">강은주</span>가 부른 땅값이 너무 비싸, 이를 깎아달라 설득하며 자금을 마련하기 위해 오늘 하루 종일 전화통화에 매달려 있었습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man in a suit desperately talking on a mobile phone inside a car, looking stressed about money. Use the first attached image(정해준) as a reference for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_05_정해준의_비밀_4단계
+
+### [clue_p_haejun_06]
+이름 : [개인] 정해준이 아는 것 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 406
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 시험 5단계에서 정해준이 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 강은주 쪽지의 필체가 익숙하며 최근 어딘가에서 본 것 같습니다.
+2. 5시 15분에 다시 은주를 만나 지하 토굴에서 시음하며 매각을 이야기했습니다.
+3. 불이 꺼지고 비명이 들리자 은주가 기다리라며 확인하러 갔고 그게 살아있는 마지막 모습이었습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li><span class="character-eunju">강은주</span>가 바닥에 남긴 쪽지의 필체가 이상하게 낯이 익습니다. 최근 자료 조사 중에 분명 비슷한 글씨를 본 적이 있습니다.</li>
+    <li>오후 5시 15분경 <span class="character-eunju">은주</span>를 다시 만나, 지하 숙성 토굴 구석에서 전통주를 시음하며 도가 매각 논의를 이어나갔습니다.</li>
+    <li>술을 마시던 중 갑자기 조명이 꺼지고 토굴 반대편에서 비명이 들리자, <span class="character-eunju">은주</span>가 자리에 있으라고 하고는 확인하러 갔습니다. 그것이 그녀가 살아있는 마지막 모습이었습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Two people drinking traditional Korean liquor in a dark, moody underground cellar lit by a single bulb. Use the first attached image(정해준) as a reference for the man, and the second attached image(지하 숙성 토굴) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_06_정해준이_아는_것_5단계
+
+### [clue_p_haejun_07]
+이름 : [개인] 정해준의 비밀 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 407
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 시험 5단계에서 정해준이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 단희에게 디벨로퍼 행세 이유를 묻자 뒷산에 수십억 원치 일제강점기 금괴가 묻혀 있다고 말해주었습니다.
+2. 오후 2시 15분경 단희가 몰래 당신 차로 와서 수면제 한 병을 주며 은주 음료에 타라고 지시했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li><span class="character-danhee">박단희</span> 누나에게 왜 자신을 대형 개발업자로 위장시키는지 따지자, 도가 뒷산에 수십억 원어치의 일제강점기 군용 금괴가 묻혀 있다고 귀띔해주었습니다.</li>
+    <li>오후 2시 15분경 <span class="character-danhee">단희</span> 누나가 몰래 차로 찾아와 수면제 한 병을 주며, 만약 <span class="character-eunju">은주</span>가 매각을 고집스럽게 거부하면 그녀의 음료에 몰래 타라고 지시했습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman secretly handing a small bottle of sleeping pills to a man in a suit through a car window. Use the first attached image(강은주) as a reference for the woman, and the second attached image(정해준) for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_07_정해준의_비밀_5단계
+
+### [clue_p_haejun_08]
+이름 : [개인] 정해준이 아는 것 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 408
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 마지막 6단계에서 정해준이 적극적으로 밝혀야 할 최종 획득 정보.
+내용 :
+1. 오늘 일찍 은주인 줄 알고 강은지에게 질문했는데 은지가 자신은 은주가 아니라고 했습니다. 둘의 뒷모습이 비슷합니다.
+2. 강은주가 남긴 쪽지 필체가 은금이 쓴 편지 글씨와 일치함을 알아챘습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>오늘 일찍 뒷모습만 보고 <span class="character-eunju">강은주</span>인 줄 착각해 <span class="character-eunji">강은지</span>에게 말을 걸었습니다. 두 자매는 체형과 뒷모습이 놀랍도록 비슷합니다.</li>
+    <li><span class="character-eunju">강은주</span>의 시신 옆에서 발견된 쪽지의 필체는 놀랍게도 100년 전 개척자 은금이 쓴 편지의 글씨체와 완벽하게 일치합니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A close up comparing a freshly handwritten note with a 100-year-old faded letter, showing identical handwriting. Use the first attached image(서재) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_08_정해준이_아는_것_6단계
+
+### [clue_p_haejun_09]
+이름 : [개인] 정해준의 비밀 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 409
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 마지막 6단계에서 정해준이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 더 이상 감출 비밀이 없습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>더 이상 감출 비밀이 없습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man in a sharp suit looking relieved in a dark room, as if a burden has been lifted. Use the first attached image(정해준) as a reference for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_haejun_09_정해준의_비밀_6단계
+
+---
+
+## 개인 전용 단서 (Personal Clues - 최도훈 전용)
+※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_dohun_01]
+이름 : [개인] 최도훈의 타임라인 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 501
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 조사 3단계에서 최도훈이 참고해야 할 하루 행적 알리바이 타임라인 정보.
+내용 :
+오전 8:00 : 캠핑카에서 기상. 은지는 자고 있음
+오전 8:30 ~ 9:00 : 은금리 마을로 나가 은은하게 빛나는 금은방 방문
+오전 9:00 ~ 9:15 : 금은방에서 비녀와 금 촛대 구매
+오전 9:15 ~ 11:30 : 마을 구경 (카페, 식당 등)
+오전 11:30 ~ 정오 : 은금도가 본채에 돌아와 강은주에게 순금 비녀 전달
+정오 ~ 오후 1:30 : 캠핑카에서 휴식
+오후 1:30 ~ 2:30 : 본채에서 낮잠
+오후 2:30 ~ 3:30 : 강은지와 함께 캠핑카에서 휴식
+오후 3:30 ~ 6:00 : 피곤하여 낮잠
+오후 6:00 ~ 7:00 : 잠에서 깨어 본채로 감. 아무도 없어 서재 구경
+오후 7:00 ~ 현재 : 은금도가 본채에 머무름
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 행적 (타임라인)</div>
+  <table class="timeline-table">
+    <thead>
+      <tr><th>시간</th><th>장소 및 행동</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>오전 8:00</td><td>캠핑카에서 기상. 은지는 수면 중</td></tr>
+      <tr><td>오전 8:30 ~ 9:00</td><td>마을로 나가 '은은하게 빛나는 금은방' 방문</td></tr>
+      <tr><td>오전 9:00 ~ 9:15</td><td>금은방에서 비녀와 금 촛대 2개 구매(교환)</td></tr>
+      <tr><td>오전 9:15 ~ 11:30</td><td>마을 구경 (카페, 식당 등)</td></tr>
+      <tr><td>오전 11:30 ~ 정오</td><td>본채로 돌아와 강은주에게 순금 비녀 전달</td></tr>
+      <tr><td>정오 ~ 오후 1:30</td><td>캠핑카에서 휴식</td></tr>
+      <tr><td>오후 1:30 ~ 2:30</td><td>본채에서 낮잠</td></tr>
+      <tr><td>오후 2:30 ~ 3:30</td><td>강은지와 함께 캠핑카에서 휴식</td></tr>
+      <tr><td>오후 3:30 ~ 6:00</td><td>피곤하여 다시 낮잠</td></tr>
+      <tr><td>오후 6:00 ~ 7:00</td><td>본채로 갔으나 아무도 없어 서재 구경</td></tr>
+      <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채에 머무름</td></tr>
+    </tbody>
+  </table>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A luxury watch resting on a table inside a messy camper van. Use the first attached image(캠핑카) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_01_최도훈의_타임라인_3단계
+
+### [clue_p_dohun_02]
+이름 : [개인] 최도훈이 아는 것 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 502
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 조사 3단계에서 최도훈이 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 오전 9시에 금은방에서 순금 비녀와 촛대 2개를 샀습니다. 그 중 하나가 안방 선반에 있는 촛대와 유사합니다.
+2. 11시 30분에 은주에게 비녀를 주었으나 그녀는 실망하고 불편해했습니다.
+3. 캠핑카 안에서 오후 1시쯤 정해준 차 근처로 다가가는 박단희를 봤습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>오전 9시경 마을 금은방에서 순금 비녀 하나와 금으로 도금된 촛대 2개를 샀습니다. 지금 <span class="character-eunju">은주</span>의 안방 선반에 있는 낡은 촛대와 매우 비슷하게 생겼습니다.</li>
+    <li>오전 11시 30분경 <span class="character-eunju">강은주</span>에게 환심을 사기 위해 순금 비녀를 선물로 주었지만, 그녀는 크게 기뻐하기는커녕 뭔가 실망하고 불편해하는 기색이었습니다.</li>
+    <li>오후 1시쯤 캠핑카 안에서 밖을 내다보다가, <span class="character-danhee">박단희</span>가 조심스럽게 <span class="character-haejun">정해준</span>의 차 근처로 다가가는 것을 보았습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A middle-aged man offering a shiny golden hairpin to a woman who looks visibly uncomfortable and disappointed. Use the first attached image(최도훈) as a reference for the man, and the second attached image(강은주) for the woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_02_최도훈이_아는_것_3단계
+
+### [clue_p_dohun_03]
+이름 : [개인] 최도훈의 비밀 (3단계)
+유형 : 정보
+단계 : 조사 단계
+소모AP : 0
+정렬순서 : 503
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 조사 3단계에서 최도훈이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 사기와 횡령으로 경찰 수배 중이며 도피를 위해 이곳에 왔습니다.
+2. 은지에게는 모든 게 잘 되고 있다고 거짓말했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>당신은 대규모 사기 및 회사 공금 횡령 혐의로 경찰의 수배를 받고 있습니다. 아내 <span class="character-eunji">은지</span>에게 휴가를 가자고 속이고 사실상 도피를 위해 이곳 외진 은금도가에 온 것입니다.</li>
+    <li><span class="character-eunji">은지</span>에게는 사업이 아주 잘 되고 있다고 뻔뻔하게 거짓말을 해둔 상태입니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A middle-aged man hiding in the shadows of a camper van, looking nervously at a police wanted poster. Use the first attached image(최도훈) as a reference for the man. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_03_최도훈의_비밀_3단계
+
+### [clue_p_dohun_04]
+이름 : [개인] 최도훈이 아는 것 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 504
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 발견 4단계에서 최도훈이 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 오후 1시 30분, 강은주, 박단희, 강은지, 백서연이 점심을 함께했습니다.
+2. 류현수와 정해준은 점심 식사에 참석하지 않았습니다.
+3. 캠핑카 주변을 어슬렁거리던 류현수가 대마초 냄새를 풍겼습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>오후 1시 30분경 본채에서 <span class="character-eunju">강은주</span>, <span class="character-danhee">박단희</span>, <span class="character-eunji">강은지</span>, <span class="character-seoyeon">백서연</span> 네 여자가 점심을 함께하는 것을 보았습니다.</li>
+    <li>일꾼 <span class="character-hyunsu">류현수</span>와 땅 매입자 <span class="character-haejun">정해준</span>은 그 점심 식사 자리에 없었습니다.</li>
+    <li>오후에 캠핑카 주변을 어슬렁거리던 <span class="character-hyunsu">류현수</span>에게서 특유의 대마초 냄새가 났습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Four women having a tense lunch together in a traditional Korean dining room, viewed from a distance by a man. Use the first attached image(최도훈) as a reference for the man observing, and the second attached image(은금도가 본채) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_04_최도훈이_아는_것_4단계
+
+### [clue_p_dohun_05]
+이름 : [개인] 최도훈의 비밀 (4단계)
+유형 : 정보
+단계 : 발견 단계
+소모AP : 0
+정렬순서 : 505
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 발견 4단계에서 최도훈이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 오후 1시쯤 변호사에게 전화가 와 서재에서 통화하며 징역형을 피할 수 없다는 절망적 소식을 들었습니다.
+2. 금은방에서 산 물건은 사실 며칠 전 훔친 금괴를 현금화하기 위한 교환이었습니다.
+3. 은주에게 준 비녀에 아부성 문구를 각인해 달라고 주문했습니다. (어떤 문구인지는 기억 안 남)
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>오후 1시경 담당 변호사에게 다급한 전화가 왔고, 본채 서재에서 1시간 반 동안 통화했습니다. 변호사는 징역형을 피할 수 없다는 절망적인 소식을 전했습니다.</li>
+    <li>아침에 금은방에서 비녀와 촛대를 현금으로 산 게 아닙니다. 사실 며칠 전 당신이 훔친 작은 금괴 하나를 건네주고, 그것을 현금화할 수 없어 대신 금붙이 물건들로 교환한 것입니다.</li>
+    <li><span class="character-eunju">은주</span>에게 환심을 사기 위해 금은방 주인에게 비녀에 뭔가 아부성 짙은 사랑 문구를 아무거나 각인해 달라고 대충 주문했습니다. 무슨 문구였는지는 기억나지 않습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A middle-aged man in a study gripping a phone tightly in despair after hearing a prison sentence. Use the first attached image(최도훈) as a reference for the man, and the second attached image(서재) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_05_최도훈의_비밀_4단계
+
+### [clue_p_dohun_06]
+이름 : [개인] 최도훈이 아는 것 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 506
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 시험 5단계에서 최도훈이 적극적으로 밝혀야 할 아는 정보.
+내용 :
+1. 3시 30분에 캠핑카로 돌아왔을 때 은지는 없었고 당신은 다시 잠들었습니다.
+2. 6시경 깨어나 본채로 가보니 아무도 없어 서재에서 시간을 보냈습니다.
+3. 6시 45분경 웅장한 소리(펑)와 함께 정전이 되었고 밖을 보니 연못가에 누군가의 형체가 달빛에 비쳤습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li>오후 3시 30분에 피곤해 캠핑카로 돌아왔을 때 아내 <span class="character-eunji">은지</span>는 없었고, 당신은 그대로 다시 곯아떨어졌습니다.</li>
+    <li>오후 6시경 잠에서 깨어 본채로 갔지만 1층에는 아무도 없었고, 서재에서 혼자 시간을 보냈습니다.</li>
+    <li>오후 6시 45분경, 웅장한 폭발음 같은 소리(펑)와 함께 본채가 정전되었습니다. 놀라 창밖을 내다보니 연못가 쪽에 누군가의 형체가 어렴풋이 달빛에 비치는 것을 보았습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A view from a window showing a sudden blackout in a traditional house, with a faint figure near a pond illuminated by moonlight. Use the first attached image(은금도가 본채) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_06_최도훈이_아는_것_5단계
+
+### [clue_p_dohun_07]
+이름 : [개인] 최도훈의 비밀 (5단계)
+유형 : 정보
+단계 : 시험 단계
+소모AP : 0
+정렬순서 : 507
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 시험 5단계에서 최도훈이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 사실 5시 30분경 잠시 깼을 때 연못가에서 은지가 류현수와 강렬하게 키스하는 걸 봤고 배신감에 떨며 캠핑카로 돌아와 모른 척했습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>사실 오후 5시 30분경 잠시 깼을 때 창밖 연못가에서 아내 <span class="character-eunji">은지</span>가 일꾼 <span class="character-hyunsu">류현수</span>와 강렬하게 키스하는 것을 목격했습니다. 엄청난 배신감에 떨었지만, 분노를 억누르고 침대에 누워 계속 자는 척 모른 체했습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A middle-aged man peeking from a camper van window, witnessing his wife kissing another man passionately by a pond. Use the first attached image(최도훈) as a reference for the observing man, and the second attached image(은금도가 본채) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_07_최도훈의_비밀_5단계
+
+### [clue_p_dohun_08]
+이름 : [개인] 최도훈이 아는 것 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 508
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 마지막 6단계에서 최도훈이 적극적으로 밝혀야 할 최종 획득 정보.
+내용 :
+1. 류현수의 낡은 헛간 바닥에 숨겨진 상자에서 당신이 며칠 전 훔친 것과 동일한 일련번호의 금괴를 보았습니다.
+2. 비녀에 새긴 문구는 “은주, 하나뿐인 그대”입니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신이 아는 것</div>
+  <ul>
+    <li><span class="character-hyunsu">류현수</span>가 쉬는 낡은 헛간에 들어갔다가 바닥 널빤지 아래 숨겨진 낡은 상자를 우연히 보았습니다. 그 안에는 당신이 며칠 전 훔쳤던 것과 동일한 각인과 일련번호 패턴을 가진 일제강점기 군용 금괴 하나가 들어있었습니다.</li>
+    <li>아침에 금은방 주인에게 비녀에 새겨 달라고 대충 부탁했던 그 아부성 문구는 다름 아닌 <strong>"은주, 하나뿐인 그대"</strong>였습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A hidden wooden box buried under dirt floorboards in a rusty shed, containing a single engraved gold bar. Use the first attached image(낡은 헛간) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_08_최도훈이_아는_것_6단계
+
+### [clue_p_dohun_09]
+이름 : [개인] 최도훈의 비밀 (6단계)
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 509
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 마지막 6단계에서 최도훈이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+내용 :
+1. 당신의 사업 파트너가 남기태였습니다.
+2. 기태가 죽은 후 그가 숨겨둔 금괴를 훔쳐 달아나려 했습니다.
+3. 더 이상 감출 비밀이 없습니다.
+HTML :
+<div class="story-content">
+  <div class="section-title">당신의 비밀</div>
+  <ul>
+    <li>당신의 사기 사업 파트너가 다름 아닌 6개월 전 죽은 <span class="character-kitae">남기태</span>였습니다.</li>
+    <li>그가 죽은 후, 당신은 그가 도가 어딘가에 숨겨두었다고 말했던 대량의 일제 금괴를 훔쳐 해외로 달아나기 위해 이곳에 온 것입니다.</li>
+    <li>더 이상 감출 비밀이 없습니다.</li>
+  </ul>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A shadowy figure of a middle-aged man packing a bag with stolen gold bars in the dead of night. Use the first attached image(최도훈) as a reference for the man. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+장소 : 없음
+파일명 : p_dohun_09_최도훈의_비밀_6단계
