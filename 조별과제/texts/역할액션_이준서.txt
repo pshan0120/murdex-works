@@ -27,3 +27,86 @@
     <span>&lt;이과대학 비품창고 내부#1&gt; 단서 내용이 변경됩니다.</span>
   </div>
 </div>
+---
+
+■ 액션명: 고찰: 한세린에 대하여
+■ 소모 AP: 1
+■ 액션 유형: OTHER
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    <span class="character-han">한세린</span>의 평소 행실과 나를 대하던 태도를 떠올려 봅니다.
+  </p>
+</div>
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    <span class="character-han">한세린</span>에 대한 정보를 얻게 됩니다.
+  </p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <div class="game-effect-notice">
+    <p>
+      학기 초에 조를 짤 때, 학점 관리를 위해 일부러 F를 받고 재수강한 적이 있다고 말하자 <span class="character-han">한세린</span>이 유독 유심히 귀 기울여 듣던 기억이 떠오릅니다.
+    </p>
+  </div>
+</div>
+
+---
+
+■ 액션명: 고찰: 최도윤에 대하여
+■ 소모 AP: 1
+■ 액션 유형: OTHER
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    <span class="character-choi">최도윤</span>의 조별과제 진행 시 태도를 떠올려 봅니다.
+  </p>
+</div>
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    <span class="character-choi">최도윤</span>에 대한 정보를 얻게 됩니다.
+  </p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <div class="game-effect-notice">
+    <p>
+      수업이 조별과제로 변경된다는 교수님의 공지가 올라왔을 때, 평소 차분하던 <span class="character-choi">최도윤</span>이 들고 있던 펜을 떨어뜨리며 크게 동요했던 기억이 떠오릅니다.
+    </p>
+  </div>
+</div>
+
+---
+
+■ 액션명: 고찰: 황기순에 대하여
+■ 소모 AP: 1
+■ 액션 유형: OTHER
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    <span class="character-hwang">황기순</span>이 최종 취합하여 전송한 발표자료를 떠올려 봅니다.
+  </p>
+</div>
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    <span class="character-hwang">황기순</span>에 대한 정보를 얻게 됩니다.
+  </p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <div class="game-effect-notice">
+    <p>
+      <span class="character-hwang">황기순</span>이 정리해서 보낸 발표자료를 점검할 당시, 평소 꼼꼼한 그의 성격답지 않게 일부 슬라이드의 줄바꿈과 단어 배치가 어색하게 어긋나 있어 위화감을 느꼈던 기억이 떠오릅니다.
+    </p>
+  </div>
+</div>
