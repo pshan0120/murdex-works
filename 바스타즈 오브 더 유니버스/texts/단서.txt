@@ -230,7 +230,7 @@ HTML :
 
 [clue_08]
 이름 : 왕좌의 방#2
-유형 : 증언
+유형 : 물증
 단계 : 조사 1단계
 소모AP : 3
 정렬순서 : 80
@@ -243,18 +243,20 @@ HTML :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 스컬크러셔
-의도 : 골든 킹이 무언가 외치려 할 때 스컬크러셔가 급하게 입막음했음. 본인의 정체를 숨기고 싶어했다는 단서
+의도 : 왕좌의 방 구석에서 목이 잘린 왕실 서기의 시신이 발견됨. 전투와 무관한 위치에서 발견된 점이 의심스러우며, 스컬크러셔가 목격자를 입막음했다는 단서
 내용 :
-겁에 질린 시종이 벌벌 떨며 전하는 증언이다. &quot;골든 킹께서 패색이 짙어졌을 때, 눈을 크게 뜨고 &apos;네놈은... 설마...!&apos;라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, 스컬크러셔 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.&quot;
+왕좌의 방 가장자리 기둥 뒤, 목이 잘린 시신이 쓰러져 있다. 격전이 벌어진 홀 중앙과는 거리가 먼 구석진 위치다. 어깨에서 목까지 단번에 베여 나간 흔적이 뚜렷하며, 손에는 깃털 펜이 쥐어져 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">겁에 질린 시종이 벌벌 떨며 전하는 증언이다.</div>
+  <div class="script-direction">왕좌의 방 구석에서 발견된 시신이다.</div>
   <div class="divider-gold"></div>
-  <div class="quote-box">
-    <span class="character-goldenking">골든 킹</span>께서 패색이 짙어졌을 때, 눈을 크게 뜨고 <span class="emphasis">&apos;네놈은... 설마...!&apos;</span>라며 무언가 중대한 사실을 외치려 하셨지요. 하지만 그 말을 채 마치기도 전에, <span class="character-skullcrusher">스컬크러셔</span> 님이 마치 무언가에 쫓기듯 황급히 그분의 목을 베어버리셨습니다.
+  <div class="document-page">
+    <div class="document-body">
+      왕좌의 방 가장자리 기둥 뒤, 목이 잘린 시신이 쓰러져 있다. 격전이 벌어진 홀 중앙과는 거리가 먼 구석진 위치다. 어깨에서 목까지 단번에 베여 나간 흔적이 뚜렷하며, 손에는 깃털 펜이 쥐어져 있다.
+    </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of a textured marble pillar surface. In the deep shadows to the side, a faint silhouette of a person&apos;s eye or hand is barely visible, as if peeking. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dark, cold stone medieval throne room with a vast background, focusing away from the throne. Far off to the side, in the deep shadows behind a massive stone pillar in a dark corner, a robed body is slumped quietly on the stone floor, partially hidden by the pillar. The scene is shot from a wide, distant angle, keeping the body in silhouette to avoid graphic details. A feather quill pen lies on the floor nearby in a faint beam of light. Very dim torchlight casts long shadows. Dark fantasy 1980s oil painting style, heavy brushstrokes, moody and mysterious atmosphere. No graphic violence, no blood, the body is mostly in shadow.
 장소 : 01_왕좌의_방
 파일명 : 08_왕좌의_방_2
 
