@@ -1376,13 +1376,13 @@ HTML :
 관련 : 고어후프
 의도 : 고어후프의 광폭화에 대한 단서.
 내용 :
-성문 돌격 당시 고어후프의 뒤를 따르던 돌격대원의 이야기다. "대장의 투구 틈새를 우연히 보게 되었습니다. 분명 평상시에는 어두운 빛이던 대장님의 눈이, 그때는 마치 피를 담아놓은 듯 짙은 붉은색으로 일렁이고 있었죠. 그 서슬 퍼런 안광과 마주친 순간 압박감을 느껴 저도 모르게 길을 비켜섰습니다."
+성문 돌격 당시 고어후프의 뒤를 따르던 돌격대원의 이야기다. "선봉장님의 투구 틈새를 우연히 보게 되었습니다. 분명 평상시에는 어두운 빛이었는데, 그때는 마치 피를 담아놓은 듯 짙은 붉은색으로 이글거리고 있었죠. 그 서슬 퍼런 안광과 마주친 순간 압박감을 느껴 저도 모르게 길을 비켜섰습니다."
 HTML :
 <div class="story-content">
   <div class="script-direction">성문 돌격 당시 <span class="character-gorehoof">고어후프</span>의 뒤를 따르던 돌격대원의 이야기를 들어보았다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>대장의 투구 틈새를 우연히 보게 되었습니다. 분명 평상시에는 어두운 빛이던 대장님의 눈이, 그때는 마치 피를 담아놓은 듯 <span class="emphasis">짙은 붉은색</span>으로 일렁이고 있었죠. 그 서슬 퍼런 안광과 마주친 순간 압박감을 느껴 저도 모르게 길을 비켜섰습니다.</div>
+    <div>선봉장님의 투구 틈새를 우연히 보게 되었습니다. 분명 평상시에는 어두운 빛이었는데, 그때는 마치 피를 담아놓은 듯 <span class="emphasis">짙은 붉은색</span>으로 이글거리고 있었죠. 그 서슬 퍼런 안광과 마주친 순간 압박감을 느껴 저도 모르게 길을 비켜섰습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the massive, imposing silhouette of a heavily armored warrior seen from behind, standing in a large, dark, and empty dining hall. In the blurred background, the faint silhouettes of long, heavy wooden tables and some overturned chairs are barely visible, establishing the dining hall setting. He holds a colossal, notched battle axe over his broad shoulder, the harsh red-tinted light from an unseen source catching the lethal, jagged edge of the blade. The red light spills across his back, highlighting the metal spikes of his armor and the heavy, worn texture of the axe head. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (dark iron, weathered wood, cold stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the ominous presence of the warrior and his massive weapon. No face visible, just the silhouette in the darkness.
@@ -1951,7 +1951,7 @@ HTML :
   <div class="script-direction">포박된 채 성벽 아래 차갑게 식어버린 수비대장의 시신을 바라보며 부르르 떨고 있는 솔라이트 수비대원 포로의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>그... 그건 정말 순식간이었습니다. 대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 <span class="emphasis">단검</span>을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 대장님의 <span class="emphasis">등을 발로 강하게 걷어차</span> 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다.</div>
+    <div>그... 그건 정말 순식간이었습니다. 수비대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 <span class="emphasis">단검</span>을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 <span class="emphasis">등을 발로 강하게 걷어차</span> 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured bastion guard (prisoner) seen from behind, standing on the edge of a dark, cold stone rampart at night. Thick, dark fog fills the background behind the guard&apos;s silhouette. The guard wears tattered leather and rusted iron armor pieces, with a simple worn cloak hanging from his shoulders. Faint, cold moonlight or warm light from a distant torch highlights the rough texture of the weathered stone battlements and the metal fragments on his back. The atmosphere is quiet, tense, and heavy. Extremely shallow depth of field, focused on the steady, defeated silhouette of the guard as he provides his testimony. No face visible, just the back of the figure&apos;s head and shoulders. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted steel, холодный камень, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
@@ -2006,13 +2006,13 @@ HTML :
 관련 : 슬리더
 의도 : 슬리더가 암흑의 단검을 늘 가지고 다녔다는 증언
 내용 :
-슬리더를 수행하던 암살대원의 실무적인 보고 내용이다. "대장님은 항상 품속에 새카만 단검 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 빛을 전혀 반사하지 않는 특이한 재질인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다."
+슬리더를 수행하던 암살대원의 실무적인 보고 내용이다. "슬리더님은 항상 품속에 새카만 단검 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 빛을 전혀 반사하지 않는 특이한 재질인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="character-slither">슬리더</span>를 수행하던 암살대원의 실무적인 보고 내용이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>대장님은 항상 품속에 <span class="emphasis">단검</span> 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 <span class="emphasis">빛을 전혀 반사하지 않는 특이한 재질</span>인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다.</div>
+    <div><span class="character-slither">슬리더</span>님은 항상 품속에 <span class="emphasis">단검</span> 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 <span class="emphasis">빛을 전혀 반사하지 않는 특이한 재질</span>인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an elite assassin member (scout) seen from behind, standing in the long, dimly lit central corridor of the fortress (as seen in 12_중앙_복도.png). The assassin is clad in dark, non-reflective leather armor and a deep hood, his silhouette blending into the heavy shadows cast by the high arcs and stone pillars of the corridor. He is captured in a still, alert posture as if delivering a confidential report. In the background, a single flickering wall torch casts a narrow, dancing pool of warm light, highlighting the rough texture of the ancient stone floor and the cold, dark atmosphere of the hallway. Extremely shallow depth of field, focused on the steady, mysterious presence of the scout. No face visible, just the dark silhouette in the shadows. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
