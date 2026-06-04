@@ -139,7 +139,7 @@ HTML :
 파일명 : 04_고어후프_협박_쪽지
 
 [clue_05]
-이름 : 협박 쪽지 - 발트라
+이름 : 협박 쪽지 - 엘란트라
 유형 : 물증
 단계 : 시작 단계
 소모AP : 0
@@ -152,24 +152,24 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
-관련 : 발트라
+관련 : 엘란트라
 의도 : 10년 전쟁 전반, 솔라이트의 스파이로서 바스타즈의 정보를 유출했던 기록과 잠입 지령서에 대한 협박
 내용 :
 고풍스러운 필체로 쓰여진 쪽지를 읽어 보았다.
-'발트라, 용병대장 아래 숨겨진 그대의 정체... 솔라이트의 스파이로서 정보를 유출하던 행적은 참으로 놀라웠네. 지난 전쟁 중에 그대가 작성했던 은밀한 보고서와 지령서들은 지금 내가 아주 소중히 보관하고 있지. 이 기록들이 동료들 사이에 알려진다면 그대의 명예가 어찌 될지 상상해 보았나. 과거를 묻어두고 싶다면 이제부터는 나만을 위한 단검이 되어주게나.'
+'엘란트라, 용병대장 아래 숨겨진 그대의 정체... 솔라이트의 스파이로서 정보를 유출하던 행적은 참으로 놀라웠네. 지난 전쟁 중에 그대가 작성했던 은밀한 보고서와 지령서들은 지금 내가 아주 소중히 보관하고 있지. 이 기록들이 동료들 사이에 알려진다면 그대의 명예가 어찌 될지 상상해 보았나. 과거를 묻어두고 싶다면 이제부터는 나만을 위한 단검이 되어주게나.'
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">고풍스러운 필체</span>로 쓰여진 쪽지를 읽어 보았다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      <span class="character-valtra">발트라</span>, 용병대장 아래 숨겨진 그대의 정체... <span class="character-solite">솔라이트</span>의 스파이로서 정보를 유출하던 행적은 참으로 놀라웠네. 지난 전쟁 중에 그대가 작성했던 그 <span class="emphasis">은밀한 보고서와 지령서</span>들은 지금 내가 아주 소중히 보관하고 있지. 이 기록들이 동료들 사이에 알려진다면 그대의 <span class="emphasis">빛나는 명예</span>가 어찌 될지 상상해 보았나. 과거를 묻어두고 싶다면 이제부터는 나만을 위한 단검이 되어주게나.
+      <span class="character-elantra">엘란트라</span>, 용병대장 아래 숨겨진 그대의 정체... <span class="character-solite">솔라이트</span>의 스파이로서 정보를 유출하던 행적은 참으로 놀라웠네. 지난 전쟁 중에 그대가 작성했던 그 <span class="emphasis">은밀한 보고서와 지령서</span>들은 지금 내가 아주 소중히 보관하고 있지. 이 기록들이 동료들 사이에 알려진다면 그대의 <span class="emphasis">빛나는 명예</span>가 어찌 될지 상상해 보았나. 과거를 묻어두고 싶다면 이제부터는 나만을 위한 단검이 되어주게나.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text is long and dense, filling the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 없음
-파일명 : 05_발트라_협박_쪽지
+파일명 : 05_엘란트라_협박_쪽지
 
 [clue_06]
 이름 : 마력석
@@ -309,12 +309,12 @@ HTML :
 관련 : 스컬크러셔
 의도 : 멤버들이 한자리에 모이지 못하게 각자 다른 장소로 배치했음을 암시.
 내용 :
-바닥에 떨어져 있던 종이를 주워 읽어 보았다. 거친 필체로 멤버들의 이름과 위치가 적혀 있다. "엘드리치-서재, 말리스-연구실, 발로그-무기고, 고어후프-연회장, 슬리더-문서고, 발트라-지하창고..."
+바닥에 떨어져 있던 종이를 주워 읽어 보았다. 거친 필체로 멤버들의 이름과 위치가 적혀 있다. "엘드리치-서재, 말리스-연구실, 발로그-무기고, 고어후프-연회장, 슬리더-문서고, 엘란트라-지하창고..."
 HTML :
 <div class="story-content">
   <div class="script-direction">바닥에 떨어져 있던 종이를 주워 읽어 보았다. <span class="emphasis">거친 필체</span>로 멤버들의 이름과 위치가 적혀 있다.</div>
   <div class="divider-gold"></div>
-  <div class="document-page">엘드리치-서재, 말리스-연구실, 발로그-무기고, 고어후프-연회장, 슬리더-문서고, 발트라-지하창고...</div>
+  <div class="document-page">엘드리치-서재, 말리스-연구실, 발로그-무기고, 고어후프-연회장, 슬리더-문서고, 엘란트라-지하창고...</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, torn scrap of paper lying on a dark, textured surface. It features sharp, dark ink-written unreadable characters in a modern Nordic script (Norwegian or Finnish). No runes. Shallow depth of field, background is extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 01_왕좌의_방
@@ -483,17 +483,17 @@ HTML :
 교환 가능 여부 : Y
 획득(소유) 가능 여부 : N
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 발트라
+획득 조건 내용 : 엘란트라
 시작 표시 상태 : 숨김
 단계 시작시 자동 획득 : N
-관련 : 발트라
-의도 : 발트라가 해독한 살인 궤적 및 낙하 각도 방정식.
+관련 : 엘란트라
+의도 : 엘란트라가 해독한 살인 궤적 및 낙하 각도 방정식.
 내용 :
-찢겨진 기록지 조각이다. 한쪽 면의 계산식 아래에 발트라가 판독하여 적어놓은 주석이 적혀 있다.
+찢겨진 기록지 조각이다. 한쪽 면의 계산식 아래에 엘란트라가 판독하여 적어놓은 주석이 적혀 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">
-    찢겨진 기록지 조각이다. 한쪽 면의 계산식 아래에 <span class="character-valtra">발트라</span>가 판독하여 적어놓은 주석이 적혀 있다.
+    찢겨진 기록지 조각이다. 한쪽 면의 계산식 아래에 <span class="character-elantra">엘란트라</span>가 판독하여 적어놓은 주석이 적혀 있다.
   </div>
   <div class="divider-gold"></div>
   <div class="document-page">
@@ -756,8 +756,8 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 스컬크러셔, 고어후프, 슬리더, 발트라
-의도 : 고어후프와 슬리더의 복수심의 근원이자, 류크가 솔라이트에 의구심을 품게 된 계기. 발트라가 솔라이트의 살인병기로 키워진 계기.
+관련 : 스컬크러셔, 고어후프, 슬리더, 엘란트라
+의도 : 고어후프와 슬리더의 복수심의 근원이자, 류크가 솔라이트에 의구심을 품게 된 계기. 엘란트라가 솔라이트의 살인병기로 키워진 계기.
 내용 :
 <국왕 령 제202호: 대정화 작전 사후 보고서>
 우주의 신성한 질서를 유지하기 위해 단행된 빛의 성전(작전명: 대정화)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, 기사 류크는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 일부 생존자들이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 완전 정복을 선언함.
@@ -822,8 +822,8 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발트라
-의도 : 과거 발트라의 행적 정보 제공.
+관련 : 엘란트라
+의도 : 과거 엘란트라의 행적 정보 제공.
 내용 :
 <화이트클로 기록>
 ■ 임무: 26호 '바스타즈' 수뇌부 잠입 및 작전 기밀 탈취
@@ -1093,8 +1093,8 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발트라
-의도 : 발트라가 솔라이트의 스파이였다는 구체적인 증거.
+관련 : 엘란트라
+의도 : 엘란트라가 솔라이트의 스파이였다는 구체적인 증거.
 내용 :
 기동 분대 1차 거점 보고서
 수신: 솔라이트 작전 지휘부
@@ -1129,10 +1129,10 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발트라
-의도 : 1차 조사에서 발트라의 동선에 대한 교차 검증.
+관련 : 엘란트라
+의도 : 1차 조사에서 엘란트라의 동선에 대한 교차 검증.
 내용 :
-왕좌의 방 복도를 지키던 근위대원의 증언이다. &quot;그 무렵 발트라 님이 오셔서 스컬크러셔 님이 어디 계신지 물어보셨습니다. 급한 기색으로 대장님께 꼭 보고해야 할 일이 있다며 주변을 살피시더군요. 제가 모른다고 답하니, 초조한 표정으로 &apos;이걸 어떻게 한다...&apos; 하고 혼잣말을 읊조리며 다른 곳으로 가버리셨습니다.&quot;
+왕좌의 방 복도를 지키던 근위대원의 증언이다. &quot;그 무렵 엘란트라 님이 오셔서 스컬크러셔 님이 어디 계신지 물어보셨습니다. 급한 기색으로 대장님께 꼭 보고해야 할 일이 있다며 주변을 살피시더군요. 제가 모른다고 답하니, 초조한 표정으로 &apos;이걸 어떻게 한다...&apos; 하고 혼잣말을 읊조리며 다른 곳으로 가버리셨습니다.&quot;
 HTML :
 <div class="story-content">
   <div class="script-direction">
@@ -1140,7 +1140,7 @@ HTML :
   </div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>그 무렵 <span class="character-valtra">발트라</span> 님이 오셔서 <span class="character-skullcrusher">스컬크러셔</span> 님이 어디 계신지 물어보셨습니다. 급한 기색으로 대장님께 꼭 보고해야 할 일이 있다며 주변을 살피시더군요. 제가 모른다고 답하니, 초조한 표정으로 <span class="emphasis">&apos;이걸 어떻게 한다...&apos;</span> 하고 혼잣말을 읊조리며 다른 곳으로 가버리셨습니다.</div>
+    <div>그 무렵 <span class="character-elantra">엘란트라</span> 님이 오셔서 <span class="character-skullcrusher">스컬크러셔</span> 님이 어디 계신지 물어보셨습니다. 급한 기색으로 대장님께 꼭 보고해야 할 일이 있다며 주변을 살피시더군요. 제가 모른다고 답하니, 초조한 표정으로 <span class="emphasis">&apos;이걸 어떻게 한다...&apos;</span> 하고 혼잣말을 읊조리며 다른 곳으로 가버리셨습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic focus on a sharp shadow of a guard&apos;s silhouette cast against a rough, textured stone wall. Extremely shallow depth of field, background is dark and indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -1436,8 +1436,8 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발트라
-의도 : 발트라 숙청 작전 실패에 관한 정보 제공.
+관련 : 엘란트라
+의도 : 엘란트라 숙청 작전 실패에 관한 정보 제공.
 내용 :
 사후 보고 - 26호 폐기에 대한 건
 상태: 작전 실패
@@ -1566,16 +1566,16 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발트라
-의도 : 발트라의 알리바이에 대한 의구심 생성.
+관련 : 엘란트라
+의도 : 엘란트라의 알리바이에 대한 의구심 생성.
 내용 :
-지하창고 탐색 임무를 수행하던 대원의 증언이다. "16시 10분경이었습니다. 대장님의 지시로 함께 창고 입구 부근을 살피던 중이었는데, 어느 순간 발트라 님이 보이지 않더군요. 한 30~40분 정도 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다."
+지하창고 탐색 임무를 수행하던 대원의 증언이다. "16시 10분경이었습니다. 대장님의 지시로 함께 창고 입구 부근을 살피던 중이었는데, 어느 순간 엘란트라 님이 보이지 않더군요. 한 30~40분 정도 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다."
 HTML :
 <div class="story-content">
   <div class="script-direction">지하창고 탐색 임무를 수행하던 대원의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div><span class="emphasis">16시 10분</span>경이었습니다. 대장님의 지시로 함께 창고 입구 부근을 살피던 중이었는데, 어느 순간 <span class="character-valtra">발트라</span> 님이 보이지 않더군요. <span class="emphasis">한 30~40분 정도</span> 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다.</div>
+    <div><span class="emphasis">16시 10분</span>경이었습니다. 대장님의 지시로 함께 창고 입구 부근을 살피던 중이었는데, 어느 순간 <span class="character-elantra">엘란트라</span> 님이 보이지 않더군요. <span class="emphasis">한 30~40분 정도</span> 지나서 다시 나타나셨는데, 그때 안색이 그리 좋아 보이진 않았습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic shot showing the dark, unidentifiable silhouette of a mercenary warrior seen from behind, standing in a cold and damp stone hallway of the underground warehouse. The mercenary wears a tattered cloak and primitive leather and iron armor. Flickering torchlight from an unseen source on the wall casts soft, natural shadows across the wet stone tiles and the rough stone wall. The atmosphere is quiet and tense. Extremely shallow depth of field, background is dark and indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stones, worn leather, metal highlights), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the steady, silent presence of the mercenary in the darkness. No face visible, just the silhouette.
@@ -1625,12 +1625,12 @@ HTML :
 관련 : 슬리더
 의도 : 외부로부터 잠입할 수 있는 경로. 슬리더가 다녀갔다는 단서.
 내용 :
-지하창고 구석 벽면 아래로 연결된 비좁은 배수로다. 주변에는 약간의 물기가 남아 있다.
+지하창고 구석 벽면 아래로 연결된 비좁은 배수로다. 주변에는 약간의 물기와 함께 젖은 무언가가 넓게 바닥을 디딘 자국과, 그 뒤로 길고 묵직한 것이 바닥을 쓸고 지나간 흔적이 남아 있다.
 HTML :
 <div class="story-content">
-  <div>지하창고 구석 벽면 아래로 연결된 <span class="emphasis">비좁은 배수로</span>다. 주변에는 <span class="emphasis">약간의 물기</span>가 남아 있다.</div>
+  <div>지하창고 구석 벽면 아래로 연결된 <span class="emphasis">비좁은 배수로</span>다. 주변에는 <span class="emphasis">약간의 물기</span>와 함께 젖은 무언가가 <span class="emphasis">넓게 바닥을 디딘 자국</span>과, 그 뒤로 길고 묵직한 것이 <span class="emphasis">바닥을 쓸고 지나간 흔적</span>이 남아 있다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain the same perspective and floor-level view as the provided reference image (25_지하창고_1.jpg). An extreme macro close-up focus on a heavy, iron-grated drainage cover set into the dark stone floorboards in a corner of the underground warehouse. Only a small, subtle amount of moisture is visible, with tiny glistening water droplets on the metal grate and a faint dampness on the surrounding wet stone tiles. The rest of the floor is dry, creating a clear contrast with the localized wetness near the drain. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered iron, cold damp stone), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the delicate, slight wetness as a haunting clue. No background elements, just the floor and the grate.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Maintain the same perspective and floor-level view as the provided reference image (25_지하창고_1.jpg). An extreme macro close-up focus on a heavy, iron-grated drainage cover set into the dark stone floorboards in a corner of the underground warehouse. Subtle moisture is visible. Next to the drain, there is a wide, wet imprint of something stepping on the floor, accompanied by a long, sweeping trail where something heavy has dragged across the dusty stone tiles. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, dramatic chiaroscuro lighting, heavy atmosphere. No background elements, just the floor, the grate, and the subtle mysterious tracks.
 장소 : 07_지하창고
 파일명 : 48_지하창고_7
 
@@ -1648,18 +1648,18 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발로그, 발트라
+관련 : 발로그, 엘란트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
 '바람의 창'이라고 적혀 있는 보관함 안에는 에메랄드빛 광채를 내뿜는 창이 들어 있다. 창끝에는 기류가 감돌고 있으며, 자루를 쥐자 주변의 공기가 가벼워진다.
 속성: 바람
-전투력: 발로그/발트라가 소유했다면 +3
+전투력: 발로그/엘란트라가 소유했다면 +3
 HTML :
 <div class="story-content">
   <div>&apos;바람의 창&apos;이라고 적혀 있는 보관함 안에는 <span class="emphasis">에메랄드빛 광채</span>를 내뿜는 창이 들어 있다. 창끝에는 기류가 감돌고 있으며, 자루를 쥐자 주변의 공기가 가벼워진다.</div>
   <div class="divider-gold"></div>
   <div>속성: 바람</div>
-  <div>전투력: <span class="character-balrog">발로그</span>/<span class="character-valtra">발트라</span>가 소유했다면 +3</div>
+  <div>전투력: <span class="character-balrog">발로그</span>/<span class="character-elantra">엘란트라</span>가 소유했다면 +3</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a long spear with a translucent emerald blade. Faint swirling air currents wrap around the sharp tip. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -1679,18 +1679,18 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 고어후프, 발트라
+관련 : 고어후프, 엘란트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
 '대지의 도끼'라고 적혀 있는 보관함 안에는 바위를 깎아 만든 듯한 거대한 양손 도끼가 들어 있다. 날 부분에 황갈색 광석이 박혀 있으며, 자루에서는 묵직한 진동이 느껴진다.
 속성: 대지
-전투력: 고어후프/발트라가 소유했다면 +3
+전투력: 고어후프/엘란트라가 소유했다면 +3
 HTML :
 <div class="story-content">
   <div>&apos;대지의 도끼&apos;라고 적혀 있는 보관함 안에는 바위를 깎아 만든 듯한 거대한 양손 도끼가 들어 있다. 날 부분에 <span class="emphasis">황갈색 광석</span>이 박혀 있으며, 자루에서는 묵직한 진동이 느껴진다.</div>
   <div class="divider-gold"></div>
   <div>속성: 대지</div>
-  <div>전투력: <span class="character-gorehoof">고어후프</span>/<span class="character-valtra">발트라</span>가 소유했다면 +3</div>
+  <div>전투력: <span class="character-gorehoof">고어후프</span>/<span class="character-elantra">엘란트라</span>가 소유했다면 +3</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a massive stone-headed battle axe. A golden-brown gemstone embedded in the head emits a faint, earthy glow. Shallow depth of field, background is a cold stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -1710,18 +1710,18 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 슬리더, 발트라
+관련 : 슬리더, 엘란트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
 '물의 검'이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 투명한 보검이 들어 있다. 칼날 주변으로 잔잔한 물결의 환각이 보이며, 휘두를 때마다 물소리가 공명한다.
 속성: 물
-전투력: 슬리더/발트라가 소유했다면 +3
+전투력: 슬리더/엘란트라가 소유했다면 +3
 HTML :
 <div class="story-content">
   <div>&apos;물의 검&apos;이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 <span class="emphasis">투명한 보검</span>이 들어 있다. 칼날 주변으로 잔잔한 물결의 환각이 보이며, 휘두를 때마다 물소리가 공명한다.</div>
   <div class="divider-gold"></div>
   <div>속성: 물</div>
-  <div>전투력: <span class="character-slither">슬리더</span>/<span class="character-valtra">발트라</span>가 소유했다면 +3</div>
+  <div>전투력: <span class="character-slither">슬리더</span>/<span class="character-elantra">엘란트라</span>가 소유했다면 +3</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a beautiful, translucent blue sword. Rippling water patterns appear within the glass-like blade. Extremely shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
@@ -1942,7 +1942,7 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발트라
+관련 : 엘란트라
 의도 : 스컬크러셔 입장에서 자신이 당했던 방식과 매우 흡사.
 내용 :
 포박된 채 성벽 아래 차갑게 식어버린 수비대장의 시신을 바라보며 부르르 떨고 있는 솔라이트 수비대원 포로의 증언이다. "그... 그건 정말 순식간이었습니다. 대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 단검을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 대장님의 등을 발로 강하게 걷어차 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다."
@@ -1972,16 +1972,16 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발트라
-의도 : 단검의 명수라는 점과, 발트라에게 무기를 넘기는 것에 대한 경계심을 갖게 만듬.
+관련 : 엘란트라
+의도 : 단검의 명수라는 점과, 엘란트라에게 무기를 넘기는 것에 대한 경계심을 갖게 만듬.
 내용 :
-옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다. "우리 발트라 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지."
+옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다. "우리 엘란트라 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지."
 HTML :
 <div class="story-content">
   <div class="script-direction">옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>우리 <span class="character-valtra">발트라</span> 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 <span class="emphasis">단검</span>을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지.</div>
+    <div>우리 <span class="character-elantra">엘란트라</span> 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 <span class="emphasis">단검</span>을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a weathered mercenary warrior seen from behind, standing high on the dark stone outer ramparts (as seen in 10_외곽_망루.png). The mercenary is captured in the middle of cleaning a large blade, head slightly turned as if speaking to someone off-camera. In the background, the cold night fog creeps over the stone battlements and crenellations, with a few distant stars visible in the dark, heavy sky. A nearby flickering torch casts long, dancing shadows and provides a warm glow that catch the texture of his worn cloak and the metallic sheen of the weapon in his hands. Shallow depth of field, focused on the steady, silent presence of the mercenary as he provides his testimony. No face visible, just the silhouette in the darkness. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, rusted iron, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.

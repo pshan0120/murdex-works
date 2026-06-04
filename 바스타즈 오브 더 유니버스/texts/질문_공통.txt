@@ -26,7 +26,7 @@
   <span class="character-gorehoof">고어후프</span>
 </div>
 <div class="story-content">
-  <span class="character-valtra">발트라</span>
+  <span class="character-elantra">엘란트라</span>
 </div>
 <div class="story-content">
   기권
@@ -43,7 +43,7 @@
     - <span class="character-gorehoof">고어후프</span>: 기본 8 (대지의 도끼 소유 시 +3)<br>
     - <span class="character-balrog">발로그</span>: 기본 7 (바람의 창 소유 시 +3)<br>
     - <span class="character-slither">슬리더</span>: 기본 6 (물의 검 소유 시 +3)<br>
-    - <span class="character-valtra">발트라</span>: 기본 5 (바람의 창, 대지의 도끼, 물의 검 중 하나를 소유 시 +3)<br>
+    - <span class="character-elantra">엘란트라</span>: 기본 5 (바람의 창, 대지의 도끼, 물의 검 중 하나를 소유 시 +3)<br>
     - <span class="character-malice">말리스</span>: 기본 2 (마력석 소유 시 +8)<br>
   </div>
   <div class="guide-box">
@@ -62,7 +62,7 @@
 
     <span class="highlight">[예시]</span><br>
     - <span class="character-skullcrusher">스컬크러셔</span>가 처형 대상이 되었고 빛의 검을 소유하고 있었다면 (A)는 <span class="emphasis">13</span>, (C)는 <span class="emphasis">4</span>이므로, (D)는 <span class="emphasis">39</span><br>
-    - 생존 바스타즈 멤버들 중 <span class="character-valtra">발트라</span>가 물의 검(+3), <span class="character-malice">말리스</span>가 마력석(+8)을 소유했다면 (E)는 <span class="emphasis">39</span><br>
+    - 생존 바스타즈 멤버들 중 <span class="character-elantra">엘란트라</span>가 물의 검(+3), <span class="character-malice">말리스</span>가 마력석(+8)을 소유했다면 (E)는 <span class="emphasis">39</span><br>
     - 이 경우 <span class="emphasis">(E) ≤ (D)</span> 이므로 <span class="emphasis">판정 A</span>가 됩니다.
   </div>
 </div>
