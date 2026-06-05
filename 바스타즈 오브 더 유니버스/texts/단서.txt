@@ -338,10 +338,10 @@ HTML :
 관련 : 말리스, 발로그, 슬리더
 의도 : 서재에 무색무취의 수면가스가 사용되었음을 증명. 일반인은 알 수 없으나 특수한 후각을 가진 고어후프와 슬리더만 포착할 수 있음.
 내용 :
-서재의 공기 속에 아주 미세하게 눅눅하고 쿰쿰한 잔향이 뒤섞여 있음을 간신히 포착할 수 있었다.
+서재의 공기 속에 눅눅하고 쿰쿰한 잔향이 미세하게 남아 있다.
 HTML :
 <div class="story-content">
-  서재의 공기 속에 아주 미세하게 <span class="emphasis">눅눅하고 쿰쿰한 잔향</span>이 뒤섞여 있음을 간신히 포착할 수 있었다.
+  서재의 공기 속에 <span class="emphasis">눅눅하고 쿰쿰한 잔향</span>이 미세하게 남아 있다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dimly lit interior of an ancient library with faint, hazy wisps of greenish-grey vapor or smoke drifting between towering bookshelves. Use the attached Library image (02_서재) for environment and lighting. No people. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
@@ -642,10 +642,10 @@ HTML :
 관련 : 고어후프
 의도 : 갑옷 파편 단서와 연계되어, 과거 고어후프의 식인 단서.
 내용 :
-식당 의자 밑에 내버려진 뼈다귀가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 액체의 흔적이 희미하게 남아 번들거린다. 특히 단단한 뼈 곳곳에는 뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국들이 뚜렷하게 박혀 있다.
+식당 의자 밑에 내버려진 뼈다귀가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 액체의 흔적이 남아 있다. 특히 단단한 뼈 곳곳에는 뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국들이 뚜렷하게 박혀 있다.
 HTML :
 <div class="story-content">
-  <span class="emphasis">식당 의자 밑</span>에 내버려진 <span class="emphasis">뼈다귀</span>가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 <span class="emphasis">액체의 흔적</span>이 희미하게 남아 번들거린다. 특히 단단한 뼈 곳곳에는 <span class="emphasis">뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국</span>들이 뚜렷하게 박혀 있다.
+  <span class="emphasis">식당 의자 밑</span>에 내버려진 <span class="emphasis">뼈다귀</span>가 있다. 살점은 거의 다 발라 먹었으나 표면에는 아직 미끈거리는 <span class="emphasis">액체의 흔적</span>이 남아 있다. 특히 단단한 뼈 곳곳에는 <span class="emphasis">뭉툭하고 넓적한 사각형 모양의 깊은 이빨 자국</span>들이 뚜렷하게 박혀 있다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A massive, clean white animal bone lying on a dark, dusty stone floor beneath the legs of a heavy wooden dining chair and table. The legs of the chair cast long shadows over the bone. Dim, moody interior lighting (09_식당 environment). No metal plates, no tags, no text, and no large pieces of meat. Shallow depth of field, background is indistinct dark furniture. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 09_식당
@@ -759,12 +759,12 @@ HTML :
 관련 : 스컬크러셔, 고어후프, 슬리더, 엘란트라
 의도 : 고어후프와 슬리더의 복수심의 근원이자, 류크가 솔라이트에 의구심을 품게 된 계기. 엘란트라가 솔라이트의 살인병기로 키워진 계기.
 내용 :
-<국왕 령 제202호: 대정화 작전 사후 보고서>
+<대정화 작전 사후 보고서>
 우주의 신성한 질서를 유지하기 위해 단행된 빛의 성전(작전명: 대정화)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, 기사 류크는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 일부 생존자들이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 완전 정복을 선언함.
 HTML :
 <div class="story-content">
   <div class="document-page">
-    <h4>&lt;국왕 령 제202호: 대정화 작전 사후 보고서&gt;</h4>
+    <h4>&lt;대정화 작전 사후 보고서&gt;</h4>
     <div class="divider-gold"></div>
     <div class="document-body small">
       <div>우주의 신성한 질서를 유지하기 위해 단행된 <span class="emphasis">빛의 성전</span>(작전명: <span class="emphasis">대정화</span>)은 성공적으로 종료되었다. 반기를 들었던 변방 행성을 포함한 다수의 이종족 문명이 철저히 궤멸되었으며, <span class="character-solite">기사 류크</span>는 늪지대와 고원 부족 토벌에서 탁월한 전공을 세웠음을 기록한다. 비록 <span class="emphasis">일부 생존자들</span>이 보고되었으나, 저항 기능이 전무한 미미한 수준으로 판단되어 완전 정복을 선언함.</div>
@@ -1164,11 +1164,11 @@ HTML :
 관련 : 말리스
 의도 : 말리스와 골든 킹 사이의 과거사 실마리 제공.
 내용 :
-골든 킹의 집무실, 가장 깊숙한 비밀 서랍 안쪽에서 발견된 낡은 금색 펜던트. 겉면은 오랜 세월의 풍파에 긁히고 빛이 바랬지만, 누군가 매일같이 매만진 듯 꽤 매끄럽다. 뚜껑의 찌그러진 틈을 벌려 열어보면, 내부에는 섬세한 화풍으로 그려진 젊은 여인의 초상화가 담겨 있다. 이상할 정도로 말리스를 닮은 초상화 속 여인은 수줍은 미소를 짓고 있어 묘한 괴리감과 슬픔을 자아낸다.
+골든 킹의 집무실, 가장 깊숙한 비밀 서랍 안쪽에서 발견된 낡은 금색 펜던트. 겉면은 오랜 세월의 풍파에 긁히고 빛이 바랬지만, 누군가 자주 매만진 듯 표면이 매끄럽다. 뚜껑의 찌그러진 틈을 벌려 열어보면, 내부에는 말리스를 닮은 젊은 여인의 초상화가 담겨 있다.
 HTML :
 <div class="story-content">
-  <div><span class="character-goldenking">골든 킹</span>의 집무실, 가장 깊숙한 비밀 서랍 안쪽에서 발견된 <span class="emphasis">낡은 금색 펜던트</span>. 겉면은 오랜 세월의 풍파에 긁히고 빛이 바랬지만, 누군가 매일같이 매만진 듯 꽤 매끄럽다.</div>
-  <div>뚜껑의 찌그러진 틈을 벌려 열어보면, 내부에는 섬세한 화풍으로 그려진 <span class="emphasis">젊은 여인의 초상화</span>가 담겨 있다. 이상할 정도로 <span class="character-malice">말리스</span>를 닮은 초상화 속 여인은 수줍은 미소를 짓고 있어 묘한 괴리감과 슬픔을 자아낸다.</div>
+  <div><span class="character-goldenking">골든 킹</span>의 집무실, 가장 깊숙한 비밀 서랍 안쪽에서 발견된 <span class="emphasis">낡은 금색 펜던트</span>. 겉면은 오랜 세월의 풍파에 긁히고 빛이 바랬지만, 누군가 자주 매만진 듯 표면이 매끄럽다.</div>
+  <div>뚜껑의 찌그러진 틈을 벌려 열어보면, 내부에는 <span class="character-malice">말리스</span>를 닮은 <span class="emphasis">젊은 여인의 초상화</span>가 담겨 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old, tarnished open golden pendant resting inside a dark, velvet-lined wooden jewelry box. Shadows are cast inside the box. Inside is a miniature oil portrait of a young woman with neat black hair. Shallow depth of field, focus is solely on the woman&apos;s face. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 01_왕좌의_방
@@ -1244,7 +1244,7 @@ HTML :
 관련 : 발로그
 의도 : 발로그가 비행해서 올라갔다는 증거.
 내용 :
-높은 서재 천장에는 엘드리치가 앉아 있던 의자 바로 위 지점에 화려한 샹들리에가 매달려 있다. 금속 프레임에 수많은 크리스털 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 미세하게 흔들리고 있다. 자세히 보면, 샹들리에 아래쪽 금속 프레임 중 하나에 아주 가느다란 은빛 금속 실 조각이 묶여 있는 흔적이 보인다.
+높은 서재 천장에는 엘드리치가 앉아 있던 의자 바로 위 지점에 화려한 샹들리에가 매달려 있다. 금속 프레임에 수많은 크리스털 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 미세하게 흔들리고 있다. 자세히 보면, 샹들리에 아래쪽 금속 프레임 중 하나에 아주 가느다란 은빛 실 조각이 묶여 있는 흔적이 보인다.
 HTML :
 <div class="story-content">
   <div><span class="emphasis">높은 서재 천장</span>에는 엘드리치가 앉아 있던 <span class="emphasis">의자 바로 위</span> 지점에 화려한 <span class="emphasis">샹들리에</span>가 매달려 있다. 금속 프레임에 수많은 <span class="emphasis">크리스털 조각</span>들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다. 자세히 보면, 아래쪽 금속 프레임 중 하나에 아주 가느다란 <span class="highlight">은빛 실</span> 조각이 묶여 있는 것이 발견된다.</div>
@@ -1776,13 +1776,13 @@ HTML :
 관련 : 고어후프, 스컬크러셔
 의도 : 고어후프의 복잡한 심리 상태 증언.
 내용 :
-연회장 기물을 정리하던 보급대원의 이야기이다. "고어후프님이 스컬크러셔님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 마치 무언가 아주 중요한 것을 잊어버린 사람처럼,  미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다."
+연회장 기물을 정리하던 보급대원의 이야기이다. "고어후프님이 스컬크러셔님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다."
 HTML :
 <div class="story-content">
   <div class="script-direction">연회장 기물을 정리하던 보급대원의 이야기이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div><span class="character-gorehoof">고어후프</span>님이 <span class="character-skullcrusher">스컬크러셔</span>님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 마치 무언가 아주 중요한 것을 잊어버린 사람처럼, 미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다.</div>
+    <div><span class="character-gorehoof">고어후프</span>님이 <span class="character-skullcrusher">스컬크러셔</span>님께 호되게 꾸지람을 듣고 난 직후였습니다. 평소 같으면 고함을 지르며 화를 내셨을 텐데, 아까는 이상하게도 멍하니 대장님의 뒷모습을 한참이나 바라보고 계시더군요. 미간을 찌푸린 채 괴로운 듯 혼잣말을 중얼거리는 모습이 몹시 기이했습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a supply unit member (laborer) standing in a dimly lit banquet hall. The figure wears common laborer&apos;s clothes with rolled-up sleeves and a heavy leather vest, emphasizing a rugged, working-class silhouette—no hoods, no robes. He is positioned naturally near the corner of a long, polished banquet table, with a faint warm glow from a distant chandelier illuminating the edge of the furniture and the textured stone floor. The grand banquet hall setting is suggested by the blurred high-backed chairs and the massive scale of the table in the background. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered grain, worn leather, rough fabric, polished wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the quiet, steady presence of the worker within the hall. No face visible, just the back of the figure&apos;s head and shoulders.
@@ -1810,7 +1810,7 @@ HTML :
 무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 바스타즈의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 뭉툭한 사각형 형태의 이빨 자국이 선명하다.
 HTML :
 <div class="story-content">
-  <div>무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 <span class="character-bastards">바스타즈</span>의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 <span class="emphasis">뭉툭한 사각형 형태의 이빨 자국</span>이 선명하다.
+  <div>무기고 구석에 놓인 찌그러진 흉갑 파편이다. 초기 <span class="character-bastards">바스타즈</span>의 문장이 희미하게 남아 있는 이 강철판에는, 금속을 종잇장처럼 구기고 뚫어버린 <span class="emphasis">뭉툭한 사각형 형태의 이빨 자국</span>이 선명하다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a violently torn and mangled steel breastplate fragment lying on a dark, cold stone floor. One large section and a jagged corner of the armor are completely ripped away, leaving a violently twisted, jagged, and mangled metallic edge. The broken steel is crumpled and warped with immense physical force, showing raw, unrefined destruction. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted dark iron, sharp jagged steel, rough weathered stone), heavy brushstrokes, dramatic chiaroscuro lighting, heavy atmosphere. Focus on the brutal, irregular jagged break of the mangled metal fragment. No symbols, no patterns, just the raw destruction of the steel.
 장소 : 04_무기고
@@ -1860,12 +1860,12 @@ HTML :
 관련 : 발로그
 의도 : 전투 중 발로그의 상태에 대한 정보 제공.
 내용 :
-조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다. "그 자는 우리들이 일제히 퍼붓는 마법 공격을 버텨내며, 마법탑 중앙으로 천천히 내려앉더군요. 그러고는 <span class="emphasis">엄청난 마력</span>을 사방으로 뿜어냈습니다. 그 힘에 휩쓸려 방어막을 유지하려던 마법사들은 마력이 역류해 그 자리에서 폭사해 버렸지요. 그렇게 탑 전체를 온통 초토화하고는 다시 하늘로 날아오르는가 싶었는데... 정오쯤이 되자 갑자기 균형을 잃고 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 거친 숨만 몰아쉬더군요."
+조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다. "그 자는 우리들이 일제히 퍼붓는 마법 공격을 버텨내며, 마법탑 중앙으로 천천히 내려앉더군요. 그러고는 <span class="emphasis">엄청난 마력</span>을 사방으로 뿜어냈습니다. 그 힘에 휩쓸려 방어막을 유지하려던 마법사들은 마력이 역류해 그 자리에서 폭사해버렸지요. 그렇게 탑 전체를 온통 초토화하고는 다시 하늘로 날아오르는가 싶었는데... 정오쯤이 되자 갑자기 균형을 잃고 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 거친 숨만 몰아쉬더군요."
 HTML :
 <div class="story-content">
   <div class="script-direction">조사를 받던 마법사 포로가 당시 상황을 회상하며 진술한 내용이다.</div>
   <div class="divider-gold"></div>
-  <div>그 자는 우리들이 일제히 퍼붓는 마법 공격을 버텨내며, 마법탑 중앙으로 천천히 내려앉더군요. 그러고는 엄청난 <span class="emphasis">마력</span>을 사방으로 뿜어냈습니다. 그 힘에 휩쓸려 방어막을 유지하려던 마법사들은 마력이 역류해 그 자리에서 폭사해 버렸지요. 그렇게 탑 전체를 온통 초토화하고는 다시 하늘로 날아오르는가 싶었는데... <span class="emphasis">정오</span>쯤이 되자 갑자기 균형을 잃고 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 거친 숨만 몰아쉬더군요.</div>
+  <div>그 자는 우리들이 일제히 퍼붓는 마법 공격을 버텨내며, 마법탑 중앙으로 천천히 내려앉더군요. 그러고는 엄청난 <span class="emphasis">마력</span>을 사방으로 뿜어냈습니다. 그 힘에 휩쓸려 방어막을 유지하려던 마법사들은 마력이 역류해 그 자리에서 폭사해버렸지요. 그렇게 탑 전체를 온통 초토화하고는 다시 하늘로 날아오르는가 싶었는데... <span class="emphasis">정오</span>쯤이 되자 갑자기 균형을 잃고 추락했습니다. 바닥에 처박힌 뒤에도 한동안 손가락 하나 까딱하지 못한 채 거친 숨만 몰아쉬더군요.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured sorcerer (prisoner) seen from behind, sitting motionless on a heavy stone chair in a high-vaulted chamber of the Mage Tower (based on ref 11). The Mage Tower setting is visible in the background with grand arches and cold, mystical stone architecture with bluish magic glow in the distance. The prisoner, wearing tattered dark robes and a hood, sits with his head bowed and arms slightly positioned behind, showing a resigned and defeated state. Faint blue magical light or cold candlelight illuminates the vast, silent, and somber chamber. Extremely shallow depth of field, focused on the prisoner&apos;s back. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, tattered fabrics, old wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the solitary, defeated silhouette of the wizard as he provides his testimony. No face visible, just the back of the figure&apos;s head and shoulders.
 장소 : 08_마법탑
@@ -2114,10 +2114,10 @@ HTML :
 관련 : 엘드리치
 의도 : 엘드리치(마신 다크 시리어스) 본인이 쓰던 투구이나, 겉보기엔 평범하고 낡은 골동품 투구로 보임. 유령이 된 엘드리치(마신)가 영적으로만 흡수할 수 있는 장치.
 내용 :
-먼지가 뽀얗게 쌓인 잡동사니 상자 속에서 발견된 오래된 투구다. 군데군데 녹이 슬고 흠집이 가 있어, 쓸모없는 고물일 뿐이다.
+먼지가 뽀얗게 쌓인 잡동사니 상자 속에서 발견된 오래된 투구다. 녹이 슬고 흠집이 나 있는 낡은 고물이다.
 HTML :
 <div class="story-content">
-  <div>먼지가 뽀얗게 쌓인 잡동사니 상자 속에서 발견된 오래된 투구다. 군데군데 녹이 슬고 흠집이 가 있어, 쓸모없는 고물일 뿐이다.</div>
+  <div>먼지가 뽀얗게 쌓인 잡동사니 상자 속에서 발견된 오래된 투구다. 녹이 슬고 흠집이 나 있는 낡은 고물이다.</div>
 </div>
 이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a dark, rusted, and heavily scratched iron helmet sitting forgotten inside a dusty, cluttered wooden crate filled with various old, worthless metal scraps and tools. Soft, dim lighting illuminates the thick layer of grey dust coating the helmet's surface. The background shows blurred shapes of armor parts in a dark armory room. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rust, dust, old wood), heavy brushstrokes, dramatic chiaroscuro lighting, forgotten and desolate atmosphere.
 장소 : 05_무기고
