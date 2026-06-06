@@ -959,3 +959,18 @@
 .story-content .intro-narrative p:last-child {
     margin-bottom: 0;
 }
+
+/* 힌트 가이드 (조건부 행동 지침) */
+.story-content .hint-guide {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #ffcc00;
+}
+
+/* 주의사항 경고 문구 (스포일러 등) */
+.story-content .spoiler-warning {
+    font-size: 0.85em;
+    opacity: 0.8;
+    margin-top: 1.5em;
+}

@@ -34,7 +34,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A hand-drawn sketch map of a traditional Korean courtyard house (Hanok) and surrounding brewery land, on a slightly wrinkled sheet of paper. Annotated with elegant Korean handwriting. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A map of a traditional Korean courtyard house (Hanok) and surrounding brewery land, viewed from a top-down perspective, drawn on a slightly wrinkled sheet of paper. Layout composition: Top left shows the main residence. Top right and center right show large fields. Middle left has a garden with a pond and pavilion. The center shows the main brewery. Bottom left contains outbuildings and a barn. The entire bottom edge is bordered by a large flowing lake. The map MUST include roughly scribbled Korean handwriting labeling the locations at their respective positions (e.g., '백서연 집' at top left, '은금도가 본채' at bottom left, '모란 화단', '팔각정' at middle left, '양조장', '숙성 토굴' at center, '누룩 건조장' at right, '은금 저수지' at bottom). The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. No other text or letters.
 장소 : 없음
 파일명 : 01_은금도가_주변_약도
 
@@ -69,7 +69,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A newspaper clipping in Korean with a monochrome photo of a serene lake. The paper is yellowed with age, sitting on a dark wooden table. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A slightly worn newspaper clipping from 6 months ago sitting on a dark wooden table. The target article has a monochrome photo of a serene lake. The target article is surrounded by columns of other unrelated news articles. The main headline of the target article MUST explicitly read "은금 저수지 시신 신원 확인" in Korean. All body text and surrounding articles should be illegible mock text. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. The lighting should be atmospheric and dramatic, enhancing the mystery thriller vibe. No other readable text, no random letters, no extra words.
 장소 : 없음
 파일명 : 02_은금 저수지_신문_기사
 
@@ -112,7 +112,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A yellowish, centuries-old traditional Korean paper (Hanji) document with brush calligraphy in classical style. The edges are frayed. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A small, vintage, traditional Korean paper (Hanji) letter envelope from the 1940s, resting on a dark wooden table. The envelope is weathered, yellowed, and has no decorations. A folded piece of blank, aged Hanji paper is tucked inside, partially visible. Absolutely no writing, no calligraphy, no text, no characters, and no landscape paintings anywhere in the image. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. The lighting should be moody, dimly lit, and atmospheric, enhancing the mystery thriller vibe.
 장소 : 없음
 파일명 : 03_개척자_은금의_편지
 
@@ -134,7 +134,7 @@ HTML :
 의도 : 강은주가 절친 박단희에게 남긴 것처럼 위조된 수면제 자살 위조 유서.
 내용 :
 은금도가 편지지에 쓰여진 정갈한 글씨의 자살 유서 메모다.
-'사랑하는 단희에게. 남편 기태가 세상을 떠난 이후로 너무나 힘든 시기가 계속되고 있어. 도가의 빚도, 전통 소주를 빚는 일도 내 힘으론 더는 감당하기 어렵구나. 오늘 밤이 지나면 깨어나는 아침은 없을 거야. 이 수면제가 고통을 끝내주겠지. 내 안식처인 은금도가와 모든 재산은 친구인 네가 상속받기를 바란다. 그걸 지키든 팔든 네 행복을 위해서 써주렴. 미안하고 고마워.'
+'사랑하는 단희에게. 남편이 세상을 떠난 이후로 너무나 힘든 시기가 계속되고 있어. 도가의 빚도, 전통 소주를 빚는 일도 내 힘으론 더는 감당하기 어렵구나. 오늘 밤이 지나면 깨어나는 아침은 없을 거야. 이 수면제가 고통을 끝내주겠지. 내 안식처인 은금도가와 모든 재산은 친구인 네가 상속받기를 바란다. 그걸 지키든 팔든 네 행복을 위해서 써주렴. 미안하고 고마워.'
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">은금도가 편지지</span>에 쓰인 정갈한 메모를 읽어보았다.</div>
@@ -146,7 +146,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A clean notepad sheet with Korean handwritten text in a neat, slightly feminine hand. Placed on a dark lacquered wood surface. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A wide view of a vast, dark lacquered wood desk. Right in the center, isolated and lonely, lies a single small sheet of clean notepad paper. The handwriting on the note is just tiny, illegible dark squiggles. No other props on the desk. The scene is illuminated by a single, dramatic spotlight cutting through the darkness, emphasizing the isolation of the note. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. The lighting should be moody and atmospheric, enhancing the mystery thriller vibe.
 장소 : 없음
 파일명 : 04_강은주_자살_유서
 
@@ -167,7 +167,7 @@ HTML :
 관련 : 백서연
 의도 : 6개월 전 남기태가 사망하기 직전 날짜로 명의가 설정된 공란 약속어음과 계좌 비밀번호 핀코드 정보(핏자국 얼룩).
 내용 :
-수첩 한 귀퉁이를 거칠게 찢어낸 종이에 급히 휘갈겨 쓴 숫자들과 계좌 번호 정보들이다.
+공책 한 귀퉁이를 거칠게 찢어낸 종이에 급히 휘갈겨 쓴 숫자들과 계좌 번호 정보들이다.
 - 저축 은행 계좌 번호: 01-4562-5874-2351 (비밀번호: 52076)
 - 주거래 계좌 번호: 01-6589-4287-8521 (비밀번호: 64649)
 종이 뒷면에는 핏자국이 묻은 채 공란 약속어음 세 장이 스테이플러로 고정되어 있다. 각 어음의 발행인은 6개월 전 사망한 남기태의 명의로 되어 있다.
@@ -184,7 +184,7 @@ HTML :
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A torn piece of white scrap paper with handwritten PIN codes and banking details in Korean, stained with dark brownish blood drops. Placed next to rusted paper clips. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A wide top-down shot of a dark, empty wooden desk. Right in the center, isolated, lies a single torn page of a notebook. The camera is far enough away that the handwriting on the note is just tiny, illegible dark squiggles that vaguely resemble numbers, consisting of about 3 lines of text. There are no other papers, no stacks, no clips, and no props. In the corner of the paper, there is a very small, subtle smudge of dark brownish blood. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. The lighting should be moody and atmospheric, with a single dim spotlight on the paper, enhancing the mystery thriller vibe.
 장소 : 없음
 파일명 : 05_남기태_은행_쪽지
 
@@ -237,9 +237,9 @@ HTML :
     </tbody>
   </table>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A vintage pocket watch resting on a wooden floor near a camper van. Use the first attached image(본채 또는 캠핑카) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : 01_은금도가_주변_약도_1라운드_단서
+파일명 : p_eunji_01_강은지의_타임라인_3단계
 
 ### [clue_p_eunji_02]
 이름 : [개인] 강은지가 아는 것 (3단계)
@@ -268,7 +268,7 @@ HTML :
     <li><span class="character-seoyeon">백서연 박사</span>가 쓰고 있는 소설이 6개월 전 저수지에서 살해된 형부 <span class="character-kitae">남기태</span>의 사건과 너무나 유사합니다. 그녀가 누구를 용의자로 의심하고 있는지 캐물어 보세요.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman looking anxious and observing from a distance. Use the first attached image(강은지) as a reference for the female character. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_eunji_02_강은지가_아는_것_3단계
 
@@ -298,8 +298,15 @@ HTML :
     <li>이번에 도가에 오기 전까지 형부 <span class="character-kitae">남기태</span>의 사망 소식을 전혀 모르고 있었습니다. 언니가 완전히 나를 투명 인간 취급하여 숨긴 것입니다.</li>
     <li>오늘 아침 9시 30분경 언니 <span class="character-eunju">강은주</span>와 아침 식사를 하며 돈을 빌려달라 부탁했으나, 형부가 죽을 때 남긴 생명 보험금이 없어 매우 어렵다며 한 푼도 빌려주지 않았습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"이번에 도가에 오기 전까지는 언니한테 무슨 일이 있었는지 전혀 몰랐어요..."</li>
+      <li>"오늘 아침에 언니한테 부탁할 게 좀 있었는데, 돈 한 푼 없다며 정말 매몰차게 굴어서 서운하네요."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman having a secret, intense conversation with a rough-looking worker. Use the first attached image(강은지) as a reference for the female character, and the second attached image(류현수) as a reference for the male worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_eunji_03_강은지의_비밀_3단계
 
@@ -332,7 +339,7 @@ HTML :
     <li>리조트 개발업자라던 <span class="character-haejun">정해준</span>은 작년 남편 <span class="character-dohun">도훈</span>의 회사 연말 파티에서 만났던 사람입니다. 둘은 아는 사이가 분명합니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman carefully watching a man in a sharp suit having a serious phone call inside a car. Use the first attached image(강은지) as a reference for the observing female character, and the second attached image(정해준) as a reference for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_eunji_04_강은지가_아는_것_4단계
 
@@ -362,8 +369,15 @@ HTML :
     <li>언니에게 남편이 자신을 학대한다고 한 것은 돈을 뜯어내기 위해 꾸민 <strong>새빨간 거짓말</strong>이었습니다. 또한 언니가 내 남편 <span class="character-dohun">도훈</span>에게 아직 미련이 남았는지 확인해 보고 싶었습니다.</li>
     <li>도훈의 무능과 도박에 질려 당장이라도 이혼하고 싶지만, 돈이 한 푼도 없어 빌붙어 지내고 있습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"아침에 제가 남편에게 학대당한다고 했던 이야기는... 사실 꾸며낸 거예요."</li>
+      <li>"남편 빚 문제 때문에 그 사람과 빨리 갈라서고 싶은데, 마음대로 안 되네요."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman hiding her face in her hands, looking distressed in a dark room. Use the first attached image(강은지) as a reference for the female character. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_eunji_05_강은지의_비밀_4단계
 
@@ -392,7 +406,7 @@ HTML :
     <li>뒷마루에서 <span class="character-danhee">박단희</span>와 야망에 관해 얘기할 때, 그녀는 '자신도 곧 이 따분한 시골 동네를 벗어나 엄청나게 화려한 삶을 살게 될 것'이라며 세상을 다 얻은 듯 이상할 정도로 미친 듯이 웃어댔습니다. 무언가 크게 한 건 잡은 사람처럼 말입니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman exploring a dark underground tunnel illuminated by a flickering flashlight. Use the first attached image(강은지) as a reference for the female character, and the second attached image(지하 숙성 토굴) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_eunji_06_강은지가_아는_것_5단계
 
@@ -422,8 +436,15 @@ HTML :
     <li>오후 5시 30분경 연못가 수돗가에서 일꾼인 <span class="character-hyunsu">류현수</span>의 야성미에 끌려 격렬하게 키스했습니다. 그리고 남편이 잠들면 밤에 토굴 깊은 곳에서 몰래 다시 정사를 나누기로 굳게 약속했습니다.</li>
     <li>그 밀회 약속을 지키기 위해 오후 6시 45분경 지하 토굴로 몰래 찾아가 현수와 마주치는 찰나, 갑자기 웅장한 폭음(배전반 펑 소리)과 함께 불이 꺼졌습니다. 공포에 비명을 질렀고, 그 후 기억을 잃었다가 깨어나 보니 이 난장판이 되어 있었습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"오후 5시 반쯤 수돗가 근처에서 현수 씨와... 은밀한 약속을 하나 했어요."</li>
+      <li>"약속대로 6시 45분쯤 토굴에 갔는데, 정전이 되면서 정말 끔찍한 소리를 듣고 기절해버렸습니다."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman and a rough worker embracing and kissing passionately near an outdoor water tap at dusk. Use the first attached image(강은지) as a reference for the female character, and the second attached image(류현수) as a reference for the male character. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_eunji_07_강은지의_비밀_5단계
 
@@ -454,7 +475,7 @@ HTML :
     <li>사망 현장 근처 토굴 구석 바닥에서 불과 이틀 전에 서울에서 처방받은 것으로 표기된 빈 <strong>수면제 처방 약병</strong>을 발견했습니다. 이미 알약은 깨끗이 다 비워진 상태였습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A golden ornamental hairpin inscribed with faint Korean letters, lying on the dirt floor next to a woman's hand. Use the first attached image(강은지) as a reference for the woman's hand/style. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_eunji_08_강은지가_아는_것_6단계
 
@@ -505,7 +526,7 @@ HTML :
     </tbody>
   </table>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dirty worker's glove and a wrench resting on a fuse box in a dark cellar. Use the first attached image(지하 숙성 토굴) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_01_류현수의_타임라인_3단계
 
@@ -536,7 +557,7 @@ HTML :
     <li><span class="character-kitae">남기태</span>가 사망한 후, <span class="character-eunju">강은주</span>는 매우 외롭고 괴로워했습니다. 고등학교 이후로 만나지 않은 여동생과 화해하고 싶었지만, 동생의 남편만은 다시 보고 싶지 않다고 했습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A rough rural worker cleaning the exterior wooden-framed glass window of a traditional Korean Hanok house in the morning light. A quiet rural courtyard is visible. Use the first attached image(류현수) as a reference for the worker, and the second attached image(은금도가 본채) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_02_류현수가_아는_것_3단계
 
@@ -568,8 +589,16 @@ HTML :
     <li>이번 주 내내 향토사 자료실에 많이 있었습니다. <span class="character-danhee">박단희</span>가 대학 과제를 도와주고 있었기 때문입니다.</li>
     <li><span class="character-kitae">남기태</span>가 죽은 직후, <span class="character-eunju">은주</span>는 특히 당신에게 관심을 많이 보이고 관대했습니다. 혼자가 되고 싶지 않았던 거죠.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"제가 아까 낮에 백 박사님한테 해준 씨 정체를 알려드렸더니 갑자기 아주 크게 분노하시던데요."</li>
+      <li>"이번 주 내내 향토사 자료실에 매일 출근하다시피 갔죠. 단희 씨한테 도움을 좀 받으려고요."</li>
+      <li>"기태 씨가 죽은 직후엔 은주 씨가 저한테 참 많이 의지했었는데 말입니다."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A rough worker eavesdropping near an old local history archive library. Use the first attached image(류현수) as a reference for the worker, and the second attached image(향토사 자료실) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_03_류현수의_비밀_3단계
 
@@ -600,7 +629,7 @@ HTML :
     <li>오후 3시쯤 지하 숙성 토굴에서 전기 배선을 수리 중일 때 <span class="character-seoyeon">백서연 박사</span>가 다가왔습니다. 그녀와 정을 나누지만, 그녀는 당신을 단지 은금도가의 정보를 빼내어 다음 책 소재로 삼기 위한 수단으로만 생각한다는 걸 알고 있습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man in a sharp suit carrying heavy luggage bags towards a parked camper van at night, observed by a worker. Use the first attached image(정해준) as a reference for the man in the suit, and the second attached image(류현수) as a reference for the observing worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_04_류현수가_아는_것_4단계
 
@@ -630,8 +659,15 @@ HTML :
     <li>당신은 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 <span class="character-seoyeon">백서연 박사</span>가 훔쳐 갔다고 의심하고 있습니다.</li>
     <li><span class="character-danhee">박단희</span>와는 특별한 사이입니다. 자격증 시험 과제를 대신 써주는 대가로 그녀와 저녁 시간을 함께 보냅니다. 당신은 사서인 그녀의 권한을 이용해 일부 역사적 자료를 훔쳐 팔아보려 했습니다. <strong>(※ 플레이어 지침: 이 사실은 박단희나 타 플레이어에게서 훔쳐낸 역사적 편지에 관해 직접 추궁을 받아 비밀 폭로 이의가 제기되었을 때만 밝히고 [4단계 비밀 단서]를 조사하세요.)</strong></li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"제 주머니에서 아주 중요한 번호가 적힌 쪽지가 없어졌는데, 혹시 백 박사님이 가져가신 건 아닌가요?"</li>
+      <li>"단희 씨와 저는 단지 도서관에서 과제 도움만 주고받는 그런 평범한 사이가 아닙니다."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A rough worker searching for a lost scrap of paper with bank pins in a dark room. Use the first attached image(류현수) as a reference for the worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_05_류현수의_비밀_4단계
 
@@ -664,7 +700,7 @@ HTML :
     <li><span class="character-seoyeon">백서연 박사</span>가 <span class="character-kitae">남기태</span>의 죽음에 대해 단순한 호기심 이상의 과도한 관심을 가지는 것 같습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A worker standing near a sparking electrical breaker box in a dark underground tunnel, getting electrocuted. Use the first attached image(류현수) as a reference for the worker, and the second attached image(지하 숙성 토굴) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_06_류현수가_아는_것_5단계
 
@@ -692,8 +728,14 @@ HTML :
   <ul>
     <li>오후 5시 30분경, 연못 수돗가 주변을 청소하던 중 다가온 <span class="character-eunji">강은지</span>와 대화를 나누다 서로에게 이끌려 격렬한 키스를 나누게 되었습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"정전 직전인 5시 반쯤, 수돗가에서 은지 씨와 단둘이 마주쳐서... 꽤 깊은 시간을 보낸 건 사실입니다."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A rough worker and an elegant woman kissing passionately near an outdoor water tap at dusk. Use the first attached image(류현수) as a reference for the worker, and the second attached image(강은지) as a reference for the woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_07_류현수의_비밀_5단계
 
@@ -723,7 +765,7 @@ HTML :
     <li>그녀가 다음 날 꼭 다시 만나야 한다고 애원했지만 기태는 단호히 거절하며, “내 시체를 밟고 지나가지 않는 이상 이 도가에 다시는 들어오지 못할 거야.”라고 말했습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A worker observing a tense conversation between a man and a woman in an elegant restaurant. Use the first attached image(류현수) as a reference for the worker, and the second attached image(고급 식당) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_08_류현수가_아는_것_6단계
 
@@ -751,8 +793,14 @@ HTML :
   <ul>
     <li>당신은 6개월 전 죽은 <span class="character-kitae">남기태</span> 사장을 마지막으로 본 사람입니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"사실 기태 씨가 살해되기 직전에 그를 마지막으로 본 사람은 바로 접니다."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A shadowy figure of a rough worker standing over another man's body in the dark. Use the first attached image(류현수) as a reference for the standing worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_hyunsu_09_류현수의_비밀_6단계
 
@@ -805,7 +853,7 @@ HTML :
     </tbody>
   </table>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A neat librarian's desk with old historical documents and a small potted plant. Use the first attached image(향토사 자료실) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_01_박단희의_타임라인_3단계
 
@@ -840,7 +888,7 @@ HTML :
     <li><span class="character-hyunsu">류현수</span>는 <span class="character-kitae">남기태</span> 사망 후 확연히 여유 자금이 많아진 듯 보입니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young female librarian looking out a window at a man in a suit putting a golden object into his bag in front of a jewelry store. Use the first attached image(박단희) as a reference for the librarian, and the second attached image(정해준) as a reference for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_02_박단희가_아는_것_3단계
 
@@ -870,8 +918,15 @@ HTML :
     <li>정오에 <span class="character-haejun">정해준</span>이 도가 매입 건으로 방문했을 때, 속이 좋지 않아 <span class="character-eunju">은주</span>가 대화하는 틈을 타 몰래 화장실 약장에서 제산제를 찾았습니다.</li>
     <li><span class="character-haejun">정해준</span>은 이번 주 내내 자료실에 자주 방문해 마을 역사 연구 자료를 요청했고, 당신이 이를 찾아주었습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"정오쯤에 속이 좀 안 좋아서 은주 언니 화장실 약장을 뒤적거린 적이 있어요."</li>
+      <li>"참, 이번 주 내내 정해준 씨가 자료실에 유독 자주 와서 마을 역사 자료를 싹 다 찾아가시던데요."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young female librarian secretly taking a small medicine bottle from a bathroom cabinet. Use the first attached image(박단희) as a reference for the librarian. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_03_박단희의_비밀_3단계
 
@@ -904,7 +959,7 @@ HTML :
     <li>오후 1시 30분 점심 식사 자리에서 <span class="character-seoyeon">백서연 박사</span>는 <span class="character-haejun">정해준</span>의 리조트 개발 계획에 매우 불만스러워했습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young female librarian secretly listening through a slightly open door to a man having a serious phone call in a study. Use the first attached image(박단희) as a reference for the librarian, and the second attached image(정해준) as a reference for the man. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_04_박단희가_아는_것_4단계
 
@@ -936,8 +991,16 @@ HTML :
     <li>당신은 그에게 집착하여 배경 조사를 했고, 그가 1년 전 사기 및 폭력 전과로 징역을 살다 이곳에 숨어들었다는 사실을 알고 있습니다.</li>
     <li>향토사 연구 중 은금리 개척자 <span class="character-kitae">은금</span>이 쓴 편지를 발견했습니다. (그는 편지 작성 후 곧 익사했습니다.)</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"현수 씨가 부탁하는 과제들을 제가 다 대신 해주고 있어요. 우리 사이엔... 일종의 은밀한 대가가 오가거든요."</li>
+      <li>"자료를 조사하다가 100년 전 이 도가를 세운 1대 주인, 은금 씨의 편지를 하나 발견했는데 그 내용이 꽤 흥미롭습니다."</li>
+      <li>"전 현수 씨 뒷조사를 좀 해봤는데, 이 사람... 사기랑 폭력 전과를 숨기고 있더라고요."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A close up of a 100-year-old faded handwritten letter found among dusty archive files by a young woman. Use the first attached image(박단희) as a reference for the woman's hands. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_05_박단희의_비밀_4단계
 
@@ -972,7 +1035,7 @@ HTML :
     <li>오후 6시 45분경, <span class="character-seoyeon">백서연 박사</span>가 옆집에서 나와 누군가를 따라 지하 숙성 토굴로 들어갔고 잠시 후 불이 깜빡이다 꺼졌습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young female librarian watching an older elegant woman follow someone into a dark underground tunnel at dusk. Use the first attached image(박단희) as a reference for the librarian, and the second attached image(백서연) as a reference for the elegant woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_06_박단희가_아는_것_5단계
 
@@ -1000,8 +1063,14 @@ HTML :
   <ul>
     <li>당신은 늘 텔레비전 드라마나 영화에서 스타가 되는 꿈을 품어왔으며, 사실 오늘 도서관 사서 일을 그만두었습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"저 사실 오늘부로 사서 일 그만뒀어요. 이제 곧 텔레비전 스타가 돼서 이 지루한 시골을 떠날 거거든요."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A torn librarian resignation letter resting on a desk next to a magazine featuring movie stars. Use the first attached image(향토사 자료실) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_07_박단희의_비밀_5단계
 
@@ -1033,7 +1102,7 @@ HTML :
     <li>몇 달 전 <span class="character-hyunsu">류현수</span>가 당신의 생일 선물로 똑같은 촛대를 준 적이 있습니다. 하지만 당신이 가진 촛대는 어딘가 찌그러지고 상태가 좋지 않습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dented, old golden candlestick resting on a wooden shelf in a dark room. Use the first attached image(본채) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_08_박단희가_아는_것_6단계
 
@@ -1062,7 +1131,7 @@ HTML :
     <li>더 이상 감출 비밀이 없습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, dark room with a single beam of light shining on a blank piece of paper. Use the first attached image(빈 방) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_danhee_09_박단희의_비밀_6단계
 
@@ -1115,7 +1184,7 @@ HTML :
     </tbody>
   </table>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An elegant fountain pen resting on a stack of manuscript papers in a cozy study. Use the first attached image(서재) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_01_백서연의_타임라인_3단계
 
@@ -1150,7 +1219,7 @@ HTML :
     <li><span class="character-haejun">정해준</span>의 차가 지난 4일간 도서관 주차장에 매일 주차되어 있었습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An elegant older woman observing a man in a suit talking to a younger woman at a porch, seen from a flower garden. Use the first attached image(백서연) as a reference for the elegant woman, and the second attached image(정해준) for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_02_백서연이_아는_것_3단계
 
@@ -1182,8 +1251,16 @@ HTML :
     <li>수중에 현금이 거의 없으며, <span class="character-haejun">정해준</span>이 도가 땅을 대형 리조트로 개발하면 조용한 환경이 무너져 바로 옆에 있는 당신의 전원주택 땅값이 폭락할 것이 뻔해 매우 불안합니다.</li>
     <li>당신은 평소 <span class="character-eunju">강은주</span>가 남편 <span class="character-kitae">기태</span>를 죽이고 생명보험금을 노렸다고 의심해 왔으며, 그것이 다음 미스터리 소설의 핵심 줄거리입니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"전작 소송 문제로 제 재정 상태가 엉망이었는데, 기태 씨 사건을 소설로 쓰면 완벽하게 재기할 수 있어요."</li>
+      <li>"정해준 씨가 여길 리조트로 만들면, 조용한 환경을 잃게 될 제 땅값이 폭락할 텐데... 전 결사반대입니다."</li>
+      <li>"솔직히 전 예전부터 은주 씨가 보험금을 노리고 남편을 죽였다고 확신하고 있었죠. 제 새 소설의 메인 플롯이기도 하고요."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A close up of a bank statement showing severe debt, partially covered by a new thriller novel manuscript. Use the first attached image(서재) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_03_백서연의_비밀_3단계
 
@@ -1216,7 +1293,7 @@ HTML :
     <li><span class="character-eunju">강은주</span>는 처음에 남편 살인범 체포에 도움이 되는 정보에 거액의 현상금을 내걸었지만, 며칠 만에 돌연 그 제안을 철회했습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A view of a rustic camper van with faint smoke smelling like marijuana drifting from nearby, observed by an elegant woman. Use the first attached image(백서연) as a reference for the elegant woman, and the second attached image(캠핑카) for the camper van. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_04_백서연이_아는_것_4단계
 
@@ -1248,8 +1325,15 @@ HTML :
     <li>외로움을 달래기 위해 일꾼 <span class="character-hyunsu">류현수</span>를 가끔 침실로 불러 부적절한 밀회를 즐기고 있습니다.</li>
     <li>오늘 오후 3시 토굴에서 평소처럼 현수를 만났을 때 그의 주머니에서 종이 한 장이 떨어졌습니다. 당신은 그것을 주워 내용을 확인하고는 곧장 본채로 가서 <span class="character-eunju">은주</span>를 만나려 했습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"기태 씨가 살해당하던 날... 그와 마지막으로 점심을 함께 먹었던 사람은 바로 접니다."</li>
+      <li>"현수 씨, 아까 토굴에서 무언가 아주 중요한 은행 쪽지들을 흘리고 다니시던데, 제가 그걸 우연히 주웠지 뭐예요."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An elegant woman picking up a dropped scrap of paper from the dirt floor of a dark underground tunnel. Use the first attached image(백서연) as a reference for the elegant woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_05_백서연의_비밀_4단계
 
@@ -1284,7 +1368,7 @@ HTML :
     <li>약 6시 45분, <span class="character-eunji">강은지</span>가 오후와는 다른 옷을 입고 숙성 토굴로 향하는 걸 보았습니다. 마루의 <span class="character-danhee">박단희</span>가 지켜보고 있었지만, 당신은 <span class="character-eunji">은지</span>를 따라 토굴 안으로 깊숙이 들어갔습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A close up of a broken clock inside a dark tunnel, its hands frozen exactly at 6:45. Use the first attached image(지하 숙성 토굴) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_06_백서연이_아는_것_5단계
 
@@ -1314,8 +1398,14 @@ HTML :
     <li>당신은 <span class="character-kitae">남기태</span>를 진심으로 사랑했고, 그가 죽기 전까지 불륜 관계였습니다.</li>
     <li><span class="character-eunju">은주</span>가 이 관계를 눈치채고 기태에게 따졌습니다. 기태는 부부 관계를 지키려 즉시 당신과 관계를 끊어버렸고, 그로부터 불과 며칠 뒤 사망했습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"사실 저랑 기태 씨는 단순한 이웃이 아니었어요. 은주 씨한테 들키기 전까진 아주 깊고 은밀한 사이였죠."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man and an elegant woman arguing intensely in shadows, signaling the end of an affair. Use the first attached image(남기태) as a reference for the man, and the second attached image(백서연) for the elegant woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_07_백서연의_비밀_5단계
 
@@ -1345,7 +1435,7 @@ HTML :
     <li>그 종이가 <span class="character-kitae">기태</span>의 죽음과 관련이 있지 않을까 궁금합니다. <strong>당신은 주운 이 종이 조각을 오후 3시 45분에 <span class="character-eunju">은주</span>에게 찾아가 보여준 적이 있습니다. (이 정보를 다른 플레이어들에게 즉시 밝히고, <span class="emphasis">[6단계 비밀 단서 - 은행 쪽지]</span>를 조사하세요.)</strong></li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An elegant woman holding out a small scrap of paper with bloodstains to another woman in a dark room. Use the first attached image(백서연) as a reference for the elegant woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_08_백서연이_아는_것_6단계
 
@@ -1374,7 +1464,7 @@ HTML :
     <li>더 이상 감출 비밀이 없습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, dark room with a single beam of light shining on a blank piece of paper. Use the first attached image(빈 방) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Baek Seo-yeon). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_seoyeon_09_백서연의_비밀_6단계
 
@@ -1431,7 +1521,7 @@ HTML :
     </tbody>
   </table>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A shiny modern car parked in front of a traditional Korean brewery, a briefcase on the hood. Use the first attached image(은금도가 본채) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_01_정해준의_타임라인_3단계
 
@@ -1464,7 +1554,7 @@ HTML :
     <li>오후 1시쯤 연못 화단에서 <span class="character-eunju">은주</span>가 벌에 쏘였고, 그녀는 놀라 들고 있던 그 물건을 풀밭에 떨어뜨린 채 집 안으로 달려 들어갔습니다. 당신도 그녀를 뒤따라갔습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A young woman dropping a small object in the grass in panic while swatting at a bee, observed by a man in a suit. Use the first attached image(박단희) as a reference for the young woman, and the second attached image(정해준) for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_02_정해준이_아는_것_3단계
 
@@ -1494,8 +1584,15 @@ HTML :
     <li>새로운 개발 마케팅을 위해 지난 4일 동안 향토사 자료실에서 이 마을의 역사를 면밀히 조사했습니다.</li>
     <li>오늘 오후 <span class="character-dohun">최도훈</span>이 너무 간절해 보이며 이력서를 건넸지만, 채용 계획이 없다며 거절했습니다. 부동산 호황기인데 그의 상황이 이상하게 느껴집니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"지난 4일 동안 향토사 자료실에 매일같이 출근 도장 찍으며 조사를 좀 했습니다."</li>
+      <li>"아까 도훈 씨가 저한테 간절하게 이력서를 건네더군요. 부동산 호황기인데 구직에 쫓기는 모습이 아주 이상했습니다."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man in a sharp suit looking at dusty historical town archives in a library. Use the first attached image(정해준) as a reference for the man in the suit, and the second attached image(향토사 자료실) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_03_정해준의_비밀_3단계
 
@@ -1528,7 +1625,7 @@ HTML :
     <li>오후 3시 15분경, 한 여성이 지하 숙성 토굴로 들어가는 것을 보았습니다. 그녀는 안쪽에서 일꾼 <span class="character-hyunsu">류현수</span>와 무언가 은밀하게 대화를 나누고 있었습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A view from a parked car watching a woman enter a dark underground tunnel to meet a worker. Use the first attached image(강은지) as a reference for the woman, and the second attached image(류현수) for the worker. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_04_정해준이_아는_것_4단계
 
@@ -1560,8 +1657,16 @@ HTML :
     <li>사서 <span class="character-danhee">박단희</span>는 사실 당신의 이종사촌 누나입니다. 그녀가 은금도가를 사라고 정보를 흘려주었고 나중에 자신이 이익을 붙여 되사주겠다고 약속했습니다.</li>
     <li><span class="character-eunju">강은주</span>가 부른 땅값이 너무 비싸, 이를 깎아달라 설득하며 자금을 마련하기 위해 오늘 하루 종일 전화통화에 매달려 있었습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"사실 전 대형 개발업자가 아니라 말단 인턴이에요. 실적을 올려보려고 무리하게 나선 거죠."</li>
+      <li>"단희 누나가 제 사촌입니다. 누나가 먼저 여길 싸게 사면 큰돈을 벌 수 있다고 부추겨서 온 거라고요."</li>
+      <li>"은주 씨가 땅값을 너무 비싸게 불러서, 전 오늘 하루 종일 자금을 구하고 가격을 깎느라 통화만 했습니다."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man in a suit desperately talking on a mobile phone inside a car, looking stressed about money. Use the first attached image(정해준) as a reference for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_05_정해준의_비밀_4단계
 
@@ -1594,7 +1699,7 @@ HTML :
     <li>술을 마시던 중 갑자기 조명이 꺼지고 토굴 반대편에서 비명이 들리자, <span class="character-eunju">은주</span>가 자리에 있으라고 하고는 확인하러 갔습니다. 그것이 그녀가 살아있는 마지막 모습이었습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Two people drinking traditional Korean liquor in a dark, moody underground cellar lit by a single bulb. Use the first attached image(정해준) as a reference for the man, and the second attached image(지하 숙성 토굴) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_06_정해준이_아는_것_5단계
 
@@ -1624,8 +1729,15 @@ HTML :
     <li><span class="character-danhee">박단희</span> 누나에게 왜 자신을 대형 개발업자로 위장시키는지 따지자, 도가 뒷산에 수십억 원어치의 일제강점기 군용 금괴가 묻혀 있다고 귀띔해주었습니다.</li>
     <li>오후 2시 15분경 <span class="character-danhee">단희</span> 누나가 몰래 차로 찾아와 수면제 한 병을 주며, 만약 <span class="character-eunju">은주</span>가 매각을 고집스럽게 거부하면 그녀의 음료에 몰래 타라고 지시했습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"단희 누나가 오후 2시쯤 몰래 제 차로 오더니, 수면제를 주면서 은주 씨한테 먹이라고 시켰어요."</li>
+      <li>"누나가 도가 뒷산에 일제강점기 시절 숨겨둔 수십억 원짜리 금괴가 묻혀 있다고 털어놓더군요."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A woman secretly handing a small bottle of sleeping pills to a man in a suit through a car window. Use the first attached image(강은주) as a reference for the woman, and the second attached image(정해준) for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_07_정해준의_비밀_5단계
 
@@ -1656,7 +1768,7 @@ HTML :
     <li><span class="character-eunju">강은주</span>의 시신 옆에서 발견된 쪽지의 필체는 놀랍게도 100년 전 개척자 은금이 쓴 편지의 글씨체와 완벽하게 일치합니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A close up comparing a freshly handwritten note with a 100-year-old faded letter, showing identical handwriting. Use the first attached image(서재) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_08_정해준이_아는_것_6단계
 
@@ -1685,7 +1797,7 @@ HTML :
     <li>더 이상 감출 비밀이 없습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A man in a sharp suit looking relieved in a dark room, as if a burden has been lifted. Use the first attached image(정해준) as a reference for the man in the suit. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_haejun_09_정해준의_비밀_6단계
 
@@ -1711,17 +1823,17 @@ HTML :
 관련 : 최도훈
 의도 : 조사 3단계에서 최도훈이 참고해야 할 하루 행적 알리바이 타임라인 정보.
 내용 :
-오전 8:00 : 캠핑카에서 기상. 은지는 자고 있음
-오전 8:30 ~ 9:00 : 은금리 마을로 나가 은은하게 빛나는 금은방 방문
-오전 9:00 ~ 9:15 : 금은방에서 비녀와 금 촛대 구매
-오전 9:15 ~ 11:30 : 마을 구경 (카페, 식당 등)
-오전 11:30 ~ 정오 : 은금도가 본채에 돌아와 강은주에게 순금 비녀 전달
-정오 ~ 오후 1:30 : 캠핑카에서 휴식
-오후 1:30 ~ 2:30 : 본채에서 낮잠
-오후 2:30 ~ 3:30 : 강은지와 함께 캠핑카에서 휴식
-오후 3:30 ~ 6:00 : 피곤하여 낮잠
-오후 6:00 ~ 7:00 : 잠에서 깨어 본채로 감. 아무도 없어 서재 구경
-오후 7:00 ~ 현재 : 은금도가 본채에 머무름
+오전 8:30 ~ 10:00 : 은금리 마을 금은방 방문
+오전 10:00 ~ 10:30 : 카메라를 들고 주변 경치와 새 사진 촬영 (산책)
+오전 10:30 ~ 11:00 : 은금도가 본채에서 강은주와 대화하며 순금 비녀 선물
+오전 11:00 ~ 오후 1:00 : 은금도가 외곽 산책 및 사진 촬영
+오후 1:00 ~ 2:30 : 캠핑카에서 업무용 전화 통화
+오후 2:30 ~ 3:30 : 아내 강은지와 함께 캠핑카 안에서 휴식
+오후 3:30 ~ 5:30 : 은금도가 주변 산책
+오후 5:30 ~ 6:30 : 연못 정원 벤치에서 휴식
+오후 6:30 ~ 6:45 : 도가 건물 뒤편 탐험
+오후 6:45 ~ 7:00 : 와인 숙성 토굴 조명이 꺼지는 것을 목격, 무슨 일인지 보러 감
+오후 7:00 ~ 현재 : 은금도가 본채로 복귀
 HTML :
 <div class="story-content">
   <div class="section-title">당신의 행적 (타임라인)</div>
@@ -1730,21 +1842,21 @@ HTML :
       <tr><th>시간</th><th>장소 및 행동</th></tr>
     </thead>
     <tbody>
-      <tr><td>오전 8:00</td><td>캠핑카에서 기상. 은지는 수면 중</td></tr>
-      <tr><td>오전 8:30 ~ 9:00</td><td>마을로 나가 '은은하게 빛나는 금은방' 방문</td></tr>
-      <tr><td>오전 9:00 ~ 9:15</td><td>금은방에서 비녀와 금 촛대 2개 구매(교환)</td></tr>
-      <tr><td>오전 9:15 ~ 11:30</td><td>마을 구경 (카페, 식당 등)</td></tr>
-      <tr><td>오전 11:30 ~ 정오</td><td>본채로 돌아와 강은주에게 순금 비녀 전달</td></tr>
-      <tr><td>정오 ~ 오후 1:30</td><td>캠핑카에서 휴식</td></tr>
-      <tr><td>오후 1:30 ~ 2:30</td><td>본채에서 낮잠</td></tr>
-      <tr><td>오후 2:30 ~ 3:30</td><td>강은지와 함께 캠핑카에서 휴식</td></tr>
-      <tr><td>오후 3:30 ~ 6:00</td><td>피곤하여 다시 낮잠</td></tr>
-      <tr><td>오후 6:00 ~ 7:00</td><td>본채로 갔으나 아무도 없어 서재 구경</td></tr>
+      <tr><td>오전 8:30 ~ 10:00</td><td>마을로 나가 은은하게 빛나는 금은방 방문</td></tr>
+      <tr><td>오전 10:00 ~ 10:30</td><td>카메라를 들고 주변 경치와 새 사진 촬영 (산책)</td></tr>
+      <tr><td>오전 10:30 ~ 11:00</td><td>본채에서 은주와 대화하며 순금 비녀 선물</td></tr>
+      <tr><td>오전 11:00 ~ 오후 1:00</td><td>도가 주변 외곽 산책 및 사진 촬영</td></tr>
+      <tr><td>오후 1:00 ~ 2:30</td><td>캠핑카 안에서 업무용 전화 통화</td></tr>
+      <tr><td>오후 2:30 ~ 3:30</td><td>강은지와 함께 캠핑카 안에서 휴식</td></tr>
+      <tr><td>오후 3:30 ~ 5:30</td><td>은금도가 주변 산책</td></tr>
+      <tr><td>오후 5:30 ~ 6:30</td><td>연못 정원 벤치에서 휴식</td></tr>
+      <tr><td>오후 6:30 ~ 6:45</td><td>도가 건물 뒤편 탐험</td></tr>
+      <tr><td>오후 6:45 ~ 7:00</td><td>토굴 조명 꺼짐. 무슨 일인지 보러 감</td></tr>
       <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채에 머무름</td></tr>
     </tbody>
   </table>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A luxury watch resting on a table inside a messy camper van. Use the first attached image(캠핑카) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_dohun_01_최도훈의_타임라인_3단계
 
@@ -1765,19 +1877,19 @@ HTML :
 관련 : 최도훈
 의도 : 조사 3단계에서 최도훈이 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
 내용 :
-1. 오전 9시에 금은방에서 순금 비녀와 촛대 2개를 샀습니다. 그 중 하나가 안방 선반에 있는 촛대와 유사합니다.
-2. 11시 30분에 은주에게 비녀를 주었으나 그녀는 실망하고 불편해했습니다.
-3. 캠핑카 안에서 오후 1시쯤 정해준 차 근처로 다가가는 박단희를 봤습니다.
+1. 안방을 몰래 구경하다 고인이 된 남편 남기태를 기리는 작은 제단을 보았습니다.
+2. 오후 12시 45분경 사진을 찍으며 돌아다니던 중 일꾼 류현수가 어딘가를 몰래 염탐하는 듯한 모습을 보았습니다.
+3. 리조트 개발업자라던 정해준에게 이력서를 주며 취업을 부탁했으나, 시장이 침체되어 채용을 하지 않는다고 거절당했습니다. (최근 부동산 시장은 호황입니다.)
 HTML :
 <div class="story-content">
   <div class="section-title">당신이 아는 것</div>
   <ul>
-    <li>오전 9시경 마을 금은방에서 순금 비녀 하나와 금으로 도금된 촛대 2개를 샀습니다. 지금 <span class="character-eunju">은주</span>의 안방 선반에 있는 낡은 촛대와 매우 비슷하게 생겼습니다.</li>
-    <li>오전 11시 30분경 <span class="character-eunju">강은주</span>에게 환심을 사기 위해 순금 비녀를 선물로 주었지만, 그녀는 크게 기뻐하기는커녕 뭔가 실망하고 불편해하는 기색이었습니다.</li>
-    <li>오후 1시쯤 캠핑카 안에서 밖을 내다보다가, <span class="character-danhee">박단희</span>가 조심스럽게 <span class="character-haejun">정해준</span>의 차 근처로 다가가는 것을 보았습니다.</li>
+    <li><span class="character-eunju">은주</span>를 찾기 위해 안방에 들어갔다가, 고인이 된 남편 <span class="character-kitae">남기태</span>를 기리는 작은 제단이 꾸려져 있는 것을 보았습니다. 그중 한 물건이 눈길을 끌었습니다. <strong>(다른 플레이어들에게 알리고, <span class="emphasis">[2단계 힌트 단서]</span>를 확인하세요.)</strong></li>
+    <li>오후 12시 45분경 카메라를 들고 돌아다닐 때, <span class="character-hyunsu">류현수</span>가 어딘가를 몰래 염탐하는 듯한 모습을 보았습니다.</li>
+    <li><span class="character-haejun">정해준</span>에게 이력서를 내밀며 취업을 부탁했으나, 그는 시장이 침체되어 채용하지 않는다고 말했습니다. 분명 부동산 시장이 호황이라고 들었는데 말입니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A middle-aged man offering a shiny golden hairpin to a woman who looks visibly uncomfortable and disappointed. Use the first attached image(최도훈) as a reference for the man, and the second attached image(강은주) for the woman. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_dohun_02_최도훈이_아는_것_3단계
 
@@ -1798,17 +1910,24 @@ HTML :
 관련 : 최도훈
 의도 : 조사 3단계에서 최도훈이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
 내용 :
-1. 사기와 횡령으로 경찰 수배 중이며 도피를 위해 이곳에 왔습니다.
-2. 은지에게는 모든 게 잘 되고 있다고 거짓말했습니다.
+1. 아내 은지와의 결혼 생활은 위태롭습니다. 그녀의 마음을 돌리기 위해 일찍 일어나 은팔찌를 사러 마을에 갔습니다.
+2. 오전 10시 30분에 도가 체류를 허락해 준 처형 은주에게 환심을 사기 위해, 남은 돈을 무리하게 털어 특별히 문구를 각인한 순금 비녀를 선물했습니다.
 HTML :
 <div class="story-content">
   <div class="section-title">당신의 비밀</div>
   <ul>
-    <li>당신은 대규모 사기 및 회사 공금 횡령 혐의로 경찰의 수배를 받고 있습니다. 아내 <span class="character-eunji">은지</span>에게 휴가를 가자고 속이고 사실상 도피를 위해 이곳 외진 은금도가에 온 것입니다.</li>
-    <li><span class="character-eunji">은지</span>에게는 사업이 아주 잘 되고 있다고 뻔뻔하게 거짓말을 해둔 상태입니다.</li>
+    <li>당신은 아내 <span class="character-eunji">은지</span>와의 관계가 몹시 틀어져 있습니다. 그녀의 마음을 돌리기 위해 아침 일찍 마을에 내려가 무리해서 예쁜 은팔찌를 하나 샀습니다.</li>
+    <li>오전 10시 30분, 이번 휴가 기간 동안 머물게 해준 처형 <span class="character-eunju">강은주</span>에게 환심을 사기 위해, 무리하게 돈을 들여 특별히 각인까지 한 순금 비녀를 선물했습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"은지와의 관계가 많이 나빠서, 아침 일찍 화해의 선물로 은팔찌를 사러 마을에 갔었습니다."</li>
+      <li>"처형 은주님께 잘 보이고 싶어서 10시 30분쯤에 순금 비녀를 따로 선물로 드렸었죠."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A middle-aged man hiding in the shadows of a camper van, looking nervously at a police wanted poster. Use the first attached image(최도훈) as a reference for the man. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of 이 환경. The artistic style MUST be a high-quality watercolor comic-book illustration. No text.
 장소 : 없음
 파일명 : p_dohun_03_최도훈의_비밀_3단계
 
@@ -1829,19 +1948,19 @@ HTML :
 관련 : 최도훈
 의도 : 발견 4단계에서 최도훈이 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
 내용 :
-1. 오후 1시 30분, 강은주, 박단희, 강은지, 백서연이 점심을 함께했습니다.
-2. 류현수와 정해준은 점심 식사에 참석하지 않았습니다.
-3. 캠핑카 주변을 어슬렁거리던 류현수가 대마초 냄새를 풍겼습니다.
+1. 아내 은지는 은주 처형의 유일한 혈육입니다. 은주가 죽은 지금, 은지가 은금도가의 정당한 상속인입니다.
+2. 오후 3시 45분경 은주와 백서연 박사 사이에 격렬한 언쟁을 우연히 들었습니다. 은주는 "기태 살인 사건 증거는 부인하겠다. 책에서 폭로하지 마라"고 말했습니다.
+3. 오늘 본 류현수는 가구 밑이나 서랍 등 여기저기를 살피며 무언가를 찾는 듯한 모습을 보였습니다.
 HTML :
 <div class="story-content">
   <div class="section-title">당신이 아는 것</div>
   <ul>
-    <li>오후 1시 30분경 본채에서 <span class="character-eunju">강은주</span>, <span class="character-danhee">박단희</span>, <span class="character-eunji">강은지</span>, <span class="character-seoyeon">백서연</span> 네 여자가 점심을 함께하는 것을 보았습니다.</li>
-    <li>일꾼 <span class="character-hyunsu">류현수</span>와 땅 매입자 <span class="character-haejun">정해준</span>은 그 점심 식사 자리에 없었습니다.</li>
-    <li>오후에 캠핑카 주변을 어슬렁거리던 <span class="character-hyunsu">류현수</span>에게서 특유의 대마초 냄새가 났습니다.</li>
+    <li>아내 <span class="character-eunji">은지</span>는 <span class="character-eunju">강은주</span> 처형의 유일한 친척입니다. 언니가 죽은 지금, 은지가 은금도가의 정당한 상속인입니다.</li>
+    <li>오후 3시 45분경 산책 중, <span class="character-eunju">강은주</span>와 <span class="character-seoyeon">백서연 박사</span> 사이에 벌어진 격렬한 언쟁을 우연히 엿들었습니다. 은주는 "남기태 살인 사건에 관한 어떤 증거도 부인하겠다, 책에서 그것을 폭로하는 걸 원치 않는다"라고 소리쳤습니다.</li>
+    <li>일꾼 <span class="character-hyunsu">류현수</span>는 하루 종일 가구 밑이나 서랍 등을 살피며 무언가를 미친 듯이 찾는 듯했습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Four women having a tense lunch together in a traditional Korean dining room, viewed from a distance by a man. Use the first attached image(최도훈) as a reference for the man observing, and the second attached image(은금도가 본채) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_dohun_04_최도훈이_아는_것_4단계
 
@@ -1862,19 +1981,24 @@ HTML :
 관련 : 최도훈
 의도 : 발견 4단계에서 최도훈이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
 내용 :
-1. 오후 1시쯤 변호사에게 전화가 와 서재에서 통화하며 징역형을 피할 수 없다는 절망적 소식을 들었습니다.
-2. 금은방에서 산 물건은 사실 며칠 전 훔친 금괴를 현금화하기 위한 교환이었습니다.
-3. 은주에게 준 비녀에 아부성 문구를 각인해 달라고 주문했습니다. (어떤 문구인지는 기억 안 남)
+1. 오전 10시 30분에 은주가 당신에게 "은지가 맞고 산다"고 전해주었습니다. 한 번도 때린 적 없는 당신은 충격을 받았습니다.
+2. 오후 1시에 회사 직속 상사로부터 전화를 받았습니다. 여직원 성희롱 문제로 대기 발령 중이었는데, 조사 과정에서 당신의 회사 공금 횡령 증거까지 드러나 결국 최종 해고를 통보받았습니다.
 HTML :
 <div class="story-content">
   <div class="section-title">당신의 비밀</div>
   <ul>
-    <li>오후 1시경 담당 변호사에게 다급한 전화가 왔고, 본채 서재에서 1시간 반 동안 통화했습니다. 변호사는 징역형을 피할 수 없다는 절망적인 소식을 전했습니다.</li>
-    <li>아침에 금은방에서 비녀와 촛대를 현금으로 산 게 아닙니다. 사실 며칠 전 당신이 훔친 작은 금괴 하나를 건네주고, 그것을 현금화할 수 없어 대신 금붙이 물건들로 교환한 것입니다.</li>
-    <li><span class="character-eunju">은주</span>에게 환심을 사기 위해 금은방 주인에게 비녀에 뭔가 아부성 짙은 사랑 문구를 아무거나 각인해 달라고 대충 주문했습니다. 무슨 문구였는지는 기억나지 않습니다.</li>
+    <li>오전 10시 30분 <span class="character-eunju">은주</span>에게 비녀를 줄 때 그녀가 말하길, <span class="character-eunji">은지</span>가 당신에게 맞고 산다고 했다고 합니다. 당신은 아내에게 손 하나 댄 적이 없기 때문에 큰 충격을 받았습니다.</li>
+    <li>오후 1시경 상사로부터 전화를 받았습니다. 당신은 사내 여직원 성희롱 혐의로 대기 발령 중이었는데, 조사 과정에서 당신이 개인 계좌로 공금을 빼돌린 횡령 증거까지 발각되어 <strong>최종 해고 통보</strong>를 받았습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"은지에게 손찌검을 한 적이 없는데, 은주 처형이 저보고 가정폭력범이라 하더군요."</li>
+      <li>"사실 오후 1시에 상사에게 전화를 받았습니다. 성희롱 문제로 대기발령 중이었는데 횡령까지 들통나서 해고당했죠..."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A middle-aged man in a study gripping a phone tightly in despair after hearing a prison sentence. Use the first attached image(최도훈) as a reference for the man, and the second attached image(서재) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_dohun_05_최도훈의_비밀_4단계
 
@@ -1895,19 +2019,19 @@ HTML :
 관련 : 최도훈
 의도 : 시험 5단계에서 최도훈이 적극적으로 밝혀야 할 아는 정보.
 내용 :
-1. 3시 30분에 캠핑카로 돌아왔을 때 은지는 없었고 당신은 다시 잠들었습니다.
-2. 6시경 깨어나 본채로 가보니 아무도 없어 서재에서 시간을 보냈습니다.
-3. 6시 45분경 웅장한 소리(펑)와 함께 정전이 되었고 밖을 보니 연못가에 누군가의 형체가 달빛에 비쳤습니다.
+1. 오후 3시 45분경 산책 중에 백서연 박사가 은주에게 로버트를 죽인 사람의 증거가 있다고 주장하는 것을 엿들었습니다.
+2. 1시경 업무 전화를 마친 직후, 박단희가 정해준에게 몰래 다가가 작은 약병을 건네주는 모습을 똑똑히 보았습니다.
+3. 오후 6시 45분경, 와인 숙성 토굴의 불빛이 깜빡이다 꺼졌고 곧 은지의 비명이 들려 달려갔으나 미로에서 길을 잃었습니다.
 HTML :
 <div class="story-content">
   <div class="section-title">당신이 아는 것</div>
   <ul>
-    <li>오후 3시 30분에 피곤해 캠핑카로 돌아왔을 때 아내 <span class="character-eunji">은지</span>는 없었고, 당신은 그대로 다시 곯아떨어졌습니다.</li>
-    <li>오후 6시경 잠에서 깨어 본채로 갔지만 1층에는 아무도 없었고, 서재에서 혼자 시간을 보냈습니다.</li>
-    <li>오후 6시 45분경, 웅장한 폭발음 같은 소리(펑)와 함께 본채가 정전되었습니다. 놀라 창밖을 내다보니 연못가 쪽에 누군가의 형체가 어렴풋이 달빛에 비치는 것을 보았습니다.</li>
+    <li>오후 3시 45분경 산책 중 농가 앞을 지나가다가, <span class="character-eunju">은주</span>와 <span class="character-seoyeon">백서연 박사</span>가 언쟁하는 소리를 다시 들었습니다. 백 박사는 남기태를 죽인 사람에 대한 증거가 있다고 주장했지만 은주는 듣지 않으려 했습니다.</li>
+    <li>1시경 캠핑카 안에서 상사와의 해고 통화 직후 창밖을 봤을 때, <span class="character-danhee">박단희</span>가 <span class="character-haejun">정해준</span>에게 몰래 다가가 <strong>작은 알약 병</strong>을 건네는 모습을 분명히 보았습니다.</li>
+    <li>오후 6시 45분경 산책 중 지하 숙성 토굴의 불빛이 꺼지는 것을 보았고, 곧 아내 <span class="character-eunji">은지</span>의 비명 소리를 들었습니다. 저장고 뒤쪽 문으로 뛰어갔으나 어두운 복도에서 길을 잃었습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A view from a window showing a sudden blackout in a traditional house, with a faint figure near a pond illuminated by moonlight. Use the first attached image(은금도가 본채) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_dohun_06_최도훈이_아는_것_5단계
 
@@ -1928,15 +2052,24 @@ HTML :
 관련 : 최도훈
 의도 : 시험 5단계에서 최도훈이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
 내용 :
-1. 사실 5시 30분경 잠시 깼을 때 연못가에서 은지가 류현수와 강렬하게 키스하는 걸 봤고 배신감에 떨며 캠핑카로 돌아와 모른 척했습니다.
+1. 오후 2시에 캠핑카에 함께 있을 때, 대출을 거절당한 은지가 깊은 상심에 빠져 당신 앞에서 울음을 터뜨렸습니다.
+2. 오후 5시 30분경 연못가 정자에서 사진을 찍다 아내 은지가 일꾼 류현수와 추파를 던지며 진하게 키스하는 것을 목격했습니다.
 HTML :
 <div class="story-content">
   <div class="section-title">당신의 비밀</div>
   <ul>
-    <li>사실 오후 5시 30분경 잠시 깼을 때 창밖 연못가에서 아내 <span class="character-eunji">은지</span>가 일꾼 <span class="character-hyunsu">류현수</span>와 강렬하게 키스하는 것을 목격했습니다. 엄청난 배신감에 떨었지만, 분노를 억누르고 침대에 누워 계속 자는 척 모른 체했습니다.</li>
+    <li>오후 2시에 당신은 캠핑카 방에서 아내 <span class="character-eunji">은지</span>와 함께 있었습니다. 그녀는 <span class="character-eunju">은주</span>에게 돈을 빌려 달라는 대출 요청을 거절당했다며 상심하여 당신 앞에서 울음을 터뜨렸습니다.</li>
+    <li>오후 5시 30분, 당신은 연못 정원 벤치 주변에서 망원 카메라 렌즈로 주변을 구경하고 있었습니다. 그때 당신의 아내 <span class="character-eunji">은지</span>가 일꾼 <span class="character-hyunsu">류현수</span>와 추파를 던지며 <strong>키스하는 모습</strong>을 똑똑히 목격했습니다. 엄청난 배신감이 들었습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"오후 2시경 은지가 언니한테 대출을 거절당하고 캠핑카에서 펑펑 울었어요."</li>
+      <li>"사실 카메라 망원 렌즈로... 5시 반쯤 제 아내가 현수 씨와 진하게 키스하는 걸 다 보고 말았습니다."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A middle-aged man peeking from a camper van window, witnessing his wife kissing another man passionately by a pond. Use the first attached image(최도훈) as a reference for the observing man, and the second attached image(은금도가 본채) for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_dohun_07_최도훈의_비밀_5단계
 
@@ -1957,17 +2090,15 @@ HTML :
 관련 : 최도훈
 의도 : 마지막 6단계에서 최도훈이 적극적으로 밝혀야 할 최종 획득 정보.
 내용 :
-1. 류현수의 낡은 헛간 바닥에 숨겨진 상자에서 당신이 며칠 전 훔친 것과 동일한 일련번호의 금괴를 보았습니다.
-2. 비녀에 새긴 문구는 “은주, 하나뿐인 그대”입니다.
+1. 비녀에 당신이 은밀하게 각인해 달라고 주문했던 그 아부성 문구는 다름 아닌 “은주, 하나뿐인 그대”였습니다.
 HTML :
 <div class="story-content">
   <div class="section-title">당신이 아는 것</div>
   <ul>
-    <li><span class="character-hyunsu">류현수</span>가 쉬는 낡은 헛간에 들어갔다가 바닥 널빤지 아래 숨겨진 낡은 상자를 우연히 보았습니다. 그 안에는 당신이 며칠 전 훔쳤던 것과 동일한 각인과 일련번호 패턴을 가진 일제강점기 군용 금괴 하나가 들어있었습니다.</li>
-    <li>아침에 금은방 주인에게 비녀에 새겨 달라고 대충 부탁했던 그 아부성 문구는 다름 아닌 <strong>"은주, 하나뿐인 그대"</strong>였습니다.</li>
+    <li>아침에 금은방 주인에게 돈을 빌리기 위해 환심을 사려고 특별히 새겨 달라고 부탁했던 순금 비녀의 그 아부성 문구는 다름 아닌 <strong>"은주, 하나뿐인 그대"</strong>였습니다. 당신은 예전 젊었을 적 은주를 만났던 첫사랑의 과거를 은근히 들추어내어 동정심과 옛정을 자극해 큰 돈을 빌리려 했습니다.</li>
   </ul>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A hidden wooden box buried under dirt floorboards in a rusty shed, containing a single engraved gold bar. Use the first attached image(낡은 헛간) as a reference for the environment. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_dohun_08_최도훈이_아는_것_6단계
 
@@ -1988,18 +2119,22 @@ HTML :
 관련 : 최도훈
 의도 : 마지막 6단계에서 최도훈이 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
 내용 :
-1. 당신의 사업 파트너가 남기태였습니다.
-2. 기태가 죽은 후 그가 숨겨둔 금괴를 훔쳐 달아나려 했습니다.
-3. 더 이상 감출 비밀이 없습니다.
+1. 사실 처음에는 강은주와 사귀었으나 은지가 임신하는 바람에 몰래 결혼했습니다.
+2. 더 이상 감출 비밀이 없습니다.
 HTML :
 <div class="story-content">
   <div class="section-title">당신의 비밀</div>
   <ul>
-    <li>당신의 사기 사업 파트너가 다름 아닌 6개월 전 죽은 <span class="character-kitae">남기태</span>였습니다.</li>
-    <li>그가 죽은 후, 당신은 그가 도가 어딘가에 숨겨두었다고 말했던 대량의 일제 금괴를 훔쳐 해외로 달아나기 위해 이곳에 온 것입니다.</li>
+    <li>사실 당신은 처음에는 동생이 아닌 <span class="character-eunju">강은주</span>와 먼저 데이트를 했었습니다. 그러나 매우 보수적이었던 언니와 달리 개방적이고 매혹적이었던 <span class="character-eunji">은지</span>에게 유혹당했고, 결국 은지가 임신하면서 몰래 도망쳐 결혼하게 되었습니다. 이 일로 자매는 완전히 의절하게 되었습니다.</li>
     <li>더 이상 감출 비밀이 없습니다.</li>
   </ul>
+  <div class="hint-guide">
+    <strong>⏳ 시간 임박 시 행동 지침:</strong> 만약 단계 종료 3분 전까지 아무도 위 비밀에 대해 묻지 않는다면, 아래의 대사 중 하나를 선택해 넌지시 화두를 던지세요.<br>
+    <ul>
+      <li>"사실 제가 은지 이전에 언니인 은주를 먼저 사귀었었습니다. 은지의 유혹에 넘어가 사고를 쳐버린 거죠."</li>
+    </ul>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A shadowy figure of a middle-aged man packing a bag with stolen gold bars in the dead of night. Use the first attached image(최도훈) as a reference for the man. Dark watercolor illustration, ink wash painting elements, neo-noir thriller style, color bleeding, moody and atmospheric. No text, no letters, no words.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Character). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
 파일명 : p_dohun_09_최도훈의_비밀_6단계
