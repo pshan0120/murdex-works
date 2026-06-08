@@ -8,10 +8,13 @@
 
     [[변형 ID: profile_lee_default]]
     단서명: 용의자: 이 군
-    내용: <p>헝크러진 머리에 보풀이 인 붉은색 니트, 헐렁한 청바지 차림의 청년입니다. 얼굴에는 옅은 상처가 있고, 초조한 듯 입술을 깨물며 다리를 떨고 있습니다. 거친 숨을 몰아쉬며 현장을 떠나지 못하고 계속해서 맴돌고 있습니다.</p>
+    내용: <p>눈과 진흙으로 얼룩진 낡은 운동화, 보풀이 잔뜩 일어난 붉은색 스웨터 차림의 청년입니다. 얼굴에는 누군가에게 얻어맞은 듯 피딱지가 앉은 생채기가 선명합니다. 그는 구석에 서서 짐승처럼 거친 숨을 몰아쉬며, 신경질적으로 손톱을 물어뜯고 있습니다. 방금 전까지 눈보라 속을 미친 듯이 달린 사람처럼 온몸이 흠뻑 젖어 있습니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 0_profile_lee_용의자_이_군
+    이미지 첨부: **[REF_CHAR_이철수]**, **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for human physics and texture research.** It features an **AI-generated synthetic human model** of a young Korean man (Lee Gun) standing in the 'Magnolia Cafe' hall, based on the attached images. He wears a **worn-out red knit sweater with pilling** and **loose, baggy jeans**. He has **messy, unkempt hair** and a **faint scar** on his face. His expression is **visibly anxious**, biting his lip and looking around nervously. Posture suggests he is pacing or shaking his leg. Background is the dim, atmospheric hall with red leather booths. **Cinematic lighting, film noir style.** **Aspect Ratio: 1:1.**
 
 [[단서 ID: profile_kim]]
 유형: 관찰
@@ -23,10 +26,13 @@
 
     [[변형 ID: profile_kim_default]]
     단서명: 용의자: 김 사장
-    내용: <p>회색 정장을 입고 머리를 빗어 넘긴 건장한 체격의 중년 남성입니다. 험상궂은 표정으로 팔짱을 끼고 있으며, 손가락에는 굵은 금반지가 번들거립니다. 최 마담과 은밀한 거래를 이어오던 토박이 부동산 업자입니다.</p>
+    내용: <p>기름기를 잔뜩 발라 넘긴 머리에 은회색 정장을 차려입은 중년 사내입니다. 두꺼운 목에는 번들거리는 금목걸이가, 뭉툭한 손가락에는 커다란 금반지가 파묻혀 있습니다. 겉으로는 태연한 척 팔짱을 끼고 거들먹거리지만, 형광등 불빛 아래 번들거리는 이마의 식은땀과 끊임없이 굴러가는 탁한 눈동자가 그의 깊은 불안을 증명하고 있습니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 0_profile_kim_용의자_김_사장
+    이미지 첨부: **[REF_CHAR_김팔봉]**, **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for human physics and texture research.** It features an **AI-generated synthetic human model** of a middle-aged Korean man (Kim Sajang) standing in the 'Magnolia Cafe' hall, based on the attached images. He has a **sturdy, pot-bellied build** and wears a **grey suit**. His hair is **slicked back with pomade**. He has a **fierce, arrogant expression** and stands with **arms crossed**. A **large gold ring** glistens on his finger. Background is the dim, atmospheric hall. **Cinematic lighting, film noir style.** **Aspect Ratio: 1:1.**
 
 [[단서 ID: profile_miss]]
 유형: 관찰
@@ -38,10 +44,13 @@
 
     [[변형 ID: profile_miss_default]]
     단서명: 용의자: 미스 양
-    내용: <p>낡은 분홍색 가디건에 꼬질꼬질한 흰색 앞치마를 두른 종업원입니다. 하나로 묶은 머리에 화장기 없는 얼굴은 창백하게 질려 있습니다. 금방이라도 울 것 같은 표정으로 고개를 푹 숙인 채 손을 만지작거리고 있습니다.</p>
+    내용: <p>한때 화려했을 분홍색 가디건은 곳곳이 해져 있고, 허리에 두른 흰색 앞치마에는 정체 모를 검은 얼룩들이 묻어 있습니다. 핏기 하나 없이 창백한 얼굴 위로 흐트러진 머리카락이 늘어져 있습니다. 그녀는 차갑게 식어가는 시신 쪽으로는 절대 시선을 주지 않으려 발버둥 치며, 피가 통하지 않을 정도로 두 손을 꽉 움켜쥐고 있습니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 0_profile_miss_용의자_미스_양
+    이미지 첨부: **[REF_CHAR_양미숙]**, **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for human physics and texture research.** It features an **AI-generated synthetic human model** of a young Korean woman (Miss Yang) standing in the 'Magnolia Cafe' hall, based on the attached images. She wears a **faded pink cardigan** and a **soiled white apron**. Her hair is tied back plainly. Her face is **extremely pale and without makeup**, with a **tearful, fearful expression**. She stands with **head bowed**, fidgeting with her hands. Background is the dim, atmospheric hall. **Cinematic lighting, film noir style.** **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_00]]
 유형: 물증
@@ -53,10 +62,13 @@
 
     [[변형 ID: variant_00_default]]
     단서명: 최 마담의 시신
-    내용: <p>1번 테이블에 엎드린 채 발견된 최 마담의 시신입니다. 특별한 외상은 보이지 않으나 입가에 거품과 섞인 타액이 말라붙어 있습니다. 손톱 끝이 자줏빛으로 변색되어 있고, 싸늘하게 식어 경직이 진행 중입니다.</p>
+    내용: <p>테이블 위로 고꾸라진 시신은 기괴하게 뒤틀려 있습니다. 화려한 화장이 무색하게 입가에는 피복이 타들어 가는 듯한 고통 속에서 뱉어낸 검붉은 타액과 거품이 굳어 있습니다. 무언가를 강하게 쥐어뜯은 듯 부러진 손톱 끝은 검푸른 자줏빛으로 물들어 있어, 죽음 직전 그녀가 겪은 지독한 고통을 짐작하게 합니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 0_0_최_마담의_시신
+    이미지 첨부: **[REF_CHAR_최마담]**, **[REF_BG_홀]** 이미지 (2장)
+    이미지 프롬프트: **A technical reference photograph for human physics and texture research.** It features an **AI-generated synthetic human model** slumped horizontally across the red leather booth, leaning forward with the head resting on the table, based on the attached images. **Eyes are closed, face is partially obscured.** Focus on high-resolution **texture details**: extremely pale skin tone, a specific **white textured residue** at the corner of the lip, and a **deep violet color gradient** on the fingertips. Captured as a static overhead/side-view asset study. Photographic style, heavy silence, purely for technical study. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_01]]
 유형: 물증
@@ -68,17 +80,23 @@
 
     [[변형 ID: variant_01_default]]
     단서명: 최 마담의 찻잔
-    내용: <p>1번 테이블 위, 낮게 내려앉은 담배 연기 아래 놓인 <strong>최 마담의 찻잔</strong>입니다. 두툼한 자기 잔 안에는 식어버린 쌍화차가 반쯤 남아있고, 잣과 호두 조각들이 둥둥 떠다닙니다. 비릿한 냄새가 올라오며, 잔 테두리에는 그녀의 트레이드마크인 붉은 립스틱 자국이 선명하게 남아있습니다.</p>
+    내용: <p>어두운 탁자 위에 놓인 두툼한 도자기 찻잔입니다. 잔 안에는 기름기가 둥둥 뜬 쌍화차가 반쯤 남은 채 식어빠져 있습니다. 찻잔 테두리에는 핏빛 립스틱 자국이 도장처럼 찍혀 있습니다.</strong></p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 1_0_남겨진_찻잔
+    이미지 첨부: **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design and material texture research.** It features a **3D product asset model** of a ceramic tea cup on a wood table, based on the attached background image. Macro close-up shot of a thick ceramic cup. Focus on high-resolution **texture details**: a half-finished dark brown traditional tea (Ssanghwa-cha). A vivid **red lipstick stain** is clearly visible on the rim of the cup. **Crucial Detail**: Strangely for a hot tea, **heavy condensation (cold water droplets)** covers the outside of the cup, and a **small puddle of melted water** surrounds the base on the table. Captured as a static asset study. **Aspect Ratio: 1:1.**
 
     [[변형 ID: variant_01_hidden]]
     단서명: 최 마담의 찻잔
-    내용: <p>가까이 다가가서 냄새를 맡자 특유의 <strong>한약 냄새 사이로 톡 쏘는 듯한 비릿한 악취</strong>가 미세하게 느껴집니다.</p>
+    내용: <p>코를 가까이 대자, 달큰한 한약재 냄새 밑바닥에 깔린 이질적인 악취가 신경을 긁습니다. <strong>정체를 알 수 없는, 무언가 톡 쏘고 비릿한 독한 냄새입니다.</p>
     기본 여부: true
     우선순위: 20
     변형 유형: null
+    이미지 파일명: 1_1_남겨진_찻잔_(악취)
+    이미지 첨부: **[clue_01_default] 생성 이미지** 필참
+    이미지 프롬프트: **A cinematic macro-photography study.** Based on the attached image, focus on an **extreme macro close-up of the tea's surface**. The dark brown liquid looks slightly unnatural. A **very faint, eerie, pale greenish vapor (fumes)** is slowly rising from the surface of the tea, visually hinting at a toxic substance or a foul, pungent odor hidden within. Ominous, suspenseful atmosphere, film noir style. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_02]]
 유형: 물증
@@ -90,10 +108,13 @@
 
     [[변형 ID: variant_02_default]]
     단서명: 이 군의 철가방
-    내용: <p>철가방 안에는 배달을 마친 <strong>빈 그릇</strong>들이 담겨 있습니다. 바닥에 떨어진 간이 영수증에는 <strong>'21:50 역전 당구장'</strong>이라는 배달 시간과 서명이 적혀 있군요. 역전 당구장은 이곳에서 오토바이로 <strong>왕복 30분</strong> 거리입니다.</p>
+    내용: <p>찌그러진 양철 배달 가방 안에는 짬뽕 국물이 말라붙은 빈 그릇들이 뒹굴고 있습니다. 바닥에 엉겨 붙은 영수증 쪼가리에는 <strong>'21:50 역전 당구장 수거 완료'</strong>라는 휘갈긴 서명이 있습니다. 역전 당구장은 이 눈길을 뚫고 오토바이로 <strong>아무리 밟아도 왕복 30분</strong>은 족히 걸리는 거리입니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 2_0_회수된_빈_그릇과_영수증
+    이미지 첨부: **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for material texture research.** It features a **3D product asset model** of empty Chinese food bowls stacked messily inside a metal delivery box (Okamochi). **Extreme close-up on a crumpled receipt** lying at the bottom, stained with grease. **Crucial Detail**: The handwritten Korean text **'21:50 역전 당구장'** must be clearly legible. **Only Korean text allowed; No English.** Static asset study. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_03]]
 유형: 물증
@@ -104,11 +125,14 @@
 순서: 4
 
     [[변형 ID: variant_03_default]]
-    단서명: 주방 구석
-    내용: <p>주방 안쪽, 곰팡이 핀 벽면과 찬장 사이의 좁은 틈새입니다. 먼지가 수북이 쌓여 있지만, 최근에 누군가 건드린 듯 먼지가 쓸린 자국이 선명합니다. 안쪽에 무언가가 신문지로 엉성하게 말려 있습니다. <span class="highlight">신문지를 풀어 확인한 결과</span>, 사용하다 남은 <strong>이름 모를 갈색 유리병</strong>이 나옵니다. 라벨은 훼손되어 '..독성.. 주의..'라는 글자만 보입니다. 뚜껑 주위에는 어디선가 맡아 본 듯한 냄새가 납니다.</p>
+    단서명: 주방 구석의 틈새
+    내용: <p>기름때와 곰팡이로 뒤덮인 찬장 뒤쪽, 손이 닿기 힘든 깊은 틈새입니다. 두꺼운 먼지 위에 방금 무언가를 밀어 넣은 듯한 쓸린 자국이 뚜렷합니다. <span class="highlight">구석에서 끄집어낸 젖은 신문지 뭉치를 뜯어내자</span>, 불길한 갈색 유리병 하나가 굴러떨어집니다. 상표는 누군가 손톱으로 박박 긁어내 알아볼 수 없으나, 병 주둥이에서는 <strong>코를 찌르는 지독한 마늘 냄새</strong>가 뿜어져 나옵니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 3_0_주방_찬장_구석_(신문지_뭉치)
+    이미지 첨부: **[REF_BG_주방]** 이미지
+    이미지 프롬프트: **A technical reference photograph for environment research.** A dusty, dark corner of a kitchen cupboard. Moldy wallpaper texture. A mysterious object **wrapped loosely in old 1980s newspaper** is hidden in the shadows. Dust has been recently wiped away, leaving streaks. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_04]]
 유형: 물증
@@ -119,18 +143,24 @@
 순서: 5
 
     [[변형 ID: variant_04_default]]
-    단서명: 낡은 가방
-    내용: <p>카운터 구석에 놓인 배달원 이 군의 낡은 가죽 가방입니다. 지퍼가 굳게 닫혀 있고 꽤 묵직해 보입니다. 이 군은 가방을 품에 꼭 안고 놓지 않으려 합니다.</p>
+    단서명: 낡은 가죽 가방
+    내용: <p>이 군이 목숨처럼 끌어안고 있는 낡고 해진 가죽 가방입니다. 지퍼 주변에는 검은 때가 타 있고, 가방은 무언가로 가득 차 불룩하게 튀어나와 있습니다. 이 군은 누군가 다가가기만 해도 짐승처럼 눈을 부라립니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 4_0_낡은_가방_(닫힘)
+    이미지 첨부: **[REF_BG_카운터]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design and material texture research.** It features a **3D product asset model** of a closed, heavy and worn brown leather bag sitting on a retro wooden chair, based on the attached background image. Focus on the **aged leather texture and heavy volume** of the bag. Dim lighting adds a mysterious mood. Captured as a static asset study. **Aspect Ratio: 1:1.**
 
     [[변형 ID: variant_04_hidden]]
-    단서명: 낡은 가방
-    내용: <p><span class="highlight">가방을 강제로 열어 확인한 결과</span>, 꼬깃꼬깃한 배달 수첩 밑에서 <strong>고무줄로 묶은 현금 뭉치</strong>(약 50만 원)가 쏟아져 나옵니다. 배달원에게 어울리지 않는 물건들입니다. 이 군은 고개를 푹 숙이며 털어놓습니다. "정말 죽은 줄 몰랐어요... 배달 다녀오니까 마담이 자고 있길래, 그냥 돈만 조금 가져가려고 했던 건데... 카운터 금고 열쇠가 마담 앞치마에 있어서 다가갔을 뿐이고... 진짜 죽이진 않았어요! 맹세해요!"</p>
+    단서명: 낡은 가죽 가방
+    내용: <p><span class="highlight">발버둥 치는 이 군을 제압하고 가방을 열어젖히자</span>, 더러운 수건 아래 숨겨져 있던 <strong>빳빳한 지폐 뭉치들</strong>(약 50만 원)이 바닥으로 쏟아집니다. <br>이 군은 바닥의 돈을 황급히 긁어모으며 울부짖습니다. "진짜 죽인 건 아니에요! 배달 다녀왔는데 누나가 엎드려 자고 있길래... 금고 열쇠가 앞치마에 보이잖아요! 그래서 빚 좀 갚으려고 슬쩍한 것뿐이라고요! 진짜 죽이지 않았어!"</p>
     기본 여부: false
     우선순위: 20
     변형 유형: MODIFIED_BY_ACTION
+    이미지 파일명: 4_1_낡은_가방_(열림)
+    이미지 첨부: **[clue_04_default] 생성 이미지** 필참
+    이미지 프롬프트: **Show the same 3D product asset model as the attached image**, but wide open. High-resolution **texture study of contents**: **rubber-banded bundles of cash** (1980s 10,000 won bills) spilling out from under a tattered delivery notebook. Same lighting and angle as the attached source. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_05]]
 유형: 관계
@@ -141,11 +171,14 @@
 순서: 6
 
     [[변형 ID: variant_05_default]]
-    단서명: 이 군의 배달 장부
-    내용: <p>이 군의 배달 장부 귀퉁이에는 '급전 필요', '38광땡' 같은 도박 용어들이 낙서처럼 적혀 있습니다. 최근 날짜에는 붉은색 펜으로 <strong>"오늘 밤 자정까지 안 갚으면 손목"</strong>이라는 섬뜩한 메모가 휘갈겨져 있습니다.</p>
+    단서명: 이 군의 배달 수첩
+    내용: <p>주머니에서 압수한 수첩은 온통 기름때로 얼룩져 있습니다. '섰다', '하우스', '38광땡' 같은 도박 용어들이 빼곡합니다. 가장 마지막 장에는 피처럼 붉은 펜으로 <strong>"오늘 밤 12시까지 안 갚으면 오른손 모가지 날아감."</strong> 이라는 섬뜩한 협박이 꾹꾹 눌러 쓰여 있습니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 5_0_배달_장부
+    이미지 첨부: **[REF_CHAR_이철수]**, **[REF_BG_카운터]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design and material texture research.** It features a **3D product asset model** of a small, dirty delivery ledger with **messy handwritten Korean script**, based on the attached character's environment. Focus on **texture details**: Korean notes like "급전 필요" and "38광땡" in blue ink, and a **threatening note written in red ink** saying "손목" on the corner. **Ensure ONLY Korean text is visible; No English text.** Gritty paper material texture. Captured as a static asset study. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_06]]
 유형: 물증
@@ -156,18 +189,24 @@
 순서: 7
 
     [[변형 ID: variant_06_default]]
-    단서명: 서류 봉투
-    내용: <p>김 사장이 품속에 소중히 안고 있는 누런 서류 봉투입니다. 겉면에는 굵은 매직으로 '목련다방 건물 매매 계약서(가)'라고 적혀 있습니다. 봉투 입구는 봉인되어 있습니다.</p>
+    단서명: 두툼한 서류 봉투
+    내용: <p>김 사장의 두꺼운 외투 안주머니에서 삐져나온 누런 서류 봉투입니다. 겉면에는 조잡한 글씨로 '목련다방 건물 양도 계약서'라고 적혀 있으며, 입구는 풀로 단단히 봉인되어 있습니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 6_0_서류_봉투_(닫힘)
+    이미지 첨부: **[REF_CHAR_김팔봉]**, **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design and material texture research.** It features a **3D product asset model** of a yellow paper envelope, based on the attached character's environment. Handwritten title "목련다방 건물 매매 계약서(가)" (Real Estate Contract) in **thick black marker** on the surface. The envelope is sealed. Captured as a static asset study. **Aspect Ratio: 1:1.**
 
     [[변형 ID: variant_06_hidden]]
     단서명: 날인이 없는 계약서
-    내용: <p><span class="highlight">봉투를 열어 내용을 확인한 결과</span>, <strong>매도인(최 마담)의 날인이 빠져 있는 상태</strong>입니다. 계약서에는 시세보다 현저히 낮은 가격과 특약 사항들이 적혀 있습니다.</p>
+    내용: <p><span class="highlight">봉투를 강제로 뜯어 문서를 확인한 결과</span>, <strong>매도인(최 마담)의 인감도장과 지장이 찍혀있지 않은 미완성 계약서</strong>입니다. 계약서의 내용은 지독할 정도로 일방적입니다. 헐값에 건물을 넘긴다는 특약 사항 옆에는, 서명이나 도장 없이 구겨진 흔적만이 남아 있습니다.</p>
     기본 여부: false
     우선순위: 20
     변형 유형: MODIFIED_BY_ACTION
+    이미지 파일명: 6_1_서류_봉투_(열림)
+    이미지 첨부: **[clue_06_default] 생성 이미지** 필참
+    이미지 프롬프트: **Extreme close-up on the bottom signature area** of the contract, based on the attached image. Show only the **handwritten Korean names**: **"매수인(갑): 김팔봉"** and **"매도인(을): 최순옥"**. Focus on the **conspicuous vacancy** next to Choi Soon-ok's name, where a red official seal (In-gam) should be. The rest of the contract's body text above should be **blurred and illegible**, appearing only as dense lines of ink. **Strictly NO English text allowed; ONLY Korean characters must be visible.** High-resolution study of paper texture. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_07]]
 유형: 증언
@@ -179,10 +218,13 @@
 
     [[변형 ID: variant_07_default]]
     단서명: 이 군의 증언
-    내용: <p>이 군은 껌을 짝짝 씹으며 억울하다는 듯 소리칩니다. "아 씨, 진짜 아니라고요! 저는 배달 갔다가 김 사장님이 마담 누나한테 삿대질하면서 '불질러 버리겠다'고 소리치는 것만 봤어요! 9시쯤에요! 그 뒤엔... 9시 반쯤엔... 어... 아무튼 배달 다녀왔다니까요!" 말끝을 흐리며 눈을 피합니다.</p>
+    내용: <p>이 군은 핏발 선 눈으로 김 사장을 노려보며 소리칩니다. "내가 똑똑히 들었어! <strong>9시쯤</strong>에 저 양반이 마담 누나한테 삿대질하면서 '오늘 도장 안 찍으면 이 가게 싹 다 불질러 버리겠다'고 악을 썼다고요! 난 9시 반쯤 당구장에 그릇 찾으러 나갔고! 살인마는 저 인간이야!"</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 7_0_이_군의_증언
+    이미지 첨부: **[REF_CHAR_이철수]** 이미지
+    이미지 프롬프트: **A technical reference photograph for human physics research.** It features an **AI-generated synthetic human model** aggressively chewing gum with a defiant and upset expression, based on the attached character's image. **Cinematic close-up portrait, Looking straight at the camera.** Focus on facial muscle tension, a furrowed brow, and a scowling mouth. High-resolution study of skin texture and facial reaction. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_08]]
 유형: 관찰
@@ -194,17 +236,23 @@
 
     [[변형 ID: variant_08_default]]
     단서명: 미스 양의 숙소
-    내용: <p>미스 양의 낡은 숙소, 한 사람이 간신히 누울 만한 비좁은 방입니다. 곰팡이가 슬어 있는 벽지와 낡은 이불 한 채가 덩그러니 놓여 있지만, 방금까지 누군가 있었던 것처럼 온기가 남아 있습니다. 한 쪽 구석에는 옷가지와 세면도구가 담긴 <strong>여행 가방</strong>이 놓여 있으며, 어수선한 짐 더미 사이로 낡은 사물함이 굳게 닫혀 있습니다.</p>
+    내용: <p>다방 한구석의 비좁은 숙소. 벽지에는 검은 곰팡이가 피어 있고 얼음장처럼 차갑습니다. 방 한가운데에는 짐을 급하게 쑤셔 넣은 듯한 <strong>싸구려 보스턴백</strong>이 입을 벌린 채 놓여 있습니다. 짐 더미 밑에 조잡한 자물쇠가 달린 낡은 일기장이 숨겨져 있습니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 8_0_종업원_숙소
+    이미지 첨부: **[REF_BG_주방]** 이미지
+    이미지 프롬프트: **A technical reference photograph for environment research.** A cramped, tiny one-person dormitory room for a cafe employee, based on the attached background style. Old faded wallpaper, a single worn-out mattress on the floor, and a metal locker in the corner. **Crucial Detail**: Clothing and toiletries are **neatly folded and packed** into an open **travel bag**, suggesting someone was prepared to leave. The room feels **very tidy, organized, and clean**, despite being humble and worn. Dim, quiet lighting. Captured as a static environment study. **Aspect Ratio: 1:1.**
 
     [[변형 ID: variant_08_hidden]]
-    단서명: 미스 양의 일기장
-    내용: <p><span class="highlight">일기장을 펼쳐 내용을 읽어본 결과</span>, 충격적인 내용이 적혀 있습니다. <br>"11월 20일: 내 통장까지 건드린 것 같다. 용서할 수 없다. 더 이상 참을 수 없다. 오늘 밤, 이 질긴 악연을 끝내야겠다." 뒷장은 눈물 자국으로 번져 있어 내용을 알아볼 수 없습니다. 미스 양은 일기장을 빼앗으려다 털썩 주저앉습니다. "그... 그냥 홧김에 쓴 거예요! 정말 죽였다는 게 아니라고요! 그저 통장에 손댄 게 너무 억울해서... 따지러 갔는데 이미 죽어 있었다고요! 전 맹세코...!"</p>
+    단서명: 피맺힌 일기장
+    내용: <p><span class="highlight">자물쇠를 부수고 일기장을 펼치자</span>, 거친 필체로 억눌린 분노가 토해져 있습니다. <br>"11월 20일: 그 악마 같은 여자가 내 어머니 수술비 통장까지 건드렸다. 고향으로 돌아갈 마지막 희망마저 빼앗겼다. 오늘 밤, 이 끔찍한 사슬을 내 손으로 끊어내겠다. 지옥에나 가버려." <br>일기장을 들이밀자 미스 양은 주저앉아 머리를 쥐어뜯습니다. "아니야... 너무 화가 나서 일기장에 화풀이한 것뿐이에요! 정말 맹세해요, 따지러 갔을 때 마담은 이미 숨을 안 쉬고 있었다고요!"</p>
     기본 여부: false
     우선순위: 20
     변형 유형: MODIFIED_BY_ACTION
+    이미지 파일명: 8_1_일기장
+    이미지 첨부: **[8_0_종업원_숙소] 생성 이미지** 필참
+    이미지 프롬프트: **Based on the same room and locker shown in the attached image**, show a **3D product asset model** of a small, tattered diary. The diary is wide open on the floor, revealing **messy handwritten Korean script** on pages stained with dried tears. Some sentences are **violently scratched out in blue ink**. Focus on the date **"11월 20일"** written in Korean. **Strictly ONLY Korean characters allowed; No English text.** Technical study of paper texture and ink absorption. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_09]]
 유형: 물증
@@ -215,11 +263,14 @@
 순서: 10
 
     [[변형 ID: variant_09_default]]
-    단서명: 주방 찬장 안
-    내용: <p>주방 찬장 안쪽, 곰팡이 핀 벽면 틈새에 낡은 보온병으로 가려진 종이 뭉치가 있습니다. 미스 양의 이름이 적힌 차용증들인데, 원금보다 이자가 터무니없이 높게 책정되어 있어 사실상 갚는 것이 불가능해 보입니다. 글씨체는 최 마담의 것입니다.</p>
+    단서명: 주방 찬장 안의 족쇄
+    내용: <p>녹슨 냄비 뒤편에 은밀하게 숨겨져 있던 종이 뭉치. 열어보니 모두 미스 양의 지장이 찍힌 차용증입니다. 원금은 백만 원 남짓이나, 깨알 같은 글씨로 적힌 '월 복리 연체 이자' 조항 때문에 빚은 수천만 원 단위로 불어나 있습니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 9_0_차용증_뭉치
+    이미지 첨부: **[REF_CHAR_양미숙]**, **[REF_BG_주방]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design and material texture research.** It features 3D product asset models of a disorganized pile of debt papers half-hidden behind an old silver thermos in a kitchen cupboard, based on the attached character's style. Focus on **visible Korean text evidence**: the name **"양미숙" (Miss Yang)** written in Korean script, and **unreasonably high interest rates (numerals)** clearly visible on the top sheet. **Ensure ONLY Korean script is present; Absolutely NO English text.** Gritty paper texture. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_10]]
 유형: 증언
@@ -231,10 +282,13 @@
 
     [[변형 ID: variant_10_default]]
     단서명: 김 사장의 증언
-    내용: <p>김 사장은 땀을 닦으며 목소리를 높입니다. "아니, 난 9시 40분쯤에 옆집 슈퍼에 있었다니까! 차라리 <strong>저 둘을 조사해 봐요!</strong> 배달통에 쥐약이나 넣고 다니는 놈이나, 빚 때문에 쩔쩔매던 계집애나... 둘 다 마담 죽이고 돈 챙기려고 작당한 거 아니오?"</p>
+    내용: <p>김 사장은 손수건으로 이마의 땀을 훔치며 변명합니다. "아니, 반장 양반. 생각을 해보쇼. 돈 받을 사람이 왜 채무자를 죽이겠어? <strong>9시 20분쯤</strong> 마담이 주방에서 지 마실 쌍화차를 직접 타오길래, 마주 앉아 담판을 지으려 했지. 근데 끝까지 고집을 피우잖아! 그래서 한 20분 얘기하다가 속이 너무 타서 옆집 슈퍼에 담배나 사러 나갔던 것뿐이오! 차라리 노름에 빠진 배달원이나, 노예처럼 부려먹히던 종업원이나 뒤져보쇼!"</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 10_0_김_사장의_증언
+    이미지 첨부: **[REF_CHAR_김팔봉]** 이미지
+    이미지 프롬프트: **A technical reference photograph for human physics research.** An **AI-generated synthetic human model** with wide-eyed panic, sweating profusely, based on the attached character's image. **Cinematic close-up portrait, Looking straight at the camera.** Detailed study of glistening beads of sweat on the forehead and tensed neck muscles. High-contrast lighting highlights the frantic expression. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_11]]
 유형: 증언
@@ -246,10 +300,13 @@
 
     [[변형 ID: variant_11_default]]
     단서명: 미스 양의 증언
-    내용: <p>미스 양은 창백한 얼굴로 눈물을 글썽이며 말합니다. "저... 저는 봤어요. <strong>9시 40분쯤</strong>에, 제가 주방에서 설거지를 하다가 얼핏 봤는데... <strong>어떤 남자</strong>가 급하게 다방을 나가는 걸요! 누군지는 못 봤지만... 김 사장님이나 이 군 같기도 하고..." 그녀의 시선이 불안하게 흔들립니다.</p>
+    내용: <p>미스 양은 파들파들 떨며 허공을 응시합니다. "저... 저는 정말 몰라요. <strong>9시 20분쯤 마담이 주방에 들어와 직접 쌍화차를 부어 나간 후...</strong> 쭉 혼자 주방 구석에서 그릇을 씻으며 울고 있었어요. 그러다 <strong>9시 40분쯤</strong> 홀 쪽에서 우당탕 소리가 났어요. 살짝 내다보니 <strong>검은 그림자 하나가 문을 쾅 열고 뛰쳐나가는 뒷모습</strong>을 봤어요. 너무 무서워서 나가보지도 못했다고요..."</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 11_0_미스_양의_증언
+    이미지 첨부: **[REF_CHAR_양미숙]** 이미지
+    이미지 프롬프트: **A technical reference photograph for human physics research.** An **AI-generated synthetic human model** with an extremely pale, bloodless face and trembling lips, based on the attached character's image. **Cinematic close-up portrait, Looking straight at the camera.** Focusing on a vacant, fearful gaze. Soft, cool-toned lighting with deep shadows under the eyes. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_12]]
 유형: 물증
@@ -260,11 +317,14 @@
 순서: 13
 
     [[변형 ID: variant_12_default]]
-    단서명: 이 군의 철가방 안
-    내용: <p>다방 구석에 놓인 이 군의 철가방 안쪽, 신문지 뭉치 틈에서 <strong>쥐약</strong> 병이 발견됩니다. 뚜껑이 느슨해 하얀 가루가 조금 새어 나와 있습니다. 당신이 병을 꺼내들자 이 군은 사색이 되어 손을 내젓습니다. "아, 아니에요! 그건 마담 누나한테 쓰려던 게 아니고... 제 자취방에 쥐가 너무 많아서... 그래요, 오늘 퇴근하고 뿌리려고 샀던 거라니까요! 진짜예요, 믿어주세요!"</p>
+    단서명: 철가방 속의 백색 가루
+    내용: <p>이 군의 철가방을 거꾸로 탈탈 털자, 구겨진 신문지 틈에서 플라스틱 통이 떨어집니다. '강력 쥐약'이라는 붉은 글씨. 뚜껑을 열자 <strong>시큼하고 역겨운 화학 약품 냄새</strong>가 훅 끼칩니다. <br>당신이 쥐약을 눈앞에 흔들자 이 군은 바닥을 기며 매달립니다. "아니에요! 제발 믿어주세요! 방구석에 쥐가 하도 들끓어서 퇴근길에 뿌리려고 산 거예요! 누나 잔에 타지 않았어요!"</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 12_0_철가방_속의_백색_가루
+    이미지 첨부: **[REF_BG_주방]** 이미지
+    이미지 프롬프트: Based on the same metal delivery box as the attached, show a **small plastic bottle of rat poison** hidden in a corner. The lid is loose, with **white powder residue** spilled around it. Gritty texture study. High-resolution material detail. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_13]]
 유형: 증언
@@ -275,11 +335,14 @@
 순서: 14
 
     [[변형 ID: variant_13_default]]
-    단서명: 슈퍼 주인의 목격담
-    내용: <p>다방 바로 옆, 불 꺼진 '서울슈퍼'의 주인을 탐문했습니다. 그는 난로불을 쬐며 김 사장을 기억해냅니다. "아, 그 양반이요? 글쎄, <strong>9시 40분쯤</strong>이었나? 허겁지겁 뛰어오더니 <strong>락스</strong> 한 통을 달라고 하더라고요. 평소엔 담배나 사가던 양반이, 땀까지 뻘뻘 흘리면서 청소용품을 사가니... 원, 참 이상하다고 생각했죠."</p>
+    단서명: 늙은 슈퍼 주인의 기억
+    내용: <p>폭설 속에 유일하게 불이 켜진 옆집 '서울슈퍼'. 조는 듯 앉아 있던 늙은 주인은 당신의 형사임을 밝히자, 놀라며 기억을 더듬습니다. "김 사장? 아, 기억나지. <strong>9시 40분쯤</strong>이었을 거요. 얼굴은 뻘겋게 되서 들어오더니, 대뜸 <strong>락스</strong>를 한 통을 집어가더라고. 이 한밤중에 청소라도 할 건가... 미친 사람처럼 보였다니까."</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 13_0_슈퍼_주인의_증언
+    이미지 첨부: **[REF_BG_카운터]** 이미지 (주황색 공중전화 참조용)
+    이미지 프롬프트: **A technical reference photograph for environment research.** Close-up of an old 1980s **orange public telephone** sitting on the counter, based on the attached background image. The cord is messy and tangled. Cinematic lighting. Suggests an urgent phone testimony. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_14]]
 유형: 물증
@@ -290,11 +353,14 @@
 순서: 15
 
     [[변형 ID: variant_14_default]]
-    단서명: 김 사장의 지갑
-    내용: <p>김 사장의 지갑 속에서 발견된 꼬깃꼬깃한 <strong>지불 각서와 독촉장</strong>입니다. "김 팔봉, 내일까지 목련다방 계약 못 따내면 당신 사무실은 우리 거다."라는 살벌한 내용이 적혀 있습니다.</p>
+    단서명: 피 묻은 독촉장
+    내용: <p>김 사장의 두툼한 가죽 지갑 가장 안쪽에서 발견된 살벌한 문서입니다. [김 팔봉, 내일 자정까지 목련다방 계약서 안 가져오면 네놈 멱따고 사무실은 우리가 먹는다.] 도장을 찍은 곳에는 섬뜩한 핏자국이 엉겨 있습니다.</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 14_0_피_묻은_독촉장
+    이미지 첨부: **[REF_CHAR_김팔봉]**, **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design.** A crumpled piece of paper taken from a wallet. Clear Korean text showing a threatening notice: **'지불 각서'** and **'독촉장'**. Blood stains (핏자국) are smeared across the bottom corner where a seal should be. Rough paper texture. **Only Korean text allowed.** Dark lighting. **Aspect Ratio: 1:1.**
 
 [[단서 ID: clue_15]]
 유형: 물증
@@ -305,8 +371,83 @@
 순서: 16
 
     [[변형 ID: variant_15_default]]
-    단서명: 김 사장의 소지품
-    내용: <p>김 사장의 양복 안주머니에서 발견된 <strong>독한 냄새가 나는 락스</strong> 한 병입니다. 김 사장은 "화장실 청소나 시키려고 샀다"고 주장합니다. 하지만 계속된 추궁에 결국 실토합니다. "아, 알았소! 사실, 그 여우 같은 여자가 계약을 안 해주니까... 겁 좀 주려고 찻잔에 조금 타려고 했소! 그냥 배탈이나 좀 나게 하려고 했던 거지, 죽일 생각은 없었다고!"</p>
+    단서명: 김 사장의 락스
+    내용: <p>김 사장의 차 트렁크에서 발견된, 마개가 따진 공업용 락스 통입니다. <strong>눈을 뜰 수 없을 만큼 독한 염소 냄새</strong>가 코를 찌릅니다. <br>끝까지 발뺌하던 김 사장은 락스 통을 들이밀자 털썩 무릎을 꿇습니다. "그래, 맞소! 그 여자가 끝까지 도장을 안 찍어주니까... 계약 못 따내면 내 목숨이 날아갈 판인데 어떡해! 그래서 쌍화차에 락스 좀 타서 배탈이라도 나게 하려고 샀소! 근데... <strong>내가 약을 타기도 전에 이미 거품을 물고 쓰러져 있었다고!</strong> 진짜야!"</p>
     기본 여부: true
     우선순위: 10
     변형 유형: null
+    이미지 파일명: 15_0_김_사장의_락스
+    이미지 첨부: **[REF_CHAR_김팔봉]**, **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design.** A large industrial plastic bottle of bleach (Clorox style) in a dark car trunk. The cap is slightly open. Text on the label says **'공업용 락스'** in Korean. **Only Korean text allowed.** Focus on the chemical bottle texture and clinical lighting. **Aspect Ratio: 1:1.**
+
+[[단서 ID: clue_16]]
+유형: 물증
+출처: OBJECTIVE_FACT
+중요도: 높음
+비용: 1
+속성: 공개[true] / 교환[false] / 획득[false]
+순서: 17
+
+    [[변형 ID: variant_16_default]]
+    단서명: 텅 빈 얼음틀
+    내용: <p>주방 냉장고 냉동실 안쪽 깊숙이 처박혀 있던 낡은 플라스틱 사각 얼음틀입니다. 다른 칸은 모두 비어있는데, 유독 <strong>가장자리 한 칸에만 탁한 갈색 찌꺼기</strong>가 얼어붙어 있습니다. 코를 가까이 대자 정체 모를 <strong>지독한 마늘 냄새</strong>가 찌르듯 밀려옵니다.</p>
+    기본 여부: true
+    우선순위: 10
+    변형 유형: null
+    이미지 파일명: 16_0_텅_빈_얼음틀
+    이미지 첨부: **[REF_BG_주방]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design.** Inside a dark, frosted retro refrigerator freezer compartment. A cheap plastic ice cube tray. All slots are empty, except for **one slot at the very edge** which contains a **frozen, cloudy brown residue**. Cinematic lighting highlighting the frozen texture and the isolated brown stain. **Aspect Ratio: 1:1.**
+
+[[단서 ID: clue_17]]
+유형: 물증
+출처: OBJECTIVE_FACT
+중요도: 중간
+비용: 1
+속성: 공개[true] / 교환[false] / 획득[false]
+순서: 18
+
+    [[변형 ID: variant_17_default]]
+    단서명: 양주잔
+    내용: <p>김 사장이 앉아있던 테이블 위에 놓인 크리스탈 양주잔입니다. 안에는 독한 위스키와 함께 반쯤 녹은 둥근 얼음이 찰랑거립니다. <br>김 사장은 식은땀을 닦으며 투덜거립니다. "나는 얼음 없이는 술을 안 마시거든. 마담이 안주를 안 가져오길래, <strong>9시쯤</strong>에 내가 직접 주방 냉장고 앞칸 얼음통에서 양주용 얼음을 꺼내왔소!"</p>
+    기본 여부: true
+    우선순위: 10
+    변형 유형: null
+    이미지 파일명: 17_0_김_사장의_양주잔
+    이미지 첨부: **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A technical reference photograph for object design.** A heavy crystal whiskey glass resting on a dark wooden table in a retro cafe. Inside the glass is dark amber whiskey and a **single, half-melted spherical ice cube**. Condensation on the outside of the glass. Cinematic, moody 1980s film noir lighting. **Aspect Ratio: 1:1.**
+
+[[단서 ID: clue_18]]
+유형: 관찰
+출처: OBJECTIVE_FACT
+중요도: 중간
+비용: 1
+속성: 공개[true] / 교환[false] / 획득[false]
+순서: 19
+
+    [[변형 ID: variant_18_default]]
+    단서명: 이 군의 화상
+    내용: <p>벌벌 떨며 가방을 끌어안고 있는 이 군의 오른손 등에는, 벌겋게 물집이 잡힌 심한 화상 자국이 선명합니다. <br>당신이 상처를 추궁하자 그는 움찔하며 손을 숨깁니다. "아, 이거... 오토바이 머플러에 데인 거예요. 너무 쓰라려서 <strong>9시 10분쯤</strong>에 주방 냉장고 앞칸에서 얼음을 몇 개 꺼내 찜질 좀 했어요! 진짜 그게 다예요!"</p>
+    기본 여부: true
+    우선순위: 10
+    변형 유형: null
+    이미지 파일명: 18_0_이_군의_화상
+    이미지 첨부: **[REF_CHAR_이철수]** 이미지
+    이미지 프롬프트: **A technical reference photograph for human physics.** Extreme close-up of a young man's right hand tightly gripping a leather bag strap. On the back of the hand, there is a **severe, red, swollen burn mark**, clearly inflicted recently by something scalding hot. High-resolution skin texture study, cinematic dark lighting. **Aspect Ratio: 1:1.**
+
+[[단서 ID: clue_19]]
+유형: 증언
+출처: Witness
+중요도: 높음
+비용: 1
+속성: 공개[true] / 교환[false] / 획득[false]
+순서: 20
+
+    [[변형 ID: variant_19_default]]
+    단서명: 단골의 증언
+    내용: <p>현장 밖에서 웅성거리던 다방 단골손님을 탐문했습니다. "최 마담? 아유, 그 여자는 얼어 죽어도 무조건 차가운 것만 찾아요. 그래서 한겨울에도 쌍화차에 얼음을 동동 띄워 차갑게 만들어 먹는 유별난 습관이 있었지."</p>
+    기본 여부: true
+    우선순위: 10
+    변형 유형: null
+    이미지 파일명: 19_0_단골의_증언
+    이미지 첨부: **[REF_BG_홀]** 이미지
+    이미지 프롬프트: **A cinematic environment study.** A blurred, anonymous figure of an old customer sitting at a table in the background of Magnolia Cafe, sipping from a traditional tea cup. A small block of **ice floating in the steaming hot tea**. Focus is on the contrast between the hot steam and the floating ice cube. Film grain, retro 1980s aesthetic. **Aspect Ratio: 1:1.**
