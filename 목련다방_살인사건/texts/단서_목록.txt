@@ -104,7 +104,7 @@ HTML :
 파일명 : 03_최_마담의_시신_변형
 
 [clue_04]
-이름 : 찻잔
+이름 : 테이블 위
 유형 : 물증
 단계 : 프롤로그 단계
 소모AP : 1
@@ -120,10 +120,10 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-어두운 탁자 위에 놓인 두툼한 도자기 찻잔입니다. 잔 안에 쌍화차가 반쯤 남아 있으며 온기가 없습니다. 찻잔 테두리에 붉은색 립스틱 자국이 묻어 있습니다. 찻잔 근처에는 약간의 물기가 남아 있습니다.
+테이블 위에는 두 개의 찻잔이 놓여 있습니다. 그 중 하나는 쌍화차가 반쯤 남아 있습니다. 이 잔의 테두리에는 붉은색 립스틱 자국이 묻어 있고, 찻잔 접시에는 약간의 물기가 묻어 있습니다. 맞은편에 놓인 다른 잔은 거의 다 비어 있습니다.
 HTML :
 <div class="story-content">
-  <p>어두운 탁자 위에 놓인 두툼한 도자기 찻잔입니다. 잔 안에 쌍화차가 반쯤 남아 있으며 온기가 없습니다. 찻잔 테두리에 붉은색 립스틱 자국이 묻어 있습니다. 찻잔 근처에는 약간의 물기가 남아 있습니다.</p>
+  <p>테이블 위에는 두 개의 찻잔이 놓여 있습니다. 그 중 하나는 쌍화차가 반쯤 남아 있습니다. 이 잔의 테두리에는 붉은색 립스틱 자국이 묻어 있고, 찻잔 접시에는 약간의 물기가 묻어 있습니다. 맞은편에 놓인 다른 잔은 거의 다 비어 있습니다.</p>
 </div>
 이미지생성용 프롬프트: A 3d product asset model of a ceramic tea cup on a wood table, based on the attached background image. macro close-up shot of a thick ceramic cup. focus on high-resolution texture details: a half-finished dark brown traditional tea (ssanghwa-cha). a vivid red lipstick stain is clearly visible on the rim of the cup. crucial detail: strangely for a hot tea, heavy condensation (cold water droplets) covers the outside of the cup, and a small puddle of melted water surrounds the base on the table. captured as a static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -145,10 +145,10 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-달큰한 한약재 냄새와 함께 톡 쏘는 냄새가 섞여 납니다.
+두 찻잔 중, 립스틱이 묻은 찻잔에서만 쌍화차 냄새와 함께 톡 쏘는 냄새가 섞여 납니다.
 HTML :
 <div class="story-content">
-  <p>달큰한 한약재 냄새와 함께 톡 쏘는 냄새가 섞여 납니다.</p>
+  <p>두 찻잔 중, <strong>립스틱이 묻은 찻잔에서만</strong> 쌍화차 냄새와 함께 <strong>톡 쏘는 냄새</strong>가 섞여 납니다.</p>
 </div>
 이미지생성용 프롬프트: Based on the attached image, focus on an extreme macro close-up of the tea's surface. The dark brown liquid looks slightly unnatural. A very faint, eerie, pale greenish vapor (fumes) is slowly rising from the surface of the tea, visually hinting at a toxic substance or a foul, pungent odor hidden within. Ominous, suspenseful atmosphere, film noir style. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -171,10 +171,10 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-이 군이 양팔로 강하게 안고 있는 가죽 가방입니다. 지퍼 주변에 검은 때가 타 있고 불룩하게 튀어나와 있습니다. 다가가면 이 군이 가방을 더 강하게 움켜쥡니다.
+이 군이 양팔로 강하게 안고 있는 가죽 가방입니다.
 HTML :
 <div class="story-content">
-  <p>이 군이 양팔로 강하게 안고 있는 가죽 가방입니다. 지퍼 주변에 검은 때가 타 있고 불룩하게 튀어나와 있습니다. 다가가면 이 군이 가방을 더 강하게 움켜쥡니다.</p>
+  <p>이 군이 양팔로 강하게 안고 있는 가죽 가방입니다.</p>
 </div>
 이미지생성용 프롬프트: A 3d product asset model of a closed, heavy and worn brown leather bag sitting on a retro wooden chair, based on the attached background image. focus on the aged leather texture and heavy volume of the bag. dim lighting adds a mysterious mood. captured as a static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -196,10 +196,10 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-가방 지퍼를 열어 내부를 확인하자, 더러운 수건 아래 고무줄로 묶인 현금 뭉치들(약 50만 원)이 들어 있습니다. 이 군은 바닥에 떨어진 돈을 주워 모으며 소리칩니다. "진짜 죽인 건 아니에요! 배달 다녀왔는데 누나가 엎드려 자고 있길래... 앞치마에 금고 열쇠가 보이잖아요! 그래서 빚 좀 갚으려고 조심조심 열쇠를 빼내려는데, 자고 있는 줄 알았던 마담 누나가 갑자기 발작하듯 몸을 확 움찔하잖아요! 너무 무서워서 엉겁결에 확 밀쳐냈는데, 테이블 모서리에 머리를 찧고 바닥으로 굴러떨어졌어요! 피가 나길래 놀라서 돈만 챙겨 달아난 거라고요!"
+가방 지퍼를 열어 내부를 확인하자, 더러운 수건 아래 고무줄로 묶인 현금 뭉치들(약 50만 원)이 들어 있습니다. 이 군은 바닥에 떨어진 돈을 주워 모으며 소리칩니다. "진짜 일부러 죽인 건 아니에요! 배달 다녀왔는데 누나가 엎드려 자고 있길래... 앞치마에 금고 열쇠가 보이잖아요! 빚 좀 갚으려고 조심조심 열쇠를 빼내려는데, 자고 있는 줄 알았던 마담 누나가 갑자기 발작하듯 몸을 확 움찔하잖아요! 너무 무서워서 엉겁결에 확 밀쳐냈는데, 테이블 모서리에 머리를 찧고 바닥으로 넘어졌어요! 전 그래서 기절한 줄 알고 돈만 챙긴 거라구요!"
 HTML :
 <div class="story-content">
-  <p><span class="highlight">가방 지퍼를 열어 내부를 확인하자</span>, 더러운 수건 아래 고무줄로 묶인 <strong>현금 뭉치들</strong>(약 50만 원)이 들어 있습니다. <br>이 군은 바닥에 떨어진 돈을 주워 모으며 소리칩니다. "진짜 죽인 건 아니에요! 배달 다녀왔는데 누나가 엎드려 자고 있길래... 앞치마에 금고 열쇠가 보이잖아요! 그래서 빚 좀 갚으려고 조심조심 열쇠를 빼내려는데, <strong>자고 있는 줄 알았던 마담 누나가 갑자기 발작하듯 몸을 확 움찔하잖아요! 너무 무서워서 엉겁결에 확 밀쳐냈는데, 테이블 모서리에 머리를 찧고 바닥으로 굴러떨어졌어요!</strong> 피가 나길래 놀라서 돈만 챙겨 달아난 거라고요!"</p>
+  <p><span class="highlight">가방 지퍼를 열어 내부를 확인하자</span>, 더러운 수건 아래 고무줄로 묶인 <strong>현금 뭉치들</strong>(약 50만 원)이 들어 있습니다. <br>이 군은 바닥에 떨어진 돈을 주워 모으며 소리칩니다. "진짜 일부러 그런 건 아니에요! 배달 다녀왔는데 누나가 엎드려 자고 있길래... 앞치마에 금고 열쇠가 보이잖아요! 빚 좀 갚으려고 조심조심 열쇠를 빼내려는데, <strong>자고 있는 줄 알았던 마담 누나가 갑자기 발작하듯 몸을 확 움찔하잖아요! 너무 무서워서 엉겁결에 확 밀쳐냈는데, 테이블 모서리에 머리를 찧고 바닥으로 넘어졌어요!</strong> 전 그래서 기절한 줄 알고 돈만 챙긴 거라구요!"</p>
 </div>
 이미지생성용 프롬프트: Show the same 3D product asset model as the attached image, but wide open. High-resolution texture study of contents: rubber-banded bundles of cash (1980s 10,000 won bills) spilling out from under a tattered delivery notebook. Same lighting and angle as the attached source. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -274,17 +274,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-찌그러진 양철 배달 가방 안에 짬뽕 국물이 마른 빈 그릇들이 있습니다. 바닥에 붙은 영수증에 '21:40 역전 당구장 수거'라고 적혀 있습니다. 역전 당구장은 다방에서 오토바이로 왕복 30분 거리입니다.
+찌그러진 양철 철가방 안에는 빈 그릇들이 있습니다. 바닥에 붙은 영수증에 '21:40 역전 당구장 수거'라고 적혀 있습니다.
 HTML :
 <div class="story-content">
-  <p>찌그러진 양철 배달 가방 안에 짬뽕 국물이 마른 빈 그릇들이 있습니다. 바닥에 붙은 영수증에 <strong>'21:40 역전 당구장 수거'</strong>라고 적혀 있습니다. 역전 당구장은 다방에서 오토바이로 왕복 30분 거리입니다.</p>
+  <p>찌그러진 양철 철가방 안에는 빈 그릇들이 있습니다. 바닥에 붙은 영수증에 '21:40 역전 당구장 수거'라고 적혀 있습니다.</p>
 </div>
 이미지생성용 프롬프트: A 3d product asset model of empty chinese food bowls stacked messily inside a metal delivery box (okamochi). extreme close-up on a crumpled receipt lying at the bottom, stained with grease. crucial detail: the handwritten korean text '21:40 역전 당구장 수거' must be clearly legible. only korean text allowed; no english. static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
 파일명 : 08_이_군의_철가방
 
 [clue_09]
-이름 : 주방 구석의 틈새
+이름 : 주방 구석
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -300,17 +300,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-먼지가 쌓인 바닥 표면에 물체가 쓸린 자국이 있습니다. 구석에 젖은 신문지 뭉치를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 강한 마늘 냄새가 납니다.
+구석에 젖은 신문지 뭉치를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 강한 마늘 냄새가 납니다.
 HTML :
 <div class="story-content">
-  <p>먼지가 쌓인 바닥 표면에 물체가 쓸린 자국이 있습니다. 구석에 젖은 신문지 뭉치를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 <strong>강한 마늘 냄새</strong>가 납니다.</p>
+  <p>구석에 젖은 신문지 뭉치를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 <strong>강한 마늘 냄새</strong>가 납니다.</p>
 </div>
 이미지생성용 프롬프트: A dusty, dark corner of a kitchen cupboard. Moldy wallpaper texture. A small brown glass bottle partially wrapped loosely in old 1980s newspaper is hidden in the shadows. Dust has been recently wiped away, leaving streaks. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 09_주방_구석의_틈새
+파일명 : 09_주방_구석
 
 [clue_10]
-이름 : 이 군의 배달 수첩
+이름 : 이 군의 수첩
 유형 : 관계
 단계 : 내부수색 단계
 소모AP : 1
@@ -333,10 +333,10 @@ HTML :
 </div>
 이미지생성용 프롬프트: A 3d product asset model of a small, dirty delivery ledger with messy handwritten korean script, based on the attached character's environment. focus on texture details: korean notes like "하우스" and "38광땡" in blue ink, and a threatening note written in red ink saying "모가지" and "칠성금융" on the corner. no english text allowed; only korean characters must be visible. gritty paper material texture. captured as a static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 10_이_군의_배달_수첩
+파일명 : 10_이_군의_수첩
 
 [clue_11]
-이름 : 두툼한 서류 봉투
+이름 : 서류 봉투
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -359,10 +359,10 @@ HTML :
 </div>
 이미지생성용 프롬프트: A 3d product asset model of a yellow paper envelope, based on the attached character's environment. handwritten title "목련다방 건물 양도 계약서" (real estate contract) in thick black marker on the surface. the envelope is sealed. captured as a static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 11_두툼한_서류_봉투
+파일명 : 11_서류_봉투
 
 ============================================================
-이름 : 비뚤어진 지장이 찍힌 계약서
+이름 : 건물 양도 계약서
 유형 : 물증
 소모AP : 1
 정렬순서 : 111
@@ -377,10 +377,10 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-봉투를 강제로 뜯어 문서를 확인한 결과, 매도인(최 마담)의 이름 옆에 붉은 인주가 비뚤어진 각도로 찍혀 있는 계약서입니다. 인주 자국 주변이 조금 번져 있습니다. 이 계약서는 매도인과 매수인이 각각 1부씩 보관해야 하는 '2부 1세트' 문서이나, 단 1부에만 최 마담의 지장이 찍혀 있고 나머지 1부는 비어 있습니다.
+서류 봉투 안에는 건물 양도 계약서 2부가 있습니다. 그 중 1부에만 매도인 이름 옆에 붉은 지장이 비뚤어진 각도로 찍혀 있습니다.
 HTML :
 <div class="story-content">
-  <p><span class="highlight">봉투를 강제로 뜯어 문서를 확인한 결과</span>, <strong>매도인(최 마담)의 이름 옆에 붉은 인주가 비뚤어진 각도로 찍혀 있는 계약서</strong>입니다. 인주 자국 주변이 조금 번져 있습니다. 이 계약서는 매도인과 매수인이 각각 1부씩 보관해야 하는 '2부 1세트' 문서이나, <strong>단 1부에만 최 마담의 지장이 찍혀 있고 나머지 1부는 비어 있습니다.</strong></p>
+  <p>서류 봉투 안에는 건물 양도 계약서 2부가 있습니다. 그 중 1부에만 매도인 이름 옆에 붉은 지장이 비뚤어진 각도로 찍혀 있습니다.</p>
 </div>
 이미지생성용 프롬프트: Extreme close-up on the bottom signature area of the contract, based on the attached image. Show only the handwritten Korean names: "매수인(갑): 김팔봉" and "매도인(을): 최순옥". Focus on the space next to Choi Soon-ok's name, where a messy, smeared red thumbprint (red ink pad) is forcefully stamped, looking crooked and unnatural. The rest of the contract's body text above should be blurred and illegible, appearing only as dense lines of ink. No English text allowed; ONLY Korean characters must be visible. High-resolution study of paper texture. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -403,17 +403,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-다방 구석의 비좁은 숙소입니다. 벽지에 검은 곰팡이가 피어 있고 온기가 없습니다. 방 한가운데에 보스턴백이 열린 채 놓여 있으며, 내부에 옷가지가 담겨 있습니다. 가방 밑에 자물쇠로 잠긴 낡은 노트가 있습니다.
+다방 구석의 비좁은 숙소입니다. 벽지에 검은 곰팡이가 피어 있고 온기가 없습니다. 방 한가운데에 보스턴백이 열린 채 놓여 있으며, 내부에 옷가지가 담겨 있습니다. 가방 밑에 자물쇠로 잠긴 낡은 일기장이 있습니다.
 HTML :
 <div class="story-content">
-  <p>다방 구석의 비좁은 숙소입니다. 벽지에 검은 곰팡이가 피어 있고 온기가 없습니다. 방 한가운데에 <strong>보스턴백</strong>이 열린 채 놓여 있으며, 내부에 옷가지가 담겨 있습니다. 가방 밑에 자물쇠로 잠긴 낡은 노트가 있습니다.</p>
+  <p>다방 구석의 비좁은 숙소입니다. 벽지에 검은 곰팡이가 피어 있고 온기가 없습니다. 방 한가운데에 <strong>보스턴백</strong>이 열린 채 놓여 있으며, 내부에 옷가지가 담겨 있습니다. 가방 밑에 자물쇠로 잠긴 낡은 일기장이 있습니다.</p>
 </div>
 이미지생성용 프롬프트: A cramped, tiny one-person dormitory room for a cafe employee, based on the attached background style. Old faded wallpaper, a single worn-out mattress on the floor, and a metal locker in the corner. Crucial Detail: Clothing and toiletries are neatly folded and packed into an open travel bag, suggesting someone was prepared to leave. The room feels very tidy, organized, and clean, despite being humble and worn. Dim, quiet lighting. Captured as a static environment study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
 파일명 : 12_미스_양의_숙소
 
 ============================================================
-이름 : 피맺힌 일기장
+이름 : 낡은 일기장
 유형 : 관찰
 소모AP : 1
 정렬순서 : 121
@@ -428,17 +428,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-"11월 20일: 그 여자가 내 어머니 수술비 통장까지 건드렸다. 고향으로 돌아갈 마지막 희망마저 빼앗겼다. 오늘 밤, 이 사슬을 내 손으로 끊어내겠다." 노트를 보여주자 미스 양이 주저앉으며 말합니다. "아니야... 너무 화가 나서 일기장에 화풀이한 것뿐이에요!"
+"11월 20일: 그 여자가 내 어머니 수술비 통장까지 건드렸다. 고향으로 돌아갈 마지막 희망마저 빼앗겼다. 오늘 밤, 이 사슬을 내 손으로 끊어내겠다." 일기장을 보여주자 미스 양이 주저앉으며 말합니다. "아니야... 너무 화가 나서 일기장에 화풀이한 것뿐이에요!"
 HTML :
 <div class="story-content">
-  <p>"11월 20일: 그 여자가 내 어머니 수술비 통장까지 건드렸다. 고향으로 돌아갈 마지막 희망마저 빼앗겼다. 오늘 밤, 이 사슬을 내 손으로 끊어내겠다." <br>노트를 보여주자 미스 양이 주저앉으며 말합니다. "아니야... 너무 화가 나서 일기장에 화풀이한 것뿐이에요!"</p>
+  <p>"11월 20일: 그 여자가 내 어머니 수술비 통장까지 건드렸다. 고향으로 돌아갈 마지막 희망마저 빼앗겼다. 오늘 밤, 이 사슬을 내 손으로 끊어내겠다." <br>일기장을 보여주자 미스 양이 주저앉으며 말합니다. "아니야... 너무 화가 나서 일기장에 화풀이한 것뿐이에요!"</p>
 </div>
 이미지생성용 프롬프트: Based on the same room and locker shown in the attached image, show a 3D product asset model of a small, tattered diary. The diary is wide open on the floor, revealing messy handwritten Korean script on pages stained with dried tears. Some sentences are violently scratched out in blue ink. Focus on the date "11월 20일" written in Korean. No English text allowed; ONLY Korean characters must be visible. Technical study of paper texture and ink absorption. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
 파일명 : 12_미스_양의_숙소_변형
 
 [clue_13]
-이름 : 주방 찬장 안의 족쇄
+이름 : 주방 찬장 안
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -461,7 +461,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: 3d product asset models of a disorganized pile of debt papers half-hidden behind an old silver thermos in a kitchen cupboard, based on the attached character's style. focus on visible korean text evidence: the name "양미숙" (miss yang) written in korean script, and unreasonably high interest rates (numerals) clearly visible on the top sheet. no english text allowed; only korean characters must be visible. gritty paper texture. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 13_주방_찬장_안의_족쇄
+파일명 : 13_주방_찬장_안
 
 [clue_14]
 이름 : 김 사장의 증언
@@ -480,10 +480,10 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-김 사장이 이마의 땀을 닦으며 말합니다. "아니, 오늘은 마담하고 만나자마자 담판을 지으려 했지. 그런데 한 9시 20분쯤 갑자기 픽 쓰러지는 게 아니오! 나도 내일 자정까지 계약서를 못 따면 죽은 목숨이라 눈이 뒤집혀서, 서류 한 장에만 지장을 찍고 도망쳐 나온 거요! 곧바로 건달 놈들 사무실로 달려가서 계약서를 던졌는데, 장난하냐며 한 부만 찍히면 효력이 없다고 뺨을 맞았소. 그래서 덜덜 떨면서 나머지 한 부를 마저 찍으려고 다시 들어오다 당신한테 잡힌 것뿐이오! 내가 죽이지 않았소!"
+김 사장이 이마의 땀을 닦으며 말합니다. "아니, 오늘은 마담하고 만나자마자 담판을 지으려 했지. 그런데 한 9시 20분쯤 갑자기 픽 쓰러지는 게 아니오! 나도 내일 자정까지 계약서를 못 따면 죽은 목숨이라 눈이 뒤집혀서, 서류에 지장을 찍고 도망쳐 나온 거요! 곧바로 건달 놈들 사무실로 달려가서 계약서를 던졌는데, 장난하냐며 한 부만 찍히면 효력이 없다고 뺨을 맞았소. 그래서 덜덜 떨면서 나머지 한 부를 마저 찍으려고 다시 들어오다 당신한테 잡힌 것뿐이오! 내가 죽이지 않았소!"
 HTML :
 <div class="story-content">
-  <p>김 사장이 이마의 땀을 닦으며 말합니다. "아니, 오늘은 마담하고 만나자마자 담판을 지으려 했지. 그런데 한 <strong>9시 20분쯤</strong> 갑자기 픽 쓰러지는 게 아니오! 나도 내일 자정까지 계약서를 못 따면 죽은 목숨이라 눈이 뒤집혀서, <strong>서류 한 장에만 지장을 찍고 도망쳐 나온 거요!</strong> 곧바로 건달 놈들 사무실로 달려가서 계약서를 던졌는데, 장난하냐며 한 부만 찍히면 효력이 없다고 뺨을 맞았소. 그래서 덜덜 떨면서 나머지 한 부를 마저 찍으려고 다시 들어오다 당신한테 잡힌 것뿐이오! 내가 죽이지 않았소!"</p>
+  <p>김 사장이 이마의 땀을 닦으며 말합니다. "아니, 오늘은 마담하고 만나자마자 담판을 지으려 했지. 그런데 한 <strong>9시 20분쯤</strong> 갑자기 픽 쓰러지는 게 아니오! 나도 내일 자정까지 계약서를 못 따면 죽은 목숨이라 눈이 뒤집혀서, <strong>지장을 찍고 도망쳐 나온 거요!</strong> 곧바로 건달 놈들 사무실로 달려가서 계약서를 던졌는데, 장난하냐며 한 부만 찍히면 효력이 없다고 뺨을 맞았소. 그래서 덜덜 떨면서 나머지 한 부를 마저 찍으려고 다시 들어오다 당신한테 잡힌 것뿐이오! 내가 죽이지 않았소!"</p>
 </div>
 이미지생성용 프롬프트: A technical reference photograph for human physics research. An AI-generated synthetic human model with wide-eyed panic, sweating profusely, based on the attached character's image. Cinematic close-up portrait, Looking straight at the camera. Detailed study of glistening beads of sweat on the forehead and tensed neck muscles. High-contrast lighting highlights the frantic expression. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -506,17 +506,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-미스 양이 시선을 피하며 떨리는 목소리로 말합니다. "저... 저는 몰라요. 8시 반쯤 중앙약국에 갔다가 눈길에 차가 막혀 밤 9시 50분에야 다방에 돌아왔어요. 들어오자마자 이 군이 돈을 훔쳐서 도망가려 하고 있고, 바닥에 쓰러진 마담의 시신이 보여서 너무 놀라 비명을 지른 것뿐이에요."
+"저... 저는 몰라요. 8시 반쯤 중앙약국에 갔다가 눈길에 차가 막혀 밤 9시 50분에야 다방에 돌아왔어요. 그 때 이 군이 서 있고, 바닥에 쓰러진 마담의 시신이 보여서 너무 놀라 비명을 지른 것뿐이에요."
 HTML :
 <div class="story-content">
-  <p>미스 양이 시선을 피하며 떨리는 목소리로 말합니다. "저... 저는 몰라요. 8시 반쯤 중앙약국에 갔다가 눈길에 차가 막혀 <strong>밤 9시 50분</strong>에야 다방에 돌아왔어요. 들어오자마자 이 군이 돈을 훔쳐서 도망가려 하고 있고, 바닥에 쓰러진 마담의 시신이 보여서 너무 놀라 비명을 지른 것뿐이에요."</p>
+  <p>"저... 저는 몰라요. <strong>중앙약국</strong>에 가려고 <strong>8시 반쯤</strong> 나갔는데, 눈길에 차가 막혀 <strong>밤 9시 50분</strong>에야 다방에 돌아왔어요. 그 때 이 군이 서 있고, 바닥에 쓰러진 마담의 시신이 보여서 너무 놀라 비명을 지른 것뿐이에요."</p>
 </div>
 이미지생성용 프롬프트: A technical reference photograph for human physics research. An AI-generated synthetic human model with an extremely pale, bloodless face and trembling lips, based on the attached character's image. Cinematic close-up portrait, Looking straight at the camera. Focusing on a vacant, fearful gaze. Soft, cool-toned lighting with deep shadows under the eyes. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
 파일명 : 15_미스_양의_증언
 
 [clue_16]
-이름 : 철가방 속의 백색 가루
+이름 : 철가방 속
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -532,17 +532,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-가방 안 구겨진 신문지 틈에서 플라스틱 통이 발견됩니다. 겉면에 '쥐약'이라고 붉은 글씨로 적혀 있습니다. 뚜껑을 열자 강한 산성의 화학 약품 냄새가 납니다. 당신이 쥐약을 내밀자 이 군이 무릎을 꿇고 말합니다. "아니에요! 방에 쥐가 많아서 퇴근길에 뿌리려고 산 거예요! 누나 잔에 타지 않았어요!"
+철가방 속에서 플라스틱 통이 발견됩니다. 겉면에 '쥐약'이라고 붉은 글씨로 적혀 있습니다. 뚜껑을 열자 화학 약품 냄새가 납니다. 당신이 쥐약을 내밀자 이 군이 말합니다. "아니에요! 그건 방에 쥐가 많아서 산 거예요!"
 HTML :
 <div class="story-content">
-  <p>가방 안 구겨진 신문지 틈에서 플라스틱 통이 발견됩니다. 겉면에 '쥐약'이라고 붉은 글씨로 적혀 있습니다. 뚜껑을 열자 <strong>강한 산성의 화학 약품 냄새</strong>가 납니다. <br>당신이 쥐약을 내밀자 이 군이 무릎을 꿇고 말합니다. "아니에요! 방에 쥐가 많아서 퇴근길에 뿌리려고 산 거예요! 누나 잔에 타지 않았어요!"</p>
+  <p>철가방 속에서 플라스틱 통이 발견됩니다. 겉면에 '쥐약'이라고 붉은 글씨로 적혀 있습니다. 뚜껑을 열자 <strong>화학 약품 냄새</strong>가 납니다. <br>당신이 쥐약을 내밀자 이 군이 말합니다. "아니에요! 그건 방에 쥐가 많아서 산 거예요!"
 </div>
 이미지생성용 프롬프트: Based on the same metal delivery box as the attached, show a small plastic bottle of rat poison hidden in a corner. The lid is loose, with white powder residue spilled around it. Gritty texture study. High-resolution material detail. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 16_철가방_속의_백색_가루
+파일명 : 16_철가방_속
 
 [clue_17]
-이름 : 독촉장
+이름 : 김 사장의 지갑
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -558,17 +558,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-김 사장의 지갑 안쪽에서 발견된 문서입니다. [김 팔봉, 내일 자정까지 목련다방 계약서 안 가져오면 네놈 멱따고 사무실은 우리가 먹는다.] 날인란 주변에 붉은 인주가 번져 있습니다.
+김 사장의 지갑 안쪽에서 독촉장이 발견되었습니다. [김 팔봉, 내일 자정까지 목련다방 계약서 안 가져오면 네놈 멱따고 사무실은 우리가 먹는다.] 날인란 주변에 붉은 인주가 번져 있습니다.
 HTML :
 <div class="story-content">
-  <p>김 사장의 지갑 안쪽에서 발견된 문서입니다. [김 팔봉, 내일 자정까지 목련다방 계약서 안 가져오면 네놈 멱따고 사무실은 우리가 먹는다.] 날인란 주변에 붉은 인주가 번져 있습니다.</p>
+  <p>김 사장의 지갑 안쪽에서 독촉장이 발견되었습니다. [김 팔봉, 내일 자정까지 목련다방 계약서 안 가져오면 네놈 멱따고 사무실은 우리가 먹는다.] 날인란 주변에 붉은 인주가 번져 있습니다.</p>
 </div>
 이미지생성용 프롬프트: A crumpled piece of paper taken from a wallet. Clear Korean text showing a threatening notice: '지불 각서' and '독촉장'. Red ink (인주) is smeared across the bottom corner where a seal should be. Rough paper texture. No English text allowed; ONLY Korean characters must be visible. Dark lighting. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 17_독촉장
+파일명 : 17_김_사장의_지갑
 
 [clue_18]
-이름 : 미스 양의 수면제 봉투와 젖은 외투
+이름 : 미스 양의 소지품
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -584,17 +584,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-미스 양의 숙소 구석에 놓인 낡은 외투는 표면이 젖어 있습니다. 주머니 속에 중앙약국에서 오늘 날짜 21시 00분에 처방받은 수면제 봉투가 들어 있습니다. 해당 약국은 다방에서 버스로 편도 30분 거리입니다.당신이 약 봉투에 대해 묻자 미스 양이 대답합니다. "요즘 도통 잠을 잘 수가 없어서 수면제를 지어온 거예요."
+미스 양의 주머니에서 중앙약국에서 오늘 날짜로 처방받은 수면제 봉투가 발견됩니다. 당신이 약 봉투에 대해 묻자 미스 양이 대답합니다. "요즘 도통 잠을 잘 수가 없어서 수면제를 지어온 거예요."
 HTML :
 <div class="story-content">
-  <p>미스 양의 숙소 구석에 놓인 낡은 외투는 표면이 젖어 있습니다. 주머니 속에 중앙약국에서 <strong>오늘 날짜 21시 00분</strong>에 처방받은 수면제 봉투가 들어 있습니다. 해당 약국은 다방에서 버스로 편도 30분 거리입니다.<br>당신이 약 봉투에 대해 묻자 미스 양이 대답합니다. "요즘 도통 잠을 잘 수가 없어서 수면제를 지어온 거예요."</p>
+  <p>미스 양의 주머니에서 중앙약국에서 <strong>오늘 날짜</strong>로 처방받은 수면제 봉투가 발견됩니다. 당신이 약 봉투에 대해 묻자 미스 양이 대답합니다. "요즘 도통 잠을 잘 수가 없어서 수면제를 지어온 거예요."</p>
 </div>
-이미지생성용 프롬프트: A faded, worn-out coat carelessly thrown on the floor in a dim, cramped room. The coat is visibly wet from snow. Sticking out of the pocket is a crumpled paper pharmacy bag (수면제 봉투) from the 1980s with handwritten time '21:00' visible on it. No English text allowed; ONLY Korean characters must be visible. Dramatic, moody lighting highlighting the wet texture of the coat. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
+이미지생성용 프롬프트: A crumpled paper pharmacy bag (수면제 봉투) from the 1980s resting on a wooden desk. No English text allowed; ONLY Korean characters must be visible. Dramatic, moody lighting. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 18_미스_양의_수면제_봉투와_젖은_외투
+파일명 : 18_미스_양의_소지품
 
 [clue_19]
-이름 : 얼음틀
+이름 : 주방 냉장고
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -610,40 +610,14 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-냉동실 안쪽에서 발견된 플라스틱 사각 얼음틀입니다. 대부분의 칸이 비어 있으며, 얼음 몇 덩이가 최근에 사용된 흔적이 남아 있습니다.
+주방 냉장고의 냉동실을 열어보니 플라스틱 사각 얼음틀이 있습니다. 자세히 살펴보니 몇 칸이 비어 있습니다.
 HTML :
 <div class="story-content">
-  <p>냉동실 안쪽에서 발견된 플라스틱 사각 얼음틀입니다. 대부분의 칸이 비어 있으며, 얼음 몇 덩이가 최근에 사용된 흔적이 남아 있습니다.</p>
+  <p>주방 냉장고의 냉동실을 열어보니 플라스틱 사각 얼음틀이 있습니다. 자세히 살펴보니 <strong>몇 칸이 비어 있습니다</strong>.</p>
 </div>
 이미지생성용 프롬프트: Inside a dark, frosted retro refrigerator freezer compartment. A cheap plastic ice cube tray. Most slots are empty, with a few slots showing signs of recently removed ice cubes. Cinematic lighting highlighting the frozen texture. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 19_얼음틀
-
-[clue_20]
-이름 : 양주잔
-유형 : 물증
-단계 : 내부수색 단계
-소모AP : 1
-정렬순서 : 200
-중요도 : 중간
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : N
-관련 : 공통
-의도 : 없음
-내용 :
-김 사장이 앉아있던 테이블 위에 놓인 양주잔입니다. 안에는 마시다 만 술이 약간 남아 있습니다. 냄새를 맡아보니 독한 위스키입니다. 김 사장이 땀을 닦으며 말합니다. "마담하고 마주 앉아 담판을 짓는 동안 양주를 한 잔 마신 것뿐이오!"
-HTML :
-<div class="story-content">
-  <p>김 사장이 앉아있던 테이블 위에 놓인 양주잔입니다. 안에는 마시다 만 술이 약간 남아 있습니다. 냄새를 맡아보니 독한 위스키입니다. <br>김 사장이 땀을 닦으며 말합니다. "마담하고 마주 앉아 담판을 짓는 동안 양주를 한 잔 마신 것뿐이오!"</p>
-</div>
-이미지생성용 프롬프트: A heavy crystal whiskey glass resting on a dark wooden table in a retro cafe. Inside the glass is a small amount of dark amber whiskey. Condensation on the outside of the glass. Cinematic, moody 1980s film noir lighting. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
-장소 : 없음
-파일명 : 20_양주잔
+파일명 : 19_주방_냉장고
 
 [clue_21]
 이름 : 이 군의 화상
@@ -662,17 +636,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-이 군의 오른손 등에 붉은 물집이 잡힌 화상 자국이 있습니다. 당신이 상처를 묻자 그가 손을 숨기며 말합니다. "아, 이거... 오토바이 머플러에 데인 거예요. 쓰라려서 배달 나가기 전에 주방에서 얼음찜질을 좀 한 것뿐이에요! 진짜 그게 다예요!"
+이 군의 오른손 등에 붉은 물집이 잡힌 화상 자국이 있습니다. "아, 이거... 오토바이 머플러에 데인 거예요. 아까 나가기 전에 주방에서 얼음찜질을 했더니 좀 괜찮아졌어요."
 HTML :
 <div class="story-content">
-  <p>이 군의 오른손 등에 붉은 물집이 잡힌 화상 자국이 있습니다. <br>당신이 상처를 묻자 그가 손을 숨기며 말합니다. "아, 이거... 오토바이 머플러에 데인 거예요. 쓰라려서 배달 나가기 전에 주방에서 얼음찜질을 좀 한 것뿐이에요! 진짜 그게 다예요!"</p>
+  <p>이 군의 오른손 등에 붉은 물집이 잡힌 화상 자국이 있습니다. <br>당신이 상처를 묻자 그가 손을 숨기며 말합니다. "아, 이거... 오토바이 머플러에 데인 거예요. 아까 나가기 전에 주방에서 얼음찜질을 했더니 좀 괜찮아졌어요."
 </div>
 이미지생성용 프롬프트: Extreme close-up of a young man's right hand tightly gripping a leather bag strap. On the back of the hand, there is a severe, red, swollen burn mark, clearly inflicted recently by something scalding hot. High-resolution skin texture study, cinematic dark lighting. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
 파일명 : 21_이_군의_화상
 
 [clue_22]
-이름 : 늙은 슈퍼 주인의 기억
+이름 : 서울슈퍼 탐문
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
@@ -688,14 +662,14 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-다방 입구가 훤히 보이는 옆집 '서울슈퍼'의 주인이 밖을 가리키며 말합니다. "다방 출입한 사람들? 다 지켜봤지. 저녁 8시 반쯤 미스 양이 나갔고, 밤 9시쯤에 김 사장이 들어갔다가 20분 있다 나갔지. 9시 10분인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 30분 있다가 돌아왔을 거야. 아까 10시 되기 10분 전에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아."
+"다방 출입한 사람들? 다 지켜봤지. 저녁 8시 반쯤 미스 양이 나갔고, 밤 9시쯤에 김 사장이 들어갔다가 20분 있다 나갔지. 9시 10분인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 30분 있다가 돌아왔을 거야. 아까 10시 되기 10분 전에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아."
 HTML :
 <div class="story-content">
-  <p>다방 입구가 훤히 보이는 옆집 '서울슈퍼'의 주인이 밖을 가리키며 말합니다. "다방 출입한 사람들? 다 지켜봤지. <strong>저녁 8시 반쯤</strong> 미스 양이 나갔고, <strong>밤 9시쯤</strong>에 김 사장이 들어갔다가 <strong>20분</strong> 있다 나갔지. <strong>9시 10분</strong>인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 <strong>30분 있다가</strong> 돌아왔을 거야. 아까 <strong>10시 되기 10분 전</strong>에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아."</p>
+  <p>"다방 출입한 사람들? 다 지켜봤지. <strong>저녁 8시 반쯤</strong> 미스 양이 나갔고, <strong>밤 9시쯤</strong>에 김 사장이 들어갔다가 <strong>20분</strong> 있다 나갔지. <strong>9시 10분</strong>인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 <strong>30분 있다가</strong> 돌아왔을 거야. 아까 <strong>10시 되기 10분 전</strong>에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아."</p>
 </div>
 이미지생성용 프롬프트: Close-up of an old 1980s orange public telephone sitting on the counter, based on the attached background image. The cord is messy and tangled. Cinematic lighting. Suggests an urgent phone testimony. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 22_늙은_슈퍼_주인의_기억
+파일명 : 22_서울슈퍼_탐문
 
 [clue_23]
 이름 : 단골의 증언
@@ -714,17 +688,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-다방 단골손님의 증언입니다. "마담에 대해 아는 게 있냐고? 그 여자는 뭐든 차갑게 마시는 걸 좋아했지. 얼어 죽어도 아이스였다니까."
+"마담에 대해 아는 게 있냐고? 그 여자는 뭐든 차갑게 마시는 걸 좋아했지. 얼어 죽어도 아이스였다니까."
 HTML :
 <div class="story-content">
-  <p>다방 단골손님의 증언입니다. "마담에 대해 아는 게 있냐고? 그 여자는 뭐든 차갑게 마시는 걸 좋아했지. 얼어 죽어도 아이스였다니까."</p>
+  <p>"마담에 대해 아는 게 있냐고? 그 여자는 뭐든 차갑게 마시는 걸 좋아했지. 얼어 죽어도 아이스였다니까."</p>
 </div>
 이미지생성용 프롬프트: A blurred, anonymous figure of an old customer sitting at a table in the background of Magnolia Cafe, sipping from a traditional tea cup. A small block of ice floating in the steaming hot tea. Focus is on the contrast between the hot steam and the floating ice cube. Film grain, retro 1980s aesthetic. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
 파일명 : 23_단골의_증언
 
 [clue_24]
-이름 : 김 순경의 지리 보고
+이름 : 김 순경의 보고
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
@@ -740,14 +714,14 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-현장을 통제 중인 관할 파출소 김 순경의 보고입니다. "반장님, 서울슈퍼야 바로 옆이니 엎어지면 코 닿을 데고요. 칠성금융은 걸어서 한 10분, 역전 당구장은 오토바이로 15분 정도 걸립니다. 중앙약국요? 버스 타면 원래 30분인데, 오늘은 눈이 워낙 많이 와서 편도 50분은 족히 잡으셔야 할 겁니다."
+"반장님, 서울슈퍼야 바로 옆이니 엎어지면 코 닿을 데고요. 칠성금융은 걸어서, 역전 당구장은 오토바이로 15분 정도 걸립니다. 중앙약국요? 버스 타면 원래 30분인데, 오늘은 눈이 워낙 많이 와서 편도 50분은 족히 잡으셔야 할 겁니다."
 HTML :
 <div class="story-content">
-  <p>현장을 통제 중인 관할 파출소 김 순경의 보고입니다. "반장님, 서울슈퍼나 농업사는 바로 옆이니 엎어지면 코 닿을 데고요. 칠성금융은 걸어서 한 10분, 역전 당구장은 오토바이로 15분 정도 걸립니다. 중앙약국요? 버스 타면 원래 30분인데, 오늘은 눈이 워낙 많이 와서 편도 50분은 족히 잡으셔야 할 겁니다."</p>
+  <p>"반장님, 서울슈퍼나 농업사는 바로 옆이니 엎어지면 코 닿을 데고요. 칠성금융은 걸어서, 역전 당구장은 오토바이로 15분 정도 걸립니다. 중앙약국요? 버스 타면 원래 30분인데, 오늘은 눈이 워낙 많이 와서 편도 50분은 족히 잡으셔야 할 겁니다."</p>
 </div>
 이미지생성용 프롬프트: A young Korean patrol officer in a 1980s police uniform, standing near the entrance of Magnolia Cafe, reporting to someone off-camera. It is snowing heavily outside. The officer's breath shows as steam in the cold air. Film grain, retro 1980s aesthetic. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 24_김_순경의_지리_보고
+파일명 : 24_김_순경의_보고
 
 [clue_25]
 이름 : 만물상 주인의 증언
@@ -766,10 +740,10 @@ HTML :
 관련 : 공통
 의도 : 이 군의 살인 도구(쥐약) 배제
 내용 :
-다방 근처 만물상 주인의 증언입니다. "쥐약? 그건 쥐들이 먹게 밥이나 음식에 섞어서 뭉쳐줘야 해서 물에 잘 안녹아. 농약은 어떠냐구? 그건 원래부터 물에 타서 쓰는거지."
+"쥐약? 그건 쥐들이 먹게 밥이나 음식에 섞어서 뭉쳐줘야 해서 물에 잘 안녹아. 농약은 어떠냐구? 그건 원래부터 물에 타서 쓰는거지."
 HTML :
 <div class="story-content">
-  <p>다방 근처 만물상 주인의 증언입니다. "쥐약? 그건 쥐들이 먹게 밥이나 음식에 섞어서 뭉쳐줘야 해서 물에 잘 안녹아. 농약은 어떠냐구? 그건 원래부터 물에 타서 쓰는거지."</p>
+  <p>"쥐약? 그건 쥐들이 먹게 밥이나 음식에 섞어서 뭉쳐줘야 해서 물에 잘 안녹아. 농약은 어떠냐구? 그건 원래부터 물에 타서 쓰는거지."</p>
 </div>
 이미지생성용 프롬프트: An old korean man in a cluttered 1980s agricultural supply store, pointing at a small packet of rat poison and a bottle of liquid pesticide. Dim lighting, dusty atmosphere. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
