@@ -1,0 +1,41 @@
+단계명: 프롤로그
+유형: INTRODUCTION
+예상 시간: 10 분
+자동 진행: false
+AP 제한: {"role_bak": 0}
+
+<div class="story-content">
+  <div class="section-title">사건 발생</div>
+  
+  <p>1982년 12월, 폭설이 내리는 경기도 외곽의 읍내. 연락을 받고 도착한 <strong>'목련다방'</strong> 내부.</p>
+  
+  <p>당신의 시선 끝에는 두 명의 용의자가 현장에 남아 있습니다.</p>
+  
+  <ul>
+    <li>손톱을 물어뜯으며 초조하게 다리를 떠는 배달원 <span class="character-lee">이 군</span>.</li>
+    <li>초점 없는 눈으로 입술을 깨무는 종업원 <span class="character-yang">미스 양</span>.</li>
+  </ul>
+  
+  <p>당신은 카운터의 낡은 다이얼 전화기를 돌려 관할 파출소에 지원을 요청했습니다. 순경들이 도착하기 전까지, 개인적인 감정을 배제하고 용의자들을 철저히 통제하며 현장을 보존해야 합니다.</p>
+  
+  <hr>
+  
+  <div class="beginner-guide">
+    <h3>튜토리얼: 게임 화면 익히기</h3>
+    <p>이 시나리오는 머덱스 플랫폼의 <strong>기본적인 조작법</strong>을 익히기 위해 제작되었습니다.</p>
+    
+    <ol style="margin-top: 12px; line-height: 1.8;">
+      <li><strong>내 정보 확인</strong>
+        <p>하단 메뉴의 <span class="highlight">MY</span> 버튼을 누르고 <span class="highlight">내 역할</span>을 클릭해 보세요. 당신의 <span class="highlight">캐릭터 배경</span>, <span class="highlight">수사 규칙</span>, 그리고 <span class="highlight">목표</span>가 상세히 적혀 있습니다. 또한, 별도의 <span class="emphasis">비밀 정보</span> 탭을 통해 당신만이 알고 있는 과거의 인연을 꼭 확인하세요.</p>
+      </li>
+      
+      <li><strong>단계 설명 (현재 화면)</strong>
+        <p>지금 보고 계신 화면은 현재 단계의 <strong>사건 개요</strong>입니다. 하단 메뉴의 <span class="highlight">INFO</span> > <span class="highlight">단계 설명</span>을 통해 언제든지 다시 확인할 수 있습니다.</p>
+      </li>
+
+      <li><strong>다음 단계로 이동</strong>
+        <p>내용을 모두 확인하셨다면, 하단 메뉴 바 우측의 <span class="highlight">Next</span> 버튼을 눌러 진행해 주세요.</p>
+      </li>
+    </ol>
+  </div>
+</div>

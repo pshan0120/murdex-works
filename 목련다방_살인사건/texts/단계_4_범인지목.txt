@@ -1,0 +1,36 @@
+단계명: 범인지목
+유형: CONCLUSION
+예상 시간: 3 분
+자동 진행: false
+AP 제한: {}
+
+<div class="story-content">
+  <div class="section-title">범인 지목</div>
+  
+  <p>단서 수집과 탐문 조사가 모두 끝났습니다. 이제 결론을 내릴 시간입니다.</p>
+
+  <p>누가 최 마담을 살해했는지 지목해 주십시오.</p>
+  
+  <div class="script-line"><span class="character-bak">박 반장</span>: "더 이상의 변명은 필요 없어. 범인은... 바로 당신이야."</div>
+  
+  <hr>
+
+  <div class="beginner-guide">
+    <h3>튜토리얼: 최종 결론 내리기</h3>
+    <p>게임의 클라이막스입니다. 이제 당신의 추리를 시스템에 입력할 차례입니다.</p>
+    
+    <ol style="margin-top: 12px; line-height: 1.8;">
+      <li><strong>질문과 답변</strong>
+        <p>하단 메뉴 바 우측의 <span class="highlight">Next</span> 버튼을 누르면 사건의 진상을 묻는 질문 창이 나타납니다. 수집한 단서들을 바탕으로 <strong>범인</strong>을 정확히 지목해 주세요.</p>
+      </li>
+      
+      <li><strong>결과 확인 및 엔딩</strong>
+        <p>질문에 대한 답변을 모두 마치고 제출하면 모든 플레이 과정이 종료됩니다. 당신의 추리 성공 여부에 따라 <span class="highlight">진 엔딩</span> 혹은 <span class="highlight">배드 엔딩</span>으로 이어집니다.</p>
+      </li>
+
+      <li><strong>제출 후 엔딩 확인</strong>
+        <p>답변을 모두 작성하고 제출하면 <strong>모든 플레이 과정이 종료</strong>되고 <strong>결말</strong> 단계로 넘어갑니다.</p>
+      </li>
+    </ol>
+  </div>
+</div>
