@@ -9,14 +9,16 @@
 .story-content {
     font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
     font-size: 1rem;
-    line-height: 1.8;
+    line-height: 1.75;
     color: #d5cea3;
     /* 바랜 종이색 */
-    background-color: #1a120b;
-    /* 짙은 커피색 배경 */
-    padding: 1.5rem;
-    border-radius: 8px;
     letter-spacing: -0.01em;
+}
+
+/* 본문 스타일 */
+.story-content p {
+    margin-bottom: 0.8em;
+    text-align: left;
 }
 
 /* 제목 스타일 */
@@ -24,23 +26,29 @@
 .story-content h2,
 .story-content .section-title {
     font-family: "Nanum Myeongjo", serif;
+    font-size: 1.2em;
+    font-weight: 900;
     color: #e5ba73;
     /* 황동색/올드 골드 */
-    border-bottom: 1px solid rgba(229, 186, 115, 0.3);
-    padding-bottom: 0.5rem;
-    margin-top: 1.5rem;
-    margin-bottom: 1rem;
-    font-weight: 800;
+    border-bottom: 3px double #e5ba73;
+    padding-bottom: 0.6em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    letter-spacing: 0.05em;
 }
 
 /* 소제목 스타일 */
 .story-content h3,
 .story-content .subsection-title {
     font-family: "Nanum Myeongjo", serif;
+    font-size: 1.1em;
+    font-weight: 700;
     color: #c85c5c;
     /* 말린 피/장미색 */
-    margin-top: 1.2rem;
-    font-weight: 700;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    border-left: 4px solid #c85c5c;
+    padding-left: 0.8em;
 }
 
 /* 본문 강조 */
@@ -80,28 +88,41 @@
 }
 
 /* 미스 양 - 분홍색 */
+.character-madam {
+    color: #ce93d8 !important;
+    font-weight: 700;
+}
+
+/* 최 마담 - 보라색 */
+.character-han {
+    color: #81c784 !important;
+    font-weight: 700;
+}
+
+/* 핵심 단서/사물 - 청록색 */
 
 /* 지문 스타일 */
 .script-direction {
     font-style: italic;
     color: #8d6e63;
-    margin: 1rem 0;
-    padding-left: 1rem;
+    margin: 10px 0;
+    padding: 5px 0 5px 1em;
     border-left: 2px solid #3e2723;
-    font-size: 0.95rem;
+    font-size: 0.9em;
 }
 
 /* 대사 라인 */
 .script-line {
-    margin-bottom: 0.5rem;
+    margin-bottom: 10px;
+    line-height: 1.6;
 }
 
 /* 레트로 박스 (신문/공고문 느낌) */
 .retro-box {
     background: rgba(213, 206, 163, 0.05);
     border: 1px double #e5ba73;
-    padding: 1.2rem;
-    margin: 1.5rem 0;
+    padding: 1.25em 1.5em;
+    margin: 2em 0;
     position: relative;
 }
 
@@ -121,12 +142,13 @@
 .story-content ul {
     list-style: none;
     padding-left: 0;
+    margin-bottom: 0em;
 }
 
 .story-content li {
     position: relative;
-    padding-left: 1.5rem;
-    margin-bottom: 0.5rem;
+    padding-left: 1em;
+    margin-bottom: 0.5em;
 }
 
 .story-content li::before {
@@ -139,10 +161,10 @@
 
 /* 가이드 섹션 */
 .beginner-guide {
-    margin-top: 2rem;
-    padding: 1rem;
+    margin: 2em 0;
+    padding: 1.5rem;
     background: rgba(229, 186, 115, 0.1);
-    border-radius: 4px;
+    border-radius: 1rem;
     border: 1px solid rgba(229, 186, 115, 0.2);
 }
 
@@ -159,15 +181,16 @@
     border: none;
     height: 1px;
     background: linear-gradient(90deg, transparent, #e5ba73, transparent);
-    margin: 2rem 0;
+    margin: 2.5em 0;
+    opacity: 0.5;
 }
 
 /* 아코디언 (details/summary) 스타일 */
 .story-content details {
+    margin: 2em 0;
     background: rgba(229, 186, 115, 0.05);
     border: 1px solid rgba(229, 186, 115, 0.2);
-    border-radius: 4px;
-    margin-bottom: 1rem;
+    border-radius: 6px;
     transition: all 0.3s ease;
 }
 
@@ -177,19 +200,35 @@
 }
 
 .story-content summary {
-    padding: 1rem;
-    font-family: "Nanum Myeongjo", serif;
-    font-weight: 700;
-    color: #e5ba73;
     cursor: pointer;
-    list-style: none;
+    user-select: none;
+    padding: 0.8em;
+    background: linear-gradient(135deg, rgba(200, 92, 92, 0.1), rgba(26, 18, 11, 0.3));
+    border: 2px solid #e5ba73;
+    border-radius: 6px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    font-family: "Nanum Myeongjo", serif;
+    font-weight: 800;
+    color: #e5ba73;
+    font-size: 1em;
+    letter-spacing: 0.1em;
+    list-style: none;
 }
 
 .story-content summary::-webkit-details-marker {
     display: none;
+}
+
+.story-content summary::marker {
+    display: none;
+}
+
+.story-content summary:hover {
+    background: rgba(229, 186, 115, 0.15);
+    box-shadow: 0 0 15px rgba(229, 186, 115, 0.3);
 }
 
 .story-content summary::after {
@@ -203,31 +242,21 @@
 }
 
 .story-content .collapsible-content {
-    padding: 0 1rem 1rem 1rem;
+    padding: 1.0em;
     border-top: 1px solid rgba(229, 186, 115, 0.1);
     margin-top: 0;
+    animation: fadeSlideDown 0.3s ease-out;
 }
 
-/* 비밀 문서 스타일 */
-.secret-document {
-    background: #2a1f14;
-    border: 2px solid #c85c5c;
-    padding: 1.5rem;
-    position: relative;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-}
-
-.secret-document::before {
-    content: "기밀";
-    position: absolute;
-    top: -12px;
-    right: 20px;
-    background: #c85c5c;
-    color: #1a120b;
-    padding: 2px 10px;
-    font-weight: 900;
-    font-size: 0.7rem;
-    letter-spacing: 0.1em;
+@keyframes fadeSlideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .clue-group-desc {
