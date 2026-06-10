@@ -277,14 +277,14 @@ HTML :
 관련 : 엘드리치
 의도 : 30년 전 다크 시리어스와 전쟁 이후 어둠에 기운에 잠식되고 있었다는 단서.
 내용 :
-왕실 서기의 수기록 일부다. "마신과의 전쟁 이후 폐하에게선 성스러운 기운이 조금씩 자취를 감추기 시작했다. 자비로운 미소는 메말라갔고, 원인을 알 수 없는 적막함과 냉기가 그 자리를 채웠다. 마신의 어둠을 마주했던 그날 이후, 폐하의 소중한 무언가가 빛을 잃어버린 것 같아 두려움이 앞선다."
+왕실 서기의 수기록 일부다. "마신과의 전쟁 이후 폐하에게선 성스러운 기운이 조금씩 자취를 감추기 시작했다. 자비로운 미소는 메말라갔고, 원인을 알 수 없는 적막함과 냉기가 그 자리를 채웠다. 마치 전장에서 마신이 내뿜던 마력에 물들기라도 한 것처럼. 마신의 어둠을 마주했던 그날 이후, 폐하의 소중한 무언가가 빛을 잃어버린 것 같아 두려움이 앞선다."
 HTML :
 <div class="story-content">
   <div class="script-direction">왕실 서기의 수기록 일부다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      <span class="emphasis">마신과의 전쟁</span> 이후 폐하에게선 성스러운 기운이 조금씩 자취를 감추기 시작했다. 자비로운 미소는 메말라갔고, 원인을 알 수 없는 적막함과 냉기가 그 자리를 채웠다. 마신의 어둠을 마주했던 그날 이후, 폐하의 소중한 무언가가 빛을 잃어버린 것 같아 두려움이 앞선다.
+      <span class="emphasis">마신과의 전쟁</span> 이후 폐하에게선 성스러운 기운이 조금씩 자취를 감추기 시작했다. 자비로운 미소는 메말라갔고, 원인을 알 수 없는 적막함과 냉기가 그 자리를 채웠다. 마치 전장에서 마신이 내뿜던 마력에 물들기라도 한 것처럼. 마신의 어둠을 마주했던 그날 이후, 폐하의 소중한 무언가가 빛을 잃어버린 것 같아 두려움이 앞선다.
     </div>
   </div>
 </div>
@@ -338,10 +338,10 @@ HTML :
 관련 : 말리스, 발로그, 슬리더
 의도 : 서재에 무색무취의 수면가스가 사용되었음을 증명. 일반인은 알 수 없으나 특수한 후각을 가진 고어후프와 슬리더만 포착할 수 있음.
 내용 :
-서재의 공기 속에 눅눅하고 쿰쿰한 잔향이 미세하게 남아 있다.
+서재 안에서 쿰쿰한 냄새를 맡을 수 있었다.
 HTML :
 <div class="story-content">
-  서재의 공기 속에 <span class="emphasis">눅눅하고 쿰쿰한 잔향</span>이 미세하게 남아 있다.
+  서재 안에서 <span class="emphasis">쿰쿰한 냄새</span>를 맡을 수 있었다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dimly lit interior of an ancient library with faint, hazy wisps of greenish-grey vapor or smoke drifting between towering bookshelves. Use the attached Library image (02_서재) for environment and lighting. No people. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
@@ -503,7 +503,7 @@ HTML :
       <div>τ: ∏(2ζ/Γ)^0.5 ≒ T_min</div>
       <div>ψ: ∠90° + arctan(δ)</div>
       <div class="mt-2 text-text-secondary">
-        - 4.48 및 1.2 : 높이(m)<br>
+        - 4.48 : 높이(m)<br>
         - 90도 : 각도<br>
         - Φ 및 τ : 시간 단위
       </div>
