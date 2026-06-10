@@ -1,74 +1,161 @@
-[[액션명: 정밀 조사: 남은 쌍화차]]
-유형: MODIFY_CLUE
-비용: 2
-설명: <div class="story-content"><p>쌍화차 잔에 <span class="highlight">남은 찻물</span>에 코를 가까이 대고, 혹시 모를 이물질의 냄새가 나는지 확인합니다.</p></div>
-효과 텍스트: <div class="story-content"><p>찻물에서 풍기는 <span class="emphasis">미세하지만 이질적인 냄새</span>를 포착할 수 있습니다.</p></div>
-실행 결과: <div class="story-content">
-  <div class="script-direction"><span class="character-bak">박 반장</span>은 찻잔을 들어 올려 코끝에 가져갔다.</div>
-  <p>진한 쌍화차 향기 사이로, 코를 찌르는 듯한 <span class="emphasis">비릿한 악취</span>가 희미하게 섞여 있음을 감지합니다.</p>
+■ 액션명: 사망시간 추정
+■ 소모 AP: 1
+■ 액션 유형: OTHER
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    현장과 시신의 상태를 종합하여 정확한 사망 시각을 추정합니다.
+  </p>
 </div>
-시스템 효과: [
-    {
-        "effectType": "REPLACE",
-        "targetClueId": "clue_01",
-        "originalVariantId": "variant_01_default",
-        "modifiedVariantId": "variant_01_hidden",
-        "conditionDescription": "정밀 후각 조사 결과"
-    }
-]
 
-[[액션명: 정밀 조사: 낡은 가방]]
-유형: MODIFY_CLUE
-비용: 2
-설명: <div class="story-content"><p><span class="character-lee">이 군</span>이 안절부절못하며 지키고 있는 <span class="highlight">낡은 가죽 가방</span>의 내용물을 샅샅이 뒤집니다.</p></div>
-효과 텍스트: <div class="story-content"><p>가방 깊숙한 곳에 숨겨진 <span class="emphasis">의외의 물건</span>을 찾아낼 수 있습니다.</p></div>
-실행 결과: <div class="story-content">
-  <div class="script-line"><span class="character-lee">이 군</span>: "이... 이건 프라이버시 침해 아닙니까!"</div>
-  <div class="script-direction"><span class="character-bak">박 반장</span>은 항변을 무시하고 가방을 거꾸로 탈탈 털었다.</div>
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    <span class="character-han">최 마담의 시신</span>에 대한 정보를 얻게 됩니다.
+  </p>
 </div>
-시스템 효과: [
-    {
-        "effectType": "REPLACE",
-        "targetClueId": "clue_04",
-        "originalVariantId": "variant_04_default",
-        "modifiedVariantId": "variant_04_hidden",
-        "conditionDescription": "가방 내용물 확인 결과"
-    }
-]
 
-[[액션명: 정밀 조사: 서류 봉투]]
-유형: MODIFY_CLUE
-비용: 2
-설명: <div class="story-content"><p><span class="character-kim">김 사장</span>이 품에 안고 있는 <span class="highlight">누런 서류 봉투</span>를 빼앗아 그 내용을 검토합니다.</p></div>
-효과 텍스트: <div class="story-content"><p>서류에 적힌 <span class="emphasis">계약의 실체</span>를 파악할 수 있습니다.</p></div>
-실행 결과: <div class="story-content">
-  <div class="script-line"><span class="character-kim">김 사장</span>: "내놓으시오! 이건 내 재산이오!"</div>
-  <div class="script-direction"><span class="character-bak">박 반장</span>은 저항을 뿌리치고 서류를 꺼내 읽어 내려갔다.</div>
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <p>
+    시신의 상태로 보아 죽은 지 <strong>30분</strong> 정도 되었습니다.
+  </p>
 </div>
-시스템 효과: [
-    {
-        "effectType": "REPLACE",
-        "targetClueId": "clue_06",
-        "originalVariantId": "variant_06_default",
-        "modifiedVariantId": "variant_06_hidden",
-        "conditionDescription": "서류 내용 정밀 검토 결과"
-    }
-]
 
-[[액션명: 정밀 조사: 종업원 숙소]]
-유형: MODIFY_CLUE
-비용: 2
-설명: <div class="story-content"><p>숙소 사물함에서 발견된 <span class="highlight">낡은 일기장</span>을 압수하여 최근 기록을 읽어봅니다.</p></div>
-효과 텍스트: <div class="story-content"><p><span class="character-yang">미스 양</span>이 감추고 있던 <span class="emphasis">내면의 심리</span>를 엿볼 수 있습니다.</p></div>
-실행 결과: <div class="story-content">
-  <div class="script-direction">먼지 쌓인 일기장을 펼치자, 꾹꾹 눌러쓴 글씨들이 그녀의 억눌린 감정을 토해내듯 쏟아졌다.</div>
+============================================================
+
+■ 액션명: 잔류물 관찰
+■ 소모 AP: 1
+■ 액션 유형: OTHER
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    현장에 남은 용기나 잔류물을 관찰하여 특이점이 있는지 파악합니다.
+  </p>
 </div>
-시스템 효과: [
-    {
-        "effectType": "REPLACE",
-        "targetClueId": "clue_08",
-        "originalVariantId": "variant_08_default",
-        "modifiedVariantId": "variant_08_hidden",
-        "conditionDescription": "일기장 내용 확인 결과"
-    }
-]
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    <span class="character-han">찻잔에 남은 잔류물</span>에 대한 정보를 얻게 됩니다.
+  </p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <p>
+    두 찻잔 중, 립스틱이 묻은 찻잔에서만 쌍화차 냄새와 함께 톡 쏘는 냄새가 섞여 납니다.
+  </p>
+</div>
+
+============================================================
+
+■ 액션명: 압박 수사: 소지품
+■ 소모 AP: 1
+■ 액션 유형: MODIFY_CLUE
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    용의자의 소지품을 강제로 수색하여 숨겨진 물건을 찾습니다.
+  </p>
+</div>
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    &lt;낡은 가방&gt; 단서가 게임 보드에 있다면, 단서 내용이 변경됩니다.
+  </p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+    <p>
+      강제 수색 결과, 가방 안에서 숨겨져 있던 물건을 발견했습니다.
+    </p>
+    <span>&lt;낡은 가방&gt; 단서 내용이 변경되었습니다.</span>
+</div>
+
+============================================================
+
+■ 액션명: 은닉물 조사
+■ 소모 AP: 1
+■ 액션 유형: MODIFY_CLUE
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    현장에 숨겨진 수상한 물건의 내용물을 확인합니다.
+  </p>
+</div>
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    &lt;주방 구석&gt; 단서가 게임 보드에 있다면, 단서 내용이 변경됩니다.
+  </p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <p>
+    신문지를 벗겨내자 갈색 유리병이 나타납니다. 강한 마늘 냄새가 납니다.
+  </p>
+  <span>&lt;주방 구석&gt; 단서 내용이 변경되었습니다.</span>
+</div>
+
+============================================================
+
+■ 액션명: 압박 수사: 문건
+■ 소모 AP: 1
+■ 액션 유형: MODIFY_CLUE
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    봉인된 문서를 강제로 개봉하여 내용을 열람합니다.
+  </p>
+</div>
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    &lt;서류 봉투&gt; 단서가 게임 보드에 있다면, 단서 내용이 변경됩니다.
+  </p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <div class="game-effect-notice">
+    <p>
+      봉투 안에서 수상한 지장이 날인된 계약서를 발견했습니다.
+    </p>
+    <span>&lt;서류 봉투&gt; 단서 내용이 변경되었습니다.</span>
+  </div>
+</div>
+
+============================================================
+
+■ 액션명: 압박 수사: 잠금장치
+■ 소모 AP: 1
+■ 액션 유형: MODIFY_CLUE
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>
+    잠금장치를 부수고 안의 내용을 확인합니다.
+  </p>
+</div>
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p>
+    &lt;종업원 숙소&gt; 단서가 게임 보드에 있다면, 단서 내용이 변경됩니다.
+  </p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <div class="game-effect-notice">
+    <p>
+      자물쇠를 부수고 일기장 안의 내용을 확인했습니다.
+    </p>
+    <span>&lt;종업원 숙소&gt; 단서 내용이 변경되었습니다.</span>
+  </div>
+</div>

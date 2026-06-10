@@ -1,7 +1,7 @@
 # 목련다방 살인사건 - 상세 단서 목록 (Detailed Clues)
 
 [clue_01]
-이름 : 용의자: 이 군
+이름 : 이 군
 유형 : 관찰
 단계 : 프롤로그 단계
 소모AP : 0
@@ -24,10 +24,10 @@ HTML :
 </div>
 이미지생성용 프롬프트: An ai-generated synthetic human model of a young korean man (lee gun) standing in the 'magnolia cafe' hall, based on the attached images. he wears a worn-out red knit sweater with pilling and loose, baggy jeans. he has messy, unkempt hair and a faint scar on his face. his expression is visibly anxious, biting his lip and looking around nervously. posture suggests he is pacing or shaking his leg. background is the dim, atmospheric hall with red leather booths. cinematic lighting, film noir style. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 01_용의자_이_군
+파일명 : 01_이_군
 
 [clue_02]
-이름 : 용의자: 미스 양
+이름 : 미스 양
 유형 : 관찰
 단계 : 프롤로그 단계
 소모AP : 0
@@ -50,13 +50,13 @@ HTML :
 </div>
 이미지생성용 프롬프트: An ai-generated synthetic human model of a young korean woman (miss yang) standing in the 'magnolia cafe' hall, based on the attached images. she wears a faded pink cardigan and a soiled white apron. her hair is tied back plainly. her face is extremely pale and without makeup, with a tearful, fearful expression. she stands with head bowed, fidgeting with her hands. background is the dim, atmospheric hall. cinematic lighting, film noir style. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 02_용의자_미스_양
+파일명 : 02_미스_양
 
 [clue_03]
 이름 : 최 마담의 시신
-유형 : 물증
+유형 : 관찰
 단계 : 프롤로그 단계
-소모AP : 1
+소모AP : 0
 정렬순서 : 30
 중요도 : 높음
 핵심 단서 여부 : N
@@ -74,39 +74,14 @@ HTML :
 <div class="story-content">
   <p>시신은 바닥에 쓰러져 있습니다. 뒤통수 부위에 상처에서 검붉은 피가 바닥으로 흘러나와 있습니다. 앞치마 주머니 안감이 밖으로 뒤집혀 튀어나와 있습니다. 오른쪽 엄지손가락 끝에 옅게 번진 붉은색 자국이 남아 있습니다.</p>
 </div>
-이미지생성용 프롬프트: An ai-generated synthetic human model fallen on the floor next to a red leather booth, based on the attached images. eyes are closed, face is peaceful like sleeping. focus on high-resolution texture details: extremely pale skin tone, a pool of dark blood spreading from the back of the head, and a deep violet color gradient on the fingertips. captured as a static overhead/side-view asset study. photographic style, heavy silence, purely for technical study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
+이미지생성용 프롬프트: A dramatic close-up macro shot of a pale right hand lying motionless on a dark floor. The tip of the thumb has a faint, smeared red stain. Next to the hand is a vintage apron with its pocket pulled inside out. The scene avoids showing the full body, focusing only on the hand and the apron pocket. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
 파일명 : 03_최_마담의_시신
-
-============================================================
-이름 : 사망 추정 시간
-유형 : 물증
-소모AP : 1
-정렬순서 : 31
-중요도 : 높음
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득(소유) 가능 여부 : N
-획득 조건 존재 여부 : Y
-획득 조건 내용 : '사망시간 추정' 액션 수행 시 해금
-시작 표시 상태 : 숨김
-단계 시작시 자동 획득 : N
-관련 : 공통
-의도 : 이 군의 알리바이 증명
-내용 :
-박 반장의 직감과 시신의 상태로 보아 죽은 지 30분 정도 되었다.
-HTML :
-<div class="story-content">
-  <p>박 반장의 직감과 시신의 상태로 보아 죽은 지 <strong>30분</strong> 정도 되었다.</p>
-</div>
-이미지생성용 프롬프트: Extreme close up of a retro silver analog wristwatch next to the pale hand of the corpse, indicating the time of death investigation. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
-장소 : 없음
-파일명 : 03_최_마담의_시신_변형
 
 [clue_04]
 이름 : 테이블 위
 유형 : 물증
-단계 : 프롤로그 단계
+단계 : 내부수색 단계
 소모AP : 1
 정렬순서 : 40
 중요도 : 중간
@@ -125,39 +100,14 @@ HTML :
 <div class="story-content">
   <p>테이블 위에는 두 개의 찻잔이 놓여 있습니다. 그 중 하나는 쌍화차가 반쯤 남아 있습니다. 이 잔의 테두리에는 붉은색 립스틱 자국이 묻어 있고, 찻잔 접시에는 약간의 물기가 묻어 있습니다. 맞은편에 놓인 다른 잔은 거의 다 비어 있습니다.</p>
 </div>
-이미지생성용 프롬프트: A 3d product asset model of a ceramic tea cup on a wood table, based on the attached background image. macro close-up shot of a thick ceramic cup. focus on high-resolution texture details: a half-finished dark brown traditional tea (ssanghwa-cha). a vivid red lipstick stain is clearly visible on the rim of the cup. crucial detail: strangely for a hot tea, heavy condensation (cold water droplets) covers the outside of the cup, and a small puddle of melted water surrounds the base on the table. captured as a static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
+이미지생성용 프롬프트: A top-down overhead shot of a 1980s retro Korean tea house (Dabang) table. Two ceramic tea cups are placed exactly opposite each other, showing that two people were sitting face-to-face. The first cup is half-full with dark brown traditional tea (ssanghwa-cha), and has a very faint, subtle red lipstick smudge on its rim, with a few small water droplets visible on its saucer. The second cup across the table is almost completely empty. 1980s retro film noir style, cinematic lighting, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 04_찻잔
-
-============================================================
-이름 : 최 마담의 찻잔
-유형 : 물증
-소모AP : 1
-정렬순서 : 41
-중요도 : 중간
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득(소유) 가능 여부 : N
-획득 조건 존재 여부 : Y
-획득 조건 내용 : 특정 조건 달성 시 해금
-시작 표시 상태 : 숨김
-단계 시작시 자동 획득 : N
-관련 : 공통
-의도 : 없음
-내용 :
-두 찻잔 중, 립스틱이 묻은 찻잔에서만 쌍화차 냄새와 함께 톡 쏘는 냄새가 섞여 납니다.
-HTML :
-<div class="story-content">
-  <p>두 찻잔 중, <strong>립스틱이 묻은 찻잔에서만</strong> 쌍화차 냄새와 함께 <strong>톡 쏘는 냄새</strong>가 섞여 납니다.</p>
-</div>
-이미지생성용 프롬프트: Based on the attached image, focus on an extreme macro close-up of the tea's surface. The dark brown liquid looks slightly unnatural. A very faint, eerie, pale greenish vapor (fumes) is slowly rising from the surface of the tea, visually hinting at a toxic substance or a foul, pungent odor hidden within. Ominous, suspenseful atmosphere, film noir style. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
-장소 : 없음
-파일명 : 04_최_마담의_찻잔_변형
+파일명 : 04_테이블_위
 
 [clue_05]
-이름 : 낡은 가죽 가방
+이름 : 낡은 가방
 유형 : 물증
-단계 : 프롤로그 단계
+단계 : 내부수색 단계
 소모AP : 1
 정렬순서 : 50
 중요도 : 중간
@@ -171,17 +121,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-이 군이 양팔로 강하게 안고 있는 가죽 가방입니다.
+이 군이 가지고 있던 낡은 가죽 가방입니다.
 HTML :
 <div class="story-content">
-  <p>이 군이 양팔로 강하게 안고 있는 가죽 가방입니다.</p>
+  <p>이 군이 가지고 있던 낡은 가죽 가방입니다.</p>
 </div>
 이미지생성용 프롬프트: A 3d product asset model of a closed, heavy and worn brown leather bag sitting on a retro wooden chair, based on the attached background image. focus on the aged leather texture and heavy volume of the bag. dim lighting adds a mysterious mood. captured as a static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 05_낡은_가죽_가방
+파일명 : 05_낡은_가방
 
 ============================================================
-이름 : 낡은 가죽 가방
+이름 : 열린 가죽 가방
 유형 : 물증
 소모AP : 1
 정렬순서 : 51
@@ -203,12 +153,12 @@ HTML :
 </div>
 이미지생성용 프롬프트: Show the same 3D product asset model as the attached image, but wide open. High-resolution texture study of contents: rubber-banded bundles of cash (1980s 10,000 won bills) spilling out from under a tattered delivery notebook. Same lighting and angle as the attached source. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 05_낡은_가죽_가방_변형
+파일명 : 05_낡은_가방_변형
 
 [clue_06]
 이름 : 이 군의 증언
 유형 : 증언
-단계 : 프롤로그 단계
+단계 : 내부수색 단계
 소모AP : 1
 정렬순서 : 60
 중요도 : 중간
@@ -232,7 +182,7 @@ HTML :
 파일명 : 06_이_군의_증언
 
 [clue_07]
-이름 : 용의자: 김 사장
+이름 : 김 사장
 유형 : 관찰
 단계 : 내부수색 단계
 소모AP : 0
@@ -255,10 +205,10 @@ HTML :
 </div>
 이미지생성용 프롬프트: An ai-generated synthetic human model of a middle-aged korean man (kim sajang) standing in the 'magnolia cafe' hall, based on the attached images. he has a sturdy, pot-bellied build and wears a grey suit. his hair is slicked back with pomade. he has a fierce, arrogant expression and stands with arms crossed. a large gold ring glistens on his finger. background is the dim, atmospheric hall. cinematic lighting, film noir style. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 07_용의자_김_사장
+파일명 : 07_김_사장
 
 [clue_08]
-이름 : 이 군의 철가방
+이름 : 철가방
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -281,7 +231,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: A 3d product asset model of empty chinese food bowls stacked messily inside a metal delivery box (okamochi). extreme close-up on a crumpled receipt lying at the bottom, stained with grease. crucial detail: the handwritten korean text '21:40 역전 당구장 수거' must be clearly legible. only korean text allowed; no english. static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 08_이_군의_철가방
+파일명 : 08_철가방
 
 [clue_09]
 이름 : 주방 구석
@@ -300,18 +250,42 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-구석에 젖은 신문지 뭉치를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 강한 마늘 냄새가 납니다.
+주방 구석에서 신문지로 감싸진 무언가를 발견했습니다.
 HTML :
 <div class="story-content">
-  <p>구석에 젖은 신문지 뭉치를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 <strong>강한 마늘 냄새</strong>가 납니다.</p>
+  <p>주방 구석에서 신문지로 감싸진 무언가를 발견했습니다.</p>
 </div>
 이미지생성용 프롬프트: A dusty, dark corner of a kitchen cupboard. Moldy wallpaper texture. A small brown glass bottle partially wrapped loosely in old 1980s newspaper is hidden in the shadows. Dust has been recently wiped away, leaving streaks. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
-장소 : 없음
+장소 : 다방 내부
 파일명 : 09_주방_구석
 
+============================================================
+이름 : 갈색 유리병
+유형 : 물증
+소모AP : 1
+정렬순서 : 91
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득(소유) 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 특정 조건 달성 시 해금
+시작 표시 상태 : 숨김
+단계 시작시 자동 획득 : N
+관련 : 공통
+의도 : 없음
+신문지를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 강한 마늘 냄새가 납니다.
+HTML :
+<div class="story-content">
+  <p>신문지를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 <strong>강한 마늘 냄새</strong>가 납니다.</p>
+</div>
+이미지생성용 프롬프트: A dusty, dark corner of a kitchen cupboard. Moldy wallpaper texture. A small brown glass bottle partially wrapped loosely in old 1980s newspaper is hidden in the shadows. Dust has been recently wiped away, leaving streaks. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
+장소 : 다방 내부
+파일명 : 09_주방_구석_변형
+
 [clue_10]
-이름 : 이 군의 수첩
-유형 : 관계
+이름 : 수첩
+유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
 정렬순서 : 100
@@ -333,7 +307,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: A 3d product asset model of a small, dirty delivery ledger with messy handwritten korean script, based on the attached character's environment. focus on texture details: korean notes like "하우스" and "38광땡" in blue ink, and a threatening note written in red ink saying "모가지" and "칠성금융" on the corner. no english text allowed; only korean characters must be visible. gritty paper material texture. captured as a static asset study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 10_이_군의_수첩
+파일명 : 10_수첩
 
 [clue_11]
 이름 : 서류 봉투
@@ -384,10 +358,10 @@ HTML :
 </div>
 이미지생성용 프롬프트: Extreme close-up on the bottom signature area of the contract, based on the attached image. Show only the handwritten Korean names: "매수인(갑): 김팔봉" and "매도인(을): 최순옥". Focus on the space next to Choi Soon-ok's name, where a messy, smeared red thumbprint (red ink pad) is forcefully stamped, looking crooked and unnatural. The rest of the contract's body text above should be blurred and illegible, appearing only as dense lines of ink. No English text allowed; ONLY Korean characters must be visible. High-resolution study of paper texture. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 11_두툼한_서류_봉투_변형
+파일명 : 11_서류_봉투_변형
 
 [clue_12]
-이름 : 미스 양의 숙소
+이름 : 종업원 숙소
 유형 : 관찰
 단계 : 내부수색 단계
 소모AP : 1
@@ -410,7 +384,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: A cramped, tiny one-person dormitory room for a cafe employee, based on the attached background style. Old faded wallpaper, a single worn-out mattress on the floor, and a metal locker in the corner. Crucial Detail: Clothing and toiletries are neatly folded and packed into an open travel bag, suggesting someone was prepared to leave. The room feels very tidy, organized, and clean, despite being humble and worn. Dim, quiet lighting. Captured as a static environment study. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 12_미스_양의_숙소
+파일명 : 12_종업원_숙소
 
 ============================================================
 이름 : 낡은 일기장
@@ -431,14 +405,15 @@ HTML :
 "11월 20일: 그 여자가 내 어머니 수술비 통장까지 건드렸다. 고향으로 돌아갈 마지막 희망마저 빼앗겼다. 오늘 밤, 이 사슬을 내 손으로 끊어내겠다." 일기장을 보여주자 미스 양이 주저앉으며 말합니다. "아니야... 너무 화가 나서 일기장에 화풀이한 것뿐이에요!"
 HTML :
 <div class="story-content">
+  <p>자물쇠를 부수고 일기장을 읽어 보았습니다.</p>
   <p>"11월 20일: 그 여자가 내 어머니 수술비 통장까지 건드렸다. 고향으로 돌아갈 마지막 희망마저 빼앗겼다. 오늘 밤, 이 사슬을 내 손으로 끊어내겠다." <br>일기장을 보여주자 미스 양이 주저앉으며 말합니다. "아니야... 너무 화가 나서 일기장에 화풀이한 것뿐이에요!"</p>
 </div>
 이미지생성용 프롬프트: Based on the same room and locker shown in the attached image, show a 3D product asset model of a small, tattered diary. The diary is wide open on the floor, revealing messy handwritten Korean script on pages stained with dried tears. Some sentences are violently scratched out in blue ink. Focus on the date "11월 20일" written in Korean. No English text allowed; ONLY Korean characters must be visible. Technical study of paper texture and ink absorption. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 12_미스_양의_숙소_변형
+파일명 : 12_종업원_숙소_변형
 
 [clue_13]
-이름 : 주방 찬장 안
+이름 : 주방 찬장
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -457,11 +432,11 @@ HTML :
 녹슨 냄비 뒤편에서 발견된 종이 뭉치입니다. 모두 미스 양의 지장이 찍힌 차용증입니다. 원금 외에 높은 비율의 '월 복리 연체 이자' 조항이 명시되어 있으며, 기재된 총액은 수천만 원 단위입니다.
 HTML :
 <div class="story-content">
-  <p>녹슨 냄비 뒤편에서 발견된 종이 뭉치입니다. 모두 미스 양의 지장이 찍힌 차용증입니다. 원금 외에 높은 비율의 '월 복리 연체 이자' 조항이 명시되어 있으며, 기재된 총액은 수천만 원 단위입니다.</p>
+  <p>녹슨 냄비 뒤편에서 종이 뭉치를 발견했습니다. 모두 미스 양의 지장이 찍힌 차용증입니다. 원금 외에 높은 비율의 '월 복리 연체 이자' 조항이 명시되어 있으며, 기재된 총액은 수천만 원 단위입니다.</p>
 </div>
 이미지생성용 프롬프트: 3d product asset models of a disorganized pile of debt papers half-hidden behind an old silver thermos in a kitchen cupboard, based on the attached character's style. focus on visible korean text evidence: the name "양미숙" (miss yang) written in korean script, and unreasonably high interest rates (numerals) clearly visible on the top sheet. no english text allowed; only korean characters must be visible. gritty paper texture. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 13_주방_찬장_안
+파일명 : 13_주방_찬장
 
 [clue_14]
 이름 : 김 사장의 증언
@@ -509,14 +484,14 @@ HTML :
 "저... 저는 몰라요. 8시 반쯤 중앙약국에 갔다가 눈길에 차가 막혀 밤 9시 50분에야 다방에 돌아왔어요. 그 때 이 군이 서 있고, 바닥에 쓰러진 마담의 시신이 보여서 너무 놀라 비명을 지른 것뿐이에요."
 HTML :
 <div class="story-content">
-  <p>"저... 저는 몰라요. <strong>중앙약국</strong>에 가려고 <strong>8시 반쯤</strong> 나갔는데, 눈길에 차가 막혀 <strong>밤 9시 50분</strong>에야 다방에 돌아왔어요. 그 때 이 군이 서 있고, 바닥에 쓰러진 마담의 시신이 보여서 너무 놀라 비명을 지른 것뿐이에요."</p>
+  <p>"저... 저는 몰라요. <strong>약국</strong>에 가려고 <strong>8시 반쯤</strong> 나갔는데, 눈길에 차가 막혀 <strong>밤 9시 50분</strong>에야 다방에 돌아왔어요. 그 때 이 군이 서 있고, 바닥에 쓰러진 마담의 시신이 보여서 너무 놀라 비명을 지른 것뿐이에요."</p>
 </div>
 이미지생성용 프롬프트: A technical reference photograph for human physics research. An AI-generated synthetic human model with an extremely pale, bloodless face and trembling lips, based on the attached character's image. Cinematic close-up portrait, Looking straight at the camera. Focusing on a vacant, fearful gaze. Soft, cool-toned lighting with deep shadows under the eyes. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
 파일명 : 15_미스_양의_증언
 
 [clue_16]
-이름 : 철가방 속
+이름 : 철가방 안
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -532,17 +507,17 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-철가방 속에서 플라스틱 통이 발견됩니다. 겉면에 '쥐약'이라고 붉은 글씨로 적혀 있습니다. 뚜껑을 열자 화학 약품 냄새가 납니다. 당신이 쥐약을 내밀자 이 군이 말합니다. "아니에요! 그건 방에 쥐가 많아서 산 거예요!"
+철가방 안에서 플라스틱 통이 발견됩니다. 겉면에 '쥐약'이라고 붉은 글씨로 적혀 있습니다. 뚜껑을 열자 화학 약품 냄새가 납니다. 당신이 쥐약을 내밀자 이 군이 말합니다. "아니에요! 그건 방에 쥐가 많아서 산 거예요!"
 HTML :
 <div class="story-content">
-  <p>철가방 속에서 플라스틱 통이 발견됩니다. 겉면에 '쥐약'이라고 붉은 글씨로 적혀 있습니다. 뚜껑을 열자 <strong>화학 약품 냄새</strong>가 납니다. <br>당신이 쥐약을 내밀자 이 군이 말합니다. "아니에요! 그건 방에 쥐가 많아서 산 거예요!"
+  <p>철가방 안에서 플라스틱 통이 발견됩니다. 겉면에 '쥐약'이라고 붉은 글씨로 적혀 있습니다. 뚜껑을 열자 <strong>화학 약품 냄새</strong>가 납니다. <br>당신이 쥐약을 내밀자 이 군이 말합니다. "아니에요! 그건 방에 쥐가 많아서 산 거예요!"
 </div>
 이미지생성용 프롬프트: Based on the same metal delivery box as the attached, show a small plastic bottle of rat poison hidden in a corner. The lid is loose, with white powder residue spilled around it. Gritty texture study. High-resolution material detail. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 16_철가방_속
+파일명 : 16_철가방_안
 
 [clue_17]
-이름 : 김 사장의 지갑
+이름 : 지갑
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -565,10 +540,10 @@ HTML :
 </div>
 이미지생성용 프롬프트: A crumpled piece of paper taken from a wallet. Clear Korean text showing a threatening notice: '지불 각서' and '독촉장'. Red ink (인주) is smeared across the bottom corner where a seal should be. Rough paper texture. No English text allowed; ONLY Korean characters must be visible. Dark lighting. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 17_김_사장의_지갑
+파일명 : 17_지갑
 
 [clue_18]
-이름 : 미스 양의 소지품
+이름 : 약 봉투
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -584,14 +559,14 @@ HTML :
 관련 : 공통
 의도 : 없음
 내용 :
-미스 양의 주머니에서 중앙약국에서 오늘 날짜로 처방받은 수면제 봉투가 발견됩니다. 당신이 약 봉투에 대해 묻자 미스 양이 대답합니다. "요즘 도통 잠을 잘 수가 없어서 수면제를 지어온 거예요."
+미스 양의 주머니에는 중앙약국에서 오늘 날짜로 처방받은 수면제 봉투가 있습니다. 수면제에 대해 묻자 미스 양이 대답합니다. "요즘 도통 잠을 잘 수가 없어서 지어온 거예요."
 HTML :
 <div class="story-content">
-  <p>미스 양의 주머니에서 중앙약국에서 <strong>오늘 날짜</strong>로 처방받은 수면제 봉투가 발견됩니다. 당신이 약 봉투에 대해 묻자 미스 양이 대답합니다. "요즘 도통 잠을 잘 수가 없어서 수면제를 지어온 거예요."</p>
+  <p>미스 양의 주머니에는 <strong>중앙약국</strong>에서 <strong>오늘 날짜</strong>로 처방받은 수면제 봉투가 있습니다. 수면제에 대해 묻자 미스 양이 대답합니다. "요즘 도통 잠을 잘 수가 없어서 지어온 거예요."</p>
 </div>
-이미지생성용 프롬프트: A crumpled paper pharmacy bag (수면제 봉투) from the 1980s resting on a wooden desk. No English text allowed; ONLY Korean characters must be visible. Dramatic, moody lighting. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
+이미지생성용 프롬프트: A crumpled, blank vintage paper pharmacy bag from the 1980s resting on a wooden desk. The bag is folded over and turned away, deliberately showing NO text, labels, or writing of any kind. It should just look like a plain, anonymous medicine bag. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 18_미스_양의_소지품
+파일명 : 18_약_봉투
 
 [clue_19]
 이름 : 주방 냉장고
@@ -619,12 +594,12 @@ HTML :
 장소 : 없음
 파일명 : 19_주방_냉장고
 
-[clue_21]
-이름 : 이 군의 화상
+[clue_20]
+이름 : 화상 자국
 유형 : 관찰
 단계 : 내부수색 단계
 소모AP : 1
-정렬순서 : 210
+정렬순서 : 200
 중요도 : 중간
 핵심 단서 여부 : N
 교환 가능 여부 : N
@@ -643,15 +618,15 @@ HTML :
 </div>
 이미지생성용 프롬프트: Extreme close-up of a young man's right hand tightly gripping a leather bag strap. On the back of the hand, there is a severe, red, swollen burn mark, clearly inflicted recently by something scalding hot. High-resolution skin texture study, cinematic dark lighting. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 21_이_군의_화상
+파일명 : 20_화상_자국
 
-[clue_22]
-이름 : 서울슈퍼 탐문
+[clue_21]
+이름 : 서울슈퍼 사장의 증언
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
-정렬순서 : 220
-중요도 : 중간
+정렬순서 : 210
+중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : N
 획득 가능 여부 : N
@@ -669,14 +644,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: Close-up of an old 1980s orange public telephone sitting on the counter, based on the attached background image. The cord is messy and tangled. Cinematic lighting. Suggests an urgent phone testimony. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 22_서울슈퍼_탐문
+파일명 : 21_서울슈퍼_사장의_증언
 
-[clue_23]
+[clue_22]
 이름 : 단골의 증언
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
-정렬순서 : 230
+정렬순서 : 220
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : N
@@ -695,14 +670,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: A blurred, anonymous figure of an old customer sitting at a table in the background of Magnolia Cafe, sipping from a traditional tea cup. A small block of ice floating in the steaming hot tea. Focus is on the contrast between the hot steam and the floating ice cube. Film grain, retro 1980s aesthetic. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 23_단골의_증언
+파일명 : 22_단골의_증언
 
-[clue_24]
+[clue_23]
 이름 : 김 순경의 보고
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
-정렬순서 : 240
+정렬순서 : 230
 중요도 : 매우 높음
 핵심 단서 여부 : N
 교환 가능 여부 : N
@@ -721,14 +696,14 @@ HTML :
 </div>
 이미지생성용 프롬프트: A young Korean patrol officer in a 1980s police uniform, standing near the entrance of Magnolia Cafe, reporting to someone off-camera. It is snowing heavily outside. The officer's breath shows as steam in the cold air. Film grain, retro 1980s aesthetic. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 24_김_순경의_보고
+파일명 : 23_김_순경의_보고
 
-[clue_25]
+[clue_24]
 이름 : 만물상 주인의 증언
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
-정렬순서 : 250
+정렬순서 : 240
 중요도 : 매우 높음
 핵심 단서 여부 : Y
 교환 가능 여부 : N
@@ -747,4 +722,4 @@ HTML :
 </div>
 이미지생성용 프롬프트: An old korean man in a cluttered 1980s agricultural supply store, pointing at a small packet of rat poison and a bottle of liquid pesticide. Dim lighting, dusty atmosphere. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
-파일명 : 25_만물상_주인의_증언
+파일명 : 24_만물상_주인의_증언
