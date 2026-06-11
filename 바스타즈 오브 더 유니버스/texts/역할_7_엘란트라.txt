@@ -46,109 +46,73 @@
     <li><strong>마법의 제약</strong>: 이 세계에 타인의 외형으로 완벽히 위장하는 <span class="emphasis">변신 마법</span>은 존재하지 않습니다.</li>
     <li><strong>승전 연회</strong>: 승리를 자축하는 성대한 연회가 <span class="emphasis">18:00</span>에 예정되어 있습니다. 현재 시각은 <span class="emphasis">17:00</span>, 수장 <span class="character-skullcrusher">스컬크러셔</span>의 명령에 따라 수색 임무를 완수하기 전까지 이제 한 시간의 여유만이 남아 있습니다.</li>
   </ul>
-  <details>
-    <summary>
-      캐릭터 배경
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-    
-      <div class="role-notice innocent">
-        <div class="role-label">[ 본인 확인 ]</div>
-        <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
-      </div>
 
-      <p>
-        과거 당신은 <span class="character-solite">솔라이트</span>의 질서에 매료되어 비밀 조직 <span class="emphasis">화이트클로</span>에 자원, <span class="emphasis">26호</span>라는 코드명을 받았다. 10년 전쟁 초반 속물적인 <span class="emphasis">용병대장</span>으로 위장해 <span class="character-bastards">바스타즈</span>에 합류한 뒤, 은밀히 정보를 빼돌려 연합을 연전연패하게 만들었다.
-      </p>
-      <p>
-        전쟁 중반, 연합을 끝장내기 위해 부대원들을 함정으로 유도했으나, 접선지에는 마땅히 있어야 할 아군 증원군은 없고 오히려 <span class="character-solite">솔라이트</span> 정예병들이 덮쳐왔다. 조직에게 소모품처럼 버려져 대원들이 몰살당하는 가운데, 구원의 손길을 낸 것은 <span class="character-gorehoof">고어후프</span>였다. 그는 퇴로가 끊긴 당신을 먼저 탈출시키고 자신의 부대원들과 함께 대군을 막아섰고, 결국 사경을 헤매는 상태로 구출되었다.
-      </p>
-      <p>
-        조직에 대한 배신감과 자신을 구하기 위해 부대원들을 희생한 <span class="character-gorehoof">고어후프</span>에 대한 부채감으로, 당신은 진심으로 전향했다. 목숨 빚을 갚기 위해 내부 정보를 활용해 난공불락이던 <span class="emphasis">철의 성계</span> 요새의 전술 판을 짰고, <span class="character-gorehoof">고어후프</span>가 선봉에서 대승리를 안겨주며 당신은 가장 신뢰받는 대장군으로 자리 잡았다.
-      </p>
-      <p>
-        오늘 아침, 공성전의 최종 작전안을 승인받았다. 선봉장 <span class="character-gorehoof">고어후프</span>를 정면에 배치해 시선을 끄는 사이, 암살자 <span class="character-slither">슬리더</span>를 <span class="emphasis">지하 수로</span>로 잠입시켰다. 특공대장 <span class="character-balrog">발로그</span>는 <span class="emphasis">마법탑</span> 강습, 당신은 측면의 <span class="emphasis">외곽 망루</span> 공략을 맡았다. <span class="character-eldritch">엘드리치</span>와 <span class="character-malice">말리스</span>에게는 <span class="emphasis">투명 망토</span>를 지급해 후방 관리를 지시했고, 수장 <span class="character-skullcrusher">스컬크러셔</span>에게는 <span class="character-goldenking">골든 킹</span> 직접 제압을 요청했다.
-      </p>
-      <p>
-        오전 10시 진격 명령과 함께 <span class="emphasis">외곽 망루</span> 내부로 진입해 구역을 점거했고, 얼마 후 성채가 완전히 함락되었다는 승전보가 울렸다. 자신을 구한 <span class="character-gorehoof">고어후프</span>에게 빚을 갚았다는 생각에 안도하며 차분함을 되찾았다.
-      </p>
-      <p>
-        승전 직후 <span class="character-skullcrusher">스컬크러셔</span>의 소집으로 모여 <span class="emphasis">지하 창고</span> 수색을 할당받았다. 배정받은 <span class="emphasis">지하 창고</span>의 문에는 <span class="emphasis">물결 문양</span>이 새겨져 있고, <span class="emphasis">금빛</span>을 내뿜는 육중한 <span class="emphasis">마법 자물쇠</span>가 굳게 걸려 있었다. 자물쇠를 열기 위해 <span class="character-eldritch">엘드리치</span>의 조언을 구하고자 <span class="emphasis">서재</span>로 향했다.
-      </p>
-      <p>
-        하지만 <span class="emphasis">서재</span>는 비어 있었다. 다음으로 <span class="character-malice">말리스</span>를 찾기 위해 <span class="emphasis">연구실</span>로 향했다. 입구에서 <span class="emphasis">누군가의 시선</span>을 느꼈으나 서둘러 들어갔고, 그곳 역시 비어 있었다. <span class="character-skullcrusher">스컬크러셔</span>에게 보고하러 간 <span class="emphasis">왕좌의 방</span>도 비어 있었다. 결국 <span class="emphasis">지하 창고</span>로 돌아와 수색하던 중 문틈에 꽂힌 낡은 종이를 발견했다.
-      </p>
-      <p>
-        그것은 과거 <span class="character-solite">솔라이트</span>의 스파이 시절 작성한 보고서와 <span class="emphasis">화이트클로</span> 지령서를 자신이 가졌다는 <span class="character-eldritch">엘드리치</span>의 협박 쪽지였다. 진실이 폭로되면 배신자로 낙인찍힐 위기. 협박에 굴복할지 <span class="character-eldritch">엘드리치</span>의 입을 영원히 막을지 결단해야 한다.
-      </p>
-    </div>
-  </details>
+  <div class="section-title">캐릭터 배경</div>
+
+  <div class="role-notice innocent">
+    <div class="role-label">[ 본인 확인 ]</div>
+    <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+  </div>
+
+  <p>
+    과거 당신은 <span class="character-solite">솔라이트</span>의 질서에 매료되어 비밀 조직 <span class="emphasis">화이트클로</span>에 자원, <span class="emphasis">26호</span>라는 코드명을 받았다. 10년 전쟁 초반 속물적인 <span class="emphasis">용병대장</span>으로 위장해 <span class="character-bastards">바스타즈</span>에 합류한 뒤, 은밀히 정보를 빼돌려 연합을 연전연패하게 만들었다.
+  </p>
+  <p>
+    전쟁 중반, 연합을 끝장내기 위해 부대원들을 함정으로 유도했으나, 접선지에는 마땅히 있어야 할 아군 증원군은 없고 오히려 <span class="character-solite">솔라이트</span> 정예병들이 덮쳐왔다. 조직에게 소모품처럼 버려져 대원들이 몰살당하는 가운데, 구원의 손길을 낸 것은 <span class="character-gorehoof">고어후프</span>였다. 그는 퇴로가 끊긴 당신을 먼저 탈출시키고 자신의 부대원들과 함께 대군을 막아섰고, 결국 사경을 헤매는 상태로 구출되었다.
+  </p>
+  <p>
+    조직에 대한 배신감과 자신을 구하기 위해 부대원들을 희생한 <span class="character-gorehoof">고어후프</span>에 대한 부채감으로, 당신은 진심으로 전향했다. 목숨 빚을 갚기 위해 내부 정보를 활용해 난공불락이던 <span class="emphasis">철의 성계</span> 요새의 전술 판을 짰고, <span class="character-gorehoof">고어후프</span>가 선봉에서 대승리를 안겨주며 당신은 가장 신뢰받는 대장군으로 자리 잡았다.
+  </p>
+  <p>
+    오늘 아침, 공성전의 최종 작전안을 승인받았다. 선봉장 <span class="character-gorehoof">고어후프</span>를 정면에 배치해 시선을 끄는 사이, 암살자 <span class="character-slither">슬리더</span>를 <span class="emphasis">지하 수로</span>로 잠입시켰다. 특공대장 <span class="character-balrog">발로그</span>는 <span class="emphasis">마법탑</span> 강습, 당신은 측면의 <span class="emphasis">외곽 망루</span> 공략을 맡았다. <span class="character-eldritch">엘드리치</span>와 <span class="character-malice">말리스</span>에게는 <span class="emphasis">투명 망토</span>를 지급해 후방 관리를 지시했고, 수장 <span class="character-skullcrusher">스컬크러셔</span>에게는 <span class="character-goldenking">골든 킹</span> 직접 제압을 요청했다.
+  </p>
+  <p>
+    오전 10시 진격 명령과 함께 <span class="emphasis">외곽 망루</span> 내부로 진입해 구역을 점거했고, 얼마 후 성채가 완전히 함락되었다는 승전보가 울렸다. 자신을 구한 <span class="character-gorehoof">고어후프</span>에게 빚을 갚았다는 생각에 안도하며 차분함을 되찾았다.
+  </p>
+  <p>
+    승전 직후 <span class="character-skullcrusher">스컬크러셔</span>의 소집으로 모여 <span class="emphasis">지하 창고</span> 수색을 할당받았다. 배정받은 <span class="emphasis">지하 창고</span>의 문에는 <span class="emphasis">물결 문양</span>이 새겨져 있고, <span class="emphasis">금빛</span>을 내뿜는 육중한 <span class="emphasis">마법 자물쇠</span>가 굳게 걸려 있었다. 자물쇠를 열기 위해 <span class="character-eldritch">엘드리치</span>의 조언을 구하고자 <span class="emphasis">서재</span>로 향했다.
+  </p>
+  <p>
+    하지만 <span class="emphasis">서재</span>는 비어 있었다. 다음으로 <span class="character-malice">말리스</span>를 찾기 위해 <span class="emphasis">연구실</span>로 향했다. 입구에서 <span class="emphasis">누군가의 시선</span>을 느꼈으나 서둘러 들어갔고, 그곳 역시 비어 있었다. <span class="character-skullcrusher">스컬크러셔</span>에게 보고하러 간 <span class="emphasis">왕좌의 방</span>도 비어 있었다. 결국 <span class="emphasis">지하 창고</span>로 돌아와 수색하던 중 문틈에 꽂힌 낡은 종이를 발견했다.
+  </p>
+  <p>
+    그것은 과거 <span class="character-solite">솔라이트</span>의 스파이 시절 작성한 보고서와 <span class="emphasis">화이트클로</span> 지령서를 자신이 가졌다는 <span class="character-eldritch">엘드리치</span>의 협박 쪽지였다. 진실이 폭로되면 배신자로 낙인찍힐 위기. 협박에 굴복할지 <span class="character-eldritch">엘드리치</span>의 입을 영원히 막을지 결단해야 한다.
+  </p>
 
   <!-- 타임라인 -->
-  <details>
-    <summary>
-      타임라인
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>09:00</strong>: <span class="character-skullcrusher">스컬크러셔</span>로부터 공성전 최종 작전안 동선 및 역할 배정을 지시받고 최종 승인함.</li>
-        <li><strong>10:00~16:00</strong>: <span class="emphasis">화이트스컬 성채</span> 공성전 시작. 측면 성벽을 타고 <span class="emphasis">외곽 망루</span>로 진입하여 각 구역의 수비대들과 치열한 전투를 벌여 망루를 전부 무력화함.</li>
-        <li><strong>16:00</strong>: <span class="character-goldenking">골든 킹</span>의 전사 소식을 듣고 망루에서 <span class="emphasis">왕좌의 방</span>으로 이동. <span class="character-skullcrusher">스컬크러셔</span>로부터 <span class="emphasis">지하 창고</span> 수색 임무를 배정받음.</li>
-        <li><strong>16:00~16:10</strong>: <span class="emphasis">지하 창고</span>로 이동했으나 문이 굳게 잠겨 있어 진입하지 못함.</li>
-        <li><strong>16:10~16:20</strong>: <span class="character-eldritch">엘드리치</span>에게 조언을 구하기 위해 <span class="emphasis">서재</span>로 이동했으나 비어 있었음.</li>
-        <li><strong>16:20~16:30</strong>: <span class="character-malice">말리스</span>의 도움을 받으려 <span class="emphasis">연구실</span>로 이동했으나 역시 비어 있었음. 입구 주변에서 <span class="emphasis">누군가의 시선</span>을 느꼈으나 무시함.</li>
-        <li><strong>16:30~16:40</strong>: <span class="character-skullcrusher">스컬크러셔</span>에게 <span class="emphasis">지하 창고</span>가 잠겨 있음을 보고하려 <span class="emphasis">왕좌의 방</span>으로 갔으나 부재중이었음.</li>
-        <li><strong>16:40~16:50</strong>: 다시 <span class="emphasis">지하 창고</span>로 돌아와 입구 주변을 샅샅이 수색함.</li>
-        <li><strong>16:50~17:00</strong>: 창고 문틈 사이에 꽂혀 있는 <span class="character-eldritch">엘드리치</span>의 협박 쪽지를 발견하고 내용을 확인한 뒤 당황함.</li>
-      </ul>
-    </div>
-  </details>
+
+  <div class="section-title">타임라인</div>
+  <ul class="goal-list">
+    <li><strong>09:00</strong>: <span class="character-skullcrusher">스컬크러셔</span>로부터 공성전 최종 작전안 동선 및 역할 배정을 지시받고 최종 승인함.</li>
+    <li><strong>10:00~16:00</strong>: <span class="emphasis">화이트스컬 성채</span> 공성전 시작. 측면 성벽을 타고 <span class="emphasis">외곽 망루</span>로 진입하여 각 구역의 수비대들과 치열한 전투를 벌여 망루를 전부 무력화함.</li>
+    <li><strong>16:00</strong>: <span class="character-goldenking">골든 킹</span>의 전사 소식을 듣고 망루에서 <span class="emphasis">왕좌의 방</span>으로 이동. <span class="character-skullcrusher">스컬크러셔</span>로부터 <span class="emphasis">지하 창고</span> 수색 임무를 배정받음.</li>
+    <li><strong>16:00~16:10</strong>: <span class="emphasis">지하 창고</span>로 이동했으나 문이 굳게 잠겨 있어 진입하지 못함.</li>
+    <li><strong>16:10~16:20</strong>: <span class="character-eldritch">엘드리치</span>에게 조언을 구하기 위해 <span class="emphasis">서재</span>로 이동했으나 비어 있었음.</li>
+    <li><strong>16:20~16:30</strong>: <span class="character-malice">말리스</span>의 도움을 받으려 <span class="emphasis">연구실</span>로 이동했으나 역시 비어 있었음. 입구 주변에서 <span class="emphasis">누군가의 시선</span>을 느꼈으나 무시함.</li>
+    <li><strong>16:30~16:40</strong>: <span class="character-skullcrusher">스컬크러셔</span>에게 <span class="emphasis">지하 창고</span>가 잠겨 있음을 보고하려 <span class="emphasis">왕좌의 방</span>으로 갔으나 부재중이었음.</li>
+    <li><strong>16:40~16:50</strong>: 다시 <span class="emphasis">지하 창고</span>로 돌아와 입구 주변을 샅샅이 수색함.</li>
+    <li><strong>16:50~17:00</strong>: 창고 문틈 사이에 꽂혀 있는 <span class="character-eldritch">엘드리치</span>의 협박 쪽지를 발견하고 내용을 확인한 뒤 당황함.</li>
+  </ul>
 
   <!-- 특징 -->
-  <details>
-    <summary>
-      특징
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul>
-        <li><strong>종족</strong>: 인간</li>
-        <li><strong>속성</strong>: 없음</li>
-        <li><strong>전투력</strong>: 5</li>
-        <li><strong>웨폰마스터</strong>: 속성과 관계없이 대부분의 무기를 잘 다룰 수 있다.</li>
-      </ul>
-    </div>
-  </details>
+
+  <div class="section-title">특징</div>
+  <ul>
+    <li><strong>종족</strong>: 인간</li>
+    <li><strong>속성</strong>: 없음</li>
+    <li><strong>전투력</strong>: 5</li>
+    <li><strong>웨폰마스터</strong>: 속성과 관계없이 대부분의 무기를 잘 다룰 수 있다.</li>
+  </ul>
 
   <!-- 인물 관계 -->
-  <details>
-    <summary>
-      인물 관계
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 연합을 이끄는 압도적인 수장이다. 위장을 위해 접근했으나 진심으로 전향한 뒤 전폭적인 신뢰를 얻어 대장군이 되었다. 이번 공성전의 최종 작전안을 승인받을 만큼 핵심적인 위치에 있다. 그의 신뢰를 방패로 과거를 덮으려 하지만, 배신자에게 자비가 없는 성정이기에 과거 탄로를 대비해 늘 긴장하고 있다.</p>
-      <p><strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 지혜로운 현자로 믿었으나 <span class="emphasis">지하 창고</span>에서 발견한 쪽지로 스파이 전력을 협박하려는 속내를 파악했다. 과거 서신이 폭로되면 쌓아온 신뢰와 명예가 모두 무너진다. 협박을 실행하기 전에 입을 막거나 역으로 제압할 약점을 찾아야 한다.</p>
-      <p><strong><span class="character-balrog">발로그에 대해</span></strong>: 마법탑 방어 체계를 무너뜨린 마족 특공대장이다. 그가 <span class="character-eldritch">엘드리치</span>에게 맹목적으로 복종하는 이유는 의문이다. 압도적인 파괴력은 든든하나 과거가 탄로 나면 그 힘이 당신을 향할까 우려해 일정한 거리를 둔다.</p>
-      <p><strong><span class="character-malice">말리스에 대해</span></strong>: 치밀한 모략을 지닌 참모장이다. 여성 동료로 가까운 친분을 유지하지만, 날카로운 통찰력 앞에서는 과거를 들킬까 경계한다. 그녀 역시 자신만의 비밀을 간직하고 있음을 직감하여 선을 넘지 않는 관계를 유지 중이다.</p>
-      <p><strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 매복에 걸렸던 당신의 퇴로를 열어준 은인이자 강력한 선봉장이다. 스파이 시절의 진실을 모른 채 부하를 잃어가며 구출해 준 그의 희생이 전향의 결정적 계기였다. 유일하게 의지하는 동료지만, 과거가 드러날 때 그가 느낄 배신감 탓에 늘 마음이 무겁다.</p>
-      <p><strong><span class="character-slither">슬리더에 대해</span></strong>: 작전대로 지하 수로를 잠입해 본대 진입을 지원한 암살자다. 전직 요원인 당신조차 기척을 느끼지 못할 만큼 은밀히 움직여 경계심을 자극한다. 그의 시선이 행적을 쫓는 것은 아닌지 늘 긴장하고 있다.</p>
-    </div>
-  </details>
+
+  <div class="section-title">인물 관계</div>
+  <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 연합을 이끄는 압도적인 수장이다. 위장을 위해 접근했으나 진심으로 전향한 뒤 전폭적인 신뢰를 얻어 대장군이 되었다. 이번 공성전의 최종 작전안을 승인받을 만큼 핵심적인 위치에 있다. 그의 신뢰를 방패로 과거를 덮으려 하지만, 배신자에게 자비가 없는 성정이기에 과거 탄로를 대비해 늘 긴장하고 있다.</p>
+  <p><strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 지혜로운 현자로 믿었으나 <span class="emphasis">지하 창고</span>에서 발견한 쪽지로 스파이 전력을 협박하려는 속내를 파악했다. 과거 서신이 폭로되면 쌓아온 신뢰와 명예가 모두 무너진다. 협박을 실행하기 전에 입을 막거나 역으로 제압할 약점을 찾아야 한다.</p>
+  <p><strong><span class="character-balrog">발로그에 대해</span></strong>: 마법탑 방어 체계를 무너뜨린 마족 특공대장이다. 그가 <span class="character-eldritch">엘드리치</span>에게 맹목적으로 복종하는 이유는 의문이다. 압도적인 파괴력은 든든하나 과거가 탄로 나면 그 힘이 당신을 향할까 우려해 일정한 거리를 둔다.</p>
+  <p><strong><span class="character-malice">말리스에 대해</span></strong>: 치밀한 모략을 지닌 참모장이다. 여성 동료로 가까운 친분을 유지하지만, 날카로운 통찰력 앞에서는 과거를 들킬까 경계한다. 그녀 역시 자신만의 비밀을 간직하고 있음을 직감하여 선을 넘지 않는 관계를 유지 중이다.</p>
+  <p><strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 매복에 걸렸던 당신의 퇴로를 열어준 은인이자 강력한 선봉장이다. 스파이 시절의 진실을 모른 채 부하를 잃어가며 구출해 준 그의 희생이 전향의 결정적 계기였다. 유일하게 의지하는 동료지만, 과거가 드러날 때 그가 느낄 배신감 탓에 늘 마음이 무겁다.</p>
+  <p><strong><span class="character-slither">슬리더에 대해</span></strong>: 작전대로 지하 수로를 잠입해 본대 진입을 지원한 암살자다. 전직 요원인 당신조차 기척을 느끼지 못할 만큼 은밀히 움직여 경계심을 자극한다. 그의 시선이 행적을 쫓는 것은 아닌지 늘 긴장하고 있다.</p>
   <details>
     <summary>
       초심자를 위한 플레잉 팁
