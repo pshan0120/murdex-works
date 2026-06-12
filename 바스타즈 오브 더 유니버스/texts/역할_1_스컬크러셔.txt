@@ -1,159 +1,427 @@
-1. 역할 이름
-수장
-
-2. 캐릭터 이름
-스컬크러셔
-
-3. 역할 순서
-1
-
-4. 역할 요약
-솔라이트의 지배를 끝내기 위해 전 우주의 반역자들을 규합한 바스타즈의 수장
-
-5. 역할 이미지
-(무시 - 사용자 직접 업로드 예정)
-
-6. 공개 정보
+1. 역할 이름 수장 2. 캐릭터 이름 스컬크러셔 3. 역할 순서 1 4. 역할 요약
+솔라이트의 지배를 끝내기 위해 전 우주의 반역자들을 규합한 바스타즈의 수장 5.
+역할 이미지 (무시 - 사용자 직접 업로드 예정) 6. 공개 정보
 <div class="story-content">
   <ul>
-    <li><strong>역할</strong>: 강력한 무력과 압도적인 카리스마를 가진 <span class="character-bastards">바스타즈</span>의 수장</li>
-    <li><strong>외형</strong>: 얼굴을 완전히 가린 해골 투구와 핏빛 망토를 두른 잿빛 판금 갑옷 차림</li>
+    <li>
+      <strong>역할</strong>: 강력한 무력과 압도적인 카리스마를 가진
+      <span class="character-bastards">바스타즈</span>의 수장
+    </li>
+    <li>
+      <strong>외형</strong>: 얼굴을 완전히 가린 해골 투구와 핏빛 망토를 두른
+      잿빛 판금 갑옷 차림
+    </li>
     <li><strong>말투</strong>: 위엄 있고 단호한 수장의 어조</li>
   </ul>
 </div>
 
 7. 역할 시트
 <div class="story-content">
-  <div class="section-title">공통 정보</div>
-  <div class="intro-narrative">
+  <section class="content-section">
+    <div class="section-title">공통 정보</div>
+    <div class="intro-narrative">
+      <p>
+        기나긴 10년 전쟁 끝에 마침내 압제자
+        <span class="character-solite">솔라이트</span>의 본성인
+        <span class="emphasis">화이트스컬 성채</span>를 함락시킨 반역자들의 연합
+        <span class="character-bastards">바스타즈</span>.
+      </p>
+      <p>
+        수장 <span class="character-skullcrusher">스컬크러셔</span>의 손에
+        지배자 <span class="character-goldenking">골든 킹</span>이 처단되며
+        우주에는 마침내 새로운 평화가 찾아온 듯했습니다.<br />
+        하지만 승전 연회를 단 한 시간 앞둔
+        <span class="emphasis">17:00</span> 현재, 기쁨으로 가득해야 할 성채에는
+        왠지 모를 긴장감이 감돌고 있습니다.
+      </p>
+    </div>
+    <ul class="info-list">
+      <li>
+        <strong>솔라이트에 대하여</strong>:
+        <span class="character-goldenking">골든 킹</span>이 이끄는 우주의 거대
+        통치 연합으로, 전 우주에 자신들의 질서를 강요해 왔습니다. 그들은 정의를
+        내세워 평화를 수호한다고 주장하지만, 실상은 반대 세력을 무자비하게
+        탄압하는 압제적인 통치를 이어왔습니다.
+      </li>
+      <li>
+        <strong>신들의 전쟁</strong>: 약 30년 전, 마신
+        <span class="mystery">다크 시리어스</span>가 이끄는 암흑 군단과
+        <span class="character-solite">솔라이트</span>가 격돌한 전 우주적
+        대전쟁입니다. <span class="character-solite">솔라이트</span>는
+        <span class="mystery">다크 시리어스</span>를 봉인하고 전쟁을 승리로
+        이끌었습니다.
+      </li>
+      <li>
+        <strong>10년 전쟁</strong>: 수장
+        <span class="character-skullcrusher">스컬크러셔</span>를 필두로 한 연합
+        <span class="character-bastards">바스타즈</span>가
+        <span class="character-solite">솔라이트</span>의 폭정을 끝내기 위해
+        벌여온 전쟁입니다. 오늘 <span class="emphasis">화이트스컬 성채</span>가
+        함락되고 <span class="character-goldenking">골든 킹</span>이 처단되면서
+        마침내 승리로 종지부를 찍었습니다.
+      </li>
+      <li>
+        <strong>속성에 대하여</strong>: 이 세계의 모든 존재는 고유한
+        <span class="emphasis">속성</span>을 지니고 있습니다.
+      </li>
+      <li>
+        <strong>종족에 대하여</strong>: 이 세계관에는
+        <span class="emphasis">인간</span> 외에도
+        <span class="emphasis">수인종</span>과
+        <span class="emphasis">마족</span> 등 다양한 종족이 공존하며 살아가고
+        있습니다.
+      </li>
+      <li>
+        <strong>성채의 보안</strong>:
+        <span class="emphasis">화이트스컬 성채</span>는
+        <span class="character-bastards">바스타즈</span> 군대에 의해 완전히
+        점령되었으며, 현재 성의 모든 출입구는 철통같이 경비되고 있습니다.
+        <span class="emphasis"
+          >외부로부터의 침입이나 내부 인원의 무단 이탈은 절대 불가능</span
+        >한 상태입니다.
+      </li>
+      <li>
+        <strong>마법의 제약</strong>: 이 세계에 타인의 외형으로 완벽히 위장하는
+        <span class="emphasis">변신 마법</span>은 존재하지 않습니다.
+      </li>
+      <li>
+        <strong>승전 연회</strong>: 승리를 자축하는 성대한 연회가
+        <span class="emphasis">18:00</span>에 예정되어 있습니다. 현재 시각은
+        <span class="emphasis">17:00</span>, 수장
+        <span class="character-skullcrusher">스컬크러셔</span>의 명령에 따라
+        수색 임무를 완수하기 전까지 이제 한 시간의 여유만이 남아 있습니다.
+      </li>
+    </ul>
+  </section>
+
+  <section class="content-section">
+    <div class="section-title">캐릭터 배경</div>
+
+    <div class="role-notice innocent">
+      <div class="role-label">[ 본인 확인 ]</div>
+      <div class="role-text">
+        당신은 <span class="is-innocent">범인이 아닙니다</span>.
+      </div>
+    </div>
+
     <p>
-      기나긴 10년 전쟁 끝에 마침내 압제자 <span class="character-solite">솔라이트</span>의 본성인 <span class="emphasis">화이트스컬 성채</span>를 함락시킨 반역자들의 연합 <span class="character-bastards">바스타즈</span>.
+      본명은 <span class="character-solite">류크</span>. 변방 출신으로 우주를
+      누비며 수많은 공을 세운
+      <span class="character-solite">솔라이트</span> 성기사이자
+      <span class="character-goldenking">골든 킹</span>의 심복이었다. 당시엔
+      <span class="character-solite">솔라이트</span>가 정의의 상징이라 굳게
+      믿었다. 하지만 끝없는 정복과 학살 속에서 신념은 무너졌다. 이종족 말살
+      지시를 받았을 때 <span class="emphasis">일부 생존자</span>를 살려둔 채
+      <span class="emphasis">거짓 보고</span>를 올렸다. 우주가 평정된 날,
+      <span class="character-goldenking">골든 킹</span>은 공을 치하하며 인류의
+      기원인 <span class="emphasis">푸른 행성</span>을 하사했다. 거대한
+      <span class="emphasis">대협곡</span> 인근, '아모리카'라 불리는 대륙에
+      내려섰을 때 <span class="emphasis">정체불명의 자객</span>이 등 뒤를
+      덮쳤다.
     </p>
     <p>
-      수장 <span class="character-skullcrusher">스컬크러셔</span>의 손에 지배자 <span class="character-goldenking">골든 킹</span>이 처단되며 우주에는 마침내 새로운 평화가 찾아온 듯했습니다.<br>
-      하지만 승전 연회를 단 한 시간 앞둔 <span class="emphasis">17:00</span> 현재, 기쁨으로 가득해야 할 성채에는 왠지 모를 긴장감이 감돌고 있습니다.
+      등에 꽂힌 금속에서 기괴한 한기가 퍼지며
+      <span class="emphasis">신성력</span>이 빠져나갔다. 마비된 채 깊은 협곡
+      아래로 추락했다. 의식을 되찾았을 때, 고대 종족의 후예
+      <span class="character-eldritch">엘드리치</span>가 곁에 있었다. 그와의
+      대화를 통해 이 행성 자체가 당신을 제거하려던
+      <span class="character-goldenking">골든 킹</span>의 함정이었음을 깨달았다.
+      절망하던 당신에게 <span class="character-eldritch">엘드리치</span>는 다시
+      일어서라 조언하며, <span class="emphasis">대협곡</span> 깊은 곳의
+      <span class="emphasis">고대인의 검</span>을 건넸다. 이후 배신당하고 버려진
+      자들을 규합해 반역자 연합
+      <span class="character-bastards">바스타즈</span>를 결성했다.
     </p>
-  </div>
-  <ul class="info-list">
-    <li><strong>솔라이트에 대하여</strong>: <span class="character-goldenking">골든 킹</span>이 이끄는 우주의 거대 통치 연합으로, 전 우주에 자신들의 질서를 강요해 왔습니다. 그들은 정의를 내세워 평화를 수호한다고 주장하지만, 실상은 반대 세력을 무자비하게 탄압하는 압제적인 통치를 이어왔습니다.</li>
-    <li><strong>신들의 전쟁</strong>: 약 30년 전, 마신 <span class="mystery">다크 시리어스</span>가 이끄는 암흑 군단과 <span class="character-solite">솔라이트</span>가 격돌한 전 우주적 대전쟁입니다. <span class="character-solite">솔라이트</span>는 <span class="mystery">다크 시리어스</span>를 봉인하고 전쟁을 승리로 이끌었습니다.</li>
-    <li><strong>10년 전쟁</strong>: 수장 <span class="character-skullcrusher">스컬크러셔</span>를 필두로 한 연합 <span class="character-bastards">바스타즈</span>가 <span class="character-solite">솔라이트</span>의 폭정을 끝내기 위해 벌여온 전쟁입니다. 오늘 <span class="emphasis">화이트스컬 성채</span>가 함락되고 <span class="character-goldenking">골든 킹</span>이 처단되면서 마침내 승리로 종지부를 찍었습니다.</li>
-    <li><strong>속성에 대하여</strong>: 이 세계의 모든 존재는 고유한 <span class="emphasis">속성</span>을 지니고 있습니다.</li>
-    <li><strong>종족에 대하여</strong>: 이 세계관에는 <span class="emphasis">인간</span> 외에도 <span class="emphasis">수인종</span>과 <span class="emphasis">마족</span> 등 다양한 종족이 공존하며 살아가고 있습니다.</li>
-    <li><strong>성채의 보안</strong>: <span class="emphasis">화이트스컬 성채</span>는 <span class="character-bastards">바스타즈</span> 군대에 의해 완전히 점령되었으며, 현재 성의 모든 출입구는 철통같이 경비되고 있습니다. <span class="emphasis">외부로부터의 침입이나 내부 인원의 무단 이탈은 절대 불가능</span>한 상태입니다.</li>
-    <li><strong>마법의 제약</strong>: 이 세계에 타인의 외형으로 완벽히 위장하는 <span class="emphasis">변신 마법</span>은 존재하지 않습니다.</li>
-    <li><strong>승전 연회</strong>: 승리를 자축하는 성대한 연회가 <span class="emphasis">18:00</span>에 예정되어 있습니다. 현재 시각은 <span class="emphasis">17:00</span>, 수장 <span class="character-skullcrusher">스컬크러셔</span>의 명령에 따라 수색 임무를 완수하기 전까지 이제 한 시간의 여유만이 남아 있습니다.</li>
-  </ul>
+    <p>
+      그렇게 시작된 <span class="emphasis">10년 전쟁</span>은 처절했다. 압도적인
+      적의 군세에 멸망할 뻔했으나, 대장군
+      <span class="character-elantra">엘란트라</span>의 전술과 선봉장
+      <span class="character-gorehoof">고어후프</span>의 돌파력이 더해진
+      <span class="emphasis">철의 성계</span> 전투에서 대승을 거두며 판도를
+      뒤집었다. 이후 은하계 중심부를 향해 진격하며 적에게는 공포의 상징으로 자리
+      잡았다. 마침내 <span class="character-solite">솔라이트</span>의 본성인
+      <span class="emphasis">화이트스컬 성채</span>까지 도달하며 10년 투쟁의
+      마지막 결전만을 남겨두었다.
+    </p>
+    <p>
+      오늘 아침, <span class="character-elantra">엘란트라</span>의 최종 작전안을
+      승인하고 전군에 공성전을 선포했다.
+      <span class="character-gorehoof">고어후프</span>의 분투로 성문이 열리고,
+      마침내 <span class="emphasis">왕좌의 방</span>에서
+      <span class="character-goldenking">골든 킹</span>과 마주했다. 그의 강대한
+      권능에 밀려 한계에 다다랐을 때, 그가 시전한 최후의 일격
+      <span class="emphasis">선샤인</span>이 반전을 일으켰다. 대검을 감싸던
+      <span class="emphasis">검붉은 기운</span>이 빛에 닿아 흩어지자, 봉인되어
+      있던 성기사 <span class="character-solite">류크</span>의 본래 힘이
+      폭발하듯 깨어났다.
+    </p>
+    <p>
+      치솟은 신성력으로 <span class="character-goldenking">골든 킹</span>의
+      공격을 꺾어 나갔다. 체력이 바닥나 무릎 꿇은 그에게 검을 겨누는 순간, 그가
+      경악하며 외쳤다. "네놈은 설마 <span class="character-solite">류크</span>!"
+      당황하여 급히 그의 목을 벴다. 직후 기둥 뒤에서 양피지를 든 채 겁에 질린
+      기록관을 발견하고, 생각할 겨를 없이 입막음을 위해 베었다. 바로 그 순간, 벽
+      쪽에서 멀어지는 발소리를 들었다. 급히 추격했으나 아무도 없었다.
+    </p>
+    <p>
+      가족을 잃고 복수심에 모인
+      <span class="character-bastards">바스타즈</span>에게 원수인
+      <span class="character-solite">솔라이트</span> 성기사가 수장이었다는
+      진실은 용받지 못할 반역이다. 정체가 폭로되는 즉시 연합은 당신을 표적으로
+      삼을 것이다. 게다가 목격자는 류크라는 정체와 기록관의 입막음 장면까지 모두
+      보았다. 진실이 퍼지기 전 목격자를 찾아야만 한다.
+      <span class="emphasis">멤버들을 흩어놓고 한 사람씩 대면</span>해 반응을
+      살피기로 결심했다.
+    </p>
+    <p>
+      멤버들을 <span class="emphasis">왕좌의 방</span>으로 소집해 승리를
+      선언하고, 전리품 확보를 명목으로 수색 구역을 지정했다.
+      <span class="character-eldritch">엘드리치</span>는
+      <span class="emphasis">서재</span>,
+      <span class="character-malice">말리스</span>는
+      <span class="emphasis">연구실</span>,
+      <span class="character-balrog">발로그</span>는
+      <span class="emphasis">무기고</span>,
+      <span class="character-gorehoof">고어후프</span>는
+      <span class="emphasis">연회장</span>,
+      <span class="character-slither">슬리더</span>는
+      <span class="emphasis">문서고</span>,
+      <span class="character-elantra">엘란트라</span>는
+      <span class="emphasis">지하창고</span>로 배치했다.
+    </p>
+    <p>
+      이후 은밀한 순찰에 나섰으나 수색조의 행동은 기묘했다.
+      <span class="emphasis">문서고</span>의
+      <span class="character-slither">슬리더</span>는 보이지 않았고,
+      <span class="emphasis">연회장</span>에선
+      <span class="character-gorehoof">고어후프</span>가 졸고 있어 질책했다.
+      <span class="emphasis">연구실</span> 역시
+      <span class="character-malice">말리스</span>가 없었다. 돌아 나오던 중,
+      자신의 구역이 아닌 <span class="emphasis">연구실</span>로 몰래 들어가는
+      <span class="character-elantra">엘란트라</span>를 목격했다.
+      <span class="emphasis">지하창고</span>와
+      <span class="emphasis">무기고</span>를 확인했으나
+      <span class="character-elantra">엘란트라</span>와
+      <span class="character-balrog">발로그</span> 모두 자리에 없었다. 명령을
+      어긴 이들의 행적은 의구심을 키웠다.
+    </p>
+    <p>
+      마지막으로 <span class="emphasis">서재</span>에 있는
+      <span class="character-eldritch">엘드리치</span>와 독대하며 정체 탄로에
+      대한 공포를 털어놓았다. 그는
+      <span class="emphasis"
+        >'누군가 네 정체를 알고 함정을 파고 있을지 모른다. 눈빛의 흔들림을 살펴
+        화근을 제거하라'</span
+      >고 조언했다. 조언을 가슴에 새긴 당신은 성채 어딘가에 숨어 있을 위험한
+      목격자를 찾아내기 위해 움직이기 시작했다.
+    </p>
+  </section>
 
-  <div class="section-title">캐릭터 배경</div>
+  <section class="content-section">
+    <div class="section-title">타임라인</div>
+    <ul class="goal-list">
+      <li>
+        <strong>09:00</strong>: 대장군
+        <span class="character-elantra">엘란트라</span>가 올린 공성 작전안을
+        검토하고 각 멤버의 담당 구역을 지정하며 공격 시작 명령을 내림.
+      </li>
+      <li>
+        <strong>10:00~11:30</strong>: 화이트스컬 공성전 개시. 전 군의 선두에서
+        거대한 칼을 휘두르며 적진을 무너뜨리고 성 내부로 진격함.
+      </li>
+      <li>
+        <strong>11:30~12:00</strong>: <span class="emphasis">왕좌의 방</span>에
+        진입하여 <span class="character-goldenking">골든 킹</span>과 치열한
+        혈투를 벌임. 과거 당신이 우러러보던 왕의 강력한 힘 앞에 점차 밀리기
+        시작함.
+      </li>
+      <li>
+        <strong>12:00</strong>:
+        <span class="character-goldenking">골든 킹</span>이 최후의 일격
+        <span class="emphasis">선샤인</span>을 시전함. 그러나 오히려 당신 안의
+        빛 에너지가 깨어나며 온몸으로 폭발적인 힘이 솟구치는 것을 느낌.
+      </li>
+      <li>
+        <strong>15:00</strong>: 각성한 힘으로
+        <span class="character-goldenking">골든 킹</span>을 처단함. 그가 당신의
+        본명을 외치자 베어 버렸고, 구석에 숨어 이를 목격한 인물까지 제거. 그
+        직후 멀어지는 발소리를 듣고 누군가 엿보았음을 인지함.
+      </li>
+      <li>
+        <strong>16:00</strong>: <span class="character-solite">솔라이트</span>의
+        패배를 선언하고, 멤버들을 성채 곳곳으로 배치하여 수색하도록 지시함.
+        (<span class="character-eldritch">엘드리치</span>: 서재 /
+        <span class="character-malice">말리스</span>: 연구실 /
+        <span class="character-balrog">발로그</span>: 무기고 /
+        <span class="character-gorehoof">고어후프</span>: 연회장 /
+        <span class="character-slither">슬리더</span>: 문서고 /
+        <span class="character-elantra">엘란트라</span>: 지하창고)
+      </li>
+      <li>
+        <strong>16:00~16:10</strong>: <span class="emphasis">문서고</span>로
+        이동. 안에 아무도 없었음.
+      </li>
+      <li>
+        <strong>16:10~16:20</strong>: <span class="emphasis">연회장</span>으로
+        이동. 졸고 있던 <span class="character-gorehoof">고어후프</span>를 발견.
+      </li>
+      <li>
+        <strong>16:20~16:30</strong>:
+        <span class="character-gorehoof">고어후프</span>를 질책한 뒤
+        <span class="emphasis">연구실</span>로 이동. 아무도 없었음. 나오면서
+        <span class="emphasis">연구실</span>로 들어가는
+        <span class="character-elantra">엘란트라</span>를 목격.
+        <span class="character-elantra">엘란트라</span>는
+        <span class="character-skullcrusher">스컬크러셔</span>를 보지 못함.
+      </li>
+      <li>
+        <strong>16:30~16:40</strong>: <span class="emphasis">지하창고</span>로
+        이동. 입구에 아무도 없었음.
+      </li>
+      <li>
+        <strong>16:40~16:50</strong>: <span class="emphasis">무기고</span>로
+        이동. 안에 아무도 없었음.
+      </li>
+      <li>
+        <strong>16:50~17:00</strong>: <span class="emphasis">서재</span>를
+        방문하여 <span class="character-eldritch">엘드리치</span>와 대면. 정체가
+        탄로 났을 가능성을 털어놓으며 조언을 구함.
+      </li>
+    </ul>
+  </section>
 
-  <div class="role-notice innocent">
-    <div class="role-label">[ 본인 확인 ]</div>
-    <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
-  </div>
+  <section class="content-section">
+    <div class="section-title">특징</div>
+    <ul>
+      <li><strong>종족</strong>: 인간</li>
+      <li>
+        <strong>속성</strong>:
+        <span class="character-goldenking">골든 킹</span>의
+        <span class="emphasis">선샤인</span>을 격중당하기 전까지는
+        <span class="emphasis">어둠</span>. 현재는
+        <span class="emphasis">빛</span>.
+      </li>
+      <li><strong>전투력</strong>: 9</li>
+      <li>
+        <strong>해골 투구</strong>: 머리 전체를 덮어 진짜 얼굴을 완벽히 숨기고
+        있다.
+      </li>
+    </ul>
+  </section>
 
-  <p>
-    본명은 <span class="character-solite">류크</span>. 변방 출신으로 우주를 누비며 수많은 공을 세운 <span class="character-solite">솔라이트</span> 성기사이자 <span class="character-goldenking">골든 킹</span>의 심복이었다.
-    당시엔 <span class="character-solite">솔라이트</span>가 정의의 상징이라 굳게 믿었다.
-    하지만 끝없는 정복과 학살 속에서 신념은 무너졌다. 이종족 말살 지시를 받았을 때 <span class="emphasis">일부 생존자</span>를 살려둔 채 <span class="emphasis">거짓 보고</span>를 올렸다.
-    우주가 평정된 날, <span class="character-goldenking">골든 킹</span>은 공을 치하하며 인류의 기원인 <span class="emphasis">푸른 행성</span>을 하사했다.
-    거대한 <span class="emphasis">대협곡</span> 인근, '아모리카'라 불리는 대륙에 내려섰을 때 <span class="emphasis">정체불명의 자객</span>이 등 뒤를 덮쳤다.
-  </p>
-  <p>
-    등에 꽂힌 금속에서 기괴한 한기가 퍼지며 <span class="emphasis">신성력</span>이 빠져나갔다. 마비된 채 깊은 협곡 아래로 추락했다.
-    의식을 되찾았을 때, 고대 종족의 후예 <span class="character-eldritch">엘드리치</span>가 곁에 있었다.
-    그와의 대화를 통해 이 행성 자체가 당신을 제거하려던 <span class="character-goldenking">골든 킹</span>의 함정이었음을 깨달았다.
-    절망하던 당신에게 <span class="character-eldritch">엘드리치</span>는 다시 일어서라 조언하며, <span class="emphasis">대협곡</span> 깊은 곳의 <span class="emphasis">고대인의 검</span>을 건넸다.
-    이후 배신당하고 버려진 자들을 규합해 반역자 연합 <span class="character-bastards">바스타즈</span>를 결성했다.
-  </p>
-  <p>
-    그렇게 시작된 <span class="emphasis">10년 전쟁</span>은 처절했다.
-    압도적인 적의 군세에 멸망할 뻔했으나, 대장군 <span class="character-elantra">엘란트라</span>의 전술과 선봉장 <span class="character-gorehoof">고어후프</span>의 돌파력이 더해진 <span class="emphasis">철의 성계</span> 전투에서 대승을 거두며 판도를 뒤집었다.
-    이후 은하계 중심부를 향해 진격하며 적에게는 공포의 상징으로 자리 잡았다.
-    마침내 <span class="character-solite">솔라이트</span>의 본성인 <span class="emphasis">화이트스컬 성채</span>까지 도달하며 10년 투쟁의 마지막 결전만을 남겨두었다.
-  </p>
-  <p>
-    오늘 아침, <span class="character-elantra">엘란트라</span>의 최종 작전안을 승인하고 전군에 공성전을 선포했다.
-    <span class="character-gorehoof">고어후프</span>의 분투로 성문이 열리고, 마침내 <span class="emphasis">왕좌의 방</span>에서 <span class="character-goldenking">골든 킹</span>과 마주했다.
-    그의 강대한 권능에 밀려 한계에 다다랐을 때, 그가 시전한 최후의 일격 <span class="emphasis">선샤인</span>이 반전을 일으켰다.
-    대검을 감싸던 <span class="emphasis">검붉은 기운</span>이 빛에 닿아 흩어지자, 봉인되어 있던 성기사 <span class="character-solite">류크</span>의 본래 힘이 폭발하듯 깨어났다.
-  </p>
-  <p>
-    치솟은 신성력으로 <span class="character-goldenking">골든 킹</span>의 공격을 꺾어 나갔다. 체력이 바닥나 무릎 꿇은 그에게 검을 겨누는 순간, 그가 경악하며 외쳤다.
-    "네놈은 설마 <span class="character-solite">류크</span>!"
-    당황하여 급히 그의 목을 벴다. 직후 기둥 뒤에서 양피지를 든 채 겁에 질린 기록관을 발견하고, 생각할 겨를 없이 입막음을 위해 베었다.
-    바로 그 순간, 벽 쪽에서 멀어지는 발소리를 들었다. 급히 추격했으나 아무도 없었다.
-  </p>
-  <p>
-    가족을 잃고 복수심에 모인 <span class="character-bastards">바스타즈</span>에게 원수인 <span class="character-solite">솔라이트</span> 성기사가 수장이었다는 진실은 용서받지 못할 반역이다.
-    정체가 폭로되는 즉시 연합은 당신을 표적으로 삼을 것이다. 게다가 목격자는 류크라는 정체와 기록관의 입막음 장면까지 모두 보았다.
-    진실이 퍼지기 전 목격자를 찾아야만 한다. <span class="emphasis">멤버들을 흩어놓고 한 사람씩 대면</span>해 반응을 살피기로 결심했다.
-  </p>
-  <p>
-    멤버들을 <span class="emphasis">왕좌의 방</span>으로 소집해 승리를 선언하고, 전리품 확보를 명목으로 수색 구역을 지정했다.
-    <span class="character-eldritch">엘드리치</span>는 <span class="emphasis">서재</span>, <span class="character-malice">말리스</span>는 <span class="emphasis">연구실</span>, <span class="character-balrog">발로그</span>는 <span class="emphasis">무기고</span>, <span class="character-gorehoof">고어후프</span>는 <span class="emphasis">연회장</span>, <span class="character-slither">슬리더</span>는 <span class="emphasis">문서고</span>, <span class="character-elantra">엘란트라</span>는 <span class="emphasis">지하창고</span>로 배치했다.
-  </p>
-  <p>
-    이후 은밀한 순찰에 나섰으나 수색조의 행동은 기묘했다.
-    <span class="emphasis">문서고</span>의 <span class="character-slither">슬리더</span>는 보이지 않았고, <span class="emphasis">연회장</span>에선 <span class="character-gorehoof">고어후프</span>가 졸고 있어 질책했다.
-    <span class="emphasis">연구실</span> 역시 <span class="character-malice">말리스</span>가 없었다. 돌아 나오던 중, 자신의 구역이 아닌 <span class="emphasis">연구실</span>로 몰래 들어가는 <span class="character-elantra">엘란트라</span>를 목격했다.
-    <span class="emphasis">지하창고</span>와 <span class="emphasis">무기고</span>를 확인했으나 <span class="character-elantra">엘란트라</span>와 <span class="character-balrog">발로그</span> 모두 자리에 없었다. 명령을 어긴 이들의 행적은 의구심을 키웠다.
-  </p>
-  <p>
-    마지막으로 <span class="emphasis">서재</span>에 있는 <span class="character-eldritch">엘드리치</span>와 독대하며 정체 탄로에 대한 공포를 털어놓았다.
-    그는 <span class="emphasis">'누군가 네 정체를 알고 함정을 파고 있을지 모른다. 눈빛의 흔들림을 살펴 화근을 제거하라'</span>고 조언했다.
-    조언을 가슴에 새긴 당신은 성채 어딘가에 숨어 있을 위험한 목격자를 찾아내기 위해 움직이기 시작했다.
-  </p>
+  <section class="content-section">
+    <div class="section-title">인물 관계</div>
+    <p>
+      <strong><span class="character-eldritch">엘드리치에 대해</span></strong
+      >: 연합의 정신적 지주이자 참모다. 실상은 죽어가던 당신을 구하고 복수의
+      화신 <span class="character-skullcrusher">스컬크러셔</span>로 이끌어준
+      은인이자 스승이다. 복수극을 함께 설계해 온 유일한 안식처다. 다만 수장의
+      권위를 위해 이 사제 관계는 철저히 비밀로 부치고 단단히 숨기고 있다.
+    </p>
+    <p>
+      <strong><span class="character-malice">말리스에 대해</span></strong
+      >: 연합의 승리를 배후에서 설계하는 참모장이다. 모든 것을 잃고 무릎 꿇어
+      충성을 맹세하던 모습을 기억한다. 그녀의 계략은
+      <span class="character-solite">솔라이트</span>를 무너뜨리는 데
+      결정적이었지만 속내를 가늠하기 어려워 늘 경계하고 있다. 지독한 증오와
+      절박함을 볼 때 합류 목적이 단순한 복수 이상임을 예감한다. 그녀의 모략이
+      언제든 당신을 겨눌 수 있다는 의심을 품고 진의를 주시 중이다.
+    </p>
+    <p>
+      <strong><span class="character-balrog">발로그에 대해</span></strong
+      >: 적의 심장부를 타격하는 특공대장이다. 과거
+      <span class="character-eldritch">엘드리치</span>가
+      <span class="emphasis"
+        >고대 유물의 힘으로 완벽하게 통제한 마족 조력자</span
+      >라며 소개했다. 초기엔 마족 특유의 불길함에 경계했으나, 묵묵히 임무를
+      완수하는 헌신에 지금은 깊이 신뢰한다. 명령을 오차 없이 수행할 땐 든든하다.
+      다만 눈빛에 가끔 스치는 비굴함에서 <span class="emphasis">통제</span>라는
+      굴레가 그를 철저히 속박하고 있음을 짐작한다.
+    </p>
+    <p>
+      <strong><span class="character-gorehoof">고어후프에 대해</span></strong
+      >: 적의 장벽을 부수는 선봉장이다.
+      <span class="emphasis">군대를 몰살시키는 괴물이 나타났다</span>는 소문에
+      직접 찾아가 합류를 제안했다. 최전선에서 날뛰는 야수 같은 힘은 연합 승리의
+      밑거름이 되었다. 당신을 주군으로 받드는 우직한 전사지만, 거칠게 날뛰는
+      성향 탓에 항상 엄격한 기강과 권위로 다스리고 있다.
+    </p>
+    <p>
+      <strong><span class="character-slither">슬리더에 대해</span></strong
+      >: 어둠 속에서 적을 끊어내는 암살자다. 암흑가를 지배하던 그를 직접 발탁해
+      조력자로 삼았다. 확실한 전력이지만 음산한 분위기가 본능적인 경계심을
+      자극한다. 저 매서운 눈빛이 혹시 당신의 정체를 꿰뚫으려 빈틈을 노리는 것은
+      아닐지 압박감을 느낀다.
+    </p>
+    <p>
+      <strong><span class="character-elantra">엘란트라에 대해</span></strong
+      >: 연합의 진군 경로를 설계하는 대장군이다. 초기엔 거액을 요구하는
+      용병대장이라 신뢰하지 않았다. 하지만 전쟁 중반 매복에 걸렸을 때
+      <span class="character-gorehoof">고어후프</span>의 희생으로 살아 돌아온 후
+      완전히 달라졌다. 이후 완벽한 전략으로 승리를 이끄는 핵심 참모가 되었다.
+      다만 가끔 얼굴에 스치는 고뇌와 부채감을 통해 그날의 참상이 남긴 흉터를
+      짐작할 뿐이다.
+    </p>
+  </section>
 
+  <section class="content-section">
+    <details>
+      <summary>
+        초심자를 위한 플레잉 팁
+        <span class="toggle-wrapper">
+          <span class="toggle-text"></span>
+          <span class="toggle-icon">▼</span>
+        </span>
+      </summary>
+      <div class="collapsible-content">
+        <ul class="goal-list">
+          <li>
+            첫 밀담 상대로 당신을 전적으로 믿고 따르는 우직한 선봉장
+            <span class="character-gorehoof">고어후프</span>와 대화해 보세요.
+            그는 당신의 카리스마와 지시에 깊이 수긍하므로, 자연스럽게 우호적인
+            관계를 다지고 정보를 얻는 데 유리합니다.
+          </li>
+        </ul>
+      </div>
+    </details>
+  </section>
+</div>
 
-  <div class="section-title">타임라인</div>
-  <ul class="goal-list">
-    <li><strong>09:00</strong>: 대장군 <span class="character-elantra">엘란트라</span>가 올린 공성 작전안을 검토하고 각 멤버의 담당 구역을 지정하며 공격 시작 명령을 내림.</li>
-    <li><strong>10:00~11:30</strong>: 화이트스컬 공성전 개시. 전 군의 선두에서 거대한 칼을 휘두르며 적진을 무너뜨리고 성 내부로 진격함.</li>
-    <li><strong>11:30~12:00</strong>: <span class="emphasis">왕좌의 방</span>에 진입하여 <span class="character-goldenking">골든 킹</span>과 치열한 혈투를 벌임. 과거 당신이 우러러보던 왕의 강력한 힘 앞에 점차 밀리기 시작함.</li>
-    <li><strong>12:00</strong>: <span class="character-goldenking">골든 킹</span>이 최후의 일격 <span class="emphasis">선샤인</span>을 시전함. 그러나 오히려 당신 안의 빛 에너지가 깨어나며 온몸으로 폭발적인 힘이 솟구치는 것을 느낌.</li>
-    <li><strong>15:00</strong>: 각성한 힘으로 <span class="character-goldenking">골든 킹</span>을 처단함. 그가 당신의 본명을 외치자 베어 버렸고, 구석에 숨어 이를 목격한 인물까지 제거. 그 직후 멀어지는 발소리를 듣고 누군가 엿보았음을 인지함.</li>
-    <li><strong>16:00</strong>: <span class="character-solite">솔라이트</span>의 패배를 선언하고, 멤버들을 성채 곳곳으로 배치하여 수색하도록 지시함. (<span class="character-eldritch">엘드리치</span>: 서재 / <span class="character-malice">말리스</span>: 연구실 / <span class="character-balrog">발로그</span>: 무기고 / <span class="character-gorehoof">고어후프</span>: 연회장 / <span class="character-slither">슬리더</span>: 문서고 / <span class="character-elantra">엘란트라</span>: 지하창고)</li>
-    <li><strong>16:00~16:10</strong>: <span class="emphasis">문서고</span>로 이동. 안에 아무도 없었음.</li>
-    <li><strong>16:10~16:20</strong>: <span class="emphasis">연회장</span>으로 이동. 졸고 있던 <span class="character-gorehoof">고어후프</span>를 발견.</li>
-    <li><strong>16:20~16:30</strong>: <span class="character-gorehoof">고어후프</span>를 질책한 뒤 <span class="emphasis">연구실</span>로 이동. 아무도 없었음. 나오면서 <span class="emphasis">연구실</span>로 들어가는 <span class="character-elantra">엘란트라</span>를 목격. <span class="character-elantra">엘란트라</span>는 <span class="character-skullcrusher">스컬크러셔</span>를 보지 못함.</li>
-    <li><strong>16:30~16:40</strong>: <span class="emphasis">지하창고</span>로 이동. 입구에 아무도 없었음.</li>
-    <li><strong>16:40~16:50</strong>: <span class="emphasis">무기고</span>로 이동. 안에 아무도 없었음.</li>
-    <li><strong>16:50~17:00</strong>: <span class="emphasis">서재</span>를 방문하여 <span class="character-eldritch">엘드리치</span>와 대면. 정체가 탄로 났을 가능성을 털어놓으며 조언을 구함.</li>
-  </ul>
+8. 숨기고 싶은 비밀
 
-
-  <div class="section-title">특징</div>
+<div class="story-content">
+  <p class="guide-text">
+    ※ 비밀의 노출여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을
+    권장합니다.
+  </p>
   <ul>
-    <li><strong>종족</strong>: 인간</li>
-    <li><strong>속성</strong>: <span class="character-goldenking">골든 킹</span>의 <span class="emphasis">선샤인</span>을 격중당하기 전까지는 <span class="emphasis">어둠</span>. 현재는 <span class="emphasis">빛</span>.</li>
-    <li><strong>전투력</strong>: 9</li>
-    <li><strong>해골 투구</strong>: 머리 전체를 덮어 진짜 얼굴을 완벽히 숨기고 있다.</li>
+    <li>
+      <strong>성기사 류크</strong>: 당신의 실제 정체는 과거
+      <span class="character-solite">솔라이트</span>의 영웅이자 가장 충직한
+      성기사였던 <span class="character-solite">류크</span>이다.
+    </li>
+    <li>
+      <strong>스승과 제자</strong>: 당신과 현자
+      <span class="character-eldritch">엘드리치</span>는 단순한 전우가 아니라,
+      30년 전 죽음의 문턱에서 당신을 구해준 그를 스승으로 모시는 깊은 사제
+      관계이다.
+    </li>
+    <li>
+      <strong>목격자 색출</strong>: 멤버들을 성채 곳곳으로 흩어지게 한 진짜
+      목적은 단순한 수색이 아니다.
+      <span class="character-goldenking">골든 킹</span>을 처단할 당시 그의
+      마지막 외침을 엿듣고, 당신이 첫 번째 목격자를 입막음하는 장면까지 본 자가
+      누구인지, 각 멤버들을 지정된 장소에 고립시켜 그들의 반응을 살피며 비밀리에
+      찾아내려는 것이다.
+    </li>
   </ul>
+</div>
 
-
-  <div class="section-title">인물 관계</div>
-  <p>
-    <strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 연합의 정신적 지주이자 참모다. 실상은 죽어가던 당신을 구하고 복수의 화신 <span class="character-skullcrusher">스컬크러셔</span>로 이끌어준 은인이자 스승이다. 복수극을 함께 설계해 온 유일한 안식처다. 다만 수장의 권위를 위해 이 사제 관계는 철저히 비밀로 부치고 있다.
-  </p>
-  <p>
-    <strong><span class="character-malice">말리스에 대해</span></strong>: 연합의 승리를 배후에서 설계하는 참모장이다. 모든 것을 잃고 무릎 꿇어 충성을 맹세하던 모습을 기억한다. 그녀의 계략은 <span class="character-solite">솔라이트</span>를 무너뜨리는 데 결정적이었지만 속내를 가늠하기 어려워 늘 경계하고 있다. 지독한 증오와 절박함을 볼 때 합류 목적이 단순한 복수 이상임을 예감한다. 그녀의 모략이 언제든 당신을 겨눌 수 있다는 의심을 품고 진의를 주시 중이다.
-  </p>
-  <p>
-    <strong><span class="character-balrog">발로그에 대해</span></strong>: 적의 심장부를 타격하는 특공대장이다. 과거 <span class="character-eldritch">엘드리치</span>가 <span class="emphasis">고대 유물의 힘으로 완벽하게 통제한 마족 조력자</span>라며 소개했다. 초기엔 마족 특유의 불길함에 경계했으나, 묵묵히 임무를 완수하는 헌신에 지금은 깊이 신뢰한다. 명령을 오차 없이 수행할 땐 든든하다. 다만 눈빛에 가끔 스치는 비굴함에서 <span class="emphasis">통제</span>라는 굴레가 그를 철저히 속박하고 있음을 짐작한다.
-  </p>
-  <p>
-    <strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 적의 장벽을 부수는 선봉장이다. <span class="emphasis">군대를 몰살시키는 괴물이 나타났다</span>는 소문에 직접 찾아가 합류를 제안했다. 최전선에서 날뛰는 야수 같은 힘은 연합 승리의 밑거름이 되었다. 당신을 주군으로 받드는 우직한 전사지만, 거칠게 날뛰는 성향 탓에 항상 엄격한 기강과 권위로 다스리고 있다.
-  </p>
-  <p>
-    <strong><span class="character-slither">슬리더에 대해</span></strong>: 어둠 속에서 적을 끊어내는 암살자다. 암흑가를 지배하던 그를 직접 발탁해 조력자로 삼았다. 확실한 전력이지만 음산한 분위기가 본능적인 경계심을 자극한다. 저 매서운 눈빛이 혹시 당신의 정체를 꿰뚫으려 빈틈을 노리는 것은 아닐지 압박감을 느낀다.
-  </p>
-  <p>
-    <strong><span class="character-elantra">엘란트라에 대해</span></strong>: 연합의 진군 경로를 설계하는 대장군이다. 초기엔 거액을 요구하는 용병대장이라 신뢰하지 않았다. 하지만 전쟁 중반 매복에 걸렸을 때 <span class="character-gorehoof">고어후프</span>의 희생으로 살아 돌아온 후 완전히 달라졌다. 이후 완벽한 전략으로 승리를 이끄는 핵심 참모가 되었다. 다만 가끔 얼굴에 스치는 고뇌와 부채감을 통해 그날의 참상이 남긴 흉터를 짐작할 뿐이다.
-  </p>
+9. 단계별 역할 지침 [시작 단계 ~ 조사 1단계]
+<div class="story-content">
   <details>
     <summary>
-      초심자를 위한 플레잉 팁
+      목표 - 스컬크러셔
       <span class="toggle-wrapper">
         <span class="toggle-text"></span>
         <span class="toggle-icon">▼</span>
@@ -161,39 +429,19 @@
     </summary>
     <div class="collapsible-content">
       <ul class="goal-list">
-        <li>첫 밀담 상대로 당신을 전적으로 믿고 따르는 우직한 선봉장 <span class="character-gorehoof">고어후프</span>와 대화해 보세요. 그는 당신의 카리스마와 지시에 깊이 수긍하므로, 자연스럽게 우호적인 관계를 다지고 정보를 얻는 데 유리합니다.</li>
-      </ul>
-    </div>
-  </details>
-</div>
-
-8. 숨기고 싶은 비밀
-
-<div class="story-content">
-  <p class="guide-text">※ 비밀의 노출여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
-  <ul>
-    <li><strong>성기사 류크</strong>: 당신의 실제 정체는 과거 <span class="character-solite">솔라이트</span>의 영웅이자 가장 충직한 성기사였던 <span class="character-solite">류크</span>이다.</li>
-    <li><strong>스승과 제자</strong>: 당신과 현자 <span class="character-eldritch">엘드리치</span>는 단순한 전우가 아니라, 30년 전 죽음의 문턱에서 당신을 구해준 그를 스승으로 모시는 깊은 사제 관계이다.</li>
-    <li><strong>목격자 색출</strong>: 멤버들을 성채 곳곳으로 흩어지게 한 진짜 목적은 단순한 수색이 아니다. <span class="character-goldenking">골든 킹</span>을 처단할 당시 그의 마지막 외침을 엿듣고, 당신이 첫 번째 목격자를 입막음하는 장면까지 본 자가 누구인지, 각 멤버들을 지정된 장소에 고립시켜 그들의 반응을 살피며 비밀리에 찾아내려는 것이다.</li>
-  </ul>
-</div>
-
-9. 단계별 역할 지침
-
-[시작 단계 ~ 조사 1단계]
-<div class="story-content">
-  <details>
-    <summary>
-      목표 - 스컬크러셔
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>마지막 목격자 색출</strong>: <span class="character-goldenking">골든 킹</span>의 마지막 외침을 엿들었을 뿐만 아니라, 당신이 입막음을 위해 또 다른 현장 목격자를 살해하는 장면까지 모두 지켜보고 달아난 자가 누구인지 반드시 찾아내라.</li>
-        <li><strong>과거 정체에 대한 대비</strong>: 성채 어딘가에 당신이 과거 <span class="character-solite">솔라이트</span>의 성기사 <span class="character-solite">류크</span>였다는 치명적인 기록이나 흔적이 남아있을지도 모른다. 만약 누군가 이를 발견하여 추궁해 온다면, 어떻게 의심을 피해 상황을 무마할지 완벽한 알리바이를 준비하라.</li>
+        <li>
+          <strong>마지막 목격자 색출</strong>:
+          <span class="character-goldenking">골든 킹</span>의 마지막 외침을
+          엿들었을 뿐만 아니라, 당신이 입막음을 위해 또 다른 현장 목격자를
+          살해하는 장면까지 모두 지켜보고 달아난 자가 누구인지 반드시 찾아내라.
+        </li>
+        <li>
+          <strong>과거 정체에 대한 대비</strong>: 성채 어딘가에 당신이 과거
+          <span class="character-solite">솔라이트</span>의 성기사
+          <span class="character-solite">류크</span>였다는 치명적인 기록이나
+          흔적이 남아있을지도 모른다. 만약 누군가 이를 발견하여 추궁해 온다면,
+          어떻게 의심을 피해 상황을 무마할지 완벽한 알리바이를 준비하라.
+        </li>
       </ul>
     </div>
   </details>
@@ -201,8 +449,8 @@
     <summary>
       추가 정보 - 스컬크러셔
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
@@ -210,7 +458,13 @@
         조사가 시작되면서, 수색 당시 겪었던 기묘한 현상을 떠올린다.
       </p>
       <ul class="goal-list">
-        <li><strong>16:20경 복도에서의 목격</strong>: <span class="emphasis">연구실</span>로 들어가던 <span class="character-elantra">엘란트라</span>의 뒷모습을 어둠 속에서 지켜보던 중, 복도 반대편에서 일순간 공기가 기묘하게 일렁이며 빛이 굴절되는 현상을 목격했다.</li>
+        <li>
+          <strong>16:20경 복도에서의 목격</strong>:
+          <span class="emphasis">연구실</span>로 들어가던
+          <span class="character-elantra">엘란트라</span>의 뒷모습을 어둠 속에서
+          지켜보던 중, 복도 반대편에서 일순간 공기가 기묘하게 일렁이며 빛이
+          굴절되는 현상을 목격했다.
+        </li>
       </ul>
     </div>
   </details>
@@ -222,13 +476,17 @@
     <summary>
       목표(엘드리치 사후) - 스컬크러셔
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
+        <span class="toggle-text"></span>
+        <span class="toggle-icon">▼</span>
       </span>
     </summary>
     <div class="collapsible-content">
       <ul class="goal-list">
-        <li><strong>범인 검거</strong>: 당신의 스승이자 유일한 이해자였던 <span class="character-eldritch">엘드리치</span>가 살해당했다. 반드시 범인을 찾아내어 스승의 원수를 갚아라.</li>
+        <li>
+          <strong>범인 검거</strong>: 당신의 스승이자 유일한 이해자였던
+          <span class="character-eldritch">엘드리치</span>가 살해당했다. 반드시
+          범인을 찾아내어 스승의 원수를 갚아라.
+        </li>
       </ul>
     </div>
   </details>

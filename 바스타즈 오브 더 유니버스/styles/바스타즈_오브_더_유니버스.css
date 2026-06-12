@@ -25,6 +25,13 @@
     letter-spacing: -0.01em;
 }
 
+/* 섹션 기반 구조일 때 Flex 간격 적용 */
+.story-content:has(.content-section) {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
 /* 제목 스타일 - 서사적 느낌 강조 */
 .story-content .section-title {
     font-family: "Cinzel", "Nanum Myeongjo", serif;

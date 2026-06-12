@@ -18,6 +18,13 @@
     /* 좀 더 긴밀한 느낌 */
 }
 
+/* 섹션 기반 구조일 때 Flex 간격 적용 */
+.story-content:has(.content-section) {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
 /* 제목 스타일 */
 .story-content .section-title {
     font-family: "Nanum Myeongjo", serif;

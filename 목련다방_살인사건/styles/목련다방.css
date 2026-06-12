@@ -15,6 +15,13 @@
     letter-spacing: -0.01em;
 }
 
+/* 섹션 기반 구조일 때 Flex 간격 적용 */
+.story-content:has(.content-section) {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
 /* 본문 스타일 */
 .story-content p {
     margin-bottom: 0.8em;
