@@ -9,32 +9,20 @@
 
 [2. 역할 시트]
 <div class="story-content">
-  <details open>
-    <summary>캐릭터 배경</summary>
-    <div class="collapsible-content">
-      <p>당신은 동대문 경찰서 강력계 소속 형사입니다. 반복되는 진급 누락 속에서 남은 것은 피로와 냉소뿐입니다.</p>
-      <p>사망한 <span class="character-madam">최 마담</span>은 신참 시절 당신이 힘들 때 조건 없이 도와준 은인입니다. 수년 전 아내의 병원비 문제로 궁지에 몰렸을 때도, 그녀는 대가 없이 전세금을 빼 당신을 도왔습니다.</p>
-      <p>하지만 3년 전 그녀가 억울한 일을 당해 도움을 청했을 때, 당신은 진급 심사를 핑계로 연락을 피했습니다. 비겁한 짓이었습니다. 그날 이후로 당신은 편히 잠든 날이 없습니다.</p>
-      <p>오늘 낮, 3년 만에 <span class="character-madam">최 마담</span>에게서 전화가 왔습니다. "이번에는 모른 척하지 마. 오늘 밤 9시까지 다방으로 와. 네 도움이 필요해." 짧은 전화였습니다. 당신은 묵묵히 겉옷을 챙겨 입고 목련다방으로 향했습니다. 하지만 폭설로 차가 막혀 <strong>21시 50분</strong>이 되어서야 다방 앞에 도착했습니다.</p>
-      <p>다방 정문에 도착한 직후 내부에서 비명 소리가 들렸습니다. 당신이 문을 차고 들어갔을 때, 바닥에는 죽어있는 <span class="character-madam">최 마담</span>과 굳어있는 종업원 <span class="character-yang">미스 양</span>, 배달원 <span class="character-lee">이 군</span>이 있었습니다.</p>
-    </div>
-  </details>
+  <div class="section-title">캐릭터 배경</div>
+  <p>당신은 동대문 경찰서 강력계 소속 형사입니다. 반복되는 진급 누락 속에서 남은 것은 피로와 냉소뿐입니다.</p>
+  <p>사망한 <span class="character-madam">최 마담</span>은 신참 시절 당신이 힘들 때 조건 없이 도와준 은인입니다. 수년 전 아내의 병원비 문제로 궁지에 몰렸을 때도, 그녀는 대가 없이 전세금을 빼 당신을 도왔습니다.</p>
+  <p>하지만 3년 전 그녀가 억울한 일을 당해 도움을 청했을 때, 당신은 진급 심사를 핑계로 연락을 피했습니다. 비겁한 짓이었습니다. 그날 이후로 당신은 편히 잠든 날이 없습니다.</p>
+  <p>오늘 낮, 3년 만에 <span class="character-madam">최 마담</span>에게서 전화가 왔습니다. "이번에는 모른 척하지 마. 오늘 밤 9시까지 다방으로 와. 네 도움이 필요해." 짧은 전화였습니다. 당신은 묵묵히 겉옷을 챙겨 입고 목련다방으로 향했습니다. 하지만 폭설로 차가 막혀 <strong>21시 50분</strong>이 되어서야 다방 앞에 도착했습니다.</p>
+  <p>다방 정문에 도착한 직후 내부에서 비명 소리가 들렸습니다. 당신이 문을 차고 들어갔을 때, 바닥에는 죽어있는 <span class="character-madam">최 마담</span>과 굳어있는 종업원 <span class="character-yang">미스 양</span>, 배달원 <span class="character-lee">이 군</span>이 있었습니다.</p>
 
-  <details>
-    <summary>공통 정보 및 수사 규칙</summary>
-    <div class="collapsible-content">
-      <ul>
-        <li><strong>시대적 배경</strong>: 1982년 12월, 야간 통행금지가 해제된 직후의 서울. 군부 정권의 억압이 남아있는 시기.</li>
-        <li><strong>목련다방</strong>: 서울에서 1시간 거리인 경기도 외곽 읍내에 위치.</li>
-        <li><strong>수사 권한</strong>: 현장 통제권과 임의 동행 요구권이 있습니다. 하지만 결정적인 물증과 논리적인 추론 없이는 누구도 체포할 수 없습니다.</li>
-      </ul>
-    </div>
-  </details>
+  <div class="section-title">공통 정보 및 수사 규칙</div>
+  <ul>
+    <li><strong>시대적 배경</strong>: 1982년 12월, 야간 통행금지가 해제된 직후의 서울. 군부 정권의 억압이 남아있는 시기.</li>
+    <li><strong>목련다방</strong>: 서울에서 1시간 거리인 경기도 외곽 읍내에 위치.</li>
+    <li><strong>수사 권한</strong>: 현장 통제권과 임의 동행 요구권이 있습니다. 하지만 결정적인 물증과 논리적인 추론 없이는 누구도 체포할 수 없습니다.</li>
+  </ul>
 
-  <details>
-    <summary>목표</summary>
-    <div class="collapsible-content">
-      <p>당신의 목표는 단 하나입니다. <span class="highlight">진짜 범인을 찾아내는 것.</span> 그것만이 바닥에 쓰러진 그녀에게 진 빚을 갚는 유일한 방법입니다.</p>
-    </div>
-  </details>
+  <div class="section-title">목표</div>
+  <p>당신의 목표는 단 하나입니다. <span class="highlight">진짜 범인을 찾아내는 것.</span> 그것만이 바닥에 쓰러진 그녀에게 진 빚을 갚는 유일한 방법입니다.</p>
 </div>
