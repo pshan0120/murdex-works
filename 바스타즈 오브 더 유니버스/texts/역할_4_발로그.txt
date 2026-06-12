@@ -26,110 +26,122 @@
 
 7. 역할 시트 (캐릭터 배경 / 타임라인 / 특징 / 인물 관계 / 설정)
 <div class="story-content">
-  <div class="section-title">공통 정보</div>
-  <div class="intro-narrative">
+  <section class="content-section">
+    <div class="section-title">공통 정보</div>
+    <div class="intro-narrative">
+      <p>
+        기나긴 10년 전쟁 끝에 마침내 압제자 <span class="character-solite">솔라이트</span>의 본성인 <span class="emphasis">화이트스컬 성채</span>를 함락시킨 반역자들의 연합 <span class="character-bastards">바스타즈</span>.
+      </p>
+      <p>
+        수장 <span class="character-skullcrusher">스컬크러셔</span>의 손에 지배자 <span class="character-goldenking">골든 킹</span>이 처단되며 우주에는 마침내 새로운 평화가 찾아온 듯했습니다.<br>
+        하지만 승전 연회를 단 한 시간 앞둔 <span class="emphasis">17:00</span> 현재, 기쁨으로 가득해야 할 성채에는 왠지 모를 긴장감이 감돌고 있습니다.
+      </p>
+    </div>
+    <ul class="info-list">
+      <li><strong>솔라이트에 대하여</strong>: <span class="character-goldenking">골든 킹</span>이 이끄는 우주의 거대 통치 연합으로, 전 우주에 자신들의 질서를 강요해 왔습니다. 그들은 정의를 내세워 평화를 수호한다고 주장하지만, 실상은 반대 세력을 무자비하게 탄압하는 압제적인 통치를 이어왔습니다.</li>
+      <li><strong>신들의 전쟁</strong>: 약 30년 전, 마신 <span class="mystery">다크 시리어스</span>가 이끄는 암흑 군단과 <span class="character-solite">솔라이트</span>가 격돌한 전 우주적 대전쟁입니다. <span class="character-solite">솔라이트</span>는 <span class="mystery">다크 시리어스</span>를 봉인하고 전쟁을 승리로 이끌었습니다.</li>
+      <li><strong>10년 전쟁</strong>: 수장 <span class="character-skullcrusher">스컬크러셔</span>를 필두로 한 연합 <span class="character-bastards">바스타즈</span>가 <span class="character-solite">솔라이트</span>의 폭정을 끝내기 위해 벌여온 전쟁입니다. 오늘 <span class="emphasis">화이트스컬 성채</span>가 함락되고 <span class="character-goldenking">골든 킹</span>이 처단되면서 마침내 승리로 종지부를 찍었습니다.</li>
+      <li><strong>속성에 대하여</strong>: 이 세계의 모든 존재는 고유한 <span class="emphasis">속성</span>을 지니고 있습니다.</li>
+      <li><strong>종족에 대하여</strong>: 이 세계관에는 <span class="emphasis">인간</span> 외에도 <span class="emphasis">수인종</span>과 <span class="emphasis">마족</span> 등 다양한 종족이 공존하며 살아가고 있습니다.</li>
+      <li><strong>성채의 보안</strong>: <span class="emphasis">화이트스컬 성채</span>는 <span class="character-bastards">바스타즈</span> 군대에 의해 완전히 점령되었으며, 현재 성의 모든 출입구는 철통같이 경비되고 있습니다. <span class="emphasis">외부로부터의 침입이나 내부 인원의 무단 이탈은 절대 불가능</span>한 상태입니다.</li>
+      <li><strong>마법의 제약</strong>: 이 세계에 타인의 외형으로 완벽히 위장하는 <span class="emphasis">변신 마법</span>은 존재하지 않습니다.</li>
+      <li><strong>승전 연회</strong>: 승리를 자축하는 성대한 연회가 <span class="emphasis">18:00</span>에 예정되어 있습니다. 현재 시각은 <span class="emphasis">17:00</span>, 수장 <span class="character-skullcrusher">스컬크러셔</span>의 명령에 따라 수색 임무를 완수하기 전까지 이제 한 시간의 여유만이 남아 있습니다.</li>
+    </ul>
+  </section>
+
+  <section class="content-section">
+    <div class="section-title">캐릭터 배경</div>
+
+    <div class="role-notice accomplice">
+      <div class="role-label">[ 본인 확인 ]</div>
+      <div class="role-text">당신은 <span class="is-culprit">공범입니다</span>.</div>
+    </div>
+
     <p>
-      기나긴 10년 전쟁 끝에 마침내 압제자 <span class="character-solite">솔라이트</span>의 본성인 <span class="emphasis">화이트스컬 성채</span>를 함락시킨 반역자들의 연합 <span class="character-bastards">바스타즈</span>.
+      당신은 30년 전 마신 <span class="mystery">다크 시리어스</span>의 군단 소속 마족이었다. 하지만 <span class="character-solite">솔라이트</span>와의 최후 결전에서 <span class="character-goldenking">골든 킹</span>이 시전한 빛의 마법 <span class="emphasis">얼티밋 선샤인</span>에 수많은 동료들이 증발하는 것을 목격했다. 절대자였던 마신마저 <span class="emphasis">갑옷과 투구</span>가 으스러지며 쓰러지자, 당신은 공포에 질려 전장을 이탈했다. 이후 뿔과 기괴한 육체를 망토로 가린 채 우주 변방을 떠돌며 보복의 공포와 악몽에 시달렸다.
     </p>
     <p>
-      수장 <span class="character-skullcrusher">스컬크러셔</span>의 손에 지배자 <span class="character-goldenking">골든 킹</span>이 처단되며 우주에는 마침내 새로운 평화가 찾아온 듯했습니다.<br>
-      하지만 승전 연회를 단 한 시간 앞둔 <span class="emphasis">17:00</span> 현재, 기쁨으로 가득해야 할 성채에는 왠지 모를 긴장감이 감돌고 있습니다.
+      10년 전, 숨어 지내던 당신 앞에 <span class="character-eldritch">엘드리치</span>가 나타났다. 그는 암흑 군단의 암구호를 대며 단숨에 정체를 간파했고, <span class="character-solite">솔라이트</span>와의 전쟁에 협조하지 않으면 정체를 폭로하겠다고 협박했다. 결국 당신은 <span class="emphasis">마법 계약서</span>에 서명하고 그의 노예가 되었다.
     </p>
-  </div>
-  <ul class="info-list">
-    <li><strong>솔라이트에 대하여</strong>: <span class="character-goldenking">골든 킹</span>이 이끄는 우주의 거대 통치 연합으로, 전 우주에 자신들의 질서를 강요해 왔습니다. 그들은 정의를 내세워 평화를 수호한다고 주장하지만, 실상은 반대 세력을 무자비하게 탄압하는 압제적인 통치를 이어왔습니다.</li>
-    <li><strong>신들의 전쟁</strong>: 약 30년 전, 마신 <span class="mystery">다크 시리어스</span>가 이끄는 암흑 군단과 <span class="character-solite">솔라이트</span>가 격돌한 전 우주적 대전쟁입니다. <span class="character-solite">솔라이트</span>는 <span class="mystery">다크 시리어스</span>를 봉인하고 전쟁을 승리로 이끌었습니다.</li>
-    <li><strong>10년 전쟁</strong>: 수장 <span class="character-skullcrusher">스컬크러셔</span>를 필두로 한 연합 <span class="character-bastards">바스타즈</span>가 <span class="character-solite">솔라이트</span>의 폭정을 끝내기 위해 벌여온 전쟁입니다. 오늘 <span class="emphasis">화이트스컬 성채</span>가 함락되고 <span class="character-goldenking">골든 킹</span>이 처단되면서 마침내 승리로 종지부를 찍었습니다.</li>
-    <li><strong>속성에 대하여</strong>: 이 세계의 모든 존재는 고유한 <span class="emphasis">속성</span>을 지니고 있습니다.</li>
-    <li><strong>종족에 대하여</strong>: 이 세계관에는 <span class="emphasis">인간</span> 외에도 <span class="emphasis">수인종</span>과 <span class="emphasis">마족</span> 등 다양한 종족이 공존하며 살아가고 있습니다.</li>
-    <li><strong>성채의 보안</strong>: <span class="emphasis">화이트스컬 성채</span>는 <span class="character-bastards">바스타즈</span> 군대에 의해 완전히 점령되었으며, 현재 성의 모든 출입구는 철통같이 경비되고 있습니다. <span class="emphasis">외부로부터의 침입이나 내부 인원의 무단 이탈은 절대 불가능</span>한 상태입니다.</li>
-    <li><strong>마법의 제약</strong>: 이 세계에 타인의 외형으로 완벽히 위장하는 <span class="emphasis">변신 마법</span>은 존재하지 않습니다.</li>
-    <li><strong>승전 연회</strong>: 승리를 자축하는 성대한 연회가 <span class="emphasis">18:00</span>에 예정되어 있습니다. 현재 시각은 <span class="emphasis">17:00</span>, 수장 <span class="character-skullcrusher">스컬크러셔</span>의 명령에 따라 수색 임무를 완수하기 전까지 이제 한 시간의 여유만이 남아 있습니다.</li>
-  </ul>
-
-  <div class="section-title">캐릭터 배경</div>
-
-  <div class="role-notice accomplice">
-    <div class="role-label">[ 본인 확인 ]</div>
-    <div class="role-text">당신은 <span class="is-culprit">공범입니다</span>.</div>
-  </div>
-
-  <p>
-    당신은 30년 전 마신 <span class="mystery">다크 시리어스</span>의 군단 소속 마족이었다. 하지만 <span class="character-solite">솔라이트</span>와의 최후 결전에서 <span class="character-goldenking">골든 킹</span>이 시전한 빛의 마법 <span class="emphasis">얼티밋 선샤인</span>에 수많은 동료들이 증발하는 것을 목격했다. 절대자였던 마신마저 <span class="emphasis">갑옷과 투구</span>가 으스러지며 쓰러지자, 당신은 공포에 질려 전장을 이탈했다. 이후 뿔과 기괴한 육체를 망토로 가린 채 우주 변방을 떠돌며 보복의 공포와 악몽에 시달렸다.
-  </p>
-  <p>
-    10년 전, 숨어 지내던 당신 앞에 <span class="character-eldritch">엘드리치</span>가 나타났다. 그는 암흑 군단의 암구호를 대며 단숨에 정체를 간파했고, <span class="character-solite">솔라이트</span>와의 전쟁에 협조하지 않으면 정체를 폭로하겠다고 협박했다. 결국 당신은 <span class="emphasis">마법 계약서</span>에 서명하고 그의 노예가 되었다.
-  </p>
-  <p>
-    계약으로 인해 <span class="emphasis">사역마는 계약주를 본인의 의지로 해칠 수 없으며, 어길 시 영혼이 즉시 소멸한다</span>는 금기가 새겨졌다. 저주를 풀 방법은 <span class="emphasis">계약주가 스스로 계약을 해지하거나, 타인의 의지로 인해 죽는 것</span>뿐이었다. <span class="character-eldritch">엘드리치</span>는 당신을 길들여진 마족으로 포장해 <span class="character-bastards">바스타즈</span> 수장 <span class="character-skullcrusher">스컬크러셔</span>에게 소개했다. 동료들은 당신을 듬직한 전사로 대우했지만, 정체가 탄로 날까 봐 철저히 감정을 숨기고 복종해 왔다.
-  </p>
-  <p>
-    전쟁 동안 <span class="emphasis">특공대장</span>으로서 은밀한 타격 임무를 완수하며 활약했다. 하지만 그 이면에는 오직 <span class="character-eldritch">엘드리치</span>의 도구로 소모되며 위험한 전장으로 내몰리는 현실이 있었다.
-  </p>
-  <p>
-    분노가 치밀 때마다 당신은 홀로 <span class="emphasis">흑요석</span>을 씹으며 감정을 삭혔다. 계약에 묶여 <span class="character-eldritch">엘드리치</span>를 심판할 방법이 없었기에, 굴레에서 벗어날 수 없을지도 모른다는 무력감에 빠졌다.
-  </p>
-  <p>
-    오늘 오전 고공에서 <span class="emphasis">마법탑</span>으로 강습한 당신은 <span class="emphasis">일반 마법에 면역</span>인 체질을 앞세워 <span class="emphasis">마력을 방출</span>해 <span class="character-solite">골든 서클</span> 마법사들을 폭사시켰다. 하지만 정오 무렵 발동한 거대한 <span class="emphasis">빛의 마법</span>에 간접 타격을 입었다. 30년 전의 공포가 떠오르며 일시적으로 힘을 잃어 주저앉았으나, 합류한 <span class="character-malice">말리스</span>가 병력을 지휘한 덕분에 16시경 마법탑 공략을 마쳤다.
-  </p>
-  <p>
-    16시경 <span class="character-skullcrusher">스컬크러셔</span>는 <span class="emphasis">왕좌의 방</span>에서 승리를 선포하며 수색 구역을 하달했다. 당신은 <span class="emphasis">무기고</span> 수색을 지시받았다. 수색 중 진열대 구석에서 <span class="character-eldritch">엘드리치</span>가 남긴 쪽지를 발견했다. 전쟁 후에도 계약이 계속될 것이며 영원히 하수인으로 남으라는 조롱이었다.
-  </p>
-  <p>
-    절망과 분노를 삭히던 중, 16시 30분경 참모장 <span class="character-malice">말리스</span>가 찾아와 은근히 암살을 암시했다. 의도를 즉각 알아챈 당신은 계약주를 해치는 일은 절대 불가하다며 완강히 거절했다. 당황한 그녀는 잔당으로부터 보호할 방어용 부비트랩이라며 다급히 말을 바꿨다. 진짜 목적을 숨긴 얄팍한 거짓말이었으나 당신에겐 그 명분이 필요했다. '방어 트랩'이라는 핑계라면 계약의 맹점을 찔러 저주를 피할 수 있으리라 계산한 것이다. 당신은 알면서도 속아 넘어간 척하며 제안을 수락했다.
-  </p>
-  <p>
-    당신은 그녀가 건넨 <span class="emphasis">투명 망토</span>를 두르고 도구들을 챙겨 아무도 없는 <span class="emphasis">서재</span>로 향했다. 천장의 <span class="emphasis">샹들리에</span>에 <span class="emphasis">와이어</span>로 <span class="emphasis">단검</span>을 매달고 장식 사이에 수면가스를 뿜는 <span class="emphasis">몽유석</span>을 숨겨 트랩을 완성했다. 16시 40분경 <span class="emphasis">연구실</span>로 돌아가 완료를 보고하자, 그녀는 잔당이 나타나면 신호에 맞춰 마력을 방출하라고 지시했다. 당신은 끝까지 속은 척 <span class="character-eldritch">엘드리치</span>를 지키기 위해 그리하겠다고 답했다. 이 방어 명분을 통한 간접적인 죽음이야말로 저주를 피하고 노예 신분에서 해방될 유일한 길이라 믿고 있다.
-  </p>
+    <p>
+      계약으로 인해 <span class="emphasis">사역마는 계약주를 본인의 의지로 해칠 수 없으며, 어길 시 영혼이 즉시 소멸한다</span>는 금기가 새겨졌다. 저주를 풀 방법은 <span class="emphasis">계약주가 스스로 계약을 해지하거나, 타인의 의지로 인해 죽는 것</span>뿐이었다. <span class="character-eldritch">엘드리치</span>는 당신을 길들여진 마족으로 포장해 <span class="character-bastards">바스타즈</span> 수장 <span class="character-skullcrusher">스컬크러셔</span>에게 소개했다. 동료들은 당신을 듬직한 전사로 대우했지만, 정체가 탄로 날까 봐 철저히 감정을 숨기고 복종해 왔다.
+    </p>
+    <p>
+      전쟁 동안 <span class="emphasis">특공대장</span>으로서 은밀한 타격 임무를 완수하며 활약했다. 하지만 그 이면에는 오직 <span class="character-eldritch">엘드리치</span>의 도구로 소모되며 위험한 전장으로 내몰리는 현실이 있었다.
+    </p>
+    <p>
+      분노가 치밀 때마다 당신은 홀로 <span class="emphasis">흑요석</span>을 씹으며 감정을 삭혔다. 계약에 묶여 <span class="character-eldritch">엘드리치</span>를 심판할 방법이 없었기에, 굴레에서 벗어날 수 없을지도 모른다는 무력감에 빠졌다.
+    </p>
+    <p>
+      오늘 오전 고공에서 <span class="emphasis">마법탑</span>으로 강습한 당신은 <span class="emphasis">일반 마법에 면역</span>인 체질을 앞세워 <span class="emphasis">마력을 방출</span>해 <span class="character-solite">골든 서클</span> 마법사들을 폭사시켰다. 하지만 정오 무렵 발동한 거대한 <span class="emphasis">빛의 마법</span>에 간접 타격을 입었다. 30년 전의 공포가 떠오르며 일시적으로 힘을 잃어 주저앉았으나, 합류한 <span class="character-malice">말리스</span>가 병력을 지휘한 덕분에 16시경 마법탑 공략을 마쳤다.
+    </p>
+    <p>
+      16시경 <span class="character-skullcrusher">스컬크러셔</span>는 <span class="emphasis">왕좌의 방</span>에서 승리를 선포하며 수색 구역을 하달했다. 당신은 <span class="emphasis">무기고</span> 수색을 지시받았다. 수색 중 진열대 구석에서 <span class="character-eldritch">엘드리치</span>가 남긴 쪽지를 발견했다. 전쟁 후에도 계약이 계속될 것이며 영원히 하수인으로 남으라는 조롱이었다.
+    </p>
+    <p>
+      절망과 분노를 삭히던 중, 16시 30분경 참모장 <span class="character-malice">말리스</span>가 찾아와 은근히 암살을 암시했다. 의도를 즉각 알아챈 당신은 계약주를 해치는 일은 절대 불가하다며 완강히 거절했다. 당황한 그녀는 잔당으로부터 보호할 방어용 부비트랩이라며 다급히 말을 바꿨다. 진짜 목적을 숨긴 얄팍한 거짓말이었으나 당신에겐 그 명분이 필요했다. '방어 트랩'이라는 핑계라면 계약의 맹점을 찔러 저주를 피할 수 있으리라 계산한 것이다. 당신은 알면서도 속아 넘어간 척하며 제안을 수락했다.
+    </p>
+    <p>
+      당신은 그녀가 건넨 <span class="emphasis">투명 망토</span>를 두르고 도구들을 챙겨 아무도 없는 <span class="emphasis">서재</span>로 향했다. 천장의 <span class="emphasis">샹들리에</span>에 <span class="emphasis">와이어</span>로 <span class="emphasis">단검</span>을 매달고 장식 사이에 수면가스를 뿜는 <span class="emphasis">몽유석</span>을 숨겨 트랩을 완성했다. 16시 40분경 <span class="emphasis">연구실</span>로 돌아가 완료를 보고하자, 그녀는 잔당이 나타나면 신호에 맞춰 마력을 방출하라고 지시했다. 당신은 끝까지 속은 척 <span class="character-eldritch">엘드리치</span>를 지키기 위해 그리하겠다고 답했다. 이 방어 명분을 통한 간접적인 죽음이야말로 저주를 피하고 노예 신분에서 해방될 유일한 길이라 믿고 있다.
+    </p>
+  </section>
 
   <!-- 타임라인 -->
 
-  <div class="section-title">타임라인</div>
-  <ul class="goal-list">
-    <li><strong>10:00~11:00</strong>: <span class="emphasis">화이트스컬 공성전</span> 시작. 고공에서 <span class="emphasis">마법탑</span> 꼭대기로 강습하여 난입. 일반 마법에 면역인 체질을 이용해 적의 공격을 무력화하며 마력을 폭발적으로 방출함. 적들의 마력과 반응한 연쇄적인 마력 역류 폭발로 수십 명의 마법사들을 폭사시킴.</li>
-    <li><strong>11:00~12:00</strong>: <span class="emphasis">마법탑</span> 내부의 복잡한 통로를 장악하며 남은 <span class="character-solite">골든 서클</span> 마법사들과 방어 병력을 공격.</li>
-    <li><strong>12:00~16:00</strong>: <span class="character-goldenking">골든 킹</span>의 <span class="emphasis">선샤인</span>에 간접 타격을 입음. 30년 전의 공포가 떠올라 주저앉아 마력을 갈무리함. 그동안 <span class="character-malice">말리스</span>가 병력을 지휘해 남은 저항군을 소탕하고 마법탑 공략을 마무리함.</li>
-    <li><strong>16:00</strong>: <span class="emphasis">왕좌의 방</span>으로 합류. <span class="character-skullcrusher">스컬크러셔</span>로부터 <span class="emphasis">무기고</span> 수색 및 조사를 지시받음.</li>
-    <li><strong>16:10~16:30</strong>: <span class="emphasis">무기고</span> 구석에서 <span class="character-eldritch">엘드리치</span>가 남겨둔 종신 노예 계약 쪽지를 발견하고 극도로 절망함.</li>
-    <li><strong>16:30~16:40</strong>: <span class="emphasis">무기고</span>로 찾아온 <span class="character-malice">말리스</span>와 접촉함. 암살 제안을 거절했으나, 잔당 소탕용 부비트랩이라는 거짓말에 뻔히 알면서도 속은 척 동조함. 저주를 피할 방어 명분을 얻은 뒤 트랩 부품과 <span class="emphasis">투명 망토</span>를 건네받음.</li>
-    <li><strong>16:40~17:00</strong>: <span class="emphasis">투명 망토</span>를 두르고 <span class="emphasis">서재</span>로 잠입하여 살인 트랩을 설치함. 이후 <span class="emphasis">연구실</span>로 돌아가 보고한 뒤, <span class="character-malice">말리스</span>로부터 잔당 출현 신호에 맞춰 <span class="emphasis">서재</span>로 마력을 방출하라는 지시를 받음.</li>
-  </ul>
+  <section class="content-section">
+    <div class="section-title">타임라인</div>
+    <ul class="goal-list">
+      <li><strong>10:00~11:00</strong>: <span class="emphasis">화이트스컬 공성전</span> 시작. 고공에서 <span class="emphasis">마법탑</span> 꼭대기로 강습하여 난입. 일반 마법에 면역인 체질을 이용해 적의 공격을 무력화하며 마력을 폭발적으로 방출함. 적들의 마력과 반응한 연쇄적인 마력 역류 폭발로 수십 명의 마법사들을 폭사시킴.</li>
+      <li><strong>11:00~12:00</strong>: <span class="emphasis">마법탑</span> 내부의 복잡한 통로를 장악하며 남은 <span class="character-solite">골든 서클</span> 마법사들과 방어 병력을 공격.</li>
+      <li><strong>12:00~16:00</strong>: <span class="character-goldenking">골든 킹</span>의 <span class="emphasis">선샤인</span>에 간접 타격을 입음. 30년 전의 공포가 떠올라 주저앉아 마력을 갈무리함. 그동안 <span class="character-malice">말리스</span>가 병력을 지휘해 남은 저항군을 소탕하고 마법탑 공략을 마무리함.</li>
+      <li><strong>16:00</strong>: <span class="emphasis">왕좌의 방</span>으로 합류. <span class="character-skullcrusher">스컬크러셔</span>로부터 <span class="emphasis">무기고</span> 수색 및 조사를 지시받음.</li>
+      <li><strong>16:10~16:30</strong>: <span class="emphasis">무기고</span> 구석에서 <span class="character-eldritch">엘드리치</span>가 남겨둔 종신 노예 계약 쪽지를 발견하고 극도로 절망함.</li>
+      <li><strong>16:30~16:40</strong>: <span class="emphasis">무기고</span>로 찾아온 <span class="character-malice">말리스</span>와 접촉함. 암살 제안을 거절했으나, 잔당 소탕용 부비트랩이라는 거짓말에 뻔히 알면서도 속은 척 동조함. 저주를 피할 방어 명분을 얻은 뒤 트랩 부품과 <span class="emphasis">투명 망토</span>를 건네받음.</li>
+      <li><strong>16:40~17:00</strong>: <span class="emphasis">투명 망토</span>를 두르고 <span class="emphasis">서재</span>로 잠입하여 살인 트랩을 설치함. 이후 <span class="emphasis">연구실</span>로 돌아가 보고한 뒤, <span class="character-malice">말리스</span>로부터 잔당 출현 신호에 맞춰 <span class="emphasis">서재</span>로 마력을 방출하라는 지시를 받음.</li>
+    </ul>
+  </section>
 
   <!-- 특징 -->
 
-  <div class="section-title">특징</div>
-  <ul>
-    <li><strong>종족</strong>: 마족</li>
-    <li><strong>속성</strong>: 바람</li>
-    <li><strong>전투력</strong>: 7</li>
-    <li><strong>비행 능력</strong>: 고공에서 전장을 정찰하거나 단숨에 침투할 수 있는 압도적인 기동성을 보유하고 있음.</li>
-    <li><strong>마력 방출</strong>: 체내의 마력을 외부로 내보내는 능력. 강력하게 뿜어내어 주변의 마력을 품은 자들의 마력을 역류시킬 수 있으며, 상황에 따라서는 아주 미세하게 방출할 수도 있음.</li>
-    <li><strong>흑요석</strong>: 스트레스 상황에서 씹는 버릇이 있다.</li>
-  </ul>
+  <section class="content-section">
+    <div class="section-title">특징</div>
+    <ul>
+      <li><strong>종족</strong>: 마족</li>
+      <li><strong>속성</strong>: 바람</li>
+      <li><strong>전투력</strong>: 7</li>
+      <li><strong>비행 능력</strong>: 고공에서 전장을 정찰하거나 단숨에 침투할 수 있는 압도적인 기동성을 보유하고 있음.</li>
+      <li><strong>마력 방출</strong>: 체내의 마력을 외부로 내보내는 능력. 강력하게 뿜어내어 주변의 마력을 품은 자들의 마력을 역류시킬 수 있으며, 상황에 따라서는 아주 미세하게 방출할 수도 있음.</li>
+      <li><strong>흑요석</strong>: 스트레스 상황에서 씹는 버릇이 있다.</li>
+    </ul>
+  </section>
 
   <!-- 인물 관계 -->
 
-  <div class="section-title">인물 관계</div>
-  <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 10년 전 <span class="character-eldritch">엘드리치</span>의 소개로 합류를 허락한 수장이다. 당신의 정체를 모른 채 실력만으로 특공대장 직위를 주었다. 그의 무력과 지휘력을 인정하며, 자유를 얻은 후엔 대등한 전우로 남고자 한다.</p>
-  <p><strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 10년 전 정체를 빌미로 <span class="emphasis">마법 계약서</span>를 강요한 계약주다. 약속과 달리 쪽지로 영구적인 종속을 통보했다. 오늘 밤 그가 파멸하여 계약에서 해방되기를 기다리고 있다.</p>
-  <p><strong><span class="character-malice">말리스에 대해</span></strong>: 오늘 무기고로 찾아와 암살을 은근히 암시했다. 저주를 피하기 위해 완강히 거절했으나, '방어용 부비트랩'이라는 명분을 빌려 암살 계획에 동참했다. 그녀를 통해 자유를 얻으려 하지만, 약점을 잡힌 상태라 늘 경계하고 있다.</p>
-  <p><strong><span class="character-slither">슬리더에 대해</span></strong>: 기습과 암살 전문이다. 그의 예리한 감각이 정체나 계획을 눈치챌까 우려한다. 사태가 틀어지면 가장 먼저 위협이 될 대상이므로 가급적 시선이 닿지 않게 행동 중이다.</p>
-  <p><strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 지난 10년간 자주 합을 맞춘 선봉장이다. 파괴적인 전투 방식은 인정하나, 충동적인 성향이 비밀 유지와 탈출 계획에 변수가 될 수 있어 일정한 거리를 두고 있다.</p>
-  <p><strong><span class="character-elantra">엘란트라에 대해</span></strong>: 부대를 지휘하는 대장군이다. 그녀의 전략 덕에 기습 성공률이 높았다. 하지만 지나치게 분석적인 성향 탓에 정체가 들통날 것을 경계하여 사적인 교류는 철저히 배제하고 있다.</p>
-  <details>
-    <summary>
-      초심자를 위한 플레잉 팁
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><span class="character-malice">말리스</span>와 우선적으로 밀담을 나누어 알리바이를 맞춰 두는 것이 유리합니다. 단, 그녀를 전적으로 신뢰하지는 마세요. 각자의 목적을 위해 임시로 결성된 위태로운 공조일 뿐, 언제 서로에게 책임을 떠넘길지 모릅니다.</li>
-      </ul>
-    </div>
-  </details>
+  <section class="content-section">
+    <div class="section-title">인물 관계</div>
+    <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 10년 전 <span class="character-eldritch">엘드리치</span>의 소개로 합류를 허락한 수장이다. 당신의 정체를 모른 채 실력만으로 특공대장 직위를 주었다. 그의 무력과 지휘력을 인정하며, 자유를 얻은 후엔 대등한 전우로 남고자 한다.</p>
+    <p><strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 10년 전 정체를 빌미로 <span class="emphasis">마법 계약서</span>를 강요한 계약주다. 약속과 달리 쪽지로 영구적인 종속을 통보했다. 오늘 밤 그가 파멸하여 계약에서 해방되기를 기다리고 있다.</p>
+    <p><strong><span class="character-malice">말리스에 대해</span></strong>: 오늘 무기고로 찾아와 암살을 은근히 암시했다. 저주를 피하기 위해 완강히 거절했으나, '방어용 부비트랩'이라는 명분을 빌려 암살 계획에 동참했다. 그녀를 통해 자유를 얻으려 하지만, 약점을 잡힌 상태라 늘 경계하고 있다.</p>
+    <p><strong><span class="character-slither">슬리더에 대해</span></strong>: 기습과 암살 전문이다. 그의 예리한 감각이 정체나 계획을 눈치챌까 우려한다. 사태가 틀어지면 가장 먼저 위협이 될 대상이므로 가급적 시선이 닿지 않게 행동 중이다.</p>
+    <p><strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 지난 10년간 자주 합을 맞춘 선봉장이다. 파괴적인 전투 방식은 인정하나, 충동적인 성향이 비밀 유지와 탈출 계획에 변수가 될 수 있어 일정한 거리를 두고 있다.</p>
+    <p><strong><span class="character-elantra">엘란트라에 대해</span></strong>: 부대를 지휘하는 대장군이다. 그녀의 전략 덕에 기습 성공률이 높았다. 하지만 지나치게 분석적인 성향 탓에 정체가 들통날 것을 경계하여 사적인 교류는 철저히 배제하고 있다.</p>
+  </section>
+  <section class="content-section">
+    <details>
+      <summary>
+        초심자를 위한 플레잉 팁
+        <span class="toggle-wrapper">
+          <span class="toggle-text"></span>
+          <span class="toggle-icon">▼</span>
+        </span>
+      </summary>
+      <div class="collapsible-content">
+        <ul class="goal-list">
+          <li><span class="character-malice">말리스</span>와 우선적으로 밀담을 나누어 알리바이를 맞춰 두는 것이 유리합니다. 단, 그녀를 전적으로 신뢰하지는 마세요. 각자의 목적을 위해 임시로 결성된 위태로운 공조일 뿐, 언제 서로에게 책임을 떠넘길지 모릅니다.</li>
+        </ul>
+      </div>
+    </details>
+  </section>
 </div>
 
 8. 숨기고 싶은 비밀
