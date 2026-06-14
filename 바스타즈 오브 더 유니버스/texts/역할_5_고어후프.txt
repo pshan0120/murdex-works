@@ -52,11 +52,6 @@
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
 
-    <div class="role-notice innocent">
-      <div class="role-label">[ 본인 확인 ]</div>
-      <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
-    </div>
-
     <p>
       변방 행성에 위치한 당신의 평화로운 부족은 전 우주가 <span class="character-solite">솔라이트</span>의 <span class="emphasis">빛의 성전</span>으로 전쟁터가 되어가는 줄도 몰랐다. 결국 <span class="character-solite">솔라이트</span>의 군대는 당신의 고향마저 무참히 짓밟았다.
     </p>
@@ -64,13 +59,13 @@
       종족이 전멸당하던 아수라장 속에서 피비린내 나는 검을 쥔 <span class="emphasis">은발의 기사</span>와 마주쳤다. 그는 죽일 수 있었음에도 알 수 없는 표정으로 멈칫했고, 당신은 그 틈을 타 붉은 절벽 아래 동굴로 달아나 간신히 목숨을 건졌다. 폐허가 된 고향에 홀로 살아남은 당신에겐 <span class="character-solite">솔라이트</span>에 대한 증오와 <span class="emphasis">은발의 기사</span>에 대한 흐릿한 잔상만 남았다.
     </p>
     <p>
-      고향에서 짐승처럼 성장하던 중 고대 유적에서 <span class="emphasis">대지의 심장</span>을 발견하고 온몸으로 받아들였다. 폭발적인 힘과 초인적인 치유력을 얻었으나, 분노나 극한의 허기를 느끼면 피에 굶주린 야수로 변하는 <span class="emphasis">광폭화</span>의 저주가 당신을 잠식했다.
+      고향에서 짐승처럼 성장하던 중 고대 유적에서 <span class="emphasis">대지의 심장</span>을 발견하고 온몸으로 받아들였다. 폭발적인 힘과 초인적인 치유력을 얻었으나, 절망이나 분노 등 감정의 한계를 넘으면 이를 끔찍한 허기로 치환하여 피에 굶주린 야수로 변하게 만드는 <span class="emphasis">광폭화</span>의 저주가 당신을 잠식했다.
     </p>
     <p>
       어느 날 은신처 주변에 <span class="character-solite">솔라이트</span> 보급 부대가 들이닥치자 대지의 힘이 폭주했다. 이성을 잃고 부대를 혼자 쓸어버린 당신의 소문을 듣고 패왕 <span class="character-skullcrusher">스컬크러셔</span>가 찾아왔다. <span class="character-solite">솔라이트</span>를 향한 복수를 위해 <span class="character-bastards">바스타즈</span>에 합류한 당신은 10년간 선봉을 맡아 수많은 사선을 넘나들며 살아있는 전설이 되었다.
     </p>
     <p>
-      전쟁 중반, 대장군 <span class="character-elantra">엘란트라</span>가 매복에 걸려 고립되자 당신은 부대를 이끌고 난입해 퇴로를 확보하고 그녀를 먼저 탈출시켰다. 하지만 그 대가로 폐허에 부대원들과 고립되었다. 시간이 흘러 <span class="emphasis">대지의 심장</span>이 부르는 극한의 허기에 <span class="emphasis">광폭화</span>한 당신은 전우들을 학살하고 그 유해마저 먹어 치웠다. 구원병이 도착해 정신을 차린 당신은 적의 기습에 전멸했다고 거짓 보고를 올렸고, 이 끔찍한 식인 행위는 평생의 죄악이 되었다.
+      전쟁 중반, 대장군 <span class="character-elantra">엘란트라</span>가 매복에 걸려 고립되자 당신은 부대를 이끌고 난입해 퇴로를 확보하고 그녀를 먼저 탈출시켰다. 하지만 그 대가로 폐허에 부대원들과 고립되었다. 시간이 흘러 극한의 절망과 생명의 위협이 임계점을 넘자 <span class="emphasis">대지의 심장</span>이 그 감정을 끔찍한 허기로 치환해 <span class="emphasis">광폭화</span>를 일으켰고, 이성을 잃은 당신은 전우들을 도살해 그 살점마저 먹어 치웠다. 구원병이 도착해 정신을 차린 당신은 적의 기습에 전멸했다고 거짓 보고를 올렸고, 이 끔찍한 식인 행위는 평생의 죄악이 되었다.
     </p>
     <p>
       트라우마로 절망하던 무렵, 목숨을 빚진 <span class="character-elantra">엘란트라</span>가 난공불락의 <span class="emphasis">철의 성계</span> 요새를 무너뜨릴 전술을 설계해 왔다. 그녀가 깔아준 전장 속에서 선봉에 서 <span class="character-solite">솔라이트</span> 병기들을 분쇄하며 돌파했다. 당신과 <span class="character-elantra">엘란트라</span>가 이끌어낸 이 승리는 전쟁의 판도를 뒤집었고, 당신은 전사의 긍지를 되찾았다.
@@ -143,7 +138,7 @@
       </summary>
       <div class="collapsible-content">
         <ul class="goal-list">
-          <li>대장군 <span class="character-elantra">엘란트라</span>는 과거 매복전에서 당신이 목숨을 바쳐 구해낸 인물입니다. 그녀는 당신에게 깊은 부채감과 신뢰를 느끼고 있으므로, 너무 경계하거나 주눅 들지 말고 편하고 솔직하게 대하며 협력 관계를 이끌어내 보세요.</li>
+          <li>대장군 <span class="character-elantra">엘란트라</span>는 과거 당신이 목숨을 걸고 구해낸 인물입니다. 그녀는 당신에게 깊은 부채감과 신뢰를 느끼고 있으므로, 너무 경계하거나 주눅 들지 말고 편하고 솔직하게 대하며 협력 관계를 이끌어내 보세요.</li>
         </ul>
       </div>
     </details>
@@ -155,8 +150,8 @@
 <div class="story-content">
   <p class="guide-text">※ 비밀의 노출여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
   <ul>
-    <li><strong>피로 얼룩진 생존의 굶주림</strong>: 10년 전쟁 당시, <span class="character-elantra">엘란트라</span>를 구한 후 적진에 고립되었을 때의 일이다. 극한의 허기와 마력 폭주를 견디지 못한 당신은 어두운 잔해 속에서 함께 있던 아군들을 도살하고 그들의 살점을 먹어 치우는 비극을 저질렀다. 이는 당신 평생의 수치이자 지독한 트라우마이며, 당시 <span class="highlight">&quot;동료들이 적의 함정에 빠져 전멸하는 것을 지켜볼 수밖에 없었다&quot;</span>고 올린 거짓 보고는 지금 당신의 목을 조이는 치명적인 약점이 되었다.</li>
-    <li><strong>폭주하는 대지의 심장</strong>: 고대 유물 <span class="emphasis">대지의 심장</span>을 흡수해 얻은 이 압도적인 힘은 불행히도 불완전하다. 분노나 허기가 한계치를 넘으면 이성을 잃고 눈앞의 모든 것을 파괴하는 야수로 변해버린다. 오늘 오후, <span class="character-eldritch">엘드리치</span>의 협박 쪽지를 보고 격분하여 그를 죽이려 서재로 향하던 중, 극심한 분노가 다시 한번 통제 불능의 굶주림을 불러왔다. 결국 당신은 살의마저 잊은 채 식당으로 돌아와 음식들을 짐승처럼 먹어 치우며 본능에 굴복하고 말았다.</li>
+    <li><strong>아군을 잡아먹은 생존자</strong>: 10년 전 적진에 고립되었을 때, 이성을 잃고 함께 갇힌 아군을 도살해 잡아먹으며 생존했다. "적의 함정에 빠져 전멸했다"는 당시의 거짓 보고가 들통나는 것이 가장 치명적인 약점이다.</li>
+    <li><strong>이성을 삼키는 대지의 심장</strong>: 유물 <span class="emphasis">대지의 심장</span>은 감당할 수 없는 부정적 감정(과거의 절망, 오늘의 분노 등)에 휩싸일 때 이를 원초적 본능인 '허기'로 강제 치환해 이성을 마비시킨다. 오늘 오후 <span class="character-eldritch">엘드리치</span>에 대한 격분으로 그를 살해하러 가던 중 이 저주가 발동했고, 다급히 식당으로 돌아와 짐승처럼 폭식했다.</li>
   </ul>
 </div>
 
@@ -164,54 +159,35 @@
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 고어후프
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>협박 대응</strong>: <span class="character-eldritch">엘드리치</span>의 협박이 단순히 말뿐인지, 아니면 당신의 명예를 완전히 무너뜨릴 실질적인 무언가를 쥐고 있는 것인지 파악하라. 그것이 무엇이든 당신의 과거 실수를 수면 위로 끌어올릴 만한 것이라면 선제적으로 대처해야 한다.</li>
-        <li><strong>폭주 흔적에 대한 대비</strong>: <span class="emphasis">식당</span>에서 극도로 이성을 잃고 짐승처럼 폭식했던 흔적들을 누군가 발견할지도 모른다. 만약 동료들이 그 참혹한 흔적을 보고 당신이 통제 불능의 괴물로 변한다는 사실을 의심한다면, 어떻게 핑계를 대고 빠져나갈지 미리 변명거리를 준비하라.</li>
-      </ul>
-    </div>
-  </details>
-  <details>
-    <summary>
-      추가 정보 - 고어후프
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p class="guide-text">
-        조사가 시작되면서, 문득 아까 승전 소집 때의 상황이 머릿속에 다시 떠오른다.
-      </p>
-      <ul class="goal-list">
-        <li><strong>17:00 소집 당시의 기억</strong>: 수색 도중 소집 명령을 받고 왕좌의 방에 모였을 때, <span class="character-slither">슬리더</span>의 왼쪽에 서 있었다. 그 순간 수인종인 당신의 예민한 감각은 그의 부자연스러운 상태를 감지했다. 원래 그는 파충류답게 늘 차갑고 서늘한 기운을 풍겼는데, 당시 묘하게 훈훈한 <span class="emphasis">온기</span>가 느껴졌다. 당시에는 경황이 없어 무심코 넘겼으나, 지금 생각해보니 무척 이상한 일이었다.</li>
-      </ul>
-    </div>
-  </details>
+  <section class="content-section">
+    <div class="section-title">목표 - 고어후프</div>
+    <ul class="goal-list">
+      <li><strong>협박 대응</strong>: <span class="character-eldritch">엘드리치</span>의 협박이 단순히 말뿐인지, 아니면 당신의 명예를 완전히 무너뜨릴 실질적인 무언가를 쥐고 있는 것인지 파악하라. 그것이 무엇이든 당신의 과거 실수를 수면 위로 끌어올릴 만한 것이라면 선제적으로 대처해야 한다.</li>
+      <li><strong>살인 미수의 정황 대비</strong>: 당신은 오늘 살인을 저지를 뻔했습니다. <span class="emphasis">발골용 칼</span>을 들고 서재로 향했던 스스로의 끔찍한 충동이 약점이 될 것입니다. 만약 누군가 무기를 든 당신을 목격했다면 꼼짝없이 범인으로 몰리게 됩니다. 동료들의 추궁을 빠져나갈 그럴듯한 알리바이를 꾸며내십시오.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">추가 정보 - 고어후프</div>
+    <p class="guide-text">
+      조사가 시작되면서, 문득 아까 승전 소집 때의 상황이 머릿속에 다시 떠오른다.
+    </p>
+    <ul class="goal-list">
+      <li><strong>17:00 소집 당시의 기억</strong>: 수색 도중 소집 명령을 받고 왕좌의 방에 모였을 때, <span class="character-slither">슬리더</span>의 왼쪽에 서 있었다. 그 순간 수인종인 당신의 예민한 감각은 그의 부자연스러운 상태를 감지했다. 원래 그는 파충류답게 늘 차갑고 서늘한 기운을 풍겼는데, 당시 묘하게 훈훈한 <span class="emphasis">온기</span>가 느껴졌다. 당시에는 경황이 없어 무심코 넘겼으나, 지금 생각해보니 무척 이상한 일이었다.</li>
+    </ul>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 고어후프
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>범인 검거</strong>: <span class="character-eldritch">엘드리치</span>를 죽인 범인을 찾기 위해 협력하되, 조사의 방향이 당신의 과거 행적이나 제어할 수 없는 신체적 부작용으로 향하지 않도록 유도하라.</li>
-      </ul>
-    </div>
-  </details>
+  <div class="role-notice innocent">
+    <div class="role-label">[ 본인 확인 ]</div>
+    <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+  </div>
+
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 고어후프</div>
+    <ul class="goal-list">
+      <li><strong>범인 검거</strong>: <span class="character-eldritch">엘드리치</span>를 죽인 범인을 찾기 위해 협력하되, 조사의 방향이 당신의 과거 행적이나 제어할 수 없는 신체적 부작용으로 향하지 않도록 유도하라.</li>
+    </ul>
+  </section>
 </div>

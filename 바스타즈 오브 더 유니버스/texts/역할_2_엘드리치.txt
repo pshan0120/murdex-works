@@ -51,7 +51,6 @@
 
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
-
     <div class="role-notice mastermind">
       <div class="role-label">[ 본인 확인 ]</div>
       <div class="role-text">당신은 <span class="is-culprit">흑막입니다</span>.</div>
@@ -172,8 +171,13 @@
       <div class="collapsible-content">
         <ul class="goal-list">
           <li>
-            1. 당신은 18:00에 예정대로 사망하고 영혼 상태가 됩니다. 그전까지 다른 멤버들과 두터운 신뢰 관계를 미리 쌓아두는 것이 중요합니다.<br>
-            2. 만약 멤버들이 당신이 은밀히 남긴 협박 쪽지에 대해 추궁하거나 대화에서 언급한다면, "누가 우리 연합을 이간질하고 파탄 내기 위해 나의 필체를 교묘히 흉내내어 함정을 판 악의적인 음모다"라고 둘러대며, 자신도 피해자인 척 유도하여 의심을 다른 쪽으로 자연스럽게 돌리는 것이 유리합니다.
+            현재 오직 당신의 역할 정보에만 <strong>[ 본인 확인 ]</strong> 내용이 존재합니다. 이 칸의 존재 자체를 언급하는 순간 다른 플레이어들이 당신을 의심할 수 있으므로, 해당 정보는 절대 입 밖으로 꺼내지 마십시오. 다른 플레이어들은 당신의 죽음 이후, <strong>[ 본인 확인 ]</strong> 내용을 보게 됩니다.
+          </li>
+          <li>
+            당신은 18:00에 예정대로 사망하고 영혼 상태가 됩니다. 그전까지 다른 멤버들과 두터운 신뢰 관계를 미리 쌓아두는 것이 중요합니다.
+          </li>
+          <li>
+            만약 멤버들이 당신이 은밀히 남긴 협박 쪽지에 대해 추궁하거나 대화에서 언급한다면, "누가 우리 연합을 이간질하고 파탄 내기 위해 나의 필체를 교묘히 흉내내어 함정을 판 악의적인 음모다"라고 둘러대며, 자신도 피해자인 척 유도하여 의심을 다른 쪽으로 자연스럽게 돌리는 것이 유리합니다.
           </li>
         </ul>
       </div>
@@ -185,47 +189,32 @@
 
 <div class="story-content">
   <p class="guide-text">※ 비밀의 노출여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
-    <ul>
-      <li><strong>태초의 공포</strong>: 당신의 정체는 태초부터 우주를 공포로 몰아넣었던 마신 <span class="mystery">다크 시리어스</span>이다. 지금의 현자 모습은 힘을 되찾기 위한 위장일 뿐이다.</li>
-      <li><strong>사제 관계</strong>: 당신은 <span class="character-skullcrusher">스컬크러셔(류크)</span>를 구원하고 키워낸 스승이다.</li>
-      <li><strong>협박 쪽지의 배후</strong>: 16시부터 16시 50분 사이, 투명 망토를 쓰고 돌아다니며 멤버들의 약점이 담긴 쪽지를 남겼다.</li>
-    </ul>
+  <ul>
+    <li><strong>태초의 공포</strong>: 당신의 정체는 태초부터 우주를 공포로 몰아넣었던 마신 <span class="mystery">다크 시리어스</span>이다. 지금의 현자 모습은 힘을 되찾기 위한 위장일 뿐이다.</li>
+    <li><strong>사제 관계</strong>: 당신은 <span class="character-skullcrusher">스컬크러셔(류크)</span>를 구원하고 키워낸 스승이다.</li>
+    <li><strong>협박 쪽지의 배후</strong>: 16시부터 16시 50분 사이, 투명 망토를 쓰고 돌아다니며 멤버들의 약점이 담긴 쪽지를 남겼다.</li>
+  </ul>
 </div>
 
 9. 단계별 역할 지침
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 엘드리치
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>기만 공작</strong>: 오늘 18시의 죽음은 부활을 위한 계획된 절차다. 순간적인 마력 방출로 살인 트랩을 작동시킴과 동시에 영혼을 육체에서 이탈시킨다. 육신이 죽는 즉시 영혼 상태인 <span class="highlight">탐정</span> 역할로 전환될 것이니, 당신이 선택한 <span class="emphasis">가장 강한 자</span>가 처형되도록 여론을 조종할 준비를 하라.</li>
-      </ul>
-    </div>
-  </details>
+  <section class="content-section">
+    <div class="section-title">목표 - 엘드리치</div>
+    <ul class="goal-list">
+      <li><strong>기만 공작</strong>: 오늘 18시의 죽음은 부활을 위한 계획된 절차다. 순간적인 마력 방출로 살인 트랩을 작동시킴과 동시에 영혼을 육체에서 이탈시킨다. 부활의 제물로 삼기에 적합한 강력한 멤버를 파악하고, 그가 범인으로 몰리도록 노력하라.</li>
+    </ul>
+    <p class="guide-text">※ 안내: 사망 이후 다른 플레이어들에게는, 당신이 탐정 역할을 하는 것처럼 보이게 될 것입니다.</p>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 엘드리치
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>마신 부활</strong>: <span class="character-bastards">바스타즈</span> 멤버 중 한 명을 범인으로 몰아 처형되도록 유도하라. 누구의 육체든 그릇이 될 수 있지만, 마신의 완전한 힘을 되찾으려면 <span class="emphasis">가장 강한 자</span>를 매개체로 삼아야 한다. 대상을 정했다면 그의 전투력을 높여주고 집요하게 약점을 파고들어 범인으로 몰아라. 그가 처형되는 순간, 당신은 그의 육체를 차지해 마신 <span class="mystery">다크 시리어스</span>로 완벽히 부활할 것이다.</li>
-      </ul>
-    </div>
-  </details>
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 엘드리치</div>
+    <ul class="goal-list">
+      <li><strong>마신 부활</strong>: <span class="character-bastards">바스타즈</span> 멤버 중 한 명을 범인으로 몰아 처형되도록 유도하라. 누구의 육체든 그릇이 될 수 있지만, 마신의 완전한 힘을 되찾으려면 <span class="emphasis">가장 강한 자</span>를 매개체로 삼아야 한다. 대상을 정했다면 그의 전투력을 높여주고 집요하게 약점을 파고들어 범인으로 몰아라. 그가 처형되는 순간, 당신은 그의 육체를 차지해 마신 <span class="mystery">다크 시리어스</span>로 완벽히 부활할 것이다.</li>
+    </ul>
+  </section>
 </div>

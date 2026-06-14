@@ -52,11 +52,6 @@
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
 
-    <div class="role-notice true-culprit">
-      <div class="role-label">[ 본인 확인 ]</div>
-      <div class="role-text">당신은 <span class="is-culprit">진범입니다</span>.</div>
-    </div>
-
     <p>
       <span class="emphasis">신들의 전쟁</span>이 끝나고 마신 <span class="mystery">다크 시리어스</span>가 봉인된 후, <span class="character-solite">솔라이트</span>가 질서를 재편해 가던 시기. 
       당신은 <span class="character-solite">솔라이트</span> 본성계에서 태어났다. 탁월한 마법 재능으로 <span class="character-solite">솔라이트</span> 마법사 집단 <span class="emphasis">골든 서클</span>에 입단했다. 
@@ -197,54 +192,35 @@
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 말리스
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>암살 설계의 은폐</strong>: 방어용 트랩이라 속여 <span class="character-balrog">발로그</span>에게 설치하게 한 살인 장치가 발각되지 않도록 알리바이를 철저히 관리하라. 모든 혐의와 의심이 당신을 향하지 않도록 주의해야 한다.</li>
-        <li><strong>치명적 약점의 회수</strong>: <span class="character-eldritch">엘드리치</span>가 협박 쪽지에서 언급한 <span class="emphasis">마력석</span>을 최우선으로 찾아내 확보하라.</li>
-      </ul>
-    </div>
-  </details>
+  <section class="content-section">
+    <div class="section-title">목표 - 말리스</div>
+    <ul class="goal-list">
+      <li><strong>암살 설계의 은폐</strong>: 방어용 트랩이라 속여 <span class="character-balrog">발로그</span>에게 설치하게 한 살인 장치가 발각되지 않도록 알리바이를 철저히 관리하라. 모든 혐의와 의심이 당신을 향하지 않도록 주의해야 한다.</li>
+      <li><strong>치명적 약점의 회수</strong>: <span class="character-eldritch">엘드리치</span>가 협박 쪽지에서 언급한 <span class="emphasis">마력석</span>을 최우선으로 찾아내 확보하라.</li>
+    </ul>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 말리스
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>범인 지목 회피</strong>: <span class="character-eldritch">엘드리치</span> 사망 후 수사망이 좁혀온다면, 모든 계획을 <span class="character-balrog">발로그</span>가 단독으로 처리한 것으로 몰거나 흉기 소유자에게 혐의를 뒤집어씌워라. 결코 범인으로 지목되서는 안된다.</li>
-      </ul>
-    </div>
-  </details>
-  <details>
-    <summary>
-      추가 정보 - 말리스
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p class="guide-text">
-        조사 2단계가 시작되며 다음 사실을 깨닫습니다.
-      </p>
-      <ul class="goal-list">
-        <li><strong>사라진 마력석</strong>: 남몰래 죽은 <span class="character-eldritch">엘드리치</span>의 소지품과 서재 안을 샅샅이 확인했으나 <span class="emphasis">마력석</span>은 어디에도 없었다. 누군가 성 내부를 수색하던 중 먼저 발견하여 빼돌린 것이 아닌지 강하게 의심된다.</li>
-      </ul>
-    </div>
-  </details>
+  <div class="role-notice true-culprit">
+    <div class="role-label">[ 본인 확인 ]</div>
+    <div class="role-text">당신은 <span class="is-culprit">진범입니다</span>.</div>
+  </div>
+
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 말리스</div>
+    <ul class="goal-list">
+      <li><strong>범인 지목 회피</strong>: <span class="character-eldritch">엘드리치</span> 사망 후 수사망이 좁혀온다면, 모든 계획을 <span class="character-balrog">발로그</span>가 단독으로 처리한 것으로 몰거나 흉기 소유자에게 혐의를 뒤집어씌워라. 결코 범인으로 지목되서는 안된다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">추가 정보 - 말리스</div>
+    <p class="guide-text">
+      조사 2단계가 시작되며 다음 사실을 깨닫습니다.
+    </p>
+    <ul class="goal-list">
+      <li><strong>사라진 마력석</strong>: 남몰래 죽은 <span class="character-eldritch">엘드리치</span>의 소지품과 서재 안을 샅샅이 확인했으나 <span class="emphasis">마력석</span>은 어디에도 없었다. 누군가 성 내부를 수색하던 중 먼저 발견하여 빼돌린 것이 아닌지 강하게 의심된다.</li>
+    </ul>
+  </section>
 </div>

@@ -183,55 +183,31 @@
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 발로그
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표 - 발로그</div>
+<ul class="goal-list">
         <li><strong>암살 의도 부인</strong>: <span class="character-malice">말리스</span>가 둘러댄 '방어용 부비트랩'이라는 명분을 방패 삼아 암살 의도를 철저히 부인하라. 해당 트랩을 설치한 주체가 당신으로 지목되지 않도록 알리바이를 관리하는 것이 최우선이다.</li>
         <li><strong>과거 기록에 대한 대비</strong>: 성채 내부에 30년 전 마신 군단과의 전쟁 기록이나 잔재가 아직 남아있을지도 모른다. 만약 누군가 그 단서를 발견하여 당신이 마신 군단의 탈영병이었다는 치명적인 과거를 추궁해 온다면, 어떻게 부인하고 상황을 무마할지 미리 대응책을 준비하라.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 발로그
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 발로그</div>
+<ul class="goal-list">
         <li><strong>범인 지목 회피</strong>: 살인 도구의 주인을 찾아내 그에게 혐의를 덮어씌우거나, <span class="character-malice">말리스</span>의 강압에 의해 도구로 이용되었을 뿐인 피해자임을 호소하라. 결코 범인으로 지목되서는 안된다.</li>
       </ul>
-    </div>
-  </details>
-  <details>
-    <summary>
-      추가 정보 - 발로그
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p class="guide-text">
+  </section>
+  <section class="content-section">
+    <div class="section-title">추가 정보 - 발로그</div>
+<p class="guide-text">
         아래는 <span class="emphasis">연회장</span>에서 <span class="emphasis">서재</span>로 이동한 뒤 발생한 상황입니다. 이 시간대의 타임라인은 당신만 가지고 있습니다.
       </p>
       <ul class="goal-list">
         <li><strong>18:10</strong>: <span class="character-skullcrusher">스컬크러셔</span>의 지시에 따라 <span class="character-eldritch">엘드리치</span>를 데리러 <span class="emphasis">서재</span>로 이동함.</li>
         <li><strong>18:15</strong>: <span class="emphasis">서재</span>에 도착하여 <span class="character-eldritch">엘드리치</span>가 사망해 있는 것을 발견. 자신의 트랩에 쓰인 <span class="emphasis">단검</span>이 정수리에 꽂혀 있는 것을 보고 소스라치게 놀람. 급히 <span class="emphasis">문서고</span>로 이동하여, <span class="emphasis">단검</span>을 원래 있던 선반 구석에 돌려두고 <span class="emphasis">연회장</span>으로 복귀.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>

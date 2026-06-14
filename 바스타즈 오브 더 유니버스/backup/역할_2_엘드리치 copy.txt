@@ -220,36 +220,20 @@
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 엘드리치
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표 - 엘드리치</div>
+<ul class="goal-list">
         <li><strong>기만 공작</strong>: 당신은 오늘 오후 18시에 죽을 예정이지만, 이는 부활을 위한 계획된 절차다. 봉인에 저항하는 것을 포기하고, 그 마력을 순간적으로 외부로 방출하여 살인 트랩을 작동시킬 것이다. 동시에 그 마력 방출은 당신의 영혼을 육체에서 이탈시키는 핵심 과정으로 작용한다. 육신이 죽는 즉시 당신은 영혼 상태로 전환되어 <span class="highlight">탐정</span> 역할을 맡게 될 것이다. 당신이 선택한 <span class="emphasis">가장 강한 자</span>가 처형대로 향하도록 여론을 교묘히 조종할 준비를 시작하라.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 엘드리치
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 엘드리치</div>
+<ul class="goal-list">
         <li><strong>부활 의식 완수</strong>: <span class="character-bastards">바스타즈</span> 멤버 중 한 명이 범인으로 몰려 처형되도록 배후에서 유도하라. 그들은 모두 전 우주에서 손꼽히는 강자들이기에 누구의 육체라도 당신의 그릇이 될 수 있지만, 마신으로서 완전한 힘을 되찾기 위해서는 <span class="emphasis">가장 강한 자</span>를 매개체로 삼아야 한다. 목표를 정했다면, 그 자의 전투력을 높여 주기 위해 노력하라. 당신의 정체가 탄로 나지 않으면서도, 가장 확실하게 범인으로 몰 수 있는 대상을 선택하여 집요하게 파고들어라. 그가 처형되는 순간, 당신은 그의 육체를 차지하여 마신 <span class="mystery">다크 시리어스</span>로서 부활하게 될 것이다.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>

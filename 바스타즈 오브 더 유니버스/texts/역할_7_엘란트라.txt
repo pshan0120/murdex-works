@@ -52,11 +52,6 @@
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
 
-    <div class="role-notice innocent">
-      <div class="role-label">[ 본인 확인 ]</div>
-      <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
-    </div>
-
     <p>
       과거 당신은 <span class="character-solite">솔라이트</span>의 질서에 매료되어 비밀 조직 <span class="emphasis">화이트클로</span>에 자원, <span class="emphasis">26호</span>라는 코드명을 받았다. 10년 전쟁 초반 속물적인 <span class="emphasis">용병대장</span>으로 위장해 <span class="character-bastards">바스타즈</span>에 합류한 뒤, 은밀히 정보를 빼돌려 연합을 연전연패하게 만들었다.
     </p>
@@ -147,8 +142,8 @@
   <p class="guide-text">※ 비밀의 노출여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
   <ul>
     <li><strong>요원 26호</strong>: 당신은 과거 <span class="character-solite">솔라이트</span>의 비밀 조직인 <span class="emphasis">화이트클로</span> 소속의 요원 <span class="emphasis">26호</span>였다. 용병대장으로 위장해 <span class="character-bastards">바스타즈</span>의 기밀 정보를 유출해왔으나, 결국 조직에게 소모품처럼 이용당하고 버려졌다.</li>
-    <li><strong>비극의 실체</strong>: 조직의 함정에 빠져 유도한 좌표에서 매복을 당했을 때, <span class="character-gorehoof">고어후프</span>가 당신을 구하기 위해 자신의 동료들을 희생했다. 자신이 유출한 정보가 초래한 결과로 참혹한 전멸이 발생했다는 사실에, 그에게 지울 수 없는 부채감을 느끼고 있다.</li>
-    <li><strong>기록의 공포</strong>: <span class="character-eldritch">엘드리치</span>의 쪽지에 언급된 과거의 보고서와 지령서들은, 요원 시절 임무 직후 직접 철저히 소각하여 파기했던 기록들이다. 흔적조차 남지 않았어야 할 그 기록들이 어떤 경로로 그의 손에 들어갔는지 의문을 품고 있다.</li>
+    <li><strong>참극의 원흉</strong>: 조직의 함정에 빠져 유도한 좌표에서 매복을 당했을 때, <span class="character-gorehoof">고어후프</span>가 당신을 구하기 위해 자신의 동료들을 희생했다. 자신이 유출한 정보가 초래한 결과로 참혹한 전멸이 발생했다는 사실에, 그에게 지울 수 없는 부채감을 느끼고 있다.</li>
+    <li><strong>스파이 기록</strong>: <span class="character-eldritch">엘드리치</span>의 쪽지에 언급된 과거의 보고서와 지령서들은, 요원 시절 임무 직후 직접 철저히 소각하여 파기했던 기록들이다. 흔적조차 남지 않았어야 할 그 기록들이 어떤 경로로 그의 손에 들어갔는지 의문을 품고 있다.</li>
   </ul>
 </div>
 
@@ -156,54 +151,35 @@
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 엘란트라
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>협박 대응</strong>: 현자 <span class="character-eldritch">엘드리치</span>에게도 숨기고 있는 비밀이 있을 것이다. 그것을 찾아내 입을 막아라. 만약 방법을 찾을 수 없다면, 제거하는 방안도 고려해야 한다.</li>
-        <li><strong>과거 기록에 대한 대비</strong>: 성채 내부에 과거 <span class="character-solite">솔라이트</span> 스파이로 활동했던 기록이나 보고서가 남아있을 수 있다. 누군가 단서를 찾아내 과거를 추궁할 상황에 대비해 의심을 무마할 대응책을 준비하라.</li>
-      </ul>
-    </div>
-  </details>
-  <details>
-    <summary>
-      추가 정보 - 엘란트라
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p class="guide-text">
-        조사가 시작되면서, 승전 소집 당시의 상황을 떠올린다.
-      </p>
-      <ul class="goal-list">
-        <li><strong>17:00 소집 당시의 기억</strong>: 수색 도중 소집 명령을 받고 왕좌의 방에 모였을 때, <span class="character-slither">슬리더</span>의 오른쪽에 서 있었다. 그 순간 평소와 달리 <span class="character-slither">슬리더</span>가 마치 품 안에 <span class="emphasis">무언가를 숨기고 있는 것</span>처럼 조심스럽게 행동하는 것을 포착했다. 당시에는 경황이 없어 무심코 넘겼으나, 지금 생각해보니 무척 이상한 일이었다.</li>
-      </ul>
-    </div>
-  </details>
+  <section class="content-section">
+    <div class="section-title">목표 - 엘란트라</div>
+    <ul class="goal-list">
+      <li><strong>협박 대응</strong>: 현자 <span class="character-eldritch">엘드리치</span>에게도 숨기고 있는 비밀이 있을 것이다. 그것을 찾아내 입을 막아라. 만약 방법을 찾을 수 없다면, 제거하는 방안도 고려해야 한다.</li>
+      <li><strong>과거 기록에 대한 대비</strong>: 성채 내부에 과거 <span class="character-solite">솔라이트</span> 스파이로 활동했던 기록이나 보고서가 남아있을 수 있다. 누군가 단서를 찾아내 과거를 추궁할 상황에 대비해 의심을 무마할 대응책을 준비하라.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">추가 정보 - 엘란트라</div>
+    <p class="guide-text">
+      조사가 시작되면서, 승전 소집 당시의 상황을 떠올린다.
+    </p>
+    <ul class="goal-list">
+      <li><strong>17:00 소집 당시의 기억</strong>: 수색 도중 소집 명령을 받고 왕좌의 방에 모였을 때, <span class="character-slither">슬리더</span>의 오른쪽에 서 있었다. 그 순간 평소와 달리 <span class="character-slither">슬리더</span>가 마치 품 안에 <span class="emphasis">무언가를 숨기고 있는 것</span>처럼 조심스럽게 행동하는 것을 포착했다. 당시에는 경황이 없어 무심코 넘겼으나, 지금 생각해보니 무척 이상한 일이었다.</li>
+    </ul>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 엘란트라
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
-        <li><strong>범인 검거</strong>: 협박하던 <span class="character-eldritch">엘드리치</span>가 살해당했으나 긴장을 늦춰서는 안 된다. 누군가 당신의 과거를 약점 삼아 살해범으로 몰아세울 수 있다. 진범을 밝혀내어 자신에게 향하는 의심을 피해라.</li>
-      </ul>
-    </div>
-  </details>
+  <div class="role-notice innocent">
+    <div class="role-label">[ 본인 확인 ]</div>
+    <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+  </div>
+
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 엘란트라</div>
+    <ul class="goal-list">
+      <li><strong>범인 검거</strong>: 협박하던 <span class="character-eldritch">엘드리치</span>가 살해당했으나 긴장을 늦춰서는 안 된다. 누군가 당신의 과거를 약점 삼아 살해범으로 몰아세울 수 있다. 진범을 밝혀내어 자신에게 향하는 의심을 피해라.</li>
+    </ul>
+  </section>
 </div>

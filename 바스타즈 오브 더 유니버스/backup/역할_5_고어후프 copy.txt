@@ -189,54 +189,30 @@
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 고어후프
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표 - 고어후프</div>
+<ul class="goal-list">
         <li><strong>협박 대응</strong>: <span class="character-eldritch">엘드리치</span>의 협박이 단순히 말뿐인지, 아니면 당신의 명예를 완전히 무너뜨릴 실질적인 무언가를 쥐고 있는 것인지 파악하라. 그것이 무엇이든 당신의 과거 실수를 수면 위로 끌어올릴 만한 것이라면 선제적으로 대처해야 한다.</li>
         <li><strong>폭주 흔적에 대한 대비</strong>: <span class="emphasis">식당</span>에서 극도로 이성을 잃고 짐승처럼 폭식했던 흔적들을 누군가 발견할지도 모른다. 만약 동료들이 그 참혹한 흔적을 보고 당신이 통제 불능의 괴물로 변한다는 사실을 의심한다면, 어떻게 핑계를 대고 빠져나갈지 미리 변명거리를 준비하라.</li>
       </ul>
-    </div>
-  </details>
-  <details>
-    <summary>
-      추가 정보 - 고어후프
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p class="guide-text">
+  </section>
+  <section class="content-section">
+    <div class="section-title">추가 정보 - 고어후프</div>
+<p class="guide-text">
         조사가 시작되면서, 문득 아까 승전 소집 때의 상황이 머릿속에 다시 떠오른다.
       </p>
       <ul class="goal-list">
         <li><strong>17:00 소집 당시의 기억</strong>: 수색 도중 소집 명령을 받고 왕좌의 방에 모였을 때, <span class="character-slither">슬리더</span>의 왼쪽에 서 있었다. 그 순간 수인종인 당신의 예민한 감각은 그의 부자연스러운 상태를 감지했다. 원래 그는 파충류답게 늘 차갑고 서늘한 기운을 풍겼는데, 당시 묘하게 훈훈한 <span class="emphasis">온기</span>가 느껴졌다. 당시에는 경황이 없어 무심코 넘겼으나, 지금 생각해보니 무척 이상한 일이었다.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 고어후프
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 고어후프</div>
+<ul class="goal-list">
         <li><strong>범인 검거</strong>: <span class="character-eldritch">엘드리치</span>를 죽인 범인을 찾기 위해 협력하되, 조사의 방향이 당신의 과거 행적이나 제어할 수 없는 신체적 부작용으로 향하지 않도록 유도하라.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>

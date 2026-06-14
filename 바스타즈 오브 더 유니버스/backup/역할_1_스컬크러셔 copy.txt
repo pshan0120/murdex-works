@@ -279,54 +279,30 @@
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 스컬크러셔
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표 - 스컬크러셔</div>
+<ul class="goal-list">
         <li><strong>마지막 목격자 색출</strong>: <span class="character-goldenking">골든 킹</span>의 마지막 외침을 엿들었을 뿐만 아니라, 당신이 입막음을 위해 또 다른 현장 목격자를 살해하는 장면까지 모두 지켜보고 달아난 자가 누구인지 반드시 찾아내라.</li>
         <li><strong>과거 정체에 대한 대비</strong>: 성채 어딘가에 당신이 과거 <span class="character-solite">솔라이트</span>의 성기사 <span class="character-solite">류크</span>였다는 치명적인 기록이나 흔적이 남아있을지도 모른다. 만약 누군가 이를 발견하여 추궁해 온다면, 어떻게 의심을 피해 상황을 무마할지 완벽한 알리바이를 준비하라.</li>
       </ul>
-    </div>
-  </details>
-  <details>
-    <summary>
-      추가 정보 - 스컬크러셔
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p class="guide-text">
+  </section>
+  <section class="content-section">
+    <div class="section-title">추가 정보 - 스컬크러셔</div>
+<p class="guide-text">
         조사가 시작되면서, 수색 당시 겪었던 기묘한 현상을 떠올린다.
       </p>
       <ul class="goal-list">
         <li><strong>16:20경 복도에서의 목격</strong>: <span class="emphasis">연구실</span>로 들어가던 <span class="character-elantra">엘란트라</span>의 뒷모습을 어둠 속에서 지켜보던 중, 복도 반대편에서 일순간 공기가 기묘하게 일렁이며 빛이 굴절되는 현상을 목격했다.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 스컬크러셔
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 스컬크러셔</div>
+<ul class="goal-list">
         <li><strong>범인 검거</strong>: 당신의 스승이자 유일한 이해자였던 <span class="character-eldritch">엘드리치</span>가 살해당했다. 반드시 범인을 찾아내어 스승의 원수를 갚아라.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>

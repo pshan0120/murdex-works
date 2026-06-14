@@ -184,54 +184,30 @@
 
 [시작 단계 ~ 조사 1단계]
 <div class="story-content">
-  <details>
-    <summary>
-      목표 - 슬리더
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표 - 슬리더</div>
+<ul class="goal-list">
         <li><strong>협박 대응</strong>: 과거 완벽히 처리했다 믿었던 암살 대상 중 누가 살아남아 성 안에 있는지 정체를 밝혀라. 또한 협박하는 <span class="character-eldritch">엘드리치</span>의 입을 막기 위해 약점을 찾아 반대로 협박하라.</li>
         <li><strong>사라진 흉기의 추적</strong>: <span class="emphasis">문서고</span> 선반 구석에 두었던 <span class="emphasis">어둠의 단검</span>이 사라졌다. 누가 왜 가져갔고 어디 있는지 파악하라. 단검이 발견되어 추궁받을 상황에 대비해 완벽한 알리바이를 준비하라.</li>
       </ul>
-    </div>
-  </details>
-  <details>
-    <summary>
-      추가 정보 - 슬리더
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <p class="guide-text">
+  </section>
+  <section class="content-section">
+    <div class="section-title">추가 정보 - 슬리더</div>
+<p class="guide-text">
         조사가 시작되면서, 지하 창고 내부에서 겪었던 일을 떠올린다.
       </p>
       <ul class="goal-list">
         <li><strong>16:30경 굳게 잠긴 문밖의 기척</strong>: <span class="emphasis">지하 창고</span> 내부에서 <span class="emphasis">마력석</span>을 찾고 있던 중, 굳게 잠긴 문밖에서 발소리와 함께 무언가 막대 같은 것으로 바닥을 짚는 듯한 소리가 다가와 잠시 머무는 것을 들었다. 이내 문틈 사이로 종이 같은 것이 끼워지는 마찰음이 들렸고, 바닥을 짚는 그 소리는 다시 멀어졌다.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>
 
 [조사 2단계 이후]
 <div class="story-content">
-  <details>
-    <summary>
-      목표(엘드리치 사후) - 슬리더
-      <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <ul class="goal-list">
+  <section class="content-section">
+    <div class="section-title">목표(엘드리치 사후) - 슬리더</div>
+<ul class="goal-list">
         <li><strong>범인 검거</strong>: 당신의 무기를 훔쳐 <span class="character-eldritch">엘드리치</span>를 살해하고 죄를 뒤집어씌우려 한 진범을 찾아내라. 진범의 정체를 밝히는 것만이 당신의 결백을 입증할 유일한 길이다.</li>
       </ul>
-    </div>
-  </details>
+  </section>
 </div>
