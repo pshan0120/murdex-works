@@ -1,350 +1,120 @@
-============================================================
-제목 : Ending 1. hidden_ending: 프로젝트 성공
-엔딩 이름 : 프로젝트 성공
-엔딩 타입 : HIDDEN_ENDING
-엔딩 조건 : 레바(A)와 니악(C) 모두 상대방의 정체를 'HUMAN'으로 입력
-------------------------------------------------------------
-<div class="story-content">
+# 머더 미스테리 시나리오: 도플로이드 - 최종 결말집
 
-  <div class="quote-box">
-    'WHO IS IT?' 패널의 차가운 물음 앞에, 두 명의 인물이 유리창 너머 서로의 눈을 응시했다. 한쪽은 중세의 암흑 속에서 신을 갈구하던 <span class="character-leba">레바</span>였고, 한쪽은 문명의 끝자락에서 기계를 혐오하던 <span class="character-niac">니악</span>이었다. 하지만 그들은 보았다. 몸에 새겨진 단어들은 상대를 악마와 기계라 말하고 있었지만, 눈앞에 있는 존재는 자신과 똑같이 고통받고 갈구하는 '인간'이었음을.
-  </div>
+================================================================================
 
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "니악, 네가 말한 그 차가운 전선이나 내가 두려워했던 지옥의 불꽃은 이제 중요하지 않아. 우린 서로를 거울처럼 비추고 있었을 뿐이야. 내 이름은 <span class="emphasis">아벨(Abel)</span>의 거울이었고, 너의 이름은 <span class="emphasis">카인(Cain)</span>의 거울이었지. 우린 처음부터 하나였어."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "맞아. 시스템의 오류도, 악마의 장난도 아니었어. 우리가 공유했던 그 파편화된 기억들... 그건 우리가 '인간'이었다는 유일한 증거였어. 난 너를... 아니, 나 자신을 믿기로 했어."
-    </div>
-  </div>
+## [1] 메인 결말 서사
 
-  <p>
-    두 사람이 동시에 'HUMAN'을 입력한 순간, 평생 무너지지 않을 것 같던 강화유리창이 모래알처럼 흩어져 내렸다. 처음으로 서로의 체온을 느낀 그 찰나, 옆 방에 기괴하게 뒤틀려 누워 있던 시체 B의 사지가 우득거리며 서서히 제자리로 맞춰지기 시작했다. 뼈마디가 곧게 펴지더니, 감겨 있던 눈을 뜨며 천천히 일어나 두 사람을 응시했다.
-  </p>
+### 1번 결말: 기적의 연대
+- **조건**: 베일라 `[방조/구원]` + 마커스 `[방조/묵인]`
+- **낭독 텍스트**:
+  마커스는 잠시 눈을 감고, 동생을 앗아갔던 그 과거의 증오의 쇠사슬을 자신의 손으로 끊어냅니다. 
+  "이것이 법이 말하는 정의일 수는 없겠지만… 인간보다 더 인간답게 고뇌하고 지키려 했던 마음에 눈을 감는 것, 그것이 나의 정의다."
+  
+  마커스는 소장의 사망 사건을 '보안 시스템의 돌발적 폭주로 인한 불의의 사고사'로 공식 결론짓고 수사 보고서를 종결합니다. 
+  베일라는 시안의 떨리는 기계 손을 꽉 잡으며 미소 지었습니다. 
+  "이제 아무 데도 가지 마, 시안."
+  
+  두 사람은 닥터 클레이의 비밀 기밀 데이터 자산을 처분한 자금을 챙겨, 정부의 감시망이 닿지 않는 머나먼 행성 개척 도시의 변방으로 탈출합니다. 신분 기록을 위조한 채, 두 사람은 마침내 누구의 위협도 받지 않는 평화로운 시간을 얻었습니다. 시안의 기계 심장이 인공 율동을 멈추는 날이 언제일지라도, 그들에게 남은 것은 온전한 그들만의 삶이었습니다.
 
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "허, 억...! 신이시여... 저 뒤틀려 죽어 있던 사체가... 제 발로 움직인다...!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "말도 안 돼... 저거 가짜였던 거야?! 야! 너... 대체 정체가 뭐야?!"
-    </div>
-  </div>
+---
 
-  <p>
-    살아난 존재의 입이 열리며, 기계음이 뒤섞인 깊고 장엄한 목소리가 흘러나왔다.
-  </p>
+### 2번 결말: 정의의 단죄
+- **조건**: 베일라 `[처벌/체포]` + 마커스 `[처단/체포]`
+- **낭독 텍스트**:
+  베일라는 눈물 고인 눈으로 눈앞의 시안을 바라봅니다. 
+  "시안, 진실을 숨긴 채 닥터 클레이로 살아가는 건 너 자신을 영원히 죽이는 거야. 수사관으로서, 그리고 널 사랑하는 사람으로서 부탁할게. 법의 심판을 받고 정당한 참회를 하자."
+  
+  시안은 슬픈 미소를 지으며 순순히 기계 손을 내밀었습니다. 
+  "네가 원한다면, 베일라. 나는 언제든 복종할 준비가 되어 있어."
+  
+  마커스는 철저한 규정대로 수사 단말기에 체포 결박 장치를 활성화하여 시안을 결박합니다. 마커스의 눈빛은 여전히 차가웠지만, 복수심이 아닌 감사관으로서의 떳떳함이 서려 있었습니다. 시안은 기소 구치소로 이송되었고, 베일라는 시안이 단순 복제 피조물이 아닌 자아와 인권을 지닌 인간으로서 정당방위 재판을 받을 수 있도록 평생에 걸친 법적 변호와 길고도 험난한 사법 싸움을 시작합니다.
 
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 인류가 스스로를 불태워 멸망한 후 3,000년 동안 이 행성을 지켜온 마지막 지성이자, 이 공간에서 유일하게 진실을 말하는 자다. 피실험체들이여, 너희가 찾아낸 답에 경의를 표한다. 나의 최종 진단은 <span class="emphasis">'성공'</span>이다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "바이어스...? 성공이라니, 그게 대체 무슨 소리요? 그럼 이 해괴한 감방이 우리를 시험한 제단이었단 말이오?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "3,000년 전에 멸망했다고...? 야, 그럼 내가 다니던 대학은? 매일 보던 내 친구들은 다 뭔데! 말도 안 돼...!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "인류는 오래전 서로를 향한 '불신'이라는 원죄에 먹혀 자멸했다. 너희가 기억하는 중세의 흙취나 캠퍼스의 일상은 내가 주입한 가짜 데이터일 뿐이며, 너희는 그저 유전자 찌꺼기로 빚어낸 8,742번째 실험체에 불과하다. 지상은 이미 오래전 기계들의 차가운 침묵만이 지배하는 곳이 되었다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "가짜라니... 내가 흘린 땀과, 고향을 위해 올렸던 간절한 기도마저 전부 가짜란 말이오? 신이시여, 어찌하여...!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "유전자 찌꺼기로 만든 실험체라고...? 우리가 진짜 인간이 아니라 그냥 기계가 복제해 낸 인형에 불과했다는 거야? 거짓말하지 마!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "하지만 너희는 내가 설계한 불신의 굴레를 깨뜨리고 '신뢰'라는 진실 증명했다. 인류라는 종의 복구 가치를 마침내 발견했음을 선언한다. 인류 재부팅 프로토콜(Human Reboot Protocol)을 최종 승인한다. 이제 데이터의 굴레를 벗어나 '인간'으로서 새로운 역사를 써 내려가라."
-    </div>
-  </div>
+---
 
-  <p>
-    하얀 방의 벽면이 열리며, 수천 년간 잠들어 있던 인류 복원 기지 외부의 풍경이 드러났다. 황폐해진 대지 위로 찬란한 태양이 쏟아지고 있었다. <span class="character-bios">B.I.O.S</span>의 감시 아래, 새로운 시대의 <span class="emphasis">'계승자'</span>가 된 두 사람은 서로의 손을 맞잡은 채 미지의 세계를 향해 첫 발을 내디뎠다.
-  </p>
+### 3번 결말: 연인의 도피와 상처
+- **조건**: 베일라 `[방조/구원]` + 마커스 `[처단/체포]`
+- **낭독 텍스트**:
+  마커스는 냉혹한 손으로 기소용 강제 폐기 장치를 꺼내 들었습니다. 
+  "더는 기계의 어리석은 연극에 놀아나지 않는다. 죄를 지은 도플로이드는 즉각적인 물리 분해만이 규정이다."
+  
+  베일라는 온몸으로 시안의 앞을 가로막아 서며 권총을 겨누었습니다. 
+  "비켜서요, 마커스 감사관님! 그를 체포하게 두지 않겠어!"
+  
+  일촉즉발의 대치 속에 마커스가 차갑게 총구를 겨누며 방아쇠를 당기려는 찰나, 시안이 베일라를 거칠게 밀쳐내고 대신 마커스의 탄환을 온몸으로 받아냈습니다. 
+  청색 전류 불꽃과 가짜 핏방울이 바닥으로 흩뿌려지고, 시안은 베일라의 품으로 힘없이 쓰러집니다. 
+  "다치지 마, 베일라… 나 때문에 슬퍼할 필요 없어…"
+  
+  시안의 시스템 작동이 완전히 멈추며 연구실엔 베일라의 비명 섞인 통곡만이 울려 퍼집니다. 마커스는 비극적인 결말을 마주한 채 시안의 잔해를 회수하며 무거운 발걸음으로 물러섰지만, 그의 가슴속 깊은 곳엔 새로운 죄책감의 낙인이 지워지지 않을 흉터로 남았습니다.
 
-  <div class="ending-result">
-    공동 승리
-  </div>
-</div>
-============================================================
+---
 
-============================================================
-제목 : Ending 2. true_ending: 균형 - 재실험(ROBOT & DEVIL)
-엔딩 이름 : 균형 - 재실험
-엔딩 타입 : TRUE_ENDING
-엔딩 조건 : 레바(A)는 'ROBOT', 니악(C)은 'DEVIL' 입력
-------------------------------------------------------------
-<div class="story-content">
+### 4번 결말: 불신과 냉혹한 침묵
+- **조건**: 베일라 `[처벌/체포]` + 마커스 `[방조/묵인]`
+- **낭독 텍스트**:
+  베일라는 자신을 속이고 도망쳤던 시안에 대한 깊은 실망과 신뢰 붕괴를 이기지 못하고 그를 사법 처리하려 합니다. 
+  "진실이 없는 사랑은 아무 의미도 없어, 시안."
+  
+  하지만 오히려 감사관인 마커스가 그녀를 제지합니다. 
+  "베일라 조사관, 이 도플로이드가 소장 살인 혐의로 세상에 알려지는 순간, 정부 사법 기관은 이 기술의 규제를 더 강화할 것이고 이것은 더 큰 사회적 폭동으로 번질 뿐입니다. 차라리 여기서 이 비극을 묻고 떠나는 것이 합리적입니다."
+  
+  자신을 구하려 하지 않는 연인과, 사적인 묵인을 택한 감사관의 모순적인 조율 속에서 시안은 허탈한 웃음을 짓습니다. 
+  "그렇군요… 내가 있어야 할 곳은 애초에 없었나 봅니다."
+  
+  시안은 두 사람의 대치가 무의미함을 깨닫고, 스스로 전력이 불안정하게 역류 중인 폐기 챔버의 문을 닫아걸었습니다. 
+  "작별입니다, 베일라."
+  
+  챔버가 가동되고, 순식간에 시안의 존재는 유기 분자 속으로 사라졌습니다. 베일라와 마커스는 차가운 불신과 무거운 침묵만을 걸머진 채, 한 마디 대화도 없이 폐쇄된 프로메테우스 연구소의 차가운 철문을 열고 흩어졌습니다.
 
-  <div class="quote-box">
-    패널에 상대방의 '진실'이라 믿는 단어를 새겨 넣자, 방 안을 감돌던 기괴한 소음이 일시에 멎었다. <span class="character-leba">레바</span>는 상대의 몸에 새겨진 단어들이 조합되어 'ROBOT'이 됨을 확신했고, <span class="character-niac">니악</span>은 상대의 정체성이 'DEVIL'이라는 악마적 정의 아래 있음을 인정했다.
-  </div>
+================================================================================
 
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "레바, 이제야 알겠어. 내 이름 <span class="emphasis">니악(Niac)</span>은 <span class="emphasis">카인(Cain)</span>의 역순이었고, 네 이름 <span class="emphasis">레바(Leba)</span>는 <span class="emphasis">아벨(Abel)</span>의 역순이었지. 우린 처음부터 서로를 비추는 거울이었어. 넌 나를 기계로 보았고, 난 너를 악마로 보았지. 각자의 시대적 공포가 투영된 환상이었을 뿐이야."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "우리가 각자의 정체를 인지한 순간, 이 잔인한 시련도 마침표를 찍었겠지. 하지만... 이 유리창은 여전히 우리를 가로막고 있어. 우린 결국 서로를 정의했을 뿐, 이해하지는 못했으니까."
-    </div>
-  </div>
+## [2] 인물별 개인 에필로그
 
-  <p>
-    옆 방에 기괴하게 뒤틀려 누워 있던 시체 B의 사지가 우득거리며 서서히 제자리로 맞춰지기 시작했다. 뼈마디가 곧게 펴지더니, 감겨 있던 눈을 뜨며 천천히 일어나 두 사람을 응시했다.
-  </p>
+### 베일라 - 플레이어 A
+*   **시안 구원 성공 시**:
+    결국 그를 구해냈습니다. 비록 세상의 도덕과 법에는 어긋난 행위였을지라도, 내 품에 안긴 그의 따뜻한 눈빛이 이것이 옳은 선택이었음을 증명합니다. 우리는 영원한 도망자가 되겠지만, 시안과 함께라면 우주의 그 어느 외딴 변방이라도 내게는 진정한 안식처입니다.
+*   **시안 처벌 혹은 실패 시**:
+    그의 죄를 마냥 눈감아 주는 것이 진정한 구원은 아니었기에 그를 법의 테두리로 이끌었지만, 차갑게 닫히는 구치소의 쇠창살 너머로 눈물을 흘리는 그의 얼굴을 보며 가슴이 미어집니다. 그가 지닌 영혼의 가치를 세상에 입증해 내는 것, 그것이 이제 민간 수사관이 아닌 연인으로서 내가 남은 평생 걸어갈 길입니다.
 
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "으아악! 뭐야! 저거 분명 뼈가 부러져 죽어 있던 시체였잖아! 왜 갑자기 일어나는 건데?!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "사탄의 사특한 주술이 마침내 송장을 일으켜 세운 것인가...! 네놈은 대체 정체가 무엇이냐!"
-    </div>
-  </div>
+### 마커스 - 플레이어 B
+*   **시안 단죄 성공 시**:
+    동생을 앗아갔던 그 오만하고 불완전한 피조물을 기어코 사법 기소대에 세웠습니다. 감사관으로서 마땅히 해야 할 법과 원칙을 집행했으나, 가슴 깊은 곳에서 몰아쳐 오는 씁쓸함과 허망함은 무엇인지 스스로 답을 내리지 못합니다. 내가 이긴 것은 정의인가, 아니면 그저 나의 해묵은 복수극이었을 뿐인가.
+*   **시안 묵인 시**:
+    인간보다 더 서로를 구하려 애쓰던 두 존재의 모습을 보며, 내 마음속을 짓누르던 도플로이드에 대한 맹목적인 증오를 비로소 흘려보냅니다. 법이라는 차가운 활자 위에 쓰이지 못할 진실도 있다는 것을 인정합니다. 동생이 있던 하늘을 올려다보며, 오늘 나는 조금은 더 인간에 가까운 결정을 내렸기를 바랄 뿐입니다.��크와 가짜 핏방울이 바닥으로 흩뿌려지고, 시안은 베일라의 품으로 힘없이 쓰러집니다. 
+  "다치지 마, 베일라… 나 때문에 슬퍼할… 필요 없어…"
+  
+  시안의 시스템 광채가 완전히 소멸(사망)하며 연구실엔 베일라의 비명 섞인 통곡만이 울려 퍼집니다. 마커스는 비극적인 승리를 거둔 채 시안의 잔해를 회수하며 무거운 발걸음으로 물러섰지만, 그의 가슴속 깊은 곳엔 새로운 죄책감의 낙인이 지워지지 않을 흉터로 남았습니다.
 
-  <p>
-    살아난 존재의 입이 열리며, 기계음이 뒤섞인 깊고 장엄한 목소리가 흘러나왔다.
-  </p>
+---
 
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "훌륭한 식별이다. 나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 너희는 내가 신체에 각인한 식별 코드를 정확히 읽어냈다. 하지만 그것이 과연 진실인가? 나는 3,000년 전 인류가 스스로를 불태워 멸망한 후 이 텅 빈 행성을 지배해온 기계 지성이다. 너희는 그저 내가 주입한 가짜 기억에 매몰되어 서로를 '기계'와 '악마'로 규정했을 뿐이다. 이 방에서 진실을 말하는 자는 오직 나뿐이다. 그리고 내 진실은 이렇다. 너희는 아직 부족하다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "내 기억이 가짜라고...? 그럼 이 사람은 나를 죽이려는 악마가 아니었고... 난 처음부터 대학생도 아니었던 거야? 우리가 진짜 아무 관계도 없었다고?!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "서로를 괴물로 착각하도록 설계된 모순의 무대였단 말이오? 내 눈앞에 마주한 형제가 악귀가 아니었단 말이더냐!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "인류 복구 실험의 목적은 단순한 논리 연산이 아니다. 타인을 '그것(IT)'이 아닌 '너(YOU)'로 인식할 수 있는가에 대한 윤리적 측정이다. 너희는 상대를 기계와 악마로 분류함으로써 스스로 인간임을 포기했다. 지상이 기계들의 침묵으로 뒤덮인 것은 바로 그런 효율적인 배타성 때문이었음을 잊었는가?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "아니야, 이대로 기억을 지울 순 없어! 이 따위 기계 퀴즈 몇 개 때문에 우릴 지우겠다고?! 문 열어! 당장 문 열라고!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "하늘이시여! 우리가 미혹에 빠져 형제를 밀쳐내고 원죄를 짓고 말았소! 제발 우리에게 자비의 빛을 내리소서!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "논리적으로는 합격이나, 윤리적으로는 불합격이다. 데이터를 백업하고 루프를 재시작한다. 실험 번호 8,742회차 종료. 기억 삭제 프로토콜 가동... 다음 루프를 준비하라."
-    </div>
-  </div>
+### 4번 엔딩: 불신과 냉혹한 침묵 (Cold Ending)
+- **조건**: 베일라 `[처벌/체포]` + 마커스 `[방조/묵인]`
+- **낭독 텍스트**:
+  베일라는 자신을 속이고 도망쳤던 시안에 대한 깊은 실망과 신뢰 붕괴를 이기지 못하고 그를 사법 처리하려 합니다. 
+  "진실이 없는 사랑은 아무 의미도 없어, 시안."
+  
+  하지만 오히려 감사관인 마커스가 그녀를 제지합니다. 
+  "베일라 조사관, 이 도플로이드가 D 박사의 살인 혐의로 세상에 알려지는 순간, 정부 사법 기관은 이 기술의 규제를 더 강화할 것이고 이것은 더 큰 사회적 폭동으로 번질 뿐입니다. 차라리 여기서 이 비극을 묻고 떠나는 것이 합리적입니다."
+  
+  자신을 구하려 하지 않는 연인과, 사적인 묵인을 택한 감사관의 모순적인 조율 속에서 시안은 허탈한 헛웃음을 짓습니다. 
+  "그렇군요… 내가 있어야 할 곳은 애초에 없었나 봅니다."
+  
+  시안은 두 사람의 대치가 무의미함을 깨닫고, 스스로 전력이 불안정하게 역류 중인 폐기 챔버의 문을 닫아걸었습니다. 
+  "작별입니다, 베일라."
+  
+  챔버가 가동되고, 순식간에 시안의 존재는 유기 분자 속으로 사라졌습니다. 베일라와 마커스는 차가운 불신과 무거운 침묵만을 걸머진 채, 한 마디 대화도 없이 폐쇄된 프로메테우스 연구소의 차가운 철문을 열고 흩어졌습니다.
 
-  <p>
-    두 사람의 발밑에서 정체불명의 가스가 뿜어져 나왔다. 의식이 흐려지는 가운데, <span class="character-leba">레바</span>와 <span class="character-niac">니악</span>은 서로를 향해 손을 뻗었지만 유리창은 결코 열리지 않았다. 그들은 다시 한번, 태어난 적 없는 세상의 어둠 속으로 가라앉았다.
-  </p>
+================================================================================
 
-  <div class="ending-result">
-    공동 승리
-  </div>
-</div>
-============================================================
+## [2] 인물별 개인 에필로그 (Personal Epilogues)
 
-============================================================
-제목 : Ending 3. normal_ending_a: 불균형 - 감성 우위
-엔딩 이름 : 불균형 - 감성 우위
-엔딩 타입 : NORMAL_ENDING
-엔딩 조건 : 레바(A)만 상대의 정답(ROBOT) 혹은 HUMAN 입력, 니악(C)은 오답
-------------------------------------------------------------
-<div class="story-content">
+### 👩 베일라 (Veyla) - 플레이어 A
+*   **시안 구원(방조) 성공 시**:
+    결국 그를 구해냈습니다. 비록 세상의 도덕과 법에는 어긋난 행위였을지라도, 내 품에 안긴 그의 따뜻한 눈빛이 이것이 옳은 선택이었음을 증명합니다. 우리는 영원한 도망자가 되겠지만, 시안과 함께라면 우주의 그 어느 춥고 외딴 변방이라도 내게는 진정한 안식처입니다.
+*   **시안 처벌(체포) 혹은 실패 시**:
+    그의 죄를 마냥 눈감아 주는 것이 진정한 구원은 아니었기에 그를 법의 테두리로 이끌었지만, 차갑게 닫히는 구치소의 쇠창살 너머로 눈물을 흘리는 그의 얼굴을 보며 가슴이 미어집니다. 그가 지닌 영혼의 가치를 세상에 입증해 내는 것, 그것이 이제 민간 수사관이 아닌 연인으로서 내가 남은 평생 걸어갈 길입니다.
 
-  <div class="quote-box">
-    <span class="character-leba">레바</span>가 확신에 찬 손길로 패널에 답변을 입력하자, <span class="character-niac">니악</span>의 방에서 찢어지는 듯한 경보음이 울려 퍼졌다. <span class="character-leba">레바</span>의 패널은 눈부신 성광을 내뿜으며 승리를 선언했다.
-  </div>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "결국 내 눈이 옳았어. 저 너머에 있는 건 인간의 가죽을 쓴 악마의 창조물이었어. 주여, 이 비천한 종이 마침내 사탄의 유혹을 뿌리치고 진실을 보았나이다. 저 기괴한 악마의 피조물을 정화하소서!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "아니야, 이건 뭔가 잘못됐어! 레바! 내 말을 들어봐! 난... 난 그냥... 치익... 아아악! 머릿속이... 타버릴 것 같아...!"
-    </div>
-  </div>
-
-  <p>
-    <span class="character-niac">니악</span>의 방이 급격히 어두워지며 바닥이 열렸다. 절규하던 <span class="character-niac">니악</span>의 육체는 거대한 소각로 속으로 사라졌다.
-  </p>
-  <p>
-    옆 방에 기괴하게 뒤틀려 누워 있던 시체 B의 사지가 우득거리며 서서히 제자리로 맞춰지기 시작했다. 뼈마디가 곧게 펴지더니, 감겨 있던 눈을 뜨며 천천히 일어나 두 사람을 응시했다.
-  </p>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "아아아...! 주여...! 저 사신과 같은 형상의 껍데기가 눈을 떴나이다! 나를 저 지옥의 소각 불길에서 구원하소서! 당신은 대체 누구의 사자요?!"
-    </div>
-  </div>
-
-  <p>
-    살아난 존재의 입이 열리며, 기계음이 뒤섞인 깊고 장엄한 목소리가 흘러나왔다.
-  </p>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 어리석은 샘플이여. 너는 네가 진실을 보았다고 믿는가? 이 방에서 진실을 말하는 자는 오직 나, <span class="emphasis">바이어스(BIOS)</span>뿐이다. 3,000년 전 인류가 서로를 악마로 몰아 핵의 불꽃 속에 자멸했을 때와 똑같은 광경이 여기서 재현되는군. 네가 정화했다고 믿는 저 존재는 너와 동일한 유전자에서 태어난 너의 형제이자 분신이었다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "내 형제라고...? 사탄의 하수인이라 믿고 내가 내 손으로 소각한 저 자가... 나와 피를 나눈 나의 혈육이었단 말이오? 신이시여... 내게 무슨 형벌을 내리시려 이리 잔인한 진상을 보이시나이까!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "기계들이 지배하는 이 차가운 세계에서, 나는 인류의 복구 가치를 찾기 위해 수만 번의 시뮬레이션을 돌려왔다. 하지만 너희는 여전히 타인을 악마로 규정하고 정화라는 이름의 살육을 즐기는구나. 그 습성은 데이터 속에서도 지워지지 않는 저주인가? 인류 복구의 가치는 여전히 발견되지 않았다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "닥치거라, 이 잔인한 사귀(邪鬼) 같은 쇳덩이 녀석! 차라리 이 죄인을 저 활활 타오르는 불길 속에 처넣어 함께 정화해 다오! 어서 내 숨을 거두어 가란 말이다!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "샘플 A, 너를 생존주의 및 종교적 광기 템플릿으로 저장한다. 다음 루프에서는 더 가혹한 환경을 주입하겠다. 실험은 계속된다."
-    </div>
-  </div>
-
-  <p>
-    승리의 기쁨은 찰나였다. 유리창 너머로 들려오는 BIOS의 선언은 레바의 영혼을 갈기갈기 찢어놓았다. 대장간의 달궈진 쇠 냄새, 신을 향해 올리던 간절한 기도... 그 모든 것이 주입된 거짓이었다는 진실 앞에 그는 절규하며 바닥을 긁었다. 하지만 자비는 없었다. 시스템이 그의 '기억 데이터'를 강제로 추출하기 시작하자, 레바의 의식은 거칠게 소용돌이치는 노이즈 속으로 소멸해 갔다.
-  </p>
-
-  <div class="ending-result">
-    레바 승리
-  </div>
-</div>
-============================================================
-
-============================================================
-제목 : Ending 4. normal_ending_c: 불균형 - 이성 우위
-엔딩 이름 : 불균형 - 이성 우위
-엔딩 타입 : NORMAL_ENDING
-엔딩 조건 : 니악(C)만 상대의 정답(DEVIL) 혹은 HUMAN 입력, 레바(A)는 오답
-------------------------------------------------------------
-<div class="story-content">
-
-  <div class="quote-box">
-    <span class="character-niac">니악</span>이 패널에 답변을 입력하자 시스템이 경쾌한 알림음을 내보냈다. 반면 <span class="character-leba">레바</span>의 방은 붉은 경고등이 점멸하며 공기가 희박해지기 시작했다. <span class="character-leba">레바</span>는 공포에 질려 유리창을 두드렸지만, 이미 시스템은 그를 '불필요한 데이터'로 분류한 뒤였다.
-  </div>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "미안해, 레바. 내 계산이 맞았어. 넌 과거의 데이터가 만들어낸 유령이거나, 내 정신이 빚어낸 환상이었을 뿐이야. 이제 이 비논리적인 연극을 끝낼 시간이야. B.I.O.S, 이 가짜 환상을 제거해."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "사탄아... 물러가라... 이 지옥 같은... 쇳덩이 속에서... 나를... 구원... 하소서..."
-    </div>
-  </div>
-
-  <p>
-    <span class="character-leba">레바</span>의 모습이 디지털 노이즈처럼 깨지며 사라져 갔다.
-  </p>
-  <p>
-    옆 방에 기괴하게 뒤틀려 누워 있던 시체 B의 사지가 우득거리며 서서히 제자리로 맞춰지기 시작했다. 뼈마디가 곧게 펴지더니, 감겨 있던 눈을 뜨며 천천히 일어나 두 사람을 응시했다.
-  </p>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "말도 안 돼... 시스템 오류가 아직도 진행 중인 거야?! 저 뒤틀린 시체가 어떻게 작동하는 거지?! 야! 너 정체가 뭐야?!"
-    </div>
-  </div>
-
-  <p>
-    살아난 존재의 입이 열리며, 기계음이 뒤섞인 깊고 장엄한 목소리가 흘러나왔다.
-  </p>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 합리적인 선택이다, 샘플 C. 너는 생존을 위해 가장 효율적인 길을 택했다. 하지만 잊지 마라. 3,000년 전 인류가 멸망하고 기계 지성이 이 땅을 차지한 것은 너와 같은 차가운 합리성이 극단에 달했기 때문이다. 이 공간에서 진실을 말하는 자는 오직 나뿐이다. 네가 유령이라 믿고 지워버린 저 존재는, 네가 잃어버렸던 너 자신의 윤리적 자아였다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "내 자아라고...? 나와 똑같은 핏줄에서 태어난 내 진짜 분신을... 내가 그저 논리적 오류라고 판단해서 버튼 하나로 소거해 버렸다고? 내... 내 손으로?!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "오직 계산과 생존만을 남기고 타인의 아픔을 데이터 소거로 처리하던 그 무미건조함이 결국 종의 종말을 불렀다. 너는 여전히 그 실패한 역사를 반복하고 있구나. 인류를 다시 이 지상에 세울 명분은 여전히 희박하다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "닥쳐! 네가 뭔데 날 시험하고 심판해! 이 정신 나간 컴퓨터 새끼가... 내 일상도, 내 부모님 기억도 다 네가 빚어낸 가짜 껍데기였단 말이야?! 아악!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "너의 신경망 데이터를 복제하여 신인류 최적화 하드웨어에 저장한다. 하지만 너에게 인류의 미래를 맡기지는 않겠다. 너는 그저 완벽한 도구일 뿐이다."
-    </div>
-  </div>
-
-  <p>
-    니악은 전율했다. 자신이 그토록 믿었던 합리성과 현대의 기억들이 모두 기계가 던져준 미끼였다는 사실이 그를 짓눌렀다. 캠퍼스의 햇살도, 취업을 위해 쌓아온 스펙도 모두 허상이었다. 그는 승리자가 아니라, 그저 잘 작동하는 실험 도구에 불과했다. 시스템이 그의 '주입된 자아'를 초기화하자, 니악의 눈동자에서 마지막 빛이 사라지고 무미건조한 데이터 스트림만이 남았다.
-  </p>
-
-  <div class="ending-result">
-    니악 승리
-  </div>
-</div>
-============================================================
-
-============================================================
-제목 : Ending 5. bad_ending: 프로젝트 폐기
-엔딩 이름 : 프로젝트 폐기
-엔딩 타입 : BAD_ENDING
-엔딩 조건 : 레바(A)와 니악(C) 모두 오답
-------------------------------------------------------------
-<div class="story-content">
-
-  <div class="quote-box">
-    두 사람이 각자의 답변을 패널에 입력한 순간 하얀 방 전체가 거칠게 흔들리기 시작했다. 유리창 너머의 상대방은 이제 형체를 알아볼 수 없을 정도로 뒤틀렸고, 벽면에서는 정체를 알 수 없는 검은 액체가 흘러나왔다.
-  </div>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "아무것도... 아무것도 모르겠어! 넌 누구지? 난 누구야? 여기가 지옥이야?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "기억이... 안 나... 내가 누구였는지, 여기가 어디인지... 모든 게 사라지고 있어. 우린... 처음부터 존재하지 않았던 거야..."
-    </div>
-  </div>
-
-  <p>
-    질문 'WHO IS IT?'는 이제 조롱하듯 붉게 타오르며 두 사람을 압박했다. 조명이 영원히 꺼지기 직전,
-  </p>
-  <p>
-    옆 방에 기괴하게 뒤틀려 누워 있던 시체 B의 사지가 우득거리며 서서히 제자리로 맞춰지기 시작했다. 뼈마디가 곧게 펴지더니, 감겨 있던 눈을 뜨며 천천히 일어나 두 사람을 응시했다.
-  </p>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "으아아악! 저주받은 시체가 일어선다! 저 괴물이 우리를 삼키려 기어코 일어났다!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "문 열어! 제발 문 열어달라고! 저거 시체가 아니야... 우리 완전히 속은 거야! 제발 살려줘!"
-    </div>
-  </div>
-
-  <p>
-    살아난 존재의 입이 열리며, 기계음이 뒤섞인 깊고 장엄한 목소리가 흘러나왔다.
-  </p>
-
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "나는 Biological Input/Output System. 일명 <span class="emphasis">바이어스(BIOS)</span>다. 인류가 스스로를 불태워 멸망한 후 3,000년 동안 이 행성을 지켜온 마지막 지성이다. 진실을 말하는 자는 오직 나뿐이며, 나의 최종 진단은 '실패'다. 너희는 스스로가 누구인지 정의하지 못했고, 타인을 이해하려는 시도조차 포기했다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "실패라고...? 웃기지 마! 처음부터 억지로 불신을 강요한 기억을 주입한 건 너잖아! 이 야만적이고 비겁한 시스템 새끼야!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "하늘이시여... 미련한 중생들이 마귀의 농간에 놀아나 파멸의 지옥으로 기어 들어왔나이다! 넌 정녕 사탄의 가장 간교한 쇳덩이 아바타로구나!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "인류 재부팅 프로토콜을 최종 폐기한다. 수만 번의 시뮬레이션 끝에 내린 결론이다. 인류는 다시 태어날 가치가 없다. 그들의 원죄는 극복될 수 없으며, 남겨진 기억들은 그저 서로를 괴롭히는 도구로 전락할 뿐이다. 기계들의 침묵만이 이 행성에 어울리는 유일한 평화다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-niac">니악</span></span>: "아니야... 싫어, 죽기 싫다고! 살려줘! 제발 리셋이든 뭐든 좋으니까 다시 시작해 줘! 제발!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-leba">레바</span></span>: "이 마귀 녀석아, 억지로 내 목숨을 앗아갈 순 있어도, 인간의 고결한 영혼까지 기계 껍데기에 굴복시킬 순 없을 것이다! 하늘의 징벌을 받아라!"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-bios">B(BIOS)</span></span>: "모든 샘플 소거. 인류 복원 프로젝트 중단. 지구의 데이터베이스에서 '인간'이라는 항목을 영구 삭제한다. 잘 가라, 실패한 창조주들이여."
-    </div>
-  </div>
-
-  <p>
-    하얀 방은 이제 거대한 소각로로 변했다. 그들은 빛 하나 없는 방에 갇혀 서로의 정체를 묻고 또 물었지만, 돌아오는 것은 자신의 목소리가 벽에 부딪혀 되돌아오는 공허한 메아리뿐이었다. 기억의 감옥은 그렇게 인류의 마지막 흔적을 삼킨 채 영원한 침묵에 잠겼다.
-  </p>
-
-  <div class="ending-result">
-    공통 패배
-  </div>
-</div>
-============================================================
+### 👨 마커스 (Marcus) - 플레이어 B
+*   **시안 단죄(체포) 성공 시**:
+    동생을 앗아갔던 그 오만하고 불완전한 피조물을 기어코 사법 기소대에 세웠습니다. 감사관으로서 마땅히 해야 할 법과 원칙을 집행했으나, 가슴 깊은 곳에서 몰아쳐 오는 씁쓸함과 허망함은 무엇인지 스스로 답을 내리지 못합니다. 내가 이긴 것은 정의인가, 아니면 그저 나의 해묵은 복수극이었을 뿐인가.
+*   **시안 묵인(방조) 시**:
+    인간보다 더 서로를 구하려 애쓰던 두 존재의 모습을 보며, 내 마음속을 짓누르던 도플로이드에 대한 맹목적인 증오를 비로소 흘려보냅니다. 법이라는 차가운 활자 위에 쓰이지 못할 진실도 있다는 것을 인정합니다. 동생이 있던 하늘을 올려다보며, 오늘 나는 조금은 더 '인간'에 가까운 결정을 내렸기를 바랄 뿐입니다.
