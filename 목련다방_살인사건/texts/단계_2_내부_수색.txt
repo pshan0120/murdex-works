@@ -1,0 +1,38 @@
+단계명: 내부수색
+유형: INVESTIGATION
+예상 시간: 10 분
+자동 진행: false
+AP 제한: {"role_bak": 28}
+
+<div class="story-content">
+  <div class="section-title">내부 수색</div>
+  
+  <div class="script-direction">"어이구, 반장님! 오해입니다, 오해!"</div>
+  
+  <p>다방 문을 열고 들어서던 건물주 <span class="character-kim">김 사장</span>이 바닥의 피비린내와 당신을 발견하고 흠칫 놀라 뒷걸음질을 칩니다. 당신은 도망치려는 그의 멱살을 잡아 거칠게 안으로 끌고 들어옵니다.</p>
+
+  <p>현장에 용의자 3인이 모두 모였습니다. 이제 다방 내부를 샅샅이 수색하여 저들의 진술을 깨부술 물증을 확보할 차례입니다.</p>
+  
+  <p>새로운 단서들이 배치되었습니다. 다방 내부의 사물과 흔적을 샅샅이 조사하여 진실에 다가가십시오.</p>
+  
+  <hr>
+
+  <div class="beginner-guide">
+    <h3>튜토리얼: 조사와 행동력(AP)</h3>
+    <p>이번 단계의 핵심은 <strong>단서 수집</strong>입니다. 범인을 잡으려면 증거가 필요합니다.</p>
+    
+    <ol style="margin-top: 12px; line-height: 1.8;">    
+      <li><strong>행동력(AP) 사용</strong>
+        <p>각 단서를 조사할 때마다 하단에 표시된 <span class="highlight">행동력(AP)</span>이 소모됩니다. 당신에게 주어진 AP는 한정되어 있으니 신중하게 선택해야 합니다.</p>
+      </li>
+
+      <li><strong>단서 획득</strong>
+        <p>조사에 성공하면 <strong>단서</strong>를 획득하게 됩니다. 획득한 단서는 하단 메뉴의 <span class="highlight">MY</span> > <span class="highlight">내 단서</span>에서 언제든지 다시 읽어볼 수 있습니다.</p>
+      </li>
+
+      <li><strong>액션 사용</strong>
+        <p>캐릭터에 따라 특수 능력(액션)이 있을 수 있습니다. 하단 메뉴의 <span class="highlight">MY</span> > <span class="highlight">내 액션</span>에서 사용 가능한 액션이 있는지 확인해 보세요.</p>
+      </li>
+    </ol>
+  </div>
+</div>
