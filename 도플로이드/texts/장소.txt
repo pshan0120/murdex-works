@@ -1,6 +1,6 @@
 [구역 목록]
 - A구역: 정문 로비, 보안 검색대, 소장실
-- B구역: 보안 물품 창고, 기록 보관실, 서쪽 환기구
+- B구역: 보안 물품 창고, 기록 보관실, 서쪽 환풍구
 - C구역: 일반 연구실, 비밀 병실 (구 직원 휴게실)
 - D구역: 폐기물 소각장, 지하 주 배양실
 
@@ -8,14 +8,14 @@
 
 1. 정문 로비
 - 파일명: 01_정문_로비
-- 설명: 프로메테우스 연구소 A구역의 입구. 대리석 바닥과 높은 천장을 가진 웅장하고 차가운 공간이다. 한쪽 벽면에는 프로메테우스 연구소의 로고가 차가운 은빛으로 빛나고 있으며, 로비 중앙의 인포메이션 데스크는 비어 있다. 락다운 경보로 인해 정문의 거대한 방폭문은 굳게 닫혀 있다.
+- 설명: 프로메테우스 연구소 A구역의 입구. 대리석 바닥과 높은 천장을 가진 웅장하고 차가운 공간이다. 한쪽 벽면에는 프로메테우스 연구소의 로고가 차가운 은빛으로 빛나고 있으며, 로비 중앙의 인포메이션 데스크는 비어 있다. 락다운 경보로 인해 정문은 굳게 닫혀 있다.
 - HTML: 
 <div class="story-content">
     <div class="location-box location-text">
-        프로메테우스 연구소 A구역의 입구. 대리석 바닥과 높은 천장을 가진 웅장하고 차가운 공간이다. 한쪽 벽면에는 연구소의 로고가 차가운 은빛으로 빛나고 있으며, 락다운 경보로 인해 <span class="location-highlight">정문의 거대한 방폭문</span>은 굳게 닫혀 있다.
+        프로메테우스 연구소 A구역의 입구. 대리석 바닥과 높은 천장을 가진 웅장하고 차가운 공간이다. 한쪽 벽면에는 연구소의 로고가 차가운 은빛으로 빛나고 있으며, 락다운 경보로 인해 <span class="location-highlight">입구 정문</span>은 굳게 닫혀 있다.
     </div>
 </div>
-- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, ultra-modern and sterile grand lobby of a corporate research facility, no people. Polished marble floors, high ceilings, a sleek glowing silver logo on the wall. A massive, heavy locked blast door at the entrance. Cold LED lighting, atmospheric and corporate. Detailed 1980s retro sci-fi oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, vintage analog sci-fi aesthetic.
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, ultra-modern and sterile grand lobby of a corporate research facility, no people. Polished marble floors, high ceilings, a sleek glowing silver logo on the wall. A massive, heavy locked entrance door. Cold LED lighting, atmospheric and corporate. Detailed 1980s retro sci-fi oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, vintage analog sci-fi aesthetic.
 
 2. 보안 검색대
 - 파일명: 02_보안_검색대
@@ -83,8 +83,8 @@
 </div>
 - 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, massive, dimly lit archive room filled with endless rows of tall metal filing cabinets. No people. Dust motes floating in narrow shafts of light. Claustrophobic, labyrinth-like, and silent. Detailed 1980s retro sci-fi oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, vintage analog sci-fi aesthetic.
 
-8. 서쪽 환기구
-- 파일명: 08_서쪽_환기구
+8. 서쪽 환풍구
+- 파일명: 08_서쪽_환풍구
 - 설명: B구역 외벽과 외부 숲을 연결하는 거대한 산업용 환풍 통로. 성인 한 명이 간신히 기어 다닐 수 있는 크기이며, 바닥에는 흙먼지와 거미줄이 쳐져 있다. 입구에는 붉은색 레이저 형태의 첨단 생체 인식 스캐너가 설치되어 있어 허가받지 않은 은밀한 접근을 철저히 차단한다.
 - HTML:
 <div class="story-content">
