@@ -1,29 +1,18 @@
-■ 액션명: 장필순 입단속
-■ 소모 AP: 5
-■ 액션 유형: HIDE_CLUE
-■ 액션 설명 (HTML):
+■ 액션명: 장필순 입단속 ■ 소모 AP: 5 ■ 액션 유형: HIDE_CLUE ■ 액션 설명 (HTML):
 <div class="story-content">
-  <p>
-    자신의 과거와 루머 출처를 알고 있는 절친 장필순을 따로 만나, 다른 조원들에게 불필요한 말을 하지 않도록 압박하거나 말을 맞춥니다.
-  </p>
+  <p>자신의 과거와 루머 출처를 알고 있는 절친 장필순을 따로 만나, 다른 조원들에게 불필요한 말을 하지 않도록 압박하거나 말을 맞춥니다.</p>
 </div>
 
 ■ 효과 설명 (HTML):
 <div class="story-content">
-  <p>
-    <span class="emphasis">장필순</span>은 당신의 가장 친한 친구이지만, 동시에 당신의 가장 위험한 약점이기도 합니다. 이 액션으로 그녀의 입을 막는 데 성공한다면, 다른 플레이어가 <span class="emphasis">장필순</span>에게 당신과 관련된 단서를 조사하려 할 때 구체적인 정보를 얻지 못할 것입니다. 그녀는 입을 닫거나 감성적인 호소만 반복하며, 당신을 지키기 위해, 혹은 당신의 압박에 굴복하여 침묵을 지킬 것입니다.
-  </p>
-  <p class="caution-text">
-    ※ 주의: 액션 실행에 소모되는 AP만큼 단서 조사를 할 수 없게 되어, <span class="emphasis">추리에 큰 지장</span>이 생길 수 있습니다. 신중하게 결정하십시오.
-  </p>
+  <p><span class="emphasis">장필순</span>은 당신의 가장 친한 친구이지만, 동시에 당신의 가장 위험한 약점이기도 합니다. 이 액션으로 그녀의 입을 막는 데 성공한다면, 다른 플레이어가 <span class="emphasis">장필순</span>에게 당신과 관련된 단서를 조사하려 할 때 구체적인 정보를 얻지 못할 것입니다. 그녀는 입을 닫거나 감성적인 호소만 반복하며, 당신을 지키기 위해, 혹은 당신의 압박에 굴복하여 침묵을 지킬 것입니다.</p>
+  <p class="caution-text">※ 주의: 액션 실행에 소모되는 AP만큼 단서 조사를 할 수 없게 되어, <span class="emphasis">추리에 큰 지장</span>이 생길 수 있습니다. 신중하게 결정하십시오.</p>
 </div>
 
 ■ 실행 결과 (HTML):
 <div class="story-content">
   <div class="game-effect-notice">
-    <p>
-      시끌벅적한 소음을 피해 <span class="emphasis">장필순</span>을 복도 구석으로 불러냈습니다. 그녀의 눈동자가 평소답지 않게 흔들리는군요. <span class="character-han">한세린</span>은 <span class="emphasis">필순</span>의 손을 꽉 쥐며 낮은 목소리로 속삭였습니다. "<span class="emphasis">필순</span>아, 아까 우리끼리 한 얘기는 절대 남들한테 하면 안 돼. 남들이 물어봐도 모른다고만 해. 알지?" 애원하는 표정을 짓고 있지만, 서늘한 눈빛으로 그녀를 압박합니다. 당황한 <span class="emphasis">필순</span>이 고개를 끄덕입니다. 당분간 그녀가 입을 여는 일은 없을 것입니다.
-    </p>
+    <p>시끌벅적한 소음을 피해 <span class="emphasis">장필순</span>을 복도 구석으로 불러냈습니다. 그녀의 눈동자가 평소답지 않게 흔들리는군요. <span class="character-han">한세린</span>은 <span class="emphasis">필순</span>의 손을 꽉 쥐며 낮은 목소리로 속삭였습니다. "<span class="emphasis">필순</span>아, 아까 우리끼리 한 얘기는 절대 남들한테 하면 안 돼. 남들이 물어봐도 모른다고만 해. 알지?" 애원하는 표정을 짓고 있지만, 서늘한 눈빛으로 그녀를 압박합니다. 당황한 <span class="emphasis">필순</span>이 고개를 끄덕입니다. 당분간 그녀가 입을 여는 일은 없을 것입니다.</p>
     <span>&lt;한세린에 대하여#5&gt; 단서 내용이 변경됩니다.</span>
   </div>
 </div>
