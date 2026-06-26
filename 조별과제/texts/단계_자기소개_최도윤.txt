@@ -1,25 +1,14 @@
 <div class="story-content">
-  <details>
-    <summary>
-      자기 소개 - 같은 조가 된 팀원들에게
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          팀원들에게 자신을 소개하는 시간입니다. 컴공과 후배다운 예의 바르고 조용한 모습을 보여주세요.
-        </p>
-        <div class="quote-box">
-          "아... 안녕하세요. 컴퓨터공학과 3학년, 20학번 최도윤입니다.<br />
-          원래 개인과제인 줄 알고 준비하고 있었는데, 갑자기 조별로 바뀌어서 조금 당황하긴 했어요.<br />
-          아직 많이 부족한 편이라 앞에 나서서 발표하거나 그런 역할은 자신이 없고요.<br />
-          대신 자료 찾는 거나 정리하는 쪽은 시키시면 최대한 맞춰서 해보겠습니다.<br />
-          선배님들한테 배우는 입장이니까 폐 안 되게 노력할게요. 잘 부탁드립니다."
-        </div>
-      </div>
+  <div class="guide-section">
+    <p class="guide-text">
+      팀원들에게 자신을 소개하는 시간입니다. 컴공과 후배다운 예의 바르고 조용한 모습을 보여주세요.
+    </p>
+    <div class="quote-box">
+      "아... 안녕하세요. 컴퓨터공학과 3학년, 20학번 최도윤입니다.<br />
+      원래 개인과제인 줄 알고 준비하고 있었는데, 갑자기 조별로 바뀌어서 조금 당황하긴 했어요.<br />
+      아직 많이 부족한 편이라 앞에 나서서 발표하거나 그런 역할은 자신이 없고요.<br />
+      대신 자료 조사는 제가 최대한 열심히 해보겠습니다.<br />
+      선배님들한테 배우는 입장이니까 폐 안 끼치도록 노력할게요."
     </div>
-  </details>
+  </div>
 </div>

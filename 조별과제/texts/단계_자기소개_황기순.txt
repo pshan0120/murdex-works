@@ -1,27 +1,14 @@
 <div class="story-content">
-  <details>
-    <summary>
-      자기 소개 - 같은 조가 된 팀원들에게
-      <span class="toggle-wrapper">
-        <span class="toggle-text"></span>
-        <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          팀원들에게 자신을 소개하는 시간입니다. 복학생 특유의 조용하고 숫기 없는 모습을 보여주세요.
-        </p>
-        <div class="quote-box">
-          "에... 저는 수학과 18학번, 황기순입니다.<br />
-          원래 전공 수업만 들으려고 했는데, 요즘은 수학 쪽도 다른 과랑 같이 프로젝트하는 게 많다고 해서요.<br />
-          교수님도 한 번쯤은 이런 수업 들어보는 게 좋다고 하셔서...<br />
-          조별과제는 사실 좀 익숙하진 않고요, 앞에 나가서 발표하는 건 잘 못합니다.<br />
-          대신 자료 정리나 문서 쪽은 괜찮아요. PPT 정리나 내용 맞추는 거, 그런 건 손에 익어 있어서요.<br />
-          이미 정해진 흐름이 있으면 거기에 맞춰서 정리하는 역할은 제가 맡아도 됩니다.<br />
-          잘 부탁드립니다."
-        </div>
-      </div>
+  <div class="guide-section">
+    <p class="guide-text">
+      팀원들에게 자신을 소개하는 시간입니다. 복학생 특유의 조용하고 숫기 없는 모습을 보여주세요.
+    </p>
+    <div class="quote-box">
+      "에... 저는 수학과 18학번, 황기순입니다.<br />
+      원래 전공 수업만 들으려고 했는데, 요즘은 수학 쪽도 다른 과랑 같이 프로젝트하는 게 많다고 해서요.<br />
+      교수님도 한 번쯤은 이런 수업 들어보는 게 좋다고 하셔서...<br />
+      조별과제는 사실 좀 익숙하진 않고요, 앞에 나가서 발표하는 건 잘 못합니다.<br />
+      대신 발표자료 만드는 거는 괜찮아요. 그런 건 손에 익어 있어서요.
     </div>
-  </details>
+  </div>
 </div>
