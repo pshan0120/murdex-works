@@ -1,8 +1,8 @@
 <!-- ============================================ -->
-<!-- Ending 1. 엘드리치 단독 승리 - 찬탈당한 수장의 육체 -->
+<!-- Ending 1. 엘드리치 단독 승리 - 찬탈당한 옥좌 -->
 <!-- ============================================ -->
 
-제목: 찬탈당한 수장의 육체
+제목: 찬탈당한 옥좌
 엔딩타입: BAD_ENDING
 조건: 수장 스컬크러셔 처형 & 생존한 멤버들의 전투력 총합 ≤ 마신이 된 엘드리치의 전투력
 순서: 1
@@ -68,7 +68,7 @@
     </p>
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;훌륭한 육신이군. 류크, 네 힘이 마침내 나를 부활시켰다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;훌륭한 제물이군. 류크, 네 오만이 마침내 나를 깨웠다.&quot;
       </div>
     </div>
     <p>
@@ -87,7 +87,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;이건 인간의 완력이 아니다! 뼈가 으스러졌어!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;괴물 같은 완력... 뼈가 으스러진다...!&quot;
       </div>
     </div>
 
@@ -97,13 +97,13 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;그림자 속에서도 궤적을 읽어내다니... 몸이 움직이지 않아.&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;그림자 속에서... 궤적을 읽어내다니...&quot;
       </div>
     </div>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;<span class="character-malice">말리스</span>, 네가 짠 연극이 결국 나를 완성했다. 고맙게 받아들이지.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;<span class="character-malice">말리스</span>, 네 얄팍한 연극이 이 완벽한 무대를 완성했구나.&quot;
       </div>
     </div>
 
@@ -113,7 +113,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;내 계약주가 마신이었다니! <span class="character-eldritch">엘드리치</span>!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;빌어먹을 계약주가... 마신이었다니!&quot;
       </div>
     </div>
 
@@ -123,7 +123,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;분석 불가. 우리가 상대할 차원이 아닙니다.&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;분석 불가. 생존 확률 제로.&quot;
       </div>
     </div>
 
@@ -143,7 +143,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;너희가 의지하던 수장의 육체는 내 것이 되었다. 어둠 속에서 절망을 자양분으로 삼겠다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;너희가 믿었던 수장의 육신은 이제 나의 검이다. 칠흑 속에서 영원히 절망하라.&quot;
       </div>
     </div>
 
@@ -159,10 +159,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 2. 엘드리치 단독 승리 - 침묵하는 지략의 최후 -->
+<!-- Ending 2. 엘드리치 단독 승리 - 침묵의 덫 -->
 <!-- ============================================ -->
 
-제목: 침묵하는 지략의 최후
+제목: 침묵의 덫
 엔딩타입: BAD_ENDING
 조건: 말리스 처형 & 생존한 멤버들의 전투력 총합 ≤ 마신이 된 엘드리치의 전투력
 순서: 2
@@ -241,7 +241,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;영악한 지성이군. <span class="character-malice">말리스</span>, 네 지식이 나를 완벽하게 만들었다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;영악한 지성. <span class="character-malice">말리스</span>, 네 오만한 지식이 나를 완성시켰구나.&quot;
       </div>
     </div>
 
@@ -251,23 +251,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내 검술이 완전히 읽히고 있어! 공격이 통하지 않아!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;모든 검로가 읽혔다! 빈틈이 없어!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;비행 궤적을 예측하고 공간을 비틀어버렸다!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;공간마저 비틀어버리는 건가!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;도끼가 빗나간다... 대지의 진동까지 계산하고 있어!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;대지의 진동까지 계산하다니... 도끼가 닿질 않아!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;<span class="character-malice">말리스</span>의 지식과 마신의 힘이 결합되어 내 은신이 무용지물이야!&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;지식과 완력의 결합... 은신조차 찢겨나간다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;분석 불가. 어떤 공격도 명중하지 않습니다. 완벽한 패배입니다.&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;분석 불가. 압도적인 패배입니다.&quot;
       </div>
     </div>
 
@@ -277,7 +277,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;<span class="character-bastards">바스타즈</span>는 내 제단에 바쳐진 제물로 남을 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;<span class="character-bastards">바스타즈</span>는 내 왕좌를 장식할 비참한 제물일 뿐이다.&quot;
       </div>
     </div>
 
@@ -293,10 +293,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 3. 엘드리치 단독 승리 - 기민한 영혼의 최후 -->
+<!-- Ending 3. 엘드리치 단독 승리 - 그림자의 몰락 -->
 <!-- ============================================ -->
 
-제목: 기민한 영혼의 최후
+제목: 그림자의 몰락
 엔딩타입: BAD_ENDING
 조건: 슬리더 처형 & 생존한 멤버들의 전투력 총합 ≤ 마신이 된 엘드리치의 전투력
 순서: 3
@@ -359,7 +359,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;기민한 순발력이군! <span class="character-slither">슬리더</span>, 네 감각이 나를 공간의 지배자로 만들었다!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;완벽한 민첩함... <span class="character-slither">슬리더</span>, 네 감각이 날 공간의 지배자로 만들었구나.&quot;
       </div>
     </div>
 
@@ -369,23 +369,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;<span class="character-slither">슬리더</span>의 움직임이지만 차원이 다르다! 검이 닿지 않아!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;검이 닿지 않는다... 차원이 다른 움직임이야!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;내 기습보다 빠르게 그림자 뒤로 이동한다! <span class="character-eldritch">엘드리치</span>!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;내 강습보다 빠르다니! 괴물 같은 자식!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;속도가 너무 빨라 계산이 불가능해요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;속도를 도저히 따라갈 수가 없어요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;저놈이 어디 있는지조차 보이지 않아! 으아악!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;형체조차 보이지 않아... 으아악!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;반응 속도를 넘어서는 기동성. 방패가 무의미합니다.&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;기동성 측정 불가. 방어선 붕괴.&quot;
       </div>
     </div>
 
@@ -395,7 +395,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;너의 기민함은 영원히 나의 무기가 되어 우주를 유린할 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;이 기민함으로 너희의 모든 희망을 찢어주마.&quot;
       </div>
     </div>
 
@@ -411,10 +411,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 4. 엘드리치 단독 승리 - 야수의 굴복 -->
+<!-- Ending 4. 엘드리치 단독 승리 - 짓밟힌 야성 -->
 <!-- ============================================ -->
 
-제목: 야수의 굴복
+제목: 짓밟힌 야성
 엔딩타입: BAD_ENDING
 조건: 고어후프 처형 & 생존한 멤버들의 전투력 총합 ≤ 마신이 된 엘드리치의 전투력
 순서: 4
@@ -477,7 +477,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;주체할 수 없는 힘이군! <span class="character-gorehoof">고어후프</span>, 네 야성이 나를 파괴의 화신으로 완성했다!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;주체할 수 없는 파괴력! <span class="character-gorehoof">고어후프</span>, 네 야성이 이 육신을 완성했구나.&quot;
       </div>
     </div>
 
@@ -487,23 +487,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;내 검이 부러지다니! 마신의 마력과 결합해 괴물이 되었군!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;검을 맨손으로 박살내다니...!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;풍압만으로 내 날개를 으스러뜨리다니!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;바람만으로 내 날개가...!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;어떤 지략도 원초적인 폭력 앞에선 무의미해요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;이런 짐승 같은 폭력이라니... 계산 밖이에요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;도망칠 구멍조차 파괴되어 버렸어...&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;도망칠 곳조차 다 짓밟혔어...&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;방패가 산산조각 났습니다. <span class="character-bastards">바스타즈</span>는 전멸입니다.&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;방패 완파... 전원 후퇴 불가.&quot;
       </div>
     </div>
 
@@ -513,7 +513,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;야성의 영혼이여. 네 힘은 나의 무기가 되어 우주를 짓밟을 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;이 압도적인 폭력으로, 우주를 짓밟아주마.&quot;
       </div>
     </div>
 
@@ -529,10 +529,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 5. 엘드리치 단독 승리 - 유린당한 심연의 날개 -->
+<!-- Ending 5. 엘드리치 단독 승리 - 찢겨진 날개 -->
 <!-- ============================================ -->
 
-제목: 유린당한 심연의 날개
+제목: 찢겨진 날개
 엔딩타입: BAD_ENDING
 조건: 발로그 처형 & 생존한 멤버들의 전투력 총합 ≤ 마신이 된 엘드리치의 전투력
 순서: 5
@@ -595,7 +595,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;마족의 날개와 초월적 속도! <span class="character-balrog">발로그</span>, 네 마족의 신체가 나를 진정한 암흑의 군주로 완성시켰다!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;마족의 날개라. <span class="character-balrog">발로그</span>, 네 핏줄이 이 몸을 공포로 채웠구나.&quot;
       </div>
     </div>
 
@@ -605,23 +605,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;검이 잔상조차 따라가지 못한다! 차원이 다른 속도다!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;검이 잔상조차 베지 못해...!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;대응할 틈이 없는 속도입니다. 전술이 통하지 않습니다!&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;전술 붕괴... 속도를 쫓을 수 없습니다.&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;내 지시가 닿기도 전에 지워집니다. 속도 앞에서는 지략도 무의미해요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;지시할 틈조차 없어요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;강습의 풍압이 은신을 찢어버리고 있어! 죽음이 하늘에서 내려온다!&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;바람이 내 은신을 찢어발긴다...!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;비행 궤적을 쫓는 것조차 불가능하다! 으아아악!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;쫓을 수도 없다! 으아아악!&quot;
       </div>
     </div>
 
@@ -631,7 +631,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;마족의 정수가 나의 날개가 되었다. 모두가 나의 그림자 아래 신음할 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;내 날개 아래서 영원한 절망을 느껴라.&quot;
       </div>
     </div>
 
@@ -647,10 +647,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 6. 엘드리치 단독 승리 - 부러진 강철 -->
+<!-- Ending 6. 엘드리치 단독 승리 - 무너진 방벽 -->
 <!-- ============================================ -->
 
-제목: 부러진 강철
+제목: 무너진 방벽
 엔딩타입: BAD_ENDING
 조건: 엘란트라 처형 & 생존한 멤버들의 전투력 총합 ≤ 마신이 된 엘드리치의 전투력
 순서: 6
@@ -713,7 +713,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;전장의 흐름을 꿰뚫는 통찰력! <span class="character-elantra">엘란트라</span>, 네 전술이 나를 약점 없는 전쟁 병기로 완성시켰다!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;전장을 읽는 눈... <span class="character-elantra">엘란트라</span>, 네 통찰이 나를 완전무결하게 만들었구나.&quot;
       </div>
     </div>
 
@@ -723,23 +723,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;모든 검로가 분석당했다. 검을 휘두르기도 전에 카운터가 날아온다!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;모든 검로가 읽혔다...!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;변칙적인 기습조차 예측을 벗어나지 못한다! 모든 경로가 차단되었어!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;모든 기습이 막혔다... 숨을 틈이 없어!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;내 지시도 완벽한 전술 앞에서는 무용지물입니다. 뚫을 수 없는 철옹성이에요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;내 지략을 꿰뚫고 있어요. 뚫어낼 방도가 없습니다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;압도적인 예측이 나를 짓누른다. 숨을 곳이 없어!&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;숨통이 조여온다... 도망칠 곳이 없어.&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;도끼가 닿기도 전에 계산으로 비껴간다! 분노조차 통하지 않아!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;힘만으론 닿을 수조차 없다니...!&quot;
       </div>
     </div>
 
@@ -749,7 +749,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;부러진 강철의 의지여. 네 통찰은 내가 세상을 지배할 율법이 될 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;무결한 철벽 위에서 세상을 지배하리라.&quot;
       </div>
     </div>
 
@@ -765,10 +765,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 7. 말리스&발로그 공동 승리 - 피로 물든 지배의 각본 -->
+<!-- Ending 7. 말리스&발로그 공동 승리 - 피의 꼭두각시 -->
 <!-- ============================================ -->
 
-제목: 피로 물든 지배의 각본
+제목: 피의 꼭두각시
 엔딩타입: BAD_ENDING
 조건: 스컬크러셔 처형 & 생존한 멤버들의 전투력 총합 > 마신이 된 엘드리치의 전투력
 순서: 7
@@ -845,23 +845,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;두려워할 필요 없습니다! 각성이 불완전해 아직 <span class="character-skullcrusher">스컬크러셔</span>의 육체를 통제하지 못하고 있어요! <span class="character-balrog">발로그</span>, 상층부를 흔들고 <span class="character-elantra">엘란트라</span>, 하단 기동을 묶으세요! <span class="character-gorehoof">고어후프</span>와 <span class="character-slither">슬리더</span>, 장갑의 균열을 공격하세요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;겁먹지 마세요! 각성이 불완전합니다. <span class="character-balrog">발로그</span>, 시야를 가리세요! <span class="character-elantra">엘란트라</span>, 움직임을 묶고, 나머지는 균열을 파고드세요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;덩치만 커졌지 수장이었을 때보다 둔하군! 날개를 꺾어주마!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;몸통만 큰 과녁일 뿐이다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;돌진은 방패로 막겠다! 빠져나갈 틈은 없다!&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;내 방벽은 뚫리지 않는다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;기만했던 현자 놈! 도끼로 가루를 만들어주마! 으아아아!!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;거짓된 신의 최후다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;거대한 과녁이 제 발로 걸어 나오다니... 치명상은 내 몫이다.&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;치명상은 내 단검이 꽂는다.&quot;
       </div>
     </div>
 
@@ -871,7 +871,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;불가능하다... 압도적인 파동을 쥐고도 이 필멸자들에게 무너지다니! 나의 부활이...!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;고작 이런 필멸자들의 발버둥에... 내 육신이...!&quot;
       </div>
     </div>
 
@@ -904,10 +904,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 8. 말리스&발로그 공동 승리 - 침묵하는 그림자의 최후 -->
+<!-- Ending 8. 말리스&발로그 공동 승리 - 어둠 속의 처형 -->
 <!-- ============================================ -->
 
-제목: 침묵하는 그림자의 최후
+제목: 어둠 속의 처형
 엔딩타입: BAD_ENDING
 조건: 슬리더 처형 & 생존한 멤버들의 전투력 총합 > 마신이 된 엘드리치의 전투력
 순서: 8
@@ -974,15 +974,15 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;당황하지 마세요! 저 괴물은 아직 <span class="character-slither">슬리더</span>의 신경에 적응하지 못했습니다! <span class="character-elantra">엘란트라</span>, 방어선을 좁혀 도주로를 막고 <span class="character-skullcrusher">스컬크러셔</span>와 <span class="character-gorehoof">고어후프</span>는 정면에서 공세를 쏟으세요! <span class="character-balrog">발로그</span>, 공중에서 마력을 쏟아 반응 속도를 늦춰야 합니다!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;놈은 아직 육신에 적응하지 못했습니다! <span class="character-elantra">엘란트라</span>, 도주로를 막아요! <span class="character-skullcrusher">스컬크러셔</span>와 <span class="character-gorehoof">고어후프</span>는 정면을 치고, <span class="character-balrog">발로그</span>는 상공에서 압박하세요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;분석 완료. 철벽의 전술로 저놈을 무력화한다! 전원 돌격!&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;전술 확인. 퇴로를 완전히 차단한다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;<span class="character-eldritch">엘드리치</span>의 영혼을 더럽힌 대가를 치러라! 이 거검이 진정한 심판의 쐐기가 될 것이다!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;더러운 주술을 내 검으로 끝내주마!&quot;
       </div>
     </div>
 
@@ -992,7 +992,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;이럴 수가... 나의 부활이 고작 필멸자들의 유대감에 무너진단 말이냐... 아아아악!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;내가 이따위 버러지들에게... 으아아악!&quot;
       </div>
     </div>
 
@@ -1021,10 +1021,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 9. 말리스&발로그 공동 승리 - 야성을 잠재운 냉혹한 연극 -->
+<!-- Ending 9. 말리스&발로그 공동 승리 - 맹수 사냥 -->
 <!-- ============================================ -->
 
-제목: 야성을 잠재운 냉혹한 연극
+제목: 맹수 사냥
 엔딩타입: BAD_ENDING
 조건: 고어후프 처형 & 생존한 멤버들의 전투력 총합 > 마신이 된 엘드리치의 전투력
 순서: 9
@@ -1101,23 +1101,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;겁먹지 마세요! 저 괴물은 힘을 제어하지 못합니다! 완력을 역이용하세요! <span class="character-elantra">엘란트라</span>, 방패로 돌진을 튕겨내고, <span class="character-balrog">발로그</span>! 고공 낙하로 퇴로를 차단하세요! <span class="character-skullcrusher">스컬크러셔</span>와 <span class="character-slither">슬리더</span>, 무릎 관절과 후방을 찢어버리세요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;놈은 힘을 통제하지 못합니다! 완력을 역이용하세요! <span class="character-elantra">엘란트라</span>, 돌진을 흘려내고, 나머진 관절과 후방을 부수세요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;느려 터진 표적일 뿐! <span class="emphasis">수직 낙격</span>으로 뭉개주지!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;둔해빠진 고깃덩어리일 뿐이다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;단순한 돌진 따위, 방패로 튕겨내주마! 동선을 봉쇄하겠다!&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;단순한 돌진. 튕겨내겠다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;시야가 좁아진 맹수. 숨통을 끊어주지.&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;짐승의 숨통은 내가 끊지.&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이성 잃은 짐승 따위! 내 대검으로 산산조각 내주마!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이성 잃은 짐승에게 내어줄 목숨은 없다!&quot;
       </div>
     </div>
 
@@ -1127,7 +1127,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;대지를 깨부수는 물리력을 가지고도 나약한 육신들에게 짓밟히다니! 크아아악! 나의 부활이... 이렇게...!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;이 압도적인 힘을 쥐고도... 이따위 육신들에게 무너지다니!&quot;
       </div>
     </div>
 
@@ -1160,10 +1160,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 10. 말리스 단독 승리 - 꺾여버린 자부심의 날개 -->
+<!-- Ending 10. 말리스 단독 승리 - 오만의 추락 -->
 <!-- ============================================ -->
 
-제목: 꺾여버린 자부심의 날개
+제목: 오만의 추락
 엔딩타입: BAD_ENDING
 조건: 발로그 처형 & 생존한 멤버들의 전투력 총합 > 마신이 된 엘드리치의 전투력
 순서: 10
@@ -1240,23 +1240,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;흐트러지지 마세요. 저 괴물은 날개를 제어하지 못해 궤적이 비대합니다. <span class="emphasis">수직 낙격</span>의 관성을 역이용하세요! <span class="character-elantra">엘란트라</span>, 방패로 경로를 흘려내고! <span class="character-gorehoof">고어후프</span>, 지면에 처박히는 순간 짓누르세요! <span class="character-skullcrusher">스컬크러셔</span>와 <span class="character-slither">슬리더</span>, 날개 관절을 찢어버리세요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;놈의 날개는 통제 불능입니다. 낙하하는 관성을 역이용하세요! <span class="character-elantra">엘란트라</span>가 궤적을 튕겨내면 나머진 날개 관절을 찢으세요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;궤적이 뻔한 강습이다! 방패가 막아내겠다!&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;궤적이 너무 뻔하다. 흘려내겠다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;건방지게 하늘에서 놀아나다니! 도끼로 땅바닥에 처박아주마!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;하늘에서 노는 것도 끝이다. 땅에 처박아주마!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;가식적인 날갯짓! 내 대검으로 꺾어버리겠다!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;그 더러운 날개를 꺾어주마!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;땅에 떨어진 새만큼 쉬운 표적도 없지.&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;땅에 떨어진 새는 쉬운 사냥감이지.&quot;
       </div>
     </div>
 
@@ -1266,7 +1266,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;하늘을 지배하는 기동성을 가지고도 벌레들에게 찢기다니! 크아아악! 나의 정복이...!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;이 기동성으로 내가 어째서... 으아아악!&quot;
       </div>
     </div>
 
@@ -1299,10 +1299,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 11. 말리스&발로그 공동 승리 - 산산조각 난 무결한 전술 -->
+<!-- Ending 11. 말리스&발로그 공동 승리 - 부서진 맹세 -->
 <!-- ============================================ -->
 
-제목: 산산조각 난 무결한 전술
+제목: 부서진 맹세
 엔딩타입: BAD_ENDING
 조건: 엘란트라 처형 & 생존한 멤버들의 전투력 총합 > 마신이 된 엘드리치의 전투력
 순서: 11
@@ -1383,23 +1383,23 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;무기가 바뀌는 찰나가 허점입니다! 단단한 힘의 틈새를 찢어버리세요! <span class="character-balrog">발로그</span>, 하늘에서 내리꽂아 시선을 흩트리세요! <span class="character-skullcrusher">스컬크러셔</span>, <span class="character-gorehoof">고어후프</span>! 난타로 철벽이 변화하는 속도를 앞지르세요! <span class="character-slither">슬리더</span>, 그림자 속으로 파고들어 연결 부위를 노리세요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;무기가 바뀌는 찰나를 노리세요! <span class="character-balrog">발로그</span>, 시야를 가려요! <span class="character-skullcrusher">스컬크러셔</span>와 <span class="character-gorehoof">고어후프</span>, 정면 방벽을 부수고, <span class="character-slither">슬리더</span>는 틈을 파고드세요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;철벽이든 뭐든 대검으로 한 번에 으깨주마!&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;철벽이고 뭐고 다 박살 내주지!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;네 얄팍한 기술이 내 도끼를 언제까지 버티나 보자!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;언제까지 버틸 수 있나 보자!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;모든 무기를 다뤄도 쏟아지는 강습은 못 막을 거다!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;무기가 아무리 많아도 하늘은 막지 못할 거다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;완벽한 방어에도 사각지대는 있지. 치명적인 독을 맛봐라.&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;완벽한 방어의 사각지대... 치명상을 주마.&quot;
       </div>
     </div>
 
@@ -1409,7 +1409,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;불가능하다... 나의 기량이 난전에 뚫리다니! 크아아악! 전장이 무너진다...!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;모든 변수를 통제했는데... 이따위 버러지들의 난전에 뚫리다니!&quot;
       </div>
     </div>
 
@@ -1589,10 +1589,10 @@
 </div>
 
 <!-- ============================================ -->
-<!-- Ending 13. 스컬크러셔&말리스&발로그&고어후프&슬리더&엘란트라 공동 승리 - 구원의 여명 -->
+<!-- Ending 13. 스컬크러셔&말리스&발로그&고어후프&슬리더&엘란트라 공동 승리 - 새로운 여명 -->
 <!-- ============================================ -->
 
-제목: 구원의 여명
+제목: 새로운 여명
 엔딩타입: HIDDEN_ENDING
 조건: 아무도 처형하지 않음 (모두 생존 및 진실 고백)
 순서: 13
@@ -1665,7 +1665,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;이 비천한 벌레들이 화해를 택하다니! 신뢰라니! 그런 가식적인 빛이 내 완벽한 부활을 망쳐버렸다. 제물이 없다면 옥좌에 서린 원혼들을 모아 너희 모두를 영원한 암흑 속에 처박아주마!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;어리석군. 너희의 그 얄팍한 유대가 죽음을 피할 방패라도 될 줄 알았나. 내게 제물을 바치지 않겠다면, 너희의 숨통을 직접 끊어 이 옥좌를 완성하겠다.&quot;
       </div>
     </div>
 
@@ -1675,27 +1675,27 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;겁먹지 마세요! 저 괴물은 온전한 육신을 얻지 못해 형상이 불안정합니다. 마력의 흐름이 불규칙하니 우리가 하나로 묶인다면 충분히 없앨 수 있어요! <span class="character-balrog">발로그</span>, 공중으로 솟구쳐 시야를 흔드세요! <span class="character-gorehoof">고어후프</span>, 땅의 심장을 일깨워 발등을 짓누르세요! <span class="character-elantra">엘란트라</span>와 <span class="character-slither">슬리더</span>, 놈의 중심이 드러나는 틈을 노리세요!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;놈은 온전한 육신이 없어 형상이 불안정합니다! <span class="character-balrog">발로그</span>, 공중에서 시야를 흔드세요! <span class="character-gorehoof">고어후프</span>는 발을 묶고, 나머진 중심 마력 핵을 노리세요!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;신이라 해도 고공에서 쏟아지는 수직 뇌격은 피하지 못할 것이다!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;신의 목을 하늘에서 짓눌러주마!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;배신한 대가가 겨우 이것이냐! 내 도끼로 그 몸뚱아리를 대지 밑으로 처박아주마!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;배신자의 말로 치고는 비참하군. 땅바닥에 묻어주마!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;내 방패가 부서지기 전까진 단 한 걸음도 물러서지 않겠다! 비겁한 음모는 여기까지다!&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;내 방패 뒤로는 단 한 걸음도 물러서지 않는다!&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;네 그림자가 떨리지 않는군. 우리가 함께라면 사냥할 수 있겠어. 죽음이 네 뒤를 노리고 있다.&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;죽음이 네 뒤에 섰다. 각오해라.&quot;
       </div>
 
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">류크(스컬크러셔)</span></span>: &quot;<span class="character-bastards">바스타즈</span>의 이름으로 널 끝장내겠다! 사라져라, <span class="mystery">다크 시리어스</span>!&quot;
+        <span class="script-character"><span class="character-skullcrusher">류크(스컬크러셔)</span></span>: &quot;우리의 피비린내 나는 과거는 여기서 끝이다! 사라져라!&quot;
       </div>
     </div>
 
@@ -1705,7 +1705,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;나약한 버러지들의 힘이 위대한 권능을 뛰어넘는단 말이냐! 그아아악!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;고작 이런 필멸자들의 발버둥에... 내가...!&quot;
       </div>
     </div>
 
