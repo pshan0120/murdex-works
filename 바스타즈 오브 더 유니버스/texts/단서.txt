@@ -199,7 +199,7 @@ HTML :
 
 ---
 
-## [3] 조사 1단계 단서 (17:00 ~ 18:00)
+## [3] 조사 1단계 배치 단서 (17:00 ~ 18:00)
 
 ### 1) 왕좌의 방
 [clue_07]
@@ -448,7 +448,7 @@ HTML :
 의도 : 말리스가 살해 타이밍과 낙하 각도를 계산했던 식.
 내용 :
 찢겨진 기록지 조각이다. 한쪽 면에 계산식들이 나열되어 있다.
-- ζ: 4.48-ref(Z)
+- ζ: 3.08-ref(Z)
 - μ: 1.20+α
 - Φ: ∇ × [2·Γ·ζ]^(1/2)
 - τ: ∏(2ζ/Γ)^0.5 ≒ T_min
@@ -461,7 +461,7 @@ HTML :
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      <div>ζ: 4.48-ref(Z) | - μ: 1.20+α</div>
+      <div>ζ: 3.08-ref(Z) | - μ: 1.20+α</div>
       <div>Φ: ∇ × [2·Γ·ζ]^(1/2)</div>
       <div>τ: ∏(2ζ/Γ)^0.5 ≒ T_min</div>
       <div>ψ: ∠90° + arctan(δ)</div>
@@ -498,12 +498,12 @@ HTML :
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small text-left">
-      <div>ζ: 4.48-ref(Z) | - μ: 1.20+α</div>
+      <div>ζ: 3.08-ref(Z) | - μ: 1.20+α</div>
       <div>Φ: ∇ × [2·Γ·ζ]^(1/2)</div>
       <div>τ: ∏(2ζ/Γ)^0.5 ≒ T_min</div>
       <div>ψ: ∠90° + arctan(δ)</div>
       <div class="mt-2 text-text-secondary">
-        - 4.48 : 높이(m)<br>
+        - 3.08 : 높이(m)<br>
         - 90도 : 각도<br>
         - Φ 및 τ : 시간 단위
       </div>
@@ -789,22 +789,36 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 스컬크러셔
-의도 : 솔라이트 입장에서 본 바스타즈의 기록. 저주받은 검에 대한 묘사.
+관련 : 엘란트라, 바스타즈
+의도 : 샹들리에 추리를 위해 고어후프가 2.5m라는 점을 포함하여 멤버 전원의 신장 정보 제공 및 엘란트라의 스파이 떡밥.
 내용 :
-<수성전 기록보관소 - 전선 기록 요약>
-성문을 향해 진군하는 저 해골 투구의 광인이 휘두르는 검에서는 소름 끼치는 검붉은 광채가 끊임없이 번뜩이고 있다. 그 불길한 안개와 같은 기운은 우리 기사들의 전의를 꺾고 공포에 질리게 만든다. 저 흉폭한 기세 앞에, 우리 솔라이트의 방어선은 무력하게 무너져 내리고 있다.
+낡은 양피지 문서다.
+<회신: 대상 신장>
+- 고어후프 : 2.5m
+- 발로그 : 2.0m
+- 스컬크러셔 : 1.9m
+- 슬리더 : 1.8m
+- 엘드리치 : 1.7m
+- 말리스 : 1.6m
 HTML :
 <div class="story-content">
+  <div class="script-direction">낡은 양피지 문서다.</div>
+  <div class="divider-gold"></div>
   <div class="document-page">
-    <h4>&lt;수성전 기록보관소 - 전선 기록 요약&gt;</h4>
-    <div class="divider-gold"></div>
+    <h4>&lt;회신: 대상 신장&gt;</h4>
     <div class="document-body small">
-      <div>성문을 향해 진군하는 저 <span class="emphasis">해골 투구의 광인</span>이 휘두르는 검에서는 소름 끼치는 <span class="emphasis">검붉은 광채</span>가 끊임없이 번뜩이고 있다. 그 불길한 안개와 같은 기운은 우리 기사들의 전의를 꺾고 <span class="emphasis">공포에 질리게 만든다.</span> 저 흉폭한 기세 앞에, 우리 <span class="character-solite">솔라이트</span>의 방어선은 무력하게 무너져 내리고 있다.</div>
+      <ul class="text-left mt-2 mb-0">
+        <li>고어후프 : 2.5m</li>
+        <li>발로그 : 2.0m</li>
+        <li>스컬크러셔 : 1.9m</li>
+        <li>슬리더 : 1.8m</li>
+        <li>엘드리치 : 1.7m</li>
+        <li>말리스 : 1.6m</li>
+      </ul>
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a bundle of tactical field reports resting on a scarred wooden table. Shadows fall across the stacked papers. The ink-stained pages are covered with messy, illegible Nordic-style script (Norwegian or Finnish) and small military sketches. Shallow depth of field, background is dark and indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A highly confidential, worn parchment letter resting on a dimly lit wooden desk. The letter contains neat, precise handwriting listing physical measurements and profiles of warriors. A faint watermark or seal of a white claw can be barely seen on the corner. A single candle casts a warm, flickering light across the text, leaving the edges of the desk in deep, secretive shadows. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, espionage atmosphere.
 장소 : 06_문서고
 파일명 : 23_문서고_4
 
@@ -1041,13 +1055,13 @@ HTML :
 
 ---
 
-## [2] 조사 2단계 단서 (19:00 ~ 20:00)
+## [2] 조사 4단계 배치 단서 (19:00 ~ 20:00)
 
 ### 1) 왕좌의 방
 [clue_31]
 이름 : 왕좌의 방#5
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 310
 중요도 : 최고
@@ -1082,7 +1096,7 @@ HTML :
 [clue_32]
 이름 : 왕좌의 방#6
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 320
 중요도 : 최고
@@ -1118,7 +1132,7 @@ HTML :
 [clue_33]
 이름 : 왕좌의 방#7
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 330
 중요도 : 보통
@@ -1150,7 +1164,7 @@ HTML :
 [clue_34]
 이름 : 왕좌의 방#8
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 340
 중요도 : 보통
@@ -1178,7 +1192,7 @@ HTML :
 [clue_35]
 이름 : 서재#4
 유형 : 관찰
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 350
 중요도 : 높음
@@ -1204,7 +1218,7 @@ HTML :
 [clue_36]
 이름 : 서재#5
 유형 : 관찰
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 360
 중요도 : 최고
@@ -1230,7 +1244,7 @@ HTML :
 [clue_37]
 이름 : 서재#6
 유형 : 관찰
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 370
 중요도 : 높음
@@ -1244,10 +1258,10 @@ HTML :
 관련 : 발로그
 의도 : 발로그가 비행해서 올라갔다는 증거.
 내용 :
-높은 서재 천장에는 엘드리치가 앉아 있던 의자 바로 위 지점에 화려한 샹들리에가 매달려 있다. 금속 프레임에 수많은 크리스털 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 미세하게 흔들리고 있다. 자세히 보면, 샹들리에 아래쪽 금속 프레임 중 하나에 아주 가느다란 은빛 실 조각이 묶여 있는 흔적이 보인다.
+엘드리치가 앉아 있던 의자 바로 위에 화려한 샹들리에가 매달려 있다. 바닥으부터 3미터는 되어 보인다. 금속 프레임에 수많은 크리스털 조각들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 미세하게 좌우로 흔들리고 있다. 자세히 보니 아래쪽 금속 프레임 중 하나에 가느다랗게 그슬린 자국이 있다.
 HTML :
 <div class="story-content">
-  <div><span class="emphasis">높은 서재 천장</span>에는 엘드리치가 앉아 있던 <span class="emphasis">의자 바로 위</span> 지점에 화려한 <span class="emphasis">샹들리에</span>가 매달려 있다. 금속 프레임에 수많은 <span class="emphasis">크리스털 조각</span>들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 아주 미세하게 좌우로 흔들리고 있다. 자세히 보면, 아래쪽 금속 프레임 중 하나에 아주 가느다란 <span class="highlight">은빛 실</span> 조각이 묶여 있는 것이 발견된다.</div>
+  <div><span class="character-eldritch">엘드리치</span>가 앉아 있던 <span class="emphasis">의자 바로 위</span>에 화려한 <span class="emphasis">샹들리에</span>가 매달려 있다. 바닥으부터 <span class="emphasis">3미터</span>는 되어 보인다. 금속 프레임에 수많은 <span class="emphasis">크리스털 조각</span>들이 촘촘히 박혀 있으며, 천장과 이어진 사슬이 미세하게 좌우로 흔들리고 있다. 자세히 보니 아래쪽 금속 프레임 중 하나에 <span class="emphasis">가느다랗게 그슬린 자국</span>이 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A medium close-up focused shot of a grand, ornate gothic chandelier that fills most of the frame. The intricate dark wrought iron frame and glittering, faceted crystal pendants are the primary focus, radiating a warm, flickering golden glow from within. The light refracts through the glass, casting sharp, dramatic highlights and deep, rich shadows within the chandelier&apos;s structure itself. The background is completely swallowed by deep, velvety shadows, ensuring undivided attention on the intricate craftsmanship and the haunting light of the chandelier. Detailed 1980s fantasy oil painting style. Heavy brushstrokes, rich textures (dark iron, sparkling crystal), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the interplay of golden light and dark metal. No background elements, just the chandelier itself glowing in the darkness.
 장소 : 02_서재
@@ -1284,7 +1298,7 @@ HTML :
 [clue_38]
 이름 : 서재#7
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 380
 중요도 : 높음
@@ -1330,7 +1344,7 @@ HTML :
 [clue_39]
 이름 : 연구실#4
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 390
 중요도 : 보통
@@ -1362,7 +1376,7 @@ HTML :
 [clue_40]
 이름 : 식당#4
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 400
 중요도 : 높음
@@ -1393,7 +1407,7 @@ HTML :
 [clue_41]
 이름 : 문서고#6
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 410
 중요도 : 높음
@@ -1425,7 +1439,7 @@ HTML :
 [clue_42]
 이름 : 문서고#7
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 420
 중요도 : 보통
@@ -1460,7 +1474,7 @@ HTML :
 [clue_43]
 이름 : 문서고#8
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 430
 중요도 : 보통
@@ -1500,7 +1514,7 @@ HTML :
 [clue_44]
 이름 : 문서고#9
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 440
 중요도 : 보통
@@ -1529,7 +1543,7 @@ HTML :
 [clue_45]
 이름 : 지하창고#4
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 450
 중요도 : 보통
@@ -1555,7 +1569,7 @@ HTML :
 [clue_46]
 이름 : 지하창고#5
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 460
 중요도 : 보통
@@ -1585,7 +1599,7 @@ HTML :
 [clue_47]
 이름 : 지하창고#6
 유형 : 관찰
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 470
 중요도 : 높음
@@ -1611,7 +1625,7 @@ HTML :
 [clue_48]
 이름 : 지하창고#7
 유형 : 관찰
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 480
 중요도 : 보통
@@ -1637,7 +1651,7 @@ HTML :
 [clue_49]
 이름 : 지하창고#8
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 490
 중요도 : 높음
@@ -1668,7 +1682,7 @@ HTML :
 [clue_50]
 이름 : 지하창고#9
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 500
 중요도 : 높음
@@ -1699,7 +1713,7 @@ HTML :
 [clue_51]
 이름 : 지하창고#10
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 510
 중요도 : 높음
@@ -1730,7 +1744,7 @@ HTML :
 [clue_52]
 이름 : 지하창고#11
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 520
 중요도 : 높음
@@ -1762,7 +1776,7 @@ HTML :
 [clue_53]
 이름 : 연회장#2
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 530
 중요도 : 낮음
@@ -1793,7 +1807,7 @@ HTML :
 [clue_54]
 이름 : 무기고#3
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 540
 중요도 : 최고
@@ -1820,7 +1834,7 @@ HTML :
 [clue_55]
 이름 : 마법탑#1
 유형 : 관찰
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 550
 중요도 : 높음
@@ -1846,7 +1860,7 @@ HTML :
 [clue_56]
 이름 : 마법탑#2
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 560
 중요도 : 보통
@@ -1874,7 +1888,7 @@ HTML :
 [clue_57]
 이름 : 연구실#5
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 570
 중요도 : 보통
@@ -1931,7 +1945,7 @@ HTML :
 [clue_58]
 이름 : 외곽 망루#1
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 580
 중요도 : 높음
@@ -1961,7 +1975,7 @@ HTML :
 [clue_59]
 이름 : 외곽 망루#2
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 590
 중요도 : 보통
@@ -1975,13 +1989,13 @@ HTML :
 관련 : 엘란트라
 의도 : 단검의 명수라는 점과, 엘란트라에게 무기를 넘기는 것에 대한 경계심을 갖게 만듬.
 내용 :
-옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다. "우리 엘란트라 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 단검을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지."
+옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다. "우리 엘란트라 대장님은 칠흑 같은 어둠 속에서도 단검 다섯 자루를 백 보 밖 과녁에 정확히 꽂아 넣는 분이야. 어떤 무기든 손에 닿는 순간 완벽하게 파악해 버리시지. 함부로 무기를 건네지 마. 무기를 넘겨받는 그 짧은 찰나에, 이미 그 무기로 널 어떻게 끝장낼지 계산을 마쳤을 테니까."
 HTML :
 <div class="story-content">
   <div class="script-direction">옆에서 병기를 닦던 용병이 고개를 저으며 낮은 목소리로 전하는 말이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>우리 <span class="character-elantra">엘란트라</span> 대장님이 무기를 쥐는 걸 본 적 있나? 그분은 남의 무기라도 일단 손에 닿는 순간, 본래 주인만큼 완벽하게 그 무게와 균형을 짚어내시는 분이야. 한번은 야간 훈련 때 횃불도 없는 어둠 속에서 <span class="emphasis">단검</span>을 던지셨는데, 백 보 밖의 과녁 정중앙에 다섯 자루가 차곡차곡 겹쳐 박히더군. 그 소름 끼치는 정확도를 보고 있으면... 누군가에게 무기를 건네받는 찰나, 이미 대장님의 머릿속에선 그 무기로 상대를 어떻게 끝낼지 계산이 끝났다는 생각이 들 정도지.</div>
+    <div>우리 <span class="character-elantra">엘란트라</span> 대장님은 칠흑 같은 어둠 속에서도 <span class="emphasis">단검</span> 다섯 자루를 백 보 밖 과녁에 정확히 꽂아 넣는 분이야. 어떤 무기든 손에 닿는 순간 완벽하게 파악해 버리시지. 함부로 무기를 건네지 마. 무기를 넘겨받는 그 짧은 찰나에, 이미 그 무기로 널 어떻게 끝장낼지 계산을 마쳤을 테니까.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a weathered mercenary warrior seen from behind, standing high on the dark stone outer ramparts (as seen in 10_외곽_망루.png). The mercenary is captured in the middle of cleaning a large blade, head slightly turned as if speaking to someone off-camera. In the background, the cold night fog creeps over the stone battlements and crenellations, with a few distant stars visible in the dark, heavy sky. A nearby flickering torch casts long, dancing shadows and provides a warm glow that catch the texture of his worn cloak and the metallic sheen of the weapon in his hands. Shallow depth of field, focused on the steady, silent presence of the mercenary as he provides his testimony. No face visible, just the silhouette in the darkness. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, rusted iron, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
@@ -1992,7 +2006,7 @@ HTML :
 [clue_60]
 이름 : 중앙 복도#1
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 600
 중요도 : 보통
@@ -2006,13 +2020,13 @@ HTML :
 관련 : 슬리더
 의도 : 슬리더가 암흑의 단검을 늘 가지고 다녔다는 증언
 내용 :
-슬리더를 수행하던 암살대원의 실무적인 보고 내용이다. "슬리더님은 항상 품속에 새카만 단검 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 빛을 전혀 반사하지 않는 특이한 재질인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다."
+슬리더를 수행하던 암살대원의 실무적인 보고 내용이다. "슬리더님은 늘 품속에 새카만 단검 한 자루를 지니고 다닙니다. 빛을 전혀 반사하지 않아 어둠 속에서는 날조차 보이지 않죠. 휴식 중에도 한시도 몸에서 떼지 않으실 정도입니다. 수로나 천장을 타고 소리 없이 접근하는 그분의 기동성에 이 보이지 않는 칼날이 더해지면, 표적은 기척을 느끼기도 전에 목숨을 잃습니다."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="character-slither">슬리더</span>를 수행하던 암살대원의 실무적인 보고 내용이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div><span class="character-slither">슬리더</span>님은 항상 품속에 <span class="emphasis">단검</span> 한 자루를 지니고 다닙니다. 무광 처리가 된 것처럼 <span class="emphasis">빛을 전혀 반사하지 않는 특이한 재질</span>인데, 금속 특유의 차가운 광택조차 없어 어둠 속에서는 날이 아예 보이지 않죠. 임무 중에는 물론이고 휴식 중에도 한시도 몸에서 떼지 않는 것을 보아, 그 무기에 대한 신뢰나 집착이 상당한 것으로 보입니다.</div>
+    <div><span class="character-slither">슬리더</span>님은 늘 품속에 새카만 <span class="emphasis">단검</span> 한 자루를 지니고 다닙니다. 빛을 전혀 반사하지 않아 어둠 속에서는 날조차 보이지 않죠. 휴식 중에도 한시도 몸에서 떼지 않으실 정도입니다. <span class="emphasis">수로나 천장</span>을 타고 소리 없이 접근하는 그분의 기동성에 이 보이지 않는 칼날이 더해지면, 표적은 기척을 느끼기도 전에 목숨을 잃습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an elite assassin member (scout) seen from behind, standing in the long, dimly lit central corridor of the fortress (as seen in 12_중앙_복도.png). The assassin is clad in dark, non-reflective leather armor and a deep hood, his silhouette blending into the heavy shadows cast by the high arcs and stone pillars of the corridor. He is captured in a still, alert posture as if delivering a confidential report. In the background, a single flickering wall torch casts a narrow, dancing pool of warm light, highlighting the rough texture of the ancient stone floor and the cold, dark atmosphere of the hallway. Extremely shallow depth of field, focused on the steady, mysterious presence of the scout. No face visible, just the dark silhouette in the shadows. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -2022,7 +2036,7 @@ HTML :
 [clue_61]
 이름 : 중앙 복도#2
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 610
 중요도 : 낮음
@@ -2100,7 +2114,7 @@ HTML :
 [clue_63]
 이름 : 무기고#4
 유형 : 물증
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 630
 중요도 : 낮음
@@ -2126,7 +2140,7 @@ HTML :
 [clue_64]
 이름 : 중앙 복도#3
 유형 : 증언
-단계 : 조사 2단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 640
 중요도 : 낮음
@@ -2140,13 +2154,13 @@ HTML :
 관련 : 엘드리치
 의도 : 엘드리치가 정오 무렵 후방 지휘소에서 타격을 입고 비틀거리며 잠적했음을 알리는 단서.
 내용 :
-후방 지휘소를 지키던 기록관의 증언이다. "정오가 조금 지나서, 후방 지휘소에 계시던 엘드리치 님께서 지휘소 밖으로 나가셨습니다. 그런데 평소처럼 정정해 보이시지 않고, 몹시 비틀거리고 힘겨워 보이셔서 건강이 무척 걱정되더군요. 이후 지휘소에서는 뵙지 못했습니다."
+후방 지휘소를 지키던 기록관의 증언이다. "정오가 조금 지나서, 후방 지휘소에 계시던 엘드리치님께서 밖으로 나가셨습니다. 그런데 평소와 달리 몹시 비틀거리고 힘겨워 보이셔서 무척 걱정되더군요. 이후 지휘소에서는 뵙지 못했습니다."
 HTML :
 <div class="story-content">
   <div class="script-direction">후방 지휘소를 지키던 기록관의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>정오가 조금 지나서, 후방 지휘소에 계시던 <span class="character-eldritch">엘드리치</span> 님께서 지휘소 밖으로 나가셨습니다. 그런데 평소와 달리 몹시 비틀거리고 힘겨워 보이셔서 무척 걱정되더군요. 이후 지휘소에서는 뵙지 못했습니다.</div>
+    <div>정오가 조금 지나서, 후방 지휘소에 계시던 <span class="character-eldritch">엘드리치</span> 님께서 밖으로 나가셨습니다. 그런데 평소와 달리 몹시 비틀거리고 힘겨워 보이셔서 무척 걱정되더군요. 이후 지휘소에서는 뵙지 못했습니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. A dark silhouette of a medieval record keeper facing the viewer, as if giving a testimony. The face is completely hidden in deep shadows. The background is a heavily blurred, out-of-focus stone corridor to suggest a somber atmosphere without showing specific details. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, mysterious and tense vibe.
