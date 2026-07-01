@@ -192,8 +192,8 @@
 단계 시작시 자동 획득 : N
 ------------------------------------------------------------
 <div class="story-content">
-  <p>복도로 나가는 뒷문은 굳게 닫혀 있다.</p>
-  <p>잠겨서 열리지 않는다. 이 문은 안쪽에서 잠금 장치를 눌러야만 잠글 수 있는 구조다. 밖에서 열쇠로 열고 들어올 수 없다.</p>
+  <p>복도로 나가는 뒷문은 닫혀 있다.</p>
+  <p>이 문은 안쪽에서 잠금 장치를 눌러야만 잠글 수 있다.</p>
 </div>
 
 ============================================================
@@ -755,7 +755,7 @@
 <div class="story-content">
   <p>타 학과 교양 수업을 같이 들었던 학생의 증언이다.</p>
   <p>"<span class="character-han">세린</span>이는 애초에 학점에 관심이 없어 보였어요. 조원들끼리 모일 때 맨날 늦고 안 올 때도 있었어요."</p>
-  <p>"하지만 발표는 잘해서 성적은 나쁘지 않았어요."</p>
+  <p>"하지만 발표는 따라읽는 티가 안 나게 잘 하더라구요."</p>
 </div>
 
 ============================================================
@@ -944,7 +944,7 @@
 ------------------------------------------------------------
 <div class="story-content">
   <p><span class="emphasis">장필순</span>의 추가 증언이다.</p>
-  <p>"제가 생각하기엔 <span class="character-han">세린</span>이가 질투했던 건 <span class="mystery">전지혜</span>였을 거예요."</p>
+  <p>"제가 생각하기엔 <span class="character-han">세린</span>이가 질투했던 건 정통과 <span class="mystery">전지혜</span>였을 거예요."</p>
   <p>"몇 년 전 가을, <span class="emphasis">지혜</span>가 자퇴하고 나서는 학교에서 여왕처럼 다녔고, 그때부터는 남자애들도 엄청 대시했거든요."</p>
   <p>[이 단서가 앞면으로 공개되었거나 <span class="character-lee">이준서</span>가 소유하였다면, <span class="character-han">한세린</span>에 대하여#7 단서를 조사할 수 있습니다.]</p>
 </div>
@@ -1628,7 +1628,11 @@
 단계 시작시 자동 획득 : N
 ------------------------------------------------------------
 <div class="story-content">
-  <p><span class="character-lee">이준서</span>의 학사 시스템 성적 조회 화면이다.</p>
+  <p><span class="character-lee">이준서</span>의 학생증으로 공용 PC에 접속해 보았다.</p>
+  <div class="summary-header text-center spacing-bottom">
+    <strong>최근 접속일시:</strong> 2023.11.24 14:20
+  </div>
+  <p>이어서 학사 시스템 성적 조회를 해 보았다.</p>
   <p class="subsection-title">2019년 1학기</p>
   <table>
     <thead>
@@ -1726,7 +1730,11 @@
 단계 시작시 자동 획득 : N
 ------------------------------------------------------------
 <div class="story-content">
-  <p><span class="character-han">한세린</span>의 학사 시스템 성적 조회 화면이다.</p>
+  <p><span class="character-han">한세린</span>의 학생증으로 공용 PC에 접속해 보았다.</p>
+  <div class="summary-header text-center spacing-bottom">
+    <strong>최근 접속일시:</strong> 2023.11.02 09:30
+  </div>
+  <p>이어서 학사 시스템 성적 조회를 해 보았다.</p>
   <p class="subsection-title">2019년 1학기</p>
   <table>
     <thead>
@@ -1854,7 +1862,11 @@
 단계 시작시 자동 획득 : N
 ------------------------------------------------------------
 <div class="story-content">
-  <p><span class="character-choi">최도윤</span>의 학사 시스템 성적 조회 화면이다.</p>
+  <p><span class="character-choi">최도윤</span>의 학생증으로 공용 PC에 접속해 보았다.</p>
+  <div class="summary-header text-center spacing-bottom">
+    <strong>최근 접속일시:</strong> 2023.11.27 18:05
+  </div>
+  <p>이어서 학사 시스템 성적 조회를 해 보았다.</p>
   <p class="subsection-title">2020년 1학기</p>
   <table>
     <thead>
@@ -1960,7 +1972,11 @@
 단계 시작시 자동 획득 : N
 ------------------------------------------------------------
 <div class="story-content">
-  <p><span class="character-hwang">황기순</span>의 학사 시스템 성적 조회 화면이다.</p>
+  <p><span class="character-hwang">황기순</span>의 학생증으로 공용 PC에 접속해 보았다.</p>
+  <div class="summary-header text-center spacing-bottom">
+    <strong>최근 접속일시:</strong> 2023.11.15 11:45
+  </div>
+  <p>이어서 학사 시스템 성적 조회를 해 보았다.</p>
   <p class="subsection-title">2018년 1학기</p>
   <table>
     <thead>
