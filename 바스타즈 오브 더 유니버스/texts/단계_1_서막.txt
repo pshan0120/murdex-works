@@ -33,18 +33,67 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1776238231/murdex/images/audi
   <p>
     본 시나리오는 다음과 같이 총 14단계로 순차 진행됩니다.
   </p>
-  <ul class="timeline-list">
-    <li><strong>1단계: 서막</strong> - 공통 규칙 및 내 역할 숙지</li>
-    <li><strong>2단계: 대면</strong> - 자기소개</li>
-    <li><strong>3단계: 막간 I</strong> - 서사 진행</li>
-    <li><strong>4~6단계: 첫 번째~세 번째 조사</strong> - 조별 조사 (각 5분씩)</li>
-    <li><strong>7단계: 막간 II</strong> - 서사 진행</li>
-    <li><strong>8~10단계: 네 번째~여섯 번째 조사</strong> - 조별 조사 (각 5분씩)</li>
-    <li><strong>11단계: 전체 토론</strong></li>
-    <li><strong>12단계: 최후 발언</strong></li>
-    <li><strong>13단계: 심판</strong> - 질문과 답변</li>
-    <li><strong>14단계: 종막</strong></li>
-  </ul>
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 25%;">순서</th>
+        <th>단계명</th>
+        <th style="width: 25%;">시간</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1단계</td>
+        <td>서막</td>
+        <td>20분</td>
+      </tr>
+      <tr>
+        <td>2단계</td>
+        <td>대면</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>3단계</td>
+        <td>막간 I</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>4~6단계</td>
+        <td>조사 I~III</td>
+        <td>각 10분씩</td>
+      </tr>
+      <tr>
+        <td>7단계</td>
+        <td>막간 II</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>8~10단계</td>
+        <td>조사 IV~VI</td>
+        <td>각 10분씩</td>
+      </tr>
+      <tr>
+        <td>11단계</td>
+        <td>통합 조사</td>
+        <td>60분</td>
+      </tr>
+      <tr>
+        <td>12단계</td>
+        <td>최후 발언</td>
+        <td>10분</td>
+      </tr>
+      <tr>
+        <td>13단계</td>
+        <td>심판</td>
+        <td>5분</td>
+      </tr>
+      <tr>
+        <td>14단계</td>
+        <td>종막</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
 
   <div class="section-title">4. 진행 방식 및 공통 규칙</div>
   <ul>
@@ -84,7 +133,7 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1776238231/murdex/images/audi
 
   <div class="section-title">8. 다음 단계 안내</div>
   <p>
-    앞으로 매 단계마다 지금처럼 단계 설명이 표시됩니다. 모두 숙지했으면 창을 닫고, 상단 캐릭터명 또는 하단 컨트롤 패널의 <span class="highlight">MY > 내 역할</span>을 클릭하여 '내 역할 정보'를 읽으세요. 충분히 숙지하였다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행할 준비가 되었음을 모두에게 알리세요.
+    앞으로 매 단계마다 지금처럼 단계 설명이 표시됩니다. 모두 숙지했으면 창을 닫고, 우측 사이드바의 <strong>내 역할</strong> 또는 하단 컨트롤 패널의 <span class="highlight">MY > 내 역할</span>에서 자신의 설정을 숙지하세요. 충분히 숙지하였다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행할 준비가 되었음을 모두에게 알리세요.
   </p>
 
 </div>
