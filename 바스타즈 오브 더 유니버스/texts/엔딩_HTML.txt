@@ -14,42 +14,94 @@
   </div>
 
   <div class="quote-box">
-    왕좌의 방 문이 닫히고 촛불 아래 생존자들이 모였다. 증거는 수장 <span class="character-skullcrusher">스컬크러셔</span>를 향하고 있었다.
+    마지막 촛불이 흔들리는 왕좌의 방. 생존자들의 눈은 모두 한 사람, 수장 <span class="character-skullcrusher">스컬크러셔</span>를 향해 있었다.
   </div>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;기사단 소속 류크... 우리를 속이고 수장 행세를 하다니, 역겹군요. 당신의 가증스러운 연극도 여기까지입니다.&quot;
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;류크. 골든 킹의 심복으로 날 배신했던 그 이름을, 이런 곳에서 다시 듣게 될 줄은 몰랐군요.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;어차피 이 성채를 점령한 건 나다! 이제 와서 내 과거를 캐내 목을 죄겠다니, 은혜도 모르는 놈들!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 종족을 몰살시킨 놈이 우리 수장 행세를 하고 있었다니. 형제들의 피가 아직도 네 손에 묻어있겠지.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;어쩐지 검술이 이질적이더라니... 빛의 찌꺼기가 숨어 있었군. 그 잘난 심장을 도려내주마.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;그 고대인의 검, 실은 마신의 검이었더군요. 그런 자를 대장으로 믿고 따랐다니, 더는 신뢰할 수 없습니다.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;솔라이트 출신을 대장으로 모실 순 없습니다. 전술적으로도, 조직적으로도 당신은 소거 대상입니다.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;솔라이트의 기사가 우리를 발판 삼아 왕좌를 노렸다. 처음부터 그게 목적이었겠지.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;기사 놈들이 내 형제들을 도살했던 원한을 잊었을 것 같나! 당장 그 낯짝을 쪼개주마!&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;입을 막으려 죄 없는 서기관까지 베었더군. 그 손, 이번엔 내가 멈추게 하지.&quot;
     </div>
+  </div>
 
+  <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;성기사 류크... 내 고향을 재로 만든 솔라이트의 맹견. 네놈 목은 내가 딴다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...전부 사실이다. 하지만 그때는 그럴 수밖에 없었다.&quot;
     </div>
   </div>
 
   <p>
-    <span class="character-skullcrusher">스컬크러셔</span>는 저항했다. <span class="character-elantra">엘란트라</span>가 방패로 정면을 봉쇄하고, <span class="character-gorehoof">고어후프</span>가 도끼로 갑옷을 찢었다. <span class="character-balrog">발로그</span>가 공중에서 짓누르고, <span class="character-malice">말리스</span>의 지휘 아래 <span class="character-slither">슬리더</span>의 단검이 투구 틈새를 파고들었다.
+    아무도 그 말을 듣지 않았다. 처형이 결정되는 순간, <span class="character-skullcrusher">스컬크러셔</span>의 대검이 촛불 그림자를 가르며 <span class="character-malice">말리스</span>의 목을 노렸다.
   </p>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;너희가 누구를 깨우는지 모르는구나...&quot;
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;고어후프!&quot;
+    </div>
+  </div>
+
+  <p>
+    부름이 끝나기도 전에 도끼가 끼어들었다. 대검과 도끼가 맞부딪히며 불티가 사방으로 튀었다.
+  </p>
+
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;여기선 못 지나간다!&quot;
+    </div>
+  </div>
+
+  <p>
+    힘겨루기가 이어지는 사이, 허공을 가른 투창이 <span class="character-skullcrusher">스컬크러셔</span>의 투구를 스쳤다.
+  </p>
+
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;시야를 가렸습니다, 지금!&quot;
+    </div>
+  </div>
+
+  <p>
+    한순간 그의 고개가 흔들렸다. 그 틈을 놓치지 않고 그림자가 머리 위에서 떨어졌다.
+  </p>
+
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;위.&quot;
+    </div>
+  </div>
+
+  <p>
+    어깨를 짓누르는 무게에 <span class="character-skullcrusher">스컬크러셔</span>의 무릎이 꺾였다. 등 뒤로 소리 없는 그림자가 따라붙었다.
+  </p>
+
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...여기까지다.&quot;
+    </div>
+  </div>
+
+  <p>
+    단검이 갑옷 이음새를 정확히 파고들었다.
+  </p>
+
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...나는 다만, 살아남으려 했을 뿐이다.&quot;
     </div>
   </div>
 
@@ -57,99 +109,139 @@
     <span class="character-skullcrusher">스컬크러셔</span>가 무너졌다.
   </p>
 
-  <p>
-    마침내 배신자의 숨이 끊어지고 성채에는 차가운 정적이 맴돌았다. 살아남은 동료들은 서로를 바라보며 길었던 불신과 의심이 걷히고, 마침내 사건이 해결되어 평화와 안도감이 찾아왔음을 느꼈다.
-  </p>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;'살아남으려 했다'라... 마지막까지 자기 합리화군요.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;속이 시원하진 않다만, 끝은 끝이지.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다. 남은 건 정리뿐이군요.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;이걸로 끝인가.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...조용해졌군.&quot;
+    </div>
+  </div>
 
   <details class="ending-details">
     <summary class="suspense-msg">잠깐의 시간이 흘렀다.</summary>
     <p>
-      성채 곳곳에서 불길한 빛이 뿜어져 나왔다. <span class="character-eldritch">엘드리치</span>가 설치한 <span class="emphasis">영혼석</span>이 빛났다. 어두운 기운이 시신으로 밀려들었다. 육신이 뒤틀리며 안광이 번뜩였다.
+      성채 곳곳에서 <span class="emphasis">영혼석</span>이 빛나기 시작했다. 생전 <span class="character-eldritch">엘드리치</span>가 심어둔 부활의 의식이었다. 어두운 기운이 <span class="character-skullcrusher">스컬크러셔</span>의 시신으로 스며들었다.
     </p>
-    <div class="script-container">
-      <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;이 피비린내... 이 절망! 기사단 놈의 오만이 기어코 내 봉인을 풀었구나!&quot;
-      </div>
-    </div>
     <p>
-      시신을 매개로 마신 <span class="mystery">다크 시리어스</span>가 강림했다.
+      시신에 <span class="character-eldritch">엘드리치</span>의 영혼이 깃들었다. 뒤틀린 육신이 일어섰다. 본모습, 마신 <span class="mystery">다크 시리어스</span>였다.
     </p>
-
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;세상에... 저 늙은이가 마신 다크 시리어스였다고?! 다들 당장 놈을 죽여야 해!&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;...됐다. 드디어, 돌아왔군.&quot;
       </div>
     </div>
 
-    <p>
-      생존자들은 마신에게 달려들었다. <span class="character-gorehoof">고어후프</span>가 도끼를 내리찍었지만, 마신이 그를 성벽 너머로 날려버렸다.
-    </p>
-
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;크아아악! 힘이... 이 미친 괴물 새끼 힘이... 내 뼈가 으스러지고 있어!&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;엘드리치...? 아니, 그럴 리가...&quot;
       </div>
     </div>
 
     <p>
-      <span class="character-slither">슬리더</span>가 그림자 이동으로 습격했으나, 마신에게 목을 잡혀 처박혔다.
+      말리스는 그 자리에서 굳어 버렸다. 짧은 침묵 끝에, 그녀는 이를 악물었다.
     </p>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;미친... 어둠 속에 숨었는데 날 쳐다보고 있잖아...!&quot;
-      </div>
-    </div>
-
-    <div class="script-container">
-      <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;말리스... 네년의 그 얄팍한 속임수 덕에 기어이 내가 부활했구나.&quot;
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;전원 흩어져요! 붙잡히면 끝입니다!&quot;
       </div>
     </div>
 
     <p>
-      <span class="character-balrog">발로그</span>가 공중 강습을 가하자, 마신은 <span class="character-skullcrusher">스컬크러셔</span>의 힘을 빌려 <span class="emphasis">종말의 검기</span>를 쏘아냈다.
+      명령이 끝나기도 전에 <span class="character-gorehoof">고어후프</span>가 뛰어들었다. 도끼는 조금 전과 똑같은 궤적을 그렸다. 하지만 그 자리엔 이미 아무도 없었다.
     </p>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;이런 미친...! 내가 모시던 늙은이가 마신이었다고?!&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;...뭐?&quot;
       </div>
     </div>
 
     <p>
-      참격에 창문이 부서지고 <span class="character-elantra">엘란트라</span>의 방어구가 찢겨 나갔다.
+      대답 대신 손등이 날아들었다. <span class="character-gorehoof">고어후프</span>의 거구가 돌기둥을 부수며 처박혔다.
     </p>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;상황 통제 불능... 여긴 지옥입니다... 전원 퇴각해야...&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;투창, 발사!&quot;
       </div>
     </div>
 
     <p>
-      <span class="character-malice">말리스</span>는 구석에서 그 광경을 지켜보았다.
+      심장을 정확히 노린 창끝이 닿기도 전에 재가 되어 흩날렸다.
     </p>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;내가... 내 이 얄팍한 머리로 저런 악마를 깨웠다고...? 다 끝났어...&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;...말도 안 돼.&quot;
       </div>
     </div>
 
     <p>
-      마신은 부서진 <span class="character-goldenking">골든 킹</span>의 왕좌에 앉았다.
+      그 위로 <span class="character-balrog">발로그</span>가 내리꽂혔다. 마신은 돌아보지도 않고 한 손으로 그의 목을 잡아챘다.
     </p>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;너희가 떠받들던 현자는 없다. 남은 건 오직 피와 살육뿐이다!&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...크윽.&quot;
+      </div>
+    </div>
+
+    <p>
+      그대로 바닥에 내리꽂힌 <span class="character-balrog">발로그</span>는 다시 일어나지 못했다.
+    </p>
+
+    <p>
+      그림자 속에서 <span class="character-slither">슬리더</span>의 단검이 뻗어 나왔다. 하지만 마신의 눈은 이미 그를 향해 있었다.
+    </p>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...그림자보다 빠르다고?&quot;
+      </div>
+    </div>
+
+    <p>
+      목이 꺾이는 소리와 함께 <span class="character-slither">슬리더</span>가 쓰러졌다.
+    </p>
+
+    <p>
+      홀로 남은 <span class="character-malice">말리스</span> 앞으로, 마신이 서두르지 않고 다가섰다.
+    </p>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;...내 계산이, 이렇게까지 어긋날 줄은.&quot;
+      </div>
+    </div>
+
+    <p>
+      <span class="character-malice">말리스</span>마저 쓰러지며, 마신의 승리가 확정되었다.
+    </p>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;고작 다섯이서 날 막겠다고 덤빈 건가. 이제 이 우주는 다시 어둠 아래 잠들 것이다.&quot;
       </div>
     </div>
 
     <div class="divider"></div>
     <p>
-      <span class="character-bastards">바스타즈</span>의 시대는 마신의 강림으로 끝났다. 화이트스컬 성에는 어둠만이 남았다.
+      <span class="character-bastards">바스타즈</span>의 시대는 그렇게 끝났다. 화이트스컬 성에는 어둠만이 남았다.
     </p>
 
     <div class="ending-result">
@@ -179,112 +271,201 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;천장의 몽유석과 와이어 트랩... 말리스, 당신의 얄팍한 함정이 결국 현자님을 죽게 만들었군요.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;천장의 마나플레어 와이어와 몽유석. 우연한 사고가 아니라 처음부터 계획된 살해였습니다.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;엘드리치가 그토록 널 신뢰했건만... 잔머리를 굴리다 결국 이 사단을 내?!&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;내 단검이 흉기였다. 문서고에서 사라졌을 때 알아챘어야 했군.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;아니에요! 전 마력도 없는데 어떻게 그런 트랩을 깔아요! 발로그, 당신이 투명 망토를 쓰고 직접 설치했잖아요!&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;참모장으로 세운 게 나였다. 그 믿음의 대가가 이거였나.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;웃기지 마! 잔당을 막을 부비트랩이라며! 그게 살해 함정인 줄 내가 알았겠냐?! 덤터기 씌우지 마라!&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;등 뒤에 덫이나 놓는 비겁한 수법. 사내답게 맞붙을 배짱도 없었나!&quot;
+    </div>
+  </div>
+
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;저는 마력이 없어요. 그런 정교한 트랩을 제가 어떻게 짜죠? 발로그, 망토를 쓰고 직접 설치한 건 당신이잖아요.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;혓바닥이 너무 길군. 네가 좋아하던 몽유석처럼 조용히 잠이나 자라.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;잔당을 막을 방어 장치라고 했잖나. 살해 트랩인 줄 알았다면 손댔을 리 없다.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;연구실에서 나온 계산식, 낙하 각도와 시간까지 적힌 그 필체는 당신 것이더군요. 더는 발뺌하지 마세요.&quot;
     </div>
   </div>
 
   <p>
-    동료들이 그녀를 에워쌌다. <span class="character-skullcrusher">스컬크러셔</span>와 <span class="character-elantra">엘란트라</span>가 퇴로를 막았다. <span class="character-gorehoof">고어후프</span>가 도끼를 겨누고, <span class="character-balrog">발로그</span>가 공중에서 압박했다. <span class="character-slither">슬리더</span>의 단검이 심장에 박혔다.
+    말리스는 더 이상 할 말을 찾지 못했다. 처형이 결정되었다.
+  </p>
+
+  <p>
+    도망칠 곳도, 맞설 힘도 없었다.
   </p>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;뒤에서 수작이나 부리는 비겁한 년. 당장 도끼로 찍어주마.&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;어딜 도망가려고!&quot;
     </div>
   </div>
 
   <p>
-    <span class="character-malice">말리스</span>는 금색 펜던트를 쥐고 절규했다.
+    거대한 손이 팔을 붙들었다. <span class="character-elantra">엘란트라</span>의 방패가 남은 퇴로마저 막아섰다.
   </p>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;발로그... 같이 자유를 찾자고 해놓고... 내 딸은 어떡하라고...!&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...내 이름을 판 대가다.&quot;
     </div>
   </div>
 
   <p>
-    <span class="character-skullcrusher">스컬크러셔</span>의 대검과 <span class="character-gorehoof">고어후프</span>의 도끼가 육신을 베었다. <span class="character-balrog">발로그</span>가 급강하하며 숨통을 끊었다. <span class="character-malice">말리스</span>는 차가운 바닥에서 죽음을 맞이했다.
+    단검이 그녀의 가슴에 박혔다. <span class="character-balrog">발로그</span>만이 한 걸음 물러선 채 고개를 돌렸다.
   </p>
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;안 돼... 엘드리치... 기어코 내 목숨까지...&quot;
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;...아가, 미안해. 결국 데리러 가지 못했구나.&quot;
     </div>
   </div>
 
   <p>
-    마침내 배신자의 숨이 끊어지고 성채에는 차가운 정적이 맴돌았다. 살아남은 동료들은 서로를 바라보며 길었던 불신과 의심이 걷히고, 마침내 사건이 해결되어 평화와 안도감이 찾아왔음을 느꼈다.
+    <span class="character-malice">말리스</span>가 무너졌다.
   </p>
+
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;아이 이야기까지 나올 줄은 몰랐군. ...그래도 이걸로 끝이다.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다. 더 볼 것 없죠.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;찝찝하다만, 어쩔 수 없지.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...내 이름은 되찾았다.&quot;
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...끝났군.&quot;
+    </div>
+  </div>
 
   <details class="ending-details">
     <summary class="suspense-msg">잠깐의 시간이 흘렀다.</summary>
     <p>
-      성채 곳곳에서 불길한 빛이 뿜어져 나왔다. <span class="character-eldritch">엘드리치</span>가 설치한 <span class="emphasis">영혼석</span>이 빛났다. 어둠의 기운이 육신으로 침투했다. 시신이 뒤틀리며 다시 일어섰다.
+      성채 곳곳에서 <span class="emphasis">영혼석</span>이 빛나기 시작했다. 어두운 기운이 <span class="character-malice">말리스</span>의 시신으로 스며들었다.
+    </p>
+    <p>
+      시신에 <span class="character-eldritch">엘드리치</span>의 영혼이 깃들었다. 뒤틀린 육신이 일어섰다. 본모습, 마신 <span class="mystery">다크 시리어스</span>였다.
     </p>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;말리스... 네년의 그 역겨운 함정이 결국 이 육신을 완성했구나.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;가녀린 그릇이지만, 충분하군. 말리스, 네 계산이 결국 날 살렸다.&quot;
+      </div>
+    </div>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;말리스가... 아니, 저건 엘드리치...?!&quot;
       </div>
     </div>
 
     <p>
-      생존자들은 무기를 고쳐 쥐었다. 마신 <span class="mystery">다크 시리어스</span>는 <span class="character-malice">말리스</span>의 통찰력을 활용해 각자의 허점을 파고들었다.
+      짧은 정적 끝에, 그는 대검을 고쳐 쥐었다.
     </p>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이런 젠장! 내 움직임을 전부 꿰뚫어 보고 있잖아! 대체 정체가 뭐야!&quot;
-      </div>
-
-      <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;이게 무슨...! 주변 시공간이 일그러지고 있잖아!&quot;
-      </div>
-
-      <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;크아아! 왜 안 맞는 거냐고! 이 짐승 같은 직감이 다 비껴가고 있어!&quot;
-      </div>
-
-      <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;이런 미친...! 숨을 곳도 없이 바닥이 다 박살나고 있잖아!&quot;
-      </div>
-
-      <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;저런 괴물한테 전술이 무슨 소용이람... 우린 다 죽을 겁니다.&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;전원 대형을 갖춰라! 절대 물러서지 마라!&quot;
       </div>
     </div>
 
     <p>
-      마신은 오차 없이 전사들을 사냥했다. 왕좌의 방은 파괴되었다. 마신은 왕좌에 앉았다.
+      <span class="character-gorehoof">고어후프</span>가 다시 돌진했다. 도끼는 허공을 갈랐고, 다음 순간 그는 무너진 계단 아래로 굴러떨어졌다.
     </p>
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;이 같잖은 성채의 피라미들아... 오늘 여기가 너희 무덤이다.&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;...크윽.&quot;
+      </div>
+    </div>
+
+    <p>
+      <span class="character-elantra">엘란트라</span>의 창이 날아갔지만, 꿰뚫은 건 잔상이었다.
+    </p>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;...허상이라니.&quot;
+      </div>
+    </div>
+
+    <p>
+      <span class="character-slither">슬리더</span>의 단검이 마신의 가슴에 꽂혔다. 하지만 피 한 방울 흐르지 않았다.
+    </p>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...안 통하나.&quot;
+      </div>
+    </div>
+
+    <p>
+      <span class="character-slither">슬리더</span>가 그대로 튕겨나가 쓰러졌다.
+    </p>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;발로그. '속은 척'이라... 그 얕은 수를 내가 몰랐을 것 같나?&quot;
+      </div>
+    </div>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...!&quot;
+      </div>
+    </div>
+
+    <p>
+      <span class="character-balrog">발로그</span>는 날개를 펴기도 전에 무너졌다.
+    </p>
+
+    <p>
+      홀로 남은 <span class="character-skullcrusher">스컬크러셔</span>가 대검을 들어 올렸다.
+    </p>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...그래도, 마지막까지 수장답게.&quot;
+      </div>
+    </div>
+
+    <p>
+      <span class="character-skullcrusher">스컬크러셔</span>마저 쓰러지며, 마신의 승리가 확정되었다.
+    </p>
+
+    <div class="script-container">
+      <div class="script-line">
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;다섯 명이 와도 결과는 같았다. 이 우주는 머지않아 다시 어둠에 잠길 것이다.&quot;
       </div>
     </div>
 
     <div class="divider"></div>
 
     <p>
-      화이트스컬 성에는 마신의 통치와 비웃음만이 남았다.
+      <span class="character-bastards">바스타즈</span>의 시대는 그렇게 끝났다. 화이트스컬 성에는 어둠만이 남았다.
     </p>
     <div class="ending-result">
       엘드리치 단독 승리
