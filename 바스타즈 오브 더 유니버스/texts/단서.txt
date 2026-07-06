@@ -212,7 +212,7 @@ HTML :
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 고어후프
-의도 : 고어후프가 말리스에게 주기 위해 고향 행성에서 가져온 종족 최후의 유물이자 귀중한 보물. 고어후프 본인은 정확한 가치를 모르고 있으나, 희소성으로 인해 엄청난 가치를 지닌다. 추후 슬리더의 목표와 연계됨. (게임보드 공개 불가)
+의도 : 고어후프가 말리스에게 주기 위해 고향 행성에서 가져온 종족 최후의 유물이자 귀중한 보물. 고어후프 본인은 정확한 가치도, 종족별 효과가 다르다는 사실도 전혀 모르고 있으나, 희소성으로 인해 엄청난 가치를 지닌다. 추후 슬리더의 목표, 그리고 clue_65(지하창고#12)에서 밝혀지는 종족별 효과를 통해 발로그·말리스의 목표와도 연계됨. (게임보드 공개 불가)
 내용 :
 영롱한 붉은빛을 띠는 아름다운 귀걸이.
 HTML :
@@ -2192,3 +2192,35 @@ HTML :
 이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. A dark silhouette of a medieval record keeper facing the viewer, as if giving a testimony. The face is completely hidden in deep shadows. The background is a heavily blurred, out-of-focus stone corridor to suggest a somber atmosphere without showing specific details. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, mysterious and tense vibe.
 장소 : 11_중앙_복도
 파일명 : 64_중앙_복도_3
+
+[clue_65]
+이름 : 지하창고#12
+유형 : 물증
+단계 : 조사 3단계
+소모AP : 1
+정렬순서 : 521
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 고어후프, 발로그, 말리스
+의도 : 붉은색 귀걸이의 진짜 정체와 종족별 효과를 밝히는 단서. 인간이 오래 지니면 서서히 미노타우로스로 물드는 저주, 미노타우로스 혈통에게는 광기를 다스리는 방패, 마족에게는 계약과 저주를 끊는 열쇠, 그 외 수인종에게는 아무런 효과가 없다는 사실을 암시함. 말리스(귀걸이를 계속 지녀도 되는가), 발로그(자유를 위해 이 귀걸이가 필요하다는 것) 양쪽의 개인 목표와 직결됨.
+내용 :
+미노타우로스 부족의 구전 신화를 정리한 낡은 문서 조각이다. "태초의 뿔은 인간의 죄를 먹고 자라난 저주였으나, 같은 피를 타고난 자에게는 광기를 다스리는 방패가 되어주었다. 어둠에서 태어나 사슬에 묶인 자에게는 그 사슬을 끊는 열쇠가 되어주었으나, 다른 짐승의 혈통에게는 그저 붉은 돌 조각에 지나지 않았다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">미노타우로스 부족의 구전 신화를 정리한 낡은 문서 조각이다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body">
+      "태초의 뿔은 <span class="emphasis">인간의 죄</span>를 먹고 자라난 저주였으나, 같은 피를 타고난 자에게는 <span class="emphasis">광기를 다스리는 방패</span>가 되어주었다. <span class="emphasis">어둠에서 태어나 사슬에 묶인 자</span>에게는 그 사슬을 끊는 열쇠가 되어주었으나, 다른 짐승의 혈통에게는 그저 붉은 돌 조각에 지나지 않았다."
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a crumbling, ancient parchment fragment with faded tribal script, resting on a dusty stone shelf. A small illustration of a horned bull-skull motif is faintly visible in the margin. Shallow depth of field, background is dark storage room. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+장소 : 07_지하창고
+파일명 : 65_지하창고_12
