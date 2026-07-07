@@ -171,34 +171,9 @@ HTML :
 장소 : 없음
 파일명 : 05_엘란트라_협박_쪽지
 
-[clue_06]
-이름 : 마력석
-유형 : 물증
-단계 : 시작 단계
-소모AP : 0
-정렬순서 : 60
-중요도 : 높음
-핵심 단서 여부 : Y
-교환 가능 여부 : Y
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
-관련 : 슬리더
-의도 : 슬리더가 고향 행성의 부활을 위해 반드시 필요한 물건이며, 과거 말리스의 마력이 담긴 아이템. 마력석을 사용해서 마나플레어 와이어를 인화시킬 수 있다는 사실을 알게 되면 슬리더를 의심할 수 있음. 슬리더가 처음부터 소유함.
-내용 :
-표면의 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오며, 깊은 중심부에서 빛의 핵이 일렁이고 있다. 돌 자체에서 은은하고 따뜻한 온기가 계속해서 새어 나오고 있다.
-HTML :
-<div class="story-content">
-  표면의 <span class="emphasis">은빛 문양</span> 사이로 강렬한 <span class="emphasis">청람색 빛</span>이 뿜어져 나오며, 깊은 중심부에서 <span class="emphasis">빛의 핵</span>이 일렁이고 있다. 돌 자체에서 <span class="emphasis">은은하고 따뜻한 온기</span>가 계속해서 새어 나오고 있다.
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small mysterious gemstone. The stone features glowing silver patterns and intense cyan-blue light inside. No people. Shallow depth of field, background is indistinct and dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, vintage analog fantasy aesthetic.
-장소 : 없음
-파일명 : 06_마력석
 
 [clue_06_1]
-이름 : 붉은색 귀걸이
+이름 : 붉은색 목걸이
 유형 : 물증
 단계 : 시작 단계
 소모AP : 0
@@ -212,16 +187,16 @@ HTML :
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 고어후프
-의도 : 고어후프가 말리스에게 주기 위해 고향 행성에서 가져온 종족 최후의 유물이자 귀중한 보물. 고어후프 본인은 정확한 가치도, 종족별 효과가 다르다는 사실도 전혀 모르고 있으나, 희소성으로 인해 엄청난 가치를 지닌다. 추후 슬리더의 목표, 그리고 clue_65(지하창고#12)에서 밝혀지는 종족별 효과를 통해 발로그·말리스의 목표와도 연계됨. (게임보드 공개 불가)
+의도 : 고어후프가 말리스에게 주기 위해 부모의 유언과 함께 물려받은 종족 최후의 유물. "붉은색 목걸이"는 고어후프 본인이 진짜 이름을 몰라 그렇게만 불러온 이름일 뿐, 실제로는 "심연의 적석"이라는 별도의 이름과 기원(clue_16, 연구실#3)이 있음. 고어후프 본인은 정확한 가치도, 종족별 효과가 다르다는 사실도, 심지어 자신이 앓아온 광폭화의 저주가 이 목걸이에서 비롯되었다는 사실조차 전혀 모르고 있으나, 희소성으로 인해 엄청난 가치를 지닌다. 추후 슬리더의 목표, 그리고 clue_65(서재#8)에서 밝혀지는 종족별 효과를 통해 발로그·말리스의 목표와도 연계됨. (게임보드 공개 불가)
 내용 :
-영롱한 붉은빛을 띠는 아름다운 귀걸이.
+영롱한 붉은빛을 띠는 아름다운 목걸이.
 HTML :
 <div class="story-content">
-  영롱한 붉은빛을 띠는 아름다운 <span class="emphasis">귀걸이</span>. 표면에는 미노타우로스 종족 고유의 문양이 새겨져 있다.
+  영롱한 붉은빛을 띠는 아름다운 <span class="emphasis">목걸이</span>.
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A single beautiful red ruby earring resting on a dark velvet surface. The ruby glows with a deep, passionate red light. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A single beautiful red ruby pendant necklace resting on a dark velvet surface. The ruby glows with a deep, passionate red light. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, dramatic chiaroscuro lighting.
 장소 : 없음
-파일명 : 06_1_붉은색_귀걸이
+파일명 : 06_1_붉은색_목걸이
 
 ---
 
@@ -597,25 +572,21 @@ HTML :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 고어후프, 엘드리치, 말리스, 발로그
-의도 : 작중 등장하는 특수 마법 도구들의 효과 명시.
+의도 : 작중 등장하는 특수 마법 도구들의 효과 명시. "심연의 적석" 항목은 붉은색 목걸이의 실제 이름과 정체를 처음 접하게 되는 단서 — 고어후프 본인은 이 물건의 진짜 이름조차 모른 채 그냥 "붉은색 목걸이"라 불러왔다는 사실이 여기서 드러남.
 내용 :
 <희귀 마도구 조사 보고>
-■ 무한 식수통: 공기 중의 수분을 응집하여 끊임없이 맑은 물을 생성해내는 고대의 마법 가죽부대. 내부의 온도를 언제나 서늘하게 유지하여, 척박한 전장을 누비는 병사들에게는 황금보다 귀한 보급품으로 취급된다.
-■ 대지의 심장: 대지의 정수가 결정화된 고급 유물. 소유자의 육체 능력을 폭발적으로 강화하고 상처 영구 재생력을 부여한다. 다만, 소유자가 절망이나 분노 등 감정의 한계를 넘을 경우, 유물이 맹렬하게 생명력을 갈구하며 이성을 완전히 잠식하는 치명적인 부작용이 보고되어 있다.
+■ 심연의 적석: 고대 마족의 전설적인 보물. 소유자의 종족에 따라 기이한 영향을 미친다. 마족이 지니면 어떠한 계약에도 구속받지 않는 권능을 갖게 되며, 수인종이 지니면 초월적인 신체 능력을 얻는 대신 광폭화의 저주에 빠지게 된다. 만약 평범한 인간에게 건네줄 경우, 강력한 사랑의 묘약을 마신 것처럼 목걸이를 건네준 자에게 깊이 매혹된다.
 ■ 투명 망토: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 빛을 굴절시켜 착용자의 모습을 완전히 감춘다.
 ■ 마나플레어 와이어: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 일정 강도 이상의 마력이 감지되면 즉시 타올라 검은 재만 남기는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]
-■ 보온 브로치: 파이어 드레이크의 비늘을 가공하여 제작된 장신구. 장착 시 사용자의 체열이 밖으로 새나가지 않도록 보호막을 형성하며, 영하의 혹한이나 설산의 매서운 칼바람 속에서도 체온을 일정하게 유지시켜 생존을 돕는다.
 ■ 비전 세공함: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 본질적인 형상을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]
 HTML :
 <div class="story-content">
   <div class="document-page">
     <h3>&lt;희귀 마도구 조사 보고&gt;</h3>
     <div class="document-body small">
-      <div>■ <strong>무한 식수통</strong>: 공기 중의 수분을 응집하여 끊임없이 맑은 물을 생성해내는 고대의 마법 가죽부대. 내부의 온도를 언제나 서늘하게 유지하여, 척박한 전장을 누비는 병사들에게는 황금보다 귀한 보급품으로 취급된다.</div>
-      <div>■ <strong>대지의 심장</strong>: 대지의 정수가 결정화된 고급 유물. 소유자의 육체 능력을 폭발적으로 강화하고 상처 영구 재생력을 부여한다. 다만, 소유자가 <span class="emphasis">절망이나 분노 등 감정의 한계</span>를 넘을 경우, 유물이 맹렬하게 생명력을 갈구하며 이성을 완전히 잠식하는 치명적인 부작용이 보고되어 있다.</div>
+      <div>■ <strong>심연의 적석</strong>: 고대 마족의 전설적인 보물. 소유자의 종족에 따라 기이한 영향을 미친다. <span class="emphasis">마족</span>이 지니면 어떠한 계약에도 구속받지 않는 권능을 갖게 되며, <span class="emphasis">수인종</span>이 지니면 초월적인 신체 능력을 얻는 대신 광폭화의 저주에 빠지게 된다. 만약 평범한 <span class="emphasis">인간</span>에게 건네줄 경우, 강력한 사랑의 묘약을 마신 것처럼 목걸이를 건네준 자에게 깊이 <span class="emphasis">매혹된다</span>.</div>
       <div>■ <strong>투명 망토</strong>: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 빛을 굴절시켜 <span class="emphasis">착용자의 모습을 완전히 감춘다.</span></div>
       <div>■ <strong>마나플레어 와이어</strong>: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 일정 강도 이상의 <span class="emphasis">마력이 감지</span>되면 즉시 타올라 검은 재만 남기는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]</div>
-      <div>■ <strong>보온 브로치</strong>: 파이어 드레이크의 비늘을 가공하여 제작된 장신구. 장착 시 사용자의 체열이 밖으로 새나가지 않도록 보호막을 형성하며, 영하의 혹한이나 설산의 매서운 칼바람 속에서도 체온을 일정하게 유지시켜 생존을 돕는다.</div>
       <div>■ <strong>비전 세공함</strong>: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 <span class="emphasis">본질적인 형상</span>을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]</div>
     </div>
   </div>
@@ -1623,28 +1594,29 @@ HTML :
 파일명 : 46_지하창고_5
 
 [clue_47]
-이름 : 지하창고#6
-유형 : 관찰
+이름 : 마력석
+유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 470
 중요도 : 높음
-핵심 단서 여부 : N
+핵심 단서 여부 : Y
 교환 가능 여부 : Y
 획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 영문 6자리 암호 'GOLDEN' 입력
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 슬리더, 말리스
-의도 : 이 마력석은 과거 말리스의 마력이 봉인되어 있음.
+의도 : 슬리더가 고향 행성의 부활을 위해 찾고 있으며, 과거 말리스의 마력이 봉인되어 있는 핵심 아이템. 게임 중 슬리더와 말리스가 이를 차지하기 위해 경쟁함.
 내용 :
-'마력석'이라고 적혀 있는 보관함이다. 잠겨 있지 않으며, 열어보니 안에는 아무것도 들어 있지 않다.
+글자들을 올바르게 배치하자 찰칵 소리와 함께 마법 자물쇠가 풀리며 보관함이 열렸다. 그 안에는 표면의 은빛 문양 사이로 강렬한 청람색 빛이 뿜어져 나오며, 깊은 중심부에서 빛의 핵이 일렁이는 광석이 들어있다.
 HTML :
 <div class="story-content">
-  <div>'마력석'이라고 적혀 있는 보관함이다. 잠겨 있지 않으며, 열어보니 <span class="emphasis">안에는 아무것도 들어 있지 않다.</span></div>
+  <div>글자들을 올바르게 배치하자 찰칵 소리와 함께 마법 자물쇠가 풀리며 보관함이 열렸다.</div>
+  <div>그 안에는 표면의 <span class="emphasis">은빛 문양</span> 사이로 강렬한 <span class="emphasis">청람색 빛</span>이 뿜어져 나오며, 깊은 중심부에서 <span class="emphasis">빛의 핵</span>이 일렁이는 광석이 들어있다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an empty, velvet-lined wooden box resting on a dark stone floor. Shadows are cast inside and beneath the box. Faint dust motes in the air catch the dim light. Shallow depth of field, background is a dark stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small mysterious gemstone resting inside a velvet-lined wooden box on a dark stone floor. The stone features glowing silver patterns and intense cyan-blue light inside. Shallow depth of field, background is indistinct and dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, vintage analog fantasy aesthetic.
 장소 : 07_지하창고
 파일명 : 47_지하창고_6
 
@@ -2194,11 +2166,11 @@ HTML :
 파일명 : 64_중앙_복도_3
 
 [clue_65]
-이름 : 지하창고#12
+이름 : 서재#8
 유형 : 물증
 단계 : 조사 3단계
 소모AP : 1
-정렬순서 : 521
+정렬순서 : 390
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -2207,20 +2179,20 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 고어후프, 발로그, 말리스
-의도 : 붉은색 귀걸이의 진짜 정체와 종족별 효과를 밝히는 단서. 인간이 오래 지니면 서서히 미노타우로스로 물드는 저주, 미노타우로스 혈통에게는 광기를 다스리는 방패, 마족에게는 계약과 저주를 끊는 열쇠, 그 외 수인종에게는 아무런 효과가 없다는 사실을 암시함. 말리스(귀걸이를 계속 지녀도 되는가), 발로그(자유를 위해 이 귀걸이가 필요하다는 것) 양쪽의 개인 목표와 직결됨.
+관련 : 고어후프
+의도 : 붉은색 목걸이의 진짜 기원(고대 마족과 미노타우로스 부족 간의 전쟁, 그 전리품)을 밝히는 단서. 솔라이트 학자가 타 종족의 역사를 기록한 문헌이라는 제3자 시점의 사료로 서술함. 고어후프 본인이 자신이 지닌 목걸이의 정체(=고대 마족의 보물)를 처음으로 깨닫게 되는 계기가 됨. 종족별 효과의 구체적인 메커니즘은 여기서 다시 설명하지 않으며, 그 내용은 clue_16(연구실#3, "심연의 적석")에서 별도로 다룸 — 중복 서술 방지.
 내용 :
-미노타우로스 부족의 구전 신화를 정리한 낡은 문서 조각이다. "태초의 뿔은 인간의 죄를 먹고 자라난 저주였으나, 같은 피를 타고난 자에게는 광기를 다스리는 방패가 되어주었다. 어둠에서 태어나 사슬에 묶인 자에게는 그 사슬을 끊는 열쇠가 되어주었으나, 다른 짐승의 혈통에게는 그저 붉은 돌 조각에 지나지 않았다."
+솔라이트 학자가 정리한 고대 종족사 기록의 일부다. "아득한 옛날, 미노타우로스 부족은 마족과의 오랜 전쟁 끝에 승리를 거두었다. 패배한 마족은 가장 신성히 여기던 보물마저 약탈당했으며, 이후 마신이 강림하기 전까지 우주 곳곳에서 비천한 종족으로 취급받았다고 전해진다."
 HTML :
 <div class="story-content">
-  <div class="script-direction">미노타우로스 부족의 구전 신화를 정리한 낡은 문서 조각이다.</div>
+  <div class="script-direction">솔라이트 학자가 정리한 고대 종족사 기록의 일부다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body">
-      "태초의 뿔은 <span class="emphasis">인간의 죄</span>를 먹고 자라난 저주였으나, 같은 피를 타고난 자에게는 <span class="emphasis">광기를 다스리는 방패</span>가 되어주었다. <span class="emphasis">어둠에서 태어나 사슬에 묶인 자</span>에게는 그 사슬을 끊는 열쇠가 되어주었으나, 다른 짐승의 혈통에게는 그저 붉은 돌 조각에 지나지 않았다."
+      "아득한 옛날, 미노타우로스 부족은 마족과의 오랜 전쟁 끝에 승리를 거두었다. 패배한 마족은 가장 신성히 여기던 보물마저 약탈당했으며, 이후 마신이 강림하기 전까지 우주 곳곳에서 비천한 종족으로 취급받았다고 전해진다."
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a crumbling, ancient parchment fragment with faded tribal script, resting on a dusty stone shelf. A small illustration of a horned bull-skull motif is faintly visible in the margin. Shallow depth of field, background is dark storage room. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
-장소 : 07_지하창고
-파일명 : 65_지하창고_12
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an open, ancient, thick leather-bound encyclopedia or history book. The pages are yellowed and worn, featuring dense, scholarly text. On the page, there is an intricate, hand-drawn illustration showing a victorious Minotaur roaring while standing triumphantly over a defeated, fallen demon. The heavy historical book rests on a wooden desk in a dimly lit, dusty library. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+장소 : 02_서재
+파일명 : 65_서재_8
