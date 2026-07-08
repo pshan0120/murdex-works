@@ -177,7 +177,7 @@ HTML :
 유형 : 물증
 단계 : 시작 단계
 소모AP : 0
-정렬순서 : 65
+정렬순서 : 60
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -189,12 +189,12 @@ HTML :
 관련 : 고어후프
 의도 : 고어후프가 말리스에게 주기 위해 부모의 유언과 함께 물려받은 종족 최후의 유물. "붉은색 목걸이"는 고어후프 본인이 진짜 이름을 몰라 그렇게만 불러온 이름일 뿐, 실제로는 "심연의 적석"이라는 별도의 이름과 기원(clue_16, 연구실#3)이 있음. 고어후프 본인은 정확한 가치도, 종족별 효과가 다르다는 사실도, 심지어 자신이 앓아온 광폭화의 저주가 이 목걸이에서 비롯되었다는 사실조차 전혀 모르고 있으나, 희소성으로 인해 엄청난 가치를 지닌다. 추후 슬리더의 목표, 그리고 clue_65(서재#8)에서 밝혀지는 종족별 효과를 통해 발로그·말리스의 목표와도 연계됨. (게임보드 공개 불가)
 내용 :
-영롱한 붉은빛을 띠는 아름다운 목걸이.
+손때 묻어 빛바랜 목걸이로, 중앙에는 세월이 무색하게 영롱한 붉은빛을 머금은 보석이 박혀 있다.
 HTML :
 <div class="story-content">
-  영롱한 붉은빛을 띠는 아름다운 <span class="emphasis">목걸이</span>.
+  손때 묻어 빛바랜 <span class="emphasis">목걸이</span>로, 중앙에는 세월이 무색하게 영롱한 붉은빛을 머금은 보석이 박혀 있다.
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A single beautiful red ruby pendant necklace resting on a dark velvet surface. The ruby glows with a deep, passionate red light. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A single ancient heirloom necklace resting on a dark velvet surface, its metal chain and setting worn, tarnished, and faded with age, set with a single red gemstone pendant at its center. The gemstone glows with a deep, passionate red light, defying the age of the tarnished metal around it. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, dramatic chiaroscuro lighting.
 장소 : 없음
 파일명 : 06_1_붉은색_목걸이
 
@@ -249,13 +249,7 @@ HTML :
 왕좌의 방 가장자리 기둥 뒤, 목이 잘린 시신이 쓰러져 있다. 격전이 벌어진 홀 중앙과는 거리가 먼 구석진 위치다. 어깨에서 목까지 단번에 베여 나간 흔적이 뚜렷하며, 손에는 깃털 펜이 쥐어져 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">왕좌의 방 구석에서 발견된 시신이다.</div>
-  <div class="divider-gold"></div>
-  <div class="document-page">
-    <div class="document-body">
-      왕좌의 방 가장자리 기둥 뒤, 목이 잘린 시신이 쓰러져 있다. 격전이 벌어진 홀 중앙과는 거리가 먼 구석진 위치다. 어깨에서 목까지 단번에 베여 나간 흔적이 뚜렷하며, 손에는 깃털 펜이 쥐어져 있다.
-    </div>
-  </div>
+  왕좌의 방 가장자리 기둥 뒤, 목이 잘린 시신이 쓰러져 있다. 격전이 벌어진 홀 중앙과는 거리가 먼 구석진 위치다. 어깨에서 목까지 단번에 베여 나간 흔적이 뚜렷하며, 손에는 깃털 펜이 쥐어져 있다.
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dark, cold stone medieval throne room with a vast background, focusing away from the throne. Far off to the side, in the deep shadows behind a massive stone pillar in a dark corner, a robed body is slumped quietly on the stone floor, partially hidden by the pillar. The scene is shot from a wide, distant angle, keeping the body in silhouette to avoid graphic details. A feather quill pen lies on the floor nearby in a faint beam of light. Very dim torchlight casts long shadows. Dark fantasy 1980s oil painting style, heavy brushstrokes, moody and mysterious atmosphere. No graphic violence, no blood, the body is mostly in shadow.
 장소 : 01_왕좌의_방
@@ -367,7 +361,7 @@ HTML :
 내용 :
 <제1권: 마도 광물편>
 ■ 영혼석: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. 영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체이다.
-■ 마력석: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 청색, 영혼이 봉인되면 남색으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 청람색 빛을 발한다. 또한 이 상태의 마력석은 인간의 체온과 같은 온기를 지속적으로 내뿜는 독특한 성질을 지니고 있다.
+■ 마력석: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 청색, 영혼이 봉인되면 남색으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 청람색 빛을 발한다. 이 돌은 천문학적인 가치가 있다.
 흑요석: 인간들 사이에서는 하급 보석으로 취급되나, 마족들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.
 HTML :
 <div class="story-content">
@@ -375,7 +369,7 @@ HTML :
     <h3>&lt;제1권: 마도 광물편&gt;</h3>
     <div class="document-body small">
       <div>■ <strong>영혼석</strong>: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. <span class="emphasis">영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체</span>이다.</div>
-      <div>■ <strong>마력석</strong>: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 <span class="emphasis">청색</span>, 영혼이 봉인되면 <span class="emphasis">남색</span>으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 <span class="emphasis">청람색 빛</span>을 발한다. 또한 이 상태의 마력석은 <span class="emphasis">인간의 체온과 같은 온기</span>를 지속적으로 내뿜는 독특한 성질을 지니고 있다.</div>
+      <div>■ <strong>마력석</strong>: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 <span class="emphasis">청색</span>, 영혼이 봉인되면 <span class="emphasis">남색</span>으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 <span class="emphasis">청람색 빛</span>을 발한다. 이 돌은 천문학적인 가치가 있다.</div>
       <div>■ <strong>흑요석</strong>: 인간들 사이에서는 하급 보석으로 취급되나, <span class="emphasis">마족</span>들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.</div>
     </div>
   </div>
@@ -409,7 +403,6 @@ HTML :
 ■ 무속성: 어떤 마력 반응도 보이지 않는 순수한 상태.
 ■ 사용자의 속성과 동일한 속성의 무기를 사용하면 전투력이 향상된다.
 ■ 상극인 속성을 가진 무기나 마법은 상대에게 치명적인 대미지를 입힐 수 있다.
-■ 빛과 어둠 속성은 물, 불, 땅, 바람 속성에 우위에 있다. 또한 빛과 어둠 속성을 가진 존재는 대부분의 해로운 효과에 면역이 된다.
 HTML :
 <div class="story-content">
   <div class="document-page">
@@ -422,7 +415,6 @@ HTML :
       <div>■ <span class="emphasis">무속성</span>: 어떤 마력 반응도 보이지 않는 순수한 상태.</div>
       <div>■ 사용자의 속성과 <span class="emphasis">동일한 속성의 무기</span>를 사용하면 <span class="emphasis">전투력이 향상</span>된다.</div>
       <div>■ <span class="emphasis">상극인 속성</span>을 가진 무기나 마법은 상대에게 <span class="emphasis">치명적인 대미지</span>를 입힐 수 있다.</div>
-      <div>■ 빛과 어둠 속성은 물, 불, 땅, 바람 속성에 우위에 있다. 또한 빛과 어둠 속성을 가진 존재는 대부분의 <span class="emphasis">해로운 효과에 면역</span>이 된다.</div>
     </div>
   </div>
 </div>
@@ -575,7 +567,7 @@ HTML :
 의도 : 작중 등장하는 특수 마법 도구들의 효과 명시. "심연의 적석" 항목은 붉은색 목걸이의 실제 이름과 정체를 처음 접하게 되는 단서 — 고어후프 본인은 이 물건의 진짜 이름조차 모른 채 그냥 "붉은색 목걸이"라 불러왔다는 사실이 여기서 드러남.
 내용 :
 <희귀 마도구 조사 보고>
-■ 심연의 적석: 고대 마족의 전설적인 보물. 소유자의 종족에 따라 기이한 영향을 미친다. 마족이 지니면 어떠한 계약에도 구속받지 않는 권능을 갖게 되며, 수인종이 지니면 초월적인 신체 능력을 얻는 대신 광폭화의 저주에 빠지게 된다. 만약 평범한 인간에게 건네줄 경우, 강력한 사랑의 묘약을 마신 것처럼 목걸이를 건네준 자에게 깊이 매혹된다.
+■ 심연의 적석: 고대 마족의 전설적인 보물. 소유자의 종족에 따라 기이한 영향을 미친다. 마족이 지니면 어떠한 계약에도 구속받지 않는 권능을 갖게 되며, 수인종이 지니면 초월적인 신체 능력을 얻는 대신 그에 따른 강력한 부작용이 뒤따른다. 만약 인간이 이를 오랫동안 지니고 있으면, 사랑의 묘약을 마신 것처럼 곁에 있던 이성에게 서서히 매혹되어 간다. 이 돌은 천문학적인 가치가 있다.
 ■ 투명 망토: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 빛을 굴절시켜 착용자의 모습을 완전히 감춘다.
 ■ 마나플레어 와이어: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 일정 강도 이상의 마력이 감지되면 즉시 타올라 검은 재만 남기는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]
 ■ 비전 세공함: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 본질적인 형상을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]
@@ -584,7 +576,7 @@ HTML :
   <div class="document-page">
     <h3>&lt;희귀 마도구 조사 보고&gt;</h3>
     <div class="document-body small">
-      <div>■ <strong>심연의 적석</strong>: 고대 마족의 전설적인 보물. 소유자의 종족에 따라 기이한 영향을 미친다. <span class="emphasis">마족</span>이 지니면 어떠한 계약에도 구속받지 않는 권능을 갖게 되며, <span class="emphasis">수인종</span>이 지니면 초월적인 신체 능력을 얻는 대신 광폭화의 저주에 빠지게 된다. 만약 평범한 <span class="emphasis">인간</span>에게 건네줄 경우, 강력한 사랑의 묘약을 마신 것처럼 목걸이를 건네준 자에게 깊이 <span class="emphasis">매혹된다</span>.</div>
+      <div>■ <strong>심연의 적석</strong>: 고대 마족의 전설적인 보물. 소유자의 종족에 따라 기이한 영향을 미친다. <span class="emphasis">마족</span>이 지니면 어떠한 계약에도 구속받지 않는 권능을 갖게 되며, <span class="emphasis">수인종</span>이 지니면 초월적인 신체 능력을 얻는 대신 그에 따른 강력한 부작용이 뒤따른다. 만약 <span class="emphasis">인간</span>이 이를 오랫동안 지니고 있으면, 사랑의 묘약을 마신 것처럼 곁에 있던 이성에게 서서히 매혹되어 간다. 이 돌은 천문학적인 가치가 있다.</div>
       <div>■ <strong>투명 망토</strong>: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 빛을 굴절시켜 <span class="emphasis">착용자의 모습을 완전히 감춘다.</span></div>
       <div>■ <strong>마나플레어 와이어</strong>: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 일정 강도 이상의 <span class="emphasis">마력이 감지</span>되면 즉시 타올라 검은 재만 남기는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]</div>
       <div>■ <strong>비전 세공함</strong>: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 <span class="emphasis">본질적인 형상</span>을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]</div>
@@ -1523,7 +1515,7 @@ HTML :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 슬리더, 발로그
-의도 : 살해 도구를 되돌려 둠.
+의도 : 어둠의 단검. 살해 도구를 되돌려 둠.
 내용 :
 문서고 선반 구석에 놓여 있던 새까만 단검이다. 칼날에는 검붉은 혈흔이 묻어 있다. 자루 부분을 만져보니 검은 가루가 묻어 나온다.
 HTML :
@@ -1594,7 +1586,7 @@ HTML :
 파일명 : 46_지하창고_5
 
 [clue_47]
-이름 : 마력석
+이름 : 지하창고#6
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -2117,8 +2109,8 @@ HTML :
 정렬순서 : 630
 중요도 : 낮음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면

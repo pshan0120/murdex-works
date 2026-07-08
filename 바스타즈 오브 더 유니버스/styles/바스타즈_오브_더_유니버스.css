@@ -105,9 +105,9 @@
 }
 
 .story-content .emphasis {
-    color: #ff6347;
-    /* Tomato color */
-    font-weight: 600;
+    color: #ffffff;
+    /* 일반 텍스트보다 살짝 더 밝은 흰색 */
+    font-weight: 800;
 }
 
 /* 인용구 박스 - 오래된 양피지나 비석 느낌 */
@@ -440,9 +440,10 @@
     font-weight: 800;
 }
 
-/* 고어후프: 짙은 레드 */
+/* 고어후프: 야수적인 느낌의 뚜렷한 갈색 */
 .story-content .character-gorehoof {
-    color: #b91c1c !important;
+    color: #8b4513 !important;
+    /* SaddleBrown */
     font-weight: 800;
 }
 
@@ -452,9 +453,10 @@
     font-weight: 800;
 }
 
-/* 발로그: 선명한 루비 레드 (emphasis와 구분되도록 쿨톤 레드로 변경) */
+/* 발로그: 강렬하고 선명한 주홍색 */
 .story-content .character-balrog {
-    color: #e11d48 !important;
+    color: #ff3e00 !important;
+    /* Vermilion */
     font-weight: 900;
 }
 
