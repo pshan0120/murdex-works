@@ -2188,3 +2188,33 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an open, ancient, thick leather-bound encyclopedia or history book. The pages are yellowed and worn, featuring dense, scholarly text. On the page, there is an intricate, hand-drawn illustration showing a victorious Minotaur roaring while standing triumphantly over a defeated, fallen demon. The heavy historical book rests on a wooden desk in a dimly lit, dusty library. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
 파일명 : 65_서재_8
+
+[clue_66]
+이름 : 마법탑#3
+유형 : 물증
+단계 : 조사 4단계
+소모AP : 1
+정렬순서 : 650
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 말리스, 슬리더, 발로그
+의도 : 골든 킹과 골든 서클을 비롯해 작중 전반에 편재한 "황금"이라는 모티프의 근원을 밝히는 단서. 고대의 푸른 행성(지구) 출신 세 여전사가 정체불명의 마왕을 물리쳤다는 전설을 소개하며, 그녀들이 부르던 노래의 이름이 그대로 신성시되어 전해진다는 서술로 지하창고 보관함 비밀번호(GOLDEN, 말리스의 개인 기억과는 별개의 경로)를 은근히 암시함(글자 수는 직접 언급하지 않음). 동시에 그녀들이 지녔던 세 자루의 무구가 성 어딘가에 보관되어 있다는 언급으로 지하창고의 속성 무기 3종(바람의 창/대지의 도끼/물의 검)의 진짜 유래를 암시함. 전설 속 마왕의 정체는 의도적으로 확정하지 않으며, 다크 시리어스 본인도 자신의 기원을 모른다는 설정과 모순되지 않도록 한다.
+내용 :
+오래된 마도서들 틈에 끼워져 있던, 반쯤 삭은 양피지 조각이다. "아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져, 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">오래된 마도서들 틈에 끼워져 있던, 반쯤 삭은 양피지 조각이다.</div>
+  <div class="divider-gold"></div>
+  <div class="quote-box">
+    <div>아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-decayed, brittle piece of ancient parchment tucked between thick, dusty spellbooks on a stone shelf. The parchment is covered in faded, archaic handwriting, with a faint, weathered illustration of three silhouetted female warriors standing together in the corner of the page. Dust particles float in a thin beam of light. Shallow depth of field, background is a dark, blurred mage tower chamber lined with ancient tomes. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+장소 : 08_마법탑
+파일명 : 66_마법탑_3
