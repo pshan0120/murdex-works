@@ -105,8 +105,8 @@
 }
 
 .story-content .emphasis {
-    color: #ffffff;
-    /* 일반 텍스트보다 살짝 더 밝은 흰색 */
+    color: #687991;
+    /* 무채색 계열의 짙은 회색으로 밝은 배경에서도 잘 보임 */
     font-weight: 800;
 }
 

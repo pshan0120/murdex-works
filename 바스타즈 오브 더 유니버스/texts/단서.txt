@@ -90,14 +90,14 @@ HTML :
 의도 : 슬리더가 과거에 암살하려고 했던 성기사 류크가 바로 현재의 수장 스컬크러셔임을 폭로하겠다는 협박
 내용 :
 고풍스러운 필체로 쓰여진 쪽지를 읽어 보았다.
-'슬리더, 과거 그대가 완벽히 마무리했다고 믿었던 그 은밀한 의뢰 말일세. 그대의 칼날에 스러진 '그 자'가 정말 죽었다고 생각하나? 그대가 모시는 거대한 사내에게서 익숙한 기운을 느끼지 못했는가. 이 진실이 그의 귀에 들어가길 원치 않는다면, 이제부터는 내 명령을 가장 우선하여 받들게나.'
+'슬리더, 과거 그대가 완벽히 마무리했다고 믿었던 그 은밀한 의뢰 말일세. 그대의 칼날에 스러진 '그 자'가 정말 죽었다고 생각하나? 그 기운을 느끼지 못하고 있는가 말이야. 이 진실이 그의 귀에 들어가길 원치 않는다면, 이제부터는 내 명령을 가장 우선하여 받들게나.'
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">고풍스러운 필체</span>로 쓰여진 쪽지를 읽어 보았다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">
-      <span class="character-slyther">슬리더</span>, 과거 그대가 <span class="emphasis">완벽히 마무리</span>했다고 믿었던 그 <span class="emphasis">은밀한 의뢰</span> 말일세. 그대의 칼날에 스러진 <span class="emphasis">'그 자'</span>가 정말 죽었다고 생각하나? 그대가 모시는 <span class="character-skull">거대한 사내</span>에게서 익숙한 기운을 느끼지 못했는가. 이 진실이 그의 귀에 들어가길 원치 않는다면, 이제부터는 내 명령을 가장 우선하여 받들게나.
+      <span class="character-slyther">슬리더</span>, 과거 그대가 <span class="emphasis">완벽히 마무리</span>했다고 믿었던 그 <span class="emphasis">은밀한 의뢰</span> 말일세. 그대의 칼날에 스러진 <span class="emphasis">'그 자'</span>가 정말 죽었다고 생각하나? 그 기운을 느끼지 못하고 있는가 말이야. 이 진실이 그의 귀에 들어가길 원치 않는다면, 이제부터는 내 명령을 가장 우선하여 받들게나.
     </div>
   </div>
 </div>
