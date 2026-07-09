@@ -723,7 +723,7 @@ HTML :
   <div class="document-page">
     <h3>&lt;성전 기록물&gt;</h3>
     <div class="document-body small">
-      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="emphasis">얼티밋 선샤인</span>이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 그의 육신을 완전히 소멸시킬 수는 없었기에, 폐하와 마법사들은 사력을 다해 <span class="emphasis">빛의 결계</span>로 그를 옭아맸다. 물결 문양의 낙인이 마신의 마력을 억눌렀고, 그를 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다.&quot;</div>
+      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="emphasis">얼티밋 선샤인</span>이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 그의 육신을 완전히 소멸시킬 수는 없었기에, 폐하와 마법사들은 사력을 다해 <span class="emphasis">빛의 결계</span>로 그를 옭아맸다. <span class="emphasis">물결 문양의 낙인</span>이 마신의 마력을 억눌렀고, 그를 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다.&quot;</div>
     </div>
   </div>
 </div>
@@ -1655,17 +1655,17 @@ HTML :
 관련 : 발로그, 엘란트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
-'바람의 창'이라고 적혀 있는 보관함 안에는 에메랄드빛 광채를 내뿜는 창이 들어 있다. 창끝에는 기류가 감돌고 있으며, 자루를 쥐자 주변의 공기가 가벼워진다.
+'바람의 장검'이라고 적혀 있는 보관함 안에는 에메랄드빛 광채를 내뿜는 곧고 날렵한 장검이 들어 있다. 칼날을 타고 옅은 기류가 휘감아 흐르며, 손잡이를 쥐자 주변의 공기가 가벼워진다.
 속성: 바람
 전투력: 발로그/엘란트라가 소유했다면 +3
 HTML :
 <div class="story-content">
-  <div>'바람의 창'이라고 적혀 있는 보관함 안에는 <span class="emphasis">에메랄드빛 광채</span>를 내뿜는 창이 들어 있다. 창끝에는 기류가 감돌고 있으며, 자루를 쥐자 주변의 공기가 가벼워진다.</div>
+  <div>'바람의 장검'이라고 적혀 있는 보관함 안에는 <span class="emphasis">에메랄드빛 광채</span>를 내뿜는 곧고 날렵한 장검이 들어 있다. 칼날을 타고 옅은 기류가 휘감아 흐르며, 손잡이를 쥐자 주변의 공기가 가벼워진다.</div>
   <div class="divider-gold"></div>
   <div>속성: 바람</div>
   <div>전투력: <span class="character-balrog">발로그</span>/<span class="character-elantra">엘란트라</span>가 소유했다면 +3</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a long spear with a translucent emerald blade. Faint swirling air currents wrap around the sharp tip. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of an elegant, long straight fantasy longsword with a translucent emerald blade and an ornate crossguard. Faint swirling air currents wrap around the blade's edge. Extremely shallow depth of field, background is completely dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
 파일명 : 49_지하창고_8
 
@@ -1686,17 +1686,17 @@ HTML :
 관련 : 고어후프, 엘란트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
-'대지의 도끼'라고 적혀 있는 보관함 안에는 바위를 깎아 만든 듯한 거대한 양손 도끼가 들어 있다. 날 부분에 황갈색 광석이 박혀 있으며, 자루에서는 묵직한 진동이 느껴진다.
+'대지의 창'라고 적혀 있는 보관함 안에는 대지의 기운을 짙게 품은 창이 들어 있다. 곡선형 칼날 부분에 황갈색 광석이 촘촘히 박혀 있으며, 손잡이를 쥐면 묵직한 진동이 느껴진다.
 속성: 대지
 전투력: 고어후프/엘란트라가 소유했다면 +3
 HTML :
 <div class="story-content">
-  <div>'대지의 도끼'라고 적혀 있는 보관함 안에는 바위를 깎아 만든 듯한 거대한 양손 도끼가 들어 있다. 날 부분에 <span class="emphasis">황갈색 광석</span>이 박혀 있으며, 자루에서는 묵직한 진동이 느껴진다.</div>
+  <div>'대지의 창'이라고 적혀 있는 보관함 안에는 대지의 기운을 짙게 품은 창이 들어 있다. 곡선형 칼날 부분에 황갈색 광석이 촘촘히 박혀 있으며, 손잡이를 쥐면 묵직한 진동이 느껴진다.</div>
   <div class="divider-gold"></div>
   <div>속성: 대지</div>
   <div>전투력: <span class="character-gorehoof">고어후프</span>/<span class="character-elantra">엘란트라</span>가 소유했다면 +3</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a massive stone-headed battle axe. A golden-brown gemstone embedded in the head emits a faint, earthy glow. Shallow depth of field, background is a cold stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a massive glaive (guandao) infused with earth energy. The heavy, curved steel blade is embedded with golden-brown gemstones that emit a faint, earthy glow. The metal has an ancient, grounded feel but is explicitly forged metal, not made of rock. Shallow depth of field, background is a cold stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
 파일명 : 50_지하창고_9
 
@@ -1717,17 +1717,17 @@ HTML :
 관련 : 슬리더, 엘란트라
 의도 : 캐릭터 능력치 보정 아이템.
 내용 :
-'물의 검'이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 투명한 보검이 들어 있다. 칼날 주변으로 잔잔한 물결의 환각이 보이며, 휘두를 때마다 물소리가 공명한다.
+'물의 쌍검'이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 한 쌍의 투명한 장검이 들어 있다. 칼날 주변으로 잔잔한 물결의 환각이 일렁이며, 휘두를 때마다 물소리가 공명한다.
 속성: 물
 전투력: 슬리더/엘란트라가 소유했다면 +3
 HTML :
 <div class="story-content">
-  <div>'물의 검'이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 <span class="emphasis">투명한 보검</span>이 들어 있다. 칼날 주변으로 잔잔한 물결의 환각이 보이며, 휘두를 때마다 물소리가 공명한다.</div>
+  <div>'물의 쌍검'이라고 적혀 있는 보관함 안에는 푸른빛이 감도는 <span class="emphasis">한 쌍의 투명한 장검</span>이 들어 있다. 칼날 주변으로 잔잔한 물결의 환각이 일렁이며, 휘두를 때마다 물소리가 공명한다.</div>
   <div class="divider-gold"></div>
   <div>속성: 물</div>
   <div>전투력: <span class="character-slither">슬리더</span>/<span class="character-elantra">엘란트라</span>가 소유했다면 +3</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a beautiful, translucent blue sword. Rippling water patterns appear within the glass-like blade. Extremely shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro photography of a pair of beautiful, translucent blue longswords resting side by side, crossed over each other. Rippling water patterns appear within the glass-like blades. Extremely shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 07_지하창고
 파일명 : 51_지하창고_10
 
@@ -1949,13 +1949,13 @@ HTML :
 관련 : 엘란트라
 의도 : 스컬크러셔 입장에서 자신이 당했던 방식과 매우 흡사.
 내용 :
-포박된 채 성벽 아래 차갑게 식어버린 수비대장의 시신을 바라보며 부르르 떨고 있는 솔라이트 수비대원 포로의 증언이다. "그... 그건 정말 순식간이었습니다. 대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 단검을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 대장님의 등을 발로 강하게 걷어차 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다."
+포박된 채 성벽 아래 차갑게 식어버린 우리 수비대장의 시신을 바라보며 부르르 떨고 있는 솔라이트 수비대원 포로의 증언이다. "그... 그건 정말 순식간이었습니다. 대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 단검을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 대장님의 등을 발로 강하게 걷어차 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다."
 HTML :
 <div class="story-content">
   <div class="script-direction">포박된 채 성벽 아래 차갑게 식어버린 수비대장의 시신을 바라보며 부르르 떨고 있는 솔라이트 수비대원 포로의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>그... 그건 정말 순식간이었습니다. 수비대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 <span class="emphasis">단검</span>을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 <span class="emphasis">등을 발로 강하게 걷어차</span> 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다.</div>
+    <div>그... 그건 정말 순식간이었습니다. 우리 수비대장님이 난간 쪽을 살피고 계셨는데, 등 뒤에서 누군가 나타났죠. 비명도 지르지 못하도록 한 손으로 입을 틀어막더니, 다른 손에 든 <span class="emphasis">단검</span>을 갑옷 틈새로 망설임 없이 밀어 넣었습니다. 그러고는... 마치 성가신 짐승이라도 치워내듯 <span class="emphasis">등을 발로 강하게 걷어차</span> 벽 밑으로 밀어버렸지 뭡니까. 제가 본 건 그게 전부입니다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured bastion guard (prisoner) seen from behind, standing on the edge of a dark, cold stone rampart at night. Thick, dark fog fills the background behind the guard's silhouette. The guard wears tattered leather and rusted iron armor pieces, with a simple worn cloak hanging from his shoulders. Faint, cold moonlight or warm light from a distant torch highlights the rough texture of the weathered stone battlements and the metal fragments on his back. The atmosphere is quiet, tense, and heavy. Extremely shallow depth of field, focused on the steady, defeated silhouette of the guard as he provides his testimony. No face visible, just the back of the figure's head and shoulders. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted steel, холодный камень, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
@@ -2040,13 +2040,13 @@ HTML :
 관련 : 엘드리치
 의도 : 성 내부 곳곳에 영혼석이 배치되었음을 암시.
 내용 :
-늙은 청소부의 증언이다. "내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 게다가 말이유, 어둑한 구석 같은 데를 힐끔힐끔 보믄... 뭔가가 별처럼 반짝이는 것 같기도 하고, 아닌 것 같기도 하고… 눈을 비비고 다시 보면 또 멀쩡한디, 자꾸 그런 게 눈에 밟히는 게 영 꺼림칙허더라고요. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 낯설고 해괴한 것이 스며든 게 확실혀요."
+늙은 청소부의 증언이다. "내 평생 이 성 바닥을 쓸며 살았지만, 오늘처럼 무서운 날은 처음이오. 바깥에서 우당탕탕 소리가 날 때, 나는 빗자루를 꼭 쥐고 다용도실 벽장에 숨어 있었소. 한창 싸움 소리가 시끄럽던 한낮이었을 거요. 문틈으로 복도를 내다보는데, 참 이상한 걸 보았소. 아니, 보았다고 할 수도 없겠군. 분명 아무것도 없었는데, 허공이 꼭 아지랑이라도 핀 것처럼 흐물흐물 일렁거리더니만 스윽 지나가더이다. 그 이상한 기운이 지나가고 난 자리를 보니, 어둑한 구석에 무언가가 별처럼 반짝이는 것들이 남겨져 있었소."
 HTML :
 <div class="story-content">
   <div class="script-direction">늙은 청소부의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>내 평생 이 성바닥을 쓸며 살았지만 말이유, 오늘처럼 기분이 뒤숭숭한 적은 없었슈. 성이 점령되고 나서 어질러진 데를 좀 치우려고 보는디, 허구한 날 보던 이 성이 왠지 모르게 영 딴판 같더라고... 가구며 시설이며 어디 딴 데로 옮겨진 것도 하나 없는디, 이상하게 영 찜찜한 기분이 들어서 발이 뚝 떨어지질 않는 거라. 게다가 말이유, 어둑한 구석 같은 데를 힐끔힐끔 보믄... 뭔가가 <span class="emphasis">별처럼 반짝이는 것</span> 같기도 하고, 아닌 것 같기도 하고… 눈을 비비고 다시 보면 또 멀쩡한디, 자꾸 그런 게 눈에 밟히는 게 영 꺼림칙허더라고요. 뭐가 변했는지는 이 늙은이 머리론 도통 알 길이 없지만서도, 평생 여기서 빗질만 하며 산 내 감이 말이유... 분명 오늘 이 성 안에 뭔가 <span class="mystery">낯설고 해괴한 것이 스며든 게</span> 확실혀요.</div>
+    <div>내 평생 이 성 바닥을 쓸며 살았지만, 오늘처럼 무서운 날은 처음이오. 바깥에서 우당탕탕 소리가 날 때, 나는 빗자루를 꼭 쥐고 다용도실 벽장에 숨어 있었소. 한창 싸움 소리가 시끄럽던 한낮이었을 거요. 문틈으로 복도를 내다보는데, 참 이상한 걸 보았소. 아니, 보았다고 할 수도 없겠군. 분명 아무것도 없었는데, 허공이 꼭 아지랑이라도 핀 것처럼 흐물흐물 일렁거리더니만 스윽 지나가더이다. 그 이상한 기운이 지나가고 난 자리를 보니, 어둑한 구석에 무언가가 <span class="emphasis">별처럼 반짝이는 것</span>들이 남겨져 있었소.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an old, hunched-over cleaner seen from behind, standing in the middle of a grand, empty central corridor of the fortress (based strictly and exclusively on the background seen in 12_중앙_복도.png). No doors, no drainage pipes, and no basement elements are present. The background consists only of the high, repetitive stone arches, massive pillars, and the long, echoing stone floor of the central hallway at night. The old man is clad in tattered brown work clothes, holding a primitive straw broom in one hand, appearing small against the overwhelming scale of the empty corridor. Deep, heavy shadows stretch between the pillars, with a faint, cold moonlight or distant torchlight illuminating the textured stone surfaces. Extremely shallow depth of field, focused on the weary silhouette of the old man. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, somber atmosphere. No faces visible, just the lone figure in the dark, silent hallway.
@@ -2204,7 +2204,7 @@ HTML :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 말리스, 슬리더, 발로그
-의도 : 골든 킹과 골든 서클을 비롯해 작중 전반에 편재한 "황금"이라는 모티프의 근원을 밝히는 단서. 고대의 푸른 행성(지구) 출신 세 여전사가 정체불명의 마왕을 물리쳤다는 전설을 소개하며, 그녀들이 부르던 노래의 이름이 그대로 신성시되어 전해진다는 서술로 지하창고 보관함 비밀번호(GOLDEN, 말리스의 개인 기억과는 별개의 경로)를 은근히 암시함(글자 수는 직접 언급하지 않음). 동시에 그녀들이 지녔던 세 자루의 무구가 성 어딘가에 보관되어 있다는 언급으로 지하창고의 속성 무기 3종(바람의 창/대지의 도끼/물의 검)의 진짜 유래를 암시함. 전설 속 마왕의 정체는 의도적으로 확정하지 않으며, 다크 시리어스 본인도 자신의 기원을 모른다는 설정과 모순되지 않도록 한다.
+의도 : 골든 킹과 골든 서클을 비롯해 작중 전반에 편재한 "황금"이라는 모티프의 근원을 밝히는 단서. 고대의 푸른 행성(지구) 출신 세 여전사가 정체불명의 마왕을 물리쳤다는 전설을 소개하며, 그녀들이 부르던 노래의 이름이 그대로 신성시되어 전해진다는 서술로 지하창고 보관함 비밀번호(GOLDEN, 말리스의 개인 기억과는 별개의 경로)를 은근히 암시함(글자 수는 직접 언급하지 않음). 동시에 그녀들이 지녔던 세 자루의 무구가 성 어딘가에 보관되어 있다는 언급으로 지하창고의 속성 무기 3종(바람의 장검/대지의 언월도/물의 쌍검)의 진짜 유래를 암시함. 전설 속 마왕의 정체는 의도적으로 확정하지 않으며, 다크 시리어스 본인도 자신의 기원을 모른다는 설정과 모순되지 않도록 한다.
 내용 :
 오래된 마도서들 틈에 끼워져 있던, 반쯤 삭은 양피지 조각이다. "아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져, 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다."
 HTML :

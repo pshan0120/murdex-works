@@ -105,8 +105,8 @@
 }
 
 .story-content .emphasis {
-    color: #687991;
-    /* 무채색 계열의 짙은 회색으로 밝은 배경에서도 잘 보임 */
+    color: #8a7f76;
+    /* 웜 그레이(따뜻한 회색)로 스컬크러셔 색상과 구분되며 밝은 배경에서도 잘 보임 */
     font-weight: 800;
 }
 
@@ -428,9 +428,9 @@
 
 /* --- 캐릭터 테마 색상 (바스타즈 라인업) --- */
 
-/* 스컬크러셔: 강철 느낌의 실버 */
+/* 스컬크러셔: 짙은 강철색 (Steel Gray) */
 .story-content .character-skullcrusher {
-    color: #e2e8f0 !important;
+    color: var(--fantasy-steel) !important;
     font-weight: 800;
 }
 

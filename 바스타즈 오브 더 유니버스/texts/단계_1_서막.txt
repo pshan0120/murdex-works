@@ -36,60 +36,71 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1776238231/murdex/images/audi
   <table>
     <thead>
       <tr>
-        <th style="width: 25%;">순서</th>
+        <th style="width: 15%;">순서</th>
         <th>단계명</th>
         <th style="width: 25%;">시간</th>
+        <th style="width: 30%;">지급 AP</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>1단계</td>
+        <td>1</td>
         <td>서막</td>
         <td>20분</td>
+        <td>-</td>
       </tr>
       <tr>
-        <td>2단계</td>
+        <td>2</td>
         <td>대면</td>
         <td>-</td>
+        <td>-</td>
       </tr>
       <tr>
-        <td>3단계</td>
+        <td>3</td>
         <td>막간 I</td>
         <td>-</td>
-      </tr>
-      <tr>
-        <td>4~6단계</td>
-        <td>조사 I~III</td>
-        <td>각 10분씩</td>
-      </tr>
-      <tr>
-        <td>7단계</td>
-        <td>막간 II</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>8~10단계</td>
+        <td>4~6</td>
+        <td>조사 I~III</td>
+        <td>각 10분씩</td>
+        <td>각 1AP 이내</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>막간 II</td>
+        <td>-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>8~10</td>
         <td>조사 IV~VI</td>
         <td>각 10분씩</td>
+        <td>각 2AP 이내</td>
       </tr>
       <tr>
-        <td>11단계</td>
+        <td>11</td>
         <td>통합 조사</td>
         <td>60분</td>
+        <td>-</td>
       </tr>
       <tr>
-        <td>12단계</td>
+        <td>12</td>
         <td>최후 발언</td>
         <td>10분</td>
+        <td>-</td>
       </tr>
       <tr>
-        <td>13단계</td>
+        <td>13</td>
         <td>심판</td>
         <td>5분</td>
+        <td>-</td>
       </tr>
       <tr>
-        <td>14단계</td>
+        <td>14</td>
         <td>종막</td>
+        <td>-</td>
         <td>-</td>
       </tr>
     </tbody>

@@ -65,9 +65,9 @@
       </thead>
       <tbody>
         <tr><td>빛의 검</td><td>+4</td><td><span class="character-skullcrusher">스컬크러셔</span></td></tr>
-        <tr><td>대지의 도끼</td><td>+3</td><td><span class="character-gorehoof">고어후프</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
-        <tr><td>바람의 창</td><td>+3</td><td><span class="character-balrog">발로그</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
-        <tr><td>물의 검</td><td>+3</td><td><span class="character-slither">슬리더</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
+        <tr><td>대지의 창</td><td>+3</td><td><span class="character-gorehoof">고어후프</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
+        <tr><td>바람의 장검</td><td>+3</td><td><span class="character-balrog">발로그</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
+        <tr><td>물의 쌍검</td><td>+3</td><td><span class="character-slither">슬리더</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
         <tr><td>마력석</td><td>+8</td><td><span class="character-malice">말리스</span></td></tr>
       </tbody>
     </table>
@@ -81,7 +81,7 @@
 
   <span class="highlight">[예시]</span><br>
   - <span class="character-slither">슬리더</span>가 처형 대상이 되었다면 [1단계] 표에서 적 전투력은 <span class="emphasis">32</span>, 아군 전투력 기준값은 <span class="emphasis">29</span>입니다.<br>
-  - 생존 바스타즈 멤버들 중 <span class="character-elantra">엘란트라</span>가 물의 검(+3)을 소유했고, 그 외에는 아무도 단서를 소유하지 못했다면 아군 전투력은 29 + 3 = <span class="emphasis">32</span><br>
+  - 생존 바스타즈 멤버들 중 <span class="character-elantra">엘란트라</span>가 물의 쌍검(+3)을 소유했고, 그 외에는 아무도 단서를 소유하지 못했다면 아군 전투력은 29 + 3 = <span class="emphasis">32</span><br>
   - 이 경우 아군 전투력과 적 전투력이 <span class="emphasis">32로 동일(동률)</span>하며, 동률은 <span class="emphasis">판정 A</span>로 처리되므로 <span class="emphasis">판정 A</span>가 됩니다.
 </div>
 
