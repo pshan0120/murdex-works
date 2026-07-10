@@ -1,0 +1,77 @@
+// 첫 번째 질문
+<div class="story-content">
+  <div class="section-title">1. 누가 범인인가?</div>
+  <p>
+    강은주를 살해한 <span class="highlight">진범</span>은 누구라 생각하십니까?
+  </p>
+</div>
+
+<div class="story-content">
+  <span class="character-seoyeon">백서연</span>
+</div>
+<div class="story-content">
+  <span class="character-hyunsu">류현수</span>
+</div>
+<div class="story-content">
+  <span class="character-danhee">박단희</span>
+</div>
+<div class="story-content">
+  <span class="character-haejun">정해준</span>
+</div>
+<div class="story-content">
+  <span class="character-dohun">최도훈</span>
+</div>
+<div class="story-content">
+  <span class="character-eunji">강은지</span>
+</div>
+<div class="story-content">
+  기타
+</div>
+
+// 두 번째 질문
+<div class="story-content">
+  <div class="section-title">2. 어떻게 죽였는가?</div>
+  <p>
+    범인은 어떤 방법으로 강은주를 살해했습니까?
+  </p>
+</div>
+
+<div class="story-content">
+  수면제 등 약물로 무력화시킨 뒤 찔렀다.
+</div>
+<div class="story-content">
+  배전반을 조작해 감전시킨 뒤 찔렀다.
+</div>
+<div class="story-content">
+  무거운 둔기로 먼저 가격한 뒤 찔렀다.
+</div>
+<div class="story-content">
+  어둠 속에서 몰래 다가가 기습적으로 찔렀다.
+</div>
+<div class="story-content">
+  격렬한 몸싸움 중에 우발적으로 찔렀다.
+</div>
+
+// 세 번째 질문
+<div class="story-content">
+  <div class="section-title">3. 왜 죽였는가?</div>
+  <p>
+    범인이 강은주를 살해하게 된 진짜 동기는 무엇입니까?
+  </p>
+</div>
+
+<div class="story-content">
+  금전적인 이익을 노린 계획적인 살해
+</div>
+<div class="story-content">
+  치정에 얽힌 원한으로 인한 살해
+</div>
+<div class="story-content">
+  과거의 범죄를 은폐하기 위한 입막음
+</div>
+<div class="story-content">
+  대상을 착각한 우발적 실수
+</div>
+<div class="story-content">
+  누구도 살해를 의도하지 않은 불의의 사고
+</div>

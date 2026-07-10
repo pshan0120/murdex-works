@@ -4,8 +4,6 @@
 
 ---
 
-## [1] 역할 보유 단서 (Personal Clues)
-
 [clue_01]
 이름 : 협박 쪽지 - 말리스
 유형 : 물증
@@ -38,6 +36,7 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text fills the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 없음
 파일명 : 01_말리스_협박_쪽지
+
 
 [clue_02]
 이름 : 협박 쪽지 - 발로그
@@ -72,6 +71,7 @@ HTML :
 장소 : 없음
 파일명 : 02_발로그_협박_쪽지
 
+
 [clue_03]
 이름 : 협박 쪽지 - 슬리더
 유형 : 물증
@@ -105,6 +105,7 @@ HTML :
 장소 : 없음
 파일명 : 03_슬리더_협박_쪽지
 
+
 [clue_04]
 이름 : 협박 쪽지 - 고어후프
 유형 : 물증
@@ -137,6 +138,7 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, yellowish aged scrap of paper with ragged edges. It features dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). The text fills the frame. No glowing or magical effects. Shallow depth of field, background is dark and extremely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 없음
 파일명 : 04_고어후프_협박_쪽지
+
 
 [clue_05]
 이름 : 협박 쪽지 - 엘란트라
@@ -172,7 +174,7 @@ HTML :
 파일명 : 05_엘란트라_협박_쪽지
 
 
-[clue_06_1]
+[clue_06]
 이름 : 붉은색 목걸이
 유형 : 물증
 단계 : 시작 단계
@@ -187,7 +189,7 @@ HTML :
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 고어후프
-의도 : 고어후프가 말리스에게 주기 위해 부모의 유언과 함께 물려받은 종족 최후의 유물. "붉은색 목걸이"는 고어후프 본인이 진짜 이름을 몰라 그렇게만 불러온 이름일 뿐, 실제로는 "심연의 적석"이라는 별도의 이름과 기원(clue_16, 연구실#3)이 있음. 고어후프 본인은 정확한 가치도, 종족별 효과가 다르다는 사실도, 심지어 자신이 앓아온 광폭화의 저주가 이 목걸이에서 비롯되었다는 사실조차 전혀 모르고 있으나, 희소성으로 인해 엄청난 가치를 지닌다. 추후 슬리더의 목표, 그리고 clue_65(서재#8)에서 밝혀지는 종족별 효과를 통해 발로그·말리스의 목표와도 연계됨. (게임보드 공개 불가)
+의도 : 고어후프가 말리스에게 주기 위해 부모의 유언과 함께 물려받은 종족 최후의 유물. "붉은색 목걸이"는 고어후프 본인이 진짜 이름을 몰라 그렇게만 불러온 이름일 뿐, 실제로는 "심연의 적석"이라는 별도의 이름과 기원(clue_16, 연구실#3)이 있음. 고어후프 본인은 정확한 가치도, 종족별 효과가 다르다는 사실도, 심지어 자신이 앓아온 광폭화의 저주가 이 목걸이에서 비롯되었다는 사실조차 전혀 모르고 있으나, 희소성으로 인해 엄청난 가치를 지닌다. 추후 슬리더의 목표, 그리고 clue_30(서재#6)에서 밝혀지는 종족별 효과를 통해 발로그·말리스의 목표와도 연계됨. (게임보드 공개 불가)
 내용 :
 손때 묻어 빛바랜 목걸이로, 중앙에는 세월이 무색하게 영롱한 붉은빛을 머금은 보석이 박혀 있다.
 HTML :
@@ -198,17 +200,62 @@ HTML :
 장소 : 없음
 파일명 : 06_1_붉은색_목걸이
 
----
 
-## [3] 조사 1단계 배치 단서 (17:00 ~ 18:00)
-
-### 1) 왕좌의 방
 [clue_07]
+이름 : 바스타즈 강령
+유형 : 통찰
+단계 : 시작 단계
+소모AP : 0
+정렬순서 : 70
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 공통
+의도 : 바스타즈의 엄격한 군대식 질서와 규율을 보여줌으로써, 각 멤버의 비밀이 밝혀질 경우 '사형'에 처해질 수 있다는 논리적 공포와 당위성을 부여함. (22차 피드백 반영: 협박 쪽지와 동일하게 게임 시작 시 전원에게 자동 지급되는 시작 아이템으로 전환. 원문이 이미 회상체라 본문 변경 불필요)
+내용 :
+당신은 바스타즈의 강령을 떠올려 보았다.
+
+<바스타즈 강령>
+1조. 제 한 몸이나 핏줄의 안위만을 챙기는 자는 엄벌한다.
+2조. 목표를 달성하기 전 이탈하려는 자는 도망자로 간주한다.
+3조. 동료의 명예를 더럽히는 자는 짐승으로 보아 무리에서 내쫓는다.
+4조. 어떠한 이유로든 동료를 해치는 것은 용납하지 않는다.
+5조. 적과 내통하여 무리를 위험에 빠뜨린 자는 배신자로 처단한다.
+6조. 대장은 대원의 목숨과 규칙을 끝까지 지킨다.
+7조. 실책으로 동료를 사지로 몰아넣은 자는 무거운 책임을 묻는다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">당신은 바스타즈의 강령을 떠올려 보았다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <h4>&lt;바스타즈 강령&gt;</h4>
+    <div class="document-body small">
+      <div>1조. 제 한 몸이나 <span class="emphasis">핏줄의 안위</span>만을 챙기는 자는 <span class="emphasis">엄벌</span>한다.</div>
+      <div>2조. 목표를 달성하기 전 <span class="emphasis">이탈</span>하려는 자는 <span class="emphasis">도망자</span>로 간주한다.</div>
+      <div>3조. 동료의 <span class="emphasis">명예를 더럽히는 자</span>는 <span class="emphasis">짐승</span>으로 보아 무리에서 내쫓는다.</div>
+      <div>4조. 어떠한 이유로든 <span class="emphasis">동료를 해치는 것</span>은 <span class="emphasis">용납하지 않는다</span>.</div>
+      <div>5조. 적과 <span class="emphasis">내통</span>하여 무리를 위험에 빠뜨린 자는 <span class="emphasis">배신자</span>로 처단한다.</div>
+      <div>6조. 대장은 대원의 <span class="emphasis">목숨과 규칙</span>을 끝까지 지킨다.</div>
+      <div>7조. 실책으로 <span class="emphasis">동료를 사지</span>로 몰아넣은 자는 <span class="emphasis">무거운 책임</span>을 묻는다.</div>
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic, angled close-up of a long, vertically-unrolled aged parchment lying on a dark wooden table. The parchment is slightly curled at the edges. At the bottom center, seven dark red blood signatures are prominently displayed in a row. A single warm candle nearby casts flickering light and long, deep shadows across the textured, weathered paper. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (aged paper, dark wood), heavy brushstrokes, dramatic chiaroscuro lighting, solemn and martial atmosphere.
+장소 : 없음
+파일명 : 62_바스타즈_강령
+
+
+[clue_08]
 이름 : 왕좌의 방#1
 유형 : 물증
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 70
+정렬순서 : 80
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -229,12 +276,13 @@ HTML :
 장소 : 01_왕좌의_방
 파일명 : 07_왕좌의_방_1
 
-[clue_08]
+
+[clue_09]
 이름 : 왕좌의 방#2
 유형 : 물증
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 80
+정렬순서 : 90
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -255,12 +303,13 @@ HTML :
 장소 : 01_왕좌의_방
 파일명 : 08_왕좌의_방_2
 
-[clue_09]
+
+[clue_10]
 이름 : 왕좌의 방#3
 유형 : 물증
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 90
+정렬순서 : 100
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -287,12 +336,13 @@ HTML :
 장소 : 01_왕좌의_방
 파일명 : 09_왕좌의_방_3
 
-[clue_10]
+
+[clue_11]
 이름 : 왕좌의 방#4
 유형 : 물증
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 100
+정렬순서 : 110
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -315,13 +365,13 @@ HTML :
 장소 : 01_왕좌의_방
 파일명 : 10_왕좌의_방_4
 
-### 2) 서재
-[clue_11]
+
+[clue_12]
 이름 : 서재#1
 유형 : 관찰
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 110
+정렬순서 : 120
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -342,47 +392,12 @@ HTML :
 장소 : 02_서재
 파일명 : 11_서재_1
 
-[clue_12]
-이름 : 서재#2
-유형 : 물증
-단계 : 조사 1단계
-소모AP : 1
-정렬순서 : 120
-중요도 : 보통
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 공통
-의도 : 작중 주요 아이템들에 대한 배경지식 제공.
-내용 :
-<제1권: 마도 광물편>
-■ 영혼석: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. 영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체이다.
-■ 마력석: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 청색, 영혼이 봉인되면 남색으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 청람색 빛을 발한다. 이 돌은 천문학적인 가치가 있다.
-흑요석: 인간들 사이에서는 하급 보석으로 취급되나, 마족들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.
-HTML :
-<div class="story-content">
-  <div class="document-page">
-    <h3>&lt;제1권: 마도 광물편&gt;</h3>
-    <div class="document-body small">
-      <div>■ <strong>영혼석</strong>: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. <span class="emphasis">영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체</span>이다.</div>
-      <div>■ <strong>마력석</strong>: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 <span class="emphasis">청색</span>, 영혼이 봉인되면 <span class="emphasis">남색</span>으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 <span class="emphasis">청람색 빛</span>을 발한다. 이 돌은 천문학적인 가치가 있다.</div>
-      <div>■ <strong>흑요석</strong>: 인간들 사이에서는 하급 보석으로 취급되나, <span class="emphasis">마족</span>들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.</div>
-    </div>
-  </div>
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a heavy leather-bound encyclopedia opened to a page. The yellowed pages are filled with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish), with no illustrations. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
-장소 : 02_서재
-파일명 : 12_서재_2
 
 [clue_13]
-이름 : 서재#3
+이름 : 기록관의 보고#1
 유형 : 물증
 단계 : 조사 1단계
-소모AP : 1
+소모AP : 0
 정렬순서 : 130
 중요도 : 보통
 핵심 단서 여부 : N
@@ -390,13 +405,14 @@ HTML :
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
 관련 : 공통
-의도 : 속성별 상성 정보 제공.
+의도 : 속성별 상성 정보 제공. (22차 피드백 반영: 기록관 보고로 전환, 조사1단계 시작 시 전원 앞면 자동 공개, 장소 무관)
 내용 :
+기록관이 서고를 정리하며 우주의 근원 속성에 관한 개론서 한 권을 발견해 요점을 정리해 전달했다.
+
 <제2권: 속성론 개요>
-본 장에서는 우주를 구성하는 근원 속성과 그 상성 관계를 다룬다.
 ■ 빛 ↔ 어둠: 서로를 가장 강력하게 상쇄하는 상극 속성.
 ■ 물 ↔ 불: 대립적인 에너지 흐름을 가지며 서로를 약화시킨다.
 ■ 땅 ↔ 바람: 견고함과 변칙성의 상성을 형성한다.
@@ -405,10 +421,11 @@ HTML :
 ■ 상극인 속성을 가진 무기나 마법은 상대에게 치명적인 대미지를 입힐 수 있다.
 HTML :
 <div class="story-content">
+  <div class="script-direction">기록관이 서고를 정리하며 우주의 근원 속성에 관한 개론서 한 권을 발견해 요점을 정리해 전달했다.</div>
+  <div class="divider-gold"></div>
   <div class="document-page">
     <h3>&lt;제2권: 속성론 개요&gt;</h3>
     <div class="document-body small">
-      <div>본 장에서는 우주를 구성하는 근원 속성과 그 상성 관계를 다룬다.</div>
       <div>■ <span class="emphasis">빛 ↔ 어둠</span>: 서로를 가장 강력하게 상쇄하는 상극 속성.</div>
       <div>■ <span class="emphasis">물 ↔ 불</span>: 대립적인 에너지 흐름을 가지며 서로를 약화시킨다.</div>
       <div>■ <span class="emphasis">땅 ↔ 바람</span>: 견고함과 변칙성의 상성을 형성한다.</div>
@@ -419,10 +436,10 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of weathered parchment pages in a massive open book. The pages are covered exclusively with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No diagrams. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
-장소 : 02_서재
+장소 : 없음
 파일명 : 13_서재_3
 
-### 3) 연구실
+
 [clue_14]
 이름 : 연구실#1
 유형 : 물증
@@ -509,6 +526,7 @@ HTML :
 
 ============================================================
 
+
 [clue_15]
 이름 : 연구실#2
 유형 : 물증
@@ -549,6 +567,7 @@ HTML :
 장소 : 03_연구실
 파일명 : 15_연구실_2
 
+
 [clue_16]
 이름 : 연구실#3
 유형 : 물증
@@ -587,7 +606,7 @@ HTML :
 장소 : 03_연구실
 파일명 : 16_연구실_3
 
-### 4) 식당
+
 [clue_17]
 이름 : 식당#1
 유형 : 관찰
@@ -614,6 +633,7 @@ HTML :
 장소 : 09_식당
 파일명 : 17_식당_1
 
+
 [clue_18]
 이름 : 식당#2
 유형 : 물증
@@ -639,6 +659,7 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A massive, clean white animal bone lying on a dark, dusty stone floor beneath the legs of a heavy wooden dining chair and table. The legs of the chair cast long shadows over the bone. Dim, moody interior lighting (09_식당 environment). No metal plates, no tags, no text, and no large pieces of meat. Shallow depth of field, background is indistinct dark furniture. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 09_식당
 파일명 : 18_식당_2
+
 
 [clue_19]
 이름 : 식당#3
@@ -672,7 +693,7 @@ HTML :
 장소 : 09_식당
 파일명 : 19_식당_3
 
-### 5) 문서고
+
 [clue_20]
 이름 : 문서고#1
 유형 : 관찰
@@ -699,44 +720,13 @@ HTML :
 장소 : 06_문서고
 파일명 : 20_문서고_1
 
+
 [clue_21]
 이름 : 문서고#2
 유형 : 물증
 단계 : 조사 1단계
 소모AP : 1
 정렬순서 : 210
-중요도 : 보통
-핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 엘드리치, 발로그
-의도 : 마신 다크 시리어스와 골든 킹의 과거사 정보 제공.
-내용 :
-<성전 기록물>
-"...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, 얼티밋 선샤인이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 다크 시리어스조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 그의 육신을 완전히 소멸시킬 수는 없었기에, 폐하와 마법사들은 사력을 다해 빛의 결계로 그를 옭아맸다. 물결 문양의 낙인이 마신의 마력을 억눌렀고, 그를 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다."
-HTML :
-<div class="story-content">
-  <div class="document-page">
-    <h3>&lt;성전 기록물&gt;</h3>
-    <div class="document-body small">
-      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="emphasis">얼티밋 선샤인</span>이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 그의 육신을 완전히 소멸시킬 수는 없었기에, 폐하와 마법사들은 사력을 다해 <span class="emphasis">빛의 결계</span>로 그를 옭아맸다. <span class="emphasis">물결 문양의 낙인</span>이 마신의 마력을 억눌렀고, 그를 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다.&quot;</div>
-    </div>
-  </div>
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a page in an ancient holy record book resting on a stone lectern. Shadows define the texture of the page. It features ink illustrations and dense, illegible Nordic-style handwriting (Norwegian or Finnish). No runes. Shallow depth of field, background is dark and blurred chapel interior. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
-장소 : 06_문서고
-파일명 : 21_문서고_2
-
-[clue_22]
-이름 : 문서고#3
-유형 : 물증
-단계 : 조사 1단계
-소모AP : 1
-정렬순서 : 220
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -764,12 +754,13 @@ HTML :
 장소 : 06_문서고
 파일명 : 22_문서고_3
 
-[clue_23]
-이름 : 문서고#4
+
+[clue_22]
+이름 : 문서고#3
 유형 : 물증
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 230
+정렬순서 : 220
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -811,12 +802,13 @@ HTML :
 장소 : 06_문서고
 파일명 : 23_문서고_4
 
-[clue_24]
-이름 : 문서고#5
+
+[clue_23]
+이름 : 문서고#4
 유형 : 물증
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 240
+정렬순서 : 230
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -855,13 +847,13 @@ HTML :
 장소 : 06_문서고
 파일명 : 24_문서고_5
 
-### 6) 지하창고
-[clue_25]
+
+[clue_24]
 이름 : 지하창고#1
 유형 : 관찰
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 250
+정렬순서 : 240
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -882,12 +874,13 @@ HTML :
 장소 : 07_지하창고
 파일명 : 25_지하창고_1
 
-[clue_26]
+
+[clue_25]
 이름 : 지하창고#2
 유형 : 관찰
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 260
+정렬순서 : 250
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -908,45 +901,13 @@ HTML :
 장소 : 07_지하창고
 파일명 : 26_지하창고_2
 
-[clue_27]
-이름 : 지하창고#3
-유형 : 증언
-단계 : 조사 1단계
-소모AP : 1
-정렬순서 : 270
-중요도 : 높음
-핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 슬리더
-의도 : 슬리더가 어둠의 단검을 두고 가야 했던 이유.
-내용 :
-창고지기 포로의 증언이다. "지하 창고는 물결 문양의 빛의 결계로 보호받고 있습죠. 어둠의 존재는 그 안에 갇혀 나올 수도 없고 들어갈 수도 없습니다. 발을 들이는 것조차 고통스러울 테니까요."
-HTML :
-<div class="story-content">
-  <div class="script-direction">
-    창고지기 포로의 증언이다.
-  </div>
-  <div class="divider-gold"></div>
-  <div class="quote-box">
-    <div>지하 창고는 <span class="emphasis">물결 문양의 빛의 결계</span>로 보호받고 있습죠. <span class="emphasis">어둠의 존재</span>는 그 안에 갇혀 나올 수도 없고 들어갈 수도 없습니다. 발을 들이는 것조차 고통스러울 테니까요.</div>
-  </div>
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of the rough grain and texture of a single wooden chair in deep shadows. A cold, dim light catches only one edge of the wood. Extremely shallow depth of field, background is a dark, indistinct stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
-장소 : 07_지하창고
-파일명 : 27_지하창고_3
 
-### 7) 연회장
-[clue_28]
+[clue_26]
 이름 : 연회장#1
 유형 : 증언
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 280
+정렬순서 : 260
 중요도 : 낮음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -973,55 +934,13 @@ HTML :
 장소 : 05_연회장
 파일명 : 28_연회장_1
 
-### 8) 무기고
-[clue_29]
+
+[clue_27]
 이름 : 무기고#1
 유형 : 물증
 단계 : 조사 1단계
 소모AP : 1
-정렬순서 : 290
-중요도 : 높음
-핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 스컬크러셔
-의도 : 스컬크러셔의 검은 진짜 고대인의 검이 아니었다는 증거
-내용 :
-성채의 무구들을 오랫동안 관리해 온 늙은 무기고 지기가 남긴 기록이다. 전설적인 무구들에 대한 설명이 담백하게 적혀 있다.
-
-■ 빛의 검: 순수한 빛의 정수. 오직 빛의 속성을 지닌 자만이 다룰 수 있으며, 자격 없는 자가 다가서면 영혼을 태우는 백색 불꽃이 일어난다.
-■ 어둠의 단검: 그림자 칼날로, 빛의 속성을 지닌 존재에게 치명적이다. 지하 창고에 보관 중이었으나 20년 전 반출되어 행방이 묘연하다.
-■ 고대인의 검: 전설적인 은빛 한손검. 검신에 새겨진 독특한 고대 문자가 특징이며, 수천 년 전 소실된 이후로 종적을 감췄다.
-■ 공포의 검: 과거 마신이 휘둘렀다고 전해지는 대검. 검붉은 광채를 뿜어내며 불길한 안개를 퍼뜨린다고 한다.
-HTML :
-<div class="story-content">
-  <div class="script-direction">
-    성채의 무구들을 오랫동안 관리해 온 늙은 무기고 지기가 남긴 기록이다. 전설적인 무구들에 대한 설명이 담백하게 적혀 있다.
-  </div>
-  <div class="divider-gold"></div>
-  <div class="document-page">
-    <div class="document-body small">
-      <div>■ <strong>빛의 검</strong>: 순수한 빛의 정수. 오직 <span class="emphasis">빛의 속성</span>을 지닌 자만이 다룰 수 있으며, 자격 없는 자가 다가서면 영혼을 태우는 백색 불꽃이 일어난다.</div>
-      <div>■ <strong>어둠의 단검</strong>: 그림자 칼날로, <span class="emphasis">빛의 속성</span>을 지닌 존재에게 치명적이다. <span class="emphasis">지하 창고</span>에 보관 중이었으나 20년 전 반출되어 행방이 묘연하다.</div>
-      <div>■ <strong>고대인의 검</strong>: 전설적인 한손검. 칼날에서 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신에 새겨진 독특한 고대 문자가 특징이다. 수천 년 전 소실된 이후로 종적을 감췄다.</div>
-      <div>■ <strong>공포의 검</strong>: 과거 마신이 휘둘렀다고 전해지는 대검. 검신에서 <span class="emphasis">검붉은 광채</span>를 뿜어내며 불길한 안개를 퍼뜨린다고 한다.</div>
-    </div>
-  </div>
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a thick, aged parchment ledger lying open on a heavy stone pedestal in a dimly lit armory. Dust motes dance in a single beam of light. The ledger features neat, orderly ink handwriting in a formal archaic script with small, technical diagrams of sword hilts and blades. Background shows out-of-focus racks of weapons and armor. Detailed fantasy oil painting style. Deep shadows, rich parchment textures, dramatic chiaroscuro lighting.
-장소 : 04_무기고
-파일명 : 29_무기고_1
-
-[clue_30]
-이름 : 무기고#2
-유형 : 물증
-단계 : 조사 1단계
-소모AP : 1
-정렬순서 : 300
+정렬순서 : 270
 중요도 : 낮음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -1042,11 +961,124 @@ HTML :
 장소 : 04_무기고
 파일명 : 30_무기고_2
 
----
 
-## [2] 조사 4단계 배치 단서 (19:00 ~ 20:00)
+[clue_28]
+이름 : 기록관의 보고#2
+유형 : 물증
+단계 : 조사 2단계
+소모AP : 0
+정렬순서 : 280
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 공통
+의도 : 작중 주요 아이템들에 대한 배경지식 제공. (22차 피드백 반영: 기록관 보고로 전환, 조사2단계 시작 시 전원 앞면 자동 공개, 장소 무관)
+내용 :
+기록관이 서고 정리를 이어가던 중, 마도 광물을 다룬 책자를 찾아 다음 내용을 정리해 보고했다.
 
-### 1) 왕좌의 방
+<제1권: 마도 광물편>
+■ 영혼석: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. 영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체이다.
+■ 마력석: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 청색, 영혼이 봉인되면 남색으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 청람색 빛을 발한다. 이 돌은 천문학적인 가치가 있다.
+■ 흑요석: 인간들 사이에서는 하급 보석으로 취급되나, 마족들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">기록관이 서고 정리를 이어가던 중, 마도 광물을 다룬 책자를 찾아 다음 내용을 정리해 보고했다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <h3>&lt;제1권: 마도 광물편&gt;</h3>
+    <div class="document-body small">
+      <div>■ <strong>영혼석</strong>: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. <span class="emphasis">영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체</span>이다.</div>
+      <div>■ <strong>마력석</strong>: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 <span class="emphasis">청색</span>, 영혼이 봉인되면 <span class="emphasis">남색</span>으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 <span class="emphasis">청람색 빛</span>을 발한다. 이 돌은 천문학적인 가치가 있다.</div>
+      <div>■ <strong>흑요석</strong>: 인간들 사이에서는 하급 보석으로 취급되나, <span class="emphasis">마족</span>들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.</div>
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a heavy leather-bound encyclopedia opened to a page. The yellowed pages are filled with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish), with no illustrations. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+장소 : 없음
+파일명 : 12_서재_2
+
+
+[clue_29]
+이름 : 기록관의 보고#3
+유형 : 물증
+단계 : 조사 3단계
+소모AP : 0
+정렬순서 : 290
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 스컬크러셔
+의도 : 스컬크러셔의 검은 진짜 고대인의 검이 아니었다는 증거. (22차 피드백 반영: 기록관 보고로 전환, 조사3단계 시작 시 전원 앞면 자동 공개, 장소 무관. 스컬크러셔 관련 정보가 포함돼 있어 분할하지 않고 통째로 이관)
+내용 :
+기록관이 무기고를 정리하던 중, 오랫동안 무구를 관리해 온 늙은 무기고지기가 남긴 기록을 발견해 전달했다. 전설적인 무구들에 대한 설명이 담백하게 적혀 있다.
+
+■ 빛의 검: 순수한 빛의 정수. 오직 빛의 속성을 지닌 자만이 다룰 수 있으며, 자격 없는 자가 다가서면 영혼을 태우는 백색 불꽃이 일어난다.
+■ 어둠의 단검: 그림자 칼날로, 빛의 속성을 지닌 존재에게 치명적이다. 지하 창고에 보관 중이었으나 20년 전 반출되어 행방이 묘연하다.
+■ 고대인의 검: 전설적인 은빛 한손검. 검신에 새겨진 독특한 고대 문자가 특징이며, 수천 년 전 소실된 이후로 종적을 감췄다.
+■ 공포의 검: 과거 마신이 휘둘렀다고 전해지는 대검. 검붉은 광채를 뿜어내며 불길한 안개를 퍼뜨린다고 한다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">
+    기록관이 무기고를 정리하던 중, 오랫동안 무구를 관리해 온 늙은 무기고지기가 남긴 기록을 발견해 전달했다. 전설적인 무구들에 대한 설명이 담백하게 적혀 있다.
+  </div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">
+      <div>■ <strong>빛의 검</strong>: 순수한 빛의 정수. 오직 <span class="emphasis">빛의 속성</span>을 지닌 자만이 다룰 수 있으며, 자격 없는 자가 다가서면 영혼을 태우는 백색 불꽃이 일어난다.</div>
+      <div>■ <strong>어둠의 단검</strong>: 그림자 칼날로, <span class="emphasis">빛의 속성</span>을 지닌 존재에게 치명적이다. <span class="emphasis">지하 창고</span>에 보관 중이었으나 20년 전 반출되어 행방이 묘연하다.</div>
+      <div>■ <strong>고대인의 검</strong>: 전설적인 한손검. 칼날에서 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신에 새겨진 독특한 고대 문자가 특징이다. 수천 년 전 소실된 이후로 종적을 감췄다.</div>
+      <div>■ <strong>공포의 검</strong>: 과거 마신이 휘둘렀다고 전해지는 대검. 검신에서 <span class="emphasis">검붉은 광채</span>를 뿜어내며 불길한 안개를 퍼뜨린다고 한다.</div>
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a thick, aged parchment ledger lying open on a heavy stone pedestal in a dimly lit armory. Dust motes dance in a single beam of light. The ledger features neat, orderly ink handwriting in a formal archaic script with small, technical diagrams of sword hilts and blades. Background shows out-of-focus racks of weapons and armor. Detailed fantasy oil painting style. Deep shadows, rich parchment textures, dramatic chiaroscuro lighting.
+장소 : 없음
+파일명 : 29_무기고_1
+
+
+[clue_30]
+이름 : 서재#6
+유형 : 물증
+단계 : 조사 3단계
+소모AP : 1
+정렬순서 : 300
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 고어후프
+의도 : 붉은색 목걸이의 진짜 기원(고대 마족과 미노타우로스 부족 간의 전쟁, 그 전리품)을 밝히는 단서. 솔라이트 학자가 타 종족의 역사를 기록한 문헌이라는 제3자 시점의 사료로 서술함. 고어후프 본인이 자신이 지닌 목걸이의 정체(=고대 마족의 보물)를 처음으로 깨닫게 되는 계기가 됨. 종족별 효과의 구체적인 메커니즘은 여기서 다시 설명하지 않으며, 그 내용은 clue_16(연구실#3, "심연의 적석")에서 별도로 다룸 — 중복 서술 방지.
+내용 :
+솔라이트 학자가 정리한 고대 종족사 기록의 일부다. "아득한 옛날, 미노타우로스 부족은 마족과의 오랜 전쟁 끝에 승리를 거두었다. 패배한 마족은 가장 신성히 여기던 보물마저 약탈당했으며, 이후 마신이 강림하기 전까지 우주 곳곳에서 비천한 종족으로 취급받았다고 전해진다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">솔라이트 학자가 정리한 고대 종족사 기록의 일부다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body">
+      "아득한 옛날, 미노타우로스 부족은 마족과의 오랜 전쟁 끝에 승리를 거두었다. 패배한 마족은 가장 신성히 여기던 보물마저 약탈당했으며, 이후 마신이 강림하기 전까지 우주 곳곳에서 비천한 종족으로 취급받았다고 전해진다."
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an open, ancient, thick leather-bound encyclopedia or history book. The pages are yellowed and worn, featuring dense, scholarly text. On the page, there is an intricate, hand-drawn illustration showing a victorious Minotaur roaring while standing triumphantly over a defeated, fallen demon. The heavy historical book rests on a wooden desk in a dimly lit, dusty library. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+장소 : 02_서재
+파일명 : 65_서재_8
+
+
 [clue_31]
 이름 : 왕좌의 방#5
 유형 : 물증
@@ -1081,6 +1113,7 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a luxurious golden parchment scroll lying on a dark crimson velvet surface. Soft shadows are cast beneath the scroll's golden rods. It features elegant but illegible handwriting in a script resembling modern Nordic languages (Norwegian or Finnish) and a massive crimson royal wax seal. Shallow depth of field, background is dark. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 01_왕좌의_방
 파일명 : 31_왕좌의_방_5
+
 
 [clue_32]
 이름 : 왕좌의 방#6
@@ -1118,6 +1151,7 @@ HTML :
 장소 : 01_왕좌의_방
 파일명 : 32_왕좌의_방_6
 
+
 [clue_33]
 이름 : 왕좌의 방#7
 유형 : 증언
@@ -1150,6 +1184,7 @@ HTML :
 장소 : 01_왕좌의_방
 파일명 : 33_왕좌의_방_7
 
+
 [clue_34]
 이름 : 왕좌의 방#8
 유형 : 물증
@@ -1177,9 +1212,9 @@ HTML :
 장소 : 01_왕좌의_방
 파일명 : 34_왕좌의_방_8
 
-### 2) 서재
+
 [clue_35]
-이름 : 서재#4
+이름 : 서재#2
 유형 : 관찰
 단계 : 조사 4단계
 소모AP : 1
@@ -1195,17 +1230,18 @@ HTML :
 관련 : 엘드리치
 의도 : 엘드리치는 봉인된 마신이었다는 증거.
 내용 :
-서재 한복판에 고꾸라져 있는 엘드리치의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 물결 모양의 문신이 새겨져 있다.
+서재 한복판에 고꾸라져 있는 엘드리치의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 물결 모양의 낙인이 새겨져 있다.
 HTML :
 <div class="story-content">
-  <div>서재 한복판에 고꾸라져 있는 <span class="character-eldritch">엘드리치</span>의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 <span class="emphasis">물결 모양의 문신</span>이 새겨져 있다.</div>
+  <div>서재 한복판에 고꾸라져 있는 <span class="character-eldritch">엘드리치</span>의 시신이다. 늘 쓰고 있던 후드에 가려서 평소 보이지 않던 그의 뒷목에는 기하학적인 <span class="emphasis">물결 모양의 낙인</span>이 새겨져 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on the side of a neck showing faint, complex geometric patterns. Cold, pale skin texture. Shallow depth of field, background is completely dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 02_서재
 파일명 : 35_서재_4
 
+
 [clue_36]
-이름 : 서재#5
+이름 : 서재#3
 유형 : 관찰
 단계 : 조사 4단계
 소모AP : 1
@@ -1230,8 +1266,9 @@ HTML :
 장소 : 02_서재
 파일명 : 36_서재_5
 
+
 [clue_37]
-이름 : 서재#6
+이름 : 서재#4
 유형 : 관찰
 단계 : 조사 4단계
 소모AP : 1
@@ -1258,7 +1295,7 @@ HTML :
 
 ============================================================
 
-이름 : 서재#6 (변형)
+이름 : 서재#4 (변형)
 유형 : 물증
 소모AP : 0
 정렬순서 : 371
@@ -1284,11 +1321,12 @@ HTML :
 
 ============================================================
 
+
 [clue_38]
-이름 : 서재#7
+이름 : 서재#5
 유형 : 물증
 단계 : 조사 4단계
-소모AP : 1
+소모AP : 0
 정렬순서 : 380
 중요도 : 높음
 핵심 단서 여부 : N
@@ -1296,10 +1334,10 @@ HTML :
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
 관련 : 엘드리치
-의도 : 자애로운 현자의 문체로 위장하여 각 캐릭터의 약점과 협박 정황을 은유적으로 암시함. 타 단서들과 조합하여 동기를 유추하게 만듦.
+의도 : 자애로운 현자의 문체로 위장하여 각 캐릭터의 약점과 협박 정황을 은유적으로 암시함. 타 단서들과 조합하여 동기를 유추하게 만듦. (22차 피드백 반영: 엘드리치가 의도적으로 남긴 단서라 위치 조사 없이 조사4단계 시작 시 전원 앞면 자동 공개로 전환. 기록관 이관은 아니며 이름·본문은 그대로 유지)
 내용 :
 책상 위에는 낡은 가죽 수첩이 펼쳐져 있다. 페이지 가득, 고풍스러운 필체로 다음과 같은 잠언들이 적혀 있다.
 
@@ -1326,10 +1364,10 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up focus on a small, thin, aged dark leather-bound personal notebook opened to a single, flat page. The page features dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No illustrations. Extremely shallow depth of field, background is dark and completely blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, ancient and mysterious atmosphere.
-장소 : 02_서재
+장소 : 없음
 파일명 : 38_서재_7
 
-### 3) 연구실
+
 [clue_39]
 이름 : 연구실#4
 유형 : 증언
@@ -1361,7 +1399,7 @@ HTML :
 장소 : 03_연구실
 파일명 : 39_연구실_4
 
-### 4) 식당
+
 [clue_40]
 이름 : 식당#4
 유형 : 증언
@@ -1392,9 +1430,9 @@ HTML :
 장소 : 09_식당
 파일명 : 40_식당_4
 
-### 5) 문서고
+
 [clue_41]
-이름 : 문서고#6
+이름 : 문서고#5
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1425,8 +1463,9 @@ HTML :
 장소 : 06_문서고
 파일명 : 41_문서고_6
 
+
 [clue_42]
-이름 : 문서고#7
+이름 : 문서고#6
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1460,8 +1499,9 @@ HTML :
 장소 : 06_문서고
 파일명 : 42_문서고_7
 
+
 [clue_43]
-이름 : 문서고#8
+이름 : 문서고#7
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1501,7 +1541,7 @@ HTML :
 
 
 [clue_44]
-이름 : 문서고#9
+이름 : 문서고#8
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1527,10 +1567,8 @@ HTML :
 파일명 : 44_문서고_9
 
 
-
-### 6) 지하창고 (6, 6-1)
 [clue_45]
-이름 : 지하창고#4
+이름 : 지하창고#3
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1555,8 +1593,9 @@ HTML :
 장소 : 07_지하창고
 파일명 : 45_지하창고_4
 
+
 [clue_46]
-이름 : 지하창고#5
+이름 : 지하창고#4
 유형 : 증언
 단계 : 조사 4단계
 소모AP : 1
@@ -1585,8 +1624,9 @@ HTML :
 장소 : 07_지하창고
 파일명 : 46_지하창고_5
 
+
 [clue_47]
-이름 : 지하창고#6
+이름 : 마력석
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1612,8 +1652,9 @@ HTML :
 장소 : 07_지하창고
 파일명 : 47_지하창고_6
 
+
 [clue_48]
-이름 : 지하창고#7
+이름 : 지하창고#6
 유형 : 관찰
 단계 : 조사 4단계
 소모AP : 1
@@ -1638,8 +1679,9 @@ HTML :
 장소 : 07_지하창고
 파일명 : 48_지하창고_7
 
+
 [clue_49]
-이름 : 지하창고#8
+이름 : 바람의 장검
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1648,8 +1690,8 @@ HTML :
 핵심 단서 여부 : N
 교환 가능 여부 : Y
 획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 'RUMI' 또는 '루미' 입력
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 발로그, 엘란트라
@@ -1669,8 +1711,9 @@ HTML :
 장소 : 07_지하창고
 파일명 : 49_지하창고_8
 
+
 [clue_50]
-이름 : 지하창고#9
+이름 : 대지의 창
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1679,8 +1722,8 @@ HTML :
 핵심 단서 여부 : N
 교환 가능 여부 : Y
 획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 'MIRA' 또는 '미라' 입력
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 고어후프, 엘란트라
@@ -1700,8 +1743,9 @@ HTML :
 장소 : 07_지하창고
 파일명 : 50_지하창고_9
 
+
 [clue_51]
-이름 : 지하창고#10
+이름 : 물의 쌍검
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1710,8 +1754,8 @@ HTML :
 핵심 단서 여부 : N
 교환 가능 여부 : Y
 획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 'ZOEY' 또는 '조이' 입력
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 슬리더, 엘란트라
@@ -1731,8 +1775,9 @@ HTML :
 장소 : 07_지하창고
 파일명 : 51_지하창고_10
 
+
 [clue_52]
-이름 : 지하창고#11
+이름 : 빛의 검
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1742,7 +1787,7 @@ HTML :
 교환 가능 여부 : Y
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 스컬크러셔만 획득 가능
+획득 조건 내용 : 'ryuk' 또는 '류크' 입력
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 스컬크러셔
@@ -1762,7 +1807,7 @@ HTML :
 장소 : 07_지하창고
 파일명 : 52_지하창고_11
 
-### 7) 연회장
+
 [clue_53]
 이름 : 연회장#2
 유형 : 증언
@@ -1793,9 +1838,9 @@ HTML :
 장소 : 05_연회장
 파일명 : 53_연회장_2
 
-### 8) 무기고
+
 [clue_54]
-이름 : 무기고#3
+이름 : 무기고#2
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
@@ -1820,7 +1865,7 @@ HTML :
 장소 : 04_무기고
 파일명 : 54_무기고_3
 
-### 9) 마법탑
+
 [clue_55]
 이름 : 마법탑#1
 유형 : 관찰
@@ -1846,6 +1891,7 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a fallen sorcerer's staff and burnt jewelry lying on a scorched, cracked stone floor. Tendrils of faint smoke rise from the staff. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 08_마법탑
 파일명 : 55_마법탑_1
+
 
 [clue_56]
 이름 : 마법탑#2
@@ -1874,6 +1920,7 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured sorcerer (prisoner) seen from behind, sitting motionless on a heavy stone chair in a high-vaulted chamber of the Mage Tower (based on ref 11). The Mage Tower setting is visible in the background with grand arches and cold, mystical stone architecture with bluish magic glow in the distance. The prisoner, wearing tattered dark robes and a hood, sits with his head bowed and arms slightly positioned behind, showing a resigned and defeated state. Faint blue magical light or cold candlelight illuminates the vast, silent, and somber chamber. Extremely shallow depth of field, focused on the prisoner's back. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (weathered stone, tattered fabrics, old wood), dramatic chiaroscuro lighting, heavy atmosphere. Focus on the solitary, defeated silhouette of the wizard as he provides his testimony. No face visible, just the back of the figure's head and shoulders.
 장소 : 08_마법탑
 파일명 : 56_마법탑_2
+
 
 [clue_57]
 이름 : 연구실#5
@@ -1931,7 +1978,7 @@ HTML :
 
 ============================================================
 
-### 10) 외곽 망루
+
 [clue_58]
 이름 : 외곽 망루#1
 유형 : 증언
@@ -1961,6 +2008,7 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of a captured bastion guard (prisoner) seen from behind, standing on the edge of a dark, cold stone rampart at night. Thick, dark fog fills the background behind the guard's silhouette. The guard wears tattered leather and rusted iron armor pieces, with a simple worn cloak hanging from his shoulders. Faint, cold moonlight or warm light from a distant torch highlights the rough texture of the weathered stone battlements and the metal fragments on his back. The atmosphere is quiet, tense, and heavy. Extremely shallow depth of field, focused on the steady, defeated silhouette of the guard as he provides his testimony. No face visible, just the back of the figure's head and shoulders. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (rusted steel, холодный камень, thick wool), dramatic chiaroscuro lighting, heavy atmosphere.
 장소 : 10_외곽_망루
 파일명 : 58_외곽_망루_1
+
 
 [clue_59]
 이름 : 외곽 망루#2
@@ -1992,7 +2040,7 @@ HTML :
 장소 : 10_외곽_망루
 파일명 : 59_외곽_망루_2
 
-### 11) 중앙 복도
+
 [clue_60]
 이름 : 중앙 복도#1
 유형 : 증언
@@ -2022,6 +2070,7 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an elite assassin member (scout) seen from behind, standing in the long, dimly lit central corridor of the fortress (as seen in 12_중앙_복도.png). The assassin is clad in dark, non-reflective leather armor and a deep hood, his silhouette blending into the heavy shadows cast by the high arcs and stone pillars of the corridor. He is captured in a still, alert posture as if delivering a confidential report. In the background, a single flickering wall torch casts a narrow, dancing pool of warm light, highlighting the rough texture of the ancient stone floor and the cold, dark atmosphere of the hallway. Extremely shallow depth of field, focused on the steady, mysterious presence of the scout. No face visible, just the dark silhouette in the shadows. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 장소 : 11_중앙_복도
 파일명 : 60_중앙_복도_1
+
 
 [clue_61]
 이름 : 중앙 복도#2
@@ -2053,60 +2102,13 @@ HTML :
 장소 : 11_중앙_복도
 파일명 : 61_중앙_복도_2
 
+
 [clue_62]
-이름 : 바스타즈 강령
-유형 : 통찰
-단계 : 조사 1단계
-소모AP : 0
-정렬순서 : 620
-중요도 : 높음
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 공통
-의도 : 바스타즈의 엄격한 군대식 질서와 규율을 보여줌으로써, 각 멤버의 비밀이 밝혀질 경우 '사형'에 처해질 수 있다는 논리적 공포와 당위성을 부여함.
-내용 :
-당신은 바스타즈의 강령을 떠올려 보았다.
-
-<바스타즈 강령>
-1조. 제 한 몸이나 핏줄의 안위만을 챙기는 자는 엄벌한다.
-2조. 목표를 달성하기 전 이탈하려는 자는 도망자로 간주한다.
-3조. 동료의 명예를 더럽히는 자는 짐승으로 보아 무리에서 내쫓는다.
-4조. 어떠한 이유로든 동료를 해치는 것은 용납하지 않는다.
-5조. 적과 내통하여 무리를 위험에 빠뜨린 자는 배신자로 처단한다.
-6조. 대장은 대원의 목숨과 규칙을 끝까지 지킨다.
-7조. 실책으로 동료를 사지로 몰아넣은 자는 무거운 책임을 묻는다.
-HTML :
-<div class="story-content">
-  <div class="script-direction">당신은 바스타즈의 강령을 떠올려 보았다.</div>
-  <div class="divider-gold"></div>
-  <div class="document-page">
-    <h4>&lt;바스타즈 강령&gt;</h4>
-    <div class="document-body small">
-      <div>1조. 제 한 몸이나 <span class="emphasis">핏줄의 안위</span>만을 챙기는 자는 <span class="emphasis">엄벌</span>한다.</div>
-      <div>2조. 목표를 달성하기 전 <span class="emphasis">이탈</span>하려는 자는 <span class="emphasis">도망자</span>로 간주한다.</div>
-      <div>3조. 동료의 <span class="emphasis">명예를 더럽히는 자</span>는 <span class="emphasis">짐승</span>으로 보아 무리에서 내쫓는다.</div>
-      <div>4조. 어떠한 이유로든 <span class="emphasis">동료를 해치는 것</span>은 <span class="emphasis">용납하지 않는다</span>.</div>
-      <div>5조. 적과 <span class="emphasis">내통</span>하여 무리를 위험에 빠뜨린 자는 <span class="emphasis">배신자</span>로 처단한다.</div>
-      <div>6조. 대장은 대원의 <span class="emphasis">목숨과 규칙</span>을 끝까지 지킨다.</div>
-      <div>7조. 실책으로 <span class="emphasis">동료를 사지</span>로 몰아넣은 자는 <span class="emphasis">무거운 책임</span>을 묻는다.</div>
-    </div>
-  </div>
-</div>
-이미지생성용 프롬프트 : Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic, angled close-up of a long, vertically-unrolled aged parchment lying on a dark wooden table. The parchment is slightly curled at the edges. At the bottom center, seven dark red blood signatures are prominently displayed in a row. A single warm candle nearby casts flickering light and long, deep shadows across the textured, weathered paper. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures (aged paper, dark wood), heavy brushstrokes, dramatic chiaroscuro lighting, solemn and martial atmosphere.
-장소 : 없음
-파일명 : 62_바스타즈_강령
-
-[clue_63]
-이름 : 무기고#4
+이름 : 무기고#3
 유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
-정렬순서 : 630
+정렬순서 : 620
 중요도 : 낮음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -2127,12 +2129,13 @@ HTML :
 장소 : 05_무기고
 파일명 : 63_무기고_4
 
-[clue_64]
+
+[clue_63]
 이름 : 중앙 복도#3
 유형 : 증언
 단계 : 조사 4단계
 소모AP : 1
-정렬순서 : 640
+정렬순서 : 630
 중요도 : 낮음
 핵심 단서 여부 : N
 교환 가능 여부 : Y
@@ -2157,43 +2160,47 @@ HTML :
 장소 : 11_중앙_복도
 파일명 : 64_중앙_복도_3
 
-[clue_65]
-이름 : 서재#8
-유형 : 물증
-단계 : 조사 3단계
-소모AP : 1
-정렬순서 : 390
+
+[clue_64]
+이름 : 기록관의 보고#4
+유형 : 증언
+단계 : 조사 5단계
+소모AP : 0
+정렬순서 : 640
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : Y
-획득 가능 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 고어후프
-의도 : 붉은색 목걸이의 진짜 기원(고대 마족과 미노타우로스 부족 간의 전쟁, 그 전리품)을 밝히는 단서. 솔라이트 학자가 타 종족의 역사를 기록한 문헌이라는 제3자 시점의 사료로 서술함. 고어후프 본인이 자신이 지닌 목걸이의 정체(=고대 마족의 보물)를 처음으로 깨닫게 되는 계기가 됨. 종족별 효과의 구체적인 메커니즘은 여기서 다시 설명하지 않으며, 그 내용은 clue_16(연구실#3, "심연의 적석")에서 별도로 다룸 — 중복 서술 방지.
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 슬리더
+의도 : 슬리더가 어둠의 단검을 두고 가야 했던 이유. (22차 피드백 반영: 기록관 보고로 전환, 조사5단계 시작 시 전원 앞면 자동 공개, 장소 무관)
 내용 :
-솔라이트 학자가 정리한 고대 종족사 기록의 일부다. "아득한 옛날, 미노타우로스 부족은 마족과의 오랜 전쟁 끝에 승리를 거두었다. 패배한 마족은 가장 신성히 여기던 보물마저 약탈당했으며, 이후 마신이 강림하기 전까지 우주 곳곳에서 비천한 종족으로 취급받았다고 전해진다."
+붙잡힌 창고지기 포로를 심문한 결과가 전원에게 보고되었다.
+
+"지하 창고는 물결 문양의 빛의 결계로 보호받고 있습죠. 어둠의 존재는 그 안에 갇혀 나올 수도 없고 들어갈 수도 없습니다. 발을 들이는 것조차 고통스러울 테니까요."
 HTML :
 <div class="story-content">
-  <div class="script-direction">솔라이트 학자가 정리한 고대 종족사 기록의 일부다.</div>
+  <div class="script-direction">
+    붙잡힌 창고지기 포로를 심문한 결과가 전원에게 보고되었다.
+  </div>
   <div class="divider-gold"></div>
-  <div class="document-page">
-    <div class="document-body">
-      "아득한 옛날, 미노타우로스 부족은 마족과의 오랜 전쟁 끝에 승리를 거두었다. 패배한 마족은 가장 신성히 여기던 보물마저 약탈당했으며, 이후 마신이 강림하기 전까지 우주 곳곳에서 비천한 종족으로 취급받았다고 전해진다."
-    </div>
+  <div class="quote-box">
+    <div>지하 창고는 <span class="emphasis">물결 문양의 빛의 결계</span>로 보호받고 있습죠. <span class="emphasis">어둠의 존재</span>는 그 안에 갇혀 나올 수도 없고 들어갈 수도 없습니다. 발을 들이는 것조차 고통스러울 테니까요.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an open, ancient, thick leather-bound encyclopedia or history book. The pages are yellowed and worn, featuring dense, scholarly text. On the page, there is an intricate, hand-drawn illustration showing a victorious Minotaur roaring while standing triumphantly over a defeated, fallen demon. The heavy historical book rests on a wooden desk in a dimly lit, dusty library. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
-장소 : 02_서재
-파일명 : 65_서재_8
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of the rough grain and texture of a single wooden chair in deep shadows. A cold, dim light catches only one edge of the wood. Extremely shallow depth of field, background is a dark, indistinct stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+장소 : 없음
+파일명 : 27_지하창고_3
 
-[clue_66]
-이름 : 마법탑#3
+
+[clue_65]
+이름 : 기록관의 보고#5
 유형 : 물증
-단계 : 조사 4단계
-소모AP : 1
+단계 : 조사 6단계
+소모AP : 0
 정렬순서 : 650
 중요도 : 보통
 핵심 단서 여부 : N
@@ -2201,20 +2208,59 @@ HTML :
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 말리스, 슬리더, 발로그
-의도 : 골든 킹과 골든 서클을 비롯해 작중 전반에 편재한 "황금"이라는 모티프의 근원을 밝히는 단서. 고대의 푸른 행성(지구) 출신 세 여전사가 정체불명의 마왕을 물리쳤다는 전설을 소개하며, 그녀들이 부르던 노래의 이름이 그대로 신성시되어 전해진다는 서술로 지하창고 보관함 비밀번호(GOLDEN, 말리스의 개인 기억과는 별개의 경로)를 은근히 암시함(글자 수는 직접 언급하지 않음). 동시에 그녀들이 지녔던 세 자루의 무구가 성 어딘가에 보관되어 있다는 언급으로 지하창고의 속성 무기 3종(바람의 장검/대지의 언월도/물의 쌍검)의 진짜 유래를 암시함. 전설 속 마왕의 정체는 의도적으로 확정하지 않으며, 다크 시리어스 본인도 자신의 기원을 모른다는 설정과 모순되지 않도록 한다.
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 엘드리치, 발로그
+의도 : 마신 다크 시리어스와 골든 킹의 과거사 정보 제공. (22차 피드백 반영: 기록관 보고로 전환, 조사6단계 시작 시 전원 앞면 자동 공개, 장소 무관)
 내용 :
-오래된 마도서들 틈에 끼워져 있던, 반쯤 삭은 양피지 조각이다. "아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져, 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다."
+기록관이 문서고에서 성전 당시의 기록물을 찾아 낭독했다.
+
+<성전 기록물>
+"...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, 얼티밋 선샤인이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 다크 시리어스조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 그의 육신을 완전히 소멸시킬 수는 없었기에, 폐하와 마법사들은 사력을 다해 빛의 결계로 그를 옭아맸다. 물결 문양의 낙인이 마신의 마력을 억눌렀고, 그를 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다."
 HTML :
 <div class="story-content">
-  <div class="script-direction">오래된 마도서들 틈에 끼워져 있던, 반쯤 삭은 양피지 조각이다.</div>
+  <div class="script-direction">기록관이 문서고에서 성전 당시의 기록물을 찾아 낭독했다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <h3>&lt;성전 기록물&gt;</h3>
+    <div class="document-body small">
+      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="emphasis">얼티밋 선샤인</span>이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 그의 육신을 완전히 소멸시킬 수는 없었기에, 폐하와 마법사들은 사력을 다해 <span class="emphasis">빛의 결계</span>로 그를 옭아맸다. <span class="emphasis">물결 문양의 낙인</span>이 마신의 마력을 억눌렀고, 그를 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다.&quot;</div>
+    </div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a page in an ancient holy record book resting on a stone lectern. Shadows define the texture of the page. It features ink illustrations and dense, illegible Nordic-style handwriting (Norwegian or Finnish). No runes. Shallow depth of field, background is dark and blurred chapel interior. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+장소 : 없음
+파일명 : 21_문서고_2
+
+
+[clue_66]
+이름 : 기록관의 보고#6
+유형 : 물증
+단계 : 통합 조사
+소모AP : 0
+정렬순서 : 660
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 말리스, 슬리더, 발로그
+의도 : 골든 킹과 골든 서클을 비롯해 작중 전반에 편재한 "황금"이라는 모티프의 근원을 밝히는 단서. 고대의 푸른 행성(지구) 출신 세 여전사가 정체불명의 마왕을 물리쳤다는 전설을 소개하며, 그녀들이 부르던 노래의 이름이 그대로 신성시되어 전해진다는 서술로 지하창고 보관함 비밀번호(GOLDEN, 말리스의 개인 기억과는 별개의 경로)를 은근히 암시함(글자 수는 직접 언급하지 않음). 동시에 그녀들이 지녔던 세 자루의 무구가 성 어딘가에 보관되어 있다는 언급으로 지하창고의 속성 무기 3종(바람의 장검/대지의 창/물의 쌍검)의 진짜 유래를 암시함. 전설 속 마왕의 정체는 의도적으로 확정하지 않으며, 다크 시리어스 본인도 자신의 기원을 모른다는 설정과 모순되지 않도록 한다. (22차 피드백 반영: 기록관 보고로 전환, 통합조사 시작 시 전원 앞면 자동 공개, 장소 무관) 추가로, 세 여전사 각각을 은유적으로 묘사하는 문장을 삽입해 지하창고 무기 3종의 개별 비밀번호(각 무기의 원래 주인 이름) 추리용 힌트로 기능하게 함 — 이름은 직접 언급하지 않고 역할·성격·속성만 은유로 제공.
+내용 :
+기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.
+
+"아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져, 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 세 여전사 중 무리의 맨 앞에서 흔들리는 마음을 다잡아 세우는 목소리로 노래를 이끌던 맏이는, 숨결과도 같은 바람의 힘을 다스렸다고 전해진다. 그녀 없이는 누구도 한 걸음도 나아가지 못했다 할 만큼 거침없던 둘째는, 무엇에도 흔들리지 않는 대지의 힘을 휘둘렀다. 가장 어렸으나 가장 재빠르고 짓궂은 몸놀림을 지녔던 막내는, 종잡을 수 없이 흐르는 물의 힘을 다스렸다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다.</div>
+    <div>아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 <span class="emphasis">노래의 이름</span>은 후대에도 그대로 전해져 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 세 여전사 중 무리의 맨 앞에서 흔들리는 마음을 다잡아 세우는 목소리로 노래를 이끌던 맏이는, 숨결과도 같은 <span class="emphasis">바람</span>의 힘을 다스렸다고 전해진다. 그녀 없이는 누구도 한 걸음도 나아가지 못했다 할 만큼 거침없던 둘째는, 무엇에도 흔들리지 않는 <span class="emphasis">대지</span>의 힘을 휘둘렀다. 가장 어렸으나 가장 재빠르고 짓궂은 몸놀림을 지녔던 막내는, 종잡을 수 없이 흐르는 <span class="emphasis">물</span>의 힘을 다스렸다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-decayed, brittle piece of ancient parchment tucked between thick, dusty spellbooks on a stone shelf. The parchment is covered in faded, archaic handwriting, with a faint, weathered illustration of three silhouetted female warriors standing together in the corner of the page. Dust particles float in a thin beam of light. Shallow depth of field, background is a dark, blurred mage tower chamber lined with ancient tomes. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
-장소 : 08_마법탑
+장소 : 없음
 파일명 : 66_마법탑_3

@@ -565,7 +565,7 @@
     /* 40px에서 대폭 축소 */
     border: 1px solid #d0d0d0;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
-    aspect-ratio: 4/3;
+    /* aspect-ratio: 4/3; 세로로 너무 길어지는 현상 방지 */
     display: flex;
     flex-direction: column;
 }
@@ -614,13 +614,13 @@
 }
 
 .story-content .document-body {
-    font-size: 0.9em;
+    font-size: 1.0em;
     line-height: 1.6;
 }
 
 .story-content .document-body.small {
-    font-size: 0.6em;
-    line-height: 1.4;
+    font-size: 0.9em;
+    line-height: 1.5;
 }
 
 /* Text Utilities */
@@ -973,4 +973,186 @@
     font-size: 0.85em;
     opacity: 0.8;
     margin-top: 1.5em;
+}
+
+/* --- 단서 질감 분리 (Clue Textures) --- */
+
+/* 1. 약도 스케치 질감 */
+.story-content .document-page.type-sketch {
+    background-color: #fdfbf7;
+    /* 약간 누런 거친 종이 */
+    color: #3b3a36;
+    border: 1px solid #dcd7ca;
+    box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.4);
+    font-family: "Gowun Batang", serif;
+    /* 펜글씨 느낌 */
+    transform: rotate(-1deg);
+    /* 살짝 삐뚤어지게 */
+}
+
+.story-content .document-page.type-sketch .document-body {
+    opacity: 0.9;
+}
+
+/* 2. 옛날 신문 기사 질감 */
+.story-content .document-page.type-news {
+    background-color: #f4f4f4;
+    /* 회백색 갱지 느낌 */
+    color: #1a1a1a;
+    border: 1px solid #999;
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.05), 3px 3px 10px rgba(0, 0, 0, 0.5);
+    font-family: "Nanum Myeongjo", serif;
+    /* 고전 명조체 */
+}
+
+.story-content .document-page.type-news h4 {
+    border-bottom: 3px double #333;
+    color: #000;
+    font-weight: 800;
+}
+
+.story-content .document-page.type-news .document-body {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+/* 3. 개척자의 편지 (한지 질감) */
+.story-content .document-page.type-old-letter {
+    background-color: #eaddc5;
+    /* 누런 한지 */
+    background-image: repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(0, 0, 0, 0.01) 10px, rgba(0, 0, 0, 0.01) 20px);
+    color: #2b2013;
+    border: 1px solid #c8a97e;
+    box-shadow: inset 0 0 30px rgba(139, 69, 19, 0.2), 4px 4px 15px rgba(0, 0, 0, 0.6);
+    font-family: "Gowun Batang", serif;
+    /* 붓글씨 느낌에 어울림 */
+    border-radius: 2px;
+}
+
+.story-content .document-page.type-old-letter .document-body {
+    line-height: 1.8;
+}
+
+/* 4. 유서 메모 (편지지) */
+.story-content .document-page.type-memo {
+    background-color: #fdfdfd;
+    background-image: repeating-linear-gradient(#fdfdfd, #fdfdfd 24px, #e0e0e0 25px);
+    /* 가로선 노트 패턴 */
+    background-position: 0 5px;
+    color: #222;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    font-family: "Gowun Batang", serif;
+    padding-top: 15px;
+    /* 선에 맞추기 위해 약간 여백 */
+}
+
+.story-content .document-page.type-memo .document-body {
+    line-height: 25px;
+    /* 배경 가로선(25px)과 간격 맞춤 */
+}
+
+/* 5. 핏자국 묻은 거친 은행 쪽지 */
+.story-content .document-page.type-torn {
+    background-color: #f5f5f5;
+    background-image: radial-gradient(circle at 90% 10%, rgba(139, 0, 0, 0.3) 0%, transparent 40%);
+    /* 핏자국 얼룩 */
+    color: #333;
+    border: 1px dashed #bbb;
+    /* 찢어진 느낌 */
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.4);
+    font-family: monospace, sans-serif;
+    /* 딱딱하거나 휘갈긴 느낌 */
+}
+
+/* 6. 개인 속마음 (아는 것) - 심플한 메모 */
+.story-content .document-page.type-knowledge {
+    background-color: #262a2e;
+    /* 어두운 바탕 (캐릭터 텍스트 색상 대비용) */
+    color: #e8e8e8;
+    border: 1px solid #3d4349;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    font-family: "Gowun Batang", serif;
+    padding: 15px;
+    border-radius: 2px;
+}
+
+/* 7. 개인 속마음 (비밀) - 어두운 독백 */
+.story-content .document-page.type-secret {
+    background-color: #1a1a24;
+    /* 어두운 남색/검정 계열 */
+    color: #e0e0e0;
+    border: 1px solid #333;
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.8), 2px 2px 10px rgba(0, 0, 0, 0.5);
+    font-family: "Nanum Myeongjo", serif;
+    padding: 15px;
+    border-radius: 3px;
+}
+
+.story-content .document-page.type-secret .document-body {
+    text-shadow: 0px 0px 3px rgba(255, 255, 255, 0.2);
+}
+
+/* 8. 아주 오래된 붓글씨 느낌 (개척자 편지 등) */
+.story-content .old-brush-text {
+    font-family: "Gungsuh", "궁서", "Gowun Batang", serif !important;
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #2b2316;
+}
+
+/* 9. 특정 인물의 필체 (위조 유서와 낙서가 동일 인물임을 나타내는 힌트) */
+.story-content .suspect-handwriting {
+    font-family: "Nanum Pen Script", "Gowun Dodum", "Comic Sans MS", cursive !important;
+    font-size: 1.2em;
+    transform: skewX(-5deg);
+    color: #2c2c2c;
+    letter-spacing: 0.5px;
+}
+
+/* 10. 진술서/자백 (타자기 폰트, 거친 용지) */
+.story-content .document-page.type-confession {
+    background-color: #f7f6f1; /* 빛바랜 서류 느낌의 미색 */
+    background-image: repeating-linear-gradient(#f7f6f1, #f7f6f1 24px, #e8e8e8 25px); /* 서식 줄 */
+    background-position: 0 10px;
+    color: #111;
+    border: 1px solid #aaa;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+    font-family: "Courier New", Courier, monospace; /* 타자기 느낌의 폰트 */
+    padding: 20px;
+    border-radius: 1px;
+}
+.story-content .document-page.type-confession .document-body {
+    line-height: 25px; /* 배경 줄에 맞춤 */
+    letter-spacing: -0.5px; /* 타자기 특유의 느낌 보완 */
+    font-size: 0.9em;
+}
+.story-content .document-page.type-confession h3 {
+    text-align: center;
+    border-bottom: 2px solid #555;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-family: "Pretendard", sans-serif;
+}
+
+/* 11. 가이드 / 주의사항 박스 */
+.story-content .guide-notice {
+    margin-top: 20px;
+    padding: 12px 15px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    line-height: 1.5;
+    font-family: "Pretendard", sans-serif;
+}
+.story-content .guide-notice.type-info {
+    background-color: rgba(50, 150, 255, 0.1);
+    border-left: 4px solid #3296ff;
+    color: #cfd8dc;
+}
+.story-content .guide-notice.type-warning {
+    background-color: rgba(255, 60, 60, 0.1);
+    border-left: 4px solid #ff3c3c;
+    color: #ffcccc;
 }
