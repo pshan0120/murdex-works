@@ -5,7 +5,7 @@
 소개
 
 3. 단계 유형
-NARRATIVE
+INVESTIGATION
 
 4. 예상 소요 시간
 15분
@@ -56,10 +56,15 @@ N
     </div>
 
     <div class="script-direction">(자신들의 방문 목적을 둘러댄 여섯 사람. 그러나 누구 하나 진짜 속내를 시원스레 밝힌 사람은 없는 듯하다. 여전히 도가의 안주인 <span class="character-eunju">강은주</span>는 나타나지 않고, 어색하고 불편한 공기만이 현관을 맴돈다...)</div>
+
+    <!-- 정해준 -->
+    <div class="script-line">
+      <span class="script-character"><span class="character-haejun">정해준</span></span>: "음, 분위기가 너무 가라앉은 것 같군요. 다들 기다리시는 동안 이거나 같이 보실까요? 제가 오늘 낮에 부지를 둘러보며 대충 스케치해 둔 것인데, 그냥 한번 구경하시는 것도 시간 때우기엔 괜찮으실 겁니다."
+    </div>
   </div>
 
   <div class="section-title">2. 다음 단계 안내</div>
   <p>
-    대본 낭독이 모두 끝났다면 서로의 얼굴을 한 번씩 훑어보십시오. 모두 마음의 준비가 되었다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
+    대본 낭독이 모두 끝났다면, <strong><span class="character-haejun">정해준</span></strong> 플레이어는 본인의 역할 시트에 기재된 지침을 확인한 뒤, 안내에 따라 게임 보드에 배치된 <strong><span class="emphasis">[비밀단서#1]</span></strong>을 조사하여 모두에게 공유하십시오. 조사가 충분히 이루어졌다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
   </p>
 </div>

@@ -31,28 +31,61 @@ N
 
   <div class="section-title">3. 전체 게임 단계 흐름</div>
   <p>
-    본 시나리오는 다음과 같이 총 8단계로 순차 진행됩니다. 시스템 또는 진행자의 지시가 있을 때까지 절대로 다음 단계의 정보를 미리 읽지 마십시오.
+    본 시나리오는 다음과 같이 총 8단계로 순차 진행됩니다.
   </p>
-  <ul class="timeline-list">
-    <li><strong>1단계: 준비</strong></li>
-    <li><strong>2단계: 소개</strong></li>
-    <li><strong>3단계: 조사</strong></li>
-    <li><strong>4단계: 발견</strong></li>
-    <li><strong>5단계: 시험</strong></li>
-    <li><strong>6단계: 마지막 단서</strong></li>
-    <li><strong>7단계: 폭로</strong></li>
-    <li><strong>8단계: 사건의 전말</strong></li>
-  </ul>
-  <p>모든 플레이어가 각 단계에 주어진 '당신이 아는 것'과 '당신의 비밀'을 전부 밝혔다고 생각될 때, 해당 단계가 종료되고 다음 단계로 넘어갑니다. 각 플레이어의 비밀은 다른 플레이어의 '당신이 아는 것'으로 드러날 여지가 있습니다.</p>
+  <table class="data-table text-center">
+    <thead>
+      <tr>
+        <th>단계</th>
+        <th>진행 시간</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1단계: 준비</strong></td>
+        <td>무제한</td>
+      </tr>
+      <tr>
+        <td><strong>2단계: 소개</strong></td>
+        <td>10분</td>
+      </tr>
+      <tr>
+        <td><strong>3단계: 조사</strong></td>
+        <td>20분</td>
+      </tr>
+      <tr>
+        <td><strong>4단계: 발견</strong></td>
+        <td>20분</td>
+      </tr>
+      <tr>
+        <td><strong>5단계: 시험</strong></td>
+        <td>20분</td>
+      </tr>
+      <tr>
+        <td><strong>6단계: 마지막 단서</strong></td>
+        <td>20분</td>
+      </tr>
+      <tr>
+        <td><strong>7단계: 폭로</strong></td>
+        <td>5분</td>
+      </tr>
+      <tr>
+        <td><strong>8단계: 사건의 전말</strong></td>
+        <td>10분</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>'당신이 아는 것'과 '당신의 비밀'이 주어지는 단계(소개, 조사, 발견, 시험, 마지막 단서)의 경우, 모든 플레이어가 해당 정보들을 전부 밝혔다고 생각될 때 단계가 종료되고 다음 단계로 넘어갑니다. 각 플레이어의 비밀은 다른 플레이어의 '당신이 아는 것'으로 드러날 여지가 있습니다.</p>
 
     <div class="section-title">4. 진행 방식 및 공통 규칙</div>
   <p>2단계는 각자의 역할을 연기하며 주어진 대본을 순서대로 낭독하는 <strong>대본 리딩</strong> 방식으로 진행되며 상호 심문은 진행하지 않습니다. 본격적인 심문과 조사가 시작되는 3~6단계는 하단의 <span class="highlight">단서</span> 탭을 통해 개인 단서를 획득하며, 아래의 원칙에 따라 조사를 진행하십시오.</p>
   <ul>
-    <li><span class="highlight">당신의 어두운 면 (공개 금지)</span>: 역할 시트에 기재된 '당신의 어두운 면' 정보는 어떠한 경우에도 공개해서는 안 됩니다.</li>
-    <li><span class="highlight">당신이 아는 것 (공개 필수)</span>: 각 단계 시작 시 단서로 주어지는 이 정보는 해당 단계 내에 반드시 다른 플레이어들에게 자발적으로 공유해야 합니다.</li>
-    <li><span class="highlight">당신의 비밀 (추궁 시 공개)</span>: 이 단서는 가급적 숨기되, 날카로운 질문이나 추궁을 받을 때 어쩔 수 없이 공개해야 합니다. (단, 결과적으로는 해당 단계가 끝나기 전까지 모두가 이 정보를 알아야만 다음 단계로 넘어갈 수 있습니다.)</li>
-    <li><span class="highlight">비밀 단서 (자동 공개)</span>: 게임이 진행되며 특정 조건에서 자연스럽게 공개되는 단서입니다.</li>
-    <li><span class="highlight">타임라인</span>: 본인만 알고 있는 시간대별 행동 기록입니다. 다른 사람과 맞춰보며 모순을 찾아내십시오.</li>
+    <li><span class="highlight">당신은 누구인가</span>: 배경 이야기입니다.</li>
+    <li><span class="highlight">당일 타임라인</span>: 사건 당일의 시간대별 행동 기록입니다. 다른 사람과 맞춰보며 모순을 찾아내십시오.</li>
+    <li><span class="highlight">당신의 어두운 면 (공개 금지)</span>: 어떠한 경우에도 공개해서는 안 됩니다.</li>
+    <li><span class="highlight">당신이 아는 것 (공개 필수)</span>: 해당 단계에서 반드시 이야기해야 합니다.</li>
+    <li><span class="highlight">당신의 비밀 (추궁 시 공개)</span>: 해당 단계에서 다른 사람에 의해 추궁당해서 밝혀져야 합니다. (단, 해당 단계가 끝나기 전까지 모두가 이 정보를 알아야만 다음 단계로 넘어갈 수 있습니다.)</li>
+    <li><span class="highlight">비밀 단서 (자동 공개)</span>: 이야기가 진행되면서 자연스럽게 공개됩니다.</li>
   </ul>
 
   <div class="section-title">5. 핵심 특수 규칙</div>
@@ -62,7 +95,7 @@ N
   <ul>
     <li><span class="highlight">범인 무지 원칙</span>: <strong>범인은 8단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 어쩌면 자신의 역할이 모든 것을 다 말하지 않고 있을지도 모르죠. 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다. 자신이 맡은 역할이 범인으로 지목된다고 해서 패배하는 것은 아님을 명심하십시오.</li>
     <li><span class="highlight">답변 및 거짓말 원칙</span>: 누군가의 질문에 노골적인 거짓말을 지어낼 수는 없습니다. 단, 답변을 회피하거나 교묘하게 말을 돌리는 것은 허용됩니다.</li>
-    <li><span class="highlight">질문 및 떠보기 주의</span>: 다른 역할이 가진 당신에 대한 '아는 것' 정보는 무조건 진실로 간주됩니다. 따라서 상대방은 당신의 질문을 진실로 믿을 수밖에 없으므로, 거짓 정보로 상대를 '떠보는' 심문은 자제해 주십시오.</li>
+    <li><span class="highlight">질문 및 떠보기 주의</span>: 다른 역할이 가진 당신에 대한 '아는 것' 정보는 무조건 진실로 간주됩니다. 따라서 상대방은 당신의 정보를 진실로 믿을 수밖에 없으므로, 거짓 정보로 상대를 '떠보는' 심문은 자제해 주십시오.</li>
   </ul>
 
 <div class="section-title">6. 승리 조건 및 마무리</div>

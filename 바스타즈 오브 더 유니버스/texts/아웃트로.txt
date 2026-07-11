@@ -2,7 +2,7 @@
   
   <div class="section-title">1. 사건의 진상</div>
   <div class="result-box">
-    <p><strong>진범:</strong> <span class="character-malice">말리스</span> | <strong>공범:</strong> <span class="character-balrog">발로그</span> | <strong>흑막:</strong> <span class="character-eldritch">엘드리치</span></p>
+    <p><strong>진범:</strong> 없음 (<span class="character-eldritch">엘드리치</span> 스스로 트랩을 작동시킨 자작극) | <strong>암살 계획자:</strong> <span class="character-malice">말리스</span> | <strong>설치 가담자:</strong> <span class="character-balrog">발로그</span> | <strong>흑막:</strong> <span class="character-eldritch">엘드리치</span></p>
     <p><strong>사건 개요:</strong> 참모장 <span class="character-malice">말리스</span>가 자신과 딸의 목숨줄인 마력석을 인질 삼아 협박해 온 <span class="character-eldritch">엘드리치</span>의 쪽지를 발견한 뒤, 그를 서재 천장의 샹들리에 낙하 함정으로 처단하려 기획한 암살극입니다. <span class="character-malice">말리스</span>는 문서고에서 <span class="character-slither">슬리더</span>가 잠시 은닉해 둔 <span class="mystery">어둠의 단검</span>을 몰래 훔쳤고, 원석의 껍질을 정교하게 깎아 기화를 유도한 투명한 <span class="mystery">몽유석</span>과 마력에 반응하는 특수 은사인 <span class="mystery">마나플레어 와이어</span>를 준비했습니다.<br><br>
     그리고 예속 계약의 굴레 속에서 고통받던 마족 <span class="character-balrog">발로그</span>에게 성내 잔당을 소탕할 트랩이라고 속여 포섭했습니다. <span class="character-balrog">발로그</span>는 마법 계약 때문에 직접 엘드리치를 죽일 수 없었기에, 말리스의 속임수를 방어 명분으로 이용해 간접적으로 암살에 가담했습니다. 그는 말리스에게 받은 투명 망토를 두르고 서재로 은밀히 침입해 천장 샹들리에에 와이어로 단검을 매달고 몽유석을 끼워 살인 함정을 직접 설치했습니다.<br><br>
     하지만 진정한 배후이자 흑막인 마신 <span class="character-eldritch">엘드리치</span>는, 공성전 도중 수명이 다해가는 낡은 육신을 벗어던지고 완전한 마신으로 부활하려는 자신만의 거대한 계획을 세워둔 상태였습니다. 자신을 향한 동료들의 증오와 살의를 미리 꿰뚫어 본 그는, 18:00 정각 서재에서 스스로 암흑 마력을 크게 방출했습니다. 이 마력이 와이어를 태워 샹들리에와 단검을 낙하시키도록 유도함으로써, 자신의 죽음을 타살로 완벽히 위장하여 마신으로 다시 태어나는 영체 부활 의식을 완성했습니다.</p>
@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td>16:40</td>
-        <td><span class="character-eldritch">엘드리치</span>는 문서고에 들러 <span class="character-slither">슬리더</span>를 향한 협박 쪽지를 남겨둔 뒤 서재로 복귀합니다. 그곳에서 천장 샹들리에에 와이어로 단검을 매달고 몽유석을 장치하는 공범 <span class="character-balrog">발로그</span>의 모습을 정면으로 목격합니다. 하지만 자신의 부활 계획에 이용하기 위해 침묵하며 방관합니다. <span class="character-malice">말리스</span>는 연구실에서 증거를 인멸하고, 함정 설치를 끝마친 <span class="character-balrog">발로그</span>는 연구실로 돌아가 말리스에게 작전 완료를 보고합니다. 한편 <span class="character-elantra">엘란트라</span>는 지하창고 입구 주변을 면밀하게 수색하며, 협박 쪽지를 발견하고 극도로 동요한 <span class="character-gorehoof">고어후프</span>는 식당 주방에서 날카로운 발골용 칼을 집어 들고 <span class="character-eldritch">엘드리치</span>가 있는 서재로 향합니다.</td>
+        <td><span class="character-eldritch">엘드리치</span>는 문서고에 들러 <span class="character-slither">슬리더</span>를 향한 협박 쪽지를 남겨둔 뒤 서재로 복귀합니다. 그곳에서 천장 샹들리에에 와이어로 단검을 매달고 몽유석을 장치하는 <span class="character-balrog">발로그</span>의 모습을 정면으로 목격합니다. 하지만 자신의 부활 계획에 이용하기 위해 침묵하며 방관합니다. <span class="character-malice">말리스</span>는 연구실에서 증거를 인멸하고, 함정 설치를 끝마친 <span class="character-balrog">발로그</span>는 연구실로 돌아가 말리스에게 작전 완료를 보고합니다. 한편 <span class="character-elantra">엘란트라</span>는 지하창고 입구 주변을 면밀하게 수색하며, 협박 쪽지를 발견하고 극도로 동요한 <span class="character-gorehoof">고어후프</span>는 식당 주방에서 날카로운 발골용 칼을 집어 들고 <span class="character-eldritch">엘드리치</span>가 있는 서재로 향합니다.</td>
       </tr>
       <tr>
         <td>16:50</td>
@@ -47,7 +47,7 @@
       </tr>
       <tr>
         <td>18:00</td>
-        <td>승전 연회가 시작되기 직전, 흑막 <span class="character-eldritch">엘드리치</span>는 서재에서 억누르고 있던 어둠의 마력을 해방합니다. 이 강렬한 마력에 반응한 특수 와이어가 타들어가며 진범들이 매달아 둔 샹들리에와 <span class="mystery">어둠의 단검</span>이 낙하하여 그의 정수리를 관통합니다. 그의 영혼은 파괴된 육신을 빠져나와 미리 성채에 배치해 둔 영혼석으로 옮겨갑니다.</td>
+        <td>승전 연회가 시작되기 직전, 흑막 <span class="character-eldritch">엘드리치</span>는 서재에서 억누르고 있던 어둠의 마력을 해방합니다. 이 강렬한 마력에 반응한 특수 와이어가 타들어가며 <span class="character-malice">말리스</span>와 <span class="character-balrog">발로그</span>가 매달아 둔 샹들리에와 <span class="mystery">어둠의 단검</span>이 낙하하여 그의 정수리를 관통합니다. 그의 영혼은 파괴된 육신을 빠져나와 미리 성채에 배치해 둔 영혼석으로 옮겨갑니다.</td>
       </tr>
     </tbody>
   </table>
@@ -93,7 +93,7 @@
     <li><strong>협박 쪽지 - 말리스 / 협박 쪽지 - 발로그 / 왕좌의 방#8 (낡은 금색 펜던트)</strong>: 딸의 영혼이 갇힌 마력석을 파괴하겠다는 협박 쪽지는 <span class="character-malice">말리스</span>가 딸을 구하기 위해 <span class="character-bastards">바스타즈</span>에 들어왔다는 배경을 폭로하여 그녀를 향한 용의 선상을 좁히며, 전쟁 후에도 하수인으로 묶어두겠다는 협박 쪽지는 <span class="character-balrog">발로그</span>에게 극심한 살의를 심어주었습니다. 황실 집무실에서 발견된 낡은 펜던트는 <span class="character-malice">말리스</span>가 사랑했던 이름 모를 <span class="character-solite">솔라이트</span> 기사와의 비극적인 과거사 실마리를 보여줍니다.</li>
     <li><strong>연구실#1 (계산식이 적힌 종이) / 연구실#4 (경비병의 증언) / 연구실#5 (기하학 도식 양피지)</strong>: 연구실#1은 <span class="character-malice">말리스</span>가 샹들리에의 살해 타이밍과 낙하 각도를 치밀하게 계산했던 수식이며, 연구실#4의 두 남녀가 소곤거리던 목소리에 대한 경비병의 증언은 연구실 내부 공범 존재 가능성을 시사합니다. 연구실#5의 가죽 양피지 도식은 거대 의식을 위한 설계도의 일부였음을 나타내는 단서들입니다.</li>
     <li><strong>서재#1 (쿰쿰한 냄새) / 연구실#2 (연금술 재료 목록 - 몽유석) / 연구실#3 (마법 도구 보고서)</strong>: 일반인은 알 수 없으나 예민한 후각을 가진 <span class="character-slither">슬리더</span>와 <span class="character-gorehoof">고어후프</span>만 감지할 수 있는 서재의 쿰쿰한 냄새는 기화성 수면 가스인 '몽유석'의 잔향이며, 재료 목록에 표기된 레드 시럽이나 비약은 <span class="character-eldritch">엘드리치</span>와 <span class="character-gorehoof">고어후프</span>를 동시에 의심하게 만들려는 교묘한 의심 분산 장치였습니다. 또한 보고서에 적힌 '마나플레어 와이어'는 극미한 마력에도 타버리는 실로서 샹들리에 암살 트랩에 사용되었습니다.</li>
-    <li><strong>서재#3 (정수리 자상) / 서재#4 (흔들리는 샹들리에) / 무기고#1 (검은색 가루) / 문서고#5 (마도서 기록) / 문서고#8 (새까만 단검)</strong>: 서재#3은 흉기가 현장에서 사라졌으며 피해자의 정수리에 깊은 자상이 남았음을 암시하고, 서재#4는 <span class="character-balrog">발로그</span>가 비행해서 올라갔다는 증거가 됩니다. 무기고#1의 검은색 가루는 <span class="character-balrog">발로그</span>가 스트레스를 받았다는 증거이자 마나플레어 와이어가 타고 남은 재와 유사하여 혼란을 주는 장치이며, 문서고#5는 <span class="character-balrog">발로그</span>가 사역마 계약의 절대적 규칙 탓에 계약주를 직접 살해할 수 없고 공범만 될 수 있었다는 이유를 나타냅니다. 마지막으로 문서고#8은 범행 후 사용된 살해 도구를 되돌려 두었음을 가리킵니다.</li>
+    <li><strong>서재#3 (정수리 자상) / 서재#4 (흔들리는 샹들리에) / 무기고#1 (검은색 가루) / 문서고#5 (마도서 기록) / 문서고#8 (새까만 단검)</strong>: 서재#3은 흉기가 현장에서 사라졌으며 피해자의 정수리에 깊은 자상이 남았음을 암시하고, 서재#4는 <span class="character-balrog">발로그</span>가 비행해서 올라갔다는 증거가 됩니다. 무기고#1의 검은색 가루는 <span class="character-balrog">발로그</span>가 스트레스를 받았다는 증거이자 마나플레어 와이어가 타고 남은 재와 유사하여 혼란을 주는 장치이며, 문서고#5는 <span class="character-balrog">발로그</span>가 사역마 계약의 절대적 규칙 탓에 계약주를 직접 살해할 수 없어 트랩 설치에만 가담할 수 있었다는 이유를 나타냅니다. 마지막으로 문서고#8은 범행 후 사용된 살해 도구를 되돌려 두었음을 가리킵니다.</li>
     <li><strong>마법탑#1 (쓰러진 마법사들) / 마법탑#2 (수직 추락 포로의 증언)</strong>: 공성전 당시 <span class="character-balrog">발로그</span>가 비행 도중 수직 추락하여 온몸의 근력이 일시적으로 마비된 상태를 겪었다는 마법사 포로의 증언은 빛에 대비되는 근원을 지닌 마족에게도 <span class="emphasis">선샤인</span>이 타격을 준다는 것을 의미합니다. 마법탑 마법사들의 지팡이 보석이 검게 타버린 흔적은 <span class="character-balrog">발로그</span>가 마력을 방출할 수 있었다는 사실을 가리키는 증거입니다.</li>
   </ul>
 
