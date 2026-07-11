@@ -742,15 +742,15 @@
     margin-bottom: 15px;
 }
 
-/* --- 작품 소개(Intro) 전용 프리미엄 스타일: 캠퍼스 미스터리 --- */
+/* --- 작품 소개(Intro) 전용 프리미엄 스타일: 향토 미스터리 --- */
 
-.intro-section-campus {
+.intro-section {
     padding: 1.5rem 0.5rem;
     color: #f5f5f5;
     font-family: "Pretendard Variable", sans-serif;
 }
 
-.intro-title-campus {
+.intro-title-cinematic {
     font-family: "Nanum Myeongjo", serif;
     font-size: clamp(1.1rem, 4vw, 1.6rem);
     font-weight: 800;
@@ -766,7 +766,7 @@
     text-shadow: 0 0 15px rgba(255, 107, 107, 0.2);
 }
 
-.intro-title-campus::after {
+.intro-title-cinematic::after {
     content: "";
     position: absolute;
     bottom: 0;
@@ -777,8 +777,8 @@
     background: #ff6b6b;
 }
 
-/* 캠퍼스 스타일 본문 문단 */
-.campus-paragraph {
+/* 작품 소개 본문 문단 */
+.intro-paragraph {
     font-size: 0.95rem;
     line-height: 1.8;
     margin-bottom: 1.8rem;
@@ -788,14 +788,14 @@
     color: rgba(245, 245, 245, 0.9);
 }
 
-.campus-paragraph .highlight {
+.intro-paragraph .highlight {
     color: #ffd700;
     font-weight: 700;
     border-bottom: 1px solid rgba(255, 215, 0, 0.3);
 }
 
-/* 캠퍼스 인용구 (학기말 분위기) */
-.campus-quote-box {
+/* 인용구 (오마주 안내 등) */
+.quote-box-premium {
     display: block;
     padding: 1.5rem;
     margin: 2.5rem 0;
@@ -809,14 +809,14 @@
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* 작품 특징 섹션 (캠퍼스 버전) */
-.campus-feature-section {
+/* 작품 특징 섹션 */
+.feature-section {
     margin-top: 4rem;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     padding-top: 2.5rem;
 }
 
-.campus-feature-header {
+.feature-header {
     font-family: "Nanum Myeongjo", serif;
     font-size: 1.25rem;
     font-weight: 800;
@@ -827,14 +827,14 @@
     gap: 0.8rem;
 }
 
-.campus-feature-list {
+.feature-list-premium {
     list-style: none;
     padding: 0;
     display: grid;
     gap: 1.5rem;
 }
 
-.campus-feature-item {
+.feature-item {
     background: rgba(255, 255, 255, 0.02);
     border: 1px solid rgba(255, 255, 255, 0.05);
     padding: 1.5rem;
@@ -842,13 +842,13 @@
     transition: all 0.3s ease;
 }
 
-.campus-feature-item:hover {
+.feature-item:hover {
     background: rgba(255, 107, 107, 0.03);
     border-color: rgba(255, 107, 107, 0.2);
     transform: translateY(-3px);
 }
 
-.campus-feature-title {
+.feature-item-title {
     display: block;
     font-weight: 800;
     color: #ffd700;
@@ -856,13 +856,13 @@
     font-size: 1.05rem;
 }
 
-.campus-feature-desc {
+.feature-item-desc {
     font-size: 0.9rem;
     color: rgba(245, 245, 245, 0.8);
     line-height: 1.6;
 }
 
-.campus-outro {
+.intro-outro {
     margin-top: 5rem;
     margin-bottom: 3rem;
     text-align: center;
@@ -875,7 +875,7 @@
 
 /* 모바일 최적화 */
 @media (max-width: 640px) {
-    .intro-title-campus {
+    .intro-title-cinematic {
         font-size: 0.95rem;
         margin-bottom: 1.5rem;
         line-height: 1.3;
@@ -883,21 +883,21 @@
         white-space: normal;
     }
 
-    .campus-paragraph {
+    .intro-paragraph {
         font-size: 0.85rem;
         line-height: 1.6;
     }
 
-    .campus-quote-box {
+    .quote-box-premium {
         padding: 1.2rem;
         font-size: 0.95rem;
     }
 
-    .campus-feature-item {
+    .feature-item {
         padding: 1.2rem;
     }
 
-    .campus-outro {
+    .intro-outro {
         margin-top: 3.5rem;
         font-size: 0.95rem;
         line-height: 1.8;
@@ -937,7 +937,7 @@
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
-/* 도입부 내러티브 강조 박스 (캠퍼스 미스터리 스타일) */
+/* 도입부 내러티브 강조 박스 */
 .story-content .intro-narrative {
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.03), rgba(255, 107, 107, 0.05));
     border-left: 4px solid #ff6b6b;

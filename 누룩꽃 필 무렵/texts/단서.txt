@@ -6,7 +6,6 @@
 
 ## 비밀 단서 (Secret Clues)
 
-
 ### [clue_01]
 
 이름 : 비밀단서#1
@@ -25,18 +24,18 @@
 관련 : 정해준
 의도 : 정해준이 은금도가 매입 및 리조트 개발 타당성을 검토하기 위해 사전에 지참하여 확인한 도가 주변 시설과 야산의 스케치 지도.
 내용 :
-정해준이 지참하고 있는 은금도가 주변 지역의 스케치 지도다. 본채 한옥의 구조와 안마당, 뒤편의 지하 숙성 토굴 입구, 모란 화단(연못 정원), 그리고 은금도가 외곽 경계에 위치한 낡은 헛간과 은금 저수지까지의 이동 동선이 꼼꼼하게 표시되어 있다.
+은금도가 본채의 건물과 안마당, 뒤편의 지하 숙성 토굴 입구, 연못이 있는 정원, 그리고 외곽 경계에 위치한 낡은 헛간과 은금 저수지까지 세밀하게 스케치되어 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="character-haejun">정해준</span>이 지참한 은금도가 주변 약도를 살펴보았다.</div>
   <div class="divider-gold"></div>
   <div class="document-page type-sketch">
     <div class="document-body small">
-      본채 한옥과 안마당, 뒤편의 지하 숙성 토굴 입구, 연못이 있는 모란 화단(정원), 외곽의 낡은 헛간과 저수지까지의 연결로가 세밀하게 스케치되어 있다.
+      은금도가 본채의 건물과 안마당, 뒤편의 지하 숙성 토굴 입구, 연못이 있는 정원, 그리고 외곽 경계에 위치한 낡은 헛간과 은금 저수지까지 세밀하게 스케치되어 있다.
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A map of a traditional Korean courtyard house (Hanok) and surrounding brewery land, viewed from a top-down perspective, drawn on a slightly wrinkled sheet of paper. Layout composition: Top left shows the main residence. Top right and center right show large fields. Middle left has a garden with a pond and pavilion. The center shows the main brewery. Bottom left contains outbuildings and a barn. The entire bottom edge is bordered by a large flowing lake. The map MUST include roughly scribbled Korean handwriting labeling the locations at their respective positions (e.g., '백서연 집' at top left, '은금도가 본채' at bottom left, '모란 화단', '팔각정' at middle left, '양조장', '숙성 토굴' at center, '누룩 건조장' at right, '은금 저수지' at bottom). The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. No other text or letters.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A map of a traditional Korean courtyard house (Hanok) and surrounding brewery land, viewed from a top-down perspective, drawn on a slightly wrinkled sheet of paper. Layout composition: Top left shows the main residence. Top right and center right show large fields. Middle left has a garden with a pond and pavilion. The center shows the main brewery. Bottom left contains outbuildings and a barn. The entire bottom edge is bordered by a large flowing lake. The map MUST include roughly scribbled Korean handwriting labeling the locations at their respective positions (e.g., '<span class="character-seoyeon">백서연</span> 집' at top left, '은금도가 본채' at bottom left, '모란 화단', '팔각정' at middle left, '양조장', '숙성 토굴' at center, '누룩 건조장' at right, '은금 저수지' at bottom). The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. No other text or letters.
 장소 : 없음
 파일명 : 01_은금도가_주변_약도
 
@@ -68,7 +67,7 @@ HTML :
   <div class="document-page type-news">
     <div class="document-body small">
       <h4>[은금 저수지 시신 신원 확인]</h4>
-      경찰은 지난주 은금 저수지에 떠오른 시신의 신원이 은금도가 주인 <span class="character-kitae">남기태(41세)</span>인 것을 확인했다. 부검 결과 사망 원인은 두부 둔기 외상이다. 2주 전 남기태가 귀가하지 않자 아내 <span class="character-eunju">강은주</span>가 실종 신고를 한 바 있다. 강은주는 결정적 제보자에게 1,000만 원의 현상금을 걸었다.
+      경찰은 지난주 은금 저수지에 떠오른 시신의 신원이 은금도가 주인 <span class="character-kitae">남기태</span>(41세, 남성)씨인 것을 확인했다. 부검 결과 사망 원인은 두부 둔기 외상이다. 2주 전 그가 귀가하지 않자 배우자 <span class="character-eunju">강은주</span>가 실종 신고를 한 바 있다. 그녀는 결정적 제보자에게 1,000만 원의 현상금을 걸었다.
     </div>
   </div>
 </div>
@@ -96,8 +95,8 @@ HTML :
 내용 :
 빛바랜 한지에 붓글씨로 작성된 1944년의 편지다.
 '사랑하는 아우에게. 이 편지는 절대 비밀로 해야 하네. 일본군이 퇴각하며 양조장 뒷산 골짜기 비밀 웅덩이 근처에 은닉해 둔 막대한 양의 군용 금괴를 내가 찾아냈다네. 이 가치는 상상을 초월할 것이나, 일단 숨겨두어야 하네. 신용할 수 있는 일꾼을 모으려면 자금이 필요하니, 가능한 한 서둘러 자네 전 재산을 처분하여 이리로 와주게.'
-편지 뒷면에는 후대의 누군가가 굵은 연필로 휘갈겨 쓴 낙서가 적혀 있다.
-'은금! 1944년 금괴 가치 계산: 현대 가치 환산 시 수십억 원 상당!!!'
+편지 뒷면에는 누군가가 굵은 연필로 휘갈겨 쓴 글씨가 적혀 있다.
+'은금! 1944년 금괴? 지금 가치면 수십억 원 상당!!!'
 HTML :
 <div class="story-content">
   <div class="script-direction">붓글씨로 쓰인 누렇게 바랜 한지 편지를 조심스레 읽어보았다.</div>
@@ -112,7 +111,7 @@ HTML :
   <div class="script-direction">편지 뒷면에는 굵은 연필로 휘갈겨 적은 계산 흔적이 남아 있다.</div>
   <div class="document-page type-old-letter">
     <div class="document-body small suspect-handwriting">
-      금괴 현대 시세 계산: 현대 가치 수십억 원에 육박!!!
+      은금! 1944년 금괴? 지금 가치면 수십억 원 상당!!!
     </div>
   </div>
 </div>
@@ -153,7 +152,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A wide view of a vast, dark lacquered wood desk. Right in the center, isolated and lonely, lies a single small sheet of clean notepad paper. The handwriting on the note is just tiny, illegible dark squiggles. No other props on the desk. The scene is illuminated by a single, dramatic spotlight cutting through the darkness, emphasizing the isolation of the note. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. The lighting should be moody and atmospheric, enhancing the mystery thriller vibe.
 장소 : 없음
-파일명 : 04_강은주_자살_유서
+파일명 : 04_<span class="character-eunju">강은주</span>_자살_유서
 
 ### [clue_05]
 
@@ -183,20 +182,82 @@ HTML :
   <div class="divider-gold"></div>
   <div class="document-page type-torn">
     <div class="document-body small">
-      저축 계좌: 01-4562-5874-2351 (PIN: 52076)<br>
-      주거래 계좌: 01-6589-4287-8521 (PIN: 64649)<br>
-      비밀번호(PIN): 52076 / 64649<br>
+      저축 계좌: 01-4562-5874-2351 (비밀번호: 52076)<br>
+      주거래 계좌: 01-6589-4287-8521 (비밀번호: 64649)<br>
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A wide top-down shot of a dark, empty wooden desk. Right in the center, isolated, lies a single torn page of a notebook. The camera is far enough away that the handwriting on the note is just tiny, illegible dark squiggles that vaguely resemble numbers, consisting of about 3 lines of text. There are no other papers, no stacks, no clips, and no props. In the corner of the paper, there is a very small, subtle smudge of dark brownish blood. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures. The lighting should be moody and atmospheric, with a single dim spotlight on the paper, enhancing the mystery thriller vibe.
 장소 : 없음
-파일명 : 05_남기태_은행_쪽지
+파일명 : 05_<span class="character-kitae">남기태</span>_은행_쪽지
 
 ---
 
-## 개인 전용 단서 (Personal Clues - 강은지 전용)
+## 개인 전용 단서 (Personal Clues - <span class="character-eunji">강은지</span> 전용)
 ※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_seoyeon_00_who]
+
+이름 : 당신은 누구인가
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 99
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 캐릭터 배경 및 정체성 인지
+내용 :
+백서연의 소개 단계 배경 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-knowledge">
+    <div class="section-title">당신은 누구인가</div>
+    <div class="intro-narrative">
+<p>비록 <span class="character-eunju">강은주</span>와 친한 친구 사이는 아니고 스치듯 아는 사이지만, <span class="emphasis">은금도가</span> 바로 옆집에 살고 있습니다. 1년 전쯤, 원래 도가의 농지가 나뉘어 팔릴 때 당신도 땅을 샀습니다.</p>
+      <p>당신은 서울에서 유명인들의 심리를 전담하던 전직 심리상담의입니다. 오랫동안 유명 연예인들의 정신적 평화를 책임졌지만, 환자들의 지루한 고민 이야기는 잘 듣지 않았고, 오히려 살인과 혼란에 대한 상상을 즐겼습니다.</p>
+      <p>그 결과 쓴 미스터리 소설이 꽤 잘 팔려 베스트셀러에 올랐고, 덕분에 이곳으로 이주해 속편 집필에 전념할 수 있었습니다.</p>
+      <p>남편은 해외 출장을 갔지만, 당신은 사교를 멈추지 않습니다. 새로 얻은 명성을 즐기며 사회 상류층 인사들을 위한 파티도 자주 엽니다. 사실 오늘 <span class="emphasis">은금도가</span>에 온 것도 다음 주 파티를 위한 주차 공간으로 <span class="character-eunju">은주</span>의 농지 일부를 빌릴 수 있는지 문의하려고 한 겁니다.</p>
+    </div>
+  </div>
+</div>
+
+### [clue_p_seoyeon_00_dark]
+
+이름 : 당신의 어두운 면
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 100
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 백서연
+의도 : 캐릭터 비밀 및 갈등 요소 인지
+내용 :
+백서연의 소개 단계 비밀 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-secret">
+    <div class="section-title">당신의 어두운 면</div>
+    <div class="intro-narrative">
+<p>당신을 유명하게 만든 소설은 동시에 서울 사회에서 당신을 왕따로 만들었습니다. 연예인 살인사건을 다룬 당신의 소설이, 사실은 당신 환자였던 유명 인사들이 알려준 실제 이야기를 바탕으로 한 것이라는 소문이 돌면서 말이죠.</p>
+      <p>이 소문 때문에 경력이 박살났고, 유명 고객들은 다른 정신과 의사를 찾았기에 당신은 일거리가 끊겼습니다. 초대장은 끊기고 사회적으로 매장당해 결국 시골로 이사를 와야 했죠.</p>
+      <p>남편이 늘 해외에 있는 동안, 혼자서 사회적 지위 상승의 압박을 견디는 게 너무 힘들 때가 있습니다. 그럴 때 <span class="emphasis">은금도가</span> 일꾼 <span class="character-hyunsu">류현수</span>의 품에서 위안을 찾곤 합니다. 하지만 그는 유일한 불륜 상대가 아닙니다. 당신은 <span class="character-kitae">남기태</span>(<span class="character-eunju">은주</span>의 남편)와 사랑에 빠졌었죠. <span class="character-kitae">남기태</span>는 <span class="character-eunju">은주</span>를 떠나 당신과 함께 하겠다고 약속했지만, 이 관계가 발각되자 너무 부끄러워하며 <span class="character-eunju">은주</span>와의 결혼을 지키려 노력했습니다. 그리고 며칠 후 <span class="character-kitae">남기태</span>는 죽고 말았습니다...</p>
+    </div>
+  </div>
+</div>
 
 ### [clue_p_seoyeon_01]
 
@@ -230,18 +291,18 @@ HTML :
     <tbody>
       <tr><td>아침 기상 ~ 정오</td><td>집에서 다음 책 집필</td></tr>
       <tr><td>정오 ~ 오후 1시 15분</td><td>정원 가꾸기</td></tr>
-      <tr><td>오후 1시 15분 ~ 2시 30분</td><td>강은주와 점심 식사</td></tr>
+      <tr><td>오후 1시 15분 ~ 2시 30분</td><td><span class="character-eunju">강은주</span>와 점심 식사</td></tr>
       <tr><td>오후 2시 30분 ~ 3시 45분</td><td>책 집필</td></tr>
-      <tr><td>오후 3시 45분 ~ 4시</td><td>은금도가에서 강은주와 대화</td></tr>
+      <tr><td>오후 3시 45분 ~ 4시</td><td>은금도가에서 <span class="character-eunju">강은주</span>와 대화</td></tr>
       <tr><td>오후 4시 ~ 6시</td><td>집에서 휴식</td></tr>
-      <tr><td>오후 6시 45분 ~ 7시</td><td>다시 은금도가로 가서 강은주와 대화</td></tr>
+      <tr><td>오후 6시 45분 ~ 7시</td><td>다시 은금도가로 가서 <span class="character-eunju">강은주</span>와 대화</td></tr>
       <tr><td>오후 7시 ~ 현재</td><td>은금도가 본채에 머무름</td></tr>
     </tbody>
   </table>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_백서연_타임라인
+파일명 : p_<span class="character-seoyeon">백서연</span>_타임라인
 
 ### [clue_p_seoyeon_3_know]
 
@@ -267,15 +328,18 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="document-body small">
       <p>정원 일을 하던 정오 무렵, <span class="character-haejun">정해준</span>이 은금도가에 도착하는 것을 보았습니다. 호기심에 지켜봤는데, 그는 현관에 가서 <span class="character-eunju">강은주</span>와 대화했습니다.</p>
-            <p>본채의 열린 창문 너머로는 <span class="character-danhee">박단희</span>가 욕실 약장 안을 뒤지는 모습도 보였는데, 그녀는 작은 약병처럼 보이는 것을 주머니에 넣었습니다. 12시 15분경, <span class="character-danhee">박단희</span>는 <span class="character-eunju">은주</span>와 <span class="character-haejun">해준</span>이 있는 현관 앞으로 합류했습니다.</p>
-            <p>이번 주 내내 도서관에서 연구를 하느라 많은 시간을 보냈는데, 그곳에서 <span class="character-hyunsu">류현수</span>를 여러 번 봤지만 공부하는 모습은 전혀 아니었습니다. 그는 늘 들어와 사서에게서 서류를 받아 가고, 책은 전혀 가져가지 않았습니다.</p>
-            <p>또한 <span class="character-haejun">정해준</span>의 차가 지난 4일간 도서관 주차장에 매일 서 있는 것도 눈에 띄었습니다.</p>
+      <p>본채의 열린 창문 너머로는 <span class="character-danhee">박단희</span>가 욕실 약장 안을 뒤지는 모습도 보였는데, 그녀는 작은 약병처럼 보이는 것을 주머니에 넣었습니다. 12시 15분경, <span class="character-danhee">박단희</span>는 <span class="character-eunju">은주</span>와 <span class="character-haejun">해준</span>이 있는 현관 앞으로 합류했습니다.</p>
+      <p>이번 주 내내 도서관에서 연구를 하느라 많은 시간을 보냈는데, 그곳에서 <span class="character-hyunsu">류현수</span>를 여러 번 봤지만 공부하는 모습은 전혀 아니었습니다. 그는 늘 들어와 사서에게서 서류를 받아 가고, 책은 전혀 가져가지 않았습니다.</p>
+      <p>또한 <span class="character-haejun">정해준</span>의 차가 지난 4일간 도서관 주차장에 매일 서 있는 것도 눈에 띄었습니다.</p>
+    </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_백서연_3단계_아는 것
+파일명 : p_<span class="character-seoyeon">백서연</span>_3단계_아는 것
 
 ### [clue_p_seoyeon_3_secret]
 
@@ -301,14 +365,17 @@ HTML :
   <div class="document-page type-secret">
     <div class="document-body small">
       <p>유명 방송인이 당신의 마지막 책이 자신에 관한 이야기라며 거액의 소송을 걸었습니다. 그 이후로 재정이 바닥났지만, 이제는 <span class="character-kitae">남기태</span> 살인 사건을 소재로 한 새 소설이 출간되어 경제 상황이 조금씩 나아지고 있습니다.</p>
-            <p>현재 현금은 거의 없으며, 만약 책 계약이 실패하면 은금도가 옆에 있는 당신의 작은 땅만 남게 됩니다. 만약 <span class="character-haejun">정해준</span>이 은금도가를 대형 리조트로 개발한다면, 당신 땅의 가치가 크게 떨어질 것으로 예상합니다.</p>
-            <p>당신은 늘 <span class="character-eunju">강은주</span>가 남편 <span class="character-kitae">기태</span>를 죽이고 생명보험금을 타려고 했다고 의심해 왔습니다. 사실, 이 의심이 다음 소설의 줄거리이기도 합니다.</p>
+      <p>현재 현금은 거의 없으며, 만약 책 계약이 실패하면 은금도가 옆에 있는 당신의 작은 땅만 남게 됩니다. 만약 <span class="character-haejun">정해준</span>이 은금도가를 대형 리조트로 개발한다면, 당신 땅의 가치가 크게 떨어질 것으로 예상합니다.</p>
+      <p>당신은 늘 <span class="character-eunju">강은주</span>가 남편 <span class="character-kitae">기태</span>를 죽이고 생명보험금을 타려고 했다고 의심해 왔습니다. 사실, 이 의심이 다음 소설의 줄거리이기도 합니다.</p>
+    </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_백서연_3단계_비밀
+파일명 : p_<span class="character-seoyeon">백서연</span>_3단계_비밀
 
 ### [clue_p_seoyeon_4_know]
 
@@ -334,14 +401,17 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="document-body small">
       <p>오후 1시 30분, 당신은 <span class="character-eunju">강은주</span>와 점심 식사를 함께 했는데, 그 자리에 <span class="character-danhee">박단희</span>와 <span class="character-eunji">강은지</span>도 있었습니다.</p>
-            <p>당신은 이미 오래전부터 <span class="character-hyunsu">류현수</span>가 저수지 근처에서 대마초를 재배하고 있다는 사실을 알고 있습니다. 그가 마약 문제를 가지고 있는 건지, 그리고 이 사실을 다른 누군가도 알고 있는지 궁금합니다.</p>
-            <p><span class="character-eunju">강은주</span>는 처음에 남편을 죽인 범인의 체포에 도움이 되는 정보에 거액의 현상금을 내걸었지만, 며칠 만에 그 제안을 철회했습니다.</p>
+      <p>당신은 이미 오래전부터 <span class="character-hyunsu">류현수</span>가 저수지 근처에서 대마초를 재배하고 있다는 사실을 알고 있습니다. 그가 마약 문제를 가지고 있는 건지, 그리고 이 사실을 다른 누군가도 알고 있는지 궁금합니다.</p>
+      <p><span class="character-eunju">강은주</span>는 처음에 남편을 죽인 범인의 체포에 도움이 되는 정보에 거액의 현상금을 내걸었지만, 며칠 만에 그것을 철회했습니다.</p>
+    </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_백서연_4단계_아는 것
+파일명 : p_<span class="character-seoyeon">백서연</span>_4단계_아는 것
 
 ### [clue_p_seoyeon_4_secret]
 
@@ -367,15 +437,18 @@ HTML :
   <div class="document-page type-secret">
     <div class="document-body small">
       <p>6개월 전, 당신은 살아있던 <span class="character-kitae">남기태</span>를 마지막으로 만난 사람이었습니다.</p>
-            <p>당신은 종종 그랬던 것처럼 은금도가에서 그와 점심을 같이 했습니다. 점심 후, 출판사 약속 때문에 그를 떠났는데, 그때 <span class="character-kitae">기태</span>는 분명 살아 있었습니다.</p>
-            <p>당신은 <span class="character-hyunsu">류현수</span>와 부적절한 관계를 맺고 있습니다.</p>
-            <p>오후 3시 지하 숙성 토굴에서 평소처럼 만난 뒤, <span class="character-hyunsu">현수</span>의 주머니에서 한 장의 종이가 떨어지는 걸 보았습니다. 당신은 그것을 주운 뒤 곧장 본채로 가서 <span class="character-eunju">은주</span>를 만나려 했습니다.</p>
+      <p>당신은 종종 그랬던 것처럼 은금도가에서 그와 점심을 같이 했습니다. 점심 후, 출판사 약속 때문에 그를 떠났는데, 그때 <span class="character-kitae">기태</span>는 분명 살아 있었습니다.</p>
+      <p>당신은 <span class="character-hyunsu">류현수</span>와 부적절한 관계를 맺고 있습니다.</p>
+      <p>오후 3시 지하 숙성 토굴에서 평소처럼 만난 뒤, <span class="character-hyunsu">현수</span>의 주머니에서 한 장의 종이가 떨어지는 걸 보았습니다. 당신은 그것을 주운 뒤 곧장 본채로 가서 <span class="character-eunju">은주</span>를 만나려 했습니다.</p>
+    </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_백서연_4단계_비밀
+파일명 : p_<span class="character-seoyeon">백서연</span>_4단계_비밀
 
 ### [clue_p_seoyeon_5_know]
 
@@ -401,16 +474,19 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="document-body small">
       <p>토굴 안에서 본 시계가 6시 45분에 정지해 있었습니다. 그때 정전이 된 거죠. 모두가 그때 어디에 있었는지, 누가 마지막으로 <span class="character-eunju">은주</span>를 봤는지가 궁금합니다.</p>
-            <p>당신이 <span class="character-eunju">은주</span>를 마지막으로 본 것은 오후 3시 45분, 본채에서 당신의 새 소설에 대해 짧게 대화했을 때였습니다. 그 후 당신은 집으로 돌아가 출판사에 전화를 걸었습니다.</p>
-            <p>오후 5시 30분경, 당신이 정원을 가꾸고 있을 때 <span class="character-hyunsu">류현수</span>와 <span class="character-eunji">강은지</span>가 연못 근처에 있는 것을 보았습니다. 상황을 확인하려고 다가갔을 때는 이미 <span class="character-eunji">은지</span>는 떠난 후였습니다.</p>
-            <p>그리고 약 6시 45분, <span class="character-eunji">강은지</span>가 지하 숙성 토굴을 향해 가는 모습을 보았습니다. 그녀는 오후에 입었던 옷과 다른 옷을 입고 있었죠.</p>
-            <p>또한 <span class="character-danhee">박단희</span>가 본채 뒤쪽 마루에 앉아 당신을 지켜보고 있었습니다. 하지만 당신은 <span class="character-eunji">은지</span>를 따라 토굴 안으로 들어가, 그녀가 미로 같은 복도를 지나갈 때까지 시야에서 놓치지 않고 따라갔습니다.</p>
+      <p>당신이 <span class="character-eunju">은주</span>를 마지막으로 본 것은 오후 3시 45분, 본채에서 당신의 새 소설에 대해 짧게 대화했을 때였습니다. 그 후 당신은 집으로 돌아가 출판사에 전화를 걸었습니다.</p>
+      <p>오후 5시 30분경, 당신이 정원을 가꾸고 있을 때 <span class="character-hyunsu">류현수</span>와 <span class="character-eunji">강은지</span>가 연못 근처에 있는 것을 보았습니다. 상황을 확인하려고 다가갔을 때는 이미 <span class="character-eunji">은지</span>는 떠난 후였습니다.</p>
+      <p>그리고 약 6시 45분, <span class="character-eunji">강은지</span>가 지하 숙성 토굴을 향해 가는 모습을 보았습니다. 그녀는 오후에 입었던 옷과 다른 옷을 입고 있었죠.</p>
+      <p>또한 <span class="character-danhee">박단희</span>가 본채 뒤쪽 마루에 앉아 당신을 지켜보고 있었습니다. 하지만 당신은 <span class="character-eunji">은지</span>를 따라 토굴 안으로 들어가, 그녀가 미로 같은 통로를 지나갈 때까지 시야에서 놓치지 않고 따라갔습니다.</p>
+    </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_백서연_5단계_아는 것
+파일명 : p_<span class="character-seoyeon">백서연</span>_5단계_아는 것
 
 ### [clue_p_seoyeon_5_secret]
 
@@ -435,15 +511,16 @@ HTML :
 <div class="story-content">
   <div class="document-page type-secret">
     <div class="document-body small">
-      <p>당신은 <span class="character-kitae">남기태</span>를 사랑했습니다. 그와 죽기 전까지 불륜 관계였습니다.</p>
-            <p><span class="character-eunju">은주</span>는 이 관계를 의심했고 <span class="character-kitae">기태</span>에게 직접 따졌습니다.</p>
-            <p>그 결과, 두 사람은 부부 관계를 지키려 노력하기로 했고, <span class="character-kitae">기태</span>는 즉시 당신과의 관계를 끊었습니다. 그리고 그로부터 며칠 후, <span class="character-kitae">기태</span>는 사망했습니다.</p>
+      <p>당신은 <span class="character-kitae">남기태</span>를 사랑했습니다. 그와 죽기 전까지 불륜 관계였습니다. <span class="character-eunju">은주</span>는 이 관계를 의심했고 <span class="character-kitae">기태</span>에게 직접 따졌습니다. 그 결과, 두 사람은 부부 관계를 지키려 노력하기로 했고, <span class="character-kitae">기태</span>는 즉시 당신과의 관계를 끊었습니다. 그리고 그로부터 며칠 후, <span class="character-kitae">기태</span>는 사망했습니다.</p>
+    </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_백서연_5단계_비밀
+파일명 : p_<span class="character-seoyeon">백서연</span>_5단계_비밀
 
 ### [clue_p_seoyeon_6_know]
 
@@ -469,22 +546,25 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="document-body small">
       <p>오후 3시에 당신과 <span class="character-hyunsu">류현수</span>가 만났을 때, 그의 주머니에서 떨어진 종이 조각을 그가 몹시 찾아다니는 것 같습니다.</p>
-            <p>그 종이가 <span class="character-kitae">기태</span>의 죽음과 관련이 있지 않을까 궁금합니다. 당신은 그 종이를 오후 3시 45분에 <span class="character-eunju">은주</span>에게 보여준 적이 있습니다. <strong>(여기까지 이야기한 뒤, 자연스럽게 [비밀단서#5]를 조사하세요. 비밀코드는 'bank' 입니다.)</strong></p>
+      <p>그 종이가 <span class="character-kitae">기태</span>의 죽음과 관련이 있지 않을까 궁금합니다. 당신은 그 종이를 오후 3시 45분에 <span class="character-eunju">은주</span>에게 보여준 적이 있습니다. <strong>(여기까지 이야기한 뒤, 자연스럽게 [비밀단서#5]를 조사하세요. 비밀코드는 'bank' 입니다.)</strong></p>
+    </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_백서연_6단계_아는 것
+파일명 : p_<span class="character-seoyeon">백서연</span>_6단계_아는 것
 
-### [clue_p_seoyeon_6_secret]
+### [clue_p_hyunsu_00_who]
 
-이름 : 당신의 비밀#4
+이름 : 당신은 누구인가
 유형 : 통찰
-단계 : 6단계
+단계 : 소개 단계
 소모AP : 0
-정렬순서 : 109
-중요도 : 보통
+정렬순서 : 199
+중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : N
 획득 가능 여부 : N
@@ -492,21 +572,52 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
-관련 : 백서연
-의도 : 캐릭터 개인의 속마음 및 정보
+관련 : 류현수
+의도 : 캐릭터 배경 및 정체성 인지
 내용 :
-해당 단계에서 캐릭터가 알고 있는 정보 또는 숨기고 있는 비밀.
+류현수의 소개 단계 배경 정보
 HTML :
 <div class="story-content">
-  <div class="document-page type-secret">
-    <div class="document-body small">
-      <p>더 이상 감출 비밀이 없습니다.</p>
+  <div class="document-page type-knowledge">
+    <div class="section-title">당신은 누구인가</div>
+    <div class="intro-narrative">
+<p>당신은 <span class="emphasis">은금도가</span>에서 농작물을 돌보고 궂은일을 하는 일꾼입니다. 당신의 과거는 거의 알려져 있지 않으며, 1년 전까지만 해도 목적 없이 떠돌던 사람이었습니다.</p>
+      <p>우연히 <span class="emphasis">은금도가</span> 창고에서 하룻밤을 보냈을 때 <span class="character-eunju">강은주</span> 사모님이 당신을 발견했지만, 쫓아내지 않고 일하는 조건으로 머무르게 해주었습니다. 그녀의 배려 덕분에 당신은 다시 대학에 등록할 수 있었습니다.</p>
+      <p>낮에는 일하고 밤에는 도서관에서 공부하며 사서인 <span class="character-danhee">박단희</span>와도 친해졌습니다. 삶이 긍정적으로 바뀌고 있었으나, 사장님(<span class="character-kitae">남기태</span>)이 죽고 도가가 어려워지면서 다시 길거리로 나앉게 될까 봐 불안해하고 있습니다.</p>
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: 없음
-장소 : 없음
-파일명 : p_백서연_6단계_비밀
+
+### [clue_p_hyunsu_00_dark]
+
+이름 : 당신의 어두운 면
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 200
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 류현수
+의도 : 캐릭터 비밀 및 갈등 요소 인지
+내용 :
+류현수의 소개 단계 비밀 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-secret">
+    <div class="section-title">당신의 어두운 면</div>
+    <div class="intro-narrative">
+<p>사실 당신은 대학을 자퇴한 게 아니라 대마초 소지와 판매 시도 혐의로 경찰에게 체포되어 퇴학당했습니다. 짧은 징역형을 마친 뒤 무작정 남쪽으로 향해 이곳으로 흘러오게 되었습니다. 지금은 새 삶을 사는 척하지만, 마약의 유혹을 끊지 못해 스스로 손을 대고 있으며, 이를 위해 <span class="emphasis">은금도가</span> 외진 저수지 근처에서 은밀히 대마초를 직접 재배까지 하고 있습니다.</p>
+      <p>또한 대학 과제로 향토 역사 리포트를 써야 하는데, 향토사에 관심이 많은 도서관 사서 <span class="character-danhee">박단희</span>가 관련 조사 자료를 찾아주는 대가로 외로운 밤을 함께 보내는 은밀한 거래를 맺고 있습니다.</p>
+      <p>당신이 만나는 사람은 <span class="character-danhee">단희</span>뿐만이 아닙니다. 옆집 사는 <span class="character-seoyeon">백서연</span> 작가 역시 남편이 출장 중일 때 당신을 종종 부르곤 합니다. 당신은 이미 여러 번 그녀의 침실을 드나들며 관계를 맺고 있습니다.</p>
+    </div>
+  </div>
+</div>
 
 ### [clue_p_hyunsu_01]
 
@@ -553,7 +664,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_01_류현수의_타임라인_3단계
+파일명 : p_hyunsu_01_<span class="character-hyunsu">류현수</span>의_타임라인_3단계
 
 ### [clue_p_hyunsu_02]
 
@@ -581,9 +692,9 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li>오늘 아침 9시 30분쯤, 당신은 본채 창문을 밖에서 닦고 있었는데, 그때 <span class="character-eunji">강은지</span>가 누군가와 이야기하며 흐느끼는 소리를 들었습니다. 그 때 그녀는 아침 식사를 하던 중이었습니다.</li>
-    <li><span class="character-kitae">남기태</span>가 사망한 후, <span class="character-eunju">강은주</span>는 매우 외롭고 괴로워했습니다. 그녀에게는 살아 있는 가족이 거의 없었는데, 고등학교 이후로 만나지 않은 여동생이 하나 있었을 뿐입니다. <span class="character-eunju">은주</span>는 동생과 화해하고 싶었지만, 동생의 남편만은 다시 보고 싶지 않다고 했습니다. 그러나 결국 동생과 연락하지는 않았습니다.</li>
-  </ul>
+      <li>오늘 아침 9시 30분쯤, 당신은 본채 창문을 밖에서 닦고 있었는데, 그때 <span class="character-eunji">강은지</span>가 누군가와 이야기하며 흐느끼는 소리를 들었습니다. 그 때 그녀는 아침 식사를 하던 중이었습니다.</li>
+      <li><span class="character-kitae">남기태</span>가 사망한 후, <span class="character-eunju">강은주</span>는 매우 외롭고 괴로워했습니다. 그녀에게는 살아 있는 가족이 거의 없었는데, 고등학교 이후로 만나지 않은 여동생이 하나 있었을 뿐입니다. <span class="character-eunju">은주</span>는 동생과 화해하고 싶었지만, 동생의 남편만은 다시 보고 싶지 않다고 했습니다. 그러나 결국 동생과 연락하지는 않았습니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -591,7 +702,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_02_류현수가_아는_것_3단계
+파일명 : p_hyunsu_02_<span class="character-hyunsu">류현수</span>가_아는_것_3단계
 
 ### [clue_p_hyunsu_03]
 
@@ -611,7 +722,7 @@ HTML :
 관련 : 류현수
 의도 : 조사 3단계에서 류현수가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
 내용 :
-1. 오늘 오후 12시 45분쯤, 백서연 박사가 당신에게 와서 은금도가에 차를 몰고 온 정해준이라는 남자에 대해 물었습니다. 당신은 어찌어찌 수소문해서 그가 대형 리조트 개발업자이며, 은금도가 일대를 사들여 대형 리조트로 개발할 계획임을 알아냈습니다.
+1. 오늘 오후 12시 45분쯤, 백서연 작가가 당신에게 와서 은금도가에 차를 몰고 온 정해준이라는 남자에 대해 물었습니다. 당신은 어찌어찌 수소문해서 그가 대형 리조트 개발업자이며, 은금도가 일대를 사들여 대형 리조트로 개발할 계획임을 알아냈습니다.
 2. 오후 1시쯤 이 사실을 서연에게 알렸더니, 그녀는 자신의 조용한 전원주택 옆에 대형 리조트가 들어선다는 생각에 몹시 분노하며 계획을 막겠다고 다짐했습니다.
 3. 이번 주 내내 향토사 자료실에 많이 있었습니다. 박단희가 당신의 대학 과제를 도와주고 있었기 때문입니다.
 4. 기태가 죽은 직후, 은주는 특히 당신에게 관심을 많이 보이고 관대했습니다. 당신이 양조장을 떠날까 봐 두려워했기 때문이라고 생각합니다. 혼자가 되고 싶지 않았던 거죠.
@@ -621,18 +732,18 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>오늘 오후 12시 45분쯤, <span class="character-seoyeon">백서연 박사</span>가 당신에게 와서 은금도가에 차를 몰고 온 <span class="character-haejun">정해준</span>이라는 남자에 대해 물었습니다. 당신은 어찌어찌 수소문해서 그가 대형 리조트 개발업자이며, 은금도가 일대를 사들여 대형 리조트로 개발할 계획임을 알아냈습니다. 오후 1시쯤 이 사실을 <span class="character-seoyeon">서연</span>에게 알렸더니, 그녀는 자신의 조용한 전원주택 옆에 대형 리조트가 들어선다는 생각에 몹시 분노하며 계획을 막겠다고 다짐했습니다.</li>
-    <li>이번 주 내내 향토사 자료실에 많이 있었습니다. <span class="character-danhee">박단희</span>가 당신의 대학 과제를 도와주고 있었기 때문입니다.</li>
-    <li><span class="character-kitae">기태</span>가 죽은 직후, <span class="character-eunju">은주</span>는 특히 당신에게 관심을 많이 보이고 관대했습니다. 당신이 양조장을 떠날까 봐 두려워했기 때문이라고 생각합니다. 혼자가 되고 싶지 않았던 거죠.</li>
-  </ul>
+      <li>오늘 오후 12시 45분쯤, <span class="character-seoyeon">백서연</span> 작가가 당신에게 와서 은금도가에 차를 몰고 온 <span class="character-haejun">정해준</span>이라는 남자에 대해 물었습니다. 당신은 어찌어찌 수소문해서 그가 대형 리조트 개발업자이며, 은금도가 일대를 사들여 대형 리조트로 개발할 계획임을 알아냈습니다. 오후 1시쯤 이 사실을 <span class="character-seoyeon">서연</span>에게 알렸더니, 그녀는 자신의 조용한 전원주택 옆에 대형 리조트가 들어선다는 생각에 몹시 분노하며 계획을 막겠다고 다짐했습니다.</li>
+      <li>이번 주 내내 향토사 자료실에 많이 있었습니다. <span class="character-danhee">박단희</span>가 당신의 대학 과제를 도와주고 있었기 때문입니다.</li>
+      <li><span class="character-kitae">기태</span>가 죽은 직후, <span class="character-eunju">은주</span>는 특히 당신에게 관심을 많이 보이고 관대했습니다. 당신이 양조장을 떠날까 봐 두려워했기 때문이라고 생각합니다. 혼자가 되고 싶지 않았던 거죠.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_03_류현수의_비밀_3단계
+파일명 : p_hyunsu_03_<span class="character-hyunsu">류현수</span>의_비밀_3단계
 
 ### [clue_p_hyunsu_04]
 
@@ -653,16 +764,16 @@ HTML :
 의도 : 발견 4단계에서 류현수가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
 내용 :
 1. 어젯밤, 최도훈과 강은지가 캠핑카를 몰고 도착했을 때, 당신은 짐 옮기는 걸 도왔습니다. 그런데 그 캠핑카 안은 두 사람이 휴가를 즐기기에는 너무 많은 짐들로 가득 차 있었습니다.
-2. 오후 3시쯤, 당신은 지하 숙성 토굴에서 전기 배선을 수리 중이었고, 그때 백서연 박사가 다가왔습니다. 그녀와 당신은 정을 나누는 사이이지만, 그녀는 당신을 단지 은금도가에 대한 정보를 얻기 위한 수단으로만 생각하고 있다는 걸 알고 있습니다. 그녀는 그 정보를 다음 책의 소재로 삼을 계획입니다.
+2. 오후 3시쯤, 당신은 지하 숙성 토굴에서 전기 배선을 수리 중이었고, 그때 백서연 작가가 다가왔습니다. 그녀와 당신은 정을 나누는 사이이지만, 그녀는 당신을 단지 은금도가에 대한 정보를 얻기 위한 수단으로만 생각하고 있다는 걸 알고 있습니다. 그녀는 그 정보를 다음 책의 소재로 삼을 계획입니다.
 
 HTML :
 <div class="story-content">
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li>어젯밤, <span class="character-dohun">최도훈</span>과 <span class="character-eunji">강은지</span>가 캠핑카를 몰고 도착했을 때, 당신은 짐 옮기는 걸 도왔습니다. 그런데 그 캠핑카 안은 두 사람이 휴가를 즐기기에는 너무 많은 짐들로 가득 차 있었습니다.</li>
-    <li>오후 3시쯤, 당신은 지하 숙성 토굴에서 전기 배선을 수리 중이었고, 그때 <span class="character-seoyeon">백서연 박사</span>가 다가왔습니다. 그녀와 당신은 정을 나누는 사이이지만, 그녀는 당신을 단지 은금도가에 대한 정보를 얻기 위한 수단으로만 생각하고 있다는 걸 알고 있습니다. 그녀는 그 정보를 다음 책의 소재로 삼을 계획입니다.</li>
-  </ul>
+      <li>어젯밤, <span class="character-dohun">최도훈</span>과 <span class="character-eunji">강은지</span>가 캠핑카를 몰고 도착했을 때, 당신은 그들의 짐을 침실로 옮기는 걸 도왔습니다. 그런데 그 캠핑카 안은 두 사람이 휴가를 즐기기에는 너무 많은 짐들로 가득 차 있었습니다.</li>
+      <li>오후 3시쯤, 당신은 지하 숙성 토굴에서 전기 배선을 수리 중이었는데, <span class="character-seoyeon">백서연</span> 작가가 다가왔습니다. 그녀와 당신은 정을 나누는 사이이지만, 그녀는 당신을 단지 은금도가에 대한 정보를 얻기 위한 수단으로만 생각하고 있다는 걸 알고 있습니다. 그녀는 그 정보를 다음 책의 소재로 삼을 계획입니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -670,7 +781,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_04_류현수가_아는_것_4단계
+파일명 : p_hyunsu_04_<span class="character-hyunsu">류현수</span>가_아는_것_4단계
 
 ### [clue_p_hyunsu_05]
 
@@ -690,7 +801,7 @@ HTML :
 관련 : 류현수
 의도 : 발견 4단계에서 류현수가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
 내용 :
-1. 당신은 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 백서연 박사가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한 줄은 몰랐습니다.
+1. 당신은 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 백서연 작가가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한 줄은 몰랐습니다.
 2. 박단희와는 특별한 사이입니다. 그녀는 당신의 자격증 시험 과제를 대신 써주는 대가로 당신과 저녁 시간을 함께 보냅니다. 그녀는 사서로서 귀중한 역사적 자료에 접근할 수 있는데, 당신은 그 중 일부를 훔쳐 팔아보려 했습니다. (이 비밀이 공개되었다면, 자연스럽게 [비밀단서#3]를 조사하세요. 비밀코드는 'letter' 입니다.)
 
 HTML :
@@ -698,17 +809,17 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>당신은 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 <span class="character-seoyeon">백서연 박사</span>가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한 줄은 몰랐습니다.</li>
-    <li><span class="character-danhee">박단희</span>와는 특별한 사이입니다. 그녀는 당신의 자격증 시험 과제를 대신 써주는 대가로 당신과 저녁 시간을 함께 보냅니다. 그녀는 사서로서 귀중한 역사적 자료에 접근할 수 있는데, 당신은 그 중 일부를 훔쳐 팔아보려 했습니다. <strong>(이 비밀이 공개되었다면, 자연스럽게 [비밀단서#3]를 조사하세요. 비밀코드는 'letter' 입니다.)</strong></li>
-  </ul>
+      <li>당신은 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 <span class="character-seoyeon">백서연</span> 작가가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한 줄은 몰랐습니다.</li>
+      <li><span class="character-danhee">박단희</span>와는 특별한 사이입니다. 그녀는 당신의 자격증 시험 과제를 대신 써주는 대가로 당신과 저녁 시간을 함께 보냅니다. 그녀는 사서로서 귀중한 역사적 자료에 접근할 수 있는데, 당신은 그 중 일부를 훔쳐 팔아보려 했습니다. <strong>(이 비밀이 공개되었다면, 자연스럽게 [비밀단서#3]를 조사하세요. 비밀코드는 'letter' 입니다.)</strong></li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_05_류현수의_비밀_4단계
+파일명 : p_hyunsu_05_<span class="character-hyunsu">류현수</span>의_비밀_4단계
 
 ### [clue_p_hyunsu_06]
 
@@ -730,17 +841,17 @@ HTML :
 내용 :
 1. 당신이 강은주를 마지막으로 본 시각은 오후 5시 30분경입니다. 당신은 잠시 휴식을 취하고 있었고, 그녀는 정해준과 함께 숙성 토굴로 들어가고 있었습니다.
 2. 오후 6시 30분, 전기 배선의 단락 문제를 해결하기 위해 다시 토굴로 갔습니다. 당신은 차단기를 내렸다고 확신했지만, 6시 45분쯤 전기 충격을 받아 의식을 잃었습니다. 약 15분 정도 정신을 잃었고, 그 충격으로 토굴의 조명 시스템이 완전히 나갔을 것으로 추정됩니다.
-3. 백서연 박사는 남기태의 죽음에 거의 은주만큼이나 큰 충격을 받았습니다. 그녀가 기태의 삶과 죽음에 이토록 깊은 관심을 가지는 이유가 단순히 전문적인 호기심만은 아닌 것 같다는 생각이 듭니다.
+3. 백서연 작가는 남기태의 죽음에 거의 은주만큼이나 큰 충격을 받았습니다. 그녀가 기태의 삶과 죽음에 이토록 깊은 관심을 가지는 이유가 단순히 전문적인 호기심만은 아닌 것 같다는 생각이 듭니다.
 
 HTML :
 <div class="story-content">
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li>당신이 <span class="character-eunju">강은주</span>를 마지막으로 본 시각은 오후 5시 30분경입니다. 당신은 잠시 휴식을 취하고 있었고, 그녀는 <span class="character-haejun">정해준</span>과 함께 숙성 토굴로 들어가고 있었습니다.</li>
-    <li>오후 6시 30분, 전기 배선의 단락 문제를 해결하기 위해 다시 토굴로 갔습니다. 당신은 차단기를 내렸다고 확신했지만, 6시 45분쯤 전기 충격을 받아 의식을 잃었습니다. 약 15분 정도 정신을 잃었고, 그 충격으로 토굴의 조명 시스템이 완전히 나갔을 것으로 추정됩니다.</li>
-    <li><span class="character-seoyeon">백서연 박사</span>는 <span class="character-kitae">남기태</span>의 죽음에 거의 <span class="character-eunju">은주</span>만큼이나 큰 충격을 받았습니다. 그녀가 <span class="character-kitae">기태</span>의 삶과 죽음에 이토록 깊은 관심을 가지는 이유가 단순히 전문적인 호기심만은 아닌 것 같다는 생각이 듭니다.</li>
-  </ul>
+      <li>당신이 <span class="character-eunju">강은주</span>를 마지막으로 본 시각은 오후 5시 30분경입니다. 당신은 잠시 휴식을 취하고 있었고, 그녀는 <span class="character-haejun">정해준</span>과 함께 숙성 토굴로 들어가고 있었습니다.</li>
+      <li>오후 6시 30분, 전기 배선의 단락 문제를 해결하기 위해 다시 토굴로 갔습니다. 당신은 차단기를 내렸다고 확신했지만, 6시 45분쯤 전기 충격을 받아 의식을 잃었습니다. 약 15분 정도 정신을 잃었고, 그 충격으로 토굴의 조명 시스템이 완전히 나갔을 것으로 추정됩니다.</li>
+      <li><span class="character-seoyeon">백서연</span> 작가는 <span class="character-kitae">남기태</span>의 죽음에 거의 <span class="character-eunju">은주</span>만큼이나 큰 충격을 받았습니다. 그녀가 <span class="character-kitae">기태</span>의 삶과 죽음에 이토록 깊은 관심을 가지는 이유가 단순히 전문적인 호기심만은 아닌 것 같다는 생각이 듭니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -748,7 +859,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_06_류현수가_아는_것_5단계
+파일명 : p_hyunsu_06_<span class="character-hyunsu">류현수</span>가_아는_것_5단계
 
 ### [clue_p_hyunsu_07]
 
@@ -775,16 +886,16 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>오후 5시 30분, 당신은 연못 수돗가 주변을 청소하고 있었습니다. 그때 <span class="character-eunji">강은지</span>가 다가왔고, 대화를 나누던 중 서로에게 끌려 결국 격렬한 키스를 나누게 되었습니다.</li>
-  </ul>
+      <li>오후 5시 30분, 당신은 연못 수돗가 주변을 청소하고 있었습니다. 그때 <span class="character-eunji">강은지</span>가 다가왔고, 대화를 나누던 중 서로에게 끌려 결국 격렬한 키스를 나누게 되었습니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_07_류현수의_비밀_5단계
+파일명 : p_hyunsu_07_<span class="character-hyunsu">류현수</span>의_비밀_5단계
 
 ### [clue_p_hyunsu_08]
 
@@ -804,7 +915,7 @@ HTML :
 관련 : 류현수
 의도 : 마지막 6단계에서 류현수가 적극적으로 밝혀야 할 최종 획득 정보.
 내용 :
-1. 남기태가 살해되던 날, 그는 백서연 박사와 점심을 함께했습니다.
+1. 남기태가 살해되던 날, 그는 백서연 작가와 점심을 함께했습니다.
 2. 그녀는 다음 날도 그를 꼭 다시 만나야 한다며 간청했지만, 기태는 단호히 거절했습니다.
 3. 서연은 계속 애원했지만, 기태는 그녀에게 이렇게 말했습니다. “내 시체를 밟고 지나가지 않는 이상 이 도가에 다시는 들어오지 못할 거야.”
 4. 그 말이 단순한 비유였을까요, 아니면 뭔가 더 끔찍한 의미가 있었던 걸까요?
@@ -814,11 +925,8 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li><span class="character-kitae">남기태</span>가 살해되던 날, 그는 <span class="character-seoyeon">백서연 박사</span>와 점심을 함께했습니다.</li>
-    <li>그녀는 다음 날도 그를 꼭 다시 만나야 한다며 간청했지만, <span class="character-kitae">기태</span>는 단호히 거절했습니다.</li>
-    <li><span class="character-seoyeon">서연</span>은 계속 애원했지만, <span class="character-kitae">기태</span>는 그녀에게 이렇게 말했습니다. “내 시체를 밟고 지나가지 않는 이상 이 도가에 다시는 들어오지 못할 거야.”</li>
-    <li>그 말이 단순한 비유였을까요, 아니면 뭔가 더 끔찍한 의미가 있었던 걸까요?</li>
-  </ul>
+      <li><span class="character-kitae">남기태</span>가 살해되던 날, 그는 <span class="character-seoyeon">백서연</span> 작가와 점심을 함께했습니다. 그녀는 다음 날도 그를 꼭 다시 만나야 한다며 간청했지만, <span class="character-kitae">기태</span>는 단호히 거절했습니다. <span class="character-seoyeon">서연</span>은 계속 애원했지만, <span class="character-kitae">기태</span>는 그녀에게 이렇게 말했습니다. “내 눈에 흙이 들어가기 전엔 그럴 일 없을 거야.”</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -826,7 +934,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_08_류현수가_아는_것_6단계
+파일명 : p_hyunsu_08_<span class="character-hyunsu">류현수</span>가_아는_것_6단계
 
 ### [clue_p_hyunsu_09]
 
@@ -853,21 +961,83 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>당신은 <span class="character-kitae">남기태</span>를 마지막으로 본 사람입니다.</li>
-  </ul>
+      <li>당신은 <span class="character-kitae">남기태</span>를 마지막으로 본 사람입니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Ryu Hyun-soo). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_hyunsu_09_류현수의_비밀_6단계
+파일명 : p_hyunsu_09_<span class="character-hyunsu">류현수</span>의_비밀_6단계
 
 ---
 
-## 개인 전용 단서 (Personal Clues - 박단희 전용)
+## 개인 전용 단서 (Personal Clues - <span class="character-danhee">박단희</span> 전용)
 ※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_danhee_00_who]
+
+이름 : 당신은 누구인가
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 299
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 캐릭터 배경 및 정체성 인지
+내용 :
+박단희의 소개 단계 배경 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-knowledge">
+    <div class="section-title">당신은 누구인가</div>
+    <div class="intro-narrative">
+<p>당신은 <span class="character-eunju">강은주</span>의 가장 친한 친구입니다. <span class="character-eunju">은주</span>는 마을 도서관에서 종종 자원봉사를 했고, 당신은 지난 10년 동안 도서관 사서로 일해왔습니다. 결혼은 하지 않았지만, 당신의 열다섯 마리 고양이만큼이나 애정을 쏟고 있는 조카들이 있습니다.</p>
+      <p>당신은 도서관 사서일 뿐만 아니라 향토사 연구자이자, 애거서 크리스티 등 온갖 추리 소설을 섭렵한 추리 소설 광팬이기도 합니다. 좁은 지역 사회에서 오지랖 넓은 수다쟁이이자 마을 제일의 정보통으로 활약하며, 사람들의 비밀을 알아내는 것에 큰 자부심을 느낍니다.</p>
+      <p>오늘 당신은 <span class="character-eunju">은주</span>와 차 한 잔을 하기 위해 <span class="emphasis">은금도가</span>를 방문했습니다. 그녀가 남편을 잃고 힘들어하다 도가를 팔게 될지도 모른다는 생각에 매우 슬퍼하고 있습니다.</p>
+    </div>
+  </div>
+</div>
+
+### [clue_p_danhee_00_dark]
+
+이름 : 당신의 어두운 면
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 300
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 박단희
+의도 : 캐릭터 비밀 및 갈등 요소 인지
+내용 :
+박단희의 소개 단계 비밀 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-secret">
+    <div class="section-title">당신의 어두운 면</div>
+    <div class="intro-narrative">
+<p>은금도가의 일꾼인 <span class="character-hyunsu">류현수</span>는 마을 역사에 대한 과제를 위해 당신을 찾아와 거래를 제안했습니다. 필요한 자료를 조사해 주는 대신, 외로운 밤에 함께 시간을 보내주기로 한 것입니다. 그는 잘생겼고 당신은 외로웠기에 이를 받아들였지만, 마음 한구석에서는 그가 당신을 이용하고 있다는 사실을 알고 있습니다.</p>
+      <p>또한 마을 역사를 더 깊이 조사하던 중, <span class="emphasis">은금도가</span>의 이전 주인이 이 땅에서 금광맥을 발견했다는 흥미로운 이야기를 알게 되었습니다. 당시 주인이 채굴 전에 사망하면서, 엄청난 양의 금이 여전히 땅속 어딘가에 묻혀 있을 가능성이 높습니다.</p>
+      <p>당신은 부동산 컨설턴트로 일하는 조카(<span class="character-haejun">정해준</span>)에게 은밀히 연락해 싼값에 도가를 사들여 큰 이윤을 남기자고 꼬드겼습니다. <span class="character-eunju">은주</span>를 좋아하긴 하지만, 엄청난 돈과 이 작은 마을을 벗어날 기회를 생각하면... 너무나도 유혹적인 일입니다.</p>
+    </div>
+  </div>
+</div>
 
 ### [clue_p_danhee_01]
 
@@ -892,7 +1062,7 @@ HTML :
 오전 11:00 ~ 정오 : 은금도가 본채에서 강은주와 함께 아침 커피를 마심
 정오 ~ 오후 12:15 : 정해준 도착, 강은주와 대화함
 오후 12:15 ~ 1:30 : 은금도가에서 점심 준비
-오후 1:30 ~ 2:30 : 강은주, 강은지, 백서연 박사와 함께 점심식사
+오후 1:30 ~ 2:30 : 강은주, 강은지, 백서연 작가와 함께 점심식사
 오후 2:30 ~ 7:00 : 본채 툇마루에서 책을 읽으며 은주를 기다림
 오후 7:00 ~ 현재 : 은금도가 본채로 복귀
 HTML :
@@ -908,7 +1078,7 @@ HTML :
       <tr><td>오전 11:00 ~ 정오</td><td>은금도가 본채에서 <span class="character-eunju">강은주</span>와 아침 커피</td></tr>
       <tr><td>정오 ~ 오후 12:15</td><td><span class="character-haejun">정해준</span> 도착, <span class="character-eunju">강은주</span>와 대화</td></tr>
       <tr><td>오후 12:15 ~ 1:30</td><td>은금도가에서 점심 준비</td></tr>
-      <tr><td>오후 1:30 ~ 2:30</td><td><span class="character-eunju">은주</span>, <span class="character-eunji">은지</span>, <span class="character-seoyeon">백서연</span> 박사와 점심 식사</td></tr>
+      <tr><td>오후 1:30 ~ 2:30</td><td><span class="character-eunju">은주</span>, <span class="character-eunji">은지</span>, <span class="character-seoyeon">백서연</span> 작가와 점심 식사</td></tr>
       <tr><td>오후 2:30 ~ 7:00</td><td>본채 툇마루에서 책을 읽으며 <span class="character-eunju">은주</span>를 기다림</td></tr>
       <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채로 복귀</td></tr>
     </tbody>
@@ -916,7 +1086,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_danhee_01_박단희의_타임라인_3단계
+파일명 : p_danhee_01_<span class="character-danhee">박단희</span>의_타임라인_3단계
 
 ### [clue_p_danhee_02]
 
@@ -936,7 +1106,7 @@ HTML :
 관련 : 박단희
 의도 : 조사 3단계에서 박단희가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
 내용 :
-1. 백서연 박사는 책 표지 사진에서 본 적이 있습니다. 그녀의 마지막 소설은 거의 베스트셀러가 될 뻔했지만 논란에 휘말렸으며, 소송도 당했다고 들었습니다. 그녀가 여전히 글을 쓰고 있는지 궁금합니다.
+1. 백서연 작가는 책 표지 사진에서 본 적이 있습니다. 그녀의 마지막 소설은 거의 베스트셀러가 될 뻔했지만 논란에 휘말렸으며, 소송도 당했다고 들었습니다. 그녀가 여전히 글을 쓰고 있는지 궁금합니다.
 2. 오늘 아침 향토사 자료실에서 서류를 정리하고 나올 때, 옆 금은방에서 최도훈이 계산하는 것을 봤습니다. 계산원이 몇 가지 물건을 도훈의 가방에 넣었는데, 그 중 하나는 확실히 금으로 된 물건이었습니다.
 3. 아침 커피를 마시던 중, 강은주는 최도훈이 조금 전(약 30분 전이라고 합니다)에 준 비녀를 보여주었습니다. 은주는 이 선물에 꽤나 당황한 듯 보였고, 정오에 초인종이 울렸을 때에도 그 비녀를 손에 들고 있었다는 사실조차 자각하지 못한 듯했습니다.
 4. 류현수는 남기태의 죽음 이후, 분명히 여유 자금이 많아졌습니다. 예전보다 자료실엔 덜 나타나고, 차와 친구들에게 더 많은 시간을 쓰는 듯 보입니다.
@@ -946,11 +1116,11 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li><span class="character-seoyeon">백서연 박사</span>는 책 표지 사진에서 본 적이 있습니다. 그녀의 마지막 소설은 거의 베스트셀러가 될 뻔했지만 논란에 휘말렸으며, 소송도 당했다고 들었습니다. 그녀가 여전히 글을 쓰고 있는지 궁금합니다.</li>
-    <li>오늘 아침 향토사 자료실에서 서류를 정리하고 나올 때, 옆 금은방에서 <span class="character-dohun">최도훈</span>이 계산하는 것을 봤습니다. 계산원이 몇 가지 물건을 <span class="character-dohun">도훈</span>의 가방에 넣었는데, 그 중 하나는 확실히 금으로 된 물건이었습니다.</li>
-    <li>아침 커피를 마시던 중, <span class="character-eunju">강은주</span>는 <span class="character-dohun">최도훈</span>이 조금 전(약 30분 전이라고 합니다)에 준 비녀를 보여주었습니다. <span class="character-eunju">은주</span>는 이 선물에 꽤나 당황한 듯 보였고, 정오에 초인종이 울렸을 때에도 그 비녀를 손에 들고 있었다는 사실조차 자각하지 못한 듯했습니다.</li>
-    <li><span class="character-hyunsu">류현수</span>는 <span class="character-kitae">남기태</span>의 죽음 이후, 분명히 여유 자금이 많아졌습니다. 예전보다 자료실엔 덜 나타나고, 차와 친구들에게 더 많은 시간을 쓰는 듯 보입니다.</li>
-  </ul>
+      <li><span class="character-seoyeon">백서연</span> 작가는 책 표지 사진에서 본 적이 있습니다. 그녀의 마지막 소설은 거의 베스트셀러가 될 뻔했지만 논란에 휘말렸으며, 소송도 당했다고 들었습니다. 그녀가 여전히 글을 쓰고 있는지 궁금합니다.</li>
+      <li>오늘 아침 향토사 자료실에서 서류를 정리하고 나올 때, 옆 금은방에서 <span class="character-dohun">최도훈</span>이 계산하는 것을 봤습니다. 계산원이 몇 가지 물건을 <span class="character-dohun">도훈</span>의 가방에 넣었는데, 그 중 하나는 확실히 금으로 된 물건이었습니다.</li>
+      <li>아침 커피를 마시던 중, <span class="character-eunju">강은주</span>는 <span class="character-dohun">최도훈</span>이 조금 전(약 30분 전이라고 합니다)에 준 비녀를 보여주었습니다. <span class="character-eunju">은주</span>는 이 선물에 꽤나 당황한 듯 보였고, 정오에 초인종이 울렸을 때에도 그 비녀를 손에 들고 있었다는 사실조차 자각하지 못한 듯했습니다.</li>
+      <li><span class="character-hyunsu">류현수</span>는 <span class="character-kitae">남기태</span>의 죽음 이후, 분명히 여유 자금이 많아졌습니다. 예전보다 자료실엔 덜 나타나고, 차와 친구들에게 더 많은 시간을 쓰는 듯 보입니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -958,7 +1128,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_danhee_02_박단희가_아는_것_3단계
+파일명 : p_danhee_02_<span class="character-danhee">박단희</span>가_아는_것_3단계
 
 ### [clue_p_danhee_03]
 
@@ -986,17 +1156,17 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>정오에 <span class="character-haejun">정해준</span>은 은금도가를 매입할 목적으로 방문했습니다. 그때 당신은 속이 좋지 않아, <span class="character-eunju">은주</span>가 <span class="character-haejun">해준</span>과 마루에서 대화를 나누는 동안 화장실 약장에서 제산제를 찾고 있었습니다.</li>
-    <li><span class="character-haejun">정해준</span>은 이번 주 자료실에 자주 왔습니다. 그는 마을 역사에 관한 연구 자료를 요청했고, 당신은 그를 위해 몇 가지 자료를 찾아 주었습니다.</li>
-  </ul>
+      <li>정오에 <span class="character-haejun">정해준</span>은 은금도가를 매입할 목적으로 방문했습니다. 그때 당신은 속이 좋지 않아, <span class="character-eunju">은주</span>가 <span class="character-haejun">해준</span>과 마루에서 대화를 나누는 동안 화장실 약장에서 제산제를 찾고 있었습니다.</li>
+      <li><span class="character-haejun">정해준</span>은 이번 주 자료실에 자주 왔습니다. 그는 마을 역사에 관한 연구 자료를 요청했고, 당신은 그를 위해 몇 가지 자료를 찾아 주었습니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_danhee_03_박단희의_비밀_3단계
+파일명 : p_danhee_03_<span class="character-danhee">박단희</span>의_비밀_3단계
 
 ### [clue_p_danhee_04]
 
@@ -1018,17 +1188,17 @@ HTML :
 내용 :
 1. 당신은 남기태를 잘 알았습니다. 그는 강인하고 유능한 사람이었습니다. 그런 그가 둔기로 맞아 죽었다는 사실은 매우 충격적입니다. 살인범은 그를 기습하거나 속였음이 틀림없습니다. 과연 기태를 마지막으로 본 사람은 누구일까요?
 2. 오후 1시경, 본채 전화가 울렸고 당신이 받았습니다. 전화는 최도훈을 찾는 법률사무소에서 걸려왔습니다. 도훈은 이후 1시간 반 가량 서재에서 통화를 했습니다. 당신은 그 통화를 몰래 들었고, 그가 사기 소송과 횡령 관련 이야기를 변호사와 나누는 것을 들었습니다.
-3. 오후 1시 30분, 백서연 박사가 당신, 강은지, 강은주와 함께 본채에서 점심을 먹으러 합류했습니다. 은주는 여러 번 주제를 바꾸려 했지만 대화는 주로 정해준이 도가를 대형 리조트로 개발하려 한다는 내용이었고, 백서연은 그 계획에 대해 매우 불만스러워했습니다.
+3. 오후 1시 30분, 백서연 작가가 당신, 강은지, 강은주와 함께 본채에서 점심을 먹으러 합류했습니다. 은주는 여러 번 주제를 바꾸려 했지만 대화는 주로 정해준이 도가를 대형 리조트로 개발하려 한다는 내용이었고, 백서연은 그 계획에 대해 매우 불만스러워했습니다.
 
 HTML :
 <div class="story-content">
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li>당신은 <span class="character-kitae">남기태</span>를 잘 알았습니다. 그는 강인하고 유능한 사람이었습니다. 그런 그가 둔기로 맞아 죽었다는 사실은 매우 충격적입니다. 살인범은 그를 기습하거나 속였음이 틀림없습니다. 과연 <span class="character-kitae">기태</span>를 마지막으로 본 사람은 누구일까요?</li>
-    <li>오후 1시경, 본채 전화가 울렸고 당신이 받았습니다. 전화는 <span class="character-dohun">최도훈</span>을 찾는 법률사무소에서 걸려왔습니다. <span class="character-dohun">도훈</span>은 이후 1시간 반 가량 서재에서 통화를 했습니다. 당신은 그 통화를 몰래 들었고, 그가 사기 소송과 횡령 관련 이야기를 변호사와 나누는 것을 들었습니다.</li>
-    <li>오후 1시 30분, <span class="character-seoyeon">백서연 박사</span>가 당신, <span class="character-eunji">강은지</span>, <span class="character-eunju">강은주</span>와 함께 본채에서 점심을 먹으러 합류했습니다. <span class="character-eunju">은주</span>는 여러 번 주제를 바꾸려 했지만 대화는 주로 <span class="character-haejun">정해준</span>이 도가를 대형 리조트로 개발하려 한다는 내용이었고, <span class="character-seoyeon">백서연</span>은 그 계획에 대해 매우 불만스러워했습니다.</li>
-  </ul>
+      <li>당신은 <span class="character-kitae">남기태</span>를 잘 알았습니다. 그는 강인하고 유능한 사람이었습니다. 그런 그가 둔기로 맞아 죽었다는 사실은 매우 충격적입니다. 살인범은 그를 기습하거나 속였음이 틀림없습니다. 과연 <span class="character-kitae">기태</span>를 마지막으로 본 사람은 누구일까요?</li>
+      <li>오후 1시경, 본채 전화가 울렸고 당신이 받았습니다. 전화는 <span class="character-dohun">최도훈</span>을 찾는 법률사무소에서 걸려왔습니다. <span class="character-dohun">도훈</span>은 이후 1시간 반 가량 서재에서 통화를 했습니다. 당신은 그 통화를 몰래 들었고, 그가 사기 소송과 횡령 관련 이야기를 변호사와 나누는 것을 들었습니다.</li>
+      <li>오후 1시 30분, <span class="character-seoyeon">백서연</span> 작가가 당신, <span class="character-eunji">강은지</span>, <span class="character-eunju">강은주</span>와 함께 본채에서 점심을 먹으러 합류했습니다. <span class="character-eunju">은주</span>는 여러 번 주제를 바꾸려 했지만 대화는 주로 <span class="character-haejun">정해준</span>이 도가를 대형 리조트로 개발하려 한다는 내용이었고, <span class="character-seoyeon">백서연</span>은 그 계획에 대해 매우 불만스러워했습니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -1036,7 +1206,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_danhee_04_박단희가_아는_것_4단계
+파일명 : p_danhee_04_<span class="character-danhee">박단희</span>가_아는_것_4단계
 
 ### [clue_p_danhee_05]
 
@@ -1065,18 +1235,18 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>당신은 <span class="character-hyunsu">류현수</span>에게 매우 끌려 그와 잠자리를 함께 하고 있습니다. 또한 그의 자격증 과제를 대신 해주고 있습니다.</li>
-    <li>향토사 연구 과제를 쓰던 중, 은금리 초창기 개척자 중 한 명인 <span class="character-kitae">은금</span>이 쓴 편지를 발견했습니다. 그는 편지 작성 후 얼마 지나지 않아 근처 은금 저수지에서 익사했습니다.</li>
-    <li>당신은 <span class="character-hyunsu">류현수</span>에게 거의 집착에 가까운 애정을 품고 있습니다. 배경 조사를 한 결과, 그는 1년 전 한 언더커버 경찰에게 마약을 판매한 혐의로 체포되었고, 짧은 징역형을 마친 뒤 도주했다고 합니다.</li>
-  </ul>
+      <li>당신은 <span class="character-hyunsu">류현수</span>에게 매우 끌려 그와 잠자리를 함께 하고 있습니다. 또한 그의 자격증 과제를 대신 해주고 있습니다.</li>
+      <li>향토사 연구 과제를 쓰던 중, 은금리 초창기 개척자 중 한 명인 은금이 쓴 편지를 발견했습니다. 그는 편지 작성 후 얼마 지나지 않아 근처 은금 저수지에서 익사했습니다.</li>
+      <li>당신은 <span class="character-hyunsu">류현수</span>에게 거의 집착에 가까운 애정을 품고 있습니다. 배경 조사를 한 결과, 그는 1년 전 한 언더커버 경찰에게 마약을 판매한 혐의로 체포되었고, 짧은 징역형을 마친 뒤 도주했다고 합니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_danhee_05_박단희의_비밀_4단계
+파일명 : p_danhee_05_<span class="character-danhee">박단희</span>의_비밀_4단계
 
 ### [clue_p_danhee_06]
 
@@ -1098,8 +1268,8 @@ HTML :
 내용 :
 1. 마지막으로 은주를 본 것은 점심 때였습니다.
 2. 강은주의 시신 옆 바닥에서 흘려놓은 종이 한 장을 발견했습니다. (여기까지 이야기한 뒤, 자연스럽게 [비밀단서#4]를 조사하세요. 비밀코드는 'memo' 입니다.)
-3. 오후 4시경, 서둘러 자료실로 돌아가 백서연 박사의 최신 책을 대출했습니다. 이후 본채 뒤쪽 마루에 앉아 책을 읽으며 은주가 정해준에게 도가를 보여주는 것을 마치기를 기다렸습니다. 하지만 그녀는 돌아오지 않았습니다.
-4. 오후 6시 45분경, 옆집에서 백서연 박사가 나오는 것을 보았습니다. 그녀는 누군가를 따라 지하 숙성 토굴로 들어갔습니다. 잠시 후, 토굴 창문의 불빛이 깜빡이다 꺼졌습니다.
+3. 오후 4시경, 서둘러 자료실로 돌아가 백서연 작가의 최신 책을 대출했습니다. 이후 본채 뒤쪽 마루에 앉아 책을 읽으며 은주가 정해준에게 도가를 보여주는 것을 마치기를 기다렸습니다. 하지만 그녀는 돌아오지 않았습니다.
+4. 오후 6시 45분경, 옆집에서 백서연 작가가 나오는 것을 보았습니다. 그녀는 누군가를 따라 지하 숙성 토굴로 들어갔습니다. 잠시 후, 토굴 창문의 불빛이 깜빡이다 꺼졌습니다.
 
 HTML :
 <div class="story-content">
@@ -1107,9 +1277,9 @@ HTML :
     <div class="section-title">당신이 아는 정보</div>
     <ul>
       <li>마지막으로 <span class="character-eunju">은주</span>를 본 것은 점심 때였습니다.</li>
-      <li><span class="emphasis">강은주</span>의 시신 옆 바닥에서 흘려놓은 종이 한 장을 발견했습니다. <strong>(여기까지 이야기한 뒤, 자연스럽게 [비밀단서#4]를 조사하세요. 비밀코드는 'memo' 입니다.)</strong></li>
-      <li>오후 4시경, 서둘러 자료실로 돌아가 <span class="character-seoyeon">백서연 박사</span>의 최신 책을 대출했습니다. 이후 본채 뒤쪽 마루에 앉아 책을 읽으며 <span class="character-eunju">은주</span>가 <span class="character-haejun">정해준</span>에게 도가를 보여주는 것을 마치기를 기다렸습니다. 하지만 그녀는 돌아오지 않았습니다.</li>
-      <li>오후 6시 45분경, 옆집에서 <span class="character-seoyeon">백서연 박사</span>가 나오는 것을 보았습니다. 그녀는 누군가를 따라 지하 숙성 토굴로 들어갔습니다. 잠시 후, 토굴 창문의 불빛이 깜빡이다 꺼졌습니다.</li>
+      <li><span class="emphasis"><span class="character-eunju">강은주</span></span>의 시신 옆 바닥에서 흘려놓은 종이 한 장을 발견했습니다. <strong>(여기까지 이야기한 뒤, 자연스럽게 [비밀단서#4]를 조사하세요. 비밀코드는 'memo' 입니다.)</strong></li>
+      <li>오후 4시경, 서둘러 자료실로 돌아가 <span class="character-seoyeon">백서연</span> 작가의 최신 책을 대출했습니다. 이후 본채 뒤쪽 마루에 앉아 책을 읽으며 <span class="character-eunju">은주</span>가 <span class="character-haejun">정해준</span>에게 도가를 보여주는 것을 마치기를 기다렸습니다. 하지만 그녀는 돌아오지 않았습니다.</li>
+      <li>오후 6시 45분경, 옆집에서 <span class="character-seoyeon">백서연</span> 작가가 나오는 것을 보았습니다. 그녀는 누군가를 따라 지하 숙성 토굴로 들어갔습니다. 잠시 후, 토굴 창문의 불빛이 깜빡이다 꺼졌습니다.</li>
     </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
@@ -1118,7 +1288,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_danhee_06_박단희가_아는_것_5단계
+파일명 : p_danhee_06_<span class="character-danhee">박단희</span>가_아는_것_5단계
 
 ### [clue_p_danhee_07]
 
@@ -1145,16 +1315,16 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>당신은 늘 텔레비전 드라마나 영화에서 스타가 되는 꿈을 품어왔습니다. 그랬기에 오늘 도서관 사서 일을 그만두었습니다.</li>
-  </ul>
+      <li>당신은 늘 텔레비전 드라마나 영화에서 스타가 되는 꿈을 품어왔습니다. 그랬기에 오늘 도서관 사서 일을 그만두었습니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_danhee_07_박단희의_비밀_5단계
+파일명 : p_danhee_07_<span class="character-danhee">박단희</span>의_비밀_5단계
 
 ### [clue_p_danhee_08]
 
@@ -1183,10 +1353,10 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li><span class="character-eunju">강은주</span>의 안방에 있을 때 선반 위에 낡은 촛대가 놓여 있는 것을 발견했습니다.</li>
-    <li>몇 달 전에 <span class="character-hyunsu">류현수</span>가 생일 선물로 똑같은 촛대를 준 적이 있습니다.</li>
-    <li>하지만 당신이 가진 촛대는 어딘가 찌그러지고 상태가 좋지 않습니다.</li>
-  </ul>
+      <li><span class="character-eunju">강은주</span>의 안방에 있을 때 선반 위에 낡은 촛대가 놓여 있는 것을 발견했습니다.</li>
+      <li>몇 달 전에 <span class="character-hyunsu">류현수</span>가 생일 선물로 똑같은 촛대를 준 적이 있습니다.</li>
+      <li>하지만 당신이 가진 촛대는 어딘가 찌그러지고 상태가 좋지 않습니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -1194,47 +1364,70 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_danhee_08_박단희가_아는_것_6단계
+파일명 : p_danhee_08_<span class="character-danhee">박단희</span>가_아는_것_6단계
 
-### [clue_p_danhee_09]
+### [clue_p_dohun_00_who]
 
-이름 : 당신의 비밀#4
+이름 : 당신은 누구인가
 유형 : 통찰
-단계 : 마지막 단서 단계
+단계 : 소개 단계
 소모AP : 0
-정렬순서 : 309
-중요도 : 보통
+정렬순서 : 399
+중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
-관련 : 박단희
-의도 : 마지막 6단계에서 박단희가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
+관련 : 최도훈
+의도 : 캐릭터 배경 및 정체성 인지
 내용 :
-1. 더 이상 감출 비밀이 없습니다.
+최도훈의 소개 단계 배경 정보
 HTML :
 <div class="story-content">
-  <div class="document-page type-secret">
-    <div class="section-title">당신의 비밀</div>
-    <ul>
-    <li>더 이상 감출 비밀이 없습니다.</li>
-  </ul>
-    <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+  <div class="document-page type-knowledge">
+    <div class="section-title">당신은 누구인가</div>
+    <div class="intro-narrative">
+<p>당신은 <span class="character-eunju">강은주</span>와 같은 고향에서 자랐습니다. <span class="character-eunju">강은주</span>를 통해 그녀의 여동생 <span class="character-eunji">강은지</span>를 만나게 되었고, <span class="character-eunji">은지</span>와 사랑에 빠져 그녀가 성인이 되자마자 몰래 결혼했습니다. 현재는 부동산 중개업자로 일하고 있지만 과로 상태입니다.</p>
+      <p>당신과 <span class="character-eunji">은지</span>는 일상의 분주함에서 벗어나 다시 사랑에 빠질 기회를 가지기 위해 휴가를 떠나기로 했습니다. 새로 산 캠핑카를 타고 전국을 여행하던 중, 어제 처형인 <span class="character-eunju">강은주</span>를 만나기 위해 <span class="emphasis">은금도가</span>에 도착했습니다.</p>
+      <p>여가 시간에는 조류 관찰자로 활동하고 있으며, 쌍안경 없이 외출하는 일이 거의 없습니다. <span class="emphasis">은금도가</span>에서 흥미로운 새들을 관찰하는 것을 기대하고 있습니다.</p>
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Park Dan-hee). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
-장소 : 없음
-파일명 : p_danhee_09_박단희의_비밀_6단계
 
----
+### [clue_p_dohun_00_dark]
 
-## 개인 전용 단서 (Personal Clues - 백서연 전용)
-※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+이름 : 당신의 어두운 면
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 400
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 최도훈
+의도 : 캐릭터 비밀 및 갈등 요소 인지
+내용 :
+최도훈의 소개 단계 비밀 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-secret">
+    <div class="section-title">당신의 어두운 면</div>
+    <div class="intro-narrative">
+<p>현재 삶에 갇혀 있다는 느낌을 받고 있습니다. <span class="character-eunji">은지</span>와는 너무 어릴 때 결혼했습니다... 사실 처음에는 <span class="character-eunju">강은주</span>와 만났습니다. 하지만 보수적이던 <span class="character-eunju">은주</span>와 달리 여동생 <span class="character-eunji">은지</span>는 강렬한 육체적 매력을 뿜어냈고, 곧 그녀에게 유혹당했습니다.</p>
+      <p><span class="character-eunji">은지</span>가 임신한 후에야 몰래 결혼했고, 당신을 <span class="character-eunju">은주</span>에게서 빼앗아 간 이후로 두 자매는 크게 틀어져 서로 말도 하지 않는 상태가 되었습니다.</p>
+      <p>쌍안경을 들고 다니며 새를 관찰하는 척하지만, 사실 쌍안경을 이용해 타인의 사생활을 훔쳐보거나 불륜 같은 위험한 성적 일탈을 즐깁니다. 아내와의 불화에서 오는 스트레스를 그런 식으로 해소하는 것이죠. 게다가 이번 휴가는 진짜 휴가가 아닙니다. 당신은 직장에서 성희롱 혐의로 정직 중이며, 회사 돈을 빼돌린 증거를 덮을 방법도 없습니다.</p>
+      <p>이 사실을 사치스러운 <span class="character-eunji">은지</span>에게 숨겼고, 도박 빚 때문에 돈이 필요하다고 거짓말했습니다. 점점 궁지에 몰리고 있는 당신의 유일한 희망은 <span class="character-eunju">은주</span>를 찾아가 돈을 빌리거나, 혹은 그녀가 다시 당신을 사랑하게 만드는 것입니다. 당신은 무슨 일이든 할 각오가 되어 있습니다.</p>
+    </div>
+  </div>
+</div>
 
 ### [clue_p_dohun_01]
 
@@ -1268,10 +1461,10 @@ HTML :
     <tbody>
       <tr><td>오전 8:30 ~ 10:00</td><td>일어나서 마을에 심부름을 보러 감</td></tr>
       <tr><td>오전 10:00 ~ 10:30</td><td>마당에서 조류 관찰</td></tr>
-      <tr><td>오전 10:30 ~ 11:00</td><td>강은주와 대화</td></tr>
+      <tr><td>오전 10:30 ~ 11:00</td><td><span class="character-eunju">강은주</span>와 대화</td></tr>
       <tr><td>오전 11:00 ~ 오후 1:00</td><td>마당에서 조류 관찰</td></tr>
       <tr><td>오후 1:00 ~ 2:30</td><td>업무용 전화 통화</td></tr>
-      <tr><td>오후 2:30 ~ 3:30</td><td>강은지와 침실에 있음</td></tr>
+      <tr><td>오후 2:30 ~ 3:30</td><td><span class="character-eunji">강은지</span>와 침실에 있음</td></tr>
       <tr><td>오후 3:30 ~ 5:30</td><td>도가 주변 산책</td></tr>
       <tr><td>오후 5:30 ~ 6:30</td><td>연못가 팔각정에서 휴식</td></tr>
       <tr><td>오후 6:30 ~ 6:45</td><td>도가 주변 시설 탐험</td></tr>
@@ -1282,7 +1475,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_타임라인
+파일명 : p_<span class="character-dohun">최도훈</span>_타임라인
 
 ### [clue_p_dohun_3_know]
 
@@ -1311,11 +1504,14 @@ HTML :
       <p>오후 12시 45분에 새 관찰을 하던 중 <span class="character-hyunsu">류현수</span>가 어딘가를 몰래 염탐하는 듯한 모습을 보았습니다. 당신은 참견하고 싶지 않아 그냥 걸음을 계속했습니다.</p>
       <p>당신은 <span class="character-haejun">정해준</span>에게 이력서를 주며 부동산 경력을 말했으나, <span class="character-haejun">해준</span>은 시장이 침체되어 회사가 채용하지 않는다고 말했습니다. 이상합니다, 당신은 지금 부동산 시장이 한창 활황이라는 이야기를 들었었거든요.</p>
     </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_3단계_아는 것
+파일명 : p_<span class="character-dohun">최도훈</span>_3단계_아는 것
 
 ### [clue_p_dohun_3_secret]
 
@@ -1341,13 +1537,16 @@ HTML :
   <div class="document-page type-secret">
     <div class="document-body small">
       <p><span class="character-eunji">은지</span>와는 어려운 결혼 생활 시기를 보내고 있습니다. 일찍 일어나 그녀의 마음을 돌리기 위해 은으로 된 예쁜 팔찌를 사러 읍내에 나갔습니다.</p>
-            <p>오전 10시 30분에 휴가 동안 당신과 <span class="character-eunji">은지</span>를 환대해 준 처형 <span class="character-eunju">강은주</span>에게 감사의 표시로 문양이 새겨진 비녀를 선물했습니다.</p>
+      <p>오전 10시 30분에 휴가 동안 당신과 <span class="character-eunji">은지</span>를 환대해 준 처형 <span class="character-eunju">강은주</span>에게 감사의 표시로 문양이 새겨진 비녀를 선물했습니다.</p>
+    </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_3단계_비밀
+파일명 : p_<span class="character-dohun">최도훈</span>_3단계_비밀
 
 ### [clue_p_dohun_4_know]
 
@@ -1373,14 +1572,17 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="document-body small">
       <p><span class="character-eunji">강은지</span>는 <span class="character-eunju">강은주</span>의 유일한 살아있는 혈육입니다. <span class="character-eunju">은주</span>가 죽은 지금, <span class="character-eunji">은지</span>가 은금도가의 정당한 상속인입니다.</p>
-            <p>오후 3시 45분경, <span class="character-eunju">강은주</span>와 <span class="character-seoyeon">백서연 박사</span> 사이에 격렬한 대화를 우연히 들었습니다. <span class="character-eunju">은주</span>는 <span class="character-seoyeon">서연</span>에게, <span class="character-kitae">남기태</span> 살인 사건에 관한 어떤 증거도 부인하겠다고 말하며, <span class="character-seoyeon">서연</span>이 자신의 책에서 이를 폭로하는 것을 원치 않는다고 했습니다.</p>
-            <p>오늘 본 <span class="character-hyunsu">류현수</span>는 가구 밑이나 서랍 등 여기저기를 살피며 무언가를 잃어버린 듯한 모습을 보였습니다.</p>
+      <p>오후 3시 45분경, <span class="character-eunju">강은주</span>와 <span class="character-seoyeon">백서연</span> 작가 사이에 격렬한 대화를 우연히 들었습니다. <span class="character-eunju">은주</span>는 <span class="character-seoyeon">서연</span>에게, <span class="character-kitae">남기태</span> 살인 사건에 관한 어떤 증거도 부인하겠다고 말하며, <span class="character-seoyeon">서연</span>이 자신의 책에서 이를 폭로하는 것을 원치 않는다고 했습니다.</p>
+      <p>오늘 본 <span class="character-hyunsu">류현수</span>는 가구 밑이나 서랍 등 여기저기를 살피며 무언가를 잃어버린 듯한 모습을 보였습니다.</p>
+    </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_4단계_아는 것
+파일명 : p_<span class="character-dohun">최도훈</span>_4단계_아는 것
 
 ### [clue_p_dohun_4_secret]
 
@@ -1406,13 +1608,16 @@ HTML :
   <div class="document-page type-secret">
     <div class="document-body small">
       <p>오늘 오전 10시 30분, 연못 정원에서 <span class="character-eunju">은주</span>와 대화하는 중에 그녀가 '<span class="character-eunji">은지</span>가 당신에게 맞고 산다고 했다'고 전했습니다. 당신은 충격을 받았는데, 사실 <span class="character-eunji">은지</span>에게 한 번도 손을 댄 적이 없기 때문입니다.</p>
-            <p>오늘 오후 1시에 상사로부터 전화를 받았습니다. 지난 몇 주간 거래처 직원을 성희롱한 혐의로 대기 발령 중이었는데, 조사 과정에서 상사가 당신이 회사 돈을 개인 계좌로 빼돌린 증거를 발견했습니다. 상사는 당신에게 해고 사실을 알렸습니다.</p>
+      <p>오늘 오후 1시에 상사로부터 전화를 받았습니다. 지난 몇 주간 거래처 직원을 성희롱한 혐의로 대기 발령 중이었는데, 조사 과정에서 상사가 당신이 회사 돈을 개인 계좌로 빼돌린 증거를 발견했습니다. 상사는 당신에게 해고 사실을 알렸습니다.</p>
+    </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_4단계_비밀
+파일명 : p_<span class="character-dohun">최도훈</span>_4단계_비밀
 
 ### [clue_p_dohun_5_know]
 
@@ -1437,15 +1642,18 @@ HTML :
 <div class="story-content">
   <div class="document-page type-knowledge">
     <div class="document-body small">
-      <p>당신이 마지막으로 <span class="character-eunju">은주</span>를 살아 있는 모습으로 본 것은 오후 3시 45분경이었습니다. 그때 마루 앞을 지나가다가 그녀가 <span class="character-seoyeon">백서연 박사</span>와 책에 관해 이야기하는 것을 우연히 들었습니다. 이후 당신은 뒷산에서 새 관찰을 계속했습니다.</p>
-            <p>서재에서 업무 전화를 마친 직후, <span class="character-danhee">박단희</span>가 <span class="character-haejun">정해준</span>에게 다가가는 모습을 보았습니다. 그는 서재 창문 바로 밖 차 안에 앉아 있었고, 두 사람 사이에 낮은 목소리의 대화가 오가는 걸 들었는데, <span class="character-haejun">해준</span>이 “정말 괜찮겠어, 단희 누나?”라고 말하는 부분도 분명히 들렸습니다. <span class="character-danhee">단희</span>는 그에게 작은 알약 병을 건네주었습니다.</p>
-            <p>오후 대부분은 뒷산 숲에서 새 관찰을 했습니다. 숙성 토굴의 불빛이 깜빡이다 꺼지는 것을 보았고 이상하게 생각했지만, 곧 누군가 비명을 지르는 소리를 들었습니다. 당신은 토굴 뒤쪽 문으로 달려 들어갔으나 미로 같은 복도에서 길을 잃고 말았습니다. 결국 아무도 찾지 못한 채 다시 본채로 돌아와 다른 사람들을 만났습니다.</p>
+      <p>당신이 마지막으로 <span class="character-eunju">은주</span>를 살아 있는 모습으로 본 것은 오후 3시 45분경이었습니다. 그때 마루 앞을 지나가다가 그녀가 <span class="character-seoyeon">백서연</span> 작가와 책에 관해 이야기하는 것을 우연히 들었습니다. 이후 당신은 뒷산에서 새 관찰을 계속했습니다.</p>
+      <p>서재에서 업무 전화를 마친 직후, <span class="character-danhee">박단희</span>가 <span class="character-haejun">정해준</span>에게 다가가는 모습을 보았습니다. 그는 서재 창문 바로 밖 차 안에 앉아 있었고, 두 사람 사이에 낮은 목소리의 대화가 오가는 걸 들었는데, <span class="character-haejun">해준</span>이 “정말 괜찮겠어, <span class="character-danhee">단희</span> 누나?”라고 말하는 부분도 분명히 들렸습니다. <span class="character-danhee">단희</span>는 그에게 작은 알약 병을 건네주었습니다.</p>
+      <p>오후 대부분은 뒷산 숲에서 새 관찰을 했습니다. 숙성 토굴의 불빛이 깜빡이다 꺼지는 것을 보았고 이상하게 생각했지만, 곧 누군가 비명을 지르는 소리를 들었습니다. 당신은 토굴 뒤쪽 문으로 달려 들어갔으나 미로 같은 복도에서 길을 잃고 말았습니다. 결국 아무도 찾지 못한 채 다시 본채로 돌아와 다른 사람들을 만났습니다.</p>
+    </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_5단계_아는 것
+파일명 : p_<span class="character-dohun">최도훈</span>_5단계_아는 것
 
 ### [clue_p_dohun_5_secret]
 
@@ -1471,13 +1679,16 @@ HTML :
   <div class="document-page type-secret">
     <div class="document-body small">
       <p>오후 2시에 당신은 <span class="character-eunji">은지</span>와 함께 방에 있었습니다. <span class="character-eunju">은주</span>가 <span class="character-eunji">은지</span>에게 대출을 해 주지 않자 <span class="character-eunji">은지</span>는 깊은 상심에 빠져 당신 앞에서 울음을 터뜨렸습니다.</p>
-            <p>오후 5시 30분, 당신은 연못가 팔각정에서 새를 관찰하고 있었습니다. 그때 당신의 아내 <span class="character-eunji">은지</span>가 <span class="character-hyunsu">류현수</span>와 추파를 던지며 키스하는 모습을 목격했습니다.</p>
+      <p>오후 5시 30분, 당신은 연못가 팔각정에서 새를 관찰하고 있었습니다. 그때 당신의 아내 <span class="character-eunji">은지</span>가 <span class="character-hyunsu">류현수</span>와 추파를 던지며 키스하는 모습을 목격했습니다.</p>
+    </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_5단계_비밀
+파일명 : p_<span class="character-dohun">최도훈</span>_5단계_비밀
 
 ### [clue_p_dohun_6_know]
 
@@ -1502,22 +1713,25 @@ HTML :
 <div class="story-content">
   <div class="document-page type-knowledge">
     <div class="document-body small">
-      <p>오후 3시 45분경 산책을 하던 중 본채 앞을 지나가다가 <span class="character-eunju">은주</span>가 <span class="character-seoyeon">백서연 박사</span>와 언쟁하는 소리를 들었습니다. <span class="character-seoyeon">백 박사</span>는 <span class="character-kitae">남기태</span>를 죽인 사람에 대한 증거가 있다고 주장했지만, <span class="character-eunju">은주</span>는 듣지 않으려 했습니다.</p>
+      <p>오후 3시 45분경 산책을 하던 중 본채 앞을 지나가다가 <span class="character-eunju">은주</span>가 <span class="character-seoyeon">백서연</span> 작가와 언쟁하는 소리를 들었습니다. 백 작가는 <span class="character-kitae">남기태</span>를 죽인 사람에 대한 증거가 있다고 주장했지만, <span class="character-eunju">은주</span>는 듣지 않으려 했습니다.</p>
+    </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_6단계_아는 것
+파일명 : p_<span class="character-dohun">최도훈</span>_6단계_아는 것
 
-### [clue_p_dohun_6_secret]
+### [clue_p_eunji_00_who]
 
-이름 : 당신의 비밀#4
+이름 : 당신은 누구인가
 유형 : 통찰
-단계 : 6단계
+단계 : 소개 단계
 소모AP : 0
-정렬순서 : 409
-중요도 : 보통
+정렬순서 : 499
+중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : N
 획득 가능 여부 : N
@@ -1525,21 +1739,52 @@ HTML :
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
-관련 : 최도훈
-의도 : 캐릭터 개인의 속마음 및 정보
+관련 : 강은지
+의도 : 캐릭터 배경 및 정체성 인지
 내용 :
-해당 단계에서 캐릭터가 알고 있는 정보 또는 숨기고 있는 비밀.
+강은지의 소개 단계 배경 정보
 HTML :
 <div class="story-content">
-  <div class="document-page type-secret">
-    <div class="document-body small">
-      <p>더 이상 감출 비밀이 없습니다.</p>
+  <div class="document-page type-knowledge">
+    <div class="section-title">당신은 누구인가</div>
+    <div class="intro-narrative">
+<p>당신은 <span class="character-eunju">강은주</span>의 여동생입니다. 어릴 적에는 언니와 아주 친한 사이였지만, 자라면서 점차 멀어졌습니다. <span class="character-eunju">은주</span>가 <span class="character-kitae">남기태</span>와 결혼해 떠난 후에는 완전히 연락이 끊겼습니다.</p>
+      <p>당신은 고등학교 시절 연인이었던 <span class="character-dohun">최도훈</span>과 결혼해 살고 있습니다. 현재는 세 아이를 돌보는 전업주부이면서 백화점 화장품 코너에서 파트타임으로 일하고 있습니다.</p>
+      <p>낮 시간대 드라마와 자극적인 토크쇼에 푹 빠져 있으며, 방송에 나간 적이 있다는 것을 매우 자랑스럽게 여깁니다. 당신과 <span class="character-dohun">도훈</span>은 새 캠핑카를 타고 전국을 여행 중이며, 어제 <span class="emphasis">은금도가</span>에 도착했습니다. 이 기회를 통해 언니와 화해할 희망을 품고 있습니다.</p>
     </div>
   </div>
 </div>
-이미지생성용 프롬프트: 없음
-장소 : 없음
-파일명 : p_최도훈_6단계_비밀
+
+### [clue_p_eunji_00_dark]
+
+이름 : 당신의 어두운 면
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 500
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 강은지
+의도 : 캐릭터 비밀 및 갈등 요소 인지
+내용 :
+강은지의 소개 단계 비밀 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-secret">
+    <div class="section-title">당신의 어두운 면</div>
+    <div class="intro-narrative">
+<p>언니 <span class="character-eunju">은주</span>는 당신이 그녀의 남자친구였던 <span class="character-dohun">도훈</span>을 빼앗은 이후 수년째 말을 섞지 않고 있습니다. 당신은 <span class="character-eunju">은주</span>가 <span class="character-dohun">도훈</span>을 사랑한다는 사실이 질투 났고, 충동적으로 <span class="character-dohun">도훈</span>을 유혹해 임신을 빌미로 결혼했습니다.</p>
+      <p><span class="character-dohun">도훈</span>을 진심으로 사랑하지는 않지만, 세 아이와 함께 현실에 갇혀버린 느낌입니다. <span class="character-dohun">도훈</span>은 불안정한 데다 도박에 빠져 빚까지 지고 있습니다. 당신은 이 끔찍한 상황에서 벗어날 계획이 있습니다.</p>
+      <p>언니 <span class="character-eunju">은주</span>를 찾아가 <span class="character-dohun">도훈</span>이 학대를 했다고 거짓말하고 돈을 빌려, 그 멍청한 남편을 버리고 화려하게 독립할 생각입니다. 어쩌면 연예인이 되어 화려한 인생을 살 수 있을지도 모른다고 꿈꾸고 있습니다.</p>
+    </div>
+  </div>
+</div>
 
 ### [clue_p_eunji_01]
 
@@ -1562,7 +1807,7 @@ HTML :
 오전 9:00 ~ 9:30 : 기상 후 옷을 입음
 오전 9:30 ~ 10:00 : 강은주와 아침 식사
 오전 10:00 ~ 오후 1:30 : 본채 마루에서 휴식
-오후 1:30 ~ 2:30 : 은주, 박단희, 백서연 박사와 점심 식사
+오후 1:30 ~ 2:30 : 은주, 박단희, 백서연 작가와 점심 식사
 오후 2:30 ~ 3:30 : 도훈과 함께 침실에서
 오후 3:30 ~ 6:30 : 도가 주변 탐방
 오후 6:45 ~ 7:00 : 지하 숙성 토굴 탐험
@@ -1578,7 +1823,7 @@ HTML :
       <tr><td>오전 9:00 ~ 9:30</td><td>기상 후 옷을 입음</td></tr>
       <tr><td>오전 9:30 ~ 10:00</td><td><span class="character-eunju">강은주</span>와 아침 식사</td></tr>
       <tr><td>오전 10:00 ~ 오후 1:30</td><td>본채 마루에서 휴식</td></tr>
-      <tr><td>오후 1:30 ~ 2:30</td><td><span class="character-eunju">은주</span>, <span class="character-danhee">박단희</span>, <span class="character-seoyeon">백서연</span> 박사와 점심 식사</td></tr>
+      <tr><td>오후 1:30 ~ 2:30</td><td><span class="character-eunju">은주</span>, <span class="character-danhee">박단희</span>, <span class="character-seoyeon">백서연</span> 작가와 점심 식사</td></tr>
       <tr><td>오후 2:30 ~ 3:30</td><td><span class="character-dohun">도훈</span>과 함께 침실에서</td></tr>
       <tr><td>오후 3:30 ~ 6:30</td><td>도가 주변 탐방</td></tr>
       <tr><td>오후 6:45 ~ 7:00</td><td>지하 숙성 토굴 탐험</td></tr>
@@ -1588,7 +1833,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has a serious, calm expression, as if deeply focused or recalling past events. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_eunji_01_강은지의_타임라인_3단계
+파일명 : p_eunji_01_<span class="character-eunji">강은지</span>의_타임라인_3단계
 
 ### [clue_p_eunji_02]
 
@@ -1609,16 +1854,16 @@ HTML :
 의도 : 조사 3단계에서 강은지가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
 내용 :
 1. 아침에 일어났을 때 최도훈이 침대에 없었고, 오후가 되어서야 다시 만났습니다. 이 점은 당신에게는 오히려 좋았는데, 평소와 달리 조용하고 평화로운 시간을 즐길 수 있었기 때문입니다.
-2. 백서연 박사가 폭행당해 살해되고 은금 저수지에 버려진 남자에 관한 소설을 쓰고 있다는 이야기를 들었습니다. 미해결 상태의 살인인데, 이야기의 줄거리가 형부의 사건과 너무나 비슷했습니다. 당신은 서연이 용의자로 누굴 지목하는지 궁금해합니다.
+2. 백서연 작가가 폭행당해 살해되고 은금 저수지에 버려진 남자에 관한 소설을 쓰고 있다는 이야기를 들었습니다. 미해결 상태의 살인인데, 이야기의 줄거리가 형부의 사건과 너무나 비슷했습니다. 당신은 서연이 용의자로 누굴 지목하는지 궁금해합니다.
 
 HTML :
 <div class="story-content">
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li>아침에 일어났을 때 <span class="character-dohun">최도훈</span>이 침대에 없었고, 오후가 되어서야 다시 만났습니다. 이 점은 당신에게는 오히려 좋았는데, 평소와 달리 조용하고 평화로운 시간을 즐길 수 있었기 때문입니다.</li>
-    <li><span class="character-seoyeon">백서연 박사</span>가 폭행당해 살해되고 은금 저수지에 버려진 남자에 관한 소설을 쓰고 있다는 이야기를 들었습니다. 미해결 상태의 살인인데, 이야기의 줄거리가 형부의 사건과 너무나 비슷했습니다. 당신은 <span class="character-seoyeon">서연</span>이 용의자로 누굴 지목하는지 궁금해합니다.</li>
-  </ul>
+      <li>아침에 일어났을 때 <span class="character-dohun">최도훈</span>이 침대에 없었고, 오후가 되어서야 다시 만났습니다. 이 점은 당신에게는 오히려 좋았는데, 평소와 달리 조용하고 평화로운 시간을 즐길 수 있었기 때문입니다.</li>
+      <li><span class="character-seoyeon">백서연</span> 작가가 폭행당해 살해되고 은금 저수지에 버려진 남자에 관한 소설을 쓰고 있다는 이야기를 들었습니다. 미해결 상태의 살인인데, 이야기의 줄거리가 형부의 사건과 너무나 비슷했습니다. 당신은 <span class="character-seoyeon">서연</span>이 용의자로 누굴 지목하는지 궁금해합니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -1626,7 +1871,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_eunji_02_강은지가_아는_것_3단계
+파일명 : p_eunji_02_<span class="character-eunji">강은지</span>가_아는_것_3단계
 
 ### [clue_p_eunji_03]
 
@@ -1654,17 +1899,17 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>이번 방문 전에 형부 <span class="character-kitae">남기태</span>가 죽었다는 사실을 몰랐습니다. 언니 <span class="character-eunju">은주</span>가 고등학교 시절 연인과 결혼한 당신을 아직도 용서하지 못해 만나고 싶지 않아 했던 것 같습니다. 그녀가 당신을 삶에서 완전히 밀어내고 싶어 했는지 궁금합니다.</li>
-    <li>오늘 아침 9시 30분경 <span class="character-eunju">은주</span>와 단둘이 아침 식사를 했습니다. 당신은 재정적으로 어려움을 겪고 있다고 말하며 도움을 요청했지만, <span class="character-eunju">은주</span>도 형부가 사망할 때 생명 보험이 없어 재정적으로 매우 힘든 상태라고 했습니다.</li>
-  </ul>
+      <li>이번 방문 전에 형부 <span class="character-kitae">남기태</span>가 죽었다는 사실을 몰랐습니다. 언니 <span class="character-eunju">은주</span>가 고등학교 시절 연인과 결혼한 당신을 아직도 용서하지 못해 만나고 싶지 않아 했던 것 같습니다. 그녀가 당신을 삶에서 완전히 밀어내고 싶어 했는지 궁금합니다.</li>
+      <li>오늘 아침 9시 30분경 <span class="character-eunju">은주</span>와 단둘이 아침 식사를 했습니다. 당신은 재정적으로 어려움을 겪고 있다고 말하며 도움을 요청했지만, <span class="character-eunju">은주</span>도 형부가 사망할 때 생명 보험이 없어 재정적으로 매우 힘든 상태라고 했습니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_eunji_03_강은지의_비밀_3단계
+파일명 : p_eunji_03_<span class="character-eunji">강은지</span>의_비밀_3단계
 
 ### [clue_p_eunji_04]
 
@@ -1684,8 +1929,8 @@ HTML :
 관련 : 강은지
 의도 : 발견 4단계에서 강은지가 다른 플레이어들에게 적극적으로 밝혀야 할 아는 정보.
 내용 :
-1. 오후 1시 30분경, 백서연 박사가 자청해 당신과 박단희, 은주와의 점심 식사에 합류했습니다. 은주가 불편해하는 기색이 역력했습니다. 이후 은주는 당신에게 백 박사를 매우 싫어한다고 털어놓았습니다.
-2. 점심 시간에 백 박사의 노트를 슬쩍 보았는데, 거기에 남기태 살인 사건에 관한 메모가 적혀 있었습니다. 백 박사는 기태가 자신의 집에서 살해당했다고 생각하는 것 같습니다. 메모에 따르면 그의 서재 바닥에서 피 한 방울이 발견되었고, 서류가 뒤섞여 있었으며, 전화기가 떨어져 있었다고 합니다. 은주는 그 피 얼룩이 오래된 것이라고 둘러댔지만, 전화기와 서류가 엉망인 이유에 대해서는 설명하지 못했다는 거죠.
+1. 오후 1시 30분경, 백서연 작가가 자청해 당신과 박단희, 은주와의 점심 식사에 합류했습니다. 은주가 불편해하는 기색이 역력했습니다. 이후 은주는 당신에게 백 작가를 매우 싫어한다고 털어놓았습니다.
+2. 점심 시간에 백 작가의 노트를 슬쩍 보았는데, 거기에 남기태 살인 사건에 관한 메모가 적혀 있었습니다. 백 작가는 기태가 자신의 집에서 살해당했다고 생각하는 것 같습니다. 메모에 따르면 그의 서재 바닥에서 피 한 방울이 발견되었고, 서류가 뒤섞여 있었으며, 전화기가 떨어져 있었다고 합니다. 은주는 그 피 얼룩이 오래된 것이라고 둘러댔지만, 전화기와 서류가 엉망인 이유에 대해서는 설명하지 못했다는 거죠.
 3. 정해준은 매우 낯익은 인상인데, 결국 그를 알아봤습니다. 작년에 도훈의 회사 연말 파티에서 만난 적이 있습니다. 두 사람이 같은 회사에 다니거나 아는 사이인 모양입니다.
 
 HTML :
@@ -1693,10 +1938,10 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li>오후 1시 30분경, <span class="character-seoyeon">백서연 박사</span>가 자청해 당신과 <span class="character-danhee">박단희</span>, <span class="character-eunju">은주</span>와의 점심 식사에 합류했습니다. <span class="character-eunju">은주</span>가 불편해하는 기색이 역력했습니다. 이후 <span class="character-eunju">은주</span>는 당신에게 <span class="character-seoyeon">백 박사</span>를 매우 싫어한다고 털어놓았습니다.</li>
-    <li>점심 시간에 <span class="character-seoyeon">백 박사</span>의 노트를 슬쩍 보았는데, 거기에 <span class="character-kitae">남기태</span> 살인 사건에 관한 메모가 적혀 있었습니다. <span class="character-seoyeon">백 박사</span>는 <span class="character-kitae">기태</span>가 자신의 집에서 살해당했다고 생각하는 것 같습니다. 메모에 따르면 그의 서재 바닥에서 피 한 방울이 발견되었고, 서류가 뒤섞여 있었으며, 전화기가 떨어져 있었다고 합니다. <span class="character-eunju">은주</span>는 그 피 얼룩이 오래된 것이라고 둘러댔지만, 전화기와 서류가 엉망인 이유에 대해서는 설명하지 못했다는 거죠.</li>
-    <li><span class="character-haejun">정해준</span>은 매우 낯익은 인상인데, 결국 그를 알아봤습니다. 작년에 <span class="character-dohun">도훈</span>의 회사 연말 파티에서 만난 적이 있습니다. 두 사람이 같은 회사에 다니거나 아는 사이인 모양입니다.</li>
-  </ul>
+      <li>오후 1시 30분경, <span class="character-seoyeon">백서연</span> 작가가 자청해 당신과 <span class="character-danhee">박단희</span>, <span class="character-eunju">은주</span>와의 점심 식사에 합류했습니다. <span class="character-eunju">은주</span>가 불편해하는 기색이 역력했습니다. 이후 <span class="character-eunju">은주</span>는 당신에게 백 작가를 매우 싫어한다고 털어놓았습니다.</li>
+      <li>점심 시간에 백 작가의 노트를 슬쩍 보았는데, 거기에 <span class="character-kitae">남기태</span> 살인 사건에 관한 메모가 적혀 있었습니다. 백 작가는 <span class="character-kitae">기태</span>가 자신의 집에서 살해당했다고 생각하는 것 같습니다. 메모에 따르면 그의 서재 바닥에서 피 한 방울이 발견되었고, 서류가 뒤섞여 있었으며, 전화기가 떨어져 있었다고 합니다. <span class="character-eunju">은주</span>는 그 피 얼룩이 오래된 것이라고 둘러댔지만, 전화기와 서류가 엉망인 이유에 대해서는 설명하지 못했다는 거죠.</li>
+      <li><span class="character-haejun">정해준</span>은 매우 낯익은 인상인데, 결국 그를 알아봤습니다. 작년에 <span class="character-dohun">도훈</span>의 회사 연말 파티에서 만난 적이 있습니다. 두 사람이 같은 회사에 다니거나 아는 사이인 모양입니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -1704,7 +1949,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_eunji_04_강은지가_아는_것_4단계
+파일명 : p_eunji_04_<span class="character-eunji">강은지</span>가_아는_것_4단계
 
 ### [clue_p_eunji_05]
 
@@ -1733,17 +1978,17 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>오늘 아침 아침 식사 자리에서 <span class="character-eunju">은주</span>에게 거짓말을 했습니다. <span class="character-dohun">도훈</span>이 당신에게 폭력을 쓴다고 말했지만, 사실 이는 언니의 동정을 얻기 위한 거짓말이었습니다. 어느 정도는 그녀가 어떻게 반응하는지 보고 싶었고, 또 <span class="character-eunju">은주</span>가 여전히 <span class="character-dohun">도훈</span>에게 감정이 있는지 알아보기 위한 의도도 있었습니다. <span class="character-eunju">은주</span>는 <span class="character-dohun">도훈</span>이 학대한다는 사실에 놀란 기색을 보였지만 “네가 자초한 일이다”라는 말도 했습니다.</li>
-    <li>당신은 <span class="character-dohun">도훈</span>과 이혼하고 싶지만 경제적으로 그에게 의존하고 있어 그러지 못하고 있습니다.</li>
-  </ul>
+      <li>오늘 아침 아침 식사 자리에서 <span class="character-eunju">은주</span>에게 거짓말을 했습니다. <span class="character-dohun">도훈</span>이 당신에게 폭력을 쓴다고 말했지만, 사실 이는 언니의 동정을 얻기 위한 거짓말이었습니다. 어느 정도는 그녀가 어떻게 반응하는지 보고 싶었고, 또 <span class="character-eunju">은주</span>가 여전히 <span class="character-dohun">도훈</span>에게 감정이 있는지 알아보기 위한 의도도 있었습니다. <span class="character-eunju">은주</span>는 <span class="character-dohun">도훈</span>이 학대한다는 사실에 놀란 기색을 보였지만 “네가 자초한 일이다”라는 말도 했습니다.</li>
+      <li>당신은 <span class="character-dohun">도훈</span>과 이혼하고 싶지만 경제적으로 그에게 의존하고 있어 그러지 못하고 있습니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_eunji_05_강은지의_비밀_4단계
+파일명 : p_eunji_05_<span class="character-eunji">강은지</span>의_비밀_4단계
 
 ### [clue_p_eunji_06]
 
@@ -1771,9 +2016,9 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li>마지막으로 <span class="character-eunju">은주</span>를 본 것은 점심시간이었습니다. 그 후 하루 대부분을 혼자 보냈지만, 오후 2시에 침실에서 <span class="character-dohun">도훈</span>과 잠시 만났습니다.</li>
-    <li><span class="character-danhee">박단희</span>와 본채 뒷마루에 잠시 앉아 인생 목표에 관해 이야기를 나눴습니다. 당신은 화려한 연예인이 되고 싶다고 말했습니다 - 남편과 세 아이에게 짐이 되지 않는다면 말이죠. 그러자 <span class="character-danhee">단희</span>는 마치 자신이 잃어버린 무언가를 찾은 듯한 표정을 지으며, 자신도 이 작은 마을을 벗어나 화려한 삶을 살고 싶다는 비슷한 꿈을 갖고 있다고 했습니다. 그리고 곧 그것을 실행할 것이라며, 자세한 설명 없이 미친 듯 웃었습니다.</li>
-  </ul>
+      <li>마지막으로 <span class="character-eunju">은주</span>를 본 것은 점심시간이었습니다. 그 후 하루 대부분을 혼자 보냈지만, 오후 2시에 침실에서 <span class="character-dohun">도훈</span>과 잠시 만났습니다.</li>
+      <li><span class="character-danhee">박단희</span>와 본채 뒷마루에 잠시 앉아 인생 목표에 관해 이야기를 나눴습니다. 당신은 화려한 연예인이 되고 싶다고 말했습니다 - 남편과 세 아이에게 짐이 되지 않는다면 말이죠. 그러자 <span class="character-danhee">단희</span>는 마치 자신이 잃어버린 무언가를 찾은 듯한 표정을 지으며, 자신도 이 작은 마을을 벗어나 화려한 삶을 살고 싶다는 비슷한 꿈을 갖고 있다고 했습니다. 그리고 곧 그것을 실행할 것이라며, 자세한 설명 없이 미친 듯 웃었습니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -1781,7 +2026,7 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_eunji_06_강은지가_아는_것_5단계
+파일명 : p_eunji_06_<span class="character-eunji">강은지</span>가_아는_것_5단계
 
 ### [clue_p_eunji_07]
 
@@ -1810,18 +2055,18 @@ HTML :
   <div class="document-page type-secret">
     <div class="section-title">당신의 비밀</div>
     <ul>
-    <li>오후 5시 30분경, 연못 정원의 수돗가 근처에서 <span class="character-hyunsu">류현수</span>와 마주쳤고, 대화를 나누며 농담도 주고받았습니다. 분위기가 무르익어 키스를 나누었지만, 곧 자리를 떠났습니다. <span class="character-dohun">도훈</span>이 잠든 후에 다시 <span class="character-hyunsu">현수</span>를 만나기로 마음먹었기 때문입니다.</li>
-    <li>오후 6시까지 연못 정원을 떠나 침실에서 옷을 갈아입었습니다.</li>
-    <li>오후 6시 45분경, 다시 <span class="character-hyunsu">현수</span>를 찾으러 나섰습니다. 밖에서는 그를 보지 못해 지하 숙성 토굴로 향했습니다. 미로 같은 복도를 지나가다 갑자기 <span class="character-hyunsu">현수</span>와 마주쳤는데, 그와 동시에 큰 ‘펑’ 소리가 들렸습니다. 불빛이 깜박이다 꺼졌고, 비명을 질렀습니다. 그 이후의 일은 기억나지 않다가 결국 다른 사람들과 함께 다시 본채에서 깨어났습니다.</li>
-  </ul>
+      <li>오후 5시 30분경, 연못 정원의 수돗가 근처에서 <span class="character-hyunsu">류현수</span>와 마주쳤고, 대화를 나누며 농담도 주고받았습니다. 분위기가 무르익어 키스를 나누었지만, 곧 자리를 떠났습니다. <span class="character-dohun">도훈</span>이 잠든 후에 다시 <span class="character-hyunsu">현수</span>를 만나기로 마음먹었기 때문입니다.</li>
+      <li>오후 6시까지 연못 정원을 떠나 침실에서 옷을 갈아입었습니다.</li>
+      <li>오후 6시 45분경, 다시 <span class="character-hyunsu">현수</span>를 찾으러 나섰습니다. 밖에서는 그를 보지 못해 지하 숙성 토굴로 향했습니다. 미로 같은 복도를 지나가다 갑자기 <span class="character-hyunsu">현수</span>와 마주쳤는데, 그와 동시에 큰 ‘펑’ 소리가 들렸습니다. 불빛이 깜박이다 꺼졌고, 비명을 질렀습니다. 그 이후의 일은 기억나지 않다가 결국 다른 사람들과 함께 다시 본채에서 깨어났습니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
-      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has a nervous, guilty, anxious, and defensive expression, slightly avoiding eye contact. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_eunji_07_강은지의_비밀_5단계
+파일명 : p_eunji_07_<span class="character-eunji">강은지</span>의_비밀_5단계
 
 ### [clue_p_eunji_08]
 
@@ -1849,9 +2094,9 @@ HTML :
   <div class="document-page type-knowledge">
     <div class="section-title">당신이 아는 정보</div>
     <ul>
-    <li><span class="character-eunju">강은주</span>의 시신으로 돌아가 꽂혀있는 비녀를 자세히 살펴보았습니다. 비녀에는 "은주, 하나뿐인 그대"라고 새겨져 있었습니다.</li>
-    <li>근처 토굴 바닥에는 처방전이 있는 수면제 병이 있었으며, 병에는 불과 이틀 전에 처방되었다는 날짜가 적혀 있었습니다. 병은 이미 비어 있었습니다.</li>
-  </ul>
+      <li><span class="character-eunju">강은주</span>의 시신으로 돌아가 꽂혀있는 비녀를 자세히 살펴보았습니다. 비녀에는 "<span class="character-eunju">은주</span>, 하나뿐인 그대"라고 새겨져 있었습니다.</li>
+      <li>근처 토굴 바닥에는 처방전이 있는 수면제 병이 있었으며, 병에는 불과 이틀 전에 처방되었다는 날짜가 적혀 있었습니다. 병은 이미 비어 있었습니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -1859,12 +2104,73 @@ HTML :
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A tight close-up portrait of the character's face from the reference image (Kang Eun-ji). The character has an expression of sudden realization, epiphany, or a subtle, knowing smile. Keep their exact facial features, hair, and clothing from the reference image. The background should be a blurred continuation of their original environment. The artistic style MUST be a high-quality watercolor comic-book illustration with detailed ink line-art and rich textures, perfectly matching the provided reference image. No text.
 장소 : 없음
-파일명 : p_eunji_08_강은지가_아는_것_6단계
+파일명 : p_eunji_08_<span class="character-eunji">강은지</span>가_아는_것_6단계
 
 ---
 
-## 개인 전용 단서 (Personal Clues - 류현수 전용)
+## 개인 전용 단서 (Personal Clues - <span class="character-hyunsu">류현수</span> 전용)
 ※ 아래 단서들은 교환 불가, 공유 불가, 타인 획득 불가의 개인 전용 단서들이며, 해당 단계 시작 시 자동으로 지급됩니다.
+
+### [clue_p_haejun_00_who]
+
+이름 : 당신은 누구인가
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 599
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 캐릭터 배경 및 정체성 인지
+내용 :
+정해준의 소개 단계 배경 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-knowledge">
+    <div class="section-title">당신은 누구인가</div>
+    <div class="intro-narrative">
+<p>당신은 서울에서 비즈니스 차 이곳에 왔습니다. 사업이 당신의 삶이며, 휴대폰은 거의 항상 손에 쥐고 있습니다. 토지 개발 컨설턴트로서 지자체로부터 저렴한 가격에 저소득층 주택 개발용 토지를 찾아달라는 의뢰를 받았습니다.</p>
+      <p>일하지 않을 때는 드물지만 클럽에 가서 즐깁니다. 당신은 젊고 활기차며 매력적입니다. 여성들이 당신에게 호감을 보이는데, 이는 지난해 토지 개발로 벌어들인 막대한 수입 때문이라고 생각합니다. 이번 프로젝트를 성공시키면 회사에서 지자체의 주요 파트너가 될 수도 있습니다.</p>
+      <p>지자체는 토지 매입과 개발을 위한 예산을 아주 적게 배정했습니다. 그런 상황에서 <span class="emphasis">은금도가</span>가 시세보다 낮은 가격에 매물로 나온 것은 기적 같은 일입니다. <span class="character-eunju">강은주</span>의 불운이 당신에게는 행운이었던 셈이죠. 오늘 신문에 실린 부동산 광고를 보고 사전 약속 없이 이곳에 급히 달려왔으며, 하루 대부분을 <span class="emphasis">은금도가</span>를 둘러보고 지도를 그리는 데 보냈습니다. <strong>(지도를 그렸다는 이야기를 모두에게 하고 난 뒤, 게임 보드에 배치된 <span class="emphasis">[비밀단서#1]</span>를 조사하세요. 비밀코드는 'map' 입니다.)</strong></p>
+    </div>
+  </div>
+</div>
+
+### [clue_p_haejun_00_dark]
+
+이름 : 당신의 어두운 면
+유형 : 통찰
+단계 : 소개 단계
+소모AP : 0
+정렬순서 : 600
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : Y
+관련 : 정해준
+의도 : 캐릭터 비밀 및 갈등 요소 인지
+내용 :
+정해준의 소개 단계 비밀 정보
+HTML :
+<div class="story-content">
+  <div class="document-page type-secret">
+    <div class="section-title">당신의 어두운 면</div>
+    <div class="intro-narrative">
+<p>당신은 실제 토지 개발 컨설턴트 <span class="character-haejun">정해준</span>이 아닙니다. 서울의 부동산 컨설팅 회사에서 인턴으로 일하는 <span class="character-haejun">정해준</span>일 뿐입니다. 비록 지갑이 두둑하지는 않지만, 사람들을 쉽게 설득할 수 있는 카리스마가 있습니다.</p>
+      <p>이곳에 온 것은 사촌누나인 <span class="character-danhee">박단희</span>가 꼭 오라고 했기 때문입니다. 그녀는 구체적인 내용을 알려주지 않았지만, <span class="character-eunju">강은주</span>가 도가를 당신에게 팔고, 당신이 다시 그녀에게 팔면 큰돈을 벌 수 있다고 했습니다. 단, <span class="character-danhee">박단희</span>는 자신과의 관계를 절대 비밀로 하라고 당부했는데 그 이유는 알 수 없습니다.</p>
+    </div>
+  </div>
+</div>
 
 ### [clue_p_haejun_01]
 
@@ -1897,21 +2203,21 @@ HTML :
     </thead>
     <tbody>
       <tr><td>아침 ~ 정오</td><td>은금도가로 이동</td></tr>
-      <tr><td>정오 ~ 오후 12:15</td><td>강은주와 양조장 매입 논의</td></tr>
-      <tr><td>오후 12:15 ~ 1:00</td><td>강은주와 함께 도가 구경</td></tr>
-      <tr><td>오후 1:00</td><td>은주가 뒷마당 정자 근처 풀밭에서 벌에 쏘임</td></tr>
-      <tr><td>오후 1:00 ~ 1:15</td><td>은주와 함께 본채로 복귀</td></tr>
+      <tr><td>정오 ~ 오후 12:15</td><td><span class="character-eunju">강은주</span>와 양조장 매입 논의</td></tr>
+      <tr><td>오후 12:15 ~ 1:00</td><td><span class="character-eunju">강은주</span>와 함께 도가 구경</td></tr>
+      <tr><td>오후 1:00</td><td><span class="character-eunju">은주</span>가 뒷마당 정자 근처 풀밭에서 벌에 쏘임</td></tr>
+      <tr><td>오후 1:00 ~ 1:15</td><td><span class="character-eunju">은주</span>와 함께 본채로 복귀</td></tr>
       <tr><td>오후 1:15 ~ 3:00</td><td>차 안에서 업무 전화 통화</td></tr>
       <tr><td>오후 3:00 ~ 5:15</td><td>혼자서 은금도가 뒷산 및 시설 조사</td></tr>
-      <tr><td>오후 5:15 ~ 6:45</td><td>지하 숙성 토굴에서 강은주와 소주 시음</td></tr>
-      <tr><td>오후 6:45 ~ 7:00</td><td>토굴 조명 꺼짐. 강은주가 조사하러 감</td></tr>
+      <tr><td>오후 5:15 ~ 6:45</td><td>지하 숙성 토굴에서 <span class="character-eunju">강은주</span>와 소주 시음</td></tr>
+      <tr><td>오후 6:45 ~ 7:00</td><td>토굴 조명 꺼짐. <span class="character-eunju">강은주</span>가 조사하러 감</td></tr>
       <tr><td>오후 7:00 ~ 현재</td><td>은금도가 본채로 복귀</td></tr>
     </tbody>
   </table>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_타임라인
+파일명 : p_<span class="character-haejun">정해준</span>_타임라인
 
 ### [clue_p_haejun_3_know]
 
@@ -1940,11 +2246,14 @@ HTML :
             <p><span class="character-eunju">은주</span>와 함께 도가를 걷는 동안, 그녀가 작은 물건을 들고 다니는 것을 알아챘습니다. 그녀는 도가 얘기에 너무 몰두한 나머지 그 물건을 들고 있다는 것도 인지하지 못하는 듯했습니다.</p>
             <p>1시쯤 연못 정원 화단 쪽에 있을 때 벌이 <span class="character-eunju">은주</span>를 쏘았고, 그녀는 들고 있던 물건을 풀밭에 떨어뜨린 채 집 안으로 달려갔습니다. 당신도 그녀를 따라 들어갔습니다.</p>
     </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_3단계_아는 것
+파일명 : p_<span class="character-haejun">정해준</span>_3단계_아는 것
 
 ### [clue_p_haejun_3_secret]
 
@@ -1972,11 +2281,14 @@ HTML :
       <p>지난 4일간 향토사 자료실에서 이 마을에 관한 모든 것을 조사하는 데 시간을 보냈습니다. 새로운 주택 및 리조트 개발 마케팅 캠페인을 시작하기 위해 회사에 보고해야 합니다.</p>
             <p>오늘 오후 <span class="character-dohun">최도훈</span>이 이력서를 건네왔습니다. 그는 너무 간절해 보였지만, 당신은 당신의 회사가 현재 채용 중이 아니라고 말해주었습니다. <span class="character-dohun">도훈</span>의 현재 일자리 상황이 궁금합니다.</p>
     </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_3단계_비밀
+파일명 : p_<span class="character-haejun">정해준</span>_3단계_비밀
 
 ### [clue_p_haejun_4_know]
 
@@ -2005,11 +2317,14 @@ HTML :
             <p>오후 3시가 되었을 때, <span class="character-eunju">은주</span>는 아직 밖으로 나오지 않아 혼자서 도가를 둘러보기로 했습니다.</p>
             <p>오후 3시 15분경, 한 여성이 지하 숙성 토굴로 들어가는 것을 보았습니다. 문 안쪽에는 <span class="character-hyunsu">류현수</span>가 있었고 두 사람은 은밀하게 대화하고 있었습니다. 당신은 자리를 떠났기 때문에 그 여성이 토굴에서 나오는 것은 보지 못했습니다.</p>
     </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_4단계_아는 것
+파일명 : p_<span class="character-haejun">정해준</span>_4단계_아는 것
 
 ### [clue_p_haejun_4_secret]
 
@@ -2038,11 +2353,14 @@ HTML :
             <p><span class="character-danhee">박단희</span>는 당신의 이종사촌 누나입니다. 그녀가 은금도가를 사러 내려오라는 정보를 줬습니다. 하지만 당신은 돈이 많지 않습니다. 다만 <span class="character-danhee">단희</span> 누나는 나중에 이 땅을 당신에게서 이익을 붙여 되사겠다고 약속했습니다. 이유는 말해주지 않았지만 땅을 손에 넣는 데 매우 열심인 듯했습니다.</p>
             <p>하지만 <span class="character-eunju">은주</span>가 땅값을 당신이 감당할 수 있는 것보다 높게 불러서 상황이 여의치 않았습니다. 하루 종일 더 많은 돈을 마련하기 위해 전화도 하고, <span class="character-eunju">은주</span>에게 가격을 낮춰 달라고 설득하기도 했습니다.</p>
     </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_4단계_비밀
+파일명 : p_<span class="character-haejun">정해준</span>_4단계_비밀
 
 ### [clue_p_haejun_5_know]
 
@@ -2071,11 +2389,14 @@ HTML :
       <p>오후 5시 15분에 다시 <span class="character-eunju">은주</span>를 만났습니다. 함께 지하 숙성 토굴에서 아늑한 구석을 찾아 여러 전통주를 시음하며 도가 매각에 대해 이야기했습니다.</p>
       <p>두 사람이 아직 술을 마시고 있을 때, 조명이 깜박이다가 꺼졌습니다. 토굴 반대편에서 누군가 비명을 지르는 소리를 들었습니다. <span class="character-eunju">은주</span>는 당신에게 그 자리에 있으라고 말하고 확인하러 갔습니다. 그것이 그녀가 살아 있는 마지막 모습이었습니다.</p>
     </div>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_5단계_아는 것
+파일명 : p_<span class="character-haejun">정해준</span>_5단계_아는 것
 
 ### [clue_p_haejun_5_secret]
 
@@ -2104,11 +2425,14 @@ HTML :
             <p><span class="character-danhee">단희</span>는 그 땅 뒷산에 수십억 원 상당의 일제강점기 금괴가 묻혀 있다는 이야기를 해주었습니다. 그녀의 계획은 다소 무모했지만, 계속해서 실적을 올리고 싶어 안달이 났고 이 거래로 당신에게 좋은 수익을 약속했습니다.</p>
             <p>오후 2시 15분경, <span class="character-danhee">박단희</span>가 몰래 당신의 차로 와서 수면제 한 병을 건네주었습니다. 그녀는 그것을 빻아서 주머니에 넣어 가지고 있으라 말했습니다. 만약 <span class="character-eunju">은주</span>가 매각을 거부하면, 기회가 생길 때 그녀의 음료에 몰래 타라고 했습니다.</p>
     </div>
+    <div class="guide-notice type-warning">
+      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
+    </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_5단계_비밀
+파일명 : p_<span class="character-haejun">정해준</span>_5단계_비밀
 
 ### [clue_p_haejun_6_know]
 
@@ -2136,42 +2460,14 @@ HTML :
       <p>오늘 일찍, <span class="character-eunju">은주</span>인 줄 알고 <span class="character-eunji">강은지</span>에게 부지의 범위에 대해 질문을 했습니다. 그러나 <span class="character-eunji">은지</span>가 자신은 <span class="character-eunju">은주</span> 언니가 아니라고 말하며 당신의 질문을 끊었습니다. <span class="character-eunji">은지</span>와 <span class="character-eunju">은주</span>는 거의 똑같이 생겼습니다.</p>
             <p><span class="character-eunju">강은주</span>가 남긴 유서 메모([비밀단서#4])에 적힌 필체를 알아챘습니다. 그 필체는 개척자 은금이 쓴 편지([비밀단서#3]) 아래쪽에 낙서한 글씨와 일치합니다.</p>
     </div>
-  </div>
-</div>
-이미지생성용 프롬프트: 없음
-장소 : 없음
-파일명 : p_정해준_6단계_아는 것
-
-### [clue_p_haejun_6_secret]
-
-이름 : 당신의 비밀#4
-유형 : 통찰
-단계 : 6단계
-소모AP : 0
-정렬순서 : 609
-중요도 : 보통
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : Y
-관련 : 정해준
-의도 : 캐릭터 개인의 속마음 및 정보
-내용 :
-해당 단계에서 캐릭터가 알고 있는 정보 또는 숨기고 있는 비밀.
-HTML :
-<div class="story-content">
-  <div class="document-page type-secret">
-    <div class="document-body small">
-      <p>더 이상 감출 비밀이 없습니다.</p>
+    <div class="guide-notice type-info">
+      아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_6단계_비밀
+파일명 : p_<span class="character-haejun">정해준</span>_6단계_아는 것
 
 ### [clue_p_danhee_ending]
 이름 : 자백코드: [미스터리]
@@ -2207,7 +2503,7 @@ HTML :
       "마지막으로 범행 수단입니다. <span class="character-eunju">은주</span> 씨는 목에 순금 장식이 달린 전통 비녀가 꽂힌 채 발견되었어요. 오늘 오전에 그녀는 그 비녀가 <span class="character-dohun">최도훈</span> 씨가 선물한 것이라며 제게 보여주었죠. 심지어 거기엔 이름까지 새겨져 있다고 했어요.<br>
       그런데 오늘 오후 1시쯤, <span class="character-eunju">은주</span> 씨가 뒷마당 정자에서 벌에 쏘이는 바람에 그 비녀를 정자 근처 풀밭에 떨어뜨렸다고 하더군요. 그녀는 약을 바르기 위해 급히 본채로 돌아갔고요.<br>
       그렇다면 답은 간단합니다. 오늘 낮, 정자에 있었던 사람들만이 <span class="character-eunju">은주</span> 씨를 살해하는 데 쓰인 흉기에 접근할 수 있었다는 뜻이죠. 그러니, 저는 절대 범인이 아닙니다."
-
+    </p>
     <p class="confession-next-call">
       낭독을 모두 마치셨다면, 다음 낭독자를 지목하기 위해 아래 문장을 소리 내어 읽어주십시오:<br>
       👉 <strong>"다음은 '자백코드: [혼란]' 단서를 가진 분 차례입니다. 단서의 비밀코드는 '1545'입니다."</strong>
@@ -2216,10 +2512,10 @@ HTML :
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_박단희_자백
+파일명 : p_<span class="character-danhee">박단희</span>_자백
 
-### [clue_p_dohun_ending]
-이름 : 자백코드: [광기]
+### [clue_p_haejun_ending]
+이름 : 자백코드: [혼란]
 유형 : 정보
 단계 : 마지막 단서 단계
 소모AP : 0
@@ -2229,48 +2525,143 @@ HTML :
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 비밀코드 '1845' 입력
+획득 조건 내용 : 비밀코드 '1545' 입력
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 최도훈
+관련 : 정해준
 의도 : 최종 자백
 내용 :
-최도훈의 최종 자백 진술서.
+정해준의 최종 자백 진술서.
 HTML :
 <div class="story-content">
   <div class="confession-box">
     <p class="guide-text">
-      ※ <strong>마지막 자백 낭독자입니다.</strong> 이전 낭독자에 이어서 아래 진술을 소리 내어 낭독하십시오.
+      ※ <strong>두 번째 자백 낭독자입니다.</strong> 이전 낭독자에 이어서 아래 진술을 소리 내어 낭독하십시오.
     </p>
     <p class="confession-speech">
-      "저는 제 첫사랑 <span class="character-eunju">강은주</span>를 단 한 순간도 잊은 적이 없습니다. 홧김에 그녀의 여동생인 <span class="character-eunji">은지</span>와 결혼한 이후에도, 제 마음속엔 늘 <span class="character-eunju">은주</span>만이 자리하고 있었죠.<br>
-      이번에 이 <span class="emphasis">은금도가</span>에 오게 된 건 단지 직장이 위태로워 돈을 빌리려는 목적뿐만이 아니었습니다. <span class="character-eunji">은지</span>와의 이 지긋지긋하고 파탄 난 결혼 생활을 영원히 끝내고, 마침내 <span class="character-eunju">은주</span>와 새로운 삶을 시작하고 싶었기 때문입니다.<br>
-      저는 떨리는 마음으로 <span class="character-eunju">은주</span>에게 제 이름이 새겨진 순금 비녀를 선물하며 제 오랜 진심을 전했습니다.<br>
-      하지만 <span class="character-eunju">은주</span>는 예전의 제 배신을 도저히 용서할 수 없다며 절 차갑게 밀어냈습니다. 비참했지만, 그럼에도 전 여전히 그녀를 사랑했고 언젠가는 제 진심을 알아줄 거라 굳게 믿고 있었습니다."<br><br>
-      "그런데 오늘 밤, 제 세계가 무너져 내렸습니다. 마당 정자에서 제 아내 <span class="character-eunji">은지</span>가 새파랗게 어린 도가 일꾼 <span class="character-hyunsu">류현수</span>와 엉겨 붙어 입을 맞추는 광경을 똑똑히 목격한 겁니다.<br>
-      그 더러운 모습을 본 순간, 견딜 수 없는 분노와 모멸감에 휩싸였고 당장 그 자리에서 두 년놈을 찢어 죽여버리고 싶은 충동이 일었습니다.<br>
-      바로 그때였습니다. 정자 근처 풀밭에 제가 <span class="character-eunju">은주</span>에게 선물했던 그 순금 비녀가 버려지듯 떨어져 있는 것을 발견했습니다. 순간, 마치 이것이 신이 내린 계시이자 처벌의 도구라는 생각이 들었고 저는 홀린 듯 비녀를 주머니에 챙겼습니다."<br><br>
-      "잠시 후 밀회를 마친 두 사람이 자리를 떴고, 저는 분노에 차 <span class="character-hyunsu">류현수</span>의 뒤를 밟아 지하 숙성 토굴로 향했습니다.<br>
-      그가 토굴 구석의 배전반 스위치를 내리고 노출된 전선을 점검하기 시작한 순간, 저는 어둠 속에서 몰래 전기 박스로 다가가 스위치를 다시 확 올려버렸습니다.<br>
-      날카로운 스파크가 튀는 굉음과 함께 퓨즈가 나갔고, 토굴 전체가 완전한 어둠에 잠겼습니다. 그리고 곧바로 <span class="character-eunji">은지</span>의 비명 소리가 들렸죠. 아마 뒤따라온 아내가 <span class="character-hyunsu">류현수</span>가 감전되어 쓰러지는 장면을 목격한 듯했습니다."<br><br>
-      "전 복수심에 불타 칠흑 같은 토굴 속을 더듬으며 비명이 들린 쪽으로 천천히 다가갔습니다.<br>
-      그리고 어느 순간, 눈앞에 <span class="character-eunji">은지</span>라고 생각되는 익숙한 체형의 여성 실루엣이 나타났습니다. 저는 일말의 망설임도 없이 주머니에서 예리한 비녀를 꺼내, 그녀의 목덜미를 향해 힘껏 내리꽂았습니다.<br>
-      그녀는 짧은 신음과 함께 붉은 피를 쏟으며 바닥에 힘없이 쓰러졌습니다."<br><br>
-      "모든 복수를 마쳤다고 생각한 저는 아무렇지 않은 척 본채로 돌아와 사람들과 합류했습니다.<br>
-      하지만 거실에 모여든 사람들 사이에, 놀랍게도 제 아내 <span class="character-eunji">은지</span>가 너무나 멀쩡한 얼굴로 서 있는 것을 보았습니다. 그 순간, 제 심장이 얼어붙는 것 같았습니다.<br>
-      제 끔찍하고도 돌이킬 수 없는 실수를 깨달은 겁니다. 지하 숙성 토굴에서 비명을 듣고 달려왔던 그 여성은... 바로 수면제 기운에 취해 비틀거리던 <span class="character-eunju">은주</span>였던 것입니다."<br><br>
-      "캄캄한 어둠 속에서 저는 체형마저 비슷했던 두 자매를 구별하지 못했고, 결국 제 손으로 죽이려 했던 증오스러운 아내가 아니라... 제가 평생을 바쳐 사랑해 온 단 한 사람, <span class="character-eunju">강은주</span>의 목숨을 앗아가고 만 것입니다.<br>
-      결국, 저는 세상에서 가장 사랑하는 여인을 제 손으로 찔러 죽인 비참한 괴물이 되었습니다.<br>
-      네... 제가 바로 <span class="character-eunju">강은주</span>를 죽인 살인자입니다."
-
+      "오늘 오후, 저는 <span class="character-eunju">강은주</span> 씨와 함께 정자에 있었습니다. 그녀가 제게 <span class="emphasis">은금도가</span> 주변을 안내해주고 있었죠.<br>
+      벌에 쏘여 당황한 <span class="character-eunju">은주</span> 씨가 풀밭에 비녀를 떨어뜨렸을 때, 물론 제가 그걸 주울 수도 있었을 겁니다. 하지만 전 그러지 않았어요. 제 신경은 온통 다른 곳에 쏠려 있었거든요."<br><br>
+      "사실 저는 여러분이 아는 그런 대형 리조트 개발업자가 아닙니다. 서울의 한 부동산 컨설팅 회사에서 일하는 말단 인턴일 뿐이죠. 제 진짜 목적은 이 <span class="emphasis">은금도가</span>를 어떻게든 헐값에 사들이는 것이었습니다.<br>
+      그런데 겉보기와 다른 건 저뿐만이 아니더군요. 제 사촌 누나인 <span class="character-danhee">박단희</span> 역시 <span class="character-eunju">은주</span> 씨의 가장 친한 친구인 척 행세했지만, 속내는 전혀 달랐습니다.<br>
+      누나는 <span class="character-hyunsu">류현수</span>의 향토사 조사를 돕던 중, 도가 뒷산에 일제강점기 시절의 군용 금괴가 숨겨져 있다는 엄청난 단서를 발견했어요. 놀랍게도 그 사실을 제게도 숨기고 있었죠."<br><br>
+      "처음 우리의 계획은 <span class="emphasis">은금도가</span>를 정식으로 매입하는 것이었습니다. 제가 헐값에 도가를 사들인 뒤, 누나에게 넘겨 적당한 차익을 챙기는 구조였죠.<br>
+      하지만 <span class="character-eunju">은주</span> 씨가 부르는 값은 턱없이 비쌌습니다. 그녀를 도저히 설득할 수 없게 되자, 누나는 결국 다음 단계로 넘어갔습니다. 이 시골 마을의 지루한 삶에서 벗어나고 싶었던 누나에게, 뒷산의 금괴는 완벽한 경제적 자유를 의미했으니까요.<br>
+      제가 <span class="character-eunju">은주</span> 씨와 도가를 둘러보며 시선을 끄는 동안, 누나는 그녀의 방에서 수면제를 훔쳐냈습니다. 그리고 나중에 제가 통화하는 척할 때 그걸 몰래 제게 건네주었죠.<br>
+      저는 그 수면제를 가루로 빻아 저녁 시음회 소주에 섞었고, <span class="character-eunju">은주</span> 씨가 그걸 마시게 했습니다. 그 사이 누나는 <span class="character-eunju">은주</span> 씨의 유서를 위조했습니다. 그 유서에는 놀랍게도 누나 본인이 도가를 상속받는다는 내용이 적혀 있었어요."<br><br>
+      "네, 맞습니다. 누나는 도가를 통째로 가로채려 했고, 저는 그 거래에서 완전히 버려질 뻔했던 겁니다.<br>
+      만약 누나가 절 배신하려 했다는 걸 미리 알았더라면, 그런 말도 안 되는 끔찍한 계획엔 절대 동참하지 않았을 겁니다.<br>
+      인정합니다. 제가 수면제를 먹여 <span class="character-eunju">은주</span> 씨를 잠재우고 해치려 했던 건 사실입니다. 하지만 맹세컨대, 누군가가 저보다 먼저 그녀를 죽였습니다.<br>
+      저는 절대로 그녀의 목에 비녀를 꽂지 않았습니다."
+    </p>
     <p class="confession-next-call">
-      <strong>(※ 최도훈의 충격적인 자백이 끝나며, 은금도가에 감춰져 있던 비극적인 살인 사건의 모든 진상이 밝혀집니다.)</strong>
+      낭독을 모두 마치셨다면, 다음 낭독자를 지목하기 위해 아래 문장을 소리 내어 읽어주십시오:<br>
+      👉 <strong>"다음은 '자백코드: [살인자]' 단서를 가진 분 차례입니다. 단서의 비밀코드는 '0112'입니다."</strong>
     </p>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_최도훈_자백
+파일명 : p_<span class="character-haejun">정해준</span>_자백
+
+### [clue_p_seoyeon_ending]
+이름 : 자백코드: [살인자]
+유형 : 타임라인
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 999
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 비밀코드 '0112' 입력
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 백서연
+의도 : 최종 자백
+내용 :
+백서연의 최종 자백 진술서.
+HTML :
+<div class="story-content">
+  <div class="confession-box">
+    <p class="guide-text">
+      ※ <strong>세 번째 자백 낭독자입니다.</strong> 이전 낭독자에 이어서 아래 진술을 소리 내어 낭독하십시오.
+    </p>
+    <p class="confession-speech">
+      "그래요... 저는 <span class="character-haejun">정해준</span> 씨의 거짓말에 완전히 속아 넘어갔습니다.<br>
+      그가 <span class="emphasis">은금도가</span> 일대를 대형 리조트로 싹 밀어버릴 거라는 말에, 전 정말로 겁이 났어요. 서울에서 겪은 최악의 방송국 스캔들로 모든 걸 잃고 이곳에 겨우 정착한 상태였으니까요.<br>
+      만약 <span class="character-eunju">은주</span> 씨가 도가를 팔아버린다면 제 전원주택의 가치는 바닥을 칠 테고, 전 정말로 무일푼이 될 위기였습니다."<br><br>
+      "하지만 그렇다고 해서 제가 단지 돈 때문에 <span class="character-eunju">은주</span> 씨를 죽였다고요? 천만의 말씀입니다.<br>
+      저는 6개월 전, <span class="character-eunju">은주</span> 씨가 남편인 <span class="character-kitae">남기태</span> 사장을 죽였을 거라고 굳게 의심해 왔습니다. 왜냐고요? 제가 <span class="character-kitae">기태</span> 씨를 깊이 사랑했기 때문입니다. 네, 우리는 은밀한 불륜 관계였어요.<br>
+      그가 죽은 뒤 단순 사고로 덮이는 걸 저는 도저히 견딜 수 없었습니다. 그래서 <span class="character-eunju">은주</span> 씨의 살인 행각을 낱낱이 밝혀내고, 그 진실을 제 다음 범죄 심리 소설의 소재로 쓰는 것만이 제 마지막 사명이라고 생각했죠."<br><br>
+      "처음에는 <span class="character-eunju">은주</span> 씨가 거액의 생명보험금을 노리고 남편을 죽였을 거라 확신했습니다.<br>
+      그런데 막상 조사해 보니, 그녀가 남편의 죽음 이후 오히려 끔찍한 재정난에 시달리고 있다는 사실을 알게 되었고 전 큰 충격을 받았습니다. 제 가설이 완전히 틀렸던 거죠.<br>
+      그래서 저는 도가 내부의 진짜 비밀을 캐내기 위해 수단과 방법을 가리지 않았습니다. 도가의 젊은 일꾼, <span class="character-hyunsu">류현수</span>와 잠자리를 가지면서까지 내부 소식을 빼내려 했으니까요."<br><br>
+      "그리고 바로 오늘, 저는 마침내 <span class="character-kitae">기태</span> 씨를 죽인 진짜 범인의 흔적을 찾아내고야 말았습니다!<br>
+      사망 직후의 은행 거래 기록, 비밀번호, 그리고 은밀하게 오간 자금 내역들... 그 모든 증거들을 맞춰본 순간 깨달았죠. <span class="character-kitae">남기태</span> 씨를 죽인 진범은 결코 <span class="character-eunju">은주</span> 씨가 아니라는 사실을요.<br>
+      저는 그 증거를 들고 <span class="character-eunju">은주</span> 씨를 찾아갔지만, 그녀는 현실을 부정하며 받아들이려 하지 않았습니다. 하지만 이제 와선 아무래도 상관없어요.<br>
+      <span class="character-kitae">기태</span> 씨를 죽인 진범이 누구인지는... 곧 출간될 제 다음 책에서 세상에 전부 폭로될 테니까요. 그런데 <span class="character-eunju">은주</span> 씨의 마지막 죽음만큼은... 저조차도 도무지 이해할 수가 없네요."
+    </p>
+    <p class="confession-next-call">
+      낭독을 모두 마치셨다면, 다음 낭독자를 지목하기 위해 아래 문장을 소리 내어 읽어주십시오:<br>
+      👉 <strong>"다음은 '자백코드: [악의]' 단서를 가진 분 차례입니다. 단서의 비밀코드는 '0220'입니다."</strong>
+    </p>
+  </div>
+</div>
+이미지생성용 프롬프트: 없음
+장소 : 없음
+파일명 : p_<span class="character-seoyeon">백서연</span>_자백
+
+### [clue_p_hyunsu_ending]
+이름 : 자백코드: [악의]
+유형 : 정보
+단계 : 마지막 단서 단계
+소모AP : 0
+정렬순서 : 999
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 비밀코드 '0220' 입력
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 류현수
+의도 : 최종 자백
+내용 :
+류현수의 최종 자백 진술서.
+HTML :
+<div class="story-content">
+  <div class="confession-box">
+    <p class="guide-text">
+      ※ <strong>네 번째 자백 낭독자입니다.</strong> 이전 낭독자에 이어서 아래 진술을 소리 내어 낭독하십시오.
+    </p>
+    <p class="confession-speech">
+      "그래요, 솔직히 말하겠습니다. 전 <span class="character-kitae">남기태</span> 사장을 좋아한 적이 단 한 번도 없어요.<br>
+      그 인간 역시 저를 벌레 보듯 싫어했죠. 그는 늘 사모님과 저의 관계를 의심하며 주시했습니다.<br>
+      사모님은 오갈 데 없는 저를 무척이나 아껴주셨지만, 맹세코 우리 사이에 육체적인 관계는 없었어요. 하지만 사장이 저를 불신했던 데에는 그만한 이유가 있긴 했습니다."<br><br>
+      "사실 저는 1년 전에 대학을 자퇴한 게 아니라 퇴학당했습니다. 대마초 소지와 판매 시도 혐의로 경찰에 체포되어 잠시 복역까지 했고, 출소 후 도망치듯 남쪽으로 떠나온 거였죠.<br>
+      그래도 이곳에 와서는 꽤나 잘 지냈습니다. 사모님은 제가 다시 대학에 다닐 수 있도록 물심양면으로 도와주셨고, 마을 사서인 <span class="character-danhee">박단희</span> 씨마저 제게 완전히 푹 빠져 있었으니까요.<br>
+      그런데 사장이 그 평화로운 일상을 산산조각 내려고 했습니다. 제 과거를 파고들더니, 결국 숨기고 싶었던 제 범죄 기록을 모조리 알아내고야 만 겁니다."<br><br>
+      "그러던 어느 날, 제가 안방에서 몰래 그의 비밀 장부를 뒤지고 있을 때 사장과 정면으로 마주치고 말았습니다.<br>
+      그는 길길이 날뛰며 당장 경찰에 전화를 걸려 했어요. 그 순간, 저도 이성의 끈을 놓았습니다. 그가 수화기를 들려는 찰나, 옆에 놓여 있던 무거운 놋쇠 촛대를 집어 들어 그의 머리를 힘껏 내리쳤어요.<br>
+      그리고... 차갑게 식은 사장의 시신을 어두운 은금 저수지에 내다 버렸습니다.<br>
+      하지만 전 치명적인 실수를 저질렀습니다. 시신이 가라앉도록 무거운 돌을 매달지 않았던 겁니다. 결국 몇 주 뒤 시신은 수면 위로 떠올랐고, 수사가 시작됐죠.<br>
+      전 다급히 흉기인 촛대를 깨끗이 닦아낸 뒤, 그걸 <span class="character-danhee">박단희</span> 씨에게 생일 선물이라며 넘겨버렸습니다. 네, 저도 압니다. 그게 얼마나 기가 막히고 미친 짓이었는지."<br><br>
+      "만약 사모님께서 제가 남편을 죽인 진범이란 사실을 눈치채셨다면... 솔직히 말해 전 제 살길을 위해 사모님마저 죽여야 했을 겁니다.<br>
+      오늘 오후 5시 30분쯤, 저는 <span class="character-eunji">강은지</span> 씨와 함께 뒷마당 정자에서 은밀한 시간을 보내고 있었습니다. 그 시간대라면 저나 <span class="character-eunji">은지</span> 씨, 둘 중 누구라도 그 순금 비녀를 주울 수 있었을 테고요. 비록 절 믿어줄 사람은 없겠지만, 전 맹세코 그 비녀를 건드리지 않았습니다.<br>
+      게다가 사모님이 살해당하던 그 시각, 저는 지하 숙성 토굴에서 배전반 전기 작업을 하다가 누군가의 장난으로 감전되어 의식을 잃고 쓰러져 있었습니다.<br>
+      이건 <span class="character-eunji">은지</span> 씨가 증명해 줄 수 있을 겁니다. 그러니, 적어도 오늘 사모님을 찌른 살인자는 절대 제가 아닙니다."
+    </p>
+    <p class="confession-next-call">
+      낭독을 모두 마치셨다면, 다음 낭독자를 지목하기 위해 아래 문장을 소리 내어 읽어주십시오:<br>
+      👉 <strong>"다음은 '자백코드: [흑막]' 단서를 가진 분 차례입니다. 단서의 비밀코드는 '1818'입니다."</strong>
+    </p>
+  </div>
+</div>
+이미지생성용 프롬프트: 없음
+장소 : 없음
+파일명 : p_<span class="character-hyunsu">류현수</span>_자백
 
 ### [clue_p_eunji_ending]
 이름 : 자백코드: [흑막]
@@ -2306,13 +2697,13 @@ HTML :
       "그래서 전 언니를 찾아가 남편에게 폭행당하고 있다고 거짓말하며 동정심을 유발했습니다.<br>
       제발 끔찍한 남편에게서 벗어나 새 삶을 시작할 수 있게 돈 좀 빌려달라고 매달렸죠. 하지만 언니는 눈 하나 깜짝 않고 제 간절한 부탁을 매몰차게 거절했습니다.<br>
       그런데 더 끔찍한 사실을 알게 되었어요. 제 남편이란 작자가 여전히 언니를 잊지 못해 사랑하고 있었고, 호시탐탐 다시 언니 곁으로 돌아갈 속셈을 꾸미고 있었다는 걸요. 그 사실을 깨달았을 때 제 심정은 이루 말할 수 없이 비참하고 참담했습니다."<br><br>
-      "그러던 중, 제 머릿속에 문득 서늘한 생각이 스쳤습니다.<br>
+      "그러던 중, 제 머릿속에 문득 섬뜩한 생각이 스쳤습니다.<br>
       만약... 언니가 갑자기 죽게 된다면? 그녀의 유일한 혈육인 제가 이 거대한 <span class="emphasis">은금도가</span>를 전부 상속받게 되겠죠. 그럼 전 한순간에 엄청난 부를 손에 거머쥘 수 있는 겁니다.<br>
       물론 그렇게 되면 그 막대한 재산을 징그러운 남편과 나누어야 한다는 치명적인 문제가 남았습니다. 그래서 저는 아주 현실적이고 치밀한 계획을 세웠습니다.<br>
       언니를 처리하기 전에... 먼저 남편과 이혼 도장부터 찍자고 말입니다."<br><br>
       "하지만 오늘 밤의 살인만큼은 절대 제 짓이 아닙니다. 언니가 살해당하던 바로 그 시각, 저를 지켜본 목격자가 확실히 계시거든요.<br>
-      <span class="character-seoyeon">백서연</span> 박사님께서 그 시각 본채 근처에서 제 모습을 똑똑히 보셨습니다. 박사님께서 제 결백을 완벽하게 증명해 주실 겁니다."
-
+      <span class="character-seoyeon">백서연</span> 작가님께서 그 시각 본채 근처에서 제 모습을 똑똑히 보셨습니다. 작가님께서 제 결백을 완벽하게 증명해 주실 겁니다."
+    </p>
     <p class="confession-next-call">
       낭독을 모두 마치셨다면, 다음 낭독자를 지목하기 위해 아래 문장을 소리 내어 읽어주십시오:<br>
       👉 <strong>"다음은 '자백코드: [광기]' 단서를 가진 분 차례입니다. 단서의 비밀코드는 '1845'입니다."</strong>
@@ -2321,10 +2712,10 @@ HTML :
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_강은지_자백
+파일명 : p_<span class="character-eunji">강은지</span>_자백
 
-### [clue_p_haejun_ending]
-이름 : 자백코드: [혼란]
+### [clue_p_dohun_ending]
+이름 : 자백코드: [광기]
 유형 : 정보
 단계 : 마지막 단서 단계
 소모AP : 0
@@ -2334,141 +2725,45 @@ HTML :
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 비밀코드 '1545' 입력
+획득 조건 내용 : 비밀코드 '1845' 입력
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 정해준
+관련 : 최도훈
 의도 : 최종 자백
 내용 :
-정해준의 최종 자백 진술서.
+최도훈의 최종 자백 진술서.
 HTML :
 <div class="story-content">
   <div class="confession-box">
     <p class="guide-text">
-      ※ <strong>두 번째 자백 낭독자입니다.</strong> 이전 낭독자에 이어서 아래 진술을 소리 내어 낭독하십시오.
+      ※ <strong>마지막 자백 낭독자입니다.</strong> 이전 낭독자에 이어서 아래 진술을 소리 내어 낭독하십시오.
     </p>
     <p class="confession-speech">
-      "오늘 오후, 저는 <span class="character-eunju">강은주</span> 씨와 함께 정자에 있었습니다. 그녀가 제게 <span class="emphasis">은금도가</span> 주변을 안내해주고 있었죠.<br>
-      벌에 쏘여 당황한 <span class="character-eunju">은주</span> 씨가 풀밭에 비녀를 떨어뜨렸을 때, 물론 제가 그걸 주울 수도 있었을 겁니다. 하지만 전 그러지 않았어요. 제 신경은 온통 다른 곳에 쏠려 있었거든요."<br><br>
-      "사실 저는 여러분이 아는 그런 대형 리조트 개발업자가 아닙니다. 서울의 한 부동산 컨설팅 회사에서 일하는 말단 인턴일 뿐이죠. 제 진짜 목적은 이 <span class="emphasis">은금도가</span>를 어떻게든 헐값에 사들이는 것이었습니다.<br>
-      그런데 겉보기와 다른 건 저뿐만이 아니더군요. 제 사촌 누나인 <span class="character-danhee">박단희</span> 역시 <span class="character-eunju">은주</span> 씨의 가장 친한 친구인 척 행세했지만, 속내는 전혀 달랐습니다.<br>
-      <span class="character-danhee">누나</span>는 <span class="character-hyunsu">류현수</span>의 향토사 조사를 돕던 중, 도가 뒷산에 일제강점기 시절의 군용 금괴가 숨겨져 있다는 엄청난 단서를 발견했어요. 놀랍게도 그 사실을 제게도 숨기고 있었죠."<br><br>
-      "처음 우리의 계획은 <span class="emphasis">은금도가</span>를 정식으로 매입하는 것이었습니다. 제가 헐값에 도가를 사들인 뒤, <span class="character-danhee">누나</span>에게 넘겨 적당한 차익을 챙기는 구조였죠.<br>
-      하지만 <span class="character-eunju">은주</span> 씨가 부르는 값은 턱없이 비쌌습니다. 그녀를 도저히 설득할 수 없게 되자, <span class="character-danhee">누나</span>는 극단적인 다음 단계로 넘어갔습니다. 이 시골 마을의 지루한 삶에서 벗어나고 싶었던 <span class="character-danhee">누나</span>에게, 뒷산의 금괴는 완벽한 경제적 자유를 의미했으니까요.<br>
-      제가 <span class="character-eunju">은주</span> 씨와 도가를 둘러보며 시선을 끄는 동안, <span class="character-danhee">누나</span>는 그녀의 방에서 수면제를 훔쳐냈습니다. 그리고 나중에 제가 통화하는 척할 때 그걸 몰래 제게 건네주었죠.<br>
-      저는 그 수면제를 가루로 빻아 저녁 시음회 소주에 섞었고, <span class="character-eunju">은주</span> 씨가 그걸 마시게 했습니다. 그 사이 <span class="character-danhee">누나</span>는 <span class="character-eunju">은주</span> 씨의 유서를 위조했습니다. 그 유서에는 놀랍게도 <span class="character-danhee">누나</span> 본인이 도가를 상속받는다는 내용이 적혀 있었어요."<br><br>
-      "네, 맞습니다. <span class="character-danhee">누나</span>는 도가를 통째로 가로채려 했고, 저는 그 거래에서 완전히 버려질 뻔했던 겁니다.<br>
-      만약 <span class="character-danhee">누나</span>가 절 배신하려 했다는 걸 미리 알았더라면, 그런 말도 안 되는 끔찍한 계획엔 절대 동참하지 않았을 겁니다.<br>
-      인정합니다. 제가 수면제를 먹여 <span class="character-eunju">은주</span> 씨를 잠재우고 해치려 했던 건 사실입니다. 하지만 맹세컨대, 누군가가 저보다 먼저 그녀를 죽였습니다.<br>
-      저는 절대로 그녀의 목에 비녀를 꽂지 않았습니다."
-
+      "저는 제 첫사랑 <span class="character-eunju">강은주</span>를 단 한 순간도 잊은 적이 없습니다. 홧김에 그녀의 여동생인 <span class="character-eunji">은지</span>와 결혼한 이후에도, 제 마음속엔 늘 <span class="character-eunju">은주</span>만이 자리하고 있었죠.<br>
+      이번에 이 <span class="emphasis">은금도가</span>에 오게 된 건 단지 직장이 위태로워 돈을 빌리려는 목적뿐만이 아니었습니다. <span class="character-eunji">은지</span>와의 이 지긋지긋하고 파탄 난 결혼 생활을 영원히 끝내고, 마침내 <span class="character-eunju">은주</span>와 새로운 삶을 시작하고 싶었기 때문입니다.<br>
+      저는 떨리는 마음으로 <span class="character-eunju">은주</span>에게 그녀의 이름이 새겨진 순금 비녀를 선물하며 제 오랜 진심을 전했습니다.<br>
+      하지만 <span class="character-eunju">은주</span>는 예전의 제 배신을 도저히 용서할 수 없다며 절 차갑게 밀어냈습니다. 비참했지만, 그럼에도 전 여전히 그녀를 사랑했고 언젠가는 제 진심을 알아줄 거라 굳게 믿고 있었습니다."<br><br>
+      "그런데 오늘 밤, 그 믿음이 무너져 내렸습니다. 마당 정자에서 제 아내 <span class="character-eunji">은지</span>가 새파랗게 어린 도가 일꾼 <span class="character-hyunsu">류현수</span>와 엉겨 붙어 입을 맞추는 광경을 똑똑히 목격한 겁니다.<br>
+      그 더러운 모습을 본 순간, 견딜 수 없는 분노와 모멸감에 휩싸였고 당장 그 자리에서 둘 다 죽여버리고 싶은 충동이 일었습니다.<br>
+      바로 그때였습니다. 정자 근처 풀밭에 제가 <span class="character-eunju">은주</span>에게 선물했던 그 순금 비녀가 버려지듯 떨어져 있는 것을 발견했습니다. 순간, 마치 이것이 신이 내린 계시라는 생각이 들었고 저는 홀린 듯 비녀를 주머니에 챙겼습니다."<br><br>
+      "잠시 후 밀회를 마친 두 사람이 자리를 떴고, 저는 분노에 차 <span class="character-hyunsu">류현수</span>의 뒤를 밟아 지하 숙성 토굴로 향했습니다.<br>
+      그가 토굴 구석의 배전반 스위치를 내리고 노출된 전선을 점검하기 시작한 순간, 저는 어둠 속에서 몰래 전기 박스로 다가가 스위치를 다시 확 올려버렸습니다.<br>
+      날카로운 스파크가 튀는 굉음과 함께 퓨즈가 나갔고, 토굴 전체가 완전한 어둠에 잠겼습니다. 그리고 곧바로 <span class="character-eunji">은지</span>의 비명 소리가 들렸죠. 아마 뒤따라온 아내가 <span class="character-hyunsu">류현수</span>가 감전되어 쓰러지는 장면을 목격한 듯했습니다."<br><br>
+      "전 복수심에 불타 칠흑 같은 토굴 속을 더듬으며 비명이 들린 쪽으로 천천히 다가갔습니다.<br>
+      그리고 어느 순간, 눈앞에 <span class="character-eunji">은지</span>가 나타났습니다. 저는 일말의 망설임도 없이 주머니에서 예리한 비녀를 꺼내, 그녀의 목덜미를 향해 힘껏 내리꽂았습니다.<br>
+      그녀는 짧은 신음과 함께 붉은 피를 쏟으며 바닥에 힘없이 쓰러졌습니다."<br><br>
+      "모든 복수를 마쳤다고 생각한 저는 아무렇지 않은 척 본채로 돌아와 사람들과 합류했습니다.<br>
+      하지만 거실에 모여든 사람들 사이에, 놀랍게도 제 아내 <span class="character-eunji">은지</span>가 너무나 멀쩡한 얼굴로 서 있는 것을 보았습니다. 그 순간, 제 심장이 얼어붙는 것 같았습니다.<br>
+      제 끔찍하고도 돌이킬 수 없는 실수를 깨달은 겁니다. 지하 숙성 토굴에서 비명을 듣고 달려왔던 그 여성은... 바로 <span class="character-eunju">은주</span>였던 것입니다."<br><br>
+      "캄캄한 어둠 속에서 저는 체형마저 비슷했던 두 자매를 구별하지 못했고, 결국 제 손으로 죽이려 했던 증오스러운 아내가 아니라... 제가 평생을 바쳐 사랑해 온 단 한 사람, <span class="character-eunju">강은주</span>의 목숨을 앗아가고 만 것입니다.<br>
+      결국, 저는 세상에서 가장 사랑하는 여인을 제 손으로 찔러 죽인 비참한 괴물이 되었습니다.<br>
+      네... 제가 바로 <span class="character-eunju">강은주</span>를 죽인 살인자입니다."
+    </p>
     <p class="confession-next-call">
-      낭독을 모두 마치셨다면, 다음 낭독자를 지목하기 위해 아래 문장을 소리 내어 읽어주십시오:<br>
-      👉 <strong>"다음은 '자백코드: [살인자]' 단서를 가진 분 차례입니다. 단서의 비밀코드는 '0112'입니다."</strong>
+      <strong>(※ <span class="character-dohun">최도훈</span>의 충격적인 자백이 끝나며, 은금도가에 감춰져 있던 비극적인 살인 사건의 모든 진상이 밝혀집니다.)</strong>
     </p>
   </div>
 </div>
 이미지생성용 프롬프트: 없음
 장소 : 없음
-파일명 : p_정해준_자백
-
-### [clue_p_hyunsu_ending]
-이름 : 자백코드: [악의]
-유형 : 정보
-단계 : 마지막 단서 단계
-소모AP : 0
-정렬순서 : 999
-중요도 : 높음
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : Y
-획득 조건 내용 : 비밀코드 '0220' 입력
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 류현수
-의도 : 최종 자백
-내용 :
-류현수의 최종 자백 진술서.
-HTML :
-<div class="story-content">
-  <div class="confession-box">
-    <p class="guide-text">
-      ※ <strong>네 번째 자백 낭독자입니다.</strong> 이전 낭독자에 이어서 아래 진술을 소리 내어 낭독하십시오.
-    </p>
-    <p class="confession-speech">
-      "그래요, 솔직히 말하겠습니다. 전 <span class="character-kitae">남기태</span> 사장을 좋아한 적이 단 한 번도 없어요.<br>
-      그 인간 역시 저를 벌레 보듯 싫어했죠. 그는 늘 사모님과 저의 관계를 의심하며 주시했습니다.<br>
-      맹세코 우리 사이에 육체적인 관계는 없었지만, 사모님은 오갈 데 없는 저를 무척이나 아껴주셨으니까요. 하지만 사장이 저를 불신했던 데에는 그만한 이유가 있긴 했습니다."<br><br>
-      "사실 저는 1년 전에 대학을 자퇴한 게 아니라 퇴학당했습니다. 대마초 소지와 판매 시도 혐의로 경찰에 체포되어 잠시 복역까지 했고, 출소 후 도망치듯 남쪽으로 떠나온 거였죠.<br>
-      그래도 이곳에 와서는 꽤 완벽하게 잘 지냈습니다. 사모님은 제가 다시 대학에 다닐 수 있도록 물심양면으로 도와주셨고, 마을 사서인 <span class="character-danhee">박단희</span> 씨마저 제게 완전히 푹 빠져 휘둘리고 있었으니까요.<br>
-      그런데 사장이 그 평화로운 일상을 산산조각 내려고 했습니다. 제 뒷조사를 파고들더니, 결국 숨기고 싶었던 제 범죄 기록을 모조리 알아내고야 만 겁니다."<br><br>
-      "그러던 어느 날, 제가 안방에서 몰래 그의 비밀 장부를 뒤지고 있을 때 사장과 정면으로 마주치고 말았습니다.<br>
-      그는 길길이 날뛰며 당장 경찰에 전화를 걸려 했죠. 그 순간, 제 몸이 이성을 앞서 움직였습니다. 그가 수화기를 들려는 찰나, 옆에 놓여 있던 무거운 놋쇠 촛대를 집어 들어 그의 머리를 힘껏 내리쳤습니다.<br>
-      그리고... 차갑게 식은 사장의 시신을 어두운 은금 저수지에 내다 버렸습니다.<br>
-      하지만 전 치명적인 실수를 저질렀습니다. 시신이 가라앉도록 무거운 돌을 매달지 않았던 겁니다. 결국 몇 주 뒤 시신은 수면 위로 떠올랐고, 수사가 시작됐죠.<br>
-      전 다급히 흉기인 촛대를 깨끗이 닦아낸 뒤, 어처구니없게도 그걸 <span class="character-danhee">박단희</span> 씨에게 생일 선물이라며 넘겨버렸습니다. 네, 저도 압니다. 그게 얼마나 기가 막히고 미친 짓이었는지."<br><br>
-      "만약 사모님께서 제가 남편을 죽인 진범이란 사실을 눈치채셨다면... 솔직히 말해 전 제 살길을 위해 사모님마저 죽여야 했을 겁니다.<br>
-      오늘 오후 5시 30분쯤, 저는 <span class="character-eunji">강은지</span> 씨와 함께 뒷마당 정자에서 은밀한 시간을 보내고 있었습니다. 그 시간대라면 저나 <span class="character-eunji">은지</span> 씨, 둘 중 누구라도 그 순금 비녀를 주울 수 있었겠죠. 비록 절 믿어줄 사람은 없겠지만, 전 맹세코 그 비녀를 건드리지 않았습니다.<br>
-      게다가 사모님이 살해당하던 그 시각, 저는 지하 숙성 토굴에서 배전반 전기 작업을 하다가 누군가의 장난으로 감전되어 의식을 잃고 쓰러져 있었습니다.<br>
-      이건 <span class="character-eunji">은지</span> 씨가 증명해 줄 수 있을 겁니다. 그러니, 적어도 오늘 사모님을 찌른 살인마는 절대 제가 아닙니다."
-
-    <p class="confession-next-call">
-      낭독을 모두 마치셨다면, 다음 낭독자를 지목하기 위해 아래 문장을 소리 내어 읽어주십시오:<br>
-      👉 <strong>"다음은 '자백코드: [흑막]' 단서를 가진 분 차례입니다. 단서의 비밀코드는 '1818'입니다."</strong>
-    </p>
-  </div>
-</div>
-이미지생성용 프롬프트: 없음
-장소 : 없음
-파일명 : p_류현수_자백
-
-### [clue_p_seoyeon_ending]
-이름 : 자백코드: [살인자]
-유형 : 타임라인
-단계 : 마지막 단서 단계
-소모AP : 0
-정렬순서 : 999
-중요도 : 높음
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : Y
-획득 조건 내용 : 비밀코드 '0112' 입력
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 백서연
-의도 : 최종 자백
-내용 :
-백서연의 최종 자백 진술서.
-HTML :
-<div class="story-content">
-  <div class="confession-box">
-    <p class="guide-text">
-      ※ <strong>세 번째 자백 낭독자입니다.</strong> 이전 낭독자에 이어서 아래 진술을 소리 내어 낭독하십시오.
-    </p>
-    <p class="confession-speech">
-  "그래요... 저는 <span class="character-haejun">정해준</span> 씨의 거짓말에 완전히 속아 넘어갔습니다.<br>
-  그가 <span class="emphasis">은금도가</span> 일대를 대형 리조트로 싹 밀어버릴 거라는 말에, 전 정말로 겁이 났어요. 서울에서 겪은 최악의 방송국 스캔들로 모든 걸 잃고 이곳에 겨우 정착한 상태였으니까요.<br>
-  만약 <span class="character-eunju">은주</span> 씨가 도가를 팔아버린다면 제 전원주택의 가치는 바닥을 칠 테고, 전 정말로 무일푼이 될 위기였습니다."<br><br>
-  "하지만 그렇다고 해서 제가 단지 돈 때문에 <span class="character-eunju">은주</span> 씨를 죽였다고요? 천만의 말씀입니다.<br>
-  저는 6개월 전, <span class="character-eunju">은주</span> 씨가 남편인 <span class="character-kitae">남기태</span> 사장을 죽였을 거라고 굳게 의심해 왔습니다. 왜냐고요? 제가 <span class="character-kitae">기태</span> 씨를 깊이 사랑했기 때문입니다. 네, 우리는 은밀한 불륜 관계였어요.<br>
-  그가 죽은 뒤 단순 사고로 덮이는 걸 저는 도저히 견딜 수 없었습니다. 그래서 <span class="character-eunju">은주</span> 씨의 살인 행각을 낱낱이 밝혀내고, 그 진실을 제 다음 범죄 심리 소설의 소재로 쓰는 것만이 제 마지막 사명이라고 생각했죠."<br><br>
-  "처음에는 <span class="character-eunju">은주</span> 씨가 거액의 생명보험금을 노리고 남편을 죽였을 거라 확신했습니다.<br>
-  그런데 막상 조사해 보니, 그녀가 남편의 죽음 이후 오히려 끔찍한 재정난에 시달리고 있다는 사실을 알게 되었고 전 큰 충격을 받았습니다. 제 가설이 완전히 틀렸던 거죠.<br>
-  그래서 저는 도가 내부의 진짜 비밀을 캐내기 위해 수단과 방법을 가리지 않았습니다. 도가의 젊은 일꾼, <span class="character-hyunsu">류현수</span>와 육체적인 관계를 맺으면서까지 내부 소식을 빼내려 했으니까요."<br><br>
-  "그리고 바로 오늘, 저는 마침내 <span class="character-kitae">기태</span> 씨를 죽인 진짜 범인의 흔적을 찾아내고야 말았습니다!<br>
-  사망 직후의 은행 거래 기록, 핀번호, 그리고 은밀하게 오간 자금 내역들... 그 모든 증거들을 맞춰본 순간 깨달았죠. <span class="character-kitae">남기태</span> 씨를 죽인 진범은 결코 <span class="character-eunju">은주</span> 씨가 아니라는 사실을요.<br>
-  저는 그 증거를 들고 <span class="character-eunju">은주</span> 씨를 찾아갔지만, 그녀는 현실을 부정하며 받아들이려 하지 않았습니다. 하지만 이제 와선 아무래도 상관없어요.<br>
-  <span class="character-kitae">기태</span> 씨를 죽인 진범이 누구인지는... 곧 출간될 제 다음 책에서 세상에 전부 폭로될 테니까요. 그런데 <span class="character-eunju">은주</span> 씨의 마지막 죽음만큼은... 저조차도 도무지 이해할 수가 없네요."
-
-    <p class="confession-next-call">
-      낭독을 모두 마치셨다면, 다음 낭독자를 지목하기 위해 아래 문장을 소리 내어 읽어주십시오:<br>
-      👉 <strong>"다음은 '자백코드: [악의]' 단서를 가진 분 차례입니다. 단서의 비밀코드는 '0220'입니다."</strong>
-    </p>
-  </div>
-</div>
-이미지생성용 프롬프트: 없음
-장소 : 없음
-파일명 : p_백서연_자백
-
+파일명 : p_<span class="character-dohun">최도훈</span>_자백
