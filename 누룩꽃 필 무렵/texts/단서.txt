@@ -458,7 +458,9 @@ HTML :
   <div class="document-page type-secret">
     <div class="document-body">
       <ul>
-        <li>당신은 <span class="character-kitae">남기태</span>를 사랑했습니다. 그와 죽기 전까지 불륜 관계였습니다. <span class="character-eunju">은주</span>는 이 관계를 의심했고 <span class="character-kitae">기태</span>에게 직접 따졌습니다. 그 결과, 두 사람은 부부 관계를 지키려 노력하기로 했고, <span class="character-kitae">기태</span>는 즉시 당신과의 관계를 끊었습니다. 그리고 그로부터 며칠 후, <span class="character-kitae">기태</span>는 사망했습니다.</li>
+        <li>당신은 <span class="character-kitae">남기태</span>를 사랑했습니다. 그와 죽기 전까지 불륜 관계였습니다.</li>
+        <li><span class="character-eunju">은주</span>는 이 관계를 의심했고 <span class="character-kitae">기태</span>에게 직접 따졌습니다.</li>
+        <li>그 결과, 두 사람은 부부 관계를 지키려 노력하기로 했고, <span class="character-kitae">기태</span>는 즉시 당신과의 관계를 끊었습니다. 그리고 그로부터 며칠 후, <span class="character-kitae">기태</span>는 사망했습니다.</li>
       </ul>
     </div>
     <div class="guide-notice type-warning">
@@ -1009,7 +1011,7 @@ HTML :
   <div class="document-page type-knowledge">
         <ul>
         <li>당신은 <span class="character-kitae">남기태</span>를 잘 알았습니다. 그는 강인하고 유능한 사람이었습니다. 그런 그가 둔기로 맞아 죽었다는 사실은 매우 충격적입니다. 살인범은 그를 기습하거나 속였음이 틀림없습니다. 과연 <span class="character-kitae">기태</span>를 마지막으로 본 사람은 누구일까요?</li>
-        <li>오후 1시경, 본채 전화가 울렸고 당신이 받았습니다. 전화는 <span class="character-dohun">최도훈</span>을 찾는 법률사무소에서 걸려왔습니다. <span class="character-dohun">도훈</span>은 이후 1시간 반 가량 서재에서 통화를 했습니다. 당신은 그 통화를 몰래 들었고, 그가 사기 소송과 횡령 관련 이야기를 변호사와 나누는 것을 들었습니다.</li>
+        <li>오후 1시경, 본채 전화가 울렸고 당신이 받았습니다. 전화는 <span class="character-dohun">최도훈</span>을 찾는 법률사무소에서 걸려왔습니다. <span class="character-dohun">도훈</span>은 이후 1시간 반 가량 서재에서 통화를 했습니다. 당신은 그 통화를 몰래 들었고, 그가 성희롱 소송과 횡령 관련 이야기를 변호사와 나누는 것을 들었습니다.</li>
         <li>오후 1시 30분, <span class="character-seoyeon">백서연</span> 작가가 당신, <span class="character-eunji">강은지</span>, <span class="character-eunju">강은주</span>와 함께 본채에서 점심을 먹으러 합류했습니다. <span class="character-eunju">은주</span>는 여러 번 주제를 바꾸려 했지만 대화는 주로 <span class="character-haejun">정해준</span>이 도가를 대형 리조트로 개발하려 한다는 내용이었고, <span class="character-seoyeon">백서연</span>은 그 계획에 대해 매우 불만스러워했습니다.</li>
       </ul>
     <div class="guide-notice type-info">
@@ -1040,17 +1042,17 @@ HTML :
 의도 : 발견 4단계에서 박단희가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
 내용 :
 1. 당신은 류현수에게 매우 끌려 그와 잠자리를 함께 하고 있습니다. 또한 그의 자격증 과제를 대신 해주고 있습니다.
-2. 향토사 연구 과제를 쓰던 중, 은금리 초창기 개척자 중 한 명인 은금이 쓴 편지를 발견했습니다. 그는 편지 작성 후 얼마 지나지 않아 근처 은금 저수지에서 익사했습니다.
-3. 당신은 류현수에게 거의 집착에 가까운 애정을 품고 있습니다. 배경 조사를 한 결과, 그는 1년 전 사기 및 폭력 전과로 체포되었고, 짧은 징역형을 마친 뒤 이곳으로 숨어들었다고 합니다.
+2. 향토사 연구 과제를 쓰던 중, 은금리의 초창기 개척자 중 한 명인 은금(隱金) 최석태 선생이 쓴 편지를 발견했습니다. 그는 편지 작성 후 얼마 지나지 않아 근처 은금 저수지에서 익사했습니다.
+3. 당신은 류현수에게 거의 집착에 가까운 애정을 품고 있습니다. 배경 조사를 한 결과, 그는 1년 전 대마초 판매 혐의로 체포되었고, 짧은 징역형을 마친 뒤 이곳으로 숨어들었다고 합니다.
 
 HTML :
 <div class="story-content">
   <div class="document-page type-secret">
-        <ul>
-        <li>당신은 <span class="character-hyunsu">류현수</span>에게 매우 끌려 그와 잠자리를 함께 하고 있습니다. 또한 그의 자격증 과제를 대신 해주고 있습니다.</li>
-        <li>향토사 연구 과제를 쓰던 중, 은금리 초창기 개척자 중 한 명인 은금이 쓴 편지를 발견했습니다. 그는 편지 작성 후 얼마 지나지 않아 근처 은금 저수지에서 익사했습니다.</li>
-        <li>당신은 <span class="character-hyunsu">류현수</span>에게 거의 집착에 가까운 애정을 품고 있습니다. 배경 조사를 한 결과, 그는 1년 전 한 언더커버 경찰에게 마약을 판매한 혐의로 체포되었고, 짧은 징역형을 마친 뒤 도주했다고 합니다.</li>
-      </ul>
+    <ul>
+      <li>당신은 <span class="character-hyunsu">류현수</span>에게 매우 끌려 그와 잠자리를 함께 하고 있습니다. 또한 그의 자격증 과제를 대신 해주고 있습니다.</li>
+      <li>향토사 연구 과제를 쓰던 중, 은금리의 초창기 개척자 중 한 명인 은금(隱金) 최석태 선생이 쓴 편지를 발견했습니다. 그는 편지 작성 후 얼마 지나지 않아 근처 은금 저수지에서 익사했습니다.</li>
+      <li>당신은 <span class="character-hyunsu">류현수</span>에게 거의 집착에 가까운 애정을 품고 있습니다. 배경 조사를 한 결과, 그는 1년 전 대마초 판매 혐의로 체포되었고, 짧은 징역형을 마친 뒤 이곳으로 숨어들었다고 합니다.</li>
+    </ul>
     <div class="guide-notice type-warning">
       당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
@@ -1665,6 +1667,7 @@ HTML :
 1. 오늘 아침 아침 식사 자리에서 은주에게 거짓말을 했습니다. 도훈이 당신에게 폭력을 쓴다고 말했지만, 사실 이는 언니의 동정을 얻기 위한 거짓말이었습니다.
 2. 어느 정도는 그녀가 어떻게 반응하는지 보고 싶었고, 또 은주가 여전히 도훈에게 감정이 있는지 알아보기 위한 의도도 있었습니다. 은주는 도훈이 학대한다는 사실에 놀란 기색을 보였지만 “네가 자초한 일이다”라는 말도 했습니다.
 3. 당신은 도훈과 이혼하고 싶지만 경제적으로 그에게 의존하고 있어 그러지 못하고 있습니다.
+4. 도훈의 빚 때문에 집을 팔아야 했고, 지금은 캠핑카에서 살고 있습니다.
 
 HTML :
 <div class="story-content">
@@ -1672,6 +1675,7 @@ HTML :
     <ul>
       <li>오늘 아침 아침 식사 자리에서 <span class="character-eunju">은주</span>에게 거짓말을 했습니다. <span class="character-dohun">도훈</span>이 당신에게 폭력을 쓴다고 말했지만, 사실 이는 언니의 동정을 얻기 위한 거짓말이었습니다. 어느 정도는 그녀가 어떻게 반응하는지 보고 싶었고, 또 <span class="character-eunju">은주</span>가 여전히 <span class="character-dohun">도훈</span>에게 감정이 있는지 알아보기 위한 의도도 있었습니다. <span class="character-eunju">은주</span>는 <span class="character-dohun">도훈</span>이 학대한다는 사실에 놀란 기색을 보였지만 “네가 자초한 일이다”라는 말도 했습니다.</li>
       <li>당신은 <span class="character-dohun">도훈</span>과 이혼하고 싶지만 경제적으로 그에게 의존하고 있어 그러지 못하고 있습니다.</li>
+      <li><span class="character-dohun">도훈</span>의 빚 때문에 집을 팔아야 했고, 지금은 캠핑카에서 살고 있습니다.</li>
     </ul>
     <div class="guide-notice type-warning">
       당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
@@ -1871,8 +1875,7 @@ HTML :
     <div class="document-body">
       <ul>
         <li>당신은 정오에 은금도가에 도착했습니다. 집에 다가가 <span class="character-eunju">강은주</span>에게 도가를 구경할 수 있겠냐고 물었고, 그녀는 매우 기쁘게 허락했습니다. 오히려 거의 필사적으로 당신에게 도가를 보여주려는 듯했습니다. 12시 15분경, <span class="character-eunju">은주</span> 뒤로 <span class="character-danhee">박단희</span>가 나와 현관 앞에 합류하는 것도 볼 수 있었습니다.</li>
-        <li><span class="character-eunju">은주</span>와 함께 도가를 걷는 동안, 그녀가 작은 물건을 들고 다니는 것을 알아챘습니다. 그녀는 도가 얘기에 너무 몰두한 나머지 그 물건을 들고 있다는 것도 인지하지 못하는 듯했습니다.</li>
-        <li>1시쯤 연못 정원 화단 쪽에 있을 때 벌이 <span class="character-eunju">은주</span>를 쏘았고, 그녀는 들고 있던 물건을 풀밭에 떨어뜨린 채 집 안으로 달려갔습니다. 당신도 그녀를 따라 들어갔습니다.</li>
+        <li><span class="character-eunju">은주</span>와 함께 도가를 걷는 동안, 그녀가 작은 물건을 들고 다니는 것을 알아챘습니다. 그녀는 도가 얘기에 너무 몰두한 나머지 그 물건을 들고 있다는 것도 인지하지 못하는 듯했습니다. 1시쯤 연못 정원 화단 쪽에 있을 때 벌이 <span class="character-eunju">은주</span>를 쏘았고, 그녀는 들고 있던 물건을 풀밭에 떨어뜨린 채 집 안으로 달려갔습니다. 당신도 그녀를 따라 들어갔습니다.</li>
       </ul>
     </div>
     <div class="guide-notice type-info">
@@ -1946,8 +1949,7 @@ HTML :
     <div class="document-body">
       <ul>
         <li><span class="character-eunju">강은주</span>가 뒷마당 정자 근처 풀밭에서 벌에 쏘인 후, 그녀는 상처를 돌보기 위해 급히 본채로 돌아갔습니다. 당신은 다음 두 시간 동안 차 안에서 업무 전화를 했습니다.</li>
-        <li>오후 3시가 되었을 때, <span class="character-eunju">은주</span>는 아직 밖으로 나오지 않아 혼자서 도가를 둘러보기로 했습니다.</li>
-        <li>오후 3시 15분경, 한 여성이 지하 숙성 토굴로 들어가는 것을 보았습니다. 문 안쪽에는 <span class="character-hyunsu">류현수</span>가 있었고 두 사람은 은밀하게 대화하고 있었습니다. 당신은 자리를 떠났기 때문에 그 여성이 토굴에서 나오는 것은 보지 못했습니다.</li>
+        <li>오후 3시가 되었을 때, <span class="character-eunju">은주</span>는 아직 밖으로 나오지 않아 혼자서 도가를 둘러보기로 했습니다. 오후 3시 15분경, 한 여성이 지하 숙성 토굴로 들어가는 것을 보았습니다. 문 안쪽에는 <span class="character-hyunsu">류현수</span>가 있었고 두 사람은 은밀하게 대화하고 있었습니다. 당신은 자리를 떠났기 때문에 그 여성이 토굴에서 나오는 것은 보지 못했습니다.</li>
       </ul>
     </div>
     <div class="guide-notice type-info">
@@ -2021,8 +2023,7 @@ HTML :
     <div class="document-body">
       <ul>
         <li><span class="character-eunju">강은주</span>가 남긴 유서 메모([비밀단서#4])에 적힌 필체가 익숙하게 느껴집니다. 최근에 어딘가에서 본 것 같습니다.</li>
-        <li>오후 5시 15분에 다시 <span class="character-eunju">은주</span>를 만났습니다. 함께 지하 숙성 토굴에서 아늑한 구석을 찾아 여러 전통주를 시음하며 도가 매각에 대해 이야기했습니다.</li>
-        <li>두 사람이 아직 술을 마시고 있을 때, 조명이 깜박이다가 꺼졌습니다. 토굴 반대편에서 누군가 비명을 지르는 소리를 들었습니다. <span class="character-eunju">은주</span>는 당신에게 그 자리에 있으라고 말하고 확인하러 갔습니다. 그것이 그녀가 살아 있는 마지막 모습이었습니다.</li>
+        <li>오후 5시 15분에 다시 <span class="character-eunju">은주</span>를 만났습니다. 함께 지하 숙성 토굴에서 아늑한 구석을 찾아 여러 전통주를 시음하며 도가 매각에 대해 이야기했습니다. 두 사람이 아직 술을 마시고 있을 때, 조명이 깜박이다가 꺼졌습니다. 토굴 반대편에서 누군가 비명을 지르는 소리를 들었습니다. <span class="character-eunju">은주</span>는 당신에게 그 자리에 있으라고 말하고 확인하러 갔습니다. 그것이 그녀가 살아 있는 마지막 모습이었습니다.</li>
       </ul>
     </div>
     <div class="guide-notice type-info">
@@ -2058,8 +2059,7 @@ HTML :
   <div class="document-page type-secret">
     <div class="document-body">
       <ul>
-        <li>당신은 사촌 누나 <span class="character-danhee">박단희</span>에게 왜 자신에게 거물 디벨로퍼인 척하며 도가를 싸게 사라고 시키는지 이유를 알려달라고 요구했고, 그렇지 않으면 이 짓을 그만두겠다고 했습니다.</li>
-        <li><span class="character-danhee">단희</span>는 그 땅 뒷산에 수십억 원 상당의 일제강점기 금괴가 묻혀 있다는 이야기를 해주었습니다. 그녀의 계획은 다소 무모했지만, 계속해서 실적을 올리고 싶어 안달이 났고 이 거래로 당신에게 좋은 수익을 약속했습니다.</li>
+        <li>당신은 사촌 누나 <span class="character-danhee">박단희</span>에게 왜 자신에게 부동산업자인 척하며 도가를 싸게 사라고 시키는지 이유를 알려달라고 요구했고, 그렇지 않으면 이 짓을 그만두겠다고 했습니다. <span class="character-danhee">단희</span>는 그 땅 뒷산에 수십억 원 상당의 일제강점기 금괴가 묻혀 있다는 이야기를 해주었습니다. 그녀의 계획은 다소 무모했지만, 계속해서 이 작은 마을을 떠나고 싶어 안달이 났고 이 거래로 당신에게 좋은 수익을 약속했습니다.</li>
         <li>오후 2시 15분경, <span class="character-danhee">박단희</span>가 몰래 당신의 차로 와서 수면제 한 병을 건네주었습니다. 그녀는 그것을 빻아서 주머니에 넣어 가지고 있으라 말했습니다. 만약 <span class="character-eunju">은주</span>가 매각을 거부하면, 기회가 생길 때 그녀의 음료에 몰래 타라고 했습니다.</li>
       </ul>
     </div>

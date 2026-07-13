@@ -1,6 +1,0 @@
-- [x] Write extraction script
-- [x] Parse role files and extract contents
-- [x] Remove extracted contents from role files
-- [x] Generate new clue blocks
-- [x] Insert new clue blocks into 단서.txt
-- [x] Verify changes
