@@ -694,16 +694,16 @@ HTML :
 관련 : 류현수
 의도 : 발견 4단계에서 류현수가 숨겨야 하지만 이의 제기 시 마지못해 밝혀야 할 사적 비밀.
 내용 :
-1. 당신은 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 백서연 작가가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한 줄은 몰랐습니다.
+1. 당신은 은행 계좌정보와 비밀번호가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 백서연 작가가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한 줄은 몰랐습니다.
 2. 박단희와는 특별한 사이입니다. 그녀는 당신의 자격증 시험 과제를 대신 써주는 대가로 당신과 저녁 시간을 함께 보냅니다. 그녀는 사서로서 귀중한 역사적 자료에 접근할 수 있는데, 당신은 그 중 일부를 훔쳐 팔아보려 했습니다. (이 비밀이 공개되었다면, 자연스럽게 [비밀단서#3]를 조사하세요. 비밀코드는 'letter' 입니다.)
 
 HTML :
 <div class="story-content">
   <div class="document-page type-secret">
-        <ul>
-        <li>당신은 금고 비밀번호와 은행 정보가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 <span class="character-seoyeon">백서연</span> 작가가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한 줄은 몰랐습니다.</li>
-        <li><span class="character-danhee">박단희</span>와는 특별한 사이입니다. 그녀는 당신의 자격증 시험 과제를 대신 써주는 대가로 당신과 저녁 시간을 함께 보냅니다. 그녀는 사서로서 귀중한 역사적 자료에 접근할 수 있는데, 당신은 그 중 일부를 훔쳐 팔아보려 했습니다. <strong>(이 비밀이 공개되었다면, 자연스럽게 [비밀단서#3]를 조사하세요. 비밀코드는 'letter' 입니다.)</strong></li>
-      </ul>
+    <ul>
+      <li>당신은 은행 계좌정보와 비밀번호가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에 <span class="character-seoyeon">백서연</span> 작가가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한 줄은 몰랐습니다.</li>
+      <li><span class="character-danhee">박단희</span>와는 특별한 사이입니다. 그녀는 당신의 자격증 시험 과제를 대신 써주는 대가로 당신과 저녁 시간을 함께 보냅니다. 그녀는 사서로서 귀중한 역사적 자료에 접근할 수 있는데, 당신은 그 중 일부를 훔쳐 팔아보려 했습니다. <strong>(이 비밀이 공개되었다면, 자연스럽게 [비밀단서#3]를 조사하세요. 비밀코드는 'letter' 입니다.)</strong></li>
+    </ul>
     <div class="guide-notice type-warning">
       당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 하지만 이번 단계에서 모든 비밀을 이야기해야 다음 단계로 진행할 수 있으니, 아무도 당신의 비밀에 대해 묻지 않는다면 대화의 흐름을 자연스럽게 이 주제로 이끌어보세요. 그럼 누군가는 당신에게 질문을 할 것입니다.
     </div>
@@ -1170,11 +1170,9 @@ HTML :
 HTML :
 <div class="story-content">
   <div class="document-page type-knowledge">
-        <ul>
-        <li><span class="character-eunju">강은주</span>의 안방에 있을 때 선반 위에 낡은 촛대가 놓여 있는 것을 발견했습니다.</li>
-        <li>몇 달 전에 <span class="character-hyunsu">류현수</span>가 생일 선물로 똑같은 촛대를 준 적이 있습니다.</li>
-        <li>하지만 당신이 가진 촛대는 어딘가 찌그러지고 상태가 좋지 않습니다.</li>
-      </ul>
+    <ul>
+      <li><span class="character-eunju">강은주</span>의 안방에 있을 때 선반 위에 낡은 촛대가 놓여 있는 것을 발견했습니다. 몇 달 전에 <span class="character-hyunsu">류현수</span>가 생일 선물로 똑같은 촛대를 준 적이 있습니다. 하지만 당신이 가진 촛대는 어딘가 찌그러지고 상태가 좋지 않습니다.</li>
+    </ul>
     <div class="guide-notice type-info">
       아는 정보들은 이번 단계에서 반드시 공개되어야 합니다. 대화의 흐름에 따라 자연스럽게 이야기하세요.
     </div>
@@ -1640,8 +1638,8 @@ HTML :
 <div class="story-content">
   <div class="document-page type-knowledge">
     <ul>
-      <li>오후 1시 30분경, <span class="character-seoyeon">백서연</span> 작가가 자청해 당신과 <span class="character-danhee">박단희</span>, <span class="character-eunju">은주</span>와의 점심 식사에 합류했습니다. <span class="character-eunju">은주</span>가 불편해하는 기색이 역력했습니다. 이후 <span class="character-eunju">은주</span>는 당신에게 백 작가를 매우 싫어한다고 털어놓았습니다.</li>
-      <li>점심 시간에 백 작가의 노트를 슬쩍 보았는데, 거기에 <span class="character-kitae">남기태</span> 살인 사건에 관한 메모가 적혀 있었습니다. 백 작가는 <span class="character-kitae">기태</span>가 자신의 집에서 살해당했다고 생각하는 것 같습니다. 메모에 따르면 그의 서재 바닥에서 피 한 방울이 발견되었고, 서류가 뒤섞여 있었으며, 전화기가 떨어져 있었다고 합니다. <span class="character-eunju">은주</span>는 그 피 얼룩이 오래된 것이라고 둘러댔지만, 전화기와 서류가 엉망인 이유에 대해서는 설명하지 못했다는 거죠.</li>
+      <li>오후 1시 30분경, <span class="character-seoyeon">백서연</span> 작가가 자청해 당신과 <span class="character-danhee">박단희</span>, <span class="character-eunju">은주</span>와의 점심 식사에 합류했습니다. <span class="character-eunju">은주</span>가 불편해하는 기색이 역력했습니다. 이후 <span class="character-eunju">은주</span>는 당신에게 <span class="character-seoyeon">백서연</span> 작가를 매우 싫어한다고 털어놓았습니다.</li>
+      <li>점심 시간에 <span class="character-seoyeon">백서연</span> 작가의 노트를 슬쩍 보았는데, 거기에 <span class="character-kitae">남기태</span> 살인 사건에 관한 메모가 적혀 있었습니다. <span class="character-seoyeon">백서연</span> 작가는 <span class="character-kitae">기태</span>가 그 자신의 집에서 살해당했다고 생각하는 것 같습니다. 메모에 따르면 그의 서재 바닥에서 피 한 방울이 발견되었고, 서류가 뒤섞여 있었으며, 전화기가 떨어져 있었다고 합니다. <span class="character-eunju">은주</span>는 그 피 얼룩이 오래된 것이라고 둘러댔지만, 전화기와 서류가 엉망인 이유에 대해서는 설명하지 못했다는 거죠.</li>
       <li><span class="character-haejun">정해준</span>은 매우 낯익은 인상인데, 결국 그를 알아봤습니다. 작년에 <span class="character-dohun">도훈</span>의 회사 연말 파티에서 만난 적이 있습니다. 두 사람이 같은 회사에 다니거나 아는 사이인 모양입니다.</li>
     </ul>
     <div class="guide-notice type-info">
@@ -2390,8 +2388,8 @@ HTML :
       이번에 이 <span class="emphasis">은금도가</span>에 오게 된 건 단지 직장이 위태로워 돈을 빌리려는 목적뿐만이 아니었습니다. <span class="character-eunji">은지</span>와의 이 지긋지긋하고 파탄 난 결혼 생활을 영원히 끝내고, 마침내 <span class="character-eunju">은주</span>와 새로운 삶을 시작하고 싶었기 때문입니다.<br>
       저는 떨리는 마음으로 <span class="character-eunju">은주</span>에게 그녀의 이름이 새겨진 순금 비녀를 선물하며 제 오랜 진심을 전했습니다.<br>
       하지만 <span class="character-eunju">은주</span>는 예전의 제 배신을 도저히 용서할 수 없다며 절 차갑게 밀어냈습니다. 비참했지만, 그럼에도 전 여전히 그녀를 사랑했고 언젠가는 제 진심을 알아줄 거라 굳게 믿고 있었습니다."<br><br>
-      "그런데 오늘 밤, 그 믿음이 무너져 내렸습니다. 마당 정자에서 제 아내 <span class="character-eunji">은지</span>가 새파랗게 어린 도가 일꾼 <span class="character-hyunsu">류현수</span>와 엉겨 붙어 입을 맞추는 광경을 똑똑히 목격한 겁니다.<br>
-      그 더러운 모습을 본 순간, 견딜 수 없는 분노와 모멸감에 휩싸였고 당장 그 자리에서 둘 다 죽여버리고 싶은 충동이 일었습니다.<br>
+      "그런데 오늘 밤, 그 믿음이 무너져 내렸습니다. 팔각정 근처에서 제 아내 <span class="character-eunji">은지</span>가 새파랗게 어린 도가 일꾼 <span class="character-hyunsu">류현수</span>와 엉겨 붙어 입을 맞추는 광경을 똑똑히 목격한 겁니다.<br>
+      그 더러운 모습을 본 순간, 견딜 수 없는 분노와 모멸감에 휩싸였고 당장 그 자리에서 둘 다 죽여버리고 싶은 충동이 일어났습니다.<br>
       바로 그때였습니다. 정자 근처 풀밭에 제가 <span class="character-eunju">은주</span>에게 선물했던 그 순금 비녀가 버려지듯 떨어져 있는 것을 발견했습니다. 순간, 마치 이것이 신이 내린 계시라는 생각이 들었고 저는 홀린 듯 비녀를 주머니에 챙겼습니다."<br><br>
       "잠시 후 밀회를 마친 두 사람이 자리를 떴고, 저는 분노에 차 <span class="character-hyunsu">류현수</span>의 뒤를 밟아 지하 숙성 토굴로 향했습니다.<br>
       그가 토굴 구석의 배전반 스위치를 내리고 노출된 전선을 점검하기 시작한 순간, 저는 어둠 속에서 몰래 전기 박스로 다가가 스위치를 다시 확 올려버렸습니다.<br>
