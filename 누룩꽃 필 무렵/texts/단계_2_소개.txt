@@ -20,10 +20,9 @@ N
 
 <div class="story-content">
   <div class="section-title">1. 대본 낭독</div>
-  <p>이 단계에서는 본격적인 조사에 앞서, 서로를 탐색하며 인사를 나누는 시간입니다. 각 플레이어는 순서에 맞춰 아래의 대본을 낭독하며 자신을 소개하십시오. 모든 대사를 마친 뒤 다음 단계로 넘어갈 수 있습니다.</p>
+  <p>이 단계에서는 본격적인 조사에 앞서, 서로를 탐색하며 인사를 나누는 시간입니다. 각 플레이어는 순서에 맞춰 아래의 대본을 낭독하며 자신을 소개하십시오. 지시문은 호스트 플레이어가 읽어주시면 됩니다.</p>
 
   <div class="script-container">
-    <div class="script-direction">(어둑어둑해지는 가을 저녁, <span class="emphasis">은금도가</span>의 안마당. 초대받은, 혹은 예고 없이 찾아온 여섯 명의 방문객들이 어색하게 서 있다. 안주인 <span class="character-eunju">강은주</span>는 아직 모습을 보이지 않는다. 침묵이 길어지자, 누군가 먼저 헛기침을 하며 입을 연다.)</div>
 
     <!-- 백서연 -->
     <div class="script-line">
@@ -42,7 +41,7 @@ N
     
     <!-- 정해준 -->
     <div class="script-line">
-      <span class="script-character"><span class="character-haejun">정해준</span></span>: "오랜만에 뵙는 자매분들의 해후라니 훈훈하네요. 저는 <span class="character-haejun">정해준</span>이라고 합니다. 서울에서 내려온 토지 개발 컨설턴트죠. 이번에 지자체 의뢰로 대형 리조트 부지를 알아보고 있었는데, 때마침 이 <span class="emphasis">은금도가</span>와 그 뒤편에 딸린 넓은 야산 일대가 통째로 아주 좋은 조건에 매물로 나왔다고 해서 바로 뛰어왔습니다. 이쪽 업계가 워낙 바쁘다 보니 휴대폰을 손에서 놓을 틈도 없네요."
+      <span class="script-character"><span class="character-haejun">정해준</span></span>: "오랜만에 뵙는 자매분들의 해후라니 훈훈하네요. 저는 <span class="character-haejun">정해준</span>이라고 합니다. 서울에서 내려온 부동산 컨설턴트죠. 이번에 지자체 의뢰로 대형 리조트 부지를 알아보고 있었는데, 때마침 이 <span class="emphasis">은금도가</span>와 그 뒤편에 딸린 넓은 야산 일대가 통째로 아주 좋은 조건에 매물로 나왔다고 해서 바로 뛰어왔습니다. 이쪽 업계가 워낙 바쁘다 보니 휴대폰을 손에서 놓을 틈도 없네요."
     </div>
 
     <!-- 박단희 -->
