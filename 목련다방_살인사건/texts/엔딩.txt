@@ -1,4 +1,5 @@
 [[엔딩명: 진실의 황혼 (성공)]]
+EndingID : 0effaeed-d85f-44a0-978a-8a7f9bff786f
 유형: TRUE_ENDING
 순서: 1
 범인: npc_yang
@@ -37,6 +38,7 @@
 </div>
 
 [[엔딩명: 흐릿해진 진실 (실패)]]
+EndingID : 5c8f2216-26d0-41e9-bc00-9a05eb1234d6
 유형: BAD_ENDING
 순서: 2
 판정 조건: {}

@@ -1,7 +1,11 @@
 # 목련다방 살인사건 - 상세 단서 목록 (Detailed Clues)
 
+StoryID : ad38faf1-eccc-43b5-b419-b8b00b2e4add
+
 [clue_01]
 이름 : 이 군
+clue_id : 34b1840c-8306-45a0-98f3-df66a654d058
+variant_id : 07371bd3-8d54-4f76-93ed-45e18db43fdc
 유형 : 관찰
 단계 : 프롤로그 단계
 소모AP : 0
@@ -28,6 +32,8 @@ HTML :
 
 [clue_02]
 이름 : 미스 양
+clue_id : 381de8e7-ebe4-40b6-8e9f-8824952f6b59
+variant_id : 47194165-d049-45c8-a923-10f19f08b876
 유형 : 관찰
 단계 : 프롤로그 단계
 소모AP : 0
@@ -54,6 +60,8 @@ HTML :
 
 [clue_03]
 이름 : 최 마담의 시신
+clue_id : c2c9f4e7-5f38-43cf-b41d-5d4188b38977
+variant_id : 866a84ac-6c2b-4169-aa68-41183bf5270b
 유형 : 관찰
 단계 : 프롤로그 단계
 소모AP : 0
@@ -80,6 +88,8 @@ HTML :
 
 [clue_04]
 이름 : 테이블 위
+clue_id : 7a13bf63-540e-499e-ba6d-0b2a8c478d34
+variant_id : dc2edab8-efa9-4e55-9655-b10b4e26d863
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -106,6 +116,8 @@ HTML :
 
 [clue_05]
 이름 : 낡은 가방
+clue_id : 08e3f71c-ff70-4da7-8a52-636e37f0431f
+variant_id : 2a362548-bac4-4c3a-b9c8-78905d8fcdbb
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -131,7 +143,9 @@ HTML :
 파일명 : 05_낡은_가방
 
 ============================================================
-이름 : 열린 가죽 가방
+이름 : 열린 낡은 가방
+clue_id : 08e3f71c-ff70-4da7-8a52-636e37f0431f
+variant_id : 02c2f1cf-7657-4117-8ab7-a809812483b0
 유형 : 물증
 소모AP : 1
 정렬순서 : 51
@@ -157,6 +171,8 @@ HTML :
 
 [clue_06]
 이름 : 이 군의 증언
+clue_id : 017e7c72-7812-4437-934b-243e09525cbc
+variant_id : b475994e-2cef-41a2-8032-8da9621f5fa5
 유형 : 증언
 단계 : 내부수색 단계
 소모AP : 1
@@ -183,6 +199,8 @@ HTML :
 
 [clue_07]
 이름 : 김 사장
+clue_id : c3a78460-3c0c-489d-93d1-ecd8bc2a93a6
+variant_id : c09c641c-f348-4c0d-ace5-0cfd6c14b11e
 유형 : 관찰
 단계 : 내부수색 단계
 소모AP : 0
@@ -209,6 +227,8 @@ HTML :
 
 [clue_08]
 이름 : 철가방
+clue_id : 07edb15b-8f8d-42f4-b356-4639285a0503
+variant_id : 580ca88e-31eb-4025-af8e-a2743df3b175
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -235,6 +255,8 @@ HTML :
 
 [clue_09]
 이름 : 주방 구석
+clue_id : d4256d32-61ae-47a3-ae1a-fc146f2fcaee
+variant_id : 86e6e620-cb92-45cb-be9a-d060efcfbad0
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -261,6 +283,8 @@ HTML :
 
 ============================================================
 이름 : 갈색 유리병
+clue_id : d4256d32-61ae-47a3-ae1a-fc146f2fcaee
+variant_id : 22c56bf7-ced6-4c40-854f-b93d9e09c566
 유형 : 물증
 소모AP : 1
 정렬순서 : 91
@@ -285,6 +309,8 @@ HTML :
 
 [clue_10]
 이름 : 수첩
+clue_id : 77ab313c-04b1-46e7-b8de-8f06a62772f3
+variant_id : 63fb0371-ae47-4900-9e0d-13a1cf288d92
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -311,6 +337,8 @@ HTML :
 
 [clue_11]
 이름 : 서류 봉투
+clue_id : 42004fde-029d-49c8-b0e7-dd46d937c590
+variant_id : fa625e41-724d-4e29-84ad-b43038375daa
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -337,6 +365,8 @@ HTML :
 
 ============================================================
 이름 : 건물 양도 계약서
+clue_id : 42004fde-029d-49c8-b0e7-dd46d937c590
+variant_id : 78c42bcd-7571-40bf-8f25-08ac3d079e84
 유형 : 물증
 소모AP : 1
 정렬순서 : 111
@@ -362,6 +392,8 @@ HTML :
 
 [clue_12]
 이름 : 종업원 숙소
+clue_id : edd18c52-840b-4edc-a619-082d81353236
+variant_id : 5e024023-b4aa-4bef-a8d0-8bcc2c6ebca8
 유형 : 관찰
 단계 : 내부수색 단계
 소모AP : 1
@@ -388,6 +420,8 @@ HTML :
 
 ============================================================
 이름 : 낡은 일기장
+clue_id : edd18c52-840b-4edc-a619-082d81353236
+variant_id : 24e9c41e-d479-47bc-a9ba-41eed3d6dacd
 유형 : 관찰
 소모AP : 1
 정렬순서 : 121
@@ -414,6 +448,8 @@ HTML :
 
 [clue_13]
 이름 : 주방 찬장
+clue_id : a8ad9178-4a71-4549-9a87-4d73df55d22e
+variant_id : 2f4e7592-fbb6-447d-8b87-63f0ec1c6f12
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -440,6 +476,8 @@ HTML :
 
 [clue_14]
 이름 : 김 사장의 증언
+clue_id : 50c60a88-369f-49d8-af5a-7cb60c262c8b
+variant_id : 40fd528b-5055-4317-bb19-eadf40dfa91d
 유형 : 증언
 단계 : 내부수색 단계
 소모AP : 1
@@ -466,6 +504,8 @@ HTML :
 
 [clue_15]
 이름 : 미스 양의 증언
+clue_id : ce4967a8-d07a-4093-9d2e-d7bf3e56c690
+variant_id : f233b522-1094-423a-869d-fdd2958dbd51
 유형 : 증언
 단계 : 내부수색 단계
 소모AP : 1
@@ -492,6 +532,8 @@ HTML :
 
 [clue_16]
 이름 : 철가방 안
+clue_id : 37f9307f-61f1-43c8-a122-48b7a8548773
+variant_id : 8cb8922b-49ad-4499-8bdc-acd2e6ecb708
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -518,6 +560,8 @@ HTML :
 
 [clue_17]
 이름 : 지갑
+clue_id : 34f23665-03eb-4994-a0e1-060406770bae
+variant_id : 4b077bbf-08ec-49a2-874f-e819c000ff98
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -544,6 +588,8 @@ HTML :
 
 [clue_18]
 이름 : 약 봉투
+clue_id : cc7444c4-579c-4c22-b686-d588d1411c70
+variant_id : e7cae331-18e8-4fc0-af34-491107e95498
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -570,6 +616,8 @@ HTML :
 
 [clue_19]
 이름 : 주방 냉장고
+clue_id : d60ac39d-e8f3-4643-8f0f-f96512742c89
+variant_id : 72193e32-c6c0-460f-a224-7b312c8ec2bd
 유형 : 물증
 단계 : 내부수색 단계
 소모AP : 1
@@ -596,6 +644,8 @@ HTML :
 
 [clue_20]
 이름 : 화상 자국
+clue_id : 0f375267-a162-4e5f-9bd7-c9b53ad56b5d
+variant_id : 6fa659c3-b0f2-46cd-a6da-1031e55d3e46
 유형 : 관찰
 단계 : 내부수색 단계
 소모AP : 1
@@ -622,6 +672,8 @@ HTML :
 
 [clue_21]
 이름 : 서울슈퍼 사장의 증언
+clue_id : 37fd5201-a4cc-416d-ac71-64e671aea422
+variant_id : 109d4cbd-b8a5-4001-9248-54dbf9e9481a
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
@@ -648,6 +700,8 @@ HTML :
 
 [clue_22]
 이름 : 단골의 증언
+clue_id : a1785eba-e34a-47f1-8017-a2ccec9de8e7
+variant_id : 953209b9-b408-4a92-bd47-7f586f8aece1
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
@@ -674,6 +728,8 @@ HTML :
 
 [clue_23]
 이름 : 김 순경의 보고
+clue_id : de48c35e-e7a3-4f2c-9cfa-8355b46e0e76
+variant_id : c1055405-b039-408a-8ef8-6b9c253ff320
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1
@@ -700,6 +756,8 @@ HTML :
 
 [clue_24]
 이름 : 만물상 주인의 증언
+clue_id : a3bbc623-3740-4239-8889-3d454f4f1028
+variant_id : e86160ca-6b05-4b78-b1e5-5723acf2d692
 유형 : 증언
 단계 : 주변탐문 단계
 소모AP : 1

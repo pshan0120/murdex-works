@@ -1,0 +1,342 @@
+[
+  {
+    "clue_id": "295a363c-2007-43d3-856f-795b5b65653e",
+    "variant_id": "e552f0a3-c3a7-4b0f-a5b7-57b8230cb867",
+    "clue_name": "마법탑#1"
+  },
+  {
+    "clue_id": "f7972c8f-e581-437e-abb1-058fdb7ce10a",
+    "variant_id": "985b4fab-6c6c-4005-ac83-326f8e59af40",
+    "clue_name": "마법탑#2"
+  },
+  {
+    "clue_id": "125eae50-1c52-479f-8936-ac6e7764589c",
+    "variant_id": "45eacaf8-e579-4ce0-b3e2-eed245f1b3f7",
+    "clue_name": "마법탑#3"
+  },
+  {
+    "clue_id": "ab174457-51df-46ae-a002-31ea1e78d132",
+    "variant_id": "6660f91f-eb9d-475a-84c8-d2462af97c73",
+    "clue_name": "무기고#1"
+  },
+  {
+    "clue_id": "c17b2f82-5978-4d33-a332-d569a35894dc",
+    "variant_id": "ce3fafb7-3212-4200-bf9b-e3e5c499e229",
+    "clue_name": "무기고#2"
+  },
+  {
+    "clue_id": "24d8ceac-cd8b-487c-9fe6-7c8273799f10",
+    "variant_id": "c6b22f6d-863f-4ab3-83e4-90aba6ce1df9",
+    "clue_name": "무기고#3"
+  },
+  {
+    "clue_id": "7291cc8a-4928-448c-9bdf-e810a6da2bde",
+    "variant_id": "6bb1b7bf-e387-4f91-849c-9ef4cf937dad",
+    "clue_name": "무기고#4"
+  },
+  {
+    "clue_id": "f46b57f3-a070-46c5-85fe-499063f601cd",
+    "variant_id": "bc69987b-c52a-45a8-b2c6-55ef1a4dd69e",
+    "clue_name": "문서고#1"
+  },
+  {
+    "clue_id": "1bed31b5-db3b-48b9-bdfd-8a6d2a142676",
+    "variant_id": "136ba46d-2cc0-4121-a7a3-2dc95fd4dcdf",
+    "clue_name": "문서고#2"
+  },
+  {
+    "clue_id": "3886276d-770a-437b-acd5-434ca4bd8d11",
+    "variant_id": "3cb36659-0945-4a78-b5bb-6dd8733f1ab7",
+    "clue_name": "문서고#3"
+  },
+  {
+    "clue_id": "662a065d-d4e1-4fc4-9221-76cfb3dfb48c",
+    "variant_id": "8f393920-93d7-41cd-88c4-7c51bae178c4",
+    "clue_name": "문서고#4"
+  },
+  {
+    "clue_id": "f3ddea25-c69e-41d1-adc1-5016506f4e88",
+    "variant_id": "abe3668f-a859-4d2c-9bee-36e493a110ef",
+    "clue_name": "문서고#5"
+  },
+  {
+    "clue_id": "cf01e751-2593-44aa-98ae-35cc27c160e3",
+    "variant_id": "f381c31b-3092-4d4a-abf5-4bf06018b1f2",
+    "clue_name": "문서고#6"
+  },
+  {
+    "clue_id": "0977c5b3-2d47-4278-a0c6-537deedeb738",
+    "variant_id": "92416c8e-173d-4d2e-9100-b57a3124de63",
+    "clue_name": "문서고#7"
+  },
+  {
+    "clue_id": "4d5a77a4-2e9e-4c94-a640-184f70c483e1",
+    "variant_id": "07c8b117-9b2c-47fb-b7b9-6957bbebb9fc",
+    "clue_name": "문서고#8"
+  },
+  {
+    "clue_id": "17e1e21c-eac1-4710-ae7b-64c5a947ef3a",
+    "variant_id": "117bf9cc-6fdd-4d7f-a7fb-b0f1492a0625",
+    "clue_name": "문서고#9"
+  },
+  {
+    "clue_id": "f9485ad8-b7bb-4b03-b89a-ecd688c393e7",
+    "variant_id": "e844042f-5853-4075-808c-3898ff28c854",
+    "clue_name": "바스타즈 강령"
+  },
+  {
+    "clue_id": "a9e28f07-c2de-427a-a71a-30aa16be65de",
+    "variant_id": "c576dded-401d-4530-ad63-4fb49e3305fe",
+    "clue_name": "붉은색 목걸이"
+  },
+  {
+    "clue_id": "a49df9eb-0260-479d-97dc-cb5be7661ef0",
+    "variant_id": "b96e3a9d-2931-42bd-8e6f-232418f7f3d7",
+    "clue_name": "서재#1"
+  },
+  {
+    "clue_id": "7d6014d3-3cd1-4c24-88e9-28d121b2a3e2",
+    "variant_id": "e8206479-7eff-4b70-a69d-462e63e86571",
+    "clue_name": "서재#2"
+  },
+  {
+    "clue_id": "b6e82cc5-1308-4fc0-ae5f-725c76816513",
+    "variant_id": "be8c9675-ac2f-4833-ab2c-4a94f79ff327",
+    "clue_name": "서재#3"
+  },
+  {
+    "clue_id": "4a9ab48e-def0-4184-a567-f87593789899",
+    "variant_id": "61f78f08-6831-445f-9943-1a545a0f0d83",
+    "clue_name": "서재#4"
+  },
+  {
+    "clue_id": "99144443-8661-4e1d-9789-12a2a562516b",
+    "variant_id": "b20ccf94-54ca-4c07-82eb-36e9befa6375",
+    "clue_name": "서재#5"
+  },
+  {
+    "clue_id": "3d47f900-553b-4108-8b12-86c45151b81b",
+    "variant_id": "b03692f3-6746-430f-9def-230582a43404",
+    "clue_name": "서재#6"
+  },
+  {
+    "clue_id": "e0155df6-69bd-4b70-ad9d-0bdd34e82935",
+    "variant_id": "f71a48f7-c02d-4aa7-bad7-91fe9ca06635",
+    "clue_name": "서재#7"
+  },
+  {
+    "clue_id": "67011055-0c45-41f1-ada0-e17a1f24a6e5",
+    "variant_id": "1c87e162-4915-4f6a-b499-c0bbccac2aae",
+    "clue_name": "서재#8"
+  },
+  {
+    "clue_id": "77889a7e-c09e-4c59-942e-c4a93f885444",
+    "variant_id": "eb05eceb-a4b7-4d33-97d0-885f3d0fa61d",
+    "clue_name": "식당#1"
+  },
+  {
+    "clue_id": "03cd66fd-f937-4f3c-ba01-4fa63f83b9d6",
+    "variant_id": "ab6404cd-9e3c-46b8-8f59-e9b99c8fd9d2",
+    "clue_name": "식당#2"
+  },
+  {
+    "clue_id": "643ae325-4eee-4c6d-a032-0a37cd6b7dc9",
+    "variant_id": "31841196-fa7c-4138-b40b-dbd479f79538",
+    "clue_name": "식당#3"
+  },
+  {
+    "clue_id": "2146a10d-616e-4d25-a519-73afb6a3dc0b",
+    "variant_id": "fcdd3c14-a7bf-4627-b3ee-0b86d4741097",
+    "clue_name": "식당#4"
+  },
+  {
+    "clue_id": "432b5216-f7ff-45c3-af44-c2bfcac207dc",
+    "variant_id": "ba87b826-a24e-47a2-9c7a-759279aee035",
+    "clue_name": "연구실#1"
+  },
+  {
+    "clue_id": "432b5216-f7ff-45c3-af44-c2bfcac207dc",
+    "variant_id": "0756f991-3201-4f6f-bc0b-616eec6a9c12",
+    "clue_name": "연구실#1"
+  },
+  {
+    "clue_id": "b5088ca1-9168-43ae-8314-52734b390c46",
+    "variant_id": "43ba362d-8eff-41f1-aed2-91edbc419b6d",
+    "clue_name": "연구실#2"
+  },
+  {
+    "clue_id": "e18d379c-a27b-46d8-abef-a77a47b06bbd",
+    "variant_id": "bff47fe0-d8cf-41ad-83a7-c8a6bf3252ab",
+    "clue_name": "연구실#3"
+  },
+  {
+    "clue_id": "5bd2fefb-bff6-4f69-b420-9c9e2547622e",
+    "variant_id": "99ef57ca-10a7-48c7-8c1d-5549fc4a2fdc",
+    "clue_name": "연구실#4"
+  },
+  {
+    "clue_id": "84d0b2c5-24fd-493e-89fc-b0b999921afc",
+    "variant_id": "0f25c09e-26b8-4c0f-bf20-2ffa7e20f6a4",
+    "clue_name": "연구실#5"
+  },
+  {
+    "clue_id": "84d0b2c5-24fd-493e-89fc-b0b999921afc",
+    "variant_id": "899cb622-e225-44d2-9936-003bb11493de",
+    "clue_name": "연구실#5"
+  },
+  {
+    "clue_id": "4dfcff91-b37e-4f7b-93cc-43492e05f22b",
+    "variant_id": "9115d309-9cf2-456f-8da8-e4dbb1818416",
+    "clue_name": "연회장#1"
+  },
+  {
+    "clue_id": "0fa1b971-2c03-4ab3-b925-0b2418ebb8a9",
+    "variant_id": "10f55e8a-1fec-4ab7-9a7b-6820d8e24409",
+    "clue_name": "연회장#2"
+  },
+  {
+    "clue_id": "7a586023-6d59-4629-9a65-adba9e136588",
+    "variant_id": "5339674f-46c6-41c2-b8cd-f94592b76d08",
+    "clue_name": "왕좌의 방#1"
+  },
+  {
+    "clue_id": "deca4fc1-892f-488b-85e6-6e95281f59af",
+    "variant_id": "61414d2b-d0aa-471c-82be-5bcba26a3ba9",
+    "clue_name": "왕좌의 방#2"
+  },
+  {
+    "clue_id": "cd077b55-80e5-4ba4-ae97-98031d582e77",
+    "variant_id": "1fc24281-d7a7-4a23-bafa-7ce71133d86b",
+    "clue_name": "왕좌의 방#3"
+  },
+  {
+    "clue_id": "7e6c04b2-3965-4659-babb-a6d98b6e5e79",
+    "variant_id": "42ced84a-5ae0-4377-8691-e14307cf50f7",
+    "clue_name": "왕좌의 방#4"
+  },
+  {
+    "clue_id": "b3c8e953-f1a8-4706-b052-d5095fb693a9",
+    "variant_id": "dff480f7-b811-434c-ad41-6841d8370cff",
+    "clue_name": "왕좌의 방#5"
+  },
+  {
+    "clue_id": "1453b43e-bbd6-4ac5-9355-8538b43ec5ff",
+    "variant_id": "5a657ea9-5f1a-4624-8d45-939371c2e426",
+    "clue_name": "왕좌의 방#6"
+  },
+  {
+    "clue_id": "51400323-6496-494d-a3aa-f7bc0a244a34",
+    "variant_id": "35fa9a2d-4a6d-4010-a8a1-d133f46fd236",
+    "clue_name": "왕좌의 방#7"
+  },
+  {
+    "clue_id": "d696a633-4ab8-4783-b7ca-a9697c0bfc6b",
+    "variant_id": "90768d46-72d2-4b6f-9dbd-1c228f694754",
+    "clue_name": "왕좌의 방#8"
+  },
+  {
+    "clue_id": "22d4f767-a185-40c0-80b1-7ed49b44f2f0",
+    "variant_id": "5687d924-520d-4c80-844e-2f8cfe695f31",
+    "clue_name": "외곽 망루#1"
+  },
+  {
+    "clue_id": "a2530ddf-fabc-4f54-9ef3-d81b3d60d546",
+    "variant_id": "7755575a-88f2-4d62-9c9b-cfe618961948",
+    "clue_name": "외곽 망루#2"
+  },
+  {
+    "clue_id": "70ae4261-f8c9-4c34-a40d-d10956829059",
+    "variant_id": "f1ed8d73-ed47-46b2-a7b0-f69fa76cf439",
+    "clue_name": "중앙 복도#1"
+  },
+  {
+    "clue_id": "3472e1ca-2f20-4ff8-b328-eb6bffa8113f",
+    "variant_id": "8d5ad3c7-1cac-47ef-87a5-45d913036a2d",
+    "clue_name": "중앙 복도#2"
+  },
+  {
+    "clue_id": "dabc2d62-a74f-41ce-a6ce-b140a0229704",
+    "variant_id": "0e5b3e9c-1098-43e3-9a4b-8c1bc06750c7",
+    "clue_name": "중앙 복도#3"
+  },
+  {
+    "clue_id": "85acf845-ae6e-4fd8-bd56-fad00ee9b686",
+    "variant_id": "c38e5527-2dd8-4921-af14-5092e7586bb6",
+    "clue_name": "지하창고#1"
+  },
+  {
+    "clue_id": "7cc9b5df-d3da-401d-92b6-2dea4ab10551",
+    "variant_id": "d39bf537-7fbd-45fe-9052-9cefecc84524",
+    "clue_name": "지하창고#10"
+  },
+  {
+    "clue_id": "9488b01e-5d94-49cc-a5dc-d977549e70c1",
+    "variant_id": "b1e19a59-cd99-4932-bacb-885ee7f7842f",
+    "clue_name": "지하창고#11"
+  },
+  {
+    "clue_id": "445ca0b9-076a-4921-a889-ad04aaf145bf",
+    "variant_id": "3754099e-d22e-44be-8faf-bcb962e293e2",
+    "clue_name": "지하창고#2"
+  },
+  {
+    "clue_id": "97531b39-af18-4335-bd25-9d956d2e771b",
+    "variant_id": "ba5b00e1-dac5-42b8-b558-0da00ae5cc18",
+    "clue_name": "지하창고#3"
+  },
+  {
+    "clue_id": "86494409-f9fe-4bf4-9765-098f6836d77c",
+    "variant_id": "74c94c9e-59da-4e50-8156-c69d704629d5",
+    "clue_name": "지하창고#4"
+  },
+  {
+    "clue_id": "cb394a19-4e1a-4ca8-ba8f-98361d748fa9",
+    "variant_id": "ec90c11a-1274-4d6b-ad9a-7af2f4f512ff",
+    "clue_name": "지하창고#5"
+  },
+  {
+    "clue_id": "d6c8c143-18ad-4fe1-978f-6850016ac0dc",
+    "variant_id": "a87b180d-f66c-48e8-b84e-dd381a6aef8b",
+    "clue_name": "지하창고#6"
+  },
+  {
+    "clue_id": "68a0c3eb-ab56-4cf8-89f9-20ce2a329a11",
+    "variant_id": "7d80425c-7109-4e0f-894b-72728f188656",
+    "clue_name": "지하창고#7"
+  },
+  {
+    "clue_id": "80ac5bcd-569f-4594-91c0-2779196b637e",
+    "variant_id": "c58eb87a-e27c-4811-9aff-1db935c0a8a6",
+    "clue_name": "지하창고#8"
+  },
+  {
+    "clue_id": "2013ba95-9b0e-4624-8131-9060635b36c2",
+    "variant_id": "8bad7c44-5071-4ba7-a1a5-3ba6eeed4bf9",
+    "clue_name": "지하창고#9"
+  },
+  {
+    "clue_id": "47314ea0-3ffa-4fdb-8696-03e4b3f27ad0",
+    "variant_id": "2b5bcee2-314a-4cc6-abd3-b5484fc763ea",
+    "clue_name": "협박 쪽지 - 고어후프"
+  },
+  {
+    "clue_id": "153e2251-bb72-4487-a5b8-344c63948a9a",
+    "variant_id": "8dc558cb-241e-490c-b0d2-ca0cb21dcd51",
+    "clue_name": "협박 쪽지 - 말리스"
+  },
+  {
+    "clue_id": "e8772ec9-1ad5-484c-bf4b-f846912ebd99",
+    "variant_id": "aa2d6193-296d-4068-ab9f-9308701fad97",
+    "clue_name": "협박 쪽지 - 발로그"
+  },
+  {
+    "clue_id": "196e29fe-f0da-4cd3-a840-db6bdcfc2ef3",
+    "variant_id": "ecb8a76c-2416-4f8b-9fed-4ab65dceb996",
+    "clue_name": "협박 쪽지 - 슬리더"
+  },
+  {
+    "clue_id": "ea0ab597-e1be-48b4-a02d-32c462b84d0d",
+    "variant_id": "57da18af-2f65-45a7-bf63-20660b5e9722",
+    "clue_name": "협박 쪽지 - 엘란트라"
+  }
+]
