@@ -1,6 +1,8 @@
 import sys
 import os
+import re
 import argparse
+sys.stdout.reconfigure(encoding='utf-8')
 
 # Add murdex-api to path to use shared_connection_pool
 murdex_api_path = r"c:\dev\KLIEN\murdex\murdex-api"
@@ -13,6 +15,34 @@ except ImportError:
     print("Error: Could not import SharedConnectionPool. Ensure murdex-api path is correct and dependencies are installed.")
     sys.exit(1)
 
+def parse_group_file(group_file_path):
+    """
+    단서_그룹.txt에서 그룹명 -> group_id 매핑을 추출합니다.
+    """
+    mapping = {}
+    if not os.path.exists(group_file_path):
+        print(f"Warning: Group file not found at {group_file_path}")
+        return mapping
+        
+    with open(group_file_path, "r", encoding="utf-8") as f:
+        text = f.read()
+        
+    # Example format:
+    # 5. 연회장
+    # GroupID : 7c37aab4-1180-4f89-9ce3-1bd15dcfc4e6
+    blocks = text.split("\n\n")
+    for block in blocks:
+        name_match = re.search(r'\d+\.\s+(.*?)\n', block)
+        id_match = re.search(r'GroupID\s*:\s*([a-f0-9\-]+)', block, re.IGNORECASE)
+        
+        if name_match and id_match:
+            # We map the pure name, e.g., '연회장'
+            name = name_match.group(1).strip()
+            group_id = id_match.group(1).strip()
+            mapping[name] = group_id
+            
+    return mapping
+
 def parse_clue_file(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
@@ -24,7 +54,6 @@ def parse_clue_file(file_path):
     
     for i, line in enumerate(lines):
         if line.startswith("이름 :"):
-            # Save previous block
             if current_block:
                 if in_html_section:
                     current_block["html"] = "".join(html_lines).strip()
@@ -39,15 +68,30 @@ def parse_clue_file(file_path):
                 current_block["variant_id"] = line.replace("variant_id :", "").strip()
             elif line.startswith("clue_id :"):
                 current_block["clue_id"] = line.replace("clue_id :", "").strip()
+            elif line.startswith("정렬순서 :"):
+                current_block["order"] = line.replace("정렬순서 :", "").strip()
+            elif line.startswith("단서 그룹 :"):
+                # e.g., "05_연회장" -> extract "연회장"
+                group_val = line.replace("단서 그룹 :", "").strip()
+                current_block["raw_group"] = group_val
             elif line.startswith("HTML :"):
                 in_html_section = True
             elif in_html_section:
-                # Assuming "이미지생성용 프롬프트:" or similar demarcates end of HTML
-                if line.startswith("이미지생성용 프롬프트:") or line.startswith("장소 :") or line.startswith("파일명 :"):
+                # "이미지생성용 프롬프트" marks the end of HTML
+                if line.startswith("이미지생성용 프롬프트") or line.startswith("이름 :") or line.startswith("단서 그룹 :") or line.startswith("파일명 :"):
                     in_html_section = False
                     current_block["html"] = "".join(html_lines).strip()
+                    
+                    if line.startswith("단서 그룹 :"):
+                        group_val = line.replace("단서 그룹 :", "").strip()
+                        current_block["raw_group"] = group_val
                 else:
                     html_lines.append(line)
+            else:
+                # Catch 단서 그룹 if it appears after HTML
+                if line.startswith("단서 그룹 :"):
+                    group_val = line.replace("단서 그룹 :", "").strip()
+                    current_block["raw_group"] = group_val
                     
     # Add last block
     if current_block:
@@ -57,7 +101,38 @@ def parse_clue_file(file_path):
         
     return blocks
 
-def update_db(blocks):
+def map_groups(blocks, group_mapping):
+    for block in blocks:
+        raw_group = block.get("raw_group", "")
+        if raw_group == "없음" or raw_group == "":
+            block["group_id"] = None
+        else:
+            # Extract just the name after underscore, e.g., '05_연회장' -> '연회장'
+            # Or if it doesn't have an underscore, just use as is
+            if "_" in raw_group:
+                clean_name = raw_group.split("_", 1)[1].replace("_", " ")
+            else:
+                clean_name = raw_group
+                
+            group_id = group_mapping.get(clean_name)
+            if not group_id:
+                # Try exact match if splitting didn't work
+                group_id = group_mapping.get(raw_group)
+                
+            block["group_id"] = group_id
+            
+def update_db(blocks, dry_run=False):
+    if dry_run:
+        print("\n[DRY RUN] The following database updates would be executed:\n")
+        for idx, block in enumerate(blocks, 1):
+            print(f"--- Block {idx} ---")
+            print(f"Name (clue_name): {block.get('name')}")
+            print(f"Order (clue_order): {block.get('order')}")
+            print(f"Group ID: {block.get('group_id')} (Raw: {block.get('raw_group')})")
+            html_snippet = block.get('html', '')[:50] + ('...' if len(block.get('html', '')) > 50 else '')
+            print(f"HTML (snippet): {html_snippet}\n")
+        return len(blocks), len(blocks)
+        
     pool = SharedConnectionPool.get_instance()
     success_count = 0
     
@@ -66,22 +141,32 @@ def update_db(blocks):
         
         for block in blocks:
             v_id = block.get("variant_id")
+            c_id = block.get("clue_id")
             html_content = block.get("html")
+            c_name = block.get("name")
+            c_order = block.get("order")
+            g_id = block.get("group_id")
             
-            if not v_id:
+            if not v_id or not c_id:
                 continue
                 
             if html_content is None:
                 continue
                 
             try:
-                # Update clue_content in clue_variant table
+                # Update clue_variant
                 cursor.execute(
-                    "UPDATE clue_variant SET clue_content = %s WHERE variant_id = %s", 
-                    (html_content, v_id)
+                    "UPDATE clue_variant SET clue_content = %s, clue_name = %s WHERE variant_id = %s", 
+                    (html_content, c_name, v_id)
                 )
-                if cursor.rowcount > 0:
-                    success_count += 1
+                
+                # Update clue
+                cursor.execute(
+                    "UPDATE clue SET clue_order = %s, group_id = %s WHERE clue_id = %s",
+                    (c_order, g_id, c_id)
+                )
+                
+                success_count += 1
             except Exception as e:
                 print(f"Failed to update variant {v_id}: {e}")
                 
@@ -90,21 +175,37 @@ def update_db(blocks):
     return success_count, len(blocks)
 
 def main():
-    parser = argparse.ArgumentParser(description="Update clue_variant DB from clue text file.")
+    parser = argparse.ArgumentParser(description="Update clue DB from clue text file.")
     parser.add_argument("file_path", help="Path to the clue text file (e.g. 단서.txt)")
+    parser.add_argument("--dry-run", action="store_true", help="Print what would be updated without committing to DB")
     args = parser.parse_args()
     
     if not os.path.exists(args.file_path):
         print(f"Error: File not found: {args.file_path}")
         sys.exit(1)
         
+    # group file is expected to be in the same directory
+    group_file_path = os.path.join(os.path.dirname(args.file_path), "단서_그룹.txt")
+    
+    print(f"Parsing groups from {group_file_path} ...")
+    group_mapping = parse_group_file(group_file_path)
+    print(f"Loaded {len(group_mapping)} groups.")
+        
     print(f"Parsing {args.file_path} ...")
     blocks = parse_clue_file(args.file_path)
     print(f"Found {len(blocks)} clue blocks.")
     
-    print("Updating database...")
-    success, total = update_db(blocks)
-    print(f"Done. Updated {success} / {total} clue blocks.")
+    # 변형 단서 제외 (사용자 요청에 따라 변형 단서는 수동 관리)
+    blocks = [b for b in blocks if "(변형)" not in b.get("name", "")]
+    
+    map_groups(blocks, group_mapping)
+    
+    if args.dry_run:
+        update_db(blocks, dry_run=True)
+    else:
+        print("Updating database...")
+        success, total = update_db(blocks, dry_run=False)
+        print(f"Done. Updated {success} / {total} clue blocks.")
 
 if __name__ == "__main__":
     main()
