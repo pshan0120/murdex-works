@@ -6,6 +6,7 @@ StoryID : a8d3c16b-3910-4fc6-82fa-aed0379904f9
 
 ---
 
+
 [clue_01]
 이름 : 협박 쪽지 - 말리스
 clue_id : 153e2251-bb72-4487-a5b8-344c63948a9a
@@ -263,6 +264,8 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of weathered parchment pages in a massive open book. The pages are covered exclusively with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish). No diagrams. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 단서 그룹 : 14_기록관의 보고
 파일명 : 13_서재_3
+
+
 [clue_08]
 이름 : 기록관의 보고#2
 예전 이름 : 서재#2
@@ -305,6 +308,8 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a heavy leather-bound encyclopedia opened to a page. The yellowed pages are filled with dense, dark ink handwriting in an illegible script resembling modern Nordic languages (Norwegian or Finnish), with no illustrations. Shallow depth of field, background is indistinct. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 단서 그룹 : 14_기록관의 보고
 파일명 : 12_서재_2
+
+
 [clue_09]
 이름 : 기록관의 보고#3
 예전 이름 : 무기고#1
@@ -323,14 +328,14 @@ variant_id : 6660f91f-eb9d-475a-84c8-d2462af97c73
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 스컬크러셔
-의도 : 스컬크러셔의 검은 진짜 고대인의 검이 아니었다는 증거. (22차 피드백 반영: 기록관 보고로 전환, 조사3단계 시작 시 전원 앞면 자동 공개, 장소 무관. 스컬크러셔 관련 정보가 포함돼 있어 분할하지 않고 통째로 이관)
+의도 : 스컬크러셔의 검은 진짜 고대인의 검이 아니었다는 증거. (22차 피드백 반영: 기록관 보고로 전환, 조사3단계 시작 시 전원 앞면 자동 공개, 장소 무관. 스컬크러셔 관련 정보가 포함돼 있어 분할하지 않고 통째로 이관) 추가로 "공포의 검" 항목 말미에 마신이 마력을 지닌 존재였음을 심어두는 문장 삽입 — 기록관의 보고#4·#5와 함께 "엘드리치가 여전히 마력을 쓸 수 있다"는 추리로 이어지는 3단 힌트의 1단계.
 내용 :
 기록관이 무기고를 정리하던 중, 오랫동안 무구를 관리해 온 늙은 무기고지기가 남긴 기록을 발견해 전달했다. 전설적인 무구들에 대한 설명이 담백하게 적혀 있다.
 
 ■ 빛의 검: 순수한 빛의 정수. 오직 빛의 속성을 지닌 자만이 다룰 수 있으며, 자격 없는 자가 다가서면 영혼을 태우는 백색 불꽃이 일어난다.
 ■ 어둠의 단검: 그림자 칼날로, 빛의 속성을 지닌 존재에게 치명적이다. 지하 창고에 보관 중이었으나 20년 전 반출되어 행방이 묘연하다.
 ■ 고대인의 검: 전설적인 은빛 한손검. 검신에 새겨진 독특한 고대 문자가 특징이며, 수천 년 전 소실된 이후로 종적을 감췄다.
-■ 공포의 검: 과거 마신이 휘둘렀다고 전해지는 대검. 검붉은 광채를 뿜어내며 불길한 안개를 퍼뜨린다고 한다.
+■ 공포의 검: 과거 마신이 휘둘렀다고 전해지는 대검. 검붉은 광채를 뿜어내며 불길한 안개를 퍼뜨린다고 한다. 그 광채는 마신 자신의 마력이 서려 있기 때문이라는 이야기도 전해진다.
 HTML :
 <div class="story-content">
   <div class="script-direction">
@@ -342,22 +347,60 @@ HTML :
       <div>■ <strong>빛의 검</strong>: 순수한 빛의 정수. 오직 <span class="emphasis">빛의 속성</span>을 지닌 자만이 다룰 수 있으며, 자격 없는 자가 다가서면 영혼을 태우는 백색 불꽃이 일어난다.</div>
       <div>■ <strong>어둠의 단검</strong>: 그림자 칼날로, <span class="emphasis">빛의 속성</span>을 지닌 존재에게 치명적이다. <span class="emphasis">지하 창고</span>에 보관 중이었으나 20년 전 반출되어 행방이 묘연하다.</div>
       <div>■ <strong>고대인의 검</strong>: 전설적인 한손검. 칼날에서 영롱한 <span class="emphasis">은빛</span>을 내뿜으며, 검신에 새겨진 독특한 고대 문자가 특징이다. 수천 년 전 소실된 이후로 종적을 감췄다.</div>
-      <div>■ <strong>공포의 검</strong>: 과거 마신이 휘둘렀다고 전해지는 대검. 검신에서 <span class="emphasis">검붉은 광채</span>를 뿜어내며 불길한 안개를 퍼뜨린다고 한다.</div>
+      <div>■ <strong>공포의 검</strong>: 과거 마신이 휘둘렀다고 전해지는 대검. 검신에서 <span class="emphasis">검붉은 광채</span>를 뿜어내며 불길한 안개를 퍼뜨린다고 한다. 그 광채는 <span class="emphasis">마신 자신의 마력</span>이 서려 있기 때문이라는 이야기도 전해진다.</div>
     </div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a thick, aged parchment ledger lying open on a heavy stone pedestal in a dimly lit armory. Dust motes dance in a single beam of light. The ledger features neat, orderly ink handwriting in a formal archaic script with small, technical diagrams of sword hilts and blades. Background shows out-of-focus racks of weapons and armor. Detailed fantasy oil painting style. Deep shadows, rich parchment textures, dramatic chiaroscuro lighting.
 단서 그룹 : 14_기록관의 보고
 파일명 : 29_무기고_1
+
+
 [clue_10]
 이름 : 기록관의 보고#4
-예전 이름 : 지하창고#3
+예전 이름 : 기록관의 보고#6 (마법탑#3)
+clue_id : 125eae50-1c52-479f-8936-ac6e7764589c
+variant_id : 45eacaf8-e579-4ce0-b3e2-eed245f1b3f7
+유형 : 물증
+단계 : 조사 4단계
+소모AP : 0
+정렬순서 : 730
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 말리스, 슬리더, 발로그
+의도 : 골든 킹과 골든 서클을 비롯해 작중 전반에 편재한 "황금"이라는 모티프의 근원을 밝히는 단서. 고대의 푸른 행성(지구) 출신 세 여전사가 정체불명의 마왕을 물리쳤다는 전설을 소개하며, 그녀들이 부르던 노래의 이름이 그대로 신성시되어 전해진다는 서술로 지하창고 보관함 비밀번호(GOLDEN, 말리스의 개인 기억과는 별개의 경로)를 은근히 암시함(글자 수는 직접 언급하지 않음). 동시에 그녀들이 지녔던 세 자루의 무구가 성 어딘가에 보관되어 있다는 언급으로 지하창고의 속성 무기 3종(바람의 장검/대지의 창/물의 쌍검)의 진짜 유래를 암시함. 전설 속 마왕의 정체는 의도적으로 확정하지 않으며, 다크 시리어스 본인도 자신의 기원을 모른다는 설정과 모순되지 않도록 한다. (22차 피드백 반영: 기록관 보고로 전환. 원래 통합조사 단계에 배치했으나, 지하창고 무기 3종의 개별 비밀번호 힌트가 너무 늦게 공개되면 플레이어가 그 전에 지하창고를 재조사할 시간이 없어 힌트를 활용하지 못하는 문제가 있어 조사5단계로 앞당김. 이에 따라 기록관의 보고#4 자리를 차지하며, 기존 #4·#5는 각각 #5·#6으로 한 칸씩 밀림. 조사5단계 시작 시 전원 앞면 자동 공개, 장소 무관) 추가로, 세 여전사 각각을 은유적으로 묘사하는 문장을 삽입해 지하창고 무기 3종의 개별 비밀번호(각 무기의 원래 주인 이름) 추리용 힌트로 기능하게 함 — 이름은 직접 언급하지 않고 역할·성격·속성만 은유로 제공. "아득한 옛날"을 "천 년 전"으로 명시한 것은, 작품 현재 시점이 서력 3025년으로 설정되어 있어 천 년 전이 곧 서력 2025년(케이팝 데몬 헌터스 개봉·"골든" 흥행 시점)임을 계산할 수 있게 하려는 의도적 장치.
+내용 :
+기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.
+
+"천 년 전, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져, 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 세 여전사 중 무리의 맨 앞에서 흔들리는 마음을 다잡아 세우는 목소리로 노래를 이끌던 맏이는, 숨결과도 같은 바람의 힘을 다스렸다고 전해진다. 그녀 없이는 누구도 한 걸음도 나아가지 못했다 할 만큼 거침없던 둘째는, 무엇에도 흔들리지 않는 대지의 힘을 휘둘렀다. 가장 어렸으나 가장 재빠르고 짓궂은 몸놀림을 지녔던 막내는, 종잡을 수 없이 흐르는 물의 힘을 다스렸다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.</div>
+  <div class="divider-gold"></div>
+  <div class="quote-box">
+    <div>천 년 전, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 <span class="emphasis">노래의 이름</span>은 후대에도 그대로 전해져 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 세 여전사 중 무리의 맨 앞에서 흔들리는 마음을 다잡아 세우는 목소리로 노래를 이끌던 맏이는, 숨결과도 같은 <span class="emphasis">바람</span>의 힘을 다스렸다고 전해진다. 그녀 없이는 누구도 한 걸음도 나아가지 못했다 할 만큼 거침없던 둘째는, 무엇에도 흔들리지 않는 <span class="emphasis">대지</span>의 힘을 휘둘렀다. 가장 어렸으나 가장 재빠르고 짓궂은 몸놀림을 지녔던 막내는, 종잡을 수 없이 흐르는 <span class="emphasis">물</span>의 힘을 다스렸다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-decayed, brittle piece of ancient parchment tucked between thick, dusty spellbooks on a stone shelf. The parchment is covered in faded, archaic handwriting, with a faint, weathered illustration of three silhouetted female warriors standing together in the corner of the page. Dust particles float in a thin beam of light. Shallow depth of field, background is a dark, blurred mage tower chamber lined with ancient tomes. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+단서 그룹 : 14_기록관의 보고
+파일명 : 66_마법탑_3
+
+
+[clue_11]
+이름 : 기록관의 보고#5
+예전 이름 : 기록관의 보고#4 (지하창고#3)
 clue_id : 97531b39-af18-4335-bd25-9d956d2e771b
 variant_id : ba5b00e1-dac5-42b8-b558-0da00ae5cc18
 유형 : 증언
 단계 : 조사 5단계
 소모AP : 0
-정렬순서 : 730
+정렬순서 : 740
 중요도 : 높음
 핵심 단서 여부 : N
 교환 가능 여부 : N
@@ -367,11 +410,11 @@ variant_id : ba5b00e1-dac5-42b8-b558-0da00ae5cc18
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 슬리더
-의도 : 슬리더가 어둠의 단검을 두고 가야 했던 이유. (22차 피드백 반영: 기록관 보고로 전환, 조사5단계 시작 시 전원 앞면 자동 공개, 장소 무관)
+의도 : 슬리더가 어둠의 단검을 두고 가야 했던 이유. (22차 피드백 반영: 기록관 보고로 전환, 조사5단계 시작 시 전원 앞면 자동 공개, 장소 무관 → 이후 세 여전사 전설(구 #6)에게 #4 자리를 내주며 조사6단계로 한 칸 밀림) 추가로 창고지기의 증언 말미에 "이런 결계에 붙잡힌 자는 마력으로 저항해야 하며, 멈추면 소멸한다"는 일반 원리를 심어둠 — 기록관의 보고#3·#6와 함께 "엘드리치가 여전히 마력을 쓸 수 있다"는 추리로 이어지는 3단 힌트의 2단계.
 내용 :
 붙잡힌 창고지기 포로를 심문한 결과가 전원에게 보고되었다.
 
-"지하 창고는 물결 문양의 빛의 결계로 보호받고 있습죠. 어둠의 존재는 그 안에 갇혀 나올 수도 없고 들어갈 수도 없습니다. 발을 들이는 것조차 고통스러울 테니까요."
+"지하 창고는 물결 문양의 빛의 결계로 보호받고 있습죠. 어둠의 존재는 그 안에 갇혀 나올 수도 없고 들어갈 수도 없습니다. 발을 들이는 것조차 고통스러울 테니까요. 예로부터 전해지길, 이런 결계에 붙잡힌 자는 스스로의 마력을 끊임없이 소모해 저항해야만 버틸 수 있다고 합니다. 만약 그 흐름을 멈춘다면 즉시 소멸되어 버린다고 하더군요."
 HTML :
 <div class="story-content">
   <div class="script-direction">
@@ -379,57 +422,21 @@ HTML :
   </div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>지하 창고는 <span class="emphasis">물결 문양의 빛의 결계</span>로 보호받고 있습죠. <span class="emphasis">어둠의 존재</span>는 그 안에 갇혀 나올 수도 없고 들어갈 수도 없습니다. 발을 들이는 것조차 고통스러울 테니까요.</div>
+    <div>지하 창고는 <span class="emphasis">물결 문양의 빛의 결계</span>로 보호받고 있습죠. <span class="emphasis">어둠의 존재</span>는 그 안에 갇혀 나올 수도 없고 들어갈 수도 없습니다. 발을 들이는 것조차 고통스러울 테니까요. 예로부터 전해지길, 이런 결계에 붙잡힌 자는 스스로의 마력을 끊임없이 소모해 저항해야만 버틸 수 있다고 합니다. 만약 그 흐름을 멈춘다면 즉시 소멸되어 버린다고 하더군요.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Dramatic close-up of the rough grain and texture of a single wooden chair in deep shadows. A cold, dim light catches only one edge of the wood. Extremely shallow depth of field, background is a dark, indistinct stone wall. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 단서 그룹 : 14_기록관의 보고
 파일명 : 27_지하창고_3
-[clue_11]
-이름 : 기록관의 보고#5
-예전 이름 : 문서고#2
+
+
+[clue_12]
+이름 : 기록관의 보고#6
+예전 이름 : 기록관의 보고#5 (문서고#2)
 clue_id : 1bed31b5-db3b-48b9-bdfd-8a6d2a142676
 variant_id : 136ba46d-2cc0-4121-a7a3-2dc95fd4dcdf
 유형 : 물증
 단계 : 조사 6단계
-소모AP : 0
-정렬순서 : 740
-중요도 : 보통
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
-관련 : 엘드리치, 발로그
-의도 : 마신 다크 시리어스와 골든 킹의 과거사 정보 제공. (22차 피드백 반영: 기록관 보고로 전환, 조사6단계 시작 시 전원 앞면 자동 공개, 장소 무관)
-내용 :
-기록관이 문서고에서 성전 당시의 기록물을 찾아 낭독했다.
-
-<성전 기록물>
-"...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, 얼티밋 선샤인이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 다크 시리어스조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 그의 육신을 완전히 소멸시킬 수는 없었기에, 폐하와 마법사들은 사력을 다해 빛의 결계로 그를 옭아맸다. 물결 문양의 낙인이 마신의 마력을 억눌렀고, 그를 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다."
-HTML :
-<div class="story-content">
-  <div class="script-direction">기록관이 문서고에서 성전 당시의 기록물을 찾아 낭독했다.</div>
-  <div class="divider-gold"></div>
-  <div class="document-page">
-    <h3>&lt;성전 기록물&gt;</h3>
-    <div class="document-body small">
-      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="emphasis">얼티밋 선샤인</span>이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 그의 육신을 완전히 소멸시킬 수는 없었기에, 폐하와 마법사들은 사력을 다해 <span class="emphasis">빛의 결계</span>로 그를 옭아맸다. <span class="emphasis">물결 문양의 낙인</span>이 마신의 마력을 억눌렀고, 그를 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다.&quot;</div>
-    </div>
-  </div>
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a page in an ancient holy record book resting on a stone lectern. Shadows define the texture of the page. It features ink illustrations and dense, illegible Nordic-style handwriting (Norwegian or Finnish). No runes. Shallow depth of field, background is dark and blurred chapel interior. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
-단서 그룹 : 14_기록관의 보고
-파일명 : 21_문서고_2
-[clue_12]
-이름 : 기록관의 보고#6
-예전 이름 : 마법탑#3
-clue_id : 125eae50-1c52-479f-8936-ac6e7764589c
-variant_id : 45eacaf8-e579-4ce0-b3e2-eed245f1b3f7
-유형 : 물증
-단계 : 통합 조사
 소모AP : 0
 정렬순서 : 750
 중요도 : 보통
@@ -440,23 +447,33 @@ variant_id : 45eacaf8-e579-4ce0-b3e2-eed245f1b3f7
 획득 조건 내용 : 없음
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
-관련 : 말리스, 슬리더, 발로그
-의도 : 골든 킹과 골든 서클을 비롯해 작중 전반에 편재한 "황금"이라는 모티프의 근원을 밝히는 단서. 고대의 푸른 행성(지구) 출신 세 여전사가 정체불명의 마왕을 물리쳤다는 전설을 소개하며, 그녀들이 부르던 노래의 이름이 그대로 신성시되어 전해진다는 서술로 지하창고 보관함 비밀번호(GOLDEN, 말리스의 개인 기억과는 별개의 경로)를 은근히 암시함(글자 수는 직접 언급하지 않음). 동시에 그녀들이 지녔던 세 자루의 무구가 성 어딘가에 보관되어 있다는 언급으로 지하창고의 속성 무기 3종(바람의 장검/대지의 창/물의 쌍검)의 진짜 유래를 암시함. 전설 속 마왕의 정체는 의도적으로 확정하지 않으며, 다크 시리어스 본인도 자신의 기원을 모른다는 설정과 모순되지 않도록 한다. (22차 피드백 반영: 기록관 보고로 전환, 통합조사 시작 시 전원 앞면 자동 공개, 장소 무관) 추가로, 세 여전사 각각을 은유적으로 묘사하는 문장을 삽입해 지하창고 무기 3종의 개별 비밀번호(각 무기의 원래 주인 이름) 추리용 힌트로 기능하게 함 — 이름은 직접 언급하지 않고 역할·성격·속성만 은유로 제공.
+관련 : 엘드리치, 발로그
+의도 : 마신 다크 시리어스와 골든 킹의 과거사 정보 제공. (22차 피드백 반영: 기록관 보고로 전환, 조사6단계 시작 시 전원 앞면 자동 공개, 장소 무관 → 이후 세 여전사 전설(구 #6)에게 #4 자리를 내주며 통합조사로 한 칸 밀림) 마신의 마력이 억눌렸다는 직접 서술은 빼고 "소멸시킬 수 없어 가두는 것을 택했다"는 이유로 대체 — 기록관의 보고#3·#5와 결합해 "가두어졌을 뿐 소멸한 게 아니므로 여전히 마력으로 저항 중일 것"이라는 추리로 이어지는 3단 힌트의 3단계(완결).
 내용 :
-기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.
+기록관이 문서고에서 성전 당시의 기록물을 찾아 낭독했다.
 
-"아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져, 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 세 여전사 중 무리의 맨 앞에서 흔들리는 마음을 다잡아 세우는 목소리로 노래를 이끌던 맏이는, 숨결과도 같은 바람의 힘을 다스렸다고 전해진다. 그녀 없이는 누구도 한 걸음도 나아가지 못했다 할 만큼 거침없던 둘째는, 무엇에도 흔들리지 않는 대지의 힘을 휘둘렀다. 가장 어렸으나 가장 재빠르고 짓궂은 몸놀림을 지녔던 막내는, 종잡을 수 없이 흐르는 물의 힘을 다스렸다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다."
+<성전 기록물>
+"...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, 얼티밋 선샤인이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 다크 시리어스조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 지나치게 강대한 그를 완전히 소멸시킬 방법은 끝내 찾지 못했기에, 폐하와 마법사들은 사력을 다해 물결 문양의 빛의 결계로 그를 가두는 것을 최선으로 택했다. 그렇게 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다."
 HTML :
 <div class="story-content">
-  <div class="script-direction">기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.</div>
+  <div class="script-direction">기록관이 문서고에서 성전 당시의 기록물을 찾아 낭독했다.</div>
   <div class="divider-gold"></div>
-  <div class="quote-box">
-    <div>아득한 옛날, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 <span class="emphasis">노래의 이름</span>은 후대에도 그대로 전해져 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 세 여전사 중 무리의 맨 앞에서 흔들리는 마음을 다잡아 세우는 목소리로 노래를 이끌던 맏이는, 숨결과도 같은 <span class="emphasis">바람</span>의 힘을 다스렸다고 전해진다. 그녀 없이는 누구도 한 걸음도 나아가지 못했다 할 만큼 거침없던 둘째는, 무엇에도 흔들리지 않는 <span class="emphasis">대지</span>의 힘을 휘둘렀다. 가장 어렸으나 가장 재빠르고 짓궂은 몸놀림을 지녔던 막내는, 종잡을 수 없이 흐르는 <span class="emphasis">물</span>의 힘을 다스렸다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다.</div>
+  <div class="document-page">
+    <h3>&lt;성전 기록물&gt;</h3>
+    <div class="document-body small">
+      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="emphasis">얼티밋 선샤인</span>이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 지나치게 강대한 그를 완전히 소멸시킬 방법은 끝내 찾지 못했기에, 폐하와 마법사들은 사력을 다해 <span class="emphasis">물결 문양의 빛의 결계</span>로 그를 <span class="emphasis">가두는 것을 최선으로 택했다</span>. 그렇게 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다.&quot;</div>
+    </div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-decayed, brittle piece of ancient parchment tucked between thick, dusty spellbooks on a stone shelf. The parchment is covered in faded, archaic handwriting, with a faint, weathered illustration of three silhouetted female warriors standing together in the corner of the page. Dust particles float in a thin beam of light. Shallow depth of field, background is a dark, blurred mage tower chamber lined with ancient tomes. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a page in an ancient holy record book resting on a stone lectern. Shadows define the texture of the page. It features ink illustrations and dense, illegible Nordic-style handwriting (Norwegian or Finnish). No runes. Shallow depth of field, background is dark and blurred chapel interior. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 단서 그룹 : 14_기록관의 보고
-파일명 : 66_마법탑_3[clue_13]
+파일명 : 21_문서고_2
+
+
+
+
+
+[clue_13]
 이름 : 왕좌의 방#1
 예전 이름 : 왕좌의#방_1
 clue_id : 7a586023-6d59-4629-9a65-adba9e136588
