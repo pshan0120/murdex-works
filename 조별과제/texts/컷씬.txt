@@ -1,0 +1,89 @@
+[조별과제 단계별 컷씬 시퀀스]
+* 아트 디렉션: Photorealistic cinematic photography, matching the existing official character portrait and location reference photos (00_이준서.png, 00_최도윤.png, 00_한세린.png, 00_황기순.png, 강의실#1~5.png). Modern Korean university campus setting. Natural cinematic lighting, soft shadows, cool contemporary tones, shallow depth of field. Full frame edge-to-edge, completely fill the canvas, NO white borders, NO paper edges, NO vignette. No text, no letters, no words, no watermark.
+
+########################################
+[단계 1: 개강]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+최종발표 전날 발생한 의문의 사건,<br>
+그들에게 남은 것은 불과 몇 시간 뿐.
+
+* 이미지 프롬프트:
+Photorealistic cinematic photo matching the reference 강의실 style, framed like a movie's opening title shot. Extreme close-up on a computer monitor screen glowing alone in a dark, empty university classroom at night — the otherwise black screen shows only a small glowing padlock icon, no legible text. Beyond the desk, tall classroom windows reveal heavy snow falling silently under distant campus lights outside. Rows of empty desks fade into darkness in the background. Cold blue monitor light contrasts with a warm, isolated desk-lamp glow nearby. Hushed, tense, foreboding atmosphere, like the first frame of a mystery film before the title card. Natural cinematic lighting, shallow depth of field. No text, no letters, no words, no watermark. --ar 1:1 --no border, frame, margin, edge lines, white space, vignette
+
+* 파일명: 단계1_개강_컷1
+
+########################################
+[단계 2: 오리엔테이션]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+첫 인사 후 약 한 달 동안, 4명의 조원은 매주 두 번씩 강의실에 모여 머리를 맞댔습니다.
+
+* 이미지 프롬프트:
+Photorealistic photo matching the reference classroom style. Four young Korean university students (two men, two women, casual campus outfits) sitting together around several classroom desks pushed together into one table, laptops open, notebooks and printed papers scattered across the surface. They lean in toward each other, mid-discussion, engaged and collaborative body language. Ordinary classroom setting matching the 강의실 reference photos, daytime or early-evening light through tall windows. Medium-wide shot capturing the whole group from a slight distance so faces are not the focus. Natural cinematic lighting, shallow depth of field. No text, no letters, no words, no watermark. --ar 1:1 --no border, frame, margin, edge lines, white space, vignette
+
+* 파일명: 단계2_오리엔테이션_컷1
+
+========================================
+[컷 2]
+========================================
+* 자막:
+<span class="character-lee">이준서</span>의 차분한 <span class="emphasis">리드</span> 아래,
+
+* 이미지 프롬프트:
+Photorealistic photo of one young Korean male university student matching the 이준서 reference (athletic build, neat short black hair, calm and composed features, smart-casual outfit with a vest over a hoodie). He stands at the front of a small group huddle, calmly gesturing while explaining something, notes or a laptop in one hand. Teammates are visible but slightly out of focus in the foreground/background, listening attentively. Classroom setting matching the reference. Warm, steady, quietly confident atmosphere. Natural cinematic lighting, shallow depth of field, medium shot centered on him. No text, no letters, no words, no watermark. --ar 1:1 --no border, frame, margin, edge lines, white space, vignette
+
+* 파일명: 단계2_오리엔테이션_컷2
+
+========================================
+[컷 3]
+========================================
+* 자막:
+<span class="character-choi">최도윤</span>은 방대한 <span class="emphasis">자료</span>를 찾아왔고,
+
+* 이미지 프롬프트:
+Photorealistic photo of one young Korean male university student matching the 최도윤 reference (quiet, studious, composed appearance). He sits alone at a library or study desk in the evening, surrounded by stacks of books and printed research papers, an open laptop showing dense text/graphs in front of him. Focused, diligent expression, warm desk lamp light against a dim study-space background. Natural cinematic lighting, shallow depth of field, medium-close shot. No text, no letters, no words, no watermark. --ar 1:1 --no border, frame, margin, edge lines, white space, vignette
+
+* 파일명: 단계2_오리엔테이션_컷3
+
+========================================
+[컷 4]
+========================================
+* 자막:
+<span class="character-hwang">황기순</span>은 묵묵히 밤을 새워 <span class="emphasis">PPT</span>를 다듬었으며,
+
+* 이미지 프롬프트:
+Photorealistic photo of one young Korean male university student matching the 황기순 reference (plain, unremarkable appearance, slightly timid posture). He sits alone at a classroom desk very late at night, only his laptop screen (showing a presentation-editing program, slides blurred/illegible) lighting his tired face. The rest of the empty classroom is dim, city lights faintly visible through the window at night, matching the 강의실 night reference. Quiet, solitary, dedicated atmosphere. Natural cinematic lighting, shallow depth of field, medium-close shot. No text, no letters, no words, no watermark. --ar 1:1 --no border, frame, margin, edge lines, white space, vignette
+
+* 파일명: 단계2_오리엔테이션_컷4
+
+========================================
+[컷 5]
+========================================
+* 자막:
+<span class="character-han">한세린</span>은 멋진 <span class="emphasis">발표</span>를 위해 대본을 수없이 고쳐 읽었습니다.
+
+* 이미지 프롬프트:
+Photorealistic photo of one young Korean female university student matching the 한세린 reference (striking, glamorous appearance, long straight black hair). She stands alone in an empty classroom or hallway, holding printed presentation script pages, rehearsing aloud with a focused, slightly tense expression, one hand raised mid-gesture as if mid-speech. Evening light through windows. Natural cinematic lighting, shallow depth of field, medium shot. No text, no letters, no words, no watermark. --ar 1:1 --no border, frame, margin, edge lines, white space, vignette
+
+* 파일명: 단계2_오리엔테이션_컷5
+
+========================================
+[컷 6]
+========================================
+* 자막:
+겉으로 보기에 이 조의 팀워크는 완벽했습니다.
+누구 하나 빠지지 않고 이 과제에 진심인 것처럼 보였으니까요.
+
+* 이미지 프롬프트:
+Photorealistic photo of the same four young Korean university students standing together in the classroom, posing casually as a team, smiling as if for a candid group photo. Subtle unease beneath the surface: one or two of the smiles not quite reaching their eyes, body language slightly distant rather than fully relaxed. Cool, slightly overcast light through the windows suggesting quiet tension beneath an outwardly perfect moment. Natural cinematic lighting, shallow depth of field, medium-wide group shot. No text, no letters, no words, no watermark. --ar 1:1 --no border, frame, margin, edge lines, white space, vignette
+
+* 파일명: 단계2_오리엔테이션_컷6
