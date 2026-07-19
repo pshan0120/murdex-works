@@ -148,7 +148,7 @@
       </summary>
       <div class="collapsible-content">
         <ul class="goal-list">
-          <li><span class="character-balrog">발로그</span>와 우선적으로 밀담을 나누어 알리바이를 맞춰 두는 것이 유리합니다. 단, 그를 전적으로 신뢰하지는 마세요. 각자의 목적을 위해 임시로 결성된 위태로운 공조일 뿐, 언제 서로에게 책임을 떠넘길지 모릅니다.</li>
+          <li>당신이 <span class="character-balrog">발로그</span>를 속여 살인 트랩을 설치하게 만든 정황이 드러나면 유력한 용의자로 몰릴 수밖에 없습니다. 따라서 그와 가장 먼저 밀담을 나누어 트랩 설치와 관련된 알리바이를 확실히 맞춰두는 것이 좋습니다. 단, 방어용 트랩이라고 믿고 있는 그가 진실을 눈치채거나 궁지에 몰리게 되면, 언제든 모든 지시를 내린 사람이 당신이라며 물고 늘어질 수 있다는 점을 명심해야 합니다.</li>
         </ul>
       </div>
     </details>
@@ -172,8 +172,8 @@
   <section class="content-section">
     <div class="section-title">목표 - 말리스</div>
     <ul class="goal-list">
-      <li><strong>암살 설계의 은폐</strong>: 방어용 트랩이라 속여 <span class="character-balrog">발로그</span>에게 설치하게 한 살인 장치가 발각되지 않도록 알리바이를 철저히 관리하라. 모든 혐의와 의심이 당신을 향하지 않도록 주의해야 한다.</li>
-      <li><strong>치명적 약점의 회수</strong>: <span class="character-eldritch">엘드리치</span>가 협박 쪽지에서 언급한 <span class="emphasis">마력석</span>이 정말 그의 손에 있었는지, 혹은 이 성 안에 있기는 한 것인지부터 확인하라. 만약 사실이라면 무엇보다 최우선으로 찾아내 확보해야 한다.</li>
+      <li><strong>트랩 설계의 은폐</strong>: 방어용 트랩이라 속여 <span class="character-balrog">발로그</span>에게 설치하게 한 살인 트랩의 존재를 철저히 숨겨라. 당신이 암살을 모의했다는 정황이 드러나면 꼼짝없이 진범으로 몰리게 될 것이다. <span class="character-balrog">발로그</span>와 알리바이를 조작하고 모든 의심이 당신을 비켜가도록 주의해야 한다.</li>
+      <li><strong>마력석 확보</strong>: <span class="character-eldritch">엘드리치</span>가 협박 쪽지에서 언급한 <span class="emphasis">마력석</span>이 정말 그의 손에 있었는지, 혹은 이 성 안에 있기는 한 것인지부터 확인하라. 만약 사실이라면 무엇보다 최우선으로 찾아내 확보해야 한다.</li>
     </ul>
   </section>
 </div>
@@ -188,7 +188,7 @@
   <section class="content-section">
     <div class="section-title">목표(엘드리치 사후) - 말리스</div>
     <ul class="goal-list">
-      <li><strong>범인 검거</strong>: 방어용 트랩이라 속여 <span class="character-balrog">발로그</span>에게 설치하게 한 그 장치가 정말로 <span class="character-eldritch">엘드리치</span>를 죽인 것인지조차 당신은 확신할 수 없다. 스스로 벌인 암살 계획이 발각되지 않도록 조심하는 한편, 진짜로 그를 죽인 진범이 따로 있는 것은 아닌지 반드시 밝혀내라.</li>
+      <li><strong>범인 검거</strong>: 당신은 비록 <span class="character-eldritch">엘드리치</span>를 죽이려 살인 트랩을 고안했으나, 그를 실제로 죽인 진범은 따로 있음을 알고 있다. 자신이 암살을 모의한 정황이 들통나 억울하게 범인으로 몰리지 않도록 철저히 숨기는 한편, 진짜로 그의 숨통을 끊은 자가 누구인지 반드시 밝혀내라.</li>
       <li><strong>마력석 확보</strong>: 딸의 영혼이 잠든 마력석을 반드시 손에 넣어라. 그것이 있어야만 봉인을 풀고 딸을 구해낼 수 있다.</li>
     </ul>
   </section>
