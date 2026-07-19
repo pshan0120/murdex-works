@@ -35,55 +35,14 @@
 // 두 번째 질문
 <div class="story-content">
   <div class="section-title">2. 최종 전투</div>
-  <p><span class="character-eldritch">엘드리치</span> 플레이어의 진행에 따라, 아래 절차를 순서대로 채워나가며 판정하십시오. <span class="emphasis">모든 플레이어는 동일한 결과로 질문에 답변해야 합니다.</span></p>
-  <p>※ 처형된 동료가 없는 경우(모두 기권이거나 동률) 최종 전투 판정을 진행하지 않고, 모든 플레이어는 판정 B를 선택합니다.</p>
-
-  <div class="guide-box">
-    <span class="highlight">[1단계] 처형 대상에 따른 기준값 확인</span><br>
-    처형된 역할에 따라 적과 아군의 전투력이 이미 정해져 있습니다. 아래 표에서 바로 확인하십시오.
-    <table>
-      <thead>
-        <tr><th>처형 대상</th><th>적 전투력</th><th>아군 전투력 기준값</th></tr>
-      </thead>
-      <tbody>
-        <tr><td><span class="character-skullcrusher">스컬크러셔</span></td><td>33</td><td>28</td></tr>
-        <tr><td><span class="character-gorehoof">고어후프</span></td><td>34</td><td>27</td></tr>
-        <tr><td><span class="character-balrog">발로그</span></td><td>33</td><td>28</td></tr>
-        <tr><td><span class="character-slither">슬리더</span></td><td>32</td><td>29</td></tr>
-        <tr><td><span class="character-elantra">엘란트라</span></td><td>31</td><td>30</td></tr>
-        <tr><td><span class="character-malice">말리스</span></td><td>28</td><td>33</td></tr>
-      </tbody>
-    </table>
+  <p>전투 판정 계산기를 사용하여 결과를 확인한 후, <span class="emphasis">모든 플레이어가 동일한 결과</span>로 질문에 답변해야 합니다.</p>
+  
+  <div style="text-align: center; margin: 20px 0;">
+    <iframe src="/tools/bastards-of-the-universe/calculator" width="100%" height="800px" style="border: 2px solid #d4af37; border-radius: 4px; box-shadow: 0 4px 20px rgba(0,0,0,0.8); background: #0A0705;"></iframe>
+    <div style="margin-top: 15px;">
+      <a href="/tools/bastards-of-the-universe/calculator" target="_blank" class="emphasis" style="text-decoration: underline; font-size: 1.1em;">계산기 화면이 작아 불편하다면 여기를 눌러 새 탭에서 열기</a>
+    </div>
   </div>
-
-  <div class="guide-box">
-    <span class="highlight">[2단계] 아군 전투력 확정</span><br>
-    처형 대상과 <span class="character-eldritch">엘드리치</span>를 제외한 생존자 중 아래 단서를 소유한 역할이 있다면, [1단계]의 아군 전투력 기준값에 그 추가치를 더하십시오.
-    <table>
-      <thead>
-        <tr><th>단서</th><th>추가치</th><th>해당 역할</th></tr>
-      </thead>
-      <tbody>
-        <tr><td>빛의 검</td><td>+4</td><td><span class="character-skullcrusher">스컬크러셔</span></td></tr>
-        <tr><td>대지의 창</td><td>+3</td><td><span class="character-gorehoof">고어후프</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
-        <tr><td>바람의 장검</td><td>+3</td><td><span class="character-balrog">발로그</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
-        <tr><td>물의 쌍검</td><td>+3</td><td><span class="character-slither">슬리더</span> 또는 <span class="character-elantra">엘란트라</span></td></tr>
-        <tr><td>마력석</td><td>+8</td><td><span class="character-malice">말리스</span></td></tr>
-      </tbody>
-    </table>
-    <p class="caution-text">※ 대지의 창·바람의 장검·물의 쌍검은 한 사람이 동시에 여러 자루를 지녔더라도 중복 합산하지 않고 <span class="emphasis">+3 한 번만</span> 적용합니다. (한 사람이 다룰 수 있는 무기는 하나뿐입니다.)</p>
-  </div>
-
-  <div class="guide-box">
-    <span class="highlight">[3단계] 판정</span><br>
-    아군 전투력 ≤ 적 전투력 이라면 → <span class="emphasis">판정 A</span><br>
-    아군 전투력 &gt; 적 전투력 이라면 → <span class="emphasis">판정 B</span>
-  </div>
-
-  <span class="highlight">[예시]</span><br>
-  - <span class="character-slither">슬리더</span>가 처형 대상이 되었다면 [1단계] 표에서 적 전투력은 <span class="emphasis">32</span>, 아군 전투력 기준값은 <span class="emphasis">29</span>입니다.<br>
-  - 생존 바스타즈 멤버들 중 <span class="character-elantra">엘란트라</span>가 물의 쌍검(+3)을 소유했고, 그 외에는 아무도 단서를 소유하지 못했다면 아군 전투력은 29 + 3 = <span class="emphasis">32</span><br>
-  - 이 경우 아군 전투력과 적 전투력이 <span class="emphasis">32로 동일(동률)</span>하며, 동률은 <span class="emphasis">판정 A</span>로 처리되므로 <span class="emphasis">판정 A</span>가 됩니다.
 </div>
 
 <div class="story-content">
