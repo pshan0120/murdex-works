@@ -3,6 +3,7 @@
 <!-- ============================================ -->
 
 제목: 감춰진 얼굴
+EndingID : 9af7209a-02a2-407c-9aff-08a118876b4c
 엔딩타입: BAD_ENDING
 조건: 수장 스컬크러셔 처형 & 생존한 멤버들의 전투력 총합 ≤ 마신이 된 엘드리치의 전투력
 순서: 1
@@ -19,23 +20,23 @@
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;날 배신했던 <span class="character-goldenking">골든 킹</span>의 심복 <span class="character-solite">류크</span>. 그 이름을, 이런 곳에서 다시 듣게 될 줄은 몰랐군요.&quot;
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;날 배신했던 <span class="character-goldenking">골든 킹</span>의 개, <span class="character-solite">류크</span>. 그 이름을 이런 곳에서 다시 듣게 되다니... 이보다 더한 오산이 있을까요.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 종족을 몰살시킨 놈이 우리 수장 행세를 하고 있었다니. 형제들의 피가 아직도 네 손에 묻어있겠지.&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;...류크. 내 종족의 씨를 말린 놈이, 우리 대장 낯짝을 하고 있었다고?&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;그 고대인의 검, 실은 마신의 검이었더군요. 그런 자를 대장으로 믿고 따랐다니, 더는 신뢰할 수 없습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;그 검, 고대 유물이 아니라 마신의 것이었습니다. 그런 자를 지휘관으로 믿었다니, 더는 신뢰할 근거가 없군요.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;<span class="character-solite">솔라이트</span>의 기사가 우리를 발판 삼아 왕좌를 노렸다. 처음부터 그게 목적이었겠지.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;<span class="character-solite">솔라이트</span>의 기사가 우리를 이용해 왕좌에 올랐다. 처음부터, 그게 목적이었다.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;입을 막으려 죄 없는 서기관까지 베었더군. 그 손, 이번엔 내가 멈추게 하지.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;서기관을 베고, 입을 막았지. ...내가 끝낸다.&quot;
     </div>
   </div>
 
@@ -151,7 +152,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;...뭐야, 이 속도는.&quot;
+        <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;...크르릉! 어림도 없다!&quot;
       </div>
     </div>
 
@@ -161,7 +162,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;...말도 안 돼, 무기가 통하질 않아요.&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;...무기가 전혀 통하지 않는군요. 물리 공격으로는, 승산이 없습니다.&quot;
       </div>
     </div>
 
@@ -171,7 +172,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...크윽, 이 정도의 격차라니.&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...이 압도적인 격차. 30년 전과, 조금도 다르지 않다.&quot;
       </div>
     </div>
 
@@ -181,7 +182,7 @@
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...이 은신보다 빠르다니, 말도 안 돼.&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...읽혔다.&quot;
       </div>
     </div>
 
@@ -325,7 +326,7 @@ EndingID : 36aa992b-8183-4327-ad3f-eb9829997f20
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다. 더 볼 것 없죠.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;이걸로 상황은 정리됐군요.&quot;
     </div>
 
     <div class="script-line">
@@ -434,7 +435,7 @@ EndingID : 36aa992b-8183-4327-ad3f-eb9829997f20
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;다섯 명이 와도 결과는 같았다. 이 우주는 머지않아 다시 어둠에 잠길 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;<span class="character-malice">말리스</span>, 그 치밀한 계산으로도 이 밤은 피하지 못했군. 이 우주도 머지않아, 온전히 내 것이 될 것이다.&quot;
       </div>
     </div>
 
@@ -486,7 +487,7 @@ EndingID : 0e4f9887-aacc-4487-83fb-d8aee2d570d6
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;벽과 천장을 타고 움직인 건 너뿐이다. 부정할 수 없겠지.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;벽과 천장을 타고 움직인 자는 너뿐이다. 다른 가능성은 없다.&quot;
     </div>
 
     <div class="script-line">
@@ -530,7 +531,7 @@ EndingID : 0e4f9887-aacc-4487-83fb-d8aee2d570d6
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...결국, 그때 끝냈어야 했나.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...그때, 놈들을 다 죽여놨어야 했다.&quot;
     </div>
   </div>
 
@@ -544,7 +545,7 @@ EndingID : 0e4f9887-aacc-4487-83fb-d8aee2d570d6
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;이걸로 결론이 났습니다.&quot;
     </div>
 
     <div class="script-line">
@@ -657,7 +658,7 @@ EndingID : 0e4f9887-aacc-4487-83fb-d8aee2d570d6
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;다섯 모두 내 발밑에 있었다. 이 우주는 이제 영원히 어둠 속에 잠들 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;평생을 쫓기며 살았겠지. 하지만 이제, 이 우주 그 무엇도 나에게서 달아날 곳은 없다.&quot;
       </div>
     </div>
 
@@ -701,7 +702,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;협박까지 당하고 있었다지. 죽일 이유는 충분했겠군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;협박까지 당하고 있었다지. 죽일 이유는 충분하다.&quot;
     </div>
 
     <div class="script-line">
@@ -753,11 +754,11 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;더 볼 것도 없다는 말, 동의합니다.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...끝났군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...예상한 결과다.&quot;
     </div>
 
     <div class="script-line">
@@ -765,7 +766,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이걸로 끝이다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...명예는, 끝내 지키지 못했군.&quot;
     </div>
 
     <div class="script-line">
@@ -790,7 +791,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...스승님? 설마 당신이었단 말입니까...&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...스승님? 설마, 이 짐승 같은 힘이 당신 것이었습니까...&quot;
       </div>
     </div>
 
@@ -820,7 +821,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;방어가... 소용없다, 이 힘은.&quot;
+        <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;...방패로는, 버틸 수 없는 힘이군요.&quot;
       </div>
     </div>
 
@@ -830,7 +831,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...빠른 것도, 소용없나.&quot;
+        <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...잡혔다.&quot;
       </div>
     </div>
 
@@ -840,7 +841,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...공중도, 안전하지 않군.&quot;
+        <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...공중에도, 도피처는 없다.&quot;
       </div>
     </div>
 
@@ -860,7 +861,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;다섯이 와도 이 정도인가. 이 우주는 이제 끝없는 어둠에 잠길 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;다섯이 와도 벌레처럼 짓밟힐 뿐이었다. 이 우주도 곧, 내 발밑에서 짓눌릴 것이다.&quot;
       </div>
     </div>
 
@@ -956,19 +957,19 @@ EndingID : f020addd-7fa3-46e1-9abd-12c04d57f6c0
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;이걸로 마무리하죠.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이걸로 끝이다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;결국, 스스로 끊어낸 셈이군.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;찝찝하지만, 어쩔 수 없지.&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;그래도, 이제는 자유롭겠지.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...조용해졌군.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...마족 냄새도, 이제 안 나는군.&quot;
     </div>
 
     <div class="script-line">
@@ -1077,7 +1078,7 @@ EndingID : f020addd-7fa3-46e1-9abd-12c04d57f6c0
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;다섯 모두 바람 앞의 촛불이었다. 이 우주는 다시 어둠 속에 잠길 것이다.&quot;
+        <span class="script-character"><span class="mystery">다크 시리어스(엘드리치)</span></span>: &quot;다섯 모두 바람 앞의 촛불이었을 뿐. 이 우주도 이제, 내 날개 아래 잠잠해질 것이다.&quot;
       </div>
     </div>
 
@@ -1183,15 +1184,15 @@ EndingID : 4bc626f2-157d-40fa-8eea-f71ba72ed0c8
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;결론은 이미 나왔죠.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...조용해졌군.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...대장군답게, 끝까지 침착했군.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...끝났군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...예상 밖이었다.&quot;
     </div>
 
     <div class="script-line">
@@ -1199,7 +1200,7 @@ EndingID : 4bc626f2-157d-40fa-8eea-f71ba72ed0c8
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이걸로 끝이다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...방벽이, 무너졌군.&quot;
     </div>
   </div>
 
@@ -1344,23 +1345,23 @@ EndingID : 30952cb8-4156-4f82-b647-c99aaa3124c0
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;날 배신했던 <span class="character-goldenking">골든 킹</span>의 심복 <span class="character-solite">류크</span>. 그 이름을, 이런 곳에서 다시 듣게 될 줄은 몰랐군요.&quot;
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;날 배신했던 <span class="character-goldenking">골든 킹</span>의 개, <span class="character-solite">류크</span>. 그 이름을 이런 곳에서 다시 듣게 되다니... 이보다 더한 오산이 있을까요.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;내 종족을 몰살시킨 놈이 우리 수장 행세를 하고 있었다니. 형제들의 피가 아직도 네 손에 묻어있겠지.&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;...류크. 내 종족의 씨를 말린 놈이, 우리 대장 낯짝을 하고 있었다고?&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;그 고대인의 검, 실은 마신의 검이었더군요. 그런 자를 대장으로 믿고 따랐다니, 더는 신뢰할 수 없습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;그 검, 고대 유물이 아니라 마신의 것이었습니다. 그런 자를 지휘관으로 믿었다니, 더는 신뢰할 근거가 없군요.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;<span class="character-solite">솔라이트</span>의 기사가 우리를 발판 삼아 왕좌를 노렸다. 처음부터 그게 목적이었겠지.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;<span class="character-solite">솔라이트</span>의 기사가 우리를 이용해 왕좌에 올랐다. 처음부터, 그게 목적이었다.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;입을 막으려 죄 없는 서기관까지 베었더군. 그 손, 이번엔 내가 멈추게 하지.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;서기관을 베고, 입을 막았지. ...내가 끝낸다.&quot;
     </div>
   </div>
 
@@ -1548,7 +1549,7 @@ EndingID : 57580a4b-31dd-4d85-9376-ccb374a44c69
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;벽과 천장을 타고 움직인 건 너뿐이다. 부정할 수 없겠지.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;벽과 천장을 타고 움직인 자는 너뿐이다. 다른 가능성은 없다.&quot;
     </div>
 
     <div class="script-line">
@@ -1592,7 +1593,7 @@ EndingID : 57580a4b-31dd-4d85-9376-ccb374a44c69
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...결국, 그때 끝냈어야 했나.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...그때, 놈들을 다 죽여놨어야 했다.&quot;
     </div>
   </div>
 
@@ -1606,7 +1607,7 @@ EndingID : 57580a4b-31dd-4d85-9376-ccb374a44c69
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;이걸로 결론이 났습니다.&quot;
     </div>
 
     <div class="script-line">
@@ -1738,7 +1739,7 @@ EndingID : 9c367959-a6f6-49bd-aac2-d0b5649fa7d9
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;협박까지 당하고 있었다지. 죽일 이유는 충분했겠군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;협박까지 당하고 있었다지. 죽일 이유는 충분하다.&quot;
     </div>
 
     <div class="script-line">
@@ -1790,11 +1791,11 @@ EndingID : 9c367959-a6f6-49bd-aac2-d0b5649fa7d9
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;더 볼 것도 없다는 말, 동의합니다.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...끝났군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...예상한 결과다.&quot;
     </div>
 
     <div class="script-line">
@@ -1802,7 +1803,7 @@ EndingID : 9c367959-a6f6-49bd-aac2-d0b5649fa7d9
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이걸로 끝이다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...명예는, 끝내 지키지 못했군.&quot;
     </div>
 
     <div class="script-line">
@@ -1978,19 +1979,19 @@ EndingID : d30fdce6-1a40-43a7-a009-67b0a44d476e
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;이걸로 마무리하죠.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이걸로 끝이다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;결국, 스스로 끊어낸 셈이군.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;찝찝하지만, 어쩔 수 없지.&quot;
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: &quot;그래도, 이제는 자유롭겠지.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...조용해졌군.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...마족 냄새도, 이제 안 나는군.&quot;
     </div>
 
     <div class="script-line">
@@ -2180,15 +2181,15 @@ EndingID : e5b25c5e-c3e5-4f80-932f-2182f91f32cf
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-malice">말리스</span></span>: &quot;결론은 이미 나왔죠.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...조용해졌군.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...대장군답게, 끝까지 침착했군.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...끝났군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...예상 밖이었다.&quot;
     </div>
 
     <div class="script-line">
@@ -2196,7 +2197,7 @@ EndingID : e5b25c5e-c3e5-4f80-932f-2182f91f32cf
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;이걸로 끝이다.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...방벽이, 무너졌군.&quot;
     </div>
   </div>
 
@@ -2309,7 +2310,7 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;<span class="character-eldritch">엘드리치</span>가 그렇게 믿었건만, 그 믿음을 이용해 단검을 매달아 두었군.&quot;
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;<span class="character-eldritch">엘드리치</span>가 그렇게 믿었건만, 그 믿음을 이용해 함정을 파놓았군.&quot;
     </div>
 
     <div class="script-line">
@@ -2375,7 +2376,7 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
 
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;사건은 종결됐습니다.&quot;
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: &quot;이걸로, 진실은 드러났군요.&quot;
     </div>
 
     <div class="script-line">
@@ -2383,11 +2384,11 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...끝났군.&quot;
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: &quot;...이렇게까지, 해야 했나.&quot;
     </div>
 
     <div class="script-line">
-      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...조용해졌군.&quot;
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: &quot;...비명도, 그쳤군.&quot;
     </div>
 
     <div class="script-line">
@@ -2409,7 +2410,7 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
 
     <div class="script-container">
       <div class="script-line">
-        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...스승님? 설마, 당신이었단 말입니까...&quot;
+        <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: &quot;...스승님? 어떻게, 그녀의 몸을 빌려서까지...&quot;
       </div>
     </div>
 
