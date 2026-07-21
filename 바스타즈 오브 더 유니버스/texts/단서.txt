@@ -238,10 +238,9 @@ variant_id : be8c9675-ac2f-4833-ab2c-4a94f79ff327
 내용 :
 기록관이 서고를 정리하며 우주의 근원 속성에 관한 개론서 한 권을 발견해 요점을 정리해 전달했다.
 
-<제2권: 속성론 개요>
+<속성론 개요>
 ■ 빛 ↔ 어둠: 서로를 가장 강력하게 상쇄하는 상극 속성.
-■ 물 ↔ 불: 대립적인 에너지 흐름을 가지며 서로를 약화시킨다.
-■ 땅 ↔ 바람: 견고함과 변칙성의 상성을 형성한다.
+■ 물, 불, 땅, 바람: 4가지 기본 속성. 서로 간에 상극이나 우위가 존재하지 않는다.
 ■ 무속성: 어떤 마력 반응도 보이지 않는 순수한 상태.
 ■ 사용자의 속성과 동일한 속성의 무기를 사용하면 전투력이 향상된다.
 ■ 상극인 속성을 가진 무기나 마법은 상대에게 치명적인 대미지를 입힐 수 있다.
@@ -250,11 +249,10 @@ HTML :
   <div class="script-direction">기록관이 서고를 정리하며 우주의 근원 속성에 관한 개론서 한 권을 발견해 요점을 정리해 전달했다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <h3>&lt;제2권: 속성론 개요&gt;</h3>
+    <h3>&lt;속성론 개요&gt;</h3>
     <div class="document-body small">
       <div>■ <span class="emphasis">빛 ↔ 어둠</span>: 서로를 가장 강력하게 상쇄하는 상극 속성.</div>
-      <div>■ <span class="emphasis">물 ↔ 불</span>: 대립적인 에너지 흐름을 가지며 서로를 약화시킨다.</div>
-      <div>■ <span class="emphasis">땅 ↔ 바람</span>: 견고함과 변칙성의 상성을 형성한다.</div>
+      <div>■ <span class="emphasis">물, 불, 땅, 바람</span>: 4가지 기본 속성. 서로 간에 상극이나 우위가 존재하지 않는다.</div>
       <div>■ <span class="emphasis">무속성</span>: 어떤 마력 반응도 보이지 않는 순수한 상태.</div>
       <div>■ 사용자의 속성과 <span class="emphasis">동일한 속성의 무기</span>를 사용하면 <span class="emphasis">전투력이 향상</span>된다.</div>
       <div>■ <span class="emphasis">상극인 속성</span>을 가진 무기나 마법은 상대에게 <span class="emphasis">치명적인 대미지</span>를 입힐 수 있다.</div>
