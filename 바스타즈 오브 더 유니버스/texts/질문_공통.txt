@@ -35,13 +35,10 @@
 // 두 번째 질문
 <div class="story-content">
   <div class="section-title">2. 최종 전투</div>
-  <p>전투 판정 계산기를 사용하여 결과를 확인한 후, <span class="emphasis">모든 플레이어가 동일한 결과</span>로 질문에 답변해야 합니다.</p>
+  <p>전투 판정 계산기는 <span class="character-eldritch">엘드리치</span> 플레이어가 대표로 새 탭에서 실행하여 결과를 확인한 후 팀원들과 공유해 주세요. (<span class="emphasis">모든 플레이어가 동일한 결과</span>로 답변을 선택해야 합니다.)</p>
   
-  <div style="text-align: center; margin: 20px 0;">
-    <iframe src="/tools/bastards-of-the-universe/calculator" width="100%" height="800px" style="border: 2px solid #d4af37; border-radius: 4px; box-shadow: 0 4px 20px rgba(0,0,0,0.8); background: #0A0705;"></iframe>
-    <div style="margin-top: 15px;">
-      <a href="/tools/bastards-of-the-universe/calculator" target="_blank" class="emphasis" style="text-decoration: underline; font-size: 1.1em;">계산기 화면이 작아 불편하다면 여기를 눌러 새 탭에서 열기</a>
-    </div>
+  <div style="text-align: center; margin: 25px 0;">
+    <a href="/tools/bastards-of-the-universe/calculator" target="_blank" style="display: inline-block; padding: 12px 24px; background: #d4af37; color: #0a0705; font-weight: bold; border-radius: 6px; text-decoration: none; font-size: 1.05em; box-shadow: 0 4px 15px rgba(212,175,55,0.3);">⚔️ 전투 판정 계산기 새 탭에서 열기</a>
   </div>
 </div>
 

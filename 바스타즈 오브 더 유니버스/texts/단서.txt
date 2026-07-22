@@ -376,13 +376,13 @@ variant_id : 45eacaf8-e579-4ce0-b3e2-eed245f1b3f7
 내용 :
 기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.
 
-"천 년 전, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 노래의 이름은 후대에도 그대로 전해져, 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 세 여전사 중 무리의 맨 앞에서 흔들리는 마음을 다잡아 세우는 목소리로 노래를 이끌던 맏이는, 숨결과도 같은 바람의 힘을 다스렸다고 전해진다. 그녀 없이는 누구도 한 걸음도 나아가지 못했다 할 만큼 거침없던 둘째는, 무엇에도 흔들리지 않는 대지의 힘을 휘둘렀다. 가장 어렸으나 가장 재빠르고 짓궂은 몸놀림을 지녔던 막내는, 종잡을 수 없이 흐르는 물의 힘을 다스렸다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다."
+"천 년 전, 머나먼 푸른 행성에 세 여전사가 있었다. 마왕의 군세에 맞서 부르던 그녀들의 노래는 마침내 승리를 가져왔고, 그 신성한 노래의 이름은 오늘날 왕가의 혈통과 성채의 장식 속에 살아 숨 쉰다. 맏이는 맨 앞에서 모두의 용기를 북돋는 목소리로 노래를 이끌며, 바람의 힘을 다스렸다. 둘째는 한 치의 물러섬도 없이 전열을 지키며, 무엇에도 흔들리지 않는 대지의 힘을 휘둘렀다. 막내는 가장 어리고 재빠른 몸놀림으로 전장을 누비며, 변화무쌍하게 흐르는 물의 힘을 다스렸다. 그녀들이 지녔던 세 자루의 무구는 오랜 세월이 지난 지금도 이 성 어딘가에 고이 잠들어 있다."
 HTML :
 <div class="story-content">
   <div class="script-direction">기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>천 년 전, 머나먼 푸른 행성에 세 명의 여전사가 있었다. 그녀들은 마왕의 군세에 맞서 싸웠고, 함께 부르던 노래의 힘을 빌려 마침내 승리를 거두었다고 전해진다. 그 <span class="emphasis">노래의 이름</span>은 후대에도 그대로 전해져 사람들은 이를 신성하게 여겼다. 오늘날 왕가에 흐르는 피와 성채 곳곳의 장식들은 모두 스스로를 그 세 여전사의 후예라 자처하는 데서 비롯된 것이다. 세 여전사 중 무리의 맨 앞에서 흔들리는 마음을 다잡아 세우는 목소리로 노래를 이끌던 맏이는, 숨결과도 같은 <span class="emphasis">바람</span>의 힘을 다스렸다고 전해진다. 그녀 없이는 누구도 한 걸음도 나아가지 못했다 할 만큼 거침없던 둘째는, 무엇에도 흔들리지 않는 <span class="emphasis">대지</span>의 힘을 휘둘렀다. 가장 어렸으나 가장 재빠르고 짓궂은 몸놀림을 지녔던 막내는, 종잡을 수 없이 흐르는 <span class="emphasis">물</span>의 힘을 다스렸다. 전해지기로, 그녀들이 지녔던 세 자루의 무구 역시 오랜 세월이 흐른 지금까지 이 성 어딘가에 고이 보관되어 있다고 한다.</div>
+    <div>천 년 전, 머나먼 푸른 행성에 세 여전사가 있었다. 마왕의 군세에 맞서 부르던 그녀들의 노래는 마침내 승리를 가져왔고, 그 <span class="emphasis">신성한 노래의 이름</span>은 오늘날 왕가의 혈통과 성채의 장식 속에 살아 숨 쉰다.<br>맏이는 맨 앞에서 모두의 용기를 북돋는 목소리로 노래를 이끌며, <span class="emphasis">바람</span>의 힘을 다스렸다.<br>둘째는 한 치의 물러섬도 없이 전열을 지키며, 무엇에도 흔들리지 않는 <span class="emphasis">대지</span>의 힘을 휘둘렀다.<br>막내는 가장 어리고 재빠른 몸놀림으로 전장을 누비며, 변화무쌍하게 흐르는 <span class="emphasis">물</span>의 힘을 다스렸다.<br>그녀들이 지녔던 세 자루의 무구는 오랜 세월이 지난 지금도 이 성 어딘가에 고이 잠들어 있다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-decayed, brittle piece of ancient parchment tucked between thick, dusty spellbooks on a stone shelf. The parchment is covered in faded, archaic handwriting, with a faint, weathered illustration of three silhouetted female warriors standing together in the corner of the page. Dust particles float in a thin beam of light. Shallow depth of field, background is a dark, blurred mage tower chamber lined with ancient tomes. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
