@@ -451,7 +451,7 @@ variant_id : 136ba46d-2cc0-4121-a7a3-2dc95fd4dcdf
 기록관이 문서고에서 성전 당시의 기록물을 찾아 낭독했다.
 
 <성전 기록물>
-"...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, 얼티밋 선샤인이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 다크 시리어스조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 지나치게 강대한 그를 완전히 소멸시킬 방법은 끝내 찾지 못했기에, 폐하와 마법사들은 사력을 다해 물결 문양의 빛의 결계로 그를 가두는 것을 최선으로 택했다. 그렇게 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다."
+"...태양이 중천에 다다른 정오의 찰나, 국왕 폐하의 빛의 마법, 얼티밋 선샤인이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 비명을 지르며 소멸하거나 사방으로 흩어졌다. 마신 다크 시리어스조차 그 위력 앞에 일시적으로 힘을 잃고 무릎을 꿇었다. 하지만 마신의 강대한 힘을 완전히 소멸시킬 방법은 끝내 찾지 못했기에, 폐하와 마법사들은 사력을 다해 빛의 결계로 그를 가두는 길을 택해야 했다. 그렇게 협곡 밑바닥으로 떨어뜨려 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다."
 HTML :
 <div class="story-content">
   <div class="script-direction">기록관이 문서고에서 성전 당시의 기록물을 찾아 낭독했다.</div>
@@ -459,7 +459,7 @@ HTML :
   <div class="document-page">
     <h3>&lt;성전 기록물&gt;</h3>
     <div class="document-body small">
-      <div>&quot;...정오의 태양이 머리 위에 놓인 그 찰나, 국왕 폐하의 빛의 마법, <span class="emphasis">얼티밋 선샤인</span>이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 속수무책으로 소멸하거나 비명을 지르며 사방으로 흩어졌다. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 무력화되어 고꾸라졌다. 하지만 지나치게 강대한 그를 완전히 소멸시킬 방법은 끝내 찾지 못했기에, 폐하와 마법사들은 사력을 다해 <span class="emphasis">물결 문양의 빛의 결계</span>로 그를 <span class="emphasis">가두는 것을 최선으로 택했다</span>. 그렇게 협곡 밑바닥으로 추락시켜 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다.&quot;</div>
+      <div>&quot;...태양이 중천에 다다른 정오의 찰나, 국왕 폐하의 빛의 마법, <span class="emphasis">얼티밋 선샤인</span>이 전장을 집어삼켰다. 무적이라 믿었던 암흑 군단은 그 눈부신 광휘 앞에 비명을 지르며 소멸하거나 사방으로 흩어졌다. 마신 <span class="mystery">다크 시리어스</span>조차 그 위력 앞에 일시적으로 힘을 잃고 무릎을 꿇었다. 하지만 마신의 강대한 힘을 완전히 소멸시킬 방법은 끝내 찾지 못했기에, 폐하와 마법사들은 사력을 다해 <span class="emphasis">빛의 결계</span>로 그를 <span class="emphasis">가두는 길을 택해야 했다</span>. 그렇게 협곡 밑바닥으로 떨어뜨려 봉인하기까지, 그 짧은 시간은 참으로 신이 허락한 기적과도 같았다.&quot;</div>
     </div>
   </div>
 </div>
@@ -1497,7 +1497,7 @@ clue_id : e0155df6-69bd-4b70-ad9d-0bdd34e82935
 variant_id : f71a48f7-c02d-4aa7-bad7-91fe9ca06635
 유형 : 물증
 단계 : 조사 4단계
-소모AP : 0
+소모AP : 1
 정렬순서 : 380
 중요도 : 높음
 핵심 단서 여부 : N
@@ -2161,10 +2161,10 @@ variant_id : 899cb622-e225-44d2-9936-003bb11493de
 관련 : 말리스
 의도 : 거대 의식을 위한 설계도의 일부.
 내용 :
-낡은 양피지에 그려진 기하학 도식이다. 중앙의 다중 원형 문양을 중심으로 무수한 선들이 얽혀 있으며, 선이 교차하는 결절점마다 고대 문자가 빼곡히 기입되어 있다. 도식 외곽에는 빈 원형 칸들이 나열되어 있고, 각 칸 옆에는 작은 별 모양 기호가 표시되어 있다. 모든 외곽 칸에서 중앙 원으로 이어지는 선들은 다른 선들보다 유독 굵고 진하다.
+낡은 양피지에 그려진 기하학 도식이다. 중앙의 다중 원형 문양을 중심으로 무수한 선들이 얽혀 있으며, 선들이 교차하는 지점마다 고대 문자가 기입되어 있다. 도식 외곽에는 빈 원형 칸들이 나열되어 있고, 각 칸 옆에는 작은 별 모양 기호가 표시되어 있다. 모든 외곽 칸에서 중앙 원으로 이어지는 선들은 다른 선들보다 유독 굵고 진하다.
 HTML :
 <div class="story-content">
-  <div>낡은 양피지에 그려진 기하학 도식이다. 중앙의 다중 원형 문양을 중심으로 무수한 선들이 얽혀 있으며, 선이 교차하는 결절점마다 <span class="emphasis">고대 문자</span>가 빼곡히 기입되어 있다. 도식 외곽에는 빈 원형 칸들이 나열되어 있고, 각 칸 옆에는 <span class="emphasis">작은 별 모양</span> 기호가 표시되어 있다. <span class="emphasis">모든 외곽 칸에서 중앙 원</span>으로 이어지는 선들은 다른 선들보다 유독 굵고 진하다.</div>
+  <div>낡은 양피지에 그려진 기하학 도식이다. 중앙의 다중 원형 문양을 중심으로 무수한 선들이 얽혀 있으며, 선들이 교차하는 지점마다 고대 문자가 기입되어 있다. 도식 외곽에는 빈 원형 칸들이 나열되어 있고, 각 칸 옆에는 <span class="emphasis">작은 별 모양</span> 기호가 표시되어 있다. <span class="emphasis">모든 외곽 칸에서 중앙 원</span>으로 이어지는 선들은 다른 선들보다 유독 굵고 진하다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a detailed, complex geometric diagram drawn in dark blue-violet ink on a yellowed, weathered leather parchment (vellum). At the center is a massive multi-layered circular mandala-like pattern, with thousands of fine, swirling indigo-colored lines radiating outwards. Tiny, barely legible ancient script symbols are inscribed at every intersection (nodal point) of the lines. Around the periphery, empty circular slots are marked with cryptic symbols, each connected to the central circle by significantly thicker, bold indigo lines that dominate the visual hierarchy. Intense focus on the rich ink texture and the rough, aged skin surface of the parchment. Soft, dramatic chiaroscuro lighting, deep shadows under the edges of the leather. Detailed 1980s fantasy oil painting style. Warm, sepia-toned paper against a dark, blurred laboratory background.
 단서 그룹 : 03_연구실
@@ -2190,12 +2190,12 @@ variant_id : 899cb622-e225-44d2-9936-003bb11493de
 관련 : 말리스
 의도 : 마법진이 거대 영적 수렴 장치이며, 그 중심에 강대한 육체를 매개로 영혼이 깃들면 위력이 극대화됨을 해독.
 내용 :
-말리스가 마법 지식을 발휘해 도식의 문양들을 분석해 낸 내용이다. "이 도식은 외곽의 순환선을 따라 마력을 집중시키는 '영적 에너지 수렴 장치' 설계도다. 방대한 마력을 제단 중앙으로 수렴시켜, 매개체의 육신이 사망한 직후 영혼을 안착시키면 육체를 장악해 부활 의식을 성립시킬 수 있다고 적혀있다."
+말리스가 마법 지식을 활용해 도식의 문양들을 해독해 낸 내용이다. "이 도식은 외곽의 원형 선을 따라 마력을 끌어모으는 마법진의 설계도다. 방대한 마력을 제단 중앙으로 모아, 대상이 숨을 거두는 순간 영혼을 깃들게 하면 육체를 차지해 부활을 완성할 수 있다고 적혀 있다."
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="character-malice">말리스</span>가 마법 지식을 발휘해 도식의 문양들을 분석해 낸 내용이다.</div>
+  <div class="script-direction"><span class="character-malice">말리스</span>가 마법 지식을 활용해 도식의 문양들을 해독해 낸 내용이다.</div>
   <div class="divider-gold"></div>
-  <div>이 도식은 외곽의 순환선을 따라 마력을 집중시키는 <span class="emphasis">영적 에너지 수렴 장치</span> 설계도다. 방대한 마력을 제단 중앙으로 수렴시켜, <span class="emphasis">매개체의 육신</span>이 사망한 직후 영혼을 안착시키면 육체를 장악해 <span class="emphasis">부활 의식</span>을 성립시킬 수 있다고 적혀있다.</div>
+  <div>이 도식은 외곽의 원형 선을 따라 마력을 끌어모으는 <span class="emphasis">마법진</span>의 설계도다. 방대한 마력을 제단 중앙으로 모아, <span class="emphasis">대상</span>이 숨을 거두는 순간 영혼을 깃들게 하면 육체를 차지해 <span class="emphasis">부활</span>을 완성할 수 있다고 적혀 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a complex geometric diagram on yellowed leather parchment, now dynamically overlaid with glowing, semi-transparent crimson and violet runic characters that seem to float just above the surface of the leather. At the center of the diagram, a bright, mystical violet light surges from the dense intersecting lines, indicating magical activation. The hand of a dark sorcerer (Malice), wearing dark fingerless leather gloves, is gently tracing the glowing ancient script with a finger, leaving a faint trail of purple magical sparks in the air. Soft chiaroscuro lighting, dark and blurry laboratory background with dusty alchemy bottles. Detailed 1980s fantasy oil painting style. High tension and discovery.
 단서 그룹 : 03_연구실
