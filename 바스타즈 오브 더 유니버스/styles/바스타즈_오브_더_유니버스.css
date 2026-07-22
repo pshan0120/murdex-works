@@ -105,9 +105,9 @@
 }
 
 .story-content .emphasis {
-    color: #8a7f76;
-    /* 웜 그레이(따뜻한 회색)로 스컬크러셔 색상과 구분되며 밝은 배경에서도 잘 보임 */
-    font-weight: 800;
+    color: #948d88;
+    /* 무게감 있는 다크 웜그레이로 주요 색상과 겹치지 않으면서 강조 느낌을 극대화 */
+    font-weight: 900;
 }
 
 /* 인용구 박스 - 오래된 양피지나 비석 느낌 */
@@ -148,7 +148,7 @@
 
 /* 아코디언 (Details/Summary) 스타일 */
 .story-content details {
-    margin: 2em 0;
+    margin: 0;
 }
 
 .story-content details summary {

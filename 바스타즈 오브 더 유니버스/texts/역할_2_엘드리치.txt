@@ -56,11 +56,11 @@
     <p>
       당신의 진짜 정체는 만물의 종말을 상징하는 암흑 그 자체, 마신 <span class="mystery">다크 시리어스</span>다.
       태초의 공허에서 태어나 마족들을 수족으로 거느리고 거대한 암흑 군단을 형성해 은하계 절반을 파괴했다.
-      어떤 군대도 진격을 막지 못했으나, 결국 <span class="character-goldenking">골든 킹</span>이 이끄는 <span class="character-solite">솔라이트</span>와 <span class="emphasis">신들의 전쟁</span>에서 맞붙게 되었다.
+      어떤 군대도 진격을 막지 못했으나, 결국 <span class="character-goldenking">골든 킹</span>이 이끄는 <span class="character-solite">솔라이트</span>와 맞붙게 되었다. 이 전쟁은 후세에 <span class="emphasis">신들의 전쟁</span>이라 불리게 된다.
     </p>
     <p>
-      전란 끝에 <span class="character-solite">솔라이트</span>를 변방의 <span class="emphasis">푸른 행성</span>으로 몰아넣고 결전을 벌였다.
-      하지만 전멸을 각오한 그들의 연합군은 당신을 봉인하기 위해 비장의 마법, <span class="emphasis">얼티밋 선샤인</span>을 시전했다.
+      치열한 접전 끝에 점차 우위를 점한 당신의 암흑 군단은 <span class="character-solite">솔라이트</span>를 은하계 변방의 <span class="emphasis">푸른 행성</span>까지 몰아붙이며 결전을 벌였다.
+      그러자 전멸의 위기에 몰린 그들은 당신을 봉인하고자 비장의 마법 <span class="emphasis">얼티밋 선샤인</span>을 시전했다.
       엄청난 빛의 폭발에 당신은 일시적으로 무력해졌고, 그 틈을 타 <span class="character-goldenking">골든 킹</span>이 펼친 황금 결계의 낙인이 <span class="emphasis">뒷목</span>에 새겨지며 붉은 <span class="emphasis">대협곡</span> 아래로 추락해 봉인되었다.
     </p>
     <p>
@@ -178,6 +178,24 @@
       </div>
     </details>
   </section>
+  <section class="content-section">
+    <details>
+      <summary>
+        숙련자를 위한 플레잉 팁
+        <span class="toggle-wrapper">
+          <span class="toggle-text"></span>
+          <span class="toggle-icon">▼</span>
+        </span>
+      </summary>
+      <div class="collapsible-content">
+        <ul class="goal-list">
+          <li>
+            당신은 사건의 전말과 대부분의 비밀을 이미 파악한 채 게임을 시작합니다. 다른 이들에 비해 정보의 우위를 점하고 있는 만큼, 단순히 개인 목표를 달성하는 것에 그치지 않고 판 전체의 흐름을 조율하며 모두가 서사에 더욱 흥미진진하게 몰입할 수 있도록 이끌어 보는 것도 색다른 재미가 될 것입니다.
+          </li>
+        </ul>
+      </div>
+    </details>
+  </section>
 </div>
 
 8. 숨기고 싶은 비밀
@@ -198,7 +216,7 @@
   <section class="content-section">
     <div class="section-title">목표 - 엘드리치</div>
     <ul class="goal-list">
-      <li><strong>기만 공작</strong>: 당신은 오늘 18시, 스스로 설계한 트랩에 의해 살해당한 것처럼 죽음을 맞을 것이다. 이는 부활을 위해 미리 짜놓은 계획된 절차이니 당황하거나 막으려 하지 마라. 그전까지 남은 시간 동안, 멤버들 중 부활의 그릇으로 삼기에 적합한 가장 강한 자를 눈여겨보고, 은밀히 뿌려둔 협박 쪽지들이 만들어낸 의심과 반목을 자연스럽게 부추겨 그에게 혐의가 쏠리도록 유도하라. 현자로서의 신뢰를 잃지 않는 것이 최우선이다.</li>
+      <li><strong>기만 공작</strong>: 당신은 오늘 18시, <span class="character-balrog">발로그</span>가 설치한 트랩을 작동시켜 죽음을 맞이할 것이다. 남은 시간 동안, 멤버들 중 부활의 그릇으로 삼기에 적합한 가장 강한 자를 눈여겨보고, 은밀히 뿌려둔 협박 쪽지들이 만들어낸 의심과 반목을 자연스럽게 부추겨 그에게 혐의가 쏠리도록 유도하라. 현자로서의 신뢰를 잃지 않는 것이 최우선이다.</li>
     </ul>
     <p class="guide-text">※ 안내: 사망 이후 다른 플레이어들에게는, 당신이 탐정 역할을 하는 것처럼 보이게 될 것입니다.</p>
   </section>
@@ -209,8 +227,9 @@
   <section class="content-section">
     <div class="section-title">목표(엘드리치 사후) - 엘드리치</div>
     <ul class="goal-list">
-      <li><strong>마신 부활</strong>: <span class="character-bastards">바스타즈</span> 멤버 중 한 명을 범인으로 몰아 처형되도록 유도하라. 누구의 육체든 그릇이 될 수 있지만, 마신의 완전한 힘을 되찾으려면 강한 자를 매개체로 삼아야 한다. 대상을 정했다면 집요하게 약점을 파고들어 범인으로 몰아라. 그가 처형되는 순간, 당신은 그의 육체를 차지해 마신 <span class="mystery">다크 시리어스</span>로 완벽히 부활할 것이다.</li>
-      <li><strong>옛 무구의 기운</strong>: 영혼이 된 지금에서야 어렴풋이 느껴지는 기운이 있다. 마신이었던 시절 사용하던 오래된 무언가가 아직 이 성채 어딘가에 남아 있는 듯하다. 누군가 그런 물건을 발견했다면, 그것을 당신에게 가져다주도록 만들어라. 그렇다면 훗날 큰 도움이 될 것이다.</li>
+      <li><strong>마신 부활</strong>: <span class="character-bastards">바스타즈</span> 멤버 중 한 명을 범인으로 몰아 처형되도록 유도하라. 누구의 육체든 그릇이 될 수 있지만, 마신의 완전한 힘을 되찾으려면 강한 자를 매개체로 삼아야 한다. 특히 처형 대상이, <span class="emphasis">마신인 당신이 다룰 수 있는 무기</span>를 소지하고 있다면 부활 후 당신의 힘은 더욱 강해질 것이다. 대상을 정했다면 집요하게 약점을 파고들어 범인으로 몰아라. 그가 처형되는 순간, 당신은 그의 육체를 차지해 마신 <span class="mystery">다크 시리어스</span>로 완벽히 부활할 것이다.</li>
+      <li><strong>옛 무구의 기운</strong>: 영혼이 된 지금에서야 어렴풋이 느껴지는 기운이 있다. 마신이었던 시절 사용하던 오래된 무언가가 아직 이 성채 어딘가에 남아 있는 듯하다. 누군가 그런 물건을 조사해서 획득했다면, 그것을 당신에게 건네주도록 만들어라. 그렇다면 훗날 큰 도움이 될 것이다.</li>
     </ul>
+    <p class="guide-text">※ 안내: 사망 후 영혼 상태에서는 직접 단서를 조사할 수 없습니다. 다른 플레이어가 해당 단서를 조사해서 당신에게 건네주도록 만들어야 합니다.</p>
   </section>
 </div>

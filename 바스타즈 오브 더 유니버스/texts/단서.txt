@@ -286,7 +286,7 @@ variant_id : e8206479-7eff-4b70-a69d-462e63e86571
 내용 :
 기록관이 서고 정리를 이어가던 중, 마도 광물을 다룬 책자를 찾아 다음 내용을 정리해 보고했다.
 
-<제1권: 마도 광물편>
+<마도 광물편>
 ■ 영혼석: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. 영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체이다.
 ■ 마력석: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 청색, 영혼이 봉인되면 남색으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 청람색 빛을 발한다. 이 돌은 천문학적인 가치가 있다.
 ■ 흑요석: 인간들 사이에서는 하급 보석으로 취급되나, 마족들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.
@@ -295,10 +295,10 @@ HTML :
   <div class="script-direction">기록관이 서고 정리를 이어가던 중, 마도 광물을 다룬 책자를 찾아 다음 내용을 정리해 보고했다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <h3>&lt;제1권: 마도 광물편&gt;</h3>
+    <h3>&lt;마도 광물편&gt;</h3>
     <div class="document-body small">
       <div>■ <strong>영혼석</strong>: 마치 차가운 밤하늘을 수놓는 새벽별과 같은 기묘한 형상을 이루고 있는 신비로운 돌. <span class="emphasis">영혼이 깃들 수 있으며, 부활 의식의 핵심 매개체</span>이다.</div>
-      <div>■ <strong>마력석</strong>: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 <span class="emphasis">청색</span>, 영혼이 봉인되면 <span class="emphasis">남색</span>으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 <span class="emphasis">청람색 빛</span>을 발한다. 이 돌은 천문학적인 가치가 있다.</div>
+      <div>■ <strong>마력석</strong>: 대상의 마력이나 영혼을 추출하여 가두는 신비로운 돌. 본래 투명하지만 마력이 봉인되면 <span class="emphasis">청색</span>, 영혼이 봉인되면 <span class="emphasis">남색</span>으로 변하며, 두 정수가 모두 봉인될 경우 강렬한 <span class="emphasis">청람색 빛</span>을 발한다. 이 돌은 <span class="emphasis">천문학적인 가치</span>가 있다.</div>
       <div>■ <strong>흑요석</strong>: 인간들 사이에서는 하급 보석으로 취급되나, <span class="emphasis">마족</span>들 사이에서는 인간의 술이나 담배처럼 기호품으로 애용된다.</div>
     </div>
   </div>
@@ -792,7 +792,7 @@ HTML :
   <div class="document-page">
     <h3>&lt;희귀 마도구 조사 보고&gt;</h3>
     <div class="document-body small">
-      <div>■ <strong>심연의 적석</strong>: 고대 마족의 전설적인 보물. 소유자의 종족에 따라 기이한 영향을 미친다. <span class="emphasis">마족</span>이 지니면 어떠한 계약에도 구속받지 않는 권능을 갖게 되며, <span class="emphasis">수인종</span>이 지니면 초월적인 신체 능력을 얻는 대신 그에 따른 강력한 부작용이 뒤따른다. 만약 <span class="emphasis">인간</span>이 이를 오랫동안 지니고 있으면, 사랑의 묘약을 마신 것처럼 곁에 있던 이성에게 서서히 매혹되어 간다. 이 돌은 천문학적인 가치가 있다.</div>
+      <div>■ <strong>심연의 적석</strong>: 고대 마족의 전설적인 보물. 소유자의 종족에 따라 기이한 영향을 미친다. <span class="emphasis">마족</span>이 지니면 어떠한 계약에도 구속받지 않는 권능을 갖게 되며, <span class="emphasis">수인종</span>이 지니면 초월적인 신체 능력을 얻는 대신 그에 따른 강력한 부작용이 뒤따른다. 만약 <span class="emphasis">인간</span>이 이를 오랫동안 지니고 있으면, 사랑의 묘약을 마신 것처럼 곁에 있던 이성에게 서서히 매혹되어 간다. 이 돌은 <span class="emphasis">천문학적인 가치</span>가 있다.</div>
       <div>■ <strong>투명 망토</strong>: 희귀한 빛굴절 석영을 실로 뽑아 직조한 망토. 뒤집어쓰기만 하면 빛을 굴절시켜 <span class="emphasis">착용자의 모습을 완전히 감춘다.</span></div>
       <div>■ <strong>마나플레어 와이어</strong>: 극소량의 마력 반응에도 예민하게 반응하는 미세 은사. 일정 강도 이상의 <span class="emphasis">마력이 감지</span>되면 즉시 타올라 검은 재만 남기는 성질이 있어 보안 장치로 쓰인다. [연구실 내 보관 중]</div>
       <div>■ <strong>비전 세공함</strong>: 마력을 머금은 원석을 세공하여 그 내부에 숨겨진 <span class="emphasis">본질적인 형상</span>을 이끌어낼 때 사용하는 신비로운 세공 도구들이 담긴 상자. [연구실 내 보관 중]</div>
