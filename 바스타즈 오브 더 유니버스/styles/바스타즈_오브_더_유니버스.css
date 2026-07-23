@@ -607,7 +607,8 @@
     margin-top: 1.0em;
     margin-bottom: 1.0em;
     border-radius: 4px;
-    font-style: italic;
+    font-style: normal;
+    line-height: 1.75;
     color: #dfdfdf;
 }
 
