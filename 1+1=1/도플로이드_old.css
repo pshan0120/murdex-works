@@ -259,28 +259,24 @@
 }
 
 /* 캐릭터별 고유 컬러 */
-.character-veyla {
-    color: #ff6b9d !important;
-    /* Rose - 베일라: 집착적인 사랑과 감정 */
-    text-shadow: 0 0 8px rgba(255, 107, 157, 0.5);
+.character-leba {
+    color: #a8c0ff !important;
+    /* Blue - Abel */
+    text-shadow: 0 0 8px rgba(168, 192, 255, 0.5);
 }
 
-.character-marcus {
-    color: #e8a33d !important;
-    /* Amber - 마커스: 정부 수사관, 억눌린 분노 */
-    text-shadow: 0 0 8px rgba(232, 163, 61, 0.5);
+.character-niac {
+    color: #00ffcc !important;
+    /* Teal/Cyber - Cain */
+    text-shadow: 0 0 8px rgba(0, 255, 204, 0.5);
 }
 
-.character-clay {
-    color: #a875ff !important;
-    /* Violet - 클레이(AIex): 진위를 알 수 없는 존재의 이질감 */
-    text-shadow: 0 0 8px rgba(168, 117, 255, 0.5);
-}
-
-.character-alex {
-    color: #8c8fa3 !important;
-    /* Slate Lavender - 알렉스: 극에 직접 등장하지 않는, 부재와 기억의 인물 */
-    text-shadow: 0 0 6px rgba(140, 143, 163, 0.4);
+.character-bios {
+    color: #ff3333 !important;
+    /* Red - System */
+    text-shadow: 0 0 10px rgba(255, 51, 51, 0.6);
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 900;
 }
 
 /* ============================================================

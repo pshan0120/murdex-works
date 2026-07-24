@@ -1,0 +1,185 @@
+[구역 목록]
+- A구역: 정문 로비, 보안 검색대, 소장실
+- C구역: 일반 연구실, 비밀 병실 (구 직원 휴게실)
+- B구역: 보안 물품 창고, 기록 보관실, 서쪽 환풍구
+- D구역: 폐기물 소각장, 지하 주 배양실
+
+[장소 목록]
+
+1. 정문 로비
+- 파일명: 01_정문_로비
+- 설명: 프로메테우스 연구소 A구역의 입구. 대리석 바닥과 높은 천장을 가진 웅장하고 차가운 공간이다. 한쪽 벽면에는 프로메테우스 연구소의 로고가 차가운 은빛으로 빛나고 있으며, 로비 중앙의 인포메이션 데스크는 비어 있다. 락다운 경보로 인해 정문은 굳게 닫혀 있다.
+- HTML: 
+<div class="story-content">
+  <div class="location-box location-text">
+    프로메테우스 연구소 A구역의 입구. 대리석 바닥과 높은 천장을 가진 웅장하고 차가운 공간이다. 한쪽 벽면에는 연구소의
+    로고가 차가운 은빛으로 빛나고 있으며, 락다운 경보로 인해 <span class="location-highlight">입구 정문</span>은 굳게
+    닫혀 있다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, ultra-modern and sterile
+grand lobby of a corporate research facility, no people. Polished marble floors, high ceilings, bare and stark walls without any text or logos. A massive, heavy locked entrance door. Cold LED lighting, atmospheric and corporate. Grainy 16mm film
+still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting
+from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained,
+observational composition, subtle film grain and analog imperfections.
+
+2. 보안 검색대
+- 파일명: 02_보안_검색대
+- 설명: 로비에서 내부 구역으로 들어가는 길목에 설치된 첨단 보안 시설. 여러 대의 엑스레이 스캐너와 생체 인식 게이트가 늘어서 있다. 현재는 락다운 모드로 인해 모든 게이트의 표시등이 붉은색으로 켜져 있으며, 비상 패스 카드나 소장의 지문이 없으면 통과할 수 없는 삼엄한 통제 구역이다.
+- HTML: 
+<div class="story-content">
+  <div class="location-box location-text">
+    로비에서 내부 구역으로 들어가는 길목에 설치된 첨단 보안 시설. 여러 대의 스캐너와
+    <span class="location-highlight">생체 인식 게이트</span>가 늘어서 있다. 현재는 락다운 모드로 인해 모든 게이트의
+    표시등이 붉은색으로 켜져 있으며, 소장의 지문이 없으면 통과할 수 없는 삼엄한 통제 구역이다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, high-tech security checkpoint
+hallway in a sci-fi facility, no people. Metal detectors, x-ray scanners, and biometric turnstiles glowing with
+aggressive red lockdown lights. Cold, industrial, and oppressive atmosphere. Grainy 16mm film still, 1990s X-Files-style
+investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources —
+flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle
+film grain and analog imperfections.
+
+3. 소장실
+- 파일명: 03_소장실
+- 설명: A구역 가장 안쪽에 위치한 닥터 클레이의 개인 집무실. 차가운 금속재질의 넓은 책상과 모니터들이 놓여 있으며, 벽면에는 기하학적인 현대 미술품이 걸려 있다. 전체적으로 감정이 배제된 차갑고 무기질적인 분위기를 풍기며, 방 안쪽에는 B구역(기록 보관실)으로 통하는 굳게 닫힌 보안 셔터가 자리 잡고 있다.
+- HTML: 
+<div class="story-content">
+  <div class="location-box location-text">
+    A구역 가장 안쪽에 위치한 닥터 클레이의 개인 집무실. 차가운 금속재질의 넓은 책상과 모니터들이 놓여 있으며, 방
+    안쪽에는 B구역으로 통하는 <span class="location-highlight">굳게 닫힌 보안 셔터</span>가 자리 잡고 있다. 감정이
+    배제된 차갑고 무기질적인 분위기를 풍긴다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, ultra-modern and cold sci-fi
+director's office, no people. A sleek metal desk with multiple glowing computer monitors. A heavily armored, locked
+security shutter door at the back of the room. Cold LED lighting, sterile and emotionless atmosphere. Grainy 16mm film
+still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting
+from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained,
+observational composition, subtle film grain and analog imperfections.
+
+4. 일반 연구실
+- 파일명: 04_일반_연구실
+- 설명: C구역에 위치한 넓은 개방형 실험실. 수십 개의 하얀색 연구 데스크들이 질서 정연하게 늘어서 있고, 현미경과 각종 유전자 분석 장비들이 놓여 있다. 연구원들이 모두 실종(또는 해고)된 탓에 서류들이 책상 위에 어지럽게 흩어진 채 버려져 있으며, 사람의 온기라고는 찾아볼 수 없는 유령 같은 공간이다.
+- HTML: 
+<div class="story-content">
+  <div class="location-box location-text">
+    C구역에 위치한 넓은 개방형 실험실. 수십 개의 하얀색 연구 데스크들이 늘어서 있고, 현미경과 각종 장비들이 놓여 있다.
+    연구원들이 떠난 탓에 서류들이 책상 위에 <span class="location-highlight">어지럽게 흩어진 채</span> 버려져 있으며,
+    사람의 온기라고는 찾아볼 수 없는 유령 같은 공간이다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, large open-plan scientific
+laboratory, no people. Rows of white desks with microscopes and complex genetic analysis equipment. Papers and files
+scattered messily on the desks as if abandoned in a hurry. Cold, sterile, and ghost-like atmosphere. Grainy 16mm film
+still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting
+from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained,
+observational composition, subtle film grain and analog imperfections.
+
+5. 비밀 병실 (구 직원 휴게실)
+- 파일명: 05_비밀_병실
+- 설명: C구역 끝에 위치한 기괴한 방. 과거에는 직원 휴게실이었으나, 현재는 코를 찌르는 강렬한 소독약 냄새와 함께 복잡한 튜브가 연결된 투석기, 산소 호흡기, 그리고 최첨단 생명 연장 장치들이 중앙의 침대를 에워싸고 있는 중환자 병실로 완전히 개조되어 있다. 
+- HTML:
+<div class="story-content">
+  <div class="location-box location-text">
+    C구역 끝에 위치한 기괴한 방. 문이 열리자 코를 찌르는 소독약 냄새가 나며, 복잡한 튜브가 연결된 투석기, 산소 호흡기,
+    그리고 <span class="location-highlight">최첨단 생명 연장 장치</span>들이 중앙의 침대를 빽빽하게 에워싸고 있는 중환자
+    병실이다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, eerie secret medical ward
+inside a bunker. No people. An empty hospital bed in the center surrounded by complex life-support machines, dialysis
+equipment, and glowing monitors with IV drips. Strong sterile and haunting atmosphere. Grainy 16mm film still, 1990s
+X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical
+sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational
+composition, subtle film grain and analog imperfections.
+
+6. 보안 물품 창고
+- 파일명: 06_보안_물품_창고
+- 설명: B구역에 위치한 창고. 외부 반출이 금지된 특수 화학 약품과 기계 부품, 그리고 연구소의 예비 전원 장치들이 두꺼운 철창 너머로 겹겹이 쌓여 있다. 공기 중에는 옅은 화학 약품 냄새와 먼지가 섞여 떠다니며, 차갑고 건조한 창고 특유의 적막감이 흐른다.
+- HTML:
+<div class="story-content">
+  <div class="location-box location-text">
+    B구역에 위치한 창고. 외부 반출이 금지된 특수 화학 약품과 기계 부품, 예비 전원 장치들이
+    <span class="location-highlight">두꺼운 철창</span> 너머로 겹겹이 쌓여 있다. 공기 중에는 옅은 화학 약품 냄새와
+    먼지가 섞여 떠다니는 건조한 공간이다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, cold secure storage room in a
+bunker, no people. Heavy metal shelving units filled with chemical drums, mechanical parts, and backup power generators
+behind thick steel mesh fencing. Dusty and dry atmosphere. Grainy 16mm film still, 1990s X-Files-style investigative
+photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering
+fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain
+and analog imperfections.
+
+7. 기록 보관실
+- 파일명: 07_기록_보관실
+- 설명: B구역에 위치한 거대한 문서 저장소. 무거운 보안 셔터 너머에 있으며, 낡은 종이와 먼지 냄새가 훅 끼쳐온다. 어두침침한 조명 아래 천장까지 닿는 거대한 철제 캐비닛들이 미로처럼 빼곡하게 늘어서 있어 불길하고 답답한 정적이 흐르는 공간이다.
+- HTML:
+<div class="story-content">
+  <div class="location-box location-text">
+    B구역에 위치한 거대한 문서 저장소. 낡은 종이와 먼지 냄새가 훅 끼쳐온다. 어두침침한 조명 아래 천장까지 닿는
+    <span class="location-highlight">거대한 철제 캐비닛</span>들이 미로처럼 빼곡하게 늘어서 있어 불길하고 답답한 정적이
+    흐르는 공간이다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, massive, dimly lit archive
+room filled with endless rows of tall metal filing cabinets. No people. Dust motes floating in narrow shafts of light.
+Claustrophobic, labyrinth-like, and silent. Grainy 16mm film still, 1990s X-Files-style investigative photography.
+Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a
+flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog
+imperfections.
+
+8. 서쪽 환풍구
+- 파일명: 08_서쪽_환풍구
+- 설명: B구역 외벽과 외부 숲을 연결하는 거대한 산업용 환풍 통로. 성인 한 명이 간신히 기어 다닐 수 있는 크기이며, 바닥에는 흙먼지와 거미줄이 쳐져 있다. 입구에는 붉은색 레이저 형태의 첨단 생체 인식 스캐너가 설치되어 있어 허가받지 않은 은밀한 접근을 철저히 차단한다.
+- HTML:
+<div class="story-content">
+  <div class="location-box location-text">
+    B구역 외벽과 외부 숲을 연결하는 거대한 산업용 환풍 통로. 바닥에는 흙먼지가 쌓여 있다. 입구에는 붉은색 레이저 형태의
+    <span class="location-highlight">첨단 생체 인식 스캐너</span>가 설치되어 있어 허가받지 않은 은밀한 접근을 철저히
+    차단한다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, large industrial ventilation
+shaft connecting a dark bunker to a night forest. No people. Dirt, leaves, and cobwebs on the metal floor. A glowing red
+laser biometric scanner blocks the entrance. Claustrophobic and gritty atmosphere. Grainy 16mm film still, 1990s
+X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical
+sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational
+composition, subtle film grain and analog imperfections.
+
+9. 폐기물 소각장
+- 파일명: 09_폐기물_소각장
+- 설명: D구역 초입에 위치한 소각 시설. 거대한 압축 챔버와 용광로가 자리 잡고 있으며, 주변의 벽면은 열기에 의해 검게 그을려 있다. 언제든 가동될 수 있도록 낮은 우웅- 하는 대기음이 울리고 있으며, 불쾌한 단백질 타는 냄새가 옅게 배어 있는 지옥 같은 풍경의 방이다.
+- HTML:
+<div class="story-content">
+  <div class="location-box location-text">
+    D구역 초입에 위치한 소각 시설. 거대한 <span class="location-highlight">압축 챔버와 용광로</span>가 자리 잡고 있으며,
+    벽면은 열기에 그을려 있다. 언제든 가동될 수 있도록 대기음이 울리며, 불쾌한 냄새가 배어 있는 지옥 같은 풍경의 방이다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. An empty, hellish waste disposal and
+incinerator room in a dark sci-fi bunker. No people. A massive metal compression chamber and a glowing hot furnace.
+Blackened, scorched walls. Industrial, intimidating, and gritty atmosphere. Grainy 16mm film still, 1990s X-Files-style
+investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources —
+flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle
+film grain and analog imperfections.
+
+10. 지하 주 배양실
+- 파일명: 10_지하_주_배양실
+- 설명: D구역 가장 안쪽에 숨겨진 거대한 지하 동굴 형태의 시설. 차가운 푸른빛이 새어 나오는 거대한 유리 배양 캡슐들이 열을 지어 늘어서 있고, 바닥을 울리는 육중한 냉각수 펌프 소리가 압도적인 위압감을 준다. 프로메테우스 연구소의 가장 끔찍한 진실이 잠들어 있는 심장부다.
+- HTML:
+<div class="story-content">
+  <div class="location-box location-text">
+    D구역 가장 안쪽에 숨겨진 거대한 지하 동굴 형태의 시설. 차가운 푸른빛이 새어 나오는
+    <span class="location-highlight">거대한 유리 배양 캡슐</span>들이 열을 지어 늘어서 있고, 바닥을 울리는 육중한 냉각수
+    펌프 소리가 압도적인 위압감을 준다. 연구소의 가장 끔찍한 진실이 잠들어 있는 심장부다.
+  </div>
+</div>
+- 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A massive, underground cavernous
+incubation chamber. No people. Rows of giant cylindrical glass tanks filled with glowing cyan liquid. Heavy cooling
+pumps and thick industrial pipes on the floor. Epic, intimidating, and mysterious cyberpunk laboratory. Grainy 16mm film
+still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting
+from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained,
+observational composition, subtle film grain and analog imperfections.
