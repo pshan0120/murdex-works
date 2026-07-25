@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 기만이 느껴지는구나."
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 기만이 느껴지는구나."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "꼭두각시요? 난 어두운 골목길에서 웅크리고 있던 한 아이의 눈망울이 떠올랐어. 근데 이 따뜻한 기억조차 내 의지와 상관없이 누군가 강제로 욱여넣은 것 같은 불쾌감이 들어. 네가 말하는 맹세나 내 기억이나, 다 누군가 만들어낸 가짜일지 모른다고!"
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "꼭두각시요? 난 어두운 골목길에서 웅크리고 있던 한 아이의 눈망울이 떠올랐어. 근데 이 따뜻한 기억조차 내 의지와 상관없이 누군가 강제로 욱여넣은 것 같은 불쾌감이 들어. 네가 말하는 맹세나 내 기억이나, 다 누군가 만들어낸 가짜일지 모른다고!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 무엇이냐!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 무엇이냐!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "네놈의 그 맹목적인 믿음이야말로 네가 완전히 세뇌당했다는 증거야! 난 반드시 진실을 밝혀서 이 미친 장난질을 끝낼 거다."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "네놈의 그 맹목적인 믿음이야말로 네가 완전히 세뇌당했다는 증거야! 난 반드시 진실을 밝혀서 이 미친 장난질을 끝낼 거다."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 지워질 것이다!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 지워질 것이다!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "누가 지워지는지 두고 봐. 나 또한 내 진짜 삶을 찾기 위해 한 걸음도 물러서지 않을 테니까. 정답을 마저 입력하고 끝장내자."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "누가 지워지는지 두고 봐. 나 또한 내 진짜 삶을 찾기 위해 한 걸음도 물러서지 않을 테니까. 정답을 마저 입력하고 끝장내자."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

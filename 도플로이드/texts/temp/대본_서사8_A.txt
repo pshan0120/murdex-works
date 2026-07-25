@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 모든 게 부서질 것 같아."
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 모든 게 부서질 것 같아."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "그리움과 지독히 애틋했던 감정이 되살아났소. 누군가를 간절히 사랑했던 눈물겨운 기억이오. 하지만 그 온화함 너머엔 칠흑 같은 나락만 도사리는군."
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "그리움과 지독히 애틋했던 감정이 되살아났소. 누군가를 간절히 사랑했던 눈물겨운 기억이오. 하지만 그 온화함 너머엔 칠흑 같은 나락만 도사리는군."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 만들지 마."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 만들지 마."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "독설이라니! 어찌 온기라곤 없는 비수만 뱉어내는 것이냐! 고귀한 애정마저 네놈에겐 단지 무참히 흩어질 한낱 의미 없는 숫자 놀음에 불과하단 말이냐?"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "독설이라니! 어찌 온기라곤 없는 비수만 뱉어내는 것이냐! 고귀한 애정마저 네놈에겐 단지 무참히 흩어질 한낱 의미 없는 숫자 놀음에 불과하단 말이냐?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 지워질 테니까."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 지워질 테니까."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "기이한 문자판의 마지막 진실이 새겨지면, 네놈의 그 얄팍하고 오만한 확신도 가차 없이 산산조각 날 것이다!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "기이한 문자판의 마지막 진실이 새겨지면, 네놈의 그 얄팍하고 오만한 확신도 가차 없이 산산조각 날 것이다!"
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

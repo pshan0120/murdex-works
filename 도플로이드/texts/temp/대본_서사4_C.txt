@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "이번엔 부모님 가업을 이어받아 정해진 틀에서만 살던 과거가 생각났어요. 마치 시키는 대로만 움직이는 기계 부품처럼 답답했던 삶 말이에요."
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "이번엔 부모님 가업을 이어받아 정해진 틀에서만 살던 과거가 생각났어요. 마치 시키는 대로만 움직이는 기계 부품처럼 답답했던 삶 말이에요."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 것인지 모르겠소."
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 것인지 모르겠소."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "비명소리가 섞인 축제라... 당신 참 낭만적인 환상 속에 살고 있군요. 내가 겪은 건 감정 한 톨 없는 숨 막히는 현실뿐이었어요. 대체 어떤 가짜 세상에 살았기에 그런 동화 같은 기억을 진짜라고 믿는 거예요?"
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "비명소리가 섞인 축제라... 당신 참 낭만적인 환상 속에 살고 있군요. 내가 겪은 건 감정 한 톨 없는 숨 막히는 현실뿐이었어요. 대체 어떤 가짜 세상에 살았기에 그런 동화 같은 기억을 진짜라고 믿는 거예요?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 보낸 도구요?"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 보낸 도구요?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "도구라니, 피해망상이 심하네요. 혼자 딴 세상 사람처럼 구는데, 실은 이 방을 만든 누군가가 꾸며낸 가짜 인물 아니에요?"
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "도구라니, 피해망상이 심하네요. 혼자 딴 세상 사람처럼 구는데, 실은 이 방을 만든 누군가가 꾸며낸 가짜 인물 아니에요?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 전혀 다른 것이 분명하구려."
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 전혀 다른 것이 분명하구려."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

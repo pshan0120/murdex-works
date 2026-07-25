@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "판에 글자를 누르니, 내 앞에 누군가 무릎을 꿇고 서약하는 누군가의 잔상이 스쳤소. 하지만 어찌하여 그 뒤로 위선과 기만의 한기가 풍기는 것 같은지."
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "판에 글자를 누르니, 내 앞에 누군가 무릎을 꿇고 서약하는 누군가의 잔상이 스쳤소. 하지만 어찌하여 그 뒤로 위선과 기만의 한기가 풍기는 것 같은지."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 나까지 이상해지는군요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 나까지 이상해지는군요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "가짜라니! 내 숭고한 기억을 어찌 지어낸 이야기 취급하는 거요? 그대의 그 오만한 불신이야말로 내 소명을 흔들려는 기만 아니오?"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "가짜라니! 내 숭고한 기억을 어찌 지어낸 이야기 취급하는 거요? 그대의 그 오만한 불신이야말로 내 소명을 흔들려는 기만 아니오?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 어디 아프신가요?"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 어디 아프신가요?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "상대를 존중할 줄 모르는 사람이구려. 이대로면 우리 사이엔 더 깊은 골이 파일 뿐이오. 누가 진짜인지는 두고 보시오. 결국 밝혀질 테니."
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "상대를 존중할 줄 모르는 사람이구려. 이대로면 우리 사이엔 더 깊은 골이 파일 뿐이오. 누가 진짜인지는 두고 보시오. 결국 밝혀질 테니."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 확인해요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 확인해요."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

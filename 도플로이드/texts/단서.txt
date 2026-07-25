@@ -12,8 +12,8 @@ StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
 
 [clue_01]
 이름 : 알렉스의 편지
-clue_id : 79721c13-04cb-4968-b5f1-2c3a9baf8629
-variant_id : 7243cc1e-0f0a-40e5-b2bc-31faeb1cb3dd
+clue_id : aab28043-58d8-4769-bc0a-2418743c66c2
+variant_id : 51a46150-094c-4bb7-bafa-038a6596da69
 유형 : 물증
 단계 : 시작 지급 (베일라)
 소모AP : 0
@@ -33,13 +33,14 @@ variant_id : 7243cc1e-0f0a-40e5-b2bc-31faeb1cb3dd
 "이 각인의 진실이 프로메테우스 연구소에 있는 것 같아. 근데 그 연구소가 곧 폐쇄된다니, 지금이 아니면 영영 기회가 없을 것 같아. 내 과거를 확인하고 올게. 기다려줘."
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="character-alex">알렉스</span>가 남기고 간 쪽지를 읽어 보았다.</div>
-  <div class="divider-gold"></div>
-  <div class="document-page">
-    <div class="document-body small">
-      "이 각인의 진실이 프로메테우스 연구소에 있는 것 같아. 근데 그 연구소가 곧 폐쇄된다니, 지금이 아니면 영영 기회가 없을 것 같아. 내 과거를 확인하고 올게. 기다려줘."
+<div class="script-direction"><span class="character-alex">알렉스</span>가 남기고 간 쪽지를 읽어 보았다.</div>
+<div class="divider-gold"></div>
+<div class="document-page">
+<div class="document-body small">
+      "이 각인의 진실이 <span class="emphasis">프로메테우스 연구소</span>에 있는 것 같아. 근데 그 연구소가 곧 폐쇄된다니, 지금이 아니면 영영 기회가
+      없을 것 같아. 내 과거를 확인하고 올게. 기다려줘."
     </div>
-  </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, hastily folded note in a man's handwriting, resting on a worn wooden table. Cold blue-white light from a nearby window. Shallow depth of field, background dark and blurred. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 시작 지급
@@ -48,8 +49,8 @@ HTML :
 
 [clue_02]
 이름 : 소형 호신용 권총
-clue_id : 6c0a9011-935d-4ea5-bd1d-cf8b52fc3613
-variant_id : e84717a3-1d25-49e1-92fa-ccba9b6b2111
+clue_id : be7311db-b859-49e0-84eb-7366de917193
+variant_id : 1969a94e-97ea-4468-8aa2-43150ecd7ec7
 유형 : 물증
 단계 : 시작 지급 (베일라)
 소모AP : 0
@@ -68,7 +69,12 @@ variant_id : e84717a3-1d25-49e1-92fa-ccba9b6b2111
 혹시 모를 위험 상황에 대비해 가방 깊숙이 몰래 숨겨 가지고 온, 등록되지 않은 소형 권총이다.
 HTML :
 <div class="story-content">
-  <div>혹시 모를 위험 상황에 대비해 가방 깊숙이 몰래 숨겨 가지고 온, <span class="emphasis">등록되지 않은 소형 권총</span>이다.</div>
+<div class="script-direction">혹시 모를 위험 상황에 대비해 가방 깊숙이 숨겨 온 소형 권총이다.</div>
+<div class="divider"></div>
+<div>
+    혹시 모를 위험 상황에 대비해 가방 깊숙이 몰래 숨겨 가지고 온,
+    <span class="emphasis">등록되지 않은 소형 권총</span>이다.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small unregistered handgun tucked inside the lining of a worn leather bag. Cold, dim lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 시작 지급
@@ -77,8 +83,8 @@ HTML :
 
 [clue_03]
 이름 : 정부 기밀 수사 영장
-clue_id : e9778b49-cf38-441a-b919-f9ad3b8b6a61
-variant_id : 1b340c46-11f6-4ba7-9a72-9ad1e96b4b7a
+clue_id : b4bf9dc4-109d-4e47-b70a-26fe726de207
+variant_id : 5826d3d4-89e0-4c24-a5dd-b7a8f89fb0e1
 유형 : 물증
 단계 : 시작 지급 (마커스)
 소모AP : 0
@@ -97,7 +103,12 @@ variant_id : 1b340c46-11f6-4ba7-9a72-9ad1e96b4b7a
 프로메테우스 연구소의 강제 폐쇄 및 실종된 조수 알렉스의 행방 조사를 허가하는 법적 영장이다.
 HTML :
 <div class="story-content">
-  <div>프로메테우스 연구소의 강제 폐쇄 및 실종된 조수 <span class="character-alex">알렉스</span>의 행방 조사를 허가하는 법적 영장이다.</div>
+<div class="script-direction">소장의 행방과 연구소 강제 폐쇄 조사를 허가하는 법적 수사 영장이다.</div>
+<div class="divider"></div>
+<div>
+<span class="emphasis">프로메테우스 연구소</span>의 강제 폐쇄 및 실종된 조수 <span class="character-alex">알렉스</span>의 행방 조사를 허가하는
+    법적 영장이다.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an official government warrant document with an embossed seal, held in a hand. Cold fluorescent lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 시작 지급
@@ -106,8 +117,8 @@ HTML :
 
 [clue_04]
 이름 : 정부 수사관 제식 권총
-clue_id : dea0befa-74f7-4520-9fb9-70d8e5492b84
-variant_id : 8c7de28a-7d1d-4b39-b5bd-4a95b6f508bc
+clue_id : 485fe233-5cad-4702-b01a-2bab76fdd8a2
+variant_id : f45f1b4c-47b9-4317-89c7-442f3a812540
 유형 : 물증
 단계 : 시작 지급 (마커스)
 소모AP : 0
@@ -126,7 +137,9 @@ variant_id : 8c7de28a-7d1d-4b39-b5bd-4a95b6f508bc
 수사관에게 공적으로 지급되는 은빛 제식 권총이다. 재킷 안쪽 홀스터에 고정되어 있다.
 HTML :
 <div class="story-content">
-  <div>수사관에게 공적으로 지급되는 은빛 제식 권총이다. 재킷 안쪽 홀스터에 고정되어 있다.</div>
+<div class="script-direction">수사관에게 공식 지급된 은빛 제식 권총이다.</div>
+<div class="divider"></div>
+<div>수사관에게 공적으로 지급되는 은빛 제식 권총이다. 재킷 안쪽 홀스터에 고정되어 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a silver standard-issue government pistol holstered inside a jacket. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 시작 지급
@@ -134,51 +147,58 @@ HTML :
 
 
 [clue_05]
-이름 : 로비 메인 패널의 시스템 로그
-clue_id : 7664531a-0df1-4a77-962e-8fd0ec7e9003
-variant_id : 4114b9aa-e0de-4202-a961-62e860c2d00e
+이름 : 정문 로비#1
+clue_id : 1c200107-d729-4541-9d38-91e52c0ebb4d
+variant_id : a2b69925-8488-4776-a863-f8fdf4303958
 유형 : 물증
 단계 : A구역
 소모AP : 1
 정렬순서 : 110
-중요도 : 보통
+중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 락다운이 누군가의 수동 조작이 아니라 9시 11분에 보안 센서에 의해 자동 발생했음을 보여줌.
+의도 : 9시 10분에 누군가 서쪽 환기구를 우회하려다 경보를 울렸고, 그 경보가 곧바로 자동 락다운으로 이어졌음을 한 장의 로그로 보여줌. 락다운이 누군가의 수동 조작이 아니라는 점도 함께 입증.
 내용 :
-"09:11 - 비상 보안 시스템 가동에 의한 1단계 강제 락다운 발동. 외부 출입 차단 및 격리 셔터 하강 완료."
+"09:10:48 - 서쪽 환기구 외곽 센서: 인가되지 않은 미등록 생체 정보 접근 감지. 경보 등급: 위험. 격리 프로토콜 대기." / "09:11:02 - 비상 보안 시스템 가동에 의한 1단계 강제 락다운 발동. 외부 출입 차단 및 격리 셔터 하강 완료."
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"09:11 - 비상 보안 시스템 가동에 의한 1단계 강제 락다운 발동. 외부 출입 차단 및 격리 셔터 하강 완료."</div>
-  </div>
+<div class="script-direction">로비 메인 패널 화면에서 확인한 보안 시스템 통합 로그이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "09:10:48 - <span class="emphasis">서쪽 환기구</span> 외곽 센서: 인가되지 않은 미등록 생체 정보 접근 감지. 경보 등급: 위험. 격리 프로토콜 대기."
+    </div>
+<div class="document-body small">
+      "09:11:02 - 비상 보안 시스템 가동에 의한 1단계 강제 락다운 발동. 외부 출입 차단 및 격리 셔터 하강 완료."
+    </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a security terminal screen displaying a system log. Cold blue screen glow in a dark, empty lobby. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a security terminal screen displaying a scrolling system log with two consecutive alert lines. Cold blue screen glow in a dark, empty lobby. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 정문_로비
-파일명 : 05_로비_시스템_로그
+파일명 : 05_보안_시스템_통합로그
 
 
 [clue_06]
-이름 : (마커스 관찰 단서) 마커스의 불안한 손가락 끝과 품속의 권총
-clue_id : d904f466-77ca-4e3c-84a6-a278026bd32a
-variant_id : 462c6535-7870-442b-acd8-664de7c0359b
+이름 : 정문 로비#2
+clue_id : 424d5b63-103a-4ae5-8817-d5e7bf557bd4
+variant_id : 13281e46-1984-47bc-9b90-49b0b7e35bb8
 유형 : 관찰
 단계 : A구역
 소모AP : 0
 정렬순서 : 120
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
 의도 : 베일라가 마커스의 오른손 떨림과 무장 상태를 목격하고 경계심을 품게 만듦.
@@ -186,59 +206,36 @@ variant_id : 462c6535-7870-442b-acd8-664de7c0359b
 정문 로비에서 대면했을 때 마커스가 극도의 긴장으로 오른손 끝을 미세하게 떨며 수시로 재킷 안쪽으로 손을 얹는 정황. 재킷 옷깃 사이로 수사관 제식 권총의 은빛 총자루가 살짝 노출됨.
 HTML :
 <div class="story-content">
-  <div>정문 로비에서 대면했을 때 <span class="character-marcus">마커스</span>가 극도의 긴장으로 오른손 끝을 미세하게 떨며 수시로 재킷 안쪽으로 손을 얹는 정황. 재킷 옷깃 사이로 수사관 제식 권총의 은빛 총자루가 살짝 노출됨.</div>
+<div class="script-direction"><span class="emphasis">정문 로비</span>에서 대면했을 때 목격한 <span class="character-marcus">마커스</span>의 모습이다.</div>
+<div class="divider"></div>
+<div>
+<span class="emphasis">정문 로비</span>에서 대면했을 때 <span class="character-marcus">마커스</span>가 극도의 긴장으로 오른손 끝을 미세하게 떨며
+    수시로 재킷 안쪽으로 손을 얹는 정황. 재킷 옷깃 사이로 수사관 제식 권총의 은빛 총자루가 살짝 노출됨.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a tense man's trembling right hand hovering near his jacket, a glint of silver metal barely visible at the collar. Cold lighting, empty lobby background blurred. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 정문_로비
 파일명 : 06_마커스_관찰_손떨림
 
 
-[clue_07]
-이름 : 게이트 보안 경보 일지
-clue_id : d543a6e8-8b89-4a45-ac40-99be76b980e0
-variant_id : c28afac0-7e73-4af7-bc8b-c2d9b1366b63
-유형 : 물증
-단계 : A구역
-소모AP : 1
-정렬순서 : 210
-중요도 : 높음
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 공통
-의도 : 9시 10분에 누군가 서쪽 환기구를 우회하려다 경보를 울렸음을 입증.
-내용 :
-"09:10:48 - 서쪽 환기구 외곽 센서: 인가되지 않은 미등록 생체 정보 접근 감지. 경보 등급: 위험. 격리 프로토콜 대기."
-HTML :
-<div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"09:10:48 - 서쪽 환기구 외곽 센서: 인가되지 않은 미등록 생체 정보 접근 감지. 경보 등급: 위험. 격리 프로토콜 대기."</div>
-  </div>
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a printed security alert log on a checkpoint desk. Flashing red warning light glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 보안_검색대
-파일명 : 07_게이트_경보_일지
+※ clue_07은 게이트 보안 경보 일지였으나, 위 clue_05(보안 시스템 통합 로그)에 내용을 병합하고 삭제했습니다. A구역 클루 수를 다른 구역과 균형을 맞추기 위한 정리입니다.
 
 
 [clue_08]
-이름 : (베일라 관찰 단서) 베일라의 신발과 코트에 묻은 흔적
-clue_id : 59b41e19-7e4f-4d3c-a35f-addfb4f643a4
-variant_id : 045fa2a3-ef31-485c-98fb-b1d8f6363dcf
+이름 : 보안 검색대#1
+clue_id : 24449132-5c75-4d85-9b5e-001ccc661747
+variant_id : 1f923adc-bb8a-42bd-83e0-b26e31c5510f
 유형 : 관찰
 단계 : A구역
 소모AP : 0
 정렬순서 : 220
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
 의도 : 마커스가 베일라의 행색을 보고 09:10에 경보를 울린 무단 침입자라는 의심을 하게 만듦.
@@ -246,7 +243,12 @@ variant_id : 045fa2a3-ef31-485c-98fb-b1d8f6363dcf
 베일라의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 뒤엉켜 있는 정황.
 HTML :
 <div class="story-content">
-  <div><span class="character-veyla">베일라</span>의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 뒤엉켜 있는 정황.</div>
+<div class="script-direction"><span class="emphasis">보안 검색대</span>에서 살펴본 <span class="character-veyla">베일라</span>의 신발과 코트 옷깃 흔적이다.</div>
+<div class="divider"></div>
+<div>
+<span class="character-veyla">베일라</span>의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고
+    환기구 거미줄 흔적이 뒤엉켜 있는 정황.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of dirt, cobwebs, and dark grease stains on the hem of a navy coat and the edge of a worn shoe. Cold lobby lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 보안_검색대
@@ -254,17 +256,17 @@ HTML :
 
 
 [clue_09]
-이름 : 책상 서랍 속의 처방전
-clue_id : 7d26fc01-f293-429d-98c5-bcde11e46f9b
-variant_id : 23676ce9-366e-4273-8cb3-0fc03ef1d21a
+이름 : 소장실#1
+clue_id : 4779f52d-da2e-4e14-aeaf-bfac40355c39
+variant_id : 053ce8e0-1657-40bf-aa99-a10eec14fc56
 유형 : 물증
 단계 : A구역
 소모AP : 1
 정렬순서 : 310
 중요도 : 높음
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -275,9 +277,13 @@ variant_id : 23676ce9-366e-4273-8cb3-0fc03ef1d21a
 환자명 '소장 클레이' 명의로 처방된 특정 마약성 진통제 '프로메돌'의 처방전. 처방 사유는 '말기 뇌세포 괴사로 인한 극심한 격통 제어'.
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">환자명 '소장 <span class="character-clay">클레이</span>' 명의로 처방된 특정 마약성 진통제 '<span class="emphasis">프로메돌</span>'의 처방전. 처방 사유는 '말기 뇌세포 괴사로 인한 극심한 격통 제어'.</div>
-  </div>
+<div class="script-direction"><span class="emphasis">소장실</span> 책상 서랍 안쪽에서 발견한 처방전이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      환자명 '소장 <span class="character-clay">클레이</span>' 명의로 처방된 특정 마약성 진통제 '<span class="emphasis">프로메돌</span>'의 처방전. 처방 사유는 '말기 뇌세포 괴사로 인한 극심한 격통 제어'.
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a medical prescription slip inside a half-open desk drawer, next to a pill bottle. Cold office lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 소장실
@@ -285,17 +291,17 @@ HTML :
 
 
 [clue_10]
-이름 : (클레이 증언 - 마커스에 대하여) 소장실 수신 통화 자동 녹음
-clue_id : 64913796-d3e0-4b40-b131-3876de8fb52e
-variant_id : 18be2fb1-79ac-485a-be1c-3d735cbca562
+이름 : 소장실#2
+clue_id : 6b407e94-3185-40f5-bfc4-f68a500a398e
+variant_id : fd5fb1ba-c6a5-4d5a-84ec-32f69c059dd7
 유형 : 물증
 단계 : A구역
 소모AP : 1
 정렬순서 : 320
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -306,10 +312,14 @@ variant_id : 18be2fb1-79ac-485a-be1c-3d735cbca562
 08:30경 소장실 개인 통화 장치에 기록된 음성 파일. 한 남성의 분노에 찬 목소리: "내 누나 알렉스를 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운 실험을 세상에 까발려 파멸시키겠습니다."
 HTML :
 <div class="story-content">
-  <div class="script-direction">08:30경 소장실 개인 통화 장치에 기록된 음성 파일이다.</div>
-  <div class="document-page">
-    <div class="document-body small">"내 누나 <span class="character-alex">알렉스</span>를 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운 실험을 세상에 까발려 파멸시키겠습니다."</div>
-  </div>
+<div class="script-direction">08:30경 <span class="emphasis">소장실</span> 개인 통화 장치에 기록된 음성 파일이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "내 누나 <span class="character-alex">알렉스</span>를 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운
+      실험을 세상에 까발려 파멸시키겠습니다."
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old answering machine with a blinking red recording light on a dark office desk. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 소장실
@@ -317,30 +327,35 @@ HTML :
 
 
 [clue_11]
-이름 : (클레이 증언 - 베일라에 대하여) 소장의 수첩 속 메모
-clue_id : 16584466-ad3c-4459-aa6b-4b6c1b2fe24d
-variant_id : bfc59ff1-f0f0-41f6-be5a-1f82c94e6466
+이름 : 소장실#3
+clue_id : 6aa98f8d-7c13-469b-aefb-fd70242e41cc
+variant_id : a6e45541-229b-4326-98eb-dc0f438bb0dd
 유형 : 물증
 단계 : A구역
 소모AP : 0
 정렬순서 : 330
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 닥터 클레이가 베일라를 9시 10분의 환기구 침입자로 강하게 의심하고 경계했음을 보여줌.
+의도 : 닥터 클레이가 9시 10분의 환기구 침입자를 강하게 의심하고 경계했음을 보여주는 메모. 이때는 아직 침입자가 누구인지 특정하지 못한 상태이며, 훗날 베일라의 신원과 흔적을 교차 확인하면 이 메모 속 불청객이 그녀였음이 드러난다.
 내용 :
-"09:15 기록: 9시 10분에 서쪽 환기구를 우회하려다 경보를 터뜨린 불청객은 누구인가? 오늘 11시에 대면하기로 예정된 여자 탐정 베일라의 목적이 단순 수사 보조가 아닐지도 모른다. 그녀가 연구소를 훔쳐보러 쥐새끼를 보낸 것인가? 철저히 감시해야 한다."
+"09:15 기록: 9시 10분에 서쪽 환기구를 우회하려다 경보를 터뜨린 불청객은 대체 누구인가. 이 근방에서 얼쩡거리는 자를 본 적이 없는데, 하필 오늘 아침에. 철저히 감시해야 한다."
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"09:15 기록: 9시 10분에 서쪽 환기구를 우회하려다 경보를 터뜨린 불청객은 누구인가? 오늘 11시에 대면하기로 예정된 여자 탐정 <span class="character-veyla">베일라</span>의 목적이 단순 수사 보조가 아닐지도 모른다. 그녀가 연구소를 훔쳐보러 쥐새끼를 보낸 것인가? 철저히 감시해야 한다."</div>
-  </div>
+<div class="script-direction">소장의 수첩 사이에서 발견한 자필 메모 조각이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "09:15 기록: 9시 10분에 <span class="emphasis">서쪽 환기구</span>를 우회하려다 경보를 터뜨린 불청객은 대체 누구인가. 이 근방에서 얼쩡거리는 자를
+      본 적이 없는데, 하필 오늘 아침에. 철저히 감시해야 한다."
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a leather-bound notebook open to a page of hurried handwriting, on a dark office desk. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 소장실
@@ -348,17 +363,17 @@ HTML :
 
 
 [clue_12]
-이름 : 클레이가 남긴 연구 노트 한 페이지
-clue_id : 3deca55b-3ff9-4c70-9b8d-8bdfd65d769c
-variant_id : 3005f45e-74d5-4ea6-8e29-0a2216b8c1d5
+이름 : 일반 연구실#1
+clue_id : 7dee94b5-2b7b-4e9c-9291-5cbcaa4c21cc
+variant_id : d70be3b2-47e8-4ed4-8cb5-8b9fd891eaa3
 유형 : 물증
 단계 : C구역
 소모AP : 1
 정렬순서 : 410
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -369,10 +384,16 @@ variant_id : 3005f45e-74d5-4ea6-8e29-0a2216b8c1d5
 다소 들뜬 필체로 시작해 점점 흔들리는 글씨로 이어진다. "드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 이 몸이라면 이 시설의 그 어떤 생체 스캐너도 속일 수 있을 것이다. 오리지널로 인식될 테니까. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까. …그래서 서쪽 환기구만은 오직 내 생체 정보로만 무음 통과하도록 손봐두었다. 만약을 대비한, 아무도 모르는 나만의 탈출구다."
 HTML :
 <div class="story-content">
-  <div class="script-direction">다소 들뜬 필체로 시작해 점점 흔들리는 글씨로 이어지는 연구 노트다.</div>
-  <div class="document-page">
-    <div class="document-body small">"드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 이 몸이라면 이 시설의 그 어떤 생체 스캐너도 속일 수 있을 것이다. 오리지널로 인식될 테니까. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까. …그래서 서쪽 환기구만은 오직 내 생체 정보로만 무음 통과하도록 손봐두었다. 만약을 대비한, 아무도 모르는 나만의 탈출구다."</div>
-  </div>
+<div class="script-direction">다소 들뜬 필체로 시작해 점점 흔들리는 글씨로 이어지는 연구 노트다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜
+      생명이다. …하지만 이 완벽함이 두렵다. 이 몸이라면 이 시설의 그 어떤 생체 스캐너도 속일 수 있을 것이다. 오리지널로
+      인식될 테니까. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까. …그래서 서쪽
+      환기구만은 오직 내 생체 정보로만 무음 통과하도록 손봐두었다. 만약을 대비한, 아무도 모르는 나만의 탈출구다."
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a scientific notebook page, handwriting starting neat and growing shaky and frantic toward the bottom. Cold laboratory lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 일반_연구실
@@ -380,20 +401,20 @@ HTML :
 
 
 [clue_13]
-이름 : (마커스 관찰 단서) 무감각하고 어색한 오른손 손놀림
-clue_id : d3d12a13-6eeb-4a68-ad9d-5cba3c3d2a75
-variant_id : 9e69d447-c391-4cce-9234-42511d19b307
+이름 : 일반 연구실#2
+clue_id : bf40a01b-38a5-40de-b5d4-9f109ab25294
+variant_id : eceabb5e-aefe-41dc-8d0f-8bb72d8c8aa1
 유형 : 관찰
 단계 : C구역
 소모AP : 0
 정렬순서 : 420
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
 의도 : 마커스의 손끝 떨림에 이어 감각 마비 등의 유전 증세가 물리적으로 심화되고 있음을 베일라가 눈치채게 만듦.
@@ -401,7 +422,12 @@ variant_id : 9e69d447-c391-4cce-9234-42511d19b307
 마커스가 연구실 데스크의 시료 병이나 펜을 쥘 때 오른손 끝 감각이 무딘 듯 헛손질을 하고, 물건을 떨어뜨릴 뻔하자 신경질적으로 손등을 문지르는 정황.
 HTML :
 <div class="story-content">
-  <div><span class="character-marcus">마커스</span>가 연구실 데스크의 시료 병이나 펜을 쥘 때 오른손 끝 감각이 무딘 듯 헛손질을 하고, 물건을 떨어뜨릴 뻔하자 신경질적으로 손등을 문지르는 정황.</div>
+<div class="script-direction"><span class="emphasis">일반 연구실</span>에서 대면했을 때 목격한 <span class="character-marcus">마커스</span>의 모습이다.</div>
+<div class="divider"></div>
+<div>
+<span class="character-marcus">마커스</span>가 연구실 데스크의 시료 병이나 펜을 쥘 때 오른손 끝 감각이 무딘 듯
+    헛손질을 하고, 물건을 떨어뜨릴 뻔하자 신경질적으로 손등을 문지르는 정황.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a man's hand fumbling to grip a lab pen, fingers slightly stiff and uncoordinated, on a cluttered lab desk. Cold laboratory lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 일반_연구실
@@ -409,20 +435,20 @@ HTML :
 
 
 [clue_14]
-이름 : 소장의 공간 인지 불일치
-clue_id : fb3a8381-162e-4e14-888c-5a0f1074eee9
-variant_id : a4c11dd5-5bd7-496a-be99-d7f597d2c45a
+이름 : 비밀 병실#1
+clue_id : c0be4bc1-17bc-497d-8377-8f498faecc3b
+variant_id : c6ca4c3e-2946-4c6a-a09d-214e4edad4fa
 유형 : 관찰
 단계 : C구역
 소모AP : 0
 정렬순서 : 430
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
 관련 : 공통
 의도 : 소장이 자기 시설의 현황조차 모르는 엉뚱한 길 안내를 했다는 점에서 진짜 소장이 아닐 가능성을 제시. (단계_5_C구역_조사.txt 대본에서 이미 라이브로 목격되는 사건이므로 별도 조사 없이 자동 공개)
@@ -430,7 +456,12 @@ variant_id : a4c11dd5-5bd7-496a-be99-d7f597d2c45a
 길잡이 역할을 하는 생존한 소장이 도면을 힐끗 보며 "과거에 직원 휴게실이었던 곳"이라고 말하며 문을 열었으나, 내부는 휴게실 흔적은 전무하고 온갖 생명 유지 및 혈액 투석 기기들로 가득 찬 극비 중환자실인 정황.
 HTML :
 <div class="story-content">
-  <div>길잡이 역할을 하는 생존한 소장이 도면을 힐끗 보며 "과거에 직원 휴게실이었던 곳"이라고 말하며 문을 열었으나, 내부는 휴게실 흔적은 전무하고 온갖 생명 유지 및 혈액 투석 기기들로 가득 찬 극비 중환자실인 정황.</div>
+<div class="script-direction"><span class="emphasis">비밀 병실</span>의 중앙 침대에 연결된 환자 모니터링 기록이다.</div>
+<div class="divider"></div>
+<div>
+    길잡이 역할을 하는 생존한 소장이 도면을 힐끗 보며 "과거에 직원 휴게실이었던 곳"이라고 말하며 문을 열었으나, 내부는
+    휴게실 흔적은 전무하고 온갖 생명 유지 및 혈액 투석 기기들로 가득 찬 극비 중환자실인 정황.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A doorway revealing a stark contrast between an old faded "Break Room" sign and a room full of glowing medical life-support machinery. Cold clinical lighting. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 비밀_병실
@@ -438,17 +469,17 @@ HTML :
 
 
 [clue_15]
-이름 : 중환자 병실 환자 모니터링 기록
-clue_id : 01822fdb-97c3-46c9-8a64-9dc03484e0a8
-variant_id : b23c1c7c-7f1d-4fa7-909e-c2e7f70b258c
+이름 : 비밀 병실#2
+clue_id : f9d1a1c3-96c7-4760-be85-3617f0a046e8
+variant_id : cd82f4b9-5d2e-4159-a601-896bab92ea89
 유형 : 물증
 단계 : C구역
 소모AP : 1
 정렬순서 : 440
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -459,9 +490,13 @@ variant_id : b23c1c7c-7f1d-4fa7-909e-c2e7f70b258c
 "환자 코드: C. 뇌세포 괴사 및 손상율 85% 돌파. 시한부 상태. 생명 유지 장치 및 극약 통증 치료제 매일 처방 요망."
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"환자 코드: C. 뇌세포 괴사 및 손상율 85% 돌파. 시한부 상태. 생명 유지 장치 및 극약 통증 치료제 매일 처방 요망."</div>
-  </div>
+<div class="script-direction"><span class="emphasis">비밀 병실</span> 컴퓨터 데이터베이스에서 발견한 일지 기록이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "환자 코드: C. 뇌세포 괴사 및 손상율 85% 돌파. 시한부 상태. 생명 유지 장치 및 극약 통증 치료제 매일 처방 요망."
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a medical monitor screen displaying patient vitals and a code, beside a hospital bed. Cold clinical lighting, glowing screen. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 비밀_병실
@@ -469,17 +504,17 @@ HTML :
 
 
 [clue_16]
-이름 : (클레이 증언 - 마커스에 대하여) 비밀 병실 컴퓨터의 일지 기록
-clue_id : 56e40865-1214-4bde-a8a8-7ac91b95c6f0
-variant_id : fd54181d-6cbb-4e04-ad50-fc9ab028b895
+이름 : 비밀 병실#3
+clue_id : 427fbcaa-c489-446e-ae36-dd9af8cbc237
+variant_id : 454a832a-815b-46a2-a241-331f83b624f2
 유형 : 물증
 단계 : C구역
 소모AP : 1
 정렬순서 : 450
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -490,9 +525,16 @@ variant_id : fd54181d-6cbb-4e04-ad50-fc9ab028b895
 "조수 알렉스의 남동생 마커스가 누나의 실종에 원한을 품고 수사를 자처해 들어오고 있다. 하지만 녀석은 정작 자신의 누나가 말초 신경 괴사와 뇌 붕괴로 이어지는 가문의 남성 대물림 유전병으로부터 동생 마커스를 살리기 위해 내 복제 및 치료 연구 조수로 자진 헌신했다는 사실은 전혀 모르고 있다. 녀석의 병이 도지기 전에 치료법을 완성해야 할 텐데..."
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"조수 <span class="character-alex">알렉스</span>의 남동생 <span class="character-marcus">마커스</span>가 누나의 실종에 원한을 품고 수사를 자처해 들어오고 있다. 하지만 녀석은 정작 자신의 누나가 말초 신경 괴사와 뇌 붕괴로 이어지는 가문의 남성 대물림 유전병으로부터 동생 <span class="character-marcus">마커스</span>를 살리기 위해 내 복제 및 치료 연구 조수로 자진 헌신했다는 사실은 전혀 모르고 있다. 녀석의 병이 도지기 전에 치료법을 완성해야 할 텐데..."</div>
-  </div>
+<div class="script-direction"><span class="emphasis">비밀 병실</span> 단말기에 백업되어 있던 정보원의 첩보 파일이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "조수 <span class="character-alex">알렉스</span>의 남동생 <span class="character-marcus">마커스</span>가 누나의
+      실종에 원한을 품고 수사를 자처해 들어오고 있다. 하지만 녀석은 정작 자신의 누나가 말초 신경 괴사와 뇌 붕괴로
+      이어지는 가문의 남성 대물림 유전병으로부터 동생 <span class="character-marcus">마커스</span>를 살리기 위해 내 복제
+      및 치료 연구 조수로 자진 헌신했다는 사실은 전혀 모르고 있다. 녀석의 병이 도지기 전에 치료법을 완성해야 할 텐데..."
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old computer terminal screen in a dim medical room, displaying a scrolling log entry. Cold glowing screen light. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 비밀_병실
@@ -500,17 +542,17 @@ HTML :
 
 
 [clue_17]
-이름 : (클레이 증언 - 베일라에 대하여) 비밀 병실 단말기에 백업된 정보원 첩보
-clue_id : 14a75cee-c969-4a70-b3d2-853273ba0a7c
-variant_id : bc972b28-1c0a-404e-97bb-002721711a61
+이름 : 비밀 병실#4
+clue_id : cdd58a62-43ed-4f43-9224-33f8d0a0e0f2
+variant_id : a4da6a69-00a7-49f9-be80-47f5013665df
 유형 : 물증
 단계 : C구역
 소모AP : 1
 정렬순서 : 460
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -521,9 +563,15 @@ variant_id : bc972b28-1c0a-404e-97bb-002721711a61
 "추방된 AIex가 외부에서 기억을 잃은 채 '베일라'라는 여자 수사관과 밀접한 연인 관계를 맺고 살고 있다는 첩보를 입수했다. 그녀가 수사관 신분으로 연구소에 집착하는 진짜 목적은 복제 인간을 나에게서 되찾으려는 사적 동기인가?"
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"추방된 AIex가 외부에서 기억을 잃은 채 '<span class="character-veyla">베일라</span>'라는 여자 수사관과 밀접한 연인 관계를 맺고 살고 있다는 첩보를 입수했다. 그녀가 수사관 신분으로 연구소에 집착하는 진짜 목적은 복제 인간을 나에게서 되찾으려는 사적 동기인가?"</div>
-  </div>
+<div class="script-direction"><span class="emphasis">비밀 병실</span> 한쪽에서 확인한 <span class="character-veyla">베일라</span>의 소지품과 가방 내부 정황이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "추방된 <span class="character-alex">AIex</span>가 외부에서 기억을 잃은 채 '<span class="character-veyla">베일라</span>'라는 여자 수사관과 밀접한 연인
+      관계를 맺고 살고 있다는 첩보를 입수했다. 그녀가 수사관 신분으로 연구소에 집착하는 진짜 목적은 복제 인간을 나에게서
+      되찾으려는 사적 동기인가?"
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a backup terminal screen showing a surveillance report with a blurred photograph thumbnail. Cold glowing screen light in a dim medical room. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 비밀_병실
@@ -531,28 +579,36 @@ HTML :
 
 
 [clue_18]
-이름 : (베일라 관찰 단서) 베일라의 소지품 사진과 가방 속 권총
-clue_id : 376529de-9a8e-4592-a5c9-ea6bee72720f
-variant_id : 6fcc96c0-f410-4314-a9c8-b306286e32d7
+이름 : 보안 물품 창고#1
+clue_id : f448a755-edcc-49d3-9274-5309b74c8325
+variant_id : 0257e6e4-481c-4438-81bd-28563f26e55a
 유형 : 관찰
 단계 : B구역
 소모AP : 0
 정렬순서 : 510
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 마커스가 베일라의 연인이 소장의 복제 생명체였음과 베일라가 총기를 소지하고 잠입한 위험인물임을 눈치채게 함.
+의도 : 마커스가 베일라의 총기 소지 사실과 더불어, 그녀의 연인 사진에서 막연한 기시감을 느끼게 함. 정체를 확정 짓지 않는 수준의 위화감만 남겨, D구역의 결정적 단서와 만나기 전까지는 의혹으로만 남도록 함.
 내용 :
-베일라가 물품 창고에서 열쇠 꾸러미를 찾으려 가방을 열었을 때 마커스가 가방 틈으로 포착한 내용. 베일라와 한 남성의 다정한 사진 바로 옆에 민간인에게 허용되지 않는 어두운 빛깔의 소형 호신용 권총이 은밀히 자리 잡고 있는 정황. 사진 속 남성의 얼굴은 소름 돋게도 진짜 소장 클레이와 완벽하게 동일함.
+베일라가 물품 창고에서 열쇠 꾸러미를 찾으려 가방을 열었을 때 마커스가 가방 틈으로 포착한 내용. 베일라와 한 남성의 다정한 사진 바로 옆에 민간인에게 허용되지 않는 어두운 빛깔의 소형 호신용 권총이 은밀히 자리 잡고 있는 정황. 사진 속 남성의 얼굴이 어쩐지 낯설지 않다. 정확히 뭐가 닮았는지 콕 집어 말하기는 어렵지만, 지금 눈앞의 소장에게서 느껴지는 인상과 묘하게 겹쳐 보인다.
 HTML :
 <div class="story-content">
-  <div><span class="character-veyla">베일라</span>가 물품 창고에서 열쇠 꾸러미를 찾으려 가방을 열었을 때 <span class="character-marcus">마커스</span>가 가방 틈으로 포착한 내용. <span class="character-veyla">베일라</span>와 한 남성의 다정한 사진 바로 옆에 민간인에게 허용되지 않는 어두운 빛깔의 소형 호신용 권총이 은밀히 자리 잡고 있는 정황. 사진 속 남성의 얼굴은 소름 돋게도 진짜 소장 <span class="character-clay">클레이</span>와 완벽하게 동일함.</div>
+<div class="script-direction"><span class="emphasis">보안 물품 창고</span> 단말기에서 확인한 환기구 접근 제어 로그이다.</div>
+<div class="divider"></div>
+<div>
+<span class="character-veyla">베일라</span>가 물품 창고에서 열쇠 꾸러미를 찾으려 가방을 열었을 때
+    <span class="character-marcus">마커스</span>가 가방 틈으로 포착한 내용.
+    <span class="character-veyla">베일라</span>와 한 남성의 다정한 사진 바로 옆에 민간인에게 허용되지 않는 어두운 빛깔의
+    소형 호신용 권총이 은밀히 자리 잡고 있는 정황. 사진 속 남성의 얼굴이 어쩐지 낯설지 않다. 정확히 뭐가 닮았는지 콕
+    집어 말하기는 어렵지만, 지금 눈앞의 소장에게서 느껴지는 인상과 묘하게 겹쳐 보인다.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up inside a half-open leather bag, revealing a small dark handgun next to a photograph of a couple. Cold storage-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 보안_물품_창고
@@ -560,17 +616,17 @@ HTML :
 
 
 [clue_19]
-이름 : 환기구 접근 제어 로그
-clue_id : 4d27e49d-35e4-417b-9305-45c9a37e5a74
-variant_id : 14d7eaca-1d43-420d-8876-42c7a4712153
+이름 : 서쪽 환기구#1
+clue_id : 9abd0978-7c45-4be9-8bf1-280665709671
+variant_id : 4e76efaf-01c0-4ab2-8ec2-0c2f3470b1c3
 유형 : 물증
 단계 : B구역
 소모AP : 1
 정렬순서 : 610
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -581,9 +637,13 @@ variant_id : 14d7eaca-1d43-420d-8876-42c7a4712153
 "08:00:15 - 서쪽 환기구 내부 게이트: 유전자 인증 통과. 경보 미발생. 게이트 일시 개방."
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"08:00:15 - 서쪽 환기구 내부 게이트: 유전자 인증 통과. 경보 미발생. 게이트 일시 개방."</div>
-  </div>
+<div class="script-direction"><span class="emphasis">서쪽 환풍구</span> 바닥 틈새에서 발견한 약혼반지다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "08:00:15 - <span class="emphasis">서쪽 환기구</span> 내부 게이트: 유전자 인증 통과. 경보 미발생. 게이트 일시 개방."
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a vent access control terminal log, near a large industrial vent. Cold dim lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 서쪽_환기구
@@ -591,17 +651,17 @@ HTML :
 
 
 [clue_20]
-이름 : 환풍구 바닥의 약혼반지
-clue_id : 76a6deb8-f442-4dd5-9867-71b4f4317676
-variant_id : 43b1b673-9bad-46cd-95e5-63112b70c7b0
+이름 : 서쪽 환기구#2
+clue_id : 48f8cafb-0025-4050-81b0-8d2552af1fcc
+variant_id : 3f2d48a3-8550-4e2b-b6ae-70210a4d80ba
 유형 : 물증
 단계 : B구역
 소모AP : 1
 정렬순서 : 620
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -612,7 +672,12 @@ variant_id : 43b1b673-9bad-46cd-95e5-63112b70c7b0
 환기구의 하수망 필터 바닥, 시커먼 먼지 속에 떨어져 있는 낡은 은반지. 내부 면에 희미하게 'V&A' 라는 이니셜이 각인되어 있음.
 HTML :
 <div class="story-content">
-  <div>환기구의 하수망 필터 바닥, 시커먼 먼지 속에 떨어져 있는 낡은 은반지. 내부 면에 희미하게 <span class="emphasis">'V&amp;A'</span> 라는 이니셜이 각인되어 있음.</div>
+<div class="script-direction"><span class="emphasis">서쪽 환풍구</span> 내부에서 조사한 피해자 시신의 소지품이다.</div>
+<div class="divider"></div>
+<div>
+    환기구의 하수망 필터 바닥, 시커먼 먼지 속에 떨어져 있는 낡은 은반지. 내부 면에 희미하게
+    <span class="emphasis">'V&amp;A'</span> 라는 이니셜이 각인되어 있음.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a tarnished silver ring lying in dark dust and grime at the bottom of a vent shaft, faint engraved initials visible. Cold dim lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 서쪽_환기구
@@ -620,17 +685,17 @@ HTML :
 
 
 [clue_21]
-이름 : 피해자 시체의 소지품
-clue_id : 71da0c51-8853-4f9f-b782-083c3943c348
-variant_id : df1bd557-1df7-4f26-9dc7-d872a3cb0db4
+이름 : 기록 보관실#1
+clue_id : 4e304cda-0c9c-4ff2-add4-f15fa5a6e68c
+variant_id : 59fec3cf-8014-462c-884a-ec6960ceff31
 유형 : 물증
 단계 : B구역
 소모AP : 1
 정렬순서 : 710
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -641,7 +706,12 @@ variant_id : df1bd557-1df7-4f26-9dc7-d872a3cb0db4
 기록 보관실 바닥에 목 졸려 죽어 있는 시체의 찢어진 겉옷 주머니에서 발견된 알약 통. 라벨에는 소장실 서랍 처방전에서 목격한 특정 마약성 진통제 '프로메돌'의 명칭이 선명하게 인쇄되어 있음.
 HTML :
 <div class="story-content">
-  <div>기록 보관실 바닥에 목 졸려 죽어 있는 시체의 찢어진 겉옷 주머니에서 발견된 알약 통. 라벨에는 소장실 서랍 처방전에서 목격한 특정 마약성 진통제 <span class="emphasis">'프로메돌'</span>의 명칭이 선명하게 인쇄되어 있음.</div>
+<div class="script-direction"><span class="emphasis">기록 보관실</span> 시신의 손톱 밑에서 채취한 미세 잔해 분석 결과다.</div>
+<div class="divider"></div>
+<div>
+<span class="emphasis">기록 보관실</span> 바닥에 목 졸려 죽어 있는 시체의 찢어진 겉옷 주머니에서 발견된 알약 통. 라벨에는 <span class="emphasis">소장실</span> 서랍 처방전에서
+    목격한 특정 마약성 진통제 <span class="emphasis">'프로메돌'</span>의 명칭이 선명하게 인쇄되어 있음.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small pill bottle with a printed label, fallen from a torn coat pocket onto a cold floor. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 기록_보관실
@@ -649,17 +719,17 @@ HTML :
 
 
 [clue_22]
-이름 : 시체의 손톱 밑 미세 잔해
-clue_id : 3f191877-799a-48a8-9605-91257f3e762f
-variant_id : 4ebb05cf-8b77-4be4-8314-c1a16c9d1c34
+이름 : 기록 보관실#2
+clue_id : 1934238f-1376-4b27-a907-830a161ba71e
+variant_id : 6f59601a-f1db-4ef0-8c69-a997d30a2b22
 유형 : 물증
 단계 : B구역
 소모AP : 1
 정렬순서 : 720
 중요도 : 높음
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -670,7 +740,9 @@ variant_id : 4ebb05cf-8b77-4be4-8314-c1a16c9d1c34
 교살당한 시체의 오른손 손톱 밑에 붉은 핏자국과 범인의 미세한 피부 조직 조각이 거칠게 끼어 있는 정황.
 HTML :
 <div class="story-content">
-  <div>교살당한 시체의 오른손 손톱 밑에 붉은 핏자국과 범인의 미세한 피부 조직 조각이 거칠게 끼어 있는 정황.</div>
+<div class="script-direction"><span class="emphasis">기록 보관실</span>에서 발견한 <span class="character-clay">소장 클레이</span>의 옷깃 틈 상처 정황이다.</div>
+<div class="divider"></div>
+<div>교살당한 시체의 오른손 손톱 밑에 붉은 핏자국과 범인의 미세한 피부 조직 조각이 거칠게 끼어 있는 정황.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a lifeless hand, dried blood and tissue fragments visible under the fingernails. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 기록_보관실
@@ -678,20 +750,20 @@ HTML :
 
 
 [clue_23]
-이름 : 생존 소장의 옷깃 틈 상처
-clue_id : c89900a8-d9dc-4ddf-928a-729d31368b4d
-variant_id : caa5ba53-5b52-4a20-aec1-fc574e460f4a
+이름 : 기록 보관실#3
+clue_id : 0ea24b8d-0b61-4a72-ba36-0dc715aee466
+variant_id : 9fdec1de-4be5-4cbb-b93d-88c64a1c0e21
 유형 : 관찰
 단계 : B구역
 소모AP : 0
 정렬순서 : 730
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
 관련 : 공통
 의도 : clue_22와 교차 매칭되어 생존 소장이 진짜 범인임을 증명.
@@ -699,7 +771,12 @@ variant_id : caa5ba53-5b52-4a20-aec1-fc574e460f4a
 현재 소장 가운을 입고 일행을 인도하는 소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는, 긁힌 지 얼마 되지 않아 피가 살짝 맺혀 부풀어 오른 선명한 상처들.
 HTML :
 <div class="story-content">
-  <div>현재 소장 가운을 입고 일행을 인도하는 소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는, 긁힌 지 얼마 되지 않아 피가 살짝 맺혀 부풀어 오른 선명한 상처들.</div>
+<div class="script-direction">소각로 주변 서류 더미에서 발견한 <span class="character-alex">알렉스</span>의 비밀 일지 조각이다.</div>
+<div class="divider"></div>
+<div>
+    현재 소장 가운을 입고 일행을 인도하는 소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는, 긁힌 지 얼마 되지 않아 피가
+    살짝 맺혀 부풀어 오른 선명한 상처들.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a fresh scratch wound peeking out from under a lab coat sleeve and shirt collar. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 기록_보관실
@@ -707,20 +784,20 @@ HTML :
 
 
 [clue_24]
-이름 : 소각로 내부의 타다 만 연구 파일 조각
-clue_id : 1d351876-d174-40c1-be6c-4ad36ec09fb7
-variant_id : 6e59003c-d9e0-43e1-be86-af3b7c42eac2
+이름 : 폐기물 소각장#1
+clue_id : 73c3502f-79c1-4744-b9ff-8a46b525d5ba
+variant_id : ca751a35-1623-49c3-8df4-89111ff5f4ed
 유형 : 물증
 단계 : D구역
 소모AP : 0
 정렬순서 : 810
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
+시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : Y
 관련 : 공통
 의도 : 도플로이드가 진짜 창조주이자 원본인 닥터 클레이와 조우했을 때 의도치 않게 살의가 폭주할 수밖에 없었던 시스템적 비극과 살해 동기(부작용)를 증명. 동시에 이 위험성을 알고도 방치하거나 은폐하려 한 클레이 자신의 책임을 암시하는 물증으로도 기능. (사건 해결에 필수적인 단서라 별도 조사 없이 자동 공개)
@@ -728,11 +805,22 @@ variant_id : 6e59003c-d9e0-43e1-be86-af3b7c42eac2
 불에 그을려 절반 넘게 사라진 문서. 남은 부분에서 클레이 자신의 필체로 쓴 구절이 겨우 읽힌다. "…배양 개체가 원본과 대면하면 제어 신호에 심각한 오류가 발생한다. 이성을 잃고 원본을 향한 통제 불능의 살의가 폭주한다. 마스터 패널로 셧다운하는 것 외에는 막을 방법이… 이 결함을 뿌리부터 뜯어고치려면 처음부터 다시 설계해야 한다. 지금은 그럴 시간이 없다. 하지만 이 살의가 오직 원본과의 대면에서만 발현된다면, 다시는 마주치지만 않으면…" 그 뒷장은 새까맣게 타버려 아무것도 남아 있지 않다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">불에 그을려 절반 넘게 사라진 문서. 남은 부분에서 <span class="character-clay">클레이</span> 자신의 필체로 쓴 구절이 겨우 읽힌다.</div>
-  <div class="document-page">
-    <div class="document-body small">"…배양 개체가 원본과 대면하면 제어 신호에 심각한 오류가 발생한다. 이성을 잃고 원본을 향한 통제 불능의 살의가 폭주한다. 마스터 패널로 셧다운하는 것 외에는 막을 방법이… 이 결함을 뿌리부터 뜯어고치려면 처음부터 다시 설계해야 한다. 지금은 그럴 시간이 없다. 하지만 이 살의가 오직 원본과의 대면에서만 발현된다면, 다시는 마주치지만 않으면…"</div>
+<div class="script-direction">
+    불에 그을려 절반 넘게 사라진 문서. 남은 부분에서 <span class="character-clay">클레이</span> 자신의 필체로 쓴 구절이
+    겨우 읽힌다.
   </div>
-  <div class="script-direction">그 뒷장은 새까맣게 타버려 아무것도 남아 있지 않다. 누군가 이 사실을 세상에서 지워버리려 한 흔적이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "…배양 개체가 원본과 대면하면 제어 신호에 심각한 오류가 발생한다. 이성을 잃고 원본을 향한 통제 불능의 살의가
+      폭주한다. 마스터 패널로 셧다운하는 것 외에는 막을 방법이… 이 결함을 뿌리부터 뜯어고치려면 처음부터 다시 설계해야
+      한다. 지금은 그럴 시간이 없다. 하지만 이 살의가 오직 원본과의 대면에서만 발현된다면, 다시는 마주치지만 않으면…"
+    </div>
+</div>
+<div class="script-direction">
+    그 뒷장은 새까맣게 타버려 아무것도 남아 있지 않다. 누군가 이 사실을 세상에서 지워버리려 한 흔적이다.
+  </div>
+<div class="divider"></div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-burned document, edges charred black, legible handwriting on the surviving portion, inside a dark incinerator chamber. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 폐기물_소각장
@@ -740,17 +828,17 @@ HTML :
 
 
 [clue_25]
-이름 : 마커스의 누나, 조수 알렉스의 비밀 일지
-clue_id : e1b1ed58-daa6-4f75-8c0a-11249ce24ba3
-variant_id : 909640e1-9196-47b9-add6-2bb555a510df
+이름 : 지하 배양실#1
+clue_id : 80e62a92-e6f9-410d-a2ad-ad47ad456a2c
+variant_id : 889209f7-3b25-4710-9e94-ce68e92879eb
 유형 : 물증
 단계 : D구역
 소모AP : 1
 정렬순서 : 910
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -761,27 +849,33 @@ variant_id : 909640e1-9196-47b9-add6-2bb555a510df
 "남동생 마커스에게 나타날 유전병의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 급속도의 뇌세포 파괴와 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"남동생 <span class="character-marcus">마커스</span>에게 나타날 유전병의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 급속도의 뇌세포 파괴와 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."</div>
-  </div>
+<div class="script-direction"><span class="emphasis">지하 배양실</span> 단말기에서 추출한 프로젝트 배양 데이터 스캔 기록이다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "남동생 <span class="character-marcus">마커스</span>에게 나타날 유전병의 완치법을 찾기 위해 이 불법 연구소에
+      들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 급속도의 뇌세포 파괴와 죽음에 이른다.
+      소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a personal diary open on a lab bench, handwritten in a woman's hand, next to glowing incubation equipment in the background. Cold cyan lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 지하_주_배양실
+단서 그룹 : 지하_배양실
 파일명 : 25_알렉스_비밀일지
 
 
 [clue_26]
-이름 : 프로젝트 배양 데이터 스캔 기록
-clue_id : db76c52e-8114-4344-8f01-ff91637a0a0a
-variant_id : 9ef03b23-1883-4bb3-9547-e78728c49a91
+이름 : 지하 배양실#2
+clue_id : 9b166ecc-1375-4e92-b1df-c8fe8f03558e
+variant_id : 9c549cf4-e442-4bdc-abe8-6bd57f4b4a63
 유형 : 물증
 단계 : D구역
 소모AP : 1
 정렬순서 : 920
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -792,28 +886,34 @@ variant_id : 9ef03b23-1883-4bb3-9547-e78728c49a91
 "배양 모델 ID: AIex. 개체 식별을 위해 왼쪽 심장 부근에 'AIex' 각인 전사 완료." 원래는 비어 있어야 할 비고란에 클레이가 직접 남긴 한 줄이 덧붙어 있다. "이 이름 말고는, 그 사람을 기억할 방법이 없었다."
 HTML :
 <div class="story-content">
-  <div class="document-page">
-    <div class="document-body small">"배양 모델 ID: AIex. 개체 식별을 위해 왼쪽 심장 부근에 'AIex' 각인 전사 완료."</div>
+<div class="document-page">
+<div class="document-body small">
+      "배양 모델 ID: <span class="character-alex">AIex</span>. 개체 식별을 위해 왼쪽 심장 부근에 '<span class="character-alex">AIex</span>' 각인 전사 완료."
+    </div>
+</div>
+<div class="script-direction">
+    원래는 비어 있어야 할 비고란에 <span class="character-clay">클레이</span>가 직접 남긴 한 줄이 덧붙어 있다. "이 이름
+    말고는, 그 사람을 기억할 방법이 없었다."
   </div>
-  <div class="script-direction">원래는 비어 있어야 할 비고란에 <span class="character-clay">클레이</span>가 직접 남긴 한 줄이 덧붙어 있다. "이 이름 말고는, 그 사람을 기억할 방법이 없었다."</div>
+<div class="divider"></div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a scan record printout with a data table, a single handwritten sentence added in the margin. Cold cyan lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 지하_주_배양실
+단서 그룹 : 지하_배양실
 파일명 : 26_배양데이터_스캔기록
 
 
 [clue_27]
-이름 : 가동 흔적이 남은 캡슐
-clue_id : cf7fc7ce-dd05-4af0-9a0e-8b79959c3352
-variant_id : 9c50a50d-2730-4b97-acbc-11ac9ff301ee
+이름 : 지하 배양실#3
+clue_id : e038351f-173e-484c-88d0-946b079682f5
+variant_id : 73611f7c-7608-4f3b-8e2d-8f9887e6c631
 유형 : 관찰
 단계 : D구역
 소모AP : 1
 정렬순서 : 930
 중요도 : 보통
 핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -824,25 +924,31 @@ variant_id : 9c50a50d-2730-4b97-acbc-11ac9ff301ee
 내부에 어떤 기계적 파손이나 파편 흔적도 없이 말끔하지만, 최근까지 가동을 마친 듯 잔여 단백질 액체 흔적이 내부 벽면을 따라 고여 있는 비어 있는 1인용 거대 배양조. 유리벽 바깥쪽에는 누군가 오랫동안 그 앞을 서성이며 짚었던 듯한 손자국이 여러 겹 겹쳐 남아 있다.
 HTML :
 <div class="story-content">
-  <div>내부에 어떤 기계적 파손이나 파편 흔적도 없이 말끔하지만, 최근까지 가동을 마친 듯 잔여 단백질 액체 흔적이 내부 벽면을 따라 고여 있는 비어 있는 1인용 거대 배양조. 유리벽 바깥쪽에는 누군가 오랫동안 그 앞을 서성이며 짚었던 듯한 손자국이 여러 겹 겹쳐 남아 있다.</div>
+<div class="script-direction"><span class="emphasis">지하 배양실</span> 제어 테이블 위에 놓인 <span class="character-clay">클레이</span>의 낡은 연구 일지다.</div>
+<div class="divider"></div>
+<div>
+    내부에 어떤 기계적 파손이나 파편 흔적도 없이 말끔하지만, 최근까지 가동을 마친 듯 잔여 단백질 액체 흔적이 내부 벽면을
+    따라 고여 있는 비어 있는 1인용 거대 배양조. 유리벽 바깥쪽에는 누군가 오랫동안 그 앞을 서성이며 짚었던 듯한 손자국이
+    여러 겹 겹쳐 남아 있다.
+  </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an empty glass incubation capsule, faint residue on the inner walls, layered handprints smudged on the outer glass. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 지하_주_배양실
+단서 그룹 : 지하_배양실
 파일명 : 27_가동흔적_캡슐
 
 
 [clue_28]
-이름 : 클레이가 남긴 낡은 연구 일지 - 그날의 기록
-clue_id : 9a28f204-2f24-491e-bd7f-1d1c1b09ef74
-variant_id : efb40cac-c6e8-4aaa-be21-ebd280d28058
+이름 : 지하 배양실#4
+clue_id : 6649de70-0bfe-4abd-b74b-cd4cfb65c86f
+variant_id : 532964bd-f9ef-48ba-b96a-534fd0e480be
 유형 : 물증
 단계 : D구역
 소모AP : 1
 정렬순서 : 940
 중요도 : 최고
 핵심 단서 여부 : Y
-교환 가능 여부 : N
-획득 가능 여부 : N
+교환 가능 여부 : Y
+획득 가능 여부 : Y
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
@@ -853,11 +959,17 @@ variant_id : efb40cac-c6e8-4aaa-be21-ebd280d28058
 다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다. "…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운 연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. …다시는, 다시는 그 순간을 떠올리고 싶지 않다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는."
 HTML :
 <div class="story-content">
-  <div class="script-direction">다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다.</div>
-  <div class="document-page">
-    <div class="document-body small">"…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운 연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. …다시는, 다시는 그 순간을 떠올리고 싶지 않다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는."</div>
-  </div>
+<div class="script-direction">다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다.</div>
+<div class="divider"></div>
+<div class="document-page">
+<div class="document-body small">
+      "…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운
+      연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자
+      짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. …다시는, 다시는 그
+      순간을 떠올리고 싶지 않다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는."
+    </div>
+</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a worn, tear-stained journal page, ink smudged in places, resting near the base of a large incubation capsule. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 지하_주_배양실
+단서 그룹 : 지하_배양실
 파일명 : 28_클레이_옛일지_그날의기록

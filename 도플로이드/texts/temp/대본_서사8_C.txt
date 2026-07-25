@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "일생일대 중요한 진로와 인생이 결정될 긴박했던 과거가 기억나. 근데 갑자기 귀가 먹먹할 정도의 엄청난 충돌 소리가 메아리쳐. 모든 게 부서질 것 같아."
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "일생일대 중요한 진로와 인생이 결정될 긴박했던 과거가 기억나. 근데 갑자기 귀가 먹먹할 정도의 엄청난 충돌 소리가 메아리쳐. 모든 게 부서질 것 같아."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 나락만 도사리는군."
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 나락만 도사리는군."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "지금 시 쓰냐? 생존이 걸린 마당에 그런 한가한 연애 타령이 무슨 도움이 돼! 가뜩이나 머리 아픈데 정신 사납게 만들지 마."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "지금 시 쓰냐? 생존이 걸린 마당에 그런 한가한 연애 타령이 무슨 도움이 돼! 가뜩이나 머리 아픈데 정신 사납게 만들지 마."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 불과하단 말이냐?"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 불과하단 말이냐?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "적반하장도 유분수지! 내 생사가 달린 절박한 기억은 들은 척도 안 하면서 혼자 로맨스 타령이잖아. 난 반드시 살아서 내 세계로 돌아갈 거니까, 되도 않는 연극으로 시간 낭비하지 마."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "적반하장도 유분수지! 내 생사가 달린 절박한 기억은 들은 척도 안 하면서 혼자 로맨스 타령이잖아. 난 반드시 살아서 내 세계로 돌아갈 거니까, 되도 않는 연극으로 시간 낭비하지 마."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 산산조각 날 것이다!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 산산조각 날 것이다!"
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

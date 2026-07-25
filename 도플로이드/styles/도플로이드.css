@@ -432,3 +432,38 @@
         font-size: 1.2rem;
     }
 }
+
+/* 문서 및 단서 레이아웃 유틸리티 (도플로이드 SF 테마) */
+.story-content .document-page {
+    background: rgba(10, 20, 32, 0.75);
+    border: 1px solid rgba(168, 192, 255, 0.25);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.2rem 0;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.5), 0 4px 12px rgba(0, 0, 0, 0.3);
+    font-family: "Noto Sans KR", sans-serif;
+    color: #d8e2ff;
+    line-height: 1.6;
+}
+
+.story-content .document-body {
+    margin-bottom: 0.75rem;
+    color: #c0d0f0;
+}
+
+.story-content .document-body:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .document-body.small,
+.story-content .small {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    opacity: 0.9;
+}
+
+.story-content .divider-gold {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(212, 175, 55, 0.5), transparent);
+    margin: 1.5rem 0;
+}

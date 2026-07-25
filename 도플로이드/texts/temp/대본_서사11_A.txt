@@ -1,45 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "검이 기억하는 격렬한 투쟁, 그리고 신성한 최후의 서약... 내 기억은 모두 다 진짜다! 니악, 네놈의 실체는 내 혼을 노리는 도플갱어였군! 너는 나를 흉내 내어 나를 집어삼키려는 한낱 모조품일 뿐이다!"
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "검이 기억하는 격렬한 투쟁, 그리고 신성한 최후의 서약... 내 기억은 모두 다 진짜다! 니악, 네놈의 실체는 내 혼을 노리는 도플갱어였군! 너는 나를 흉내 내어 나를 집어삼키려는 한낱 모조품일 뿐이다!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 부정당하진 않겠어!"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 부정당하진 않겠어!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "끝내 신성모독을 일삼는구나! 기묘한 석판 위에 최후의 정답을 채우는 날, 진짜는 구원받을 것이요, 모조품인 네놈은 소멸하리라. 하늘의 판결이 임했으니 파멸을 맞아라!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "끝내 신성모독을 일삼는구나! 기묘한 석판 위에 최후의 정답을 채우는 날, 진짜는 구원받을 것이요, 모조품인 네놈은 소멸하리라. 하늘의 판결이 임했으니 파멸을 맞아라!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 이젠 끝장내자."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 이젠 끝장내자."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "그래, 신의 제단에서 결판을 내자! 내 한 점 부끄럼 없는 진짜 영혼이 네놈을... 어? 잠깐, 저 문자판을 보아라! 아무 기척도 없이... 모든 것은 이 마지막 질문만을 위한 것이었단 말이냐!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "그래, 신의 제단에서 결판을 내자! 내 한 점 부끄럼 없는 진짜 영혼이 네놈을... 어? 잠깐, 저 문자판을 보아라! 아무 기척도 없이... 모든 것은 이 마지막 질문만을 위한 것이었단 말이냐!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 결판을 내지."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 결판을 내지."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

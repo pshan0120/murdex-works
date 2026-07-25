@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한기가 풍기는 것 같은지."
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 한기가 풍기는 것 같은지."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "무릎을 꿇고 서약이요? 난 역사책 영웅을 동경했던 어린 시절이 떠올랐어요. 근데 왜 하필 우린 서로 전혀 다른 세계의 기억이 나는 걸까요? 당신의 그 낡은 연극 같은 기억들... 꼭 누군가가 가짜로 꾸며서 주입한 것 같아 불쾌해요."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "무릎을 꿇고 서약이요? 난 역사책 영웅을 동경했던 어린 시절이 떠올랐어요. 근데 왜 하필 우린 서로 전혀 다른 세계의 기억이 나는 걸까요? 당신의 그 낡은 연극 같은 기억들... 꼭 누군가가 가짜로 꾸며서 주입한 것 같아 불쾌해요."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 기만 아니오?"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 기만 아니오?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "아니, 그쪽이 자꾸 현실과 동떨어진 소리만 하니까 그렇죠. 지금 세상에 서약이나 소명이 다 뭐예요? 무슨 판타지 소설 주인공 병에라도 걸린 사람 같아요."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "아니, 그쪽이 자꾸 현실과 동떨어진 소리만 하니까 그렇죠. 지금 세상에 서약이나 소명이 다 뭐예요? 무슨 판타지 소설 주인공 병에라도 걸린 사람 같아요."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 결국 밝혀질 테니."
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 결국 밝혀질 테니."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "당신이 원하는 대로 해봐요. 나도 여기서 벗어나 원래 내 삶으로 돌아가고 싶을 뿐이니, 얼른 다음 단계로 넘어가서 확인해요."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "당신이 원하는 대로 해봐요. 나도 여기서 벗어나 원래 내 삶으로 돌아가고 싶을 뿐이니, 얼른 다음 단계로 넘어가서 확인해요."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

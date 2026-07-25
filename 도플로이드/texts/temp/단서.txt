@@ -29,7 +29,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778745082/murdex/images/clue
 입력 패널 위에는 평면도가 붙어 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">입력 패널 위에는 평면도가 붙어 있다.</div>
+<div class="script-direction">입력 패널 위에는 평면도가 붙어 있다.</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, clean isometric 3D architectural cutaway diagram of a sterile circular cylinder chamber. The chamber is divided into exactly three equal 120-degree sections by three white partition walls radiating from the center to form a perfect Y-shape. Strictly only three sections, absolutely no fourth section. The partition walls are solid white, each featuring a sleek horizontal glass window at eye-level. The curved outer wall of each section is a plain white wall with only a single simple metallic hatch door and a tiny input keypad panel next to it. The entire circular chamber is surrounded by a vast, silent, pitch-black void representing an abyss. In Section A and Section C, an identical dark featureless naked human silhouette stands near the horizontal windows. In Section B, a heavily distorted and twisted human silhouette lies dead on the floor. On the floor of each room, a clean bold single letter is printed: 'A' in the left room, 'C' in the right room, and 'B' in the bottom room. Absolutely no explanatory labels, no pointer lines, no technical text overlays. Minimalist sterile white and soft grey color scheme, thin crisp line art.
 장소 : 실험실
@@ -56,9 +56,9 @@ HTML :
 "높은 교양과 예의를 갖춘 점잖은 사내."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "높은 교양과 예의를 갖춘 점잖은 사내."
   </div>
 </div>
@@ -87,9 +87,9 @@ HTML :
 "어떤 변화나 행동을 이끌어내는 결정적인 원인이나 기회."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "어떤 변화나 행동을 이끌어내는 결정적인 원인이나 기회."
   </div>
 </div>
@@ -118,11 +118,11 @@ HTML :
 "A"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">A</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">A</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'A' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -151,11 +151,11 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778749652/murdex/images/clue
 "A"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">A</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">A</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'A' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -186,9 +186,9 @@ HTML :
 "충성 서약을 맺고 영주를 수호하던 고귀한 무사."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "충성 서약을 맺고 영주를 수호하던 고귀한 무사."
   </div>
 </div>
@@ -217,9 +217,9 @@ HTML :
 "조약이나 합의의 성립을 증명하기 위해 문서에 서명하는 행위. '**[  ]**식'"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "조약이나 합의의 성립을 증명하기 위해 문서에 서명하는 행위. '<span class="highlight-box">◯◯</span>식'"
   </div>
 </div>
@@ -248,11 +248,11 @@ HTML :
 "D"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">D</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">D</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'D' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -281,11 +281,11 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778769422/murdex/images/clue
 "B"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">B</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">B</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'B' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -317,9 +317,9 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778769482/murdex/images/clue
 "악기를 다루며 아름다운 선율을 연주하는 예술가."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "악기를 다루며 아름다운 선율을 연주하는 예술가."
   </div>
 </div>
@@ -348,9 +348,9 @@ HTML :
 "세대를 거쳐 부모의 성질과 형질이 자식에게 고스란히 물려 내려지는 현상."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "세대를 거쳐 부모의 성질과 형질이 자식에게 고스란히 물려 내려지는 현상."
   </div>
 </div>
@@ -379,11 +379,11 @@ HTML :
 "E"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">E</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">E</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'E' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -410,11 +410,11 @@ HTML :
 "H"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">H</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">H</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'H' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -447,9 +447,9 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778824363/murdex/images/clue
 "마음이 망설여져 선뜻 앞으로 나아가지 못하는 상태."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "마음이 망설여져 선뜻 앞으로 나아가지 못하는 상태."
   </div>
 </div>
@@ -478,9 +478,9 @@ HTML :
 "몸이나 손발을 움직이는 상태나 태도. '**[  ]**그만'"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "몸이나 손발을 움직이는 상태나 태도. '<span class="highlight-box">◯◯</span>그만'"
   </div>
 </div>
@@ -509,11 +509,11 @@ HTML :
 "H"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">H</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">H</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'H' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -542,11 +542,11 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778824363/murdex/images/clue
 "M"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">M</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">M</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'M' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -578,9 +578,9 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778825466/murdex/images/clue
 "살리고 죽임. '**[  ]**여탈권'"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "살리고 죽임. '<span class="highlight-box">◯◯</span>여탈권'"
   </div>
 </div>
@@ -609,9 +609,9 @@ HTML :
 "대학에서 전문 분야에 따라 나누어 놓은 학문 연구의 단위. '경영**[  ]**'"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "대학에서 전문 분야에 따라 나누어 놓은 학문 연구의 단위. '경영<span class="highlight-box">◯◯</span>'"
   </div>
 </div>
@@ -640,11 +640,11 @@ HTML :
 "I"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">I</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">I</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'I' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -671,11 +671,11 @@ HTML :
 "N"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">N</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">N</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'N' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -706,9 +706,9 @@ HTML :
 "서로 어기지 않기로 굳게 맹세하여 맺은 약속을 뜻하는 옛 단어."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "서로 어기지 않기로 굳게 맹세하여 맺은 약속을 뜻하는 옛 단어."
   </div>
 </div>
@@ -737,9 +737,9 @@ HTML :
 "소속이나 신분, 규율을 나타내기 위해 규정해 놓은 똑같은 양식의 옷."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "소속이나 신분, 규율을 나타내기 위해 규정해 놓은 똑같은 양식의 옷."
   </div>
 </div>
@@ -768,11 +768,11 @@ HTML :
 "L"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">L</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">L</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'L' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -799,11 +799,11 @@ HTML :
 "O"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">O</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">O</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'O' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -834,9 +834,9 @@ HTML :
 "누군가를 간절히 그리워하고 사랑하는 깊은 마음을 뜻하는 옛 단어."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "누군가를 간절히 그리워하고 사랑하는 깊은 마음을 뜻하는 옛 단어."
   </div>
 </div>
@@ -865,9 +865,9 @@ HTML :
 "학습의 성취도를 정밀하게 검증하기 위해 치르는 시험."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "학습의 성취도를 정밀하게 검증하기 위해 치르는 시험."
   </div>
 </div>
@@ -896,11 +896,11 @@ HTML :
 "M"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">M</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">M</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'M' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -928,11 +928,11 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778825466/murdex/images/clue
 "O"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">O</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">O</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'O' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -963,9 +963,9 @@ HTML :
 "약속한 기한이나 정해진 시간이 꽉 차서 끝남."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "약속한 기한이나 정해진 시간이 꽉 차서 끝남."
   </div>
 </div>
@@ -994,9 +994,9 @@ HTML :
 "나이가 아주 어린 아이를 뜻하는 한자어. '**[  ]**승'"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "나이가 아주 어린 아이를 뜻하는 한자어. '<span class="highlight-box">◯◯</span>승'"
   </div>
 </div>
@@ -1025,11 +1025,11 @@ HTML :
 "N"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">N</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">N</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'N' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -1057,11 +1057,11 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1778829508/murdex/images/clue
 "R"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">R</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">R</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'R' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -1092,9 +1092,9 @@ HTML :
 "감탄하여 부르짖는 말이나 소리. '감**[  ]**'."
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "감탄하여 부르짖는 말이나 소리. '감<span class="highlight-box">◯◯</span>'."
   </div>
 </div>
@@ -1123,9 +1123,9 @@ HTML :
 "의견이나 주장을 널리 알리고 설득하는 행위. '**[  ]**물'"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "의견이나 주장을 널리 알리고 설득하는 행위. '<span class="highlight-box">◯◯</span>물'"
   </div>
 </div>
@@ -1154,11 +1154,11 @@ HTML :
 "U"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">U</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">U</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'U' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -1185,11 +1185,11 @@ HTML :
 "T"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">T</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">T</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'T' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -1220,9 +1220,9 @@ HTML :
 "서로 아주 비슷하거나 교묘하게 닮아 있는 상태. '<span class="highlight-box">◯◯</span>품'"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "서로 아주 비슷하거나 교묘하게 닮아 있는 상태. '<span class="highlight-box">◯◯</span>품'"
   </div>
 </div>
@@ -1251,9 +1251,9 @@ HTML :
 "힘차고 생기 있게 활발히 움직이는 상태. '**[  ]**적'"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box">
+<div class="script-direction">유리창 너머, <span class="emphasis">상대의 신체</span> 위로 선명하게 떠오른 문장이다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box">
     "힘차고 생기 있게 활발히 움직이는 상태. '<span class="highlight-box">◯◯</span>적'"
   </div>
 </div>
@@ -1282,11 +1282,11 @@ HTML :
 "V"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">V</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">V</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'V' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -1313,11 +1313,11 @@ HTML :
 "U"
 HTML :
 <div class="story-content">
-  <div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="display-box center">
-    <span class="system-code">U</span>
-  </div>
+<div class="script-direction">화면에 <span class="emphasis">선명한 알파벳</span> 한 글자가 떠올라 있다.</div>
+<div class="divider-gold"></div>
+<div class="display-box center">
+<span class="system-code">U</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A tight macro close-up of a sleek, white monochromatic screen on a digital input panel. A single, large, bold letter 'U' is displayed clearly on the center of the clean screen. The lighting is soft and diffused, emphasizing the sterile and high-tech atmosphere. Cool grey and white color palette, sharp clean lines. Minimalist and clinical vibe.
 장소 : 없음
@@ -1348,11 +1348,11 @@ HTML :
 "BI"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 상단 금속 프레임 한구석에 <span class="emphasis">기묘한 문자</span>가 새겨져 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box center">
-    <span class="system-code">BI</span>
-  </div>
+<div class="script-direction">유리창 상단 금속 프레임 한구석에 <span class="emphasis">기묘한 문자</span>가 새겨져 있다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box center">
+<span class="system-code">BI</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A close-up shot of the top metal frame of a glass window in a sterile white room. On the smooth, grey metallic surface, the letters 'BI' are faintly but clearly engraved in a clean, sans-serif font. The lighting is clinical and soft, casting subtle shadows on the metallic texture. Sterile and high-tech atmosphere.
 장소 : 실험실
@@ -1379,11 +1379,11 @@ HTML :
 "OS"
 HTML :
 <div class="story-content">
-  <div class="script-direction">유리창 상단 금속 프레임 한구석에 <span class="emphasis">기묘한 문자</span>가 새겨져 있다.</div>
-  <div class="divider-gold"></div>
-  <div class="quiz-box center">
-    <span class="system-code">OS</span>
-  </div>
+<div class="script-direction">유리창 상단 금속 프레임 한구석에 <span class="emphasis">기묘한 문자</span>가 새겨져 있다.</div>
+<div class="divider-gold"></div>
+<div class="quiz-box center">
+<span class="system-code">OS</span>
+</div>
 </div>
 이미지생성용 프롬프트: Anime style digital art, extremely minimalist. A close-up shot of the top metal frame of a glass window in a sterile white room. On the smooth, grey metallic surface, the letters 'OS' are faintly but clearly engraved in a clean, sans-serif font. The lighting is clinical and soft, casting subtle shadows on the metallic texture. Sterile and high-tech atmosphere.
 장소 : 실험실

@@ -1,0 +1,24 @@
+StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
+역할 : 수사관 마커스
+
+제목 : [마커스] 지금 눈앞에 있는 이 남자는 누구입니까?
+질문 순서 : 1
+단계 : 최종 추리
+
+내용 :
+<div class="story-content">
+  <div class="section-title">지금 눈앞에 있는 이 남자는 누구입니까?</div>
+  <p>
+    지금까지의 단서가 이미 어느 한쪽을 가리키고 있을지도 모릅니다. 하지만 이건 정답을 맞히는 질문이 아닙니다. 다른 플레이어와 논의하지 말고 혼자 답하십시오.
+  </p>
+</div>
+
+선택지 1 :
+<div class="story-content">
+  그는 <span class="character-clay">클레이</span> 소장이다
+</div>
+
+선택지 2 :
+<div class="story-content">
+  그는 <span class="character-clay">클레이</span> 소장이 아니다
+</div>

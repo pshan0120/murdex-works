@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 만드는구려."
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 만드는구려."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "전장이요? 난 평범한 아파트 단지와 가로수길의 일상이 떠올랐어요. 당신의 피비린내 나는 이야기완 딴판이네요. 근데 이 기억을 떠올릴수록, 내 몸이 기계 부품처럼 뻣뻣하게 굳는 것 같아 불쾌해요."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "전장이요? 난 평범한 아파트 단지와 가로수길의 일상이 떠올랐어요. 당신의 피비린내 나는 이야기완 딴판이네요. 근데 이 기억을 떠올릴수록, 내 몸이 기계 부품처럼 뻣뻣하게 굳는 것 같아 불쾌해요."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 심장이 있소?"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 심장이 있소?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "심장이 없어서가 아니라, 당신의 그 과장된 연극 톤이 어이없어서 그래요! 피비린내 나는 과거에 젖어있을 시간에, 이 공간의 음모를 파헤쳐 탈출할 궁리나 하자고요."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "심장이 없어서가 아니라, 당신의 그 과장된 연극 톤이 어이없어서 그래요! 피비린내 나는 과거에 젖어있을 시간에, 이 공간의 음모를 파헤쳐 탈출할 궁리나 하자고요."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 느껴지지 않으니!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 느껴지지 않으니!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "번뇌가 없다고요? 난 내 존재도 생생하고, 기억들도 뚜렷해요! 시간 아까운 감정 싸움은 그만두고, 다음 문제나 빨리 풀자고요."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "번뇌가 없다고요? 난 내 존재도 생생하고, 기억들도 뚜렷해요! 시간 아까운 감정 싸움은 그만두고, 다음 문제나 빨리 풀자고요."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

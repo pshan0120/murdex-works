@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 음모의 한기만 부는군."
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 음모의 한기만 부는군."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "난 깔끔한 슈트를 차려입고 거울 앞에 섰던 안도감이 생각났어. 근데 거울 속 인물이 내 본모습인지, 아니면 그냥 공장에서 찍어낸 기성품 중 하나일 뿐인지 헷갈려."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "난 깔끔한 슈트를 차려입고 거울 앞에 섰던 안도감이 생각났어. 근데 거울 속 인물이 내 본모습인지, 아니면 그냥 공장에서 찍어낸 기성품 중 하나일 뿐인지 헷갈려."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 가짜라는 증거다!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 가짜라는 증거다!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "노예가 아니라 지극히 평범한 일상이었어! 너의 그 엉터리 같은 기억이야말로 가짜 같아. 누군가 억지로 주입해 놓은 가짜 기억 아냐?"
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "노예가 아니라 지극히 평범한 일상이었어! 너의 그 엉터리 같은 기억이야말로 가짜 같아. 누군가 억지로 주입해 놓은 가짜 기억 아냐?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 명백해질 것이다!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 명백해질 것이다!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "명백해진다고? 나도 찬성이야. 그 가짜 연극 톤이 언제까지 먹히나 보자고. 어서 다음으로 가, 탈출 방법은 그것뿐이니까."
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "명백해진다고? 나도 찬성이야. 그 가짜 연극 톤이 언제까지 먹히나 보자고. 어서 다음으로 가, 탈출 방법은 그것뿐이니까."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

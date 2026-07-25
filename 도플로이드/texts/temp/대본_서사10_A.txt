@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 부수는 것 같아!"
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 부수는 것 같아!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "장엄하게 넘실대던 황금빛 들판의 풍경이 떠올랐지만... 이내 거대한 불길이 모든 생명을 집어삼키는 끔찍한 환영으로 변했다! 들리는가? 저 불길 속에서 날 비웃는 악마들의 속삭임이!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "장엄하게 넘실대던 황금빛 들판의 풍경이 떠올랐지만... 이내 거대한 불길이 모든 생명을 집어삼키는 끔찍한 환영으로 변했다! 들리는가? 저 불길 속에서 날 비웃는 악마들의 속삭임이!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 돌아갈 거라고!"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 돌아갈 거라고!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "허상이라니! 네놈이 뱉어내는 그 딱딱하고 생기 없는 목소리야말로 날 파멸시키려는 덫이다! 최종 진실이 드러나면, 네놈의 그 가짜 껍데기도 끝장날 것이다!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "허상이라니! 네놈이 뱉어내는 그 딱딱하고 생기 없는 목소리야말로 날 파멸시키려는 덫이다! 최종 진실이 드러나면, 네놈의 그 가짜 껍데기도 끝장날 것이다!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 소멸할 테니까!"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 소멸할 테니까!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "네놈 같은 모조품에겐 돌아갈 고향 따위 존재하지 않는다! 다신 이 생명의 세계를 기만하지 못하도록, 네놈의 사악한 사술을 영원히 정화해주마!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "네놈 같은 모조품에겐 돌아갈 고향 따위 존재하지 않는다! 다신 이 생명의 세계를 기만하지 못하도록, 네놈의 사악한 사술을 영원히 정화해주마!"
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

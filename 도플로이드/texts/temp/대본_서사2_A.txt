@@ -1,54 +1,46 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 니악(Niac)이야."
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 니악(Niac)이야."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">A</span>: "나도... 머리가 터질 듯하오. 갑자기 낯선 기억들이 마구 쏟아지는데... 내 이름은 레바(Leba)요. 대체 머리에 무슨 짓을 한 거요?!"
+<div class="script-line my-line">
+<span class="script-character my-character">A</span>: "나도... 머리가 터질 듯하오. 갑자기 낯선 기억들이 마구 쏟아지는데... 내 이름은 레바(Leba)요. 대체 머리에 무슨 짓을 한 거요?!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 소름 끼치네요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 소름 끼치네요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">A</span>: "나는 마을 예배당의 부드러운 성화가 떠올랐소. 하지만 성자님의 얼굴 뒤로 거대한 그림자가 덮쳐오는 한기를 느꼈소. 그대의 그 불쾌한 감각과 비슷한 것이오?"
+<div class="script-line my-line">
+<span class="script-character my-character">A</span>: "나는 마을 예배당의 부드러운 성화가 떠올랐소. 하지만 성자님의 얼굴 뒤로 거대한 그림자가 덮쳐오는 한기를 느꼈소. 그대의 그 불쾌한 감각과 비슷한 것이오?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 꾸며낸 거죠?!"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 꾸며낸 거죠?!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">A</span>: "꾸며내다니! 이 기묘한 밀실을 내가 무슨 수로 조작한단 말이오! 나 역시 심장이 터질 것처럼 두렵소! 그대는 정말 아는 게 없소?"
+<div class="script-line my-line">
+<span class="script-character my-character">A</span>: "꾸며내다니! 이 기묘한 밀실을 내가 무슨 수로 조작한단 말이오! 나 역시 심장이 터질 것처럼 두렵소! 그대는 정말 아는 게 없소?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 해봤어요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 해봤어요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">A</span>: "이성... 낯선 단어군. 하지만 덜덜 떠는 그대를 보니, 거짓은 아닌 듯하오. 살기 위해 다음 글귀나 어서 읽어줍시다."
+<div class="script-line my-line">
+<span class="script-character my-character">A</span>: "이성... 낯선 단어군. 하지만 덜덜 떠는 그대를 보니, 거짓은 아닌 듯하오. 살기 위해 다음 글귀나 어서 읽어줍시다."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

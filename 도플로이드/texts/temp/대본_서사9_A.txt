@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "일생을 바쳐 지켜온 내 신성한 맹세가 헛된 것이었을까... 영광스러운 그 기억 뒤로, 누군가 날 조롱하며 꼭두각시처럼 부렸다는 끔찍한 기만이 느껴지는구나."
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "일생을 바쳐 지켜온 내 신성한 맹세가 헛된 것이었을까... 영광스러운 그 기억 뒤로, 누군가 날 조롱하며 꼭두각시처럼 부렸다는 끔찍한 기만이 느껴지는구나."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 가짜일지 모른다고!"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 가짜일지 모른다고!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "가짜라고?! 감히 내 숭고한 믿음조차 한낱 가짜 취급을 하다니! 네놈이야말로 내 정신을 붕괴시키려 누군가 보낸 교활한 모조품이 아니고 무엇이냐!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "가짜라고?! 감히 내 숭고한 믿음조차 한낱 가짜 취급을 하다니! 네놈이야말로 내 정신을 붕괴시키려 누군가 보낸 교활한 모조품이 아니고 무엇이냐!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 끝낼 거다."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 끝낼 거다."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "날 기만하고 내 영혼을 어지럽히지 마라! 곧 네놈의 그 사악하고 오만한 숨결도 흔적 없이 지워질 것이다!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "날 기만하고 내 영혼을 어지럽히지 마라! 곧 네놈의 그 사악하고 오만한 숨결도 흔적 없이 지워질 것이다!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 끝장내자."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 끝장내자."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

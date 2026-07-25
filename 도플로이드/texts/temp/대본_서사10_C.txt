@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "아악...! 머리가 찢어질 듯한 이명 소리가 울려대. 온몸의 신경이 타들어 가는 것 같은 지독한 고통이 몰려와. 누군가 날 부수는 것 같아!"
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "아악...! 머리가 찢어질 듯한 이명 소리가 울려대. 온몸의 신경이 타들어 가는 것 같은 지독한 고통이 몰려와. 누군가 날 부수는 것 같아!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 악마들의 속삭임이!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 악마들의 속삭임이!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "악마 타령 좀 그만해! 그런 허상에 빠져 미쳐 날뛰는 널 보니 내 정신까지 갉아먹히는 기분이야. 난 최후의 암호를 풀고 내가 사랑했던 진짜 일상으로 돌아갈 거라고!"
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "악마 타령 좀 그만해! 그런 허상에 빠져 미쳐 날뛰는 널 보니 내 정신까지 갉아먹히는 기분이야. 난 최후의 암호를 풀고 내가 사랑했던 진짜 일상으로 돌아갈 거라고!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 끝장날 것이다!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 끝장날 것이다!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">니악(C)</span>: "이 방에서 실재하는 진짜 기억은 내 것뿐이야! 너의 그 판타지 망상도 이제 끝이야. 내가 인간임을 증명하고 나면, 이 지긋지긋한 악몽도 소멸할 테니까!"
+<div class="script-line my-line">
+<span class="script-character my-character">니악(C)</span>: "이 방에서 실재하는 진짜 기억은 내 것뿐이야! 너의 그 판타지 망상도 이제 끝이야. 내가 인간임을 증명하고 나면, 이 지긋지긋한 악몽도 소멸할 테니까!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 영원히 정화해주마!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 영원히 정화해주마!"
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

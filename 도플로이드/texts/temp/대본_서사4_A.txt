@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 삶 말이에요."
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 삶 말이에요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "나는 고향 축제에서 들려오던 멜로디가 떠올랐소. 손을 맞잡고 춤추던 다정한 이웃들... 하지만 어찌하여 그 평화로운 선율 끝에 끔찍한 비명소리가 섞여 들리는 것인지 모르겠소."
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "나는 고향 축제에서 들려오던 멜로디가 떠올랐소. 손을 맞잡고 춤추던 다정한 이웃들... 하지만 어찌하여 그 평화로운 선율 끝에 끔찍한 비명소리가 섞여 들리는 것인지 모르겠소."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 태연하게 해요?"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 태연하게 해요?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "가짜 세상이라니! 그대야말로 기괴한 사술과 궤변만 늘어놓는구려! 내가 살아온 삶은 흙과 땀의 정직한 섭리였소. 그대는 마귀가 내 신앙을 흔들려 보낸 도구요?"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "가짜 세상이라니! 그대야말로 기괴한 사술과 궤변만 늘어놓는구려! 내가 살아온 삶은 흙과 땀의 정직한 섭리였소. 그대는 마귀가 내 신앙을 흔들려 보낸 도구요?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 가짜 인물 아니에요?"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 가짜 인물 아니에요?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "가짜 인물이라니! 나는 평생을 정직하게 살아온 피와 살이 도는 엄연한 인간이오! 겉은 쌍둥이처럼 같되, 그대 안에 흐르는 혼은 나와 전혀 다른 것이 분명하구려."
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "가짜 인물이라니! 나는 평생을 정직하게 살아온 피와 살이 도는 엄연한 인간이오! 겉은 쌍둥이처럼 같되, 그대 안에 흐르는 혼은 나와 전혀 다른 것이 분명하구려."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

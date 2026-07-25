@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "누군가와 굳은 약속을 나누던 뜨거운 서약이 생각났소. 시련이 와도 반드시 그 약속의 땅으로 가겠노라는 맹세였지. 하지만 지금 사방엔 비열한 음모의 한기만 부는군."
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "누군가와 굳은 약속을 나누던 뜨거운 서약이 생각났소. 시련이 와도 반드시 그 약속의 땅으로 가겠노라는 맹세였지. 하지만 지금 사방엔 비열한 음모의 한기만 부는군."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 헷갈려."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 헷갈려."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "모조품? 네놈은 그저 세상이 찍어낸 규칙에 목을 매는 영혼 없는 노예였던 게냐? 자신조차 믿지 못하는 그 얄팍한 불신이, 네가 한낱 가짜라는 증거다!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "모조품? 네놈은 그저 세상이 찍어낸 규칙에 목을 매는 영혼 없는 노예였던 게냐? 자신조차 믿지 못하는 그 얄팍한 불신이, 네가 한낱 가짜라는 증거다!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 가짜 기억 아냐?"
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 가짜 기억 아냐?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "주입이라니! 내 신성한 맹세를 욕보이는구나! 네놈의 추악한 의심조차 내 신념을 꺾을 순 없다. 다 채워지고 나면 누가 진정한 인간인지 명백해질 것이다!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "주입이라니! 내 신성한 맹세를 욕보이는구나! 네놈의 추악한 의심조차 내 신념을 꺾을 순 없다. 다 채워지고 나면 누가 진정한 인간인지 명백해질 것이다!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 그것뿐이니까."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 그것뿐이니까."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

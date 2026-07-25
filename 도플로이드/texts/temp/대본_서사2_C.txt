@@ -1,54 +1,46 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">C</span>: "아윽...! 머리가 깨질 것 같아... 방금 글자를 입력하자마자 뭔가가 머릿속에 박혀 들었어. ...내 이름은 니악(Niac)이야."
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">C</span>: "아윽...! 머리가 깨질 것 같아... 방금 글자를 입력하자마자 뭔가가 머릿속에 박혀 들었어. ...내 이름은 니악(Niac)이야."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 무슨 짓을 한 거요?!"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 무슨 짓을 한 거요?!"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">C</span>: "글자를 치자마자 억지로 기억을 주입한 게 분명해요. 난 엄청나게 정교한 바늘들과 숫자판, 계기판의 불빛들이 떠올랐어요. 진짜 불쾌하고 소름 끼치네요."
+<div class="script-line my-line">
+<span class="script-character my-character">C</span>: "글자를 치자마자 억지로 기억을 주입한 게 분명해요. 난 엄청나게 정교한 바늘들과 숫자판, 계기판의 불빛들이 떠올랐어요. 진짜 불쾌하고 소름 끼치네요."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 비슷한 것이오?"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 비슷한 것이오?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">C</span>: "성자요? 예배당? 대체 무슨 소리예요? 혹시 그쪽이 몰래 무슨 장치를 켜둔 거 아니에요? 이 상황, 그쪽이 꾸며낸 거죠?!"
+<div class="script-line my-line">
+<span class="script-character my-character">C</span>: "성자요? 예배당? 대체 무슨 소리예요? 혹시 그쪽이 몰래 무슨 장치를 켜둔 거 아니에요? 이 상황, 그쪽이 꾸며낸 거죠?!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 아는 게 없소?"
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 아는 게 없소?"
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">C</span>: "나도 미치겠으니까 이러죠! 믿을 만한 게 하나도 없잖아요. 내 이성으론 도저히 이해가 안 돼서 헛소리 좀 해봤어요."
+<div class="script-line my-line">
+<span class="script-character my-character">C</span>: "나도 미치겠으니까 이러죠! 믿을 만한 게 하나도 없잖아요. 내 이성으론 도저히 이해가 안 돼서 헛소리 좀 해봤어요."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">A</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 어서 읽어줍시다."
+<div class="script-line other-character">
+<span class="script-character">A</span>: "                 어서 읽어줍시다."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

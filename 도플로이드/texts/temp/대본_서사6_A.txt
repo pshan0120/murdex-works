@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 상대방(C)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 상대방(C)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 실험 표본을 보는 기분이에요."
+<div class="quote-box">
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 실험 표본을 보는 기분이에요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "실험 쥐라니! 내겐 누군가의 숨통을 끊던 내 참혹한 죄업이 떠올랐소! 붉은 피가 식어갈 때 밀려오던 그 끔찍한 살기의 기억... 당신의 감정 없는 눈빛을 볼 때마다 그 살기가 떠올라 소름이 돋소."
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "실험 쥐라니! 내겐 누군가의 숨통을 끊던 내 참혹한 죄업이 떠올랐소! 붉은 피가 식어갈 때 밀려오던 그 끔찍한 살기의 기억... 당신의 감정 없는 눈빛을 볼 때마다 그 살기가 떠올라 소름이 돋소."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 제발 냉정해져요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 제발 냉정해져요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "죄책감과 고통마저 머리로만 지울 셈이오? 피 흘리는 희생을 한낱 계산으로 치부하다니! 그대는 이 방을 만든 자보다 더 무서운 냉혈한이구려."
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "죄책감과 고통마저 머리로만 지울 셈이오? 피 흘리는 희생을 한낱 계산으로 치부하다니! 그대는 이 방을 만든 자보다 더 무서운 냉혈한이구려."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 보여줄 테니까요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 보여줄 테니까요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "그대의 그 차가운 독선이 내 불신을 키울 뿐이오. 언젠가는 그대의 그 위선적인 냉정도 영원히 무너져 내릴 것이오."
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "그대의 그 차가운 독선이 내 불신을 키울 뿐이오. 언젠가는 그대의 그 위선적인 냉정도 영원히 무너져 내릴 것이오."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>

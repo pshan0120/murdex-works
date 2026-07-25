@@ -1,46 +1,40 @@
 <div class="story-content">
-  <details>
-    <summary>
+<details>
+<summary>
       전용 대본
       <span class="toggle-wrapper">
-      <span class="toggle-text"></span>
-      <span class="toggle-icon">▼</span>
-      </span>
-    </summary>
-    <div class="collapsible-content">
-      <div class="guide-section">
-        <p class="guide-text">
-          [대본 읽기 가이드]<br />
-          1. 대본 리딩은 당신(A)부터 시작합니다.<br />
+<span class="toggle-text"></span>
+<span class="toggle-icon">▼</span>
+</span>
+</summary>
+<div class="collapsible-content">
+<div class="guide-section">
+<p class="guide-text">
+          [대본 읽기 가이드]<br/>
+          1. 대본 리딩은 당신(A)부터 시작합니다.<br/>
           2. 자신의 대사 직전, 상대방 대사의 마지막 문구에 맞춰 자연스럽게 이어서 읽어주세요.
         </p>
-        
-        <div class="quote-box">
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "끔찍한 전장의 한가운데서 뒷걸음치며 도망쳤던 비겁한 내 한때가 스쳤소. 망설임 뒤에 전우들이 몰살당하던 그 끔찍한 파국이 아직도 온몸을 떨리게 만드는구려."
+<div class="quote-box">
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "끔찍한 전장의 한가운데서 뒷걸음치며 도망쳤던 비겁한 내 한때가 스쳤소. 망설임 뒤에 전우들이 몰살당하던 그 끔찍한 파국이 아직도 온몸을 떨리게 만드는구려."
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 이상해요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 이상해요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "아파트? 가로수? 알아듣지도 못할 헛소리로 내 혼란을 키우는구려! 수많은 동지들이 죽어간 거대한 슬픔을 어찌 네놈의 그 딱딱한 기계 부품 따위에 비유한단 말이오? 그대, 정녕 피가 흐르는 심장이 있소?"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "아파트? 가로수? 알아듣지도 못할 헛소리로 내 혼란을 키우는구려! 수많은 동지들이 죽어간 거대한 슬픔을 어찌 네놈의 그 딱딱한 기계 부품 따위에 비유한단 말이오? 그대, 정녕 피가 흐르는 심장이 있소?"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 여유는 없다는 뜻이에요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 여유는 없다는 뜻이에요."
           </div>
-
-          <div class="script-line my-line">
-            <span class="script-character my-character">레바(A)</span>: "그대가 말하는 차갑고 뻣뻣한 기계 세상이야말로, 그대가 껍데기뿐인 허상이라는 증거요. 뜨거운 생명으로서의 번뇌가 전혀 느껴지지 않으니!"
+<div class="script-line my-line">
+<span class="script-character my-character">레바(A)</span>: "그대가 말하는 차갑고 뻣뻣한 기계 세상이야말로, 그대가 껍데기뿐인 허상이라는 증거요. 뜨거운 생명으로서의 번뇌가 전혀 느껴지지 않으니!"
           </div>
-
-          <div class="script-line other-character">
-            <span class="script-character">C</span>: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 빨리 풀자고요."
+<div class="script-line other-character">
+<span class="script-character">C</span>: "                 빨리 풀자고요."
           </div>
-        </div>
-      </div>
-    </div>
-  </details>
+</div>
+</div>
+</div>
+</details>
 </div>
