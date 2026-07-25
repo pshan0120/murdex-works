@@ -434,12 +434,12 @@ groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
 관련 : 공통
 의도 : 소장이 자기 시설의 현황조차 모르는 엉뚱한 길 안내를 했다는 점에서 진짜 소장이 아닐 가능성을 제시. (단계_5_C구역_조사.txt 대본에서 이미 라이브로 목격되는 사건이므로 별도 조사 없이 자동 공개)
 내용 :
-길잡이 역할을 하는 생존한 소장이 도면을 힐끗 보며 "과거에 직원 휴게실이었던 곳"이라고 말하며 문을 열었으나, 내부는 휴게실 흔적은 전무하고 온갖 생명 유지 및 혈액 투석 기기들로 가득 찬 극비 중환자실인 정황.
+소장이 "과거에 직원 휴게실이었던 곳"이라며 문을 열었으나, 내부는 휴게실 흔적이 전혀 없고 온갖 투석기와 생명 유지 장치들로 가득 찬 극비 중환자실이었던 정황.
 HTML :
 <div class="story-content">
-  <div class="script-direction">C구역 진입 당시, <span class="character-clay">소장</span>의 길안내 실수를 함께 목격한 장면이다.</div>
+  <div class="script-direction">C구역 진입 당시, <span class="character-clay">소장</span>의 길안내 불일치를 목격한 장면이다.</div>
   <div class="divider"></div>
-  <div>길잡이 역할을 하는 생존한 소장이 도면을 힐끗 보며 "과거에 직원 휴게실이었던 곳"이라고 말하며 문을 열었으나, 내부는 휴게실 흔적은 전무하고 온갖 생명 유지 및 혈액 투석 기기들로 가득 찬 극비 중환자실인 정황.</div>
+  <div>소장이 "과거에 직원 휴게실이었던 곳"이라며 문을 열었으나, 내부는 휴게실 흔적이 전혀 없고 온갖 투석기와 생명 유지 장치들로 가득 찬 극비 중환자실이었던 정황.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A doorway revealing a stark contrast between an old faded "Break Room" sign and a room full of glowing medical life-support machinery. Cold clinical lighting. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 비밀_병실
