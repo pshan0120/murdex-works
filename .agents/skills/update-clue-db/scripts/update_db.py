@@ -64,27 +64,35 @@ def parse_clue_file(file_path):
             html_lines = []
             
         elif current_block:
-            if line.startswith("variant_id :"):
-                current_block["variant_id"] = line.replace("variant_id :", "").strip()
-            elif line.startswith("clue_id :"):
-                current_block["clue_id"] = line.replace("clue_id :", "").strip()
+            if line.startswith("variant_id :") or line.startswith("variantId :"):
+                val = line.split(":", 1)[1].strip()
+                current_block["variant_id"] = val
+            elif line.startswith("clue_id :") or line.startswith("clueId :"):
+                val = line.split(":", 1)[1].strip()
+                current_block["clue_id"] = val
             elif line.startswith("정렬순서 :"):
                 current_block["order"] = line.replace("정렬순서 :", "").strip()
             elif line.startswith("단서 그룹 :"):
                 # e.g., "05_연회장" -> extract "연회장"
                 group_val = line.replace("단서 그룹 :", "").strip()
                 current_block["raw_group"] = group_val
+            elif line.startswith("단서 그룹 ID :") or line.startswith("groupId :"):
+                val = line.split(":", 1)[1].strip()
+                current_block["group_id"] = val
             elif line.startswith("HTML :"):
                 in_html_section = True
             elif in_html_section:
                 # "이미지생성용 프롬프트" marks the end of HTML
-                if line.startswith("이미지생성용 프롬프트") or line.startswith("이름 :") or line.startswith("단서 그룹 :") or line.startswith("파일명 :"):
+                if line.startswith("이미지생성용 프롬프트") or line.startswith("이름 :") or line.startswith("단서 그룹 :") or line.startswith("단서 그룹 ID :") or line.startswith("groupId :") or line.startswith("파일명 :"):
                     in_html_section = False
                     current_block["html"] = "".join(html_lines).strip()
                     
                     if line.startswith("단서 그룹 :"):
                         group_val = line.replace("단서 그룹 :", "").strip()
                         current_block["raw_group"] = group_val
+                    elif line.startswith("단서 그룹 ID :") or line.startswith("groupId :"):
+                        val = line.split(":", 1)[1].strip()
+                        current_block["group_id"] = val
                 else:
                     html_lines.append(line)
             else:
@@ -92,6 +100,9 @@ def parse_clue_file(file_path):
                 if line.startswith("단서 그룹 :"):
                     group_val = line.replace("단서 그룹 :", "").strip()
                     current_block["raw_group"] = group_val
+                elif line.startswith("단서 그룹 ID :") or line.startswith("groupId :"):
+                    val = line.split(":", 1)[1].strip()
+                    current_block["group_id"] = val
                     
     # Add last block
     if current_block:
@@ -103,22 +114,39 @@ def parse_clue_file(file_path):
 
 def map_groups(blocks, group_mapping):
     for block in blocks:
+        # If group_id is already parsed from "단서 그룹 ID :", use it
+        if "group_id" in block:
+            g_id = block["group_id"]
+            if g_id == "없음" or g_id == "None" or not g_id:
+                block["group_id"] = None
+            continue
+
         raw_group = block.get("raw_group", "")
-        if raw_group == "없음" or raw_group == "":
+        if raw_group == "없음" or raw_group == "시작 지급" or not raw_group:
             block["group_id"] = None
         else:
-            # Extract just the name after underscore, e.g., '05_연회장' -> '연회장'
-            # Or if it doesn't have an underscore, just use as is
-            if "_" in raw_group:
-                clean_name = raw_group.split("_", 1)[1].replace("_", " ")
+            parts = raw_group.split("_", 1)
+            if len(parts) > 1 and parts[0].isdigit():
+                clean_name = parts[1].replace("_", " ")
             else:
-                clean_name = raw_group
+                clean_name = raw_group.replace("_", " ")
+                
+            if clean_name == "서쪽 환기구":
+                clean_name = "서쪽 환풍구"
+            elif clean_name == "지하 배양실":
+                clean_name = "지하 주 배양실"
                 
             group_id = group_mapping.get(clean_name)
             if not group_id:
-                # Try exact match if splitting didn't work
                 group_id = group_mapping.get(raw_group)
                 
+            if not group_id:
+                # Fuzzy match fallback
+                for g_name, g_id in group_mapping.items():
+                    if clean_name in g_name or g_name in clean_name:
+                        group_id = g_id
+                        break
+                        
             block["group_id"] = group_id
             
 def update_db(blocks, dry_run=False):

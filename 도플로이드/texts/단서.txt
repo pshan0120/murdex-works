@@ -12,8 +12,9 @@ StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
 
 [clue_01]
 이름 : 알렉스의 편지
-clue_id : aab28043-58d8-4769-bc0a-2418743c66c2
-variant_id : 51a46150-094c-4bb7-bafa-038a6596da69
+clueId : aab28043-58d8-4769-bc0a-2418743c66c2
+variantId : 51a46150-094c-4bb7-bafa-038a6596da69
+groupId : 없음
 유형 : 물증
 단계 : 시작 지급 (베일라)
 소모AP : 0
@@ -46,8 +47,9 @@ HTML :
 
 [clue_02]
 이름 : 소형 호신용 권총
-clue_id : be7311db-b859-49e0-84eb-7366de917193
-variant_id : 1969a94e-97ea-4468-8aa2-43150ecd7ec7
+clueId : be7311db-b859-49e0-84eb-7366de917193
+variantId : 1969a94e-97ea-4468-8aa2-43150ecd7ec7
+groupId : 없음
 유형 : 물증
 단계 : 시작 지급 (베일라)
 소모AP : 0
@@ -80,8 +82,9 @@ HTML :
 
 [clue_03]
 이름 : 정부 기밀 수사 영장
-clue_id : b4bf9dc4-109d-4e47-b70a-26fe726de207
-variant_id : 5826d3d4-89e0-4c24-a5dd-b7a8f89fb0e1
+clueId : b4bf9dc4-109d-4e47-b70a-26fe726de207
+variantId : 5826d3d4-89e0-4c24-a5dd-b7a8f89fb0e1
+groupId : 없음
 유형 : 물증
 단계 : 시작 지급 (마커스)
 소모AP : 0
@@ -111,8 +114,9 @@ HTML :
 
 [clue_04]
 이름 : 정부 수사관 제식 권총
-clue_id : 485fe233-5cad-4702-b01a-2bab76fdd8a2
-variant_id : f45f1b4c-47b9-4317-89c7-442f3a812540
+clueId : 485fe233-5cad-4702-b01a-2bab76fdd8a2
+variantId : f45f1b4c-47b9-4317-89c7-442f3a812540
+groupId : 없음
 유형 : 물증
 단계 : 시작 지급 (마커스)
 소모AP : 0
@@ -142,8 +146,9 @@ HTML :
 
 [clue_05]
 이름 : 정문 로비#1
-clue_id : 1c200107-d729-4541-9d38-91e52c0ebb4d
-variant_id : a2b69925-8488-4776-a863-f8fdf4303958
+clueId : 1c200107-d729-4541-9d38-91e52c0ebb4d
+variantId : a2b69925-8488-4776-a863-f8fdf4303958
+groupId : 1b09349b-bae4-4b61-b91e-ed1d50b234b4
 유형 : 물증
 단계 : A구역
 소모AP : 1
@@ -176,8 +181,9 @@ HTML :
 
 [clue_06]
 이름 : 정문 로비#2
-clue_id : 424d5b63-103a-4ae5-8817-d5e7bf557bd4
-variant_id : 13281e46-1984-47bc-9b90-49b0b7e35bb8
+clueId : 424d5b63-103a-4ae5-8817-d5e7bf557bd4
+variantId : 13281e46-1984-47bc-9b90-49b0b7e35bb8
+groupId : 1b09349b-bae4-4b61-b91e-ed1d50b234b4
 유형 : 관찰
 단계 : A구역
 소모AP : 0
@@ -210,8 +216,9 @@ HTML :
 
 [clue_08]
 이름 : 보안 검색대#1
-clue_id : 24449132-5c75-4d85-9b5e-001ccc661747
-variant_id : 1f923adc-bb8a-42bd-83e0-b26e31c5510f
+clueId : 24449132-5c75-4d85-9b5e-001ccc661747
+variantId : 1f923adc-bb8a-42bd-83e0-b26e31c5510f
+groupId : 58131350-f6bd-4075-9d96-a8952f9e0a5a
 유형 : 관찰
 단계 : A구역
 소모AP : 0
@@ -241,8 +248,9 @@ HTML :
 
 [clue_09]
 이름 : 소장실#1
-clue_id : 4779f52d-da2e-4e14-aeaf-bfac40355c39
-variant_id : 053ce8e0-1657-40bf-aa99-a10eec14fc56
+clueId : 4779f52d-da2e-4e14-aeaf-bfac40355c39
+variantId : 053ce8e0-1657-40bf-aa99-a10eec14fc56
+groupId : b858e384-022a-406f-919b-f630c9d2254c
 유형 : 물증
 단계 : A구역
 소모AP : 1
@@ -274,8 +282,9 @@ HTML :
 
 [clue_10]
 이름 : 소장실#2
-clue_id : 6b407e94-3185-40f5-bfc4-f68a500a398e
-variant_id : fd5fb1ba-c6a5-4d5a-84ec-32f69c059dd7
+clueId : 6b407e94-3185-40f5-bfc4-f68a500a398e
+variantId : fd5fb1ba-c6a5-4d5a-84ec-32f69c059dd7
+groupId : b858e384-022a-406f-919b-f630c9d2254c
 유형 : 물증
 단계 : A구역
 소모AP : 1
@@ -307,8 +316,9 @@ HTML :
 
 [clue_11]
 이름 : 소장실#3
-clue_id : 6aa98f8d-7c13-469b-aefb-fd70242e41cc
-variant_id : a6e45541-229b-4326-98eb-dc0f438bb0dd
+clueId : 6aa98f8d-7c13-469b-aefb-fd70242e41cc
+variantId : a6e45541-229b-4326-98eb-dc0f438bb0dd
+groupId : b858e384-022a-406f-919b-f630c9d2254c
 유형 : 물증
 단계 : A구역
 소모AP : 1
@@ -340,8 +350,9 @@ HTML :
 
 [clue_12]
 이름 : 일반 연구실#1
-clue_id : 7dee94b5-2b7b-4e9c-9291-5cbcaa4c21cc
-variant_id : d70be3b2-47e8-4ed4-8cb5-8b9fd891eaa3
+clueId : 7dee94b5-2b7b-4e9c-9291-5cbcaa4c21cc
+variantId : d70be3b2-47e8-4ed4-8cb5-8b9fd891eaa3
+groupId : 28ead3df-190a-4b4c-a29d-ba5a32f5a68a
 유형 : 물증
 단계 : C구역
 소모AP : 1
@@ -355,15 +366,15 @@ variant_id : d70be3b2-47e8-4ed4-8cb5-8b9fd891eaa3
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 도플로이드가 진짜 소장 클레이의 유전자를 복제했으므로 생체 보안 시스템을 프리패스할 수 있음을 가르쳐주는 핵심 규칙이자, 서쪽 환기구가 클레이의 DNA로만 무음 개방된다는 사실도 함께 알려줌. 동시에 자신의 창조물을 완성한 순간부터 이미 두려움을 느꼈던 클레이의 불안을 드러내는 캐릭터 단서로도 기능.
+의도 : 도플로이드가 진짜 소장 클레이의 유전자를 복제했으므로 생체 보안 시스템을 프리패스할 수 있음을 가르쳐주는 핵심 규칙이자, 자신의 창조물을 완성한 순간부터 이미 두려움을 느꼈던 클레이의 불안을 드러내는 캐릭터 단서.
 내용 :
-다소 들뜬 필체로 시작해 점점 흔들리는 글씨로 이어진다. "드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 이 몸이라면 이 시설의 그 어떤 생체 스캐너도 속일 수 있을 것이다. 오리지널로 인식될 테니까. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까. …그래서 서쪽 환기구만은 오직 내 생체 정보로만 무음 통과하도록 손봐두었다. 만약을 대비한, 아무도 모르는 나만의 탈출구다."
+다소 들뜬 필체로 시작해 점점 흔들리는 글씨로 이어진다. "드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까."
 HTML :
 <div class="story-content">
   <div class="script-direction">다소 들뜬 필체로 시작해 점점 흔들리는 글씨로 이어지는 연구 노트다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 이 몸이라면 이 시설의 그 어떤 생체 스캐너도 속일 수 있을 것이다. 오리지널로 인식될 테니까. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까. …그래서 서쪽 환기구만은 오직 내 생체 정보로만 무음 통과하도록 손봐두었다. 만약을 대비한, 아무도 모르는 나만의 탈출구다."</div>
+    <div class="document-body small">"드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a scientific notebook page, handwriting starting neat and growing shaky and frantic toward the bottom. Cold laboratory lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -373,8 +384,9 @@ HTML :
 
 [clue_13]
 이름 : 일반 연구실#2
-clue_id : bf40a01b-38a5-40de-b5d4-9f109ab25294
-variant_id : eceabb5e-aefe-41dc-8d0f-8bb72d8c8aa1
+clueId : bf40a01b-38a5-40de-b5d4-9f109ab25294
+variantId : eceabb5e-aefe-41dc-8d0f-8bb72d8c8aa1
+groupId : 28ead3df-190a-4b4c-a29d-ba5a32f5a68a
 유형 : 관찰
 단계 : C구역
 소모AP : 0
@@ -404,8 +416,9 @@ HTML :
 
 [clue_14]
 이름 : 비밀 병실#1
-clue_id : c0be4bc1-17bc-497d-8377-8f498faecc3b
-variant_id : c6ca4c3e-2946-4c6a-a09d-214e4edad4fa
+clueId : c0be4bc1-17bc-497d-8377-8f498faecc3b
+variantId : c6ca4c3e-2946-4c6a-a09d-214e4edad4fa
+groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
 유형 : 관찰
 단계 : C구역
 소모AP : 0
@@ -435,8 +448,9 @@ HTML :
 
 [clue_15]
 이름 : 비밀 병실#2
-clue_id : f9d1a1c3-96c7-4760-be85-3617f0a046e8
-variant_id : cd82f4b9-5d2e-4159-a601-896bab92ea89
+clueId : f9d1a1c3-96c7-4760-be85-3617f0a046e8
+variantId : cd82f4b9-5d2e-4159-a601-896bab92ea89
+groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
 유형 : 물증
 단계 : C구역
 소모AP : 1
@@ -468,8 +482,9 @@ HTML :
 
 [clue_16]
 이름 : 비밀 병실#3
-clue_id : 427fbcaa-c489-446e-ae36-dd9af8cbc237
-variant_id : 454a832a-815b-46a2-a241-331f83b624f2
+clueId : 427fbcaa-c489-446e-ae36-dd9af8cbc237
+variantId : 454a832a-815b-46a2-a241-331f83b624f2
+groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
 유형 : 물증
 단계 : C구역
 소모AP : 1
@@ -501,8 +516,9 @@ HTML :
 
 [clue_17]
 이름 : 비밀 병실#4
-clue_id : cdd58a62-43ed-4f43-9224-33f8d0a0e0f2
-variant_id : a4da6a69-00a7-49f9-be80-47f5013665df
+clueId : cdd58a62-43ed-4f43-9224-33f8d0a0e0f2
+variantId : a4da6a69-00a7-49f9-be80-47f5013665df
+groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
 유형 : 물증
 단계 : C구역
 소모AP : 1
@@ -534,8 +550,9 @@ HTML :
 
 [clue_18]
 이름 : 보안 물품 창고#1
-clue_id : f448a755-edcc-49d3-9274-5309b74c8325
-variant_id : 0257e6e4-481c-4438-81bd-28563f26e55a
+clueId : f448a755-edcc-49d3-9274-5309b74c8325
+variantId : 0257e6e4-481c-4438-81bd-28563f26e55a
+groupId : 07b90d60-a26f-452f-9f17-0d21093ec6f3
 유형 : 관찰
 단계 : B구역
 소모AP : 0
@@ -565,8 +582,9 @@ HTML :
 
 [clue_19]
 이름 : 서쪽 환기구#1
-clue_id : 9abd0978-7c45-4be9-8bf1-280665709671
-variant_id : 4e76efaf-01c0-4ab2-8ec2-0c2f3470b1c3
+clueId : 9abd0978-7c45-4be9-8bf1-280665709671
+variantId : 4e76efaf-01c0-4ab2-8ec2-0c2f3470b1c3
+groupId : fc8d97ba-ba8f-4e2a-be31-6f9c55744858
 유형 : 물증
 단계 : B구역
 소모AP : 1
@@ -598,8 +616,9 @@ HTML :
 
 [clue_20]
 이름 : 서쪽 환기구#2
-clue_id : 48f8cafb-0025-4050-81b0-8d2552af1fcc
-variant_id : 3f2d48a3-8550-4e2b-b6ae-70210a4d80ba
+clueId : 48f8cafb-0025-4050-81b0-8d2552af1fcc
+variantId : 3f2d48a3-8550-4e2b-b6ae-70210a4d80ba
+groupId : fc8d97ba-ba8f-4e2a-be31-6f9c55744858
 유형 : 물증
 단계 : B구역
 소모AP : 1
@@ -632,8 +651,9 @@ HTML :
 
 [clue_21]
 이름 : 기록 보관실#1
-clue_id : 4e304cda-0c9c-4ff2-add4-f15fa5a6e68c
-variant_id : 59fec3cf-8014-462c-884a-ec6960ceff31
+clueId : 4e304cda-0c9c-4ff2-add4-f15fa5a6e68c
+variantId : 59fec3cf-8014-462c-884a-ec6960ceff31
+groupId : 7e14b06d-f4cc-4ecf-99f2-d9d37e45fdb4
 유형 : 물증
 단계 : B구역
 소모AP : 1
@@ -663,8 +683,9 @@ HTML :
 
 [clue_22]
 이름 : 기록 보관실#2
-clue_id : 1934238f-1376-4b27-a907-830a161ba71e
-variant_id : 6f59601a-f1db-4ef0-8c69-a997d30a2b22
+clueId : 1934238f-1376-4b27-a907-830a161ba71e
+variantId : 6f59601a-f1db-4ef0-8c69-a997d30a2b22
+groupId : 7e14b06d-f4cc-4ecf-99f2-d9d37e45fdb4
 유형 : 물증
 단계 : B구역
 소모AP : 1
@@ -694,8 +715,9 @@ HTML :
 
 [clue_23]
 이름 : 기록 보관실#3
-clue_id : 0ea24b8d-0b61-4a72-ba36-0dc715aee466
-variant_id : 9fdec1de-4be5-4cbb-b93d-88c64a1c0e21
+clueId : 0ea24b8d-0b61-4a72-ba36-0dc715aee466
+variantId : 9fdec1de-4be5-4cbb-b93d-88c64a1c0e21
+groupId : 7e14b06d-f4cc-4ecf-99f2-d9d37e45fdb4
 유형 : 관찰
 단계 : B구역
 소모AP : 0
@@ -725,8 +747,9 @@ HTML :
 
 [clue_24]
 이름 : 폐기물 소각장#1
-clue_id : 73c3502f-79c1-4744-b9ff-8a46b525d5ba
-variant_id : ca751a35-1623-49c3-8df4-89111ff5f4ed
+clueId : 73c3502f-79c1-4744-b9ff-8a46b525d5ba
+variantId : ca751a35-1623-49c3-8df4-89111ff5f4ed
+groupId : a2d3f827-4d2b-4836-bab6-1f32b9368807
 유형 : 물증
 단계 : D구역
 소모AP : 0
@@ -760,8 +783,9 @@ HTML :
 
 [clue_25]
 이름 : 지하 배양실#1
-clue_id : 80e62a92-e6f9-410d-a2ad-ad47ad456a2c
-variant_id : 889209f7-3b25-4710-9e94-ce68e92879eb
+clueId : 80e62a92-e6f9-410d-a2ad-ad47ad456a2c
+variantId : 889209f7-3b25-4710-9e94-ce68e92879eb
+groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
 유형 : 물증
 단계 : D구역
 소모AP : 1
@@ -793,8 +817,9 @@ HTML :
 
 [clue_26]
 이름 : 지하 배양실#2
-clue_id : 9b166ecc-1375-4e92-b1df-c8fe8f03558e
-variant_id : 9c549cf4-e442-4bdc-abe8-6bd57f4b4a63
+clueId : 9b166ecc-1375-4e92-b1df-c8fe8f03558e
+variantId : 9c549cf4-e442-4bdc-abe8-6bd57f4b4a63
+groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
 유형 : 물증
 단계 : D구역
 소모AP : 1
@@ -828,8 +853,9 @@ HTML :
 
 [clue_27]
 이름 : 지하 배양실#3
-clue_id : e038351f-173e-484c-88d0-946b079682f5
-variant_id : 73611f7c-7608-4f3b-8e2d-8f9887e6c631
+clueId : e038351f-173e-484c-88d0-946b079682f5
+variantId : 73611f7c-7608-4f3b-8e2d-8f9887e6c631
+groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
 유형 : 관찰
 단계 : D구역
 소모AP : 1
@@ -859,8 +885,9 @@ HTML :
 
 [clue_28]
 이름 : 지하 배양실#4
-clue_id : 6649de70-0bfe-4abd-b74b-cd4cfb65c86f
-variant_id : 532964bd-f9ef-48ba-b96a-534fd0e480be
+clueId : 6649de70-0bfe-4abd-b74b-cd4cfb65c86f
+variantId : 532964bd-f9ef-48ba-b96a-534fd0e480be
+groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
 유형 : 물증
 단계 : D구역
 소모AP : 1

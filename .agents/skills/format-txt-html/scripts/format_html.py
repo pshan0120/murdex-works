@@ -17,6 +17,7 @@ def format_html_in_txt(file_path):
     in_html_block = False
     html_buffer = []
     current_text_buffer = []
+    div_depth = 0
 
     for line in lines:
         stripped = line.strip()
@@ -26,17 +27,24 @@ def format_html_in_txt(file_path):
             text_parts.append(current_text_buffer)
             current_text_buffer = []
             html_buffer.append(line)
+            div_depth += line.count('<div')
+            div_depth -= line.count('</div>')
+            if div_depth <= 0:
+                fragments.append(html_buffer)
+                in_html_block = False
+                html_buffer = []
+                div_depth = 0
             continue
             
         if in_html_block:
-            # End of HTML block is explicitly defined by Murdex file structure
-            if stripped == '' or re.match(r'^(이미지생성용 프롬프트|장소|파일명|관련|의도|내용|HTML)\s*:', stripped) or re.match(r'^\d+\.\s+', stripped) or stripped.startswith('###') or stripped.startswith('---'):
+            html_buffer.append(line)
+            div_depth += line.count('<div')
+            div_depth -= line.count('</div>')
+            if div_depth <= 0:
                 fragments.append(html_buffer)
-                current_text_buffer.append(line)
                 in_html_block = False
                 html_buffer = []
-            else:
-                html_buffer.append(line)
+                div_depth = 0
         else:
             current_text_buffer.append(line)
             
@@ -87,7 +95,7 @@ def format_html_in_txt(file_path):
         
         # Extract formatted fragment i
         # Prettier formats comments, so they might have spaces: <!-- FRAGMENT_START_0 -->
-        pattern = f"<!--\\s*FRAGMENT_START_{i}\\s*-->\\n(.*?)\\n<!--\\s*FRAGMENT_END_{i}\\s*-->"
+        pattern = f"<!--\\s*FRAGMENT_START_{i}\\s*-->\\r?\\n(.*?)\\r?\\n<!--\\s*FRAGMENT_END_{i}\\s*-->"
         match = re.search(pattern, formatted_html, re.DOTALL)
         if match:
             frag_content = match.group(1)
