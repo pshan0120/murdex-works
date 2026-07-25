@@ -1,5 +1,5 @@
 StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
-RoleID :
+RoleID : eeca3699-93e7-45ff-9591-1c63facc0807
 
 1. 역할 이름
 정부 특별 수사관
@@ -20,12 +20,101 @@ RoleID :
 
 6. 공개 정보
 <div class="story-content">
-<section class="content-section">
-<div class="section-title">목표(진실 인지 이후) - <span class="character-marcus">마커스</span></div>
-<ul class="goal-list">
-<li><strong>결정적 증거 수집</strong>: D구역에서 발견되는 단서들을 통해, 눈앞의 존재가 진짜 <span class="character-clay">닥터 클레이</span>인지 아니면 그의 유전자로 만들어진 <span class="emphasis">도플로이드</span>인지 판단할 근거를 모아야 한다.</li>
-<li><strong>최종 추리와 결론</strong>: <span class="character-veyla">베일라</span>와 함께 지금까지의 단서를 정리하고, 마지막 질문에 답하기 전 자신의 결론을 확실히 해두어야 한다.</li>
-<li><strong>진실의 딜레마</strong>: 눈앞의 존재를 단죄하는 것이 정말 누나를 위한 길인지, 스스로에게 물어야 한다.</li>
-</ul>
-</section>
+  <ul>
+    <li><strong>역할</strong>: <span class="emphasis">프로메테우스 연구소</span>의 불법 연구 의혹을 수사하러 온 정부 특별 수사관</li>
+    <li><strong>나이</strong>: 32세</li>
+    <li><strong>성별</strong>: 남성</li>
+    <li><strong>외견</strong>: 구겨진 정장과 날카로운 턱선, 항상 피곤해 보이지만 예리하게 번뜩이는 눈빛</li>
+    <li><strong>말투</strong>: 냉철하고 원칙적이지만, 개인적인 화제에는 날이 서는 어조</li>
+  </ul>
+</div>
+
+7. 역할 시트
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">공통 정보</div>
+    <div class="intro-narrative">
+      <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹과 재정 악화로 오늘 정부로부터 강제 폐쇄 통보를 받았습니다.</p>
+      <p>그리고 오전 <span class="emphasis">11:00</span>, 서로 다른 목적을 가진 두 사람이 이곳 정문에서 우연히 마주칩니다.</p>
+    </div>
+    <ul class="info-list">
+      <li>
+        <strong><span class="emphasis">프로메테우스 연구소</span></strong>: 버려진 폐건물을 개조한 <span class="character-clay">닥터 클레이</span>의 사설 연구소. 정확히 무슨 연구를 해왔는지는 외부에 거의 알려지지 않았으나, 오늘 정부로부터 강제 폐쇄 통보를 받은 상태입니다.
+      </li>
+      <li><strong>이 시대의 생명공학</strong>: 안드로이드가 보편화된 세상이지만, 생체공학으로 살아있는 인간 조직을 다루는 연구는 극소수 기업과 정부만이 엄격한 허가 아래 취급하는 민감한 영역이다. 무허가로 이를 손대는 것은 중범죄로 취급된다.</li>
+      <li>
+        <strong><span class="character-clay">닥터 클레이</span></strong>: 한때 안드로이드 공학계의 촉망받는 인재였으나, 언젠가부터 돌연 학계와 인연을 끊고 종적을 감췄다. 이후 이 외딴 연구소에 틀어박혀 홀로 연구를 이어왔다는 것 외에, 그가 정확히 무엇을 연구해왔는지는 아무도 알지 못한다.
+      </li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">특징</div>
+    <ul class="info-list">
+      <li><strong>수사관의 권한</strong>: 정부 수사관 직권으로 기밀 데이터베이스에 접근할 수 있는 권한을 갖고 있습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">캐릭터 배경</div>
+    <p>당신은 정부에서 촉망받는 엘리트 수사관이다. 원칙과 절차를 무엇보다 중시하는 당신의 평판은 냉철하다 못해 차갑다는 평가를 받을 정도였다.</p>
+    <p>당신은 어릴 적 어머니를 여의었고, 얼마 지나지 않아 아버지마저 원인 모를 병으로 세상을 떠났다. 그때부터 당신을 키운 건 다섯 살 터울의 누나 <span class="character-alex">알렉스</span>였다. 난방조차 제대로 되지 않는 비좁은 외곽 아파트에서 싸구려 통조림 수프 하나를 나눠 먹으면서도, 누나는 당신이 부모의 빈자리를 느끼지 못하도록 늘 먼저 웃어 보였다. 훗날 생물학 박사 학위를 딴 누나는 한 사설 연구소의 조수 자리를 제안받았다며 짐을 꾸렸다. 정확히 무슨 연구인지는 끝내 입을 다물었지만, 두둑한 급여 명세서를 보여주며 웃던 얼굴에 당신은 더 캐묻지 않았다.</p>
+    <p>하지만 몇 달 전, 누나는 그 연구소에서 원인 불명의 사고로 흔적도 없이 사라졌다. 실종 신고서는 접수되자마자 어딘가로 삼켜진 듯 감감무소식이었고, 수사 요청서는 매번 서랍 깊숙이 처박혔다. 그리고 최근 들어 당신 자신도 이상한 조짐을 느끼기 시작했다. 서류에 서명하려 펜을 쥐면 오른쪽 손끝이 미세하게 떨렸고, 감각이 둔해져 종이 넘기는 감촉조차 흐릿했다. 밤낮없이 사건에 매달린 탓이라 여기며, 당신은 애써 그 떨림에서 눈을 돌렸다.</p>
+    <p>연구소가 정부로부터 강제 폐쇄 통보를 받았다는 소식을 들은 순간, 당신은 곧장 상부에 이 사건의 수사관 자리를 자원하겠다는 결재 서류를 올렸다. 이 연구소와 그 책임자 <span class="character-clay">닥터 클레이</span>가 누나를 실종에 이르게 했다는 확신은 이미 흔들림 없이 굳어 있었다. 누나의 억울함을 밝히고 <span class="character-clay">클레이</span>를 파멸시키는 것, 이제 그것만이 당신의 유일한 삶의 목적이었다.</p>
+    <p>간밤 내내 당신은 한숨도 자지 못한 채 수색 영장 초안과 기소 서류를 몇 번이고 고쳐 썼다. 절차에 따라 연구소 측에 사전 협조 요청 공문도 함께 보내두었지만, 새벽녘 돌아온 답신은 "정식 소환장 없이는 어떠한 자료도 제공할 수 없다"는 <span class="character-clay">클레이</span> 명의의 냉담한 한 줄뿐이었다. 서류에만 몰두하면 감정을 억누를 수 있으리라 믿었지만, 그 짧은 거절 앞에서 애써 눌러온 인내심이 순식간에 바닥났다.</p>
+    <p>당신은 오늘 아침 <span class="emphasis">08:30</span>경, 끝내 참지 못하고 <span class="character-clay">닥터 클레이</span>의 개인 연락처로 전화를 걸었다. 신호음이 세 번 울리기도 전에, 당신은 낮고 단호한 목소리로 협박성 경고를 남겼다. "오늘 11시 전까지 내 누나의 행방에 대한 진실과 처분 목록을 내놓지 않으면 당장 너를 파멸시키겠다."</p>
+    <p>10시 50분, 당신은 정문 앞에 도착했다. 오늘 반드시 이 연구소의 실체와 누나의 행방을 밝혀내야 한다는 각오만이 당신의 머릿속을 채우고 있었다.</p>
+  </section>
+  <section class="content-section">
+    <div class="section-title">타임라인</div>
+    <ul class="goal-list">
+      <li><strong>[사건 전날 밤]</strong>: 밤새 한숨도 못 자고 수색 영장과 기소장을 준비하며 누나의 죽음에 대한 복수를 다짐함.</li>
+      <li><strong>08:30</strong>: 협조 요청 공문에 대한 <span class="character-clay">닥터 클레이</span>의 냉담한 거절 답신을 받고 분노를 참지 못해 "11시까지 진실을 불지 않으면 파멸시키겠다"는 협박 전화를 걸음.</li>
+      <li><strong>10:50</strong>: 정문에 도착함.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인물 관계</div>
+    <p>
+      <strong><span class="character-veyla">베일라에 대해</span></strong>: 오늘 처음 만난 사립탐정. 목적은 다를지 몰라도 이 연구소에 볼 일이 있다는 점은 같다. 협조가 필요할 수도 있지만, 자신의 협박 통화 사실만은 절대 들켜서는 안 된다.
+    </p>
+    <p>
+      <strong><span class="character-clay">닥터 클레이</span>에 대해</strong>: 누나의 행방과 이 연구소의 실체를 쥐고 있는 자. 반드시 진실을 토해내게 만들어야 한다.
+    </p>
+    <p>
+      <strong><span class="character-alex">알렉스</span>에 대해</strong>: 부모를 대신해 자신을 키워준 단 하나의 가족. 이 연구소에 조수로 들어간 뒤로 연락이 뜸해졌지만, 통화할 때마다 여느 때와 다름없이 씩씩한 목소리였다. 그런 누나가 흔적도 없이 사라졌다는 사실을, 당신은 아직도 받아들이지 못하고 있다.
+    </p>
+  </section>
+</div>
+
+8. 숨기고 싶은 비밀
+<div class="story-content">
+  <p class="guide-text">※ 노출 여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
+  <ul>
+    <li><strong>아침 08:30의 협박 통화</strong>: 당신이 사적인 원한으로 소장에게 살해 협박 전화를 걸었다는 사실. 만약 <span class="character-veyla">베일라</span>가 이 통화 기록을 찾아내면 당신은 공적인 수사가 아니라 사적 원한에 의한 살인 용의자로 몰릴 수 있다.</li>
+    <li><strong>제식 권총 무장과 신경 떨림</strong>: 복수심과 개인적 원한으로 품속의 공무용 제식 권총을 만지작거리고 있으며, 이를 <span class="character-veyla">베일라</span>가 눈치챌까 봐 염려하고 있다.</li>
+  </ul>
+</div>
+
+9. 단계별 역할 지침
+
+[전반부 조사] (단계_3~5: A/B/C구역)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>누나의 행방과 소장의 실체 추궁</strong>: 이 뻔뻔한 소장이 무언가를 숨기고 거짓말을 하고 있다는 증거를 찾아내어 그를 기소하고, 누나의 행방을 알아내야 한다.</li>
+      <li><strong>자신의 알리바이 방어</strong>: 08:30 협박 전화 기록을 <span class="character-veyla">베일라</span>에게 들키지 않고, 자신이 원한 때문에 소장을 해쳤다는 의심을 피해야 한다.</li>
+    </ul>
+  </section>
+</div>
+
+[후반부 조사] (단계_6~8: D구역~최종 결론)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표(진실 인지 이후) - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>결정적 증거 수집</strong>: D구역에서 발견되는 단서들을 통해, 눈앞의 존재가 진짜 <span class="character-clay">닥터 클레이</span>인지 아니면 그의 유전자로 만들어진 <span class="emphasis">도플로이드</span>인지 판단할 근거를 모아야 한다.</li>
+      <li><strong>최종 추리와 결론</strong>: <span class="character-veyla">베일라</span>와 함께 지금까지의 단서를 정리하고, 마지막 질문에 답하기 전 자신의 결론을 확실히 해두어야 한다.</li>
+      <li><strong>진실의 딜레마</strong>: 눈앞의 존재를 단죄하는 것이 정말 누나를 위한 길인지, 스스로에게 물어야 한다.</li>
+    </ul>
+  </section>
 </div>

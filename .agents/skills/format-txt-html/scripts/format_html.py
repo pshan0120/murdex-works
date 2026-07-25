@@ -64,7 +64,7 @@ def format_html_in_txt(file_path):
     # Run Prettier
     try:
         # Run prettier on the temp file
-        result = subprocess.run(["npx.cmd", "prettier", "--write", "--print-width", "120", temp_file], check=True, capture_output=True, text=True, encoding='utf-8')
+        result = subprocess.run(["npx.cmd", "prettier", "--write", "--print-width", "9999", temp_file], check=True, capture_output=True, text=True, encoding='utf-8')
     except subprocess.CalledProcessError as e:
         print(f"Prettier formatting failed: {e}")
         print(f"STDOUT: {e.stdout}")

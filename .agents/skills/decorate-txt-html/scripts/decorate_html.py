@@ -2,6 +2,7 @@ import sys
 import os
 import re
 import argparse
+import subprocess
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -126,29 +127,37 @@ def process_file(file_path, dry_run=False):
     updated_lines = []
     in_html = False
     html_lines = []
+    html_depth = 0
     modified_count = 0
     
     for i, line in enumerate(lines):
         if line.strip().startswith("<div class=\"story-content\"") or line.strip() == "HTML :":
+            if in_html and html_lines:
+                full_html = "".join(html_lines)
+                decorated_html = decorate_html_content(full_html, rules)
+                if decorated_html != full_html:
+                    modified_count += 1
+                updated_lines.append(decorated_html)
+                html_lines = []
+                
             in_html = True
+            html_depth = line.count("<div") - line.count("</div>")
             html_lines = [line] if line.strip().startswith("<div class=\"story-content\"") else []
             if line.strip() == "HTML :":
                 updated_lines.append(line)
             continue
             
         if in_html:
-            # Check for end of HTML section
-            if line.startswith("이미지생성용 프롬프트") or line.startswith("단서 그룹 :") or line.startswith("파일명 :") or line.startswith("<!-- ==") or line.startswith("제목:"):
+            html_lines.append(line)
+            html_depth += line.count("<div") - line.count("</div>")
+            if html_depth <= 0 or re.match(r'^\d+\.\s+', line.strip()) or (line.startswith("[") and "]" in line) or line.startswith("<!--") or line.startswith("이미지생성용 프롬프트") or line.startswith("단서 그룹 :") or line.startswith("파일명 :"):
                 in_html = False
                 full_html = "".join(html_lines)
                 decorated_html = decorate_html_content(full_html, rules)
                 if decorated_html != full_html:
                     modified_count += 1
                 updated_lines.append(decorated_html)
-                updated_lines.append(line)
                 html_lines = []
-            else:
-                html_lines.append(line)
         else:
             updated_lines.append(line)
             
@@ -163,6 +172,15 @@ def process_file(file_path, dry_run=False):
         with open(file_path, "w", encoding="utf-8") as f:
             f.writelines(updated_lines)
             
+        # Call format-txt-html skill script to fix whitespace flatening caused by BeautifulSoup
+        format_script_path = os.path.join(os.path.dirname(__file__), "..", "..", "format-txt-html", "scripts", "format_html.py")
+        if os.path.exists(format_script_path):
+            try:
+                subprocess.run([sys.executable, format_script_path, file_path], check=True, capture_output=True)
+                print(f"  -> Automatically formatted HTML spacing for {os.path.basename(file_path)}")
+            except subprocess.CalledProcessError as e:
+                print(f"  -> [WARNING] Auto-formatting failed: {e}")
+                
     print(f"Processed {os.path.basename(file_path)}: decorated {modified_count} HTML blocks.")
     return modified_count
 

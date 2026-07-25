@@ -120,6 +120,42 @@
     right: 1rem;
 }
 
+/* 테이블 스타일 */
+.story-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: rgba(10, 17, 28, 0.6);
+    border: 1px solid rgba(168, 192, 255, 0.2);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.story-content th,
+.story-content td {
+    border: 1px solid rgba(168, 192, 255, 0.2);
+    padding: 0.75rem 1rem;
+    text-align: center;
+    word-break: keep-all;
+}
+
+.story-content th {
+    background: rgba(168, 192, 255, 0.12);
+    color: #a8c0ff;
+    font-weight: 700;
+    font-family: "Orbitron", sans-serif;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid rgba(168, 192, 255, 0.3);
+}
+
+.story-content tr:nth-child(even) {
+    background: rgba(168, 192, 255, 0.03);
+}
+
+.story-content tr:hover {
+    background: rgba(168, 192, 255, 0.07);
+}
+
 /* 시스템 메시지 및 가이드 박스 */
 .story-content .system-msg,
 .story-content .guide-box {
