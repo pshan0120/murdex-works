@@ -122,13 +122,14 @@ def update_db(blocks: list[dict], dry_run: bool = False) -> tuple[int, int]:
             ending_story = block["content"]
 
             try:
-                cursor.execute(
-                    "UPDATE story_ending SET ending_name = %s, ending_story = %s WHERE ending_id = %s",
-                    (ending_name, ending_story, ending_id)
-                )
-                if cursor.rowcount == 0:
+                cursor.execute("SELECT 1 FROM story_ending WHERE ending_id = %s", (ending_id,))
+                if not cursor.fetchone():
                     print(f"  [WARNING] 매칭된 행 없음 - EndingID: {ending_id} ({ending_name})")
                 else:
+                    cursor.execute(
+                        "UPDATE story_ending SET ending_name = %s, ending_story = %s WHERE ending_id = %s",
+                        (ending_name, ending_story, ending_id)
+                    )
                     success_count += 1
 
             except Exception as e:
