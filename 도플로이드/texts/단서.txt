@@ -199,18 +199,13 @@ groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
-관련 : 베일라
-의도 : 베일라가 마커스의 오른손 떨림과 무장 상태를 목격하고 경계심을 품게 만듦.
-내용 :
-정문 로비에서 대면했을 때 마커스가 극도의 긴장으로 오른손 끝을 미세하게 떨며 수시로 재킷 안쪽으로 손을 얹는 정황. 재킷 옷깃 사이로 수사관 제식 권총의 은빛 총자루가 살짝 노출됨.
+획득 조건 내용 :
+정문 로비에서 대면했을 때 마커스의 오른손 끝이 미세하게 떨리며 서류를 만지작거리는 모습이 관찰되었다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">정문 로비</span>에서 대면했을 때 목격한 <span class="character-marcus">마커스</span>의 모습이다.</div>
   <div class="divider"></div>
-  <div><span class="emphasis">정문 로비</span>에서 대면했을 때 <span class="character-marcus">마커스</span>가 극도의 긴장으로 오른손 끝을 미세하게 떨며 수시로 재킷 안쪽으로 손을 얹는 정황. 재킷 옷깃 사이로 수사관 제식 권총의 은빛 총자루가 살짝 노출됨.</div>
+  <div><span class="emphasis">정문 로비</span>에서 대면했을 때 <span class="character-marcus">마커스</span>의 오른손 끝이 미세하게 떨리며 서류를 만지작거리는 모습이 관찰되었다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a tense man's trembling right hand hovering near his jacket, a glint of silver metal barely visible at the collar. Cold lighting, empty lobby background blurred. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 마커스에 대하여
@@ -235,18 +230,13 @@ groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
-관련 : 마커스
-의도 : 마커스가 베일라의 행색을 보고 09:10에 경보를 울린 무단 침입자라는 의심을 하게 만듦.
-내용 :
-베일라의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 뒤엉켜 있는 정황.
+획득 조건 내용 :
+보안 검색대에서 살펴본 베일라의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 묻어 있었다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">보안 검색대</span>에서 살펴본 <span class="character-veyla">베일라</span>의 신발과 코트 옷깃 흔적이다.</div>
   <div class="divider"></div>
-  <div><span class="character-veyla">베일라</span>의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 뒤엉켜 있는 정황.</div>
+  <div><span class="emphasis">보안 검색대</span>에서 살펴본 <span class="character-veyla">베일라</span>의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 묻어 있었다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of dirt, cobwebs, and dark grease stains on the hem of a navy coat and the edge of a worn shoe. Cold lobby lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 베일라에 대하여
@@ -307,7 +297,7 @@ groupId : 77d2aea4-6308-4e4b-8b7a-db66585f86f7
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 마커스가 사적인 원한으로 진짜 클레이 소장을 파멸시키겠다고 살해 협박을 가했음을 입증.
+의도 : 마커스가 사적인 원한으로 진짜 클레이 소장에게 경고성 메시지를 남겼음을 입증.
 내용 :
 08:30경 소장실 개인 통화 장치에 기록된 음성 메시지. 한 남성의 분노에 찬 목소리: "내 가족을 어떻게 한 겁니까? 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."
 HTML :
@@ -408,18 +398,13 @@ groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
-관련 : 베일라
-의도 : 마커스의 손끝 떨림에 이어 감각 마비 등의 유전 증세가 물리적으로 심화되고 있음을 베일라가 눈치채게 만듦.
-내용 :
-마커스가 연구실 데스크의 시료 병이나 펜을 쥘 때 오른손 끝 감각이 무딘 듯 헛손질을 하고, 물건을 떨어뜨릴 뻔하자 신경질적으로 손등을 문지르는 정황.
+획득 조건 내용 :
+일반 연구실에서 마커스가 데스크 위 서류를 살펴보려 몸을 기울이는 순간, 재킷 안쪽 홀스터에 고정된 은빛 제식 권총이 옷깃 사이로 드러났다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">일반 연구실</span>에서 대면했을 때 목격한 <span class="character-marcus">마커스</span>의 모습이다.</div>
   <div class="divider"></div>
-  <div><span class="character-marcus">마커스</span>가 연구실 데스크의 시료 병이나 펜을 쥘 때 오른손 끝 감각이 무딘 듯 헛손질을 하고, 물건을 떨어뜨릴 뻔하자 신경질적으로 손등을 문지르는 정황.</div>
+  <div><span class="emphasis">일반 연구실</span>에서 <span class="character-marcus">마커스</span>가 데스크 위 서류를 살펴보려 몸을 기울이는 순간, 재킷 안쪽 홀스터에 고정된 은빛 제식 권총이 옷깃 사이로 드러났다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a man's hand fumbling to grip a lab pen, fingers slightly stiff and uncoordinated, on a cluttered lab desk. Cold laboratory lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 마커스에 대하여
@@ -579,18 +564,13 @@ groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
-관련 : 마커스
-의도 : 마커스가 베일라의 총기 소지 사실과 더불어, 그녀의 연인 사진에서 막연한 기시감을 느끼게 함. 정체를 확정 짓지 않는 수준의 위화감만 남겨, D구역의 결정적 단서와 만나기 전까지는 의혹으로만 남도록 함.
-내용 :
-베일라가 물품 창고에서 열쇠 꾸러미를 찾으려 가방을 열었을 때 마커스가 가방 틈으로 포착한 내용. 베일라와 한 남성의 다정한 사진 바로 옆에 민간인에게 허용되지 않는 어두운 빛깔의 소형 호신용 권총이 은밀히 자리 잡고 있는 정황. 사진 속 남성의 얼굴이 어쩐지 낯설지 않다. 정확히 뭐가 닮았는지 콕 집어 말하기는 어렵지만, 지금 눈앞의 소장에게서 느껴지는 인상과 묘하게 겹쳐 보인다.
+획득 조건 내용 :
+보안 물품 창고에서 베일라가 가방을 열었을 때, 가방 안쪽에 민간인 소지가 금지된 어두운 빛깔의 소형 호신용 권총이 들어 있는 것이 목격되었다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">보안 물품 창고</span>에서 확인한 <span class="character-veyla">베일라</span>의 소지품과 가방 내부 정황이다.</div>
   <div class="divider"></div>
-  <div><span class="character-veyla">베일라</span>가 물품 창고에서 열쇠 꾸러미를 찾으려 가방을 열었을 때 <span class="character-marcus">마커스</span>가 가방 틈으로 포착한 내용. <span class="character-veyla">베일라</span>와 한 남성의 다정한 사진 바로 옆에 민간인에게 허용되지 않는 어두운 빛깔의 소형 호신용 권총이 은밀히 자리 잡고 있는 정황. 사진 속 남성의 얼굴이 어쩐지 낯설지 않다. 정확히 뭐가 닮았는지 콕 집어 말하기는 어렵지만, 지금 눈앞의 소장에게서 느껴지는 인상과 묘하게 겹쳐 보인다.</div>
+  <div><span class="emphasis">보안 물품 창고</span>에서 <span class="character-veyla">베일라</span>가 가방을 열었을 때, 가방 안쪽에 민간인 소지가 금지된 어두운 빛깔의 소형 호신용 권총이 들어 있는 것이 목격되었다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up inside a half-open leather bag, revealing a small dark handgun next to a photograph of a couple. Cold storage-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 베일라에 대하여
@@ -618,13 +598,13 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 관련 : 공통
 의도 : 08:00에 소장의 유전자를 가진 누군가가 아무런 경보 없이 환기구를 통해 내부에 침입했음을 보여줌. (clue_12와 결합하여 이 침입자가 복제 생명체 알렉스임을 유추)
 내용 :
-"08:00:15 - 서쪽 환기구 내부 게이트: 유전자 인증 통과. 경보 미발생. 게이트 일시 개방."
+"08:00:15 - 서쪽 환기구 내부 게이트: 생체 인증 일치. 통과."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">서쪽 환기구</span> 접근 제어 단말기에서 조회한 출입 기록이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"08:00:15 - <span class="emphasis">서쪽 환기구</span> 내부 게이트: 유전자 인증 통과. 경보 미발생. 게이트 일시 개방."</div>
+    <div class="document-body small">"08:00:15 - <span class="emphasis">서쪽 환기구</span> 내부 게이트: 생체 인증 일치. 통과."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a vent access control terminal log, near a large industrial vent. Cold dim lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
