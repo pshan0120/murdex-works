@@ -153,7 +153,7 @@ HTML :
 clueId : 1c200107-d729-4541-9d38-91e52c0ebb4d
 variantId : a2b69925-8488-4776-a863-f8fdf4303958
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
-groupId : 1b09349b-bae4-4b61-b91e-ed1d50b234b4
+groupId : a1111111-1111-4111-a111-111111111111
 유형 : 물증
 단계 : A구역
 소모AP : 1
@@ -180,7 +180,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a security terminal screen displaying a scrolling system log with two consecutive alert lines. Cold blue screen glow in a dark, empty lobby. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 정문_로비
+단서 그룹 : A구역
 파일명 : 05_보안_시스템_통합로그
 
 
@@ -188,8 +188,8 @@ HTML :
 이름 : 마커스에 대하여#1
 clueId : 424d5b63-103a-4ae5-8817-d5e7bf557bd4
 variantId : 13281e46-1984-47bc-9b90-49b0b7e35bb8
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133496/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_n29dnp.jpg
-groupId : cc0b1119-375e-4630-bcc1-4befb0681256
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+groupId : a1111111-1111-4111-a111-111111111111
 유형 : 관찰
 단계 : A구역
 소모AP : 0
@@ -213,7 +213,7 @@ HTML :
   <div><span class="emphasis">정문 로비</span>에서 대면했을 때 <span class="character-marcus">마커스</span>가 극도의 긴장으로 오른손 끝을 미세하게 떨며 수시로 재킷 안쪽으로 손을 얹는 정황. 재킷 옷깃 사이로 수사관 제식 권총의 은빛 총자루가 살짝 노출됨.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a tense man's trembling right hand hovering near his jacket, a glint of silver metal barely visible at the collar. Cold lighting, empty lobby background blurred. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 마커스에 대하여
+단서 그룹 : A구역
 파일명 : 06_마커스_관찰_손떨림
 
 
@@ -224,8 +224,8 @@ HTML :
 이름 : 베일라에 대하여#1
 clueId : 24449132-5c75-4d85-9b5e-001ccc661747
 variantId : 1f923adc-bb8a-42bd-83e0-b26e31c5510f
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133466/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_qmngup.jpg
-groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+groupId : a1111111-1111-4111-a111-111111111111
 유형 : 관찰
 단계 : A구역
 소모AP : 0
@@ -249,7 +249,7 @@ HTML :
   <div><span class="character-veyla">베일라</span>의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 뒤엉켜 있는 정황.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of dirt, cobwebs, and dark grease stains on the hem of a navy coat and the edge of a worn shoe. Cold lobby lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 베일라에 대하여
+단서 그룹 : A구역
 파일명 : 08_베일라_관찰_흔적
 
 
@@ -257,8 +257,8 @@ HTML :
 이름 : 소장실#1
 clueId : 4779f52d-da2e-4e14-aeaf-bfac40355c39
 variantId : 053ce8e0-1657-40bf-aa99-a10eec14fc56
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958838/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ql7pcg.jpg
-groupId : b858e384-022a-406f-919b-f630c9d2254c
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+groupId : a1111111-1111-4111-a111-111111111111
 유형 : 물증
 단계 : A구역
 소모AP : 1
@@ -284,7 +284,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a medical prescription slip inside a half-open desk drawer, next to a pill bottle. Cold office lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 소장실
+단서 그룹 : A구역
 파일명 : 09_소장실_처방전
 
 
@@ -292,8 +292,8 @@ HTML :
 이름 : 소장실#2
 clueId : 6b407e94-3185-40f5-bfc4-f68a500a398e
 variantId : fd5fb1ba-c6a5-4d5a-84ec-32f69c059dd7
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958838/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ql7pcg.jpg
-groupId : b858e384-022a-406f-919b-f630c9d2254c
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+groupId : a1111111-1111-4111-a111-111111111111
 유형 : 물증
 단계 : A구역
 소모AP : 1
@@ -319,7 +319,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old answering machine with a blinking red recording light on a dark office desk. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 소장실
+단서 그룹 : A구역
 파일명 : 10_소장실_통화녹음
 
 
@@ -327,8 +327,8 @@ HTML :
 이름 : 소장실#3
 clueId : 6aa98f8d-7c13-469b-aefb-fd70242e41cc
 variantId : a6e45541-229b-4326-98eb-dc0f438bb0dd
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958838/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ql7pcg.jpg
-groupId : b858e384-022a-406f-919b-f630c9d2254c
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+groupId : a1111111-1111-4111-a111-111111111111
 유형 : 물증
 단계 : A구역
 소모AP : 1
@@ -354,7 +354,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a leather-bound notebook open to a page of hurried handwriting, on a dark office desk. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 소장실
+단서 그룹 : A구역
 파일명 : 11_소장_수첩_메모
 
 
@@ -363,7 +363,7 @@ HTML :
 clueId : 7dee94b5-2b7b-4e9c-9291-5cbcaa4c21cc
 variantId : d70be3b2-47e8-4ed4-8cb5-8b9fd891eaa3
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
-groupId : 28ead3df-190a-4b4c-a29d-ba5a32f5a68a
+groupId : c3333333-3333-4333-c333-333333333333
 유형 : 물증
 단계 : C구역
 소모AP : 1
@@ -389,7 +389,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a scientific notebook page, handwriting starting neat and growing shaky and frantic toward the bottom. Cold laboratory lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 일반_연구실
+단서 그룹 : C구역
 파일명 : 12_클레이_연구노트
 
 
@@ -397,8 +397,8 @@ HTML :
 이름 : 마커스에 대하여#2
 clueId : bf40a01b-38a5-40de-b5d4-9f109ab25294
 variantId : eceabb5e-aefe-41dc-8d0f-8bb72d8c8aa1
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133496/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_n29dnp.jpg
-groupId : cc0b1119-375e-4630-bcc1-4befb0681256
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+groupId : c3333333-3333-4333-c333-333333333333
 유형 : 관찰
 단계 : C구역
 소모AP : 0
@@ -422,7 +422,7 @@ HTML :
   <div><span class="character-marcus">마커스</span>가 연구실 데스크의 시료 병이나 펜을 쥘 때 오른손 끝 감각이 무딘 듯 헛손질을 하고, 물건을 떨어뜨릴 뻔하자 신경질적으로 손등을 문지르는 정황.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a man's hand fumbling to grip a lab pen, fingers slightly stiff and uncoordinated, on a cluttered lab desk. Cold laboratory lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 마커스에 대하여
+단서 그룹 : C구역
 파일명 : 13_마커스_관찰_손감각
 
 
@@ -430,8 +430,8 @@ HTML :
 이름 : 비밀 병실#1
 clueId : c0be4bc1-17bc-497d-8377-8f498faecc3b
 variantId : c6ca4c3e-2946-4c6a-a09d-214e4edad4fa
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958939/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_zaor94.jpg
-groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+groupId : c3333333-3333-4333-c333-333333333333
 유형 : 관찰
 단계 : C구역
 소모AP : 0
@@ -455,7 +455,7 @@ HTML :
   <div>소장이 "과거에 직원 휴게실이었던 곳"이라며 문을 열었으나, 내부는 휴게실 흔적이 전혀 없고 온갖 투석기와 생명 유지 장치들로 가득 찬 극비 중환자실이었던 정황.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A doorway revealing a stark contrast between an old faded "Break Room" sign and a room full of glowing medical life-support machinery. Cold clinical lighting. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 비밀_병실
+단서 그룹 : C구역
 파일명 : 14_소장_공간인지_불일치
 
 
@@ -463,8 +463,8 @@ HTML :
 이름 : 비밀 병실#2
 clueId : f9d1a1c3-96c7-4760-be85-3617f0a046e8
 variantId : cd82f4b9-5d2e-4159-a601-896bab92ea89
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958939/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_zaor94.jpg
-groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+groupId : c3333333-3333-4333-c333-333333333333
 유형 : 물증
 단계 : C구역
 소모AP : 1
@@ -490,7 +490,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a medical monitor screen displaying patient vitals and a code, beside a hospital bed. Cold clinical lighting, glowing screen. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 비밀_병실
+단서 그룹 : C구역
 파일명 : 15_병실_모니터링기록
 
 
@@ -498,8 +498,8 @@ HTML :
 이름 : 비밀 병실#3
 clueId : 427fbcaa-c489-446e-ae36-dd9af8cbc237
 variantId : 454a832a-815b-46a2-a241-331f83b624f2
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958939/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_zaor94.jpg
-groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+groupId : c3333333-3333-4333-c333-333333333333
 유형 : 물증
 단계 : C구역
 소모AP : 1
@@ -525,7 +525,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old computer terminal screen in a dim medical room, displaying a scrolling log entry. Cold glowing screen light. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 비밀_병실
+단서 그룹 : C구역
 파일명 : 16_병실_컴퓨터일지
 
 
@@ -533,8 +533,8 @@ HTML :
 이름 : 비밀 병실#4
 clueId : cdd58a62-43ed-4f43-9224-33f8d0a0e0f2
 variantId : a4da6a69-00a7-49f9-be80-47f5013665df
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958939/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_zaor94.jpg
-groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+groupId : c3333333-3333-4333-c333-333333333333
 유형 : 물증
 단계 : C구역
 소모AP : 1
@@ -560,7 +560,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a backup terminal screen showing a surveillance report with a blurred photograph thumbnail. Cold glowing screen light in a dim medical room. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 비밀_병실
+단서 그룹 : C구역
 파일명 : 17_병실_정보원첩보
 
 
@@ -568,8 +568,8 @@ HTML :
 이름 : 베일라에 대하여#2
 clueId : f448a755-edcc-49d3-9274-5309b74c8325
 variantId : 0257e6e4-481c-4438-81bd-28563f26e55a
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133466/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_qmngup.jpg
-groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+groupId : b2222222-2222-4222-b222-222222222222
 유형 : 관찰
 단계 : B구역
 소모AP : 0
@@ -593,7 +593,7 @@ HTML :
   <div><span class="character-veyla">베일라</span>가 물품 창고에서 열쇠 꾸러미를 찾으려 가방을 열었을 때 <span class="character-marcus">마커스</span>가 가방 틈으로 포착한 내용. <span class="character-veyla">베일라</span>와 한 남성의 다정한 사진 바로 옆에 민간인에게 허용되지 않는 어두운 빛깔의 소형 호신용 권총이 은밀히 자리 잡고 있는 정황. 사진 속 남성의 얼굴이 어쩐지 낯설지 않다. 정확히 뭐가 닮았는지 콕 집어 말하기는 어렵지만, 지금 눈앞의 소장에게서 느껴지는 인상과 묘하게 겹쳐 보인다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up inside a half-open leather bag, revealing a small dark handgun next to a photograph of a couple. Cold storage-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 베일라에 대하여
+단서 그룹 : B구역
 파일명 : 18_베일라_소지품_사진
 
 
@@ -601,8 +601,8 @@ HTML :
 이름 : 서쪽 환기구#1
 clueId : 9abd0978-7c45-4be9-8bf1-280665709671
 variantId : 4e76efaf-01c0-4ab2-8ec2-0c2f3470b1c3
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959013/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_phjrcv.jpg
-groupId : fc8d97ba-ba8f-4e2a-be31-6f9c55744858
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+groupId : b2222222-2222-4222-b222-222222222222
 유형 : 물증
 단계 : B구역
 소모AP : 1
@@ -628,7 +628,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a vent access control terminal log, near a large industrial vent. Cold dim lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 서쪽_환기구
+단서 그룹 : B구역
 파일명 : 19_환기구_접근로그
 
 
@@ -636,8 +636,8 @@ HTML :
 이름 : 서쪽 환기구#2
 clueId : 48f8cafb-0025-4050-81b0-8d2552af1fcc
 variantId : 3f2d48a3-8550-4e2b-b6ae-70210a4d80ba
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959013/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_phjrcv.jpg
-groupId : fc8d97ba-ba8f-4e2a-be31-6f9c55744858
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+groupId : b2222222-2222-4222-b222-222222222222
 유형 : 물증
 단계 : B구역
 소모AP : 1
@@ -664,7 +664,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a tarnished silver ring lying in dark dust and grime at the bottom of a vent shaft, faint engraved initials visible. Cold dim lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 서쪽_환기구
+단서 그룹 : B구역
 파일명 : 20_환풍구_약혼반지
 
 
@@ -672,8 +672,8 @@ HTML :
 이름 : 기록 보관실#1
 clueId : 4e304cda-0c9c-4ff2-add4-f15fa5a6e68c
 variantId : 59fec3cf-8014-462c-884a-ec6960ceff31
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958990/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_kmj6jh.jpg
-groupId : 7e14b06d-f4cc-4ecf-99f2-d9d37e45fdb4
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+groupId : b2222222-2222-4222-b222-222222222222
 유형 : 물증
 단계 : B구역
 소모AP : 1
@@ -697,7 +697,7 @@ HTML :
   <div><span class="emphasis">기록 보관실</span> 바닥에 목 졸려 죽어 있는 시체의 찢어진 겉옷 주머니에서 발견된 알약 통. 라벨에는 <span class="emphasis">소장실</span> 서랍 처방전에서 목격한 특정 마약성 진통제 <span class="emphasis">'프로메돌'</span>의 명칭이 선명하게 인쇄되어 있음.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small pill bottle with a printed label, fallen from a torn coat pocket onto a cold floor. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 기록_보관실
+단서 그룹 : B구역
 파일명 : 21_시체_소지품_알약통
 
 
@@ -705,8 +705,8 @@ HTML :
 이름 : 기록 보관실#2
 clueId : 1934238f-1376-4b27-a907-830a161ba71e
 variantId : 6f59601a-f1db-4ef0-8c69-a997d30a2b22
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958990/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_kmj6jh.jpg
-groupId : 7e14b06d-f4cc-4ecf-99f2-d9d37e45fdb4
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+groupId : b2222222-2222-4222-b222-222222222222
 유형 : 물증
 단계 : B구역
 소모AP : 1
@@ -730,7 +730,7 @@ HTML :
   <div>교살당한 시체의 오른손 손톱 밑에 붉은 핏자국과 범인의 미세한 피부 조직 조각이 거칠게 끼어 있는 정황.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a lifeless hand, dried blood and tissue fragments visible under the fingernails. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 기록_보관실
+단서 그룹 : B구역
 파일명 : 22_시체_손톱잔해
 
 
@@ -738,8 +738,8 @@ HTML :
 이름 : 기록 보관실#3
 clueId : 0ea24b8d-0b61-4a72-ba36-0dc715aee466
 variantId : 9fdec1de-4be5-4cbb-b93d-88c64a1c0e21
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958990/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_kmj6jh.jpg
-groupId : 7e14b06d-f4cc-4ecf-99f2-d9d37e45fdb4
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+groupId : b2222222-2222-4222-b222-222222222222
 유형 : 관찰
 단계 : B구역
 소모AP : 0
@@ -763,7 +763,7 @@ HTML :
   <div>현재 소장 가운을 입고 일행을 인도하는 소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는, 긁힌 지 얼마 되지 않아 피가 살짝 맺혀 부풀어 오른 선명한 상처들.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a fresh scratch wound peeking out from under a lab coat sleeve and shirt collar. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 기록_보관실
+단서 그룹 : B구역
 파일명 : 23_생존소장_옷깃상처
 
 
@@ -771,8 +771,8 @@ HTML :
 이름 : 폐기물 소각장#1
 clueId : 73c3502f-79c1-4744-b9ff-8a46b525d5ba
 variantId : ca751a35-1623-49c3-8df4-89111ff5f4ed
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959032/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_o6dcrb.jpg
-groupId : a2d3f827-4d2b-4836-bab6-1f32b9368807
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959074/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_jbb77o.jpg
+groupId : d4444444-4444-4444-d444-444444444444
 유형 : 물증
 단계 : D구역
 소모AP : 0
@@ -800,7 +800,7 @@ HTML :
   <div class="divider"></div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-burned document, edges charred black, legible handwriting on the surviving portion, inside a dark incinerator chamber. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 폐기물_소각장
+단서 그룹 : D구역
 파일명 : 24_소각로_타다만문서
 
 
@@ -809,7 +809,7 @@ HTML :
 clueId : 80e62a92-e6f9-410d-a2ad-ad47ad456a2c
 variantId : 889209f7-3b25-4710-9e94-ce68e92879eb
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959074/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_jbb77o.jpg
-groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
+groupId : d4444444-4444-4444-d444-444444444444
 유형 : 물증
 단계 : D구역
 소모AP : 1
@@ -835,7 +835,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a personal diary open on a lab bench, handwritten in a woman's hand, next to glowing incubation equipment in the background. Cold cyan lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 지하_배양실
+단서 그룹 : D구역
 파일명 : 25_알렉스_비밀일지
 
 
@@ -844,7 +844,7 @@ HTML :
 clueId : 9b166ecc-1375-4e92-b1df-c8fe8f03558e
 variantId : 9c549cf4-e442-4bdc-abe8-6bd57f4b4a63
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959074/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_jbb77o.jpg
-groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
+groupId : d4444444-4444-4444-d444-444444444444
 유형 : 물증
 단계 : D구역
 소모AP : 1
@@ -872,7 +872,7 @@ HTML :
   <div class="divider"></div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a scan record printout with a data table, a single handwritten sentence added in the margin. Cold cyan lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 지하_배양실
+단서 그룹 : D구역
 파일명 : 26_배양데이터_스캔기록
 
 
@@ -881,7 +881,7 @@ HTML :
 clueId : e038351f-173e-484c-88d0-946b079682f5
 variantId : 73611f7c-7608-4f3b-8e2d-8f9887e6c631
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959074/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_jbb77o.jpg
-groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
+groupId : d4444444-4444-4444-d444-444444444444
 유형 : 관찰
 단계 : D구역
 소모AP : 1
@@ -905,7 +905,7 @@ HTML :
   <div>내부에 어떤 기계적 파손이나 파편 흔적도 없이 말끔하지만, 오랜 세월 비워둔 듯 내부 벽면을 따라 옅게 말라붙은 단백질 흔적만 남아 있는 1인용 거대 배양조. 유리벽 바깥쪽에는 누군가 오랫동안, 그것도 비교적 최근까지 그 앞을 서성이며 짚었던 듯한 손자국이 여러 겹 겹쳐 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an empty glass incubation capsule, faint residue on the inner walls, layered handprints smudged on the outer glass. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 지하_배양실
+단서 그룹 : D구역
 파일명 : 27_가동흔적_캡슐
 
 
@@ -914,7 +914,7 @@ HTML :
 clueId : 6649de70-0bfe-4abd-b74b-cd4cfb65c86f
 variantId : 532964bd-f9ef-48ba-b96a-534fd0e480be
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959074/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_jbb77o.jpg
-groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
+groupId : d4444444-4444-4444-d444-444444444444
 유형 : 물증
 단계 : D구역
 소모AP : 1
@@ -940,5 +940,5 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a worn, tear-stained journal page, ink smudged in places, resting near the base of a large incubation capsule. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 지하_배양실
+단서 그룹 : D구역
 파일명 : 28_클레이_옛일지_그날의기록
