@@ -189,7 +189,7 @@ HTML :
 clueId : 424d5b63-103a-4ae5-8817-d5e7bf557bd4
 variantId : 13281e46-1984-47bc-9b90-49b0b7e35bb8
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133496/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_n29dnp.jpg
-groupId : 77d2aea4-6308-4e4b-8b7a-db66585f86f7
+groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 유형 : 관찰
 단계 : A구역
 소모AP : 0
@@ -213,7 +213,7 @@ HTML :
   <div><span class="emphasis">정문 로비</span>에서 대면했을 때 <span class="character-marcus">마커스</span>가 극도의 긴장으로 오른손 끝을 미세하게 떨며 수시로 재킷 안쪽으로 손을 얹는 정황. 재킷 옷깃 사이로 수사관 제식 권총의 은빛 총자루가 살짝 노출됨.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a tense man's trembling right hand hovering near his jacket, a glint of silver metal barely visible at the collar. Cold lighting, empty lobby background blurred. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : A구역
+단서 그룹 : 마커스에 대하여
 파일명 : 06_마커스_관찰_손떨림
 
 
@@ -225,7 +225,7 @@ HTML :
 clueId : 24449132-5c75-4d85-9b5e-001ccc661747
 variantId : 1f923adc-bb8a-42bd-83e0-b26e31c5510f
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133466/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_qmngup.jpg
-groupId : 77d2aea4-6308-4e4b-8b7a-db66585f86f7
+groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 유형 : 관찰
 단계 : A구역
 소모AP : 0
@@ -249,7 +249,7 @@ HTML :
   <div><span class="character-veyla">베일라</span>의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 뒤엉켜 있는 정황.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of dirt, cobwebs, and dark grease stains on the hem of a navy coat and the edge of a worn shoe. Cold lobby lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : A구역
+단서 그룹 : 베일라에 대하여
 파일명 : 08_베일라_관찰_흔적
 
 
@@ -398,7 +398,7 @@ HTML :
 clueId : bf40a01b-38a5-40de-b5d4-9f109ab25294
 variantId : eceabb5e-aefe-41dc-8d0f-8bb72d8c8aa1
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133496/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_n29dnp.jpg
-groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
+groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 유형 : 관찰
 단계 : C구역
 소모AP : 0
@@ -422,7 +422,7 @@ HTML :
   <div><span class="character-marcus">마커스</span>가 연구실 데스크의 시료 병이나 펜을 쥘 때 오른손 끝 감각이 무딘 듯 헛손질을 하고, 물건을 떨어뜨릴 뻔하자 신경질적으로 손등을 문지르는 정황.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a man's hand fumbling to grip a lab pen, fingers slightly stiff and uncoordinated, on a cluttered lab desk. Cold laboratory lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : C구역
+단서 그룹 : 마커스에 대하여
 파일명 : 13_마커스_관찰_손감각
 
 
@@ -569,7 +569,7 @@ HTML :
 clueId : f448a755-edcc-49d3-9274-5309b74c8325
 variantId : 0257e6e4-481c-4438-81bd-28563f26e55a
 이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133466/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_qmngup.jpg
-groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
+groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 유형 : 관찰
 단계 : B구역
 소모AP : 0
@@ -593,7 +593,7 @@ HTML :
   <div><span class="character-veyla">베일라</span>가 물품 창고에서 열쇠 꾸러미를 찾으려 가방을 열었을 때 <span class="character-marcus">마커스</span>가 가방 틈으로 포착한 내용. <span class="character-veyla">베일라</span>와 한 남성의 다정한 사진 바로 옆에 민간인에게 허용되지 않는 어두운 빛깔의 소형 호신용 권총이 은밀히 자리 잡고 있는 정황. 사진 속 남성의 얼굴이 어쩐지 낯설지 않다. 정확히 뭐가 닮았는지 콕 집어 말하기는 어렵지만, 지금 눈앞의 소장에게서 느껴지는 인상과 묘하게 겹쳐 보인다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up inside a half-open leather bag, revealing a small dark handgun next to a photograph of a couple. Cold storage-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : B구역
+단서 그룹 : 베일라에 대하여
 파일명 : 18_베일라_소지품_사진
 
 
