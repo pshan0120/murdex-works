@@ -14,7 +14,7 @@ StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
 이름 : 알렉스의 편지
 clueId : aab28043-58d8-4769-bc0a-2418743c66c2
 variantId : 51a46150-094c-4bb7-bafa-038a6596da69
-groupId : 없음
+groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 유형 : 물증
 단계 : 시작 지급 (베일라)
 소모AP : 0
@@ -41,7 +41,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, hastily folded note in a man's handwriting, resting on a worn wooden table. Cold blue-white light from a nearby window. Shallow depth of field, background dark and blurred. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 시작 지급
+단서 그룹 : 베일라에 대하여
 파일명 : 01_베일라_알렉스의_편지
 
 
@@ -49,7 +49,7 @@ HTML :
 이름 : 소형 호신용 권총
 clueId : be7311db-b859-49e0-84eb-7366de917193
 variantId : 1969a94e-97ea-4468-8aa2-43150ecd7ec7
-groupId : 없음
+groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 유형 : 물증
 단계 : 시작 지급 (베일라)
 소모AP : 0
@@ -76,7 +76,7 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small unregistered handgun tucked inside the lining of a worn leather bag. Cold, dim lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 시작 지급
+단서 그룹 : 베일라에 대하여
 파일명 : 02_베일라_호신용_권총
 
 
@@ -84,7 +84,7 @@ HTML :
 이름 : 정부 기밀 수사 영장
 clueId : b4bf9dc4-109d-4e47-b70a-26fe726de207
 variantId : 5826d3d4-89e0-4c24-a5dd-b7a8f89fb0e1
-groupId : 없음
+groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 유형 : 물증
 단계 : 시작 지급 (마커스)
 소모AP : 0
@@ -108,7 +108,7 @@ HTML :
   <div><span class="emphasis">프로메테우스 연구소</span>의 강제 폐쇄 및 실종된 조수 <span class="character-alex">알렉스</span>의 행방 조사를 허가하는 법적 영장이다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an official government warrant document with an embossed seal, held in a hand. Cold fluorescent lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 시작 지급
+단서 그룹 : 마커스에 대하여
 파일명 : 03_마커스_수사_영장
 
 
@@ -116,7 +116,7 @@ HTML :
 이름 : 정부 수사관 제식 권총
 clueId : 485fe233-5cad-4702-b01a-2bab76fdd8a2
 variantId : f45f1b4c-47b9-4317-89c7-442f3a812540
-groupId : 없음
+groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 유형 : 물증
 단계 : 시작 지급 (마커스)
 소모AP : 0
@@ -140,7 +140,7 @@ HTML :
   <div>수사관에게 공적으로 지급되는 은빛 제식 권총이다. 재킷 안쪽 홀스터에 고정되어 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a silver standard-issue government pistol holstered inside a jacket. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
-단서 그룹 : 시작 지급
+단서 그룹 : 마커스에 대하여
 파일명 : 04_마커스_제식_권총
 
 
