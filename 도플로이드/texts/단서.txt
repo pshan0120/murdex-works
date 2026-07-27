@@ -101,7 +101,7 @@ groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
-의도 : 마커스의 합법적 신분과 수사 권한을 입증.
+의도 : 마커스가 클레이 앞에서 내세우는 수사 권한의 근거. 실제로는 마커스 본인이 위조한 문서이며(역할_2_마커스.txt의 비밀 "위조된 영장" 참고), 이 사실은 여기서 드러내지 않고 겉보기에는 완전한 정식 영장으로 제시됨.
 내용 :
 프로메테우스 연구소의 강제 폐쇄 및 실종된 조수 알렉스의 행방 조사를 허가하는 법적 영장이다.
 HTML :
@@ -188,7 +188,7 @@ HTML :
 이름 : 마커스에 대하여#1
 clueId : 424d5b63-103a-4ae5-8817-d5e7bf557bd4
 variantId : 13281e46-1984-47bc-9b90-49b0b7e35bb8
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133496/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_n29dnp.jpg
 groupId : a1111111-1111-4111-a111-111111111111
 유형 : 관찰
 단계 : A구역
@@ -224,7 +224,7 @@ HTML :
 이름 : 베일라에 대하여#1
 clueId : 24449132-5c75-4d85-9b5e-001ccc661747
 variantId : 1f923adc-bb8a-42bd-83e0-b26e31c5510f
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133466/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_qmngup.jpg
 groupId : a1111111-1111-4111-a111-111111111111
 유형 : 관찰
 단계 : A구역
@@ -257,7 +257,7 @@ HTML :
 이름 : 소장실#1
 clueId : 4779f52d-da2e-4e14-aeaf-bfac40355c39
 variantId : 053ce8e0-1657-40bf-aa99-a10eec14fc56
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958838/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ql7pcg.jpg
 groupId : a1111111-1111-4111-a111-111111111111
 유형 : 물증
 단계 : A구역
@@ -292,7 +292,7 @@ HTML :
 이름 : 소장실#2
 clueId : 6b407e94-3185-40f5-bfc4-f68a500a398e
 variantId : fd5fb1ba-c6a5-4d5a-84ec-32f69c059dd7
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958838/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ql7pcg.jpg
 groupId : a1111111-1111-4111-a111-111111111111
 유형 : 물증
 단계 : A구역
@@ -309,13 +309,13 @@ groupId : a1111111-1111-4111-a111-111111111111
 관련 : 마커스
 의도 : 마커스가 사적인 원한으로 진짜 클레이 소장을 파멸시키겠다고 살해 협박을 가했음을 입증.
 내용 :
-08:30경 소장실 개인 통화 장치에 기록된 음성 파일. 한 남성의 분노에 찬 목소리: "내 가족을 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운 실험을 세상에 까발려 파멸시키겠습니다."
+08:30경 소장실 개인 통화 장치에 기록된 음성 메시지. 한 남성의 분노에 찬 목소리: "내 가족을 어떻게 한 겁니까? 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."
 HTML :
 <div class="story-content">
-  <div class="script-direction">08:30경 <span class="emphasis">소장실</span> 개인 통화 장치에 기록된 음성 파일이다.</div>
+  <div class="script-direction">08:30경 <span class="emphasis">소장실</span> 개인 통화 장치에 기록된, 응답 없는 전화에 남겨진 음성 메시지다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"내 가족을 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운 실험을 세상에 까발려 파멸시키겠습니다."</div>
+    <div class="document-body small">"내 가족을 어떻게 한 겁니까? 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old answering machine with a blinking red recording light on a dark office desk. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -327,7 +327,7 @@ HTML :
 이름 : 소장실#3
 clueId : 6aa98f8d-7c13-469b-aefb-fd70242e41cc
 variantId : a6e45541-229b-4326-98eb-dc0f438bb0dd
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958544/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ev3dpf.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958838/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_ql7pcg.jpg
 groupId : a1111111-1111-4111-a111-111111111111
 유형 : 물증
 단계 : A구역
@@ -397,7 +397,7 @@ HTML :
 이름 : 마커스에 대하여#2
 clueId : bf40a01b-38a5-40de-b5d4-9f109ab25294
 variantId : eceabb5e-aefe-41dc-8d0f-8bb72d8c8aa1
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133496/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_n29dnp.jpg
 groupId : c3333333-3333-4333-c333-333333333333
 유형 : 관찰
 단계 : C구역
@@ -430,7 +430,7 @@ HTML :
 이름 : 비밀 병실#1
 clueId : c0be4bc1-17bc-497d-8377-8f498faecc3b
 variantId : c6ca4c3e-2946-4c6a-a09d-214e4edad4fa
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958939/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_zaor94.jpg
 groupId : c3333333-3333-4333-c333-333333333333
 유형 : 관찰
 단계 : C구역
@@ -463,7 +463,7 @@ HTML :
 이름 : 비밀 병실#2
 clueId : f9d1a1c3-96c7-4760-be85-3617f0a046e8
 variantId : cd82f4b9-5d2e-4159-a601-896bab92ea89
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958939/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_zaor94.jpg
 groupId : c3333333-3333-4333-c333-333333333333
 유형 : 물증
 단계 : C구역
@@ -498,7 +498,7 @@ HTML :
 이름 : 비밀 병실#3
 clueId : 427fbcaa-c489-446e-ae36-dd9af8cbc237
 variantId : 454a832a-815b-46a2-a241-331f83b624f2
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958939/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_zaor94.jpg
 groupId : c3333333-3333-4333-c333-333333333333
 유형 : 물증
 단계 : C구역
@@ -533,7 +533,7 @@ HTML :
 이름 : 비밀 병실#4
 clueId : cdd58a62-43ed-4f43-9224-33f8d0a0e0f2
 variantId : a4da6a69-00a7-49f9-be80-47f5013665df
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958863/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_er2h04.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958939/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_zaor94.jpg
 groupId : c3333333-3333-4333-c333-333333333333
 유형 : 물증
 단계 : C구역
@@ -568,7 +568,7 @@ HTML :
 이름 : 베일라에 대하여#2
 clueId : f448a755-edcc-49d3-9274-5309b74c8325
 variantId : 0257e6e4-481c-4438-81bd-28563f26e55a
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1785133466/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_qmngup.jpg
 groupId : b2222222-2222-4222-b222-222222222222
 유형 : 관찰
 단계 : B구역
@@ -601,7 +601,7 @@ HTML :
 이름 : 서쪽 환기구#1
 clueId : 9abd0978-7c45-4be9-8bf1-280665709671
 variantId : 4e76efaf-01c0-4ab2-8ec2-0c2f3470b1c3
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959013/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_phjrcv.jpg
 groupId : b2222222-2222-4222-b222-222222222222
 유형 : 물증
 단계 : B구역
@@ -636,7 +636,7 @@ HTML :
 이름 : 서쪽 환기구#2
 clueId : 48f8cafb-0025-4050-81b0-8d2552af1fcc
 variantId : 3f2d48a3-8550-4e2b-b6ae-70210a4d80ba
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959013/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_phjrcv.jpg
 groupId : b2222222-2222-4222-b222-222222222222
 유형 : 물증
 단계 : B구역
@@ -672,7 +672,7 @@ HTML :
 이름 : 기록 보관실#1
 clueId : 4e304cda-0c9c-4ff2-add4-f15fa5a6e68c
 variantId : 59fec3cf-8014-462c-884a-ec6960ceff31
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958990/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_kmj6jh.jpg
 groupId : b2222222-2222-4222-b222-222222222222
 유형 : 물증
 단계 : B구역
@@ -705,7 +705,7 @@ HTML :
 이름 : 기록 보관실#2
 clueId : 1934238f-1376-4b27-a907-830a161ba71e
 variantId : 6f59601a-f1db-4ef0-8c69-a997d30a2b22
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958990/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_kmj6jh.jpg
 groupId : b2222222-2222-4222-b222-222222222222
 유형 : 물증
 단계 : B구역
@@ -738,7 +738,7 @@ HTML :
 이름 : 기록 보관실#3
 clueId : 0ea24b8d-0b61-4a72-ba36-0dc715aee466
 variantId : 9fdec1de-4be5-4cbb-b93d-88c64a1c0e21
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958972/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_gaztoo.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784958990/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_kmj6jh.jpg
 groupId : b2222222-2222-4222-b222-222222222222
 유형 : 관찰
 단계 : B구역
@@ -771,7 +771,7 @@ HTML :
 이름 : 폐기물 소각장#1
 clueId : 73c3502f-79c1-4744-b9ff-8a46b525d5ba
 variantId : ca751a35-1623-49c3-8df4-89111ff5f4ed
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959074/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_jbb77o.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1784959032/murdex/images/clue_group/c6047a2e-222c-4f0e-b031-f639619888c0/file_o6dcrb.jpg
 groupId : d4444444-4444-4444-d444-444444444444
 유형 : 물증
 단계 : D구역
