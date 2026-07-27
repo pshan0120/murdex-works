@@ -300,13 +300,13 @@ groupId : b858e384-022a-406f-919b-f630c9d2254c
 관련 : 마커스
 의도 : 마커스가 사적인 원한으로 진짜 클레이 소장을 파멸시키겠다고 살해 협박을 가했음을 입증.
 내용 :
-08:30경 소장실 개인 통화 장치에 기록된 음성 파일. 한 남성의 분노에 찬 목소리: "내 누나 알렉스를 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운 실험을 세상에 까발려 파멸시키겠습니다."
+08:30경 소장실 개인 통화 장치에 기록된 음성 파일. 한 남성의 분노에 찬 목소리: "내 가족을 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운 실험을 세상에 까발려 파멸시키겠습니다."
 HTML :
 <div class="story-content">
   <div class="script-direction">08:30경 <span class="emphasis">소장실</span> 개인 통화 장치에 기록된 음성 파일이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"내 누나 <span class="character-alex">알렉스</span>를 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운 실험을 세상에 까발려 파멸시키겠습니다."</div>
+    <div class="document-body small">"내 가족을 어떻게 한 겁니까? 당장 진실을 내놓지 않으면 당신의 더러운 실험을 세상에 까발려 파멸시키겠습니다."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old answering machine with a blinking red recording light on a dark office desk. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -498,15 +498,15 @@ groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 누나의 슬픈 희생 이유와 마커스 집안에 치명적인 유전병이 흐르고 있음을 닥터 클레이의 글을 통해 입증.
+의도 : 조수 알렉스가 가문의 유전병을 앓는 가족을 위해 위험한 연구에 스스로 헌신했음을 밝힘. 이 유전병의 증상(손끝 떨림·무감각)이 마커스에게서 관찰되는 증상과 일치한다는 것, 그리고 그 가족이 마커스 본인이라는 사실은 여기서 직접 언급하지 않음 — 플레이어가 clue_06/13(마커스 관찰)과 스스로 교차 확인해야 하는 추리 요소로 남겨둠.
 내용 :
-"조수 알렉스의 남동생 마커스가 누나의 실종에 원한을 품고 수사를 자처해 들어오고 있다. 하지만 녀석은 정작 자신의 누나가 말초 신경 괴사와 뇌 붕괴로 이어지는 가문의 남성 대물림 유전병으로부터 동생 마커스를 살리기 위해 내 복제 및 치료 연구 조수로 자진 헌신했다는 사실은 전혀 모르고 있다. 녀석의 병이 도지기 전에 치료법을 완성해야 할 텐데..."
+"조수 알렉스가 유독 위험한 실험도 마다하지 않던 이유를, 나는 뒤늦게야 알게 되었다. 그녀의 집안에는 말초 신경 괴사와 뇌 붕괴로 이어지는 유전병이 대물림되고 있었다. 자신이 아니라 하나뿐인 가족을 살리기 위해, 이 위험한 연구에 스스로 뛰어든 것이었다. 진작 알았더라면... 그 병이 도지기 전에 치료법을 완성해야 할 텐데."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">비밀 병실</span> 컴퓨터 데이터베이스에서 발견한 일지 기록이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"조수 <span class="character-alex">알렉스</span>의 남동생 <span class="character-marcus">마커스</span>가 누나의 실종에 원한을 품고 수사를 자처해 들어오고 있다. 하지만 녀석은 정작 자신의 누나가 말초 신경 괴사와 뇌 붕괴로 이어지는 가문의 남성 대물림 유전병으로부터 동생 <span class="character-marcus">마커스</span>를 살리기 위해 내 복제 및 치료 연구 조수로 자진 헌신했다는 사실은 전혀 모르고 있다. 녀석의 병이 도지기 전에 치료법을 완성해야 할 텐데..."</div>
+    <div class="document-body small">"조수 <span class="character-alex">알렉스</span>가 유독 위험한 실험도 마다하지 않던 이유를, 나는 뒤늦게야 알게 되었다. 그녀의 집안에는 말초 신경 괴사와 뇌 붕괴로 이어지는 유전병이 대물림되고 있었다. 자신이 아니라 하나뿐인 가족을 살리기 위해, 이 위험한 연구에 스스로 뛰어든 것이었다. 진작 알았더라면... 그 병이 도지기 전에 치료법을 완성해야 할 텐데."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old computer terminal screen in a dim medical room, displaying a scrolling log entry. Cold glowing screen light. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -532,15 +532,15 @@ groupId : 63f6ca68-3c48-46a0-8236-1089edc46b64
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 베일라가 진짜 수사 목적이 아니라 사라진 연인(알렉스)을 되찾기 위해 접근했다는 사적 동기를 폭로.
+의도 : 추방된 AIex가 기억을 잃은 채 외부에서 생존해 있으며, 이곳으로 되돌아올 가능성이 있음을 암시. 이 개체가 베일라의 연인이라는 사실은 여기서 직접 명시하지 않고, clue_18(사진 속 인상)·clue_20(반지 이니셜)과의 교차 확인을 통해 플레이어가 스스로 추리하도록 설계.
 내용 :
-"추방된 AIex가 외부에서 기억을 잃은 채 '베일라'라는 여자 수사관과 밀접한 연인 관계를 맺고 살고 있다는 첩보를 입수했다. 그녀가 수사관 신분으로 연구소에 집착하는 진짜 목적은 복제 인간을 나에게서 되찾으려는 사적 동기인가?"
+"추방된 AIex가 이후 기억을 잃은 채 외부에서 살아가고 있다는 첩보를 입수했다. 완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">비밀 병실</span> 단말기에 백업되어 있던 정보원의 첩보 파일이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"추방된 <span class="character-alex">AIex</span>가 외부에서 기억을 잃은 채 '<span class="character-veyla">베일라</span>'라는 여자 수사관과 밀접한 연인 관계를 맺고 살고 있다는 첩보를 입수했다. 그녀가 수사관 신분으로 연구소에 집착하는 진짜 목적은 복제 인간을 나에게서 되찾으려는 사적 동기인가?"</div>
+    <div class="document-body small">"추방된 <span class="character-alex">AIex</span>가 이후 기억을 잃은 채 외부에서 살아가고 있다는 첩보를 입수했다. 완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a backup terminal screen showing a surveillance report with a blurred photograph thumbnail. Cold glowing screen light in a dim medical room. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -799,15 +799,15 @@ groupId : 414ea2f2-d32d-4ba0-927d-c6a2a5b5badb
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 마커스가 현재 겪는 손 떨림과 손끝 마비 증세가 치명적인 유전병의 시작이며, 누나가 자신을 위해 목숨을 건 헌신을 했음을 폭로하는 최종 스모킹 건.
+의도 : 알렉스가 앓던 가문 유전병의 구체적인 증상(손끝 떨림·무감각·뇌세포 파괴)과, 가족을 위한 희생이었음을 밝히는 최종 스모킹 건. 이 "동생"이 마커스라는 사실은 이름으로 확정하지 않고, 플레이어가 clue_06/13에서 관찰한 마커스의 증상과 직접 교차 확인해야 결론에 도달하도록 설계.
 내용 :
-"정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 클레이 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 남동생 마커스에게 나타날 유전병의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 급속도의 뇌세포 파괴와 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."
+"정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 클레이 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 하나뿐인 동생에게 나타날 유전병의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 급속도의 뇌세포 파괴와 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span>에서 발견한 조수 <span class="character-alex">알렉스</span>의 비밀 일지다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 <span class="character-clay">클레이</span> 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 남동생 <span class="character-marcus">마커스</span>에게 나타날 유전병의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 급속도의 뇌세포 파괴와 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."</div>
+    <div class="document-body small">"정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 <span class="character-clay">클레이</span> 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 하나뿐인 동생에게 나타날 유전병의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 급속도의 뇌세포 파괴와 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a personal diary open on a lab bench, handwritten in a woman's hand, next to glowing incubation equipment in the background. Cold cyan lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
