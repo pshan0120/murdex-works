@@ -103,12 +103,12 @@ groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 관련 : 마커스
 의도 : 마커스가 클레이 앞에서 내세우는 수사 권한의 근거. 실제로는 마커스 본인이 위조한 문서이며(역할_2_마커스.txt의 비밀 "위조된 영장" 참고), 이 사실은 여기서 드러내지 않고 겉보기에는 완전한 정식 영장으로 제시됨.
 내용 :
-프로메테우스 연구소의 강제 폐쇄 및 실종된 조수 알렉스의 행방 조사를 허가하는 법적 영장이다.
+프로메테우스 연구소의 불법 생체공학 연구 혐의에 대한 사전 조사를 허가하는 법적 영장이다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">소장의 행방과 연구소 강제 폐쇄 조사를 허가하는 법적 수사 영장이다.</div>
+  <div class="script-direction">연구소의 불법 연구 혐의에 대한 사전 조사를 허가하는 법적 수사 영장이다.</div>
   <div class="divider"></div>
-  <div><span class="emphasis">프로메테우스 연구소</span>의 강제 폐쇄 및 실종된 조수 <span class="character-alex">알렉스</span>의 행방 조사를 허가하는 법적 영장이다.</div>
+  <div><span class="emphasis">프로메테우스 연구소</span>의 불법 생체공학 연구 혐의에 대한 사전 조사를 허가하는 법적 영장이다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an official government warrant document with an embossed seal, held in a hand. Cold fluorescent lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 마커스에 대하여
@@ -199,7 +199,12 @@ groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 :
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 베일라가 마커스의 오른손 떨림을 목격하고 위화감을 느끼게 만듦.
+내용 :
 마커스의 오른손 끝이 미세하게 떨리며 서류를 만지작거리는 모습이 관찰되었다.
 HTML :
 <div class="story-content">
@@ -230,7 +235,12 @@ groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 :
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 마커스가 베일라의 행색을 보고 09:10에 경보를 울린 무단 침입자라는 의심을 하게 만듦.
+내용 :
 베일라의 남색 코트 밑단과 구두 틈새에 검은색 기름때, 축축한 흙먼지, 그리고 환기구 거미줄 흔적이 묻어 있었다.
 HTML :
 <div class="story-content">
@@ -398,7 +408,12 @@ groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 :
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 베일라가 마커스의 무장 상태를 목격하고 경계심을 품게 만듦.
+내용 :
 마커스가 데스크 위 서류를 살펴보려 몸을 기울이는 순간, 재킷 안쪽 홀스터에 고정된 은빛 제식 권총이 옷깃 사이로 드러났다.
 HTML :
 <div class="story-content">
@@ -533,7 +548,7 @@ groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 추방된 AIex가 기억을 잃은 채 외부에서 생존해 있으며, 이곳으로 되돌아올 가능성이 있음을 암시. 이 개체가 베일라의 연인이라는 사실은 여기서 직접 명시하지 않고, clue_18(사진 속 인상)·clue_20(반지 이니셜)과의 교차 확인을 통해 플레이어가 스스로 추리하도록 설계.
+의도 : 추방된 AIex가 기억을 잃은 채 외부에서 생존해 있으며, 이곳으로 되돌아올 가능성이 있음을 암시. 이 개체가 베일라의 연인이라는 사실은 여기서 직접 명시하지 않고, clue_20(반지 이니셜)과 단계_5의 기시감 장면과의 교차 확인을 통해 플레이어가 스스로 추리하도록 설계.
 내용 :
 "추방된 AIex가 이후 기억을 잃은 채 외부에서 살아가고 있다는 첩보를 입수했다. 완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."
 HTML :
@@ -564,7 +579,12 @@ groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 :
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 마커스가 베일라의 총기 소지 사실을 목격하고 경계심을 품게 만듦.
+내용 :
 베일라가 가방을 열었을 때, 가방 안쪽에 민간인 소지가 금지된 어두운 빛깔의 소형 호신용 권총이 들어 있는 것이 목격되었다.
 HTML :
 <div class="story-content">
@@ -922,3 +942,67 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a worn, tear-stained journal page, ink smudged in places, resting near the base of a large incubation capsule. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : D구역
 파일명 : 28_클레이_옛일지_그날의기록
+
+
+[clue_29]
+이름 : 마커스에 대하여#3
+clueId : d4b57548-d2df-4abd-ab1b-9d79d02b4cdc
+variantId : 7717b9ea-5e4c-4829-902a-c1fd0ca2dbb7
+groupId : cc0b1119-375e-4630-bcc1-4befb0681256
+유형 : 관찰
+단계 : D구역
+소모AP : 0
+정렬순서 : 815
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : A구역에서부터 품고 있던 위화감을, D구역에 이르러 사설 정보망으로 직접 확인하게 되는 발각 경로. (역할_2_마커스.txt의 "위조된 영장" 비밀이 드러남)
+내용 :
+A구역에서 마커스가 클레이에게 영장을 들이밀던 순간부터, 직인 잉크의 번짐과 종이 질감이 어딘가 께름칙했다. 하지만 그때는 확신할 수 없었다. D구역에 이르러 잠시 숨 돌릴 틈이 생기자, 당신은 오랜 정보망을 통해 영장의 발급 번호를 조회해보았다. 돌아온 답은 명확했다 — 그런 번호는 존재하지 않는다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">A구역에서부터 품고 있던 의문을, D구역에서 직접 확인해본 결과다.</div>
+  <div class="divider"></div>
+  <div>A구역에서 <span class="character-marcus">마커스</span>가 <span class="character-clay">클레이</span>에게 영장을 들이밀던 순간부터, 직인 잉크의 번짐과 종이 질감이 어딘가 께름칙했다. 하지만 그때는 확신할 수 없었다. D구역에 이르러 잠시 숨 돌릴 틈이 생기자, 당신은 오랜 정보망을 통해 영장의 발급 번호를 조회해보았다. 돌아온 답은 명확했다 — 그런 번호는 존재하지 않는다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an official-looking warrant document held up for inspection, subtle imperfections in the ink seal and paper texture visible under close scrutiny. Cold office lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+단서 그룹 : 마커스에 대하여
+파일명 : 29_마커스_위조영장_감식
+
+
+[clue_30]
+이름 : 베일라에 대하여#3
+clueId : c9b32e01-17c7-40b1-8345-7f3c22bb3c5b
+variantId : 6a3393a0-603d-4c60-9908-85aed828003e
+groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
+유형 : 관찰
+단계 : D구역
+소모AP : 0
+정렬순서 : 820
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 마커스가 FBI 본부의 질책 전화를 받다가, CIA에는 이 사건에 파견된 요원이 없다는 사실을 우연히 듣게 되어 베일라의 신분 사칭을 의심하게 만듦. (역할_1_베일라.txt의 "CIA 사칭" 비밀이 드러나는 발각 경로)
+내용 :
+D구역에 들어설 즈음, 휴대폰으로 낯익은 번호가 걸려 왔다. FBI 본부였다. 독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상대는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 이 건으로 파견된 요원은 아예 없다더군. 거긴 대체 누구지?"
+HTML :
+<div class="story-content">
+  <div class="script-direction">D구역에 들어설 즈음, 휴대폰으로 걸려 온 FBI 본부와의 통화 내용이다.</div>
+  <div class="divider"></div>
+  <div>독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상대는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 이 건으로 파견된 요원은 아예 없다더군. 거긴 대체 누구지?"</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old-style mobile phone held to an ear, tense grip, dim investigation-room background. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+단서 그룹 : 베일라에 대하여
+파일명 : 30_베일라_CIA_사칭_발각

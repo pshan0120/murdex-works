@@ -2,7 +2,7 @@ StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
 RoleID : 2f2f9e71-20fe-44c1-a5d8-4e9bbde6a176
 
 1. 역할 이름
-사립탐정
+CIA 요원
 
 2. 캐릭터 이름
 베일라
@@ -11,7 +11,7 @@ RoleID : 2f2f9e71-20fe-44c1-a5d8-4e9bbde6a176
 1
 
 4. 역할 요약
-잃어버린 과거의 퍼즐을 쫓는 직관적인 탐정
+잃어버린 과거의 퍼즐을 쫓는 직관적인 요원
 
 이미지생성용 프롬프트: Extreme close-up half-body portrait of a sharp-eyed woman in her mid-20s, wearing a functional navy coat, hair slightly disheveled, an unwavering intense gaze. A worn leather bag hangs over one shoulder. She stands in a dim corporate hallway. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes overhead, a faint warm rose-pink glow bleeding in from an unseen source at the edge of frame. Restrained, observational composition, subtle film grain and analog imperfections. Wide horizontal cinematic aspect ratio, 16:9.
 
@@ -21,7 +21,7 @@ RoleID : 2f2f9e71-20fe-44c1-a5d8-4e9bbde6a176
 6. 공개 정보
 <div class="story-content">
   <ul>
-    <li><strong>역할</strong>: 개인적인 사연을 안고 <span class="emphasis">프로메테우스 연구소</span>까지 당도한 사립탐정</li>
+    <li><strong>역할</strong>: 개인적인 사연을 안고 <span class="emphasis">프로메테우스 연구소</span>까지 당도한 CIA 요원</li>
     <li><strong>나이</strong>: 26세</li>
     <li><strong>성별</strong>: 여성</li>
     <li><strong>외견</strong>: 기능적이고 단정한 남색 코트, 낡았지만 잘 관리된 가죽 가방, 흔들림 없는 날카로운 눈빛</li>
@@ -34,12 +34,12 @@ RoleID : 2f2f9e71-20fe-44c1-a5d8-4e9bbde6a176
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
-      <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹과 재정 악화로 오늘 정부로부터 강제 폐쇄 통보를 받았습니다.</p>
+      <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹과 재정 악화로 얼마 전 정부로부터 강제 폐쇄 통보를 받았습니다. 그리고 오늘, 그 폐쇄가 집행됩니다.</p>
       <p>그리고 오전 <span class="emphasis">11:00</span>, 서로 다른 목적을 가진 두 사람이 이곳 정문에서 우연히 마주칩니다.</p>
     </div>
     <ul class="info-list">
       <li>
-        <strong><span class="emphasis">프로메테우스 연구소</span></strong>: 버려진 폐건물을 개조한 <span class="character-clay">닥터 클레이</span>의 사설 연구소. 정확히 무슨 연구를 해왔는지는 외부에 거의 알려지지 않았으나, 오늘 정부로부터 강제 폐쇄 통보를 받은 상태입니다.
+        <strong><span class="emphasis">프로메테우스 연구소</span></strong>: 버려진 폐건물을 개조한 <span class="character-clay">닥터 클레이</span>의 사설 연구소. 정확히 무슨 연구를 해왔는지는 외부에 거의 알려지지 않았으나, 얼마 전 정부로부터 강제 폐쇄 통보를 받아 오늘 그 폐쇄가 집행되는 상태입니다.
       </li>
       <li><strong>이 시대의 생명공학</strong>: 안드로이드가 보편화된 세상이지만, 생체공학으로 살아있는 인간 조직을 다루는 연구는 극소수 기업과 정부만이 엄격한 허가 아래 취급하는 민감한 영역이다. 무허가로 이를 손대는 것은 중범죄로 취급된다.</li>
       <li>
@@ -48,20 +48,14 @@ RoleID : 2f2f9e71-20fe-44c1-a5d8-4e9bbde6a176
     </ul>
   </section>
   <section class="content-section">
-    <div class="section-title">특징</div>
-    <ul class="info-list">
-      <li><strong>탐정의 수완</strong>: 오랜 경력으로 쌓아온 사설 정보망과 보안 시스템 해킹 능력을 갖추고 있습니다.</li>
-    </ul>
-  </section>
-  <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
-    <p>당신은 한 번 사건을 맡으면 끝을 볼 때까지 물러서지 않는 집요함으로 이 바닥에서 이름을 알린 사립탐정이다. 인적 없는 뒷골목이든 폐쇄된 서버실이든, 원하는 답을 찾을 때까지 파고드는 것이 당신의 방식이었다.</p>
+    <p>당신의 진짜 정체는 CIA 요원이 아니라 사립탐정이다. 한 번 의뢰를 맡으면 끝을 볼 때까지 물러서지 않는 집요함으로 이 바닥에서 제법 이름을 알렸다. 험한 뒷골목 탐문부터 며칠 밤을 지새우는 잠복까지, 조그만 실마리 하나라도 원하는 답을 찾을 때까지 끈질기게 파고드는 것이 당신의 방식이었다.</p>
     <p>몇 해 전, 당신은 도심 외곽의 허름한 모텔에서 기억을 잃고 떠돌던 한 남자를 만났다. 이름도 과거도 없이 오직 눈빛만은 선명했던 그 남자에게 당신은 자신도 모르게 끌렸다. 둘은 자연스럽게 서로에게 스며들었고, 얼마 지나지 않아 그는 당신에게 청혼했다. 그의 이름은 <span class="character-alex">알렉스</span> — 당신이 붙여준 이름이 아니라, 그 자신이 유일하게 확신할 수 있었던 단서인 왼쪽 가슴의 낯선 문신 '<span class="character-alex">AIex</span>'에서 따온 이름이었다.</p>
     <p><span class="character-alex">알렉스</span>는 대체로 다정하고 온화한 사람이었지만, 이따금 그 문신을 말없이 내려다보는 밤이면 낯선 얼굴이 되곤 했다. 자신이 누구였는지, 왜 아무 기억도 없이 세상에 던져졌는지 — 그 물음은 시간이 지날수록 그를 조금씩 갉아먹었다. 당신은 탐정의 감으로 그가 처음 발견됐다는 지역부터 훑기 시작했다. 모텔 근처를 오가던 트럭 기사와 주민들을 수소문한 끝에, 기억을 잃은 채 헤매던 그를 봤다는 목격담이 하나둘 모였다. 증언들을 겹쳐보니 그가 처음 나타난 지점은 하나같이 산속에 숨겨진 어느 폐건물 하나를 중심으로 반경 몇 킬로미터 안이었다. 그렇게 실마리는 폐허처럼 버려진 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'로 이어졌다.</p>
     <p>최근 몇 달 사이, <span class="character-alex">알렉스</span>의 집착은 눈에 띄게 깊어졌다. 자다가도 문신을 어루만지며 깨는 날이 잦아졌고, 당신 역시 그런 그가 걱정되어 맡은 의뢰를 전부 뒷전으로 미룬 채 오직 연구소의 정체를 캐는 데만 매달렸다. 동료들 사이에서는 "일은 그만두고 그 남자나 챙기라"는 뒷말까지 돌았지만, 당신은 개의치 않았다.</p>
     <p>그러던 어젯밤, 하필 그 연구소가 오늘 정부에 의해 강제 폐쇄된다는 소식이 날아들었다. 지금이 아니면 진실을 알 기회를 영영 놓칠지도 모른다는 조급함에 사로잡힌 <span class="character-alex">알렉스</span>는, 그날 밤 곧장 "내 과거의 진실을 확인하고 돌아오겠다"는 쪽지 한 장만을 남긴 채 홀로 연구소로 떠나버렸다.</p>
     <p>당신은 그가 돌아오기만을 가만히 기다릴 수 없었다. 오늘 아침 <span class="emphasis">09:10</span>경, 당신은 <span class="character-alex">알렉스</span>를 찾겠다는 일념으로 연구소 <span class="emphasis">서쪽 환기구</span> 하수망을 통해 몰래 잠입을 시도했다. 하지만 요란한 비상 사이렌이 울렸고, 셔터가 내려오는 소리에 경악한 당신은 황급히 숲속으로 도망쳐야 했다. 그 혼란 속에서 당신은 <span class="character-alex">알렉스</span>와 맞춘 약혼 반지를 환기구 바닥에 떨어뜨리고 말았다.</p>
-    <p>더는 숨어서 기다릴 수만은 없었다. 당신은 정문 앞 사각지대에 몸을 숨긴 채 기회를 엿보았다. 그러던 중, 낯선 남자 하나가 굳은 얼굴로 성큼성큼 정문을 향해 걸어오는 것이 보였다. 예사롭지 않은 분위기였다. 당신은 순간적으로 판단했다 — 저 사람을 따라 들어가면, 적어도 문턱은 넘을 수 있을 것이다. 당신은 자연스럽게 그의 뒤를 따라붙어 함께 정문을 통과했다. 이 연구소가 완전히 문을 닫기 전, 반드시 <span class="character-alex">알렉스</span>의 행방과 그가 쫓던 진실을 알아내야 했다.</p>
+    <p>더는 숨어서 기다릴 수만은 없었다. 당신은 정문 앞 사각지대에 몸을 숨긴 채 기회를 엿보았다. 그러던 중, 낯선 남자 하나가 굳은 얼굴로 성큼성큼 정문을 향해 걸어오는 것이 보였다. 예사롭지 않은 분위기였다. 당신은 순간적으로 판단했다 — 저 사람을 따라 들어가면, 적어도 문턱은 넘을 수 있을 것이다. 당신은 자연스럽게 그의 뒤를 따라붙어 함께 정문을 통과했다. 하지만 안으로 들어서며 그가 스스로를 FBI 수사관이라 밝히는 걸 엿듣는 순간, 문득 불안이 스쳤다 — 사립탐정이라는 신분만으로는 이 안에 오래 머물 수 없을 것이다. 당신은 그 자리에서 결심했다. 필요하다면 CIA 요원 행세를 해서라도, 이 자리에 남을 명분을 만들기로. 이 연구소가 완전히 문을 닫기 전, 반드시 <span class="character-alex">알렉스</span>의 행방과 그가 쫓던 진실을 알아내야 했다.</p>
   </section>
   <section class="content-section">
     <div class="section-title">타임라인</div>
@@ -71,12 +65,13 @@ RoleID : 2f2f9e71-20fe-44c1-a5d8-4e9bbde6a176
       <li><strong>09:10</strong>: 환기구로 무리하게 잠입을 시도하다 비상 경보 센서가 작동해 사이렌이 울림.</li>
       <li><strong>09:11</strong>: 사이렌 소리에 놀라 숲속으로 도주. 이 과정에서 <span class="character-alex">알렉스</span>와 맞췄던 약혼 반지를 떨어뜨림.</li>
       <li><strong>10:50</strong>: 정문 앞에서 잠복하던 중 마침 도착한 <span class="character-marcus">마커스</span>를 발견하고, 그의 뒤를 따라 자연스럽게 정문을 통과함.</li>
+      <li><strong>11:00</strong>: <span class="character-marcus">마커스</span>가 FBI 수사관임을 밝히는 걸 듣고, 순간적으로 자신도 CIA 요원이라 사칭하며 소장실에서 신분을 소개함.</li>
     </ul>
   </section>
   <section class="content-section">
     <div class="section-title">인물 관계</div>
     <p>
-      <strong><span class="character-marcus">마커스에 대해</span></strong>: 오늘 처음 만난 정부 수사관. 목적은 다르지만 이 연구소에 볼 일이 있다는 점은 같다. 필요하다면 정보를 주고받을 수 있겠지만, 아직은 서로 얼마나 믿어도 될지 알 수 없다.
+      <strong><span class="character-marcus">마커스에 대해</span></strong>: 오늘 처음 만난 FBI 수사관. 목적은 다르지만 이 연구소에 볼 일이 있다는 점은 같다. 필요하다면 정보를 주고받을 수 있겠지만, 아직은 서로 얼마나 믿어도 될지 알 수 없다.
     </p>
     <p>
       <strong><span class="character-clay">닥터 클레이</span>에 대해</strong>: <span class="character-alex">알렉스</span>가 쫓던 진실을 쥐고 있을 유일한 사람. 협조를 얻어내야 하지만, 이 연구소에서 벌어진 일을 생각하면 결코 순순히 믿을 수 없는 인물이다.
@@ -93,6 +88,7 @@ RoleID : 2f2f9e71-20fe-44c1-a5d8-4e9bbde6a176
   <ul>
     <li><strong>아침 09:10의 침입 시도</strong>: 당신이 오늘 아침 서쪽 환기구를 통해 무단으로 침입을 시도하다 경보를 울린 장본인이라는 사실. <span class="character-marcus">마커스</span>에게 들통나면, 이 연구소에 몰래 잠입하려 한 수상한 인물로 의심받기 시작할 수 있다.</li>
     <li><strong>가방 속의 불법 권총</strong>: 평소라면 챙기지 않았을 미등록 소형 호신용 권총을 오늘은 가방 속에 몰래 소지하고 있다는 사실. <span class="character-marcus">마커스</span>에게 들키면 위험인물로 오해받을 수 있다.</li>
+    <li><strong>CIA 사칭</strong>: 실은 정부 소속이 아닌 일개 사립탐정이면서, <span class="character-clay">닥터 클레이</span>와 <span class="character-marcus">마커스</span> 앞에서 CIA 요원 행세를 하고 있다는 사실. <span class="character-marcus">마커스</span>가 이 사실을 알게 되면, 신분 사칭이라는 중대한 범죄를 저지르고 있었음이 드러나 당신에 대한 신뢰가 완전히 무너질 수 있다.</li>
   </ul>
 </div>
 
@@ -104,6 +100,36 @@ RoleID : 2f2f9e71-20fe-44c1-a5d8-4e9bbde6a176
     <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
     <ul class="goal-list">
       <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+    </ul>
+  </section>
+</div>
+
+[A구역] (단계_3)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'마커스에 대하여#1' 단서가 자동으로 지급되었습니다. 내 단서함을 확인해 보세요. 이 단서는 다른 플레이어에게 보이지 않습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[C구역] (단계_5)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'마커스에 대하여#2' 단서가 자동으로 지급되었습니다. 내 단서함을 확인해 보세요. 이 단서는 다른 플레이어에게 보이지 않습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[D구역] (단계_6)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'마커스에 대하여#3' 단서가 자동으로 지급되었습니다. 내 단서함을 확인해 보세요. 이 단서는 다른 플레이어에게 보이지 않습니다.</li>
     </ul>
   </section>
 </div>
