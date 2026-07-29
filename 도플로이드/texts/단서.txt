@@ -280,7 +280,7 @@ HTML :
   <div class="script-direction"><span class="emphasis">소장실</span> 책상 서랍 안쪽에서 발견한 처방전이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">환자명 '소장 <span class="character-clay">클레이</span>' 명의로 처방된 특정 마약성 진통제 '<span class="emphasis">프로메돌</span>'의 처방전. 처방 사유는 '말기 뇌세포 괴사로 인한 극심한 격통 제어'.</div>
+    <div class="document-body small">환자명 '<span class="character-clay">클레이</span>' 명의로 처방된 특정 마약성 진통제 '<span class="emphasis">프로메돌</span>'의 처방전. 처방 사유는 '말기 뇌세포 괴사로 인한 극심한 격통 제어'.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a medical prescription slip inside a half-open desk drawer, next to a pill bottle. Cold office lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -309,13 +309,13 @@ groupId : 77d2aea4-6308-4e4b-8b7a-db66585f86f7
 관련 : 마커스
 의도 : 마커스가 사적인 원한으로 진짜 클레이 소장에게 경고성 메시지를 남겼음을 입증.
 내용 :
-08:30경 소장실 개인 통화 장치에 기록된 음성 메시지. 한 남성의 분노에 찬 목소리: "내 가족을 어떻게 한 겁니까? 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."
+08:30경 소장실 개인 통화 장치에 기록된 음성 메시지. 한 남성의 분노에 찬 목소리: "내 가족을 어떻게 한 겁니까? 영장은 받아왔습니다. 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."
 HTML :
 <div class="story-content">
   <div class="script-direction">08:30경 <span class="emphasis">소장실</span> 개인 통화 장치에 기록된, 응답 없는 전화에 남겨진 음성 메시지다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"내 가족을 어떻게 한 겁니까? 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."</div>
+    <div class="document-body small">"내 가족을 어떻게 한 겁니까? 영장은 받아왔습니다. 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old answering machine with a blinking red recording light on a dark office desk. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -548,20 +548,20 @@ groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 추방된 AIex가 기억을 잃은 채 외부에서 생존해 있으며, 이곳으로 되돌아올 가능성이 있음을 암시. 이 개체가 베일라의 연인이라는 사실은 여기서 직접 명시하지 않고, clue_20(반지 이니셜)과 단계_5의 기시감 장면과의 교차 확인을 통해 플레이어가 스스로 추리하도록 설계.
+의도 : 추방된 AIex가 기억을 잃은 채 외부에서 생존해 있으며, 이곳으로 되돌아올 가능성이 있음을 암시. 정보 출처는 외부 정보원이 아니라 배양 개체에게 관리 목적으로 심어둔 추적용 생체 칩(클레이 본인이 설치)으로 한정해, 이 연구의 존재를 아는 제3자가 있다는 모순을 피함. 이 개체가 베일라의 연인이라는 사실은 여기서 직접 명시하지 않고, clue_20(반지 이니셜)과 단계_5의 기시감 장면과의 교차 확인을 통해 플레이어가 스스로 추리하도록 설계.
 내용 :
-"추방된 AIex가 이후 기억을 잃은 채 외부에서 살아가고 있다는 첩보를 입수했다. 완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."
+"추방한 배양 개체에게 심어둔 추적용 생체 칩의 신호가, 오랜 소실 끝에 다시 미약하게 잡히기 시작했다. 완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="emphasis">비밀 병실</span> 단말기에 백업되어 있던 정보원의 첩보 파일이다.</div>
+  <div class="script-direction"><span class="emphasis">비밀 병실</span> 단말기에 남아 있던 추적 시스템 기록이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"추방된 <span class="character-alex">AIex</span>가 이후 기억을 잃은 채 외부에서 살아가고 있다는 첩보를 입수했다. 완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."</div>
+    <div class="document-body small">"추방한 배양 개체에게 심어둔 추적용 생체 칩의 신호가, 오랜 소실 끝에 다시 미약하게 잡히기 시작했다. 완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a backup terminal screen showing a surveillance report with a blurred photograph thumbnail. Cold glowing screen light in a dim medical room. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a backup terminal screen showing a faint bio-signal tracking readout, a pulsing waveform line and a small blinking coordinate marker. Cold glowing screen light in a dim medical room. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : C구역
-파일명 : 17_병실_정보원첩보
+파일명 : 17_병실_추적칩신호
 
 
 [clue_18]
@@ -689,12 +689,12 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 관련 : 공통
 의도 : 소장실의 처방전 단서(clue_09)와 매치되어, 이 죽은 시체가 뇌 괴사 질환을 앓던 '진짜 닥터 클레이 소장' 본인임을 최종 식별.
 내용 :
-기록 보관실 바닥에 목 졸려 죽어 있는 시체의 찢어진 겉옷 주머니에서 발견된 알약 통. 라벨에는 소장실 서랍 처방전에서 목격한 특정 마약성 진통제 '프로메돌'의 명칭이 선명하게 인쇄되어 있음.
+기록 보관실 바닥에 목 졸려 죽어 있는 시체의 찢어진 겉옷 주머니에서 발견된 알약 통. 라벨에는 '프로메돌'의 명칭이 선명하게 인쇄되어 있음.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">기록 보관실</span>에서 조사한 피해자 시신의 소지품이다.</div>
   <div class="divider"></div>
-  <div><span class="emphasis">기록 보관실</span> 바닥에 목 졸려 죽어 있는 시체의 찢어진 겉옷 주머니에서 발견된 알약 통. 라벨에는 <span class="emphasis">소장실</span> 서랍 처방전에서 목격한 특정 마약성 진통제 <span class="emphasis">'프로메돌'</span>의 명칭이 선명하게 인쇄되어 있음.</div>
+  <div><span class="emphasis">기록 보관실</span> 바닥에 목 졸려 죽어 있는 시체의 찢어진 겉옷 주머니에서 발견된 알약 통. 라벨에는 <span class="emphasis">'프로메돌'</span>의 명칭이 선명하게 인쇄되어 있음.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small pill bottle with a printed label, fallen from a torn coat pocket onto a cold floor. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : B구역
@@ -860,13 +860,13 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 관련 : 베일라
 의도 : 베일라의 연인 '알렉스'의 실체가 닥터 클레이의 복제본이었음을 확실히 입증. 베일라는 연인의 심장에 이 문신이 있었다는 기억을 기반으로 가짜 소장의 몸을 대조하게 됨. 동시에 클레이가 왜 하필 이 이름을 붙였는지를 짧은 한 줄로 드러냄.
 내용 :
-"배양 모델 ID: AIex. 개체 식별을 위해 왼쪽 심장 부근에 'AIex' 각인 전사 완료." 원래는 비어 있어야 할 비고란에 클레이가 직접 남긴 한 줄이 덧붙어 있다. "이 이름 말고는, 그 사람을 기억할 방법이 없었다."
+"배양 모델 ID: AIex. 개체 식별을 위해 왼쪽 심장 부근에 모델명 각인 완료." 원래는 비어 있어야 할 비고란에 클레이가 직접 남긴 한 줄이 덧붙어 있다. "이 이름 말고는, 그 사람을 기억할 방법이 없었다."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span> 단말기에서 추출한 프로젝트 배양 데이터 스캔 기록이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"배양 모델 ID: <span class="character-alex">AIex</span>. 개체 식별을 위해 왼쪽 심장 부근에 '<span class="character-alex">AIex</span>' 각인 전사 완료."</div>
+    <div class="document-body small">"배양 모델 ID: <span class="character-alex">AIex</span>. 개체 식별을 위해 왼쪽 심장 부근에 모델명 각인 완료."</div>
   </div>
   <div class="script-direction">원래는 비어 있어야 할 비고란에 <span class="character-clay">클레이</span>가 직접 남긴 한 줄이 덧붙어 있다. "이 이름 말고는, 그 사람을 기억할 방법이 없었다."</div>
   <div class="divider"></div>

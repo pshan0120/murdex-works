@@ -7,18 +7,21 @@
     <p>
       <strong>살인범 및 생존자의 정체:</strong> <span class="character-clay">닥터 클레이</span> 소장의 유전자로 창조된
       첫 번째 복제 인간 (기억을 잃었던
-      <span class="character-alex">알렉스</span>)
+      <span class="character-alex">AIex</span>)
     </p>
     <p>
       <strong>사건 개요:</strong> 시한부 뇌 괴사 질환을 앓던 <span class="character-clay">닥터 클레이</span> 소장은 인간
       복제 프로젝트를 강행했으나, 복제 인간이 원본을 마주치면 제어 칩
-      부작용으로 억누를 수 없는 살의가 폭주하는 치명적 결함을 낳았습니다. 사건 당일 이른 아침,
-      <span class="emphasis">소장실</span>에서 복제된 개체는 본능적인 살의 폭주로 진짜
-      <span class="character-clay">닥터 클레이</span>를 목 졸라 살해하고 <span class="emphasis">기록 보관실</span>에
-      유기한 뒤 소장 행세를 하고 있었습니다. 09:10경 <span class="emphasis">서쪽 환기구</span>를 통해 침입한
-      <span class="character-veyla">베일라</span>에 의해 1단계 비상 락다운이 발동되었으며, 11:00 수사 영장을 지닌
+      부작용으로 억누를 수 없는 살의가 폭주하는 치명적 결함을 낳았습니다. 사건 당일 08:00경,
+      <span class="character-clay">클레이</span>의 유전자를 물려받은 복제 개체가
+      <span class="emphasis">서쪽 환기구</span> 내부 게이트의 생체 인증을 그대로 통과해 아무런 경보도 없이 시설
+      내부로 숨어들었습니다. 이와는 별개로 09:10경 <span class="emphasis">서쪽 환기구</span> 외곽 센서를 넘으려던
+      <span class="character-veyla">베일라</span> 때문에 1단계 비상 락다운이 발동되었으며, 11:00 수사 영장을 지닌
       <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>가
-      <span class="emphasis">소장실</span>에 대면하면서 비극적인 조사극이 시작되었습니다.
+      <span class="emphasis">소장실</span>에서 진짜 <span class="character-clay">닥터 클레이</span>와 대면하면서
+      조사가 시작되었습니다. 11:10경 클레이는 홀로 <span class="emphasis">기록 보관실</span>로 자료를 가지러
+      갔다가 그곳에 숨어 있던 복제 개체와 처음으로 마주쳤고, 폭주한 살의에 목 졸려 살해당했습니다. 그 직후 복제
+      개체가 태연히 소장 행세를 하며 돌아오면서 비극적인 조사극이 본격적으로 시작되었습니다.
     </p>
   </div>
   <div class="section-title">2. 사건 당일 타임라인</div>
@@ -50,8 +53,8 @@
       <tr>
         <td>09:30 ~ 10:30</td>
         <td>
-          <span class="emphasis">소장실</span>에 남아 있던 복제 개체(생존 소장)가 제어
-          패널에서 락다운 발동을 확인하고, 앞서 교살해 유기해 둔 진짜 소장의 흔적을 은폐하며 수사관과의 대면을 준비함.
+          진짜 <span class="character-clay">클레이</span>는 락다운 발동을 확인하고 동요하면서도 애써 침착하게
+          수사관들과의 대면을 준비함. 한편 몰래 잠입한 복제 개체는 시설 내부 어딘가에 몸을 숨긴 채 움직이지 않음.
         </td>
       </tr>
       <tr>
@@ -59,14 +62,24 @@
         <td>
           <span class="emphasis">정문 로비</span>에서 <span class="character-marcus">마커스</span>와
           <span class="character-veyla">베일라</span>가 첫 대면. 두 사람은 함께 <span class="emphasis">소장실</span>로
-          입장하여 1차 대면 및 자기소개를 진행함.
+          입장하여 진짜 <span class="character-clay">클레이</span>와 1차 대면 및 자기소개를 진행함.
         </td>
       </tr>
       <tr>
-        <td>11:10 ~ 11:50</td>
+        <td>11:10</td>
         <td>
-          A, B, C구역 조사 진행. <span class="emphasis">소장실</span> 책상 서랍의 마약성 진통제 처방전, 보관실 단말기
-          메모, <span class="emphasis">비밀 병실</span>의 환자 모니터링 기록 및 첩보 파일이 순차적으로 발견됨.
+          <span class="character-clay">클레이</span>가 "<span class="emphasis">기록 보관실</span>에서 자료를
+          가져오겠다"며 홀로 자리를 뜸. 그곳에 숨어 있던 복제 개체와 처음 마주치는 순간 살의가 폭주해 목 졸려
+          살해당함.
+        </td>
+      </tr>
+      <tr>
+        <td>11:20 ~ 11:50</td>
+        <td>
+          기척이 없어 뒤따라간 <span class="character-marcus">마커스</span>와
+          <span class="character-veyla">베일라</span>가 시신과, 소장 행세를 하는 생존자(복제 개체)를 발견하며 본격적인
+          조사로 전환. A, B, C구역 조사 진행. <span class="emphasis">소장실</span> 책상 서랍의 마약성 진통제
+          처방전, <span class="emphasis">비밀 병실</span>의 환자 모니터링 기록 등이 순차적으로 발견됨.
         </td>
       </tr>
       <tr>
@@ -102,15 +115,19 @@
     <span class="character-veyla">베일라</span>는 그가 남긴 쪽지 한 장만을 든 채 연인을 구하기 위해 목숨을 걸고 연구소
     환기구로 침입했습니다.
   </p>
-  <div class="subsection-title">[이른 아침의 살의 폭주와 09:10의 경보]</div>
+  <div class="subsection-title">[숨어든 복제 개체와 11:10의 살의 폭주]</div>
   <p>
-    사건 당일 이른 아침, 비밀 구역에서 진짜 <span class="character-clay">닥터 클레이</span>와 마주친 복제 인간은 제어
-    칩 부작용으로 억누를 수 없는 살의가 폭주했습니다. 그는 진짜 소장을 목 졸라
-    살해한 뒤 시신을 <span class="emphasis">기록 보관실</span> 바닥에 유기했습니다. 09:10,
-    <span class="character-veyla">베일라</span>가 <span class="emphasis">서쪽 환기구</span>를 넘으려다
-    센서를 건드리면서 자동 1단계 락다운이 가동되자, 그는 이를 틈타 흔적을 마저 정리하고 자신이 진짜 소장인 양 연기하며
+    사건 당일 08:00, <span class="character-clay">클레이</span>의 유전자를 물려받은 복제 개체가
+    <span class="emphasis">서쪽 환기구</span> 내부 게이트의 생체 인증을 그대로 통과해 아무런 경보도 없이 시설
+    내부로 숨어들었습니다. 09:10, 이와는 별개로 외곽 센서를 건드린
+    <span class="character-veyla">베일라</span> 때문에 자동 1단계 락다운이 발동되었고, 진짜
+    <span class="character-clay">클레이</span>는 이 소동을 수습하며 11:00
     <span class="emphasis">정문 로비</span>로 찾아온 <span class="character-marcus">마커스</span>와
-    <span class="character-veyla">베일라</span>를 맞이했습니다.
+    <span class="character-veyla">베일라</span>를 직접 맞이했습니다. 두 사람과 함께 A구역을 살피던 그는
+    11:10경 "<span class="emphasis">기록 보관실</span>에서 자료를 가져오겠다"며 홀로 자리를 떴는데, 그곳에서 숨어
+    있던 복제 개체와 처음으로 마주치고 말았습니다. 제어 칩 부작용으로 억누를 수 없는 살의가 폭주한 복제 개체는
+    그를 목 졸라 살해했고, 이후 태연히 소장 행세를 하며 뒤따라온 <span class="character-marcus">마커스</span>와
+    <span class="character-veyla">베일라</span> 앞에 나타났습니다.
   </p>
   <div class="subsection-title">[비극적 엇갈림과 최후의 판단]</div>
   <p>
@@ -133,44 +150,73 @@
       증명합니다.
     </li>
     <li>
-      <strong><span class="emphasis">기록 보관실</span>#1 / #2 (손톱 밑 미세 잔해 &amp; 옷깃 상처)</strong>:
-      <span class="emphasis">기록 보관실</span> 시신의 손톱 밑 잔해와 살아있는 소장의 옷깃 상처가 일치하여, 생존자가
-      교살 사건의 당사자임을 나타냅니다.
+      <strong><span class="emphasis">기록 보관실</span>#1 (사체의 알약 통)</strong>: 라벨에 인쇄된 '프로메돌'이
+      <span class="emphasis">소장실</span>#1의 처방전과 일치하여, 보관실 바닥의 사체가 진짜
+      <span class="character-clay">클레이</span> 소장 본인임을 최종 식별합니다.
     </li>
     <li>
-      <strong
-        ><span class="emphasis">지하 배양실</span>#1 / #4 (배양 스캔 기록 &amp;
-        <span class="character-clay">클레이</span>의 연구 노고서)</strong>: 복제 인간이 원본을 마주치면 제어 칩 부작용으로 살의가 폭주한다는 비밀을 담은
-      핵심 물증입니다.
+      <strong><span class="emphasis">기록 보관실</span>#2 / #3 (손톱 밑 미세 잔해 &amp; 생존 소장의 옷깃 상처)</strong>:
+      사체의 손톱 밑 잔해와 살아있는 소장의 옷깃 상처가 일치하여, 생존자가 교살 사건의 당사자임을 나타냅니다.
+    </li>
+    <li>
+      <strong><span class="emphasis">일반 연구실</span>#1 (<span class="character-clay">클레이</span>의 연구 노트)</strong>:
+      복제 인간이 <span class="character-clay">클레이</span>의 유전자를 그대로 이어받아 생체 보안 시스템을 통과할 수
+      있다는 사실과, 자신의 창조물을 완성한 순간부터 이미 두려움을 느꼈던 <span class="character-clay">클레이</span>의
+      불안을 함께 드러냅니다.
+    </li>
+    <li>
+      <strong><span class="emphasis">폐기물 소각장</span>#1 (타다 만 문서)</strong>: 복제 인간이 원본과 마주치면 제어
+      칩 오류로 통제 불능의 살의가 폭주한다는, 사건의 근본 메커니즘을 밝히는 핵심 물증입니다.
+    </li>
+    <li>
+      <strong><span class="emphasis">지하 배양실</span>#2 (배양 데이터 스캔 기록)</strong>: 생존 소장의 정체가
+      '<span class="character-alex">AIex</span>'라는 이름으로 배양된 <span class="character-clay">클레이</span>의
+      복제 개체임을 확정합니다.
     </li>
   </ul>
   <div class="subsection-title">[2] 관찰 및 정황 단서</div>
   <ul>
     <li>
-      <strong
-        ><span class="emphasis">정문 로비</span>#2 &amp; <span class="emphasis">일반 연구실</span>#2 (<span
-          class="character-marcus">마커스</span>의 모습)</strong>: <span class="character-marcus">마커스</span>의 손끝 떨림과 오른손 마비 증세는 유전병이 심화되고 있음을
-      보여주며, 그가 이 수사에 자원한 진짜 동기를 대변합니다.
+      <strong>'<span class="character-marcus">마커스</span>에 대하여' #1 / #2 (<span class="character-marcus">마커스</span>의
+      모습)</strong>: <span class="character-marcus">마커스</span>의 오른손 끝 떨림은 유전병이 심화되고 있음을 보여주며,
+      그가 이 수사에 자원한 진짜 동기를 대변합니다.
     </li>
     <li>
-      <strong><span class="emphasis">보안 검색대</span>#1 (<span class="character-veyla">베일라</span>의 흔적)</strong>:
-      <span class="character-veyla">베일라</span>의 코트 밑단 기름때와 거미줄 흔적은 09:10 환기구 경보를 울린 무단
-      침입자가 그녀였음을 나타냅니다.
+      <strong>'<span class="character-veyla">베일라</span>에 대하여' #1 (<span class="character-veyla">베일라</span>의
+      흔적)</strong>: <span class="character-veyla">베일라</span>의 코트 밑단 기름때와 거미줄 흔적은 09:10 환기구
+      경보를 울린 무단 침입자가 그녀였음을 나타냅니다.
     </li>
     <li>
-      <strong
-        ><span class="emphasis">비밀 병실</span>#1 ~ #4 (환자 모니터링 &amp; 첩보 파일 &amp;
-        <span class="character-veyla">베일라</span> 소지품)</strong>: <span class="character-alex">알렉스</span>가 임상 치료를 받던 정황과
-      <span class="character-veyla">베일라</span>가 연인을 쫓아온 소지품 정황을 조명합니다.
+      <strong><span class="emphasis">비밀 병실</span>#2 / #3 (환자 모니터링 기록 &amp; 컴퓨터 일지)</strong>:
+      <span class="character-clay">클레이</span> 본인이 시한부 환자였다는 사실과, 조수
+      <span class="character-alex">알렉스</span>가 가문의 유전병을 앓는 가족을 위해 위험한 연구에 스스로 뛰어들었다는
+      정황을 조명합니다.
+    </li>
+    <li>
+      <strong><span class="emphasis">비밀 병실</span>#4 (추적 시스템 기록)</strong>: 추방했던 배양 개체의 생체 신호가
+      오랜 소실 끝에 다시 감지되기 시작했다는 <span class="character-clay">클레이</span>의 기록으로, 훗날 그 개체가
+      실제로 연구소에 돌아왔음을 뒷받침합니다.
+    </li>
+    <li>
+      <strong><span class="emphasis">지하 배양실</span>#1 / #3 / #4 (알렉스의 비밀 일지 &amp; 가동 흔적 &amp;
+      <span class="character-clay">클레이</span>의 옛 일지)</strong>: <span class="character-alex">알렉스</span>가 동생의
+      유전병 치료법을 찾아 이 연구소에 스스로 들어왔다는 사연과, 오래전 첫 복제 개체가 배양을 마치고 추방된 흔적, 그리고
+      그녀가 <span class="character-clay">클레이</span>의 연인이었으며 복제체의 첫 각성 당시 그를 지키다 희생되었다는
+      사실을 순서대로 드러냅니다.
     </li>
   </ul>
   <div class="divider"></div>
   <div class="section-title">5. 작가의 말</div>
   <p>안녕하세요, '<span class="emphasis">도플로이드</span>'를 집필한 작가입니다.</p>
   <p>
-    이번 작품은 차갑고 정적에 싸인 SF 연구소라는 공간 속에서, **'기억과 정체성, 그리고 엇갈린 감정'**이 만드는 비극에
+    이번 작품은 차갑고 정적에 싸인 연구소라는 공간 속에서, <span class="emphasis">'기억과 정체성, 그리고 엇갈린 감정'</span>이 만드는 비극에
     집중했습니다. 진짜와 가짜, 창조주와 피조물, 그리고 사랑했던 기억의 주인과 끔찍한 부작용을 안고 태어난 복제 인간
     사이에서 인간이 느낄 수 있는 실존적 혼란을 담아내고자 했습니다.
+  </p>
+  <p>
+    비주얼적으로는, 손전등 불빛에 의지해 정부의 은폐된 비밀을 파헤치던 90년대 미국 수사극 특유의 그 서늘하고
+    음습한 공기를 오마주하려 애썼습니다. 낡은 형광등이 깜빡이는 복도와 지지직거리는 무전기 소리가 여러분의
+    몰입에 조금이나마 힘을 보탰기를 바랍니다.
   </p>
   <p>
     <span class="character-veyla">베일라</span>와 <span class="character-marcus">마커스</span> 두 인물은 각자의 상처와
