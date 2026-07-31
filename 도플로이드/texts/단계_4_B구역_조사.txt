@@ -11,7 +11,7 @@ StepID : 13e7584c-3288-4155-95e3-ac20230ecf0a
 INVESTIGATION
 
 4. 예상 소요 시간
-20분
+10분
 
 5. 자동 진행 여부
 N
@@ -28,7 +28,7 @@ FBI 수사관 마커스 : 2
 8. 단계 설명
 
 <div class="story-content">
-  <div class="section-title">1. 기다림 속의 정적</div>
+  <div class="section-title">1. 대본 낭독</div>
   <p>
     흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된
     대사는 각자 자신의 역할 대사를 낭독합니다. (<span class="character-clay">클레이</span>의 대사는
@@ -52,11 +52,9 @@ FBI 수사관 마커스 : 2
       <span class="script-character"><span class="character-marcus">마커스</span></span>: "...소장이 나간 지 벌써 10분이 넘었군요."
     </div>
   </div>
-  <div class="section-title">2. 시체 발견</div>
   <p><span class="character-clay">클레이</span>가 소장실을 나서 복도 안쪽의 생체 인증 셔터를 열고 <span class="emphasis">B구역</span>으로 들어간 지 10분이 지나도 아무런 소식이 없자, 의구심을 품은 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>는 그 문을 향해 다가갔습니다. 그런데 문은 이미 열려 있었습니다. 그 틈으로 들어서자, 복도 안쪽 <span class="emphasis">기록 보관실</span> 쪽에서 격렬한 둔탁한 소음이 들려왔습니다.</p>
   <p class="emphasis">열린 문 너머로 나타난 소장은 어딘가 넋이 나간 듯한 표정으로 서 있었고, 그 안쪽 바닥에는 소장과 완전히 똑같이 생긴 한 남성이 목 졸려 죽은 채 쓰러져 있었습니다.</p>
   <p>순간 말을 잃은 두 사람 사이로 무거운 침묵이 흘렀습니다. <span class="character-veyla">베일라</span>는 저도 모르게 숨을 삼켰고, <span class="character-marcus">마커스</span> 역시 낯빛이 하얗게 질렸습니다. 하지만 그 충격도 잠시, 두 사람은 애써 정신을 다잡았습니다.</p>
-  <div class="section-title">3. 날 선 대치</div>
   <div class="script-direction">먼저 정신을 차린 마커스가 낮게 가라앉은 목소리로 물었다.</div>
   <div class="script-container">
     <div class="script-line">
@@ -90,7 +88,7 @@ FBI 수사관 마커스 : 2
       <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(마른침을 삼키며)</span> "...좋소. 그렇게 하도록 하지."
     </div>
   </div>
-  <div class="section-title">4. 단계 안내</div>
+  <div class="section-title">2. 단계 안내</div>
   <p>
     1. AP 지급: 이번 구역에서 사용할 AP가 인당 2씩 지급됩니다.<br />
     2. 단서 수집: AP를 사용하여 단서를 조사하십시오. 조사한 단서는 본인만 확인할 수 있으며, 상대방에게 알릴지는 전적으로 당신의 선택입니다. 다만 단서의 제목만은 서로에게 공개되니, 누가 무엇을 조사할지 미리 상의할 수 있습니다.<br />

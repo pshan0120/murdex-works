@@ -11,20 +11,20 @@ StepID : bd25842d-d09a-4aa4-bba4-efa3fe369523
 NARRATIVE
 
 4. 예상 소요 시간
-5분
+-
 
 5. 자동 진행 여부
 N
 
 6. BGM
-https://cdn1.suno.ai/5dd7685c-a7df-42f6-b07d-646b18ab03cc.mp3
+https://cdn1.suno.ai/6ab57146-c074-4822-acb0-1aee1d9a948c.mp3
 
 # Suno Prompt: Cold institutional dark ambient thriller, slow pulsing synth bass, sparse muted piano notes, distant metallic percussion, restrained tension, 1990s government conspiracy drama score, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
 
 7. 단계 설명
 
 <div class="story-content">
-  <div class="section-title">1. 소장과의 만남</div>
+  <div class="section-title">1. 대본 낭독</div>
   <p>
     두 플레이어가 처음 조우한 시점(11:00, <span class="emphasis">프로메테우스 연구소</span>
     <span class="emphasis">소장실</span>)입니다. 흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가
@@ -39,21 +39,8 @@ https://cdn1.suno.ai/5dd7685c-a7df-42f6-b07d-646b18ab03cc.mp3
     <div class="script-line">
       <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(마커스와 눈이 마주치는 순간 미세하게 표정이 굳었지만, 이내 태연하게)</span> "...반갑소, 수사관 양반. 앉으시오."
     </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "반갑습니다. CIA 소속 베일라라고 합니다. 정문에서 마침 마커스 수사관님과 만나 함께 들어오게 되었네요. 이 연구소의 불법 생체공학 연구 건으로 확인할 게 좀 있어서 왔습니다. FBI와는 관할이 조금 다르지만, 협력할 수 있는 선에서 조용히 살펴보겠습니다. 소장님, 괜찮으시다면 보관실의 데이터 접근 권한을 좀 열어주실 수 있을까요?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(그녀를 흘깃 보며)</span> "이쪽은 CIA시군요. 목적은 조금 다를지 모르나 진실을 밝히는 데는 협력할 수 있을 겁니다. 자, 소장님. 변명은 나중에 듣고 어서 기밀 자료실 문부터 여시죠."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(마지못해 고개를 끄덕이며)</span> "좋소. 다만 시간이 많지는 않소. 오후 2시면 정부 집행팀이 도착해 이곳을 완전히 봉인할 테니, 그 전에 끝내는 게 서로에게 나을 거요."
-    </div>
   </div>
-  <div class="section-title">2. 낯익은 이름</div>
-  <p>
-    자기소개가 끝나고 마주 앉은 <span class="character-clay">클레이</span>의 얼굴을 바라보던
-    <span class="character-veyla">베일라</span>는, 자신도 모르게 입을 열었다.
-  </p>
+  <div class="script-direction">마주 앉는 순간, 베일라는 클레이의 얼굴을 보자마자 놀라 자신도 모르게 입을 열었다.</div>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-veyla">베일라</span></span>: "...알렉스?"
@@ -64,8 +51,19 @@ https://cdn1.suno.ai/5dd7685c-a7df-42f6-b07d-646b18ab03cc.mp3
     </div>
   </div>
   <p>
-    두 사람은 서로 다른 이유로 이 이름에 동요했다는 것을 눈치챘지만, 각자 그 속내는 아직 입 밖으로 꺼내지 않았습니다.
+    두 사람은 서로 다른 이유로 이 이름에 동요했다는 것을 눈치챘지만, 각자 그 속내는 아직 입 밖으로 꺼내지 않았습니다. 베일라가 애써 평정을 되찾고 정식으로 인사를 건넸다.
   </p>
-  <div class="section-title">3. 다음 단계 안내</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "반갑습니다. CIA 소속 베일라라고 합니다. 정문에서 마침 마커스 수사관님과 만나 함께 들어오게 되었네요. 이 연구소의 불법 생체공학 연구 건으로 확인할 게 좀 있어서 왔습니다. FBI와는 관할이 조금 다르지만, 협력할 수 있는 선에서 조용히 살펴보겠습니다. 소장님, 괜찮으시다면 연구소 내부를 직접 둘러보고 관련 자료도 확인할 수 있을까요?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(그녀를 흘깃 보며)</span> "이쪽은 CIA시군요. 목적은 조금 다를지 모르나 진실을 밝히는 데는 협력할 수 있을 겁니다. 자, 소장님. 변명은 나중에 듣고, 어서 안내부터 하시죠. 이 연구소 구석구석을 직접 확인해야겠습니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(마지못해 고개를 끄덕이며)</span> "좋소. 다만 시간이 많지는 않소. 오후 2시면 정부 집행팀이 도착해 이곳을 완전히 봉인할 테니, 그 전에 끝내는 게 서로에게 나을 거요. 우선 관련 자료부터 기록 보관실에서 챙겨 오겠소."
+    </div>
+  </div>
+  <div class="section-title">2. 다음 단계 안내</div>
   <p>위 이야기를 모두 낭독했다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.</p>
 </div>

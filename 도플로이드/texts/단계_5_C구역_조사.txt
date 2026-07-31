@@ -11,7 +11,7 @@ StepID : 002ac818-c08c-4840-a19a-a921b92afb24
 INVESTIGATION
 
 4. 예상 소요 시간
-20분
+10분
 
 5. 자동 진행 여부
 N
@@ -28,7 +28,7 @@ FBI 수사관 마커스 : 2
 8. 단계 설명
 
 <div class="story-content">
-  <div class="section-title">1. 생체 인식 대기</div>
+  <div class="section-title">1. 대본 낭독</div>
   <p>
     흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된
     대사는 각자 자신의 역할 대사를 낭독합니다. (<span class="character-clay">클레이</span>의 대사는
@@ -74,7 +74,6 @@ FBI 수사관 마커스 : 2
       <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(잠시 침묵하다 짧게)</span> "...있습니다."
     </div>
   </div>
-  <div class="section-title">2. <span class="emphasis">비밀 병실</span> 진입</div>
   <div class="script-direction">마커스의 거센 압박에 소장이 C구역의 무거운 철문을 연다. 문을 열기 전, 소장은 자신 있게 앞장서며 말했다.</div>
   <div class="script-container">
     <div class="script-line">
@@ -82,7 +81,6 @@ FBI 수사관 마커스 : 2
     </div>
   </div>
   <p class="emphasis">하지만 문이 열리자마자 코를 찌르는 강렬한 소독약 냄새와 함께, '삐- 삐-' 하는 기계음이 규칙적으로 울려 퍼집니다. 안쪽은 휴게실의 흔적은 전혀 없고, 온갖 투석기와 생명 유지 장치로 가득한 극비 중환자 병실이 자리하고 있었습니다.</p>
-  <div class="section-title">3. 흔들리는 소장</div>
   <div class="script-direction">당혹스러운 광경 앞에서 침묵이 흐르자, 소장이 수습하려는 듯 다급하게 입을 열었다.</div>
   <div class="script-container">
     <div class="script-line">
@@ -126,7 +124,7 @@ FBI 수사관 마커스 : 2
     </div>
   </div>
   <p>짧은 침묵이 두 사람 사이를 스쳤습니다. 서로에게 아직 털어놓지 않은 것들이 너무 많다는 사실을, 둘 다 굳이 입 밖으로 꺼내지 않았습니다.</p>
-  <div class="section-title">4. 단계 안내</div>
+  <div class="section-title">2. 단계 안내</div>
   <p>
     1. AP 지급: 이번 구역에서 사용할 AP가 인당 2씩 지급됩니다.<br />
     2. 단서 수집: AP를 사용하여 단서를 조사하십시오. 조사한 단서는 본인만 확인할 수 있으며, 상대방에게 알릴지는 전적으로 당신의 선택입니다. 다만 단서의 제목만은 서로에게 공개되니, 누가 무엇을 조사할지 미리 상의할 수 있습니다.<br />
