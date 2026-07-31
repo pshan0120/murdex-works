@@ -206,6 +206,7 @@ def main():
     parser = argparse.ArgumentParser(description="Update clue DB from clue text file.")
     parser.add_argument("file_path", help="Path to the clue text file (e.g. 단서.txt)")
     parser.add_argument("--dry-run", action="store_true", help="Print what would be updated without committing to DB")
+    parser.add_argument("--exclude-clue-ids", nargs="*", default=[], help="Clue IDs to exclude from update")
     args = parser.parse_args()
     
     if not os.path.exists(args.file_path):
@@ -226,6 +227,13 @@ def main():
     # 변형 단서 제외 (사용자 요청에 따라 변형 단서는 수동 관리)
     blocks = [b for b in blocks if "(변형)" not in b.get("name", "")]
     
+    # 제외 대상 clue_id 필터링
+    if args.exclude_clue_ids:
+        exclude_set = set(args.exclude_clue_ids)
+        before_count = len(blocks)
+        blocks = [b for b in blocks if b.get("clue_id") not in exclude_set]
+        print(f"Excluded {before_count - len(blocks)} clues based on --exclude-clue-ids: {args.exclude_clue_ids}")
+
     map_groups(blocks, group_mapping)
     
     if args.dry_run:

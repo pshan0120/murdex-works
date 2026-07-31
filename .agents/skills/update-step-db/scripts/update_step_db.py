@@ -42,10 +42,9 @@ def parse_step_file(file_path):
     name_match = re.search(r'2\.\s*단계\s*이름\s*\n+([^\n]+)', content)
     step_name = name_match.group(1).strip() if name_match else None
 
-    # 단계 설명 (HTML) 추출
-    # "단계 설명" 또는 "7. 단계 설명" 또는 "8. 단계 설명" 이후의 <div class="story-content">...</div> 블록 탐색
+    # 단계 설명 (HTML) 추출: <div class="story-content">...</div> 블록 탐색
     description = None
-    desc_start_match = re.search(r'(?:단계\s*설명|\d+\.\s*단계\s*설명)\s*\n+(<div class="story-content".*)', content, re.DOTALL)
+    desc_start_match = re.search(r'(?:(?:단계\s*설명|\d+\.\s*단계\s*설명)\s*\n+)?(<div class="story-content".*)', content, re.DOTALL)
     if desc_start_match:
         html_candidate = desc_start_match.group(1).strip()
         # <div class="story-content">부터 매칭되는 최외곽 </div>까지 추출
@@ -67,10 +66,19 @@ def parse_step_file(file_path):
         print(f"[WARNING] 단계 설명 HTML 영역을 찾지 못함: {os.path.basename(file_path)}")
         return None
 
+    # 6. BGM 주소 추출 (주석이 아닌 첫 번째 유효 URL)
+    audio_url = None
+    bgm_match = re.search(r'6\.\s*BGM\s*\n+([^\n#]+)', content)
+    if bgm_match:
+        candidate = bgm_match.group(1).strip()
+        if candidate.startswith("http://") or candidate.startswith("https://"):
+            audio_url = candidate
+
     return {
         "step_id": step_id,
         "step_name": step_name,
         "description": description,
+        "audio_url": audio_url,
         "file_name": os.path.basename(file_path)
     }
 
@@ -124,13 +132,14 @@ def update_step_db(target_path, dry_run=False):
             sql = """
                 UPDATE story_step
                 SET description = %s,
+                    audio_url = COALESCE(%s, audio_url),
                     updated_at = CURRENT_TIMESTAMP
                 WHERE step_id = %s
             """
-            cursor.execute(sql, (s["description"], s["step_id"]))
+            cursor.execute(sql, (s["description"], s["audio_url"], s["step_id"]))
             if cursor.rowcount > 0:
                 updated_count += 1
-                print(f"[SUCCESS] {s['file_name']} (StepID: {s['step_id']}) -> description 업데이트 완료")
+                print(f"[SUCCESS] {s['file_name']} (StepID: {s['step_id']}) -> description & audio_url 업데이트 완료")
             else:
                 print(f"[WARNING] {s['file_name']} (StepID: {s['step_id']}) -> DB 일치 행 없음 (업데이트 실패/변화 없음)")
         conn.commit()

@@ -18,43 +18,77 @@ N
 
 6. BGM
 (미정 - 추후 업로드 예정)
+# Suno Prompt: Dark suspense orchestral hybrid, sharp string stabs recurring at a steady regular interval, deep dissonant synth drone, pounding heartbeat-like bass pulse, tense sci-fi horror atmosphere, relentless unchanging dread from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
 
 7. 지급 AP
-사립탐정 베일라 : 2
-수사관 마커스 : 2
+CIA 요원 베일라 : 2
+FBI 수사관 마커스 : 2
 
 8. 단계 설명
 
 <div class="story-content">
   <div class="section-title">1. 기다림 속의 정적</div>
+  <p>
+    흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된
+    대사는 각자 자신의 역할 대사를 낭독합니다. (<span class="character-clay">클레이</span>의 대사는
+    <span class="character-marcus">마커스</span>가 대신 낭독합니다.)
+  </p>
   <p>소장이 자리를 비운 사이, <span class="emphasis">소장실</span>에는 옅은 정적이 감돌았습니다.</p>
-  <p><span class="character-veyla">베일라</span>가 문득 입을 열었습니다.</p>
-  <p>"수사관님은 이 일, 왜 시작하셨어요?"</p>
-  <p><span class="character-marcus">마커스</span>는 잠시 그녀를 바라보았습니다.</p>
-  <p>"...그건 왜 물으십니까."</p>
-  <p>"그냥요. 다들 뭔가 이유가 있어서 이런 일을 하잖아요."</p>
-  <p><span class="character-marcus">마커스</span>가 뭔가 말하려는 듯 입을 떼려던 순간, 그는 문득 손목시계를 확인했습니다.</p>
-  <p>"...소장이 나간 지 벌써 10분이 넘었군요."</p>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: <span class="script-direction">(문득)</span> "수사관님은 이 일, 왜 시작하셨어요?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(잠시 그녀를 바라보다)</span> "...그건 왜 물으십니까."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "그냥요. 다들 뭔가 이유가 있어서 이런 일을 하잖아요."
+    </div>
+  </div>
+  <div class="script-direction">마커스가 뭔가 말하려는 듯 입을 떼려던 순간, 그는 문득 손목시계를 확인했다.</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...소장이 나간 지 벌써 10분이 넘었군요."
+    </div>
+  </div>
   <div class="section-title">2. 시체 발견</div>
-  <p><span class="character-clay">닥터 클레이</span>가 소장실을 나서 복도 안쪽의 생체 인증 셔터를 열고 <span class="emphasis">B구역</span>으로 들어간 지 10분이 지나도 아무런 소식이 없자, 의구심을 품은 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>는 그 문을 향해 다가갔습니다. 그런데 문은 이미 열려 있었습니다. 그 틈으로 들어서자, 복도 안쪽 <span class="emphasis">기록 보관실</span> 쪽에서 격렬한 둔탁한 소음이 들려왔습니다.</p>
+  <p><span class="character-clay">클레이</span>가 소장실을 나서 복도 안쪽의 생체 인증 셔터를 열고 <span class="emphasis">B구역</span>으로 들어간 지 10분이 지나도 아무런 소식이 없자, 의구심을 품은 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>는 그 문을 향해 다가갔습니다. 그런데 문은 이미 열려 있었습니다. 그 틈으로 들어서자, 복도 안쪽 <span class="emphasis">기록 보관실</span> 쪽에서 격렬한 둔탁한 소음이 들려왔습니다.</p>
   <p class="emphasis">열린 문 너머로 나타난 소장은 어딘가 넋이 나간 듯한 표정으로 서 있었고, 그 안쪽 바닥에는 소장과 완전히 똑같이 생긴 한 남성이 목 졸려 죽은 채 쓰러져 있었습니다.</p>
   <p>순간 말을 잃은 두 사람 사이로 무거운 침묵이 흘렀습니다. <span class="character-veyla">베일라</span>는 저도 모르게 숨을 삼켰고, <span class="character-marcus">마커스</span> 역시 낯빛이 하얗게 질렸습니다. 하지만 그 충격도 잠시, 두 사람은 애써 정신을 다잡았습니다.</p>
   <div class="section-title">3. 날 선 대치</div>
-  <p>먼저 정신을 차린 <span class="character-marcus">마커스</span>가 낮게 가라앉은 목소리로 물었습니다.</p>
-  <p>"...소장님. 이제 이건 불법 연구 조사 따위가 아닙니다. 살인 사건입니다. 보관실 바닥에 죽어 있는 이 자는 대체 누굽니까?"</p>
-  <p><span class="character-clay">클레이</span>가 애써 태연한 척 대답했습니다.</p>
-  <p>"나도 모르겠소. 얼굴이 나와 똑같이 생겨서 기분 나쁘군. 왜 이런 게 여기 와서 죽어 있는지 나도 영문을 모르겠소."</p>
-  <p><span class="character-veyla">베일라</span>의 얼굴이 순간 싸늘하게 굳었습니다. 하지만 그녀는 이내 표정을 지우고 침착함을 되찾았습니다.</p>
-  <p>"...지금 이 상황에서, 당신을 잠시라도 눈에서 놓을 수는 없겠네요." 그녀가 낮게 말했습니다. "증거를 인멸할 시간을 드릴 순 없으니까요."</p>
-  <p>날 선 침묵을 깨고, <span class="character-marcus">마커스</span>가 먼저 말을 이었습니다.</p>
-  <p>"동의합니다. 지금은 락다운 상태라 외부 지원을 요청해도 아무도 들어오지도, 나가지도 못합니다. 이 순간 현장을 지킬 수 있는 사람은 저희뿐입니다. 그러니 이런 수작에 넘어갈 여유는 없습니다 — 본래 목적인 현장 수사를 계속하겠습니다. 당장 다른 구역 문도 여십시오!"</p>
-  <p><span class="character-veyla">베일라</span>도 거들었습니다.</p>
-  <p>"소장님, 방금 전 11시에 대화하실 때는 여유로워 보이셨는데, 지금은 굉장히… 절박해 보이시네요. 저희가 직접 다른 곳도 확인해보죠."</p>
-  <p><span class="character-clay">클레이</span>는 당황한 기색을 감추지 못한 채 이마에 맺힌 땀을 훔쳤습니다.</p>
-  <p>"...좋소. 어차피 락다운이라 수동으로 패널을 조작해야 하니, 나를 따라오시오."</p>
-  <p><span class="character-marcus">마커스</span>는 날카로운 눈으로 소장을 응시하며 덧붙였습니다.</p>
-  <p>"한 가지만 못 박죠. 앞으로는 누구도 따로 행동하지 않습니다. 저도, 탐정님도, 소장님도 — 셋이 항상 같이 움직입니다. 어디서 무슨 대화를 나누든, 제 눈과 귀가 닿는 곳에서요."</p>
-  <p><span class="character-clay">클레이</span>는 마른침을 삼키며 말없이 고개를 끄덕였습니다.</p>
+  <div class="script-direction">먼저 정신을 차린 마커스가 낮게 가라앉은 목소리로 물었다.</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...소장님. 이제 이건 불법 연구 조사 따위가 아닙니다. 살인 사건입니다. 보관실 바닥에 죽어 있는 이 자는 대체 누굽니까?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(애써 태연한 척)</span> "나도 모르겠소. 얼굴이 나와 똑같이 생겨서 기분 나쁘군. 왜 이런 게 여기 와서 죽어 있는지 나도 영문을 모르겠소."
+    </div>
+  </div>
+  <div class="script-direction">베일라의 얼굴이 순간 싸늘하게 굳었다. 하지만 그녀는 이내 표정을 지우고 침착함을 되찾았다.</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...지금 이 상황에서, 당신을 잠시라도 눈에서 놓을 수는 없겠네요. 증거를 인멸할 시간을 드릴 순 없으니까요."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "동의합니다. 지금은 락다운 상태라 외부 지원을 요청해도 아무도 들어오지도, 나가지도 못합니다. 이 순간 현장을 지킬 수 있는 사람은 저희뿐입니다. 그러니 이런 수작에 넘어갈 여유는 없습니다 — 본래 목적인 현장 수사를 계속하겠습니다. 당장 다른 구역 문도 여십시오!"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "소장님, 방금 전 11시에 대화하실 때는 여유로워 보이셨는데, 지금은 굉장히… 절박해 보이시네요. 저희가 직접 다른 곳도 확인해보죠."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(당황한 기색을 감추지 못한 채 이마에 맺힌 땀을 훔치며)</span> "...좋소. 어차피 락다운이라 수동으로 패널을 조작해야 하니, 나를 따라오시오."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(날카로운 눈으로 소장을 응시하며)</span> "한 가지만 못 박죠. 앞으로는 누구도 따로 행동하지 않습니다. 우리 셋은 항상 같이 움직입니다. 어디서 무슨 대화를 나누든, 제 눈과 귀가 닿는 곳에서요."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "저도 동의해요. 지금부터는 다 같이 움직이죠."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(마른침을 삼키며)</span> "...좋소. 그렇게 하도록 하지."
+    </div>
+  </div>
   <div class="section-title">4. 단계 안내</div>
   <p>
     1. AP 지급: 이번 구역에서 사용할 AP가 인당 2씩 지급됩니다.<br />

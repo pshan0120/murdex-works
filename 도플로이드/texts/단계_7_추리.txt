@@ -18,26 +18,44 @@ N
 
 6. BGM
 (미정 - 추후 업로드 예정)
+# Suno Prompt: Melancholic tense ambient, soft sustained strings, sparse piano, subtle emotional undertone beneath restrained dread, quiet investigative reflection, X-Files style bittersweet suspense, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
 
 7. 단계 설명
 
 <div class="story-content">
   <div class="section-title">잠깐의 정적</div>
-  <p>모든 구역의 조사를 마친 두 사람 사이에, 짧은 정적이 흘렀습니다.</p>
-  <p><span class="character-veyla">베일라</span>가 먼저 입을 열었습니다.</p>
-  <p>"오늘 하루 종일, 자꾸 그 사람 생각이 나요. 처음 만났을 때... 아무것도 기억 못 하는 사람이었는데, 이상하게 눈빛만은 또렷했거든요. 그것만 보고 마음을 줬다면, 좀 우습죠."</p>
-  <p><span class="character-marcus">마커스</span>는 잠시 그녀를 바라보았습니다.</p>
-  <p>"안 우스운데요." 그는 옅게 웃었습니다. "저희 누나도... 제가 기억하는 마지막 모습이, 짐 싸면서 웃던 얼굴이었습니다. 뭐가 그렇게 홀가분해 보이던지, 그때는 서운하기까지 했어요."</p>
-  <p><span class="character-veyla">베일라</span>는 그 말에 나직이 웃었습니다.</p>
-  <p>"닮았네요, 그 마음."</p>
-  <p>"...그런 것 같습니다."</p>
-  <p>"수사관님은... 만약 진실이 원하시던 것과 다르면 어떡하실 거예요?"</p>
-  <p><span class="character-marcus">마커스</span>는 한참 답이 없다가 입을 열었습니다.</p>
-  <p>"그래도 마주해야겠죠. 피한다고 없어지는 건 아니니까."</p>
-  <p>"저는... 자신이 없어요. 어쩌면 처음부터, 알고 싶지 않았던 걸지도 모르겠어요."</p>
-  <p>"그럼 왜 여기까지 왔습니까?"</p>
-  <p>"그야," <span class="character-veyla">베일라</span>는 잠시 웃었습니다. "모르는 채로 사는 것보다는, 그래도 낫다고 생각했으니까요."</p>
-  <p><span class="character-marcus">마커스</span>는 고개를 끄덕였습니다. 더 이상 말은 없었지만, 그 침묵은 이전의 것과는 조금 다르게 느껴졌습니다.</p>
+  <p>흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된 대사는 각자 자신의 역할 대사를 낭독합니다.</p>
+  <div class="script-direction">모든 구역의 조사를 마친 두 사람 사이에, 짧은 정적이 흘렀다. 베일라가 먼저 입을 열었다.</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "오늘, 자꾸 그 사람 생각이 나요. 처음 만났을 때... 아무것도 기억 못 하는 사람이었는데, 이상하게 눈빛만은 또렷했거든요. 그것만 보고 마음을 줬다면, 좀 우습죠."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(잠시 그녀를 바라보다, 옅게 웃으며)</span> "안 우스운데요. 저희 누나도... 제가 기억하는 마지막 모습이, 짐 싸면서 웃던 얼굴이었습니다. 뭐가 그렇게 홀가분해 보이던지, 그때는 서운하기까지 했어요."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: <span class="script-direction">(그 말에 나직이 웃으며)</span> "닮았네요, 그 마음."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그런 것 같습니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "수사관님은... 만약 진실이 원하시던 것과 다르면 어떡하실 거예요?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(한참 답이 없다가)</span> "그래도 마주해야겠죠. 피한다고 없어지는 건 아니니까."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "저는... 자신이 없어요. 어쩌면 처음부터, 알고 싶지 않았던 걸지도 모르겠어요."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "그럼 왜 여기까지 왔습니까?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: <span class="script-direction">(잠시 웃으며)</span> "그야, 모르는 채로 사는 것보다는, 그래도 낫다고 생각했으니까요."
+    </div>
+  </div>
+  <p>마커스는 고개를 끄덕였습니다. 더 이상 말은 없었지만, 그 침묵은 이전의 것과는 조금 다르게 느껴졌습니다.</p>
   <div class="section-title">최종 추리 및 토론</div>
   <p>
     사건의 조각들이 맞추어졌습니다. 이제 최종 토론 단계입니다.
@@ -53,6 +71,8 @@ N
     &nbsp;&nbsp;&nbsp;&nbsp;- 이 연구소에서 실제로 어떤 연구가 진행되어 온 것인가?<br />
     &nbsp;&nbsp;&nbsp;&nbsp;- 각자 조사하며 알게 된 것 중, 아직 상대방에게 밝히지 않은 사실이 있는가? 그것이 이 사건과 어떻게 연결되는가?<br />
     <br />
-    3. 단계 완료: 두 사람이 사건의 진상에 대해 충분히 토론하고 추리를 마쳤다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 최종 결론(질문 및 답변) 단계로 진행하십시오.
+    3. 각자 밝히기: 다음 단계로 넘어가기 전, 두 사람은 차례로 한 번씩 이야기해야 합니다 — <strong>지금 눈앞에 있는 이 사람이 누구라고 생각하는지, 그리고 그 판단에 따라 어떻게 할 생각인지.</strong> 누가 먼저 말해도 상관없습니다. 다만 상대방이 말하는 동안에는 끼어들지 말고 끝까지 듣기만 하십시오. 상대의 말에 동의하지 않아도 괜찮습니다. 다만 서로 무슨 생각을 하고 있는지는 알고 다음 단계로 넘어가야 합니다.<br />
+    <br />
+    4. 단계 완료: 두 사람이 사건의 진상에 대해 충분히 토론하고 추리를 마쳤다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 최종 결론(질문 및 답변) 단계로 진행하십시오.
   </p>
 </div>

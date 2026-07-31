@@ -18,6 +18,7 @@ N
 
 6. BGM
 (미정 - 추후 업로드 예정)
+# Suno Prompt: Cold institutional dark ambient thriller, slow pulsing synth bass, sparse muted piano notes, distant metallic percussion, restrained tension, 1990s government conspiracy drama score, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
 
 7. 단계 설명
 
@@ -25,51 +26,45 @@ N
   <div class="section-title">1. 소장과의 만남</div>
   <p>
     두 플레이어가 처음 조우한 시점(11:00, <span class="emphasis">프로메테우스 연구소</span>
-    <span class="emphasis">소장실</span>)입니다. 아래 이야기를 함께 읽어주세요.
+    <span class="emphasis">소장실</span>)입니다. 흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가
+    소리 내어 낭독해 주세요. 큰따옴표로 된 대사는 각자 자신의 역할 대사를 낭독합니다. (<span class="character-clay">클레이</span>의
+    대사는 <span class="character-marcus">마커스</span>가 대신 낭독합니다.)
   </p>
-  <p><span class="character-marcus">마커스</span>가 먼저 입을 열었습니다.</p>
-  <p>
-    "FBI에서 특별 파견된 수사관 <span class="character-marcus">마커스</span>라고 합니다. 정부에서 지시한 불법 연구 기소
-    건으로, 오후에 도착할 정식 집행팀에 앞서 사전 조사를 나왔습니다. 시간 없으니 바로 본론으로 들어가시죠. 당신이
-    여기서 무슨 짓을 벌였는지 반드시 알아내야겠습니다."
-  </p>
-  <p>
-    <span class="character-clay">클레이</span>는 <span class="character-marcus">마커스</span>와 눈이 마주치는 순간
-    미세하게 표정이 굳었지만, 이내 아무 일도 없다는 듯 태연한 얼굴로 돌아왔습니다.
-  </p>
-  <p>"...반갑소, 수사관 양반. 앉으시오."</p>
-  <p><span class="character-veyla">베일라</span>도 뒤이어 입을 열었습니다.</p>
-  <p>
-    "반갑습니다. CIA 소속 <span class="character-veyla">베일라</span>라고 합니다. 정문에서 마침
-    <span class="character-marcus">마커스</span> 수사관님과 만나 함께 들어오게 되었네요. 이 연구소의 불법 생체공학
-    연구 건으로 확인할 게 좀 있어서 왔습니다. FBI와는 관할이 조금 다르지만, 협력할 수 있는 선에서 조용히
-    살펴보겠습니다. 소장님, 괜찮으시다면 보관실의 데이터 접근 권한을 좀 열어주실 수 있을까요?"
-  </p>
-  <p><span class="character-marcus">마커스</span>가 그녀를 흘깃 보며 덧붙였습니다.</p>
-  <p>
-    "이쪽은 CIA시군요. 목적은 조금 다를지 모르나 진실을 밝히는 데는 협력할 수 있을 겁니다. 자, 소장님.
-    변명은 나중에 듣고 어서 기밀 자료실 문부터 여시죠."
-  </p>
-  <p><span class="character-clay">클레이</span>는 마지못해 고개를 끄덕였습니다.</p>
-  <p>
-    "좋소. 다만 시간이 많지는 않소. 오후 2시면 정부 집행팀이 도착해 이곳을 완전히 봉인할 테니, 그 전에 끝내는 게
-    서로에게 나을 거요."
-  </p>
+  <div class="script-direction">마커스가 먼저 입을 열었다.</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "FBI에서 특별 파견된 수사관 마커스라고 합니다. 정부에서 지시한 불법 연구 기소 건으로, 오후에 도착할 정식 집행팀에 앞서 사전 조사를 나왔습니다. 시간 없으니 바로 본론으로 들어가시죠. 당신이 여기서 무슨 짓을 벌였는지 반드시 알아내야겠습니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(마커스와 눈이 마주치는 순간 미세하게 표정이 굳었지만, 이내 태연하게)</span> "...반갑소, 수사관 양반. 앉으시오."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "반갑습니다. CIA 소속 베일라라고 합니다. 정문에서 마침 마커스 수사관님과 만나 함께 들어오게 되었네요. 이 연구소의 불법 생체공학 연구 건으로 확인할 게 좀 있어서 왔습니다. FBI와는 관할이 조금 다르지만, 협력할 수 있는 선에서 조용히 살펴보겠습니다. 소장님, 괜찮으시다면 보관실의 데이터 접근 권한을 좀 열어주실 수 있을까요?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(그녀를 흘깃 보며)</span> "이쪽은 CIA시군요. 목적은 조금 다를지 모르나 진실을 밝히는 데는 협력할 수 있을 겁니다. 자, 소장님. 변명은 나중에 듣고 어서 기밀 자료실 문부터 여시죠."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(마지못해 고개를 끄덕이며)</span> "좋소. 다만 시간이 많지는 않소. 오후 2시면 정부 집행팀이 도착해 이곳을 완전히 봉인할 테니, 그 전에 끝내는 게 서로에게 나을 거요."
+    </div>
+  </div>
   <div class="section-title">2. 낯익은 이름</div>
   <p>
-    자기소개가 끝나고 마주 앉은 <span class="character-clay">닥터 클레이</span>의 얼굴을 바라보던
-    <span class="character-veyla">베일라</span>는, 자신도 모르게 입을 열었습니다.
+    자기소개가 끝나고 마주 앉은 <span class="character-clay">클레이</span>의 얼굴을 바라보던
+    <span class="character-veyla">베일라</span>는, 자신도 모르게 입을 열었다.
   </p>
-  <p>"...<span class="character-alex">알렉스</span>?"</p>
-  <p>
-    <span class="character-clay">클레이</span>의 눈빛이 순간 흔들렸습니다. 동시에
-    <span class="character-marcus">마커스</span> 역시 그 이름에 무언가 짚이는 듯, 순간 표정이 눈에 띄게 굳어졌습니다. 하지만
-    <span class="character-clay">클레이</span>는 애써 표정을 굳히며 차갑고 불쾌하게 선을 그었습니다.
-  </p>
-  <p>"그건 내 이름이 아니오. 난 <span class="character-clay">클레이</span> 소장이오, 사람 잘못 봤군."</p>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...알렉스?"
+    </div>
+    <div class="script-direction">클레이의 눈빛이 순간 흔들렸다. 동시에 마커스 역시 그 이름에 무언가 짚이는 듯, 표정이 눈에 띄게 굳어졌다.</div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: <span class="script-direction">(애써 표정을 굳히며 차갑고 불쾌하게)</span> "그건 내 이름이 아니오. 난 클레이 소장이오, 사람 잘못 봤군."
+    </div>
+  </div>
   <p>
     두 사람은 서로 다른 이유로 이 이름에 동요했다는 것을 눈치챘지만, 각자 그 속내는 아직 입 밖으로 꺼내지 않았습니다.
   </p>
   <div class="section-title">3. 다음 단계 안내</div>
-  <p>위 이야기를 모두 읽었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.</p>
+  <p>위 이야기를 모두 낭독했다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.</p>
 </div>

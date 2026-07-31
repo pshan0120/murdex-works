@@ -38,8 +38,9 @@
         <td>
           <span class="character-veyla">베일라</span>는 실종된 연인 <span class="character-alex">알렉스</span>를 뒤쫓아
           전날 밤부터 <span class="emphasis">프로메테우스 연구소</span> 인근에 잠복하며 침입 경로를 정찰함.
-          <span class="character-marcus">마커스</span>는 08:30경 소장에게 전화를 걸었으나 받지 않자, "11시까지
-          그쪽으로 가겠다. 진실을 밝히지 않으면 각오하라"는 경고성 음성 메시지를 남김.
+          <span class="character-marcus">마커스</span>는 08:30경 소장에게 전화를 걸어 직접 통화함. 클레이가 냉랭하게
+          끊으려 하자 격분해 "11시까지 그쪽으로 가겠다. 진실을 밝히지 않으면 각오하라"고 쏘아붙였고, 심상치 않음을
+          느낀 클레이가 도중부터 통화를 녹음함.
         </td>
       </tr>
       <tr>
@@ -96,13 +97,15 @@
   <div class="section-title">3. 사건 해설</div>
   <div class="subsection-title">[<span class="emphasis">프로메테우스 연구소</span>와 불치병 유전 질환]</div>
   <p>
-    버려진 폐건물을 개조한 <span class="emphasis">프로메테우스 연구소</span>는 외부와의 연락을 끊은 채 비밀리에 생체공학
-    연구를 이어오던 공간이었습니다. 천재 공학자 <span class="character-clay">닥터 클레이</span>는 말기 뇌세포 괴사라는
+    버려진 폐건물을 개조한 <span class="emphasis">프로메테우스 연구소</span>는 사실 <span class="character-clay">클레이</span>
+    개인의 일탈이 아니라, 정부가 은밀히 지원하던 국가 특수 생체공학 사업이었습니다. 외부와의 연락을 끊은 채
+    비밀리에 연구를 이어오던 이곳에서, 천재 공학자 <span class="character-clay">닥터 클레이</span>는 말기 뇌세포 괴사라는
     불치병으로 시한부 삶을 살고 있었으며, 자신의 뇌 정보와 유전자를 복제하여 새로운 신체로 이전하는
-    자신만의 복제 프로젝트에 집착했습니다. 한편 수사관 <span class="character-marcus">마커스</span>와 그의 누나
-    <span class="character-alex">알렉스</span> 역시 가문에 내려오는 동일한 뇌 신경 마비 유전병을 앓고 있었고,
-    <span class="character-alex">알렉스</span>는 남동생을 살릴 치료법을 찾기 위해
-    <span class="character-clay">클레이</span>의 연구에 스스로 임상 대상으로 참여했습니다.
+    자신만의 복제 프로젝트에 집착했습니다. 한편 수사관 <span class="character-marcus">마커스</span>는 가문에 대물림되는
+    유전병 '말초신경 위축증'을 앓고 있었습니다. 이 병은 유독 집안의 남자에게만 발현되는 탓에, 같은 핏줄인 누나
+    <span class="character-alex">알렉스</span>는 병을 피해 갔습니다. <span class="character-alex">알렉스</span>는
+    그런 남동생을 살릴 치료법을 찾기 위해 <span class="character-clay">클레이</span>의 연구에 스스로 임상 대상으로
+    참여했습니다.
   </p>
   <div class="subsection-title">
     [<span class="character-alex">알렉스</span>의 실종과 기억상실, 그리고 <span class="character-veyla">베일라</span>]
@@ -129,6 +132,16 @@
     그를 목 졸라 살해했고, 이후 태연히 소장 행세를 하며 뒤따라온 <span class="character-marcus">마커스</span>와
     <span class="character-veyla">베일라</span> 앞에 나타났습니다.
   </p>
+  <div class="subsection-title">[알렉스의 죽음과 정부의 은폐]</div>
+  <p>
+    약 1년 전, 처음으로 배양에 성공한 복제 개체가 각성 직후 <span class="character-clay">클레이</span>를 공격하는
+    사고가 벌어졌습니다. 그 순간 조수 <span class="character-alex">알렉스</span>가 망설임 없이 그를 감싸다 목숨을
+    잃었습니다. <span class="character-clay">클레이</span>는 이 인명 사고를 정부에 알리지 않고 홀로 은폐해 왔으나,
+    최근 정부가 그 사실을 뒤늦게 포착했습니다. 국가 사업에서 벌어진 인명 사고와 그 은폐가 외부에 알려지는 것을
+    극도로 경계한 정부는, 이후 <span class="character-marcus">마커스</span>가 거듭 올린 정식 수사 요청을 매번
+    이유도 밝히지 않은 채 반려해 왔습니다. "불법 연구 의혹"이라는 표면적인 명분 뒤에는, 사실 이 사고와 그 은폐를
+    조용히 묻어버리기 위한 정부의 폐쇄 결정이 숨어 있었던 것입니다.
+  </p>
   <div class="subsection-title">[비극적 엇갈림과 최후의 판단]</div>
   <p>
     <span class="character-marcus">마커스</span>는 눈앞의 남자가 누나를 죽게 만든 원흉이자 소장을 살해한 복제 인간이라
@@ -145,9 +158,11 @@
       조작이 아닌 환기구 센서 감지에 의한 자동 락다운임을 입증하여, 소장의 락다운 조작 의혹을 해소합니다.
     </li>
     <li>
-      <strong><span class="emphasis">소장실</span>#1 (처방전)</strong>: 진짜
-      <span class="character-clay">소장 클레이</span>가 말기 뇌세포 괴사로 프로메돌이라는 극약 진통제를 복용 중이었음을
-      증명합니다.
+      <strong><span class="emphasis">소장실</span>#1 (처방전) &amp; <span class="emphasis">비밀 병실</span>#2 (환자
+      모니터링 기록)</strong>: 처방전은 진짜 <span class="character-clay">클레이</span> 소장이 '프로메돌'이라는 극약
+      진통제를 처방받고 있다는 사실만, 모니터링 기록은 '환자 코드: C'가 말기 뇌세포 괴사를 앓고 있다는 사실만 각각
+      따로 보여줍니다. 두 단서를 처방 약물명으로 교차 확인하면, 비밀 병실의 '코드 C'가 곧 클레이 본인이며 그가
+      시한부 상태라는 사실이 완성됩니다.
     </li>
     <li>
       <strong><span class="emphasis">기록 보관실</span>#1 (사체의 알약 통)</strong>: 라벨에 인쇄된 '프로메돌'이
@@ -169,9 +184,19 @@
       칩 오류로 통제 불능의 살의가 폭주한다는, 사건의 근본 메커니즘을 밝히는 핵심 물증입니다.
     </li>
     <li>
+      <strong><span class="emphasis">폐기물 소각장</span>#2 (타다 만 정부 공문)</strong>: 프로메테우스가 국가 특수
+      생체공학 사업이었으며, 최근 발생한 인명 사고를 은폐하기 위해 정부가 서둘러 폐쇄와 외부 수사 차단을 명령했음을
+      밝힙니다.
+    </li>
+    <li>
       <strong><span class="emphasis">지하 배양실</span>#2 (배양 데이터 스캔 기록)</strong>: 생존 소장의 정체가
-      '<span class="character-alex">AIex</span>'라는 이름으로 배양된 <span class="character-clay">클레이</span>의
+      'AI-ex'라는 모델 ID로 배양된 <span class="character-clay">클레이</span>의
       복제 개체임을 확정합니다.
+    </li>
+    <li>
+      <strong><span class="emphasis">지하 배양실</span>#5 (연구소 내 중대 사고 보고서)</strong>: 소속 연구원
+      <span class="character-alex">알렉스</span>가 배양 개체로부터 <span class="character-clay">클레이</span>를
+      보호하려다 사망했다는 사실을, 공식 문서로 최종 확정합니다.
     </li>
   </ul>
   <div class="subsection-title">[2] 관찰 및 정황 단서</div>
@@ -187,10 +212,9 @@
       경보를 울린 무단 침입자가 그녀였음을 나타냅니다.
     </li>
     <li>
-      <strong><span class="emphasis">비밀 병실</span>#2 / #3 (환자 모니터링 기록 &amp; 컴퓨터 일지)</strong>:
-      <span class="character-clay">클레이</span> 본인이 시한부 환자였다는 사실과, 조수
-      <span class="character-alex">알렉스</span>가 가문의 유전병을 앓는 가족을 위해 위험한 연구에 스스로 뛰어들었다는
-      정황을 조명합니다.
+      <strong><span class="emphasis">비밀 병실</span>#3 (컴퓨터 일지)</strong>: 조수
+      <span class="character-alex">알렉스</span>가 가문의 유전병(남자에게만 발현, 본인은 무사)을 앓는 가족을 위해
+      위험한 연구에 스스로 뛰어들었다는 정황을 조명하되, 병명과 구체적 증상은 아직 밝히지 않습니다.
     </li>
     <li>
       <strong><span class="emphasis">비밀 병실</span>#4 (추적 시스템 기록)</strong>: 추방했던 배양 개체의 생체 신호가
@@ -199,9 +223,12 @@
     </li>
     <li>
       <strong><span class="emphasis">지하 배양실</span>#1 / #3 / #4 (알렉스의 비밀 일지 &amp; 가동 흔적 &amp;
-      <span class="character-clay">클레이</span>의 옛 일지)</strong>: <span class="character-alex">알렉스</span>가 동생의
-      유전병 치료법을 찾아 이 연구소에 스스로 들어왔다는 사연과, 오래전 첫 복제 개체가 배양을 마치고 추방된 흔적, 그리고
-      그녀가 <span class="character-clay">클레이</span>의 연인이었으며 복제체의 첫 각성 당시 그를 지키다 희생되었다는
+      <span class="character-clay">클레이</span>의 옛 일지)</strong>: <span class="character-alex">알렉스</span>
+      본인의 일지가 <span class="emphasis">비밀 병실</span>#3이 감춰둔 병명('말초신경 위축증')과 구체적 증상(손끝
+      떨림·무감각)을 완성하고, 오래전 첫 복제 개체가 배양을 마치고 방출된 흔적 — 태그 주변에만 집중된 손자국은
+      <span class="emphasis">폐기물 소각장</span>#2 문서의 흔적과 겹치고, 옆 벽면에 아이 키를 재듯 남은 눈금 자국은
+      원망 속에서도 자식처럼 품어온 <span class="character-clay">클레이</span>의 애정을 짐작하게 합니다 — 그리고 그녀가
+      <span class="character-clay">클레이</span>의 연인이었으며 복제체의 첫 각성 당시 그를 지키다 희생되었다는
       사실을 순서대로 드러냅니다.
     </li>
   </ul>

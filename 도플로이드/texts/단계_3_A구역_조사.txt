@@ -18,30 +18,53 @@ N
 
 6. BGM
 (미정 - 추후 업로드 예정)
+# Suno Prompt: Investigative X-Files style ambient score, soft analog synth arpeggio, subtle ticking clock percussion, cold sterile atmosphere, faint dissonant strings, quiet unease, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
 
 7. 지급 AP
-사립탐정 베일라 : 2
-수사관 마커스 : 2
+CIA 요원 베일라 : 2
+FBI 수사관 마커스 : 2
 
 8. 단계 설명
 
 <div class="story-content">
   <div class="section-title">1. <span class="emphasis">소장실</span>에 남겨진 두 사람</div>
-  <p>오만하고 불쾌한 태도로 면담을 이어가던 <span class="character-clay">닥터 클레이</span>는 11시 10분경, "<span class="emphasis">기록 보관실</span>에서 자료를 가져오겠다"는 말을 남겼습니다. 자리를 뜨기 전, 그는 한마디를 덧붙였습니다.</p>
-  <p>"다른 구역으로 넘어가고 싶어도 소용없을 거요. 각 구역은 연구소 직원의 생체 정보로만 통과할 수 있는 보안 시스템이 걸려 있는데, 지금 이 연구소에 남은 직원이라곤 나 하나뿐이니 — 결국 나 없이는 다른 구역으로 넘어갈 수도 없다는 소리요. 그러니 괜히 연구소 안을 함부로 돌아다니지 마시오."</p>
-  <p><span class="character-clay">클레이</span>는 그렇게 말하고는 <span class="emphasis">소장실</span>을 나서, 복도 안쪽의 굳게 닫힌 보안 셔터를 열고 안으로 들어갔습니다.</p>
+  <p>
+    흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된
+    대사는 각자 자신의 역할 대사를 낭독합니다. (<span class="character-clay">클레이</span>의 대사는
+    <span class="character-marcus">마커스</span>가 대신 낭독합니다.)
+  </p>
+  <div class="script-direction">오만하고 불쾌한 태도로 면담을 이어가던 클레이는 11시 10분경, "기록 보관실에서 자료를 가져오겠다"는 말을 남겼다. 자리를 뜨기 전, 그는 한마디를 덧붙였다.</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: "다른 구역으로 넘어가고 싶어도 소용없을 거요. 각 구역은 연구소 직원의 생체 정보로만 통과할 수 있는 보안 시스템이 걸려 있는데, 지금 이 연구소에 남은 직원이라곤 나 하나뿐이니 — 결국 나 없이는 다른 구역으로 넘어갈 수도 없다는 소리요. 그러니 괜히 연구소 안을 함부로 돌아다니지 마시오."
+    </div>
+  </div>
+  <div class="script-direction">클레이는 그렇게 말하고는 소장실을 나서, 복도 안쪽의 굳게 닫힌 보안 셔터를 열고 안으로 들어갔다.</div>
   <p class="emphasis">소장실에 단둘이 남게 된 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>는, 소장이 자리를 비운 틈을 타 주변을 살피기 시작합니다. 눈앞의 소장실뿐 아니라, 오늘 아침 이곳에 들어서며 지나쳤던 로비와 보안 검색대의 기억도 다시 되짚어 볼 수 있을 것입니다.</p>
-  <p>본격적으로 조사를 시작하기 전, <span class="character-veyla">베일라</span>의 시선이 슬쩍 <span class="character-marcus">마커스</span>를 훑었습니다.</p>
-  <p>"수사관님, 안색이 많이 안 좋아 보이시네요. 밤을 꼬박 새우신 것 같은데."</p>
-  <p><span class="character-marcus">마커스</span>가 날 선 눈빛으로 그녀를 마주 보며 대답했습니다.</p>
-  <p>"그쪽도 편한 얼굴은 아니군요. ...서로 사정은 묻지 않는 게 좋겠습니다. 아직은."</p>
-  <p><span class="character-veyla">베일라</span>는 어깨를 으쓱하며 <span class="emphasis">소장실</span> 벽면의 미술품을 눈으로 훑었습니다.</p>
-  <p>"그럼 다른 걸 여쭤볼게요. 수사관님은 늘 이렇게 원칙대로만 움직이세요? 가끔은 감이 먼저 오지 않나요?"</p>
-  <p><span class="character-marcus">마커스</span>는 짧게 코웃음을 쳤습니다.</p>
-  <p>"감으로 움직이면 증거를 놓칩니다. 전 확인된 것만 믿습니다."</p>
-  <p>"재미없는 분이시네요." <span class="character-veyla">베일라</span>가 옅게 웃으며 말했습니다. "저는 반대예요. 이상하다 싶으면 일단 파고들고, 이유는 나중에 찾죠. 지금까지는 그 방식이 틀린 적이 없었거든요."</p>
-  <p>"그러다 크게 데이는 날이 올 겁니다."</p>
-  <p>"이미 몇 번 데어봤어요. 그래도 안 고쳐지네요."</p>
+  <div class="script-direction">본격적으로 조사를 시작하기 전, 베일라의 시선이 슬쩍 마커스를 훑었다.</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "수사관님, 안색이 많이 안 좋아 보이시네요. 밤을 꼬박 새우신 것 같은데."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(날 선 눈빛으로 그녀를 마주 보며)</span> "그쪽도 편한 얼굴은 아니군요. ...서로 사정은 묻지 않는 게 좋겠습니다. 아직은."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: <span class="script-direction">(어깨를 으쓱하며)</span> "그럼 다른 걸 여쭤볼게요. 수사관님은 늘 이렇게 원칙대로만 움직이세요? 가끔은 감이 먼저 오지 않나요?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: <span class="script-direction">(짧게 코웃음을 치며)</span> "감으로 움직이면 증거를 놓칩니다. 전 확인된 것만 믿습니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: <span class="script-direction">(옅게 웃으며)</span> "재미없는 분이시네요. 저는 반대예요. 이상하다 싶으면 일단 파고들고, 이유는 나중에 찾죠. 지금까지는 그 방식이 틀린 적이 없었거든요."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "그러다 크게 데이는 날이 올 겁니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "이미 몇 번 데어봤어요. 그래도 안 고쳐지네요."
+    </div>
+  </div>
   <p>짧은 침묵이 두 사람 사이에 내려앉았습니다. 오늘 처음 만난 사이, 그리고 각자 다른 목적을 숨기고 있는 사이라는 사실이 다시금 선명해졌습니다.</p>
   <div class="section-title">2. 단계 안내</div>
   <p>
