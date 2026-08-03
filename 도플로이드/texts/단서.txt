@@ -207,12 +207,12 @@ groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 관련 : 베일라
 의도 : 베일라가 마커스의 오른손 떨림을 목격하고 위화감을 느끼게 만듦.
 내용 :
-마커스의 오른손 끝이 미세하게 떨리며 서류를 만지작거리는 모습이 관찰되었다.
+마커스가 서류를 만질 때, 오른손 끝이 미세하게 떨리는 모습이 관찰되었다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">정문 로비</span>에서 대면했을 때 목격한 <span class="character-marcus">마커스</span>의 모습이다.</div>
   <div class="divider"></div>
-  <div><span class="character-marcus">마커스</span>의 오른손 끝이 미세하게 떨리며 서류를 만지작거리는 모습이 관찰되었다.</div>
+  <div><span class="character-marcus">마커스</span>가 서류를 만질 때, 오른손 끝이 미세하게 떨리는 모습이 관찰되었다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a tense man's trembling right hand hovering near his jacket, a glint of silver metal barely visible at the collar. Cold lighting, empty lobby background blurred. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 마커스에 대하여
@@ -435,8 +435,8 @@ groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
 단계 : C구역
 소모AP : 0
 정렬순서 : 430
-중요도 : 최고
-핵심 단서 여부 : Y
+중요도 : 보통
+핵심 단서 여부 : N
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
@@ -444,18 +444,20 @@ groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 공통
-의도 : 소장(복제 개체)이 오래된 도면 정보만으로 "직원 휴게실"이라 확신했다가 실제와 다른 것으로 드러나는 장면. 다만 "관리를 다른 직원에게 맡겨서 최근 상황을 몰랐다"는 변명이 꽤 그럴듯해서, 마커스와 베일라조차 이게 진짜 실수인지 위장인지 확신하지 못하고 넘어가는 수준의 위화감으로 설계. (단계_5_C구역_조사.txt 대본에서 이미 라이브로 목격되는 사건이므로 별도 조사 없이 자동 공개)
+의도 : clue_23(폐기물 소각장#1)이 담고 있던 정보 중 절반(배양 개체를 막을 유일한 수단이 마스터 컨트롤 패널이라는 사실)만 분리해 미리 제공. "왜 원본과 마주치면 폭주하는지", "왜 그 방법을 쓰지 못했는지"는 여기서 밝히지 않고 clue_23에서 완성되도록 설계. 클레이 본인이 이 병실에서 치료받던 환자이기도 했다는 설정에 맞게, 시설 안내판이 아니라 그가 남겨뒀을 법한 개인 메모 형태로 구성. C구역에서 더 일찍 얻는 단서이므로 정보량과 중요도를 낮게 배치.
 내용 :
-소장이 "과거에 직원 휴게실이었던 곳"이라며 자신 있게 문을 열었으나, 내부는 휴게실 흔적이 전혀 없고 온갖 투석기와 생명 유지 장치들로 가득 찬 극비 중환자실이었던 정황. 소장은 "최근 이 구역 관리를 다른 직원에게 맡겨둬서 몰랐다"고 말했다.
+생명 유지 장치 옆에 놓여 있던 메모지 한 장. "배양 개체 긴급 정지: 지정된 마스터 컨트롤 패널에서만 가능."
 HTML :
 <div class="story-content">
-  <div class="script-direction">C구역 진입 당시, <span class="character-clay">소장</span>의 길안내 불일치를 목격한 장면이다.</div>
+  <div class="script-direction"><span class="emphasis">비밀 병실</span> 생명 유지 장치 옆에 놓여 있던 메모지다.</div>
   <div class="divider"></div>
-  <div>소장이 "과거에 직원 휴게실이었던 곳"이라며 자신 있게 문을 열었으나, 내부는 휴게실 흔적이 전혀 없고 온갖 투석기와 생명 유지 장치들로 가득 찬 극비 중환자실이었던 정황. 소장은 "최근 이 구역 관리를 다른 직원에게 맡겨둬서 몰랐다"고 말했다.</div>
+  <div class="document-page">
+    <div class="document-body small">"배양 개체 긴급 정지: 지정된 마스터 컨트롤 패널에서만 가능."</div>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A doorway revealing a stark contrast between an old faded "Break Room" sign and a room full of glowing medical life-support machinery. Cold clinical lighting. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small handwritten memo note resting beside life-support equipment in a clinical room, terse handwritten text. Cold clinical lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : C구역
-파일명 : 13_소장_공간인지_불일치
+파일명 : 13_병실_대응메모
 
 
 [clue_14]
@@ -515,20 +517,20 @@ groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 조수 알렉스가 가문의 유전병(남자에게만 발현, 그녀 본인은 무사)을 앓는 가족을 위해 위험한 연구에 스스로 헌신했음을 밝히되, 병명과 구체적 증상은 의도적으로 감춤. clue_25(지하 배양실#1, 알렉스 본인의 일지)에서 병명과 증상(손끝 떨림·무감각)을 완성해 마커스에게서 관찰되는 증상(clue_06/13)과 교차 확인하도록 설계. 그 가족이 마커스 본인이라는 사실은 이름으로 확정하지 않음.
+의도 : 조수 알렉스가 가문의 유전병(남자에게만 발현, 그녀 본인은 무사)을 앓는 가족을 위해 위험한 연구에 스스로 헌신했음을 밝히되, 병명과 구체적 증상은 의도적으로 감춤. clue_25(지하 배양실#1, 알렉스 본인의 일지)에서 병명과 증상(손끝 떨림·무감각)을 완성해 마커스에게서 관찰되는 증상(clue_06)과 교차 확인하도록 설계. 그 가족이 마커스 본인이라는 사실은 이름으로 확정하지 않음.
 내용 :
-"그녀가 유독 위험한 실험도 마다하지 않던 이유를, 나는 뒤늦게야 알게 되었다. 그녀의 집안에는 대물림되는 유전병이 있었는데, 다행히 그녀 자신은 무사했다. 그 병은 유독 집안의 남자에게만 발현된다고 했다. 자신이 아니라 하나뿐인 가족을 살리기 위해, 이 위험한 연구에 스스로 뛰어든 것이었다. 진작 알았더라면... 그 병이 도지기 전에 치료법을 완성해야 할 텐데."
+"그녀가 그렇게까지 위험한 실험에 매달렸던 이유를, 나는 뒤늦게야 알았다. 집안 대대로 내려오는 병이 있다고 했다. 정작 그녀 자신은 멀쩡한데, 그 몹쓸 병은 꼭 집안 남자들에게만 옮아 붙는다더군. 자기 몸 하나 지키자고 한 일이 아니었던 것이다. 하나 남은 가족을 살리겠다고, 여기까지 온 것이었다. …진작 알았더라면. 병이 도지기 전에, 무슨 수를 써서라도 치료법 하나쯤은 완성해 놓았을 텐데."
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="emphasis">비밀 병실</span> 컴퓨터 데이터베이스에서 발견한 일지 기록이다.</div>
+  <div class="script-direction"><span class="emphasis">비밀 병실</span> 한쪽에 놓여 있던 메모지 한 장이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"그녀가 유독 위험한 실험도 마다하지 않던 이유를, 나는 뒤늦게야 알게 되었다. 그녀의 집안에는 대물림되는 유전병이 있었는데, 다행히 그녀 자신은 무사했다. 그 병은 유독 집안의 남자에게만 발현된다고 했다. 자신이 아니라 하나뿐인 가족을 살리기 위해, 이 위험한 연구에 스스로 뛰어든 것이었다. 진작 알았더라면... 그 병이 도지기 전에 치료법을 완성해야 할 텐데."</div>
+    <div class="document-body small">"그녀가 그렇게까지 위험한 실험에 매달렸던 이유를, 나는 뒤늦게야 알았다. 집안 대대로 내려오는 병이 있다고 했다. 정작 그녀 자신은 멀쩡한데, 그 몹쓸 병은 꼭 집안 남자들에게만 옮아 붙는다더군. 자기 몸 하나 지키자고 한 일이 아니었던 것이다. 하나 남은 가족을 살리겠다고, 여기까지 온 것이었다. …진작 알았더라면. 병이 도지기 전에, 무슨 수를 써서라도 치료법 하나쯤은 완성해 놓았을 텐데."</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old computer terminal screen in a dim medical room, displaying a scrolling log entry. Cold glowing screen light. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small handwritten memo note resting on a table in a dim medical room. Cold clinical lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : C구역
-파일명 : 15_병실_컴퓨터일지
+파일명 : 15_병실_메모
 
 
 [clue_16]
@@ -731,12 +733,12 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 관련 : 공통
 의도 : 피해자가 격렬히 저항하며 범인에게 눈에 띄는 긁힌 상처를 입혔음을 물리적으로 증명.
 내용 :
-교살당한 시체의 오른손 손톱 밑에 붉은 핏자국과 타인의 것으로 보이는 미세한 피부 조직 조각이 거칠게 끼어 있는 정황.
+시신의 오른손 손톱 밑에는 붉은 핏자국과 타인의 것으로 보이는 미세한 피부 조직 조각이 거칠게 끼어 있었다.
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="emphasis">기록 보관실</span> 시신의 손톱 밑에서 채취한 미세 잔해 분석 결과다.</div>
+  <div class="script-direction"><span class="emphasis">기록 보관실</span> 시신의 손톱 밑에서 발견한 흔적이다.</div>
   <div class="divider"></div>
-  <div>교살당한 시체의 오른손 손톱 밑에 붉은 핏자국과 타인의 것으로 보이는 미세한 피부 조직 조각이 거칠게 끼어 있는 정황.</div>
+  <div>시신의 오른손 손톱 밑에는 붉은 핏자국과 타인의 것으로 보이는 미세한 피부 조직 조각이 거칠게 끼어 있었다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a lifeless hand, dried blood and tissue fragments visible under the fingernails. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : B구역
@@ -762,14 +764,14 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 공통
-의도 : clue_21와 교차 매칭되어 생존 소장이 진짜 범인임을 증명. 손끝의 검은 얼룩은 clue_24(문 앞 바닥에 떨어져 있던 소각장 문서)와 교차되는 관찰 단서. AIex가 은신 중 소각장에서 그 문서를 직접 만졌다는 사실을 새 단서 추가 없이 뒷받침.
+의도 : clue_21와 교차 매칭되어 소장이 진짜 범인임을 증명. 손끝의 검은 얼룩은 clue_24(문 앞 바닥에 떨어져 있던 소각장 문서)와 교차되는 관찰 단서. AIex가 은신 중 소각장에서 그 문서를 직접 만졌다는 사실을 새 단서 추가 없이 뒷받침.
 내용 :
-현재 소장 가운을 입고 일행을 인도하는 소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는, 긁힌 지 얼마 되지 않아 피가 살짝 맺혀 부풀어 오른 선명한 상처들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.
+소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는 긁힌 상처들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="emphasis">기록 보관실</span>을 나서는 생존 소장의 옷깃 틈에서 언뜻 목격한 상처 정황이다.</div>
+  <div class="script-direction"><span class="emphasis">기록 보관실</span>을 나서는 소장의 옷깃 틈에서 언뜻 목격한 상처다.</div>
   <div class="divider"></div>
-  <div>현재 소장 가운을 입고 일행을 인도하는 소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는, 긁힌 지 얼마 되지 않아 피가 살짝 맺혀 부풀어 오른 선명한 상처들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.</div>
+  <div>소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는 긁힌 상처들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a fresh scratch wound peeking out from under a lab coat sleeve and shirt collar. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : B구역
@@ -795,20 +797,18 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 공통
-의도 : 이 복제체가 진짜 창조주이자 원본인 닥터 클레이와 조우했을 때 의도치 않게 살의가 폭주할 수밖에 없었던 시스템적 비극과 살해 동기(부작용)를 증명. 동시에 이 위험성을 알고도 방치하거나 은폐하려 한 클레이 자신의 책임을 암시하는 물증으로도 기능. (사건 해결에 필수적인 단서라 별도 조사 없이 자동 공개)
+의도 : 이 복제체가 진짜 창조주이자 원본인 닥터 클레이와 조우했을 때 의도치 않게 살의가 폭주할 수밖에 없었던 시스템적 비극과 살해 동기(부작용)를 증명. 동시에 이 위험성을 알고도 방치하거나 은폐하려 한 클레이 자신의 책임을 암시하는 물증으로도 기능. (사건 해결에 필수적인 단서라 별도 조사 없이 자동 공개) 원래 이 문서에 담겨 있던 대응책 정보(마스터 컨트롤 패널로만 강제 정지 가능, 재설계할 시간 부족, 격리 결정)는 clue_13으로 분리해 C구역에서 먼저 낮은 비중으로 제공.
 내용 :
-불에 그을려 절반 넘게 사라진 문서. 남은 부분에서 클레이 자신의 필체로 쓴 구절이 겨우 읽힌다. "…배양 개체가 원본과 대면하면 제어 신호에 심각한 오류가 발생한다. 이성을 잃고 원본을 향한 통제 불능의 살의가 폭주한다. 마스터 패널로 셧다운하는 것 외에는 막을 방법이… 이 결함을 뿌리부터 뜯어고치려면 처음부터 다시 설계해야 한다. 지금은 그럴 시간이 없다. 하지만 이 살의가 오직 원본과의 대면에서만 발현된다면, 다시는 마주치지만 않으면…" 그 뒷장은 새까맣게 타버려 아무것도 남아 있지 않다.
+불에 거의 다 타버린 문서. 그나마 겨우 알아볼 수 있는 한 문장만 남아 있다. "…배양 개체가 원본과 대면하면, 이성을 잃고 원본을 향한 통제 불능의 살의가 폭주한다…"
 HTML :
 <div class="story-content">
-  <div class="script-direction">불에 그을려 절반 넘게 사라진 문서. 남은 부분에서 <span class="character-clay">클레이</span> 자신의 필체로 쓴 구절이 겨우 읽힌다.</div>
+  <div class="script-direction">불에 거의 다 타버린 문서다. 그나마 겨우 알아볼 수 있는 한 문장만 남아 있다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"…배양 개체가 원본과 대면하면 제어 신호에 심각한 오류가 발생한다. 이성을 잃고 원본을 향한 통제 불능의 살의가 폭주한다. 마스터 패널로 셧다운하는 것 외에는 막을 방법이… 이 결함을 뿌리부터 뜯어고치려면 처음부터 다시 설계해야 한다. 지금은 그럴 시간이 없다. 하지만 이 살의가 오직 원본과의 대면에서만 발현된다면, 다시는 마주치지만 않으면…"</div>
+    <div class="document-body small">"…배양 개체가 원본과 대면하면, 이성을 잃고 원본을 향한 통제 불능의 살의가 폭주한다…"</div>
   </div>
-  <div class="script-direction">그 뒷장은 새까맣게 타버려 아무것도 남아 있지 않다.</div>
-  <div class="divider"></div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-burned document, edges charred black, legible handwriting on the surviving portion, inside a dark incinerator chamber. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a nearly entirely burned document, most of it charred black, only a single barely legible handwritten line surviving in one corner, inside a dark incinerator chamber. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : D구역
 파일명 : 23_소각로_타다만문서
 
@@ -831,20 +831,20 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 프로메테우스가 클레이 개인의 일탈이 아니라 정부가 은밀히 지원한 국가 프로젝트였음을 밝히고, 클레이가 은폐해 온 "소속 연구원 사망 사고"(알렉스의 죽음)를 정부가 최근에서야 포착해 서둘러 폐쇄를 명령했다는 진짜 이유를 드러냄. AIex는 08:00 서쪽 환기구(B구역)로 잠입한 뒤 클레이와 동일한 생체정보(clue_11) 덕분에 구역 간 보안 게이트를 자유롭게 넘나들 수 있었고, 은신 중 D구역까지 돌아다니다 이 문서를 먼저 읽었다는 설정. 단계_5에서 그가 "정부 폐쇄의 표면적 명분이 핑계에 불과하다"고 둘러대는 대사의 근거가 됨. 동시에 마커스의 정식 수사 요청이 매번 반려된 이유(기밀 사업이라 외부 수사 자체가 원천 차단됨, clue_06/역할_2_마커스.txt의 "몇 달째 반려" 정황과 교차 확인)도 함께 해명하는 핵심 물증. 새 단서를 추가하지 않는 선에서 "누군가 이미 읽었다"는 사실을 관찰 가능하게 하기 위해, 문서가 소각로 안이 아니라 문 앞 바닥에 떨어져 있었고 재 묻은 손자국이 겹쳐 있다는 물증을 이 단서 자체에 덧붙임. 실제로는 지금 일행과 동행 중인 AIex 본인이 남긴 흔적.
+의도 : 프로메테우스가 클레이 개인의 일탈이 아니라 정부가 은밀히 지원한 국가 프로젝트였음을 밝히고, 클레이가 은폐해 온 사고를 정부가 최근에서야 포착해 서둘러 폐쇄를 명령했다는 진짜 이유를 드러냄. 이 문서만으로는 그 "사고"가 무엇인지 밝히지 않고, clue_29(알렉스 사고 보고서)와 교차해야 비로소 "은폐된 사고 = 알렉스의 죽음"이라는 진실이 완성되도록 설계. AIex는 08:00 서쪽 환기구(B구역)로 잠입한 뒤 클레이와 동일한 생체정보(clue_11) 덕분에 구역 간 보안 게이트를 자유롭게 넘나들 수 있었고, 은신 중 D구역까지 돌아다니다 이 문서를 먼저 읽었다는 설정. 단계_5에서 그가 "정부 폐쇄의 표면적 명분이 핑계에 불과하다"고 둘러대는 대사의 근거가 됨. 동시에 마커스의 정식 수사 요청이 매번 반려된 이유(기밀 사업이라 외부 수사 자체가 원천 차단됨, 역할_2_마커스.txt의 "몇 달째 반려" 정황과 교차 확인)도 함께 해명하는 핵심 물증. 새 단서를 추가하지 않는 선에서 "누군가 이미 읽었다"는 사실을 관찰 가능하게 하기 위해, 문서가 소각로 안이 아니라 문 앞 바닥에 떨어져 있었고 재 묻은 손자국이 겹쳐 있다는 물증을 이 단서 자체에 덧붙임. 실제로는 지금 일행과 동행 중인 AIex 본인이 남긴 흔적.
 내용 :
-소각로 안이 아니라, 정작 소각로 문 바로 앞 바닥에 반쯤 타다 만 채로 떨어져 있었다. 불에 그을려 가장자리만 겨우 남은 공문서에는, 정부 부처의 직인 흔적과 함께 드문드문 이어지는 문장들이 읽힌다. "…본 사업은 '코드네임: 프로메테우스'로 분류된 국가 특수 생체공학 사업으로, 관련 정보 일체는 최상위 기밀로 취급한다… 시설 내에서 은폐되어 온 소속 연구원 사망 사고가 최근 확인되었다. 외부 유출을 철저히 차단하고, 관련 시설의 즉각적이고 조용한 폐쇄 조치를 명한다… 사고 경위에 대한 외부 수사 요청은 어떠한 사유로도 승인하지 말 것." 나머지는 알아볼 수 없이 타버렸다.
+소각로 문 바로 앞 바닥에, 반쯤 타다 만 채로 떨어져 있었다. 불에 그을려 가장자리만 겨우 남은 종이에는, 드문드문 이어지는 문장들이 읽힌다. "…시설 내에서 은폐되어 온 사고가 최근 확인되었다. 외부 유출을 철저히 차단하고, 관련 시설의 즉각적이고 조용한 폐쇄 조치를 명한다… 사고 경위에 대한 외부 수사 요청은 어떠한 사유로도 승인하지 말 것." 종이 가장자리에는 누군가 만졌던 것으로 보이는 거뭇한 손자국이 얼룩져 있고, 그 아래로 정부 부처의 것으로 보이는 직인 일부가 겨우 남아 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="emphasis">폐기물 소각장</span>에서 발견한 타다 만 공문서다. 소각로 안이 아니라 문 바로 앞 바닥에 떨어져 있었다.</div>
+  <div class="script-direction"><span class="emphasis">폐기물 소각장</span> 문 바로 앞 바닥에 타다 만 종이가 떨어져 있었다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"…본 사업은 '코드네임: <span class="emphasis">프로메테우스</span>'로 분류된 국가 특수 생체공학 사업으로, 관련 정보 일체는 최상위 기밀로 취급한다… 시설 내에서 은폐되어 온 소속 연구원 사망 사고가 최근 확인되었다. 외부 유출을 철저히 차단하고, 관련 시설의 즉각적이고 조용한 폐쇄 조치를 명한다… 사고 경위에 대한 외부 수사 요청은 어떠한 사유로도 승인하지 말 것."</div>
+    <div class="document-body small">"…시설 내에서 은폐되어 온 사고가 최근 확인되었다. 외부 유출을 철저히 차단하고, 관련 시설의 즉각적이고 조용한 폐쇄 조치를 명한다… 사고 경위에 대한 외부 수사 요청은 어떠한 사유로도 승인하지 말 것."</div>
   </div>
-  <div class="script-direction">나머지는 알아볼 수 없이 타버렸다.</div>
+  <div class="script-direction">종이 가장자리에는 누군가 만졌던 것으로 보이는 거뭇한 손자국이 얼룩져 있고, 그 아래로 정부 부처의 것으로 보이는 직인 일부가 겨우 남아 있다.</div>
   <div class="divider"></div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-burned government document, a partial official seal stamp visible on the charred paper, inside a dark incinerator chamber. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-burned government document, a faint sooty fingerprint smudge along one edge and a partial official seal stamp visible on the charred paper, inside a dark incinerator chamber. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : D구역
 파일명 : 24_소각장_정부기밀공문
 
@@ -868,7 +868,7 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : clue_15(비밀 병실#3)이 감춰둔 병명과 구체적 증상(손끝 떨림·무감각·전신 신경 기능 상실)을 알렉스 본인의 목소리로 완성하는 최종 스모킹 건. 이 "동생"이 마커스라는 사실은 여기서도 이름으로 확정하지 않고, 플레이어가 clue_06/13에서 관찰한 마커스의 증상과 직접 교차 확인해야 결론에 도달하도록 설계.
+의도 : clue_15(비밀 병실#3)이 감춰둔 병명과 구체적 증상(손끝 떨림·무감각·전신 신경 기능 상실)을 알렉스 본인의 목소리로 완성하는 최종 스모킹 건. 이 "동생"이 마커스라는 사실은 여기서도 이름으로 확정하지 않고, 플레이어가 clue_06에서 관찰한 마커스의 증상과 직접 교차 확인해야 결론에 도달하도록 설계.
 내용 :
 "정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 클레이 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 하나뿐인 동생에게 나타날 '말초신경 위축증'의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 전신 신경 기능 상실과 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."
 HTML :
@@ -947,13 +947,12 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 관련 : 공통
 의도 : clue_26(디지털 배양 데이터)의 'AI-ex'라는 ID가 실제 캡슐에도 물리적 자산 태그로 붙어 있었음을 확인시켜, 배양이 '완료' 상태로 끝나 이미 캡슐을 벗어나 방출되었음을 증명. 동시에 그 태그 주변에만 집중된 손자국을 통해, 이 빈 배양조 앞을 최근까지 유독 서성이며 그 이름표를 짚어 온 누군가(클레이)의 미련을 암시. 벽면의 눈금 자국은 clue_28에서 드러나는 클레이의 원망과 대비되는 정보. 배양 기간 내내 마치 아이를 키우듯 지켜봐 온 애정이 있었기에 완전히 없애지 못하고 방출을 택했다는 정황을, 대사나 서술 없이 순수한 관찰 물증만으로 전달.
 내용 :
-내부에 어떤 기계적 파손이나 파편 흔적도 없이 말끔하지만, 제법 오랫동안 비워둔 듯 내부 벽면을 따라 옅게 말라붙은 단백질 흔적만 남아 있는 1인용 거대 배양조. 캡슐 옆 벽면에는, 마치 아이의 키를 재듯 일정한 간격으로 그어진 가느다란 눈금 자국들이 세로로 나란히 남아 있다. 캡슐 하단에는 빛바랜 자산 태그가 붙어 있다: [MODEL: AI-ex / 상태: 완료 - 방출]. 유독 그 태그 주변 유리에만, 누군가 오랫동안 그것도 비교적 최근까지 반복해서 짚었던 듯한 손자국이 여러 겹 겹쳐 남아 있다.
+텅 비어 있는 1인용 거대 배양조. 캡슐 옆 벽면에는, 마치 아이의 키를 재듯 일정한 간격으로 그어진 가느다란 눈금 자국들이 세로로 나란히 남아 있다. 캡슐 하단에는 빛바랜 자산 태그가 붙어 있다: [MODEL: AI-ex / 상태: 완료 - 방출]. 유독 그 태그 주변 유리에만, 누군가 오랫동안 그것도 비교적 최근까지 반복해서 짚었던 듯한 손자국이 여러 겹 겹쳐 남아 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span>의 비어 있는 배양조 앞에서 관찰한 흔적이다.</div>
   <div class="divider"></div>
-  <div>내부에 어떤 기계적 파손이나 파편 흔적도 없이 말끔하지만, 제법 오랫동안 비워둔 듯 내부 벽면을 따라 옅게 말라붙은 단백질 흔적만 남아 있는 1인용 거대 배양조.</div>
-  <div>캡슐 옆 벽면에는, 마치 아이의 키를 재듯 일정한 간격으로 그어진 가느다란 눈금 자국들이 세로로 나란히 남아 있다.</div>
+  <div>텅 비어 있는 1인용 거대 배양조. 캡슐 옆 벽면에는, 마치 아이의 키를 재듯 일정한 간격으로 그어진 가느다란 눈금 자국들이 세로로 나란히 남아 있다.</div>
   <div class="system-msg">MODEL: AI-ex<br />상태: 완료 - 방출</div>
   <div>유독 그 태그 주변 유리에만, 누군가 오랫동안 그것도 비교적 최근까지 반복해서 짚었던 듯한 손자국이 여러 겹 겹쳐 남아 있다.</div>
 </div>
@@ -1017,13 +1016,13 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 관련 : 마커스
 의도 : clue_28(클레이의 옛 일지)이 담아내지 못하는 건조하고 공식적인 사실 확인용 문서. 소속 연구원 '알렉스'의 사망 사실을 문서상으로 명시해, 마커스가 그토록 찾아 헤매던 누나의 행방에 마침내 답을 주는 결정적 단서. 동시에 "유가족 통보 보류"라는 문구로 clue_24의 은폐 정황과도 연결됨.
 내용 :
-공식 양식에 타이핑된 "연구소 내 중대 사고 보고서". 소속: 연구원. 성명: 알렉스. 사고 유형: 시설 내 배양 개체에 의한 신체적 위해. 사고 경위: 각성한 배양 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐. 결과: 사망 확인. 처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류.
+공식 양식에 타이핑된 "연구소 내 중대 사고 보고서". 소속: 프로메테우스 연구소. 직위: 연구원. 대상자: 알렉스(36, 여). 사고 유형: 시설 내 배양 개체에 의한 신체적 위해. 사고 경위: 각성한 배양 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐. 결과: 사망 확인. 처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span> 서고에서 발견한, 공식 양식의 사고 보고서다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"연구소 내 중대 사고 보고서"<br />소속: 연구원<br />성명: <span class="character-alex">알렉스</span><br />사고 유형: 시설 내 배양 개체에 의한 신체적 위해<br />사고 경위: 각성한 배양 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐<br />결과: 사망 확인<br />처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류</div>
+    <div class="document-body small">"연구소 내 중대 사고 보고서"<br />소속: 프로메테우스 연구소<br />직위: 연구원<br />대상자: <span class="character-alex">알렉스</span>(36, 여)<br />사고 유형: 시설 내 배양 개체에 의한 신체적 위해<br />사고 경위: 각성한 배양 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐<br />결과: 사망 확인<br />처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an official typed incident report form with checkbox fields and an institutional stamp, resting on a metal shelf. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -1083,12 +1082,12 @@ groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 관련 : 마커스
 의도 : 마커스가 FBI 본부의 질책 전화를 받다가, CIA에는 이 사건에 파견된 요원이 없다는 사실을 우연히 듣게 되어 베일라의 신분 사칭을 의심하게 만듦. (역할_1_베일라.txt의 "CIA 사칭" 비밀이 드러나는 발각 경로)
 내용 :
-D구역에 들어설 즈음, 휴대폰으로 낯익은 번호가 걸려 왔다. FBI 본부였다. 독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상대는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 이 건으로 파견된 요원은 아예 없다더군. 거긴 대체 누구지?"
+D구역에 들어설 즈음, 휴대폰으로 낯익은 번호가 걸려 왔다. FBI 본부였다. 독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상사는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 이 건으로 파견된 요원은 아예 없다더군. 거긴 대체 누구지?"
 HTML :
 <div class="story-content">
   <div class="script-direction">D구역에 들어설 즈음, 휴대폰으로 걸려 온 FBI 본부와의 통화 내용이다.</div>
   <div class="divider"></div>
-  <div>독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상대는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 이 건으로 파견된 요원은 아예 없다더군. 거긴 대체 누구지?"</div>
+  <div>독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상사는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 이 건으로 파견된 요원은 아예 없다더군. 거긴 대체 누구지?"</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old-style mobile phone held to an ear, tense grip, dim investigation-room background. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 베일라에 대하여

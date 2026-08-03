@@ -38,31 +38,10 @@ FBI 수사관 마커스 : 2
   <div class="script-direction">기계음이 이어지는 동안, 짧은 정적이 흘렀다. 마커스가 먼저 침묵을 깼다.</div>
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...태연해 보이시는군요. 방금 시체를 보고 온 사람치고는."
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...생각보다 침착하시네요. 방금 그런 걸 보고도."
     </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "태연한 게 아니라, 여기서 무너지면 아무것도 못 하니까 버티는 거예요. 이 일 하다 보면 다들 그렇게 돼요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "이 일이라면... CIA 일 말입니까?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "네. 처음엔 그저 정보를 모으는 일이 전부인 줄 알았는데, 어느 순간부터는 그 정보 뒤에 있는 사람들의 사정까지 들여다보는 일이 되더라고요. 대개 그 사정은... 별로 아름답지 않죠."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "수사관 일도 비슷합니다. 다른 게 있다면, 저는 이유를 찾고 나면 벌을 줘야 한다는 거죠."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "그 차이, 꽤 크네요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그런 것 같습니다."
-    </div>
-  </div>
-  <div class="script-direction">잠시 침묵이 흐르다가, 베일라가 문득 입을 열었다.</div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "이상하게 이런 순간엔, 자꾸 누가 생각나네요."
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "여기서 무너지면 아무것도 못 하니까, 버티는 것뿐이에요. ...이상하게 이런 순간엔, 자꾸 누가 생각나네요."
     </div>
     <div class="script-line">
       <span class="script-character"><span class="character-marcus">마커스</span></span>: "...누구 말입니까?"
@@ -74,38 +53,38 @@ FBI 수사관 마커스 : 2
       <span class="script-character"><span class="character-marcus">마커스</span></span>: "...있습니다."
     </div>
   </div>
-  <div class="script-direction">마커스의 거센 압박에 소장이 C구역의 무거운 철문을 연다. 문을 열기 전, 소장은 자신 있게 앞장서며 말했다.</div>
+  <div class="script-direction">마커스의 거센 압박에 소장이 C구역의 무거운 철문을 연다. 문을 열기 전, 소장이 앞장서며 말했다.</div>
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "여기는 예전에 쓰던 직원 휴게실이오."
+      <span class="script-character"><span class="character-clay">클레이</span></span>: "여기는 예전에 쓰던 직원 휴게실입니다."
     </div>
   </div>
   <p class="emphasis">하지만 문이 열리자마자 코를 찌르는 강렬한 소독약 냄새와 함께, '삐- 삐-' 하는 기계음이 규칙적으로 울려 퍼집니다. 안쪽은 휴게실의 흔적은 전혀 없고, 온갖 투석기와 생명 유지 장치로 가득한 극비 중환자 병실이 자리하고 있었습니다.</p>
-  <div class="script-direction">당혹스러운 광경 앞에서 침묵이 흐르자, 소장이 수습하려는 듯 다급하게 입을 열었다.</div>
+  <div class="script-direction">예상치 못한 광경 앞에서 침묵이 흐르자, 소장이 수습하려는 듯 다급하게 입을 열었다.</div>
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "...아, 얼마 전에 개조된 모양이군. 요즘 이 구역 관리는 다른 직원에게 맡겨두고 있어서, 나도 최근 상황까지는 잘 몰랐소."
+      <span class="script-character"><span class="character-clay">클레이</span></span>: "...아, 얼마 전에 개조된 모양이군요. 시설 관리는 따로 담당자를 두고 있어서요. 연구에만 매달리다 보니, 보고받은 걸 깜빡했나 봅니다."
     </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그럴 수도 있겠군요. 관리자가 시설 세부사항을 일일이 다 꿰고 있으라는 법은 없으니."
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그럴 수도 있겠군요. 연구에만 몰두하다 보면, 그런 보고 하나쯤 놓칠 수도 있겠죠."
     </div>
   </div>
   <p>그의 말이 딱히 틀린 것도 아니었습니다. 하지만 어딘가 석연치 않은 기분은 쉽사리 가시지 않았습니다.</p>
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "소장님. 당신 정말 클레이 소장이 맞습니까? 아까 보관실 바닥의 시체가 진짜 소장이고, 당신이 다른 사람인 건 아니고요?!"
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "소장님. 당신, 정말 클레이 소장 본인이 맞습니까?"
     </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "무슨 헛소리요! 나는 틀림없는 클레이 소장이오. 저 시체가 왜 나와 닮았는지는 나도 알고 싶소만, 지금 그걸 따질 때요?"
+      <span class="script-character"><span class="character-clay">클레이</span></span>: "무슨 헛소리입니까! 저는 틀림없는 클레이 소장입니다. 지금 그런 걸 따질 때입니까?"
     </div>
   </div>
   <div class="script-direction">베일라의 얼굴에서 핏기가 가셨다. 하지만 그녀는 이내 흔들림을 감추고 말을 이었다.</div>
   <div class="script-container">
     <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...잠깐, 확인할 방법이 있어요. 몸에 흉터든 반점이든, 남들이 모르는 특징적인 표식이 하나쯤 있지 않나요? 당신이 정말 클레이 소장이라면, 그 정도는 어렵지 않게 보여주실 수 있겠죠."
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...잠깐, 확인할 방법이 있어요. 사전에 알아본 클레이 소장님 신체 기록에는, 왼쪽 가슴 쪽에 특정한 표식이 있다고 되어 있더군요. 정말 소장님이 맞다면, 그 정도는 어렵지 않게 보여주실 수 있겠죠."
     </div>
     <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "...이 무슨 무례한 요구요! 그런 걸로 증명해야 한다면, 다른 방법도 있소. 정부가 이 연구소를 폐쇄하려는 진짜 이유, '불법 연구 의혹'이라는 게 표면적인 핑계에 불과하다는 것도 나는 알고 있소. 이런 것까지 꿰고 있는 사람이, 어디 흔하겠소?"
+      <span class="script-character"><span class="character-clay">클레이</span></span>: "...이 무슨 무례한 요구입니까! 그런 걸로 증명해야 한다면, 다른 방법도 있습니다. 정부가 이 연구소를 폐쇄하려는 진짜 이유, '불법 연구 의혹'이라는 게 표면적인 핑계에 불과하다는 것도 저는 알고 있습니다. 이런 것까지 꿰고 있는 사람이, 어디 흔하겠습니까?"
     </div>
   </div>
   <p>마커스와 베일라는 순간 말을 잃고 서로를 마주 보았습니다. 정부 내부 사정까지 꿰고 있는 사람이 흔할 리 없다는 그 말이, 방금까지의 확신에 작은 균열을 냈습니다.</p>
@@ -129,6 +108,7 @@ FBI 수사관 마커스 : 2
     1. AP 지급: 이번 구역에서 사용할 AP가 인당 2씩 지급됩니다.<br />
     2. 단서 수집: AP를 사용하여 단서를 조사하십시오. 조사한 단서는 본인만 확인할 수 있으며, 상대방에게 알릴지는 전적으로 당신의 선택입니다. 다만 단서의 제목만은 서로에게 공개되니, 누가 무엇을 조사할지 미리 상의할 수 있습니다.<br />
     3. 자유 토론: 소장이 자기 연구소 방의 용도조차 모른다는 사실과, 방금 보인 격한 반응을 근거로 그의 정체에 대한 의심을 나누십시오.<br />
-    4. 단계 완료: 조사와 대화가 모두 완료되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.
+    4. 단계 완료: 조사와 대화가 모두 완료되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 
+    단계로 진행하십시오.
   </p>
 </div>
