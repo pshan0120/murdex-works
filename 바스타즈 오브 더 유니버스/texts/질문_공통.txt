@@ -1,4 +1,6 @@
 // 첫 번째 질문
+QuestionID : d681c581-9a33-48d6-99a7-10600bc4910e
+[질문]
 <div class="story-content">
   <div class="section-title">1. 처형 대상 지목</div>
   <p>
@@ -10,29 +12,38 @@
   </p>
 </div>
 
+[선택지]
 <div class="story-content">
   <span class="character-skullcrusher">스컬크러셔</span>
 </div>
+
 <div class="story-content">
   <span class="character-malice">말리스</span>
 </div>
+
 <div class="story-content">
   <span class="character-balrog">발로그</span>
 </div>
+
 <div class="story-content">
   <span class="character-slither">슬리더</span>
 </div>
+
 <div class="story-content">
   <span class="character-gorehoof">고어후프</span>
 </div>
+
 <div class="story-content">
   <span class="character-elantra">엘란트라</span>
 </div>
+
 <div class="story-content">
   기권
 </div>
 
 // 두 번째 질문
+QuestionID : afbb4eef-8f14-4a42-9cb9-2d2e65b3dcf8
+[질문]
 <div class="story-content">
   <div class="section-title">2. 최종 전투</div>
   <p>전투 판정 계산기는 <span class="character-eldritch">엘드리치</span> 플레이어가 대표로 새 탭에서 실행하여 결과를 확인한 후 팀원들과 공유해 주세요. (<span class="emphasis">모든 플레이어가 동일한 결과</span>로 답변을 선택해야 합니다.)</p>
@@ -41,8 +52,10 @@
   <div style="text-align: center; margin: 25px 0;">
     <a href="/tools/bastards-of-the-universe/calculator" target="_blank" style="display: inline-block; padding: 12px 24px; background: #d4af37; color: #0a0705; font-weight: bold; border-radius: 6px; text-decoration: none; font-size: 1.05em; box-shadow: 0 4px 15px rgba(212,175,55,0.3);">⚔️ 전투 판정 계산기 새 탭에서 열기</a>
   </div>
+
 </div>
 
+[선택지]
 <div class="story-content">
   판정 A <span class="emphasis">— 마신 승리</span> (생존 <span class="character-bastards">바스타즈</span> 전투력 합계 ≤ 마신 전투력)
 </div>

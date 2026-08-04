@@ -21,11 +21,9 @@ FBI 수사관
 6. 공개 정보
 <div class="story-content">
   <ul>
-    <li><strong>역할</strong>: <span class="emphasis">프로메테우스 연구소</span>의 불법 연구 의혹을 수사하러 온 FBI 수사관</li>
+    <li><strong>역할</strong>: <span class="emphasis">프로메테우스 연구소</span>를 조사하러 온 FBI 수사관</li>
     <li><strong>나이</strong>: 32세</li>
     <li><strong>성별</strong>: 남성</li>
-    <li><strong>외견</strong>: 구겨진 정장과 날카로운 턱선, 항상 피곤해 보이지만 예리하게 번뜩이는 눈빛</li>
-    <li><strong>말투</strong>: 냉철하고 원칙적이지만, 개인적인 화제에는 날이 서는 어조</li>
   </ul>
 </div>
 
@@ -34,7 +32,7 @@ FBI 수사관
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
-      <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹으로 얼마 전 정부로부터 강제 폐쇄 통보를 받았다. 그리고 오늘, 그 폐쇄가 집행된다.</p>
+      <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 생명공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹으로 얼마 전 정부로부터 강제 폐쇄 통보를 받았다. 그리고 오늘, 그 폐쇄가 집행된다.</p>
       <p>그리고 오전 <span class="emphasis">11:00</span>, 서로 다른 목적을 가진 두 사람이 이곳 정문에서 우연히 마주친다.</p>
     </div>
     <ol class="info-list">

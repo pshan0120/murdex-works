@@ -21,11 +21,9 @@ CIA 요원
 6. 공개 정보
 <div class="story-content">
   <ul>
-    <li><strong>역할</strong>: 개인적인 사연을 안고 <span class="emphasis">프로메테우스 연구소</span>까지 당도한 CIA 요원</li>
+    <li><strong>역할</strong>: <span class="emphasis">프로메테우스 연구소</span>를 조사하러 온 CIA 요원</li>
     <li><strong>나이</strong>: 26세</li>
     <li><strong>성별</strong>: 여성</li>
-    <li><strong>외견</strong>: 기능적이고 단정한 남색 코트, 낡았지만 잘 관리된 가죽 가방, 흔들림 없는 날카로운 눈빛</li>
-    <li><strong>말투</strong>: 직관적이고 감정이 짙게 묻어나는, 그러나 필요할 땐 냉정을 되찾는 어조</li>
   </ul>
 </div>
 
@@ -34,7 +32,7 @@ CIA 요원
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
-      <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹으로 얼마 전 정부로부터 강제 폐쇄 통보를 받았다. 그리고 오늘, 그 폐쇄가 집행된다.</p>
+      <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 생명공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹으로 얼마 전 정부로부터 강제 폐쇄 통보를 받았다. 그리고 오늘, 그 폐쇄가 집행된다.</p>
       <p>그리고 오전 <span class="emphasis">11:00</span>, 서로 다른 목적을 가진 두 사람이 이곳 정문에서 우연히 마주친다.</p>
     </div>
     <ol class="info-list">
