@@ -66,7 +66,7 @@ FBI 수사관
   <section class="content-section">
     <div class="section-title">인물 관계</div>
     <p>
-      <strong><span class="character-veyla">베일라에 대해</span></strong>: 오늘 처음 만난 CIA 요원. 목적은 다를지 몰라도 이 연구소에 볼 일이 있다는 점은 같다. 협조가 필요할 수도 있지만, 자신의 경고성 통화 사실만은 절대 들켜서는 안 된다.
+      <strong><span class="character-veyla">베일라</span>에 대해</strong>: 오늘 처음 만난 CIA 요원. 목적은 다를지 몰라도 이 연구소에 볼 일이 있다는 점은 같다. 협조가 필요할 수도 있지만, 자신의 경고성 통화 사실만은 절대 들켜서는 안 된다.
     </p>
     <p>
       <strong><span class="character-clay">닥터 클레이</span>에 대해</strong>: 누나의 행방과 이 연구소의 실체를 쥐고 있는 자. 반드시 진실을 토해내게 만들어야 한다.
@@ -88,6 +88,16 @@ FBI 수사관
 </div>
 
 9. 단계별 역할 지침
+
+[대면] (단계_2)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>낯익은 이름</strong>: 방금 <span class="character-veyla">베일라</span>가 무심코 내뱉은 '알렉스'라는 이름이, 다름 아닌 당신의 누나 이름과 정확히 같습니다. 흔한 이름은 아니기에, 단순한 우연으로 넘기기가 쉽지 않습니다. 이 우연이 무엇을 의미하는지, 당신은 조사 내내 신경이 쓰일 것입니다.</li>
+    </ul>
+  </section>
+</div>
 
 [조사 단계] (단계_3~6: A/B/C/D구역)
 <div class="story-content">

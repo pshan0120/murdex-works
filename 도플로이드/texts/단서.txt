@@ -554,17 +554,14 @@ groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
 관련 : 베일라
 의도 : 추방된 AIex가 기억을 잃은 채 외부에서 생존해 있으며, 이곳으로 되돌아올 가능성이 있음을 암시. 정보 출처는 외부 정보원이 아니라 배양 개체에게 관리 목적으로 심어둔 추적용 생체 칩(클레이 본인이 설치)으로 한정해, 이 연구의 존재를 아는 제3자가 있다는 모순을 피함. 이 개체가 베일라의 연인이라는 사실은 여기서 직접 명시하지 않고, clue_19(반지 이니셜)과 역할_2_마커스.txt의 비공개 지침("흔들리는 확신": 소장이 베일라에게 힐끔힐끔 눈치를 주는 듯하다는 마커스만의 관찰)과의 교차 확인을 통해 플레이어가 스스로 추리하도록 설계.
 내용 :
-[TRACKING SYSTEM] 추적 대상: 추방 개체 #1 / 신호 상태: 소실 → 미약 재포착 / 메모: "완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."
+[TRACKING SYSTEM] 추적 대상: 배양 개체 #1 / 신호 상태: 소실 → 미약 신호 감지
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">비밀 병실</span> 단말기에 남아 있던 추적 시스템 기록이다.</div>
   <div class="divider"></div>
   <div class="terminal-log">
     <span class="terminal-line">[TRACKING SYSTEM] 추적 대상: 추방 개체 #1</span>
-    <span class="terminal-line">신호 상태: 소실 → <span class="terminal-highlight">미약 재포착</span></span>
-  </div>
-  <div class="document-page">
-    <div class="document-body small">"완전히 지우지 못한 기억의 파편이 남아 있다면, 결국 이곳으로 되돌아올 가능성도 있다. 계속 예의주시해야 한다."</div>
+    <span class="terminal-line">신호 상태: 소실 → <span class="terminal-highlight">미약 신호 감지</span></span>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a backup terminal screen showing a faint bio-signal tracking readout, a pulsing waveform line and a small blinking coordinate marker. Cold glowing screen light in a dim medical room. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -905,15 +902,15 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 지하 배양실 단말기에서 조회한 배양 개체 데이터 스캔 기록으로, 개체 ID가 'AI-ex'이며 배양이 성공하여 식별 각인 완료 후 방출되었음을 데이터적으로 명확히 입증.
+의도 : 지하 배양실 단말기에서 조회한 배양 개체 데이터 스캔 기록으로, 식별코드가 'AI-ex'이며 배양이 성공하여 식별 각인 완료 후 방출되었음을 데이터적으로 명확히 입증.
 내용 :
-개체 ID: AI-ex / 배양 결과: 성공 / 식별 각인: 완료 / 개체 상태: 방출
+식별코드: AI-ex / 배양 결과: 성공 / 식별 각인: 완료 / 개체 상태: 방출
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span> 단말기에서 조회한 배양 개체 스캔 기록이다.</div>
   <div class="divider"></div>
   <div class="terminal-log">
-    <span class="terminal-line">개체 ID: <span class="terminal-highlight">AI-ex</span></span>
+    <span class="terminal-line">식별코드: <span class="terminal-highlight">AI-ex</span></span>
     <span class="terminal-line">배양 결과: 성공</span>
     <span class="terminal-line">식별 각인: 완료</span>
     <span class="terminal-line">개체 상태: 방출</span>
@@ -1092,14 +1089,14 @@ groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
-의도 : 마커스가 FBI 본부의 질책 전화를 받다가, CIA에는 이 사건에 파견된 요원이 없다는 사실을 우연히 듣게 되어 베일라의 신분 사칭을 의심하게 만듦. (역할_1_베일라.txt의 "CIA 사칭" 비밀이 드러나는 발각 경로)
+의도 : 마커스가 FBI 본부의 질책 전화를 받다가, CIA에 '베일라'라는 이름을 쓰는 요원 자체가 없다는 사실을 우연히 듣게 되어 베일라의 신분 사칭을 확실하게 의심하게 만듦. (역할_1_베일라.txt의 "CIA 사칭" 비밀이 드러나는 발각 경로)
 내용 :
-D구역에 들어설 즈음, 휴대폰으로 낯익은 번호가 걸려 왔다. FBI 본부였다. 독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상사는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 이 건으로 파견된 요원은 아예 없다더군. 거긴 대체 누구지?"
+D구역에 들어설 즈음, 휴대폰으로 낯익은 번호가 걸려 왔다. FBI 본부였다. 독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상사는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 거기 소속으로 '베일라'라는 이름을 쓰는 요원 자체가 없다더군. 거긴 대체 누구지?"
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">D구역</span>에 들어설 즈음, 휴대폰으로 걸려 온 FBI 본부와의 통화 내용이다.</div>
   <div class="divider"></div>
-  <div>독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상사는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 이 건으로 파견된 요원은 아예 없다더군. 거긴 대체 누구지?"</div>
+  <div>독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상사는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 거기 소속으로 '베일라'라는 이름을 쓰는 요원 자체가 없다더군. 거긴 대체 누구지?"</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old-style mobile phone held to an ear, tense grip, dim investigation-room background. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 베일라에 대하여
