@@ -487,13 +487,16 @@
 /* PPT 및 문서 표현 (옛 서 기록 느낌) */
 .story-content .document-page {
     font-family: "Gowun Batang", serif;
-    background-color: #f4ecd8;
-    /* 바랜 종이색 */
-    color: #2c1e11;
-    /* 짙은 갈색 잉크 */
+    font-size: 0.98rem;
+    line-height: 1.8;
+    font-weight: 700;
+    background-color: #f5eedb;
+    /* 바랜 양장 종이색 */
+    color: #1a1108;
+    /* 뚜렷하고 선명한 잉크색 */
     max-width: 650px;
     margin: 20px auto;
-    padding: 20px;
+    padding: 24px;
     border: 1px solid #d2b48c;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.7);
 }
@@ -501,20 +504,14 @@
 .story-content .document-page h2,
 .story-content .document-page h3,
 .story-content .document-page h4 {
+    font-family: "Gowun Batang", serif;
     color: #4a3728;
     border-bottom: 2px solid #4a3728;
     font-weight: bold;
     text-align: center;
     width: 100%;
-}
-
-.story-content .document-page h3,
-.story-content .document-page h4 {
-    color: #4a3728;
-    border-bottom: 2px solid #4a3728;
-    font-weight: bold;
-    text-align: center;
-    width: 100%;
+    margin-bottom: 1rem;
+    padding-bottom: 0.4rem;
 }
 
 .story-content .system-guide {
@@ -566,10 +563,16 @@
 }
 
 .document-body.small {
-    font-size: 0.88em;
-    line-height: 1.65;
-    color: #3e2b1a;
-    /* 본문보다 약간 더 연한 잉크색 */
+    font-size: 0.96rem;
+    line-height: 1.8;
+    font-weight: 700;
+    color: #1a1108;
+}
+
+/* document-page 내 강조(emphasis) 단어 뚜렷하게 가독성 오버라이드 (밝은 종이 배경용 짙은 버건디/레드 브라운) */
+.story-content .document-page .emphasis {
+    color: #a80000 !important;
+    font-weight: 900;
 }
 
 .emphasis-box {

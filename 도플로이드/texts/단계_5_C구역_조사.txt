@@ -29,13 +29,16 @@ FBI 수사관 마커스 : 2
 
 <div class="story-content">
   <div class="section-title">1. 대본 낭독</div>
+  <audio controls preload="none" style="width: 100%; margin-bottom: 12px;">
+    <source src="https://res.cloudinary.com/dkzctfx9z/video/upload/v1786014070/murdex/images/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_bn8jh3.mp3" type="audio/mpeg" />
+  </audio>
   <p>
+    위 음성으로 대본 전체를 들으실 수도 있고, 직접 낭독하셔도 좋습니다.
     흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된
     대사는 각자 자신의 역할 대사를 낭독합니다. (<span class="character-clay">클레이</span>의 대사는
     <span class="character-marcus">마커스</span>가 대신 낭독합니다.)
   </p>
-  <p><span class="emphasis">B구역</span>에서의 조사를 마친 세 사람은, C구역으로 향하는 철문 앞에 멈춰 섰습니다. 소장이 문 옆 판독기에 손바닥을 올리자, 붉은빛이 그의 생체 정보를 스캔하며 느릿하게 깜빡였습니다.</p>
-  <div class="script-direction">기계음이 이어지는 동안, 짧은 정적이 흘렀다. 마커스가 먼저 침묵을 깼다.</div>
+  <div class="script-direction"><span class="emphasis">B구역</span>에서의 조사를 마친 세 사람은 C구역으로 향하는 철문 앞에 멈춰 섰다. 소장이 문 옆 판독기에 손바닥을 올리자, 붉은빛이 그의 생체 정보를 스캔하며 느릿하게 깜빡였다.</div>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-marcus">마커스</span></span>: "...생각보다 침착하시네요. 방금 그런 걸 보고도."
@@ -53,23 +56,24 @@ FBI 수사관 마커스 : 2
       <span class="script-character"><span class="character-marcus">마커스</span></span>: "...있습니다."
     </div>
   </div>
-  <div class="script-direction">마커스의 거센 압박에 소장이 C구역의 무거운 철문을 연다. 문을 열기 전, 소장이 앞장서며 말했다.</div>
+  <div class="script-direction">소장이 못마땅한 얼굴로 C구역의 무거운 철문을 열었다.</div>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-clay">클레이</span></span>: "여기는 예전에 쓰던 직원 휴게실입니다."
     </div>
   </div>
-  <p class="emphasis">하지만 문이 열리자마자 코를 찌르는 강렬한 소독약 냄새와 함께, '삐- 삐-' 하는 기계음이 규칙적으로 울려 퍼집니다. 안쪽은 휴게실의 흔적은 전혀 없고, 온갖 투석기와 생명 유지 장치로 가득한 극비 중환자 병실이 자리하고 있었습니다.</p>
-  <div class="script-direction">예상치 못한 광경 앞에서 침묵이 흐르자, 소장이 수습하려는 듯 다급하게 입을 열었다.</div>
+  <div class="script-direction">하지만 문이 열리자마자 코를 찌르는 강렬한 소독약 냄새와 함께, '삐- 삐-' 하는 기계음이 규칙적으로 울려 퍼졌다. 안쪽은 휴게실의 흔적은 전혀 없고, 온갖 투석기와 생명 유지 장치로 가득한 극비 중환자 병실이 자리하고 있었다.</div>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-clay">클레이</span></span>: "...아, 얼마 전에 개조된 모양이군요. 시설 관리는 따로 담당자를 두고 있어서요. 연구에만 매달리다 보니, 보고받은 걸 깜빡했나 봅니다."
     </div>
     <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "소장님이 자기 연구소 방을 그렇게 모르고 계셨다는 게, 좀 이상하게 들리네요."
+    </div>
+    <div class="script-line">
       <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그럴 수도 있겠군요. 연구에만 몰두하다 보면, 그런 보고 하나쯤 놓칠 수도 있겠죠."
     </div>
   </div>
-  <p>그의 말이 딱히 틀린 것도 아니었습니다. 하지만 어딘가 석연치 않은 기분은 쉽사리 가시지 않았습니다.</p>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-veyla">베일라</span></span>: "소장님. 당신, 정말 클레이 소장 본인이 맞습니까?"
@@ -78,7 +82,6 @@ FBI 수사관 마커스 : 2
       <span class="script-character"><span class="character-clay">클레이</span></span>: "무슨 헛소리입니까! 저는 틀림없는 클레이 소장입니다. 지금 그런 걸 따질 때입니까?"
     </div>
   </div>
-  <div class="script-direction">베일라의 얼굴에서 핏기가 가셨다. 하지만 그녀는 이내 흔들림을 감추고 말을 이었다.</div>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-veyla">베일라</span></span>: "...잠깐, 확인할 방법이 있어요. 사전에 알아본 클레이 소장님 신체 기록에는, 왼쪽 가슴 쪽에 특정한 표식이 있다고 되어 있더군요. 정말 소장님이 맞다면, 그 정도는 어렵지 않게 보여주실 수 있겠죠."
@@ -87,13 +90,15 @@ FBI 수사관 마커스 : 2
       <span class="script-character"><span class="character-clay">클레이</span></span>: "...이 무슨 무례한 요구입니까! 그런 걸로 증명해야 한다면, 다른 방법도 있습니다. 정부가 이 연구소를 폐쇄하려는 진짜 이유, '불법 연구 의혹'이라는 게 표면적인 핑계에 불과하다는 것도 저는 알고 있습니다. 이런 것까지 꿰고 있는 사람이, 어디 흔하겠습니까?"
     </div>
   </div>
-  <p>마커스와 베일라는 순간 말을 잃고 서로를 마주 보았습니다. 정부 내부 사정까지 꿰고 있는 사람이 흔할 리 없다는 그 말이, 방금까지의 확신에 작은 균열을 냈습니다.</p>
   <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...그건, 어떻게 알고 계신 거죠?"
+    </div>
     <div class="script-line">
       <span class="script-character"><span class="character-marcus">마커스</span></span>: "...별것 아닌 요구에, 반응이 지나치게 격하시군요."
     </div>
   </div>
-  <div class="script-direction">소장이 못마땅한 얼굴로 자리를 비키자, 마커스가 낮게 한숨을 내쉬었다.</div>
+  <div class="script-direction">소장이 자리를 비키자, 마커스가 나직이 한숨을 내쉬었다.</div>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-marcus">마커스</span></span>: "...FBI 생활 8년 만에, 별의별 꼴을 다 보는군요."
@@ -102,7 +107,7 @@ FBI 수사관 마커스 : 2
       <span class="script-character"><span class="character-veyla">베일라</span></span>: "...여러모로 녹록지 않네요."
     </div>
   </div>
-  <p>짧은 침묵이 두 사람 사이를 스쳤습니다. 서로에게 아직 털어놓지 않은 것들이 너무 많다는 사실을, 둘 다 굳이 입 밖으로 꺼내지 않았습니다.</p>
+  <div class="script-direction">짧은 침묵이 두 사람 사이를 스쳤다.</div>
   <div class="section-title">2. 단계 안내</div>
   <p>
     1. AP 지급: 이번 구역에서 사용할 AP가 인당 2씩 지급됩니다.<br />

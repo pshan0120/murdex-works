@@ -1,0 +1,31 @@
+{
+  "gpt_model": "GPT_SoVITS/pretrained_models/gsv-v2final-pretrained/s1bert25hz-5kh-longer-epoch=12-step=369668.ckpt",
+  "sovits_model": "GPT_SoVITS/pretrained_models/gsv-v2final-pretrained/s2G2333k.pth",
+  "language": "한국어",
+  "voices": {
+    "나레이터": {
+      "ref_audio": "actor/나레이터 (mp3cut.net).mp3",
+      "ref_text": "놀라운 변화의 중심, 센터맨 남성 의원입니다. 센터맨 남성 의원은",
+      "speed": 0.9
+    },
+    "베일라": {
+      "ref_audio": "actor/베일라 (mp3cut.net).mp3",
+      "ref_text": "해저 면적의 일 퍼센트도 안되지만 바다 생물의 이십오퍼센트가 사는 곳",
+      "speed": 0.95
+    },
+    "마커스": {
+      "ref_audio": "actor/마커스 (mp3cut.net).mp3",
+      "ref_text": "저야말로 초대해 주셔서 감사합니다. 예.. 벌써 이십 오년도 더 지난 일이지만",
+      "speed": 1.1
+    },
+    "클레이": {
+      "ref_audio": "actor/닥터 클레이 (mp3cut.net).mp3",
+      "ref_text": "나는 알게 되었다. 이제 자동차는 차가운 기술의 영역을 넘었다.",
+      "speed": 0.9
+    }
+  },
+  "speed_overrides": {
+    "_comment": "특정 단계 파일에서 특정 목소리의 speed를 기본값 대신 덮어씀. 예: 클레이가 '가짜'로 의심받기 시작한 뒤부터 속도를 살짝 올림.",
+    "단계_5_C구역_조사": { "클레이": 0.95 }
+  }
+}

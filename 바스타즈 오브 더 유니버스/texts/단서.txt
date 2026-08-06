@@ -376,13 +376,13 @@ variant_id : 45eacaf8-e579-4ce0-b3e2-eed245f1b3f7
 내용 :
 기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.
 
-"천 년 전, 머나먼 푸른 행성에 세 여전사가 있었다. 마왕의 군세에 맞서 부르던 그녀들의 노래는 마침내 승리를 가져왔고, 그 신성한 노래의 이름은 오늘날 왕가의 혈통과 성채의 장식 속에 살아 숨 쉰다. 맏이는 맨 앞에서 모두의 용기를 북돋는 목소리로 노래를 이끌며, 바람의 힘을 다스렸다. 둘째는 한 치의 물러섬도 없이 전열을 지키며, 무엇에도 흔들리지 않는 대지의 힘을 휘둘렀다. 막내는 가장 어리고 재빠른 몸놀림으로 전장을 누비며, 변화무쌍하게 흐르는 물의 힘을 다스렸다. 그녀들이 지녔던 세 자루의 무구는 오랜 세월이 지난 지금도 이 성 어딘가에 고이 잠들어 있다."
+"천 년 전, 머나먼 푸른 행성에 세 여전사가 있었다. 마왕의 군세에 맞서 부르던 그녀들의 노래는 마침내 승리를 가져왔고, 그 신성한 노래의 이름은 오늘날 왕가의 혈통과 성채의 장식 속에 살아 숨 쉰다. 맏이는 맨 앞에서 모두의 용기를 북돋는 목소리로 노래를 이끌며, 바람의 힘을 다스렸다. 둘째는 한 치의 물러섬도 없이 전열을 지키며, 무엇에도 흔들리지 않는 대지의 힘을 휘둘렀다. 막내는 가장 어리고 재빠른 몸놀림으로 전장을 누비며, 변화무쌍하게 흐르는 물의 힘을 다스렸다. 그녀들이 지녔던 세 자루의 무구는 여전히 제 주인의 이름을 기억한 채, 오랜 세월이 지난 지금도 이 성 어딘가에 고이 잠들어 있다."
 HTML :
 <div class="story-content">
   <div class="script-direction">기록관이 마법탑의 마도서들 틈에서 반쯤 삭은 양피지 조각을 찾아 전달했다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>천 년 전, 머나먼 푸른 행성에 세 여전사가 있었다. 마왕의 군세에 맞서 부르던 그녀들의 노래는 마침내 승리를 가져왔고, 그 <span class="emphasis">신성한 노래의 이름</span>은 오늘날 왕가의 혈통과 성채의 장식 속에 살아 숨 쉰다.<br>맏이는 맨 앞에서 모두의 용기를 북돋는 목소리로 노래를 이끌며, <span class="emphasis">바람</span>의 힘을 다스렸다.<br>둘째는 한 치의 물러섬도 없이 전열을 지키며, 무엇에도 흔들리지 않는 <span class="emphasis">대지</span>의 힘을 휘둘렀다.<br>막내는 가장 어리고 재빠른 몸놀림으로 전장을 누비며, 변화무쌍하게 흐르는 <span class="emphasis">물</span>의 힘을 다스렸다.<br>그녀들이 지녔던 세 자루의 무구는 오랜 세월이 지난 지금도 이 성 어딘가에 고이 잠들어 있다.</div>
+    <div>천 년 전, 머나먼 푸른 행성에 세 여전사가 있었다. 마왕의 군세에 맞서 부르던 그녀들의 노래는 마침내 승리를 가져왔고, 그 <span class="emphasis">신성한 노래의 이름</span>은 오늘날 왕가의 혈통과 성채의 장식 속에 살아 숨 쉰다.<br>맏이는 맨 앞에서 모두의 용기를 북돋는 목소리로 노래를 이끌며, <span class="emphasis">바람</span>의 힘을 다스렸다.<br>둘째는 한 치의 물러섬도 없이 전열을 지키며, 무엇에도 흔들리지 않는 <span class="emphasis">대지</span>의 힘을 휘둘렀다.<br>막내는 가장 어리고 재빠른 몸놀림으로 전장을 누비며, 변화무쌍하게 흐르는 <span class="emphasis">물</span>의 힘을 다스렸다.<br>그녀들이 지녔던 세 자루의 무구는 여전히 제 <span class="emphasis">주인의 이름</span>을 기억한 채, 오랜 세월이 지난 지금도 이 성 어딘가에 고이 잠들어 있다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a half-decayed, brittle piece of ancient parchment tucked between thick, dusty spellbooks on a stone shelf. The parchment is covered in faded, archaic handwriting, with a faint, weathered illustration of three silhouetted female warriors standing together in the corner of the page. Dust particles float in a thin beam of light. Shallow depth of field, background is a dark, blurred mage tower chamber lined with ancient tomes. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
@@ -1194,7 +1194,7 @@ HTML :
 clue_id : 67011055-0c45-41f1-ada0-e17a1f24a6e5
 variant_id : 1c87e162-4915-4f6a-b499-c0bbccac2aae
 유형 : 물증
-단계 : 조사 3단계
+단계 : 조사 1단계
 소모AP : 1
 정렬순서 : 300
 중요도 : 높음
@@ -1790,7 +1790,7 @@ HTML :
 clue_id : cb394a19-4e1a-4ca8-ba8f-98361d748fa9
 variant_id : ec90c11a-1274-4d6b-ad9a-7af2f4f512ff
 유형 : 증언
-단계 : 조사 3단계
+단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 460
 중요도 : 보통

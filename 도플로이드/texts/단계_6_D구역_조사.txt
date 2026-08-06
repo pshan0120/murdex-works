@@ -29,9 +29,11 @@ FBI 수사관 마커스 : 3
 
 <div class="story-content">
   <div class="section-title">1. 대본 낭독</div>
-  <p>흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된 대사는 각자 자신의 역할 대사를 낭독합니다.</p>
-  <p><span class="emphasis">C구역</span> 조사를 마친 세 사람은 D구역으로 향하는 마지막 문 앞에 도착했습니다. 그런데 이 문 앞에서만 유난히, 소장의 손이 판독기 위에서 머뭇거렸습니다.</p>
-  <div class="script-direction">길어지는 망설임 속에서, 베일라가 낮은 목소리로 물었다.</div>
+  <audio controls preload="none" style="width: 100%; margin-bottom: 12px;">
+    <source src="https://res.cloudinary.com/dkzctfx9z/video/upload/v1786020662/murdex/images/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_eaofv2.mp3" type="audio/mpeg" />
+  </audio>
+  <p>위 음성으로 대본 전체를 들으실 수도 있고, 직접 낭독하셔도 좋습니다. 흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된 대사는 각자 자신의 역할 대사를 낭독합니다.</p>
+  <div class="script-direction"><span class="emphasis">C구역</span> 조사를 마친 세 사람은 D구역으로 향하는 마지막 문 앞에 도착했다. 그런데 이 문 앞에서만 유난히, 소장의 손이 판독기 위에서 머뭇거렸다.</div>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-veyla">베일라</span></span>: "수사관님은... 왜 이렇게까지 직접 파고드세요? 이 정도면 현장만 지키며 지원을 기다려도 될 텐데요."
@@ -49,15 +51,19 @@ FBI 수사관 마커스 : 3
       <span class="script-character"><span class="character-veyla">베일라</span></span>: "...그럼, 믿지 마세요."
     </div>
   </div>
-  <p>짧은 침묵이 흘렀습니다. 캐묻지 않기로 한 무언의 약속은 여전했지만, 그 침묵은 이번만큼은 위로처럼 느껴지지 않았습니다.</p>
-  <p>결국 소장을 <span class="character-marcus">마커스</span>가 거세게 몰아붙인 끝에, 마침내 극비 구역인 D구역의 셔터가 열립니다.</p>
-  <p>셔터 너머로 들어서는 소장의 발걸음이 눈에 띄게 느려졌습니다. 거대한 지하 동굴 같은 공간 안쪽에서 차가운 푸른빛이 새어 나오고, 바닥을 울리는 육중한 냉각수 펌프 소리가 일행을 맞이합니다.</p>
+  <div class="script-direction">짧은 침묵이 흘렀다.</div>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "이 문도 여십시오. 더 숨길 게 없다면, 못 열 이유도 없을 텐데요."
+    </div>
+  </div>
+  <div class="script-direction">결국 소장은 극비 구역인 D구역의 셔터를 열었다. 셔터 너머로 들어서는 그의 발걸음이 눈에 띄게 느려졌다. 거대한 지하 동굴 같은 공간 안쪽에서 차가운 푸른빛이 새어 나왔고, 바닥을 울리는 육중한 냉각수 펌프 소리가 일행을 맞이했다.</div>
   <div class="script-container">
     <div class="script-line">
       <span class="script-character"><span class="character-veyla">베일라</span></span>: "소장님, 안색이... 지금까지와는 또 다르시네요."
     </div>
   </div>
-  <p>소장은 아무 대답 없이 시선을 피했습니다. 그 침묵은 어떤 것보다도 많은 것을 말하고 있었습니다.</p>
+  <div class="script-direction">소장은 아무 대답 없이 시선을 피했다.</div>
   <div class="section-title">2. 단계 안내</div>
   <p>
     1. AP 지급: 이번 구역에서 사용할 AP가 인당 3씩 지급됩니다.<br />
