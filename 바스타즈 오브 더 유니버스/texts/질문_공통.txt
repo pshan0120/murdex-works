@@ -57,9 +57,9 @@ QuestionID : afbb4eef-8f14-4a42-9cb9-2d2e65b3dcf8
 
 [선택지]
 <div class="story-content">
-  판정 A <span class="emphasis">— 마신 승리</span> (생존 <span class="character-bastards">바스타즈</span> 전투력 합계 ≤ 마신 전투력)
+  판정 A <span class="emphasis">— 적 승리</span> (생존 <span class="character-bastards">바스타즈</span> 전투력 합계 ≤ 적 전투력)
 </div>
 
 <div class="story-content">
-  판정 B <span class="emphasis">— 바스타즈 승리</span> (생존 <span class="character-bastards">바스타즈</span> 전투력 합계 &gt; 마신 전투력)
+  판정 B <span class="emphasis">— 바스타즈 승리</span> (생존 <span class="character-bastards">바스타즈</span> 전투력 합계 &gt; 적 전투력)
 </div>

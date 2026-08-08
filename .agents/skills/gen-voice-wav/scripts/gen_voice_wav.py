@@ -95,10 +95,19 @@ def extract_script_lines(html):
             full_text = re.sub(r"\s+", " ", node.get_text()).strip()
             quote_match = re.search(r'"([^"]*)"', full_text)
             text = quote_match.group(1).strip() if quote_match else re.sub(r"^.*?:\s*", "", full_text)
+            text = strip_stage_directions(text)
             if text:
                 results.append(("line", speaker, text))
 
     return results
+
+
+def strip_stage_directions(text):
+    """대사 안에 섞인 (연기 지시/지문) 괄호를 읽지 않도록 제거한다.
+    예: '(마주 앉는 순간, 흠칫 놀라며) ...알렉스?' -> '...알렉스?'
+    괄호 안에 다시 괄호가 없는 단순 케이스만 처리(대본에서 중첩 괄호는 쓰지 않음)."""
+    cleaned = re.sub(r"[(（][^()（）]*[)）]", "", text)
+    return re.sub(r"\s+", " ", cleaned).strip()
 
 
 def resolve_speed(voices_cfg, step_basename, speaker):
@@ -169,18 +178,31 @@ def main():
     from gradio_client import Client, handle_file
 
     client = Client(args.api_url)
-    client.predict(gpt_path=voices_cfg["gpt_model"], api_name="/change_gpt_weights")
-    client.predict(
-        sovits_path=voices_cfg["sovits_model"],
-        prompt_language=voices_cfg["language"],
-        text_language=voices_cfg["language"],
-        api_name="/change_sovits_weights",
-    )
+    loaded_models = (None, None)  # 매 줄마다 불필요하게 모델을 다시 로드하지 않기 위한 캐시
+
+    def ensure_models_loaded(speaker):
+        nonlocal loaded_models
+        voice = voices_cfg["voices"][speaker]
+        gpt_model = voice.get("gpt_model", voices_cfg["gpt_model"])
+        sovits_model = voice.get("sovits_model", voices_cfg["sovits_model"])
+        if (gpt_model, sovits_model) == loaded_models:
+            return
+        client.predict(gpt_path=gpt_model, api_name="/change_gpt_weights")
+        client.predict(
+            sovits_path=sovits_model,
+            prompt_language=voices_cfg["language"],
+            text_language=voices_cfg["language"],
+            api_name="/change_sovits_weights",
+        )
+        loaded_models = (gpt_model, sovits_model)
+        print(f"[INFO] 모델 전환: {speaker} 전용 ({gpt_model.split('/')[-1]} / {sovits_model.split('/')[-1]})"
+              if "gpt_model" in voice or "sovits_model" in voice else f"[INFO] 모델 전환: 기본 모델")
 
     for idx, (kind, speaker, text) in targets:
         voice = voices_cfg["voices"][speaker]
         ref_audio_path = os.path.join(output_dir, voice["ref_audio"])
         speed = resolve_speed(voices_cfg, step_basename, speaker)
+        ensure_models_loaded(speaker)
 
         result = client.predict(
             ref_wav_path=handle_file(ref_audio_path),
