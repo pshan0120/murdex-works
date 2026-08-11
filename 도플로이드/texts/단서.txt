@@ -378,10 +378,10 @@ groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
 관련 : 공통
 의도 : 이 복제체가 진짜 소장 클레이의 유전자를 복제했으므로 생체 보안 시스템을 프리패스할 수 있음을 가르쳐주는 핵심 규칙이자, 자신의 창조물을 완성한 순간부터 이미 두려움을 느꼈던 클레이의 불안을 드러내는 캐릭터 단서.
 내용 :
-다소 들뜬 필체로 시작해 점점 흔들리는 글씨로 이어진다. "드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까."
+누군가가 작성한 연구 노트다. "드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까."
 HTML :
 <div class="story-content">
-  <div class="script-direction">다소 들뜬 필체로 시작해 점점 흔들리는 글씨로 이어지는 연구 노트다.</div>
+  <div class="script-direction">누군가가 작성한 연구 노트다.</div>
   <div class="divider"></div>
   <div class="document-page">
     <div class="document-body small">"드디어 완성이다. 유전자 전사 정확도 100%. 신경망 구조까지 완벽하게 오리지널과 동일하다. 이건 로봇이 아니야, 진짜 생명이다. …하지만 이 완벽함이 두렵다. 내가 만든 것이 나 자신을 완벽하게 대체할 수 있다는 뜻이다. 되돌릴 수 있을까."</div>
@@ -446,13 +446,13 @@ groupId : 29e29d94-d09d-4664-9c8b-70fcbc2d3b9c
 관련 : 공통
 의도 : "배양 개체를 막을 유일한 수단이 마스터 컨트롤 패널"이라는 사실만 미리 제공. "왜 원본과 마주치면 폭주하는지"는 여기서 밝히지 않고 clue_28(지하 배양실#4, 클레이의 옛 일지)에서 완성되도록 설계. 클레이 본인이 이 병실에서 치료받던 환자이기도 했다는 설정에 맞게, 시설 안내판이 아니라 그가 남겨뒀을 법한 개인 메모 형태로 구성. C구역에서 더 일찍 얻는 단서이므로 정보량과 중요도를 낮게 배치.
 내용 :
-생명 유지 장치 옆에 놓여 있던 메모지 한 장. "배양 개체 긴급 정지: 지정된 마스터 컨트롤 패널에서만 가능."
+생명 유지 장치 옆에 놓여 있던 메모지 한 장. "배양 개체 긴급 정지: 마스터 컨트롤 패널에서만 가능."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">비밀 병실</span> 생명 유지 장치 옆에 놓여 있던 메모지다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"배양 개체 긴급 정지: 지정된 마스터 컨트롤 패널에서만 가능."</div>
+    <div class="document-body small">"배양 개체 긴급 정지: 마스터 컨트롤 패널에서만 가능."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small handwritten memo note resting beside life-support equipment in a clinical room, terse handwritten text. Cold clinical lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -894,13 +894,13 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 관련 : 마커스
 의도 : clue_15(비밀 병실#3)이 감춰둔 병명과 구체적 증상(손끝 떨림·무감각·전신 신경 기능 상실)을 알렉스 본인의 목소리로 완성하는 최종 스모킹 건. 이 "동생"이 마커스라는 사실은 여기서도 이름으로 확정하지 않고, 플레이어가 clue_06에서 관찰한 마커스의 증상과 직접 교차 확인해야 결론에 도달하도록 설계.
 내용 :
-"정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 클레이 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 하나뿐인 동생에게 나타날 '말초신경 위축증'의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 전신 신경 기능 상실과 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."
+"정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 클레이 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 하나뿐인 동생에게 나타날 '말초신경 위축증'의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 전신 신경 기능 상실과 죽음에 이른다. 위험한 연구인 걸 알면서도 계속할 수 있는 건, 소장님이 만일의 순간 나를 지켜줄 자신의 복제 인간을 배양하고 있다고 약속했기 때문이다. 이 연구가 언젠가 동생을 살릴 수 있기를..."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span>에서 발견한 조수 <span class="character-alex">알렉스</span>의 비밀 일지다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 <span class="character-clay">클레이</span> 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 하나뿐인 동생에게 나타날 '말초신경 위축증'의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 전신 신경 기능 상실과 죽음에 이른다. 소장님은 자신이 죽은 후 나를 지켜줄 자신의 복제 인간을 배양하고 있다. 내 희생이 동생을 살릴 수 있기를..."</div>
+    <div class="document-body small">"정규 의학은 이미 손을 놓은 지 오래였다. 마지막으로 매달린 건 학계에서 퇴출당해 아무도 거들떠보지 않던 <span class="character-clay">클레이</span> 소장의 옛 신경 인터페이스 논문, 죽어가는 신경 조직을 되살릴 단서가 그 안에 있다고 믿었다. 하나뿐인 동생에게 나타날 '말초신경 위축증'의 완치법을 찾기 위해 이 불법 연구소에 들어왔다. 이 병은 오른쪽 손끝의 미세한 떨림과 무감각 증세로 시작되어 결국 전신 신경 기능 상실과 죽음에 이른다. 위험한 연구인 걸 알면서도 계속할 수 있는 건, 소장님이 만일의 순간 나를 지켜줄 자신의 복제 인간을 배양하고 있다고 약속했기 때문이다. 이 연구가 언젠가 동생을 살릴 수 있기를..."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a personal diary open on a lab bench, handwritten in a woman's hand, next to glowing incubation equipment in the background. Cold cyan lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -977,18 +977,18 @@ HTML :
     <div class="speech">"박사님... 체격도, 외모도 당신과 정말 똑같네요. 정말로... 당신이 떠나고 나면 절 혼자 남겨두지 않으려고 이 분신을 만드신 거군요."</div>
   </div>
   <div class="dialogue-box">
-    <div class="speaker"><span class="character-clay">닥터 클레이</span></div>
-    <div class="speech">"...내게 남은 시간이 얼마 없으니까. 내가 세상을 떠나더라도, 이 개체가 항상 네 곁을 지키며 날 대신하게 만들 생각이다."</div>
+    <div class="speaker"><span class="character-clay">클레이</span></div>
+    <div class="speech">"...내게 남은 시간이 얼마 없다오. 내가 세상을 떠나더라도, 그가 항상 당신 곁을 지키며 날 대신할 수 있겠지."</div>
   </div>
   <div class="dialogue-box">
-    <div class="speaker"><span class="character-clay">닥터 클레이</span></div>
-    <div class="speech">"식별 코드는... <span class="terminal-highlight">AI-ex</span>로 정했다. 네 이름 <span class="character-alex">알렉스</span>(Alex)를 따온 거지. 내 유전자로 만든 분신이지만, 이건 오직 너만을 위한 존재라는 뜻이다."</div>
+    <div class="speaker"><span class="character-clay">클레이</span></div>
+    <div class="speech">"식별 코드는... <span class="terminal-highlight">AI-ex</span>로 정했소. 당신 이름을 따온 거지. 내 유전자로 만든 분신이지만, 이건 오직 당신만을 위한 존재라는 뜻이라오."</div>
   </div>
   <div class="dialogue-box">
     <div class="speaker"><span class="character-alex">알렉스</span></div>
     <div class="speech">"...고마워요, 박사님. 당신의 마음... 절대로 잊지 않을게요."</div>
   </div>
-  <div class="script-direction">화면 속 <span class="character-clay">클레이</span>의 목소리는 차분하지만 깊은 슬픔이 감돌고 있다. 그는 단말기에 <span class="terminal-highlight">AI-ex</span>라는 이름을 조심스레 입력하며, 배양액 속에 잠든 자신의 분신을 조용히 바라본다. <span class="character-alex">알렉스</span> 역시 그의 곁에서 눈시울을 붉히고 있다.</div>
+  <div class="script-direction">화면 속 <span class="character-clay">클레이</span>의 목소리는 차분하지만 깊은 슬픔이 감돌고 있다. 그는 단말기에 코드를 조심스레 입력하며, 배양액 속에 잠든 자신의 분신을 조용히 바라본다. <span class="character-alex">알렉스</span> 역시 그의 곁에서 눈시울을 붉히고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an empty glass incubation capsule, a small wall-mounted monitor beside it displaying a low-resolution archival video clip of two scientists standing before the capsule gazing inside with a visibly gentle expression. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : D구역
@@ -1066,8 +1066,8 @@ HTML :
 
 [clue_30]
 이름 : 마커스에 대하여#3
-clueId : d4b57548-d2df-4abd-ab1b-9d79d02b4cdc
-variantId : 7717b9ea-5e4c-4829-902a-c1fd0ca2dbb7
+clueId : 27ed75eb-8ce9-4766-adb5-6b926b110927
+variantId : 9fc80e6a-79c7-4b0a-b3d6-e969302041b5
 groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 유형 : 관찰
 단계 : D구역
@@ -1098,8 +1098,8 @@ HTML :
 
 [clue_31]
 이름 : 베일라에 대하여#3
-clueId : c9b32e01-17c7-40b1-8345-7f3c22bb3c5b
-variantId : 6a3393a0-603d-4c60-9908-85aed828003e
+clueId : 1cc4a62f-59ed-4871-b89d-6ddd44fc5a84
+variantId : 25ae4a77-8bbf-4f93-beea-acc6b80ba747
 groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 유형 : 관찰
 단계 : D구역
@@ -1121,7 +1121,7 @@ HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">D구역</span>에 들어설 즈음, 휴대폰으로 걸려 온 FBI 본부와의 통화 내용이다.</div>
   <div class="divider"></div>
-  <div>독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상사는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 거기 소속으로 '베일라'라는 이름을 쓰는 요원 자체가 없다더군. 거긴 대체 누구지?"</div>
+  <div>독단적으로 사건을 맡은 것에 대한 매서운 질책이 이어지던 중, 상사는 스치듯 한마디를 덧붙였다. "그나저나 CIA 쪽에도 확인해봤는데, 거기 소속으로 <span class="character-veyla">베일라</span>라는 이름을 쓰는 요원 자체가 없다더군. 거긴 대체 누구지?"</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an old-style mobile phone held to an ear, tense grip, dim investigation-room background. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 베일라에 대하여

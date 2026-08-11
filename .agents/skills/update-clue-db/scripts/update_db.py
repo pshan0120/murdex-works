@@ -51,8 +51,14 @@ def parse_clue_file(file_path):
     current_block = None
     in_html_section = False
     html_lines = []
+    pending_tag = None
     
     for i, line in enumerate(lines):
+        stripped = line.strip()
+        if stripped.startswith("[clue_") and stripped.endswith("]"):
+            pending_tag = stripped[1:-1]
+            continue
+
         if line.startswith("이름 :"):
             if current_block:
                 if in_html_section:
@@ -60,6 +66,9 @@ def parse_clue_file(file_path):
                 blocks.append(current_block)
                 
             current_block = {"name": line.replace("이름 :", "").strip()}
+            if pending_tag:
+                current_block["tag"] = pending_tag
+                pending_tag = None
             in_html_section = False
             html_lines = []
             
@@ -154,10 +163,13 @@ def update_db(blocks, dry_run=False):
         print("\n[DRY RUN] The following database updates would be executed:\n")
         for idx, block in enumerate(blocks, 1):
             print(f"--- Block {idx} ---")
+            print(f"Tag: {block.get('tag')}")
             print(f"Name (clue_name): {block.get('name')}")
+            print(f"Clue ID: {block.get('clue_id')}")
+            print(f"Variant ID: {block.get('variant_id')}")
             print(f"Order (clue_order): {block.get('order')}")
             print(f"Group ID: {block.get('group_id')} (Raw: {block.get('raw_group')})")
-            html_snippet = block.get('html', '')[:50] + ('...' if len(block.get('html', '')) > 50 else '')
+            html_snippet = block.get('html', '')[:80] + ('...' if len(block.get('html', '')) > 80 else '')
             print(f"HTML (snippet): {html_snippet}\n")
         return len(blocks), len(blocks)
         
@@ -187,14 +199,19 @@ def update_db(blocks, dry_run=False):
                     "UPDATE clue_variant SET clue_content = %s, clue_name = %s WHERE variant_id = %s", 
                     (html_content, c_name, v_id)
                 )
+                affected1 = cursor.rowcount
                 
                 # Update clue
                 cursor.execute(
                     "UPDATE clue SET clue_order = %s, group_id = %s WHERE clue_id = %s",
                     (c_order, g_id, c_id)
                 )
+                affected2 = cursor.rowcount
                 
-                success_count += 1
+                if affected1 > 0 or affected2 > 0:
+                    success_count += 1
+                else:
+                    print(f"Warning: No rows updated for variant {v_id} / clue {c_id} (check if UUIDs match DB)")
             except Exception as e:
                 print(f"Failed to update variant {v_id}: {e}")
                 
@@ -207,6 +224,7 @@ def main():
     parser.add_argument("file_path", help="Path to the clue text file (e.g. 단서.txt)")
     parser.add_argument("--dry-run", action="store_true", help="Print what would be updated without committing to DB")
     parser.add_argument("--exclude-clue-ids", nargs="*", default=[], help="Clue IDs to exclude from update")
+    parser.add_argument("--target-clues", nargs="*", default=[], help="Target clue tags/IDs/numbers to update (e.g. clue_11 clue_13)")
     args = parser.parse_args()
     
     if not os.path.exists(args.file_path):
@@ -233,6 +251,42 @@ def main():
         before_count = len(blocks)
         blocks = [b for b in blocks if b.get("clue_id") not in exclude_set]
         print(f"Excluded {before_count - len(blocks)} clues based on --exclude-clue-ids: {args.exclude_clue_ids}")
+
+    # 타겟 단서 필터링
+    if args.target_clues:
+        targets = set()
+        for item in args.target_clues:
+            # Handle comma separated strings if passed as one arg
+            for sub in item.replace(',', ' ').split():
+                clean_item = sub.strip()
+                if clean_item:
+                    targets.add(clean_item)
+                    targets.add(clean_item.lower())
+                    if clean_item.isdigit():
+                        targets.add(f"clue_{clean_item.zfill(2)}")
+                        targets.add(f"clue_{int(clean_item)}")
+                    elif clean_item.lower().startswith("clue_"):
+                        num_part = clean_item.lower().replace("clue_", "")
+                        if num_part.isdigit():
+                            targets.add(num_part)
+                            targets.add(str(int(num_part)))
+
+        filtered_blocks = []
+        for b in blocks:
+            tag = (b.get("tag") or "").lower()
+            c_id = (b.get("clue_id") or "").lower()
+            v_id = (b.get("variant_id") or "").lower()
+            c_name = (b.get("name") or "").lower()
+            
+            if (tag in targets or 
+                c_id in targets or 
+                v_id in targets or 
+                any(t in tag for t in targets if len(t) > 2) or
+                any(t in c_name for t in targets if len(t) > 2)):
+                filtered_blocks.append(b)
+        
+        print(f"Filtered {len(filtered_blocks)} clues matching targets: {args.target_clues}")
+        blocks = filtered_blocks
 
     map_groups(blocks, group_mapping)
     
