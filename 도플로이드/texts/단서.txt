@@ -1050,13 +1050,13 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 관련 : 마커스
 의도 : clue_28(클레이의 옛 일지)이 담아내지 못하는 건조하고 공식적인 사실 확인용 문서. 소속 연구원 '알렉스'의 사망 사실을 문서상으로 명시해, 마커스가 그토록 찾아 헤매던 누나의 행방에 마침내 답을 주는 결정적 단서. 동시에 "유가족 통보 보류"라는 문구로 clue_24의 은폐 정황과도 연결됨.
 내용 :
-공식 양식에 타이핑된 "연구소 내 중대 사고 보고서". 소속: 프로메테우스 연구소. 직위: 연구원. 대상자: 알렉스(36, 여). 사고 유형: 시설 내 배양 개체에 의한 신체적 위해. 사고 경위: 각성한 배양 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐. 결과: 사망 확인. 처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류.
+공식 양식에 타이핑된 "연구소 내 중대 사고 보고서". 소속: 프로메테우스 연구소. 직위: 연구원. 대상자: 알렉스(36, 여). 사고 유형: 시설 내 배양 개체에 의한 신체적 위해. 사고 경위: 해당 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐. 결과: 사망 확인. 처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span> 서고에서 발견한, 공식 양식의 사고 보고서다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"연구소 내 중대 사고 보고서"<br />소속: <span class="emphasis">프로메테우스 연구소</span><br />직위: 연구원<br />대상자: <span class="character-alex">알렉스</span>(36, 여)<br />사고 유형: 시설 내 배양 개체에 의한 신체적 위해<br />사고 경위: 각성한 배양 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐<br />결과: 사망 확인<br />처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류</div>
+    <div class="document-body small">"연구소 내 중대 사고 보고서"<br />소속: <span class="emphasis">프로메테우스 연구소</span><br />직위: 연구원<br />대상자: <span class="character-alex">알렉스</span>(36, 여)<br />사고 유형: 시설 내 배양 개체에 의한 신체적 위해<br />사고 경위: 해당 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐<br />결과: 사망 확인<br />처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an official typed incident report form with checkbox fields and an institutional stamp, resting on a metal shelf. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
