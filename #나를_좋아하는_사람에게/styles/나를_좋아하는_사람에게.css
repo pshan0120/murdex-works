@@ -1,0 +1,1276 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap");
+
+/*
+ * #나를_좋아하는_사람에게 - 커스텀 테마 CSS
+ * 현대 오피스 스릴러 톤. 코미디로 시작해 조사가 깊어질수록 채도가 가라앉는 구조를 반영해,
+ * 채도 낮은 스틸블루/네이비를 기본 축으로 하고 옛 회사 기록(수첩·도면·인사 서류) 표현에는
+ * 바랜 서류 색감을 별도로 쓴다. 사내 메신저 단체방 화면을 재현하는 messenger-* 클래스를 추가.
+ */
+
+:root {
+    --office-navy: #6f94b3;
+    --office-navy-deep: #3a5a78;
+    --office-brick: #b0705f;
+    --office-steel: #8b95a1;
+    --office-indigo: #7c8fc2;
+    --office-text: #e6e4de;
+    --office-shadow: rgba(0, 0, 0, 0.55);
+    --office-paper: #f3ede0;
+    --office-ink: #2b241c;
+}
+
+/* 기본 폰트 및 컬러 설정 */
+.story-content {
+    font-size: 1rem;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    color: var(--office-text);
+    line-height: 1.75;
+    letter-spacing: -0.01em;
+}
+
+/* 섹션 기반 구조일 때 Flex 간격 적용 */
+.story-content:has(.content-section) {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+/* 제목 스타일 - 정돈된 사무적 느낌 강조 */
+.story-content .section-title {
+    font-family: "Pretendard Variable", sans-serif;
+    font-size: 1.15em;
+    font-weight: 800;
+    color: var(--office-navy);
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid var(--office-navy);
+    letter-spacing: 0.02em;
+}
+
+/* 소제목 스타일 */
+.story-content .subsection-title {
+    font-family: "Pretendard Variable", sans-serif;
+    font-size: 1.05em;
+    font-weight: 700;
+    color: var(--office-brick);
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    border-left: 4px solid var(--office-brick);
+    padding-left: 0.8em;
+}
+
+/* 본문 스타일 */
+.story-content p {
+    margin-bottom: 0.8em;
+    text-align: left;
+}
+
+/* 리스트 스타일 */
+.story-content ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0em;
+}
+
+.story-content li {
+    margin-bottom: 0.5em;
+}
+
+/* 하위 리스트 스타일 */
+.story-content .sub-list {
+    margin-top: 0.5em;
+    margin-left: 1.2em;
+}
+
+.story-content .sub-list li {
+    position: relative;
+    padding-left: 1em;
+    margin-bottom: 0.4em;
+}
+
+.story-content .sub-list li::before {
+    content: "·";
+    position: absolute;
+    left: 0;
+    color: var(--office-navy);
+    font-weight: bold;
+}
+
+/* 강조 스타일 */
+.story-content .highlight {
+    color: var(--office-navy);
+    font-weight: 700;
+}
+
+.story-content .emphasis {
+    color: #b9a58c;
+    /* 서류 갈변 색에 가까운 웜그레이 톤으로 주요 색상과 겹치지 않게 강조 */
+    font-weight: 900;
+}
+
+/* 인용구 박스 - 사내 문서/메모 느낌 */
+.story-content .quote-box {
+    display: block;
+    padding: 0.8em;
+    margin: 0.5em 0;
+    color: #e0ded8;
+    background: rgba(111, 148, 179, 0.12);
+    border: 1px solid rgba(111, 148, 179, 0.25);
+    border-radius: 8px;
+    font-style: italic;
+    position: relative;
+}
+
+/* 테이블 스타일 */
+.story-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2em 0;
+    background: rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 15px var(--office-shadow);
+}
+
+.story-content th,
+.story-content td {
+    border: 1px solid rgba(111, 148, 179, 0.3);
+    padding: 1em;
+    text-align: left;
+}
+
+.story-content th {
+    background: rgba(58, 90, 120, 0.25);
+    color: var(--office-navy);
+    font-family: "Pretendard Variable", sans-serif;
+    font-weight: 700;
+}
+
+/* 아코디언 (Details/Summary) 스타일 */
+.story-content details {
+    margin: 0;
+}
+
+.story-content details summary {
+    cursor: pointer;
+    user-select: none;
+    padding: 0.8em;
+    background: linear-gradient(135deg, rgba(176, 112, 95, 0.1), rgba(0, 0, 0, 0.3));
+    border: 2px solid var(--office-navy);
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    color: var(--office-navy);
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    font-size: 1em;
+}
+
+.story-content details summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content details summary::marker {
+    display: none;
+}
+
+.story-content details summary:hover {
+    background: rgba(111, 148, 179, 0.15);
+    box-shadow: 0 0 15px rgba(111, 148, 179, 0.25);
+}
+
+.story-content details summary .toggle-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    font-size: 0.7em;
+    font-weight: 600;
+}
+
+.story-content details summary .toggle-text {
+    color: var(--office-navy);
+}
+
+.story-content details summary .toggle-icon {
+    color: var(--office-navy);
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+.story-content details[open] summary .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.story-content details .collapsible-content {
+    padding-top: 1.0em;
+    padding-bottom: 1.0em;
+    font-size: 1em;
+    animation: fadeSlideDown 0.3s ease-out;
+}
+
+/* --- 작품 소개(Intro) 전용 프리미엄 스타일 --- */
+
+.intro-section {
+    padding: 1.5rem 0.5rem;
+    color: var(--office-text);
+    font-family: "Pretendard Variable", sans-serif;
+}
+
+/* 시네마틱 타이틀 (클래스명은 유지하되, 사무적이고 담백한 톤으로 재해석) */
+.intro-title-cinematic {
+    font-family: "Pretendard Variable", sans-serif;
+    font-size: clamp(1.2rem, 5vw, 1.5rem);
+    font-weight: 800;
+    color: var(--office-text);
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 3rem;
+    position: relative;
+    padding-bottom: 1.8rem;
+    letter-spacing: -0.01em;
+    word-break: keep-all;
+}
+
+.intro-title-cinematic::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--office-navy), transparent);
+}
+
+/* 본문 문단 */
+.intro-paragraph {
+    font-size: 0.98rem;
+    line-height: 1.85;
+    margin-bottom: 2rem;
+    text-align: left;
+    word-break: keep-all;
+    opacity: 0.92;
+    color: rgba(230, 228, 222, 0.95);
+    letter-spacing: -0.01em;
+}
+
+.intro-paragraph b,
+.intro-paragraph strong {
+    color: var(--office-navy);
+    font-weight: 700;
+}
+
+/* 핵심 특징 섹션 */
+.feature-section {
+    margin-top: 3.5rem;
+    border-top: 1px solid rgba(111, 148, 179, 0.2);
+    padding-top: 2rem;
+}
+
+.feature-header {
+    font-family: "Pretendard Variable", sans-serif;
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: var(--office-navy);
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.feature-header::before {
+    content: "▸";
+    font-size: 0.8rem;
+}
+
+.feature-list-premium {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.feature-item {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.01));
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(111, 148, 179, 0.15);
+    border-left: 4px solid var(--office-navy);
+    padding: 1.4rem;
+    border-radius: 8px;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.feature-item:hover {
+    background: rgba(111, 148, 179, 0.08);
+    transform: translateX(8px) scale(1.01);
+    border-color: rgba(111, 148, 179, 0.4);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.feature-item-title {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-weight: 800;
+    color: var(--office-navy);
+    margin-bottom: 0.6rem;
+    font-size: 1.05rem;
+    letter-spacing: 0.02em;
+}
+
+.feature-item-title::before {
+    content: "●";
+    font-size: 0.6rem;
+    opacity: 0.7;
+}
+
+.feature-item-desc {
+    font-size: 0.92rem;
+    color: rgba(230, 228, 222, 0.85);
+    line-height: 1.6;
+}
+
+/* 모바일 최적화 미디어 쿼리 */
+@media (max-width: 640px) {
+    .intro-section {
+        padding: 1rem 0.25rem;
+    }
+
+    .intro-title-cinematic {
+        letter-spacing: 0;
+        padding-bottom: 1.4rem;
+        margin-bottom: 2.2rem;
+    }
+
+    .intro-paragraph {
+        font-size: 0.94rem;
+        line-height: 1.75;
+        margin-bottom: 1.6rem;
+    }
+
+    .feature-section {
+        margin-top: 2.5rem;
+        padding-top: 1.5rem;
+    }
+
+    .feature-item {
+        padding: 1.1rem;
+    }
+}
+
+@keyframes fadeSlideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 추가적인 커스텀 클래스들 */
+.mystery {
+    color: var(--office-indigo);
+    font-weight: 400;
+}
+
+.goal-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.goal-list li {
+    padding-left: 0;
+}
+
+.goal-list li::before {
+    content: none;
+}
+
+.action-section {
+    background: rgba(111, 148, 179, 0.08);
+    border: 1px solid var(--office-navy);
+    border-left-width: 6px;
+    padding: 1.5em;
+    margin: 2em 0;
+    border-radius: 4px;
+    font-family: "Pretendard Variable", Pretendard, sans-serif;
+    color: var(--office-text);
+    line-height: 1.75;
+}
+
+.story-content .divider {
+    height: 2px;
+    background: linear-gradient(90deg,
+            transparent,
+            var(--office-navy),
+            transparent);
+    margin: 2.5em 0;
+    opacity: 0.5;
+}
+
+/* --- 캐릭터 테마 색상 (플레이어 5인 + 피해자 + 핵심 NPC) --- */
+
+/* 박혜수 - 비서실장. 짙은 와인빛, 냉정하게 감춘 오래된 애정과 죄책감 */
+.story-content .character-parkhyesu {
+    color: #a1586a !important;
+    font-weight: 800;
+}
+
+/* 정형미 - 조직문화팀 차장. 차가운 스틸블루, 통제된 표정 뒤의 진범 */
+.story-content .character-jeonghyeongmi {
+    color: #5c7c96 !important;
+    font-weight: 800;
+}
+
+/* 유정석 - 사료관리팀 팀장. 탁한 앰버, 이유 모를 억울함 */
+.story-content .character-yoojeongseok {
+    color: #b3894f !important;
+    font-weight: 800;
+}
+
+/* 노형철 - 사료관리팀 대리. 신뢰감 있는 틸그린, 곁을 지킨 사람 */
+.story-content .character-nohyeongcheol {
+    color: #4f9e8a !important;
+    font-weight: 800;
+}
+
+/* 정준희 - 사료관리팀 사원. 밝은 코랄, 갓 합류한 신입의 생기 */
+.story-content .character-jeongjunhee {
+    color: #e0876f !important;
+    font-weight: 800;
+}
+
+/* 하도훈 - 피해자. 흐릿한 그레이, 사건과 함께 지워진 존재 */
+.story-content .character-hadohoon {
+    color: #9a978f !important;
+    font-weight: 700;
+}
+
+/* 여문혁 - 사건의 근원이 되는 NPC. 깊은 잉크빛 네이비, 옛 문서 속에만 남은 사람 */
+.story-content .character-yeomoonhyeok {
+    color: #34506b !important;
+    font-weight: 800;
+}
+
+/* PPT 및 문서 표현 (옛 회사 기록·수첩·도면 느낌) */
+.story-content .document-page {
+    font-family: "Gowun Batang", serif;
+    font-size: 0.98rem;
+    line-height: 1.8;
+    font-weight: 700;
+    background-color: var(--office-paper);
+    color: var(--office-ink);
+    max-width: 650px;
+    margin: 20px auto;
+    padding: 24px;
+    border: 1px solid #c9bfa4;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.7);
+}
+
+.story-content .document-page h2,
+.story-content .document-page h3,
+.story-content .document-page h4 {
+    font-family: "Gowun Batang", serif;
+    color: #4a4028;
+    border-bottom: 2px solid #4a4028;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding-bottom: 0.4rem;
+}
+
+.story-content .system-guide {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid var(--office-navy);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: inset 0 0 20px rgba(111, 148, 179, 0.1);
+}
+
+.story-content .guide-title {
+    color: var(--office-navy);
+    font-family: "Pretendard Variable", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+}
+
+/* 스크립트 강조 */
+.story-content .script-character {
+    color: var(--office-navy);
+}
+
+.story-content .script-character.my-character {
+    color: #ffffff !important;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.story-content .script-line.my-line {
+    background: rgba(111, 148, 179, 0.15);
+    border-left: 4px solid var(--office-navy);
+}
+
+/* --- 유틸리티 클래스 (단서 표현용) --- */
+.no-margin {
+    margin: 0 !important;
+}
+
+.divider-gold {
+    height: 1px;
+    background: var(--office-navy);
+    margin: 0.8em 0;
+    opacity: 0.6;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.document-body {
+    margin-top: 0;
+}
+
+.document-body.small {
+    font-size: 0.96rem;
+    line-height: 1.8;
+    font-weight: 700;
+    color: var(--office-ink);
+}
+
+/* document-page 내 강조(emphasis) 단어 가독성 오버라이드 (밝은 종이 배경용 짙은 브릭 레드) */
+.story-content .document-page .emphasis {
+    color: #8a2f24 !important;
+    font-weight: 900;
+}
+
+.emphasis-box {
+    border: 1.5px solid var(--office-navy);
+    padding: 1em;
+    margin: 1.5em 0;
+    background: rgba(111, 148, 179, 0.05);
+    border-radius: 4px;
+}
+
+/* 추가 확장 스타일 */
+.story-content .quote-box.compact {
+    margin: 1em 0;
+    padding: 0.8em 1.0em;
+}
+
+.story-content .summary-header {
+    font-size: 1.05em;
+    font-weight: 600;
+    color: var(--office-text);
+    background: rgba(255, 255, 255, 0.05);
+    padding: 0.6em 1em;
+    border-radius: 4px;
+}
+
+.story-content .summary-header.warning {
+    color: #ff6b6b;
+    background: rgba(255, 107, 107, 0.05);
+}
+
+.story-content .result-box {
+    background: rgba(111, 148, 179, 0.1);
+    border-left: 3px solid var(--office-navy);
+    padding: 0.8em;
+    margin-top: 1.0em;
+    margin-bottom: 1.0em;
+    border-radius: 4px;
+    font-style: normal;
+    line-height: 1.75;
+    color: #dfdfdf;
+}
+
+.story-content .ending-result {
+    text-align: center;
+    margin: 3rem 0;
+    padding: 1.5rem 0;
+    background: linear-gradient(90deg, transparent, rgba(111, 148, 179, 0.15), transparent);
+    border-top: 1px solid rgba(111, 148, 179, 0.3);
+    border-bottom: 1px solid rgba(111, 148, 179, 0.3);
+    font-family: "Pretendard Variable", sans-serif;
+    font-weight: 800;
+    font-size: 1.0em;
+    letter-spacing: 0.1em;
+    color: var(--office-navy);
+}
+
+.story-content .game-effect-notice {
+    padding: 10px;
+    background: rgba(92, 124, 150, 0.12);
+    border-left: 3px solid #5c7c96;
+    border-radius: 4px;
+    margin: 1em 0;
+}
+
+.story-content .game-effect-notice strong {
+    color: #7ea3c2;
+}
+
+.story-content .game-effect-notice.warning {
+    background: rgba(255, 107, 107, 0.1);
+    border-left: 3px solid #ff6b6b;
+}
+
+.story-content .important-notice {
+    background: rgba(255, 107, 107, 0.1);
+    border: 1px solid rgba(255, 107, 107, 0.2);
+    border-left: 4px solid #ff6b6b;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin: 1.5rem 0;
+}
+
+.story-content .important-notice p {
+    margin-bottom: 0;
+    color: #d16a5f;
+    font-size: 0.9em;
+}
+
+/* 안내/가이드 박스 스타일 (오피스 네이비 테마) */
+.story-content .guide-box {
+    background: rgba(111, 148, 179, 0.08);
+    border: 1px solid rgba(111, 148, 179, 0.2);
+    border-left: 5px solid var(--office-navy);
+    padding: 1.25em 1.5em;
+    margin: 2em 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.story-content .guide-text {
+    font-size: 0.85em;
+    color: var(--office-navy);
+    opacity: 0.85;
+    margin-bottom: 1.2em;
+    font-style: italic;
+    line-height: 1.6;
+}
+
+.story-content .guide-box p {
+    margin-bottom: 0 !important;
+    color: var(--office-text);
+    font-size: 0.92em;
+    line-height: 1.65;
+}
+
+.story-content .guide-box strong {
+    color: var(--office-navy);
+}
+
+.story-content .highlight-blue {
+    color: #7ea3c2;
+    font-weight: 700;
+}
+
+/* --- 추리 단계 및 긴급 상황 스타일 --- */
+.story-content .emergency-notice {
+    border: 2px solid #ff6b6b;
+    background-color: rgba(255, 107, 107, 0.05);
+    padding: 1.5em;
+    border-radius: 8px;
+    margin-bottom: 25px;
+}
+
+.story-content .emergency-title {
+    color: #ff6b6b;
+    margin-top: 0;
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+
+/* 스크립트 뷰어 컨테이너 (추리 단계 전용) */
+.story-content .script-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: rgba(18, 20, 24, 0.6);
+    border: 1px solid rgba(111, 148, 179, 0.2);
+    border-radius: 12px;
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.8), 0 10px 30px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+}
+
+.story-content .script-direction {
+    font-style: italic;
+    color: #999999;
+    margin: 10px 0;
+    font-size: 0.9em;
+    padding: 5px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.story-content .script-line {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.story-content .script-speech {
+    display: flex;
+    flex-direction: column;
+    padding: 1.2rem;
+    background: rgba(30, 32, 36, 0.4);
+    border-left: 4px solid rgba(255, 255, 255, 0.15);
+    border-radius: 0 8px 8px 0;
+    transition: all 0.3s ease;
+}
+
+.story-content .script-speech:hover {
+    background: rgba(40, 42, 46, 0.6);
+    transform: translateX(4px);
+}
+
+.story-content .speaker-label {
+    font-family: "Pretendard Variable", sans-serif;
+    font-size: 0.95rem;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.6rem;
+    display: inline-block;
+    align-self: flex-start;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.story-content .speech-text {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #e2e8f0;
+}
+
+/* 캐릭터별 라벨 고유 테마 컬러링 (5인 + 피해자 + 핵심 NPC) */
+.story-content .speaker-parkhyesu .speaker-label {
+    color: #a1586a;
+    border-bottom: 2px solid #a1586a;
+    background: rgba(161, 88, 106, 0.08);
+}
+
+.story-content .speaker-jeonghyeongmi .speaker-label {
+    color: #5c7c96;
+    border-bottom: 2px solid #5c7c96;
+    background: rgba(92, 124, 150, 0.08);
+}
+
+.story-content .speaker-yoojeongseok .speaker-label {
+    color: #b3894f;
+    border-bottom: 2px solid #b3894f;
+    background: rgba(179, 137, 79, 0.08);
+}
+
+.story-content .speaker-nohyeongcheol .speaker-label {
+    color: #4f9e8a;
+    border-bottom: 2px solid #4f9e8a;
+    background: rgba(79, 158, 138, 0.08);
+}
+
+.story-content .speaker-jeongjunhee .speaker-label {
+    color: #e0876f;
+    border-bottom: 2px solid #e0876f;
+    background: rgba(224, 135, 111, 0.08);
+}
+
+.story-content .speaker-hadohoon .speaker-label {
+    color: #9a978f;
+    border-bottom: 2px solid #9a978f;
+    background: rgba(154, 151, 143, 0.08);
+}
+
+.story-content .speaker-yeomoonhyeok .speaker-label {
+    color: #6f94b3;
+    border-bottom: 2px solid #6f94b3;
+    background: rgba(52, 80, 107, 0.15);
+}
+
+/* 결정적 발언 강조 */
+.story-content .highlight-speech {
+    background: rgba(111, 148, 179, 0.06) !important;
+    border: 1px solid rgba(111, 148, 179, 0.3) !important;
+    border-left: 6px solid var(--office-navy) !important;
+    border-radius: 8px !important;
+    box-shadow: 0 0 15px rgba(111, 148, 179, 0.1);
+}
+
+.story-content .highlight-speech .speaker-label {
+    color: var(--office-navy) !important;
+    font-size: 1.05rem;
+    border-bottom: 2px solid var(--office-navy);
+    background: rgba(111, 148, 179, 0.12) !important;
+    padding: 4px 12px;
+}
+
+.story-content .highlight-speech .speech-text {
+    color: #d7e4ee;
+}
+
+/* 추리 경고 및 핵심 가이드 박스 */
+.story-content .warning-box {
+    background: rgba(239, 68, 68, 0.06);
+    border: 1px solid rgba(239, 68, 68, 0.25);
+    border-left: 6px solid #ef4444;
+    border-radius: 8px;
+    padding: 1.2rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 15px rgba(239, 68, 68, 0.05);
+}
+
+.story-content .warning-box p {
+    margin: 0;
+    color: #fca5a5;
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+.story-content .warning-box .emphasis {
+    color: #fecaca;
+    font-weight: 800;
+}
+
+/* 대본 리딩 연출 지문 스타일 */
+.story-content .direction {
+    font-family: "Pretendard Variable", sans-serif;
+    font-size: 0.9rem;
+    font-style: italic;
+    color: #94a3b8;
+    background: rgba(255, 255, 255, 0.03);
+    padding: 2px 8px;
+    border-radius: 4px;
+    border-left: 2px solid #64748b;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.01em;
+}
+
+/* 낭독 가이드 스타일 */
+.story-content .reading-guide {
+    margin-bottom: 1.25em;
+    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-left: 4px solid var(--office-navy);
+    font-size: 0.95em;
+    color: var(--office-text);
+}
+
+.story-content .ending-details {
+    margin-top: 3.5em;
+    border-top: 3px double rgba(92, 124, 150, 0.4);
+    padding: 3em 1.5em;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(20, 26, 32, 0.4) 15%, rgba(10, 13, 16, 0.85) 100%);
+    border-radius: 12px;
+    box-shadow: inset 0 0 50px rgba(92, 124, 150, 0.1);
+    position: relative;
+}
+
+.story-content .ending-details p {
+    color: rgba(230, 228, 222, 0.85) !important;
+}
+
+.story-content .ending-details .script-container {
+    background: #0a0d10 !important;
+    border-left: 5px solid #5c7c96 !important;
+    box-shadow: 0 4px 20px rgba(92, 124, 150, 0.15), inset 0 0 15px rgba(0, 0, 0, 0.8) !important;
+}
+
+.story-content .ending-details .quote-box {
+    background: rgba(92, 124, 150, 0.05) !important;
+    border: 1px solid rgba(92, 124, 150, 0.15) !important;
+    color: #a9c2d6 !important;
+}
+
+.story-content .ending-details .emphasis {
+    color: #a9c2d6 !important;
+}
+
+.story-content .ending-details .ending-result {
+    background: linear-gradient(90deg, transparent, rgba(92, 124, 150, 0.2), transparent) !important;
+    border-top: 1px solid rgba(92, 124, 150, 0.4) !important;
+    border-bottom: 1px solid rgba(92, 124, 150, 0.4) !important;
+    color: #a9c2d6 !important;
+}
+
+/* 일반 본문 문장처럼 보이지만 클릭 가능한 서스펜스 메시지 스타일 (밑줄 표시) */
+.story-content .suspense-msg {
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: normal;
+    color: var(--office-text);
+    text-align: left;
+    margin: 0;
+    max-width: none;
+    letter-spacing: -0.01em;
+    text-shadow: none;
+    animation: none;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+@keyframes suspensePulse {
+
+    0%,
+    100% {
+        opacity: 0.6;
+        text-shadow: 0 0 6px rgba(255, 107, 107, 0.3);
+        transform: scale(0.99);
+    }
+
+    50% {
+        opacity: 1;
+        text-shadow: 0 0 15px rgba(255, 107, 107, 0.9);
+        transform: scale(1.01);
+    }
+}
+
+/* --- ending-details 아코디언 인터랙션 최적화 --- */
+.story-content details.ending-details {
+    margin: 2em 0;
+    border: none;
+    background: transparent;
+    padding: 0;
+}
+
+.story-content details.ending-details summary {
+    list-style: none;
+    outline: none;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    padding: 0;
+    display: block;
+    margin: 1em 0;
+}
+
+.story-content details.ending-details summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content details.ending-details summary::marker {
+    display: none;
+}
+
+/* --- 역할 공개 안내 박스 (범인/공범/배후/무고 구분) --- */
+.story-content .role-notice {
+    padding: 1.2rem;
+    margin: 1.5rem 0 2rem 0;
+    border-radius: 12px;
+    text-align: center;
+    backdrop-filter: blur(4px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.story-content .role-notice .role-label {
+    font-family: "Pretendard Variable", sans-serif;
+    font-size: 0.85em;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+}
+
+.story-content .role-notice .role-text {
+    font-size: 1.15em;
+    font-weight: 700;
+    margin: 0;
+}
+
+.story-content .role-notice .role-text span {
+    font-size: 1.2em;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* 1. 무고 (innocent) */
+.story-content .role-notice.innocent {
+    background: rgba(79, 158, 138, 0.1);
+    border: 2px solid rgba(79, 158, 138, 0.3);
+}
+
+.story-content .role-notice.innocent .role-label {
+    color: #4f9e8a;
+}
+
+.story-content .role-notice.innocent .is-innocent {
+    color: #4f9e8a;
+}
+
+/* 2. 진범 (true-culprit) */
+.story-content .role-notice.true-culprit {
+    background: rgba(255, 107, 107, 0.1);
+    border: 2px solid rgba(255, 107, 107, 0.4);
+}
+
+.story-content .role-notice.true-culprit .role-label {
+    color: #ff6b6b;
+}
+
+.story-content .role-notice.true-culprit .is-culprit {
+    color: #ff6b6b;
+}
+
+/* 3. 공범/협조자 (accomplice) */
+.story-content .role-notice.accomplice {
+    background: rgba(179, 137, 79, 0.1);
+    border: 2px solid rgba(179, 137, 79, 0.4);
+}
+
+.story-content .role-notice.accomplice .role-label {
+    color: #b3894f;
+}
+
+.story-content .role-notice.accomplice .is-culprit {
+    color: #b3894f;
+}
+
+/* 4. 배후 (mastermind) */
+.story-content .role-notice.mastermind {
+    background: rgba(124, 143, 194, 0.1);
+    border: 2px solid rgba(124, 143, 194, 0.4);
+}
+
+.story-content .role-notice.mastermind .role-label {
+    color: #7c8fc2;
+}
+
+.story-content .role-notice.mastermind .is-culprit {
+    color: #7c8fc2;
+}
+
+/* --- 장소(Location) 표현 스타일 --- */
+.story-content .location-box {
+    background: linear-gradient(135deg, rgba(18, 20, 24, 0.8), rgba(34, 37, 42, 0.6));
+    border: 1px solid rgba(111, 148, 179, 0.25);
+    padding: 1.0em;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    position: relative;
+    overflow: hidden;
+}
+
+.story-content .location-box::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--office-navy), transparent);
+}
+
+.story-content .location-text {
+    font-family: "Pretendard Variable", sans-serif;
+    font-size: 0.95em;
+    line-height: 1.7;
+    color: var(--office-text);
+    text-align: justify;
+}
+
+.story-content .disclosure-box {
+    margin: 1.5rem 0;
+}
+
+.story-content .disclosure-box summary {
+    cursor: pointer;
+    color: var(--office-navy);
+    font-weight: 700;
+    font-size: 0.95rem;
+    list-style: none;
+    transition: opacity 0.2s;
+}
+
+.story-content .disclosure-box summary:hover {
+    opacity: 0.8;
+}
+
+.story-content .disclosure-box summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content .disclosure-box .disclosure-content {
+    margin-top: 0.75rem;
+    padding: 1.25rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(111, 148, 179, 0.1);
+    border-radius: 8px;
+    font-size: 0.92rem;
+    animation: fadeSlideDown 0.3s ease-out;
+}
+
+/* AI 생성 고지 스타일 */
+.ai-notice {
+    margin-top: 3rem;
+    font-size: 0.75rem;
+    opacity: 0.4;
+    text-align: center;
+    letter-spacing: 0.05em;
+    display: block;
+    color: var(--office-text);
+}
+
+/* 아웃로(Outro) 스타일 */
+.intro-outro {
+    margin-top: 4rem;
+    font-family: "Pretendard Variable", sans-serif;
+    font-style: italic;
+    opacity: 0.8;
+    text-align: center;
+    line-height: 1.8;
+    word-break: keep-all;
+    color: var(--office-text);
+}
+
+/* 공통 정보 등 기본 정보 리스트 스타일 */
+.story-content .info-list {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(111, 148, 179, 0.15);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.story-content .info-list li {
+    position: relative;
+    padding-left: 1.2em;
+    margin-bottom: 1.2em;
+    line-height: 1.6;
+    color: rgba(230, 228, 222, 0.9);
+}
+
+.story-content .info-list li:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .info-list li::before {
+    content: "◆";
+    position: absolute;
+    left: 0;
+    top: 0.1em;
+    color: var(--office-navy);
+    font-size: 0.8em;
+    opacity: 0.8;
+}
+
+.story-content .info-list li strong {
+    color: var(--office-navy);
+    font-weight: 700;
+    margin-right: 0.3em;
+}
+
+/* 도입부 내러티브 강조 박스 */
+.story-content .intro-narrative {
+    position: relative;
+    background: linear-gradient(to bottom, rgba(111, 148, 179, 0.08), transparent);
+    border-top: 1px solid rgba(111, 148, 179, 0.5);
+    border-bottom: 1px solid rgba(111, 148, 179, 0.2);
+    padding: 2rem 1.5rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.story-content .intro-narrative p {
+    text-align: center;
+    font-size: 1.02em;
+    line-height: 1.85;
+    margin-bottom: 1.2em;
+    color: rgba(230, 228, 222, 0.95);
+    word-break: keep-all;
+}
+
+.story-content .intro-narrative p:last-child {
+    margin-bottom: 0;
+}
+
+/* =====================================================
+   사내 메신저 재현 스타일 (이 작품 전용)
+   고백문이 사내 메신저 전사 단체방에 올라오는 형식을 클루/역할지 안에서
+   실제 채팅 화면처럼 보여줄 때 쓴다. 실제 특정 메신저 앱의 로고나 색상은
+   재현하지 않고, 일반적인 모바일 단체 채팅방 UI로만 표현한다.
+   ===================================================== */
+
+.story-content .messenger-frame {
+    max-width: 420px;
+    margin: 1.5rem auto;
+    background: #1c1e22;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.story-content .messenger-room-header {
+    padding: 0.9rem 1.1rem;
+    background: #2a2d33;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    font-family: "Pretendard Variable", sans-serif;
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--office-text);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.story-content .messenger-room-header .member-count {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #9a9d a4;
+    opacity: 0.7;
+}
+
+.story-content .messenger-body {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+}
+
+.story-content .messenger-message {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 85%;
+}
+
+.story-content .messenger-sender {
+    font-size: 0.75rem;
+    color: #9a9da4;
+    margin-bottom: 0.2rem;
+    padding-left: 0.2rem;
+}
+
+.story-content .messenger-bubble {
+    background: #f3f0e9;
+    color: #1f1c17;
+    padding: 0.7em 0.9em;
+    border-radius: 4px 14px 14px 14px;
+    font-size: 0.92rem;
+    line-height: 1.6;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+    word-break: break-all;
+}
+
+/* 공백 없이 빽빽하게 이어지는 고백문 특유의 문체를 재현하는 벽 텍스트 */
+.story-content .messenger-bubble.wall-text {
+    letter-spacing: -0.01em;
+    line-height: 1.75;
+}
+
+.story-content .messenger-bubble.short-notice {
+    background: #fff6d6;
+}
+
+.story-content .messenger-timestamp {
+    align-self: center;
+    font-size: 0.72rem;
+    color: #6c6f76;
+    margin: 0.4rem 0;
+    opacity: 0.8;
+}
