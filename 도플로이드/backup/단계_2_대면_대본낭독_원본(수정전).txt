@@ -27,10 +27,44 @@ https://cdn1.suno.ai/6ab57146-c074-4822-acb0-1aee1d9a948c.mp3
   <div class="section-title">1. 대본 낭독</div>
   <p>
     두 플레이어가 처음 조우한 시점(11:00, <span class="emphasis">프로메테우스 연구소</span>
-    <span class="emphasis">소장실</span>)입니다. 아래 대본 영역에서 순서대로 대사가 공개됩니다. "다음" 버튼이 보이는 플레이어가 진행권을 가지고 있습니다. 담당하는 역할의 대사를 연기하듯이 낭독하세요. 만약 이어지는 NPC의 대사가 있다면 재생 버튼을 눌러 음성을 상대방에게 들려주세요. 모두 마친 후 "다음"을 눌러 상대 플레이어에게 진행권을 넘겨 주세요.
+    <span class="emphasis">소장실</span>)입니다. 아래 음성으로 대본 전체를 들으실 수도 있고, 직접 낭독하셔도 좋습니다.
+    큰따옴표로 된 대사는 각자 자신의 역할 대사를 낭독합니다.
+    (<span class="character-clay">클레이</span>의 대사는 <span class="character-marcus">마커스</span>가 대신 낭독합니다.)
   </p>
+  <audio controls controlsList="nodownload" preload="none" style="width: 100%; margin-bottom: 16px; margin-top: 8px;">
+    <source src="https://res.cloudinary.com/dkzctfx9z/video/upload/v1786101471/murdex/images/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_zegfik.mp3" type="audio/mpeg" />
+  </audio>
+  <div class="script-container">
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "FBI에서 특별 파견된 수사관 마커스라고 합니다. 정부에서 지시한 불법 연구 기소 건으로, 오후에 도착할 정식 집행팀에 앞서 사전 조사를 나왔습니다. 시간 없으니 바로 본론으로 들어가시죠. 당신이 여기서 무슨 짓을 벌였는지 반드시 알아내야겠습니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "저도 마찬가지예요. 이 연구소, 그냥 지나칠 수 없는 이유가 있어서 왔거든요."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: "...반갑소, 두 분 다. 앉으시오."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "(마주 앉는 순간, 클레이의 얼굴을 보고 흠칫 놀라며) ...알렉스?"
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: "(당황한 기색을 애써 감추며) 그건 내 이름이 아니오. 난 클레이 소장이오, 사람 잘못 봤군."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "(애써 평정을 되찾으며) ...반갑습니다. CIA 소속 베일라라고 합니다. 정문에서 마침 마커스 수사관님과 만나서, 함께 들어오게 되었네요. 이 연구소의 불법 생체공학 연구 건으로 확인할 게 좀 있어서 왔습니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-marcus">마커스</span></span>: "이쪽은 CIA시군요. 목적은 조금 다를지 모르나 진실을 밝히는 데는 협력할 수 있을 겁니다. 자, 소장님. 변명은 나중에 듣고, 어서 안내부터 하시죠."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-veyla">베일라</span></span>: "네, 시간 낭비할 이유는 없으니까요."
+    </div>
+    <div class="script-line">
+      <span class="script-character"><span class="character-clay">클레이</span></span>: "좋소. 다만 시간이 많지는 않소. 오후 2시면 정부 집행팀이 도착해 이곳을 완전히 봉인할 테니, 그 전에 끝내는 게 서로에게 나을 거요."
+    </div>
+  </div>
   <div class="section-title">2. 다음 단계 안내</div>
-  <p>아래 대본을 끝까지 진행했다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.</p>
+  <p>위 이야기를 모두 낭독했다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.</p>
 </div>
 
 8. 대본 관리 (구조화, DB 입력용)
