@@ -28,96 +28,157 @@ N
   </p>
   <div class="section-title">2. 대본 낭독</div>
   <p>
-    조장 <span class="character-lee">이준서</span>부터 순서대로 대본을 낭독합니다. 모든 낭독이 끝나면 본격적인 조사를 시작하세요.
+    아래 대본 영역에서 대사가 한 줄씩 순서대로 공개됩니다. 자신이 맡은 줄이 나오면 캐릭터가 된 것처럼 소리 내어 낭독하고, <span class="highlight">다음 대사 넘기기</span>를 눌러 이어가세요.
   </p>
-  <div class="quote-box">
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "일단... 지금까지 나온 얘기들은 이 정도로 정리하면 될 것 같아."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-han">한세린</span>: "정리됐다고 하긴 좀 애매하지 않아? 설명 안 되는 게 아직 남아 있어."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "발표자 노트만 삭제된 걸 말하는 거지?"
-    </div>
-    <div class="script-line">
-      <span class="script-character character-han">한세린</span>: "그것도 그렇고, 누가 했는지 감도 안 잡히는 게 더 이상해."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-choi">최도윤</span>: "선배님, 혹시 따로 적어둔 발표 내용 같은 건 없어요?"
-    </div>
-    <div class="script-line">
-      <span class="script-character character-han">한세린</span>: "어? 아... 아니, 없어."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "지금 상황에서 더 파고들어도 당장 답이 나올 것 같진 않아요."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-choi">최도윤</span>: "선배, 죄송하지만요. 저는 아직 끝난 느낌이 안 듭니다."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "어떤 부분이요?"
-    </div>
-    <div class="script-line">
-      <span class="script-character character-choi">최도윤</span>: "각 과 학생휴게실이나 다른 공용 공간 같은 곳도 한 번쯤은 확인해 봐야 할 것 같아요."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-hwang">황기순</span>: "...나도 비슷하게 생각했어."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "음... 선배님도요?"
-    </div>
-    <div class="script-line">
-      <span class="script-character character-hwang">황기순</span>: "응. 이렇게 딱 발표자 노트만, 그것도 2페이지부터 삭제된 게 너무 이상해."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-han">한세린</span>: "학생휴게실이면... 사람들 가방도 놓고, 자료도 펼쳐두고 그러니까 뭐 단서가 있을 수도 있겠네."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "굳이 거기까지 가야 할까? 지금 상황에서 실익이 있을지는 잘 모르겠어."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-choi">최도윤</span>: "없을 수도 있죠. 근데 안 보면 계속 마음에 걸릴 것 같습니다."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-hwang">황기순</span>: "괜히 시간만 흘려보내는 것보단 각자 조금씩 움직여보는 게 낫지 않겠어?"
-    </div>
-    <div class="script-line">
-      <span class="script-character character-han">한세린</span>: "그럼 이렇게 하자. 각자 다른 과 학생휴게실을 보고 오는 거야."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "알겠어. 겹치지만 않게 나누는 게 좋겠다."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-choi">최도윤</span>: "근데 학생휴게실은 자기 과 학생증 있어야 들어갈 수 있잖아요."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-han">한세린</span>: "그럼 잠깐씩 바꿔 쓰자."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "학생증을?"
-    </div>
-    <div class="script-line">
-      <span class="script-character character-han">한세린</span>: "응. 문제 될 일은 없잖아."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-hwang">황기순</span>: "다들 그렇다면... 다녀와서 돌려주어야 해."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-choi">최도윤</span>: "저는 괜찮습니다."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-lee">이준서</span>: "알겠습니다. 그럼 얼른 다녀오죠. 다시 30분 뒤 여기서 모여요."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-choi">최도윤</span>: "네, 선배."
-    </div>
-    <div class="script-line">
-      <span class="script-character character-hwang">황기순</span>: "그럼 다들 이따 보자."
-    </div>
-  </div>
   <div class="section-title">3. 다음 단계 안내</div>
   <p>
-    모든 낭독이 끝났다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동하세요.
+    대본을 끝까지 진행했다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동하세요.
   </p>
 </div>
+
+8. 대본 관리 (구조화, DB 입력용)
+
+※ (2026-08-14) 기존 단계 설명 안의 quote-box 대본을 대본 영역으로 옮김. 옮기기 전 원본은 works/조별과제/backup/단계_5_중간점검_대본낭독_원본(수정전).txt 에 보관.
+※ 대사 하나하나가 개별 진행 단위임. 이 단계는 전부 PLAYER 줄이라 화자 본인이 자동 담당자가 됨(작가 도구에서 별도 지정 불필요).
+※ 원문 대사의 큰따옴표는 제거함(대본 영역이 말풍선으로 표시하므로 불필요).
+※ 조별과제는 캐릭터 음성이 준비되어 있지 않으므로 오디오(wav) 필드는 비워 둠. 전원 직접 낭독.
+
+[1] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 일단... 지금까지 나온 얘기들은 이 정도로 정리하면 될 것 같아.
+
+[2] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 정리됐다고 하긴 좀 애매하지 않아? 설명 안 되는 게 아직 남아 있어.
+
+[3] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 발표자 노트만 삭제된 걸 말하는 거지?
+
+[4] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 그것도 그렇고, 누가 했는지 감도 안 잡히는 게 더 이상해.
+
+[5] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 선배님, 혹시 따로 적어둔 발표 내용 같은 건 없어요?
+
+[6] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 어? 아... 아니, 없어.
+
+[7] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 지금 상황에서 더 파고들어도 당장 답이 나올 것 같진 않아요.
+
+[8] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 선배, 죄송하지만요. 저는 아직 끝난 느낌이 안 듭니다.
+
+[9] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 어떤 부분이요?
+
+[10] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 각 과 학생휴게실이나 다른 공용 공간 같은 곳도 한 번쯤은 확인해 봐야 할 것 같아요.
+
+[11] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: ...나도 비슷하게 생각했어.
+
+[12] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 음... 선배님도요?
+
+[13] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 응. 이렇게 딱 발표자 노트만, 그것도 2페이지부터 삭제된 게 너무 이상해.
+
+[14] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 학생휴게실이면... 사람들 가방도 놓고, 자료도 펼쳐두고 그러니까 뭐 단서가 있을 수도 있겠네.
+
+[15] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 굳이 거기까지 가야 할까? 지금 상황에서 실익이 있을지는 잘 모르겠어.
+
+[16] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 없을 수도 있죠. 근데 안 보면 계속 마음에 걸릴 것 같습니다.
+
+[17] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 괜히 시간만 흘려보내는 것보단 각자 조금씩 움직여보는 게 낫지 않겠어?
+
+[18] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 그럼 이렇게 하자. 각자 다른 과 학생휴게실을 보고 오는 거야.
+
+[19] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 알겠어. 겹치지만 않게 나누는 게 좋겠다.
+
+[20] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 근데 학생휴게실은 자기 과 학생증 있어야 들어갈 수 있잖아요.
+
+[21] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 그럼 잠깐씩 바꿔 쓰자.
+
+[22] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 학생증을?
+
+[23] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 응. 문제 될 일은 없잖아.
+
+[24] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 다들 그렇다면... 다녀와서 돌려주어야 해.
+
+[25] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 저는 괜찮습니다.
+
+[26] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 알겠습니다. 그럼 얼른 다녀오죠. 다시 30분 뒤 여기서 모여요.
+
+[27] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 네, 선배.
+
+[28] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 그럼 다들 이따 보자.

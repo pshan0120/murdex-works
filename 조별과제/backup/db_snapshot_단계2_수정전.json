@@ -1,0 +1,61 @@
+{
+  "story_step": {
+    "step_id": "69c1877b-8b14-4599-ab9c-45100fef3481",
+    "story_id": "fd09b053-3bce-4c0b-ac06-0287d42b86c3",
+    "step_order": 2,
+    "step_name": "자기소개",
+    "step_type": "NARRATIVE",
+    "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 첫 대면</div>\n  <p>\n    잠시 처음 같은 조가 되었을 과거로 돌아가서 서로 인사를 나눠주세요.\n    <strong>내 역할</strong>의 <strong>지침</strong>에서 '자기소개'를 확인하여 소리 내어 읽으며, 여러분이 이 조에서 어떤 역할을 맡게 되었는지 이야기합니다. 조장 <span class=\"character-lee\">이준서</span> 플레이어부터 진행하세요. 이후 순서는 온라인이라면 음성채팅 서버에 접속된 차례로, 오프라인이라면 시계방향으로 진행하세요.\n  </p>\n  <div class=\"section-title\">2. 다음 단계 안내</div>\n  <p>\n    자기소개가 끝났다면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계로 이동하세요.\n  </p>\n</div>",
+    "audio_url": null,
+    "estimated_duration": null,
+    "is_auto_proceed": 0,
+    "outro": null,
+    "intro_cutscenes": null,
+    "created_at": "2026-04-29 14:33:24",
+    "updated_at": "2026-07-05 20:32:54",
+    "is_final_step": 0
+  },
+  "role_guidelines": [
+    {
+      "guideline_id": "437e2da5-7865-11f1-9efd-00163eeec7f2",
+      "step_id": "69c1877b-8b14-4599-ab9c-45100fef3481",
+      "role_id": "c9189b82-8c13-4801-8ded-27b6677dab21",
+      "description": "<div class=\"story-content\">\n  <div class=\"guide-section\">\n    <p class=\"guide-text\">\n      팀원들에게 자신을 소개하는 시간입니다. 조장으로서 신뢰감 있고 단정한 모습을 보여주세요.\n    </p>\n    <div class=\"quote-box\">\n      \"그럼 제가 먼저 말씀드릴게요.<br />\n      안녕하세요. 정보통계학과 4학년, 19학번 이준서입니다.<br />\n      요즘 프로젝트 하다 보니까 결국 시스템 설계나 구현은 컴공 쪽이랑 엮일 수밖에 없더라고요.<br />\n      그래서 이번 학기엔 아예 컴공과 수업 하나 제대로 경험해 보자는 생각으로 이 수업을 신청했습니다. 실무에서도 도움이 될 것 같고요.<br />\n      조별과제라면 역할 분담이나 일정 관리 쪽은 제가 맡는 게 편합니다. 누군가는 전체 흐름을 잡아야 하니까요.\"\n    </div>\n  </div>\n</div>",
+      "created_at": "2026-07-05 20:32:54",
+      "updated_at": "2026-07-05 20:32:54",
+      "character_name": "이준서",
+      "role_order": 1
+    },
+    {
+      "guideline_id": "437e2a31-7865-11f1-9efd-00163eeec7f2",
+      "step_id": "69c1877b-8b14-4599-ab9c-45100fef3481",
+      "role_id": "87923507-de3c-4bbd-933a-ed2e7ca39002",
+      "description": "<div class=\"story-content\">\n  <div class=\"guide-section\">\n    <p class=\"guide-text\">\n      팀원들에게 자신을 소개하는 시간입니다. 퀸카답게 당당하고 자신감 넘치는 모습을 보여주세요.\n    </p>\n    <div class=\"quote-box\">\n      \"아, 네. 저는 컴퓨터공학과 4학년, 19학번 한세린이에요.<br />\n      조별과제로 바뀌어서 조금 당황스럽긴 한데... 어차피 피할 수 없을 것 같네요.<br />\n      저는 제가 제일 익숙한 발표를 맡을게요.<br />\n      다른 걸 다 잘해도 전달이 안 되면 의미 없잖아요.<br />\n      대신 자료 조사나 문서 작성 쪽은 다른 분들이 도와주시면 좋겠어요.\"\n    </div>\n  </div>\n</div>",
+      "created_at": "2026-07-05 20:32:54",
+      "updated_at": "2026-07-05 20:32:54",
+      "character_name": "한세린",
+      "role_order": 2
+    },
+    {
+      "guideline_id": "437dc70e-7865-11f1-9efd-00163eeec7f2",
+      "step_id": "69c1877b-8b14-4599-ab9c-45100fef3481",
+      "role_id": "5e4c365f-84cc-4350-9468-a47712f960c9",
+      "description": "<div class=\"story-content\">\n  <div class=\"guide-section\">\n    <p class=\"guide-text\">\n      팀원들에게 자신을 소개하는 시간입니다. 컴공과 후배다운 예의 바르고 조용한 모습을 보여주세요.\n    </p>\n    <div class=\"quote-box\">\n      \"아... 안녕하세요. 컴퓨터공학과 3학년, 20학번 최도윤입니다.<br />\n      원래 개인과제인 줄 알고 준비하고 있었는데, 갑자기 조별로 바뀌어서 조금 당황하긴 했어요.<br />\n      아직 많이 부족한 편이라 앞에 나서서 발표하거나 그런 역할은 자신이 없고요.<br />\n      대신 자료 조사는 제가 최대한 열심히 해보겠습니다.<br />\n      선배님들한테 배우는 입장이니까 폐 안 끼치도록 노력할게요.\"\n    </div>\n  </div>\n</div>",
+      "created_at": "2026-07-05 20:32:54",
+      "updated_at": "2026-07-05 20:32:54",
+      "character_name": "최도윤",
+      "role_order": 3
+    },
+    {
+      "guideline_id": "437dda0f-7865-11f1-9efd-00163eeec7f2",
+      "step_id": "69c1877b-8b14-4599-ab9c-45100fef3481",
+      "role_id": "829bb351-5616-4443-b589-6802bcfc353e",
+      "description": "<div class=\"story-content\">\n  <div class=\"guide-section\">\n    <p class=\"guide-text\">\n      팀원들에게 자신을 소개하는 시간입니다. 복학생 특유의 조용하고 숫기 없는 모습을 보여주세요.\n    </p>\n    <div class=\"quote-box\">\n      \"에... 저는 수학과 18학번, 황기순입니다.<br />\n      원래 전공 수업만 들으려고 했는데, 요즘은 수학 쪽도 다른 과랑 같이 프로젝트하는 게 많다고 해서요.<br />\n      교수님도 한 번쯤은 이런 수업 들어보는 게 좋다고 하셔서...<br />\n      조별과제는 사실 좀 익숙하진 않고요, 앞에 나가서 발표하는 건 잘 못합니다.<br />\n      대신 발표자료 만드는 거는 괜찮아요. 그런 건 손에 익어 있어서요.\n    </div>\n  </div>\n</div>",
+      "created_at": "2026-07-05 20:32:54",
+      "updated_at": "2026-07-05 20:32:54",
+      "character_name": "황기순",
+      "role_order": 4
+    }
+  ],
+  "script_lines": []
+}

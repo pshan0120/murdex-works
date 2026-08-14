@@ -1,0 +1,123 @@
+StoryID : fd09b053-3bce-4c0b-ac06-0287d42b86c3
+StepID : 78f5460a-4800-4d8c-b4f8-9eb4b3a88cf7
+
+1. 순서
+5
+
+2. 단계 이름
+중간점검
+
+3. 단계 유형
+NARRATIVE
+
+4. 예상 소요 시간
+무제한
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(미정 - 추후 업로드 예정)
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 개요</div>
+  <p>
+    약속했던 30분이 흐르고, 팀원들은 각자 조사한 내용을 공유하기 위해 다시 강의실로 모였습니다.
+  </p>
+  <div class="section-title">2. 대본 낭독</div>
+  <p>
+    조장 <span class="character-lee">이준서</span>부터 순서대로 대본을 낭독합니다. 모든 낭독이 끝나면 본격적인 조사를 시작하세요.
+  </p>
+  <div class="quote-box">
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "일단... 지금까지 나온 얘기들은 이 정도로 정리하면 될 것 같아."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-han">한세린</span>: "정리됐다고 하긴 좀 애매하지 않아? 설명 안 되는 게 아직 남아 있어."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "발표자 노트만 삭제된 걸 말하는 거지?"
+    </div>
+    <div class="script-line">
+      <span class="script-character character-han">한세린</span>: "그것도 그렇고, 누가 했는지 감도 안 잡히는 게 더 이상해."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-choi">최도윤</span>: "선배님, 혹시 따로 적어둔 발표 내용 같은 건 없어요?"
+    </div>
+    <div class="script-line">
+      <span class="script-character character-han">한세린</span>: "어? 아... 아니, 없어."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "지금 상황에서 더 파고들어도 당장 답이 나올 것 같진 않아요."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-choi">최도윤</span>: "선배, 죄송하지만요. 저는 아직 끝난 느낌이 안 듭니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "어떤 부분이요?"
+    </div>
+    <div class="script-line">
+      <span class="script-character character-choi">최도윤</span>: "각 과 학생휴게실이나 다른 공용 공간 같은 곳도 한 번쯤은 확인해 봐야 할 것 같아요."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-hwang">황기순</span>: "...나도 비슷하게 생각했어."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "음... 선배님도요?"
+    </div>
+    <div class="script-line">
+      <span class="script-character character-hwang">황기순</span>: "응. 이렇게 딱 발표자 노트만, 그것도 2페이지부터 삭제된 게 너무 이상해."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-han">한세린</span>: "학생휴게실이면... 사람들 가방도 놓고, 자료도 펼쳐두고 그러니까 뭐 단서가 있을 수도 있겠네."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "굳이 거기까지 가야 할까? 지금 상황에서 실익이 있을지는 잘 모르겠어."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-choi">최도윤</span>: "없을 수도 있죠. 근데 안 보면 계속 마음에 걸릴 것 같습니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-hwang">황기순</span>: "괜히 시간만 흘려보내는 것보단 각자 조금씩 움직여보는 게 낫지 않겠어?"
+    </div>
+    <div class="script-line">
+      <span class="script-character character-han">한세린</span>: "그럼 이렇게 하자. 각자 다른 과 학생휴게실을 보고 오는 거야."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "알겠어. 겹치지만 않게 나누는 게 좋겠다."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-choi">최도윤</span>: "근데 학생휴게실은 자기 과 학생증 있어야 들어갈 수 있잖아요."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-han">한세린</span>: "그럼 잠깐씩 바꿔 쓰자."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "학생증을?"
+    </div>
+    <div class="script-line">
+      <span class="script-character character-han">한세린</span>: "응. 문제 될 일은 없잖아."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-hwang">황기순</span>: "다들 그렇다면... 다녀와서 돌려주어야 해."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-choi">최도윤</span>: "저는 괜찮습니다."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-lee">이준서</span>: "알겠습니다. 그럼 얼른 다녀오죠. 다시 30분 뒤 여기서 모여요."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-choi">최도윤</span>: "네, 선배."
+    </div>
+    <div class="script-line">
+      <span class="script-character character-hwang">황기순</span>: "그럼 다들 이따 보자."
+    </div>
+  </div>
+  <div class="section-title">3. 다음 단계 안내</div>
+  <p>
+    모든 낭독이 끝났다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동하세요.
+  </p>
+</div>
