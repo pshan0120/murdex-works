@@ -25,98 +25,28 @@ https://cdn1.suno.ai/9b3b6a75-da27-47d8-bb86-0a1d7b6aae8c.mp3
 
 <div class="story-content">
   <div class="section-title">1. 마지막 대화</div>
-  <audio controls preload="none" style="width: 100%; margin-bottom: 12px;">
-    <source src="https://res.cloudinary.com/dkzctfx9z/video/upload/v1786190561/murdex/images/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_qh7ggd.mp3" type="audio/mpeg" />
-  </audio>
-  <p>위 음성으로 대본 전체를 들으실 수도 있고, 직접 낭독하셔도 좋습니다. 흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된 대사는 각자 자신의 역할 대사를 낭독합니다.</p>
-  <div class="script-direction">모든 구역의 조사와 토론을 마친 두 사람 사이에, 팽팽한 논쟁이 이어지고 있었다.</div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...진실을 알고 나면, 당신은 정말 어떻게 할 생각입니까?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...그건 수사관님도 마찬가지 아닌가요? 저도 궁금하네요, 뭘 하실 생각인지."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...쉽게 넘어갈 일은 아닐 겁니다. 적어도 저는, 그렇게 생각합니다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...혹시, 고의가 아니었을 수도 있잖아요. 정말 어쩔 수 없는 사고였다면, 그것까지 탓할 수 있을까요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그럴지도 모르죠. 하지만 전에도 비슷한 걸 믿었다가, 제 누나를 잃었습니다. 다음엔 또 어떻게 될지, 저는 장담 못 하겠군요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...그 말, 왠지 좀 불안하게 들리네요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "그건 대답하지 않겠습니다. 대신 저도 하나 묻죠. 진실이 뭐든, 당신의 판단은 흔들리지 않을 자신 있습니까?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...(한숨을 내쉰다)"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그 침묵, 대답이 되는군요."
-    </div>
-  </div>
-  <div class="section-title">2. 정부 집행팀 도착</div>
-  <div class="script-direction">
-    그 순간, 천장의 비상 스피커가 갑자기 지직거리며 켜졌다.
-  </div>
-  <p class="emphasis">
-    "정부 집행팀입니다. 시설 정문에 도착했습니다. 집행 절차 개시 전 모든 인원은 즉시 퇴거하십시오. 5분 후 전 구역 봉쇄를 해제하고 강제 진입합니다."
-  </p>
-  <div class="script-direction">
-    그 목소리를 듣는 순간, 소장의 눈빛이 흔들렸다. 그는 슬금슬금 뒷걸음질 치며, 환기구 쪽을 자꾸
-    힐끔거렸다. 금방이라도 몸을 돌려 달아날 것만 같은 낌새였다.
-  </div>
-  <div class="section-title">3. 각자 밝히기</div>
-  <p>
-    화면의 질문에 답하기 전, 두 사람은 차례로 한 번씩 이야기해야 합니다: <strong>지금 눈앞에 있는 이 사람이 누구라고 생각하는지, 그리고 그 판단에 따라 어떻게 할 생각인지.</strong> 누가 먼저 말해도 상관없습니다. 다만 상대방이 말하는 동안에는 끼어들지 말고 끝까지 듣기만 하십시오. 상대의 말에 동의하지 않아도 괜찮습니다. 다만 서로 무슨 생각을 하고 있는지는 알고 다음으로 넘어가야 합니다.
-  </p>
-  <div class="section-title">4. 최종 결정</div>
-  <p>
-    더는 시간을 끌 수 없습니다. 사건의 전말에 대해 답을 내릴 시간입니다. 화면에 나타나는 질문에 각자의 판단에 따른
-    답변을 입력해 주시기 바랍니다.
-  </p>
-  <p class="emphasis">
-    지금까지 모은 단서들이 이미 어느 한쪽을 가리키고 있을 수도 있습니다. 하지만 이 마지막 선택은 정답을 맞히는 시험이
-    아닙니다. 이 급박한 순간, 당신이 무엇을 믿기로 하는지, 그리고 그 믿음 위에서 무엇을 하기로 하는지가 곧 당신이라는
-    사람을 증명합니다.
-  </p>
-  <div class="section-title">5. 답변 규칙</div>
+  <p>아래 대본 영역에서 순서대로 대사가 공개됩니다. 자신의 차례가 되면 직접 낭독하거나 재생 버튼으로 음성을 들려주고, "다음"을 눌러 이어가세요.</p>
+  <div class="section-title">2. 각자 밝히기</div>
+  <p>화면의 질문에 답하기 전, 두 사람은 차례로 한 번씩 이야기해야 합니다: <strong>지금 눈앞에 있는 이 사람이 누구라고 생각하는지, 그리고 그 판단에 따라 어떻게 할 생각인지.</strong> 누가 먼저 말해도 상관없습니다. 다만 상대방이 말하는 동안에는 끼어들지 말고 끝까지 듣기만 하십시오. 상대의 말에 동의하지 않아도 괜찮습니다. 다만 서로 무슨 생각을 하고 있는지는 알고 다음으로 넘어가야 합니다.</p>
+  <div class="section-title">3. 최종 결정</div>
+  <p>더는 시간을 끌 수 없습니다. 사건의 전말에 대해 답을 내릴 시간입니다. 화면에 나타나는 질문에 각자의 판단에 따른 답변을 입력해 주시기 바랍니다.</p>
+  <p class="emphasis">지금까지 모은 단서들이 이미 어느 한쪽을 가리키고 있을 수도 있습니다. 하지만 이 마지막 선택은 정답을 맞히는 시험이 아닙니다. 이 급박한 순간, 당신이 무엇을 믿기로 하는지, 그리고 그 믿음 위에서 무엇을 하기로 하는지가 곧 당신이라는 사람을 증명합니다.</p>
+  <div class="section-title">4. 답변 규칙</div>
   <ul>
-    <li>
-      <span class="highlight">비공개 답변</span>: 화면에 나타나는 질문에 순서대로, 다른 사람에게 보여주지 말고 혼자
-      답하십시오.
-    </li>
-    <li>
-      <span class="highlight">침묵 속의 답변</span>: 질문이 시작되면 더 이상의 토론이나 정보 공유는 불가능합니다. 오직
-      본인의 판단에 따라 결정을 내리십시오. 아래 한 가지만이 예외입니다.
-    </li>
-    <li>
-      <span class="highlight">두 번째 질문에 대하여</span>: 두 번째 질문에 답변하기 전, 첫 번째 질문에 대한 답변을 서로에게
-      <strong>사실대로 밝혀야 합니다.</strong> 두 번째 질문에서 어떤 답을 골라야 하는지가 여기에 달려 있으므로, 이 하나만큼은
-      숨기거나 거짓으로 말할 수 없습니다.
-    </li>
-    <li>
-      <span class="highlight">질문 문구 발설 금지</span>: 단, 위에서 밝히는 것은 어디까지나 첫 번째 질문에 대한 당신의
-      <strong>답</strong>뿐입니다. 화면에 뜬 질문에 정확히 어떤 문구가 적혀 있는지, 선택지가 각각 무엇으로 쓰여 있는지 등
-      질문 자체의 표현은 끝까지 서로에게 말하지 마십시오.
-    </li>
+    <li><span class="highlight">비공개 답변</span>: 화면에 나타나는 질문에 순서대로, 다른 사람에게 보여주지 말고 혼자 답하십시오.</li>
+    <li><span class="highlight">침묵 속의 답변</span>: 질문이 시작되면 더 이상의 토론이나 정보 공유는 불가능합니다. 오직 본인의 판단에 따라 결정을 내리십시오. 아래 한 가지만이 예외입니다.</li>
+    <li><span class="highlight">두 번째 질문에 대하여</span>: 두 번째 질문에 답변하기 전, 첫 번째 질문에 대한 답변을 서로에게 <strong>사실대로 밝혀야 합니다.</strong> 두 번째 질문에서 어떤 답을 골라야 하는지가 여기에 달려 있으므로, 이 하나만큼은 숨기거나 거짓으로 말할 수 없습니다.</li>
+    <li><span class="highlight">질문 문구 발설 금지</span>: 단, 위에서 밝히는 것은 어디까지나 첫 번째 질문에 대한 당신의 <strong>답</strong>뿐입니다. 화면에 뜬 질문에 정확히 어떤 문구가 적혀 있는지, 선택지가 각각 무엇으로 쓰여 있는지 등 질문 자체의 표현은 끝까지 서로에게 말하지 마십시오.</li>
   </ul>
-  <div class="section-title">6. 다음 단계 안내</div>
-  <p>
-    답변 제출이 완료되면, 두 플레이어의 선택 조합에 따라 결말 하나가 즉시 결정되어 낭독됩니다. 결말을 모두
-    확인했다면 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.
-  </p>
+  <div class="section-title">5. 다음 단계 안내</div>
+  <p>답변 제출이 완료되면, 두 플레이어의 선택 조합에 따라 결말 하나가 즉시 결정되어 낭독됩니다. 결말을 모두 확인했다면 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.</p>
 </div>
 
 9. 대본 관리 (구조화, DB 입력용)
 
 ※ 이 단계는 "1. 마지막 대화" 섹션(script-container + 그 앞 지시문)만 wav로 녹음되어 있음(1~10.wav = 10개).
-   "2. 정부 집행팀 도착" 섹션의 두 지시문(비상 스피커, 소장의 반응)은 낭독 대본이 아니라 별도 연출 문단이라 wav가 없음 — 구조화 대본에 넣지 않고 기존 단계 설명 본문에 그대로 둠.
 ※ 이 단계는 클레이(NPC) 대사가 없음 — 전부 PLAYER/DIRECTIVE.
+※ (2026-08-14 갱신) 세그먼트 개념 폐지. 지시문 줄(1·11·12·13번)도 담당 플레이어를 작가 도구에서 직접 지정해야 함(아직 DB 미반영).
 
 [1] 화자 타입: DIRECTIVE
     대사: 모든 구역의 조사와 토론을 마친 두 사람 사이에, 팽팽한 논쟁이 이어지고 있었다.
@@ -175,3 +105,12 @@ https://cdn1.suno.ai/9b3b6a75-da27-47d8-bb86-0a1d7b6aae8c.mp3
     화자 표시 HTML: <span class="character-marcus">마커스</span>
     대사: ...그 침묵, 대답이 되는군요.
     wav 파일: 단계_8_최종_결론_10.wav
+
+[11] 화자 타입: DIRECTIVE
+    대사: 그 순간, 천장의 비상 스피커가 갑자기 지직거리며 켜졌다.
+
+[12] 화자 타입: DIRECTIVE
+    대사: <span class="emphasis">"정부 집행팀입니다. 시설 정문에 도착했습니다. 집행 절차 개시 전 모든 인원은 즉시 퇴거하십시오. 5분 후 전 구역 봉쇄를 해제하고 강제 진입합니다."</span>
+
+[13] 화자 타입: DIRECTIVE
+    대사: 그 목소리를 듣는 순간, 소장의 눈빛이 흔들렸다. 그는 슬금슬금 뒷걸음질 치며, 동쪽으로 자꾸 시선을 돌렸다.

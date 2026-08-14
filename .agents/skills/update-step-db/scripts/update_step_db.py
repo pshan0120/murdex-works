@@ -43,24 +43,43 @@ def parse_step_file(file_path):
     step_name = name_match.group(1).strip() if name_match else None
 
     # 단계 설명 (HTML) 추출: <div class="story-content">...</div> 블록 탐색
-    description = None
-    desc_start_match = re.search(r'(?:(?:단계\s*설명|\d+\.\s*단계\s*설명)\s*\n+)?(<div class="story-content".*)', content, re.DOTALL)
-    if desc_start_match:
-        html_candidate = desc_start_match.group(1).strip()
-        # <div class="story-content">부터 매칭되는 최외곽 </div>까지 추출
+    # 대본(ScriptReadingArea)이 설명 HTML과 별개로 항상 그 아래에 렌더링되는 구조라, 대본보다
+    # 뒤에 나와야 하는 내용(예: 대사 중간에 있던 iframe)은 <!-- POST_SCRIPT --> 마커로 구분된
+    # 두 번째 story-content 블록에 담는다. 여기서는 그 마커+두 번째 블록까지 통째로 description에
+    # 포함시켜야 프론트가 올바르게 나눠 렌더링할 수 있다 (StepDescriptionContent.tsx 참고).
+    def _extract_balanced_div(text):
+        """text가 <div class="story-content">로 시작한다고 가정하고, 매칭되는 최외곽 </div>까지 추출.
+        (남은 텍스트, 추출된 블록) 튜플을 반환. 매칭 실패 시 (text, None)."""
         div_count = 0
-        end_idx = 0
         in_div = False
-        lines = html_candidate.split('\n')
+        lines = text.split('\n')
         extracted_lines = []
+        consumed = 0
         for line in lines:
             extracted_lines.append(line)
+            consumed += len(line) + 1  # +1 for the '\n' split away
             div_count += line.count('<div') - line.count('</div>')
             if line.count('<div') > 0:
                 in_div = True
             if in_div and div_count <= 0:
-                break
-        description = "\n".join(extracted_lines).strip()
+                block = "\n".join(extracted_lines).strip()
+                remainder = text[consumed:]
+                return remainder, block
+        return text, None
+
+    description = None
+    desc_start_match = re.search(r'(?:(?:단계\s*설명|\d+\.\s*단계\s*설명)\s*\n+)?(<div class="story-content".*)', content, re.DOTALL)
+    if desc_start_match:
+        remainder, first_block = _extract_balanced_div(desc_start_match.group(1).strip())
+        if first_block:
+            parts = [first_block]
+            marker_match = re.match(r'\s*(<!--\s*POST_SCRIPT\s*-->)\s*(<div class="story-content".*)', remainder, re.DOTALL)
+            if marker_match:
+                _, second_block = _extract_balanced_div(marker_match.group(2))
+                if second_block:
+                    parts.append(marker_match.group(1))
+                    parts.append(second_block)
+            description = "\n\n".join(parts)
 
     if not description:
         print(f"[WARNING] 단계 설명 HTML 영역을 찾지 못함: {os.path.basename(file_path)}")

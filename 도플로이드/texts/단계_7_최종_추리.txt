@@ -25,53 +25,10 @@ https://cdn1.suno.ai/5dd7685c-a7df-42f6-b07d-646b18ab03cc.mp3
 
 <div class="story-content">
   <div class="section-title">1. 대본 낭독</div>
-  <audio controls preload="none" style="width: 100%; margin-bottom: 12px;">
-    <source src="https://res.cloudinary.com/dkzctfx9z/video/upload/v1786190550/murdex/images/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_clzb8s.mp3" type="audio/mpeg" />
-  </audio>
-  <p>위 음성으로 대본 전체를 들으실 수도 있고, 직접 낭독하셔도 좋습니다. 흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된 대사는 각자 자신의 역할 대사를 낭독합니다.</p>
-  <div class="script-direction">모든 구역의 조사를 마친 두 사람 사이에, 짧은 정적이 흘렀다.</div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...이제 정말 마지막이군요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "네. 여기까지 오는 데, 참 오래 걸렸네요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그러게 말입니다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "수사관님은... 만약 진실이 원하시던 것과 다르면 어떡하실 거예요?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "그래도 마주해야겠죠. 피한다고 없어지는 건 아니니까."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "저는... 자신이 없어요. 어쩌면 처음부터, 알고 싶지 않았던 걸지도 모르겠어요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "그럼 왜 여기까지 왔습니까?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "그야, 모르는 채로 사는 것보다는, 그래도 낫다고 생각했으니까요."
-    </div>
-  </div>
-  <div class="script-direction">그때, 줄곧 침묵을 지키던 <span class="character-clay">클레이</span>가 두 사람의 시선을 눈치챈 듯 먼저 입을 열었다.</div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "...두 분 다, 저를 의심하고 계시는 것 같군요. 좋습니다. 궁금한 점이 있다면 각자 뭐든 물어보십시오. 아는 대로 전부 답변해 드리겠습니다. 다만... 시간 관계상 한 사람당 질문은 딱 세 가지만 받도록 하죠."
-    </div>
-  </div>
-  <div class="script-direction">그 눈빛에는 숨기는 것이 없는 듯해 보였으나, 과연 어디까지가 진실일지. 두 사람은 각자 소장에게 물어볼 질문을 가다듬기 시작했다.</div>
-  <p style="margin-top: 12px; margin-bottom: 8px;">의심되는 점이 있다면, 아래에서 직접 소장에게 캐물어 보십시오. 단, 질문은 각자 3번씩 가능합니다.</p>
-  <iframe src="/tools/doploid/interrogation" title="소장 심문" style="width: 100%; height: 440px; border: none; border-radius: 8px; overflow: hidden; margin-bottom: 16px;"></iframe>
+  <p>아래 대본 영역에서 순서대로 대사가 공개됩니다. 자신의 차례가 되면 직접 낭독하거나 재생 버튼으로 음성을 들려주고, "다음"을 눌러 이어가세요.</p>
   <div class="section-title">2. 단계 안내</div>
-  <p>
-    사건의 조각들이 맞추어졌습니다. 이제 최종 토론 단계입니다.
-  </p>
-  <p class="emphasis">
-    지금까지 혼자 간직해 온 단서가 있다면, 상대방에게 알릴 수 있는 마지막 기회입니다. 다음 단계부터는 더 이상 정보를 주고받을 수 없습니다.
-  </p>
+  <p>사건의 조각들이 맞추어졌습니다. 이제 최종 토론 단계입니다.</p>
+  <p class="emphasis">지금까지 혼자 간직해 온 단서가 있다면, 상대방에게 알릴 수 있는 마지막 기회입니다. 다음 단계부터는 더 이상 정보를 주고받을 수 없습니다.</p>
   <p>
     1. 단서 정리: 지금까지 수집된 단서들과 서로의 정보를 바탕으로 사건의 내러티브를 재구성하십시오.<br />
     <br />
@@ -87,6 +44,7 @@ https://cdn1.suno.ai/5dd7685c-a7df-42f6-b07d-646b18ab03cc.mp3
 9. 대본 관리 (구조화, DB 입력용)
 
 ※ 지시문(DIRECTIVE)에는 화자/화자 표시 HTML이 없음. lineHtml만 입력.
+※ (2026-08-14 갱신) 세그먼트 개념 폐지. NPC/지시문 줄(1·10·11·12번)도 담당 플레이어를 작가 도구에서 직접 지정해야 함(아직 DB 미반영).
 ※ 10번 대사에는 원문의 <span class="character-clay"> 표시를 그대로 살려서 넣음.
 
 [1] 화자 타입: DIRECTIVE
@@ -148,7 +106,7 @@ https://cdn1.suno.ai/5dd7685c-a7df-42f6-b07d-646b18ab03cc.mp3
 [11] 화자 타입: NPC
     화자: 클레이
     화자 표시 HTML: <span class="character-clay">클레이</span>
-    대사: ...두 분 다, 저를 의심하고 계시는 것 같군요. 좋습니다. 궁금한 점이 있다면 각자 뭐든 물어보십시오. 아는 대로 전부 답변해 드리겠습니다. 다만... 시간 관계상 한 사람당 질문은 딱 세 가지만 받도록 하죠.
+    대사: ...두 분 다, 저를 의심하고 계시는 것 같군요. 좋습니다. 궁금한 점이 있다면 각자 뭐든 물어보십시오. 아는 대로 전부 답변해 드리겠습니다. 다만... 시간 관계상 한 사람당 질문은 딱 세 가지만 받도록 하죠.<br /><iframe src="/tools/doploid/interrogation" title="소장 심문" style="width: 100%; height: 440px; border: none; border-radius: 8px; overflow: hidden; margin-top: 12px"></iframe>
     wav 파일: 단계_7_최종_추리_11.wav
 
 [12] 화자 타입: DIRECTIVE

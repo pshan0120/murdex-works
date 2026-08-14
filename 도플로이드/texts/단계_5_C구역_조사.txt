@@ -29,98 +29,19 @@ FBI 수사관 마커스 : 2
 
 <div class="story-content">
   <div class="section-title">1. 대본 낭독</div>
-  <audio controls preload="none" style="width: 100%; margin-bottom: 12px;">
-    <source src="https://res.cloudinary.com/dkzctfx9z/video/upload/v1786101522/murdex/images/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_t0n1ta.mp3" type="audio/mpeg" />
-  </audio>
-  <p>
-    위 음성으로 대본 전체를 들으실 수도 있고, 직접 낭독하셔도 좋습니다.
-    흐리게 표시된 지시문은 <span class="character-veyla">베일라</span>가 소리 내어 낭독해 주세요. 큰따옴표로 된
-    대사는 각자 자신의 역할 대사를 낭독합니다. (<span class="character-clay">클레이</span>의 대사는
-    <span class="character-marcus">마커스</span>가 대신 낭독합니다.)
-  </p>
-  <div class="script-direction"><span class="emphasis">B구역</span>에서의 조사를 마친 세 사람은 C구역으로 향하는 철문 앞에 멈춰 섰다. 소장이 문 옆 판독기에 손바닥을 올리자, 붉은빛이 그의 생체 정보를 스캔하며 느릿하게 깜빡였다.</div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...생각보다 침착하시네요. 방금 그런 걸 보고도."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "여기서 무너지면 아무것도 못 하니까, 버티는 것뿐이에요. ...이상하게 이런 순간엔, 자꾸 누가 생각나네요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...누구 말입니까?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "그냥, 아는 사람이요. 수사관님도 그런 사람 있으세요? 이럴 때 문득 떠오르는."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...있습니다."
-    </div>
-  </div>
-  <div class="script-direction">소장이 못마땅한 얼굴로 C구역의 무거운 철문을 열었다.</div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "여기는 예전에 쓰던 직원 휴게실입니다."
-    </div>
-  </div>
-  <div class="script-direction">하지만 문이 열리자마자 코를 찌르는 강렬한 소독약 냄새와 함께, '삐- 삐-' 하는 기계음이 규칙적으로 울려 퍼졌다. 안쪽은 휴게실의 흔적은 전혀 없고, 온갖 투석기와 생명 유지 장치로 가득한 극비 중환자 병실이 자리하고 있었다.</div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "...아, 얼마 전에 개조된 모양이군요. 시설 관리는 따로 담당자를 두고 있어서요. 연구에만 매달리다 보니, 보고받은 걸 깜빡했나 봅니다."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "소장님이 자기 연구소 방을 그렇게 모르고 계셨다는 게, 좀 이상하게 들리네요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...그럴 수도 있겠군요. 연구에만 몰두하다 보면, 그런 보고 하나쯤 놓칠 수도 있겠죠."
-    </div>
-  </div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "소장님. 당신, 정말 클레이 소장 본인이 맞습니까?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "무슨 헛소리입니까! 저는 틀림없는 클레이 소장입니다. 지금 그런 걸 따질 때입니까?"
-    </div>
-  </div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...잠깐, 확인할 방법이 있어요. 사전에 알아본 클레이 소장님 신체 기록에는, 왼쪽 가슴 쪽에 특정한 표식이 있다고 되어 있더군요. 정말 소장님이 맞다면, 그 정도는 어렵지 않게 보여주실 수 있겠죠."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-clay">클레이</span></span>: "...이 무슨 무례한 요구입니까! 그런 걸로 증명해야 한다면, 다른 방법도 있습니다. 정부가 이 연구소를 폐쇄하려는 진짜 이유, '불법 연구 의혹'이라는 게 표면적인 핑계에 불과하다는 것도 저는 알고 있습니다. 이런 것까지 꿰고 있는 사람이, 어디 흔하겠습니까?"
-    </div>
-  </div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...그건, 어떻게 알고 계신 거죠?"
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...별것 아닌 요구에, 반응이 지나치게 격하시군요."
-    </div>
-  </div>
-  <div class="script-direction">소장이 자리를 비키자, 마커스가 나직이 한숨을 내쉬었다.</div>
-  <div class="script-container">
-    <div class="script-line">
-      <span class="script-character"><span class="character-marcus">마커스</span></span>: "...FBI 생활 8년 만에, 별의별 꼴을 다 보는군요."
-    </div>
-    <div class="script-line">
-      <span class="script-character"><span class="character-veyla">베일라</span></span>: "...여러모로 녹록지 않네요."
-    </div>
-  </div>
-  <div class="script-direction">짧은 침묵이 두 사람 사이를 스쳤다.</div>
+  <p>아래 대본 영역에서 순서대로 대사가 공개됩니다. 자신의 차례가 되면 직접 낭독하거나 재생 버튼으로 음성을 들려주고, "다음"을 눌러 이어가세요.</p>
   <div class="section-title">2. 단계 안내</div>
   <p>
     1. AP 지급: 이번 구역에서 사용할 AP가 인당 2씩 지급됩니다.<br />
     2. 단서 수집: AP를 사용하여 단서를 조사하십시오. 조사한 단서는 본인만 확인할 수 있으며, 상대방에게 알릴지는 전적으로 당신의 선택입니다. 다만 단서의 제목만은 서로에게 공개되니, 누가 무엇을 조사할지 미리 상의할 수 있습니다.<br />
     3. 자유 토론: 소장이 자기 연구소 방의 용도조차 모른다는 사실과, 방금 보인 격한 반응을 근거로 그의 정체에 대한 의심을 나누십시오.<br />
-    4. 단계 완료: 조사와 대화가 모두 완료되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음
-    단계로 진행하십시오.
+    4. 단계 완료: 조사와 대화가 모두 완료되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.
   </p>
 </div>
 
 9. 대본 관리 (구조화, DB 입력용)
 
-※ 원문 주석은 "클레이의 대사는 마커스가 대신 낭독"이라 되어 있지만, 새 구조화 시스템에서는 세그먼트 소유권이 자동 계산되어 8번(클레이) 줄은 베일라, 10·14·16번(클레이) 줄은 각각 그 세그먼트를 닫는 쪽(10→베일라, 14→베일라, 16→베일라)에 재생 버튼이 붙게 됨.
+※ (2026-08-14 갱신) 세그먼트 개념 폐지. 대사 하나하나가 개별 진행 단위이며, PLAYER 줄은 화자 본인이 자동 담당자가 되지만 NPC/지시문 줄(1·7·8·9·10·14·16·19·22번)은 작가 도구에서 담당 플레이어를 직접 지정해야 함(아직 DB 미반영이라 이 문서에는 표기하지 않음 — 원문 주석 "클레이의 대사는 마커스가 대신 낭독"을 참고해 지정할 것).
 ※ 지시문(DIRECTIVE)에는 화자/화자 표시 HTML이 없음. lineHtml만 입력.
 ※ 1번 대사에는 원문의 <span class="emphasis"> 강조 표시를 그대로 살려서 넣음.
 
@@ -137,7 +58,7 @@ FBI 수사관 마커스 : 2
 [3] 화자 타입: PLAYER
     화자: 베일라 (CIA 요원)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: 여기서 무너지면 아무것도 못 하니까, 버티는 것뿐이에요. ...이상하게 이런 순간엔, 자꾸 누가 생각나네요.
+    대사: 당황해 봤자 상황만 나빠질 뿐이니까 버티는 겁니다. ...참 이상하죠, 이럴 때 꼭 떠오르는 사람이 있네요.
     wav 파일: 단계_5_C구역_조사_3.wav
 
 [4] 화자 타입: PLAYER
@@ -187,61 +108,55 @@ FBI 수사관 마커스 : 2
 [12] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: ...그럴 수도 있겠군요. 연구에만 몰두하다 보면, 그런 보고 하나쯤 놓칠 수도 있겠죠.
+    대사: ...클레이 소장님. 솔직히 묻겠습니다. 당신, 정말 클레이 소장 본인이 맞습니까?
     wav 파일: 단계_5_C구역_조사_12.wav
 
-[13] 화자 타입: PLAYER
-    화자: 베일라 (CIA 요원)
-    화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: 소장님. 당신, 정말 클레이 소장 본인이 맞습니까?
-    wav 파일: 단계_5_C구역_조사_13.wav
-
-[14] 화자 타입: NPC
+[13] 화자 타입: NPC
     화자: 클레이
     화자 표시 HTML: <span class="character-clay">클레이</span>
     대사: 무슨 헛소리입니까! 저는 틀림없는 클레이 소장입니다. 지금 그런 걸 따질 때입니까?
-    wav 파일: 단계_5_C구역_조사_14.wav
+    wav 파일: 단계_5_C구역_조사_13.wav
 
-[15] 화자 타입: PLAYER
+[14] 화자 타입: PLAYER
     화자: 베일라 (CIA 요원)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: ...잠깐, 확인할 방법이 있어요. 사전에 알아본 클레이 소장님 신체 기록에는, 왼쪽 가슴 쪽에 특정한 표식이 있다고 되어 있더군요. 정말 소장님이 맞다면, 그 정도는 어렵지 않게 보여주실 수 있겠죠.
-    wav 파일: 단계_5_C구역_조사_15.wav
+    wav 파일: 단계_5_C구역_조사_14.wav
 
-[16] 화자 타입: NPC
+[15] 화자 타입: NPC
     화자: 클레이
     화자 표시 HTML: <span class="character-clay">클레이</span>
     대사: ...이 무슨 무례한 요구입니까! 그런 걸로 증명해야 한다면, 다른 방법도 있습니다. 정부가 이 연구소를 폐쇄하려는 진짜 이유, '불법 연구 의혹'이라는 게 표면적인 핑계에 불과하다는 것도 저는 알고 있습니다. 이런 것까지 꿰고 있는 사람이, 어디 흔하겠습니까?
-    wav 파일: 단계_5_C구역_조사_16.wav
+    wav 파일: 단계_5_C구역_조사_15.wav
 
-[17] 화자 타입: PLAYER
+[16] 화자 타입: PLAYER
     화자: 베일라 (CIA 요원)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: ...그건, 어떻게 알고 계신 거죠?
-    wav 파일: 단계_5_C구역_조사_17.wav
+    wav 파일: 단계_5_C구역_조사_16.wav
 
-[18] 화자 타입: PLAYER
+[17] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: ...별것 아닌 요구에, 반응이 지나치게 격하시군요.
+    대사: ...그 사실을 알고 계신다면 아주 틀린 말은 아니군요. 일단은 그 정도에서 넘어가겠습니다.
+    wav 파일: 단계_5_C구역_조사_17.wav
+
+[18] 화자 타입: DIRECTIVE
+    대사: 소장이 자리를 비키자, 마커스가 나직이 한숨을 내쉬었다.
     wav 파일: 단계_5_C구역_조사_18.wav
 
-[19] 화자 타입: DIRECTIVE
-    대사: 소장이 자리를 비키자, 마커스가 나직이 한숨을 내쉬었다.
-    wav 파일: 단계_5_C구역_조사_19.wav
-
-[20] 화자 타입: PLAYER
+[19] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
     대사: ...FBI 생활 8년 만에, 별의별 꼴을 다 보는군요.
-    wav 파일: 단계_5_C구역_조사_20.wav
+    wav 파일: 단계_5_C구역_조사_19.wav
 
-[21] 화자 타입: PLAYER
+[20] 화자 타입: PLAYER
     화자: 베일라 (CIA 요원)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: ...여러모로 녹록지 않네요.
-    wav 파일: 단계_5_C구역_조사_21.wav
+    wav 파일: 단계_5_C구역_조사_20.wav
 
-[22] 화자 타입: DIRECTIVE
+[21] 화자 타입: DIRECTIVE
     대사: 짧은 침묵이 두 사람 사이를 스쳤다.
-    wav 파일: 단계_5_C구역_조사_22.wav
+    wav 파일: 단계_5_C구역_조사_21.wav

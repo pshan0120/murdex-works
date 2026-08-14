@@ -178,6 +178,7 @@ def update_db(blocks, dry_run=False):
     
     with pool.get_connection() as conn:
         cursor = conn.cursor()
+        cursor.execute("SET NAMES utf8mb4")
         
         for block in blocks:
             v_id = block.get("variant_id")
@@ -211,7 +212,11 @@ def update_db(blocks, dry_run=False):
                 if affected1 > 0 or affected2 > 0:
                     success_count += 1
                 else:
-                    print(f"Warning: No rows updated for variant {v_id} / clue {c_id} (check if UUIDs match DB)")
+                    cursor.execute("SELECT 1 FROM clue_variant WHERE variant_id = %s", (v_id,))
+                    if cursor.fetchone():
+                        success_count += 1
+                    else:
+                        print(f"Warning: No rows found for variant {v_id} / clue {c_id} (check if UUIDs match DB)")
             except Exception as e:
                 print(f"Failed to update variant {v_id}: {e}")
                 
