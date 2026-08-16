@@ -89,7 +89,7 @@ def _finalize_content(content_lines: list[str]) -> str:
     return "\n".join(content_lines)
 
 
-def update_db(blocks: list[dict], dry_run: bool = False) -> tuple[int, int]:
+def update_db(blocks: list[dict], target_ids: list[str] = None, dry_run: bool = False) -> tuple[int, int]:
     """
     파싱된 블록들을 DB에 업데이트합니다.
 
@@ -98,8 +98,12 @@ def update_db(blocks: list[dict], dry_run: bool = False) -> tuple[int, int]:
     """
     valid_blocks = [b for b in blocks if b.get("ending_id") and b.get("content")]
 
+    if target_ids:
+        target_set = set(target_ids)
+        valid_blocks = [b for b in valid_blocks if b["ending_id"] in target_set]
+
     if dry_run:
-        print(f"\n[DRY RUN] 파싱된 엔딩 블록: {len(blocks)}개 (유효: {len(valid_blocks)}개)\n")
+        print(f"\n[DRY RUN] 파싱된 엔딩 블록: {len(blocks)}개 (선택/유효: {len(valid_blocks)}개)\n")
         for idx, block in enumerate(valid_blocks, 1):
             content_snippet = block["content"][:60].replace("\n", " ")
             if len(block["content"]) > 60:
@@ -146,6 +150,11 @@ def main():
     )
     parser.add_argument("file_path", help="엔딩 텍스트 파일 경로 (예: 엔딩_개별.txt)")
     parser.add_argument(
+        "--ending-ids", "-i",
+        nargs="+",
+        help="업데이트할 특정 EndingID 목록 (공백으로 구분)"
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="DB를 변경하지 않고 파싱 결과만 출력합니다."
@@ -158,13 +167,13 @@ def main():
 
     print(f"파싱 중: {args.file_path} ...")
     blocks = parse_ending_file(args.file_path)
-    print(f"발견된 블록 수: {len(blocks)}개")
+    print(f"발견된 전체 블록 수: {len(blocks)}개")
 
     if args.dry_run:
-        update_db(blocks, dry_run=True)
+        update_db(blocks, target_ids=args.ending_ids, dry_run=True)
     else:
         print("DB 업데이트 중...")
-        success, total = update_db(blocks, dry_run=False)
+        success, total = update_db(blocks, target_ids=args.ending_ids, dry_run=False)
         print(f"\n완료. {total}개 중 {success}개 업데이트 성공.")
 
 
