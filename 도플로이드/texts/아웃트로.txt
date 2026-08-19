@@ -3,7 +3,7 @@
   <div class="result-box">
     <p><strong>진짜 소장의 시체 위치:</strong> <span class="emphasis">기록 보관실</span> 바닥 (교살당한 상태로 유기됨)</p>
     <p><strong>살인범 및 생존자의 정체:</strong> <span class="character-clay">닥터 클레이</span> 소장의 유전자로 창조된 첫 번째 복제 인간 (기억을 잃었던 <span class="character-alex">AIex</span>)</p>
-    <p><strong>사건 개요:</strong> 시한부 뇌 괴사 질환을 앓던 <span class="character-clay">닥터 클레이</span> 소장은 인간 복제 프로젝트를 강행했으나, 복제 인간에게는 원본과 마주치면 이성을 잃고 살의가 걷잡을 수 없이 폭주한다는 치명적 결함이 있었습니다. 사건 당일 08:00경, <span class="character-alex">AIex</span>(클레이의 복제 개체)가 <span class="emphasis">서쪽 환기구</span> 내부 게이트의 생체 인증을 그대로 통과해 아무런 경보도 없이 시설 내부로 숨어들었습니다. 이와는 별개로 09:10경 <span class="emphasis">서쪽 환기구</span> 외곽 센서를 넘으려던 <span class="character-veyla">베일라</span> 때문에 1단계 비상 락다운이 발동되었으며, 11:00 수사 영장을 지닌 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>가 <span class="emphasis">소장실</span>에서 진짜 <span class="character-clay">닥터 클레이</span>와 대면하면서 조사가 시작되었습니다. 11:10경 클레이는 홀로 <span class="emphasis">기록 보관실</span>로 자료를 가지러 갔다가 그곳에 숨어 있던 복제 개체와 처음으로 마주쳤고, 폭주한 살의에 목 졸려 살해당했습니다. 소식이 끊긴 그를 찾아 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>가 <span class="emphasis">기록 보관실</span>로 향하면서 복제 개체와 마주쳤고, 그 순간부터 복제 개체는 소장실에서 엿들은 정보를 실마리 삼아 속으로는 잔뜩 긴장한 채로 소장 행세를 시작하며 비극적인 조사극이 본격적으로 시작되었습니다.</p>
+    <p><strong>사건 개요:</strong> 시한부 뇌 괴사 질환을 앓던 <span class="character-clay">닥터 클레이</span> 소장은 인간 복제 프로젝트를 강행했으나, 복제 인간에게는 원본과 마주치면 이성을 잃고 살의가 걷잡을 수 없이 폭주한다는 치명적 결함이 있었습니다. 사건 당일 08:00경, <span class="character-alex">AIex</span>(클레이의 복제 개체)가 <span class="emphasis">서쪽 환기구</span> 내부 게이트의 생체 인증을 그대로 통과해 아무런 경보도 없이 시설 내부로 숨어들었습니다. 이와는 별개로 09:10경 <span class="emphasis">서쪽 환기구</span> 외곽 센서를 넘으려던 <span class="character-veyla">베일라</span> 때문에 1단계 비상 락다운이 발동되었으며, 11:00 수사 영장을 지닌 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>가 <span class="emphasis">소장실</span>에서 진짜 <span class="character-clay">닥터 클레이</span>와 대면하면서 조사가 시작되었습니다. 11:10경 클레이는 홀로 <span class="emphasis">기록 보관실</span>로 자료를 가지러 갔다가 그곳에 숨어 있던 복제 개체와 마주치자마자 폭주한 살의에 목 졸려 살해당했습니다. 홀로 남겨진 복제 개체는 한동안 패닉에 빠져 있다가, <span class="emphasis">B구역</span>을 흩어져 수색하던 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>의 인기척이 다가오는 것을 느끼고는 다급히 곁의 철제 서고 선반을 넘어뜨려 시신을 가렸습니다. 그 '쿵' 소리를 듣고 서로 다른 방향에서 달려온 두 사람과 마주친 순간부터, 복제 개체는 소장실에서 엿들은 정보를 실마리 삼아 속으로는 잔뜩 긴장한 채로 소장 행세를 시작하며 비극적인 조사극이 본격적으로 시작되었습니다.</p>
   </div>
   <div class="section-title">2. 사건 당일 타임라인</div>
   <table>
@@ -32,11 +32,15 @@
       </tr>
       <tr>
         <td>11:10</td>
-        <td><span class="character-clay">클레이</span>가 "<span class="emphasis">기록 보관실</span>에서 자료를 가져오겠다"며 홀로 자리를 뜸. 그곳에 숨어 있던 복제 개체와 처음 마주치는 순간 살의가 폭주해 목 졸려 살해당함.</td>
+        <td><span class="character-clay">클레이</span>가 "<span class="emphasis">기록 보관실</span>에서 자료를 가져오겠다"며 홀로 자리를 뜸. 그곳에 숨어 있던 복제 개체와 마주치자마자 살의가 폭주해 목 졸려 살해당함.</td>
+      </tr>
+      <tr>
+        <td>11:10 ~ 11:20</td>
+        <td>홀로 남은 복제 개체는 한동안 패닉에 빠져 있다가, <span class="emphasis">B구역</span>을 흩어져 수색하던 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>의 인기척이 다가오자 다급히 철제 서고 선반을 넘어뜨려 시신을 가림('쿵' 소리).</td>
       </tr>
       <tr>
         <td>11:20 ~ 11:50</td>
-        <td>기척이 없어 뒤따라간 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>가 시신과, 소장 행세를 하는 생존자(복제 개체)를 발견하며 본격적인 조사로 전환. A, B, C구역 조사 진행. <span class="emphasis">소장실</span> 책상 서랍의 마약성 진통제 처방전, <span class="emphasis">비밀 병실</span>의 환자 모니터링 기록 등이 순차적으로 발견됨.</td>
+        <td>그 소리를 듣고 서로 다른 방향에서 <span class="emphasis">기록 보관실</span> 앞에 도착한 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>가 시신과, 소장 행세를 하는 생존자(복제 개체)를 발견하며 본격적인 조사로 전환. A, B, C구역 조사 진행. <span class="emphasis">소장실</span> 책상 서랍의 마약성 진통제 처방전, <span class="emphasis">비밀 병실</span>의 환자 모니터링 기록 등이 순차적으로 발견됨.</td>
       </tr>
       <tr>
         <td>12:00</td>
@@ -51,7 +55,7 @@
   <div class="subsection-title">[<span class="character-alex">알렉스</span>의 실종과 기억상실, 그리고 <span class="character-veyla">베일라</span>]</div>
   <p>배양 캡슐 안에서 <span class="character-clay">클레이</span>의 유전자로 재창조된 첫 번째 복제 인간은, 차마 완전히 없애지는 못한 <span class="character-clay">클레이</span>가 기억만 지워 멀리 내보낸 존재였습니다. 그는 그렇게 연구소를 벗어나 밖에서 사립탐정 <span class="character-veyla">베일라</span>를 만나 '<span class="character-alex">알렉스</span>'라는 이름으로 사랑에 빠졌으나, 자신의 각인된 본능과 뇌 부작용에 끌려 다시 <span class="emphasis">프로메테우스 연구소</span>로 향했습니다. <span class="character-veyla">베일라</span>는 그가 남긴 쪽지 한 장만을 든 채 연인을 구하기 위해 목숨을 걸고 연구소 환기구로 침입했습니다.</p>
   <div class="subsection-title">[숨어든 AIex와 11:10의 살의 폭주]</div>
-  <p>사건 당일 08:00, <span class="character-alex">AIex</span>가 <span class="emphasis">서쪽 환기구</span> 내부 게이트의 생체 인증을 그대로 통과해 아무런 경보도 없이 시설 내부로 숨어들었습니다. 클레이와 동일한 생체정보 덕분에 구역 간 경계를 자유롭게 넘나들 수 있었던 그는, 은신 중 D구역 <span class="emphasis">폐기물 소각장</span>까지 다녀온 뒤 <span class="emphasis">기록 보관실</span>에 몸을 숨겼습니다. 09:10, 이와는 별개로 외곽 센서를 건드린 <span class="character-veyla">베일라</span> 때문에 자동 1단계 락다운이 발동되었고, 진짜 <span class="character-clay">클레이</span>는 이 소동을 수습하며 11:00 <span class="emphasis">정문 로비</span>로 찾아온 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>를 직접 맞이했습니다. 두 사람과 함께 A구역을 살피던 그는 11:10경 "<span class="emphasis">기록 보관실</span>에서 자료를 가져오겠다"며 홀로 자리를 떴는데, 그곳에서 숨어 있던 AIex와 처음으로 마주치고 말았습니다. 이성을 잃고 억누를 수 없는 살의가 폭주한 AIex는 그를 목 졸라 살해했고, 소식이 끊긴 그를 찾아 나선 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>에게 그 자리에서 발각되었습니다. 그때부터 그는 연구소에서 얻은 정보를 실마리 삼아, 속으로는 잔뜩 긴장한 채 소장 행세를 이어갔습니다.</p>
+  <p>사건 당일 08:00, <span class="character-alex">AIex</span>가 <span class="emphasis">서쪽 환기구</span> 내부 게이트의 생체 인증을 그대로 통과해 아무런 경보도 없이 시설 내부로 숨어들었습니다. 클레이와 동일한 생체정보 덕분에 구역 간 경계를 자유롭게 넘나들 수 있었던 그는, 은신 중 D구역 <span class="emphasis">폐기물 소각장</span>까지 다녀온 뒤 <span class="emphasis">기록 보관실</span>에 몸을 숨겼습니다. 09:10, 이와는 별개로 외곽 센서를 건드린 <span class="character-veyla">베일라</span> 때문에 자동 1단계 락다운이 발동되었고, 진짜 <span class="character-clay">클레이</span>는 이 소동을 수습하며 11:00 <span class="emphasis">정문 로비</span>로 찾아온 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>를 직접 맞이했습니다. 두 사람과 함께 A구역을 살피던 그는 11:10경 "<span class="emphasis">B구역</span>에 자료를 가지러 다녀오겠다"며 홀로 자리를 떴는데, <span class="emphasis">기록 보관실</span>에 숨어 있던 AIex와 마주치자마자 이성을 잃은 AIex의 폭주한 살의에 목 졸려 살해당했습니다. 홀로 남겨진 AIex는 한동안 패닉에 빠져 있다가, <span class="emphasis">B구역</span>을 흩어져 수색하던 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>의 인기척이 다가오는 것을 느끼고는 다급히 곁의 철제 서고 선반을 넘어뜨려 시신을 가렸습니다. 그 '쿵' 소리를 듣고 서로 다른 방향에서 <span class="emphasis">기록 보관실</span> 앞에 도착한 두 사람에게 그 자리에서 발각된 것입니다. 그때부터 그는 연구소에서 얻은 정보를 실마리 삼아, 속으로는 잔뜩 긴장한 채 소장 행세를 이어갔습니다.</p>
   <div class="subsection-title">[말투에 숨겨진 단서]</div>
   <p>혹시 눈치채셨나요? <span class="emphasis">A구역</span>에서 <span class="character-clay">클레이</span>가 쓰던 "-오, -소"체의 예스러운 말투는, <span class="emphasis">B구역</span>에서 시신이 발견된 순간부터 어느새 "-습니다, -까"체의 담백한 말투로 바뀝니다. 극 중에서 따로 설명되지는 않는 이 미묘한 변화는, 사실 그 순간부터 두 분이 마주하고 있는 사람이 더 이상 같은 사람이 아니라는 것을 알리는 작가의 작은 신호였습니다.</p>
   <div class="subsection-title">[알렉스의 죽음과 정부의 은폐]</div>
@@ -67,9 +71,6 @@
     </li>
     <li>
       <strong><span class="emphasis">소장실</span>#1 (처방전) &amp; <span class="emphasis">비밀 병실</span>#2 (환자 모니터링 기록)</strong>: 처방전은 진짜 <span class="character-clay">클레이</span> 소장이 '프로메돌'이라는 극약 진통제를 처방받고 있다는 사실만, 모니터링 기록은 '환자 코드: C'가 말기 뇌세포 괴사를 앓고 있다는 사실만 각각 따로 보여줍니다. 두 단서를 처방 약물명으로 교차 확인하면, 비밀 병실의 '코드 C'가 곧 클레이 본인이며 그가 시한부 상태라는 사실이 완성됩니다.
-    </li>
-    <li>
-      <strong><span class="emphasis">기록 보관실</span>#1 (사체의 알약 통)</strong>: 라벨에 인쇄된 '프로메돌'이 <span class="emphasis">소장실</span>#1의 처방전과 일치하여, 보관실 바닥의 사체가 진짜 <span class="character-clay">클레이</span> 소장 본인임을 최종 식별합니다.
     </li>
     <li>
       <strong><span class="emphasis">기록 보관실</span>#2 / #3 (손톱 밑 미세 잔해 &amp; 생존 소장의 옷깃 상처·손끝 얼룩)</strong>: 사체의 손톱 밑 잔해와 살아있는 소장의 옷깃 상처가 일치하여 생존자가 교살 사건의 당사자임을 나타내며, 그의 오른손 손끝에 남은 검은 얼룩은 <span class="emphasis">폐기물 소각장</span>#2 문서에 묻은 손자국과 겹쳐 그가 은신 중 그 문서를 직접 만졌음을 뒷받침합니다.

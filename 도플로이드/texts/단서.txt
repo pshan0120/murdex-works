@@ -271,15 +271,15 @@ groupId : 77d2aea4-6308-4e4b-8b7a-db66585f86f7
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 클레이 본인이 마약성 진통제 '프로메돌'을 처방받고 있다는 사실만 증명. 정확한 병명과 위중도는 여기서 밝히지 않고, clue_14(비밀 병실#2, 환자 코드 C)의 처방 약물명과 교차 확인해야 "코드 C = 클레이"라는 결론에 도달하도록 설계.
+의도 : 마약성 진통제 '프로메돌'의 처방전이 소장실 책상 서랍에 있었다는 사실만 증명. 예전에는 환자명이 '클레이'로 명시돼 clue_14(비밀 병실#2, 환자 코드 C)와 텍스트 대조만으로 "코드 C = 클레이"가 확정됐으나, 난이도 조정을 위해 환자명 표기를 제거함. 이제는 소장실 서랍에서 나왔다는 정황(= 아마도 그의 것)과 clue_14의 약물명을 겹쳐 유추해야 하는, 확정이 아닌 유력한 추정 수준으로 격하됨.
 내용 :
-환자명 '클레이' 명의로 처방된 특정 마약성 진통제 '프로메돌'의 처방전.
+소장실 책상 서랍 안쪽에서 발견한, '프로메돌'의 처방전.
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="emphasis">소장실</span> 책상 서랍 안쪽에서 발견한 처방전이다.</div>
+  <div class="script-direction">책상 서랍 안쪽에서 발견한 처방전이다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">환자명 '<span class="character-clay">클레이</span>' 명의로 처방된 특정 마약성 진통제 '<span class="emphasis">프로메돌</span>'의 처방전.</div>
+    <div class="document-body small">'<span class="emphasis">프로메돌</span>'의 처방전.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a medical prescription slip inside a half-open desk drawer, next to a pill bottle. Cold office lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -311,7 +311,7 @@ groupId : 77d2aea4-6308-4e4b-8b7a-db66585f86f7
 08:30경 클레이가 직접 받은 통화의 녹취록. 통화 중간부터 녹음이 시작된 것으로 보인다. 한 남성의 분노에 찬 목소리: "내 가족을 어떻게 한 겁니까? 영장은 받아왔습니다. 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."
 HTML :
 <div class="story-content">
-  <div class="script-direction">08:30경 <span class="emphasis">소장실</span> 통화 녹음 장치에 남아 있던 녹취록이다. 통화 중간부터 녹음이 시작된 것으로 보인다.</div>
+  <div class="script-direction">08:30경 통화 녹음 장치에 남아 있던 녹취록이다. 통화 중간부터 녹음이 시작된 것으로 보인다.</div>
   <div class="divider"></div>
   <div class="document-page">
     <div class="document-body small">"내 가족을 어떻게 한 겁니까? 영장은 받아왔습니다. 11시까지 그쪽으로 가겠습니다. 그때까지 진실을 밝히지 않으면 각오하십시오."</div>
@@ -729,14 +729,14 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 피해자가 격렬히 저항하며 범인에게 눈에 띄는 긁힌 상처를 입혔음을 물리적으로 증명.
+의도 : 피해자가 격렬히 저항했음을 물리적으로 시사. 예전에는 "타인의 것으로 보이는 피부 조직"까지 명시해 clue_22와의 교차가 사실상 확정적이었으나, 난이도 조정을 위해 그 조직 정보를 빼고 핏자국만 남김. clue_22(소장의 긁힌 자국)와 조합하면 여전히 같은 결론에 이를 수 있지만, 더 이상 "타인의 피부"라는 결정적 물증이 아니라 정황 조합에 기반한 추론이 되도록 함.
 내용 :
-시신의 오른손 손톱 밑에는 붉은 핏자국과 타인의 것으로 보이는 미세한 피부 조직 조각이 거칠게 끼어 있었다.
+시신의 오른손 손톱 밑에는 붉은 핏자국이 거칠게 끼어 있었다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">기록 보관실</span> 시신의 손톱 밑에서 발견한 흔적이다.</div>
   <div class="divider"></div>
-  <div>시신의 오른손 손톱 밑에는 붉은 핏자국과 타인의 것으로 보이는 미세한 피부 조직 조각이 거칠게 끼어 있었다.</div>
+  <div>시신의 오른손 손톱 밑에는 붉은 핏자국이 거칠게 끼어 있었다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a lifeless hand, dried blood and tissue fragments visible under the fingernails. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : B구역
@@ -762,14 +762,14 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 공통
-의도 : clue_21와 교차 매칭되어 소장이 진짜 범인임을 증명. 손끝의 검은 얼룩은 clue_24(문 앞 바닥에 떨어져 있던 소각장 문서)와 교차되는 관찰 단서. AIex가 은신 중 소각장에서 그 문서를 직접 만졌다는 사실을 새 단서 추가 없이 뒷받침.
+의도 : clue_21와 조합하면 소장이 범인일 가능성을 시사(예전에는 "상처"로 단정해 clue_21과 결합 시 사실상 확정이었으나, 난이도 조정을 위해 "자국"으로 톤을 낮춰 확정성을 다소 완화). 손끝의 검은 얼룩은 clue_24(문 앞 바닥에 떨어져 있던 소각장 문서)와 교차되는 관찰 단서. AIex가 은신 중 소각장에서 그 문서를 직접 만졌다는 사실을 새 단서 추가 없이 뒷받침.
 내용 :
-소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는 긁힌 상처들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.
+소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는 긁힌 자국들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="emphasis">기록 보관실</span>을 나서는 소장의 옷깃 틈에서 언뜻 목격한 상처다.</div>
+  <div class="script-direction"><span class="emphasis">기록 보관실</span>을 나서는 소장의 옷깃 틈에서 언뜻 목격한 흔적이다.</div>
   <div class="divider"></div>
-  <div>소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는 긁힌 상처들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.</div>
+  <div>소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는 긁힌 자국들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a fresh scratch wound peeking out from under a lab coat sleeve and shirt collar. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : B구역
