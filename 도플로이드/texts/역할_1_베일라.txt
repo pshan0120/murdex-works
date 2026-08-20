@@ -33,11 +33,11 @@ CIA 요원
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
       <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 생명공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹으로 얼마 전 정부로부터 강제 폐쇄 통보를 받았다. 그리고 오늘, 그 폐쇄가 집행된다.</p>
-      <p>그리고 오전 <span class="emphasis">11:00</span>, 서로 다른 목적을 가진 두 사람이 이곳 정문에서 우연히 마주친다.</p>
+      <p>오전 <span class="emphasis">11:00</span>, 서로 다른 목적을 가진 두 사람이 이곳 정문에서 우연히 마주친다.</p>
     </div>
     <ol class="info-list">
       <li>
-        <strong><span class="emphasis">프로메테우스 연구소</span></strong>: 버려진 폐건물을 개조한 <span class="character-clay">닥터 클레이</span>의 사설 연구소. 정확히 무슨 연구를 해왔는지는 외부에 거의 알려지지 않았으나, 얼마 전 정부로부터 강제 폐쇄 통보를 받아 오늘 그 폐쇄가 집행되는 상태이다.
+        <strong><span class="emphasis">프로메테우스 연구소</span></strong>: <span class="character-clay">닥터 클레이</span>의 사설 연구소. 정확히 무슨 연구를 해왔는지는 외부에 거의 알려지지 않았으나, 얼마 전 정부로부터 강제 폐쇄 통보를 받아 오늘 그 폐쇄가 집행되는 상태이다.
       </li>
       <li><strong>이 시대의 생명공학</strong>: 안드로이드가 보편화된 세상이지만, 생체공학으로 살아있는 인간 조직을 다루는 연구는 극소수 기업과 정부만이 엄격한 허가 아래 취급하는 민감한 영역이다. 무허가로 이를 손대는 것은 중범죄로 취급된다.</li>
       <li>
@@ -85,7 +85,7 @@ CIA 요원
   <p class="guide-text">※ 노출 여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
   <ul>
     <li><strong>아침 09:10의 침입 시도</strong>: 당신이 오늘 아침 서쪽 환기구를 통해 무단으로 침입을 시도하다 경보를 울린 장본인이라는 사실. <span class="character-marcus">마커스</span>에게 들통나면, 이 연구소에 몰래 잠입하려 한 수상한 인물로 의심받기 시작할 수 있다.</li>
-    <li><strong>가방 속의 불법 권총</strong>: 평소라면 챙기지 않았을 미등록 소형 호신용 권총을 오늘은 가방 속에 몰래 소지하고 있다는 사실. <span class="character-marcus">마커스</span>에게 들키면 위험인물로 오해받을 수 있다.</li>
+    <li><strong>권총 소지</strong>: 미등록 권총을 오늘은 가방 속에 몰래 소지하고 있다는 사실. <span class="character-marcus">마커스</span>에게 들키면 위험인물로 오해받을 수 있다.</li>
     <li><strong>CIA 사칭</strong>: 실은 정부 소속이 아닌 일개 사립탐정이면서, <span class="character-clay">닥터 클레이</span>와 <span class="character-marcus">마커스</span> 앞에서 CIA 요원 행세를 하고 있다는 사실. <span class="character-marcus">마커스</span>가 이 사실을 알게 되면, 신분 사칭이라는 중대한 범죄를 저지르고 있었음이 드러나 당신에 대한 신뢰가 완전히 무너질 수 있다.</li>
   </ul>
 </div>
@@ -97,24 +97,20 @@ CIA 요원
   <section class="content-section">
     <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
     <ul class="goal-list">
-      <li><strong>낯익은 얼굴</strong>: 방금 마주한 소장의 얼굴이, 당신이 찾고 있던 <span class="character-alex">알렉스</span>와 너무나 닮았습니다.</li>
-    </ul>
-  </section>
-</div>
-
-[조사 단계] (단계_3~6: A/B/C/D구역)
-<div class="story-content">
-  <section class="content-section">
-    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
-    <ul class="goal-list">
-      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
-      <li><strong>완전히 믿을 수는 없는 동행</strong>: 오늘 처음 만난 <span class="character-marcus">마커스</span> 역시, 그가 말하는 것 이상의 무언가를 숨기고 있을지 모른다. 그의 말과 행동에도 빈틈이 없는지 놓치지 말아야 한다.</li>
+      <li><strong>낯익은 얼굴</strong>: 방금 마주한 소장의 얼굴이, 당신이 찾고 있던 <span class="character-alex">알렉스</span>와 너무나 닮았다.</li>
     </ul>
   </section>
 </div>
 
 [A구역] (단계_3)
 <div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+      <li><strong>예상 밖의 동행</strong>: CIA 요원 행세를 하고 있는 처지에, FBI 수사관인 <span class="character-marcus">마커스</span>가 줄곧 곁에 붙어 있는 건 계산에 없던 변수다. 그가 있는 한 마음껏 움직이기 어려우니, 기회가 닿는 대로 혼자 움직여 <span class="character-alex">알렉스</span>의 흔적을 찾아야 한다.</li>
+    </ul>
+  </section>
   <section class="content-section">
     <div class="section-title">단서 안내</div>
     <ul class="goal-list">
@@ -123,8 +119,32 @@ CIA 요원
   </section>
 </div>
 
+[B구역] (단계_4)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+      <li><strong>완전히 믿을 수는 없는 동행</strong>: 오늘 처음 만난 <span class="character-marcus">마커스</span> 역시, 그가 말하는 것 이상의 무언가를 숨기고 있을지 모른다. 그의 말과 행동에도 빈틈이 없는지 놓치지 말아야 한다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>따로 다니자던 제안</strong>: 돌이켜보면, B구역에 들어서자마자 먼저 흩어져서 찾아보자고 제안한 건 <span class="character-marcus">마커스</span>였습니다. 왜 그가 굳이 따로 움직이자고 했을까요?</li>
+    </ul>
+  </section>
+</div>
+
 [C구역] (단계_5)
 <div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+      <li><strong>완전히 믿을 수는 없는 동행</strong>: 오늘 처음 만난 <span class="character-marcus">마커스</span> 역시, 그가 말하는 것 이상의 무언가를 숨기고 있을지 모른다. 그의 말과 행동에도 빈틈이 없는지 놓치지 말아야 한다.</li>
+    </ul>
+  </section>
   <section class="content-section">
     <div class="section-title">단서 안내</div>
     <ul class="goal-list">
@@ -135,6 +155,13 @@ CIA 요원
 
 [D구역] (단계_6)
 <div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+      <li><strong>완전히 믿을 수는 없는 동행</strong>: 오늘 처음 만난 <span class="character-marcus">마커스</span> 역시, 그가 말하는 것 이상의 무언가를 숨기고 있을지 모른다. 그의 말과 행동에도 빈틈이 없는지 놓치지 말아야 한다.</li>
+    </ul>
+  </section>
   <section class="content-section">
     <div class="section-title">단서 안내</div>
     <ul class="goal-list">

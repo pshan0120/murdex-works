@@ -33,11 +33,11 @@ FBI 수사관
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
       <p>2030년, 생체공학 기술이 극비리에 발전해 온 시대. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'를 홀로 이끌어온 천재 생명공학자 <span class="character-clay">닥터 클레이</span>는, 최근 불거진 불법 연구 의혹으로 얼마 전 정부로부터 강제 폐쇄 통보를 받았다. 그리고 오늘, 그 폐쇄가 집행된다.</p>
-      <p>그리고 오전 <span class="emphasis">11:00</span>, 서로 다른 목적을 가진 두 사람이 이곳 정문에서 우연히 마주친다.</p>
+      <p>오전 <span class="emphasis">11:00</span>, 서로 다른 목적을 가진 두 사람이 이곳 정문에서 우연히 마주친다.</p>
     </div>
     <ol class="info-list">
       <li>
-        <strong><span class="emphasis">프로메테우스 연구소</span></strong>: 버려진 폐건물을 개조한 <span class="character-clay">닥터 클레이</span>의 사설 연구소. 정확히 무슨 연구를 해왔는지는 외부에 거의 알려지지 않았으나, 얼마 전 정부로부터 강제 폐쇄 통보를 받아 오늘 그 폐쇄가 집행되는 상태이다.
+        <strong><span class="emphasis">프로메테우스 연구소</span></strong>: <span class="character-clay">닥터 클레이</span>의 사설 연구소. 정확히 무슨 연구를 해왔는지는 외부에 거의 알려지지 않았으나, 얼마 전 정부로부터 강제 폐쇄 통보를 받아 오늘 그 폐쇄가 집행되는 상태이다.
       </li>
       <li><strong>이 시대의 생명공학</strong>: 안드로이드가 보편화된 세상이지만, 생체공학으로 살아있는 인간 조직을 다루는 연구는 극소수 기업과 정부만이 엄격한 허가 아래 취급하는 민감한 영역이다. 무허가로 이를 손대는 것은 중범죄로 취급된다.</li>
       <li>
@@ -82,7 +82,7 @@ FBI 수사관
   <p class="guide-text">※ 노출 여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
   <ul>
     <li><strong>경고성 통화</strong>: 당신이 사적인 원한으로 소장과의 통화에서 경고성 발언을 쏟아냈다는 사실. <span class="character-veyla">베일라</span>가 이 통화 녹취를 찾아내면, 공적인 수사가 아니라 사적 원한을 품고 있었다는 사실이 드러나 당신에 대한 신뢰에 금이 갈 수 있다.</li>
-    <li><strong>제식 권총의 소지</strong>: 평소라면 굳이 꺼내지 않았을 공무용 제식 권총을 오늘은 재킷 안쪽에 지니고 있다는 사실. <span class="character-veyla">베일라</span>에게 들키면 위협적인 인물로 오해받을 수 있다.</li>
+    <li><strong>권총 소지</strong>: 권총을 오늘은 재킷 안쪽에 지니고 있다는 사실. <span class="character-veyla">베일라</span>에게 들키면 위협적인 인물로 오해받을 수 있다.</li>
     <li><strong>위조된 영장</strong>: 실은 정식 수사 배정을 받은 적이 없으며, 지금 소지한 수사 영장도 자신이 직접 위조한 것이라는 사실. <span class="character-veyla">베일라</span>가 이 사실을 알게 되면, 사적 원한에 의한 범죄 행위였음이 드러나 당신은 그 자리에서 체포될 수도 있다.</li>
   </ul>
 </div>
@@ -94,24 +94,20 @@ FBI 수사관
   <section class="content-section">
     <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
     <ul class="goal-list">
-      <li><strong>누나의 이름</strong>: 방금 <span class="character-veyla">베일라</span>가 내뱉은 '알렉스'라는 이름은 당신이 찾고 있는 누나의 이름입니다.</li>
-    </ul>
-  </section>
-</div>
-
-[조사 단계] (단계_3~6: A/B/C/D구역)
-<div class="story-content">
-  <section class="content-section">
-    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
-    <ul class="goal-list">
-      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
-      <li><strong>완전히 믿을 수는 없는 동행</strong>: 오늘 처음 만난 <span class="character-veyla">베일라</span> 역시, 그녀가 말하는 것 이상의 무언가를 숨기고 있을지 모른다. 그녀의 말과 행동에도 빈틈이 없는지 놓치지 말아야 한다.</li>
+      <li><strong>낯익은 이름</strong>: 방금 <span class="character-veyla">베일라</span>가 내뱉은 <span class="character-alex">알렉스</span>라는 이름은 당신이 찾고 있는 누나의 이름이다.</li>
     </ul>
   </section>
 </div>
 
 [A구역] (단계_3)
 <div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+      <li><strong>예상 밖의 동행</strong>: 위조한 영장 한 장으로 여기까지 온 처지에, CIA 요원이라는 <span class="character-veyla">베일라</span>가 동행하게 된 것은 계산에 없던 변수다. 그녀가 곁에 있는 한 마음껏 움직이기 어려우니, 기회가 닿는 대로 혼자 움직여 <span class="character-alex">알렉스</span>의 흔적을 찾아야 한다.</li>
+    </ul>
+  </section>
   <section class="content-section">
     <div class="section-title">단서 안내</div>
     <ul class="goal-list">
@@ -123,6 +119,19 @@ FBI 수사관
 [B구역] (단계_4)
 <div class="story-content">
   <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+      <li><strong>완전히 믿을 수는 없는 동행</strong>: 오늘 처음 만난 <span class="character-veyla">베일라</span> 역시, 그녀가 말하는 것 이상의 무언가를 숨기고 있을지 모른다. 그녀의 말과 행동에도 빈틈이 없는지 놓치지 말아야 한다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>복도에서의 조우</strong>: 복도를 헤매던 중, 모퉁이를 돌자마자 소장과 마주쳤습니다. 당신이 "...소장님? 여기서 뭐 하시는 겁니까?"라고 묻자, 그는 "저도 방금 그 소리가 들려서 와보던 참입니다"라고 답했습니다. 그러고는 앞장서서 <span class="emphasis">기록 보관실</span> 쪽으로 걸음을 옮겼고, 당신은 그 뒤를 따라갔습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
     <div class="section-title">단서 안내</div>
     <ul class="goal-list">
       <li>'베일라에 대하여#2' 단서가 자동으로 지급되었습니다. 내 단서함을 확인해 보세요. 이 단서는 다른 플레이어에게 보이지 않습니다.</li>
@@ -130,8 +139,26 @@ FBI 수사관
   </section>
 </div>
 
+[C구역] (단계_5)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+      <li><strong>완전히 믿을 수는 없는 동행</strong>: 오늘 처음 만난 <span class="character-veyla">베일라</span> 역시, 그녀가 말하는 것 이상의 무언가를 숨기고 있을지 모른다. 그녀의 말과 행동에도 빈틈이 없는지 놓치지 말아야 한다.</li>
+    </ul>
+  </section>
+</div>
+
 [D구역] (단계_6)
 <div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>소장의 실체 파헤치기</strong>: 소장이 무언가를 숨기고 있다는 확신이 든다. 그의 말과 행동에서 모순을 찾아내고, <span class="character-alex">알렉스</span>의 행방에 대한 진실을 캐내야 한다.</li>
+      <li><strong>완전히 믿을 수는 없는 동행</strong>: 오늘 처음 만난 <span class="character-veyla">베일라</span> 역시, 그녀가 말하는 것 이상의 무언가를 숨기고 있을지 모른다. 그녀의 말과 행동에도 빈틈이 없는지 놓치지 말아야 한다.</li>
+    </ul>
+  </section>
   <section class="content-section">
     <div class="section-title">단서 안내</div>
     <ul class="goal-list">
