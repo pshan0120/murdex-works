@@ -198,5 +198,15 @@
     "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
     "lineHtml": "배신을 꿈꾸거나 진실을 숨기려는 놈이 보인다면, 그 즉시 내 손에 목이 날아갈 것이다. 이제 움직여라!",
     "audioUrl": null
+  },
+  {
+    "lineOrder": 20,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "speakerLabelHtml": null,
+    "lineHtml": "(엘드리치 플레이어는 아래 안내에 따라 조를 편성해 주십시오.) 엘드리치 플레이어는 <strong>자신을 제외한</strong> 동료들의 조를 자유롭게 편성해 주십시오. 이 과정에서 동료들의 의견을 들어봐도 됩니다. (본인을 제외한 6명을 <strong>2명 / 2명 / 2명</strong>으로 편성해야 합니다.)",
+    "audioUrl": null
   }
 ]
