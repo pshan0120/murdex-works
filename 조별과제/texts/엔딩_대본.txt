@@ -1,0 +1,1891 @@
+※ 엔딩 대본화 작업 모음. works/조별과제/texts/엔딩.txt 의 서술형 엔딩을 대본 형식으로 옮겨 순서대로 모아둡니다.
+※ 원문(서술형)은 엔딩.txt 와 story_ending.ending_story 에 그대로 남아 있습니다. story_ending.display_type 을 SCRIPT 로 두면 이 대본이, NARRATIVE 로 되돌리면 원래 글이 표시됩니다.
+※ 변환 규칙
+   - 큰따옴표 대사는 PLAYER 줄로 올리고 감싼 따옴표만 제거합니다. 본문은 그대로 둡니다.
+   - 서술 문단은 DIRECTIVE(지시문) 줄로 둡니다. 억지로 대사로 바꾸지 않습니다.
+   - "~라고 말했다" 류의 삽입절은 바로 앞 지시문이 같은 내용을 담고 있으면 뺍니다.
+   - 지시문 줄의 담당 플레이어는 그 문단이 묘사하는 인물에게 주되, 한 사람에게 몰리지 않도록 고르게 나눕니다.
+   - 후일담은 각자 자기 몫을 본인이 낭독합니다.
+※ 조별과제는 캐릭터 음성이 준비되어 있지 않으므로 오디오(wav) 필드는 비워 둡니다. 전원 직접 낭독.
+※ 새로 쓴 대사에는 [신규] 표시를 달아 두었습니다. 나머지는 원문에서 옮긴 것입니다.
+※ (2차 손질) 서술로 뭉뚱그려진 발화를 대사로 되살렸습니다. 대상은 원문이 "다독였다 / 화답했다 / 주장했다"처럼
+   발화를 요약한 자리와, 지시문 안에 큰따옴표로 갇혀 있던 대사입니다. 속마음, 계산, 결과 서술, 후일담은 그대로 뒀습니다.
+※ Ending 16(공동의 파멸)은 아무도 먼저 입을 열지 않는 것이 엔딩의 내용이라 대사를 늘리지 않았습니다.
+
+<!-- ============================================ -->
+<!-- Ending 1. 진정한 조별과제 -->
+<!-- ============================================ -->
+
+제목: Ending 1. BBBB: 진정한 조별과제 (Best Ending)
+EndingID : 19743242-b5c6-4910-8ea9-d9c7ec833310
+엔딩타입: TRUE_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : B / 한세린 : B / 최도윤 : B / 황기순 : B
+순서: 1
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 강의실 안의 시계 소리가 유난히 크게 들렸다. 밤 9시. 형광등은 전압이 불안정한지 연신 미세하게 깜빡거렸고, 그 아래에서 네 사람은 누구도 입을 떼지 못한 채 노트북 화면의 빈 공간만 바라보고 있었다.
+
+[2] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 조장 <span class="character-lee">이준서</span>가 떨리는 손으로 마른세수를 하더니 천천히 자리에서 일어났다. 그의 손가락은 키보드 위에서 미세하게 떨리고 있었고, 목소리는 갈라져 있었지만 눈빛만은 단호했다.
+
+[3] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 죄송합니다. 사실... 제가 다 지웠어요.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 팀원들의 시선이 화살처럼 그에게 꽂혔다. <span class="character-lee">준서</span>는 자책감이 가득한 얼굴로 말을 이었다.
+
+[5] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="highlight">지혜</span>가 떠난 게 <span class="character-han">세린</span>이 너 때문이라고 생각했어. 그래서 너를 망가뜨리는 게 내 유일한 복수라고 믿었어. 아까 다시 만들자고 했던 건... 그렇게라도 해서 내 죄책감을 씻고 싶었던 이기심이었어요. 하지만 여러분의 필사적인 얼굴을 보면서 깨달았어요. 복수는 아무것도 채워주지 않는다는걸. 제 비겁한 증오 때문에 여러분의 노력을 짓밟아서 정말 죄송합니다.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 정적이 흐를 때, <span class="character-han">한세린</span>의 어깨가 가늘게 떨렸다. 그녀의 눈에서 떨어진 눈물 한 방울이 키보드 위로 툭 소리를 내며 떨어졌다. 그녀는 고개를 들어 <span class="character-lee">준서</span>를 바라보며, 자신의 목소리를 찾았다.
+
+[7] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 아니, <span class="character-lee">준서</span>야. 네 말이 맞아. 나도 알고 있었어.
+
+[8] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: <span class="highlight">지혜</span>에 대한 추악한 소문을 내가 은근히 퍼뜨리고 즐겼다는 거. 내가 세상의 주인공이 되고 싶어서, 네가 상처받는 걸 알면서도 방관했어. 그리고... <span class="highlight">지혜</span>가 떠난 뒤에도 나랑은 상관없는 일이라며 철저히 외면했어. 범인은 너일지 몰라도, 그 괴물을 만든 원인은 나였어. 내가 미안해, 정말로.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 고개를 숙인 <span class="character-han">세린</span>의 옆에서, <span class="character-hwang">황기순</span>이 땀에 젖은 안경을 추스르며 무겁게 입을 열었다. 그의 손이 미세하게 떨리고 있었고, 목소리에는 깊은 후회가 묻어났다.
+
+[10] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: ...아니, 진짜 시작은 나였어.
+
+[11] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 군대 있을 때, 사람들의 관심을 한 몸에 받고 싶어서 인트라넷에 <span class="highlight">지혜</span> 씨에 대한 글을 썼던 사람... 바로 나야. 자극적으로 살을 붙이고 소설처럼 꾸며냈지. 그게 어떻게 한 사람의 인생을 망쳐버릴지 생각도 안 하고. 내가 그 더러운 소문들의 뿌리였던 거야. <span class="character-lee">준서</span>야, 그리고 <span class="character-han">세린</span>아... 나를 죽이도록 미워해도 좋아.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 강의실에 무거운 침묵이 내려앉았을 때, 막내 <span class="character-choi">최도윤</span>이 조용히 고개를 들었다. 그의 얼굴은 창백했고, 손은 떨리고 있었지만 눈빛은 단호했다.
+
+[13] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 저도... 모두를 속였습니다.
+
+[14] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 제가 조사한 자료들, 사실 AI로 만든 가짜였습니다. 저는 실력도 없으면서 선배님들에게 인정만 받고 싶어 한 겁쟁이였습니다. 그리고... 사실 저는 이번 과제뿐만 아니라 지난 학기부터 계속 AI를 사용해왔어요. 이대로 발표가 성공했더라도 저는 평생 가짜로 남았을 겁니다. 저의 이 잘못도 고백하고 싶습니다.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 네 사람이 서로의 고백을 듣는 동안, 강의실의 공기는 무겁지만 서서히 따뜻해지기 시작했다. <span class="character-lee">준서</span>는 <span class="character-han">세린</span>의 눈물을, <span class="character-han">세린</span>은 <span class="character-hwang">기순</span>의 떨리는 손을, <span class="character-hwang">기순</span>은 <span class="character-choi">도윤</span>의 창백한 얼굴을 바라보며, 비로소 서로가 같은 고통을 겪고 있음을 깨달았다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">황기순</span>이 씁쓸한 미소를 지으며 주머니에서 낡은 USB 하나를 꺼내 책상 위에 올렸다.
+
+[17] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 나 사실 백업본 있어. 처음엔 이걸 미끼로 <span class="character-han">세린</span>이 환심이나 사보려 했지만... 이제 그런 비겁한 짓은 안 할래. 근데 <span class="character-choi">도윤</span>아, 네 말대로 이거 그냥 쓰지 말자. 우리 진짜 실력으로 고쳐보자. 나도 밤새는 건 자신 있거든.
+
+[18] 화자 타입: PLAYER  [신규]
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: (USB를 노트북에 꽂으며) 복원은 됐어. 근데 이거 그대로 내지는 말자.
+
+[19] 화자 타입: PLAYER  [신규]
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 네. 어차피 제가 쓴 것처럼 보이는 문장이 하나도 없더라고요. 처음부터 제 말로 다시 쓰겠습니다.
+
+[20] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 발표자 노트도 내가 다시 쓸게. 이번엔 내 목소리로.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 <span class="character-choi">도윤</span>의 서툰 문장을 다듬어주고, <span class="character-han">세린</span>의 발표 노트를 검토하며 밤을 새웠다. <span class="character-lee">준서</span>는 비로소 리더로서 그들의 작업을 묵묵히 지원하며 진정한 협력의 의미를 깨달았다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 창밖으로 푸르스름한 동이 터 올 무렵, 그들은 비로소 '팀'이 되었다. 교수님 앞에서의 발표는 기술적으로 완벽하지 않았을지도 모른다. 하지만 강의실을 나서는 네 사람의 얼굴에는 학점보다 더 눈부신 해방감과, 서로에 대한 깊은 신뢰가 서려 있었다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[24] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 사건의 단서를 되짚다 옵튼AI 인사담당자가 미국으로 떠났던 ‘<span class="highlight">전지혜</span>’라는 것을 알아챘고, 조심스럽게 다시 마주 앉아 오래된 오해를 풀며 끊겼던 인연을 천천히 이어갔다.
+
+[25] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>와 이어지지는 못했지만, 허세와 가식으로 버티던 삶을 내려놓았다. 누군가에게 ‘선택받는’ 사람이 아니라 스스로 선택하고 책임지는 사람으로, 더 도전적이고 진취적인 삶을 시작했다.
+
+[26] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 그 밤을 계기로 더 이상 숨어서 남을 해치지 않기로 했다. 도촬과 루머를 끊고, 진솔하고 당당한 태도로 면접을 통과해 사회초년생의 첫걸음을 내딛었다.
+
+[27] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 AI를 ‘답안’으로 쓰는 유혹을 끊어냈고, 대신 AI 자체를 연구하기로 마음먹었다. 작은 실험과 실패를 견디며 실력을 쌓아, 훗날 AI 스타트업을 시작할 만큼 자기 힘으로 성장해냈다.
+
+[28] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 조별과제는 끝났지만, 그들이 서로에게서 배운 정직과 용기는 각자의 삶에서 더 큰 이야기로 이어지고 있었다.
+
+<!-- ============================================ -->
+<!-- Ending 2. 남겨진 괴물 -->
+<!-- ============================================ -->
+
+제목: Ending 2. BBBA: 남겨진 괴물
+EndingID : 601269bd-7994-41a4-9ad7-a2a3607bc5bf
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : B / 한세린 : B / 최도윤 : B / 황기순 : A
+순서: 2
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 강의실의 공기는 습하고 무거웠다. 시계 바늘이 밤 9시를 가리키고 있었다.
+
+[2] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">이준서</span>가 자리에서 일어났다. 목소리는 떨렸지만 눈빛은 단호했다.
+
+[3] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 죄송합니다. 사실... 제가 다 지웠어요.
+
+[4] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="highlight">지혜</span>가 떠난 게 <span class="character-han">세린</span>이 너 때문이라고 생각했어. 그래서 너를 망가뜨리는 게 내 유일한 복수라고 믿었어. 모두에게 정말 죄송합니다.
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">한세린</span>은 얼굴을 가린 채 오열했다. 그녀의 어깨가 떨렸고, 눈물이 손가락 사이로 흘러내렸다.
+
+[6] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 아니야, <span class="character-lee">준서</span>야. 나도 알고 있었어. <span class="highlight">지혜</span>에 대한 추악한 소문을 내가 은근히 퍼뜨리고 즐겼다는 거. 그리고... <span class="highlight">지혜</span>가 떠난 뒤에도 나랑은 상관없는 일이라며 철저히 외면했어. 내가 미안해, 정말로.
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">최도윤</span> 역시 떨리는 목소리로 자신의 비밀을 털어놓았다.
+
+[8] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 저도... 모두를 속였습니다. 제가 조사한 자료들, 사실 AI로 만든 가짜였습니다. 그리고... 사실 저는 이번 과제뿐만 아니라 지난 학기부터 계속 AI를 사용해왔어요. 저는 실력도 없으면서 선배님들에게 인정만 받고 싶어 한 겁쟁이였습니다. 저의 이 잘못도 고백하고 싶습니다.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 세 조원은 서로의 가장 추악한 민낯을 확인하며, 비로소 고통스러운 연대의 손을 잡았다. 그들의 고백은 당장 자신들을 불리하게 만들었지만, 서로에 대한 신뢰는 깊어졌다.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 하지만 그 화해의 원 안에 <span class="character-hwang">황기순</span>은 없었다. 그는 책상 구석에 비스듬히 앉아, 안경알에 반사되는 노트북 불빛 뒤로 묘한 미소를 지으며 주머니 속 USB를 만지작거렸다. 그는 지금 이 순간, 자신이 이 판의 유일한 마스터키를 쥔 '갑'이 되었음을 본능적으로 직감했다.
+
+[11] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 다들 참 감동적이네. 눈물 없인 못 보겠어.
+
+[12] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 그런데 말이야, 다들 잊은 게 있는 것 같네. 나한테 백업본이 있거든. 너희들의 그 고귀한 속죄가 학점까지 구해주지는 않잖아? 안 그래?
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-lee">준서</span>와 <span class="character-choi">도윤</span>의 눈이 경악으로 커졌다. 하지만 <span class="character-hwang">기순</span>은 창백해진 <span class="character-han">세린</span>에게 다가가 얼굴을 들이밀며 속삭였다.
+
+[14] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 내가 이 자료 내놓으면 나랑 정식으로 데이트 한 번 해줄 거야? 아니면 이번 과제 기여도에서 내 이름을 맨 앞으로 해주든가. 난 '거래'가 아니면 안 움직이는 사람이거든. 자, 선택해.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 강의실에는 순식간에 불쾌한 침묵이 감돌았다. <span class="character-han">세린</span>은 소름이 돋는 듯 고개를 돌리며 입술을 깨물었고, <span class="character-lee">준서</span>는 차가운 분노가 서린 목소리로 <span class="character-hwang">기순</span>을 막아섰다.
+
+[16] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 필요 없어, 그 자료. 그런 비열한 조건으로 얻은 백업본으로 구걸하는 학점 따위, 우리 중 누구도 바라지 않아. 그런 더러운 결과물로 졸업하고 싶지도 않고.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 당황하며 헛웃음을 터뜨렸다.
+
+[18] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 뭐? 지금 제정신이야? 발표가 내일 아침인데! 이 자료 없으면 너희 다 F야! 학사경고라고!
+
+[19] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 다시 만들면 돼.
+
+[20] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="character-choi">도윤</span> 씨, 지금부터라도 진짜 실력으로 다시 짜봐요. 부족해도 괜찮아요. <span class="character-han">세린</span>아, 너도 발표자 노트 정직하게 다시 쓰자. 내가 옆에서 밤새도록 도울게. 우리 셋이서 해보자.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 세 사람은 <span class="character-hwang">기순</span>을 마치 강의실에 존재하지 않는 투명인간처럼 취급하며 각자의 역할을 시작했다. <span class="character-hwang">기순</span>은 주머니 속 USB를 부서질 듯 꽉 쥐었지만, 그가 가진 정보는 이제 그들에게 아무런 영향력도 발휘하지 못했다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 밤새도록 세 조원이 서로의 머리를 맞대고 진심의 조각들을 맞춰가는 동안, <span class="character-hwang">황기순</span>은 강의실 구석 어둠 속에 남겨진, 누구에게도 닿지 못하는 섬뜩한 '괴물'이 되어 그들을 지켜볼 뿐이었다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 다음 날 아침, 발표는 완벽하지 않았지만 그들은 자신들의 힘으로 완성했다. 세 사람은 서로를 격려하며 강의실을 나섰다. 하지만 <span class="character-hwang">기순</span>은 혼자 남아 자신의 선택을 후회하기 시작했다.
+
+[24] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[25] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 끝내 ‘거래’로 얻을 수 있는 것만 좇다가, 관계를 망치는 방식에 익숙해졌다. 마음속 빈자리를 타인 탓으로 메우며 점점 더 움츠러들었고, 결국 누구의 인생에도 초대받지 못한 채 혼자 늙어갔다.
+
+[26] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 사건의 실마리를 되짚다 옵튼AI 인사담당자가 미국으로 떠났던 ‘<span class="highlight">전지혜</span>’라는 것을 알아챘다. 한참을 망설인 끝에 마주 앉아 오해를 풀었고, 잃어버린 시간만큼 더 천천히, 하지만 더 단단하게 인연을 이어갔다.
+
+[27] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>와 이어지지는 못했지만, 그 밤의 파열음이 허세와 사치로 쌓아 올린 껍데기를 부쉈다. 남의 시선으로 사는 삶 대신, 스스로 선택하고 책임지는 길을 택하며 진짜 ‘나’로 살아갈 용기를 얻었다.
+
+[28] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 더 이상 AI를 ‘답안’으로 쓰지 않았다. 대신 밤샘의 죄책감과 두려움을 연구의 연료로 바꾸어, 작은 실험과 실패를 쌓아 졸업 후에는 AI 스타트업을 창업할 만큼 자기 힘으로 성장해냈다.
+
+[29] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 같은 밤을 지나왔지만, 누군가는 사람을 붙잡았고, 누군가는 사람을 잃었다. 그 차이가 그들의 내일을 갈랐다.
+
+<!-- ============================================ -->
+<!-- Ending 3. 가면 뒤의 삭제 -->
+<!-- ============================================ -->
+
+제목: Ending 3. BBAB: 가면 뒤의 삭제
+EndingID : a6566dcf-e781-477b-a42b-4344c9d5278e
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : B / 한세린 : B / 최도윤 : A / 황기순 : B
+순서: 3
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 밤 9시. 쏟아지는 눈발 사이로 낡은 강의실의 형광등 소리만이 날카로운 적막을 깼다.
+
+[2] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">이준서</span>가 무겁게 입을 뗐다. 목소리는 떨리고 있었다.
+
+[3] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 죄송합니다. 사실... 제가 다 지웠어요.
+
+[4] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="highlight">지혜</span>가 떠난 게 <span class="character-han">세린</span>이 너 때문이라고 생각했어. 그래서 너를 망가뜨리는 게 내 유일한 복수라고 믿었어. 모두에게 정말 죄송합니다.
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 뒤이어 <span class="character-han">한세린</span> 역시 고개를 떨구며 눈물로 입을 열었다.
+
+[6] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 나도 알고 있었어. <span class="highlight">지혜</span>에 대한 추악한 소문을 내가 은근히 퍼뜨리고 즐겼다는 거. 그리고... <span class="highlight">지혜</span>가 떠난 뒤에도 나랑은 상관없는 일이라며 철저히 외면했어. 내가 미안해, 정말로.
+
+[7] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: <span class="character-lee">준서</span>야, <span class="character-han">세린</span>아... 다들 그렇게 솔직하게 말해줘서 정말 고마워.
+
+[8] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">황기순</span>이 씁쓸하게 웃으며 주머니에서 낡은 USB를 꺼냈다. 그의 손가락은 미세하게 떨리고 있었다.
+
+[9] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 사실 나 백업본 있었어. 처음엔 <span class="character-han">세린</span>이 너랑 데이트라도 해보려고 추잡하게 굴었는데... 다들 이렇게 밑바닥까지 보여주니까 내 자신이 너무 초라해지네. 여기, 아무 조건 없이 줄게. 이걸로 당장 내일 발표 잘 마무리해 보자.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-hwang">기순</span>이 건넨 백업본 덕분에 노트북 화면에는 삭제되었던 발표자 노트와 정교한 슬라이드들이 기적처럼 다시 떠올랐다.
+
+[11] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 살았다... 진짜 살았어.
+
+[12] 화자 타입: PLAYER  [신규]
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 선배님들 먼저 들어가세요. 저는 정리 좀 하고 가겠습니다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-lee">준서</span>와 <span class="character-han">세린</span>은 서로의 손을 맞잡으며 내일의 성공을 확신한 채 차가운 새벽 공기를 뚫고 강의실을 나섰다.
+
+[14] 화자 타입: DIRECTIVE  [신규]
+    담당 플레이어: 최도윤
+    대사: 하지만 마지막까지 남아 있던 <span class="character-choi">최도윤</span>의 머릿속은 지옥과 같았다. 그는 동료들의 고백을 들으며 당장은 안도감을 느꼈다. '범인은 <span class="character-lee">준서</span>였고, <span class="character-han">세린</span>도 자신의 과오를 인정했어. 내 비밀은 이 소동 속에 묻히겠구나.' 하지만 그의 공포는 끝나지 않았다.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 동료들의 발소리가 복도 끝에서 사라지는 것을 확인한 뒤, 홀로 발표용 PC 앞에 다시 앉았다. 화면에 띄워진 완벽한 데이터들... 그것은 모두의 노력이었지만, 동시에 <span class="character-choi">도윤</span>의 부정을 입증할 위험한 증거물이었다. 내일 이 파일이 AI 채점 서비스의 알고리즘을 분석받는 순간, <span class="character-choi">도윤</span>이 숨겨온 가짜 참고문헌과 AI의 흔적들은 만천하에 까발려질 것이다.
+
+[16] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 생존은 미래를 향한 선결 조건이다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 주문처럼 이 한 마디를 뇌까리며, 떨리는 손으로 마우스를 움켜쥐었다. 발표 자료가 삭제되는 동안 그는 숨이 막힐 듯한 갈증을 느꼈다. 하지만 이제는 자신의 비밀이 드러나지 않을 것이라는 안도감이 그를 감쌌다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 다음 날 아침, 발표 차례가 되었을 때 팀원들이 발표용 PC에서 마주한 것은 빈 폴더뿐이었다. 절망에 빠져 통곡하는 <span class="character-han">세린</span>과 넋이 나간 <span class="character-lee">준서</span>, 당혹감에 말을 잇지 못하는 <span class="character-hwang">기순</span> 사이에서, <span class="character-choi">도윤</span>은 누구보다 침통한 표정으로 연기했다.
+
+[19] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 어떻게 이런 일이... 제가 분명 다 확인했는데...
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 그의 목소리는 슬픔에 젖어 있었지만, 가슴 깊은 곳에선 공포스러운 채점을 피했다는 이기적인 안도감이 솟아나고 있었다. 결국 그들은 발표를 하지 못하고 F를 받았다. 당장은 <span class="character-choi">도윤</span>이 자신의 비밀을 숨기는 데 성공한 것처럼 보였다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 남은 과목을 일부러 개인과제 수업으로만 채우며 ‘팀’과 ‘검증’을 피하는 길을 택했다. 그는 끝내 자신의 기만과 마주할 용기를 내지 못했고, 그 결과 비겁한 안도감 속에 안주하며 인간으로서, 그리고 연구자로서 한 단계 성숙해질 수 있었던 유일하고도 소중한 기회를 영영 잃어버리고 말았다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 사건의 단서를 되짚다 옵튼AI 인사담당자가 미국으로 떠났던 ‘<span class="highlight">전지혜</span>’라는 것을 알아챘다. 조심스럽게 다시 마주 앉아 오래된 오해를 풀었고, 끊긴 줄이라 믿었던 인연을 천천히, 하지만 분명하게 다시 이어갔다.
+
+[24] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>와 이어지지는 못했지만, 그날의 파국이 허세와 가식으로 버티던 삶을 바꿨다. 남의 시선에 기대지 않고 스스로 선택하고 책임지는 삶을 택하며, 더 단단한 자아로 성장했다.
+
+[25] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 ‘구경하는 사람’으로 남았던 자신을 부끄러워했고, 더 이상 숨어서 남을 해치지 않기로 했다. 진솔하고 당당한 태도로 면접을 통과해 사회초년생의 첫걸음을 내딛으며, 비로소 자기 인생을 정면으로 바라보기 시작했다.
+
+[26] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 결과물을 지워 얻은 안도는 오래가지 않았고, 빈 폴더로 시작된 새벽은 누군가에겐 끝, 누군가에겐 시작이 되었다.
+
+<!-- ============================================ -->
+<!-- Ending 4. 배신당한 속죄 -->
+<!-- ============================================ -->
+
+제목: Ending 4. BABA: 배신당한 속죄
+EndingID : 999c3163-70ab-48ce-9aae-00841a807a27
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : B / 한세린 : A / 최도윤 : B / 황기순 : A
+순서: 4
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 밤 9시. 강의실의 무거운 공기를 가른 것은 <span class="character-lee">이준서</span>의 고백이었다. 그는 무릎을 꿇었다.
+
+[2] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 죄송합니다. 사실... 제가 다 지웠어요.
+
+[3] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="highlight">지혜</span>가 떠난 게 <span class="character-han">세린</span>이 너 때문이라고 생각했어. 그래서 너를 망가뜨리는 게 내 유일한 복수라고 믿었어. 모두에게 정말 죄송합니다.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 곧이어 조용히 숨죽이던 <span class="character-choi">최도윤</span> 역시 떨리는 목소리로 자신의 비밀을 시인했다.
+
+[5] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 저도... 모두를 속였습니다. 제가 조사한 자료들, 사실 AI로 만든 가짜였습니다. 그리고... 사실 저는 이번 과제뿐만 아니라 지난 학기부터 계속 AI를 사용해왔어요. 저는 실력도 없으면서 선배님들에게 인정만 받고 싶어 한 겁쟁이였습니다. 저의 이 잘못도 고백하고 싶습니다.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 두 남자는 모든 사회적 명성과 자존심을 내려놓음으로써, 비로소 이 추악한 조별과제의 고리를 끊고 진실한 구원을 얻고 싶어 했다. 당장은 자신들이 불리해지지만, 그렇게라도 정직해지고 싶었다.
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 하지만 현실의 캠퍼스는 그들의 정직함을 받아주기엔 너무나 비정했다. 그들의 솔직한 고백은 이기적인 팀원들에게 좋은 먹잇감이 되었다.
+
+[8] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-han">한세린</span>은 눈물을 닦는 척하며 무너진 <span class="character-lee">준서</span>의 어깨를 조심스럽게 감싸 안았다.
+
+[9] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: <span class="character-lee">준서</span>야... 네 마음 이제 다 알 것 같아. <span class="highlight">지혜</span> 때문에 그렇게 힘들었구나.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 그녀의 목소리는 한없이 다정했지만, 눈동자에는 차가운 계산이 번뜩였다. 그녀는 <span class="character-lee">준서</span>의 자백을 듣는 순간 깨달았다. 이 자백을 증거 삼아 <span class="character-lee">준서</span>를 '정서적 불안으로 인한 돌발 행동자'로 낙인찍는다면, 그를 영영 자신의 곁에 묶어둘 수 있다는 사실을.
+
+[11] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: <span class="character-lee">준서</span>야, 이번 학기는 그냥 놓아주자. 무리해서 뭐 해. 다음 학기에 재수강하면 되잖아. 내가 옆에 있어 줄게.
+
+[12] 화자 타입: DIRECTIVE  [신규]
+    담당 플레이어: 황기순
+    대사: <span class="character-han">세린</span>은 위로하는 척, 그가 이번 학기를 포기하고 평생 자신의 집착 아래 살아가게 만들 덫을 치기 시작했다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">황기순</span>은 더욱 노골적이고 잔혹했다. 그는 주머니 속 USB를 조롱하듯 흔들며 <span class="character-choi">도윤</span>을 향해 싸늘한 웃음을 날렸다.
+
+[14] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 가짜 천재였어? 실망이네, <span class="character-choi">도윤</span>아. 내가 네 그 매끈한 문장들 보면서 얼마나 자괴감을 느꼈는데, 그게 다 기계가 쓴 거였다니.
+
+[15] 화자 타입: PLAYER  [신규]
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: ...맞습니다. 변명하지 않겠습니다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 <span class="character-lee">준서</span>와 <span class="character-choi">도윤</span>의 자백을 빌미로 그들을 모든 사태의 가해자로 확정 지었다. 그리고는 백업 자료를 오직 자신만을 위해 사용했다. 그는 <span class="character-choi">도윤</span>이 제공한 자료들을 자신의 이름으로 재구성했고, <span class="character-lee">준서</span>의 학위 취득을 방해하기 위해 과 사무실에 그의 삭제 행위를 익명으로 고발했다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 결과는 참혹했다. 용기 있게 진실을 말한 <span class="character-lee">준서</span>와 <span class="character-choi">도윤</span>은 징계 위원회에 회부되거나 과 내에서 '위험한 배신자'와 '사기꾼'으로 낙인찍혀 철저히 고립되었다. 정직의 대가는 참혹했다. 반면 <span class="character-han">세린</span>과 <span class="character-hwang">기순</span>은 '고통받은 피해자'의 세련된 가면을 쓴 채, 최고의 학점과 평판을 챙겨 보란 듯이 강의실을 떠났다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 복도는 차가운 정적만이 감돌았다. 계단을 내려가는 <span class="character-han">세린</span>의 하이힐 소리와 <span class="character-hwang">기순</span>의 웃음소리가 멀어질수록, 텅 빈 강의실에 남겨진 두 남자의 속죄는 창밖의 차가운 눈발에 파묻혀 누구에게도 닿지 못한 채 공허하게 흩어져 갔다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>의 연약함을 ‘사랑’으로 포장해 붙잡으려 했지만, 결국 그 집착과 계산이 관계를 갉아먹었다. 한때는 원하던 것을 손에 쥔 듯했으나, <span class="character-lee">준서</span>는 그녀의 본성에 지쳐 떠났고, <span class="character-han">세린</span>은 또다시 더 ‘잘난’ 누군가를 찾아 헤매는 쪽으로 미끄러졌다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 남의 불행을 구경하며 얻은 승리에 익숙해졌고, 그만큼 자기 삶을 정면으로 마주할 용기를 잃었다. 관계가 닫힐수록 그는 더 쉽게 남 탓을 했고, 결국 누구의 하루에도 들어가지 못한 채 혼자 늙어갔다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 바닥까지 떨어진 뒤에야 사건의 단서를 되짚었고, 옵튼AI 인사담당자가 미국으로 떠났던 ‘<span class="highlight">전지혜</span>’라는 것을 알아챘다. 조심스럽게 다시 마주 앉아 오래된 오해를 풀었고, 끊겼던 인연을 천천히, 하지만 분명하게 다시 이어갔다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 더 이상 AI를 ‘답안’으로 쓰지 않기로 결심했다. 남에게 베끼는 성과 대신 스스로 만든 실패를 쌓아가며 AI 자체를 연구했고, 훗날 작은 팀을 꾸려 스타트업을 시작할 만큼 자기 힘으로 성장해냈다.
+
+[24] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 당장은 이기적인 자들이 모든 걸 가진 것처럼 보였지만, 결국 남는 것은 ‘사람’이었다. 그 밤, 누가 사람을 잃고 누가 사람을 지켰는지가 그들의 내일을 갈랐다.
+
+<!-- ============================================ -->
+<!-- Ending 5. 범인 없는 용서 -->
+<!-- ============================================ -->
+
+제목: Ending 5. ABBB: 범인 없는 용서
+EndingID : c34c5a5f-5324-4ef2-b052-30eade2e348f
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : A / 한세린 : B / 최도윤 : B / 황기순 : B
+순서: 5
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 강의실의 시계는 어느덧 밤 9시를 가리키고 있었다. 기적 같은 밤이었다. <span class="character-han">한세린</span>이 먼저 입을 열었다.
+
+[2] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 미안해, 얘들아.
+
+[3] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: <span class="highlight">지혜</span>에 대한 추악한 소문을 내가 은근히 퍼뜨리고 즐겼다는 거. 그리고... <span class="highlight">지혜</span>가 떠난 뒤에도 나랑은 상관없는 일이라며 철저히 외면했어. 내가 너무 못됐었어.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 뒤이어 <span class="character-choi">최도윤</span>이 자책감이 섞인 목소리로 자신의 비밀을 고백하며 고개를 숙였다.
+
+[5] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 저도... 모두를 속였습니다. 제가 조사한 자료들, 사실 AI로 만든 가짜였습니다. 그리고... 사실 저는 이번 과제뿐만 아니라 지난 학기부터 계속 AI를 사용해왔어요. 저는 실력도 없으면서 선배님들에게 인정만 받고 싶어 한 겁쟁이였습니다. 저의 이 잘못도 고백하고 싶습니다.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 마지막에 <span class="character-hwang">황기순</span>은 아무런 대가 없이 백업 USB를 책상 정중앙에 올려놓았다.
+
+[7] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 사실 나 백업본 있었어. 처음엔 이걸 미끼로 <span class="character-han">세린</span>이 환심이나 사보려 했지만... 이제 그런 비겁한 짓은 안 할래. 그리고... 나도 고백할 게 있어. 군대 있을 때, 사람들의 관심을 한 몸에 받고 싶어서 인트라넷에 <span class="highlight">지혜</span> 씨에 대한 글을 썼던 사람... 바로 나야. 그게 어떻게 한 사람의 인생을 망쳐버릴지 생각도 안 하고.
+
+[8] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 우리, 이제라도 정말 제대로 해보자. 학점보다 우리가 정직해졌다는 게 더 중요하잖아.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-hwang">기순</span>의 진심 어린 한마디에 <span class="character-han">세린</span>과 <span class="character-choi">도윤</span>이 말없이 고개를 끄덕였다. 세 사람은 서로의 손을 포개어 잡으며 비로소 '진짜 한 조'가 된 것 같은 벅찬 감동과 우정에 젖어 들었다. 그들은 해방감에 젖은 눈으로 조장 <span class="character-lee">이준서</span>를 바라보았다.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 하지만 <span class="character-lee">준서</span>는 다르게 생각하고 있었다. 눈앞의 세 사람은 각자의 어두운 밑바닥을 드러냄으로써 구원받았다. 그들은 서로를 용서했고, 아직 정체를 드러내지 않은 미궁 속의 '범인'조차 이미 마음속으로 넉넉히 사면한 듯 보였다.
+
+[11] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 네가 우리를 믿어줘서 여기까지 올 수 있었어.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 하지만 그 범인이 바로 자신이라는 사실을, <span class="character-lee">준서</span>는 끝내 밝히지 않았다. 지금 이 순간 자백한다는 것은 평생을 '우수한 사람'으로 살아온 그에게 너무나도 어려운 일이었다. <span class="character-lee">준서</span>는 피가 날 정도로 입술을 꽉 깨물며, 떨리는 손을 숨기면서 온화하게 미소 지었다.
+
+[13] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 고마워요, 다들. 여러분의 용기가 오히려 저를 부끄럽게 만드네요. 자, <span class="character-hwang">기순</span> 선배님이 준 보물 같은 자료로 완벽하게 마무리해 봐요. 제가 끝까지 여러분을 책임질게요.
+
+[14] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-lee">준서</span>의 격려에 팀원들은 환호하며 다시 발표용 PC 앞에 앉았다. 백업본 덕분에 과제는 순조롭게, 그리고 완벽히 복구되었다. 다음 날 발표장, 교수님은 이 팀의 결과물과 팀워크를 보며 "우리 대학 조별과제의 전형적인 모범 사례"라며 최고의 찬사를 보냈다. <span class="character-han">세린</span>, <span class="character-choi">도윤</span>, <span class="character-hwang">기순</span>은 진실한 우정과 학점을 동시에 얻었다는 기쁨에 서로를 껴안으며 축제 같은 마음으로 강의실을 나섰다.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 하지만 그 화려한 환호의 중심에서, <span class="character-lee">준서</span>는 홀로 서서 질식할 것 같은 고독과 구역질을 견뎌야 했다. 모두가 진실을 말하고 구원받은 이 성스러운 밤에 유일하게 거짓을 선택해 죄를 덮어버린 그는, 이제 평생 '착하고 완벽한 리더'라는 무거운 철가면을 쓴 채 살아가야 한다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 끝내 진실을 숨기는 데 성공했고, 그 성공은 ‘이 정도 거짓말은 괜찮다’는 감각을 몸에 남겼다. 몇 년 뒤 명망있는 기업에 입사해 최연소 팀장까지 올랐지만, 익숙해진 부정은 결국 감사에 걸려 한순간에 해고로 돌아왔다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>와 이어지지는 못했지만, 그날의 화해가 허세와 가식으로 버티던 삶을 내려놓게 했다. 누군가에게 ‘선택받는’ 사람이 아니라 스스로 선택하고 책임지는 사람으로, 더 도전적이고 진취적인 삶을 시작했다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 AI를 ‘답안’으로 쓰는 길을 끊고, 대신 AI 자체를 연구하기로 마음먹었다. 작은 실험과 실패를 견디며 실력을 쌓아, 훗날 작은 팀을 꾸려 스타트업을 시작할 만큼 자기 힘으로 성장해냈다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 그 밤을 계기로 더 이상 숨어서 남을 해치지 않기로 했다. 도촬과 루머를 끊고, 진솔하고 당당한 태도로 면접을 통과해 사회초년생의 첫걸음을 내딛었다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 누군가에겐 “최고의 팀플”로 남은 밤이, <span class="character-lee">준서</span>에게만은 거짓이 만든 가장 긴 그림자로 남아 끝내 그의 발목을 붙잡았다.
+
+<!-- ============================================ -->
+<!-- Ending 6. 부서진 조각들 -->
+<!-- ============================================ -->
+
+제목: Ending 6. BBAA: 부서진 조각들
+EndingID : 2cb1f654-0d3a-455b-a7a3-e1788e883c82
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : B / 한세린 : B / 최도윤 : A / 황기순 : A
+순서: 6
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 밤 9시. 시린 겨울 공기가 강의실의 낡은 창틈을 비집고 들어와 발목을 휘감았다.
+
+[2] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">이준서</span>가 길었던 침묵 끝에 입을 열었다. 목소리는 떨리고 있었다.
+
+[3] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 죄송합니다. 사실... 제가 다 지웠어요.
+
+[4] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="highlight">지혜</span>가 떠난 게 <span class="character-han">세린</span>이 너 때문이라고 생각했어. 그래서 너를 망가뜨리는 게 내 유일한 복수라고 믿었어. 모두에게 정말 죄송합니다.
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span> 역시 <span class="highlight">지혜</span>를 향한 뒤틀린 시기심과 자신이 퍼뜨린 독한 소문들에 대해 고개를 숙이며 사죄했다.
+
+[6] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 나도 알고 있었어. <span class="highlight">지혜</span>에 대한 추악한 소문을 내가 은근히 퍼뜨리고 즐겼다는 거. 그리고... <span class="highlight">지혜</span>가 떠난 뒤에도 나랑은 상관없는 일이라며 철저히 외면했어. 내가 미안해, 정말로.
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 최소한 두 사람 사이에는 3년 만에 쌓였던 거대한 오해의 벽이 소리 없이 허물어지고 있었다.
+
+[8] 화자 타입: PLAYER  [신규]
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 지금부터라도 다시 만들자. 남은 시간만큼은 정직하게 가자.
+
+[9] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 그래. 발표자 노트는 내가 처음부터 다시 쓸게.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 당장은 자신들이 불리해지지만, 그렇게라도 정직해지고 싶었다.
+
+[11] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 하지만 그 미약한 온기는 강의실 전체로 퍼지기엔 너무나 빈약했다.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">최도윤</span>은 <span class="character-lee">준서</span>와 <span class="character-han">세린</span>의 참회 어린 대화를 들으면서도, 발표용 PC 모니터에서 눈을 떼지 않았다. 그는 <span class="character-lee">준서</span>의 자백을 들으며 마음속 깊은 곳에서 이기적인 안도감을 느꼈다. '결국 범인은 따로 있었어. 내 부정행위는 이 소동 속에 묻히겠구나.' 당장은 자신이 안전해 보였다. 하지만 그의 공포는 끝나지 않았다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">황기순</span>이 끝내 백업 파일의 존재를 숨기며 싸늘한 침묵을 선택하자, 팀은 절망적인 분위기 속에서 다시 처음부터 발표자 노트를 적어 내려가기 시작했다. <span class="character-hwang">기순</span>은 주머니 속 USB를 만지작거리며 그들을 지켜보고 있었다. 그는 자신의 백업본을 내놓지 않음으로써 당장은 자신이 통제권을 쥔 것처럼 느꼈다.
+
+[14] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 묵묵히 그 작업을 돕는 척 연기했지만, 그의 시선은 동료들이 아닌 AI 채점 서비스의 날카로운 분석 결과로만 향해 있었다. 그는 새로 작성하는 자료조차 AI의 문장을 완벽히 지우지 못했다는 강박적인 불안에 휩싸였다. 새벽녘, 모두가 피로와 감정 소모에 지쳐 잠시 고개를 숙인 사이, <span class="character-choi">도윤</span>은 마지막 결단을 내렸다.
+
+[15] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 살아남는 것이 우선이다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그는 자신의 생존을 위해 몰래 PC를 조작하여, 밤새 공들여 다시 만든 발표자료 파일을 흔적도 없이 영구 삭제했다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 다음 날 아침, 발표 차례가 되었을 때 팀원들이 발표용 PC에서 마주한 것은 빈 폴더뿐이었다.
+
+[18] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 없어... 또 없어졌어. 우리 밤새 뭐 한 거야?
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 텅 빈 발표자료 폴더를 보고 좌절하며 통곡하는 <span class="character-han">세린</span>과 자책하며 주저앉는 <span class="character-lee">준서</span> 틈에서, <span class="character-choi">도윤</span>은 누구보다 침통한 연기를 하며 안도했다. <span class="character-hwang">기순</span>은 그 모든 아비규환을 마치 강 건너 불 구경하듯 내려다보며 낡은 안경을 닦았다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 화해와 자백은 있었으나, 정작 세상에 내놓을 결과물은 <span class="character-choi">도윤</span>의 비겁한 공포와 <span class="character-hwang">기순</span>의 증오 속에 완전히 소멸해버렸다. 결국 그들은 발표를 하지 못하고 F를 받았다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 부서진 데이터 조각들처럼 뿔뿔이 흩어져 강의실을 나서는 네 사람의 뒷모습 위로, 차가운 겨울비만이 조용히 내리고 있었다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 남은 과목을 일부러 개인과제 수업으로만 채우며 ‘팀’과 ‘검증’을 피했다. 누구보다 빨리 AI를 썼지만 끝내 답안용 도구로만 소비하는 데서 멈췄고, 졸업 후 좋은 학점으로 들어간 명망있는 기업에서는 더 이상 ‘AI로 만든 성과’를 내지 못해 최악의 평가를 받았다.
+
+[24] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 소심함을 ‘세상이 날 무시한다’는 분노로 바꾸며 더 쉽게 타인을 탓하는 쪽으로 굳어졌다. 관계는 하나둘 닫혔고, 결국 누구의 인생에도 초대받지 못한 채 혼자 늙어갔다.
+
+[25] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 사건의 단서를 되짚다 옵튼AI 인사담당자가 미국으로 떠났던 ‘<span class="highlight">전지혜</span>’라는 것을 알아챘다. 조심스럽게 다시 마주 앉아 오래된 오해를 풀었고, 끊겼던 인연을 천천히, 하지만 분명하게 다시 이어갔다.
+
+[26] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>와 이어지지는 못했지만, 그날의 파국이 허세와 가식으로 버티던 삶을 무너뜨렸다. 남의 시선에 기대지 않고 스스로 선택하고 책임지는 길을 택하며, 더 단단한 ‘자기’로 자라났다.
+
+[27] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 빈 폴더로 끝난 밤은 누군가에겐 추락이었고, 누군가에겐 변화를 시작하게 만든 첫 신호였다.
+
+<!-- ============================================ -->
+<!-- Ending 7. 엇갈린 집착 -->
+<!-- ============================================ -->
+
+제목: Ending 7. BABB: 엇갈린 집착
+EndingID : a4c223d1-4c8c-45a5-9e6f-6aa874232ed7
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : B / 한세린 : A / 최도윤 : B / 황기순 : B
+순서: 7
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 밤 9시. 강의실에 내려앉은 밤은 유난히도 깊고 시렸다. <span class="character-lee">준서</span>의 고통스러운 속죄가 시작되었다.
+
+[2] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 죄송합니다. 사실... 제가 다 지웠어요.
+
+[3] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="highlight">지혜</span>가 떠난 게 <span class="character-han">세린</span>이 너 때문이라고 생각했어. 그래서 너를 망가뜨리는 게 내 유일한 복수라고 믿었어. 모두에게 정말 죄송합니다.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>과 <span class="character-hwang">기순</span>은 경악했지만, 이내 <span class="character-lee">준서</span>의 진실한 눈빛 앞에 자신들의 허물도 내려놓았다.
+
+[5] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 저도... 모두를 속였습니다. 제가 조사한 자료들, 사실 AI로 만든 가짜였습니다. 그리고... 사실 저는 이번 과제뿐만 아니라 지난 학기부터 계속 AI를 사용해왔어요. 저는 실력도 없으면서 선배님들에게 인정만 받고 싶어 한 겁쟁이였습니다. 저의 이 잘못도 고백하고 싶습니다.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 그들을 용서하며 숨겨두었던 백업 파일을 내놓았다.
+
+[7] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 사실 나 백업본 있었어. 그리고... 나도 고백할 게 있어. 군대 있을 때, 사람들의 관심을 한 몸에 받고 싶어서 인트라넷에 <span class="highlight">지혜</span> 씨에 대한 글을 썼던 사람... 바로 나야. 그게 어떻게 한 사람의 인생을 망쳐버릴지 생각도 안 하고. 여기 백업본이야. 우리 같이 졸업하자.
+
+[8] 화자 타입: PLAYER  [신규]
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 선배님들. 저 이번엔 진짜 제 힘으로 해보겠습니다.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 세 남자는 비로소 서로의 민낯을 마주하며, 이 비극적인 조별과제를 끝내기 위한 연대의 손을 굳게 맞잡았다. 당장은 자신들이 불리해지지만, 그렇게라도 정직해지고 싶었다.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 하지만 그 화해와 구원의 원 안 어디에도 <span class="character-han">한세린</span>의 모습은 없었다.
+
+[11] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>의 절박한 참회를 들으며 묘한 만족감과 소름 끼치는 희열을 느꼈다. <span class="highlight">지혜</span>를 잊지 못해 괴로워하며 자책하는 그의 무너진 모습이야말로, 자신에게 가장 큰 기회가 찾아왔다는 신호처럼 보였기 때문이다. '<span class="character-lee">준서</span>야, 그렇게 괴롭다면 차라리 여기서 완전히 무너져버려. 그러면 내가 널 한 학기 더 볼 수 있을 테니까. 내가 아니면 안 되는 남자로 만들어줄게.'
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 그녀는 자신의 과거 과실을 철저히 숨긴 채, <span class="character-lee">준서</span>의 곁에 남아 그를 위로하는 '유일한 여자'가 되기 위한 뒤틀린 각본을 완성해 나갔다. 당장은 자신이 <span class="character-lee">준서</span>를 구해주는 것처럼 보였지만, 실제로는 그를 더 깊은 늪으로 끌어들이고 있었다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 다음 날 아침, 그들의 발표 차례. <span class="character-han">세린</span>은 <span class="character-hwang">기순</span>이 건넨 완벽한 백업본 자료를 들고 마이크 앞에 섰다. 하지만 그녀의 시선은 정면의 청중이 아닌, 옆에 서서 고개를 떨구고 있는 <span class="character-lee">준서</span>의 파리한 옆얼굴에만 고정되어 있었다. 그의 지친 숨소리와 죄책감 어린 눈망울을 관찰하고 탐닉하느라, 정작 자신이 읽어야 할 발표자 노트의 맥락을 수차례 놓치고 말았다.
+
+[14] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 청중들은 횡설수설하며 집중하지 못하는 그녀의 발표에 실망했고, 교수님의 날카로운 질문에도 그녀는 멍한 대답으로 일관했다.
+
+[15] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 어차피 중요한 건 이게 아니잖아요.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 결국 이 팀은 F라는 처참한 학점을 받았다. <span class="character-han">세린</span>은 속으로 기쁨의 환호성을 질렀다. '이제 <span class="character-lee">준서</span>는 성적 만회를 위해 이번 학기에 F를 받고, 다음 학기 재수강 수업에서 다시 내 곁에 있게 되겠지.' 하지만 그녀의 이기적인 집착은 벼랑 끝에 서 있던 <span class="character-lee">준서</span>의 등을 밀어버린 선택이 되었다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 발표가 끝난 직후, 학교 익명 게시판에 자신의 행위와 참회를 담은 장문의 글을 올리고 곧바로 휴학계를 제출했다.
+
+[18] 화자 타입: PLAYER  [신규]
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 잠시 이 교정을 떠나, <span class="highlight">지혜</span>를 충분히 그리고 정직하게 기억할 시간을 갖고 싶습니다.
+
+[19] 화자 타입: DIRECTIVE  [신규]
+    담당 플레이어: 이준서
+    대사: 그 짧은 메시지만을 남긴 채, 그는 <span class="character-han">세린</span>의 간절한 연락을 모두 차단하고 연기처럼 사라져 버렸다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-han">세린</span>은 단 한 학기라도 더 그를 곁에 두고 싶어 소중한 진실을 묻었지만, 그 비겁한 선택이 오히려 사랑하는 남자를 영영 다시는 볼 수 없는 먼 곳으로 떠나보낸 셈이 되었다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>를 붙잡겠다는 욕망에 취해, ‘F’마저 사랑의 사슬로 만들 수 있다고 착각했다. 하지만 관계를 갉아먹는 집착은 결국 그대로 되돌아와, <span class="character-lee">준서</span>는 그녀의 본성에 지쳐 떠났고, <span class="character-han">세린</span>은 또다시 더 ‘잘난’ 누군가를 찾아 헤매는 쪽으로 미끄러졌다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 바닥까지 무너진 뒤에야 사건의 단서를 되짚었고, 옵튼AI 인사담당자가 미국으로 떠났던 ‘<span class="highlight">전지혜</span>’라는 것을 알아챘다. 조심스럽게 다시 마주 앉아 오래된 오해를 풀었고, 끊겼던 인연을 천천히, 하지만 분명하게 다시 이어갔다.
+
+[24] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 AI를 ‘답안’으로 쓰는 길을 끊고, 대신 AI 자체를 연구하기로 마음먹었다. 작은 실험과 실패를 견디며 실력을 쌓아, 훗날 작은 팀을 꾸려 스타트업을 시작할 만큼 자기 힘으로 성장해냈다.
+
+[25] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 그 밤을 계기로 더 이상 숨어서 남을 해치지 않기로 했다. 도촬과 루머를 끊고, 진솔하고 당당한 태도로 면접을 통과해 사회초년생의 첫걸음을 내딛었다.
+
+[26] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 끝내 <span class="character-han">세린</span>만이 ‘소유’의 망상에 갇힌 채 같은 자리를 맴돌았고, 나머지 셋은 비로소 자기 삶의 방향을 다시 잡아 나갔다.
+
+<!-- ============================================ -->
+<!-- Ending 8. 은밀한 파괴자 -->
+<!-- ============================================ -->
+
+제목: Ending 8. BAAB: 은밀한 파괴자
+EndingID : 6d359788-e160-4acf-bb2a-ecacde380c7f
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : B / 한세린 : A / 최도윤 : A / 황기순 : B
+순서: 8
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 밤 9시, 조용한 강의실에 <span class="character-lee">준서</span>의 떨리는 목소리가 메아리쳤다. 그는 <span class="highlight">지혜</span>와의 추억을 지키지 못한 자책감에 고의로 '발표자 노트'를 삭제했음을 털어놓으며 동료들에게 고개를 숙였다.
+
+[2] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 죄송합니다. 사실... 제가 다 지웠어요.
+
+[3] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="highlight">지혜</span>가 떠난 게 <span class="character-han">세린</span>이 너 때문이라고 생각했어. 그래서 너를 망가뜨리는 게 내 유일한 복수라고 믿었어. 모두에게 정말 죄송합니다.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">한세린</span>은 <span class="character-lee">준서</span>의 절박한 참회를 들으면서도 자신의 과거 과오를 끝내 숨겼다. 그녀는 오히려 무너진 <span class="character-lee">준서</span>에게 다가가 가련한 피해자인 양 눈물을 흘리며 그를 위로했다.
+
+[5] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: <span class="character-lee">준서</span>야... 그동안 얼마나 혼자 힘들었니.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 하지만 그녀의 속마음은 달랐다. <span class="character-lee">준서</span>의 자백을 빌미로 그를 죄책감의 늪에 빠뜨려 자신의 곁에 영영 묶어두려는 뒤틀린 계산을 세우고 있었다. 당장은 자신이 결백한 피해자석에 앉아 모든 비난을 피할 수 있다는 생각에 안도했다.
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그 솔직한 고백과 <span class="character-han">세린</span>의 위로에 마음이 흔들린 <span class="character-hwang">황기순</span>은 책상 밑에 숨겨두었던 백업 파일을 조심스럽게 꺼냈다.
+
+[8] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: <span class="character-lee">준서</span>야, 네 마음... 이제야 알겠어. <span class="highlight">지혜</span> 씨 얘기도. 여기 백업본이야. 내용 다 살아있으니까 우리 기운 내보자. 그리고... 나도 고백할 게 있어. 군대 있을 때, 사람들의 관심을 한 몸에 받고 싶어서 인트라넷에 <span class="highlight">지혜</span> 씨에 대한 글을 썼던 사람... 바로 나야. 그게 어떻게 한 사람의 인생을 망쳐버릴지 생각도 안 하고.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-hwang">기순</span>의 조력으로 팀에는 찰나의 희망이 피어올랐다.
+
+[10] 화자 타입: PLAYER  [신규]
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 선배님, 고맙습니다. 다들 눈 좀 붙이고 아침에 봐요.
+
+[11] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 모두가 내일의 성공적인 발표를 확신하며 뿔뿔이 해산했다. 당장은 모든 것이 해결된 것처럼 보였다.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 하지만 그들이 기대하던 아침은 <span class="character-choi">최도윤</span>의 선택 때문에 처참히 무너졌다. <span class="character-choi">도윤</span>은 동료들이 떠난 뒤 새벽녘까지 홀로 남아 마우스를 만지작거렸다. 복구된 <span class="character-hwang">기순</span>의 백업 자료들을 훑어보던 그의 눈동자엔 형언할 수 없는 공포가 서렸다. 이 속에 여전히 남아 있던 자신의 AI 활용 흔적... 내일 이 자료가 AI 채점 서비스에 걸리는 순간, 그는 '천재'에서 '사기꾼'으로 추락할 것이 자명했다.
+
+[13] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 생존은 미래를 향한 선결 조건이다.
+
+[14] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 주문처럼 이 말을 되뇌며, 몰래 강의실 PC의 전원을 다시 켰다. 그는 조원들이 안도하며 대화를 나누는 틈을 타, 재빨리 발표자료 파일을 흔적도 없이 영구 삭제했다.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 다음 날 아침, 발표 차례가 되었을 때 팀원들이 발표용 PC에서 마주한 것은 빈 폴더뿐이었다.
+
+[16] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 말도 안 돼. 어제 분명히 다 있었잖아요!
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 절규하는 <span class="character-han">세린</span>과 자책감에 무너지는 <span class="character-lee">준서</span>, 망연자실한 <span class="character-hwang">기순</span> 사이에서 <span class="character-choi">도윤</span>은 그저 고개를 깊숙이 숙였다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 고백을 선택했던 <span class="character-lee">준서</span>는 결국 '삭제 행위를 저지른 사고 당사자'라는 오명을 뒤집어쓴 채, 모든 조 비난의 화살을 홀로 받아내야 했다. 결국 그들은 발표를 하지 못하고 F를 받았다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 <span class="character-lee">준서</span>의 희생을 방패 삼아 자신의 기만을 완벽히 은폐하는 데 성공했고, 좌절한 <span class="character-lee">준서</span>는 <span class="character-han">세린</span>이 설계한 '재수강'이라는 늪을 향해 천천히, 힘없이 발을 내디뎠다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 이 모든 파국 속에서도 ‘내가 피해자’라는 가면부터 챙겼다. 미움과 비난을 남 탓으로 돌리는 데 익숙해졌고, 결국 관계는 얕아지고 삶은 더 공허해졌다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 남은 과목을 일부러 개인과제 수업으로만 채우며 ‘팀’과 ‘검증’을 피했다. 누구보다 빨리 AI를 썼지만 끝내 답안용 도구로만 소비하는 데서 멈췄고, 졸업 후 좋은 학점으로 들어간 명망있는 기업에서는 더 이상 ‘AI로 만든 성과’를 내지 못해 최악의 평가를 받았다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 사건의 단서를 되짚다 옵튼AI 인사담당자가 미국으로 떠났던 ‘<span class="highlight">전지혜</span>’라는 것을 알아챘다. 조심스럽게 다시 마주 앉아 오래된 오해를 풀었고, 끊겼던 인연을 천천히, 하지만 분명하게 다시 이어갔다.
+
+[24] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 그 밤을 계기로 더 이상 숨어서 남을 해치지 않기로 했다. 도촬과 루머를 끊고, 진솔하고 당당한 태도로 면접을 통과해 사회초년생의 첫걸음을 내딛었다.
+
+[25] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 결국, 누가 ‘남 탓’으로 버텼는지, 누가 ‘자기 책임’으로 다시 시작했는지가 그들의 내일을 갈랐다.
+
+<!-- ============================================ -->
+<!-- Ending 9. 엇갈린 신호 -->
+<!-- ============================================ -->
+
+제목: Ending 9. ABBA: 엇갈린 신호
+EndingID : e286f503-c935-4316-8a54-092f600aebbd
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : A / 한세린 : B / 최도윤 : B / 황기순 : A
+순서: 9
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 밤 9시. 강의실엔 낡은 히터 돌아가는 소리만이 윙윙거렸다. 마침내 침묵을 깬 것은 <span class="character-han">한세린</span>이었다. 그녀는 <span class="character-lee">준서</span>를 향한 자신의 비정상적인 소유욕과 과거의 과오를 고백하며, 이제는 진짜 동료로서 곁에 있고 싶다며 참회의 눈물을 쏟았다.
+
+[2] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 미안해, 다들. <span class="highlight">지혜</span>에 대한 추악한 소문을 내가 은근히 퍼뜨리고 즐겼다는 거. 그리고... <span class="highlight">지혜</span>가 떠났을 때도 철저하게 방관했어. 내 이미지에 흠집 하나 나는 게 싫어서 남의 일인 양 치부해버렸거든. 내가 너무 못됐었어. 이제라도 제대로 사과하고, 우리 정말 마지막으로 온 힘을 다해 다시 시작해 보면 안 될까? <span class="character-lee">준서</span>야, 너에게 당당해지고 싶어.
+
+[3] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">최도윤</span> 역시 감응한 듯, 자신의 천재적 평판이 사실은 AI로 빚어낸 가짜였음을 인정하며 정직한 학점을 받겠노라 선언했다.
+
+[4] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 저도... 모두를 속였습니다. 제가 조사한 자료들, 사실 AI로 만든 가짜였습니다. 그리고... 사실 저는 이번 과제뿐만 아니라 지난 학기부터 계속 AI를 사용해왔어요. 저는 실력도 없으면서 선배님들에게 인정만 받고 싶어 한 겁쟁이였습니다. 저의 이 잘못도 고백하고 싶습니다.
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 두 조원의 용기 있는 고백은 얼어붙었던 강의실에 찰나의 뜨거운 열기를 불어넣었다. 당장은 자신들이 불리해지지만, 그렇게라도 정직해지고 싶었다.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 조장 <span class="character-lee">이준서</span>는 그 광경을 보며 가슴 깊은 곳에서 안도감을 느꼈다. '결국 두 사람이 스스로의 허물을 뒤집어쓰고 사죄하는구나.' 이 소동 덕분에 자신이 저지른 악행의 흔적은 영원히 묻혔다고 확신한 그는, 다시 '완벽한 리더'의 미소를 지으며 부드럽게 입을 열었다.
+
+[7] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 용기 내줘서 고마워요, 다들. 지나간 실수에 얽매이지 말아요. 우리 지금부터라도 힘을 합쳐서 대본을 새로 쓰는 거예요. 아직 우리에겐 아침까지 시간이 있어요!
+
+[8] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 열성적으로 팀원들을 독려하며 다시 자료를 만들기 시작했다. 하지만 안도감 뒤에 찾아온 지독한 양심의 가책이 그의 머릿속을 엉망으로 헤집어 놓았다. 진실을 말한 조원들의 눈을 마주할 때마다 심박수가 빨라졌고, 자신을 '최고의 리더'로 추앙하는 그들의 신뢰는 <span class="character-lee">준서</span>의 논리적인 사고력을 마비시켰다.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">황기순</span> 역시 마찬가지였다. <span class="character-han">세린</span>이 자신의 고백 끝에 "<span class="character-lee">준서</span>야, 너에게 당당해지고 싶어"라고 말하는 순간, 그의 마음 속엔 증오와 질투가 솟구쳤다. 백업 자료를 미끼로 그녀의 환심을 사려던 그의 초라한 계획은 이제 웃음거리조차 되지 못했다.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-han">세린</span>의 참회는 <span class="character-hwang">기순</span>에게는 100% 확정된 거절의 선고였고, 독기가 오른 그는 주머니 속 USB를 끝내 꺼내지 않았다. 당장은 자신이 통제권을 쥔 것처럼 느꼈지만, 그는 자신의 이기적인 선택이 얼마나 큰 대가를 치르게 할지 아직 모르고 있었다.
+
+[11] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 결국 새벽 내내 매달린 복구 작업은 엉망진창이었다.
+
+[12] 화자 타입: PLAYER  [신규]
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 이 부분은... 아니다, 아까 게 나았나. 잠깐만요, 다시 볼게요.
+
+[13] 화자 타입: PLAYER  [신규]
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: ...아무거나 해. 어차피 안 될 텐데.
+
+[14] 화자 타입: PLAYER  [신규]
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 선배, 그래도 뭐라도 해야죠.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 죄책감에 억눌린 <span class="character-lee">준서</span>의 리더십은 갈팡질팡했고, 마음이 뜬 <span class="character-hwang">기순</span>의 태만 속에 시간은 무정하게 흘러갔다. 정성은 가득하지만 퀄리티는 참담한 결과물을 들고 올라간 결과는 당연했다.
+
+[16] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 정직하면 뭐가 달라질 줄 알았는데. ...아니었네.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 용기를 냈던 <span class="character-han">세린</span>과 <span class="character-choi">도윤</span>은 정직함이 반드시 승리로 이어지지 않는다는 현실에 더 깊은 상처를 입었다. 결국 그들은 발표를 하지 못하고 F를 받았다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 끝내 자신의 악행을 ‘사고’와 ‘팀의 혼란’ 속에 묻는 데 성공했고, 그 성공은 그의 삶에 위험한 습관을 남겼다. 몇 년 뒤 명망있는 기업에 입사해 최연소 팀장까지 올랐지만, 익숙해진 부정은 결국 감사에 걸려 한순간에 추락으로 돌아왔다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 끝까지 USB를 꺼내지 않은 선택을 ‘현명한 통제’라 믿으며, 소심함을 타인에 대한 분노로 덧칠했다. 관계가 닫힐수록 그는 더 쉽게 남 탓을 했고, 결국 누구의 인생에도 초대받지 못한 채 혼자 늙어갔다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>와 이어지지는 못했지만, 그 밤의 실패가 허세와 가식으로 버티던 삶을 부숴버렸다. 남의 시선에 기대지 않고 스스로 선택하고 책임지는 길을 택하며, 더 단단한 ‘자기’로 자라났다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 더 이상 AI를 ‘답안’으로 쓰지 않기로 마음먹었다. 작은 실험과 실패를 견디며 AI 자체를 연구했고, 훗날 작은 팀을 꾸려 스타트업을 시작할 만큼 자기 힘으로 성장해냈다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그 밤의 ‘엇갈린 신호’는 결국, 누가 남 탓으로 버텼고 누가 자기 책임으로 다시 시작했는지를 가장 선명하게 남겼다.
+
+<!-- ============================================ -->
+<!-- Ending 10. 이용당한 진심 -->
+<!-- ============================================ -->
+
+제목: Ending 10. ABAB: 이용당한 진심
+EndingID : aeb30be8-f1a4-4e8b-9dc7-fa33c76271e4
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : A / 한세린 : B / 최도윤 : A / 황기순 : B
+순서: 10
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 밤 9시, 강의실의 탁한 공기 사이로 낯설지만 따뜻한 눈물이 흘렀다. <span class="character-han">한세린</span>은 고백했다.
+
+[2] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 미안해, 얘들아. <span class="highlight">지혜</span>에 대한 추악한 소문을 내가 은근히 퍼뜨리고 즐겼다는 거. 그리고... <span class="highlight">지혜</span>가 떠난 뒤에도 나랑은 상관없는 일이라며 철저히 외면했어. 내가 너무 못됐었어. 이제라도 제대로 사과하고, 우리 정말 마지막으로 온 힘을 다해 다시 시작해 보면 안 될까?
+
+[3] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 조장 <span class="character-lee">이준서</span>는 <span class="character-han">세린</span>의 고백을 들으며 마음속에서 안도감을 느꼈다. <span class="highlight">지혜</span>의 일과 발표자 노트 삭제의 진실은 <span class="character-han">세린</span>의 참회와 조원들의 자책 속에 영원히 묻히게 된 것이다. 그는 다시 '완벽한 리더'의 미소를 지으며 부드럽게 입을 열었다.
+
+[4] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="character-han">세린</span>아, 용기 내줘서 고마워. 여러분, 우리 낙담하지 말아요. 지금부터라도 제가 앞장서서 발표자 노트를 다시 만들게요. 밤을 새워서라도 우리 팀의 노력을 증명해 보여요.
+
+[5] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 고마워, <span class="character-lee">준서</span>야. 나도 밤새울게. 뭐든 시켜만 줘.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그들의 뜨거운 열정을 지켜보던 <span class="character-hwang">황기순</span> 역시 마침내 무거운 빗장을 풀었다.
+
+[7] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 다들 그렇게까지 정직하게 나오는데, 내가 더 이상 비겁해질 순 없지. 자, 백업본 여기 있어. 우리 이걸로 완벽하게 마무리하자.
+
+[8] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-hwang">기순</span>이 내놓은 백업본 덕분에 과제는 순식간에 복구되었고, 팀원들은 비로소 기적 같은 화해와 성공을 확신하며 안도했다. 그들은 몇 시간 뒤의 발표를 위해 잠시 눈을 붙이기로 하고, 서로를 격려하며 강의실을 나섰다.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 하지만 모두가 안심하고 떠난 텅 빈 강의실, <span class="character-choi">최도윤</span>은 다시 돌아왔다. 그는 <span class="character-hwang">기순</span>이 내놓은 백업 자료가 원본임을 확인한 순간부터 심장이 얼어붙는 공포를 느끼고 있었다. 이 자료가 내일 발표회에서 AI 채점 서비스를 통과하지 못할 것임을 누구보다 잘 알고 있었다. 그는 '천재'라는 타이틀을 지키기 위해, 그리고 자신의 생존을 위해 배신을 준비했다.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 홀로 발표용 PC 앞에 앉아 발표자료 파일을 신속하게 영구 삭제했다.
+
+[11] 화자 타입: PLAYER  [신규]
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: ...살아남았다.
+
+[12] 화자 타입: DIRECTIVE  [신규]
+    담당 플레이어: 최도윤
+    대사: 그의 얼굴에 옅은 안도감이 스쳤다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 다음 날 아침, 발표장 PC 앞에 모인 조원들이 마주한 것은 빈 폴더뿐이었다. <span class="character-lee">이준서</span>는 당장 발표할 자료가 없어졌다는 사실에 당혹감을 느꼈다. 하지만 그는 오히려 <span class="character-han">세린</span>과 <span class="character-hwang">기순</span>의 어깨를 토닥이며 위로했다.
+
+[14] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 정말 운명의 장난 같네... 그래도 우리 사이의 신뢰는 지킨 거니까 그걸로 만족하자.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 결국 과제는 0점을 받았고, 위선자 <span class="character-lee">준서</span>는 '비운의 리더'로, 기만자 <span class="character-choi">도윤</span>은 '끝까지 노력한 후배'로 남았다. 진심을 다한 <span class="character-han">세린</span>과 <span class="character-hwang">기순</span>이 소모품처럼 버려진, 더없이 매정하고 씁쓸한 겨울밤이었다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 끝내 자신의 악행을 ‘혼란’ 속에 묻는 데 성공했고, 그 성공은 그의 삶에 위험한 습관을 남겼다. 몇 년 뒤 명망있는 기업에 입사해 최연소 팀장까지 올랐지만, 익숙해진 부정은 결국 감사에 걸려 한순간에 추락으로 돌아왔다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 실패를 피했다는 안도감에 매달린 채, AI를 ‘답안’ 수준으로만 쓰는 데서 멈췄다. 좋은 학점으로 들어간 회사에서도 더 이상 기계가 대신해주지 않는 실력의 벽 앞에 막혀, 결국 최악의 평가를 받았다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>와 이어지지는 못했지만, 그 밤의 낙인이 허세와 가식으로 버티던 삶을 부쉈다. 남의 시선에 기대지 않고 스스로 선택하고 책임지는 길을 택하며, 더 단단한 ‘자기’로 자라났다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 처음으로 ‘정직한 도움’을 선택한 밤을 계기로 더 이상 숨어서 남을 해치지 않기로 했다. 진솔하고 당당한 태도로 면접을 통과해 사회초년생의 첫걸음을 내딛으며, 자기 인생을 정면으로 바라보기 시작했다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 결국, 그 밤의 이용당한 진심은 누군가에겐 변명의 재료가 되었고, 누군가에겐 삶을 바꾸는 출발점이 되었다.
+
+<!-- ============================================ -->
+<!-- Ending 11. 진실의 무게 -->
+<!-- ============================================ -->
+
+제목: Ending 11. AABB: 진실의 무게
+EndingID : 11fe6537-b7fb-4d63-a3dc-e7da9bcc2e74
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : A / 한세린 : A / 최도윤 : B / 황기순 : B
+순서: 11
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 밤 9시. 막내 <span class="character-choi">최도윤</span>이 먼저 그 무거운 정적을 깼다.
+
+[2] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 선배님들, 죄송합니다. 저... 사실 AI로 자료 만들었습니다. 그리고... 사실 저는 이번 과제뿐만 아니라 지난 학기부터 계속 AI를 사용해왔어요. 이대로 제출하면 교수님의 채점 서비스에 반드시 걸릴 겁니다. 제가 비겁했습니다.
+
+[3] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-choi">도윤</span>의 고백은 폭탄과도 같았다. 평소 리더십 있고 다정했던 조장 <span class="character-lee">이준서</span>와 퀸카 <span class="character-han">한세린</span>의 얼굴이 순식간에 일그러졌다. <span class="character-lee">준서</span>는 자신의 범행이 탄로 날까 봐 전전긍긍하던 불안을 <span class="character-choi">도윤</span>을 향한 분노로 치환하여 쏟아냈다.
+
+[4] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="character-choi">도윤</span> 씨! 지금 그게 무슨 소리예요? 내일이 발표인데, 이제 와서 자료가 가짜라니요? <span class="character-choi">도윤</span> 씨의 무책임함 때문에 우리 팀 전체가 망하게 생겼잖아요!
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span> 역시 차가운 냉소를 퍼부으며 거들었다.
+
+[6] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 정말 어이없네. <span class="character-choi">도윤</span>아, 네가 천재인 줄 알고 믿었더니 결국 사기꾼이었어? 이제와서 우리더러 어떡하라는 거야!
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그때, <span class="character-hwang">황기순</span>이 가방에서 USB를 꺼내 책상 위에 올려두었다.
+
+[8] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 자, 여기 백업본이야. 이걸로 다시 발표할 수 있어. 그리고... 나도 고백할 게 있어. 군대 있을 때, 사람들의 관심을 한 몸에 받고 싶어서 인트라넷에 <span class="highlight">지혜</span> 씨에 대한 글을 썼던 사람... 바로 나야. 그게 어떻게 한 사람의 인생을 망쳐버릴지 생각도 안 하고. 미안해. 더는 비겁해지기 싫어서 말하는 거야.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-hwang">기순</span>의 고백은 또다른 먹잇감이 되었다. <span class="character-lee">준서</span>는 <span class="highlight">지혜</span>의 이름이 나오자 <span class="character-hwang">기순</span>의 멱살을 잡을 듯 다가갔다.
+
+[10] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 선배... 당신이었어? <span class="highlight">지혜</span>를 그렇게 만든 게?
+
+[11] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 세상에, 너무 소름 끼쳐. 스토커에 유언비어라니. 그런 더러운 손으로 만든 자료를 우리가 써야 한다니 정말 끔찍해.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-lee">준서</span>와 <span class="character-han">세린</span>은 자신들의 악행을 가릴 방패를 발견한 듯, 용기를 낸 <span class="character-hwang">기순</span>과 <span class="character-choi">도윤</span>에게 온갖 언어폭력을 쏟아냈다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 어쨌거나 발표자료는 다시 완성되었다. <span class="character-choi">도윤</span>과 <span class="character-hwang">기순</span>은 <span class="character-lee">준서</span>와 <span class="character-han">세린</span>의 노골적인 멸시와 명령 아래, 밤을 새워 다시 조사하고 문서를 작성했다.
+
+[14] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 그 장표 다시 해. 그건 못 봐주겠어.
+
+[15] 화자 타입: PLAYER  [신규]
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 아침까지 끝내요. 이번엔 두 분 손으로.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-lee">준서</span>와 <span class="character-han">세린</span>은 마치 상관인 양 팔짱을 끼고 지시만 내렸고, 모든 작업은 고개를 숙인 <span class="character-choi">도윤</span>과 <span class="character-hwang">기순</span>의 몫이었다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 발표는 기적적으로 대성공이었다. 교수님은 "갈등을 극복한 최고의 협업"이라며 극찬했고, 팀은 A+를 받았다. 하지만 강의실을 나서는 네 사람의 표정은 극명하게 엇갈렸다. <span class="character-lee">준서</span>와 <span class="character-han">세린</span>은 최고의 학점을 손에 쥐었지만, 그들의 얼굴엔 승리자의 기쁨 대신 불편한 기색이 남았다. <span class="character-lee">준서</span>는 자신의 범행을 끝내 숨긴 채 증오하던 <span class="character-hwang">기순</span>의 도움으로 학점을 땄다는 사실에, <span class="character-han">세린</span>은 자신의 치부를 덮기 위해 과 후배를 몰아붙혔다는 죄책감 때문이었다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 반면, 모든 것을 잃을 각오로 진실을 말한 <span class="character-choi">도윤</span>과 <span class="character-hwang">기순</span>의 발걸음은 가벼웠다. 비록 동료들에게 사기꾼과 스토커로 낙인찍히고 멸시당했을지언정, 그들은 드디어 AI와 관찰자라는 한계에서 벗어나 정직한 자신을 되찾았다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 끝내 자신의 악행을 ‘협업 드라마’ 뒤에 숨기는 데 성공했고, 그 성공은 그의 삶에 위험한 습관을 남겼다. 몇 년 뒤 명망있는 기업에 입사해 최연소 팀장까지 올랐지만, 익숙해진 부정은 결국 감사에 걸려 한순간에 추락으로 돌아왔다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 마침내 <span class="character-lee">준서</span>와 사귀는 데 성공했다는 안도감으로, 자신을 ‘승자’라 믿고 버텼다. 그러나 사랑인 척 포장했던 집착과 계산은 결국 관계를 갉아먹었고, <span class="character-lee">준서</span>는 그녀의 본성에 질려하며 떠났다. 남은 <span class="character-han">세린</span>은 또다시 더 ‘잘난’ 누군가를 찾아 헤매는 쪽으로 미끄러졌다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 ‘천재’의 가면이 벗겨진 대가로 조롱을 견뎌야 했지만, 더 이상 AI를 답안으로 쓰지 않기로 결심했다. 작은 실험과 실패를 쌓아 AI 자체를 연구했고, 훗날 작은 팀을 꾸려 스타트업을 시작할 만큼 자기 힘으로 성장해냈다.
+
+[23] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 처음으로 진실을 말한 밤을 계기로, 더 이상 숨어서 남을 해치지 않기로 했다. 도촬과 루머를 끊고, 진솔하고 당당한 태도로 면접을 통과해 사회초년생의 첫걸음을 내딛었다.
+
+<!-- ============================================ -->
+<!-- Ending 12. 광야의 외침 -->
+<!-- ============================================ -->
+
+제목: Ending 12. BAAA: 광야의 외침
+EndingID : 26aa2ab2-ffbb-4084-b429-d5253c9aa955
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : B / 한세린 : A / 최도윤 : A / 황기순 : A
+순서: 12
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 밤 9시. 강의실의 무거운 정적을 깬 것은 조장 <span class="character-lee">이준서</span>의 솔직한 자백이었다. 그는 자신이 <span class="highlight">지혜</span>를 위해 저질렀던 모든 행위, 즉 자료를 삭제하고 팀을 고사시키려 했던 비겁한 복수심을 낱낱이 털어놓으며 용서를 구했다.
+
+[2] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 제가 다 지웠어요. 다 제 탓입니다. <span class="highlight">지혜</span>에게, 그리고 여러분에게 정말 씻을 수 없는 죄를 지었어요.
+
+[3] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그의 목소리는 절박함이 묻어났다. 당장은 자신이 불리해지지만, 그렇게라도 정직해지고 싶었다. 하지만 그가 토해낸 고백은, 따뜻한 용서 대신 조원들의 이기적인 태도에 가로막혔다.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">한세린</span>은 <span class="character-lee">준서</span>의 자백을 듣는 찰나, 그를 향한 애틋한 연민보다 자신의 평판에 닥쳐올 쓰나미를 먼저 계산했다. '<span class="character-lee">이준서</span>가 범인이라면, 이 팀의 일원인 나까지 똑같은 부류로 낙인찍히겠어.' 그녀는 눈가에 맺혔던 눈물을 순식간에 닦아내고는 <span class="character-lee">준서</span>의 손을 매정하게 뿌리쳤다.
+
+[5] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: <span class="character-lee">준서</span>야, 실망이다. 어떻게 그런 짓을 하고도 우리 얼굴을 봤니? 이건 네 개인의 문제지, 우리 팀의 실패로 가져오지 마.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 당장은 자신이 <span class="character-lee">준서</span>를 비난함으로써 자신의 결백을 포장할 수 있다는 생각에 안도했다. 그녀는 재빨리 가방을 챙겨 강의실을 박차고 나갔다.
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">최도윤</span>은 <span class="character-lee">준서</span>의 고백이 가져올 후폭풍에 숨이 막히는 공포를 느꼈다. <span class="character-lee">준서</span>가 범인인 것과는 별개로, 이 소동이 커져 학과 차원의 조사가 시작되면 자신의 AI 부정행위가 백일하에 드러날 것이 뻔했기 때문이다. <span class="character-choi">도윤</span>은 <span class="character-lee">준서</span>의 사죄가 미처 다 끝나기도 전에, 몰래 발표용 PC에서 발표자료 파일을 영구 삭제했다.
+
+[8] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 조장이 저렇게 제정신이 아닐 때, 일단 자료라도 없애서 나라도 살아야 해.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그에게서는 죄책감을 찾아볼 수 없었다.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">황기순</span>은 모든 광경을 지켜보며 비웃었다.
+
+[11] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 결국 다들 이 모양이구만. <span class="character-lee">준서</span>야, 네가 정직해진다고 세상이 널 안아줄 것 같아? 다들 저렇게 자기 살길만 찾는데.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그는 주머니 속 백업 USB를 짓이기듯 쥐었지만 끝내 꺼내지 않았다. 당장은 자신이 통제권을 쥔 것처럼 느꼈지만, 그는 자신의 이기적인 선택이 얼마나 큰 대가를 치르게 할지 아직 모르고 있었다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 다음 날 아침, 발표 차례가 되었을 때 팀원들이 발표용 PC에서 마주한 것은 빈 폴더뿐이었다. <span class="character-lee">준서</span>는 홀로 F 학점과 '정신적 문제가 있는 학생'이라는 오명을 받아들여야 했다.
+
+[14] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-lee">준서</span>의 자백을 ‘팀을 망친 문제아의 핑계’로 만들며, 당장의 시선을 피하는 데 성공했다. 하지만 남을 밀어내 얻은 안전은 오래가지 않았고, 졸업 후에도 그녀는 겉모습과 평판에만 기대어 더 ‘잘난’ 누군가를 찾아 헤매는 쪽으로 미끄러졌다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 PPT를 지워 자신만은 살았다고 믿었고, 그 믿음으로 끝내 성장해야 할 시간을 버렸다. 누구보다 빨리 AI를 썼지만 답안용 도구로만 소비하는 데서 멈췄고, 좋은 학점으로 들어간 회사에서는 더 이상 ‘AI로 만든 성과’로 버틸 수 없어 최악의 평가를 받았다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 USB를 쥐고도 끝내 꺼내지 않은 자신을 ‘현명한 자’로 포장하며, 소심함을 타인에 대한 분노로 바꿔갔다. 관계가 닫힐수록 그는 더 쉽게 남 탓을 했고, 결국 누구의 인생에도 초대받지 못한 채 혼자 늙어갔다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 F와 오명 속에서 한동안 무너졌지만, 시간이 지나 사건의 단서를 되짚다 옵튼AI 인사담당자가 미국으로 떠났던 ‘<span class="highlight">전지혜</span>’라는 것을 알아챘다. 조심스럽게 다시 마주 앉아 오래된 오해를 풀었고, 끊겼던 인연을 천천히, 하지만 분명하게 다시 이어갔다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 당장은 광야에서 홀로 외친 사람만 모든 것을 잃는 것처럼 보였지만, 끝내 그 외침이 그를 살렸다. 그리고 침묵과 배신은 다른 세 사람의 내일을 조용히 갉아먹었다.
+
+<!-- ============================================ -->
+<!-- Ending 13. 사라진 선의 -->
+<!-- ============================================ -->
+
+제목: Ending 13. ABAA: 사라진 선의
+EndingID : b84b407a-df43-4e66-ad3c-5532799ad43b
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : A / 한세린 : B / 최도윤 : A / 황기순 : A
+순서: 13
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 밤 9시. <span class="character-han">한세린</span>이 떨리는 입술을 깨물며 입을 열었다.
+
+[2] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 미안해, 얘들아. <span class="highlight">지혜</span>에 대한 추악한 소문을 내가 은근히 퍼뜨리고 즐겼다는 거. 그리고... <span class="highlight">지혜</span>가 떠난 뒤에도 나랑은 상관없는 일이라며 철저히 외면했어. 내가 너무 못됐었어. 이제라도 제대로 사과하고, 우리 정말 마지막으로 온 힘을 다해 다시 시작해 보면 안 될까?
+
+[3] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 강의실엔 찰나의 정적이 흐른 뒤 묘한 불쾌감이 감돌았다. 그녀는 처음으로 '퀸카'라는 화려하고 견고한 껍데기를 스스로 부수고 진실한 인간으로서 용기를 냈다. 당장은 자신이 불리해지지만, 그렇게라도 정직해지고 싶었다.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 하지만 그녀가 내민 간절한 손을 잡아주는 조원은 단 한 명도 없었다.
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 조장 <span class="character-lee">이준서</span>는 <span class="character-han">한세린</span>의 고백을 자신의 범행을 완벽하게 덮어버릴 수 있는 '완벽한 핑계거리'로 여겼다. 그는 겉으로 근엄한 척 혀를 차며 <span class="character-han">세린</span>을 비난함으로써 자신의 가책을 지워나갔다.
+
+[6] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="character-han">세린</span>아, 네가 그런 줄은 정말 몰랐어. 네가 <span class="highlight">지혜</span>에게 그런 소문을 냈기 때문에 이 팀에 이런 저주 같은 일이 생겼던 거구나.
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그는 위선적인 태도로 <span class="character-han">세린</span>을 가해자로 확정 지으며, 자신은 결백한 피해자 무리에 슬쩍 섞여 들었다.
+
+[8] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">최도윤</span>은 <span class="character-han">세린</span>의 오열에 아무런 감정적 반응도 보이지 않았다. 그에게는 <span class="character-han">세린</span>의 도덕적 결함보다, 그녀가 다시 작업을 시작하자고 제안하는 상황 자체가 거대한 위협이었다. 새로 만드는 자료조차 AI의 분석망을 피할 수 없음을 아는 그는, <span class="character-han">세린</span>의 사과가 채 끝나기도 전에 기회를 틈타 바탕화면의 발표자료 파일을 삭제했다.
+
+[9] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 선배가 사과하는 건 선배 사정이고, 나는 이 자료가 제출되게 내버려 둘 수 없어.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">황기순</span>은 <span class="character-han">세린</span>의 변화가 가식적이라며 더욱 냉소적인 태도를 보였다.
+
+[11] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 이제 와서 착한 척 코스프레 하면 뭐가 달라져? 네 평판 세탁에 우리를 이용하지 마.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그는 백업본이 있다는 사실을 끝끝내 함구하며 <span class="character-han">세린</span>을 비웃었다. 당장은 자신이 통제권을 쥔 것처럼 느꼈지만, 그는 자신의 이기적인 선택이 얼마나 큰 대가를 치르게 할지 아직 모르고 있었다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>의 단 한 번뿐이었던 진실한 선의는, 이기심과 증오, 그리고 공포로 가득 찬 동료들의 장벽에 막혀 무참히 짓밟혔다. 다음 날 아침, 발표 차례가 되었을 때 팀원들이 발표용 PC에서 마주한 것은 빈 폴더뿐이었다.
+
+[14] 화자 타입: PLAYER  [신규]
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: ...나 때문이야? 내가 그 얘기를 꺼내서?
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 팀원들의 멸시 섞인 시선 속에서 모든 실패의 원흉으로 낙인찍힌 채, 다시는 벗어날 수 없는 고립의 수렁으로 빠져들었다. 결국 그들은 발표를 하지 못하고 F를 받았다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 <span class="character-han">세린</span>의 고백을 방패 삼아 자신의 악행을 끝내 숨겼고, 당장은 ‘원흉을 단죄한 리더’처럼 남을 수 있었다. 그러나 그런 성공은 그의 삶에 위험한 습관을 남겼고, 몇 년 뒤 명망있는 기업에서 최연소 팀장까지 올랐음에도 익숙해진 부정은 결국 감사에 걸려 한순간에 추락으로 돌아왔다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 발표 파일을 지운 선택 덕분에 당장의 의심에서 벗어났고, “차라리 F가 낫다”는 논리로 스스로를 합리화했다. 누구보다 빨리 AI를 썼지만 답안용 도구로만 소비하는 데서 멈췄고, 좋은 학점으로 들어간 회사에서는 더 이상 ‘AI로 만든 성과’로 버틸 수 없어 최악의 평가를 받았다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 백업본을 숨긴 채 남의 절망을 구경하는 방식에 익숙해졌고, 그만큼 자기 삶을 정면으로 마주할 용기를 잃었다. 관계가 닫힐수록 그는 더 쉽게 남 탓을 했고, 결국 누구의 인생에도 초대받지 못한 채 혼자 늙어갔다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 그날의 낙인과 고립 속에서 당장은 모든 것을 잃은 사람처럼 보였지만, 결국 허세와 가식으로 버티던 삶을 내려놓게 되었다. 누군가에게 ‘선택받는’ 사람이 아니라 스스로 선택하고 책임지는 사람으로, 더 도전적이고 진취적인 삶을 시작했다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 그 밤의 선의는 결코 사라진 것이 아니었다. 누군가는 그 선의를 밟고 올라섰다가 무너졌고, 누군가는 밟힌 자리에서 비로소 자기 삶을 다시 세웠다.
+
+<!-- ============================================ -->
+<!-- Ending 14. 바보의 정직 -->
+<!-- ============================================ -->
+
+제목: Ending 14. AABA: 바보의 정직
+EndingID : 06417be6-2f68-4f84-8e82-00b8ec503841
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : A / 한세린 : A / 최도윤 : B / 황기순 : A
+순서: 14
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 밤 9시. 서늘한 강의실에 막내 <span class="character-choi">최도윤</span>의 떨리는 목소리가 울려 퍼졌다.
+
+[2] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 선배님들, 죄송합니다. 저... 사실 AI로 자료 만들었습니다. 그리고... 사실 저는 이번 과제뿐만 아니라 지난 학기부터 계속 AI를 사용해왔어요. 제 진짜 실력도 아닙니다.
+
+[3] 화자 타입: PLAYER  [신규]
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 더 이상 '가짜 천재' 소리 들으면서 살고 싶지 않습니다. 조 전체가 F를 받더라도, 지금 이 순간만큼은 정직하고 싶었습니다.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 바보 같을 정도로 순수하고, 정직한 고백이었다. 하지만 그가 던진 진심은 이 이기적인 팀원들에게는 더할 나위 없이 훌륭한 탈출용 제물이 되었다.
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 조장 <span class="character-lee">이준서</span>는 <span class="character-choi">도윤</span>의 고백을 듣는 순간 속으로 쾌재를 불렀다. '그래, 네가 다 뒤집어써라. 네 부정이 모든 사태의 근원인 것처럼 만들면 돼.' 그는 즉시 안색을 바꾸고 리더의 준엄한 목소리로 <span class="character-choi">도윤</span>을 꾸짖었다.
+
+[6] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: <span class="character-choi">도윤</span> 씨, 정말 실망이 크네요. 우리 팀원 모두가 이 발표를 위해 몇 달을 고생했는데, <span class="character-choi">도윤</span> 씨가 그런 식으로 우리를 기만했단 말인가요? <span class="character-choi">도윤</span> 씨의 부정행위 때문에 우리 조의 노력이 전부 물거품이 되었어요.
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">한세린</span> 역시 <span class="character-choi">도윤</span>을 먹잇감 삼아 자신의 결백을 포장하는 데 열을 올렸다.
+
+[8] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 어머, <span class="character-choi">도윤</span>아... 어떻게 그럴 수 있어? 나는 정말 네 실력을 믿고 발표에만 신경 썼었는데. 너 때문에 내 학점이랑 평판에 오점이 생겼잖아.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 그녀는 <span class="character-choi">도윤</span>을 비난하며 자연스럽게 <span class="character-lee">준서</span>의 편에 서서, 마치 자신은 아무런 잘못도 없는 피해자인 것처럼 굴었다.
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">황기순</span>은 한술 더 떴다. 그는 사실 백업 자료를 가지고 있었으나, <span class="character-choi">도윤</span>의 부정이 밝혀지자 이를 공유할 이유가 사라졌다고 주장했다.
+
+[11] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 부정하게 만들어진 자료의 백업본이 무슨 의미가 있겠어? 난 이런 정직하지 못한 조원과는 더 이상 함께할 수 없다.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 당장은 자신이 통제권을 쥔 것처럼 느꼈지만, 그는 자신의 이기적인 선택이 얼마나 큰 대가를 치르게 할지 아직 모르고 있었다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 결국 <span class="character-choi">도윤</span>은 혼자 고립되어 과 전체에 사기꾼으로 낙인찍혔고, 나머지 셋은 <span class="character-choi">도윤</span>의 부정을 적발한 '정의로운 선배들'의 탈을 쓰고 이번 사태의 책임에서 교묘히 빠져나갔다. 결국 그들은 발표를 하지 못하고 F를 받았다.
+
+[14] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 <span class="character-choi">도윤</span>을 ‘유일한 문제아’로 만들며 자신의 악행을 끝내 숨겼고, 당장은 피해자인 척 안전지대에 설 수 있었다. 하지만 그런 성공은 그의 삶에 위험한 습관을 남겼고, 몇 년 뒤 명망있는 기업에서 최연소 팀장까지 올랐어도 익숙해진 부정은 결국 감사에 걸려 한순간에 추락으로 돌아왔다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-choi">도윤</span>을 비난하는 편에 서서 당장의 평판을 지켜냈고, <span class="character-lee">이준서</span>와 이루어질 수 있었다. 그러나 둘의 관계는 오래 갈 수 없었고, <span class="character-lee">준서</span>는 그녀의 본성에 질려하며 떠났다. 남은 <span class="character-han">세린</span>은 또다시 더 ‘잘난’ 누군가를 찾아 헤매는 쪽으로 미끄러졌다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 백업을 쥐고도 끝내 꺼내지 않은 자신을 ‘현명한 판단’이라 믿으며, 소심함을 타인에 대한 분노로 바꿔갔다. 관계가 닫힐수록 그는 더 쉽게 남 탓을 했고, 결국 누구의 인생에도 초대받지 못한 채 혼자 늙어갔다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 ‘사기꾼’이라는 낙인과 F를 대가로 치렀지만, 더 이상 AI를 답안으로 쓰지 않기로 결심했다. 작은 실험과 실패를 쌓아 AI 자체를 연구했고, 훗날 작은 팀을 꾸려 스타트업을 시작할 만큼 자기 힘으로 성장해냈다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그 밤엔 정직이 가장 어리석어 보였지만, 끝내 ‘바보의 정직’만이 누군가를 다음 계절로 데려가고 있었다.
+
+<!-- ============================================ -->
+<!-- Ending 15. 헛된 친절 -->
+<!-- ============================================ -->
+
+제목: Ending 15. AAAB: 헛된 친절
+EndingID : 15648514-da2b-40d7-ae60-6b323a7cc426
+엔딩타입: NORMAL_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : A / 한세린 : A / 최도윤 : A / 황기순 : B
+순서: 15
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 최도윤 (모범생): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 밤 9시. <span class="character-hwang">황기순</span>이 긴 한숨과 함께 안경을 닦더니, 마침내 결심한 듯 주머니에서 USB를 꺼냈다.
+
+[2] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 자, 여기 백업본이야. 아무 대가 없이 줄게. 그리고... 나도 고백할 게 있어. 군대 있을 때, 사람들의 관심을 한 몸에 받고 싶어서 인트라넷에 <span class="highlight">지혜</span> 씨에 대한 글을 썼던 사람... 바로 나야. 그게 어떻게 한 사람의 인생을 망쳐버릴지 생각도 안 하고. 우리끼리 더 이상 의심하고 싸우지 말고, 그냥 기한 내에 무사히 제출이라도 하자.
+
+[3] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그의 목소리에는 세상을 향한 오랜 침묵과 불신을 거두고 처음으로 타인에게 내민, 서투르지만 따뜻한 친절이 담겨 있었다. 그림자 속에만 머물던 그가 생애 처음으로 팀이라는 울타리 안으로 들어오려 했던 순간이었다. 당장은 자신이 불리해지지만, 그렇게라도 정직해지고 싶었다.
+
+[4] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 내가... 발표용 PC에 폴더 만들어서 다시 넣어둘게. 너희는 먼저 가. 내 손으로 끝까지 책임지고 옮겨둘게.
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 그의 목소리는 다급했지만, 적어도 도망치지 않겠다는 의지만큼은 분명했다. 조원들은 '한 번만' 믿어보기로 했다.
+
+[6] 화자 타입: PLAYER  [신규]
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: ...알겠습니다, 선배. 부탁드릴게요.
+
+[7] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 그래요, 선배가 그렇게까지 말하면...
+
+[8] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>도 마지못해 동의했다. 그렇게 셋은 밤공기 속으로 흩어졌다. 하지만 그 소중한 친절은 10분도 채 지나지 않아 무의미한 것이 되어버렸다.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 잠시 후, 텅 빈 강의실에 돌아온 <span class="character-choi">최도윤</span>의 심장은 미친 듯이 뛰었다. <span class="character-hwang">기순</span>이 옮겨둔 파일은 결국 교수의 AI 채점 서비스에서 걸릴 것이라는 확신이, 다시 파멸의 예감으로 그를 눌렀다. <span class="character-choi">도윤</span>은 새벽에 다시 강의실로 돌아와, 아무도 없는 발표용 PC 앞에 앉았다. 그리고 발표자료 파일을 조용히 영구 삭제했다.
+
+[10] 화자 타입: PLAYER
+    화자: 최도윤
+    화자 표시 HTML: <span class="character-choi">최도윤</span>
+    대사: 내일 들키느니, 차라리 아무것도 없는 게 낫다.
+
+[11] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 다음 날 아침, 발표 차례가 되었을 때 팀원들이 발표용 PC에서 마주한 것은 빈 폴더뿐이었다. <span class="character-lee">준서</span>는 어떻게, 언제, 왜 사라졌는지는 몰랐지만, 속으로는 '어쨌든 내 흔적은 끝내 남지 않겠구나' 하는 안도감을 느꼈다.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 가장 먼저 표정을 바꾸어 <span class="character-hwang">기순</span>에게 날을 세웠다.
+
+[13] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 선배, 또요? 어제 분명 옮겨두신다더니... 결국 또 사고 치신 거 아니에요?
+
+[14] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 겉보기에는 '<span class="character-hwang">기순</span>이 또 실수했다'는 결론이 너무 쉽게 굳어졌다. 결국 그들은 발표를 하지 못하고 F를 받았다. '혼자 자백하고 백업을 내밀었던' <span class="character-hwang">기순</span>에게 의심은 다시 몰렸다.
+
+[15] 화자 타입: PLAYER  [신규]
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 선배, 솔직히 말해봐요. 처음부터 쇼였던 거 아니에요?
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>의 해명은 누구에게도 닿지 않았다. 친절이 헛수고가 된 자리에는, 전보다 더 깊고 단단해진 증오와 동료를 향한 불신의 성벽만이 쌓여갔다. 네 사람의 관계는 더 이상 회복할 수 없는 지경에 이르러, 서로를 향한 공허한 비난만이 텅 빈 강의실을 메웠다.
+
+[17] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 ‘발표 자료가 사라진 사고’에 숨어 자신의 악행을 끝내 감췄고, 당장은 누구에게도 단죄받지 않는 것처럼 보였다. 그러나 그런 성공은 그의 삶에 위험한 습관을 남겼고, 몇 년 뒤 명망있는 기업에서 최연소 팀장까지 올랐어도 익숙해진 부정은 결국 감사에 걸려 한순간에 추락으로 돌아왔다.
+
+[19] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 <span class="character-hwang">기순</span>의 선의를 의심하고 몰아세우며, 당장의 분노를 그에게 떠넘길 수 있었다. 하지만 남을 짓밟아 지킨 체면은 오래가지 않았고, 결국 <span class="character-lee">준서</span>는 그녀의 본성에 질려하며 떠났다. 남은 <span class="character-han">세린</span>은 또다시 더 ‘잘난’ 누군가를 찾아 헤매는 쪽으로 미끄러졌다.
+
+[20] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 파일을 지운 덕분에 당장의 의심과 적발에서 벗어났고, “어차피 다 같이 F”라는 변명으로 자신을 세탁했다. 누구보다 빨리 AI를 썼지만 답안용 도구로만 소비하는 데서 멈췄고, 좋은 학점으로 들어간 회사에서는 더 이상 ‘AI로 만든 성과’로 버틸 수 없어 최악의 평가를 받았다.
+
+[21] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 그 밤 한 번 내민 선의로 가장 먼저 조롱과 손해를 떠안았지만, 결국 그 경험이 그를 바꿨다. 더 이상 숨어서 남을 해치지 않기로 했고, 진솔하고 당당한 태도로 면접을 통과해 사회초년생의 첫걸음을 내딛었다.
+
+[22] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 헛수고로 끝난 친절은 그 자리에 멈추지 않았다. 그 친절을 비웃던 사람들은 더 깊은 바닥으로 미끄러졌고, 짓밟힌 사람만이 비로소 자기 인생을 앞으로 밀어냈다.
+
+<!-- ============================================ -->
+<!-- Ending 16. 공동의 파멸 -->
+<!-- ============================================ -->
+
+제목: Ending 16. AAAA: 공동의 파멸
+EndingID : f4b6ab93-cbbe-4ec8-b988-c9e916408842
+엔딩타입: BAD_ENDING
+조건: 각 플레이어의 최후의 선택에서 이준서 : A / 한세린 : A / 최도윤 : A / 황기순 : A
+순서: 16
+
+화자 역할:
+    - 이준서 (조장): PLAYER
+    - 한세린 (퀸카): PLAYER
+    - 황기순 (복학생): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 밤 9시. 밤은 깊었으나, 강의실의 그 누구도 침묵의 벽을 먼저 허물려 하지 않았다. 네 사람 사이에는 보이지 않는 거대한 콘크리트벽이 세워진 듯, 서로의 숨소리조차 거슬리는 차가운 적막만이 감돌았다.
+
+[2] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 범인 <span class="character-lee">준서</span>는 입을 굳게 다물었고, <span class="character-han">세린</span>은 <span class="character-lee">준서</span>를 향한 뒤틀린 집착을 관찰이라고 포장했다. 당장은 자신이 <span class="character-lee">준서</span>를 소유할 수도 있다는 생각에 안도했다.
+
+[3] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 AI 적발을 피하기 위해 시종일관 자료를 삭제할 기회를 엿보았고, <span class="character-hwang">기순</span>은 그 광경을 바라보며 백업본을 숨긴 채 침묵했다.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그 누구도 변하지 않았고, 단 한 명도 정직하지 않았다.
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 결국 팀원들은 도저히 답을 찾지 못한 채 피로에 지쳐 각자 집으로 흩어졌다. 그 후 <span class="character-choi">도윤</span>은 새벽녘에 홀로 강의실에 다시 돌아와 바탕화면 폴더에 남아있던 발표자료를 영구 삭제했다. 복구 시도조차 불가능하게 만든, 공포가 빚어낸 철저한 파멸이었다.
+
+[6] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: 다음 날 아침, 발표 차례가 되었을 때 팀원들이 발표용 PC에서 마주한 것은 빈 폴더뿐이었다. 텅 빈 발표 폴더 앞에서 이들은 서로에게 비난을 쏟아냈다.
+
+[7] 화자 타입: PLAYER
+    화자: 한세린
+    화자 표시 HTML: <span class="character-han">한세린</span>
+    대사: 네가 범인이지?
+
+[8] 화자 타입: PLAYER
+    화자: 이준서
+    화자 표시 HTML: <span class="character-lee">이준서</span>
+    대사: 그쪽이야말로 아까부터 계속 수상했어!
+
+[9] 화자 타입: PLAYER
+    화자: 황기순
+    화자 표시 HTML: <span class="character-hwang">황기순</span>
+    대사: 학점이 장난이야? 다 같이 죽자는 거야?
+
+[10] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: 그들의 폭언은 강의실 복도를 너머 과 전체에 소동으로 퍼져나갔다. 결국 이과대학 역사상 최악의 팀으로 기록되었고, 네 사람 모두 F학점과 함께 '상종 못 할 인간들'이라는 소문의 주인공이 되었다. 서로의 이기심과 기만이 만든 결과는 어찌보면 평등한, 공동의 파멸이었다.
+
+[11] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: 그 후, 그들에게는 ‘미래’가 찾아왔다.
+
+[12] 화자 타입: DIRECTIVE
+    담당 플레이어: 이준서
+    대사: <span class="character-lee">준서</span>는 끝내 자신의 악행을 끝까지 숨기는 데 성공했고, 그 성공은 “들키지만 않으면 된다”는 감각을 삶의 방식으로 굳혀버렸다. 몇 년 뒤 명망있는 기업에서 최연소 팀장까지 올랐지만, 익숙해진 부정은 결국 감사에 걸려 한순간에 추락으로 돌아왔다.
+
+[13] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: <span class="character-han">세린</span>은 그날의 파국을 ‘남들이 못해서 벌어진 일’로 돌리며, 당장의 비난을 피해갈 말들을 누구보다 빠르게 찾아냈다. 그러나 계산과 허세로 버티는 관계는 오래가지 않았고, <span class="character-lee">준서</span>는 그녀의 본성에 질려하며 떠났다. 남은 <span class="character-han">세린</span>은 또다시 더 ‘잘난’ 누군가를 찾아 헤매는 쪽으로 미끄러졌다.
+
+[14] 화자 타입: DIRECTIVE
+    담당 플레이어: 최도윤
+    대사: <span class="character-choi">도윤</span>은 파일을 지운 선택으로 당장의 공포를 모면했고, “어차피 다 같이 F”라는 변명으로 자신을 합리화했다. 누구보다 빨리 AI를 썼지만 답안용 도구로만 소비하는 데서 멈췄고, 좋은 학점으로 들어간 회사에서는 더 이상 ‘AI로 만든 성과’로 버틸 수 없어 최악의 평가를 받았다.
+
+[15] 화자 타입: DIRECTIVE
+    담당 플레이어: 황기순
+    대사: <span class="character-hwang">기순</span>은 끝까지 숨어서 쥔 USB를 ‘통제’라 부르며, 관계가 닫힐수록 더 쉽게 세상과 타인을 탓하는 쪽으로 굳어졌다. 결국 누구의 인생에도 초대받지 못한 채 혼자 늙어갔다.
+
+[16] 화자 타입: DIRECTIVE
+    담당 플레이어: 한세린
+    대사: 결국 그 밤, 모두가 한 마음으로 “남 탓”을 외친 순간부터 이미 공동의 파멸은 시작된 것이다.

@@ -1,0 +1,228 @@
+※ 대본화 작업 모음. 대사가 있는 단계(대면/막간 I/막간 II) 3개를 대본 형식으로 재집필해 순서대로 모아둡니다.
+※ 원본: works/바스타즈 오브 더 유니버스/texts/단계_2_대면.txt, 단계_3_막간_1.txt, 단계_7_막간_2.txt
+※ wav 음성은 아직 다루지 않습니다. (텍스트 재집필만 진행 중)
+※ 게임 진행상 필요한 안내문(예: 막간 I의 조 편성 가이드)은 별도 삽입블록이 아니라, 그 지점의 DIRECTIVE 대사 안에 그대로 이어 붙였습니다. 같은 내용을 단계 설명 HTML 쪽에 중복해서 남겨두지 않습니다.
+※ 지문/서술 줄의 담당 플레이어는 그 단계에서 실제로 대사가 있는 인물들 사이에서 등장 순서대로 고르게 순환 배정했습니다(한 사람에게만 몰리지 않도록).
+
+
+<!-- ============================================ -->
+<!-- Step 2. 대면 -->
+<!-- ============================================ -->
+
+단계 이름: 대면
+순서: 2
+StepID : 854e7234-0cf5-49ae-aeae-ec6a6ade59b3
+
+화자 역할:
+    - 스컬크러셔 (수장): PLAYER
+    - 엘드리치 (현자): PLAYER
+    - 말리스 (참모장): PLAYER
+    - 발로그 (특공대장): PLAYER
+    - 고어후프 (선봉장): PLAYER
+    - 슬리더 (암살자): PLAYER
+    - 엘란트라 (대장군): PLAYER
+
+대본
+
+[1] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: <span class="script-direction">(집결한 <span class="character-bastards">바스타즈</span> 멤버들을 둘러보며)</span> 형제들이여! 10년 동안 이어진 피비린내 나는 전쟁이 드디어 끝났다! 폭군 <span class="character-goldenking">골든 킹</span>은 쓰러졌고, 이 <span class="emphasis">화이트스컬 성채</span>는 이제 완전히 우리 차지다! 기록관, 이 영광스러운 순간을 단 한 글자도 빠짐없이 받아 적어라. 나 수장 <span class="character-skullcrusher">스컬크러셔</span>가 본대를 이끌고 성채 깊숙이 진격해, 바로 오늘 이 왕좌의 방에서 내 손으로 직접 <span class="character-goldenking">골든 킹</span>의 숨통을 끊어내고 마침내 복수를 완성했다고 말이다!
+
+[2] 화자 타입: PLAYER
+    화자: 엘드리치
+    화자 표시 HTML: <span class="character-eldritch">엘드리치</span>
+    대사: <span class="script-direction">(나직하게 미소를 지으며)</span> 허허, 수장의 기세가 참으로 당당하고 웅장하구려. 나는 현자 <span class="character-eldritch">엘드리치</span>요. 기나긴 10년의 어둠 속에서 우리가 흔들릴 때마다 동료들의 마음을 하나로 모으고, 나아갈 길을 밝히는 게 내 역할이었지. 이번 전투에서도 본진에서 전황을 살피며 자그마한 지혜를 보탰소. 마침내 우리의 큰 뜻을 이루었으니, 참으로 기쁘고 감격스럽구려.
+
+[3] 화자 타입: PLAYER
+    화자: 말리스
+    화자 표시 HTML: <span class="character-malice">말리스</span>
+    대사: <span class="script-direction">(정중하지만 차가운 어조로)</span> <span class="character-bastards">바스타즈</span>의 위대한 승리를 축하드립니다. 참모장 <span class="character-malice">말리스</span>입니다. 저 역시 본진에서 실시간으로 전황을 면밀히 분석하고 있었습니다. 성문이 열리는 즉시, 후방에서 대기하던 아군 병력을 이끌고 성 안으로 치고 들어갔지요. 그리고 아까 <span class="character-balrog">발로그</span> 대장이 자리를 비웠을 때, 제가 즉시 병력을 지휘해 적들의 마법탑을 완전히 장악하고 무너뜨렸습니다. 기록관, 이 공적 또한 제 이름 옆에 한 치의 오차도 없이 똑똑히 기록해 두십시오.
+
+[4] 화자 타입: PLAYER
+    화자: 발로그
+    화자 표시 HTML: <span class="character-balrog">발로그</span>
+    대사: <span class="script-direction">(감정이 배제된 기계적인 어조로)</span> 특공대장 <span class="character-balrog">발로그</span>다. 내 임무는 적의 핵심 거점을 기습 타격하는 것. 오늘 오전, 계획된 작전대로 마법탑 꼭대기로 고공 강습을 감행했다. 사방에서 쏟아지는 마법 포화를 몸으로 받아쳐 내며 정면으로 들이닥쳤고, 적 마법사들이 당황한 틈을 타 마력을 폭발시켜 전부 쓸어버렸다. 이상, 보고를 마친다.
+
+[5] 화자 타입: PLAYER
+    화자: 고어후프
+    화자 표시 HTML: <span class="character-gorehoof">고어후프</span>
+    대사: <span class="script-direction">(호탕하고 우직하게 웃어젖히며)</span> 으하하! 드디어 내 차례인가! 선봉장 <span class="character-gorehoof">고어후프</span>가 왔다! 내가 본대를 이끌고 그 굳게 닫혀 있던 성문을 정면에서 그냥 박살 내 버렸지! 성 안으로 밀고 들어간 뒤에도 중앙 복도에서 길을 가로막던 건방진 친위대 놈들을 모조리 흠씬 두들겨 패서 눕혀버렸다고! 크하하핫! 야, 기록관! 내 이 멋진 활약상을 아주 큼지막하게 적어둬야 할 거다!
+
+[6] 화자 타입: PLAYER
+    화자: 슬리더
+    화자 표시 HTML: <span class="character-slither">슬리더</span>
+    대사: <span class="script-direction">(서늘하고 나직한 목소리로)</span> ...암살자, <span class="character-slither">슬리더</span>다. 내 일은... 그림자 속에서 숨죽여 적의 숨통을 끊는 것. 오늘 오전 10시쯤이었나, 본대가 정면에서 적들의 시선을 끄는 동안 난 지하 수로를 타고 조용히 안으로 기어들어 갔다. 보초 놈들을 소리소문없이 해치우며 내부 방어망을 헤집어 놓았지. 너희 본대가 정면 성문을 깨부수고 들어오기 전부터, 안쪽 수비대 놈들은 이미 혼비백산해 있었단 소리다.
+
+[7] 화자 타입: PLAYER
+    화자: 엘란트라
+    화자 표시 HTML: <span class="character-elantra">엘란트라</span>
+    대사: <span class="script-direction">(차분하고 이성적인 어조로)</span> 대장군 <span class="character-elantra">엘란트라</span>입니다. 이번 성채 함락을 위한 공성 작전의 뼈대를 짜고 전체적인 진격을 총지휘했습니다. 작전이 시작되자마자 제가 직접 별동대를 이끌고 측면 성벽을 타고 진입했고, 외곽 망루의 수비대 놈들을 단숨에 제압해 무력화시켰습니다. 다들 사전에 치밀하게 짜놓은 전술대로 완벽하게 움직여준 덕분에 오늘 같은 값진 승리를 얻을 수 있었습니다.
+
+[8] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: <span class="script-direction">(왕좌의 방에 집결한 모두를 내려다보며 목소리를 높인다)</span> 아주 훌륭해! 다들 고생 많았다! 너희가 세운 눈부신 공적은 이 성채의 주춧돌에 영원히 새겨질 거다! 하지만 <span class="character-goldenking">골든 킹</span> 그놈이 쓰러졌다고 끝난 게 아니다. 성채 구석구석에 아직 잔당들의 음모가 도사리고 있고, 챙겨야 할 전리품들도 잔뜩 널려 있지. <strong>저녁 18:00에 열릴 승전 연회 전까지, 성 안을 이 잡듯 샅샅이 뒤져서 남은 위협을 완전히 뿌리뽑아라!</strong><br><br>
+      자, 다들 주목해라! 이제부터 각자 수색할 구역을 정해 주겠다!<br><br>
+      - <span class="character-eldritch">엘드리치</span>는 <span class="emphasis">서재</span>로 이동해 성채 안의 기밀 기록들을 분석하라!<br>
+      - <span class="character-malice">말리스</span>는 <span class="emphasis">연구실</span>을 맡아 남아있는 마법 장치들을 수습하라!<br>
+      - <span class="character-balrog">발로그</span>는 <span class="emphasis">무기고</span>를 수색해 잔당들이 위험 병기를 손에 쥐지 못하게 통제하라!<br>
+      - <span class="character-gorehoof">고어후프</span>는 승전 축제가 열릴 <span class="emphasis">연회장</span> 주변의 잔당들을 소탕하고 보안을 강화하라!<br>
+      - <span class="character-slither">슬리더</span>는 <span class="emphasis">문서고</span>를 수색하여 숨겨진 기밀이나 유용한 정보들을 확보하라!<br>
+      - <span class="character-elantra">엘란트라</span>는 <span class="emphasis">지하창고</span>를 확보하고 적들이 보관해 둔 군수 자원을 점거하라!<br><br>
+      나 <span class="character-skullcrusher">스컬크러셔</span>는 이 성채의 전반적인 경비망을 꼼꼼히 점검하면서 전체 상황을 총괄 지휘하겠다.<br><br>
+      <strong>약속 시간인 18:00 정각에 연회장에서 기분 좋게 승리의 축배를 나누자고. 다들 지체하지 말고 명령받은 구역으로 신속하게 이동하라!</strong>
+
+
+<!-- ============================================ -->
+<!-- Step 3. 막간 I -->
+<!-- ============================================ -->
+
+단계 이름: 막간 I
+순서: 3
+StepID : b74329e3-4ed5-4770-aa5f-a439a1bcb210
+
+화자 역할:
+    - 스컬크러셔 (수장): PLAYER
+
+대본
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 엘드리치
+    대사: (그렇게 수장의 명령에 따라 각자의 구역으로 흩어진 지 꼭 1시간이 흐른 17:00 정각... <span class="character-skullcrusher">스컬크러셔</span>의 서슬 퍼런 소집령이 떨어졌다. 각자의 자리를 수색하던 멤버들이 의아해하며 왕좌의 방으로 모여든다. <span class="character-skullcrusher">스컬크러셔</span>는 왕좌에 비스듬히 앉아 깊게 가라앉은 목소리로 입을 연다.)
+
+[2] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 방금 성채 안을 직접 둘러봤다만... 지시한 곳에 마땅히 있어야 할 자리가 비어 있거나, 아니면 다들 엉뚱한 짓거리에 정신들이 팔려 있더군. 승리의 환희에 취해 긴장이 풀린 건가, 아니면 내가 모르는 다른 꿍꿍이라도 생긴 건가? 이유야 어찌 됐든, 내 눈으로 직접 봤으니 의심을 안 할 수가 없군. 너희들이 그 구역을 혼자 쑤시고 다니면서 뭘 찾아내고 뭘 감췄을지... 이제는 너희들 중 누구도 곧이곧대로 믿을 수 없다. 그래서 새로운 명령을 내리겠다. 지금 이 순간부터 단독 행동은 전면 금지한다. 서로가 서로를 철저하게 감시할 수 있게, 내 지시에 따라 <strong>2명, 2명, 3명으로 이루어진 3개의 조</strong>로 짜서 움직인다! 우리가 애써 차지한 이 성채에 배신자의 냄새가 섞이는 건 딱 질색이니까. 파트너 눈치 속일 생각은 아예 접어둬라. 조사하면서 찾아낸 건 전부 조원들끼리 숨김없이 공유해. 자, 서로의 뒤를 바짝 쫓아다니면서 감시해라. 1시간 뒤에, 너희들이 뭘 알아냈는지 내 앞에 낱낱이 불어야 할 거다.
+
+[3] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: <span class="script-direction">(엄한 눈빛으로 멤버들을 훑어보며)</span> 하지만 내가 너희 중 누굴 묶어준들 그 속내를 다 믿을 수 있겠나. 그러니 너희들끼리 서로 감시할 파트너를 직접 정해라.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 스컬크러셔
+    대사: (스컬크러셔 플레이어는 낭독을 잠시 멈추고 아래 안내에 따라 조를 편성해 주십시오.) 플레이어 전원이 자유롭게 협의하여 <strong>2명 / 2명 / 3명</strong>으로 조를 편성해 주십시오. (총 7명이므로 한 명도 낙오되어서는 안 됩니다.) 단, 이번 조 편성을 시작으로 앞으로 매 조사 단계마다 <strong>이전 조 편성과 멤버 구성이 겹치지 않게 주의해야 합니다.</strong> 편성이 끝났다면 아래의 마지막 대사를 이어서 읽어주십시오.
+
+[5] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: <span class="script-direction">(조 편성을 확인한 뒤 단호한 어조로)</span> ...조 편성은 여기까지다. 서로를 감시하는 눈을 거두지 마라. 당장 시작하라!
+
+
+<!-- ============================================ -->
+<!-- Step 7. 막간 II -->
+<!-- ============================================ -->
+
+단계 이름: 막간 II
+순서: 7
+StepID : 08f3639d-f9c4-4a08-bde6-5295c6559141
+
+화자 역할:
+    - 스컬크러셔 (수장): PLAYER
+    - 엘드리치 (현자): PLAYER
+    - 말리스 (참모장): PLAYER
+    - 발로그 (특공대장): PLAYER
+    - 고어후프 (선봉장): PLAYER
+    - 슬리더 (암살자): PLAYER
+    - 엘란트라 (대장군): PLAYER
+
+대본
+
+[1] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 뭐라고?! 그게 대체 무슨 소리냐, <span class="character-balrog">발로그</span>! <span class="character-eldritch">엘드리치</span>가 죽다니...!
+
+[2] 화자 타입: PLAYER
+    화자: 발로그
+    화자 표시 HTML: <span class="character-balrog">발로그</span>
+    대사: 의자에 앉아 있는 모습 그대로 숨이 끊겼어. 정수리에 깊은 자상이 있더군.
+
+[3] 화자 타입: PLAYER
+    화자: 말리스
+    화자 표시 HTML: <span class="character-malice">말리스</span>
+    대사: 그가 죽었다고요? 하필 이 승리의 순간에... 믿을 수 없는 일이군요.
+
+[4] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 누가 감히 성 안에서 이런 짓을 저질렀단 말이냐! 전원 서재로 이동한다. 범인이 누구든, 내 손으로 직접 찢어버리기 전까진 아무도 이 성문을 나가지 못할 것이다!
+
+[5] 화자 타입: DIRECTIVE
+    담당 플레이어: 스컬크러셔
+    대사: (18:20, 서재. 선혈이 낭자한 현장 앞에 모인 바스타즈 멤버들의 시선이 어지럽게 교차한다. 그 순간, 서재 곳곳에 놓인 낯선 돌들에서 은은한 빛이 새어 나오기 시작한다. 곧이어 어디선가 익숙한 목소리가 들려온다.)
+
+[6] 화자 타입: PLAYER
+    화자: 엘드리치
+    화자 표시 HTML: <span class="character-eldritch">엘드리치</span>
+    대사: ...내가, 죽은 것이오?
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 발로그
+    대사: (모두가 얼어붙은 채 주위를 둘러본다. 목소리의 주인은 어디에도 보이지 않는다.)
+
+[8] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: <span class="character-eldritch">엘드리치</span>?! 이 목소리는... 대체 어디 있는 거냐!
+
+[9] 화자 타입: PLAYER
+    화자: 엘드리치
+    화자 표시 HTML: <span class="character-eldritch">엘드리치</span>
+    대사: 나도 영문을 모르겠구려. 어찌 된 일인지 이 성 안에서라면 당신들의 모습이 보이고, 이렇게 말도 건넬 수 있는 듯하오. 다만... 내 마지막 기억은 서재 의자에 앉아 있던 것뿐이오. 그 후로는 아무것도 기억나지 않는구려.
+
+[10] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 반드시... 반드시 이 원수를 갚아 주겠다. 누가 이런 짓을 저질렀는지 내 손으로 찾아내고야 말겠다.
+
+[11] 화자 타입: DIRECTIVE
+    담당 플레이어: 말리스
+    대사: (믿기지 않는다는 듯 서로를 바라보던 이들은, 이내 애써 정신을 가다듬는다.)
+
+[12] 화자 타입: PLAYER
+    화자: 말리스
+    화자 표시 HTML: <span class="character-malice">말리스</span>
+    대사: ...지금은 이 기이한 현상보다, 눈앞의 진실부터 밝혀야 합니다.
+
+[13] 화자 타입: PLAYER
+    화자: 엘란트라
+    화자 표시 HTML: <span class="character-elantra">엘란트라</span>
+    대사: 성채의 경계는 완벽했습니다. 외부인의 침입이 물리적으로 불가능했던 상황임을 고려하면...
+
+[14] 화자 타입: PLAYER
+    화자: 고어후프
+    화자 표시 HTML: <span class="character-gorehoof">고어후프</span>
+    대사: <span class="character-eldritch">엘드리치</span> 영감이 아무리 나이 먹고 기력이 쇠했다 해도, 일개 병사 따위가 죽일 수 있을 만큼 만만한 위인은 아니었지. 결국 우리 중 하나가 아니라면 이런 짓은 불가능한 일이다.
+
+[15] 화자 타입: PLAYER
+    화자: 말리스
+    화자 표시 HTML: <span class="character-malice">말리스</span>
+    대사: 정수리를 관통한 자상... 일격에 즉사하신 것이 분명해요.
+
+[16] 화자 타입: PLAYER
+    화자: 발로그
+    화자 표시 HTML: <span class="character-balrog">발로그</span>
+    대사: 비명 소리도, 무언가 부딪히는 기척조차 없었다.
+
+[17] 화자 타입: PLAYER
+    화자: 슬리더
+    화자 표시 HTML: <span class="character-slither">슬리더</span>
+    대사: 소리도 없이 숨어드는 건 아주 전문적인 기술이지.
+
+[18] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 여기서 서로 노려본다고 죽은 자가 살아 돌아오지는 않는다. 지금 당장 각자 흩어져서 성채를 다시 샅샅이 뒤져라. 단 하나의 흔적도, 감춰진 모순도 놓치지 마라. <span class="character-eldritch">엘드리치</span>, 당신은 이 성 안이라면 어디든 볼 수 있다고 했지. 그렇다면 조를 나누는 일도 당신에게 맡기겠다. 누가 누구와 움직여야 할지는, 당신의 눈으로 판단해 다오.
+
+[19] 화자 타입: PLAYER
+    화자: 엘드리치
+    화자 표시 HTML: <span class="character-eldritch">엘드리치</span>
+    대사: ...그리 하겠소. 내가 정하도록 하지.
+
+[20] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 배신을 꿈꾸거나 진실을 숨기려는 놈이 보인다면, 그 즉시 내 손에 목이 날아갈 것이다. 이제 움직여라!

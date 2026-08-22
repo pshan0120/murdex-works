@@ -85,6 +85,8 @@ def inject_ending_ids(file_path, endings_json_path):
 
 if __name__ == "__main__":
     # Common endings (orders are numeric)
-    inject_ending_ids("엔딩_공통.txt", "story_endings.json")
+    # 2026-08-21: 엔딩_공통.txt는 엔딩_메타.txt로 개명됨. 이 EndingID 주입은 이미 완료된 상태라
+    # 재실행할 필요는 없지만, 혹시 다시 돌릴 경우를 대비해 파일명만 최신으로 맞춰둠.
+    inject_ending_ids("엔딩_메타.txt", "story_endings.json")
     # Individual endings (orders are e.g. 스컬크러셔-1)
     inject_ending_ids("엔딩_개별.txt", "story_endings.json")

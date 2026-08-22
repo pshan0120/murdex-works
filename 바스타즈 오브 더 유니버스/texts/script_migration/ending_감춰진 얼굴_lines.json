@@ -1,0 +1,452 @@
+[
+  {
+    "lineOrder": 0,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": null,
+    "lineHtml": "마지막 촛불이 흔들리는 왕좌의 방. 생존자들의 눈은 모두 한 사람, 수장 <span class=\"character-skullcrusher\">스컬크러셔</span>를 향해 있었다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 1,
+    "speakerType": "PLAYER",
+    "roleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": "<span class=\"character-malice\">말리스</span>",
+    "lineHtml": "날 배신했던 <span class=\"character-goldenking\">골든 킹</span>의 개, <span class=\"character-solite\">류크</span>. 그 이름을 이런 곳에서 다시 듣게 되다니... 이보다 더한 오산이 있을까요.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 2,
+    "speakerType": "PLAYER",
+    "roleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "npcId": null,
+    "ownerRoleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "speakerLabelHtml": "<span class=\"character-gorehoof\">고어후프</span>",
+    "lineHtml": "...류크. 내 종족의 씨를 말린 놈이, 우리 대장 낯짝을 하고 있었다고?",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 3,
+    "speakerType": "PLAYER",
+    "roleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "npcId": null,
+    "ownerRoleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "speakerLabelHtml": "<span class=\"character-elantra\">엘란트라</span>",
+    "lineHtml": "그 검, 고대 유물이 아니라 마신의 것이었습니다. 그런 자를 지휘관으로 믿었다니, 더는 신뢰할 근거가 없군요.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 4,
+    "speakerType": "PLAYER",
+    "roleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": "<span class=\"character-balrog\">발로그</span>",
+    "lineHtml": "<span class=\"character-solite\">솔라이트</span>의 기사가 우리를 이용해 왕좌에 올랐다. 처음부터, 그게 목적이었다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 5,
+    "speakerType": "PLAYER",
+    "roleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "npcId": null,
+    "ownerRoleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "speakerLabelHtml": "<span class=\"character-slither\">슬리더</span>",
+    "lineHtml": "서기관을 베고, 입을 막았지. ...내가 끝낸다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 6,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "...전부 사실이다. 하지만 그때는 그럴 수밖에 없었다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 7,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "speakerLabelHtml": null,
+    "lineHtml": "아무도 그 말을 듣지 않았다. 처형이 결정되는 순간, <span class=\"character-skullcrusher\">스컬크러셔</span>의 대검이 촛불 그림자를 갈랐다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 8,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "...이대로는, 끝낼 수 없다!",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 9,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "speakerLabelHtml": null,
+    "lineHtml": "칼끝이 <span class=\"character-malice\">말리스</span>의 목을 노렸다. <span class=\"character-gorehoof\">고어후프</span>가 그 앞을 막아서며 도끼로 받아냈고, 불티가 사방으로 튀었다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 10,
+    "speakerType": "PLAYER",
+    "roleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "npcId": null,
+    "ownerRoleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "speakerLabelHtml": "<span class=\"character-gorehoof\">고어후프</span>",
+    "lineHtml": "여기선 못 지나간다! 네가 노릴 사람은 여기 없어!",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 11,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": null,
+    "lineHtml": "힘겨루기가 이어지는 사이, <span class=\"character-elantra\">엘란트라</span>의 투창이 투구를 스치며 시야를 흔들었다. 그 틈에 <span class=\"character-balrog\">발로그</span>의 그림자가 머리 위에서 떨어져 내렸다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 12,
+    "speakerType": "PLAYER",
+    "roleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "npcId": null,
+    "ownerRoleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "speakerLabelHtml": "<span class=\"character-elantra\">엘란트라</span>",
+    "lineHtml": "시야는 제가 가렸습니다, 위는 부탁해요!",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 13,
+    "speakerType": "PLAYER",
+    "roleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": "<span class=\"character-balrog\">발로그</span>",
+    "lineHtml": "위는, 내가 막는다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 14,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "speakerLabelHtml": null,
+    "lineHtml": "어깨를 짓누르는 무게에 <span class=\"character-skullcrusher\">스컬크러셔</span>의 무릎이 꺾였다. 등 뒤로 이미 벽을 타고 따라붙어 있던 <span class=\"character-slither\">슬리더</span>가, 마지막 틈을 놓치지 않았다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 15,
+    "speakerType": "PLAYER",
+    "roleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "npcId": null,
+    "ownerRoleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "speakerLabelHtml": "<span class=\"character-slither\">슬리더</span>",
+    "lineHtml": "...여기까지다. 순순히 끝내주지.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 16,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": null,
+    "lineHtml": "단검이 갑옷 이음새를 정확히 파고들었다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 17,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "...나는 다만, 살아남으려 했을 뿐이다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 18,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "speakerLabelHtml": null,
+    "lineHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>가 무너졌다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 19,
+    "speakerType": "PLAYER",
+    "roleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": "<span class=\"character-malice\">말리스</span>",
+    "lineHtml": "'살아남으려 했다'라... 마지막까지 자기 합리화군요.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 20,
+    "speakerType": "PLAYER",
+    "roleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "npcId": null,
+    "ownerRoleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "speakerLabelHtml": "<span class=\"character-gorehoof\">고어후프</span>",
+    "lineHtml": "속이 시원하진 않다만, 끝은 끝이지.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 21,
+    "speakerType": "PLAYER",
+    "roleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "npcId": null,
+    "ownerRoleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "speakerLabelHtml": "<span class=\"character-elantra\">엘란트라</span>",
+    "lineHtml": "사건은 종결됐습니다. 남은 건 정리뿐이군요.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 22,
+    "speakerType": "PLAYER",
+    "roleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": "<span class=\"character-balrog\">발로그</span>",
+    "lineHtml": "이걸로 끝인가.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 23,
+    "speakerType": "PLAYER",
+    "roleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "npcId": null,
+    "ownerRoleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "speakerLabelHtml": "<span class=\"character-slither\">슬리더</span>",
+    "lineHtml": "...조용해졌군.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 24,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": null,
+    "lineHtml": "잠깐의 시간이 흘렀다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 25,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "speakerLabelHtml": null,
+    "lineHtml": "성채 곳곳에서 <span class=\"emphasis\">영혼석</span>이 빛나기 시작했다. 생전 <span class=\"character-eldritch\">엘드리치</span>가 심어둔 부활의 의식이었다. 어두운 기운이 <span class=\"character-skullcrusher\">스컬크러셔</span>의 시신으로 스며들었다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 26,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "speakerLabelHtml": null,
+    "lineHtml": "시신에 <span class=\"character-eldritch\">엘드리치</span>의 영혼이 깃들었다. 뒤틀린 육신이 일어섰다. 본모습, 마신 <span class=\"mystery\">다크 시리어스</span>였다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 27,
+    "speakerType": "PLAYER",
+    "roleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "npcId": null,
+    "ownerRoleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "speakerLabelHtml": "<span class=\"mystery\">다크 시리어스(엘드리치)</span>",
+    "lineHtml": "...됐다. 드디어, 돌아왔군.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 28,
+    "speakerType": "PLAYER",
+    "roleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": "<span class=\"character-malice\">말리스</span>",
+    "lineHtml": "<span class=\"character-eldritch\">엘드리치</span>...? 아니, 그럴 리가...",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 29,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": null,
+    "lineHtml": "<span class=\"character-malice\">말리스</span>는 그 자리에서 굳어 버렸다. 하지만 짧은 침묵 끝에 이를 악물고 소리쳤다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 30,
+    "speakerType": "PLAYER",
+    "roleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": "<span class=\"character-malice\">말리스</span>",
+    "lineHtml": "전원 흩어져요! 붙잡히면 끝입니다!",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 31,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "speakerLabelHtml": null,
+    "lineHtml": "명령이 끝나기도 전에 <span class=\"character-gorehoof\">고어후프</span>가 뛰어들었다. 도끼는 조금 전과 똑같은 궤적을 그렸지만, 그 자리엔 이미 아무도 없었다. 대답 대신 날아든 손등에 그의 거구가 돌기둥을 부수며 처박혔다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 32,
+    "speakerType": "PLAYER",
+    "roleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "npcId": null,
+    "ownerRoleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "speakerLabelHtml": "<span class=\"character-gorehoof\">고어후프</span>",
+    "lineHtml": "...크르릉! 어림도 없다!",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 33,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": null,
+    "lineHtml": "<span class=\"character-elantra\">엘란트라</span>의 투창이 가슴팍을 노리고 날아갔다. 하지만 닿기도 전에 재가 되어 흩날렸다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 34,
+    "speakerType": "PLAYER",
+    "roleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "npcId": null,
+    "ownerRoleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "speakerLabelHtml": "<span class=\"character-elantra\">엘란트라</span>",
+    "lineHtml": "...무기가 전혀 통하지 않는군요. 물리 공격으로는, 승산이 없습니다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 35,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "speakerLabelHtml": null,
+    "lineHtml": "그 위로 <span class=\"character-balrog\">발로그</span>가 내리꽂혔다. 마신은 돌아보지도 않고 한 손으로 그의 목을 잡아채, 그대로 바닥에 처박았다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 36,
+    "speakerType": "PLAYER",
+    "roleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": "<span class=\"character-balrog\">발로그</span>",
+    "lineHtml": "...이 압도적인 격차. 30년 전과, 조금도 다르지 않다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 37,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": null,
+    "lineHtml": "벽을 타고 접근한 <span class=\"character-slither\">슬리더</span>의 단검이 뻗어 나왔지만, 마신의 눈은 이미 그를 향해 있었다. 목이 꺾이는 소리와 함께 그가 쓰러졌다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 38,
+    "speakerType": "PLAYER",
+    "roleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "npcId": null,
+    "ownerRoleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "speakerLabelHtml": "<span class=\"character-slither\">슬리더</span>",
+    "lineHtml": "...읽혔다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 39,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "speakerLabelHtml": null,
+    "lineHtml": "홀로 남은 <span class=\"character-malice\">말리스</span> 앞으로, 마신이 서두르지 않고 다가섰다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 40,
+    "speakerType": "PLAYER",
+    "roleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": "<span class=\"character-malice\">말리스</span>",
+    "lineHtml": "...내 계산이, 이렇게까지 어긋날 줄은 몰랐는데.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 41,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "speakerLabelHtml": null,
+    "lineHtml": "<span class=\"character-malice\">말리스</span>마저 쓰러지며, 마신의 승리가 확정되었다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 42,
+    "speakerType": "PLAYER",
+    "roleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "npcId": null,
+    "ownerRoleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "speakerLabelHtml": "<span class=\"mystery\">다크 시리어스(엘드리치)</span>",
+    "lineHtml": "고작 다섯이서 날 막겠다고 덤빈 건가. 이제 이 우주는 다시 어둠 아래 잠들 것이다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 43,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": null,
+    "lineHtml": "아무도 몰랐다. <span class=\"character-skullcrusher\">스컬크러셔</span>가 죽는 순간까지 결백했다는 것을. 그리고 아무도 알지 못했다. <span class=\"character-eldritch\">엘드리치</span>를 죽이려 계획한 것은 <span class=\"character-malice\">말리스</span>와 <span class=\"character-balrog\">발로그</span>였지만, 정작 그 트랩을 작동시켜 그를 죽인 것은 다른 누구도 아닌 <span class=\"character-eldritch\">엘드리치</span> 자신이었다는 사실을. 하지만 이제 그 사실을 아는 이조차 남지 않았다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 44,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "speakerLabelHtml": null,
+    "lineHtml": "바스타즈의 이름은 그 밤으로 끝났다. 화이트스컬 성에는 어둠만이 남았다.",
+    "audioUrl": null
+  }
+]

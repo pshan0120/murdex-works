@@ -1,0 +1,202 @@
+[
+  {
+    "lineOrder": 0,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "뭐라고?! 그게 대체 무슨 소리냐, <span class=\"character-balrog\">발로그</span>! <span class=\"character-eldritch\">엘드리치</span>가 죽다니...!",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 1,
+    "speakerType": "PLAYER",
+    "roleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": "<span class=\"character-balrog\">발로그</span>",
+    "lineHtml": "의자에 앉아 있는 모습 그대로 숨이 끊겼어. 정수리에 깊은 자상이 있더군.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 2,
+    "speakerType": "PLAYER",
+    "roleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": "<span class=\"character-malice\">말리스</span>",
+    "lineHtml": "그가 죽었다고요? 하필 이 승리의 순간에... 믿을 수 없는 일이군요.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 3,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "누가 감히 성 안에서 이런 짓을 저질렀단 말이냐! 전원 서재로 이동한다. 범인이 누구든, 내 손으로 직접 찢어버리기 전까진 아무도 이 성문을 나가지 못할 것이다!",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 4,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": null,
+    "lineHtml": "(18:20, 서재. 선혈이 낭자한 현장 앞에 모인 바스타즈 멤버들의 시선이 어지럽게 교차한다. 그 순간, 서재 곳곳에 놓인 낯선 돌들에서 은은한 빛이 새어 나오기 시작한다. 곧이어 어디선가 익숙한 목소리가 들려온다.)",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 5,
+    "speakerType": "PLAYER",
+    "roleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "npcId": null,
+    "ownerRoleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "speakerLabelHtml": "<span class=\"character-eldritch\">엘드리치</span>",
+    "lineHtml": "...내가, 죽은 것이오?",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 6,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": null,
+    "lineHtml": "(모두가 얼어붙은 채 주위를 둘러본다. 목소리의 주인은 어디에도 보이지 않는다.)",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 7,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "<span class=\"character-eldritch\">엘드리치</span>?! 이 목소리는... 대체 어디 있는 거냐!",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 8,
+    "speakerType": "PLAYER",
+    "roleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "npcId": null,
+    "ownerRoleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "speakerLabelHtml": "<span class=\"character-eldritch\">엘드리치</span>",
+    "lineHtml": "나도 영문을 모르겠구려. 어찌 된 일인지 이 성 안에서라면 당신들의 모습이 보이고, 이렇게 말도 건넬 수 있는 듯하오. 다만... 내 마지막 기억은 서재 의자에 앉아 있던 것뿐이오. 그 후로는 아무것도 기억나지 않는구려.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 9,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "반드시... 반드시 이 원수를 갚아 주겠다. 누가 이런 짓을 저질렀는지 내 손으로 찾아내고야 말겠다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 10,
+    "speakerType": "DIRECTIVE",
+    "roleId": null,
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": null,
+    "lineHtml": "(믿기지 않는다는 듯 서로를 바라보던 이들은, 이내 애써 정신을 가다듬는다.)",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 11,
+    "speakerType": "PLAYER",
+    "roleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": "<span class=\"character-malice\">말리스</span>",
+    "lineHtml": "...지금은 이 기이한 현상보다, 눈앞의 진실부터 밝혀야 합니다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 12,
+    "speakerType": "PLAYER",
+    "roleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "npcId": null,
+    "ownerRoleId": "51600663-84e1-48aa-90c4-165216877f6f",
+    "speakerLabelHtml": "<span class=\"character-elantra\">엘란트라</span>",
+    "lineHtml": "성채의 경계는 완벽했습니다. 외부인의 침입이 물리적으로 불가능했던 상황임을 고려하면...",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 13,
+    "speakerType": "PLAYER",
+    "roleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "npcId": null,
+    "ownerRoleId": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "speakerLabelHtml": "<span class=\"character-gorehoof\">고어후프</span>",
+    "lineHtml": "<span class=\"character-eldritch\">엘드리치</span> 영감이 아무리 나이 먹고 기력이 쇠했다 해도, 일개 병사 따위가 죽일 수 있을 만큼 만만한 위인은 아니었지. 결국 우리 중 하나가 아니라면 이런 짓은 불가능한 일이다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 14,
+    "speakerType": "PLAYER",
+    "roleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "npcId": null,
+    "ownerRoleId": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "speakerLabelHtml": "<span class=\"character-malice\">말리스</span>",
+    "lineHtml": "정수리를 관통한 자상... 일격에 즉사하신 것이 분명해요.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 15,
+    "speakerType": "PLAYER",
+    "roleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "npcId": null,
+    "ownerRoleId": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "speakerLabelHtml": "<span class=\"character-balrog\">발로그</span>",
+    "lineHtml": "비명 소리도, 무언가 부딪히는 기척조차 없었다.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 16,
+    "speakerType": "PLAYER",
+    "roleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "npcId": null,
+    "ownerRoleId": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "speakerLabelHtml": "<span class=\"character-slither\">슬리더</span>",
+    "lineHtml": "소리도 없이 숨어드는 건 아주 전문적인 기술이지.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 17,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "여기서 서로 노려본다고 죽은 자가 살아 돌아오지는 않는다. 지금 당장 각자 흩어져서 성채를 다시 샅샅이 뒤져라. 단 하나의 흔적도, 감춰진 모순도 놓치지 마라. <span class=\"character-eldritch\">엘드리치</span>, 당신은 이 성 안이라면 어디든 볼 수 있다고 했지. 그렇다면 조를 나누는 일도 당신에게 맡기겠다. 누가 누구와 움직여야 할지는, 당신의 눈으로 판단해 다오.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 18,
+    "speakerType": "PLAYER",
+    "roleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "npcId": null,
+    "ownerRoleId": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "speakerLabelHtml": "<span class=\"character-eldritch\">엘드리치</span>",
+    "lineHtml": "...그리 하겠소. 내가 정하도록 하지.",
+    "audioUrl": null
+  },
+  {
+    "lineOrder": 19,
+    "speakerType": "PLAYER",
+    "roleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "npcId": null,
+    "ownerRoleId": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "speakerLabelHtml": "<span class=\"character-skullcrusher\">스컬크러셔</span>",
+    "lineHtml": "배신을 꿈꾸거나 진실을 숨기려는 놈이 보인다면, 그 즉시 내 손에 목이 날아갈 것이다. 이제 움직여라!",
+    "audioUrl": null
+  }
+]

@@ -1,0 +1,89 @@
+StoryID : a8d3c16b-3910-4fc6-82fa-aed0379904f9
+StepID : 854e7234-0cf5-49ae-aeae-ec6a6ade59b3
+
+1. 순서
+2
+
+2. 단계 이름
+대면
+
+3. 단계 유형
+NARRATIVE
+
+4. 예상 소요 시간
+무제한
+
+5. 자동 진행 여부
+N
+
+6. BGM
+https://cdn1.suno.ai/6843d874-c15a-4bd2-8fb5-71b2a6f72078.mp3
+# Suno Prompt: Glorious victory dark fantasy orchestral, triumphant regal brass, majestic horns, proud march rhythm, noble space fantasy symphony, uplifting solemn choir, victorious epic ambient, seamless loop, no fadeout
+# https://res.cloudinary.com/dkzctfx9z/video/upload/v1776238231/murdex/images/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_bn9zlw.mp3
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 자기 소개</div>
+  <div class="intro-narrative">
+    <p>
+      <span class="character-goldenking">골든 킹</span>의 숨통이 끊어지고 성채가 함락된 직후인 <span class="emphasis">오후 16:00</span>, <span class="character-bastards">바스타즈</span>의 수장 <span class="character-skullcrusher">스컬크러셔</span>는 승리를 선포하기 위해 동료들을 <span class="emphasis">왕좌의 방</span>으로 소집했습니다.
+    </p>
+    <p>
+      여러분은 각자 왕좌 앞에 서서 기록관(NPC)과 동료들 앞에서 자신의 공적을 보고해야 합니다. 아래의 대본에 따라 <strong>자신의 역할 대사를 감정을 담아 소리 내어 낭독</strong>해 주십시오.
+    </p>
+  </div>
+
+  <!-- 대본 영역 시작 -->
+  <div class="script-container">
+    
+    <div class="script-line">
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: <span class="script-direction">(집결한 <span class="character-bastards">바스타즈</span> 멤버들을 둘러보며)</span> "형제들이여! 10년 동안 이어진 피비린내 나는 전쟁이 드디어 끝났다! 폭군 <span class="character-goldenking">골든 킹</span>은 쓰러졌고, 이 <span class="emphasis">화이트스컬 성채</span>는 이제 완전히 우리 차지다! 기록관, 이 영광스러운 순간을 단 한 글자도 빠짐없이 받아 적어라. 나 수장 <span class="character-skullcrusher">스컬크러셔</span>가 본대를 이끌고 성채 깊숙이 진격해, 바로 오늘 이 왕좌의 방에서 내 손으로 직접 <span class="character-goldenking">골든 킹</span>의 숨통을 끊어내고 마침내 복수를 완성했다고 말이다!"
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-eldritch">엘드리치</span></span>: <span class="script-direction">(나직하게 미소를 지으며)</span> "허허, 수장의 기세가 참으로 당당하고 웅장하구려. 나는 현자 <span class="character-eldritch">엘드리치</span>요. 기나긴 10년의 어둠 속에서 우리가 흔들릴 때마다 동료들의 마음을 하나로 모으고, 나아갈 길을 밝히는 게 내 역할이었지. 이번 전투에서도 본진에서 전황을 살피며 자그마한 지혜를 보탰소. 마침내 우리의 큰 뜻을 이루었으니, 참으로 기쁘고 감격스럽구려."
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-malice">말리스</span></span>: <span class="script-direction">(정중하지만 차가운 어조로)</span> "<span class="character-bastards">바스타즈</span>의 위대한 승리를 축하드립니다. 참모장 <span class="character-malice">말리스</span>입니다. 저 역시 본진에서 실시간으로 전황을 면밀히 분석하고 있었습니다. 성문이 열리는 즉시, 후방에서 대기하던 아군 병력을 이끌고 성 안으로 치고 들어갔지요. 그리고 아까 <span class="character-balrog">발로그</span> 대장이 자리를 비웠을 때, 제가 즉시 병력을 지휘해 적들의 마법탑을 완전히 장악하고 무너뜨렸습니다. 기록관, 이 공적 또한 제 이름 옆에 한 치의 오차도 없이 똑똑히 기록해 두십시오."
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-balrog">발로그</span></span>: <span class="script-direction">(감정이 배제된 기계적인 어조로)</span> "특공대장 <span class="character-balrog">발로그</span>다. 내 임무는 적의 핵심 거점을 기습 타격하는 것. 오늘 오전, 계획된 작전대로 마법탑 꼭대기로 고공 강습을 감행했다. 사방에서 쏟아지는 마법 포화를 몸으로 받아쳐 내며 정면으로 들이닥쳤고, 적 마법사들이 당황한 틈을 타 마력을 폭발시켜 전부 쓸어버렸다. 이상, 보고를 마친다."
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-gorehoof">고어후프</span></span>: <span class="script-direction">(호탕하고 우직하게 웃어젖히며)</span> "으하하! 드디어 내 차례인가! 선봉장 <span class="character-gorehoof">고어후프</span>가 왔다! 내가 본대를 이끌고 그 굳게 닫혀 있던 성문을 정면에서 그냥 박살 내 버렸지! 성 안으로 밀고 들어간 뒤에도 중앙 복도에서 길을 가로막던 건방진 친위대 놈들을 모조리 흠씬 두들겨 패서 눕혀버렸다고! 크하하핫! 야, 기록관! 내 이 멋진 활약상을 아주 큼지막하게 적어둬야 할 거다!"
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-slither">슬리더</span></span>: <span class="script-direction">(서늘하고 나직한 목소리로)</span> "...암살자, <span class="character-slither">슬리더</span>다. 내 일은... 그림자 속에서 숨죽여 적의 숨통을 끊는 것. 오늘 오전 10시쯤이었나, 본대가 정면에서 적들의 시선을 끄는 동안 난 지하 수로를 타고 조용히 안으로 기어들어 갔다. 보초 놈들을 소리소문없이 해치우며 내부 방어망을 헤집어 놓았지. 너희 본대가 정면 성문을 깨부수고 들어오기 전부터, 안쪽 수비대 놈들은 이미 혼비백산해 있었단 소리다."
+    </div>
+
+    <div class="script-line">
+      <span class="script-character"><span class="character-elantra">엘란트라</span></span>: <span class="script-direction">(차분하고 이성적인 어조로)</span> "대장군 <span class="character-elantra">엘란트라</span>입니다. 이번 성채 함락을 위한 공성 작전의 뼈대를 짜고 전체적인 진격을 총지휘했습니다. 작전이 시작되자마자 제가 직접 별동대를 이끌고 측면 성벽을 타고 진입했고, 외곽 망루의 수비대 놈들을 단숨에 제압해 무력화시켰습니다. 다들 사전에 치밀하게 짜놓은 전술대로 완벽하게 움직여준 덕분에 오늘 같은 값진 승리를 얻을 수 있었습니다."
+    </div>
+
+    <!-- 스컬크러셔의 공식 구역 지정 -->
+    <div class="script-line">
+      <span class="script-character"><span class="character-skullcrusher">스컬크러셔</span></span>: <span class="script-direction">(왕좌의 방에 집결한 모두를 내려다보며 목소리를 높인다)</span> "아주 훌륭해! 다들 고생 많았다! 너희가 세운 눈부신 공적은 이 성채의 주춧돌에 영원히 새겨질 거다! 하지만 <span class="character-goldenking">골든 킹</span> 그놈이 쓰러졌다고 끝난 게 아니다. 성채 구석구석에 아직 잔당들의 음모가 도사리고 있고, 챙겨야 할 전리품들도 잔뜩 널려 있지. <strong>저녁 18:00에 열릴 승전 연회 전까지, 성 안을 이 잡듯 샅샅이 뒤져서 남은 위협을 완전히 뿌리뽑아라!</strong><br><br>
+      자, 다들 주목해라! 이제부터 각자 수색할 구역을 정해 주겠다!<br><br>
+      - <span class="character-eldritch">엘드리치</span>는 <span class="emphasis">서재</span>로 이동해 성채 안의 기밀 기록들을 분석하라!<br>
+      - <span class="character-malice">말리스</span>는 <span class="emphasis">연구실</span>을 맡아 남아있는 마법 장치들을 수습하라!<br>
+      - <span class="character-balrog">발로그</span>는 <span class="emphasis">무기고</span>를 수색해 잔당들이 위험 병기를 손에 쥐지 못하게 통제하라!<br>
+      - <span class="character-gorehoof">고어후프</span>는 승전 축제가 열릴 <span class="emphasis">연회장</span> 주변의 잔당들을 소탕하고 보안을 강화하라!<br>
+      - <span class="character-slither">슬리더</span>는 <span class="emphasis">문서고</span>를 수색하여 숨겨진 기밀이나 유용한 정보들을 확보하라!<br>
+      - <span class="character-elantra">엘란트라</span>는 <span class="emphasis">지하창고</span>를 확보하고 적들이 보관해 둔 군수 자원을 점거하라!<br><br>
+      나 <span class="character-skullcrusher">스컬크러셔</span>는 이 성채의 전반적인 경비망을 꼼꼼히 점검하면서 전체 상황을 총괄 지휘하겠다.<br><br>
+      <strong>약속 시간인 18:00 정각에 연회장에서 기분 좋게 승리의 축배를 나누자고. 다들 지체하지 말고 명령받은 구역으로 신속하게 이동하라!</strong>"
+    </div>
+
+  </div>
+  <!-- 대본 영역 끝 -->
+
+  <div class="section-title">2. 다음 단계 안내</div>
+  <p>
+    대본 낭독이 끝났다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
+  </p>
+</div>

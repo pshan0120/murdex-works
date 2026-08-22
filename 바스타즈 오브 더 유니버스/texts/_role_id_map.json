@@ -1,0 +1,44 @@
+[
+  {
+    "role_id": "2f2a7aa6-325f-45af-8df5-ab59f77befe8",
+    "role_name": "수장",
+    "character_name": "스컬크러셔",
+    "role_order": 1
+  },
+  {
+    "role_id": "4dd4a9f1-5254-4bd1-b4ee-195e13526ba9",
+    "role_name": "현자",
+    "character_name": "엘드리치",
+    "role_order": 2
+  },
+  {
+    "role_id": "d7951888-0d3d-465b-8b98-b0d0ba71ec45",
+    "role_name": "참모장",
+    "character_name": "말리스",
+    "role_order": 3
+  },
+  {
+    "role_id": "a2ebd181-3f7c-4aed-86f1-21b0a2c200aa",
+    "role_name": "특공대장",
+    "character_name": "발로그",
+    "role_order": 4
+  },
+  {
+    "role_id": "eb5d2bcb-b7ea-4747-b523-c39ff330d7bb",
+    "role_name": "선봉장",
+    "character_name": "고어후프",
+    "role_order": 5
+  },
+  {
+    "role_id": "aea60f9f-c9b9-4bd9-9d75-fd88c8909066",
+    "role_name": "암살자",
+    "character_name": "슬리더",
+    "role_order": 6
+  },
+  {
+    "role_id": "51600663-84e1-48aa-90c4-165216877f6f",
+    "role_name": "대장군",
+    "character_name": "엘란트라",
+    "role_order": 7
+  }
+]
