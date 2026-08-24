@@ -1,0 +1,37 @@
+[앙코르 - 요크셔테리어(아리) 이미지 생성 프롬프트]
+
+테스트를 거쳐 확정된 "동화책 수채화풍" 기반 프롬프트입니다.
+모든 프롬프트는 쫑긋 선 귀(erect V-shaped ears)를 기본으로 합니다.
+
+1. 기본 프롬프트 (성견, 긴 털)
+
+a small Yorkshire Terrier dog character, compact toy-breed body proportions, erect V-shaped ears, long silky-textured fur, round dark eyes, small black nose, slightly elongated snout, black coat on the back fading to tan/golden-brown on the legs and face, small white patch on the chest, sitting pose, three-quarter front view, warm and sincere mood, not exaggeratedly cute or comedic, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, textured watercolor paper background, gentle diffused lighting
+
+Negative prompt: realistic, photorealistic, photo, 3D render, other dog breed, chibi, kawaii exaggerated, humanoid, text, watermark
+
+
+2. 나이 및 몸 크기 변형 (어릴수록 까만 털 비율 증가, 아련한 분위기)
+
+- 2/3 크기 (약 2살 시절):
+위 1번 프롬프트에서 털 색상 부분을 "mostly black coat with very little tan on the legs and face, no silver fur, small white patch on the chest"로 변경하고, 프롬프트 끝에 아래 문구 추가
+", but at two-thirds the adult body size, slightly shorter legs, slightly rounder puppy proportions, slightly faded and misty atmosphere representing a fond memory"
+
+- 1/2 크기 (약 1살 시절):
+위 1번 프롬프트에서 털 색상 부분을 "almost entirely black puppy coat, very dark face and body with only minimal hints of dark brown, no silver fur, small white patch on the chest"로 변경하고, 프롬프트 끝에 아래 문구 추가
+", but at half the adult body size, very round puppy proportions, oversized head-to-body ratio typical of a very young puppy, deeply faded, dreamy and misty atmosphere representing an older distant memory, softer edges"
+
+
+3. 털 길이 변형 (미용 상태 4단계)
+
+원하는 털 길이에 따라 프롬프트의 "long silky-textured fur" 부분을 아래 문구 중 하나로 교체합니다.
+
+- 긴 털 (기본): 기본 프롬프트 유지 (long silky-textured fur)
+- 중간 털 (조금 덥수룩하게 자란 상태): "medium-length slightly shaggy fur, natural grown out coat"
+- 짧은 털 (퍼피컷, 귀엽게 다듬은 상태): "short neatly trimmed puppy-cut fur, short body hair"
+- 아주 짧은 털 (바리깡으로 피부 가깝게 민 상태, 얼굴 털도 짧게): "very short buzzed coat, closely shaved body hair, extremely short fur, nearly skin-tight coat, closely shaved facial hair, no long beard, no long mustache, very short snout fur"
+
+
+[테스트 시 확인할 것]
+- 성견 기본 모습과 비교하여 나이 변형 시 체형(다리 길이, 머리 비율)과 털 색(까맣게 변함), 아련한 분위기(faded, misty)가 잘 적용되는지 확인.
+- 털 길이 변형 시 기존의 긴 털 대신 짧고 깔끔하게 미용된 모습이 조합되어 생성되는지 확인 (예: 성견 + 짧은 털 조합).
+- 배경을 투명하게(또는 흰색으로) 누끼를 따야 할 경우 "textured watercolor paper background"를 "solid pure white background, isolated on white, no background elements"로 변경하여 생성.
