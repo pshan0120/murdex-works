@@ -1,0 +1,301 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap");
+
+/*
+ * 앙코르 - 커스텀 테마 CSS
+ * 동화책 수채화풍(프롬프트.txt 확정) 기준의 따뜻하고 담백한 톤.
+ * 헤더·버튼·사이드바 같은 공용 프레임은 플랫폼 기본 느와르 톤 그대로 두고,
+ * 본문(story-content)·구매 전 소개(intro-section) 영역만 이 팔레트로 커스텀한다.
+ */
+
+/* ============================================================
+   1. 기본 레이아웃 및 텍스트
+   ============================================================ */
+
+.story-content {
+    font-size: 1rem;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    color: #4A3327;
+    line-height: 1.85;
+    letter-spacing: -0.01em;
+    background-color: #FBF3E7;
+    padding: 1.25rem;
+    border-radius: 12px;
+}
+
+.story-content p {
+    margin-bottom: 1.2rem;
+    text-align: left;
+    word-break: keep-all;
+}
+
+.story-content p:last-child {
+    margin-bottom: 0;
+}
+
+.story-content ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1.2rem;
+}
+
+.story-content ol {
+    list-style-type: decimal;
+    padding-left: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+
+.story-content li {
+    margin-bottom: 0.7rem;
+    padding-left: 1.3em;
+    position: relative;
+}
+
+.story-content ul > li::before {
+    content: "·";
+    position: absolute;
+    left: 0.2em;
+    color: #C98A97;
+    font-weight: 700;
+}
+
+/* ============================================================
+   2. 제목 및 강조
+   ============================================================ */
+
+.story-content .section-title {
+    font-family: "Gowun Batang", serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #8A5A4E;
+    margin: 1.8rem 0 0.9rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(74, 51, 39, 0.15);
+    letter-spacing: -0.01em;
+}
+
+.story-content .subsection-title {
+    font-family: "Gowun Batang", serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #4A3327;
+    margin: 1.4rem 0 0.7rem 0;
+}
+
+.story-content .highlight {
+    color: #C1667A;
+    font-weight: 700;
+}
+
+.story-content .highlight-blue {
+    color: #6E93B5;
+    font-weight: 700;
+}
+
+/* 단서 등에서 날짜/날씨 헤더로 쓸 수 있는 작은 라벨 (예: "8월 23일, 흐림.") */
+.story-content .diary-date {
+    display: inline-block;
+    font-family: "Gowun Batang", serif;
+    font-size: 0.85em;
+    color: #8A5A4E;
+    margin-bottom: 0.4em;
+    letter-spacing: 0.02em;
+}
+
+/* ============================================================
+   3. 인용 · 안내 박스
+   ============================================================ */
+
+.story-content .quote-box {
+    display: block;
+    margin: 1em 0;
+    padding: 1em 1.2em;
+    color: #4A3327;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(74, 51, 39, 0.12);
+    border-radius: 8px;
+}
+
+.story-content .quote-box.compact {
+    margin: 0.8em 0;
+    padding: 0.8em 1em;
+}
+
+/* 게임 진행 안내(경고색이 아닌, 차분한 소프트 블루 톤 — 이 작품엔 위험/경고 뉘앙스가 없음) */
+.story-content .system-guide {
+    background: rgba(110, 147, 181, 0.08);
+    border: 1px solid rgba(110, 147, 181, 0.2);
+    padding: 1.1rem 1.25rem;
+    border-radius: 10px;
+    margin: 1.4rem 0;
+}
+
+.story-content .guide-title {
+    font-weight: 700;
+    color: #6E93B5;
+    margin-bottom: 0.6rem;
+    font-size: 0.92em;
+}
+
+.story-content .important-notice {
+    background: rgba(201, 138, 151, 0.1);
+    border: 1px solid rgba(201, 138, 151, 0.25);
+    padding: 1rem 1.2rem;
+    border-radius: 10px;
+    margin: 1.4rem 0;
+}
+
+.story-content .important-notice p {
+    margin-bottom: 0;
+    color: #8A5A4E;
+    font-size: 0.92em;
+}
+
+.story-content .divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(74, 51, 39, 0.2), transparent);
+    margin: 1.6em 0;
+}
+
+/* ============================================================
+   4. 구매 전 소개 (상세 소개 / intro-section 공통 템플릿)
+
+   주의: 이 섹션은 story-content와 달리 자체 배경을 갖지 않고,
+   작품 상세 페이지의 플랫폼 기본 다크 배경(bg-zinc-950, StoryDetailClient.tsx)
+   위에 그대로 얹힌다. 그래서 여기 색상은 전부 "어두운 배경 위에서 밝게" 보이는
+   톤으로 잡아야 한다(story-content 쪽의 크림 배경용 다크 브라운 톤과 정반대).
+   ============================================================ */
+
+.intro-section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #EDE0D0;
+    font-family: "Pretendard Variable", sans-serif;
+}
+
+.intro-title-cinematic {
+    font-family: "Gowun Batang", serif;
+    font-size: clamp(1.1rem, 5vw, 1.6rem);
+    font-weight: 700;
+    color: #F5EDE0;
+    text-align: center;
+    line-height: 1.6;
+    margin-bottom: 3.5rem;
+    position: relative;
+    padding-bottom: 1.6rem;
+    word-break: keep-all;
+}
+
+.intro-title-cinematic::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 48px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #E3A0AC, transparent);
+}
+
+.intro-paragraph {
+    font-size: 1.02rem;
+    line-height: 1.9;
+    margin-bottom: 1.6rem;
+    color: #DCCEBC;
+}
+
+.feature-section {
+    margin: 3rem 0;
+    padding: 1.5rem;
+    background: rgba(255, 245, 230, 0.04);
+    border: 1px solid rgba(230, 190, 160, 0.15);
+    border-radius: 10px;
+}
+
+.feature-header {
+    font-family: "Gowun Batang", serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #E3A0AC;
+    margin-bottom: 1.6rem;
+    text-align: center;
+    letter-spacing: 0.04em;
+}
+
+.feature-list-premium {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 1.6rem;
+}
+
+.feature-item-title {
+    font-weight: 700;
+    color: #F5EDE0;
+    font-size: 1.02rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.feature-item-title::before {
+    content: "·";
+    font-size: 1.2em;
+    line-height: 1;
+    color: #E3A0AC;
+}
+
+.feature-item-desc {
+    font-size: 0.92rem;
+    color: #B8A996;
+    padding-left: 1.3rem;
+    line-height: 1.7;
+}
+
+.intro-outro {
+    margin-top: 4rem;
+    text-align: center;
+    font-family: "Gowun Batang", serif;
+    font-size: 1.05rem;
+    line-height: 1.9;
+    color: #EDE0D0;
+}
+
+/* intro-outro 안의 강조 텍스트(예: 마무리 문장의 <span class="highlight">) */
+.intro-section .highlight {
+    color: #E3A0AC;
+    font-weight: 700;
+}
+
+.ai-notice {
+    margin-top: 3rem;
+    font-size: 0.75rem;
+    opacity: 0.45;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #DCCEBC;
+}
+
+/* ============================================================
+   5. 모바일 대응
+   ============================================================ */
+
+@media (max-width: 640px) {
+    .intro-title-cinematic {
+        font-size: 1.15rem;
+        margin-bottom: 2.4rem;
+    }
+
+    .intro-paragraph {
+        font-size: 0.92rem;
+    }
+
+    .feature-section {
+        padding: 1.2rem;
+    }
+
+    .story-content {
+        padding: 1rem;
+    }
+}
