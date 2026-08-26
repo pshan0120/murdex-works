@@ -1,0 +1,42 @@
+[앙코르 - 엔딩 1번 장면: "어느 날의 기억" (케이크 초 개수 퀴즈 분기)]
+
+10장/9장 참고. 순서18("소원") 단계 퀴즈 답변에 따라 두 엔딩(story_ending) 중 하나가 배정된다.
+DB 등록 완료(2026-08-26): story_ending 2개 + story_ending_rule 1개.
+
+[퀴즈 질문 수정] 기존 질문(question_id: f1f7a0dc-fc43-44fc-bfb8-f8f6a48801e0)에
+variable_key="candle_count" 부여. 질문 문구도 "(숫자로 답해주세요)" 안내를 덧붙임:
+"{dog_name}를(을) 위한 케이크를 사러 왔다. 몇 개의 초를 달라고 할까? (숫자로 답해주세요)"
+
+[판정 규칙] 답변이 정확히 "1"이면 정답 엔딩, 그 외 전부 기본(default) 엔딩.
+주의: 문자열 완전 일치(대소문자/공백만 무시)라서 "1개"/"한 개"는 오답으로 처리됨 - 알려진 한계.
+
+
+==========================================================
+엔딩 A - 정답 (ending_name: "생일 축하 (정답)")
+==========================================================
+
+<div class="story-content">
+  <p>오늘은 {dog_name}를(을) 위해 가족들이 모두 모이기로 했다. 나는 퇴근길에 케이크를 사 가기로 했다. 직원이 몇 개의 초를 준비할지 물었고, 나는 {candle_count}개의 초라고 대답했다. 집에 가서 케이크를 꺼내고 {dog_name}를(을) 앞에 앉혔다.</p>
+  <p>나는 1개의 초를 꽂고 불을 붙였다. 우리 가족은 {dog_name}가(이) 우리 가족이 된 첫 해를 축하했다.</p>
+  <p>저녁 내내 {dog_name}는(은) 가족들 사이를 오가며 재롱을 부렸다. 우리는 늦게까지 웃었다.</p>
+  <iframe src="/tools/encore/diary" title="일기장" style="width: 100%; height: 560px; border: none; border-radius: 8px; overflow: hidden; margin-top: 16px"></iframe>
+</div>
+
+
+==========================================================
+엔딩 B - 기본/오답 (ending_name: "생일 축하 (기본)", is_default=True)
+==========================================================
+
+<div class="story-content">
+  <p>오늘은 {dog_name}를(을) 위해 가족들이 모두 모이기로 했다. 나는 퇴근길에 케이크를 사 가기로 했다. 직원이 몇 개의 초를 준비할지 물었고, 나는 {candle_count}개의 초라고 대답했다. 집에 가서 케이크를 꺼내고 {dog_name}를(을) 앞에 앉혔다.</p>
+  <p>나는 초를 꺼냈는데, 엄마가 말했다. "초를 왜 이렇게 많이 챙겼어?" 나는 대답했다. "내년에도 축하해주려고 미리 더 받아왔지."</p>
+  <p>저녁 내내 {dog_name}는(은) 가족들 사이를 오가며 재롱을 부렸다. 우리는 늦게까지 웃었다.</p>
+  <iframe src="/tools/encore/diary" title="일기장" style="width: 100%; height: 560px; border: none; border-radius: 8px; overflow: hidden; margin-top: 16px"></iframe>
+</div>
+
+
+[제작 메모] 사용자 원안을 기반으로 오탈자(붙혔다→붙였다)만 고치고 {dog_name} 치환 문법 적용. {n} 자리는
+Question.variable_key="candle_count"로 실제 플레이어 답변을 그대로 반영(개인화 치환 엔진 재사용, 신규 개발 없음).
+두 엔딩의 저녁 묘사(마지막 문단)는 의도적으로 완전히 동일 - "엔딩이 크게 갈리지 않는다"는 사용자 요구사항 반영.
+
+[일기장 도구 연결 완료(2026-08-26)] 두 엔딩 마지막에 `<iframe src="/tools/encore/diary">`를 추가해 일기장 도구(2번 일기+3번 편지)로 자연스럽게 이어지도록 함 - 도플로이드 소장 심문과 동일한 iframe 임베드 패턴(`단계_7_최종_추리.txt` 참고). 도구 자체는 `murdex-web/app/tools/encore/diary/page.tsx`, 백엔드는 `domain/room/controllers/encore_router.py` 참고.
