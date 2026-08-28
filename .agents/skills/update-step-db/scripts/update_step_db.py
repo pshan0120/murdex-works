@@ -109,8 +109,10 @@ def update_step_db(target_path, dry_run=False):
         target_files.append(abs_path)
     elif os.path.isdir(abs_path):
         for root, _, files in os.walk(abs_path):
+            if "backup" in os.path.relpath(root, abs_path).split(os.sep):
+                continue
             for file in sorted(files):
-                if file.startswith("단계_") and file.endswith(".txt"):
+                if file.startswith("단계_") and file.endswith(".txt") and "수정전" not in file:
                     target_files.append(os.path.join(root, file))
 
     if not target_files:
