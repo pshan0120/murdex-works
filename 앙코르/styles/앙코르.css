@@ -299,3 +299,33 @@
         padding: 1rem;
     }
 }
+
+/* ============================================================
+   6. 단서 일기장 / 메모지 서식 (type-memo)
+   ============================================================ */
+
+.story-content .document-page.type-memo {
+    background-color: #FFFDF9;
+    /* 따뜻하고 은은한 로즈/브라운 계열 가로 노트 줄무늬 */
+    background-image: repeating-linear-gradient(
+        #FFFDF9,
+        #FFFDF9 27px,
+        rgba(201, 138, 151, 0.18) 28px
+    );
+    background-position: 0 8px;
+    color: #4A3327;
+    border: 1px solid rgba(138, 90, 78, 0.18);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(74, 51, 39, 0.05);
+    padding: 18px 20px;
+    margin: 8px 0;
+    font-family: "Gowun Batang", serif;
+}
+
+.story-content .document-page.type-memo .document-body {
+    line-height: 28px; /* 가로 줄무늬(28px)와 글 줄 간격을 일치 */
+    font-size: 0.98rem;
+    letter-spacing: -0.01em;
+    word-break: keep-all;
+}
+
