@@ -1,4 +1,5 @@
 [[엔딩명: 은금도가의 저무는 밤 (공통 엔딩)]]
+제목: 은금도가의 저무는 밤 (공통 엔딩)
 EndingID : 97d57558-e39a-497e-b30f-306bc4e4969d
 유형: COMMON_ENDING
 순서: 1
@@ -11,42 +12,98 @@ EndingID : 97d57558-e39a-497e-b30f-306bc4e4969d
 내용: 
 <div class="story-content">
   <div class="document-page type-police-report">
-    <div class="section-title">수사 종결 보고서</div>
+    <!-- 공문서 헤더 및 결재란 -->
+    <div class="police-header">
+      <div class="police-meta">
+        <div class="org-name">○○경찰서 수사과 강력계</div>
+        <div>문서번호: 제 199X-강력-XXXX호</div>
+        <div>수사일자: 199X. XX. XX.</div>
+      </div>
+      <table class="police-approval">
+        <tbody>
+          <tr>
+            <th rowspan="2">결<br>재</th>
+            <th>수사관</th>
+            <th>팀 장</th>
+            <th>과 장</th>
+          </tr>
+          <tr>
+            <td class="sign-cell">박만수</td>
+            <td class="sign-cell">이○○</td>
+            <td class="sign-cell">김○○</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 타이틀 & 직인 스탬프 -->
+    <div class="police-title-wrap">
+      <h3 class="police-title">수 사 보 고 서</h3>
+      <div class="police-stamp">수사 종결</div>
+    </div>
+
+    <!-- 기본 정보 -->
+    <div class="section-title">1. 사건 기본 정보</div>
     <ul class="report-list">
-      <li><strong>사건명:</strong> 은금도가 살인 및 특수 범죄 사건</li>
-      <li><strong>담당관:</strong> 강력반 반장 박만수</li>
-      <li><strong>피의자 및 혐의:</strong>
-        <ul>
-          <li><strong><span class="character-dohun">최도훈</span>:</strong> 살인 (피해자: <span class="character-eunju">강은주</span>)</li>
-          <li><strong><span class="character-hyunsu">류현수</span>:</strong> 살인 및 사체유기 (피해자: <span class="character-kitae">남기태</span>)</li>
-          <li><strong><span class="character-danhee">박단희</span>, <span class="character-haejun">정해준</span>:</strong> 사문서 위조, 특수절도 미수, 살인 미수</li>
-        </ul>
-      </li>
+      <li><strong>사건명:</strong> 은금도가 살인 및 특수 강력범죄 사건</li>
+      <li><strong>담당 주임:</strong> 강력반 반장 <span class="character-mansu">박만수</span> 경위</li>
+      <li><strong>수사 관서:</strong> ○○경찰서 강력수사팀</li>
     </ul>
+
+    <!-- 피의자 및 혐의 목록 (격자 테이블) -->
+    <div class="section-title">2. 피의자 인적사항 및 혐의</div>
+    <table class="police-table">
+      <thead>
+        <tr>
+          <th style="width: 22%;">구분 / 피의자</th>
+          <th style="width: 48%;">주요 혐의</th>
+          <th style="width: 30%;">비고</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: center;"><strong><span class="character-dohun">최도훈</span></strong></td>
+          <td>살인 (형법 제250조)</td>
+          <td>피해자 <span class="character-eunju">강은주</span> (자백 완료)</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong><span class="character-hyunsu">류현수</span></strong></td>
+          <td>살인 및 사체유기 (여죄)</td>
+          <td>피해자 <span class="character-kitae">남기태</span> (암매장 자백)</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong><span class="character-danhee">박단희</span><br><span class="character-haejun">정해준</span></strong></td>
+          <td>사문서위조, 특수절도미수, 살인미수</td>
+          <td>금괴 탈취 공모 및 유서 위조</td>
+        </tr>
+      </tbody>
+    </table>
 
     <div class="divider-line"></div>
 
-    <div class="section-title">사건 개요 및 수사 결과</div>
+    <!-- 사건 개요 및 수사 결과 -->
+    <div class="section-title">3. 사건 개요 및 수사 결과</div>
     <p>
-      <strong>1. 강은주 살인 사건의 전말</strong><br>
+      <strong>[강은주 살인 사건의 전말]</strong><br>
       피의자 <span class="character-dohun">최도훈</span>은 사건 당일 17시 30분경, 배우자 <span class="character-eunji">강은지</span>와 피의자 <span class="character-hyunsu">류현수</span>의 불륜 현장을 목격하고 격분하여 살해를 계획함. 18시 45분경 지하 숙성 토굴에서 배전반을 조작하여 암전시킨 뒤, 수면제에 취해 배회하던 피해자 <span class="character-eunju">강은주</span>를 배우자로 오인하여 금비녀로 목을 찔러 살해함. 피의자는 범행 일체를 자백함.
     </p>
 
     <p>
-      <strong>2. 남기태 살인 및 사체 유기 (여죄 혐의)</strong><br>
-      본 사건 수사 중, 6개월 전 발생한 은금도가 전 대표 <span class="character-kitae">남기태</span> 변사 사건의 진범이 <span class="character-hyunsu">류현수</span>로 밝혀짐. 피의자는 마약 전과가 발각될 것을 우려하여 둔기(촛대)로 피해자를 타격하여 살해한 뒤 저수지에 사체를 유기한 사실을 자백함.
+      <strong>[남기태 살인 및 사체 유기 (여죄 혐의)]</strong><br>
+      본 사건 수사 중, 6개월 전 발생한 은금도가 전 대표 <span class="character-kitae">남기태</span> 변사 사건의 진범이 <span class="character-hyunsu">류현수</span>로 밝혀짐. 피의자는 과거 마약 전과가 발각될 것을 우려하여 둔기(촛대)로 피해자를 타격하여 살해한 뒤 저수지에 사체를 유기한 사실을 자백함.
     </p>
 
     <p>
-      <strong>3. 금괴 탈취 목적의 특수 범죄</strong><br>
+      <strong>[금괴 탈취 목적의 특수 범죄]</strong><br>
       참고인 <span class="character-danhee">박단희</span>와 <span class="character-haejun">정해준</span>은 은금도가 사유지 내에 매장된 것으로 추정되는 금괴를 탈취할 목적으로 공모함. 이들은 피해자 <span class="character-eunju">강은주</span>의 유서를 위조하여 재산 상속을 노렸으며, 사건 당일 저녁 피해자에게 수면제를 투약한 정황이 확인됨.
     </p>
 
     <div class="divider-line"></div>
 
-    <div class="section-title">종합 의견</div>
+    <!-- 종합 의견 -->
+    <div class="section-title">4. 수사 종합 의견</div>
     <p>
-      본 사건은 금전적 탐욕과 치정이 복합적으로 작용한 집단적 범죄 행위로 판단됨. 전원 구속 및 검찰 송치 예정임.
+      본 사건은 금전적 탐욕과 치정이 복합적으로 작용한 집단적 범죄 행위로 판단됨. 피의자 전원에 대해 구속영장을 신청하고 기소 의견으로 관할 지방검찰청에 송치함.
     </p>
 
   </div>

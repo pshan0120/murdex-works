@@ -1164,3 +1164,252 @@
     border-left: 4px solid #ff3c3c;
     color: #ffcccc;
 }
+
+/* ==========================================================================
+   12. 정통 경찰 수사 종결 보고서 양식 (type-police-report)
+   ========================================================================== */
+
+.story-content .document-page.type-police-report {
+    background-color: #fdfdfd;
+    color: #1e293b;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+    padding: 28px 24px;
+    max-width: 680px;
+    margin: 10px auto;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Malgun Gothic", sans-serif;
+    position: relative;
+    box-sizing: border-box;
+}
+
+/* 상단 관서 정보 및 결재란 영역 */
+.story-content .document-page.type-police-report .police-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 12px;
+}
+
+.story-content .document-page.type-police-report .police-meta {
+    font-size: 0.8em;
+    color: #475569;
+    line-height: 1.6;
+}
+
+.story-content .document-page.type-police-report .police-meta .org-name {
+    font-size: 1.05em;
+    font-weight: 700;
+    color: #0f172a;
+    letter-spacing: -0.01em;
+    margin-bottom: 2px;
+}
+
+/* 결재란 테이블 */
+.story-content .document-page.type-police-report .police-approval {
+    border-collapse: collapse;
+    font-size: 0.72em;
+    border: 1px solid #475569;
+    background: transparent;
+    margin: 0;
+    width: auto;
+}
+
+.story-content .document-page.type-police-report .police-approval th,
+.story-content .document-page.type-police-report .police-approval td {
+    border: 1px solid #64748b !important;
+    padding: 2px 8px;
+    text-align: center;
+    color: #0f172a;
+    background: transparent !important;
+    white-space: nowrap;
+}
+
+.story-content .document-page.type-police-report .police-approval th {
+    background-color: #f1f5f9 !important;
+    font-weight: 600;
+}
+
+.story-content .document-page.type-police-report .police-approval .sign-cell {
+    height: 30px;
+    vertical-align: middle;
+    color: #dc2626;
+    font-family: "Nanum Myeongjo", "Batang", serif;
+    font-weight: 700;
+    font-size: 0.9em;
+    letter-spacing: -0.05em;
+}
+
+/* 메인 타이틀 영역 & 붉은 직인 스탬프 */
+.story-content .document-page.type-police-report .police-title-wrap {
+    position: relative;
+    text-align: center;
+    margin: 16px 0 20px 0;
+    border-bottom: 2px solid #0f172a;
+    padding-bottom: 12px;
+}
+
+.story-content .document-page.type-police-report .police-title {
+    font-family: "Nanum Myeongjo", "Batang", serif;
+    font-size: 1.45em;
+    font-weight: 900;
+    letter-spacing: 0.25em;
+    color: #0f172a;
+    margin: 0;
+    line-height: 1.3;
+}
+
+.story-content .document-page.type-police-report .police-stamp {
+    position: absolute;
+    right: 0;
+    top: -6px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #dc2626;
+    outline: 1px solid #dc2626;
+    outline-offset: 1px;
+    color: #dc2626;
+    font-size: 0.75em;
+    font-weight: 900;
+    padding: 2px 6px;
+    border-radius: 2px;
+    transform: rotate(-8deg);
+    letter-spacing: 0.12em;
+    background: rgba(220, 38, 38, 0.05);
+    user-select: none;
+}
+
+/* 공문서 소제목 (노란색 완전 덮어쓰기) */
+.story-content .document-page.type-police-report .section-title {
+    font-family: "Pretendard Variable", Pretendard, sans-serif !important;
+    font-size: 1.02em !important;
+    font-weight: 700 !important;
+    color: #0f172a !important;
+    border-bottom: 1.5px solid #334155 !important;
+    margin-top: 1.4em !important;
+    margin-bottom: 0.7em !important;
+    padding-bottom: 4px !important;
+    letter-spacing: -0.02em !important;
+}
+
+/* 공문서 격자 테이블 */
+.story-content .document-page.type-police-report .police-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0 16px 0;
+    font-size: 0.85em;
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+}
+
+.story-content .document-page.type-police-report .police-table th {
+    background-color: #f1f5f9 !important;
+    color: #0f172a !important;
+    font-weight: 700;
+    padding: 6px 10px;
+    border: 1px solid #cbd5e1 !important;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.story-content .document-page.type-police-report .police-table td {
+    padding: 7px 10px;
+    border: 1px solid #cbd5e1 !important;
+    color: #1e293b;
+    vertical-align: middle;
+}
+
+/* 리스트 & 불릿 (노란색 덮어쓰기) */
+.story-content .document-page.type-police-report ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1em;
+}
+
+.story-content .document-page.type-police-report li {
+    margin-bottom: 0.5em;
+    padding-left: 1.3em;
+    position: relative;
+    color: #334155;
+    font-size: 0.9em;
+    line-height: 1.6;
+}
+
+.story-content .document-page.type-police-report li::before {
+    content: "•" !important;
+    position: absolute;
+    left: 0;
+    color: #475569 !important;
+    font-weight: bold;
+}
+
+.story-content .document-page.type-police-report .divider-line {
+    height: 1px;
+    background: #e2e8f0;
+    margin: 1.3em 0;
+}
+
+/* 본문 문단 */
+.story-content .document-page.type-police-report p {
+    color: #334155;
+    line-height: 1.7;
+    margin-bottom: 0.9em;
+    text-align: justify;
+    word-break: keep-all;
+    font-size: 0.9em;
+}
+
+.story-content .document-page.type-police-report p strong {
+    color: #0f172a;
+    font-weight: 700;
+}
+
+/* 흰 배경에 맞춘 차분한 다크톤 캐릭터 폰트 컬러 */
+.story-content .document-page.type-police-report .character-dohun {
+    color: #78650e !important;
+    font-weight: 700;
+}
+
+.story-content .document-page.type-police-report .character-hyunsu {
+    color: #85370d !important;
+    font-weight: 700;
+}
+
+.story-content .document-page.type-police-report .character-eunju {
+    color: #991b1b !important;
+    font-weight: 700;
+}
+
+.story-content .document-page.type-police-report .character-kitae {
+    color: #334155 !important;
+    font-weight: 700;
+}
+
+.story-content .document-page.type-police-report .character-danhee {
+    color: #9a4910 !important;
+    font-weight: 700;
+}
+
+.story-content .document-page.type-police-report .character-haejun {
+    color: #1e40af !important;
+    font-weight: 700;
+}
+
+.story-content .document-page.type-police-report .character-eunji {
+    color: #9d174d !important;
+    font-weight: 700;
+}
+
+.story-content .document-page.type-police-report .character-seoyeon {
+    color: #6b21a8 !important;
+    font-weight: 700;
+}
+
+.story-content .document-page.type-police-report .character-mansu {
+    color: #115e59 !important;
+    font-weight: 700;
+}
