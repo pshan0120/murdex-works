@@ -48,3 +48,6 @@ https://cdn1.suno.ai/bba27577-8e7c-46b8-89f3-7cdb3f054bdb.mp3
     모든 플레이어가 조사를 마쳤다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
   </p>
 </div>
+
+8. 다음 단계 전 리마인더 (story_step.pre_next_reminder — 준비완료/진행 버튼 바로 위에 항상 표시됨)
+다음 단계로 넘어가기 전에 엘드리치 플레이어가 새로운 조를 편성했는지 확인하세요. 직전 조 편성과 멤버 구성이 겹치면 안 됩니다.

@@ -2301,7 +2301,7 @@ EndingID : e5b25c5e-c3e5-4f80-932f-2182f91f32cf
 
 제목: 바스타즈의 결속
 EndingID : ec68b124-b8b3-4058-b159-134c032d178f
-엔딩타입: TRUE_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 말리스 처형 & 생존한 멤버들의 전투력 총합 > 마신이 된 엘드리치의 전투력
 
 화자 역할:
@@ -2498,7 +2498,7 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
 
 제목: 새로운 여명
 EndingID : 80b95bc2-3e55-463c-af87-354118714861
-엔딩타입: HIDDEN_ENDING
+엔딩타입: TRUE_ENDING
 조건: 아무도 처형하지 않음 (모두 생존 및 진실 고백)
 
 화자 역할:
