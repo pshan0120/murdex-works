@@ -1,22 +1,38 @@
-StoryID : fd09b053-3bce-4c0b-ac06-0287d42b86c3
-RoleID : c9189b82-8c13-4801-8ded-27b6677dab21
+■ 액션명: 흔적 말소
 
-※ 공통 액션 '뒷조사'는 역할액션_공통.txt 참고.
-※ 이준서만 가지고 있는 액션은 아래 세 개입니다.
+■ 소모 AP: 5
+
+■ 액션 유형: MODIFY_CLUE
+
+■ 액션 설명 (HTML):
+<div class="story-content">
+  <p>창문을 통해 침입할 때 사용했던 비품 사다리에 묻은 자신의 신발 흙자국과 지문을 닦아냅니다.</p>
+</div>
+
+■ 효과 설명 (HTML):
+<div class="story-content">
+  <p><span class="emphasis">&lt;이과대학 비품창고 내부&gt;</span>의 사다리에는 당신이 그날 밤 창문으로 침입했던 결정적인 증거가 남아 있습니다. 신발 밑창의 진흙 자국, 손잡이에 묻은 지문... 만약 다른 누군가가 이것들을 발견한다면, 당신과 현장을 직접 연결하는 물리적 증거가 될 것입니다. 이 액션으로 사다리에 남아있던 결정적인 흔적들을 깨끗이 제거한다면, 다른 플레이어가 <span class="emphasis">&lt;이과대학 비품창고 내부&gt;</span>를 조사하더라도 "사다리는 비교적 깨끗해서 최근 사용 흔적을 찾을 수 없다"고만 보여질 것입니다.</p>
+  <p class="caution-text">※ 주의: 액션 실행에 소모되는 AP만큼 단서 조사를 할 수 없게 되어, <span class="emphasis">추리에 큰 지장</span>이 생길 수 있습니다. 신중하게 결정하십시오.</p>
+</div>
+
+■ 실행 결과 (HTML):
+<div class="story-content">
+  <div class="game-effect-notice">
+    <p>주위에는 아무도 없지만, 창고 내부의 서늘한 공기가 마치 누군가 지켜보는 듯한 긴장감을 줍니다. 주머니에서 거친 손수건을 꺼내 사다리의 발판과 지지대를 구석구석 문지르자 신발 밑창의 진흙 자국과 지문이 하나둘 사라집니다. "이걸로 됐어..." 심장박동이 조금씩 잦아듭니다. 이제 누가 이 사다리를 봐도 최근에 누군가 사용했다는 사실을 알아채지 못할 것입니다.</p>
+    <span>&lt;이과대학 비품창고 내부#1&gt; 단서 내용이 변경됩니다.</span>
+  </div>
+</div>
 
 ---
 
-■ 액션명: 고찰: 한세린
-
-ActionID : 55634cef-c9c4-4a7b-9e2a-8a9b081c9be9
+■ 액션명: 고찰: 한세린에 대하여
 
 ■ 소모 AP: 1
 
 ■ 액션 유형: OTHER
 
-■ 대상 유형: NONE
-
 ■ 액션 설명 (HTML):
+
 <div class="story-content">
   <p><span class="character-han">한세린</span>의 평소 행실과 나를 대하던 태도를 떠올려 봅니다.</p>
 </div>
@@ -35,15 +51,11 @@ ActionID : 55634cef-c9c4-4a7b-9e2a-8a9b081c9be9
 
 ---
 
-■ 액션명: 고찰: 최도윤
-
-ActionID : 2aa4a0e4-b65e-4628-aeca-ea8cc7e3be9e
+■ 액션명: 고찰: 최도윤에 대하여
 
 ■ 소모 AP: 1
 
 ■ 액션 유형: OTHER
-
-■ 대상 유형: NONE
 
 ■ 액션 설명 (HTML):
 <div class="story-content">
@@ -64,17 +76,14 @@ ActionID : 2aa4a0e4-b65e-4628-aeca-ea8cc7e3be9e
 
 ---
 
-■ 액션명: 고찰: 황기순
-
-ActionID : 74ed51e6-7c36-409f-95c7-497d7733be9d
+■ 액션명: 고찰: 황기순에 대하여
 
 ■ 소모 AP: 1
 
 ■ 액션 유형: OTHER
 
-■ 대상 유형: NONE
-
 ■ 액션 설명 (HTML):
+
 <div class="story-content">
   <p><span class="character-hwang">황기순</span>이 최종 취합하여 전송한 발표자료를 떠올려 봅니다.</p>
 </div>
