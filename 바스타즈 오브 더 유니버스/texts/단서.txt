@@ -2106,7 +2106,7 @@ HTML :
 이름 : 마법탑#1
 clue_id : 295a363c-2007-43d3-856f-795b5b65653e
 variant_id : e552f0a3-c3a7-4b0f-a5b7-57b8230cb867
-유형 : 관찰
+유형 : 물증
 단계 : 조사 4단계
 소모AP : 1
 정렬순서 : 550
@@ -2118,15 +2118,24 @@ variant_id : e552f0a3-c3a7-4b0f-a5b7-57b8230cb867
 획득 조건 내용 : 없음
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
-관련 : 발로그
-의도 : 발로그가 비행으로 낙하했으며, 원소 마법에 면역이었고 마력을 개방할 수 있다는 증거.
+관련 : 말리스
+의도 : (기존 마법탑#1은 발로그의 마력 폭주 증거였으나 마법탑#2 증언과 결론이 완전히 겹쳐 비중이 낮아 이 내용으로 교체함) 말리스가 과거 골든 서클 소속 마법사였다가 제명과 함께 마력을 강제로 빼앗겼다는 사실 — 즉 현재 그녀는 마력을 전혀 쓸 수 없다는 사실을 암시하는 물증. 이름은 찢겨 나가 확인 불가능하게 처리해 직접 지목하지 않되, 왕좌의 방의 금색 펜던트(말리스를 닮은 초상화)·연구실의 협박 쪽지(마력석 속 딸의 영혼)와 조합하면 이 판결의 당사자가 말리스임을 추리할 수 있게 설계. "혈육 또한... 동일한 절차로 봉인한다"는 문구는 "딸"·"마력석"이라는 단어를 직접 쓰지 않으면서도, 협박 쪽지의 "마력석 속 영혼"과 "봉인"이라는 단어를 공유시켜 두 단서를 연결하는 장치. 이 사실은 연구실#4의 마나플레어 와이어(마력이 있어야 작동)와 결합해 "말리스는 트랩을 직접 작동시킬 수 없었다"는 결정적 방어 논리로 이어짐(테스트 피드백: 말리스가 불리하게 느껴진다는 지적에 대한 대응).
 내용 :
-마법탑 상층부를 지키던 마법사들이 하늘을 올려다보는 자세 그대로 쓰러져 있다. 이들이 서 있던 좁은 반경만 멀쩡하고, 경계 너머의 지면은 강력한 힘에 짓눌려 으깨져 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 마력 폭주로 인한 과부하로 검게 타버린 채 매캐한 연기를 내뿜고 있다.
+마법탑 지하, 낡은 서류함 구석에서 빛바랜 판결문 한 장을 발견했다. 골든 서클의 인장이 찍힌 이 문서는 "신성한 혈통을 더럽힌" 한 젊은 마법사에 대한 제명 판결을 담고 있다. 판결문 하단에는 "즉시 마력을 추출해 봉인한다"는 문구와 함께, "피고인의 혈육 또한 규정에 따라 함께 귀속하며, 동일한 절차로 봉인한다"는 추가 조치가 덧붙어 있다.
 HTML :
 <div class="story-content">
-  <div>마법탑 상층부를 지키던 마법사들이 <span class="emphasis">하늘을 올려다보는 자세 그대로</span> 쓰러져 있다. 이들이 서 있던 좁은 반경만 멀쩡하고, 경계 너머의 지면은 강력한 힘에 짓눌려 으깨져 있다. 마법사들이 쥐고 있던 지팡이 끝의 보석들은 <span class="emphasis">마력 폭주로 인한 과부하</span>로 검게 타버린 채 매캐한 연기를 내뿜고 있다.</div>
+  <div class="script-direction">마법탑 지하, 낡은 서류함 구석에서 빛바랜 판결문 한 장을 발견했다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <h4>&lt;판결문&gt;</h4>
+    <div class="document-body small">
+      <div>피고인은 <span class="emphasis">신성한 혈통을 더럽힌 죄</span>로 <span class="character-solite">골든 서클</span>에서 제명한다.</div>
+      <div>즉시 <span class="emphasis">마력을 추출해 봉인</span>한다.</div>
+      <div>피고인의 <span class="emphasis">혈육</span> 또한 규정에 따라 함께 귀속하며, 동일한 절차로 봉인한다.</div>
+    </div>
+  </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Macro close-up focus on a fallen sorcerer's staff and burnt jewelry lying on a scorched, cracked stone floor. Tendrils of faint smoke rise from the staff. Shallow depth of field, background is dark and blurred. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a faded, official judgment scroll lying on a dusty wooden desk inside a dark, ancient mage tower underground archive. The parchment features formal handwritten text, with no visible wax seal. The bottom signature area of the document is visibly torn away, leaving a jagged missing corner. Faint dust motes drift through a thin shaft of dim light. Shallow depth of field, background blurred stone walls, cobwebs, and cluttered bookshelves. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting.
 단서 그룹 : 08_마법탑
 파일명 : 55_마법탑_1
 
