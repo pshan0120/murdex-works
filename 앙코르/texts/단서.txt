@@ -27,11 +27,11 @@ groupId :
 관련 : 공통
 의도 : 1년차에 똘이({dog_name_2})와 함께 지내며 관찰한 기록.
 내용 :
-○○월 ○○일, 흐림. {dog_name_2}는(은) 요 며칠 부쩍 내 곁을 떠나지 않는다.
+8월 23일, 흐림. {dog_name_2}는(은) 요 며칠 부쩍 내 곁을 떠나지 않는다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 흐림. {dog_name_2}는(은) 요 며칠 부쩍 내 곁을 떠나지 않는다.</div>
+    <div class="document-body">8월 23일, 흐림. {dog_name_2}는(은) 요 며칠 부쩍 내 곁을 떠나지 않는다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a small Yorkshire Terrier with leaner proportions and slightly longer legs, erect V-shaped ears, short neatly trimmed puppy-cut fur, round dark eyes, small black nose, shorter stubby snout giving a rounder cuter face, dark black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, lying close beside its owner's feet on a living room floor, refusing to leave, looking up with devoted eyes, soft overcast light filtering through a window. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  IMPORTANT: Framed from the chest down, human head completely out of frame (cropped out). strictly NO human faces visible. Any human figures must wear gender-neutral autumn clothing and have completely ambiguous, unidentifiable gender. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
@@ -63,11 +63,11 @@ groupId :
 관련 : 공통
 의도 : 1년차에 강아지를 처음 집으로 데려와 가족이 되던 날의 관찰 기록.
 내용 :
-○○월 ○○일, 비. 나는 우리 집에 한 마리의 강아지가 더 생기길 바랐다. 그리고 그 소원이 이루어졌다. 지금 우리 집에 개가 두 마리 있다. 나는 {dog_name}를(을) 품에 안고 있다. 나는 {dog_name}에게 인사했다. "안녕." 그러니까 {dog_name}도 나를 쳐다본다. {dog_name_2}는(은) 그 모습을 불안한 눈빛으로 쳐다보고 있다.
+8월 24일, 맑음. 나는 우리 집에 한 마리의 강아지가 더 생기길 바랐다. 그리고 그 소원이 이루어졌다. 지금 우리 집에 개가 두 마리 있다. 나는 {dog_name}를(을) 품에 안고 있다. 나는 {dog_name}에게 인사했다. "안녕." 그러니까 {dog_name}도 나를 쳐다본다. {dog_name_2}는(은) 그 모습을 불안한 눈빛으로 쳐다보고 있다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 비. 나는 우리 집에 한 마리의 강아지가 더 생기길 바랐다. 그리고 그 소원이 이루어졌다. 지금 우리 집에 개가 두 마리 있다. 나는 {dog_name}를(을) 품에 안고 있다. 나는 {dog_name}에게 인사했다. "안녕." 그러니까 {dog_name}도 나를 쳐다본다. {dog_name_2}는(은) 그 모습을 불안한 눈빛으로 쳐다보고 있다.</div>
+    <div class="document-body">8월 24일, 맑음. 나는 우리 집에 한 마리의 강아지가 더 생기길 바랐다. 그리고 그 소원이 이루어졌다. 지금 우리 집에 개가 두 마리 있다. 나는 {dog_name}를(을) 품에 안고 있다. 나는 {dog_name}에게 인사했다. "안녕." 그러니까 {dog_name}도 나를 쳐다본다. {dog_name_2}는(은) 그 모습을 불안한 눈빛으로 쳐다보고 있다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, very long floor-length silky fur, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, a person cradling the small dog horizontally in their arms like a baby (on its back with paws up), the dog is looking up affectionately towards the owner's unseen face, at a house entrance on a rainy day, while a second Yorkshire Terrier watches from behind with worried anxious eyes, raindrops visible outside the door. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  IMPORTANT: Framed from the chest down, human head completely out of frame (cropped out). strictly NO human faces visible. Any human figures must wear gender-neutral spring clothing and have completely ambiguous, unidentifiable gender. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
@@ -99,11 +99,11 @@ groupId :
 관련 : 공통
 의도 : 1년차에 기록한 일상 관찰 기록 (1년: 산책하기).
 내용 :
-○○월 ○○일, 맑음. {dog_name}를(을) 데리고 산책을 나섰다. {dog_name}는(은) 곧잘 따라오다가 안아달라고 한다. 수풀 근처에서 내려달라는 눈치라서 그리 했더니 풀 속에 들어가 소변을 본다. {dog_name}는(은) 나를 돌아보았고 나는 고개를 끄덕여 주었다.
+8월 18일, 맑음. {dog_name}를(을) 데리고 산책을 나섰다. {dog_name}는(은) 곧잘 따라오다가 안아달라고 한다. 수풀 근처에서 내려달라는 눈치라서 그리 했더니 풀 속에 들어가 소변을 본다. {dog_name}는(은) 나를 돌아보았고 나는 고개를 끄덕여 주었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. {dog_name}를(을) 데리고 산책을 나섰다. {dog_name}는(은) 곧잘 따라오다가 안아달라고 한다. 수풀 근처에서 내려달라는 눈치라서 그리 했더니 풀 속에 들어가 소변을 본다. {dog_name}는(은) 나를 돌아보았고 나는 고개를 끄덕여 주었다.</div>
+    <div class="document-body">8월 18일, 맑음. {dog_name}를(을) 데리고 산책을 나섰다. {dog_name}는(은) 곧잘 따라오다가 안아달라고 한다. 수풀 근처에서 내려달라는 눈치라서 그리 했더니 풀 속에 들어가 소변을 본다. {dog_name}는(은) 나를 돌아보았고 나는 고개를 끄덕여 주었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking down at a small Yorkshire Terrier being carried in the owner's arms. The owner's face and head are completely invisible (strictly out of frame). The dog has a compact toy-breed body, erect V-shaped ears, very short buzzed coat, closely shaved body hair, silvery-grey and black coat fading to tan/golden-brown. The dog is gazing curiously at bushes nearby. The background is a bright sunny park inside a typical South Korean apartment complex (with apartment buildings in the background and green park areas). warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette, thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Absolutely no text, no letters, no words, and no signs in the image. Absolutely NO borders, NO frames, NO decorative corners.
@@ -135,11 +135,11 @@ groupId :
 관련 : 공통
 의도 : 1년차에 기록한 일상 관찰 기록 (1년: 계단 오르기).
 내용 :
-○○월 ○○일, 흐림. {dog_name}는(은) 계단 앞에서 멈춰 섰다. 몇 번 발을 올렸다 내리기를 반복하더니 나를 올려다보았다. 안아서 올려주자 품에 얌전히 안겨 있었다. 위층에 다다르자 {dog_name}는(은) 몸을 흔들어 자세를 고쳐 잡았다.
+8월 21일, 흐림. {dog_name}는(은) 계단 앞에서 멈춰 섰다. 몇 번 발을 올렸다 내리기를 반복하더니 나를 올려다보았다. 안아서 올려주자 품에 얌전히 안겨 있었다. 위층에 다다르자 {dog_name}는(은) 몸을 흔들어 자세를 고쳐 잡았다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 흐림. {dog_name}는(은) 계단 앞에서 멈춰 섰다. 몇 번 발을 올렸다 내리기를 반복하더니 나를 올려다보았다. 안아서 올려주자 품에 얌전히 안겨 있었다. 위층에 다다르자 {dog_name}는(은) 몸을 흔들어 자세를 고쳐 잡았다.</div>
+    <div class="document-body">8월 21일, 흐림. {dog_name}는(은) 계단 앞에서 멈춰 섰다. 몇 번 발을 올렸다 내리기를 반복하더니 나를 올려다보았다. 안아서 올려주자 품에 얌전히 안겨 있었다. 위층에 다다르자 {dog_name}는(은) 몸을 흔들어 자세를 고쳐 잡았다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking down at a small Yorkshire Terrier attempting to climb up small soft pet stairs (dog steps) next to a living room sofa. The dog is viewed from behind and slightly above, placing one paw on the step, focused on climbing. The owner is not visible, only the owner's perspective. The dog has a compact toy-breed body, erect V-shaped ears, short neatly trimmed puppy-cut fur, silvery-grey and black coat fading to tan/golden-brown. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Absolutely no text, no letters, no words, and no signs in the image. Set in a typical modern South Korean apartment interior. Absolutely NO borders, NO frames, NO decorative corners.
@@ -394,7 +394,7 @@ HTML :
     <div class="document-body">○○월 ○○일, 맑음. {dog_name}를(을) 데리고 동네 병원에 다녀왔다. 진료가 끝나자 {dog_name}는(은) 곧장 현관문 쪽으로 걸어갔다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Medium close-up shot focusing closely on a small Yorkshire Terrier, filling a large prominent portion of the frame in the foreground. The dog has upright erect pointed V-shaped ears standing alertly, a relaxed lowered tail (tail pointing down, not raised), very short buzzed coat, silvery-grey and black body with tan face and paws, tiny cute pink tongue visibly sticking out slightly from mouth (blep), walking calmly across the floor toward the right side. In the soft, softly blurred background, the wooden reception counter of a cozy veterinary clinic and a bright glass entrance door are subtly indicated. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (soft warm wood, pale cream, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused natural lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) in the foreground of a cozy veterinary clinic. CRITICAL: The dog MUST have upright pointed erect V-shaped ears standing straight up (strictly NO folded, dropped, or floppy ears). The dog has a compact toy-breed body, very short buzzed coat, silvery-grey and black saddle fading to tan on face and paws, cute pink tongue sticking out (blep), and a very short docked nub tail (tiny button tail, strictly NO long tail). After finishing its checkup, the dog is trotting calmly across the clinic floor toward the glass exit door to go home. In the soft background, a clean wooden reception counter and sunny glass entrance door of a cozy vet clinic are softly visible. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (soft warm wood, pale cream, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused natural lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Absolutely NO borders, NO frames, NO decorative corners.
 
 레퍼런스: ari_adult_very_short.jpg
 
@@ -2979,11 +2979,11 @@ groupId :
 관련 : 공통
 의도 : 16년차에 기록한 일상 관찰 기록 (16년: 첫날).
 내용 :
-○○월 ○○일, 맑음. {dog_name}를(을) 안고 처음 이 집에 들어섰다. {dog_name}는(은) 낯선 냄새에 자꾸 품 안으로 파고들었다.
+11월 5일, 맑음. {dog_name}를(을) 안고 처음 이 집에 들어섰다. {dog_name}는(은) 낯선 냄새에 자꾸 품 안으로 파고들었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. {dog_name}를(을) 안고 처음 이 집에 들어섰다. {dog_name}는(은) 낯선 냄새에 자꾸 품 안으로 파고들었다.</div>
+    <div class="document-body">11월 5일, 맑음. {dog_name}를(을) 안고 처음 이 집에 들어섰다. {dog_name}는(은) 낯선 냄새에 자꾸 품 안으로 파고들었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a very young Yorkshire Terrier puppy at half adult size, oversized head-to-body ratio, erect V-shaped ears, very short buzzed coat, closely shaved body hair, cute round baby face, soft chubby cheeks, big glossy innocent dark eyes, tiny black nose, almost entirely black puppy coat with minimal tan on legs and cheeks, small white chest patch, short docked tail, being cradled in someone's arms inside a new unfamiliar house, burying its tiny face into the owner's chest, sunny room with new surroundings. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, deeply faded dreamy and misty atmosphere representing a distant fond memory, softer edges.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
@@ -3015,11 +3015,11 @@ groupId :
 관련 : 공통
 의도 : 16년차에 기록한 일상 관찰 기록 (16년: 밥그릇).
 내용 :
-○○월 ○○일, 맑음. 밥그릇을 내밀자 {dog_name}는(은) 한참을 코로 킁킁대다가 조심스럽게 다가왔다.
+11월 6일, 맑음. 밥그릇을 내밀자 {dog_name}는(은) 한참을 코로 킁킁대다가 조심스럽게 다가왔다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 밥그릇을 내밀자 {dog_name}는(은) 한참을 코로 킁킁대다가 조심스럽게 다가왔다.</div>
+    <div class="document-body">11월 6일, 맑음. 밥그릇을 내밀자 {dog_name}는(은) 한참을 코로 킁킁대다가 조심스럽게 다가왔다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a very young Yorkshire Terrier puppy at half adult size, oversized head-to-body ratio, erect V-shaped ears, very short buzzed coat, closely shaved body hair, cute round baby face, soft chubby cheeks, big glossy innocent dark eyes, tiny black nose, almost entirely black puppy coat with minimal tan on legs and cheeks, small white chest patch, short docked tail, cautiously approaching a food bowl placed on the floor, sniffing it repeatedly before taking a tentative step closer, sunny kitchen floor. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, deeply faded dreamy and misty atmosphere representing a distant fond memory, softer edges.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
