@@ -1,0 +1,284 @@
+[앙코르 단계별 컷씬 시퀀스]
+* 아트 디렉션: 동화책 수채화풍(soft watercolor illustration, warm nostalgic children's picture book aesthetic). 절제된 톤 — 과장되게 귀엽거나 코미디스럽지 않게. 채도 낮은 파스텔 팔레트(크림, 더스티 핑크, 소프트 블루), 얇은 갈색 아웃라인, 부드럽게 번지는 색 경계, 은은한 확산광.
+* 시점 규칙(2026-09-04, 중요 — 최초 버전의 실수 수정): 이 컷씬은 "아리가 보는 세상"이지 "아리를 보는 장면"이 아니다. 그래서 프레임 안에 아리(강아지) 자신의 몸·주둥이·발이 절대 보이면 안 된다 — 보이면 그건 시점이 아니라 그냥 아리를 관찰하는 3인칭 구도가 되어버린다. 카메라는 항상 아리의 눈높이(바닥에서 25~35cm 정도, 소형견 기준)에 낮게 위치해서 그 높이에서 세상을 올려다보거나 스쳐 지나가는 구도로 잡는다. 다른 사람(주인 등)이 프레임에 등장하는 건 괜찮다 — 얼굴 없이 다리나 손 정도만, 시점 주체가 아니라 시점이 향하는 대상이니까. 캐릭터(아리/똘이) 자체의 디자인 프롬프트(프롬프트.txt)는 이 컷씬에는 적용하지 않는다 — 애초에 캐릭터가 프레임에 없기 때문.
+* 자막 문체 규칙: 아리(강아지) 시점, 해요체. 그 순간의 감각(냄새→소리→몸의 반응 순서)만 담고, 시간을 넘나드는 언급(회상, 예감, 나이·개월 수, "아직 ~못 해요" 류의 미성숙 표현)은 쓰지 않는다 — 단서 텍스트의 "원인 설명 금지" 규칙과 동일한 이유(4장, 7장). 특정 단서의 사건을 그대로 재서술하지 않고, 그 단계의 계절감·장소감만 짧게 연다(1~2문장).
+* 슬라이드 구성: 단계당 컷 1개.
+* 용도: 각 컷 이미지는 해당 단계 인트로 컷씬으로 쓰인다. (2026-09-04 수정: 단서 그룹 대표 이미지 재사용 계획은 보류 — 다른 83개 단서 이미지는 전부 아리가 "보이는" 3인칭 구도라서, 순수 시점샷인 이 컷씬 이미지를 그대로 그룹 이미지로 쓰면 유독 결이 달라질 수 있음. 필요해지면 별도로 재검토.)
+* 장소 규칙(2026-09-04, 단서.txt 이미지 프롬프트에서 지적됐던 문제 재발 방지):
+  1. "산"이 등장할 경우 반드시 아파트 단지 바로 옆/뒤의 낮은 동네 뒷산으로 한정한다. 높은 산, 등산로, 원경 산맥은 금지.
+  2. "동네"·"마을"은 항상 현대 한국 아파트 단지를 의미한다. 전통 한옥·옛날 시골 마을·촌락 이미지는 금지.
+  3. "집 안"·"실내"는 전형적인 현대 한국 아파트 내부로 한정한다. 그 외 주택 형태(단독주택, 시골집 등)는 금지.
+  이 세 규칙은 아래 각 프롬프트의 공통 꼬리말(tail)에 명시적으로 포함시켰다.
+
+[진행 상황 - 2026-09-04] 표시1~16단계 자막(문구) 확정. 이미지 프롬프트는 순수 1인칭 시점(아리 자신은 프레임에 없음)으로 전면 재작성.
+
+########################################
+[표시1단계 - 1년 (내부 16살, 마지막 해)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+저녁이 되면 골목에 풀 냄새가 짙어져요.
+익숙한 발소리가 들리고, 나는 그 쪽으로 몸을 돌려요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level (roughly 25-35cm above the ground), looking across a quiet paved walkway inside a modern South Korean apartment complex at dusk, warm window lights beginning to glow in the apartment buildings ahead, late summer evening haze. A pair of familiar human legs and feet in simple house slippers approaching from a short distance ahead, cropped above the knee, no face or upper body visible. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). If the scene is indoors, it must be a typical modern South Korean apartment interior. If a hill or wooded area appears, it must be a low neighborhood hill directly behind or beside the apartment complex, gentle and walkable, NOT a tall mountain, NOT remote wilderness. Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시1단계_컷1
+
+
+########################################
+[표시2단계 - 2년 (내부 15살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+조용한 낮이 좋아요.
+앉던 자리, 익숙한 담요 냄새가 나를 부드럽게 감싸요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, close to the floor, looking at a soft blanket spread across the corner of a modern South Korean apartment living room, afternoon light filtering softly through sheer curtains, calm quiet indoor atmosphere. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. The interior must be a typical modern South Korean apartment interior (NO other house types, NO traditional hanok, NO rural countryside village). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시2단계_컷1
+
+
+########################################
+[표시3단계 - 3년 (내부 14살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+비 오기 전엔 공기 냄새가 달라져요.
+주차장을 지나 후문 쪽 익숙한 길로 걸어요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, moving through an apartment complex's outdoor parking area toward a side gate, overcast pre-rain sky visible through the gate opening ahead, cool damp atmosphere, muted grey-green tones. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex parking area (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시3단계_컷1
+
+
+########################################
+[표시4단계 - 4년 (내부 13살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+볕이 잘 드는 자리엔 항상 낮잠이 쌓여요.
+어느 날은 마당에 하얀 것이 소복이 쌓여 있어요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, looking at a sunlit patch of floor beside a South Korean apartment living room window, snow gently blanketing the apartment complex courtyard visible through the window beyond, cozy warm indoor light contrasting with the cold bright winter daylight outside. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, snow white), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. The interior must be a typical modern South Korean apartment interior, with a typical modern apartment complex courtyard visible outside the window (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시4단계_컷1
+
+
+########################################
+[표시5단계 - 5년 (내부 12살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+짧아진 산책길도 여전히 좋아요.
+멀리서 들려오는 발소리만으로 누군지 알 수 있어요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, looking down a short paved walkway inside a modern South Korean apartment complex, a small distant human figure approaching along the path ahead (a faint silhouette only, no facial detail, far in the background), gentle daylight, calm anticipation. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex walkway (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). If a hill appears in the background, it must be a low neighborhood hill directly beside the apartment complex, NOT a tall mountain. Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시5단계_컷1
+
+
+########################################
+[표시6단계 - 6년 (내부 11살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+차창 밖으로 바람이 밀려들어요.
+낯선 곳에서도 새벽 공기는 다르지 않아요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned low inside a car's back seat, close to a partially open window as if leaning toward the gap, riding along a quiet highway at dawn, soft pink-orange sunrise light, wind-blurred roadside greenery streaming past outside the window. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, dawn orange), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans visible (no driver, no passengers). Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Outside the car window, only distant low hills or open countryside fields are visible in soft blur (NOT a tall mountain, NOT any village or building detail, just soft unfocused roadside scenery). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시6단계_컷1
+
+
+########################################
+[표시7단계 - 7년 (내부 10살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+가고 싶은 길은 내가 먼저 골라요.
+차 문이 열리면 신이 나서 먼저 올라타요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, looking up toward the open door of a car parked in a modern South Korean apartment complex parking lot, the inviting dark interior of the back seat just ahead, bright daylight, a sense of eager forward motion with slight motion blur at the edges of frame conveying anticipation. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex parking lot (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시7단계_컷1
+
+
+########################################
+[표시8단계 - 8년 (내부 9살, 중년기)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+마당엔 풀 냄새가 가득하고, 공이 날아가는 소리가 하루 종일 이어져요.
+초인종이 울릴 때마다 나는 제일 먼저 달려나가요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, skimming across a small grassy lawn area within a modern South Korean apartment complex courtyard, a ball resting mid-bounce on the grass ahead, bright midday sunlight, lively motion blur on the grass blades passing by suggesting fast running. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex courtyard lawn (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시8단계_컷1
+
+
+########################################
+[표시9단계 - 9년 (내부 8살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+공원 잔디밭은 뛰어다니기 딱 좋아요.
+비 오는 날엔 문 앞에서 발을 들이지 않아요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, skimming rapidly across a wide grassy neighborhood park lawn inside a modern South Korean apartment complex, grass blades blurring past on either side from fast motion, bright sunny open sky ahead, dynamic joyful energy. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex neighborhood park lawn (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시9단계_컷1
+
+
+########################################
+[표시10단계 - 10년 (내부 7살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+좋아하는 냄새를 만나면 줄이 팽팽해져요.
+천둥이 치는 밤엔 이불 속이 제일 안전해요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned extremely low, very close to a paved apartment complex walkway, a close-up view of the pavement texture ahead, a taut leash line extending up and out of frame toward an unseen hand, alert eager forward-pulling energy, bright daylight. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame (only the leash is visible, no hand or body shown). Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex walkway (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시10단계_컷1
+
+
+########################################
+[표시11단계 - 11년 (내부 6살, 똘이 탄생 연도 - 암시 없음)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+짧게 다듬은 털이 시원해요.
+차에 타면 나는 항상 운전석 쪽으로 다가가요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned low inside the back seat of a parked car, looking forward and toward the empty driver's seat with a curious leaning-forward angle, soft warm interior light. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame (empty driver's seat, no person shown). Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. The car is parked in a typical modern South Korean apartment complex parking lot, visible faintly through the car windows. Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시11단계_컷1
+
+
+########################################
+[표시12단계 - 12년 (내부 5살, 이후 똘이 등장 없음)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+처음 보는 것 앞에서도 코부터 들이밀어요.
+하천 길을 따라 걸으면 냄새가 끝없이 이어져요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low and very close, an extreme close-up view of an unfamiliar small object resting on the paved ground of a modern South Korean apartment complex courtyard, seen from just above and very close to it, cautious curious framing, daylight. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex courtyard (strictly NO traditional hanok, NO ancient village buildings, NO rural countryside village). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시12단계_컷1
+
+
+########################################
+[표시13단계 - 13년 (내부 4살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+거실을 가로질러 달리면 발톱 소리가 요란해요.
+장난감이 많아도 마음에 드는 건 늘 하나뿐이에요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, skimming across a modern South Korean apartment living room floor in motion, several small toys scattered and blurring past, playful energetic motion blur, daylight through a window. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. The interior must be a typical modern South Korean apartment living room (NO other house types). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시13단계_컷1
+
+
+########################################
+[표시14단계 - 14년 (내부 3살)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+이른 봄 바람이 아직 차가워요.
+산책 줄 냄새를 맡으면 문 앞을 떠날 수가 없어요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, at a small dog's eye-level, inside a modern South Korean apartment entryway near the front door, a leash resting on the floor nearby seen up close, looking up toward the door ahead, cool early spring light coming through a nearby window, muted pale colors suggesting a still-chilly season. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. The interior must be a typical modern South Korean apartment entryway (NO other house types). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시14단계_컷1
+
+
+########################################
+[표시15단계 - 15년 (내부 2살, 몸 크기 2/3 · 털색 검정 위주 시작)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+문턱 앞에서 발을 멈춰요.
+짖는 소리가 낯설게 들려요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Camera positioned very low, right at a slightly raised threshold step of a modern South Korean apartment doorway, the step looming just ahead, soft indoor light, gentle hesitant atmosphere, slightly faded and misty tone suggesting a distant fond memory. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette, thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. The interior must be a typical modern South Korean apartment doorway (NO other house types). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시15단계_컷1
+
+
+########################################
+[표시16단계 - 16년 (내부 1살, "입양 첫해" - 반전 공개)]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+낯선 냄새로 가득한 곳.
+품에 안겨 눈을 감으면, 두근거리던 마음이 조금씩 가라앉아요.
+
+* 이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Genuine first-person point-of-view shot as literally seen through a small dog's own eyes — the dog's own body, snout, or paws must NOT be visible anywhere in this frame. Extreme close-up view from within someone's gentle embrace — soft blurred warm fabric of a person's clothing filling most of the frame very close to the eyes, only a small sliver of an unfamiliar modern South Korean apartment interior barely visible at the edge, everything rendered increasingly soft and out of focus as if the eyes are gently closing, deeply tender hush, deeply faded dreamy and misty atmosphere representing a distant fond memory, softer edges. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette, thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. The person's face, head, and any identifying features are completely out of frame; only a small glimpse of simple gender-neutral clothing is visible, completely ambiguous unidentifiable gender. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. The interior must be a typical modern South Korean apartment interior (NO other house types). Absolutely NO borders, NO frames, NO decorative corners.
+
+* 파일명: 표시16단계_컷1

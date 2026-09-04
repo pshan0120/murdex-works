@@ -172,3 +172,55 @@ Negative prompt: realistic, photorealistic, photo, 3D render, face, human face, 
 [제작 시 확인할 것]
 - 얼굴이나 신체 일부가 우연히라도 나오지 않는지 확인(역할=플레이어 본인이라는 설정을 지켜야 함).
 - 원형 크롭 시 손과 목줄이 중앙에 잘 들어오는지 확인.
+
+
+====================================================================
+8. BGM 프롬프트 (Suno)
+
+2026-09-04 논의. 조사 단계(표시1~16단계)는 전부 같은 BGM을 공유하기로 했고, 그 외 룸 로비·시작·소원·엔딩까지 합쳐 총 5곡이 필요하다.
+
+공통 방향: 지금까지의 텍스트·이미지 전부를 관통하는 "절제된 톤"(과장 안 함, 담백함) 원칙을 BGM에도 그대로 적용한다. 풀 오케스트라로 웅장하게 가지 않고, 피아노·현악기·뮤직박스 등 소규모 편성으로 담백하게. 전부 보컬 없는 instrumental.
+
+기술 참고: BGM 재생 로직(BGMContext.tsx)은 `loop=true`로 트랙을 크로스페이드 없이 처음으로 툭 되감아 반복한다. 특히 2번(조사 16단계 공용, 제일 오래 반복 재생됨)은 시작과 끝이 튀지 않게(강한 인트로 스팅이나 갑작스런 엔딩 없이) 잔잔하게 열고 닫히는 곡을 고르거나, 필요하면 시작/끝부분을 편집해서 다듬는다.
+
+선택적 기법: 5번(작별)을 먼저 만들어서 그 안의 간단한 멜로디 모티프를 정하고, 나머지 4곡을 만들 때 "이 멜로디의 더 밝은/신비로운/편안한 버전"이라고 스타일 설명에 넣으면 완전히 같은 멜로디는 아니어도 톤이 가까워져 전체 사운드트랙에 통일감을 줄 수 있다.
+
+--- 1. 룸 로비 — 평화롭고 신비로운 ---
+
+과거로 돌아가고 싶다는 소원을 비는 순간. 무섭지 않은 신비로움.
+
+Style of Music: ambient, cinematic, music box, celesta, soft ethereal pad, gentle sparkle, ~70bpm, instrumental, no drums
+
+방향: 뮤직박스/첼레스타로 반짝이는 텍스처 하나 깔고, 그 아래 아주 옅은 패드만 은은하게. 멜로디는 최소화하고 "기다림·기대감" 쪽에 무게를 둔다.
+
+--- 2. 단계1 — 소원이 이루어진 순간 ---
+
+로비의 신비로움이 "따뜻함"으로 전환되는 지점.
+
+Style of Music: warm cinematic, gentle piano, soft string swell, magical realization, hopeful but restrained, ~75bpm, instrumental
+
+방향: 곡 초반 살짝 반짝이는 벨 한 번으로 "이루어졌다"는 순간을 표시하고, 이후 피아노 중심으로 부드럽게 안착.
+
+--- 3. 단계2~17 (내부 16년, 조사 단계 공용) — 평온하고 행복한 일상 ---
+
+제일 많이 들릴 곡. 멜로디가 튀지 않고 편안하게 흘러야 한다.
+
+Style of Music: warm acoustic, gentle piano and light strings, fingerstyle guitar accent, cozy everyday warmth, seamless loop, ~80-90bpm, instrumental, content and nostalgic
+
+방향: 산책하듯 잔잔한 리듬감(어쿠스틱 기타 핑거스타일 정도)에 피아노·현악을 배경으로. 특정 사건 없이 그냥 "함께 있는 시간" 느낌.
+
+--- 4. 단계18 — 케이크, 잔잔한 축하 ---
+
+신나는 파티곡이 아니라 "작은 축하".
+
+Style of Music: gentle celebration, warm acoustic guitar, soft bells, tender understated birthday mood, ~85bpm, instrumental, small and intimate
+
+방향: 벨 사운드로 촛불 반짝임 정도만 살짝, 나머지는 3번 트랙과 톤이 이어지되 살짝 더 다정하게.
+
+--- 5. 단계19 — 그리움 속의 작별 ---
+
+가장 감정을 담는 곡이지만 여기서도 과장은 금물.
+
+Style of Music: emotional cinematic, solo cello and piano, bittersweet farewell, slow tempo ~60bpm, tender release, instrumental, restrained not melodramatic
+
+방향: 첼로나 바이올린 솔로 멜로디 하나 + 피아노 반주 정도로 담백하게, 마지막엔 여운을 남기며 조용히 사라지는 엔딩.
