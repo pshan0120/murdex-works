@@ -32,13 +32,13 @@ groupId : 66bb641e-210a-452e-9f61-9cb41a0f753b
 의도 : 베일라가 왜 이곳에 왔는지, 그리고 그녀가 쫓는 대상이 알렉스임을 지시.
 내용 :
 알렉스가 남기고 간 쪽지를 읽어 보았다.
-"이 각인의 진실이 프로메테우스 연구소에 있는 것 같아. 근데 그 연구소가 곧 폐쇄된다니, 지금이 아니면 영영 기회가 없을 것 같아. 내 과거를 확인하고 올게. 기다려줘."
+"이 각인의 진실이 클레이 연구소에 있는 것 같아. 근데 그 연구소가 곧 폐쇄된다니, 지금이 아니면 영영 기회가 없을 것 같아. 내 과거를 확인하고 올게. 기다려줘."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="character-alex">알렉스</span>가 남기고 간 쪽지를 읽어 보았다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">"이 각인의 진실이 <span class="emphasis">프로메테우스 연구소</span>에 있는 것 같아. 근데 그 연구소가 곧 폐쇄된다니, 지금이 아니면 영영 기회가 없을 것 같아. 내 과거를 확인하고 올게. 기다려줘."</div>
+    <div class="document-body small">"이 각인의 진실이 <span class="emphasis">클레이 연구소</span>에 있는 것 같아. 근데 그 연구소가 곧 폐쇄된다니, 지금이 아니면 영영 기회가 없을 것 같아. 내 과거를 확인하고 올게. 기다려줘."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a small, hastily folded note in a man's handwriting, resting on a worn wooden table. Cold blue-white light from a nearby window. Shallow depth of field, background dark and blurred. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -103,12 +103,12 @@ groupId : cc0b1119-375e-4630-bcc1-4befb0681256
 관련 : 마커스
 의도 : 마커스가 클레이 앞에서 내세우는 수사 권한의 근거. 실제로는 마커스 본인이 위조한 문서이며(역할_2_마커스.txt의 비밀 "위조된 영장" 참고), 이 사실은 여기서 드러내지 않고 겉보기에는 완전한 정식 영장으로 제시됨.
 내용 :
-프로메테우스 연구소의 불법 생체공학 연구 혐의에 대한 사전 조사를 허가하는 법적 영장이다.
+클레이 연구소의 불법 연구 혐의에 대한 사전 조사를 허가하는 법적 영장이다.
 HTML :
 <div class="story-content">
   <div class="script-direction">연구소의 불법 연구 혐의에 대한 사전 조사를 허가하는 법적 수사 영장이다.</div>
   <div class="divider"></div>
-  <div><span class="emphasis">프로메테우스 연구소</span>의 불법 생체공학 연구 혐의에 대한 사전 조사를 허가하는 법적 영장이다.</div>
+  <div><span class="emphasis">클레이 연구소</span>의 불법 연구 혐의에 대한 사전 조사를 허가하는 법적 영장이다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an official government warrant document with an embossed seal, held in a hand. Cold fluorescent lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : 마커스에 대하여
@@ -855,7 +855,7 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 프로메테우스가 클레이 개인의 일탈이 아니라 정부가 은밀히 지원한 국가 프로젝트였음을 밝히고, 클레이가 은폐해 온 사고를 정부가 최근에서야 포착해 서둘러 폐쇄를 명령했다는 진짜 이유를 드러냄. 이 문서만으로는 그 "사고"가 무엇인지 밝히지 않고, clue_29(알렉스 사고 보고서)와 교차해야 비로소 "은폐된 사고 = 알렉스의 죽음"이라는 진실이 완성되도록 설계. AIex는 08:00 서쪽 환기구(B구역)로 잠입한 뒤 클레이와 동일한 생체정보(clue_11) 덕분에 구역 간 보안 게이트를 자유롭게 넘나들 수 있었고, 은신 중 D구역까지 돌아다니다 이 문서를 먼저 읽었다는 설정. 단계_5에서 그가 "정부 폐쇄의 표면적 명분이 핑계에 불과하다"고 둘러대는 대사의 근거가 됨. 동시에 마커스의 정식 수사 요청이 매번 반려된 이유(기밀 사업이라 외부 수사 자체가 원천 차단됨, 역할_2_마커스.txt의 "몇 달째 반려" 정황과 교차 확인)도 함께 해명하는 핵심 물증. 새 단서를 추가하지 않는 선에서 "누군가 이미 읽었다"는 사실을 관찰 가능하게 하기 위해, 문서가 소각로 안이 아니라 문 앞 바닥에 떨어져 있었고 재 묻은 손자국이 겹쳐 있다는 물증을 이 단서 자체에 덧붙임. 실제로는 지금 일행과 동행 중인 AIex 본인이 남긴 흔적.
+의도 : 클레이 연구소가 클레이 개인의 일탈이 아니라 정부가 은밀히 지원한 국가 프로젝트였음을 밝히고, 클레이가 은폐해 온 사고를 정부가 최근에서야 포착해 서둘러 폐쇄를 명령했다는 진짜 이유를 드러냄. 이 문서만으로는 그 "사고"가 무엇인지 밝히지 않고, clue_29(알렉스 사고 보고서)와 교차해야 비로소 "은폐된 사고 = 알렉스의 죽음"이라는 진실이 완성되도록 설계. AIex는 08:00 서쪽 환기구(B구역)로 잠입한 뒤 클레이와 동일한 생체정보(clue_11) 덕분에 구역 간 보안 게이트를 자유롭게 넘나들 수 있었고, 은신 중 D구역까지 돌아다니다 이 문서를 먼저 읽었다는 설정. 단계_5에서 그가 "정부 폐쇄의 표면적 명분이 핑계에 불과하다"고 둘러대는 대사의 근거가 됨. 동시에 마커스의 정식 수사 요청이 매번 반려된 이유(기밀 사업이라 외부 수사 자체가 원천 차단됨, 역할_2_마커스.txt의 "몇 달째 반려" 정황과 교차 확인)도 함께 해명하는 핵심 물증. 새 단서를 추가하지 않는 선에서 "누군가 이미 읽었다"는 사실을 관찰 가능하게 하기 위해, 문서가 소각로 안이 아니라 문 앞 바닥에 떨어져 있었고 재 묻은 손자국이 겹쳐 있다는 물증을 이 단서 자체에 덧붙임. 실제로는 지금 일행과 동행 중인 AIex 본인이 남긴 흔적.
 내용 :
 소각로 문 바로 앞 바닥에, 반쯤 타다 만 채로 떨어져 있었다. 불에 그을려 가장자리만 겨우 남은 종이에는, 드문드문 이어지는 문장들이 읽힌다. "…시설 내에서 은폐되어 온 사고가 최근 확인되었다. 외부 유출을 철저히 차단하고, 관련 시설의 즉각적이고 조용한 폐쇄 조치를 명한다… 사고 경위에 대한 외부 수사 요청은 어떠한 사유로도 승인하지 말 것." 종이 가장자리에는 누군가 만졌던 것으로 보이는 거뭇한 손자국이 얼룩져 있고, 그 아래로 정부 부처의 것으로 보이는 직인 일부가 겨우 남아 있다.
 HTML :
@@ -1014,15 +1014,15 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 조수 알렉스가 단순한 동료가 아니라 클레이의 연인이었으며, 복제체(알렉스)의 첫 각성 당시 클레이를 대신해 목숨을 잃었다는 사실을 최종적으로 확정하는 결정적 단서. 마커스에게는 누나의 진짜 죽음의 경위와 희생을, 베일라에게는 자신이 사랑한 '알렉스'라는 이름이 어디서 비롯되었는지를 동시에 완성시켜주는 열쇠.
+의도 : 조수 알렉스가 단순한 동료가 아니라 클레이의 연인이었으며, 복제체(알렉스)의 첫 각성 당시 클레이를 대신해 목숨을 잃었다는 사실을 최종적으로 확정하는 결정적 단서. 마커스에게는 누나의 진짜 죽음의 경위와 희생을, 베일라에게는 자신이 사랑한 '알렉스'라는 이름이 어디서 비롯되었는지를 동시에 완성시켜주는 열쇠. (2026-09-06 보강) "복제 인간이 원본을 보면 폭주한다"는 설정이 아무 근거 없이 던져진다는 지적에 따라, 클레이 본인의 당혹스러운 회고를 덧붙임. 성공한 배양 개체는 AIex 한 명뿐이므로 "반복 관찰된 패턴"으로 서술하면 안 되고, 지금 막 겪은 이 한 번의 사건에 대한 클레이의 즉각적인 회고여야 함. 원인을 완전히 설명하지는 않되(SF물의 "아직 규명되지 않은 부작용"으로 남김), 최소한 "원본을 인식하는 순간 본능적 수준에서 이성을 잃었다"는 관찰과 클레이 스스로도 이해 못한다는 태도까지만 제시.
 내용 :
-다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다. "…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운 연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. 그리고 다시는, 눈을 뜨지 못했다. …그날 이후 단 하루도 그 순간을 잊은 적이 없다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는."
+다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다. "…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운 연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. 그리고 다시는, 눈을 뜨지 못했다. …그날 이후 단 하루도 그 순간을 잊은 적이 없다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는. …지금도 그 순간을 이해할 수 없다. 나를 알아보자마자, 마치 '자리는 하나뿐'이라는 감각이 본능 깊숙이 각인된 것처럼 이성을 완전히 잃었다. 신경학적으로는 아직 아무것도 설명할 수 없다."
 HTML :
 <div class="story-content">
   <div class="script-direction">다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운 연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. 그리고 다시는, 눈을 뜨지 못했다. …그날 이후 단 하루도 그 순간을 잊은 적이 없다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는."</div>
+    <div class="document-body small">"…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운 연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. 그리고 다시는, 눈을 뜨지 못했다. …그날 이후 단 하루도 그 순간을 잊은 적이 없다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는. …지금도 그 순간을 이해할 수 없다. 나를 알아보자마자, 마치 '자리는 하나뿐'이라는 감각이 본능 깊숙이 각인된 것처럼 이성을 완전히 잃었다. 신경학적으로는 아직 아무것도 설명할 수 없다."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a worn, tear-stained journal page, ink smudged in places, resting near the base of a large incubation capsule. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
@@ -1050,13 +1050,13 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 관련 : 마커스
 의도 : clue_28(클레이의 옛 일지)이 담아내지 못하는 건조하고 공식적인 사실 확인용 문서. 소속 연구원 '알렉스'의 사망 사실을 문서상으로 명시해, 마커스가 그토록 찾아 헤매던 누나의 행방에 마침내 답을 주는 결정적 단서. 동시에 "유가족 통보 보류"라는 문구로 clue_24의 은폐 정황과도 연결됨.
 내용 :
-공식 양식에 타이핑된 "연구소 내 중대 사고 보고서". 소속: 프로메테우스 연구소. 직위: 연구원. 대상자: 알렉스(36, 여). 사고 유형: 시설 내 배양 개체에 의한 신체적 위해. 사고 경위: 해당 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐. 결과: 사망 확인. 처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류.
+공식 양식에 타이핑된 "연구소 내 중대 사고 보고서". 소속: 클레이 연구소. 직위: 연구원. 대상자: 알렉스(36, 여). 사고 유형: 시설 내 배양 개체에 의한 신체적 위해. 사고 경위: 해당 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐. 결과: 사망 확인. 처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span> 서고에서 발견한, 공식 양식의 사고 보고서다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"연구소 내 중대 사고 보고서"<br />소속: <span class="emphasis">프로메테우스 연구소</span><br />직위: 연구원<br />대상자: <span class="character-alex">알렉스</span>(36, 여)<br />사고 유형: 시설 내 배양 개체에 의한 신체적 위해<br />사고 경위: 해당 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐<br />결과: 사망 확인<br />처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류</div>
+    <div class="document-body small">"연구소 내 중대 사고 보고서"<br />소속: <span class="emphasis">클레이 연구소</span><br />직위: 연구원<br />대상자: <span class="character-alex">알렉스</span>(36, 여)<br />사고 유형: 시설 내 배양 개체에 의한 신체적 위해<br />사고 경위: 해당 개체가 담당 연구책임자를 공격하는 과정에서 해당 연구원이 이를 저지하려다 인명 피해로 이어짐<br />결과: 사망 확인<br />처리 방침: 사고 내용 대외비 유지, 유가족 통보 보류</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an official typed incident report form with checkbox fields and an institutional stamp, resting on a metal shelf. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.

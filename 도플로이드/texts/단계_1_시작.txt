@@ -26,7 +26,7 @@ https://cdn1.suno.ai/7a796fff-e5d3-4cbd-8cdb-3e2def5de534.mp3
 <div class="story-content">
   <div class="section-title">1. 들어가며</div>
   <p>
-    안녕하세요, <span class="highlight"><span class="emphasis">도플로이드</span></span>의 작가입니다. 폐쇄를 앞둔 생명공학 연구소 '<span class="emphasis">프로메테우스</span>'에서, 서로 다른 이유로
+    안녕하세요, <span class="highlight"><span class="emphasis">도플로이드</span></span>의 작가입니다. 폐쇄를 앞둔 '<span class="emphasis">클레이 연구소</span>'에서, 서로 다른 이유로
     이곳을 찾은 두 사람을 환영합니다. 낯설고도 낯익은 얼굴 하나가 여러분을 기다리고 있습니다. 본격적인 시작에 앞서 아래
     설명을 꼼꼼히 확인해 주시기 바랍니다. 부디 즐거운 시간이 되시길 바랍니다.
   </p>
@@ -41,64 +41,64 @@ https://cdn1.suno.ai/7a796fff-e5d3-4cbd-8cdb-3e2def5de534.mp3
   <table>
     <thead>
       <tr>
-        <th style="width: 15%">순서</th>
         <th>단계명</th>
-        <th style="width: 25%">시간</th>
-        <th style="width: 30%">지급 AP</th>
+        <th style="width: 20%">유형</th>
+        <th style="width: 22%">시간</th>
+        <th style="width: 24%">지급 AP</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>1</td>
         <td>시작</td>
+        <td>도입</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>2</td>
         <td>대면</td>
+        <td>진행</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>3</td>
         <td>조사 I: A구역</td>
+        <td>조사</td>
         <td>10분</td>
         <td>인당 2</td>
       </tr>
       <tr>
-        <td>4</td>
         <td>조사 II: B구역</td>
+        <td>조사</td>
         <td>10분</td>
         <td>인당 2</td>
       </tr>
       <tr>
-        <td>5</td>
         <td>조사 III: C구역</td>
+        <td>조사</td>
         <td>10분</td>
         <td>인당 2</td>
       </tr>
       <tr>
-        <td>6</td>
         <td>최종 조사: D구역</td>
+        <td>조사</td>
         <td>10분</td>
         <td>인당 3</td>
       </tr>
       <tr>
-        <td>7</td>
         <td>최종 추리</td>
-        <td>5분</td>
+        <td>추리</td>
+        <td>10분</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>8</td>
         <td>최종 결론</td>
-        <td>5분</td>
+        <td>결론</td>
+        <td>10분</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>9</td>
         <td>끝</td>
+        <td>에필로그</td>
         <td>무제한</td>
         <td>-</td>
       </tr>
