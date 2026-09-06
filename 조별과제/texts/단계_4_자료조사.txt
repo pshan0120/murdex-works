@@ -27,12 +27,20 @@ N
     사건 발생 직후, 범인을 찾기 위한 첫 번째 조사입니다. 현장을 조사하고 서로의 알리바이를 확인하세요.
   </p>
 
-  <div class="section-title">2. 규칙</div>
+  <div class="section-title">2. 조사 방법</div>
+  <ul>
+    <li><span class="highlight">AP</span>: 이 단계에 들어오면서 <span class="emphasis">인당 30 AP</span>를 받았습니다. 단서 하나를 조사할 때마다 0~5 AP가 소모되며, <span class="emphasis">단계가 끝나면 남은 AP는 사라집니다</span>. 다음 단계로 넘어가지 않으니 이번 단계 안에 다 쓰세요.</li>
+    <li><span class="highlight">분담 권장</span>: 이 단계의 단서를 전부 조사하려면 네 사람의 AP를 모두 합쳐야 합니다. 혼자서는 절반도 보기 어려우니, 누가 어디를 볼지 나눠서 진행하세요.</li>
+    <li><span class="highlight">소유 한도</span>: 손에 들 수 있는 단서는 <span class="emphasis">최대 4장</span>입니다. 가득 찬 상태에서 새 단서를 얻으려면 가지고 있던 단서를 게임 보드에 공개하거나 다른 조원에게 건네주어야 합니다.</li>
+    <li><span class="highlight">자신에 대한 단서</span>: 자기 자신에 관한 단서는 직접 조사할 수 없습니다. 다른 조원에게 부탁하세요.</li>
+  </ul>
+
+  <div class="section-title">3. 규칙</div>
   <ul>
     <li><span class="highlight">밀담 금지</span>: 이 작품에서는 <strong>밀담</strong>이 허용되지 않습니다. 모든 대화는 전원이 함께 있는 자리에서 나눠 주세요.</li>
   </ul>
 
-  <div class="section-title">3. 다음 단계 안내</div>
+  <div class="section-title">4. 다음 단계 안내</div>
   <p>
     충분한 조사를 마쳤다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동하세요.
   </p>

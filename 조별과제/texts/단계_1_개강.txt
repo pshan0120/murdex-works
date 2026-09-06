@@ -31,69 +31,72 @@ N
   <table>
     <thead>
       <tr>
-        <th style="width: 15%">순서</th>
         <th>단계명</th>
-        <th style="width: 25%">시간</th>
-        <th style="width: 30%">지급 AP</th>
+        <th style="width: 20%">유형</th>
+        <th style="width: 22%">시간</th>
+        <th style="width: 24%">지급 AP</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>1</td>
         <td>개강</td>
+        <td>도입</td>
         <td>15분</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>2</td>
         <td>자기소개</td>
+        <td>진행</td>
         <td>무제한</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>3</td>
         <td>오리엔테이션</td>
+        <td>진행</td>
         <td>무제한</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>4</td>
         <td>자료조사</td>
+        <td>조사</td>
         <td>30분</td>
         <td>인당 30</td>
       </tr>
       <tr>
-        <td>5</td>
         <td>중간점검</td>
+        <td>진행</td>
         <td>무제한</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>6</td>
         <td>자료취합</td>
+        <td>조사</td>
         <td>50분</td>
         <td>인당 30</td>
       </tr>
       <tr>
-        <td>7</td>
         <td>프레젠테이션</td>
+        <td>추리</td>
         <td>5분</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>8</td>
         <td>종강</td>
+        <td>결론</td>
         <td>무제한</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>9</td>
         <td>성적발표</td>
+        <td>에필로그</td>
         <td>무제한</td>
         <td>-</td>
       </tr>
     </tbody>
   </table>
+  <p class="guide-text">
+    ※ <span class="emphasis">조사</span> 단계에서만 단서 조사와 액션이 가능합니다. <span class="emphasis">추리</span> 단계에서는 조사 없이 토론만 진행합니다.
+  </p>
 
   <div class="section-title">3. 규칙</div>
   <ul>
