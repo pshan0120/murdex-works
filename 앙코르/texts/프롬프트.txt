@@ -162,16 +162,20 @@ Negative prompt: realistic, photorealistic, photo, 3D render, other dog breed, c
 7. 역할 이미지 프롬프트
 
 플레이어의 유일한 역할("강아지의 주인")용 이미지다. 플랫폼 UI에서 원형 아바타로 크롭되므로 정중앙 구도로 뽑는다.
-사람 얼굴은 넣지 않는다 — 목줄을 쥔 손만 보이는 상징적인 구도로, 캐릭터 아트 스코프를 강아지 단독 기준에서 벗어나지 않게 유지한다(역할.txt 참고).
+사람 얼굴은 넣지 않는다 — 다만 2026-09-07 수정으로, 목줄만 보이는 추상적인 상징 대신 아리를 품에 안고 있는
+구도로 바꿨다. 이 작품에 이미 반복해서 나오는 "품에 안겨 있다"는 이미지(파일럿 "이뤄진 소원" 단서, 표시16단계
+컷씬 "품에 안겨 눈을 감으면")와 결을 맞추기 위함 — 첫 버전(손+목줄)은 분위기와 안 어울린다는 피드백으로 교체.
+아리에게 초점이 가도록, 아리는 선명하고 사람은 팔·몸통만 부드럽게 걸치는 정도로.
 
 - 역할 이미지 프롬프트:
-a single gentle hand holding a simple leash, soft watercolor illustration style, warm and sincere mood, not exaggeratedly cute or comedic, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, no visible face, no visible body beyond the hand and wrist, gender-neutral hand, centered composition suitable for a circular crop, solid pure white background, isolated on white, no background elements, gentle diffused lighting, square 1:1 aspect ratio
+a small Yorkshire Terrier dog character, compact toy-breed body proportions, erect V-shaped ears, short neatly trimmed puppy-cut fur, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat on the back fading to tan/golden-brown on the legs and face, small white patch on the chest, short docked tail, being gently cradled close to a person's chest in their arms, the dog is the clear focal point of the composition, sharp and in focus, the person's arms slightly soft and secondary, warm and sincere mood, not exaggeratedly cute or comedic, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, the person's face and head completely out of frame (cropped out), only their arms and torso are visible, wearing simple gender-neutral clothing, completely ambiguous unidentifiable gender, centered composition suitable for a circular crop, solid pure white background, isolated on white, no background elements, square 1:1 aspect ratio
 
 Negative prompt: realistic, photorealistic, photo, 3D render, face, human face, person, full body, other dog breed, chibi, kawaii exaggerated, text, watermark
 
 [제작 시 확인할 것]
-- 얼굴이나 신체 일부가 우연히라도 나오지 않는지 확인(역할=플레이어 본인이라는 설정을 지켜야 함).
-- 원형 크롭 시 손과 목줄이 중앙에 잘 들어오는지 확인.
+- 사람 얼굴이나 머리가 우연히라도 나오지 않는지 확인(역할=플레이어 본인이라는 설정을 지켜야 함).
+- 아리가 프레임 중심에서 벗어나지 않는지, 원형 크롭 시에도 아리가 잘리지 않는지 확인.
+- 캐릭터(아리) 생김새가 다른 아리 이미지들과 같은 개로 보이는지(위 성견 프롬프트 기준) 확인.
 
 
 ====================================================================
