@@ -72,3 +72,6 @@ https://cdn1.suno.ai/13acd884-d46f-4c9c-8158-8821baadd545.mp3
     대본 낭독이 모두 끝났다면, <strong><span class="character-haejun">정해준</span></strong> 플레이어는 본인의 역할 시트에 기재된 지침을 확인한 뒤, 안내에 따라 게임 보드에 배치된 <strong><span class="emphasis">[비밀단서#1]</span></strong>을 조사하여 모두에게 공유하십시오. 조사가 충분히 이루어졌다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
   </p>
 </div>
+
+8. 다음 단계 전 리마인더 (story_step.pre_next_reminder — 준비완료/진행 버튼 바로 위에 항상 표시됨)
+다음 조사 단계부터는 각자에게 개인 단서('당신이 아는 것', '당신의 비밀' 등)가 자동으로 지급됩니다. 단계가 시작되면 먼저 2~3분 정도 시간을 갖고 각자 단서를 충분히 읽은 뒤 대화를 시작하세요.
