@@ -1,0 +1,67 @@
+도플로이드 - 텀블벅 프로젝트 계획(소개 탭) 이미지 디자인 가이드
+
+■ 목적
+텀블벅_펀딩_기획.txt에 이미 확정된 "기밀 수사 파일(Case File)" 컨셉을 실제로 Canva에서 제작할 때 참고할 실행 가이드. AI 이미지 생성이 필요한 것과, Canva 소재로 바로 가져다 쓰는 게 나은 것을 구분해서 정리함.
+
+■ 이미지 자산 현황 (8페이지 기준, 무엇을 새로 만들어야 하는지)
+- 커버: 배지 오브젝트(이중노출) - 프롬프트 작성 완료, 1차 생성 및 피드백 완료(진행 중)
+- PAGE 1 HERO: 커버 배지 오브젝트와 동일 컨셉의 세로 버전 신규 생성 1장(아래 프롬프트) + "CLASSIFIED" 도장(Canva 그래픽). 가로 대표 이미지(커버)는 비율이 달라(16:8) 세로 캔버스 전체 배경으로 그대로 쓰기 어려워서 별도 생성으로 변경함(2026-09-08)
+- PAGE 2 컨셉 훅: 코르크보드 배경 - 신규 생성 1장 (아래 프롬프트)
+- PAGE 3 STORY: 컷씬(안개 낀 클레이 연구소) - images/cutscenes/ 재사용
+- PAGE 4 특징: "증거 사진" 2장 - 신규 생성 2장 (아래 프롬프트), 기존 clue_group 이미지로 대체 가능한지 먼저 확인해볼 것
+- PAGE 5 진행 방식: 실제 화면 스크린샷 - AI 생성 아님, 사용자가 직접 캡처
+- PAGE 6 CAST: 베일라/마커스 프로필 - images/roles/ 재사용, 인사기록카드 프레임만 Canva로 추가
+- PAGE 7 카톡 피드백: 사용자가 직접 캡처해서 제작
+- PAGE 8 추천대상+GAME INFO: 신규 이미지 불필요, 텍스트/도장/레드액션 그래픽으로만 구성
+
+■ 페이지 캔버스 비율 (2026-09-08 확인, 같은 날 전체 2:3 통일로 갱신)
+텀블벅 "프로젝트 계획" 탭의 페이지 하나하나는 가로 인서트가 아니라, 바스타즈 때처럼 세로로 길게 이어지는 포스터형 캔버스임(배경 일러스트 위에 제목·카피가 위에서 아래로 쌓이는 구조). 처음엔 PAGE 4의 "증거 사진" 인서트는 페이지 배경이 아니니 가로 구도를 유지해도 된다고 봤으나, 작업 편의를 위해 신규 생성 이미지 전부(PAGE 1/2/4 A·B) 세로 2:3 비율로 통일함. 4번 증거 사진 2장은 좌우 배치였던 오브제 구도를 상하 배치로 바꿔서 세로 프레임에 맞춤.
+
+■ 신규 생성 이미지 프롬프트
+
+[PAGE 1] 커버 배지 - 세로 버전 (2026-09-08 추가)
+대표 이미지(커버)로 이미 생성 중인 가로 16:8 배지 이미지와 같은 오브젝트를, PAGE 1 세로 캔버스 배경용으로 별도 생성. 기존 1차 피드백(배지가 중앙에서 벗어나면 크롭 위험, 이중노출 효과가 축소 시 안 보일 수 있음)을 반영해 처음부터 중앙 배치·뚜렷한 이중노출로 작성함. 배지를 화면 하단 쪽에 두고 상단은 어두운 여백으로 비워서, Canva에서 그 위에 큰 제목 텍스트("S-File: 도플로이드")를 얹을 자리를 확보함.
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Tall vertical portrait aspect ratio, 2:3. A single security clearance badge resting on a dark metal desk in the lower half of the frame, positioned centrally so it isn't cropped, illuminated by one narrow cone of flashlight from off-frame. The badge's photo shows a man's face rendered with a pronounced, clearly visible double-exposure ghosting effect, as if two distinctly misaligned photographs of the same face were overlaid. The upper half of the frame is largely empty, drowned in deep uniform shadow, leaving negative space for text overlay. Desaturated cool teal-green color grade, naturalistic practical lighting, subtle film grain. No characters, no full figures, no text. --ar 2:3
+
+[PAGE 2] 코르크보드 배경 (2026-09-08 수정: 페이지 캔버스 자체가 세로로 긴 포스터형이라 배경도 세로 비율로 변경)
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Tall vertical portrait aspect ratio, 2:3. Empty cork board texture filling the frame top to bottom, slightly worn and uneven surface, a few scattered push pins (no string, no cards, no photos attached — plain empty board for compositing). Dim ambient room lighting from the side, soft shadow falloff. Desaturated cool teal-green color grade, naturalistic lighting from practical sources, subtle film grain. No text, no characters. --ar 2:3
+
+※ 빨간 실과 인덱스카드 3장(CHARACTER/TRUST/ENDING)은 AI로 넣지 말고 Canva에서 직접 그려 얹을 것 — 카드 위치를 자유롭게 조정하려면 그 편이 훨씬 편함.
+
+[PAGE 4-A] "서로 다른 목적으로 움직이는 두 사람" 증거 사진 (2026-09-08 수정: 반지·FBI 배지 → 추상적 오브제로 교체 / 세로 2:3으로 통일, 좌우 배치 → 상하 배치로 조정)
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Extreme macro close-up, tall vertical portrait aspect ratio, 2:3. Two different personal items stacked on a dark metal desk under separate narrow flashlight beams: in the upper portion of the frame, a small folded photograph lying face-down, only its blank paper back visible; in the lower portion, a slim case file folder tied shut with string, its label illegible. Everything outside the two light cones drowned in deep shadow. Desaturated cool teal-green color grade, naturalistic practical lighting, subtle film grain, restrained observational composition. No characters, no full figures, no visible text, no jewelry, no badges, no object that could identify a specific person or plot detail. --ar 2:3
+
+[PAGE 4-B] "답이 갈리면 결말도 갈린다" 증거 사진 (2026-09-08 수정: 세로 2:3으로 통일, 좌우 분할 → 상하 분할로 조정)
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Extreme macro close-up, tall vertical portrait aspect ratio, 2:3. A single official document torn cleanly into two separate halves, an upper half and a lower half, laid slightly apart on a dark metal desk with a visible gap between them, printed text blurred/illegible. The upper half lit by a cool teal-tinted light, the lower half lit by a warm amber-tinted light, creating a visible color divergence between the two halves. Deep shadow surrounds the desk. Grainy, desaturated base color grade with the two accent lighting tones as the only warmth/coolness contrast. Subtle film grain, restrained composition. No characters, no visible legible text. --ar 2:3
+
+■ 디자인 가이드 (Canva 작업용)
+
+1. 색 팔레트 - 두 레이어로 구분해서 생각할 것 (2026-09-08 수정: 골드 계열 배제, 청록/레드/회색 3톤으로 확정)
+- 사진 레이어(AI 생성 이미지 자체): 기존에 확립된 "채도 낮은 녹회색-청록" 톤 그대로 유지. 손대지 말 것.
+- 그래픽/UI 레이어(Canva에서 얹는 도장·텍스트·선, 페이지 타이틀 포함): 레드 한 가지만 포인트로 사용(도장, 레드액션 바, 강조 텍스트·숫자). 골드/브론즈 계열은 쓰지 않음 - 판타지·서사시 톤이라 도플로이드의 SF 느와르 분위기와 맞지 않음. 서류·라벨 배경 및 보조 텍스트용으로는 크림색 대신 회색 계열(예: 밝은 회색 #C7CBC8, 어두운 회색 #4A4F4E) 사용. 그 외 색은 늘리지 말 것 - 사진 톤(청록) + 레드 + 회색, 딱 3톤 유지.
+
+2. 폰트 - 두 가지만 사용
+- 타자기체: "서류/도장/케이스 넘버"처럼 보여야 하는 모든 텍스트에. Canva 검색: Special Elite / Courier Prime / Xanh Mono 중 하나로 통일.
+- 본문 고딕체: 일반 설명 문단(카피 본문)엔 깔끔한 산세리프 하나만. 두 폰트가 페이지마다 다르게 섞이지 않도록 8페이지 전부 동일하게 고정.
+
+3. 반복 그래픽 키트 - AI로 만들지 말고 Canva 소재 검색으로 찾을 것
+사진(오브제)은 AI가 잘 만들지만, 도장·클립·보드 같은 그래픽 요소는 Canva 라이브러리에 이미 이 컨셉에 맞는 무료 소재가 많아 그쪽이 더 빠르고 깨끗함. Canva 소재 검색창에 검색:
+- classified stamp / top secret stamp - 빨간 원형/사각 도장, 살짝 회전시켜서 붙이기
+- paperclip - 사진 모서리에 걸쳐 붙이기
+- redacted / redaction bar - 8번 페이지 체크리스트에 한두 군데만 포인트로
+- case file folder / manila folder - 배경 프레임용
+- polaroid frame / id photo border - 6번 CAST 페이지 인물사진 테두리용
+
+4. 레이아웃 통일 규칙
+- 모든 페이지 같은 모서리(예: 우측 상단)에 "CASE NO. / FILED:" 도장 블록을 고정 배치 - 페이지가 넘어가도 같은 파일철 느낌이 나도록.
+- 사진에는 항상 얇은 흰 테두리(폴라로이드처럼 3~5mm)를 둘러서 실물 인화 사진을 붙여놓은 느낌 유지.
+- 도장은 매번 살짝 다른 각도로 회전(-8도~8도 사이)해서 손으로 찍은 것처럼 - 전부 수평으로 나란하면 오히려 어색해 보임.
+- 텍스트 박스 배경은 종이색 사각형 + 아주 옅은 그림자(서류가 살짝 떠 있는 듯한 느낌)로 통일.
+
+■ PAGE 1 HERO / PAGE 8 GAME INFO 구성 확정 (2026-09-08)
+- HERO(PAGE 1)는 훅만 남기고 스펙 정보는 최소화: 타이틀(THE S-FILES: DOPLOID) + 태그라인("낯설고도 낯익은 얼굴") + "MURDER MYSTERY FOR 2 PLAYERS" 한 줄만 유지. 원래 있던 세계관 설명 문단(전쟁/반역자 승리)은 삭제 - 그 내용은 PAGE 3 STORY에서 풀 내용이라 커버에서 미리 다 보여줄 필요 없음. "2인용"만 커버에 남기는 이유는 스펙이 아니라 차별점이기 때문 - 머덱스의 다른 작품 대부분이 3인 이상이라 도플로이드의 2인용은 그 자체로 훅이 됨.
+- 나머지 스펙 4개(플레이 시간/분기 엔딩/장르 등)는 PAGE 8 GAME INFO로 이동. 바스타즈 사례(정보 리스트 → 타이틀 반복으로 마무리)와 동일한 구조를 따르되, 스타일은 바스타즈의 흰 고딕체+골드 타이틀이 아니라 도플로이드 문법(라벨:값 쌍을 타자기체로, 배경은 사진 없이 순수 다크 배경)으로 재구성. 예: "PLAYERS: 2 / RUNTIME: 60–80 MIN / ENDINGS: MULTIPLE / GENRE: SF THRILLER" 나열 후 하단에 타이틀 반복 배치.
+- HERO 하단 강조 텍스트("2 PLAYERS"의 "2" 등 숫자·핵심어 강조)는 위 색 팔레트 규칙에 따라 골드가 아닌 레드로 통일.
+
+■ 참고 - 텀블벅 실제 상위 프로젝트 구조 조사 (2026-09-08)
+"머더미스터리" 검색 상위 프로젝트(딜라이트/커넥트 게임즈/7pmGames 등)를 직접 열어봤으나, 이 환경에서는 텀블벅 이미지 서버(img.tumblbug.com) 접근이 네트워크 차단되어 실제 소개 이미지는 볼 수 없었음(스크린샷 백지, fetch 실패로 확인). 대신 확인 가능했던 구조: 히어로 영역에 영상 재생 버튼이 있는 박스아트형 이미지, 모금 현황 바로 아래 최근 후원자 리뷰가 크게 노출되는 신뢰 장치, 소개/선물설명/예산/일정/팀소개/신뢰와안전 탭 구조. 도플로이드 기획안(텀블벅_펀딩_기획.txt)의 8페이지 구조·탭 구성은 이 관례와 이미 부합함.
