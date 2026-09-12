@@ -207,11 +207,11 @@ groupId :
 관련 : 공통
 의도 : 2년차 관찰 기록. 3개 전부 "짖지 않음/짧은 산책/담요"처럼 조용한 장면이지만, "왜"는 절대 말하지 않는다.
 내용 :
-○○월 ○○일, 흐림. 회사가 또 다른 데로 넘어간다고 했다. 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.
+○○월 ○○일, 흐림. 회사가 또 다른 곳으로 넘어간다고 했다. 뒤숭숭한 마음으로 돌아와 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 흐림. 회사가 또 다른 데로 넘어간다고 했다. 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.</div>
+    <div class="document-body">○○월 ○○일, 흐림. 회사가 또 다른 곳으로 넘어간다고 했다. 뒤숭숭한 마음으로 돌아와 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, short neatly trimmed puppy-cut fur, silvery-grey and black coat fading to tan/golden-brown on legs and face, tiny pink tongue visibly sticking out slightly from mouth (adorable blep), curled up in a cozy ball sleeping peacefully on a thick soft blanket on the living room floor, cozy modern South Korean apartment interior, soft overcast daylight. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Absolutely NO borders, NO frames, NO decorative corners.
