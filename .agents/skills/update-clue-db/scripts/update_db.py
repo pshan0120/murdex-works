@@ -79,6 +79,10 @@ def parse_clue_file(file_path):
             elif line.startswith("clue_id :") or line.startswith("clueId :"):
                 val = line.split(":", 1)[1].strip()
                 current_block["clue_id"] = val
+            elif line.startswith("이미지 :") or line.startswith("imageUrl :"):
+                val = line.split(":", 1)[1].strip()
+                if val.startswith("http"):
+                    current_block["image_url"] = val
             elif line.startswith("정렬순서 :"):
                 current_block["order"] = line.replace("정렬순서 :", "").strip()
             elif line.startswith("단서 그룹 :"):
@@ -169,6 +173,8 @@ def update_db(blocks, dry_run=False):
             print(f"Variant ID: {block.get('variant_id')}")
             print(f"Order (clue_order): {block.get('order')}")
             print(f"Group ID: {block.get('group_id')} (Raw: {block.get('raw_group')})")
+            if block.get('image_url'):
+                print(f"Image URL: {block.get('image_url')}")
             html_snippet = block.get('html', '')[:80] + ('...' if len(block.get('html', '')) > 80 else '')
             print(f"HTML (snippet): {html_snippet}\n")
         return len(blocks), len(blocks)
@@ -187,6 +193,7 @@ def update_db(blocks, dry_run=False):
             c_name = block.get("name")
             c_order = block.get("order")
             g_id = block.get("group_id")
+            img_url = block.get("image_url")
             
             if not v_id or not c_id:
                 continue
@@ -196,10 +203,16 @@ def update_db(blocks, dry_run=False):
                 
             try:
                 # Update clue_variant
-                cursor.execute(
-                    "UPDATE clue_variant SET clue_content = %s, clue_name = %s WHERE variant_id = %s", 
-                    (html_content, c_name, v_id)
-                )
+                if img_url:
+                    cursor.execute(
+                        "UPDATE clue_variant SET clue_content = %s, clue_name = %s, clue_image_url = %s WHERE variant_id = %s", 
+                        (html_content, c_name, img_url, v_id)
+                    )
+                else:
+                    cursor.execute(
+                        "UPDATE clue_variant SET clue_content = %s, clue_name = %s WHERE variant_id = %s", 
+                        (html_content, c_name, v_id)
+                    )
                 affected1 = cursor.rowcount
                 
                 # Update clue

@@ -10,8 +10,8 @@ StoryID : a02510c3-97f4-4c2f-b437-7126d0654578
 이름 : 요즘 우리 강아지는
 clueId : 54a1f146-70c8-4b99-8fcd-506f7d2ebc57
 variantId : 29b427e5-f2ec-42d6-b4ae-8661ac1b3958
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275969/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_yfgjjp.jpg
+groupId : 6528b941-7875-45d1-879d-d42fc53149b8
 유형 : 관찰
 단계 : 1년
 소모AP : 0
@@ -46,8 +46,8 @@ HTML :
 이름 : 이뤄진 소원
 clueId : bb6ba397-e4c0-48f6-a202-a3f0d62c7405
 variantId : f5822ca3-6909-45ca-b976-89c95592aa73
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275973/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_mpfkwv.jpg
+groupId : 6528b941-7875-45d1-879d-d42fc53149b8
 유형 : 관찰
 단계 : 1년
 소모AP : 0
@@ -82,8 +82,8 @@ HTML :
 이름 : 산책하기
 clueId : 9c5b8a4d-4f04-46b3-9669-4b35b10549ab
 variantId : ba19a7c2-bcbd-4548-8ca8-cc4968901dd1
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275976/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ykubjg.jpg
+groupId : 6528b941-7875-45d1-879d-d42fc53149b8
 유형 : 관찰
 단계 : 1년
 소모AP : 1
@@ -118,8 +118,8 @@ HTML :
 이름 : 계단 오르기
 clueId : 5ff8e0f8-2bab-463c-9561-fcaad8a652e3
 variantId : c480a196-2786-45db-a6e4-45a309fc8a06
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275979/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_a5nqwa.jpg
+groupId : 6528b941-7875-45d1-879d-d42fc53149b8
 유형 : 관찰
 단계 : 1년
 소모AP : 1
@@ -154,8 +154,8 @@ HTML :
 이름 : 골목 한 바퀴
 clueId : 8eea52d4-db83-4539-bcce-23987783dbf3
 variantId : ad845368-5e2b-41a2-92bd-914a2ce197e3
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275983/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_hzfdif.jpg
+groupId : 23026830-cf29-4704-9329-804924bc7e41
 유형 : 관찰
 단계 : 2년
 소모AP : 1
@@ -190,8 +190,8 @@ HTML :
 이름 : 담요 자리
 clueId : cd8eece9-11ce-44e4-842a-1ffcd64c71cf
 variantId : 8ff77a09-d156-43d2-9667-57f6cbb5b970
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275986/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_gk8nrc.jpg
+groupId : 23026830-cf29-4704-9329-804924bc7e41
 유형 : 관찰
 단계 : 2년
 소모AP : 1
@@ -207,11 +207,11 @@ groupId :
 관련 : 공통
 의도 : 2년차 관찰 기록. 3개 전부 "짖지 않음/짧은 산책/담요"처럼 조용한 장면이지만, "왜"는 절대 말하지 않는다.
 내용 :
-○○월 ○○일, 흐림. 회사가 또 다른 곳으로 넘어간다고 했다. 뒤숭숭한 마음으로 돌아와 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.
+○○월 ○○일, 흐림. 회사가 또 다른 곳으로 넘어간다고 했다. 뒤숭숭한 마음을 달래려 괜히 집안일을 붙잡다가, {dog_name}의 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 흐림. 회사가 또 다른 곳으로 넘어간다고 했다. 뒤숭숭한 마음으로 돌아와 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.</div>
+    <div class="document-body">○○월 ○○일, 흐림. 회사가 또 다른 곳으로 넘어간다고 했다. 뒤숭숭한 마음을 달래려 괜히 집안일을 붙잡다가, {dog_name}의 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, short neatly trimmed puppy-cut fur, silvery-grey and black coat fading to tan/golden-brown on legs and face, tiny pink tongue visibly sticking out slightly from mouth (adorable blep), curled up in a cozy ball sleeping peacefully on a thick soft blanket on the living room floor, cozy modern South Korean apartment interior, soft overcast daylight. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Absolutely NO borders, NO frames, NO decorative corners.
@@ -226,8 +226,8 @@ HTML :
 이름 : 하소연
 clueId : a0830b44-a4e5-4c99-8e3a-f8b2cbb7e1c0
 variantId : 4dc61a5a-67b4-4463-b1b3-eb10b489a110
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789277383/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_rleiu0.jpg
+groupId : 23026830-cf29-4704-9329-804924bc7e41
 유형 : 관찰
 단계 : 2년
 소모AP : 1
@@ -262,8 +262,8 @@ HTML :
 이름 : 조용한 초인종
 clueId : 00df9b2d-8f1a-48cb-9c9f-d29be97f60fc
 variantId : 87368965-71b1-440f-a4b3-380afb0e93f9
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275990/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_nu6afr.jpg
+groupId : 23026830-cf29-4704-9329-804924bc7e41
 유형 : 관찰
 단계 : 2년
 소모AP : 1
@@ -298,8 +298,8 @@ HTML :
 이름 : 여기서 기다려
 clueId : 2a66d6b0-05b0-4e39-9940-bfc3939c820c
 variantId : d5465efa-8b42-43ad-b8d6-a98b1f938d25
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275993/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_wdvhg3.jpg
+groupId : 23026830-cf29-4704-9329-804924bc7e41
 유형 : 관찰
 단계 : 2년
 소모AP : 1
@@ -334,8 +334,8 @@ HTML :
 이름 : 앞장서서
 clueId : 36b52392-f735-4c7d-a1af-07ef8045894d
 variantId : 2d078c40-47b8-427b-a789-0c1bd5ac6ccb
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275996/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_m0czpo.jpg
+groupId : 23026830-cf29-4704-9329-804924bc7e41
 유형 : 관찰
 단계 : 2년
 소모AP : 1
@@ -370,8 +370,8 @@ HTML :
 이름 : 익숙한 길 앞에서
 clueId : 7b8570fa-176d-4b9e-b068-1e876a6acfda
 variantId : 1c73b866-011d-4348-98ab-639b610fcfc1
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275999/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_wwani8.jpg
+groupId : 23026830-cf29-4704-9329-804924bc7e41
 유형 : 관찰
 단계 : 2년
 소모AP : 1
@@ -406,8 +406,8 @@ HTML :
 이름 : 병원
 clueId : 55a2302a-71f9-4eed-ba3c-aadfd4df7586
 variantId : 167cc25d-721e-4a87-8aa3-62010e78b29a
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276003/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_p0r6u8.jpg
+groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 유형 : 관찰
 단계 : 3년
 소모AP : 1
@@ -442,8 +442,8 @@ HTML :
 이름 : 서랍 속
 clueId : 3f63a88a-26f9-4bfe-be9f-7a982744f76f
 variantId : 9e98ee32-4906-4248-ab34-9e26ef0083c2
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276006/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_nuiomm.jpg
+groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 유형 : 관찰
 단계 : 3년
 소모AP : 1
@@ -459,11 +459,11 @@ groupId :
 관련 : 공통
 의도 : 3년차 관찰 기록. "병원 다녀옴"의 사유는 절대 밝히지 않는다.
 내용 :
-○○월 ○○일, 흐림. 요즘은 회사에 앉아 있어도 낯선 자리에 있는 기분이 든다. {dog_name}가(이) 한참 안 보여서 찾아보니 열려 있던 옷장 서랍 안에 들어가 있었다. 이름을 부르자 꼬리만 살짝 흔들었다.
+○○월 ○○일, 흐림. 요즘은 회사에 앉아 있어도 낯선 자리에 있는 기분이 든다. 퇴근하고 돌아와 {dog_name}를(을) 찾았는데 한참 보이지 않아 찾아보니 열려 있던 옷장 서랍 안에 들어가 있었다. 이름을 부르자 꼬리만 살짝 흔들었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 흐림. 요즘은 회사에 앉아 있어도 낯선 자리에 있는 기분이 든다. {dog_name}가(이) 한참 안 보여서 찾아보니 열려 있던 옷장 서랍 안에 들어가 있었다. 이름을 부르자 꼬리만 살짝 흔들었다.</div>
+    <div class="document-body">○○월 ○○일, 흐림. 요즘은 회사에 앉아 있어도 낯선 자리에 있는 기분이 든다. 퇴근하고 돌아와 {dog_name}를(을) 찾았는데 한참 보이지 않아 찾아보니 열려 있던 옷장 서랍 안에 들어가 있었다. 이름을 부르자 꼬리만 살짝 흔들었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking slightly down into the bottom compartment (lowest shelf) inside a large bedroom wardrobe (closet / 장롱) with its doors wide open. A small Yorkshire Terrier is nestled comfortably inside the lowest bottom section of the wardrobe among neatly folded clothes and soft blankets. The dog has upright erect pointed V-shaped ears, short neatly trimmed puppy-cut fur, silvery-grey and black body with tan face, tiny cute pink tongue visibly sticking out slightly (blep), looking up towards the viewer from inside the bottom shelf, wagging just the tip of its small tail. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, warm wood, soft pastel clothes), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused indoor lighting on an overcast day. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in a modern South Korean apartment bedroom. Absolutely NO borders, NO frames, NO decorative corners.
@@ -478,8 +478,8 @@ HTML :
 이름 : 한 박자
 clueId : adde4e2f-1fb0-49d6-8d6f-d2eccaf4b066
 variantId : d6530a6d-16e8-4b30-870b-5563e91cf939
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276009/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_rxaetp.jpg
+groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 유형 : 관찰
 단계 : 3년
 소모AP : 1
@@ -514,8 +514,8 @@ HTML :
 이름 : 비가 올 것 같으면
 clueId : 66907574-42a7-4c8a-af19-92d3c2c1a0d4
 variantId : 099dcf30-de4d-491b-b75f-99b76393d267
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276012/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_eyyozb.jpg
+groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 유형 : 관찰
 단계 : 3년
 소모AP : 1
@@ -550,8 +550,8 @@ HTML :
 이름 : 후문 쪽으로는
 clueId : a6508ed9-60ac-42f4-964c-7ca2c5420150
 variantId : 1ca4bce0-5258-4b8d-9091-9fd8f45d7bfa
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276016/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_j0hubq.jpg
+groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 유형 : 관찰
 단계 : 3년
 소모AP : 1
@@ -586,8 +586,8 @@ HTML :
 이름 : 주차장 산책
 clueId : 5ab69f81-9b87-4ed5-bc17-5b8394668f3a
 variantId : efcdb41b-ff47-4665-ad70-868762257177
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276019/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_dlb7t0.jpg
+groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 유형 : 관찰
 단계 : 3년
 소모AP : 1
@@ -622,8 +622,8 @@ HTML :
 이름 : 볕 드는 자리
 clueId : 081d2b3e-13ea-4e4b-a6f6-7fd2e5c289a2
 variantId : b65344fe-07d7-4c25-8a1b-898771c20068
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276022/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_tnt3y0.jpg
+groupId : 587246c3-8a4f-46e5-b21c-30a8ad36966e
 유형 : 관찰
 단계 : 4년
 소모AP : 1
@@ -658,8 +658,8 @@ HTML :
 이름 : 짖지 않는 손님
 clueId : 34541ffb-2b94-420a-8e42-9ff88e2e7201
 variantId : 4470b06e-da18-4ada-b83e-5a132139f68e
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276025/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_wk4qhf.jpg
+groupId : 587246c3-8a4f-46e5-b21c-30a8ad36966e
 유형 : 관찰
 단계 : 4년
 소모AP : 1
@@ -694,8 +694,8 @@ HTML :
 이름 : 침대 계단
 clueId : adb336a7-3dbe-44f0-a15b-0c8f33cf2691
 variantId : 01b54598-4354-4afb-9f60-29ead0632ea1
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276028/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_sbu6fq.jpg
+groupId : 587246c3-8a4f-46e5-b21c-30a8ad36966e
 유형 : 관찰
 단계 : 4년
 소모AP : 1
@@ -730,8 +730,8 @@ HTML :
 이름 : 화단 풀숲
 clueId : 541f0643-f693-4122-837d-e4b103b6daf0
 variantId : cc171fd9-0fb8-4b24-af4d-067e7f1675cb
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276031/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_nnr33f.jpg
+groupId : 587246c3-8a4f-46e5-b21c-30a8ad36966e
 유형 : 관찰
 단계 : 4년
 소모AP : 1
@@ -766,8 +766,8 @@ HTML :
 이름 : 눈 오는 날
 clueId : dda88a3a-f9a9-46c3-abd6-f858f2242ddf
 variantId : 35dd5fea-5967-4b8f-b19e-3f6f9525c467
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276035/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_klkry3.jpg
+groupId : 587246c3-8a4f-46e5-b21c-30a8ad36966e
 유형 : 관찰
 단계 : 4년
 소모AP : 1
@@ -802,8 +802,8 @@ HTML :
 이름 : 공원 벤치
 clueId : dc71c874-4abf-486c-a69b-13cb33592bbf
 variantId : 75ad47c3-c008-4650-b3bc-65328542a686
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276038/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ykwdla.jpg
+groupId : 587246c3-8a4f-46e5-b21c-30a8ad36966e
 유형 : 관찰
 단계 : 4년
 소모AP : 1
@@ -838,8 +838,8 @@ HTML :
 이름 : 짧아진 코스
 clueId : 19ffb7bc-830a-4fb2-b47e-d99fef84f745
 variantId : 562f1b91-d4a1-4f99-91c8-c32670167379
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276041/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_y02gwc.jpg
+groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 유형 : 관찰
 단계 : 5년
 소모AP : 1
@@ -874,8 +874,8 @@ HTML :
 이름 : 강아지 계단
 clueId : e7caac8b-4b8d-4906-9cdd-4c2b690e318c
 variantId : 7024dda3-043b-48d8-8481-dc0b7cf99468
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276045/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_oa1knb.jpg
+groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 유형 : 관찰
 단계 : 5년
 소모AP : 1
@@ -910,8 +910,8 @@ HTML :
 이름 : 반가운 손님
 clueId : 7d730e6f-11ec-4ec4-8868-53324d659fb2
 variantId : eaa70db4-c221-4035-a6fd-9cbdb08f521b
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276048/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_xwlumf.jpg
+groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 유형 : 관찰
 단계 : 5년
 소모AP : 1
@@ -946,8 +946,8 @@ HTML :
 이름 : 멀리서부터
 clueId : 078c73c5-6b1a-4616-85c0-9b086916f654
 variantId : 02dc16bc-4a91-4a05-a225-d0694b487a95
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276051/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_i32kyx.jpg
+groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 유형 : 관찰
 단계 : 5년
 소모AP : 1
@@ -982,8 +982,8 @@ HTML :
 이름 : 창밖 소동
 clueId : fbfe3611-0be4-486f-986b-d656aec1b6ea
 variantId : c38206dd-eb58-4fec-a5d7-63ffc97a94a6
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276054/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_jwz3hi.jpg
+groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 유형 : 관찰
 단계 : 5년
 소모AP : 1
@@ -1018,8 +1018,8 @@ HTML :
 이름 : 가족 모임
 clueId : 9ab84f73-90f6-400e-a080-637dcd42d4af
 variantId : f99602c6-2a33-4059-913a-502491a67a84
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276057/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ldisob.jpg
+groupId : b83a3b75-1f2c-4e61-a344-33e059fabe4a
 유형 : 관찰
 단계 : 6년
 소모AP : 1
@@ -1054,8 +1054,8 @@ HTML :
 이름 : 목욕 후
 clueId : 562ecbcc-7edc-46fa-be7b-c3c287cd8641
 variantId : 4dd1f4b0-f82e-4b82-ad4f-47777f3108d2
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276060/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_h6shsv.jpg
+groupId : b83a3b75-1f2c-4e61-a344-33e059fabe4a
 유형 : 관찰
 단계 : 6년
 소모AP : 1
@@ -1090,8 +1090,8 @@ HTML :
 이름 : 차창 밖 바람
 clueId : f48f84e2-245e-4b85-b5c7-9d2b473ea4ea
 variantId : be3f4b22-3fcb-4660-8c9c-c7ba2ecac54c
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276063/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_cjcpjs.jpg
+groupId : b83a3b75-1f2c-4e61-a344-33e059fabe4a
 유형 : 관찰
 단계 : 6년
 소모AP : 1
@@ -1126,8 +1126,8 @@ HTML :
 이름 : 쉬어가는 곳마다
 clueId : df870f67-fadb-444a-959b-2fe07e41e465
 variantId : d0245e1b-b78d-481e-9cab-c2e3379fd8e1
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276066/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_k8714x.jpg
+groupId : b83a3b75-1f2c-4e61-a344-33e059fabe4a
 유형 : 관찰
 단계 : 6년
 소모AP : 1
@@ -1162,8 +1162,8 @@ HTML :
 이름 : 새벽 산책
 clueId : 1a716715-528e-43c3-91ca-55debbd10c3d
 variantId : 5282449d-7056-49d2-85b4-9e118ccb8c39
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276069/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_tmhnk9.jpg
+groupId : b83a3b75-1f2c-4e61-a344-33e059fabe4a
 유형 : 관찰
 단계 : 6년
 소모AP : 1
@@ -1179,11 +1179,11 @@ groupId :
 관련 : 공통
 의도 : 6년차 관찰 기록. 실제 기억(가족이 남긴 기록) 기반. 지명은 일반화했다.
 내용 :
-○○월 ○○일, 맑음. 얼마 전 크게 손해를 본 일이 있었다. 새벽에 나가자고 하면 {dog_name}는(은) 잘도 따라나섰다. 퇴근하고 나서도 같은 길을 한 번 더 걸었다.
+○○월 ○○일, 맑음. 얼마 전 크게 손해를 본 일이 있었다. 뒤척이다 잠을 설친 새벽, {dog_name}에게 나가자고 하면 잘도 따라나섰다. 퇴근하고 나서도 같은 길을 한 번 더 걸었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 얼마 전 크게 손해를 본 일이 있었다. 새벽에 나가자고 하면 {dog_name}는(은) 잘도 따라나섰다. 퇴근하고 나서도 같은 길을 한 번 더 걸었다.</div>
+    <div class="document-body">○○월 ○○일, 맑음. 얼마 전 크게 손해를 본 일이 있었다. 뒤척이다 잠을 설친 새벽, {dog_name}에게 나가자고 하면 잘도 따라나섰다. 퇴근하고 나서도 같은 길을 한 번 더 걸었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, very short buzzed coat, closely shaved body hair, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, walking on a quiet pre-dawn paved path inside an apartment complex, early morning light just breaking with apartment buildings softly silhouetted, serene and peaceful, pale golden sunrise. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
@@ -1198,8 +1198,8 @@ HTML :
 이름 : 산책 중 인사
 clueId : c2303a1c-91bf-47a7-b8d7-43d4b14e8655
 variantId : 3de79df5-5f5e-4717-8c45-7bf857dd82dc
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276073/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_aeowld.jpg
+groupId : 1f0cb278-18ff-4755-9a19-e02ca3883c0e
 유형 : 관찰
 단계 : 7년
 소모AP : 1
@@ -1234,8 +1234,8 @@ HTML :
 이름 : 스스로 고르는 길
 clueId : e5b8b55d-6138-4ee8-b851-01a2e0b202e0
 variantId : 170e785f-a541-4c74-86e9-a8c34ff0daa1
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276076/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_bsjyr1.jpg
+groupId : 1f0cb278-18ff-4755-9a19-e02ca3883c0e
 유형 : 관찰
 단계 : 7년
 소모AP : 1
@@ -1270,8 +1270,8 @@ HTML :
 이름 : 감기
 clueId : c70413ca-35e6-4c64-87bb-38603d5a626e
 variantId : f3791933-8bdc-4290-80fc-7e1f1f3cf4ba
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789277387/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_dsuesi.jpg
+groupId : 1f0cb278-18ff-4755-9a19-e02ca3883c0e
 유형 : 관찰
 단계 : 7년
 소모AP : 1
@@ -1306,8 +1306,8 @@ HTML :
 이름 : 차를 좋아함
 clueId : 31892657-5348-4176-ac46-7ba2b802c3c3
 variantId : 2a492898-8890-4797-a4a2-df190a0c8010
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276079/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_t0h3qz.jpg
+groupId : 1f0cb278-18ff-4755-9a19-e02ca3883c0e
 유형 : 관찰
 단계 : 7년
 소모AP : 1
@@ -1342,8 +1342,8 @@ HTML :
 이름 : 밧줄 놀이
 clueId : 24aa7f3f-a527-4c92-b0c8-a30ae728b583
 variantId : 94d01b03-96f4-4590-9cfa-ac38435a8f58
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276082/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ez6cz5.jpg
+groupId : 1f0cb278-18ff-4755-9a19-e02ca3883c0e
 유형 : 관찰
 단계 : 7년
 소모AP : 1
@@ -1378,8 +1378,8 @@ HTML :
 이름 : 공놀이하기
 clueId : 70f7eff9-0e65-4a5f-b6a2-c5e569ad630e
 variantId : df714fcc-d0c4-40db-a1cf-a9174882b096
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276086/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_zmcngw.jpg
+groupId : 50ec7081-0fb3-4f7c-a2df-25fd6a0f4886
 유형 : 관찰
 단계 : 8년
 소모AP : 1
@@ -1414,8 +1414,8 @@ HTML :
 이름 : 손님 맞이하기
 clueId : dd568cf5-12a6-4595-b24b-cbb3b110541b
 variantId : ad189c29-31c6-4c0a-9d95-7734c251d278
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276089/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_nrkurw.jpg
+groupId : 50ec7081-0fb3-4f7c-a2df-25fd6a0f4886
 유형 : 관찰
 단계 : 8년
 소모AP : 1
@@ -1450,8 +1450,8 @@ HTML :
 이름 : 발톱 깎기
 clueId : a16724b4-277e-46cf-8880-14d9fab8b274
 variantId : 9e542560-237d-4ac8-80db-7dff385b1b65
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276092/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_pfbpdx.jpg
+groupId : 50ec7081-0fb3-4f7c-a2df-25fd6a0f4886
 유형 : 관찰
 단계 : 8년
 소모AP : 1
@@ -1486,8 +1486,8 @@ HTML :
 이름 : 간식 시간
 clueId : b85f9171-f7cb-48e1-9dcf-374acf88e6c8
 variantId : ecfd9e07-dbd5-49cc-a019-15ccf2335613
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276096/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_gwo2ik.jpg
+groupId : 50ec7081-0fb3-4f7c-a2df-25fd6a0f4886
 유형 : 관찰
 단계 : 8년
 소모AP : 1
@@ -1522,8 +1522,8 @@ HTML :
 이름 : 공원에서
 clueId : f6b383b7-545b-4122-b814-948c0d2f54e4
 variantId : b94a9a6f-942b-408b-aeb9-e9d420ed7032
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276099/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ya0jk5.jpg
+groupId : 3e1dd377-aa6e-4682-9997-7b3562d86c47
 유형 : 관찰
 단계 : 9년
 소모AP : 1
@@ -1558,8 +1558,8 @@ HTML :
 이름 : 비 오는 날
 clueId : b0e10f5b-c23b-47d5-b1fe-181cc7b02e2a
 variantId : 7bd1e810-b467-42cd-bdf0-941363314c54
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276102/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ld4nc0.jpg
+groupId : 3e1dd377-aa6e-4682-9997-7b3562d86c47
 유형 : 관찰
 단계 : 9년
 소모AP : 1
@@ -1594,8 +1594,8 @@ HTML :
 이름 : 돌아온 저녁
 clueId : e0624ccb-3af7-4bb5-b6ca-c9f711743d53
 variantId : 90b15ae7-66a5-4711-9614-f8fc59a242dc
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789277390/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_um32zj.jpg
+groupId : 3e1dd377-aa6e-4682-9997-7b3562d86c47
 유형 : 관찰
 단계 : 9년
 소모AP : 1
@@ -1630,8 +1630,8 @@ HTML :
 이름 : 밥그릇을 물고
 clueId : 417028c8-cd4e-4d9c-94f8-7db35ed46097
 variantId : e1b72728-4abf-40e7-ae37-b68433e7e22b
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276105/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_mgxnwo.jpg
+groupId : 3e1dd377-aa6e-4682-9997-7b3562d86c47
 유형 : 관찰
 단계 : 9년
 소모AP : 1
@@ -1666,8 +1666,8 @@ HTML :
 이름 : 새 장난감
 clueId : 451f4d49-d1a9-4d10-b2ca-272e74804e8f
 variantId : 10751292-b580-4288-bf0b-da110fc13cd8
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276108/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_mwncbj.jpg
+groupId : 3e1dd377-aa6e-4682-9997-7b3562d86c47
 유형 : 관찰
 단계 : 9년
 소모AP : 1
@@ -1702,8 +1702,8 @@ HTML :
 이름 : 낯선 공간
 clueId : 3fd5cd09-26d4-4df8-931b-553a87cb5888
 variantId : ca989875-467b-4aa1-8926-0e4788a908d3
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276111/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ifwkoq.jpg
+groupId : 3e1dd377-aa6e-4682-9997-7b3562d86c47
 유형 : 관찰
 단계 : 9년
 소모AP : 1
@@ -1738,8 +1738,8 @@ HTML :
 이름 : 팽팽한 리드줄
 clueId : 030a497d-1091-4fc8-9123-308c2a811db9
 variantId : 4349ce95-13ce-4d75-9d66-ce51b2535edf
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276114/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_iv3akf.jpg
+groupId : 58af4863-09f1-4849-b8b5-559255a0ce23
 유형 : 관찰
 단계 : 10년
 소모AP : 1
@@ -1774,8 +1774,8 @@ HTML :
 이름 : 천둥 치던 밤
 clueId : e29578bb-5bab-40b4-96da-3aae8f2e7caa
 variantId : 5cfdbd53-848c-49b9-b858-9258ee03380b
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276118/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_okizsk.jpg
+groupId : 58af4863-09f1-4849-b8b5-559255a0ce23
 유형 : 관찰
 단계 : 10년
 소모AP : 1
@@ -1810,8 +1810,8 @@ HTML :
 이름 : 잠꼬대
 clueId : 082c0dc2-5093-4fda-9628-b661c1cbb387
 variantId : ea79213a-8d22-44ba-83c9-764eac7d6e20
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276121/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_qxg9zp.jpg
+groupId : 58af4863-09f1-4849-b8b5-559255a0ce23
 유형 : 관찰
 단계 : 10년
 소모AP : 1
@@ -1846,8 +1846,8 @@ HTML :
 이름 : 배를 피함
 clueId : b124ffea-fd5c-494f-930c-33e113c8e039
 variantId : 6013f381-4b08-4392-936a-38cce0de9e40
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276124/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ggidqy.jpg
+groupId : 58af4863-09f1-4849-b8b5-559255a0ce23
 유형 : 관찰
 단계 : 10년
 소모AP : 1
@@ -1882,8 +1882,8 @@ HTML :
 이름 : 꼬리를 세게
 clueId : f782852a-7dc7-416f-8575-a63c14358102
 variantId : 5b97f1a2-10ac-48ad-94fb-081895b7f28f
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276127/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_fazlbe.jpg
+groupId : 58af4863-09f1-4849-b8b5-559255a0ce23
 유형 : 관찰
 단계 : 10년
 소모AP : 1
@@ -1918,8 +1918,8 @@ HTML :
 이름 : 문 앞에서 기다림
 clueId : 0fa5c2ed-07c2-4d08-bfcf-e44cf73e7176
 variantId : d646bc31-0487-4827-8e4e-39abe53f9941
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276131/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_rf0qkq.jpg
+groupId : 58af4863-09f1-4849-b8b5-559255a0ce23
 유형 : 관찰
 단계 : 10년
 소모AP : 1
@@ -1954,8 +1954,8 @@ HTML :
 이름 : 짧은 미용
 clueId : 925e27c8-a564-4093-b60a-cf6c669428c4
 variantId : 1533f7eb-3f43-402d-b2a8-e20980fb141d
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276134/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_v0k72z.jpg
+groupId : 543a1a9e-571d-47e2-8827-7a8bfcb9c6fc
 유형 : 관찰
 단계 : 11년
 소모AP : 1
@@ -1990,8 +1990,8 @@ HTML :
 이름 : 엉덩이 자국
 clueId : ee4c18aa-c51b-4334-a29b-55e5e20a573a
 variantId : c8a907ba-9654-40ec-8f56-4dc26e680d82
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276137/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_tsyeiz.jpg
+groupId : 543a1a9e-571d-47e2-8827-7a8bfcb9c6fc
 유형 : 관찰
 단계 : 11년
 소모AP : 1
@@ -2026,8 +2026,8 @@ HTML :
 이름 : 손끝에 만져진 것
 clueId : b857b18b-37d8-48dd-8d66-2f3daf969343
 variantId : 7fe55a60-6097-411e-a4c2-32208d929e8d
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276141/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_sffrms.jpg
+groupId : 543a1a9e-571d-47e2-8827-7a8bfcb9c6fc
 유형 : 관찰
 단계 : 11년
 소모AP : 1
@@ -2062,8 +2062,8 @@ HTML :
 이름 : 운전석 쪽으로
 clueId : 77767336-7c8b-4111-992f-4fbacf56a22d
 variantId : b696a6ec-2f3b-4bc5-9e78-b523bb7ff748
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276144/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_rbwg6y.jpg
+groupId : 543a1a9e-571d-47e2-8827-7a8bfcb9c6fc
 유형 : 관찰
 단계 : 11년
 소모AP : 1
@@ -2098,8 +2098,8 @@ HTML :
 이름 : 빗질
 clueId : 04977d73-2a83-47ef-92f2-9e04177c2245
 variantId : 17bbe360-5415-4414-afc5-1919a72b68a6
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276147/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_nfdprn.jpg
+groupId : 543a1a9e-571d-47e2-8827-7a8bfcb9c6fc
 유형 : 관찰
 단계 : 11년
 소모AP : 1
@@ -2134,8 +2134,8 @@ HTML :
 이름 : 벗겨진 옷
 clueId : d6dff731-b70b-480c-83d0-0494a1c67236
 variantId : 75630c9f-43b4-49f0-9b27-64487c8bf730
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276150/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_j4nodj.jpg
+groupId : 543a1a9e-571d-47e2-8827-7a8bfcb9c6fc
 유형 : 관찰
 단계 : 11년
 소모AP : 1
@@ -2167,11 +2167,11 @@ HTML :
 
 
 [clue_61]
-이름 : 빈터를 가로질러
+이름 : 공터를 가로질러
 clueId : 8b63640c-1d3b-48bd-98e1-a6270114bf4f
 variantId : e0964b0b-8a1b-4882-beef-da6f4ee837bc
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276153/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_drkrzc.jpg
+groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 유형 : 관찰
 단계 : 12년
 소모AP : 1
@@ -2187,11 +2187,11 @@ groupId :
 관련 : 공통
 의도 : 12년차 관찰 기록. "며칠 함께"는 실제 기억(친구 집 강아지가 며칠 놀러 온 일)을 가족·장소 이름 없이 일반화한 것이다.
 내용 :
-○○월 ○○일, 맑음. 단지 안 빈터에 나가자 {dog_name}는(은) 끝에서 끝까지 몇 번이고 달렸다.
+○○월 ○○일, 맑음. 단지 안 공터에 나가자 {dog_name}는(은) 끝에서 끝까지 몇 번이고 달렸다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 단지 안 빈터에 나가자 {dog_name}는(은) 끝에서 끝까지 몇 번이고 달렸다.</div>
+    <div class="document-body">○○월 ○○일, 맑음. 단지 안 공터에 나가자 {dog_name}는(은) 끝에서 끝까지 몇 번이고 달렸다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, very short buzzed coat, closely shaved body hair, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, running at full speed back and forth across an open green lawn inside an apartment complex from one end to the other, pure joy, sunny day. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
@@ -2206,8 +2206,8 @@ HTML :
 이름 : 처음 보는 것
 clueId : 1feb7c93-fc19-4a3c-9f4d-8dbb18d3b03d
 variantId : bad2b16f-4088-4be8-a1cf-d9fb9d5ef151
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789283878/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_nmv8jq.jpg
+groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 유형 : 관찰
 단계 : 12년
 소모AP : 1
@@ -2230,7 +2230,7 @@ HTML :
     <div class="document-body">○○월 ○○일, 흐림. 처음 보는 물건을 거실에 내놓자 {dog_name}는(은) 코를 바짝 붙이고 한참을 살폈다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, short neatly trimmed puppy-cut fur, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, pressing its nose very close to an unfamiliar object placed on the apartment complex lawn, investigating intently, overcast. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. First-person point of view (POV) from standing in the living room, looking down at a small Yorkshire Terrier on the polished light wooden floor of a modern South Korean apartment. The small dog has its nose pressed curiously very close to an unfamiliar object placed on the living room floorboards, sniffing and investigating it intently with perked ears and curious dark eyes. Matching reference ari_adult_short.jpg: compact toy-breed body, erect V-shaped pointy ears, short neatly trimmed puppy-cut coat, silvery-grey and black back fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, tiny pink tongue sticking out. Overcast soft natural daylight filters through a large apartment living room window with sheer curtains in the cozy indoor background. Warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue, warm oak floor tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Strictly NO humans in frame. Typical modern South Korean apartment interior (strictly indoors). Absolutely no text, no letters, no words, and no signs in the image. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 레퍼런스: ari_adult_short.jpg
 
@@ -2242,8 +2242,8 @@ HTML :
 이름 : 씻기 싫어서
 clueId : fafcdda8-0210-4b39-84a7-e111cf61b81d
 variantId : 894fe1d2-c90e-4147-b815-de16c9e6105b
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276160/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_pa4kpq.jpg
+groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 유형 : 관찰
 단계 : 12년
 소모AP : 1
@@ -2278,8 +2278,8 @@ HTML :
 이름 : 며칠 함께
 clueId : b39ae962-7632-45ac-a300-aa73ed9443df
 variantId : 76b22938-15b3-489b-ad54-068cde3b36b6
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276163/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_fpakpn.jpg
+groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 유형 : 관찰
 단계 : 12년
 소모AP : 1
@@ -2314,8 +2314,8 @@ HTML :
 이름 : 하천 길
 clueId : 046077dd-c1e2-41c3-9f42-3a63f05e28a3
 variantId : 1d1e7cfd-2d47-4b32-8aa7-a302aefb1411
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276166/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_g1w0z0.jpg
+groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 유형 : 관찰
 단계 : 12년
 소모AP : 1
@@ -2350,8 +2350,8 @@ HTML :
 이름 : 자전거 바구니
 clueId : ebb5e489-c1df-403e-abcf-fea8926246c7
 variantId : 36e4ea10-d6c6-41e7-8786-47c51842f82f
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276169/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_xyn88e.jpg
+groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 유형 : 관찰
 단계 : 12년
 소모AP : 1
@@ -2386,8 +2386,8 @@ HTML :
 이름 : 오래 비운 뒤
 clueId : 5ab08add-40e4-4f14-9383-81b14fc81d12
 variantId : 5a9b5de7-0a81-4868-9f16-15d7a52a3e05
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276172/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_odiu21.jpg
+groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 유형 : 관찰
 단계 : 12년
 소모AP : 1
@@ -2422,8 +2422,8 @@ HTML :
 이름 : 앉아, 기다려
 clueId : c32f6c5e-6777-4c1b-90e8-550e7a038d36
 variantId : 88b0e2e8-14d2-4e02-8669-10fea39e391c
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276175/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ppvtiy.jpg
+groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 유형 : 관찰
 단계 : 13년
 소모AP : 1
@@ -2458,8 +2458,8 @@ HTML :
 이름 : 낯선 곳에서도
 clueId : 851147dc-2e44-480a-98ba-f068528e62c5
 variantId : 1e17e77c-170d-403c-be84-71d017237d6e
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276179/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_j1fvef.jpg
+groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 유형 : 관찰
 단계 : 13년
 소모AP : 1
@@ -2494,8 +2494,8 @@ HTML :
 이름 : 장난감 고르기
 clueId : 1bdaeafd-0635-448c-bd0d-b388fb348ddf
 variantId : 6e81bcbf-bd7f-4447-8ca9-e90c33aeb631
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276182/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_dh2x13.jpg
+groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 유형 : 관찰
 단계 : 13년
 소모AP : 1
@@ -2530,8 +2530,8 @@ HTML :
 이름 : 거실을 가로질러
 clueId : 81c190c1-3b34-418e-aee0-40fd922fd35b
 variantId : 6e83bbaf-6b14-4f27-a1b1-514328ec2c55
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276185/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_kuj7fk.jpg
+groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 유형 : 관찰
 단계 : 13년
 소모AP : 1
@@ -2566,8 +2566,8 @@ HTML :
 이름 : 검은 비닐봉지
 clueId : c17bcbd8-1002-4070-8bd0-d46bc73561a3
 variantId : f6b2d313-c432-4f71-92ee-f1e2468dfcea
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276189/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_unawpr.jpg
+groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 유형 : 관찰
 단계 : 13년
 소모AP : 1
@@ -2602,8 +2602,8 @@ HTML :
 이름 : 물을 마시고
 clueId : 255b126f-378d-486a-8e81-490d7ee584ab
 variantId : db94e808-a06b-42f6-a731-5521cbe472ce
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276192/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_j9cf8x.jpg
+groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 유형 : 관찰
 단계 : 13년
 소모AP : 1
@@ -2638,8 +2638,8 @@ HTML :
 이름 : 두 바퀴만
 clueId : 892e5122-5230-40b5-b4be-a6247445df65
 variantId : b28d5209-27e1-47a3-a66d-f35800209840
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276195/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ekhe0j.jpg
+groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 유형 : 관찰
 단계 : 13년
 소모AP : 1
@@ -2671,47 +2671,11 @@ HTML :
 
 
 [clue_75]
-이름 : 신나게 오르내리며
-clueId : 060e2887-9a94-47dc-8d0a-f94d553bbf84
-variantId : c9627586-86b5-459a-af77-fef56479d2e5
-이미지 :
-groupId :
-유형 : 관찰
-단계 : 13년
-소모AP : 1
-정렬순서 : 1470
-중요도 : 보통
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
-관련 : 공통
-의도 : 13년차 관찰 기록. 실제 기억(가족이 남긴 기록) 기반. 지명은 일반화했다.
-내용 :
-○○월 ○○일, 맑음. 매일 오르내리는 산길에서 {dog_name}는(은) 나보다 앞서 펄쩍펄쩍 뛰어갔다.
-HTML :
-<div class="story-content">
-  <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 매일 오르내리는 산길에서 {dog_name}는(은) 나보다 앞서 펄쩍펄쩍 뛰어갔다.</div>
-  </div>
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) bounding energetically ahead along a gentle dirt path in a cozy neighborhood hill forest. The small dog is leaping forward with joyful athleticism, short docked tail perked up and pink tongue sticking out (blep), trotting and hopping happily ahead of the owner along a peaceful shaded woodland walking trail. Dappled gentle sunlight filters through the leafy green tree canopy onto the soft forest dirt path. Cozy neighborhood hill forest trail in South Korea (strictly NO high mountain peaks, NO cliffs, NO alpine scenery, strictly a gentle neighborhood woods). warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft green, warm earthy tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. (strictly NO traditional hanok, NO ancient village buildings). Absolutely NO borders, NO frames, NO decorative corners.
-
-레퍼런스: ari_adult_very_short.jpg
-
-단서 그룹 : 13년
-파일명 : 75_13년_신나게_오르내리며
-
-
-[clue_76]
 이름 : 산책 준비
 clueId : 1e426263-a6ff-4093-b557-6eb8113a2f35
 variantId : 963f4f90-6e41-4476-b616-3b2077629d32
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276201/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_qnjjr2.jpg
+groupId : a8447d5f-0d35-4303-88cc-2f8f96f6b555
 유형 : 관찰
 단계 : 14년
 소모AP : 1
@@ -2739,15 +2703,15 @@ HTML :
 레퍼런스: ari_adult_very_short.jpg
 
 단서 그룹 : 14년
-파일명 : 76_14년_산책_준비
+파일명 : 75_14년_산책_준비
 
 
-[clue_77]
+[clue_76]
 이름 : 장난감 물어오기
 clueId : b6df96e8-c6a9-45ad-8e19-6fd67585b3d6
 variantId : 5592e5d1-dcd1-408e-bbcb-fb60f45385d8
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276205/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ftxiww.jpg
+groupId : a8447d5f-0d35-4303-88cc-2f8f96f6b555
 유형 : 관찰
 단계 : 14년
 소모AP : 1
@@ -2775,15 +2739,15 @@ HTML :
 레퍼런스: ari_adult_very_short.jpg
 
 단서 그룹 : 14년
-파일명 : 77_14년_장난감_물어오기
+파일명 : 76_14년_장난감_물어오기
 
 
-[clue_78]
+[clue_77]
 이름 : 침대로 훌쩍
 clueId : db6e1bac-37d5-4bb4-bc1c-7c6e797e4340
 variantId : 13797546-8be0-4a64-b486-280ec2e58323
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276208/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_rde6o9.jpg
+groupId : a8447d5f-0d35-4303-88cc-2f8f96f6b555
 유형 : 관찰
 단계 : 14년
 소모AP : 1
@@ -2811,15 +2775,15 @@ HTML :
 레퍼런스: ari_adult_short.jpg
 
 단서 그룹 : 14년
-파일명 : 78_14년_침대로_훌쩍
+파일명 : 77_14년_침대로_훌쩍
 
 
-[clue_79]
+[clue_78]
 이름 : 낯선 손님
 clueId : 6699b82b-a96e-4614-9157-0658cc1c47e6
 variantId : 575670d0-c42f-4776-a62c-d0540f77c054
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276211/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_drwa5f.jpg
+groupId : a8447d5f-0d35-4303-88cc-2f8f96f6b555
 유형 : 관찰
 단계 : 14년
 소모AP : 1
@@ -2847,15 +2811,15 @@ HTML :
 레퍼런스: ari_adult_short.jpg
 
 단서 그룹 : 14년
-파일명 : 79_14년_낯선_손님
+파일명 : 78_14년_낯선_손님
 
 
-[clue_80]
+[clue_79]
 이름 : 창밖 구경
 clueId : 772018ed-20d2-4092-9758-23dedcca2087
 variantId : eba3cc34-307b-427a-b321-65a31b385802
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276214/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_tqgrxi.jpg
+groupId : a8447d5f-0d35-4303-88cc-2f8f96f6b555
 유형 : 관찰
 단계 : 14년
 소모AP : 1
@@ -2883,15 +2847,51 @@ HTML :
 레퍼런스: ari_adult_long.jpg
 
 단서 그룹 : 14년
-파일명 : 80_14년_창밖_구경
+파일명 : 79_14년_창밖_구경
+
+
+[clue_80]
+이름 : 신나게 오르내리며
+clueId : 060e2887-9a94-47dc-8d0a-f94d553bbf84
+variantId : c9627586-86b5-459a-af77-fef56479d2e5
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276198/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_nrhb3q.jpg
+groupId : a8447d5f-0d35-4303-88cc-2f8f96f6b555
+유형 : 관찰
+단계 : 14년
+소모AP : 1
+정렬순서 : 1550
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 공통
+의도 : 14년차 관찰 기록. 실제 기억(가족이 남긴 기록) 기반. 지명은 일반화했다. (※ 원래 13년차였으나 13년이 8개(AP 7 초과)라 14년으로 이동 — 2026-09-13. 순수 활력 묘사라 연도 이동에 내용 수정은 불필요.)
+내용 :
+○○월 ○○일, 맑음. 매일 오르내리는 산길에서 {dog_name}는(은) 나보다 앞서 펄쩍펄쩍 뛰어갔다.
+HTML :
+<div class="story-content">
+  <div class="document-page type-memo">
+    <div class="document-body">○○월 ○○일, 맑음. 매일 오르내리는 산길에서 {dog_name}는(은) 나보다 앞서 펄쩍펄쩍 뛰어갔다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) bounding energetically ahead along a gentle dirt path in a cozy neighborhood hill forest. The small dog is leaping forward with joyful athleticism, short docked tail perked up and pink tongue sticking out (blep), trotting and hopping happily ahead of the owner along a peaceful shaded woodland walking trail. Dappled gentle sunlight filters through the leafy green tree canopy onto the soft forest dirt path. Cozy neighborhood hill forest trail in South Korea (strictly NO high mountain peaks, NO cliffs, NO alpine scenery, strictly a gentle neighborhood woods). warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft green, warm earthy tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. (strictly NO traditional hanok, NO ancient village buildings). Absolutely NO borders, NO frames, NO decorative corners.
+
+레퍼런스: ari_adult_very_short.jpg
+
+단서 그룹 : 14년
+파일명 : 80_14년_신나게_오르내리며
 
 
 [clue_81]
 이름 : 문턱 앞에서
 clueId : 48d81b2a-af95-41d6-a49b-10cd2714c272
 variantId : d9723f83-c7c8-4f8b-ac1f-be861c76fbf5
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276217/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_fskfxf.jpg
+groupId : 937b9461-499d-4e74-9f59-f8c2170cfcf5
 유형 : 관찰
 단계 : 15년
 소모AP : 1
@@ -2926,8 +2926,8 @@ HTML :
 이름 : 서툰 짖음
 clueId : 09808998-ce05-422f-b340-a9264f4c27c2
 variantId : bdee068f-cc14-4de7-8e0a-ad79e0e55219
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276220/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_xbxuqg.jpg
+groupId : 937b9461-499d-4e74-9f59-f8c2170cfcf5
 유형 : 관찰
 단계 : 15년
 소모AP : 1
@@ -2962,8 +2962,8 @@ HTML :
 이름 : 함께 잠
 clueId : 0cbca6f5-aef4-428d-a247-a62e4dc238de
 variantId : 8fe11631-fc63-4d10-8e1e-3c7df35302cf
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276224/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_lyycci.jpg
+groupId : 937b9461-499d-4e74-9f59-f8c2170cfcf5
 유형 : 관찰
 단계 : 15년
 소모AP : 1
@@ -2977,13 +2977,13 @@ groupId :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 15년차 관찰 기록. 표시1단계의 "안아달라고 한다"와 겹치지 않도록 "문턱을 스스로 뛰어넘는" 장면으로 차별화했다("낯설어하지만 결국 해낸다"는 점에서 표시1단계의 "체력이 없어 못 하는" 인상과 정반대다 — 플레이어가 반전을 깨달은 뒤 두 장면을 나란히 놓고 비교하면 그 차이가 더 선명해진다).
+의도 : 15년차(아리 한창). 사람 레이어 - 원하던 자리로 가지 못한 실망. 잠 못 이루는 밤 거실에 나와 있는 사람 옆으로 강아지가 다가와 함께 잠드는 장면으로만 그린다. (※ 의도문 구버전은 "문턱을 스스로 뛰어넘는" 표시1단계 대비 장면이었으나 실제 집필된 내용과 달라 폐기, 현재 내용 기준으로 갱신함 - 2026-09-13)
 내용 :
-○○월 ○○일, 맑음. 얼마 전 회사에서 바라던 자리로 가지 못하게 됐다. 밤이 되자 {dog_name}는(은) 거실 이불 옆으로 파고들어 몸을 웅크리고 잠들었다.
+○○월 ○○일, 맑음. 얼마 전 회사에서 바라던 자리로 가지 못하게 됐다. 잠이 오지 않아 거실에 이불을 펴고 누웠는데, {dog_name}는(은) 그 옆으로 파고들어 몸을 웅크리고 잠들었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 얼마 전 회사에서 바라던 자리로 가지 못하게 됐다. 밤이 되자 {dog_name}는(은) 거실 이불 옆으로 파고들어 몸을 웅크리고 잠들었다.</div>
+    <div class="document-body">○○월 ○○일, 맑음. 얼마 전 회사에서 바라던 자리로 가지 못하게 됐다. 잠이 오지 않아 거실에 이불을 펴고 누웠는데, {dog_name}는(은) 그 옆으로 파고들어 몸을 웅크리고 잠들었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a small juvenile Yorkshire Terrier at two-thirds adult size, erect V-shaped ears, very short buzzed coat, closely shaved body hair, gentle juvenile face, round dark eyes, small black nose, slightly elongated snout, mostly black coat with minimal golden tan on cheeks and legs, small white chest patch, short docked tail, curled up tightly next to a blanket on the living room floor, sleeping peacefully at night, warm soft light. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, slightly faded and misty atmosphere.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
@@ -2998,8 +2998,8 @@ HTML :
 이름 : 스스로 내려온 길
 clueId : 631f3eda-195d-4ebe-a4d1-9504f95c9408
 variantId : 7e7ba0ce-15b4-4e56-9e88-66a2843c7e45
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276227/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_dmvnky.jpg
+groupId : 937b9461-499d-4e74-9f59-f8c2170cfcf5
 유형 : 관찰
 단계 : 15년
 소모AP : 1
@@ -3034,8 +3034,8 @@ HTML :
 이름 : 끊어진 전선
 clueId : 20935f15-8615-4408-abe0-22a023172ddd
 variantId : ed55151d-518a-4d02-b0b0-2fe61c9ef7ac
-이미지 :
-groupId :
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276230/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ckp3lj.jpg
+groupId : 937b9461-499d-4e74-9f59-f8c2170cfcf5
 유형 : 관찰
 단계 : 15년
 소모AP : 1
@@ -3067,11 +3067,11 @@ HTML :
 
 
 [clue_86]
-이름 : 첫날
+이름 : 조심조심
 clueId : 9aa2c204-1a82-4907-a915-0ed872d17263
 variantId : 269839f6-ddc7-4061-85d8-e0aaba7eedc1
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276234/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_kz6kte.jpg
+groupId : 8c250a5f-fee6-4476-beb6-cf9e7716c97d
 유형 : 관찰
 단계 : 16년
 소모AP : 1
@@ -3085,13 +3085,13 @@ groupId :
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 16년차에 기록한 일상 관찰 기록 (16년: 첫날).
+의도 : 16년차에 기록한 일상 관찰 기록 (16년: 조심조심).
 내용 :
-11월 5일, 맑음. {dog_name}를(을) 안고 처음 이 집에 들어섰다. {dog_name}는(은) 낯선 냄새에 자꾸 품 안으로 파고들었다.
+11월 5일, 맑음. {dog_name}를(을) 안고 방 안으로 들어서자, {dog_name}는(은) 주변을 살피더니 조심스럽게 품 안으로 얼굴을 묻었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">11월 5일, 맑음. {dog_name}를(을) 안고 처음 이 집에 들어섰다. {dog_name}는(은) 낯선 냄새에 자꾸 품 안으로 파고들었다.</div>
+    <div class="document-body">11월 5일, 맑음. {dog_name}를(을) 안고 방 안으로 들어서자, {dog_name}는(은) 주변을 살피더니 조심스럽게 품 안으로 얼굴을 묻었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a very young Yorkshire Terrier puppy at half adult size, oversized head-to-body ratio, erect V-shaped ears, very short buzzed coat, closely shaved body hair, cute round baby face, soft chubby cheeks, big glossy innocent dark eyes, tiny black nose, almost entirely black puppy coat with minimal tan on legs and cheeks, small white chest patch, short docked tail, being cradled in someone's arms inside a new unfamiliar house, burying its tiny face into the owner's chest, sunny room with new surroundings. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, deeply faded dreamy and misty atmosphere representing a distant fond memory, softer edges.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
@@ -3099,15 +3099,15 @@ HTML :
 레퍼런스: ari_age1_very_short.jpeg
 
 단서 그룹 : 16년
-파일명 : 86_16년_첫날
+파일명 : 86_16년_조심조심
 
 
 [clue_87]
 이름 : 밥그릇
 clueId : 20ffc726-67b9-436c-9bcc-8a2c7622fcfe
 variantId : 2ea9f2f6-0899-48d4-b179-7dcfd39b89e0
-이미지 : 
-groupId : 
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276237/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_trekny.jpg
+groupId : 8c250a5f-fee6-4476-beb6-cf9e7716c97d
 유형 : 관찰
 단계 : 16년
 소모AP : 1
