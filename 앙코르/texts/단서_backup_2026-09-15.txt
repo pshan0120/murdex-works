@@ -46,7 +46,7 @@ HTML :
 이름 : 이뤄진 소원
 clueId : bb6ba397-e4c0-48f6-a202-a3f0d62c7405
 variantId : f5822ca3-6909-45ca-b976-89c95592aa73
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789488001/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_zmpwer.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789275973/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_mpfkwv.jpg
 groupId : 6528b941-7875-45d1-879d-d42fc53149b8
 유형 : 관찰
 단계 : 1년
@@ -70,10 +70,9 @@ HTML :
     <div class="document-body">8월 24일, 맑음. 나는 우리 집에 한 마리의 강아지가 더 생기길 바랐다. 그리고 그 소원이 이루어졌다. 지금 우리 집에 개가 두 마리 있다. 나는 {dog_name}를(을) 품에 안고 있다. 나는 {dog_name}에게 인사했다. "안녕." 그러니까 {dog_name}도 나를 쳐다본다. {dog_name_2}는(은) 그 모습을 불안한 눈빛으로 쳐다보고 있다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A cozy modern South Korean apartment living room on a rainy day. Close-up to medium shot centered on an owner's torso and arms cradling a small Yorkshire Terrier (Ari, matching reference ari_adult_medium.jpg) gently in their arms horizontally like a baby. Strictly NO human head, NO human face, and NO lower body/legs/feet visible — only the cozy knit sweater-clad chest and arms holding the puppy close in the foreground. The small Yorkshire Terrier has medium-length slightly shaggy silvery-grey and black coat fading to tan on face, erect V-shaped ears, cute pink tongue slightly out (blep), looking up toward the owner. In the cozy living room background on the wooden floor, a second Yorkshire Terrier (Ttori, matching reference ttori_adult_medium.jpg) with a darker black saddle coat and shorter stubby snout stands nearby, looking toward the owner's arms with worried, anxious eyes. In the background through the living room's large window, soft gentle rain falls outside. Warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused indoor lighting. Strictly NO human faces, NO human legs, NO feet. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Absolutely NO borders, NO frames, NO decorative corners.
-[2026-09-16 수정: 현관이 아닌 거실 배경으로 변경, 사람 전신/다리 제거하고 품에 안은 가슴/팔과 강아지 중심 클로즈업-미디엄 구도, 거실 바닥에서 불안하게 바라보는 똘이]
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, very long floor-length silky fur, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, a person cradling the small dog horizontally in their arms like a baby (on its back with paws up), the dog is looking up affectionately towards the owner's unseen face, at a house entrance on a rainy day, while a second Yorkshire Terrier watches from behind with worried anxious eyes, raindrops visible outside the door. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  IMPORTANT: Framed from the chest down, human head completely out of frame (cropped out). strictly NO human faces visible. Any human figures must wear gender-neutral spring clothing and have completely ambiguous, unidentifiable gender. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
 
-레퍼런스: ari_adult_medium.jpg, ttori_adult_medium.jpg
+레퍼런스: ari_adult_long.jpg, ttori_adult_long.jpg
 
 단서 그룹 : 1년
 파일명 : 02_1년_이뤄진_소원
@@ -208,11 +207,11 @@ groupId : 23026830-cf29-4704-9329-804924bc7e41
 관련 : 공통
 의도 : 2년차 관찰 기록. 3개 전부 "짖지 않음/짧은 산책/담요"처럼 조용한 장면이지만, "왜"는 절대 말하지 않는다.
 내용 :
-○○월 ○○일, 흐림. 요즘 회사 일이 유난히 바빠 마음이 뒤숭숭했다. 그 마음을 달래려 괜히 집안일을 붙잡다가, {dog_name}의 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.
+○○월 ○○일, 흐림. 회사가 또 다른 곳으로 넘어간다고 했다. 뒤숭숭한 마음을 달래려 괜히 집안일을 붙잡다가, {dog_name}의 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 흐림. 요즘 회사 일이 유난히 바빠 마음이 뒤숭숭했다. 그 마음을 달래려 괜히 집안일을 붙잡다가, {dog_name}의 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.</div>
+    <div class="document-body">○○월 ○○일, 흐림. 회사가 또 다른 곳으로 넘어간다고 했다. 뒤숭숭한 마음을 달래려 괜히 집안일을 붙잡다가, {dog_name}의 낮잠 자리에 두꺼운 담요를 새로 깔아주었다. {dog_name}는(은) 그 위에 몸을 웅크리고 동그랗게 잠들었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, short neatly trimmed puppy-cut fur, silvery-grey and black coat fading to tan/golden-brown on legs and face, tiny pink tongue visibly sticking out slightly from mouth (adorable blep), curled up in a cozy ball sleeping peacefully on a thick soft blanket on the living room floor, cozy modern South Korean apartment interior, soft overcast daylight. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Absolutely NO borders, NO frames, NO decorative corners.
@@ -479,7 +478,7 @@ HTML :
 이름 : 한 박자
 clueId : adde4e2f-1fb0-49d6-8d6f-d2eccaf4b066
 variantId : d6530a6d-16e8-4b30-870b-5563e91cf939
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789487748/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ol4r55.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276009/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_rxaetp.jpg
 groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 유형 : 관찰
 단계 : 3년
@@ -494,18 +493,18 @@ groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 3년차 관찰 기록. "병원 다녀옴"의 사유는 절대 밝히지 않는다. [2026-09-15 추가] 2-2 피드백(똘이 등장 빈도 보강) 대응으로 {dog_name_2}(똘이)를 카메오로 추가 — 반응 속도 대비를 통해 나이 신호를 간접적으로 강화.
+의도 : 3년차 관찰 기록. "병원 다녀옴"의 사유는 절대 밝히지 않는다.
 내용 :
-○○월 ○○일, 맑음. 동네 쉼터에서 이름을 불렀다. {dog_name_2}는(은) 바로 뛰어왔지만, {dog_name}는(은) 한 박자 늦게 고개를 돌리더니 천천히 다가왔다.
+○○월 ○○일, 맑음. 동네 쉼터에서 이름을 불렀다. {dog_name}는(은) 한 박자 늦게 고개를 돌리더니 천천히 다가왔다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 동네 쉼터에서 이름을 불렀다. {dog_name_2}는(은) 바로 뛰어왔지만, {dog_name}는(은) 한 박자 늦게 고개를 돌리더니 천천히 다가왔다.</div>
+    <div class="document-body">○○월 ○○일, 맑음. 동네 쉼터에서 이름을 불렀다. {dog_name}는(은) 한 박자 늦게 고개를 돌리더니 천천히 다가왔다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at two small Yorkshire Terriers at a quiet resting shelter area with wooden benches and trees inside a modern South Korean apartment complex, residential apartment buildings softly visible in the background. CRITICAL: BOTH dogs MUST have pointed erect V-shaped ears standing straight up (strictly NO folded, dropped, or floppy ears on either dog). In front, the first Yorkshire Terrier (Ari, matching reference ari_adult_very_short.jpg) has very short buzzed coat, silvery-grey and black coat fading to tan on face, cute small pink tongue clearly sticking out of its mouth (blep), slowly turning its head toward the viewer with a gentle delayed reaction. Beside it, the second Yorkshire Terrier (Ttori, matching reference ttori_adult_very_short.jpg) has a rounder cuter face with a shorter stubby snout, darker black saddle coat with golden-tan legs, mouth completely closed with strictly NO tongue visible, already facing the viewer alertly with ears perked, having reacted first. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, soft green, warm earthy tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused natural lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier standing at a quiet resting shelter area with wooden benches and trees inside a modern South Korean apartment complex with residential apartment buildings softly visible in the background. The dog has upright erect pointed V-shaped ears, very short buzzed coat, closely shaved body hair, silvery-grey and black coat fading to tan/golden-brown on legs and face, tiny cute pink tongue visibly sticking out slightly (blep), short docked tail, slowly turning its head toward the viewer with a gentle delayed reaction. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, soft green, warm earthy tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused natural lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Absolutely NO borders, NO frames, NO decorative corners.
 
-레퍼런스: ari_adult_very_short.jpg, ttori_adult_very_short.jpg
+레퍼런스: ari_adult_very_short.jpg
 
 단서 그룹 : 3년
 파일명 : 14_3년_한_박자
@@ -515,7 +514,7 @@ HTML :
 이름 : 비가 올 것 같으면
 clueId : 66907574-42a7-4c8a-af19-92d3c2c1a0d4
 variantId : 099dcf30-de4d-491b-b75f-99b76393d267
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789487749/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ql3ft8.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276012/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_eyyozb.jpg
 groupId : cff60d9d-e0d4-4417-8f98-b72357bbc675
 유형 : 관찰
 단계 : 3년
@@ -539,9 +538,9 @@ HTML :
     <div class="document-body">○○월 ○○일, 비. 비가 올 것 같은 날이면 {dog_name}는(은) 멀리 가지 않으려 했다. 집 근처만 돌고 나면 정말로 비가 왔다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_medium.jpg) with medium-length slightly shaggy fur, natural grown out coat, erect pointed V-shaped ears, cute pink tongue slightly out (blep), and short docked tail. The dog is walking cautiously near the ground-floor entrance of its apartment building along a paved path under darkening cloudy skies in the apartment complex, staying close and turning back toward the entrance as rain approaches. Overcast pre-rain sky with apartment buildings softly visible in the background. Full-bleed edge-to-edge composition filling the entire canvas. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft overcast slate blue, muted grey), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). CRITICAL: Full bleed edge-to-edge, strictly NO borders, NO frames, NO margins, NO edge outlines, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_long.jpg) with long floor-length silky fur, erect pointed V-shaped ears, cute pink tongue slightly out (blep), and short docked tail. The dog is walking cautiously near the ground-floor entrance of its apartment building along a paved path under darkening cloudy skies in the apartment complex, staying close and turning back toward the entrance as rain approaches. Overcast pre-rain sky with apartment buildings softly visible in the background. Full-bleed edge-to-edge composition filling the entire canvas. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft overcast slate blue, muted grey), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). CRITICAL: Full bleed edge-to-edge, strictly NO borders, NO frames, NO margins, NO edge outlines, NO decorative corners.
 
-레퍼런스: ari_adult_medium.jpg
+레퍼런스: ari_adult_long.jpg
 
 단서 그룹 : 3년
 파일명 : 15_3년_비가_올_것_같으면
@@ -872,10 +871,10 @@ HTML :
 
 
 [clue_25]
-이름 : 간식만 쏙쏙
+이름 : 강아지 계단
 clueId : e7caac8b-4b8d-4906-9cdd-4c2b690e318c
 variantId : 7024dda3-043b-48d8-8481-dc0b7cf99468
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789487750/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_j67di6.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276045/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_oa1knb.jpg
 groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 유형 : 관찰
 단계 : 5년
@@ -890,21 +889,21 @@ groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 5년차 관찰 기록. [2026-09-15 교체] 기존 "강아지 계단"이 4년차 "침대 계단"과 소재가 거의 겹쳐, 반려인이라면 공감할 보편적 에피소드(사료에 간식을 섞어줬더니 간식만 골라 먹은 일)로 대체.
+의도 : 5년차 관찰 기록. 계단을 놓아준 이유는 말하지 않는다. (※ 4년차 "침대 계단"과 소재가 거의 겹침 — 실제 집필 시 한쪽을 다른 장면으로 차별화 검토 필요.)
 내용 :
-○○월 ○○일, 흐림. 사료를 통 안 먹길래 삶은 달걀과 고구마를 잘게 썰어 섞어주었다. {dog_name}는(은) 그 사이에서 간식만 쏙쏙 골라 먹고 사료는 그대로 남겼다.
+○○월 ○○일, 흐림. 침대 옆에 강아지용 계단을 놓아주었다. {dog_name}는(은) 그 계단을 밟고 침대 위로 올라왔다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 흐림. 사료를 통 안 먹길래 삶은 달걀과 고구마를 잘게 썰어 섞어주었다. {dog_name}는(은) 그 사이에서 간식만 쏙쏙 골라 먹고 사료는 그대로 남겼다.</div>
+    <div class="document-body">○○월 ○○일, 흐림. 침대 옆에 강아지용 계단을 놓아주었다. {dog_name}는(은) 그 계단을 밟고 침대 위로 올라왔다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking down at a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, short neatly trimmed puppy-cut fur, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, leaning over a food bowl on the floor containing dry kibble mixed with small chopped pieces of boiled egg and sweet potato, carefully picking out only the boiled egg and sweet potato pieces with its mouth while the kibble stays untouched in the bowl, warm cozy kitchen floor setting. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment interior, kitchen floor. Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, short neatly trimmed puppy-cut fur, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, stepping up small soft pet stairs placed beside a bed, carefully climbing up step by step toward the mattress, overcast bedroom. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
 
 레퍼런스: ari_adult_short.jpg
 
 단서 그룹 : 5년
-파일명 : 25_5년_간식만_쏙쏙
+파일명 : 25_5년_강아지_계단
 
 
 [clue_26]
@@ -947,7 +946,7 @@ HTML :
 이름 : 멀리서부터
 clueId : 078c73c5-6b1a-4616-85c0-9b086916f654
 variantId : 02dc16bc-4a91-4a05-a225-d0694b487a95
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789487751/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_vq0iwz.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276051/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_i32kyx.jpg
 groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 유형 : 관찰
 단계 : 5년
@@ -962,18 +961,18 @@ groupId : d190d709-8163-4cc1-9ff7-5888a8cc2ed7
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 5년차 관찰 기록. 실제 기억(개인) 기반 — 산책 소재가 몰려 있어 "동네 한 바퀴"를 대체했다. [2026-09-15 추가] 2-2 피드백(똘이 등장 빈도 보강) 대응으로 {dog_name_2}(똘이)를 카메오로 추가.
+의도 : 5년차 관찰 기록. 실제 기억(개인) 기반 — 산책 소재가 몰려 있어 "동네 한 바퀴"를 대체했다.
 내용 :
-○○월 ○○일, 맑음. 요즘 {dog_name}의 영상을 찍어 올리기 시작했다. {dog_name_2}와 함께 나선 산책길, 멀리서 카메라를 든 나를 먼저 알아채고 꼬리를 흔들며 달려온 건 {dog_name}였다.
+○○월 ○○일, 맑음. 요즘 {dog_name}의 영상을 찍어 올리기 시작했다. 단지를 산책하다가 멀리서 카메라를 든 나를 알아본 {dog_name}는(은) 꼬리를 흔들며 곧장 뛰어왔다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 요즘 {dog_name}의 영상을 찍어 올리기 시작했다. {dog_name_2}와 함께 나선 산책길, 멀리서 카메라를 든 나를 먼저 알아채고 꼬리를 흔들며 달려온 건 {dog_name}였다.</div>
+    <div class="document-body">○○월 ○○일, 맑음. 요즘 {dog_name}의 영상을 찍어 올리기 시작했다. 단지를 산책하다가 멀리서 카메라를 든 나를 알아본 {dog_name}는(은) 꼬리를 흔들며 곧장 뛰어왔다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at two small Yorkshire Terriers down a sunny paved walking path inside a modern South Korean apartment complex, running joyfully toward the viewer after spotting them from far away. CRITICAL: BOTH dogs MUST have pointed erect V-shaped ears standing straight up and very short docked nub tails (tiny button tails, strictly NO long tails on either dog). In front, the first Yorkshire Terrier (Ari, matching reference ari_adult_medium.jpg) has medium-length slightly shaggy silvery-grey and black coat fading to tan/golden-brown bouncing with each stride, cute pink tongue sticking out (blep), sprinting ahead with joyful recognition. A short distance behind, the second Yorkshire Terrier (Ttori, matching reference ttori_adult_medium.jpg) has a slightly sleeker build, darker black saddle coat with golden-tan legs, mouth closed with strictly NO tongue sticking out, running to catch up. Tree-lined apartment complex walkway with residential buildings softly visible in the background under bright sunny daylight. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft park green, pale blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_medium.jpg) down a sunny paved walking path inside a modern South Korean apartment complex, running joyfully straight toward the viewer after spotting them from far away. The dog has compact toy-breed body, erect pointed V-shaped ears, cute pink tongue sticking out (blep), medium-length slightly shaggy silvery-grey and black coat fading to tan/golden-brown bouncing with each stride, a very short docked nub tail (tiny button tail, strictly NO long tail, NO long curved tail), and small white chest patch. Tree-lined apartment complex walkway with residential buildings softly visible in the background under bright sunny daylight. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft park green, pale blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). Absolutely NO borders, NO frames, NO decorative corners.
 
-레퍼런스: ari_adult_medium.jpg, ttori_adult_medium.jpg
+레퍼런스: ari_adult_medium.jpg
 
 단서 그룹 : 5년
 파일명 : 27_5년_멀리서부터
@@ -1180,11 +1179,11 @@ groupId : b83a3b75-1f2c-4e61-a344-33e059fabe4a
 관련 : 공통
 의도 : 6년차 관찰 기록. 실제 기억(가족이 남긴 기록) 기반. 지명은 일반화했다.
 내용 :
-○○월 ○○일, 맑음. 요즘 이런저런 걱정으로 마음이 복잡했다. 뒤척이다 잠을 설친 새벽, {dog_name}에게 나가자고 하면 잘도 따라나섰다. 퇴근하고 나서도 같은 길을 한 번 더 걸었다.
+○○월 ○○일, 맑음. 얼마 전 크게 손해를 본 일이 있었다. 뒤척이다 잠을 설친 새벽, {dog_name}에게 나가자고 하면 잘도 따라나섰다. 퇴근하고 나서도 같은 길을 한 번 더 걸었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 요즘 이런저런 걱정으로 마음이 복잡했다. 뒤척이다 잠을 설친 새벽, {dog_name}에게 나가자고 하면 잘도 따라나섰다. 퇴근하고 나서도 같은 길을 한 번 더 걸었다.</div>
+    <div class="document-body">○○월 ○○일, 맑음. 얼마 전 크게 손해를 본 일이 있었다. 뒤척이다 잠을 설친 새벽, {dog_name}에게 나가자고 하면 잘도 따라나섰다. 퇴근하고 나서도 같은 길을 한 번 더 걸었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, very short buzzed coat, closely shaved body hair, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, walking on a quiet pre-dawn paved path inside an apartment complex, early morning light just breaking with apartment buildings softly silhouetted, serene and peaceful, pale golden sunrise. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
@@ -1559,7 +1558,7 @@ HTML :
 이름 : 비 오는 날
 clueId : b0e10f5b-c23b-47d5-b1fe-181cc7b02e2a
 variantId : 7bd1e810-b467-42cd-bdf0-941363314c54
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789487753/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_f8hq3c.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276102/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_ld4nc0.jpg
 groupId : 3e1dd377-aa6e-4682-9997-7b3562d86c47
 유형 : 관찰
 단계 : 9년
@@ -1583,9 +1582,9 @@ HTML :
     <div class="document-body">○○월 ○○일, 비. 우산을 챙겨 나서려 하자 {dog_name}는(은) 현관 앞에 주저앉아 움직이지 않았다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_medium.jpg) with medium-length slightly shaggy fur, natural grown out coat, erect V-shaped ears, cute pink tongue sticking out (blep), sitting stubbornly on the polished tile floor inside the ground-floor lobby and communal entrance of a modern South Korean apartment building, refusing to step outside. Just ahead, through the large glass entrance automatic doors of the apartment building, heavy rain is clearly falling onto the wet paved walkways and green plants outside in the apartment complex. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue, muted slate), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Inside the ground-floor communal lobby of a modern South Korean apartment building looking out through glass doors (strictly NO traditional hanok, NO ancient village buildings). Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_long.jpg) with long silky floor-length fur, erect V-shaped ears, cute pink tongue sticking out (blep), sitting stubbornly on the polished tile floor inside the ground-floor lobby and communal entrance of a modern South Korean apartment building, refusing to step outside. Just ahead, through the large glass entrance automatic doors of the apartment building, heavy rain is clearly falling onto the wet paved walkways and green plants outside in the apartment complex. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue, muted slate), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Inside the ground-floor communal lobby of a modern South Korean apartment building looking out through glass doors (strictly NO traditional hanok, NO ancient village buildings). Absolutely NO borders, NO frames, NO decorative corners.
 
-레퍼런스: ari_adult_medium.jpg
+레퍼런스: ari_adult_long.jpg
 
 단서 그룹 : 9년
 파일명 : 44_9년_비_오는_날
@@ -1739,7 +1738,7 @@ HTML :
 이름 : 팽팽한 리드줄
 clueId : 030a497d-1091-4fc8-9123-308c2a811db9
 variantId : 4349ce95-13ce-4d75-9d66-ce51b2535edf
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789487754/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_r4li1y.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276114/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_iv3akf.jpg
 groupId : 58af4863-09f1-4849-b8b5-559255a0ce23
 유형 : 관찰
 단계 : 10년
@@ -1763,7 +1762,7 @@ HTML :
     <div class="document-body">○○월 ○○일, 맑음. 산책 중 {dog_name}는(은) 앞장서서 걸으며 리드줄을 팽팽하게 당겼다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking directly at the back (rear view) of a small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) trotting ahead along a sunny paved walking path inside a modern South Korean apartment complex. The dog is seen entirely from behind with its back turned to the viewer, showing its compact silvery-grey and black back coat, cute erect pointed V-shaped ears seen from the back, and short docked tail perked up happily as it pulls a taut leash straight forward ahead of the owner. Sunny autumn apartment complex walkway lined with trees showing autumn foliage (orange, yellow, and red leaves, some fallen leaves scattered on the pavement), residential buildings softly in the background. STRICTLY autumn season only — NO cherry blossoms, NO spring flowers, NO green summer leaves. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue, warm amber), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame (only the leash extending forward). Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking directly at the back (rear view) of a small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) trotting ahead along a sunny paved walking path inside a modern South Korean apartment complex. The dog is seen entirely from behind with its back turned to the viewer, showing its compact silvery-grey and black back coat, cute erect pointed V-shaped ears seen from the back, and short docked tail perked up happily as it pulls a taut leash straight forward ahead of the owner. Sunny tree-lined apartment complex walkway with residential buildings softly in the background. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame (only the leash extending forward). Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
 
 레퍼런스: ari_adult_very_short.jpg
 
@@ -1936,11 +1935,11 @@ groupId : 58af4863-09f1-4849-b8b5-559255a0ce23
 관련 : 공통
 의도 : 10년차 관찰 기록. 실제 기억(가족이 남긴 기록) 기반. "마음을 읽는다"는 해석은 빼고 행동만 남겼다.
 내용 :
-○○월 ○○일, 맑음. 요즘 야근이 잦아 늦게 들어오는 날이 많다. {dog_name}는(은) 그런 날에도 문 앞에서 기다리고 있었다. 내가 말없이 걷기만 해도 걷다가 나를 돌아보길 반복했다.
+○○월 ○○일, 맑음. 요즘 내 일을 시작하느라 늦게 들어오는 날이 많다. {dog_name}는(은) 그런 날에도 문 앞에서 기다리고 있었다. 내가 말없이 걷기만 해도 걷다가 나를 돌아보길 반복했다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 요즘 야근이 잦아 늦게 들어오는 날이 많다. {dog_name}는(은) 그런 날에도 문 앞에서 기다리고 있었다. 내가 말없이 걷기만 해도 걷다가 나를 돌아보길 반복했다.</div>
+    <div class="document-body">○○월 ○○일, 맑음. 요즘 내 일을 시작하느라 늦게 들어오는 날이 많다. {dog_name}는(은) 그런 날에도 문 앞에서 기다리고 있었다. 내가 말없이 걷기만 해도 걷다가 나를 돌아보길 반복했다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at exactly ONE small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) sitting faithfully by the apartment entrance foyer (현관) at dusk. CRITICAL: A single unified image (strictly NO split screen, NO diptych). The apartment front door is a solid, completely opaque metal security door with a digital doorlock (strictly NO glass windows, NO transparent panels on the front door). The entrance features a typical South Korean apartment entryway with a tall built-in shoe closet, a sunken tiled entrance area with neatly placed shoes, and a solid closed front door. The dog has erect pointed V-shaped ears, very short buzzed coat, pink tongue slightly out (blep), and short docked tail, sitting politely on the wooden floor at the edge of the entrance step, gazing intently at the closed metal front door waiting for its owner to return home from work. Warm golden sunset light softly illuminates the interior from the living room side. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, warm sunset gold, soft dusty blue, muted gray door), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Inside a modern South Korean apartment interior at dusk. Absolutely NO borders, NO frames, NO decorative corners.
@@ -2315,7 +2314,7 @@ HTML :
 이름 : 하천 길
 clueId : 046077dd-c1e2-41c3-9f42-3a63f05e28a3
 variantId : 1d1e7cfd-2d47-4b32-8aa7-a302aefb1411
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789488106/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_z7ge5j.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276166/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_g1w0z0.jpg
 groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 유형 : 관찰
 단계 : 12년
@@ -2330,7 +2329,7 @@ groupId : 2f52598d-bedb-454c-ba63-5e509b29f4d8
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 12년차 관찰 기록. "며칠 함께"는 실제 기억(친구 집 강아지가 며칠 놀러 온 일)을 가족·장소 이름 없이 일반화한 것이다. [2026-09-16 수정] 원래 clue_69용으로 잘못 라벨링돼 있던 호수/데크 이미지(내용은 그대로 사용 가능)를 이 클루로 재배정 — 이미지생성용 프롬프트도 실제 이미지(공원 근처 호수, 나무 데크길)에 맞게 갱신. 재생성 불필요, 이미지 확보 완료.
+의도 : 12년차 관찰 기록. "며칠 함께"는 실제 기억(친구 집 강아지가 며칠 놀러 온 일)을 가족·장소 이름 없이 일반화한 것이다.
 내용 :
 ○○월 ○○일, 맑음. 물길을 따라 난 산책로를 걸었다. {dog_name}는(은) 앞장서서 걸으며 자꾸 물가 쪽으로 다가갔다.
 HTML :
@@ -2339,7 +2338,7 @@ HTML :
     <div class="document-body">○○월 ○○일, 맑음. 물길을 따라 난 산책로를 걸었다. {dog_name}는(은) 앞장서서 걸으며 자꾸 물가 쪽으로 다가갔다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) with compact toy-breed body, erect V-shaped ears, very short buzzed coat, round dark eyes, small black nose, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, short docked tail, trotting along a wooden boardwalk path beside a calm lake near a park, pulling toward the water's edge with interest. Gentle reeds and greenery line the water, low green hills softly visible in the background, sunny day with water reflection. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier, compact toy-breed body, erect V-shaped ears, very short buzzed coat, closely shaved body hair, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat fading to tan/golden-brown on legs and face, small white chest patch, short docked tail, walking along a scenic streamside paved walkway near the neighborhood apartment complex, pulling toward the water's edge with interest, sunny day with water reflection. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment complex outdoors (strictly NO traditional hanok, NO ancient village buildings). If the scene is indoors, it must be a typical modern South Korean apartment interior, and humans MUST NOT wear shoes (barefoot or socks only). Absolutely NO borders, NO frames, NO decorative corners.
 
 레퍼런스: ari_adult_very_short.jpg
 
@@ -2459,7 +2458,7 @@ HTML :
 이름 : 낯선 곳에서도
 clueId : 851147dc-2e44-480a-98ba-f068528e62c5
 variantId : 1e17e77c-170d-403c-be84-71d017237d6e
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789488002/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_hm4nq2.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276179/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_j1fvef.jpg
 groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 유형 : 관찰
 단계 : 13년
@@ -2474,16 +2473,16 @@ groupId : d0da6f59-eb60-43fd-b548-9c2afa85ec86
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 13년차 관찰 기록. 젊은 성견기의 활력을 가장 풍부하게 담은 단계라 6개로 다른 단계보다 많다. [2026-09-16 수정] 실제 기억(바닷가에 데려간 일) 기반으로 내용·이미지 프롬프트 교체 — 기존에 쓰던 호수/데크 이미지는 clue_65 "하천 길"로 재배정되어, 이 클루는 새 이미지 생성 필요.
+의도 : 13년차 관찰 기록. 젊은 성견기의 활력을 가장 풍부하게 담은 단계라 6개로 다른 단계보다 많다.
 내용 :
-○○월 ○○일, 맑음. 바닷가에 데려갔다. {dog_name}는(은) 꼬리를 세우고 모래사장 이곳저곳을 씩씩하게 뛰어다녔다.
+○○월 ○○일, 맑음. 처음 가는 장소에 데려갔다. {dog_name}는(은) 꼬리를 세우고 이곳저곳을 씩씩하게 돌아다녔다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">○○월 ○○일, 맑음. 바닷가에 데려갔다. {dog_name}는(은) 꼬리를 세우고 모래사장 이곳저곳을 씩씩하게 뛰어다녔다.</div>
+    <div class="document-body">○○월 ○○일, 맑음. 처음 가는 장소에 데려갔다. {dog_name}는(은) 꼬리를 세우고 이곳저곳을 씩씩하게 돌아다녔다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) with compact toy-breed body, erect pointed V-shaped ears, very short buzzed coat, cute pink tongue sticking out (blep), and a very short docked nub tail (tiny button tail standing perkily up, strictly NO long tail, NO curved plumes), trotting boldly and confidently across a wide sandy beach. Background shows a calm ocean horizon with gentle waves under a soft blue sky, completely distinct from everyday residential neighborhoods. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft sky blue, warm sand tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Scenic beach coastline in South Korea. Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking at a small Yorkshire Terrier (matching reference ari_adult_very_short.jpg) with compact toy-breed body, erect pointed V-shaped ears, very short buzzed coat, cute pink tongue sticking out (blep), and a very short docked nub tail (tiny button tail standing perkily up, strictly NO long tail, NO curved plumes). The dog is exploring an unfamiliar scenic travel destination confidently, trotting boldly forward along a wooden boardwalk trail by a scenic lakeside park. Background shows a wide open lake with sparkling water reflecting the bright sunlight, gentle green reeds along the shore, and lush natural greenery under a clear blue sky, completely distinct from everyday residential neighborhoods. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft sky blue, warm sunlit wood), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Scenic lakeside boardwalk trail in South Korea (strictly NO traditional hanok, NO ancient village buildings). Absolutely NO borders, NO frames, NO decorative corners.
 
 레퍼런스: ari_adult_very_short.jpg
 
@@ -2819,7 +2818,7 @@ HTML :
 이름 : 창밖 구경
 clueId : 772018ed-20d2-4092-9758-23dedcca2087
 variantId : eba3cc34-307b-427a-b321-65a31b385802
-이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789487755/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_qd7o2g.jpg
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1789276214/murdex/images/a02510c3-97f4-4c2f-b437-7126d0654578/clue_variant/c6047a2e-222c-4f0e-b031-f639619888c0/file_tqgrxi.jpg
 groupId : a8447d5f-0d35-4303-88cc-2f8f96f6b555
 유형 : 관찰
 단계 : 14년
@@ -2843,9 +2842,9 @@ HTML :
     <div class="document-body">○○월 ○○일, 비. 요즘은 멀리 파견을 나가 집을 며칠씩 비우는 일이 잦다. 돌아온 날, {dog_name}는(은) 창턱에 턱을 괴고 오래도록 밖을 내다보았다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking directly at the back (rear view) of a small Yorkshire Terrier (matching reference ari_adult_medium.jpg) sitting by a large window. The dog is seen entirely from behind with its back completely turned to the viewer, resting its chin and front paws on the low window sill, gazing out intently through the large apartment glass window at the soft rain falling outside. From behind, we see the back of its head with erect pointed V-shaped ears, its medium-length slightly shaggy coat draping down its back, and its tiny docked tail. Outside through the rain-streaked glass window, lush green trees and raindrops are softly visible on a quiet rainy day. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft rain blue, misty grey), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  CRITICAL: Seen strictly from behind (rear view, back to camera, strictly NO front face visible). strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment interior. Absolutely NO borders, NO frames, NO decorative corners.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. First-person point of view (POV) looking directly at the back (rear view) of a small Yorkshire Terrier (matching reference ari_adult_long.jpg) sitting by a large window. The dog is seen entirely from behind with its back completely turned to the viewer, resting its chin and front paws on the low window sill, gazing out intently through the large apartment glass window at the soft rain falling outside. From behind, we see the back of its head with erect pointed V-shaped ears, its long flowing floor-length silky coat draping down its back, and its tiny docked tail. Outside through the rain-streaked glass window, lush green trees and raindrops are softly visible on a quiet rainy day. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at edges, muted pastel palette (cream, dusty pink, soft rain blue, misty grey), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.  CRITICAL: Seen strictly from behind (rear view, back to camera, strictly NO front face visible). strictly NO humans in frame. Absolutely no text, no letters, no words, and no signs in the image. Set in South Korea. Typical modern South Korean apartment interior. Absolutely NO borders, NO frames, NO decorative corners.
 
-레퍼런스: ari_adult_medium.jpg
+레퍼런스: ari_adult_long.jpg
 
 단서 그룹 : 14년
 파일명 : 79_14년_창밖_구경

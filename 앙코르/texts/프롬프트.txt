@@ -3,6 +3,12 @@
 테스트를 거쳐 확정된 "동화책 수채화풍" 기반 프롬프트입니다.
 모든 프롬프트는 쫑긋 선 귀(erect V-shaped ears) 및 1:1 정사각형 비율(square 1:1 aspect ratio)을 기본으로 합니다.
 
+[2026-09-15] 테스트플레이 피드백: "일부 단서에서 갑자기 장모(긴 털)로 바뀌는 게 이상하다"는 지적이 있어,
+"긴 털" 옵션은 당분간 사용 중단합니다. 아래 "긴 털" 항목은 참고용으로만 남겨두고, 실제 제작에는 "중간 털"을
+그 대신 사용하세요. 이미 배치돼 있던 긴 털 단서 4개(02_1년_이뤄진_소원, 15_3년_비가_올_것_같으면,
+44_9년_비_오는_날, 79_14년_창밖_구경)는 단서.txt에서 프롬프트를 중간 털로 이미 고쳐뒀고, 이미지 재생성만
+남았습니다.
+
 ====================================================================
 [아리(첫째 강아지) 복사 붙여넣기용 전체 프롬프트 모음]
 
@@ -11,7 +17,7 @@ realistic, photorealistic, photo, 3D render, other dog breed, chibi, kawaii exag
 
 --- 성견 (Adult) ---
 
-- 성견, 긴 털:
+- 성견, 긴 털: [2026-09-15 사용 중단 — 중간 털로 대체]
 a small Yorkshire Terrier dog character, compact toy-breed body proportions, erect V-shaped ears, very long floor-length silky-textured fur, traditional show coat, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, silvery-grey and black coat on the back fading to tan/golden-brown on the legs and face, small white patch on the chest, short docked tail, sitting pose, three-quarter front view, warm and sincere mood, not exaggeratedly cute or comedic, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, solid pure white background, isolated on white, no background elements, gentle diffused lighting, square 1:1 aspect ratio, centered composition
 
 - 성견, 중간 털:
@@ -26,7 +32,7 @@ a small Yorkshire Terrier dog character, compact toy-breed body proportions, ere
 
 --- 2살 크기 (약 2/3 사이즈, 아련한 분위기) ---
 
-- 2살, 긴 털:
+- 2살, 긴 털: [2026-09-15 사용 중단 — 중간 털로 대체]
 a small juvenile Yorkshire Terrier dog character, compact young dog proportions at two-thirds the adult body size, visibly older than a baby puppy but definitely younger than an adult dog, erect V-shaped ears, very long floor-length silky-textured fur, traditional show coat, gentle juvenile face shape with soft cheeks, round dark eyes, small black nose, slightly elongated snout, small pink tongue sticking out, mostly black coat over the body and dark head with minimal golden tan accents on cheeks and legs, no white face fur, small white patch on the chest, short docked tail, sitting pose, three-quarter front view, warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette, thin soft brown outline, warm nostalgic children's picture book aesthetic, solid pure white background, isolated on white, no background elements, gentle diffused lighting, slightly faded and misty atmosphere, square 1:1 aspect ratio, centered composition
 
 - 2살, 중간 털:
@@ -41,7 +47,7 @@ a small juvenile Yorkshire Terrier dog character, compact young dog proportions 
 
 --- 1살 크기 (약 1/2 사이즈, 더 깊게 아련한 분위기) ---
 
-- 1살, 긴 털:
+- 1살, 긴 털: [2026-09-15 사용 중단 — 중간 털로 대체]
 a very young Yorkshire Terrier puppy character, very small baby puppy body at half the adult body size, oversized head-to-body ratio typical of an adorable baby puppy, erect V-shaped ears, very long floor-length fine silky baby fur cascading down past the feet to the floor, long flowing puppy coat, smooth rounded baby contours, cute round baby face, soft chubby puppy cheeks, big glossy round innocent dark eyes, tiny black nose, slightly elongated puppy snout, small pink tongue sticking out, round puppy tummy, almost entirely black puppy coat with minimal tan accents on legs and cheeks, no silver fur, small white patch on the chest, short docked tail, sitting pose, three-quarter front view, warm and sincere mood, not exaggeratedly comedic, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette, thin soft brown outline, warm nostalgic children's picture book aesthetic, solid pure white background, isolated on white, no background elements, gentle diffused lighting, deeply faded dreamy and misty atmosphere representing a distant fond memory, softer edges, square 1:1 aspect ratio, centered composition
 
 - 1살, 중간 털:
@@ -82,7 +88,7 @@ realistic, photorealistic, photo, 3D render, other dog breed, chibi, kawaii exag
 
 --- 성견 (Adult) ---
 
-- 성견, 긴 털:
+- 성견, 긴 털: [2026-09-15 사용 중단 — 중간 털로 대체]
 a small Yorkshire Terrier dog character, leaner toy-breed body proportions with slightly longer legs than a typical Yorkshire Terrier, erect V-shaped ears, very long floor-length silky-textured fur, traditional show coat, round dark eyes, small black nose, shorter and slightly stubby snout giving a rounder and cuter face than a typical Yorkshire Terrier, dark black coat on the back fading to tan/golden-brown on the legs and face, small white patch on the chest, short docked tail, sitting pose, three-quarter front view, warm and sincere mood, not exaggeratedly cute or comedic, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, solid pure white background, isolated on white, no background elements, gentle diffused lighting, square 1:1 aspect ratio, centered composition
 
 - 성견, 중간 털:
@@ -97,7 +103,7 @@ a small Yorkshire Terrier dog character, leaner toy-breed body proportions with 
 
 --- 2살 크기 (약 2/3 사이즈, 아련한 분위기) ---
 
-- 2살, 긴 털:
+- 2살, 긴 털: [2026-09-15 사용 중단 — 중간 털로 대체]
 a small Yorkshire Terrier dog character, leaner toy-breed body proportions with slightly longer legs than a typical Yorkshire Terrier, erect V-shaped ears, very long floor-length silky-textured fur, traditional show coat, round dark eyes, small black nose, shorter and slightly stubby snout giving a rounder and cuter face than a typical Yorkshire Terrier, mostly black coat with very little tan on the legs and face, no silver fur, small white patch on the chest, short docked tail, sitting pose, three-quarter front view, warm and sincere mood, not exaggeratedly cute or comedic, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown outline, warm nostalgic children's picture book aesthetic, solid pure white background, isolated on white, no background elements, gentle diffused lighting, but at two-thirds the adult body size, slightly shorter legs, slightly rounder puppy proportions, slightly faded and misty atmosphere representing a fond memory, square 1:1 aspect ratio, centered composition
 
 - 2살, 중간 털:
@@ -112,7 +118,7 @@ a small juvenile Yorkshire Terrier dog character, compact young dog proportions 
 
 --- 1살 크기 (약 1/2 사이즈, 더 깊게 아련한 분위기) ---
 
-- 1살, 긴 털:
+- 1살, 긴 털: [2026-09-15 사용 중단 — 중간 털로 대체]
 a very young Yorkshire Terrier puppy character, very small baby puppy body at half the adult body size, oversized head-to-body ratio typical of an adorable baby puppy, erect V-shaped ears, very long floor-length fine silky baby fur cascading down past the feet to the floor, long flowing puppy coat, smooth rounded baby contours, cute round baby face, soft chubby puppy cheeks, big glossy round innocent dark eyes, tiny black nose, short stubby puppy snout, round puppy tummy, almost entirely black puppy coat with minimal tan accents on legs and cheeks, no silver fur, small white patch on the chest, short docked tail, sitting pose, three-quarter front view, warm and sincere mood, not exaggeratedly comedic, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette, thin soft brown outline, warm nostalgic children's picture book aesthetic, solid pure white background, isolated on white, no background elements, gentle diffused lighting, deeply faded dreamy and misty atmosphere representing a distant fond memory, softer edges, square 1:1 aspect ratio, centered composition
 
 - 1살, 중간 털:
