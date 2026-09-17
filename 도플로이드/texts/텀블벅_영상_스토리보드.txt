@@ -1,0 +1,71 @@
+도플로이드 - 텀블벅 프로젝트 소개 영상 스토리보드
+
+■ 배경
+바스타즈 심사 지연으로 생긴 시간을 활용해 프로젝트 소개 영상 제작. 바스타즈 경쟁작 조사 때 상위 프로젝트 대부분이 히어로 영역에 재생 버튼이 있는 영상을 걸어두고 있었음 - 도플로이드도 영상이 있으면 전환에 도움이 될 것으로 판단.
+
+■ 형식 (확정)
+- 목소리(나레이션) 없이 자막 + BGM만으로 구성. 나레이터 GPT-SoVITS 파인튜닝이 아직 안 끝난 상태라, 그 작업을 기다리지 않고 바로 제작 가능한 방향으로 결정.
+- 길이: 30~60초 티저. 신규 촬영/생성 없이 기존 자산 편집만으로 제작.
+- 자막 폰트는 텀블벅_디자인_가이드.txt의 2-폰트 규칙 그대로: 도장/케이스 넘버 느낌 자막은 타자기체(Special Elite 등), 본문 카피성 자막은 산세리프. 강조 단어는 레드 포인트.
+
+■ 사용 자산 (2026-09-17 2차 수정: 상세페이지와 겹치는 이미지 재사용 금지)
+컷씬·캐릭터 포트레이트뿐 아니라, 코르크보드·증거 사진 A/B처럼 프로젝트 상세(소개 탭)에 이미 쓰이는 이미지도 영상에 또 나오면 구매자 입장에서 "재탕"으로 보일 수 있음. 그래서 영상 전용으로 새 오브제 이미지 5장을 별도 생성. 단, HERO 배지(이중노출) 이미지 하나만은 예외로 재사용 - 이건 이 작품의 시그니처 비주얼이라 포스터가 트레일러에도 나오는 것과 같은 성격이고, "낯설고도 낯익은 얼굴"이라는 훅 자체를 이 이미지 말고는 대체하기 어려움.
+- BGM: story.lobby_audio_url (로비 트랙) - 전체 기본 트랙으로 사용
+- 커버/HERO 배지 이미지(이중노출) - 완성분 재사용 (유일한 예외)
+- 아래 [VIDEO-1]~[VIDEO-5] 신규 프롬프트로 생성한 이미지 5장 - 전부 상세페이지 어디에도 안 쓰는 영상 전용 오브제
+
+■ 영상 전용 신규 이미지 프롬프트 (2026-09-17 4차 수정: 손전등 조명 전면 재검토)
+연구소는 오늘 폐쇄가 "집행"되는 것뿐이지 정전 상태가 아님 - 손전등을 들고 다녀야 할 이유가 없다는 지적 반영. 배지 오브젝트(비트4, 기존 승인 자산)처럼 증거품을 책상 위에 올려놓고 스포트라이트로 강조하는 감식 사진 구도는 "실내 조명을 낮추고 대상만 비춘다"는 식으로 읽혀서 그대로 둬도 크게 안 어색하지만, 이번 5장은 연구소라는 실제 공간을 다루는 샷이라 조명 근거가 필요함. 그래서 손전등 대신, 이미 역할 이미지 프롬프트(역할_1_베일라.txt 등)에서 쓰고 있던 "가동은 되지만 을씨년스러운 형광등" 조명으로 전부 교체 - 연구소가 실제로 작동 중이라는 사실과도 맞고, 기존 캐릭터 포트레이트와 톤도 더 잘 맞물림.
+※ 생성 파일 저장 경로: images/video/ (video_1_shutter.png ~ video_5_corridor_fork.png)
+
+[VIDEO-1] 잠긴 셔터문 (video_1_shutter.png)
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Cinematic landscape 3:2 aspect ratio. Exterior outdoor wide shot at night in front of an ominous, secluded government research institute building. Cold brutalist concrete architectural facade. The facility's primary security entrance is completely blocked by a massive, heavy seamless automated industrial steel roll-up lockdown shutter with no manual lock hardware. A sliver of the institute's own interior fluorescent light - proof the facility inside still has power, just shut down for the day - bleeds out from beneath the shutter gap onto the dark exterior concrete ground. Atmospheric night mist, deep ominous shadows surrounding the building, desaturated cool teal-green color grade, subtle film grain, naturalistic practical lighting. No characters, no padlocks, no text. --ar 3:2
+
+[VIDEO-2] 마커스의 손목시계 (11시) (video_2_wristwatch.png)
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Cinematic landscape 3:2 aspect ratio, extreme close-up. A man's wrist wearing a simple analog watch, hands pointing to eleven o'clock (11:00), resting on the edge of a dark metal desk. Only the wrist and watch are visible - no face, no other part of the body, no clothing detail beyond a plain dark sleeve cuff. Clean, modern, well-maintained object with no dirt or wear. Lit by dim, slightly flickering overhead fluorescent tubes - the institute's own working lighting, functioning but sickly and cool-toned. Desaturated cool teal-green color grade, naturalistic practical lighting, subtle 35mm film grain. No text except the watch face numbers. --ar 3:2
+
+[VIDEO-3] 복도 양 끝에서 마주오는 두 요원의 역광 실루엣 (video_3_silhouettes.png) (2026-09-17 5차 수정: 바닥 그림자 왜곡 문제 해결을 위해, 얼굴은 철저히 가린 채 복도 양 끝에서 마주오는 두 요원의 역광 실루엣으로 교체)
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Cinematic landscape 3:2 aspect ratio. An ominous long institutional government research facility corridor lit from above by overhead fluorescent lights. In the hallway, two distant figures in dark trench coats approach each other from opposite ends of the corridor. Seen in stark back-lit silhouettes against the sickly green practical fluorescent lights. Their faces and identities are completely obscured in deep shadow. A tense, suspenseful standoff composition. Desaturated cool teal-green color grade, naturalistic practical lighting, subtle 35mm film grain. No readable text. --ar 3:2
+
+[VIDEO-4] 사무용 전화기 (video_4_telephone.png)
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Cinematic landscape 3:2 aspect ratio, dramatic close-up composition. A single clean, well-maintained modern corded office telephone receiver left off the hook, hanging by exactly one coiled cord above a dark metal desk in a private research institute office. The object itself looks contemporary and well-kept, no dirt, no rust, no visible wear - only the lighting and film grain carry the retro mood, not the object. Lit by dim, slightly flickering overhead fluorescent light - the institute's own working lighting. Desaturated cool teal-green color grade, subtle 35mm film grain, naturalistic practical lighting. No characters, no text. --ar 3:2
+
+[VIDEO-5] 두 갈래로 갈라지는 복도 (video_5_corridor_fork.png) (2026-09-17 4차 수정: 두 색 조명의 출처를 명시 - 한쪽은 가동 중인 형광등, 한쪽은 비상구 유도등)
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Cinematic landscape 3:2 aspect ratio. A plain institutional corridor that splits into two separate paths at a Y-shaped junction, seen from a low angle looking down both paths at once. The left path is lit by the institute's ordinary working fluorescent tubes, casting a cool teal-tinted glow; the right path is lit by a warm amber emergency exit sign glow, creating one clear visual fork with two distinct, plausible color directions. Clean, modern, minimalist architecture, no clutter, no readable signage. Deep shadow at the point where the two paths begin. Grainy, desaturated base tone with the two contrasting accent lighting colors as the focal point. No characters, no readable text. --ar 3:2
+
+■ 스토리보드 (9비트, 약 50~55초 기준 - BGM 길이에 맞춰 비트별 길이는 조정)
+
+1. [0~4초] VIDEO-1 (잠긴 셔터문, 안쪽 형광등 불빛이 틈으로 새어나옴 - 연구소가 정전이 아니라 가동 중임을 은연중에 보여줌)
+   자막: 없음. 우측 상단에 타자기체로 작게 "CASE NO. 07-114" 도장만 페이드인.
+
+2. [4~9초] VIDEO-2 (마커스의 손목시계, 11시) - 실제로 오전 11시가 두 사람이 마주치는 공개된 시각이라 이미지와 자막이 맞물림
+   자막: "폐쇄를 앞둔 연구소." → "우연히 마주친 두 사람."
+
+3. [9~15초] VIDEO-3 (형광등 아래, 복도에서 마주치는 두 사람의 그림자 - 인물 없이 그림자만으로 서로 다른 방향에서 접근하는 두 사람을 상징)
+   자막(순차): "CIA 요원." / "FBI 수사관." / "서로 다른 목적."
+
+4. [15~21초] HERO 배지 클로즈업 (유일하게 재사용하는 이미지, 확대)
+   자막: "그런데, 그의 얼굴이" (한 박자 쉬고) "낯설고도, 낯익다." - "낯익다"만 레드로 강조
+
+5. [21~29초] VIDEO-4 (사무용 전화기)
+   자막: "단서를 쫓을수록," → "믿음은 흔들린다."
+
+6. [29~37초] VIDEO-5 (두 갈래로 갈라지는 복도)
+   자막: "그리고 마지막 질문 앞에서,"
+
+7. [37~43초] VIDEO-5 유지, 두 갈래 조명 색 대비가 더 벌어지는 느낌으로 서서히 확대
+   자막(두 줄, 한 박자 간격): "두 사람의 답이 갈리면," → "결말도 갈린다." - "갈린다" 반복 강조, 레드
+
+8. [43~50초] 타이틀 카드 - HERO 페이지와 동일한 로고 조판 ("THE S-FILES: DOPLOID")
+   하단 한 줄: "MURDER MYSTERY FOR 2 PLAYERS"
+
+9. [50~55초] CTA 카드
+   자막: "텀블벅에서 곧 만나보세요" + 텀블벅 로고 자리. 시작일 확정되면 날짜 자막 추가.
+
+■ 톤 관련 유의점
+- 4번 비트의 "낯설고도 낯익다"는 기존에 이미 승인된 분위기(은유) 표현 그대로 - 구조 설명("도플갱어를 확인하는 게임")으로 넘어가지 않도록 주의.
+- 캐릭터 개인사(베일라의 약혼자, 마커스의 누나 등)는 일절 언급하지 않음 - 공개 정보(CIA/FBI 역할)까지만.
+
+■ 다음 논의할 것
+- CTA 카드에 넣을 정확한 펀딩 시작일 (바스타즈 완료 후 도플로이드 일정 재조정 필요 - 별도로 논의)
+- 편집 툴 (Canva 동영상 기능으로 충분할지, 별도 툴 필요할지)
