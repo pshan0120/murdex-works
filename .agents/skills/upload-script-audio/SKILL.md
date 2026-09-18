@@ -20,7 +20,7 @@ description: "합쳐진 대본 음성 mp3(concat-voice-wav 결과물)를 Cloudin
 ## 사용 방법 (터미널 명령어)
 
 ```bash
-python .agents/skills/upload-script-audio/scripts/upload_script_audio.py "c:\dev\KLIEN\murdex\works\도플로이드\audios\voice\단계_5_C구역_조사.mp3" "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_5_C구역_조사.txt"
+python .agents/skills/upload-script-audio/scripts/upload_script_audio.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\audios\voice\단계_5_C구역_조사.mp3" "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_5_C구역_조사.txt"
 ```
 
 성공하면 콘솔에 최종 Cloudinary URL이 출력되고, 지정한 단계 파일이 그 URL로 바로 수정됩니다.

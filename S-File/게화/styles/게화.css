@@ -1,0 +1,558 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Orbitron:wght@400;700;900&family=JetBrains+Mono:wght@400;700&display=swap");
+
+/*
+ * 게화 (가제) - 커스텀 테마 CSS
+ * 썰물이 끊긴 섬마을 미스터리 테마
+ * 도플로이드(styles/도플로이드.css)와 같은 구조·폰트 체계를 유지하되,
+ * 팔레트만 연구소의 차가운 블루바이올렛에서 밤바다의 탁한 청록-먹색으로 옮김.
+ */
+
+/* ============================================================
+   1. 기본 레이아웃 및 텍스트
+   ============================================================ */
+
+.story-content {
+    font-size: 1rem;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    color: #d6d6d6;
+    line-height: 1.8;
+    letter-spacing: -0.01em;
+    background: radial-gradient(ellipse at 50% 0%, rgba(79, 160, 150, 0.06), transparent 60%), #060a0c;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+
+/* 본문 스타일 */
+.story-content p {
+    margin-bottom: 1.2rem;
+    text-align: left;
+    word-break: keep-all;
+}
+
+.story-content ul {
+    list-style-type: disc;
+    margin-bottom: 1.2rem;
+    padding-left: 1.2rem;
+}
+
+.story-content ol {
+    list-style-type: decimal;
+    margin-bottom: 1.2rem;
+    padding-left: 1.2rem;
+}
+
+.story-content li {
+    margin-bottom: 0.8rem;
+}
+
+.story-content .info-list {
+    list-style-type: decimal;
+    padding-left: 1.2rem;
+    margin: 1rem 0;
+}
+
+.story-content .info-list li {
+    margin-bottom: 0.8rem;
+    line-height: 1.7;
+}
+
+.story-content .info-list li:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .info-list li strong {
+    color: #7fd4c9;
+}
+
+/* 제목 및 강조 */
+.story-content .section-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 900;
+    color: #7fd4c9;
+    margin: 2rem 0 1rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(127, 212, 201, 0.3);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px rgba(127, 212, 201, 0.35);
+}
+
+.story-content .subsection-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #e0955a;
+    margin: 1.5rem 0 0.8rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.story-content .subsection-title::before {
+    content: ">>";
+    font-size: 0.8em;
+    opacity: 0.7;
+}
+
+.story-content .highlight {
+    color: #7fd4c9;
+    font-weight: 700;
+    text-shadow: 0 0 5px rgba(127, 212, 201, 0.3);
+}
+
+.story-content .emphasis {
+    color: #e0955a;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* ============================================================
+   2. 박스 및 컴포넌트
+   ============================================================ */
+
+/* 분위기 조성을 위한 인용구 박스 */
+.story-content .quote-box {
+    position: relative;
+    margin: 1rem 0;
+    padding: 1rem;
+    background: rgba(127, 212, 201, 0.03);
+    border: 1px solid rgba(127, 212, 201, 0.1);
+    border-radius: 4px;
+    font-family: "Nanum Myeongjo", serif;
+    color: #e0e0e0;
+    line-height: 2;
+    text-align: center;
+}
+
+.story-content .quote-box::before,
+.story-content .quote-box::after {
+    content: '"';
+    font-family: serif;
+    font-size: 3rem;
+    position: absolute;
+    opacity: 0.1;
+    color: #7fd4c9;
+}
+
+.story-content .quote-box::before {
+    top: 0;
+    left: 1rem;
+}
+
+.story-content .quote-box::after {
+    bottom: -1rem;
+    right: 1rem;
+}
+
+/* 테이블 스타일 */
+.story-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: rgba(10, 22, 22, 0.6);
+    border: 1px solid rgba(127, 212, 201, 0.2);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.story-content th,
+.story-content td {
+    border: 1px solid rgba(127, 212, 201, 0.2);
+    padding: 0.75rem 1rem;
+    text-align: center;
+    word-break: keep-all;
+}
+
+.story-content th {
+    background: rgba(127, 212, 201, 0.12);
+    color: #7fd4c9;
+    font-weight: 700;
+    font-family: "Orbitron", sans-serif;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid rgba(127, 212, 201, 0.3);
+}
+
+.story-content tr:nth-child(even) {
+    background: rgba(127, 212, 201, 0.03);
+}
+
+.story-content tr:hover {
+    background: rgba(127, 212, 201, 0.07);
+}
+
+/* 시스템 메시지 및 가이드 박스 */
+.story-content .system-msg,
+.story-content .guide-box {
+    display: block;
+    margin: 1.5rem 0;
+    padding: 1.25rem;
+    background: rgba(127, 212, 201, 0.05);
+    border: 1px solid rgba(127, 212, 201, 0.2);
+    border-left: 4px solid #7fd4c9;
+    border-radius: 2px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.9rem;
+    color: #7fd4c9;
+}
+
+.story-content .guide-box {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px dashed rgba(255, 255, 255, 0.2);
+    border-left: 4px solid #ffffff;
+    color: #ffffff;
+}
+
+/* 접이식 섹션 (Details/Summary) */
+.story-content details {
+    background: rgba(127, 212, 201, 0.03);
+    border: 1px solid rgba(127, 212, 201, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.story-content details[open] {
+    background: rgba(127, 212, 201, 0.06);
+    border-color: rgba(127, 212, 201, 0.3);
+}
+
+.story-content summary {
+    padding: 1.2rem 1.5rem;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 700;
+    color: #7fd4c9;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(127, 212, 201, 0.05);
+    user-select: none;
+}
+
+.story-content summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content summary:hover {
+    background: rgba(127, 212, 201, 0.1);
+}
+
+.story-content .collapsible-content {
+    padding: 1.5rem;
+    border-top: 1px solid rgba(127, 212, 201, 0.1);
+}
+
+/* 구분선 */
+.story-content .divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(127, 212, 201, 0.3), transparent);
+    margin: 2.5rem 0;
+}
+
+/* ============================================================
+   3. 스크립트 및 캐릭터 시스템
+   ============================================================ */
+
+.story-content .script-container {
+    margin: 1.5rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.story-content .script-line {
+    line-height: 1.6;
+    text-align: left;
+    /* 대본은 항상 왼쪽 정렬 */
+}
+
+.story-content .script-character {
+    font-weight: 800;
+    margin-right: 0.8rem;
+    color: #ffffff;
+    padding: 2px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+    font-family: "Orbitron", sans-serif;
+    font-size: 0.85em;
+    display: inline-block;
+    min-width: 2.5rem;
+    text-align: center;
+}
+
+.story-content .script-direction {
+    font-size: 0.9rem;
+    color: #888888;
+    font-style: italic;
+    margin: 1rem 0;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.story-content .quote-box .script-line {
+    text-align: left;
+    /* 인용구 박스 내부에서도 대본은 왼쪽 정렬 */
+}
+
+/* 플레이어 전용 대본 스타일 */
+.story-content .script-line.my-line {
+    background: rgba(127, 212, 201, 0.12);
+    padding: 8px 12px;
+    border-radius: 6px;
+    border-left: 4px solid #7fd4c9;
+    margin: 0.8rem 0;
+    box-shadow: inset 0 0 20px rgba(127, 212, 201, 0.05);
+}
+
+.story-content .script-character.my-character {
+    background: #7fd4c9;
+    color: #060a0c;
+    box-shadow: 0 0 12px rgba(127, 212, 201, 0.6);
+}
+
+.story-content .script-line.other-character {
+    opacity: 0.4;
+    padding-left: 16px;
+    font-size: 0.9em;
+    border-left: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+/* 캐릭터별 고유 컬러 */
+.character-veyla {
+    color: #ff7fa6 !important;
+    /* Rose - 베일라: 고향에 대한 직감과 오래 묻어둔 그리움 */
+    text-shadow: 0 0 8px rgba(255, 127, 166, 0.5);
+}
+
+.character-marcus {
+    color: #e8a33d !important;
+    /* Amber - 마커스: 여전히 원칙적이지만, 이번엔 한 사람을 믿어보려 하는 쪽 */
+    text-shadow: 0 0 8px rgba(232, 163, 61, 0.5);
+}
+
+.character-a {
+    color: #b5a642 !important;
+    /* Dull Olive - 정체 미정 NPC(가칭 A): 믿어도 되는지 알 수 없는 마을의 목소리 */
+    text-shadow: 0 0 6px rgba(181, 166, 66, 0.4);
+}
+
+/* ============================================================
+   4. 엔딩 및 특수 섹션
+   ============================================================ */
+
+.ending-result {
+    margin-top: 3rem;
+    padding: 2rem;
+    border: 2px double rgba(127, 212, 201, 0.4);
+    background: rgba(127, 212, 201, 0.05);
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: #ffffff;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    text-shadow: 0 0 15px rgba(127, 212, 201, 0.6);
+}
+
+/* 인트로 시네마틱 */
+.intro-section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.intro-title-cinematic {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: clamp(1.0rem, 5vw, 1.5rem);
+    font-weight: 800;
+    color: #ffffff;
+    text-align: center;
+    line-height: 1.6;
+    margin-bottom: 4rem;
+    position: relative;
+    padding-bottom: 2rem;
+    word-break: keep-all;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.intro-title-cinematic::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #7fd4c9, transparent);
+}
+
+.intro-paragraph {
+    font-size: 1.1rem;
+    line-height: 2;
+    margin-bottom: 2rem;
+    opacity: 0.85;
+    color: #e0e0e0;
+}
+
+/* 핵심 특징 섹션 */
+.feature-section {
+    margin: 4rem 0;
+    padding: 1.25rem;
+    background: rgba(127, 212, 201, 0.02);
+    border: 1px solid rgba(127, 212, 201, 0.1);
+    border-radius: 4px;
+}
+
+.feature-header {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #7fd4c9;
+    margin-bottom: 2rem;
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+
+.feature-list-premium {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 2rem;
+}
+
+.feature-item-title {
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.feature-item-title::before {
+    content: "■";
+    font-size: 0.6em;
+    color: #7fd4c9;
+}
+
+.feature-item-desc {
+    font-size: 0.95rem;
+    color: #a0a0a0;
+    padding-left: 1.5rem;
+}
+
+/* 아웃트로 및 기타 */
+.intro-outro {
+    margin-top: 5rem;
+    text-align: center;
+    font-family: "Nanum Myeongjo", serif;
+    font-style: italic;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #d6d6d6;
+}
+
+.ai-notice {
+    margin-top: 4rem;
+    font-size: 0.75rem;
+    opacity: 0.3;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+
+.glitch-text {
+    position: relative;
+    display: inline-block;
+}
+
+/* 모바일 대응 */
+@media (max-width: 640px) {
+    .intro-title-cinematic {
+        font-size: 1.2rem;
+    }
+
+    .intro-paragraph {
+        font-size: 0.95rem;
+    }
+
+    .feature-section {
+        padding: 1.5rem;
+    }
+
+    .ending-result {
+        font-size: 1.2rem;
+    }
+}
+
+/* 문서 및 단서 레이아웃 유틸리티 (게화 코스탈 테마) */
+.story-content .document-page {
+    background: rgba(10, 22, 22, 0.75);
+    border: 1px solid rgba(127, 212, 201, 0.25);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.2rem 0;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.5), 0 4px 12px rgba(0, 0, 0, 0.3);
+    font-family: "Noto Sans KR", sans-serif;
+    color: #d3ede8;
+    line-height: 1.6;
+}
+
+.story-content .document-body {
+    margin-bottom: 0.75rem;
+    color: #bcded8;
+}
+
+.story-content .document-body:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .document-body.small,
+.story-content .small {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    opacity: 0.9;
+}
+
+.story-content .divider-gold {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(196, 180, 150, 0.5), transparent);
+    margin: 1.5rem 0;
+}
+
+/* 단말기 로그 스타일 (조위 관측 기록, 항무 기록, 수배 회신 등 - 도플로이드의 보안 터미널을 낡은 계측 장비 판독기로 재해석) */
+.story-content .terminal-log {
+    background: #05080a;
+    border: 1px solid rgba(127, 212, 201, 0.25);
+    border-radius: 4px;
+    padding: 1.1rem 1.4rem;
+    margin: 1.2rem 0;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.92rem;
+    line-height: 1.8;
+    color: #7defd9;
+    text-shadow: 0 0 6px rgba(125, 239, 217, 0.35);
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.6);
+    white-space: pre-wrap;
+}
+
+.story-content .terminal-log .terminal-line {
+    display: block;
+}
+
+.story-content .terminal-log .terminal-line::before {
+    content: "> ";
+    opacity: 0.55;
+}
+
+.story-content .terminal-log .terminal-highlight {
+    color: #baffd6;
+    font-weight: 700;
+    text-shadow: 0 0 8px rgba(186, 255, 214, 0.6);
+}

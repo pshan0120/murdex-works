@@ -13,7 +13,7 @@ description: 단서 텍스트 파일(단서.txt)의 내용을 MySQL DB에 신규
 단서 텍스트 파일의 경로를 인자로 넘겨 스크립트를 실행합니다.
 
 ```bash
-python c:\dev\KLIEN\murdex\works\.agents\skills\insert-clue-db\scripts\insert_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단서.txt"
+python c:\dev\KLIEN\murdex\works\.agents\skills\insert-clue-db\scripts\insert_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단서.txt"
 ```
 
 ## 기능 상세
@@ -32,5 +32,5 @@ python c:\dev\KLIEN\murdex\works\.agents\skills\insert-clue-db\scripts\insert_db
 실제로 DB에 넣지 않고 동작을 확인하고 싶다면 `--dry-run` 플래그를 추가합니다.
 
 ```bash
-python c:\dev\KLIEN\murdex\works\.agents\skills\insert-clue-db\scripts\insert_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단서.txt" --dry-run
+python c:\dev\KLIEN\murdex\works\.agents\skills\insert-clue-db\scripts\insert_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단서.txt" --dry-run
 ```

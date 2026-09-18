@@ -19,10 +19,10 @@ description: "역할 텍스트 파일(역할_*.txt)의 공개 정보 및 상세 
 ### 실행 명령어 (터미널)
 ```bash
 # 특정 파일 하나만 업데이트할 경우
-python .agents/skills/update-role-db/scripts/update_role_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\역할_1_베일라.txt"
+python .agents/skills/update-role-db/scripts/update_role_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\역할_1_베일라.txt"
 
 # 텍스트 폴더 전체를 지정하여 일괄 업데이트할 경우
-python .agents/skills/update-role-db/scripts/update_role_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts"
+python .agents/skills/update-role-db/scripts/update_role_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts"
 ```
 
 ## 동작 원리 (파싱 로직)

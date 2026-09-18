@@ -16,7 +16,7 @@ description: "여러 개의 대사 WAV 음성 파일들을 순서대로 지정�
 
 ### 1. 와일드카드 패턴으로 WAV 파일 일괄 병합
 ```bash
-python .agents/skills/concat-voice-wav/scripts/concat_voice_wav.py "c:\dev\KLIEN\murdex\works\도플로이드\audios\voice\단계_2_대면_*.wav" -o "c:\dev\KLIEN\murdex\works\도플로이드\audios\voice\단계_2_대면.mp3"
+python .agents/skills/concat-voice-wav/scripts/concat_voice_wav.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\audios\voice\단계_2_대면_*.wav" -o "c:\dev\KLIEN\murdex\works\S-File\도플로이드\audios\voice\단계_2_대면.mp3"
 ```
 
 ### 2. 개별 파일 목록 지정 병합
@@ -26,7 +26,7 @@ python .agents/skills/concat-voice-wav/scripts/concat_voice_wav.py "path/to/file
 
 ### 3. 대사 사이 간격(초) 조절 (기본값: 0.6초)
 ```bash
-python .agents/skills/concat-voice-wav/scripts/concat_voice_wav.py "c:\dev\KLIEN\murdex\works\도플로이드\audios\voice\단계_2_대면_*.wav" -p 0.8 -o "c:\dev\KLIEN\murdex\works\도플로이드\audios\voice\단계_2_대면.mp3"
+python .agents/skills/concat-voice-wav/scripts/concat_voice_wav.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\audios\voice\단계_2_대면_*.wav" -p 0.8 -o "c:\dev\KLIEN\murdex\works\S-File\도플로이드\audios\voice\단계_2_대면.mp3"
 ```
 
 ## 옵션 설명

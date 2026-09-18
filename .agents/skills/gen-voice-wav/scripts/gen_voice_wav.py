@@ -24,7 +24,7 @@ def parse_args():
     parser = argparse.ArgumentParser(
         description="단계_*.txt의 대본을 순서대로 TTS로 읽어 WAV 파일들을 생성합니다."
     )
-    parser.add_argument("step_txt_path", help="단계_*.txt 파일 경로 (예: works/도플로이드/texts/단계_5_C구역_조사.txt)")
+    parser.add_argument("step_txt_path", help="단계_*.txt 파일 경로 (예: works/S-File/도플로이드/texts/단계_5_C구역_조사.txt)")
     parser.add_argument("--line", type=int, default=None, help="이 번호의 대사/지시문 한 줄만 다시 생성 (미지정 시 전체 생성)")
     parser.add_argument("--from", dest="from_line", type=int, default=None, help="이 번호부터 생성 (--to 없으면 끝까지). 예: 앞부분을 수작업으로 이미 만든 경우")
     parser.add_argument("--to", dest="to_line", type=int, default=None, help="--from과 함께 써서 이 번호까지만 생성 (범위 재생성용)")

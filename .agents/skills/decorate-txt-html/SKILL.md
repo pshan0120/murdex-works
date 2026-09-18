@@ -23,12 +23,12 @@ description: 텍스트 파일(엔딩.txt, 단서.txt, 단계_*.txt 등) 내 HTML
 단일 파일 또는 텍스트 디렉토리 경로를 인자로 전달하여 실행합니다.
 
 ```bash
-python "c:\dev\KLIEN\murdex\works\.agents\skills\decorate-txt-html\scripts\decorate_html.py" "c:\dev\KLIEN\murdex\works\도플로이드\texts\엔딩.txt"
+python "c:\dev\KLIEN\murdex\works\.agents\skills\decorate-txt-html\scripts\decorate_html.py" "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\엔딩.txt"
 ```
 
 ### 테스트 (Dry-Run)
 실제 파일 수정 없이 감지 및 치환 대상 개수만 확인하려면 `--dry-run` 옵션을 붙입니다.
 
 ```bash
-python "c:\dev\KLIEN\murdex\works\.agents\skills\decorate-txt-html\scripts\decorate_html.py" "c:\dev\KLIEN\murdex\works\도플로이드\texts\엔딩.txt" --dry-run
+python "c:\dev\KLIEN\murdex\works\.agents\skills\decorate-txt-html\scripts\decorate_html.py" "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\엔딩.txt" --dry-run
 ```

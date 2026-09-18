@@ -21,10 +21,10 @@ description: "단계 텍스트 파일(단계_*.txt)의 단계 설명(HTML) 변�
 
 ```bash
 # 1. 단일 단계 파일 검증 (dry-run 모드)
-python .agents/skills/update-step-db/scripts/update_step_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_1_시작.txt" --dry-run
+python .agents/skills/update-step-db/scripts/update_step_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_1_시작.txt" --dry-run
 
 # 2. 폴더 내 모든 단계_*.txt 파일 일괄 DB 업데이트
-python .agents/skills/update-step-db/scripts/update_step_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts"
+python .agents/skills/update-step-db/scripts/update_step_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts"
 ```
 
 ## 동작 원리 (파싱 및 업데이트 로직)

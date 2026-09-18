@@ -1,0 +1,91 @@
+StoryID : 488dc2d2-b646-4b64-80a9-9ebf6343dffd
+RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
+
+1. 역할 이름
+사립탐정
+
+2. 캐릭터 이름
+베일라
+
+3. 역할 순서
+1
+
+4. 역할 요약
+고향으로 돌아온, 그러나 완전히 반갑지만은 않은 안내자
+
+이미지생성용 프롬프트: Extreme close-up half-body portrait of a sharp-eyed woman in her late 20s, wearing a weathered navy field jacket, hair damp from sea mist, a wary and tired gaze that hasn't fully softened even a year later. A worn leather bag hangs over one shoulder. She stands on a foggy wooden pier at dusk, dark water behind her. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-black color grade, naturalistic lighting from practical sources — a single distant lamppost, its glow diffused by fog. Restrained, observational composition, subtle film grain and analog imperfections. Wide horizontal cinematic aspect ratio, 16:9.
+
+5. 역할 이미지
+(무시 - 사용자 직접 업로드 예정)
+
+6. 공개 정보
+<div class="story-content">
+  <ul>
+    <li><strong>역할</strong>: 이 섬 출신으로, 현지 사정에 밝은 자문 자격으로 동행한 사립탐정</li>
+    <li><strong>나이</strong>: 27세</li>
+    <li><strong>성별</strong>: 여성</li>
+  </ul>
+</div>
+
+7. 역할 시트
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">공통 정보</div>
+    <div class="intro-narrative">
+      <p>2031년, <span class="emphasis">배로우 넥</span>. 원래 썰물마다 모래톱이 드러나 걸어서 건널 수 있던 둑길로 육지와 이어져 있던 곳이지만, 몇 해 전부터 그 길이 거의 열리지 않게 되면서 지금은 사실상 배로만 드나들 수 있는 섬이 되었다.</p>
+      <p>얼마 전, 이 섬 유일한 마을에서 주민들이 한꺼번에 자취를 감췄다는 신고가 뭍으로 전해졌다. 사건을 배정받은 FBI 수사관 <span class="character-marcus">마커스</span>는, 1년 전 도플로이드 사건에서 알게 된 <span class="character-veyla">베일라</span>가 바로 이 섬 출신이라는 걸 떠올리고 동행을 청했다.</p>
+    </div>
+    <ol class="info-list">
+      <li><strong><span class="emphasis">배로우 넥</span></strong>: 인구가 많지 않은 작은 섬마을. 외부와의 교류가 드물고, 뭍에서도 존재감이 옅은 곳이다.</li>
+      <li><strong>둑길</strong>: 예전엔 하루 두 번, 썰물 때마다 모래톱이 드러나 걸어서 건널 수 있었다. 지금은 침식과 해수면 상승이 겹쳐, 1년에 며칠 아주 낮은 사리 때만 겨우 드러난다.</li>
+      <li><strong>수장(水葬) 풍습</strong>: 이 마을은 화장이나 매장 대신, 섬 북쪽 곶에서 시신을 바다로 보내는 오랜 장례 풍습을 지켜왔다.</li>
+    </ol>
+  </section>
+  <section class="content-section">
+    <div class="section-title">캐릭터 배경</div>
+    <p>당신은 27세, 사립탐정이다. 1년 전 도플로이드 연구소 사건에 얽혔다가 <span class="character-marcus">마커스</span>와 알게 됐고, 그 사건을 함께 통과하며 서로의 가장 위태로운 사정을 알게 된 사이가 됐다. 사건이 끝난 뒤로도 완전히 남남이 되진 못해, 가끔 안부를 묻는 전화 정도는 주고받아 왔다.</p>
+    <p><span class="emphasis">배로우 넥</span>은 당신이 여덟 살 때 떠난 곳이다. 부모를 일찍 여읜 뒤, 이웃이었던 <span class="emphasis">애그니스</span>가 몇 년간 당신을 거둬 키우다시피 했다. 섬을 떠난 뒤로는 명절에도 좀처럼 돌아가지 않았고, 애그니스와는 가끔 안부 편지만 주고받는 사이로 멀어졌다.</p>
+    <p>석 달 전, 애그니스에게서 마지막 편지가 왔다. "요즘 마을에 이상한 일이 많다"는, 노인 특유의 두서없는 하소연처럼 읽히는 내용이었다. 당신은 바쁘다는 핑계로 답장을 미뤘고, 그사이 편지는 뜸해졌다. 이번 실종 신고 명단에 애그니스의 이름도 있다는 걸, 당신은 <span class="character-marcus">마커스</span>의 전화를 받고서야 알았다.</p>
+  </section>
+  <section class="content-section">
+    <div class="section-title">타임라인</div>
+    <ul class="goal-list">
+      <li><strong>[약 3개월 전]</strong>: 애그니스에게서 마지막 편지를 받음. 답장을 미룸.</li>
+      <li><strong>[실종 발생, 정확한 시점 미상]</strong>: 배로우 넥 주민들의 연쇄 실종이 뭍에 알려짐.</li>
+      <li><strong>[사건 전날]</strong>: <span class="character-marcus">마커스</span>로부터 전화를 받고 동행을 결심함.</li>
+      <li><strong>[오늘]</strong>: 배를 타고 배로우 넥에 도착함.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인물 관계</div>
+    <p>
+      <strong><span class="character-marcus">마커스</span>에 대해</strong>: 1년 전 도플로이드 사건을 함께 통과한 사람. 서로의 약점을 알면서도 등을 돌리지 않았던 사이라, 이번엔 망설임 없이 그를 믿고 따라나섰다.
+    </p>
+    <p>
+      <strong>애그니스에 대해</strong>: 부모 대신 당신을 거둬 키운 이웃. 지금은 실종자 명단에 이름이 올라 있다. 마지막 편지에 답장하지 못한 것이 계속 마음에 걸린다.
+    </p>
+  </section>
+</div>
+
+8. 숨기고 싶은 비밀
+<div class="story-content">
+  <p class="guide-text">※ 노출 여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
+  <ul>
+    <li><strong>애그니스의 편지를 무시했다는 사실</strong>: 석 달 전 받은 마지막 편지에 결국 답장하지 않았다는 것. <span class="character-marcus">마커스</span>에게 알려지면, 원망보다 스스로에 대한 죄책감을 들키는 게 더 두렵다.</li>
+    <li><strong>고향에 대한 복잡한 감정</strong>: 겉으로는 담담하게 안내를 자처하지만, 사실 이 섬에 다시 발을 들이는 것 자체가 두렵다는 것. 이곳을 떠나던 무렵의 기억을 아직 제대로 정리하지 못했다.</li>
+  </ul>
+</div>
+
+9. 단계별 역할 지침
+
+[대면] (단계_2)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>변한 것과 변하지 않은 것</strong>: 배에서 내리자마자 마주한 부둣가는 기억보다 훨씬 낡고 작아 보입니다. 19년 만입니다.</li>
+    </ul>
+  </section>
+</div>
+
+※ 이후 조사 단계(마을 구역, 곶 구역 등)의 목표·인지·단서 안내는 단계 구조가 확정된 뒤 채워 넣는다. 현재는 대면 단계까지만 작성된 상태.

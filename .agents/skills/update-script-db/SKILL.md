@@ -21,13 +21,13 @@ description: "단계 텍스트 파일(단계_*.txt)의 대본(9. 대본 관리) 
 
 ```bash
 # 1. 단일 단계 파일 검증 (dry-run 모드)
-python .agents/skills/update-script-db/scripts/update_script_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_3_A구역_조사.txt" --dry-run
+python .agents/skills/update-script-db/scripts/update_script_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_3_A구역_조사.txt" --dry-run
 
 # 2. 단일 단계 파일 실제 DB 업데이트
-python .agents/skills/update-script-db/scripts/update_script_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_3_A구역_조사.txt"
+python .agents/skills/update-script-db/scripts/update_script_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_3_A구역_조사.txt"
 
 # 3. 폴더 내 모든 단계_*.txt 파일 일괄 DB 업데이트
-python .agents/skills/update-script-db/scripts/update_script_db.py "c:\dev\KLIEN\murdex\works\도플로이드\texts"
+python .agents/skills/update-script-db/scripts/update_script_db.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts"
 ```
 
 ## 동작 원리 (파싱 및 업데이트 로직)

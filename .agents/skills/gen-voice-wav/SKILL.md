@@ -17,29 +17,29 @@ description: "단계_*.txt의 '대본 낭독'/'마지막 대화' 섹션에 있�
 
 ### 1. 단계 하나의 대본 전체를 WAV로 생성
 ```bash
-python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_5_C구역_조사.txt"
+python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_5_C구역_조사.txt"
 ```
-`works/도플로이드/audios/voice/단계_5_C구역_조사_1.wav`, `_2.wav`, ... 순서대로 생성됩니다.
+`works/S-File/도플로이드/audios/voice/단계_5_C구역_조사_1.wav`, `_2.wav`, ... 순서대로 생성됩니다.
 
 ### 2. 특정 한 줄만 다시 생성 (특정 wav만 이상하게 들릴 때)
 ```bash
-python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_5_C구역_조사.txt" --line 14
+python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_5_C구역_조사.txt" --line 14
 ```
 해당 번호의 wav 파일만 새로 만들어 덮어씁니다. 몇 번이 몇 번째 줄인지 헷갈리면 `--dry-run`으로 먼저 목록을 확인하세요.
 
 ### 3. 특정 줄부터 끝까지 이어서 생성 (앞부분은 이미 수작업/이전 실행으로 만들어둔 경우)
 ```bash
-python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_4_B구역_조사.txt" --from 6
+python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_4_B구역_조사.txt" --from 6
 ```
 
 ### 3-1. 특정 범위(N~M번)만 재생성 (그 구간만 순서가 꼬였거나 이상하게 나온 경우)
 ```bash
-python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_4_B구역_조사.txt" --from 1 --to 5
+python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_4_B구역_조사.txt" --from 1 --to 5
 ```
 
 ### 4. 실제 생성 없이 목록만 미리 보기
 ```bash
-python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\도플로이드\texts\단계_5_C구역_조사.txt" --dry-run
+python .agents/skills/gen-voice-wav/scripts/gen_voice_wav.py "c:\dev\KLIEN\murdex\works\S-File\도플로이드\texts\단계_5_C구역_조사.txt" --dry-run
 ```
 각 줄 번호, 화자, 적용될 speed, 텍스트 앞부분을 출력합니다. 줄 번호가 예상과 다르면(예: 지시문 하나가 실수로 두 번 잡히는 등) 여기서 먼저 확인하세요.
 
