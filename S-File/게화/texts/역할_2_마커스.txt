@@ -11,7 +11,7 @@ FBI 수사관
 2
 
 4. 역할 요약
-여전히 원칙적이지만, 이번엔 사람을 먼저 믿어보려는 수사관
+원칙을 지키면서도, 사람을 먼저 믿어보려는 수사관
 
 이미지생성용 프롬프트: Extreme close-up half-body portrait of a composed man in his early 30s, wearing a rain-damp government-issue coat, sharp jawline, a steadier gaze than a year ago but still watchful. One hand rests loosely near an FBI badge clipped inside his coat. He stands on a foggy wooden pier at dusk, dark water behind him. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-black color grade, naturalistic lighting from practical sources — a single distant lamppost, its glow diffused by fog. Restrained, observational composition, subtle film grain and analog imperfections. Wide horizontal cinematic aspect ratio, 16:9.
 
@@ -21,7 +21,7 @@ FBI 수사관
 6. 공개 정보
 <div class="story-content">
   <ul>
-    <li><strong>역할</strong>: 이 실종 사건을 정식 배정받은 FBI 수사관</li>
+    <li><strong>역할</strong>: 인근 연구시설 유출 사고 조사를 정식 배정받은 FBI 수사관</li>
     <li><strong>나이</strong>: 33세</li>
     <li><strong>성별</strong>: 남성</li>
   </ul>
@@ -32,57 +32,43 @@ FBI 수사관
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
-      <p>2031년, <span class="emphasis">배로우 넥</span>. 원래 썰물마다 모래톱이 드러나 걸어서 건널 수 있던 둑길로 육지와 이어져 있던 곳이지만, 몇 해 전부터 그 길이 거의 열리지 않게 되면서 지금은 사실상 배로만 드나들 수 있는 섬이 되었다.</p>
-      <p>얼마 전, 이 섬 유일한 마을에서 주민들이 한꺼번에 자취를 감췄다는 신고가 뭍으로 전해졌다. 사건을 배정받은 FBI 수사관 <span class="character-marcus">마커스</span>는, 1년 전 도플로이드 사건에서 알게 된 <span class="character-veyla">베일라</span>가 바로 이 섬 출신이라는 걸 떠올리고 동행을 청했다.</p>
+      <p>메인주 <span class="emphasis">메릴 카운티</span>. 외지인의 발길이 드문 해안 지역이다. 이 지역 어딘가에 있던 비밀 연구시설에서 유출 사고가 있었다는 사실이 최근 뭍에 알려졌다. FBI는 사태 파악을 위해 수사관 한 명을 급히 파견했다 — <span class="character-marcus">마커스</span>였다.</p>
+      <p>지원 인력 없이 혼자 메릴 카운티로 향하던 마커스는, 문득 1년 전 사건에서 알게 된 <span class="character-veyla">베일라</span>의 고향이 바로 이곳이라는 걸 떠올렸다. 밑져야 본전이라는 생각으로 연락했고, 그녀는 흔쾌히 동행하기로 했다.</p>
+      <p>두 사람은 메릴 카운티에서 만나, 마커스가 확보한 자료를 함께 검토했다. 유출된 해류가 인근의 작은 섬, <span class="emphasis">크래비스</span> 쪽으로도 흘렀을 가능성이 있었다. 섬 쪽 상황도 직접 확인해보는 게 낫겠다고, 둘 다 동의했다.</p>
+      <p>오늘, 바닷길이 열리는 짧은 시간에 맞춰 두 사람은 함께 크래비스로 향한다.</p>
     </div>
     <ol class="info-list">
-      <li><strong><span class="emphasis">배로우 넥</span></strong>: 인구가 많지 않은 작은 섬마을. 외부와의 교류가 드물고, 뭍에서도 존재감이 옅은 곳이다.</li>
-      <li><strong>둑길</strong>: 예전엔 하루 두 번, 썰물 때마다 모래톱이 드러나 걸어서 건널 수 있었다. 지금은 침식과 해수면 상승이 겹쳐, 1년에 며칠 아주 낮은 사리 때만 겨우 드러난다.</li>
-      <li><strong>수장(水葬) 풍습</strong>: 이 마을은 화장이나 매장 대신, 섬 북쪽 곶에서 시신을 바다로 보내는 오랜 장례 풍습을 지켜왔다.</li>
+      <li><strong>해안의 연구시설</strong>: 유출 사고가 있었던 곳. 바닷길에서 조금 떨어진 해안에 몇 년째 방치된 것처럼 보이는 건물이다. 겉보기엔 오래전 문을 닫은 수산물 가공 공장 같다.</li>
+      <li><strong><span class="emphasis">크래비스</span></strong>: 그 해안에서 바닷길로 이어지는 작은 섬마을. 인구가 많지 않고, 외부와의 교류가 드물다.</li>
+      <li><strong>바닷길</strong>: 평소엔 물에 잠겨 있다가, 하루 두 번 가장 낮은 썰물 때는 몇 시간씩 모래톱이 드러나 걸어서 건널 수 있다. 시간대는 매일 조금씩 밀린다.</li>
     </ol>
   </section>
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
-    <p>도플로이드 사건 이후, 당신은 여동생이 남긴 연구 자료 덕에 오래 앓던 유전병에서 벗어났다. 그날 위조했던 영장 건은 예상보다 조용히 지나갔지만, 그 뒤로 당신은 예전처럼 규정 안에서만 움직이는 사람으로 완전히 돌아가지는 못했다.</p>
-    <p>이 섬 실종 사건은 정식으로 배정받은 사건이지만, 외딴 섬 소수 인원의 실종이라 본부에서도 크게 신경 쓰지 않는 눈치다. 지원 인력 없이 혼자 파견됐다.</p>
-    <p>전화로 사건 개요를 검토하다가, 문득 <span class="character-veyla">베일라</span>가 예전에 지나가듯 흘렸던 섬 이름이 떠올랐다. 밑져야 본전이라는 생각으로 연락했는데, 그녀는 생각보다 훨씬 빨리, 그리고 훨씬 무겁게 대답했다.</p>
+    <p>당신은 FBI에서 딱히 두각을 나타내는 수사관은 아니다. 다만 맡은 사건은 크기에 상관없이 끝까지 파고드는 성격으로 알려져 있어서, 다들 대수롭지 않게 여기는 자잘한 사건들이 유독 당신 앞으로 넘어오곤 한다.</p>
+    <p>이번 사건도 그랬다. 사고 보고서가 책상에 올라왔을 때, 상관은 지나가듯 말했다. "그냥 형식적으로 훑고 오면 돼. 외딴 지역이고, 인명 피해 보고도 없으니까." 하지만 직접 읽어보니 뭔가 걸리는 구석이 있었다. 사고의 심각도를 설명하는 대목마다 "위험 등급 상향", "현장 출입 제한" 같은 다급한 단어들이 반복되는데, 정작 무슨 일이 있었는지 구체적으로 설명하는 문장은 하나도 없었다. 형식적으로 훑고 지나갈 사안이 아닐 수도 있다는 예감이 들었다.</p>
+    <p>지원 인력을 요청했지만 반려됐다. 결국 혼자 가게 됐지만 크게 개의치는 않았다. 오히려 이런 사건은 혼자 움직이는 편이 낫다고 생각하는 쪽이었다.</p>
+    <p>사건 파일을 정리하다가, 조사 지역의 지명을 보고 문득 떠오르는 사람이 있었다. 1년 전 어떤 사건에서 알게 된 <span class="character-veyla">베일라</span>. 언젠가 그녀가 지나가듯 흘렸던 고향 이야기가 바로 이 지역이었다. 그날 저녁, 당신은 그녀에게 전화를 걸었다.</p>
+    <p>"오랜만이네요." 그녀가 전화를 받았다.</p>
+    <p>"급하게 부탁 좀 드려도 될까 해서요. 메인주 메릴 카운티 쪽에 사건이 하나 생겼는데, 그쪽 사정을 잘 아는 사람이 필요해서."</p>
+    <p>잠깐의 정적 끝에, 그녀는 흔쾌히 답했다. "언제 어디로 가면 돼요?"</p>
+    <p>정식 자문 위촉 절차를 거치지 않은, 순전히 개인적인 부탁이라는 걸 당신은 굳이 설명하지 않았다. 상부에 알려지면 곤란해질 수 있었지만, 그 정도는 감수할 만하다고 판단했다.</p>
+    <p>다음 날 아침, 두 사람은 메릴 카운티에서 만났다. 당신이 챙겨온 자료를 함께 훑어보며, 유출된 해류가 인근의 작은 섬 크래비스 쪽으로도 흘렀을 가능성을 확인했다. 섬 쪽 상황도 직접 확인해보는 게 낫겠다고, 둘 다 동의했다.</p>
   </section>
   <section class="content-section">
     <div class="section-title">타임라인</div>
-    <ul class="goal-list">
-      <li><strong>[1년 전]</strong>: 도플로이드 사건에서 <span class="character-veyla">베일라</span>와 알게 됨.</li>
-      <li><strong>[며칠 전]</strong>: 배로우 넥 주민 연쇄 실종 사건을 배정받음.</li>
-      <li><strong>[사건 전날]</strong>: <span class="character-veyla">베일라</span>에게 전화해 동행을 청함.</li>
-      <li><strong>[오늘]</strong>: 배를 타고 배로우 넥에 도착함.</li>
-    </ul>
+    (비워둠 — 조사-추리 라운드 구조와 단서 배치가 확정된 뒤 작성)
   </section>
   <section class="content-section">
     <div class="section-title">인물 관계</div>
     <p>
-      <strong><span class="character-veyla">베일라</span>에 대해</strong>: 1년 전 사건을 함께 통과한 사람. 신뢰할 만하다는 걸 몸으로 겪었기에, 이번엔 망설임 없이 도움을 청했다.
+      <strong><span class="character-veyla">베일라</span>에 대해</strong>: 1년 전 사건을 함께 겪은 사람. 신뢰할 만하다는 걸 몸으로 겪었기에, 망설임 없이 도움을 청했다.
     </p>
   </section>
 </div>
 
 8. 숨기고 싶은 비밀
-<div class="story-content">
-  <p class="guide-text">※ 노출 여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
-  <ul>
-    <li><strong>본부 승인 없이 부른 동행</strong>: <span class="character-veyla">베일라</span>는 정식 자문 위촉 절차 없이 개인적으로 부른 민간인이라는 것. 상부에 알려지면 문제가 될 수 있다.</li>
-    <li><strong>예전만큼 자신이 없다는 것</strong>: 도플로이드 사건 이후로 스스로의 판단을 전만큼 확신하지 못한다는 것. 겉으로는 여전히 침착해 보이려 애쓴다.</li>
-  </ul>
-</div>
+(해당 사항 없음 — 협력 추리물이라 이 작품에서는 사용하지 않음)
 
 9. 단계별 역할 지침
-
-[대면] (단계_2)
-<div class="story-content">
-  <section class="content-section">
-    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
-    <ul class="goal-list">
-      <li><strong>말이 없어진 베일라</strong>: 배에서 내린 뒤로 <span class="character-veyla">베일라</span>가 눈에 띄게 말수가 줄었습니다.</li>
-    </ul>
-  </section>
-</div>
-
-※ 이후 조사 단계(마을 구역, 곶 구역 등)의 목표·인지·단서 안내는 단계 구조가 확정된 뒤 채워 넣는다. 현재는 대면 단계까지만 작성된 상태.
+(비워둠 — 단계 구조, 조사-추리 라운드, 단서 배치가 확정된 뒤 작성. 참고용 서사 초안은 texts/PC_마커스.txt, texts/NPC_이든.txt 참고)

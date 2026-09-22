@@ -1,0 +1,89 @@
+[앙코르(신규) - 인물 캐릭터 시트 프롬프트]
+
+주인(플레이어 역할)과 아내(몽타주 전용 배경 인물)의 시각 디자인. 얼굴이 실제로 보이는 곳은
+오프닝 몽타주(10컷)뿐이며, 게임 본편(1~16살 단서 이미지)에서는 기존 리와인드 관례대로
+얼굴을 프레임 밖으로 크롭하고 팔·몸통만 노출한다 — 단, 그 팔·몸통의 옷차림·체형은 아래
+"노년기" 디자인과 일관되게 유지해야 한다.
+
+공통 화풍 지시(강아지 프롬프트와 동일한 그림체로 맞출 것): 위 `프롬프트_신규.txt`의 화풍별
+문구(색연필/수채화/파스텔)를 몽타주에도 그대로 적용 — 몽타주 자체가 시간순으로 흐르므로
+청년기=색연필, 중년기=수채화, 노년기=파스텔로 자연스럽게 맞아떨어진다(강아지의 화풍 전환과
+같은 논리).
+
+====================================================================
+1. 주인 — 청년기 (몽타주 1~5컷: 만남~결혼~신혼)
+
+a Korean man in his late twenties, ordinary and unremarkable appearance, short
+neat black hair, simple plain collared shirt, gentle and slightly shy
+expression, average build, warm and sincere mood, not exaggeratedly handsome or
+stylized, colored pencil illustration style, visible pencil strokes and
+cross-hatching texture, warm earthy color palette (cream, ochre, muted brown),
+warm nostalgic children's picture book aesthetic, gentle diffused lighting
+
+Negative prompt: photorealistic, 3D render, exaggerated anime features, text,
+watermark, other ethnicity
+
+--- 아내 (청년기, 같은 장면에 함께 등장) ---
+a Korean woman in her late twenties, warm and gentle expression, simple
+shoulder-length black hair, plain modest clothing, average build, warm and
+sincere mood, not exaggeratedly stylized, same colored pencil illustration
+style as above
+
+====================================================================
+2. 주인 — 중년기 (몽타주 6컷: 머리가 희끗해지기 시작)
+
+a Korean man in his early fifties, hair now noticeably streaked with grey at
+the temples, otherwise the same face shape and features as the younger
+version, simple cardigan over a collared shirt, calm settled expression,
+average build, warm and sincere mood, soft watercolor illustration style,
+gentle color bleeding and blending at the edges, muted pastel palette (cream,
+dusty pink, soft blue), thin soft brown outline, warm nostalgic children's
+picture book aesthetic, gentle diffused lighting
+
+--- 아내 (중년기, 같은 장면) ---
+a Korean woman in her early fifties, hair streaked with grey, same gentle face
+as the younger version, simple modest clothing, warm and sincere mood, same
+soft watercolor illustration style as above
+
+====================================================================
+3. 주인 — 노년기 (몽타주 7~10컷 + 게임 본편 전체의 기준 외형)
+
+**이 디자인이 실제 게임 진행 기간(1~16살) 내내 유지되는 외형이다** — 단서 이미지에서는
+얼굴이 크롭되지만, 체형·옷차림은 이 기준을 따른다.
+
+a Korean elderly man in his mid-to-late seventies, fully grey or white hair,
+thinning slightly, deep gentle wrinkles, slightly stooped posture, thin and
+frail build, wearing a simple worn cardigan or knit sweater in muted colors,
+plain comfortable house clothes, tired but kind expression, quiet and
+unassuming presence, not exaggeratedly frail or pitiful, warm and sincere mood,
+flat vector illustration style, soft pastel color palette (powder blue, blush
+pink, cream, sage green), clean smooth flat shapes with minimal shading, soft
+rounded edges, warm nostalgic picture book aesthetic, gentle muted lighting
+
+--- 아내 (노년기, 투병 전 — 몽타주 7컷) ---
+a Korean elderly woman in her mid-to-late seventies, grey hair neatly tied
+back, same gentle face as earlier scenes, slightly frail build, warm and
+sincere mood, same flat vector pastel illustration style as above
+
+--- 아내 (투병기 — 몽타주 8컷, 병원 장면) ---
+same elderly woman, now visibly thinner and more fragile, sitting in a
+hospital bed or wheelchair, pale complexion, weary but calm expression, same
+flat vector pastel illustration style, muted and slightly subdued color
+palette for this scene only
+
+====================================================================
+4. 게임 본편(1~16살) 단서 이미지 내 "팔/몸통만" 노출 규칙
+
+리와인드 역할 이미지 관례를 그대로 계승: 사람 얼굴·머리는 프레임 밖으로 완전히 크롭한다.
+다만 아래 사항은 3번(노년기) 디자인과 반드시 일치시킬 것:
+- 옷차림: 카디건/니트류의 수수한 홈웨어 (계절에 따라 얇은 셔츠~두꺼운 스웨터로 변형 가능)
+- 팔의 굵기·피부 톤: 마른 노인 체형
+- 화풍: 해당 단계의 화풍(색연필/수채화/파스텔)을 그대로 적용
+
+각 단서 프롬프트 작성 시, 필요하면 아래 문구를 사람 부분에 붙여 쓴다:
+"only an elderly person's thin arms and torso visible, wearing a simple worn
+cardigan in muted colors, face and head completely out of frame (cropped out)"
+
+====================================================================
+[검토 필요] 주인 청년기~노년기 3단계 모두 "같은 사람"으로 보이는지(얼굴형·눈매 등 정체성
+유지) 실제 생성 후 확인할 것 — 강아지 캐릭터 정체성 검증과 동일한 절차.

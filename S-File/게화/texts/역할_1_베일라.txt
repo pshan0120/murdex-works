@@ -11,7 +11,7 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
 1
 
 4. 역할 요약
-고향으로 돌아온, 그러나 완전히 반갑지만은 않은 안내자
+어릴 적 잠깐 놀러 왔던 섬에, 오랜만에 다시 발을 들인 안내자
 
 이미지생성용 프롬프트: Extreme close-up half-body portrait of a sharp-eyed woman in her late 20s, wearing a weathered navy field jacket, hair damp from sea mist, a wary and tired gaze that hasn't fully softened even a year later. A worn leather bag hangs over one shoulder. She stands on a foggy wooden pier at dusk, dark water behind her. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-black color grade, naturalistic lighting from practical sources — a single distant lamppost, its glow diffused by fog. Restrained, observational composition, subtle film grain and analog imperfections. Wide horizontal cinematic aspect ratio, 16:9.
 
@@ -21,7 +21,7 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
 6. 공개 정보
 <div class="story-content">
   <ul>
-    <li><strong>역할</strong>: 이 섬 출신으로, 현지 사정에 밝은 자문 자격으로 동행한 사립탐정</li>
+    <li><strong>역할</strong>: 메인주 메릴 카운티 지역 사정에 밝아 자문 자격으로 동행한 사립탐정</li>
     <li><strong>나이</strong>: 27세</li>
     <li><strong>성별</strong>: 여성</li>
   </ul>
@@ -32,60 +32,41 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
-      <p>2031년, <span class="emphasis">배로우 넥</span>. 원래 썰물마다 모래톱이 드러나 걸어서 건널 수 있던 둑길로 육지와 이어져 있던 곳이지만, 몇 해 전부터 그 길이 거의 열리지 않게 되면서 지금은 사실상 배로만 드나들 수 있는 섬이 되었다.</p>
-      <p>얼마 전, 이 섬 유일한 마을에서 주민들이 한꺼번에 자취를 감췄다는 신고가 뭍으로 전해졌다. 사건을 배정받은 FBI 수사관 <span class="character-marcus">마커스</span>는, 1년 전 도플로이드 사건에서 알게 된 <span class="character-veyla">베일라</span>가 바로 이 섬 출신이라는 걸 떠올리고 동행을 청했다.</p>
+      <p>메인주 <span class="emphasis">메릴 카운티</span>. 외지인의 발길이 드문 해안 지역이다. 이 지역 어딘가에 있던 비밀 연구시설에서 유출 사고가 있었다는 사실이 최근 뭍에 알려졌다. FBI는 사태 파악을 위해 수사관 한 명을 급히 파견했다 — <span class="character-marcus">마커스</span>였다.</p>
+      <p>지원 인력 없이 혼자 메릴 카운티로 향하던 마커스는, 문득 1년 전 사건에서 알게 된 <span class="character-veyla">베일라</span>의 고향이 바로 이곳이라는 걸 떠올렸다. 밑져야 본전이라는 생각으로 연락했고, 그녀는 흔쾌히 동행하기로 했다.</p>
+      <p>두 사람은 메릴 카운티에서 만나, 마커스가 확보한 자료를 함께 검토했다. 유출된 해류가 인근의 작은 섬, <span class="emphasis">크래비스</span> 쪽으로도 흘렀을 가능성이 있었다. 섬 쪽 상황도 직접 확인해보는 게 낫겠다고, 둘 다 동의했다.</p>
+      <p>오늘, 바닷길이 열리는 짧은 시간에 맞춰 두 사람은 함께 크래비스로 향한다.</p>
     </div>
     <ol class="info-list">
-      <li><strong><span class="emphasis">배로우 넥</span></strong>: 인구가 많지 않은 작은 섬마을. 외부와의 교류가 드물고, 뭍에서도 존재감이 옅은 곳이다.</li>
-      <li><strong>둑길</strong>: 예전엔 하루 두 번, 썰물 때마다 모래톱이 드러나 걸어서 건널 수 있었다. 지금은 침식과 해수면 상승이 겹쳐, 1년에 며칠 아주 낮은 사리 때만 겨우 드러난다.</li>
-      <li><strong>수장(水葬) 풍습</strong>: 이 마을은 화장이나 매장 대신, 섬 북쪽 곶에서 시신을 바다로 보내는 오랜 장례 풍습을 지켜왔다.</li>
+      <li><strong>해안의 연구시설</strong>: 유출 사고가 있었던 곳. 바닷길에서 조금 떨어진 해안에 몇 년째 방치된 것처럼 보이는 건물이다. 겉보기엔 오래전 문을 닫은 수산물 가공 공장 같다.</li>
+      <li><strong><span class="emphasis">크래비스</span></strong>: 그 해안에서 바닷길로 이어지는 작은 섬마을. 인구가 많지 않고, 외부와의 교류가 드물다.</li>
+      <li><strong>바닷길</strong>: 평소엔 물에 잠겨 있다가, 하루 두 번 가장 낮은 썰물 때는 몇 시간씩 모래톱이 드러나 걸어서 건널 수 있다. 시간대는 매일 조금씩 밀린다.</li>
     </ol>
   </section>
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
-    <p>당신은 27세, 사립탐정이다. 1년 전 도플로이드 연구소 사건에 얽혔다가 <span class="character-marcus">마커스</span>와 알게 됐고, 그 사건을 함께 통과하며 서로의 가장 위태로운 사정을 알게 된 사이가 됐다. 사건이 끝난 뒤로도 완전히 남남이 되진 못해, 가끔 안부를 묻는 전화 정도는 주고받아 왔다.</p>
-    <p><span class="emphasis">배로우 넥</span>은 당신이 여덟 살 때 떠난 곳이다. 부모를 일찍 여읜 뒤, 이웃이었던 <span class="emphasis">애그니스</span>가 몇 년간 당신을 거둬 키우다시피 했다. 섬을 떠난 뒤로는 명절에도 좀처럼 돌아가지 않았고, 애그니스와는 가끔 안부 편지만 주고받는 사이로 멀어졌다.</p>
-    <p>석 달 전, 애그니스에게서 마지막 편지가 왔다. "요즘 마을에 이상한 일이 많다"는, 노인 특유의 두서없는 하소연처럼 읽히는 내용이었다. 당신은 바쁘다는 핑계로 답장을 미뤘고, 그사이 편지는 뜸해졌다. 이번 실종 신고 명단에 애그니스의 이름도 있다는 걸, 당신은 <span class="character-marcus">마커스</span>의 전화를 받고서야 알았다.</p>
+    <p>당신은 27세, 사립탐정이다. 남의 뒤를 캐는 일로 밥벌이를 하지만, 정작 자신의 사정은 남에게 곧잘 털어놓지 않는 편이다. 일감은 늘 들쭉날쭉했고, 요즘은 특히 그랬다.</p>
+    <p>어느 저녁, 오랜만에 <span class="character-marcus">마커스</span>에게서 전화가 왔다. 1년 전 어떤 사건에서 알게 된 뒤로, 가끔 안부만 주고받던 사이였다.</p>
+    <p>"메인주 메릴 카운티 쪽에 일이 좀 생겼는데요." 그가 말했다. "그쪽 사정 잘 아는 사람이 필요해서 연락했습니다."</p>
+    <p>"메릴 카운티요?" 낯설지 않은 이름이었다. 정확히 어디였는지는 가물가물했지만, 분명 어릴 때 와본 적 있는 동네였다.</p>
+    <p>"갈게요." 당신은 별다른 고민 없이 대답했다.</p>
+    <p>전화를 끊고 나서야, 당신은 지도를 펴서 메릴 카운티가 정확히 어디쯤인지 확인해봤다. 해안선을 따라 손끝으로 짚어가다, 문득 오래된 기억 하나가 떠올랐다 — 물때에 맞춰 들어갔다 나와야 했던, 그 자체로 나들이거리였던 어떤 섬. 이름까지는 정확히 기억나지 않았지만, 가족과 함께 갔던 몇 안 되는 여행 중 하나였다.</p>
+    <p>다음 날 아침, 당신은 메릴 카운티에서 마커스를 만났다. 그가 건넨 자료를 함께 훑어보며, 유출된 해류가 인근의 작은 섬 쪽으로도 흘렀을 가능성을 확인했다. 섬 쪽 상황도 직접 확인해보는 게 낫겠다는 데 둘 다 동의했다. 그 섬의 이름이 크래비스라는 걸 들었을 때도, 당신은 아직 그곳이 정확히 그 섬인지 완전히 확신하지 못하고 있었다.</p>
   </section>
   <section class="content-section">
     <div class="section-title">타임라인</div>
-    <ul class="goal-list">
-      <li><strong>[약 3개월 전]</strong>: 애그니스에게서 마지막 편지를 받음. 답장을 미룸.</li>
-      <li><strong>[실종 발생, 정확한 시점 미상]</strong>: 배로우 넥 주민들의 연쇄 실종이 뭍에 알려짐.</li>
-      <li><strong>[사건 전날]</strong>: <span class="character-marcus">마커스</span>로부터 전화를 받고 동행을 결심함.</li>
-      <li><strong>[오늘]</strong>: 배를 타고 배로우 넥에 도착함.</li>
-    </ul>
+    (비워둠 — 조사-추리 라운드 구조와 단서 배치가 확정된 뒤 작성)
   </section>
   <section class="content-section">
     <div class="section-title">인물 관계</div>
     <p>
-      <strong><span class="character-marcus">마커스</span>에 대해</strong>: 1년 전 도플로이드 사건을 함께 통과한 사람. 서로의 약점을 알면서도 등을 돌리지 않았던 사이라, 이번엔 망설임 없이 그를 믿고 따라나섰다.
-    </p>
-    <p>
-      <strong>애그니스에 대해</strong>: 부모 대신 당신을 거둬 키운 이웃. 지금은 실종자 명단에 이름이 올라 있다. 마지막 편지에 답장하지 못한 것이 계속 마음에 걸린다.
+      <strong><span class="character-marcus">마커스</span>에 대해</strong>: 1년 전 사건을 함께 겪은 사람. 서로의 약점을 알면서도 등을 돌리지 않았던 사이라, 망설임 없이 그를 믿고 따라나섰다.
     </p>
   </section>
 </div>
 
 8. 숨기고 싶은 비밀
-<div class="story-content">
-  <p class="guide-text">※ 노출 여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.</p>
-  <ul>
-    <li><strong>애그니스의 편지를 무시했다는 사실</strong>: 석 달 전 받은 마지막 편지에 결국 답장하지 않았다는 것. <span class="character-marcus">마커스</span>에게 알려지면, 원망보다 스스로에 대한 죄책감을 들키는 게 더 두렵다.</li>
-    <li><strong>고향에 대한 복잡한 감정</strong>: 겉으로는 담담하게 안내를 자처하지만, 사실 이 섬에 다시 발을 들이는 것 자체가 두렵다는 것. 이곳을 떠나던 무렵의 기억을 아직 제대로 정리하지 못했다.</li>
-  </ul>
-</div>
+(해당 사항 없음 — 협력 추리물이라 이 작품에서는 사용하지 않음)
 
 9. 단계별 역할 지침
-
-[대면] (단계_2)
-<div class="story-content">
-  <section class="content-section">
-    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
-    <ul class="goal-list">
-      <li><strong>변한 것과 변하지 않은 것</strong>: 배에서 내리자마자 마주한 부둣가는 기억보다 훨씬 낡고 작아 보입니다. 19년 만입니다.</li>
-    </ul>
-  </section>
-</div>
-
-※ 이후 조사 단계(마을 구역, 곶 구역 등)의 목표·인지·단서 안내는 단계 구조가 확정된 뒤 채워 넣는다. 현재는 대면 단계까지만 작성된 상태.
+(비워둠 — 단계 구조, 조사-추리 라운드, 단서 배치가 확정된 뒤 작성. 참고용 서사 초안은 texts/PC_베일라.txt, texts/NPC_이든.txt 참고)

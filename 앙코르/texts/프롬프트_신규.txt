@@ -1,0 +1,101 @@
+[앙코르(신규) - 이미지 생성 프롬프트 — 1단계: 화풍 3종 공통 앵커]
+
+리와인드용 `프롬프트.txt`의 "동화책 수채화풍" 확정 프롬프트를 기준으로, 새 앙코르의 3단계
+화풍(색연필 손그림풍 → 동화책 수채화풍 → 파스텔 플랫 벡터풍, 정방향 매칭)에 맞게 확장한다.
+캐릭터 정체성(비례, 색 패턴, 얼굴·귀 생김새)은 세 화풍 내내 고정 — 화풍 전환이 "다른 개"로
+보이면 안 된다는 원래 원칙을 그대로 유지.
+
+====================================================================
+0. 공통 캐릭터 정체성 앵커 (강아지, 세 화풍 모두 동일하게 포함)
+
+a small Yorkshire Terrier dog character, compact toy-breed body proportions, erect
+V-shaped ears, round dark eyes, small black nose, slightly elongated snout, small
+pink tongue sticking out, small white patch on the chest, short docked tail,
+sitting pose, three-quarter front view, warm and sincere mood, not exaggeratedly
+cute or comedic
+
+공통 Negative prompt (모든 프롬프트 동일):
+realistic, photorealistic, photo, 3D render, other dog breed, chibi, kawaii
+exaggerated, humanoid, text, watermark
+
+====================================================================
+1. 화풍별 문구 (0번 앵커 뒤에 이어 붙이고, 그 뒤에 3장의 나이별 문구를 붙인다)
+
+--- 색연필 손그림풍 (1~3살, 서투른 시기) ---
+colored pencil illustration style, visible pencil strokes and cross-hatching
+texture, slightly rough and hand-drawn linework, soft grainy paper texture, warm
+earthy color palette (cream, ochre, muted brown, dusty rose), textured uneven
+coloring within outlines, warm nostalgic children's picture book aesthetic,
+solid pure white background, isolated on white, no background elements, gentle
+diffused lighting, square 1:1 aspect ratio, centered composition
+
+--- 동화책 수채화풍 (4~11살, 성숙기) — 리와인드 확정본 그대로 재사용 ---
+soft watercolor illustration style, gentle color bleeding and blending at the
+edges, muted pastel palette (cream, dusty pink, soft blue), thin soft brown
+outline, warm nostalgic children's picture book aesthetic, solid pure white
+background, isolated on white, no background elements, gentle diffused
+lighting, square 1:1 aspect ratio, centered composition
+
+--- 파스텔 플랫 벡터풍 (12~16살, 노년기) ---
+flat vector illustration style, soft pastel color palette (powder blue, blush
+pink, cream, sage green), clean smooth flat shapes with minimal shading, soft
+rounded edges, subtle gradient shading only where needed, gentle muted
+lighting, warm nostalgic picture book aesthetic, solid pure white background,
+isolated on white, no background elements, square 1:1 aspect ratio, centered
+composition
+
+[경계 구간 안내] 3→4살, 11→12살 전환 시 급격한 화풍 변화가 어색하면, 그 경계에 걸친
+단서 한두 개는 두 화풍을 절반씩 섞은 프롬프트(예: "loosely blending colored pencil
+texture into soft watercolor bleeding")로 점이적 전환을 시도해볼 것 — 기존 원칙 유지.
+
+====================================================================
+2. 나이별 신체·색상 문구 (1번 화풍 문구 뒤에 이어 붙임)
+
+--- 1살 (아기, 성견의 약 1/2 크기) — 색연필 손그림풍과 조합 ---
+a very young Yorkshire Terrier puppy character, very small baby puppy body at
+half the adult body size, oversized head-to-body ratio typical of an adorable
+baby puppy, medium-length slightly shaggy soft puppy fur, smooth rounded baby
+contours, soft chubby puppy cheeks, big glossy round innocent eyes, round puppy
+tummy, almost entirely black puppy coat with minimal tan accents on legs and
+cheeks, no silver/grey fur yet
+
+--- 2살 (성견의 약 2/3 크기) — 색연필 손그림풍과 조합 ---
+a small juvenile Yorkshire Terrier dog character, compact young dog proportions
+at two-thirds the adult body size, visibly older than a baby puppy but
+definitely younger than an adult dog, medium-length slightly shaggy fur, gentle
+juvenile face shape with soft cheeks, mostly black coat over the body and dark
+head with minimal golden tan accents on cheeks and legs, no white/grey face fur
+yet
+
+--- 3살 (성견 크기로 막 자람, 색연필 마지막 해) — 색연필 손그림풍과 조합 ---
+a young adult Yorkshire Terrier dog character, now at full compact toy-breed
+adult body proportions, medium-length slightly shaggy fur, coat pattern just
+settling into the classic silvery-grey and black back fading to tan/golden-
+brown on the legs and face, small hints of silver just beginning to show, still
+mostly youthful dark coloring overall
+
+--- 4~11살 (성견, 안정기) — 동화책 수채화풍과 조합 ---
+a small Yorkshire Terrier dog character (adult), medium-length slightly shaggy
+fur, natural grown out coat, silvery-grey and black coat on the back fading to
+tan/golden-brown on the legs and face, healthy and settled adult coloring
+
+--- 12~16살 (노년기) — 파스텔 플랫 벡터풍과 조합 ---
+a small elderly Yorkshire Terrier dog character, adult toy-breed body
+proportions, medium-length fur with the same silvery-grey and tan adult
+coloring as before, but with localized white frosting specifically around the
+muzzle and chin (a common sign of old age in dogs regardless of breed), eyes
+slightly cloudy with a faint bluish-grey haze suggesting early cataracts, a
+slightly slower and more settled posture with relaxed shoulders, gentle tired
+but warm expression, still clearly the same dog underneath the visible signs
+of old age
+
+====================================================================
+3. 조합 예시 (실제 사용 시 0+화풍+나이 순서로 이어 붙임)
+
+- 1살 단서용: [0. 공통 앵커] + [색연필 손그림풍] + [1살 신체·색상]
+- 6살 단서용: [0. 공통 앵커] + [동화책 수채화풍] + [4~11살 신체·색상]
+- 14살 단서용: [0. 공통 앵커] + [파스텔 플랫 벡터풍] + [12~16살 신체·색상]
+
+====================================================================
+[다음 작업] 96개 단서(16단계 × 6개) 각각에 위 조합 + 장면별 구도·행동 묘사를 덧붙인
+개별 프롬프트 작성. 그리고 신규 인물(주인, 노년 홀아비) 캐릭터 시트 프롬프트는 별도 파일로.

@@ -325,7 +325,7 @@
 /* 캐릭터별 고유 컬러 */
 .character-veyla {
     color: #ff7fa6 !important;
-    /* Rose - 베일라: 고향에 대한 직감과 오래 묻어둔 그리움 */
+    /* Rose - 베일라: 낯선 곳의 결을 읽어내는 직감 */
     text-shadow: 0 0 8px rgba(255, 127, 166, 0.5);
 }
 
@@ -337,7 +337,7 @@
 
 .character-a {
     color: #b5a642 !important;
-    /* Dull Olive - 정체 미정 NPC(가칭 A): 믿어도 되는지 알 수 없는 마을의 목소리 */
+    /* Dull Olive - 이든 티먼스: 마을 유일의 의사로 1년 넘게 지내온 조력자, 실은 정체를 숨긴 외계인 */
     text-shadow: 0 0 6px rgba(181, 166, 66, 0.4);
 }
 
