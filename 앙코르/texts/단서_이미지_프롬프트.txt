@@ -1,0 +1,582 @@
+[앙코르(신규) - 1~16살 96개 단서 이미지 프롬프트]
+
+`기획안_v2_2026-09-22.md` §7-D의 확정 텍스트를 기준으로 각 단서의 핵심 장면 하나씩을
+뽑았다. 실제 생성 시에는 아래 순서로 이어 붙인다:
+
+  [공통 접두] + [강아지 레퍼런스 변형(프롬프트_신규.txt)] + [사람 묘사(등장 시)]
+  + [이 파일의 장면 설명] + [공통 접미]
+
+====================================================================
+0. 공통 블록
+
+--- 공통 접두 (모든 프롬프트 맨 앞) ---
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge
+watercolor illustration, absolutely NO borders, NO margins, NO frames.
+
+--- 강아지 레퍼런스 선택 기준 ---
+- 1살 단서: `프롬프트_신규.txt`의 "1살" 변형(기본은 짧은 털)
+- 2살 단서: "2살" 변형
+- 3~16살 단서: "성견" 변형 (몸 크기 고정, 리와인드와 동일 원칙)
+- 장면 분위기에 따라 중간 털/아주 짧은 털로 자유 교체 가능
+
+--- 사람 묘사 (주인이 등장하는 장면에 붙임) ---
+only an elderly Korean man's thin arms, hands, and torso visible, wearing a
+simple worn cardigan or knit sweater in muted colors appropriate to the
+season, face and head completely out of frame (cropped out), strictly NO
+human face visible
+(2026-09-23 확정: 리와인드처럼 "성별 불명"으로 쓰지 않음 — 새 스토리는 특정 노인 캐릭터로
+확정됐으므로 "an elderly Korean man's"로 명시. 이웃 노인 등 제3의 인물이 등장하는 장면은
+별도로 "an elderly Korean neighbor's"처럼 구분해서 표기해뒀다.)
+
+--- 공통 접미 (모든 프롬프트 맨 뒤) ---
+warm and sincere mood, soft watercolor illustration style, gentle color
+bleeding and blending at the edges, muted pastel palette (cream, dusty pink,
+soft blue, warm wood tones), thin soft brown outline, warm nostalgic
+children's picture book aesthetic, gentle diffused lighting. Set in South
+Korea, in and around a modest older detached single-family house with a small
+yard — NOT an apartment or high-rise. If indoors, a plain modest
+traditional-style single-family home interior with wooden or ondol-heated
+floors, humans barefoot or in socks. Absolutely no text, no letters, no
+words, no signs, no borders, no frames, no decorative corners.
+
+--- 공통 Negative prompt ---
+realistic, photorealistic, photo, 3D render, other dog breed, chibi, kawaii
+exaggerated, apartment building, high-rise, text, watermark, human face,
+visible human face
+
+====================================================================
+1단계 (1살)
+
+[3월] (구조적, 0 AP) — 이웃 노인이 강아지를 건네줌
+an elderly Korean neighbor stands at the open front door of a modest
+single-family house in the evening, gently handing a small trembling puppy
+into the arms of the elderly homeowner just inside the doorway, both figures
+shown only from the shoulders down (no faces), a small worn travel bag or
+blanket bundle on the ground nearby, warm entryway light spilling out into
+the dusk
+
+[5월] — 무심한 손길, 배경엔 아내의 빈자리
+the puppy circles around an elderly man's feet in a plain living room, his
+hand setting down a small food bowl without looking down, in the background
+a small dining table oddly still set with two rice bowls out of old habit,
+soft afternoon light
+
+[7월] — 물어뜯긴 슬리퍼
+a single well-worn woman's slipper lying chewed and torn on the floor near a
+shoe closet, the puppy cowering slightly behind a piece of furniture, an
+elderly man's hand reaching down toward the ruined slipper, its unworn pair
+sitting untouched nearby
+
+[8월] — 새로 놓인 강아지 물건, 유품 곁에
+a small new food bowl and a folded blanket newly placed in the corner of a
+plain living room, on a nearby shelf a woman's old reading glasses and a
+framed photograph sit undisturbed, warm late-afternoon light
+
+[10월] — 헤집어진 신발장, 그래도 흔드는 꼬리
+a shoe closet area near the front door with shoes and slippers scattered and
+chewed, the puppy looking up with a guilty but still wagging tail, an
+elderly man's hand gesturing down in mild scolding
+
+[12월] — 이름 부르자 돌아보는 순간
+close medium shot of the puppy turning its head attentively toward an
+elderly man's outstretched hand in a dim kitchen doorway, a pot simmering on
+the stove in the background, warm evening light
+
+====================================================================
+2단계 (2살)
+
+[2월] — 마트에서 목줄 고르기
+an elderly man's hand hovering uncertainly over a small display of dog
+leashes and collars in a modest neighborhood mart, several colorful options
+laid out, quiet fluorescent aisle lighting
+
+[4월] — 새 목줄, 신난 첫걸음
+the young dog wearing a brand new leash, spinning in an excited circle just
+outside the front door of the house, tail wagging, stepping tentatively onto
+the yard's dirt path, morning light
+
+[5월] — 이웃과의 인사
+on a quiet neighborhood street, an elderly man walking the young dog on a
+leash pauses as an elderly neighbor woman leans down to pet the dog warmly,
+both human figures shown only from the shoulders down, gentle daylight
+
+[7월] — 다른 개를 보고 겁먹은 강아지
+in a small local park with open grass, the young dog cowers with its tail
+tucked behind an elderly man's legs as another dog is seen at a distance,
+cautiously sniffing the air, soft midday light
+
+[9월] — 진료대 위에서 떠는 강아지
+the young dog trembling on a stainless steel veterinary exam table, a
+veterinarian's gloved hand holding a small syringe nearby, an elderly man's
+hand resting gently on the dog's back for comfort, clinical soft lighting
+
+[11월] — 현관에서 산책을 기다리는 강아지
+the young dog sitting expectantly by the front door in the early evening, a
+leash hanging on a hook nearby, looking up toward the hallway, warm interior
+light
+
+====================================================================
+3단계 (3살)
+
+[1월] — 소파에 기대오는 강아지, 조용한 거실
+an elderly man sitting alone on a modest living room sofa, the dog curled up
+close against his leg with its chin resting on his knee, a quiet overcast
+light through the window, a framed photo of a woman visible on a side table
+
+[3월] — 아침 이불 속으로 파고드는 강아지
+morning light through bedroom curtains, the dog burrowing under a blanket on
+a floor mattress (ondol-style bedding), only its tail and back visible
+poking out, an elderly man's hand reaching to pull the blanket back
+
+[5월] — 미끄러운 마루 위에서 뛰노는 강아지 (복선)
+the dog mid-slide on a polished wooden floor in the living room, legs
+comically splayed out, joyful expression, motion blur suggesting playful
+energy, warm afternoon light
+
+[9월] — 명절, 조촐한 저녁
+a modest dinner table set with a few home-cooked dishes for one, the dog
+sitting attentively beside an elderly man's chair, a television glowing
+softly in the background, evening light
+
+[10월] — 밤마다 방을 순찰하는 강아지
+a dim hallway at night, the dog's silhouette trotting from room to room
+checking each doorway, a single warm night-light glowing, quiet stillness
+
+[12월] — 거울 앞, 풀어진 표정
+an elderly man's reflection in a modest bedroom mirror, seen from behind or
+at an angle avoiding the face, shoulders relaxed, the dog sitting at his
+feet looking up, soft evening light
+
+====================================================================
+4단계 (4살)
+
+[1월] — 재래시장에서 강아지 간식 좌판을 봄
+an elderly man's hand reaching toward a small stall of dog treats and jerky
+at a traditional Korean outdoor market, various side-dish stalls visible in
+the background, no dog present in this scene, midday market bustle
+
+[3월] — 밥그릇 두 개 나란히 놓인 저녁
+a modest kitchen table set with a simple home-cooked dinner for one, and on
+the floor nearby the dog's food bowl freshly filled, warm evening light
+
+[6월] — 함께 비를 맞고, 이불 속에서 앓는 밤
+a sudden rain shower over a quiet residential street, an elderly man and the
+dog both drenched, sheltering under a shop awning; paired with, in a dim
+bedroom, the elderly man lying under blankets while the dog lies pressed
+close against his side, warm lamplight
+
+[8월] — 마당에서 뛰노는 강아지, 손님의 시선
+the dog running happily around a small yard, seen from the perspective of a
+visiting guest standing near the gate, an elderly man standing nearby
+watching with a faint smile, bright daylight
+
+[9월] — 조건 없이 곁을 지키는 강아지
+the dog sitting quietly beside an empty food bowl on the floor, then leaning
+against an elderly man's leg on the sofa without being called, soft
+afternoon light
+
+[11월] — 동사무소 게시판의 유기동물 안내문
+an elderly man's hand pausing near a community bulletin board outside a
+neighborhood office, a faded poster about elderly stray animals barely
+visible among other notices, overcast light
+
+====================================================================
+5단계 (5살)
+
+[2월] — 골목에서 우연히 마주친 이웃
+two elderly figures standing and talking on a quiet residential alley, a
+grocery bag in one hand, shown from a respectful distance avoiding faces,
+early spring light
+
+[3월] — 오래된 진료 기록을 꺼내봄
+an elderly man's hands sorting through an open drawer, holding up a faded
+old veterinary record slip, soft indoor light
+
+[4월] — 요양원 면회실
+inside a modest nursing home visiting room, an elderly resident reaches out
+to touch the dog held gently by an elderly visitor, both faces out of frame,
+warm but institutional lighting
+
+[7월] — 사진첩을 함께 보는 면회
+two elderly figures sitting together at a small table in a nursing home
+room, an old photo album open between them, the dog dozing at their feet,
+warm afternoon light through a window
+
+[9월] — 반찬을 나르는 손
+an elderly man's hands carrying a small wrapped container of side dishes
+down a nursing home hallway, quiet fluorescent lighting
+
+[11월] — 겨울옷 입히기
+the dog squirming playfully while an elderly man's hands try to fit it into
+a small knit sweater in a warm living room, a hint of a smile in his posture
+
+====================================================================
+6단계 (6살)
+
+[2월] — 낡은 인형만 찾는 강아지
+a worn, well-loved stuffed toy and a brand-new one lying side by side on a
+living room floor, the dog nosing toward the old worn one and ignoring the
+new, warm indoor light
+
+[4월] — 사료를 거부하는 강아지
+the dog sniffing cautiously at a food bowl and stepping back, an elderly
+man crouched nearby watching with a puzzled expression (shown from behind),
+kitchen light
+
+[6월] — 천둥 치는 밤, 침대 밑으로
+a dim bedroom during a thunderstorm, only the dog's back paws and tail
+visible peeking out from under the bed frame, a hand reaching down gently to
+stroke the visible paw, faint window light from lightning
+
+[8월] — 택배기사에게만 짖는 강아지
+the dog standing alert and wagging at the front gate as a delivery
+motorcycle approaches down the street, a delivery worker's hand offering a
+small treat, bright daylight
+
+[10월] — 좁은 틈에 웅크린 강아지
+a brand new round pet cushion sitting unused in the middle of a living room,
+while the dog is curled up instead in a narrow gap beside the sofa, warm
+lamplight
+
+[12월] — 강아지의 모든 것을 알게 된 주인
+a small collection of the dog's favorite things arranged on a table (a worn
+toy, a food bowl, a blanket), an elderly man's hand gently touching one of
+them while the dog watches from nearby, soft evening light
+
+====================================================================
+7단계 (7살)
+
+[2월] — 겨울 공원에서 시작된 산책 모임
+a small group of elderly people and their dogs gathered on a park bench
+area on a cold winter morning, breath visible in the cold air, warm mutual
+company despite the chill
+
+[4월] — 벚꽃 나들이
+a park path lined with blooming cherry blossoms, a small group of elderly
+people walking together with their dogs on leashes, petals drifting in the
+air, bright spring light
+
+[6월] — 첫 초대, 집들이
+inside an unfamiliar but cozy living room, a small gathering of a few
+elderly people and their dogs, the dog sniffing curiously around new faces,
+warm indoor party lighting with a small handmade banner suggesting a
+birthday-like gathering
+
+[8월] — 동창회, 사진첩을 보여주는 손
+an elderly man's hands holding out a phone or small photo album to a group
+of old friends at a restaurant table, animated conversation implied through
+posture, warm restaurant lighting
+
+[10월] — 작은 반려견 행사
+an open community lot with a simple handmade banner, a small obstacle
+course, the dog mid-jump over a low obstacle while a small crowd of elderly
+people and dogs watch and laugh, bright daylight
+
+[12월] — 빼곡한 달력, 기다리는 강아지
+close-up of a wall calendar filled with handwritten notes and appointments,
+in the soft background through a doorway the dog waits by the front door for
+a walk, warm evening light
+
+====================================================================
+8단계 (8살)
+
+[3월] — 세 발로 뛰는 강아지
+the dog running in the small yard holding one hind leg up, favoring three
+legs, mid-motion, an elderly man's figure watching with concern from the
+porch (shown from behind), bright daylight
+
+[4월] — 병원, 엑스레이를 보여주는 의사
+inside a veterinary clinic exam room, a veterinarian's hand pointing at an
+x-ray image displayed on a lightbox, an elderly man sitting nearby listening
+intently (shown from behind or side, no face), clinical lighting
+
+[5월] — 수술 당일, 기다리는 손
+an elderly man sitting alone in a veterinary clinic waiting room, hands
+clasped tightly in his lap, a phone resting beside him, quiet fluorescent
+waiting room lighting
+
+[6월] — 보호대를 찬 재활
+the dog wearing a small leg brace, taking careful hesitant steps across a
+living room floor, an elderly man's hands hovering nearby ready to help,
+warm indoor light
+
+[7월] — 보호대 없이, 안도의 순간
+the dog running freely without any brace in the small yard, catching a
+thrown ball mid-air, an elderly man's hand visible having just released the
+throw, joyful bright daylight
+
+[9월] — 미끄럼 방지 매트 설치
+an elderly man's hands laying down a non-slip rubber mat across a wooden
+living room floor, the dog curiously sniffing and stepping onto the new
+texture, warm afternoon light
+
+====================================================================
+9단계 (9살)
+
+[1월] — 냉장고에 붙은 할 일 목록
+a handwritten to-do list note stuck to a refrigerator door with a magnet, a
+line reading a travel wish among daily chores, the dog sniffing near the
+fridge door below, kitchen light
+
+[3월] — 첫 생일, 작은 케이크
+a small simple dog-friendly cake with one candle on a modest dining table,
+the dog more interested in sniffing the wrapping paper beside it than the
+cake itself, warm evening light
+
+[5월] — 마당에서 빗질, 흰 털 발견
+an elderly man's hands gently brushing the dog's fur in a sunlit yard, a
+few visible white/grey hairs caught in the brush bristles near the dog's
+chin, warm natural sunlight
+
+[7월] — 계곡 여행
+the dog splashing happily in the shallow water of a small mountain valley
+stream, sunlight sparkling on the water, a train window view of passing
+green scenery in an inset moment
+
+[9월] — 사진첩 정리
+an elderly man's hands arranging a stack of printed photographs into an
+album on a table, the top photo showing a puppy being held by an elderly
+neighbor, warm lamplight
+
+[11월] — 요양원 면회, 무릎 위의 강아지
+inside a nursing home room, an elderly resident's lap holding the dog
+gently while speaking with a visitor, both faces out of frame, warm soft
+window light
+
+====================================================================
+10단계 (10살)
+
+[2월] — 겨울밤, 이불 속으로
+a warm bedroom on a cold winter night, the dog burrowing into the blanket
+beside an elderly man's sleeping form, only their shapes visible under the
+covers, dim warm night light
+
+[4월] — 요양원 전체의 인기인
+a nursing home hallway with several elderly residents in doorways reaching
+out to pet the dog as it passes by held on a leash, warm fluorescent
+hallway light
+
+[6월] — 참새를 올려다보는 강아지
+the dog sitting still in the yard, a ball forgotten beside it, gazing
+upward at sparrows perched on a low wall or fence, soft daylight
+
+[8월] — 마당 텃밭
+an elderly man's hands planting small vegetable seedlings in a modest yard
+plot, the dog digging playfully in the loose soil nearby, bright daylight
+
+[10월] — 사진첩 대조
+an elderly man's hands holding an old photo album open, comparing an old
+puppy photo with the real dog now sitting beside him on the floor showing
+visibly greyed muzzle fur, warm lamplight
+
+[12월] — 첫눈, 발자국
+fresh snow covering the small yard, the dog's paw prints trailing across
+the white ground, the dog sniffing slowly and deliberately rather than
+bounding, soft winter light
+
+====================================================================
+11단계 (11살)
+
+[1월] — 열린 옷장
+a modest bedroom closet standing open, faded women's clothing hanging
+inside untouched for years, an elderly man's hand paused on the door
+handle, the dog curiously sniffing near the doorway, soft light
+
+[3월] — 옷을 상자에 담는 손
+an elderly man's hands folding old clothing into a cardboard donation box,
+the dog sniffing intently at a cardigan draped over the box's edge, warm
+afternoon light
+
+[5월] — 창가 자리로 바뀐 방
+a small sunlit cushion placed by a window in a now-empty former dressing
+room, the dog curled up asleep in the warm patch of afternoon sunlight
+
+[7월] — 벼룩시장
+an outdoor community flea market with simple tarps and folding tables, the
+dog wearing a handmade sweater from a nearby stall, wagging its tail among
+browsing neighbors, bright daylight
+
+[9월] — 손뼉을 쳐도 못 듣는 강아지
+the dog walking ahead unaware in a backyard, an elderly man's hand raised
+mid-clap behind it trying to get its attention, a look of concern in his
+posture (shown from behind), soft daylight
+
+[11월] — 손짓으로 부르는 법
+an elderly man's hand making a gentle waving gesture at chest height, the
+dog turning its head attentively toward the motion instead of a sound, warm
+indoor evening light
+
+====================================================================
+12단계 (12살) — "결" 시작, 느려짐
+
+[2월] — 계단 앞에서 함께 멈칫
+a short outdoor stairway near the house entrance, an elderly man's legs
+pausing partway up rubbing a knee, the dog beside him also pausing with one
+paw raised hesitantly, soft daylight
+
+[4월] — 산책 모임, 느려진 속도
+a small group of elderly people and their dogs walking slowly together on a
+park path, the pace visibly gentle and unhurried, warm afternoon light
+
+[6월] — 나란히 든 낮잠
+an elderly man dozing in a chair by a sunlit window, an open book fallen
+onto his lap, the dog fast asleep on a nearby cushion in the same patch of
+sunlight, peaceful quiet light
+
+[8월] — 평상에서의 여름 저녁
+an elderly man sitting on a traditional wooden outdoor bench (평상) in the
+small yard at dusk, the dog lying flat beside him enjoying the breeze,
+warm fading summer light
+
+[10월] — 정기검진
+an elderly man sitting in a veterinary clinic waiting room holding the dog
+gently in his arms, a thoughtful and slightly worried expression implied
+through posture (shown from behind), soft clinical light
+
+[12월] — 오래된 사진과 지금
+an elderly man's hands holding an old photograph of an energetic young dog
+beside the real dog now dozing peacefully at his feet, warm lamplight,
+quiet contentment
+
+====================================================================
+13단계 (13살) — 첫 이별
+
+[1월] — 면회, 달라진 노인
+inside a nursing home room, an elderly resident lying in bed rather than
+sitting in the usual chair, the dog placed gently on the blanket near his
+lap, soft window light, a quieter more subdued mood
+
+[3월] — 갑작스러운 입원 소식
+an elderly man gripping a phone tightly while standing in a hallway,
+distress implied through posture, the dog looking up anxiously from the
+floor nearby, dim indoor light
+
+[5월] — 몰래 안고 들어간 병문안
+a hospital room, an elderly man cradling the dog wrapped snugly in a
+blanket close to his chest as he steps carefully through the doorway, an
+elderly patient in the bed beyond reaching out with a faint smile, soft
+hospital lighting
+
+[6월] — 장례식, 빗속을 걷다
+a rainy street scene, an elderly man walking alone without an umbrella,
+shoulders hunched, muted grey rainy light, a somber but restrained mood
+
+[8월] — 액자로 남은 사진
+a small framed photograph placed on a living room shelf showing two elderly
+figures smiling together in a nursing home visiting room, the dog sitting
+below the shelf looking up at it, warm afternoon light
+
+[10월] — 변함없는 위로
+an elderly man sitting alone on the living room sofa in the evening, the
+dog quietly climbing up to rest its chin on his lap without being called,
+warm dim lamplight
+
+====================================================================
+14단계 (14살) — 발병
+
+[2월] — 산책 중 자주 멈추는 걸음
+an elderly man pausing mid-walk on a quiet neighborhood path, catching his
+breath with a hand on his chest, the dog stopping patiently beside him
+looking up, soft daylight
+
+[3월] — 병원 대기실
+an elderly man sitting alone in a hospital waiting room, hands folded
+tensely, other patients blurred in the background, sterile waiting room
+light
+
+[4월] — 진료실에서 결과를 들음
+a hospital consultation room, a doctor's hand gesturing toward a medical
+scan on a monitor, an elderly man sitting across the desk listening quietly
+(shown from behind), clinical lighting
+
+[6월] — 곁을 떠나지 않는 강아지
+an elderly man sitting at a dinner table with food untouched, the dog
+pressed close against his leg under the table, warm but subdued evening
+light
+
+[8월] — 밤중의 혼잣말
+a dim living room late at night, an elderly man sitting alone with the dog
+curled on his lap, his posture suggesting quiet murmured conversation, a
+single warm lamp glowing
+
+[10월] — 사진 습관
+an elderly man holding up a phone to photograph the dog dozing in a
+sunlit spot by the window, a small gentle smile implied through posture,
+soft afternoon light
+
+====================================================================
+15단계 (15살) — 투병, 역할이 뒤바뀜
+
+[1월] — 어지럼증
+a modest bathroom, an elderly man having slipped down to sit against the
+wall near the sink, the dog whining anxiously at the open door, morning
+light
+
+[3월] — 온종일 곁을 지키는 강아지
+the dog lying pressed against a closed bathroom door waiting, then following
+close behind an elderly man's slow footsteps down a hallway, warm indoor
+light
+
+[5월] — 죄책감 섞인 간식
+a kitchen counter covered with an unusually large pile of expensive dog
+treats and toys, the dog more interested in climbing into an elderly man's
+lap than the treats themselves, warm evening light
+
+[7월] — 응급실행
+an ambulance parked outside a modest house at dawn, paramedics carrying a
+stretcher out the front door, the dog barking anxiously and pawing at the
+doorway, cool early morning light
+
+[9월] — 사진첩 정리, 마지막 기록
+an elderly man's hands laying out many old photographs across a table,
+writing small notes on the backs of a few, the dog dozing beside him,
+warm autumn afternoon light through a window
+
+[12월] — 함께 견디는 추위
+a warm bedroom on a freezing winter night, an elderly man and the dog
+huddled together closely under a thick blanket, only their shapes visible,
+dim warm night light
+
+====================================================================
+16단계 (16살) — 이별 (압축형)
+
+[2월] — 정기 진료, 무거운 결과
+an elderly man sitting in a hospital consultation room, shoulders slightly
+sunken, a doctor's hand gesturing gently toward paperwork on the desk,
+soft muted clinical light
+
+[5월] — 1층으로 옮긴 침실
+a simple bed newly set up on the ground floor of the house, the dog
+already curled into a new spot beside it, morning light through a window
+
+[8월] — 집으로 돌아오는 날
+an elderly man stepping through the front door carrying a small bag, the
+dog rushing to greet him at the threshold with an eager wagging tail, a
+small simple bed visible in the living room corner beyond, warm evening
+light
+
+[9월] — 마지막 마당 나들이
+an elderly man sitting carefully on the yard steps in warm sunlight, the
+dog slowly circling the small yard sniffing at familiar spots, golden
+late-summer light
+
+[10월] — 곁을 지키는 강아지
+a small bed in the corner of a quiet living room, the dog lying pressed
+against it keeping watch, muted autumn light through a window, a stillness
+in the room
+
+[11월] — 마지막 밤
+a dim quiet bedroom at night, an elderly man lying in bed with the dog
+gently cradled against his chest, both very still, a single soft warm
+light source, deeply peaceful and tender mood
+
+====================================================================
+[제작 시 확인할 것]
+- 각 장면에 성견/2살/1살 레퍼런스 중 맞는 걸 선택했는지.
+- 주인이 등장하는 장면엔 반드시 "사람 묘사" 문구를 넣어 얼굴이 안 나오게 할 것 — 단, 이웃
+  노인(요양원 친구)이 등장하는 장면(5·13단계)은 별도로 "an elderly Korean neighbor's"로
+  구분해서 같은 얼굴 크롭 원칙을 적용.
+- 마당·단독주택 설정이 실수로 아파트로 나오지 않는지(공통 접미 문구가 이를 방지하도록 명시).
+- 반전 보호 원칙: 8~16단계처럼 무거운 장면이라도 "죽음"을 직접 시각화(예: 장례식장 관 등)하지
+  않고 절제된 구도(빗속 뒷모습, 액자, 빈 침대맡 등)로 암시만 하도록 이미 반영함 — 실제 생성
+  결과에서도 이 톤이 유지되는지 확인할 것.
