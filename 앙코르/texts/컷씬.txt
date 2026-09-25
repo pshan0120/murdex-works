@@ -1,0 +1,382 @@
+[앙코르(신규) - 프롤로그 오프닝 몽타주 컷씬]
+
+* 용도: 프롤로그 단계(`단계_0_프롤로그.txt`)의 `intro_cutscenes`. 대사 없이 이미지+캡션만으로 주인공의 인생
+  (아내와의 만남 → 결혼 → 소박한 일상 → 아내의 발병·죽음 → 혼자 남겨짐)을 10컷으로 압축해서 보여준다.
+  애니메이션 "UP"의 초반 몽타주를 참고. 캡션 원문은 `PC_주인.txt`의 10개 문장을 그대로 사용한다.
+* 이 파일은 두 부분이다. (1) 프롤로그 몽타주 10컷(아래 첫 섹션). (2) 1살~16살 각 조사 단계의 시작 컷씬 16컷(맨 아래
+  "단계별 컷씬" 섹션, 2026-09-25 추가). 리와인드처럼 단계당 컷 1개, 강아지 시점이다.
+* 아트 디렉션: 동화책 수채화풍 단일 스타일(`프롬프트_신규.txt` 기준, 3단계 화풍 전환은 폐기됨). 절제된 톤 —
+  과장되게 귀엽거나 극적이지 않게. 채도 낮은 파스텔 팔레트(크림, 더스티 핑크, 소프트 블루), 얇은 갈색 아웃라인,
+  부드럽게 번지는 색 경계, 은은한 확산광. 화풍은 전 컷 동일하고 나이는 머리색·주름·체형 묘사로만 구분한다.
+* 얼굴 규칙: **이 몽타주는 인물 얼굴이 보이는 유일한 구간**이다(본편 단서 이미지는 얼굴 크롭 유지). 인물 정체성
+  (얼굴형·눈매)이 청년기~노년기 내내 같은 사람으로 보여야 한다 — 인물 프롬프트는 `프롬프트_인물.txt` 참고.
+* 배경 규칙: 현대 한국, 오래된 단독주택·소박한 셋방 위주. 아파트 단지 금지(본편과 동일 설정).
+* 강아지는 이 몽타주에 등장하지 않는다(강아지는 1살 3월 단서부터 등장).
+* 캡션 표기: 화면 하단 자막 1~2줄. 이미지 안에는 글자를 넣지 않는다.
+* intro_cutscenes 필드 매핑: 각 컷 = {id, type, caption, mediaUrl, durationSeconds, autoPlay}.
+  durationSeconds는 미정(제안 5~6초, 마지막 10번 컷은 7초 정도로 여운). 이미지 URL은 생성·업로드 후 기입.
+
+공통 접두: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge.
+공통 접미: warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older detached house or humble rented room interiors, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs in the image. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
+공통 Negative prompt: photorealistic, 3D render, exaggerated anime features, chibi, apartment building, high-rise, text, watermark, other ethnicity
+
+인물 앵커(모든 컷에 해당 나이대로 포함):
+- 남편: a Korean man, ordinary and unremarkable appearance, gentle and slightly shy expression, average build, same face shape and features at every age
+- 아내: a Korean woman, warm and gentle expression, same face shape and features at every age
+
+########################################
+[프롤로그 몽타주 - 주인공의 인생]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+여름 골목 어귀, 우연히 마주친 두 사람의 눈이 마주쳤다.
+
+* 이미지 프롬프트:
+{공통 접두} A summer afternoon at the mouth of a quiet residential alley, dappled sunlight through leaves. A Korean man in his late twenties with short neat black hair in a plain collared shirt and a Korean woman in her late twenties with simple shoulder-length black hair in plain modest clothing have just rounded the corner and stopped, their eyes meeting across a few steps of distance, both faces clearly visible with shy surprised expressions. Modest old brick walls and a small hanging laundry line in the background. {공통 접미}
+
+* 파일명: 프롤로그_컷1
+
+========================================
+[컷 2]
+========================================
+* 자막:
+많은 걸 갖추진 못했지만, 두 사람에겐 그걸로 충분한 날이었다.
+
+* 이미지 프롬프트:
+{공통 접두} Inside a very small humble rented room, a Korean man and a Korean woman both in their late twenties sit on the floor at a low round table sharing a single modest meal of simple side dishes and a pot of noodles, laughing softly at each other, faces clearly visible and content. Sparse furnishings, a bare bulb glowing warmly, a folded blanket in the corner. {공통 접미}
+
+* 파일명: 프롤로그_컷2
+
+========================================
+[컷 3]
+========================================
+* 자막:
+낡은 집이었지만, 함께 벽지를 바르고 나니 그럴듯한 보금자리가 되었다.
+
+* 이미지 프롬프트:
+{공통 접두} Inside an old worn single-family house room being renovated, a Korean man and a Korean woman both around thirty stand side by side on a folding step stool and floor, smoothing a sheet of fresh floral wallpaper onto the wall together, wallpaper paste bucket and brushes on newspaper on the floor, faces clearly visible with pleased tired smiles, afternoon light through a bare window. {공통 접미}
+
+* 파일명: 프롤로그_컷3
+
+========================================
+[컷 4]
+========================================
+* 자막:
+특별할 것 없는 저녁이었다. 마주 앉아 오늘 있었던 일을 나누는 것으로 충분했다.
+
+* 이미지 프롬프트:
+{공통 접두} An ordinary evening in a modest kitchen-dining area, a Korean man and a Korean woman both in their mid-thirties sit facing each other across a small dining table with two chairs, a simple home-cooked dinner between them, talking and listening to each other with calm affectionate expressions, faces clearly visible, warm pendant lamp light. {공통 접미}
+
+* 파일명: 프롤로그_컷4
+
+========================================
+[컷 5]
+========================================
+* 자막:
+계절이 몇 번 바뀌는 동안에도, 식탁의 의자 수는 변하지 않았다.
+
+* 이미지 프롬프트:
+{공통 접두} A modest dining table with exactly two wooden chairs at the center of the frame in a plain home kitchen, a Korean man and a Korean woman both in their mid-forties seated at it, their faces clearly visible and calm; through the window beside the table the same garden view is shown in four soft seasonal bands left to right (spring blossoms, green summer leaves, autumn foliage, winter bare branches) to suggest the passing of seasons, no children's belongings anywhere in the room, only the two chairs. {공통 접미}
+
+* 파일명: 프롤로그_컷5
+* (제작 메모) 아이 없이 둘만의 삶이었다는 것을 "의자 두 개, 아이 물건 없음"으로만 암시한다. 설명 문구·자막에 언급하지 않는다.
+
+========================================
+[컷 6]
+========================================
+* 자막:
+머리가 희끗해지는 동안에도, 아침마다 나란히 차를 마시는 습관만은 그대로였다.
+
+* 이미지 프롬프트:
+{공통 접두} Early morning light in a modest sunlit living room, a Korean man and a Korean woman both in their early fifties with hair noticeably streaked with grey at the temples sit side by side on a floor cushion by the window, each holding a small teacup, calm familiar expressions, faces clearly visible, a small teapot between them, soft steam rising. {공통 접미}
+
+* 파일명: 프롤로그_컷6
+
+========================================
+[컷 7]
+========================================
+* 자막:
+어느 날부터, 아내의 걸음이 눈에 띄게 느려졌다.
+
+* 이미지 프롬프트:
+{공통 접두} A quiet residential street in late afternoon, an elderly Korean couple in their seventies walking home; the elderly woman with neatly tied grey hair walks a few steps behind and slightly slower, while the elderly man with grey hair turns halfway back with a patient gentle look, waiting for her, both faces visible. Simple cardigans, warm low sun. {공통 접미}
+
+* 파일명: 프롤로그_컷7
+
+========================================
+[컷 8]
+========================================
+* 자막:
+병원 복도에서 보내는 시간이 늘어갔다. 손을 잡아주는 것 말고는, 해줄 수 있는 게 많지 않았다.
+
+* 이미지 프롬프트:
+{공통 접두} A long hospital corridor with cool pale light, an elderly Korean man in a worn cardigan sits on a bench beside an elderly Korean woman in a wheelchair who is visibly thinner and pale, he holds her hand in both of his, both faces visible with quiet weary calm expressions, other people blurred far in the background. Slightly subdued, muted colors for this scene. {공통 접미}
+
+* 파일명: 프롤로그_컷8
+
+========================================
+[컷 9]
+========================================
+* 자막:
+그해 겨울, 침대 옆자리가 비었다.
+
+* 이미지 프롬프트:
+{공통 접두} A modest bedroom on a quiet winter morning, soft grey light and faint snow visible through the window, a neatly made empty side of a double bed with a folded pillow, and an elderly Korean man in a cardigan sitting alone on the edge of the other side, seen in quiet profile looking at the empty half, face partly visible and still. {공통 접미}
+
+* 파일명: 프롤로그_컷9
+
+========================================
+[컷 10]
+========================================
+* 자막:
+집 안의 모든 소리가 사라진 것 같았다. 그 적막 속에서, 하루하루를 그저 흘려보냈다.
+
+* 이미지 프롬프트:
+{공통 접두} A very quiet plain living room and dining area in dim dusty afternoon light, an elderly Korean man in his seventies with grey hair sits alone at a small dining table that has two chairs, one chair empty, a wall clock and a cold cup of tea in front of him, his face visible and blank with resigned stillness, dust motes floating in a shaft of window light, a stillness that suggests days passing without change. {공통 접미}
+
+* 파일명: 프롤로그_컷10
+* (제작 메모) 이 컷 직후 이웃이 강아지를 맡기고 가는 장면(1살 3월 단서)으로 이어진다.
+
+[제작 시 확인할 것]
+- 10컷 전부에서 남편·아내가 나이만 다를 뿐 같은 사람으로 보이는지(얼굴형·눈매).
+- 컷 5의 "의자 두 개, 아이 물건 없음"이 자막 없이도 읽히는지.
+- 컷 8~10의 무거운 장면이 과하게 비극적으로 그려지지 않는지(절제된 톤 유지).
+- 프롬프트 안의 `{공통 접두}`/`{공통 접미}`는 위 공통 블록 문장으로 치환해서 사용.
+
+
+########################################
+[단계별 컷씬 - 1살~16살 (강아지 시점)]
+########################################
+
+* 용도: 각 조사 단계(순서2~17)의 인트로 컷씬(`intro_cutscenes`, 단계당 컷 1개). 몽타주가 "주인의 인생"을 보여줬다면, 단계별 컷씬은
+  "강아지가 보는 그해의 시작"이다. 엔딩(일기, 천국에서 해후)이 강아지 시점으로 끝나기 때문에, 본편에서도 강아지의 눈높이가
+  조용히 반복되도록 했다.
+* 시점 규칙(리와인드 컷씬 규칙을 계승): "강아지가 보는 세상"이지 "강아지를 보는 장면"이 아니다. 프레임 안에 강아지의 몸·주둥이·
+  발·꼬리가 절대 보이면 안 된다. 카메라는 바닥에서 25~35cm 높이에 낮게 둔다. 사람은 다리·슬리퍼·카디건 소매·손 정도만 나올
+  수 있고 얼굴은 없다(주인은 마른 노인의 체형과 낡은 카디건, `프롬프트_인물.txt` 노년기 기준).
+* 자막 문체 규칙: 강아지 시점, 해요체. 그 순간의 감각(냄새 → 소리 → 몸의 반응 순서)만 1~2문장으로 담는다. 나이·개월 수·회상·예감
+  표현은 쓰지 않고, 그 단계의 단서 사건을 그대로 재서술하지 않는다(계절감·장소감만 짧게 연다). em-dash·"A가 아니라 B" 구문 없음.
+* 장소 규칙(새 앙코르 기준): 배경은 항상 마당 있는 낡은 단독주택과 그 주변 골목·공원이다. **아파트 단지·고층 건물 금지**(리와인드의
+  "아파트 전용" 규칙과 반대). 실내는 마루·온돌 바닥의 소박한 단독주택 내부.
+* 화풍: 동화책 수채화풍 단일 스타일. 레퍼런스 이미지는 필요 없다(강아지가 프레임에 없다).
+
+단계별 컷 공통 접두: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog).
+단계별 컷 공통 접미: Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
+
+========================================
+[1살 단계 컷씬 - 1살 (3월, 봄)]
+========================================
+* 장면: 낯선 현관
+* 자막:
+낯선 냄새가 가득해요.
+커다란 슬리퍼가 코앞에서 꼼짝도 하지 않아요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view across the wooden floor of an unfamiliar entryway of an old single-family house at dusk, a pair of large worn slippers standing very close in the foreground with the hem of grey trousers above them, the front door ajar behind letting in soft evening light and the blurred green of a small yard. {단계별 컷 공통 접미}
+
+* 파일명: 1살_컷1
+
+========================================
+[2살 단계 컷씬 - 2살 (2월, 겨울 끝)]
+========================================
+* 장면: 문틈으로 보이는 마당
+* 자막:
+문틈으로 찬 바람이 들어와요.
+밖에서 마른 흙 냄새가 나요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view from the entryway floor toward a slightly open front door, a narrow bright gap showing the pale winter yard with dry soil and bare branches, a leash hanging on a wall hook at the edge of the frame and a pair of slippers by the door. {단계별 컷 공통 접미}
+
+* 파일명: 2살_컷1
+
+========================================
+[3살 단계 컷씬 - 3살 (1월, 겨울)]
+========================================
+* 장면: 소파 곁 거실
+* 자막:
+소파 위에서 낮은 숨소리가 들려요.
+무릎에서 따뜻한 냄새가 나요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view from the living room floor beside a modest sofa on a quiet overcast winter afternoon, an elderly man's knee in grey trousers and a hand resting on it visible above at the edge of the frame, a small side table with a framed photo blurred in the background. {단계별 컷 공통 접미}
+
+* 파일명: 3살_컷1
+
+========================================
+[4살 단계 컷씬 - 4살 (1월, 겨울)]
+========================================
+* 장면: 마당 풀숲 사이
+* 자막:
+풀잎이 코끝을 간지럽혀요.
+발소리가 천천히 뒤따라와요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view through short dry winter grass and small early sprouts in a small yard, a pair of worn shoes walking slowly a few steps behind at the edge of the frame, the wall of an old single-family house and a wooden gate blurred in the background. {단계별 컷 공통 접미}
+
+* 파일명: 4살_컷1
+
+========================================
+[5살 단계 컷씬 - 5살 (2월, 이른 봄)]
+========================================
+* 장면: 골목 길바닥
+* 자막:
+낯선 발소리와 익숙한 발소리가 섞여요.
+골목 끝에서 좋은 냄새가 나요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view along a quiet residential alley paved with worn concrete in early spring, several pairs of legs and shoes far ahead, one elderly man's shoes close by carrying a grocery bag at the frame edge, low garden walls and a bare tree blurred in the background. {단계별 컷 공통 접미}
+
+* 파일명: 5살_컷1
+
+========================================
+[6살 단계 컷씬 - 6살 (2월, 겨울)]
+========================================
+* 장면: 창가 볕 자리
+* 자막:
+볕이 바닥에서 따뜻해요.
+오는 발소리를 가만히 기다려요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view across a wooden floor toward a window where a bright warm patch of sunlight lies on the floor, a worn stuffed toy resting at the edge of the sunlit patch, the hem of a cardigan and slippers passing by in the soft background. {단계별 컷 공통 접미}
+
+* 파일명: 6살_컷1
+
+========================================
+[7살 단계 컷씬 - 7살 (2월, 겨울)]
+========================================
+* 장면: 겨울 공원 벤치 아래
+* 자막:
+여러 발소리가 모여요.
+코끝이 시려도 좋은 냄새가 나요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view under a park bench in a small neighborhood park on a cold winter morning, several pairs of legs and boots gathered nearby, faint white breath in the air, other dogs' leashes trailing at the edges of the frame, bare trees blurred in the background. {단계별 컷 공통 접미}
+
+* 파일명: 7살_컷1
+
+========================================
+[8살 단계 컷씬 - 8살 (3월, 봄)]
+========================================
+* 장면: 봄볕 마당
+* 자막:
+마당 흙이 폭신해요.
+볕이 등 뒤로 따뜻하게 내려앉아요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view across a small sunlit yard in early spring, soft loose soil and new green sprouts in the foreground, a rubber ball resting a few steps ahead, an elderly man's slippers standing at the edge of the frame on the porch step. {단계별 컷 공통 접미}
+
+* 파일명: 8살_컷1
+
+========================================
+[9살 단계 컷씬 - 9살 (1월, 새해)]
+========================================
+* 장면: 새 달력 소리
+* 자막:
+새 종이 넘기는 소리가 나요.
+주인 손에서 잉크 냄새가 나요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view across a kitchen floor in the morning of a new year, the lower part of a refrigerator door with a small paper note held by a magnet, an elderly man's hand and cardigan sleeve lowered toward the frame edge holding a pen, soft window light. {단계별 컷 공통 접미}
+
+* 파일명: 9살_컷1
+
+========================================
+[10살 단계 컷씬 - 10살 (2월, 겨울)]
+========================================
+* 장면: 이불 곁 아침
+* 자막:
+이불에서 따뜻한 냄새가 나요.
+아침 소리가 천천히 다가와요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view along the floor of a bedroom in the early winter morning, the folded edge of a thick blanket on a floor mattress in the foreground, an elderly man's bare feet and the hem of his trousers at the edge of the frame, pale light through curtains. {단계별 컷 공통 접미}
+
+* 파일명: 10살_컷1
+
+========================================
+[11살 단계 컷씬 - 11살 (1월, 겨울)]
+========================================
+* 장면: 낡은 담요와 볕
+* 자막:
+볕이 조금씩 옮겨 가요.
+담요에서 오래된 냄새가 나요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view across a living room floor where a patch of winter sunlight has moved onto a worn folded blanket, dust motes drifting in the light, an elderly man's slippers slowly crossing in the blurred background. {단계별 컷 공통 접미}
+
+* 파일명: 11살_컷1
+
+========================================
+[12살 단계 컷씬 - 12살 (2월, 겨울)]
+========================================
+* 장면: 계단 앞
+* 자막:
+계단이 조금 높아 보여요.
+발소리가 천천히 함께 올라가요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view at the foot of a short outdoor stairway by the entrance of an old house in soft daylight, the steps rising high in front of the camera, an elderly man's slippered feet pausing on the first step at the edge of the frame. {단계별 컷 공통 접미}
+
+* 파일명: 12살_컷1
+
+========================================
+[13살 단계 컷씬 - 13살 (1월, 겨울)]
+========================================
+* 장면: 현관의 외투
+* 자막:
+외투 냄새가 차가워요.
+문 앞에서 발소리가 오래 서성여요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view of an entryway floor on a cold winter afternoon, the lower hem of a dark winter coat and a pair of shoes being put on slowly at the edge of the frame, the door half open onto a pale grey yard. {단계별 컷 공통 접미}
+
+* 파일명: 13살_컷1
+
+========================================
+[14살 단계 컷씬 - 14살 (2월, 이른 봄)]
+========================================
+* 장면: 멈추는 산책길
+* 자막:
+길이 길게 뻗어 있어요.
+발소리가 자주 멈춰서 나도 멈춰 기다려요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view along a quiet neighborhood path in early spring, a long stretch of pavement ahead with faint green along the edges, an elderly man's shoes stopped a little behind at the edge of the frame, soft slightly overcast light. {단계별 컷 공통 접미}
+
+* 파일명: 14살_컷1
+
+========================================
+[15살 단계 컷씬 - 15살 (1월, 겨울)]
+========================================
+* 장면: 조용한 아침 방
+* 자막:
+아침 냄새가 조용해요.
+이불 속에서 낮은 숨소리가 들려요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view along the floor of a quiet bedroom in the early winter morning, the edge of a blanket on a floor mattress and one thin hand resting outside it near the floor at the edge of the frame, pale window light, everything very still. {단계별 컷 공통 접미}
+
+* 파일명: 15살_컷1
+
+========================================
+[16살 단계 컷씬 - 16살 (2월, 겨울)]
+========================================
+* 장면: 느린 신발 소리
+* 자막:
+현관에서 신발 소리가 느려요.
+가까이 가서 발 옆에 붙어 있어요.
+
+* 이미지 프롬프트:
+{단계별 컷 공통 접두} Low view of a quiet entryway floor in soft winter light, an elderly man's slippers shuffling slowly across the frame and one hand reaching down toward the floor near the edge of the frame, the wooden threshold and a shoe rack blurred beyond. {단계별 컷 공통 접미}
+
+* 파일명: 16살_컷1
+
+[제작 시 확인할 것(단계별 컷씬)]
+- 16컷 전부에서 강아지 몸(발·주둥이·꼬리 포함)이 프레임에 나오지 않는지.
+- 아파트·고층 건물이 배경에 섞이지 않는지(단독주택+마당 설정).
+- 자막이 단서 내용을 재서술하지 않고 계절·장소·감각만 여는지, 나이·시간 언급이 없는지.
+- 프롬프트 안의 `{단계별 컷 공통 접두}`/`{단계별 컷 공통 접미}`는 위 공통 문장으로 치환해서 사용.
+- 프롤로그 단계는 몽타주가 컷씬 역할을 하고, "이별 이후"(순서18)는 엔딩 화면이 대신하므로 둘 다 단계별 컷씬을 두지 않는다.
