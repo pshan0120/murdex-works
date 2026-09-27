@@ -23,43 +23,102 @@
 </div>
 
 ==========================================================
-일기 다음에 이어지는 "천국에서 해후" (고정 텍스트)
+일기 마지막 편과 "천국에서 해후" 사이의 관찰자 시점 브릿지 (고정 텍스트, 2026-09-27 추가)
+==========================================================
+
+일기(강아지 1인칭, 하루 한 편)와 "천국에서 해후"(마찬가지로 강아지 1인칭)를 표시 없이 바로 이어
+붙였더니, 같은 화자·같은 문체가 계속돼서 어디서 일기가 끝나고 다음 장면이 시작되는지 구분이 안
+된다는 지적을 받았다(사용자 확인). 그래서 그 사이에 3인칭 관찰자 시점으로 짧게 쓴 고정 문단 하나를
+끼운다. 화면에서는 강아지 시점 글(손글씨 폰트)과 다른 기본 폰트, 위아래 구분선으로 구분해 보여준다.
+1문단만으로는 "숨을 거뒀다"와 곧바로 이어지는 "낯선 곳이었다" 사이가 텅 빈 것처럼 느껴진다는 지적을
+받아(2026-09-27, 사용자 확인) 2문단으로 보강했다 — 죽은 뒤 어떻게 됐는지(몸을 조심스레 수습함)와
+정서적 마무리(기다림이 끝남)를 짚어 준다. 이어지는 "천국에서 해후" 첫 문장에도 "어둠 속에서 눈이
+다시 떠졌다"를 붙여, 죽음(눈을 감음) → 암전 → 깨어남(눈을 다시 뜸)의 흐름을 명시적으로 이었다
+(이 문단의 "다시 눈을 뜨지 않았다"와 대구를 이루는 콜백).
+전문은 `기획안_v2_2026-09-22.md` §6 "관찰자 시점 브릿지" 코드블록이 정본이며, 백엔드
+`_STORY_DEATH_BRIDGE_TEXT`(`encore_router.py`)에 같은 본문이 들어 있다.
+
+그날 밤, {dog_name}는(은) 다시 눈을 뜨지 않았다. 이튿날 아침 문을 열고 들어온 보호소 직원이, 웅크린 채 잠든 것처럼 보이는 그 모습을 가장 먼저 보았다. 짧은 확인 끝에, 이미 숨을 거둔 뒤라는 걸 알았다.
+
+작은 몸을 담요로 감싸 안는 손길은 조심스러웠다. 그렇게, 오래 이어지던 기다림도 조용히 끝이 났다.
+
+==========================================================
+브릿지 다음에 이어지는 "천국에서 해후" (고정 텍스트)
 ==========================================================
 
 리와인드는 일기 도구 화면 안에서 일기 다음에 "편지"를 이어서 보여줬다. 새 앙코르는 편지 자리에
 아래 고정 텍스트를 그대로 보여준다(AI 생성 아님). 전문은 `기획안_v2_2026-09-22.md` §6 "천국에서
 해후" 코드블록이 정본이며, 일기 도구(`app/tools/encore/diary-story/page.tsx`) 안에서 일기 뒤에 "계속"을
-눌러 표시한다(백엔드 `_STORY_REUNION_TEXT`에 같은 본문이 들어 있음). 아래는 정본과 동일한 사본.
+눌러 위 브릿지와 함께 표시한다(백엔드 `_STORY_REUNION_TEXT`에 같은 본문이 들어 있음). 아래는 정본과 동일한 사본.
 
-낯선 곳이었다. 냄새도, 소리도, 전부 처음 맡아보는 것들이었다. 그런데 이상하게 무섭지 않았다. 다리가 아프지 않았다. 숨쉬기도 편했다. 마지막으로 기억하는 건 차가운 바닥과 텅 빈 배 속의 허전함뿐이었는데, 지금은 몸이 가볍고 따뜻했다.
+어둠 속에서 눈이 다시 떠졌다. 낯선 곳이었다. 냄새도, 소리도, 전부 처음 맡아보는 것들이었다. 그런데 이상하게 무섭지 않았다. 다리가 아프지 않았다. 숨쉬기도 편했다. 마지막으로 기억하는 건 차가운 바닥과 텅 빈 배 속의 허전함뿐이었는데, 지금은 몸이 가볍고 따뜻했다.
 
 그 많은 낯선 냄새들 사이로, 문득 익숙한 냄새 하나가 스쳤다. 코를 벌름거리며 그 냄새를 쫓았다. 점점 가까워지는 그 냄새에, 저절로 꼬리가 흔들리기 시작했다.
 
-멀리서 주인이 보였다. 예전보다 훨씬 젊어 보였지만, 헷갈릴 리 없었다. 목소리도, 걸음걸이도, 손끝에 밴 냄새도 전부 그대로였다. 있는 힘껏 달렸다. 오랜만에 마음껏 뛰는 다리가 신이 났다.
+멀리서 낯익은 모습이 보였다. 예전보다 훨씬 젊어 보였지만, 헷갈릴 리 없었다. 목소리도, 걸음걸이도, 손끝에 밴 냄새도 전부 그대로였다. 있는 힘껏 달렸다. 오랜만에 마음껏 뛰는 다리가 신이 났다.
 
-품에 안기자, 주인이 {dog_name}를(을) 부르는 소리가 들렸다. 오래전부터 들어온 그 이름이었다. 얼굴을 부비고 손을 핥고 꼬리를 흔드는 것 말고는, 달리 할 수 있는 게 없었다. 그걸로 충분했다.
+품에 안기자, {dog_name}를(을) 부르는 소리가 들렸다. 오래전부터 들어온 그 이름이었다. 얼굴을 부비고 손을 핥고 꼬리를 흔드는 것 말고는, 달리 할 수 있는 게 없었다. 그걸로 충분했다.
 
-한참을 그렇게 안겨 있는데, 주인이 낮은 목소리로 뭔가를 중얼거리기 시작했다. 이상하게도 이번엔 그 말이 전부 알아들렸다. 처음 데려왔을 때 정을 못 줘서 미안했다고, 슬리퍼 일로 화낸 것도 미안했다고, 오래도록 눈길 한번 제대로 주지 않은 것도 미안했다고 했다. "미안하다"는 그 말이, 정작 낯설게만 들렸다. 함께 있던 그 모든 시간 동안, 미안해할 일은 하나도 없었으니까.
+한참을 그렇게 안겨 있는데, 낮은 목소리가 들려왔다. 이상하게도 이번엔 그 말이 전부 알아들렸다. 처음 데려왔을 때 정을 못 줘서 미안했다고, 슬리퍼 일로 화낸 것도 미안했다고, 오래도록 눈길 한번 제대로 주지 않은 것도 미안했다고 했다. "미안하다"는 그 말이, 정작 낯설게만 들렸다. 함께 있던 그 모든 시간 동안, 미안해할 일은 하나도 없었으니까.
 
 처음 만났던 날도, 발밑을 맴돌아도 무심히 지나치던 날도, 슬리퍼를 물어뜯어 혼나던 날도, 다 좋았다. 손이 오건 안 오건, 주인 곁에 있다는 사실 하나만으로 늘 충분했다. 그러다 어느 순간부터 주인의 손이 먼저 다가오기 시작했을 때는, 그저 더 좋아졌을 뿐이었다.
 
 그러니 이제 그 슬픔도 필요 없었다. 몸을 더 바짝 붙이고, 가만히 주인의 품에 얼굴을 묻었다. 다시는 떨어질 일이 없다는 것만, 온몸으로 알 수 있었다.
 
 ==========================================================
+"천국에서 해후" 본문 마지막에 넣을 삽화 (이미지 프롬프트, 2026-09-27 추가)
+==========================================================
+
+위 본문 전체(7문단)를 다 읽은 다음, 마지막에 이 장면 하나를 이미지로 보여준다. 프롤로그 몽타주와
+마찬가지로 **얼굴이 보이는 예외 구간**이다(본편 단서 이미지는 얼굴 크롭 유지 원칙과 무관 — 이미
+게임을 끝까지 마친 뒤라 스포일러 보호가 필요 없음, 위 [제작 메모] 참고).
+
+* 화면 배치: diary-story 위젯 안에서 해후 본문 마지막 문장 뒤에 삽입(엔딩 화면에 별도로 얹지 않음).
+* 인물 나이대: `프롬프트_인물.txt`의 "주인 — 청년기"(20대 후반) 디자인을 그대로 쓴다 — 해후 본문이
+  "예전보다 훨씬 젊어 보였다"고 명시하므로, 몽타주 1~5컷과 동일한 얼굴로 그려야 같은 사람이라는 게
+  보인다. 노년기 디자인을 섞지 말 것.
+* 강아지 나이대: 성견 기준(`프롬프트_신규.txt`의 색상·문양 그대로), 다만 아래처럼 "앉은 자세·흰 배경
+  단독 포즈"가 아니라 장면에 녹아든 역동적인 자세로 바꿔 쓴다.
+* 배경: 특정 종교의 천국 도상(구름바다, 문, 빛줄기가 쏟아지는 계단 등)은 쓰지 않는다 — 본문이 "낯선
+  곳", "냄새도 소리도 처음 맡아보는 것들"이라고만 했지 장소를 규정하지 않았으므로, 초원인지 실내인지도
+  분명하지 않은 부드러운 빛의 공간으로 모호하게 둔다.
+* 순간: "품에 안기자" 직후, 강아지가 뛰어올라 안기고 주인이 웃으며 받아 안는 순간. 본문 어디에도
+  없는 새 소품(목줄, 다른 인물 등)은 넣지 않는다.
+
+이미지 프롬프트:
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A Korean man in his late twenties, ordinary and unremarkable appearance, short neat black hair, simple plain collared shirt, gentle and warm joyful expression, average build, crouching down with both arms open, about to catch a small Yorkshire Terrier dog leaping up into his arms mid-jump, the dog's medium-length slightly shaggy fur with a silvery-grey and black coat on the back fading to tan/golden-brown on the legs and face, small white patch on the chest, ears back and tail mid-wag in joyful motion, both of them clearly smiling and joyful, faces clearly visible. They are surrounded by a soft indistinct glowing space, no clear floor or walls, gentle warm golden light diffusing from everywhere with no visible light source, soft pale mist blending into the light at the edges of the frame, no clouds, no gates, no stairways, no religious iconography of any kind, warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft gold, warm white), thin soft brown outline, warm nostalgic children's picture book aesthetic. Strictly NO text, NO letters, NO words, NO signs in the image. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
+
+Negative prompt: photorealistic, 3D render, exaggerated anime features, chibi, clouds, pearly gates, staircase, religious symbols, halo, wings, text, watermark, other ethnicity, sad expression, crying
+
+파일명(제안): 엔딩_해후_삽화
+
+==========================================================
 [제작 메모]
 - 앞쪽 "이별 이후" 고정 서사는 `기획안_v2` §6의 확정 사항(이웃도 이미 별세해 맡아줄 사람이 없음, 새 입양자를
   등장시키지 않음, 보호소 직원은 냉정하게 그리지 않음, 며칠 사이 식사를 거르며 쇠약해짐)을 그대로 문장으로
-  옮긴 것이다. 강아지가 죽는다는 직접 서술은 일기 다음의 "천국에서 해후" 첫 문단("마지막으로 기억하는 건...")
-  이 처음 암시하도록, 이 앞부분에서는 쇠약해지는 데까지만 쓰고 멈췄다.
+  옮긴 것이다. 이 앞부분("이별 이후" 고정 서사)에서는 쇠약해지는 데까지만 쓰고 멈춘다. 강아지가 죽는다는
+  사실은 일기 마지막 편 다음의 관찰자 시점 브릿지("이미 숨을 거둔 뒤라는 걸 알았다")가 직접 밝힌다
+  (2026-09-27부터 — 이전에는 "천국에서 해후" 첫 문단이 암시만 하는 방식이었으나, 그 사이가 비어 있다는
+  지적을 받아 브릿지를 새로 넣으며 명시적으로 바뀌었다).
 - "새 입양자를 등장시키지 않는 이유"(플레이어 감정이 새 인물에게 분산되면 슬픔이 옅어짐)는 §6 사용자 확정
   사항이므로 문장을 바꿀 때도 이 원칙을 유지할 것.
 - 이 엔딩 화면에서는 플레이어가 이미 게임을 끝까지 마친 상태라 스포일러 보호가 필요 없다.
-- **구현 완료(2026-09-25, 배포 전)**: 백엔드 `GET /api/encore/story-diary`(`encore_router.py`, 새 앙코르 story_id 전용 —
-  게임 전체에서 모은 기억으로 일기 1편을 AI 생성·캐시하고, "천국에서 해후" 고정 텍스트를 함께 내려준다)와 프런트
-  `murdex-web/app/tools/encore/diary-story/page.tsx`(일기 → "계속" 버튼 → 천국에서 해후)를 추가했다. 리와인드가 쓰는
-  `/tools/encore/diary`·`/diary-entry`·`/letter`는 손대지 않았다(서로 전파 금지). iframe 경로가 `/tools/encore/diary`
-  접두라 부모(GameEndingView)의 높이 조절 postMessage를 그대로 쓴다.
-- 캐시는 스키마 변경을 피하려고 기존 `encore_generated_text`의 LETTER 슬롯(방+회원당 1개)을 재사용한다.
-- 시스템 프롬프트는 `기획안_v2` §6 확정본에 두 규칙을 더했다: (11) 자기 자신을 이름으로 3인칭 지칭 금지(기존 코드에서
-  검증된 실수 방지), (12) 기억 목록이 주인 시선이라 주인의 속마음이 섞여 있으니 개는 표정·한숨·손길로만 느낀 것으로 바꿔 쓰기.
-- 아직 안 한 것: 실제 방에서의 생성 결과 검수(튜닝), 신고 버튼(리와인드 화면에는 있음), 단계·질문·이름 기본값(해피)의 DB 등록.
+- **구현 완료·2026-09-27 기준(배포 전)**: 백엔드 `GET /api/encore/story-diary-entry?roomId&day`(`encore_router.py`,
+  새 앙코르 story_id 전용)가 다음 편으로 넘길 때 그 편 하나만 생성한다(한 번에 7편을 다 쓰지 않음). 캐시는 스키마
+  변경 없이 `encore_generated_text`에 entry_type=DIARY_ENTRY, step_id="story-day-N"(N=1~7)으로 저장한다. 프런트
+  `murdex-web/app/tools/encore/diary-story/page.tsx`가 1일째~7일째를 이전/다음으로 넘기고, 마지막 날 "계속" →
+  관찰자 시점 브릿지 → "천국에서 해후" 순으로 보여준다. 리와인드가 쓰는 `/tools/encore/diary`·`/diary-entry`·`/letter`는
+  손대지 않았다(서로 전파 금지). iframe 경로가 `/tools/encore/diary` 접두라 부모(GameEndingView)의 높이 조절
+  postMessage를 그대로 쓴다.
+- 일기 재료는 16개 나이 중 나이마다 1개씩(방+회원+나이로 시드 고정) 골라 7일에 나눠 배정한다. 각 편 생성 전에
+  그 편의 재료만 "강아지가 감각으로 알 수 있는 1인칭 사실"로 먼저 정리하는 단계(`_rewrite_memories_for_dog`)를
+  거쳐, 주인의 속마음·요양원/병원 사정이 새어 들어가는 걸 막는다.
+- 시스템 프롬프트는 `기획안_v2` §6 확정본에서 크게 확장됐다(회상 구조 명시, 개는 손이 없다는 규칙, 앞일 예언 금지 등) —
+  최신 규칙 전문은 `encore_router.py`의 `_STORY_DIARY_SYSTEM_PROMPT_TEMPLATE`가 정본이다. 결과가 규칙을 위반하면
+  `_story_diary_entry_penalty`로 점수를 매겨 최대 4번 재시도하고, 마지막 날 이전 편의 그리움 표현은
+  `_clean_story_diary_entry`가 코드로 삭제한다.
+- 신고 버튼(리와인드 화면과 같은 기능)을 diary-story 화면에도 추가했다. entryType=DIARY_ENTRY, age 필드에
+  날짜 번호(1~7)를 담아 보낸다.
+- 아직 안 한 것: 단계·질문·이름 기본값(해피)의 DB 등록, 문장 반복(예: "그때 주인의 X가 따뜻했다") 추가 튜닝,
+  위 "해후 삽화" 이미지 실제 생성·업로드(프롬프트만 작성됨, 2026-09-27) — URL이 정해지면 `encore_router.py`의
+  `_STORY_REUNION_IMAGE_URL`에 채우면 프런트가 자동으로 해후 본문 마지막에 보여준다.
