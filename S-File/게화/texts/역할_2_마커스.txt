@@ -71,4 +71,154 @@ FBI 수사관
 (해당 사항 없음 — 협력 추리물이라 이 작품에서는 사용하지 않음)
 
 9. 단계별 역할 지침
-(비워둠 — 단계 구조, 조사-추리 라운드, 단서 배치가 확정된 뒤 작성. 참고용 서사 초안은 texts/PC_마커스.txt, texts/NPC_이든.txt 참고)
+
+[대면] (단계_2)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>낯선 안내자</strong>: 바닷길을 반쯤 건넜을 때, 마을 쪽에서 한 남자가 걸어 나옵니다. 자신을 <span class="emphasis">이든 티먼스</span>라고 소개하며, 그도 유출 사고가 섬에 영향을 미쳤는지 확인하러 왔었다고 말합니다.</li>
+      <li><strong>이든의 보고</strong>: 이든은 마을 쪽엔 별다른 이상이 없었다고, 지금 돌아가는 길이라고 합니다.</li>
+      <li><strong>당신의 선택</strong>: 원래 목적지는 유출 사고의 진원지인 연구시설입니다. <span class="character-veyla">베일라</span>에게 마을을 맡기고, 당신은 이든과 함께 그 건물로 향하기로 합니다.</li>
+    </ul>
+  </section>
+</div>
+
+[자유조사] (단계_3)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>시설 둘러보기</strong>: 이든과 함께 건물 안으로 들어왔습니다. 눈에 띄는 대로 살펴보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>쌓인 먼지</strong>: 건물 안 바닥과 집기에 먼지가 두껍게 쌓여 있습니다.</li>
+      <li><strong>뜯지 않은 우편물</strong>: 사무실 한쪽에 뜯지 않은 우편물 몇 개가 그대로 쌓여 있습니다.</li>
+      <li><strong>끊긴 유지보수 일지</strong>: 벽에 걸린 유지보수 점검표는 몇 년 전 기록을 마지막으로 비어 있습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'M-C' 계열 단서 3개가 자동으로 지급되었습니다. 내 단서함을 확인해 보세요.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 1] (단계_4)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>유출 사고 기록 찾기</strong>: 사고 당시 기록을 찾아보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>다급한 표현의 문서</strong>: "위험 등급 상향", "현장 출입 제한" 같은 표현이 반복되는 사고 보고서를 발견합니다.</li>
+      <li><strong>정화 조치 로그</strong>: 실제 방류량과 정화 작업을 적은 로그가 함께 있습니다. 기록된 수치는 크지 않습니다.</li>
+      <li><strong>통상적인 후속 조치</strong>: 사고 이후 조치 기록은 특별 대응이 아니라 정기 점검 수준으로만 이어집니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'M-A' 계열 단서 3개가 자동으로 지급되었습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 2] (단계_5)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>안전 관리 상태 확인하기</strong>: 건물 안 다른 구역도 확인해 보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>응급처치실 표시</strong>: 복도 한쪽에 응급처치실이라고 표시된 구역이 있습니다.</li>
+      <li><strong>유효기간이 남은 물품</strong>: 안에는 유효기간이 아직 지나지 않은 의약품과 산소통이 놓여 있습니다.</li>
+      <li><strong>최근까지의 점검표</strong>: 점검 체크리스트에는 비교적 최근 날짜까지 기록이 남아 있습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'M-E' 계열 단서 3개가 자동으로 지급되었습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 3] (단계_6)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>연구 프로젝트 서류 확인하기</strong>: 더 안쪽 사무실을 뒤져 보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>연구 기획서</strong>: "급속 진화 촉진제 개발"이라는 제목의 기획서를 발견합니다. 예산 승인란에 반려 도장이 찍혀 있습니다.</li>
+      <li><strong>사용 흔적 없는 장비</strong>: 관련 실험 장비로 보이는 것들에 사용한 흔적이 없습니다. 포장이 뜯기지 않은 것도 있습니다.</li>
+      <li><strong>종료 통보문</strong>: 프로젝트 종료를 알리는 짧은 통보문이 있습니다. 사유는 "실적 미달"이라고만 적혀 있습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'M-B' 계열 단서 3개가 자동으로 지급되었습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 4] (단계_7)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>이든의 말과 맞춰보기</strong>: 베일라와 통화하며 서로 알아낸 걸 나눠 보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>어긋나는 이야기</strong>: 베일라가 마을에서 본 것들을 전합니다. 이든이 아까 "마을엔 별다른 이상이 없었다"고 한 말과는 내용이 다릅니다.</li>
+      <li><strong>애매한 대답</strong>: 이든에게 다시 물어보니, "잠깐 둘러본 거라 자세히는 못 봤을 수도 있다"는 대답이 돌아옵니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'M-D' 계열 단서 3개가 자동으로 지급되었습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 5] (단계_8)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>불안한 통화</strong>: 베일라의 목소리가 점점 지쳐가는 게 느껴집니다. 괜찮다는 대답이 예전만큼 믿기지 않습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 6] (단계_9)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-marcus">마커스</span></div>
+    <ul class="goal-list">
+      <li><strong>말을 잇지 못하는 베일라</strong>: 마지막 통화에서 베일라가 더 이상 제대로 말을 잇지 못합니다. 바닷길이 다시 열리는 대로 섬으로 향해야 합니다.</li>
+    </ul>
+  </section>
+</div>

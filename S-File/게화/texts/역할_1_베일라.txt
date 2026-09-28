@@ -69,4 +69,153 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
 (해당 사항 없음 — 협력 추리물이라 이 작품에서는 사용하지 않음)
 
 9. 단계별 역할 지침
-(비워둠 — 단계 구조, 조사-추리 라운드, 단서 배치가 확정된 뒤 작성. 참고용 서사 초안은 texts/PC_베일라.txt, texts/NPC_이든.txt 참고)
+
+[대면] (단계_2)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>낯선 안내자</strong>: 바닷길을 반쯤 건넜을 때, 마을 쪽에서 한 남자가 걸어 나옵니다. 자신을 <span class="emphasis">이든 티먼스</span>라고 소개하며, 그도 유출 사고가 섬에 영향을 미쳤는지 확인하러 왔었다고 말합니다.</li>
+      <li><strong>이든의 보고</strong>: 이든은 마을 쪽엔 별다른 이상이 없었다고, 지금 돌아가는 길이라고 합니다.</li>
+      <li><strong>당신의 선택</strong>: 이든의 말만으로 넘어갈 수는 없습니다. 이런 곳이 어떻게 돌아가는지는 직접 봐야 아는 법입니다. 마커스가 원래 목적지인 연구시설 쪽으로 향하는 동안, 당신은 직접 마을을 확인해보기로 합니다.</li>
+    </ul>
+  </section>
+</div>
+
+[자유조사] (단계_3)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>마을 둘러보기</strong>: 혼자 마을 안으로 들어왔습니다. 눈에 띄는 대로 마을 곳곳을 살펴보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>인기척 없는 마을</strong>: 골목을 몇 개 지나도, 집집마다 문을 두드려도 사람의 기척이 없습니다. 한 집은 문이 잠겨 있지 않았고, 식탁 위에 그릇이 그대로 놓여 있었습니다. 부두에는 배 몇 척이 매인 채로 있을 뿐, 사람은 보이지 않습니다.</li>
+      <li><strong>낡은 표지판</strong>: 마을 입구에 세워진 낡은 표지판에, 페인트로 적힌 영문 표기가 남아 있습니다. "CRABIS."</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'V-A' 계열 단서 3개와 'CRABIS 표지판' 단서가 자동으로 지급되었습니다. 내 단서함을 확인해 보세요.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 1] (단계_4)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>침입이나 몸싸움의 흔적 확인하기</strong>: 강제로 끌려간 흔적이 있는지 살펴보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>멀쩡한 문들</strong>: 지금까지 본 문 중 부서지거나 억지로 열린 흔적이 있는 건 하나도 없습니다. 핏자국도 보이지 않습니다.</li>
+      <li><strong>뒤진 서랍</strong>: 한 집은 서랍이 전부 열려 있었습니다. 다만 방 안 다른 물건들은 흐트러지지 않은 채였습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'V-B' 계열 단서 3개가 자동으로 지급되었습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 2] (단계_5)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>시점 가늠하기</strong>: 이 일이 언제쯤 벌어졌는지 실마리를 찾아보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>상하지 않은 음식</strong>: 몇몇 집 부엌에 그대로 남아 있는 음식은 아직 상하지 않았습니다.</li>
+      <li><strong>온기가 남은 화덕</strong>: 한 집 화덕에는 최근 불을 땐 흔적이 남아 있습니다.</li>
+      <li><strong>정리되지 않은 이불</strong>: 어느 침실은 이불이 정리되지 않은 채였습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'V-C' 계열 단서 3개가 자동으로 지급되었습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 3] (단계_6)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>마을회관 살펴보기</strong>: 마을에서 가장 큰 건물로 들어가 봅니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>정리되다 만 의자들</strong>: 접이식 의자 여러 개가 벽에 기대 세워져 있습니다.</li>
+      <li><strong>제자리를 벗어난 병원 침대</strong>: 안쪽 별실에 병원 침대 하나가 제자리로 밀어넣어지지 않은 채 놓여 있습니다.</li>
+      <li><strong>확인 표시가 된 명단</strong>: 이름이 적히고 하나하나 확인 표시가 된 종이 한 장이 있습니다. 마을 가구 수만큼의 이름이 모두 체크되어 있습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'V-D' 계열 단서 3개가 자동으로 지급되었습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 4] (단계_7)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>흔적 따라가기</strong>: 병원 침대가 있던 자리를 다시 살펴보세요.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>바퀴 자국</strong>: 병원 침대의 바퀴 자국이 별실 바닥에서 바깥쪽으로 이어지다 흐려집니다.</li>
+      <li><strong>다져진 흔적</strong>: 그 방향으로, 풀이 눌리거나 다져진 좁은 흔적이 이어집니다.</li>
+      <li><strong>끊긴 흔적</strong>: 한참을 따라가자, 흔적은 마을에서 멀리 떨어진 바위틈 사이에서 끊깁니다. 그 안쪽은 보이지 않습니다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">단서 안내</div>
+    <ul class="goal-list">
+      <li>'V-E' 계열 단서 3개가 자동으로 지급되었습니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 5] (단계_8)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>말을 듣지 않는 몸</strong>: 손이 뻣뻣하게 오그라들고, 말이 잘 나오지 않습니다. 마커스와의 통화에 집중하는 것도 점점 힘겨워집니다.</li>
+    </ul>
+  </section>
+</div>
+
+[라운드 6] (단계_9)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>마지막 통화</strong>: 마커스에게 뭔가 전하려 하지만, 입 밖으로 나오는 건 온전한 문장이 아닙니다.</li>
+    </ul>
+  </section>
+</div>
