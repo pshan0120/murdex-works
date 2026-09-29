@@ -20,29 +20,19 @@ watercolor illustration, absolutely NO borders, NO margins, NO frames.
 - 장면 분위기에 따라 중간 털/아주 짧은 털로 자유 교체 가능
 
 --- 사람 묘사 (주인이 등장하는 장면에 붙임) ---
-only an elderly Korean man's thin arms, hands, and torso visible, wearing a
-simple worn cardigan or knit sweater in muted colors appropriate to the
-season, face and head completely out of frame (cropped out), strictly NO
-human face visible
-(2026-09-23 확정: 리와인드처럼 "성별 불명"으로 쓰지 않음 — 새 스토리는 특정 노인 캐릭터로
-확정됐으므로 "an elderly Korean man's"로 명시. 이웃 노인 등 제3의 인물이 등장하는 장면은
-별도로 "an elderly Korean neighbor's"처럼 구분해서 표기해뒀다.)
+- 여름 (6~8월): only an elderly Korean man's thin arms, hands, and torso visible, wearing a light summer short-sleeve shirt or linen top in muted colors, face and head completely out of frame (cropped out), strictly NO human face visible
+- 겨울 (12~2월): only an elderly Korean man's thin arms, hands, and torso visible, wearing a warm thick knit sweater or fleece loungewear in muted colors, face and head completely out of frame (cropped out), strictly NO human face visible
+- 봄/가을: only an elderly Korean man's thin arms, hands, and torso visible, wearing a simple worn cardigan or light knit sweater in muted colors appropriate to the season, face and head completely out of frame (cropped out), strictly NO human face visible
 
---- 공통 접미 (모든 프롬프트 맨 뒤) ---
-warm and sincere mood, soft watercolor illustration style, gentle color
-bleeding and blending at the edges, muted pastel palette (cream, dusty pink,
-soft blue, warm wood tones), thin soft brown outline, warm nostalgic
-children's picture book aesthetic, gentle diffused lighting. Set in South
-Korea, in and around a modest older detached single-family house with a small
-yard — NOT an apartment or high-rise. If indoors, a plain modest
-traditional-style single-family home interior with wooden or ondol-heated
-floors, humans barefoot or in socks. Absolutely no text, no letters, no
-words, no signs, no borders, no frames, no decorative corners.
+--- 공통 접미 (화풍 및 공간 설정) ---
+warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting.
+[장소별 공간 설정]
+- 마당/현관 외관: Set in South Korea, in the yard of a modest modern suburban detached house matching house_exterior.jpg reference (cream-beige exterior walls, tiled entrance porch with a square pillar, wooden front door, small green lawn yard with rectangular stepping stones, low garden wall), strictly NOT a Hanok, NOT an apartment. (레퍼런스: house_exterior.jpg 추가)
+- 집 실내: Set in South Korea, inside a modest cozy modern detached house interior with warm light wooden floors, modern standing furniture, simple modern windows and furnishings, barefoot or in socks, strictly NOT a Hanok, NOT traditional style.
+- 공공/거리: Set in South Korea, in a quiet modest modern suburban setting, strictly NOT an apartment high-rise, NOT a Hanok.
 
---- 공통 Negative prompt ---
-realistic, photorealistic, photo, 3D render, other dog breed, chibi, kawaii
-exaggerated, apartment building, high-rise, text, watermark, human face,
-visible human face
+--- 필수 Negative / Avoid ---
+Avoid: Hanok, traditional Korean tile roof, giwa, daecheong-maru, wooden lattice doors, human face, human head, visible facial features, apartment high-rise, text, signs, letters, words, oversized dog, borders, margins, photo, 3D render.
 
 ====================================================================
 1단계 (1살)
