@@ -2,18 +2,23 @@
 
 StoryID : 488dc2d2-b646-4b64-80a9-9ebf6343dffd
 
-이 문서는 게임 내의 모든 조사 가능한 단서를 정리한 것입니다.
+이 문서는 게임 내의 모든 조사 가능한 단서를 정리한 것입니다. **베일라 1~4단계 → 마커스 1~4단계 순으로, 같은 단계끼리 나란히 비교할 수 있도록 정렬돼 있습니다.**
 
-※ 중요: 이전 버전(V-A~V-E, M-A~M-E 31개)은 반복·군더더기가 많다는 지적을 받고 전체 폐기했습니다. 이 파일은 그 자리를 대신해, 기획안.md 8-2에서 논의·확정된 단서만 담습니다. 베일라 측 조사는 [낯선 이웃]→[드러나는 정체]→[관찰 기록 확보]→[진료소 조사] 4단계로 재설계했으며, 여기까지 전부 확정되어 반영되어 있습니다. 마커스 측은 아직 없습니다.
-※ 4단계 참고: "마을회관"이라는 별도 건물은 없고, 예전에 항구 관리소였던 빈 건물을 이든이 진료실 겸 자기 방으로 쓰고 있습니다(4장 참고). 1단계 안내 지도에는 이든이 오기 전 기준이라 이 위치가 없어서, 베일라는 1단계에서 이곳을 아예 찾지 못합니다 — 3단계 카버의 집#10에서 위치를 알아낸 뒤에야 4단계에서 처음 찾아가는 것(재조사가 아니라 첫 방문). 녹음기(진료소#1)·수첩(진료소#4)·향수(진료소#5)·침구(진료소#6)는 방 안에서, 병원 침대(진료소#2)·주차 공간(진료소#3)은 건물 밖에서 발견됩니다. 수첩의 외계 문자는 이번 단계에서 전혀 해독되지 않으며, 해독에 필요한 정보는 마커스 루트(미설계)에서 나올 예정입니다.
-※ 이든의 진짜 모습 참고: 이든은 문어처럼 의태하는 종족이라 잠들 때는 형태를 유지할 수 없어, 매일 밤 해안에서 본모습으로 돌아와 잔다(어부의 집#3, 카버의 집#10, 진료소#6이 전부 이와 연결되지만 텍스트로는 전혀 확정하지 않음). 어부의 집#1의 새우·랍스터 감소·게 증가도 이든의 이 습관과 연구시설에서 유출된 물질이 우연히 겹쳐 일어난 일입니다(기획안.md 7장, 9장 진실1 참고).
-※ 2단계 참고: 잠긴 기록함(관찰 기록)은 2단계가 아니라 3단계([관찰 기록 확보])에서 처음 등장합니다. 여는 데 필요한 날짜(8자리 숫자)는 마커스가 연구시설 쪽 단서를 통해서만 확보하며, 2단계 카버의 집 단서들은 "그날이 특별하다"는 것만 드러낼 뿐 날짜 숫자는 절대 주지 않습니다.
-※ 3단계 참고: 잠긴 상자 안 관찰 기록은 에드거·월터·헤일 부부·이든 네 사람을 동등한 형식(순수 행동 묘사)으로 다루어, 이든 항목만 유독 튀지 않게 합니다. 마을의 75년 전 실종 옛이야기는 에드거 항목에, 이든의 진료소 위치는 이든 항목 마지막 문단에 자연스럽게 포함시켰습니다.
-※ 참고: 게화는 협력 추리물이라 상대에게 숨기는 개별 비밀 단서가 없습니다. 전원 자동 지급형이라 "교환 가능 여부", "획득 조건" 계열 필드는 대부분 N/없음이지만, 3단계(카버의 집 잠긴 상자)부터는 코드 입력 등 실제 획득 조건이 생깁니다.
+※ 중요: 이전 버전(V-A~V-E, M-A~M-E 31개)은 반복·군더더기가 많다는 지적을 받고 전체 폐기했습니다. 이 파일은 그 자리를 대신해, 기획안.md 8-2·8-2-M에서 논의·확정된 단서만 담습니다. 베일라 측은 [낯선 이웃]→[드러나는 정체]→[관찰 기록 확보]→[진료소 조사], 마커스 측은 [연구시설 조사]→[통제구역]→[비밀 공간, 오웬과의 조우]→[가장 깊은 곳, 유출 현장] 4단계로 설계했으며, 1단계까지 실제 단서로 반영돼 있습니다(진행 중).
+※ 마커스 1단계 참고: 위장(가짜 수산물 공장)은 별도 단계가 아니라 1단계 안의 배경 디테일입니다(연구시설#1·#2). 연구시설#9에서 발견되는 "오웬 프라이스"라는 이름은 아직 정체를 알 수 없는 상태로 1차 통화에서 베일라에게 전달되며, 카버의 집#5(다이얼 자물쇠 서랍)을 여는 키워드로 쓰입니다 — 코드 없이도 2단계 진행은 가능한 순수 보너스입니다.
+※ 4단계 참고: "마을회관"이라는 별도 건물은 없고, 예전에 항구 관리소였던 빈 건물을 이든이 진료실 겸 자기 방으로 쓰고 있습니다(4장 참고). 1단계 안내 지도에는 이든이 오기 전 기준이라 이 위치가 없어서, 베일라는 1단계에서 이곳을 아예 찾지 못합니다 — 3단계 카버의 집#10에서 위치를 알아낸 뒤에야 4단계에서 처음 찾아가는 것(재조사가 아니라 첫 방문). 녹음기(진료소#1)·수첩(진료소#4)·향수(진료소#5)·침구(진료소#6)는 방 안에서, 병원 침대(진료소#2)·주차 공간(진료소#3)은 건물 밖에서 발견됩니다. 수첩의 외계 문자는 이번 단계에서 전혀 해독되지 않으며, 해독에 필요한 정보는 마커스 루트(진행 중)에서 나올 예정입니다.
+※ 이든의 진짜 모습 참고: 이든은 문어처럼 의태하는 종족이라 잠들 때는 형태를 유지할 수 없어, 매일 밤 해안에서 본모습으로 돌아와 잔다(어부의 집#3, 카버의 집#10, 진료소#6이 전부 이와 연결되지만 텍스트로는 전혀 확정하지 않음). 어부의 집#1의 새우·랍스터 감소·게 증가는 이든과는 완전히 무관하며, 연구시설에서 만성적으로 바다에 새어나온 실험 물질만으로 설명된다(2026-10-01 개정, 기획안.md 6-1·7장·9장 진실1 참고). 이든은 이 현상과 무관하게, 밤마다 게를 잡아먹으며 부수적 혜택만 누린다.
+※ 마커스 쪽 단서(연구시설 조사) 참고: 이 파일의 마커스 1단계 단서(clue_08~16)는 2026-10-01 연구시설 배경사 전면 개정(기획안.md 11장 참고 — 위장 간판 삭제, 마이어스가 8년째 계속 소장, 급수 오염으로 인한 연구원 전원 사망 등) 이전 설정 기준으로 쓰여 있어 전부 무효입니다. 다음 작업에서 새 설정에 맞춰 처음부터 다시 씁니다.
+※ 2단계 참고: 대니의 수첩(카버의 집#4)은 "그날이 특별하다"는 것만 드러낼 뿐 날짜 숫자는 절대 주지 않습니다.
+※ 3단계 참고: 숨겨진 공간(카버의 집#6)은 코드 없이 자유롭게 찾아 들어갈 수 있습니다 — 마커스 쪽에서 통화로 전해준 "대니가 요즘 집에만 틀어박혀 있다"는 이든의 (거짓 아닌) 말이 이걸 더 뒤져보는 계기입니다. 안의 종이 기록(카버의 집#7~11)도 전부 코드 없이 자유롭게 얻습니다 — 진행에 필요한 정보(75년 전 옛이야기, 진료소 위치, 섬 북쪽 만의 흔적)가 여기 있으니 절대 막히면 안 됩니다. 구석의 작은 금고(카버의 집#12)만 8자리 코드(대니의 수첩 "특별한 날" + 마커스가 확보한 정확한 날짜를 조합)가 필요하며, 이건 순수 보너스 — 못 열어도 진행에는 지장 없고 마지막 진실 판정에만 영향을 줍니다.
+※ 참고: 게화는 협력 추리물이라 상대에게 숨기는 개별 비밀 단서가 없습니다. 전원 자동 지급형이라 "교환 가능 여부", "획득 조건" 계열 필드는 대부분 N/없음이지만, 카버의 집#12(금고)·카버의 집#5(잠긴 서랍)만 예외적으로 코드/키워드 입력 조건이 있습니다 — 단, 이건 진행 차단용이 아니라 보너스 정보용입니다.
 ※ 인물 참고: 카버는 대니 카버 1인 가구입니다(에밀리는 삭제됨). 오컬트 신봉자가 아니라 초자연적 현상을 추적하는 아마추어 연구자로 설정되어 있습니다.
 ※ 페어플레이 원칙(내용/HTML 필드): 관찰 가능한 원재료만 제공하고, 계절·경과 연수·유사성·반복 패턴 등 어떤 형태의 요약·비교·결론도 서술자가 대신 내려주지 않습니다. [[feedback_clue_fairplay_observability]] 참고.
+※ 번호 규칙(2026-10-01): clue_XX 식별자와 "이름" 필드의 #N은 항상 이 파일에 실제로 나열된 순서(정렬순서 기준)와 일치하도록 유지합니다. 단서를 추가·삭제·재배치할 때마다 뒤따르는 모든 항목의 번호를 다시 매깁니다.
 
 ---
+
+## 베일라 1단계 [낯선 이웃]
 
 
 [clue_01]
@@ -52,11 +57,99 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An old faded photograph held in hand, two men standing side by side outdoors, lush summer trees behind them, other passersby in short sleeves, one of the two men wearing thin gloves. A handwritten date faintly visible at the bottom edge. Grainy sepia-toned vintage photograph texture, contrasted against the cooler teal-black tone of the present-day frame around it.
-단서 그룹 : 크래비스 섬
+단서 그룹 : 크래비스 섬 - 마을
 파일명 : 01_베일라_촌장의_집_1
 
 
 [clue_02]
+이름 : 촌장의 집#2
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 그룹 GroupID)
+유형 : 물증
+단계 : [낯선 이웃] (베일라, 1단계)
+소모AP : 0
+정렬순서 : 15
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 마을 사람들이 각자 무슨 일을 하는지 한눈에 보여주는 명단. 예전 항구 관리인 시절부터 정리해온 습관이라는 설정(작가 전용). 이든에 대한 어떤 암시도 담지 않는다 — 그는 최근에 들어온 외부인이라 이 명단에 없다.
+내용 :
+서랍 안, 에드거가 손으로 정리해둔 주민 명단이 있다. 이름과 하는 일이 나란히 적혀 있다.
+
+에드거 홀트 — 항구 관리인(은퇴)
+톰 헤일 — 어부
+그레이스 헤일 — 어부(톰 헤일의 배우자)
+월터 오스본 — 잡화점 운영
+대니 카버 — 무직
+HTML :
+<div class="story-content">
+  <div class="script-direction">서랍 안, 에드거가 손으로 정리해둔 주민 명단이 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">에드거 홀트 — 항구 관리인(은퇴)</div>
+    <div class="document-body small">톰 헤일 — 어부</div>
+    <div class="document-body small">그레이스 헤일 — 어부(톰 헤일의 배우자)</div>
+    <div class="document-body small">월터 오스본 — 잡화점 운영</div>
+    <div class="document-body small">대니 카버 — 무직</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten resident list in a drawer, names and occupations in neat columns, modest household setting. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 마을
+파일명 : 02_베일라_촌장의_집_2
+
+
+[clue_03]
+이름 : 촌장의 집#3
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 그룹 GroupID)
+유형 : 물증
+단계 : [낯선 이웃] (베일라, 1단계)
+소모AP : 0
+정렬순서 : 16
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 각 주민이 어떤 차를 갖고 있는지 미리 알려주는 핵심 물증 — 특히 월터가 배달용 밴을 갖고 있다는 걸 여기서 처음 확정한다. 4단계 진료소 주차 공간에서 "월터의 밴만 없다"는 게 무슨 뜻인지 알아채려면 이 목록이 먼저 있어야 한다.
+내용 :
+같은 서랍 안, 차량 목록도 함께 적혀 있다.
+
+에드거 홀트 — 픽업트럭
+톰·그레이스 헤일 — 픽업트럭(공동)
+월터 오스본 — 배달용 밴
+대니 카버 — 세단
+HTML :
+<div class="story-content">
+  <div class="script-direction">같은 서랍 안, 차량 목록도 함께 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">에드거 홀트 — 픽업트럭</div>
+    <div class="document-body small">톰·그레이스 헤일 — 픽업트럭(공동)</div>
+    <div class="document-body small">월터 오스본 — 배달용 밴</div>
+    <div class="document-body small">대니 카버 — 세단</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten vehicle registry list in the same drawer, names paired with simple vehicle types. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 마을
+파일명 : 03_베일라_촌장의_집_3
+
+
+[clue_04]
 이름 : 잡화점#1
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -101,11 +194,11 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. Close-up of a handwritten general store order ledger open on a wooden counter, rows of dates and small handwritten item lists, dim shop lighting. Grainy 16mm film still, desaturated cool teal-black color grade, 1990s X-Files-style investigative photography.
-단서 그룹 : 크래비스 섬
-파일명 : 02_베일라_잡화점_1
+단서 그룹 : 크래비스 섬 - 마을
+파일명 : 04_베일라_잡화점_1
 
 
-[clue_03]
+[clue_05]
 이름 : 어부의 집#1
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -146,11 +239,11 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A weathered fisherman's logbook open on a shelf, handwritten monthly catch tallies in faded ink, soft window light. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 03_베일라_어부의_집_1
+단서 그룹 : 크래비스 섬 - 마을
+파일명 : 05_베일라_어부의_집_1
 
 
-[clue_04]
+[clue_06]
 이름 : 어부의 집#2
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -192,12 +285,12 @@ HTML :
   <div class="script-direction">그 뒤로 같은 수신처의 영수증은 보이지 않는다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small bundle of old handwritten sales receipts tied with string, faded ink, dates visible, soft indoor light. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 04_베일라_어부의_집_2
+단서 그룹 : 크래비스 섬 - 마을
+파일명 : 06_베일라_어부의_집_2
 
 
-[clue_05]
-이름 : 촌장의 집#2
+[clue_07]
+이름 : 어부의 집#3
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
 이미지 : (추후 업로드 예정)
@@ -205,7 +298,7 @@ groupId : (크래비스 섬 그룹 GroupID)
 유형 : 물증
 단계 : [낯선 이웃] (베일라, 1단계)
 소모AP : 0
-정렬순서 : 15
+정렬순서 : 45
 중요도 : 보통
 핵심 단서 여부 : N
 교환 가능 여부 : N
@@ -215,42 +308,69 @@ groupId : (크래비스 섬 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 마을 사람들이 각자 무슨 일을 하는지 한눈에 보여주는 명단. 예전 항구 관리인 시절부터 정리해온 습관이라는 설정(작가 전용). 이든에 대한 어떤 암시도 담지 않는다 — 그는 최근에 들어온 외부인이라 이 명단에 없다.
+의도 : 이든이 밤마다 해안에서 본모습으로 돌아와 잠든다는 것(작가 전용, 7장 "진짜 모습" 참고)을 암시하는 목격담. 톰의 1인칭 진술 형태로, "사람만 한 크기의 무언가"라는 표현 이상으로는 정체를 특정하지 않는다 — 그게 사람인지 아닌지조차 텍스트가 단정하지 않는다. "물개바위"라는 지명은 1차 통화에서 마커스에게 전해지는 실마리(단어) — 라이트 시절 생태 조사 기록에 같은 지명이 쓰였을 것이라는 설정과 연결된다(8-2-M 참고). 이 지명 자체는 순수 지리적 정보라 페어플레이 위반이 아니다.
 내용 :
-서랍 안, 에드거가 손으로 정리해둔 주민 명단이 있다. 이름과 하는 일이 나란히 적혀 있다.
+어획일지 사이에 끼워진 메모 한 장, 톰의 필체다.
 
-에드거 홀트 — 항구 관리인(은퇴)
-톰 헤일 — 어부
-그레이스 헤일 — 어부(톰 헤일의 배우자)
-월터 오스본 — 잡화점 운영
-대니 카버 — 무직
+"게가 늘기 시작하고 얼마 안 됐을 때, 엔진이 말썽을 부려 예정보다 늦게, 날이 다 저문 뒤에야 섬으로 돌아온 적이 있다. 해안 가까이 배를 대다가 파도치는 물가에서 사람만 한 크기의 무언가를 본 것 같았다. 하필 마을 사람들이 옛날부터 '물개바위'라고 부르던 자리였다. 다시 보니 아무것도 없었다."
 HTML :
 <div class="story-content">
-  <div class="script-direction">서랍 안, 에드거가 손으로 정리해둔 주민 명단이 있다.</div>
+  <div class="script-direction">어획일지 사이에 끼워진 메모 한 장, 톰의 필체다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">에드거 홀트 — 항구 관리인(은퇴)</div>
-    <div class="document-body small">톰 헤일 — 어부</div>
-    <div class="document-body small">그레이스 헤일 — 어부(톰 헤일의 배우자)</div>
-    <div class="document-body small">월터 오스본 — 잡화점 운영</div>
-    <div class="document-body small">대니 카버 — 무직</div>
+    <div class="document-body small">"게가 늘기 시작하고 얼마 안 됐을 때, 엔진이 말썽을 부려 예정보다 늦게, 날이 다 저문 뒤에야 섬으로 돌아온 적이 있다. 해안 가까이 배를 대다가 파도치는 물가에서 사람만 한 크기의 무언가를 본 것 같았다. 하필 마을 사람들이 옛날부터 '물개바위'라고 부르던 자리였다. 다시 보니 아무것도 없었다."</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten resident list in a drawer, names and occupations in neat columns, modest household setting. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 05_베일라_촌장의_집_2
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten note slipped between the pages of a fisherman's logbook, plain first-person account. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 마을
+파일명 : 07_베일라_어부의_집_3
 
 
-[clue_24]
-이름 : 촌장의 집#3
+## 마커스 1단계 [연구시설 조사]
+
+
+[clue_08]
+이름 : 연구시설#1
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
 이미지 : (추후 업로드 예정)
-groupId : (크래비스 섬 그룹 GroupID)
+groupId : (연구시설 그룹 GroupID)
 유형 : 물증
-단계 : [낯선 이웃] (베일라, 1단계)
+단계 : [연구시설 조사] (마커스, 1단계)
 소모AP : 0
-정렬순서 : 16
+정렬순서 : 5
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 이 건물이 실제로는 수산물 가공 공장으로 기능한 적이 없다는 걸 암시하는 물증. "그러니 위장이다" 같은 결론은 넣지 않고 관찰 사실만 제공한다.
+내용 :
+정문 옆, "스미스 수산 가공(Smith Seafood Processing)" 간판이 녹슬어 반쯤 떨어져 있다. 안으로 들어서자 가공 설비들이 먼지를 뒤집어쓴 채 늘어서 있는데, 어느 기계 위에도 상자나 포장재 하나 놓여 있지 않다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">정문 옆, "스미스 수산 가공(Smith Seafood Processing)" 간판이 녹슬어 반쯤 떨어져 있다.</div>
+  <div>안으로 들어서자 가공 설비들이 먼지를 뒤집어쓴 채 늘어서 있는데, 어느 기계 위에도 상자나 포장재 하나 놓여 있지 않다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A rusted, half-fallen "Smith Seafood Processing" sign beside an entrance, dusty idle processing machinery inside with no product crates anywhere. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 08_마커스_연구시설_1
+
+
+[clue_09]
+이름 : 연구시설#2
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 그룹 GroupID)
+유형 : 물증
+단계 : [연구시설 조사] (마커스, 1단계)
+소모AP : 0
+정렬순서 : 10
 중요도 : 높음
 핵심 단서 여부 : Y
 교환 가능 여부 : N
@@ -259,32 +379,278 @@ groupId : (크래비스 섬 그룹 GroupID)
 획득 조건 내용 : 없음
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
-관련 : 베일라
-의도 : 각 주민이 어떤 차를 갖고 있는지 미리 알려주는 핵심 물증 — 특히 월터가 배달용 밴을 갖고 있다는 걸 여기서 처음 확정한다. 4단계 진료소 주차 공간에서 "월터의 밴만 없다"는 게 무슨 뜻인지 알아채려면 이 목록이 먼저 있어야 한다.
+관련 : 마커스
+의도 : 진짜 입구가 따로 있다는 걸 보여주는 핵심 물증. 낡은 설비들 사이에서 그 냉동고 손잡이 주변만 유독 자주 쓰인 흔적이 있다는 사실만 제공하고, "누가 최근에도 드나든다" 같은 결론은 다음 단계로 넘긴다.
 내용 :
-같은 서랍 안, 차량 목록도 함께 적혀 있다.
-
-에드거 홀트 — 픽업트럭
-톰·그레이스 헤일 — 픽업트럭(공동)
-월터 오스본 — 배달용 밴
-대니 카버 — 세단
+안쪽 벽면의 낡은 냉동고, 문에 최신형 키패드 잠금장치가 달려 있다. 나머지 설비들 사이에서 유독 새것처럼 반짝인다. 손잡이 주변만 먼지가 닦여 반질반질하고, 나머지 바닥과 벽은 전부 먼지투성이다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">같은 서랍 안, 차량 목록도 함께 적혀 있다.</div>
+  <div class="script-direction">안쪽 벽면의 낡은 냉동고, 문에 최신형 키패드 잠금장치가 달려 있다.</div>
+  <div>나머지 설비들 사이에서 유독 새것처럼 반짝인다. 손잡이 주변만 먼지가 닦여 반질반질하고, 나머지 바닥과 벽은 전부 먼지투성이다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An old walk-in freezer door among dusty disused equipment, fitted with an incongruous modern keypad lock, the handle area worn clean while everything around it is coated in dust. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 09_마커스_연구시설_2
+
+
+[clue_10]
+이름 : 연구시설#3
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 그룹 GroupID)
+유형 : 물증
+단계 : [연구시설 조사] (마커스, 1단계)
+소모AP : 0
+정렬순서 : 20
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 유출 사고가 공식적으로는 다급하게 처리됐다는 인상을 주는 물증. 출입구 근처에 붙어 있어 위장을 뚫기 전에도 눈에 띈다. 실제 심각도에 대한 판단은 전혀 넣지 않고 공지문 원문만 인용한다. 1차 통화에서 베일라의 "실제론 게만 많을 뿐 위험 없다"는 관찰과 맞춰야만 "과장됐다"는 결론에 닿는다(6장, 8-2-M 참고).
+내용 :
+사무실 게시판에 붙은 공지문 한 장.
+
+"해당 구역 위험 등급 상향 조정. 현장 출입 제한. 관련 부서는 즉시 대응 절차를 개시할 것."
+
+날짜는 몇 주 전으로 찍혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">사무실 게시판에 붙은 공지문 한 장.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">에드거 홀트 — 픽업트럭</div>
-    <div class="document-body small">톰·그레이스 헤일 — 픽업트럭(공동)</div>
-    <div class="document-body small">월터 오스본 — 배달용 밴</div>
-    <div class="document-body small">대니 카버 — 세단</div>
+    <div class="document-body small">"해당 구역 위험 등급 상향 조정. 현장 출입 제한. 관련 부서는 즉시 대응 절차를 개시할 것."</div>
+  </div>
+  <div class="script-direction">날짜는 몇 주 전으로 찍혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A stark bureaucratic notice pinned to an office corkboard, urgent bolded warning language, official letterhead. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 10_마커스_연구시설_3
+
+
+[clue_11]
+이름 : 연구시설#4
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 그룹 GroupID)
+유형 : 물증
+단계 : [연구시설 조사] (마커스, 1단계)
+소모AP : 0
+정렬순서 : 30
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 공지문의 다급한 언어와 달리 실제 방류량은 크지 않다는 걸 보여주는 물증. "그러니까 별거 아니다" 같은 요약은 넣지 않고 수치만 그대로 제공한다.
+내용 :
+책상 위 방류량 기록표.
+
+"유출 추정량: 약 40리터. 정화 조치: 흡착포 설치, 인근 수질 샘플 채취."
+
+표 아래에 담당자 서명이 한 줄 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 위 방류량 기록표.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">"유출 추정량: 약 40리터. 정화 조치: 흡착포 설치, 인근 수질 샘플 채취."</div>
+  </div>
+  <div class="script-direction">표 아래에 담당자 서명이 한 줄 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A simple discharge-volume log sheet on a desk, modest handwritten numbers, a single signature line beneath. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 11_마커스_연구시설_4
+
+
+[clue_12]
+이름 : 연구시설#5
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 그룹 GroupID)
+유형 : 물증
+단계 : [연구시설 조사] (마커스, 1단계)
+소모AP : 0
+정렬순서 : 40
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 대형 사고라면 있어야 할 특별 대응 절차가 없다는 부재 사실만 제공. "그러니 심각하지 않았다"는 결론은 넣지 않는다.
+내용 :
+같은 서류철 안, 사고 대응 기록은 딱 한 장뿐이다. 비상 대책 회의록이나 특별 지시 문서는 없고, 문서는 "정기 점검 일정에 따라 후속 확인 예정"이라는 문장으로 끝난다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">같은 서류철 안, 사고 대응 기록은 딱 한 장뿐이다.</div>
+  <div>비상 대책 회의록이나 특별 지시 문서는 없고, 문서는 "정기 점검 일정에 따라 후속 확인 예정"이라는 문장으로 끝난다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A thin file folder containing a single incident response page, plain bureaucratic closing line, no emergency meeting minutes attached. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 12_마커스_연구시설_5
+
+
+[clue_13]
+이름 : 연구시설#6
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 그룹 GroupID)
+유형 : 물증
+단계 : [연구시설 조사] (마커스, 1단계)
+소모AP : 0
+정렬순서 : 50
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 이 시설을 한때 다른 사람이 이끌었다는 것과, 후임 체제가 얼마나 급조됐는지를 보여주는 핵심 물증(6-1 연혁 참고). "예산이 줄어서 이렇다" 같은 해석은 넣지 않고, 명패 재질의 격차(놋쇠 대 코팅지)만 순수하게 대비시킨다.
+내용 :
+사무실 문에 녹슨 놋쇠 명패가 박혀 있다. "관측소장 헬렌 라이트"라고 정교하게 새겨져 있다. 그 바로 밑에는 코팅된 종이 한 장이 테이프로 덧붙어 있는데, 색이 바랜 채로 "션 마이어스"라는 이름이 인쇄돼 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">사무실 문에 녹슨 놋쇠 명패가 박혀 있다.</div>
+  <div>"관측소장 헬렌 라이트"라고 정교하게 새겨져 있다. 그 바로 밑에는 코팅된 종이 한 장이 테이프로 덧붙어 있는데, 색이 바랜 채로 "션 마이어스"라는 이름이 인쇄돼 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An office door with a tarnished engraved brass nameplate reading an older name, and a cheap faded laminated paper taped just below it bearing a newer name. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 13_마커스_연구시설_6
+
+
+[clue_14]
+이름 : 연구시설#7
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 그룹 GroupID)
+유형 : 물증
+단계 : [연구시설 조사] (마커스, 1단계)
+소모AP : 0
+정렬순서 : 60
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 시설의 쇠퇴가 하루아침의 일이 아니라 여러 해에 걸친 과정이었다는 걸 수치로만 보여주는 물증(6-1 연혁 참고). "그래서 방치됐다" 같은 요약 없이 표만 제공한다.
+내용 :
+서류함 속 예산 배정 기록철을 펼쳤다. 연도별 배정액이 나란히 적혀 있다.
+
+2022년 — 380,000
+2024년 — 240,000
+2026년 — 90,000
+2028년 — 배정 없음
+2029년 — 배정 없음
+HTML :
+<div class="story-content">
+  <div class="script-direction">서류함 속 예산 배정 기록철을 펼쳤다.</div>
+  <div>연도별 배정액이 나란히 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">2022년 — 380,000</div>
+    <div class="document-body small">2024년 — 240,000</div>
+    <div class="document-body small">2026년 — 90,000</div>
+    <div class="document-body small">2028년 — 배정 없음</div>
+    <div class="document-body small">2029년 — 배정 없음</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten vehicle registry list in the same drawer, names paired with simple vehicle types. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 24_베일라_촌장의_집_3
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An old budget allocation ledger open on a shelf, a simple year-by-year table of shrinking figures ending in blank allocations. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 14_마커스_연구시설_7
 
 
-[clue_06]
+[clue_15]
+이름 : 연구시설#8
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 그룹 GroupID)
+유형 : 물증
+단계 : [연구시설 조사] (마커스, 1단계)
+소모AP : 0
+정렬순서 : 70
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 이 시설이 원래 무엇이었는지 구체적 명칭으로 보여주는 물증 — clue_08(위장 간판)와 대조된다(6-1 연혁 참고). "그러니 위장이다" 같은 결론은 이미 clue_08에서 암시됐으므로 반복하지 않고, 원래 명칭과 소속만 제공한다.
+내용 :
+뒤편 창고, 먼지 쌓인 상자들 틈에 녹슨 금속 현판 하나가 벽에 기대어 세워져 있다. "메인 주 수산자원관리국 부속 — 연안 게·어류 관측소"라는 글자가 큼직하게 새겨져 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">뒤편 창고, 먼지 쌓인 상자들 틈에 녹슨 금속 현판 하나가 벽에 기대어 세워져 있다.</div>
+  <div>"메인 주 수산자원관리국 부속 — 연안 게·어류 관측소"라는 글자가 큼직하게 새겨져 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A tarnished old metal plaque leaning against a wall among dusty storage boxes, engraved with a formal government agency name. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 15_마커스_연구시설_8
+
+
+[clue_16]
+이름 : 연구시설#9
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 그룹 GroupID)
+유형 : 물증
+단계 : [연구시설 조사] (마커스, 1단계)
+소모AP : 0
+정렬순서 : 80
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 오웬의 존재를 처음으로 암시하는 물증 — 아직 누군지는 전혀 설명하지 않는다. 이름만 제공하고 "이 사람이 수상하다" 같은 결론은 넣지 않는다. 1차 통화에서 베일라에게 전해지는 키워드(8-2-M 참고) — 대니의 집 잠긴 서랍을 여는 데 쓰인다.
+내용 :
+바닥 구석에 낡은 사원증 하나가 떨어져 있다. "오웬 프라이스"라는 이름과 흐릿해진 사진이 붙어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">바닥 구석에 낡은 사원증 하나가 떨어져 있다.</div>
+  <div>"오웬 프라이스"라는 이름과 흐릿해진 사진이 붙어 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An old employee ID badge lying discarded in a corner, a faded photo and a printed name, "Owen Price." Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 위장구역
+파일명 : 16_마커스_연구시설_9
+
+
+## 베일라 2단계 [드러나는 정체]
+
+
+[clue_17]
 이름 : 카버의 집#1
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -303,27 +669,28 @@ groupId : (크래비스 섬 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 이상 현상(빛줄기, 게 증가)이 대니가 이 섬에 들어오기 이전부터 이미 지역에 알려져 있었고, 이게 그가 이 섬으로 이사 온 계기였다는 것(카버의 집#4와 연결)을 암시하는 물증. 기사 본문은 순수 보도문 형태로만 인용하고 해석을 덧붙이지 않는다. 날짜가 인쇄된 신문 상단은 찢겨 없어, 정확한 날짜 숫자는 이 단서에서 주지 않는다 — 그 숫자는 마커스 쪽 정보로만 확정되도록 남겨둔다.
+의도 : 빛줄기 목격담이 대니가 이 섬에 들어오기 이전부터 이미 흘러다니고 있었고, 이게 그가 이 섬으로 이사 온 계기였다는 것(카버의 집#4와 연결)을 암시하는 물증. 공신력 있는 지역 신문이 아니라 삼류 주간지(대니 같은 아마추어 연구자가 즐겨 모을 법한 매체)라는 것만으로도 이 정보의 신뢰도가 낮다는 인상을 자연스럽게 준다 — 서술자가 "믿을 게 못 된다" 같은 평가를 따로 넣지 않아도 됨. 게 개체수 얘기는 여기서 빼고 카버의 집#2(해안 지도)로 옮긴다 — 한 기사에 다 몰아넣지 않기 위해. 기사 본문은 순수 인용만 하고 해석을 덧붙이지 않는다. 날짜가 인쇄된 지면 상단은 찢겨 없어, 정확한 날짜 숫자는 이 단서에서 주지 않는다 — 그 숫자는 마커스 쪽 정보로만 확정되도록 남겨둔다.
 내용 :
-대니의 집, 서랍 안에 신문에서 오려낸 기사 조각이 접힌 채로 들어 있다. 신문 상단의 날짜가 인쇄되어 있었을 자리는 찢겨 나가고 없다.
+대니의 집, 서랍 안에 잡지에서 오려낸 기사 조각이 접힌 채로 들어 있다. "주간 기담"이라는 제호가 한쪽 귀퉁이에 작게 찍혀 있다. 지면 상단의 날짜가 인쇄되어 있었을 자리는 찢겨 나가고 없다.
 
-"해안 마을 주민, 밤하늘에서 내려온 빛줄기 목격 제보"
-제보자는 한밤중 수평선 위 하늘에서 아래로 곧게 뻗어 내려오는 빛줄기를 보았다고 전했다. 같은 시기 인근 조수 웅덩이에서 게가 눈에 띄게 늘었다는 목격담도 함께 실렸다.
+"하늘이 갈라졌다?! 해안가 목격자, 수직으로 내리꽂힌 정체불명의 빛줄기"
+제보자는 한밤중 수평선 위 하늘에서 아래로 곧게 뻗어 내려오는 빛줄기를 보았다고 전했다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">서랍 안에 신문에서 오려낸 기사 조각이 접혀 있다. 상단의 날짜가 인쇄되어 있었을 자리는 찢겨 나가고 없다.</div>
+  <div class="script-direction">서랍 안에 잡지에서 오려낸 기사 조각이 접혀 있다. "주간 기담"이라는 제호가 한쪽 귀퉁이에 작게 찍혀 있다.</div>
+  <div>지면 상단의 날짜가 인쇄되어 있었을 자리는 찢겨 나가고 없다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-title">해안 마을 주민, 밤하늘에서 내려온 빛줄기 목격 제보</div>
-    <div class="document-body small">제보자는 한밤중 수평선 위 하늘에서 아래로 곧게 뻗어 내려오는 빛줄기를 보았다고 전했다. 같은 시기 인근 조수 웅덩이에서 게가 눈에 띄게 늘었다는 목격담도 함께 실렸다.</div>
+    <div class="document-title">하늘이 갈라졌다?! 해안가 목격자, 수직으로 내리꽂힌 정체불명의 빛줄기</div>
+    <div class="document-body small">제보자는 한밤중 수평선 위 하늘에서 아래로 곧게 뻗어 내려오는 빛줄기를 보았다고 전했다.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A torn newspaper clipping with the masthead and date missing, folded creases, small article text visible, resting inside a half-open wooden drawer. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 06_베일라_카버의_집_1
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A torn tabloid magazine clipping with a sensational bold headline, small "Weekly Strange Tales"-style masthead in the corner, masthead date missing, resting inside a half-open wooden drawer. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 카버의 집
+파일명 : 17_베일라_카버의_집_1
 
 
-[clue_07]
+[clue_18]
 이름 : 카버의 집#2
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -342,20 +709,20 @@ groupId : (크래비스 섬 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 대니가 평범한 이웃이 아니라 이상 현상을 쫓아다니는 아마추어 연구자라는 것을 보여주는 첫 물증. 종교적 색채 없이, 조사자의 도구로만 보이게 한다.
+의도 : 대니가 평범한 이웃이 아니라 이상 현상을 쫓아다니는 아마추어 연구자라는 것을 보여주는 첫 물증. 종교적 색채 없이, 조사자의 도구로만 보이게 한다. 게 개체수 증가는 빛줄기 기사(카버의 집#1)와 분리해서 여기 배치 — 대니 자신이 따로 추적해온 관찰 데이터라는 인상. "그러니 이상하다" 류의 해석은 넣지 않고 메모 원문만 제공한다. 이 정보는 2차 통화에서 베일라가 마커스에게 전달 — 마커스가 3단계에서 오웬에게 "게" 얘기를 꺼내는 계기가 된다(8-2-M 참고).
 내용 :
-벽 한쪽에 압정으로 고정된 해안 지도가 있다. 여러 지점에 손으로 동그라미가 쳐져 있고, 그 옆마다 작은 글씨로 날짜가 적혀 있다.
+벽 한쪽에 압정으로 고정된 해안 지도가 있다. 여러 지점에 손으로 동그라미가 쳐져 있고, 그 옆마다 작은 글씨로 날짜와 짧은 메모가 적혀 있다. 그중 하나에는 "조수 웅덩이마다 게가 평소보다 훨씬 많이 보인다는 제보"라고 적혀 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">벽 한쪽에 압정으로 고정된 해안 지도가 있다.</div>
-  <div>여러 지점에 손으로 동그라미가 쳐져 있고, 그 옆마다 작은 글씨로 날짜가 적혀 있다.</div>
+  <div>여러 지점에 손으로 동그라미가 쳐져 있고, 그 옆마다 작은 글씨로 날짜와 짧은 메모가 적혀 있다. 그중 하나에는 "조수 웅덩이마다 게가 평소보다 훨씬 많이 보인다는 제보"라고 적혀 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A coastal map pinned to a wall, several points hand-circled in ink with small handwritten dates beside each. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 07_베일라_카버의_집_2
+단서 그룹 : 크래비스 섬 - 카버의 집
+파일명 : 18_베일라_카버의_집_2
 
 
-[clue_08]
+[clue_19]
 이름 : 카버의 집#3
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -391,11 +758,11 @@ HTML :
   <div class="script-direction">문장은 그 뒤로 이어지지 않고 끊겨 있다. 여백 곳곳에 손으로 그은 밑줄과 물음표가 남아 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A messy stack of old newspaper clippings and photocopies clipped together on a desk, mismatched sources and dates, one page with a faint library due-date stamp and handwritten underlines. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 08_베일라_카버의_집_3
+단서 그룹 : 크래비스 섬 - 카버의 집
+파일명 : 19_베일라_카버의_집_3
 
 
-[clue_09]
+[clue_20]
 이름 : 카버의 집#4
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -436,11 +803,56 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten notebook page on a nightstand, dim bedside lamp light. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 09_베일라_카버의_집_4
+단서 그룹 : 크래비스 섬 - 카버의 집
+파일명 : 20_베일라_카버의_집_4
 
 
-[clue_11]
+[clue_21]
+이름 : 카버의 집#5
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 그룹 GroupID)
+유형 : 물증
+단계 : [드러나는 정체] (베일라, 2단계)
+소모AP : 0
+정렬순서 : 95
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 1차 통화에서 마커스가 전해준 이름("오웬 프라이스")을 입력해야 열림. 못 열어도 2~3단계 진행에는 지장 없음 — 순수 보너스.
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 대니도 독자적으로 오웬의 존재를 스쳐 지나가듯 목격한 적이 있다는 걸 보여주는 보너스 단서 — 서로 모르는 두 사람이 각자 같은 인물의 흔적과 마주쳤다는 것. "그게 수상하다"는 결론은 넣지 않고 목격 사실만 제공한다.
+내용 :
+작은 서랍에 다이얼식 자물쇠가 달려 있다. 이름을 맞추자 열린다. 안에는 메모 한 장.
+
+"몇 달 전, 해안 쪽에서 낯선 남자를 한 번 본 적이 있다. 이 섬 사람은 아니었다. 다시는 못 봤다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">작은 서랍에 다이얼식 자물쇠가 달려 있다. 이름을 맞추자 열린다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">"몇 달 전, 해안 쪽에서 낯선 남자를 한 번 본 적이 있다. 이 섬 사람은 아니었다. 다시는 못 봤다."</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small drawer with a combination letter-lock, opened to reveal a single handwritten note inside. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 카버의 집
+파일명 : 21_베일라_카버의_집_5
+
+
+## 마커스 2단계 [통제구역]
+
+(진행 중 — 다음 논의에서 M-B, 자료실(M-G·M-H), 이든의 증언 등 실제 단서로 채울 예정. 8-2-M 참고.)
+
+
+## 베일라 3단계 [관찰 기록 확보]
+
+
+[clue_22]
 이름 : 카버의 집#6
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -453,26 +865,26 @@ groupId : (크래비스 섬 그룹 GroupID)
 중요도 : 높음
 핵심 단서 여부 : Y
 교환 가능 여부 : N
-획득 가능 여부 : Y
-획득 조건 존재 여부 : Y
-획득 조건 내용 : 마커스가 연구시설 쪽 단서로 확보한 8자리 날짜를 다이얼에 맞춰야 열림.
-시작 표시 상태 : 뒷면
-단계 시작시 자동 획득 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 3단계의 진입점. 상자 자체나 다이얼에 대해 어떤 해석도 덧붙이지 않고 순수 물증으로만 묘사한다. 코드의 근거(빛줄기를 본 날)는 2단계 카버의 집#4(대니의 수첩)와 마커스 쪽 단서를 맞춰야 나온다.
+의도 : 3단계의 진입점. 코드 없이 자유롭게 발견·접근 가능(진행을 막지 않음) — 마커스 쪽에서 전해들은 "대니가 요즘 부쩍 집에만 틀어박혀 있다"는 이든의 말이 이 공간을 더 뒤져보게 되는 계기다(작가 전용, 8-2·8장 참고). 안의 종이 뭉치(카버의 집#7~11)는 전부 코드 없이 자유롭게 얻는다. 구석의 작은 금고(카버의 집#12, 별도 단서)만 코드가 필요하다.
 내용 :
-침실 마룻바닥, 널빤지 하나가 헐거워져 있다. 들어내자 그 밑에 작은 나무 상자가 숨겨져 있다. 뚜껑에 여덟 자리 숫자를 맞추는 다이얼이 달려 있다.
+침실 마룻바닥, 널빤지 하나가 헐거워져 있다. 들어내자 그 밑에 숨겨진 공간이 있다. 종이 뭉치와 함께, 한쪽 구석에 작은 금고도 하나 놓여 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">침실 마룻바닥, 널빤지 하나가 헐거워져 있다. 들어내자 그 밑에 작은 나무 상자가 숨겨져 있다.</div>
-  <div>뚜껑에 여덟 자리 숫자를 맞추는 다이얼이 달려 있다.</div>
+  <div class="script-direction">침실 마룻바닥, 널빤지 하나가 헐거워져 있다. 들어내자 그 밑에 숨겨진 공간이 있다.</div>
+  <div>종이 뭉치와 함께, 한쪽 구석에 작은 금고도 하나 놓여 있다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A loose wooden floorboard pried up, revealing a small hidden wooden box beneath with an eight-digit rotary number lock on its lid. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 11_베일라_카버의_집_6
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A loose wooden floorboard pried up, revealing a hidden compartment with a stack of papers and a small safe in the corner. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 숨겨진 공간
+파일명 : 22_베일라_카버의_집_6
 
 
-[clue_12]
+[clue_23]
 이름 : 카버의 집#7
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -487,7 +899,7 @@ groupId : (크래비스 섬 그룹 GroupID)
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 카버의 집#6(잠긴 상자)을 먼저 열어야 확인 가능.
+획득 조건 내용 : 카버의 집#6(숨겨진 공간)을 먼저 찾아야 확인 가능. 코드는 필요 없음.
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
@@ -508,11 +920,11 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten field-note page from a stack of papers, dated entries, plain observational tone. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 12_베일라_카버의_집_7
+단서 그룹 : 크래비스 섬 - 숨겨진 공간
+파일명 : 23_베일라_카버의_집_7
 
 
-[clue_13]
+[clue_24]
 이름 : 카버의 집#8
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -527,7 +939,7 @@ groupId : (크래비스 섬 그룹 GroupID)
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 카버의 집#6(잠긴 상자)을 먼저 열어야 확인 가능.
+획득 조건 내용 : 카버의 집#6(숨겨진 공간)을 먼저 찾아야 확인 가능. 코드는 필요 없음.
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
@@ -545,11 +957,11 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten field-note page from a stack of papers, a short dated entry, plain observational tone. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 13_베일라_카버의_집_8
+단서 그룹 : 크래비스 섬 - 숨겨진 공간
+파일명 : 24_베일라_카버의_집_8
 
 
-[clue_14]
+[clue_25]
 이름 : 카버의 집#9
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -564,7 +976,7 @@ groupId : (크래비스 섬 그룹 GroupID)
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 카버의 집#6(잠긴 상자)을 먼저 열어야 확인 가능.
+획득 조건 내용 : 카버의 집#6(숨겨진 공간)을 먼저 찾아야 확인 가능. 코드는 필요 없음.
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
@@ -582,11 +994,11 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten field-note page from a stack of papers, a short dated entry, plain observational tone. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 14_베일라_카버의_집_9
+단서 그룹 : 크래비스 섬 - 숨겨진 공간
+파일명 : 25_베일라_카버의_집_9
 
 
-[clue_15]
+[clue_26]
 이름 : 카버의 집#10
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -601,7 +1013,7 @@ groupId : (크래비스 섬 그룹 GroupID)
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 카버의 집#6(잠긴 상자)을 먼저 열어야 확인 가능.
+획득 조건 내용 : 카버의 집#6(숨겨진 공간)을 먼저 찾아야 확인 가능. 코드는 필요 없음.
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
@@ -625,11 +1037,11 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten field-note page from a stack of papers, two dated entries, plain observational tone. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 15_베일라_카버의_집_10
+단서 그룹 : 크래비스 섬 - 숨겨진 공간
+파일명 : 26_베일라_카버의_집_10
 
 
-[clue_16]
+[clue_27]
 이름 : 카버의 집#11
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -644,7 +1056,7 @@ groupId : (크래비스 섬 그룹 GroupID)
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 카버의 집#6(잠긴 상자)을 먼저 열어야 확인 가능.
+획득 조건 내용 : 카버의 집#6(숨겨진 공간)을 먼저 찾아야 확인 가능. 코드는 필요 없음.
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
@@ -662,11 +1074,57 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten field-note page describing a remote cove, a circular flattened patch in dense underbrush with blackened, scorched grass around its rim. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 16_베일라_카버의_집_11
+단서 그룹 : 크래비스 섬 - 숨겨진 공간
+파일명 : 27_베일라_카버의_집_11
 
 
-[clue_17]
+[clue_28]
+이름 : 카버의 집#12
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 그룹 GroupID)
+유형 : 물증
+단계 : [관찰 기록 확보] (베일라, 3단계)
+소모AP : 0
+정렬순서 : 165
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 대니의 수첩(카버의 집#4)에서 "그날이 특별하다"는 걸 안 상태에서, 마커스가 연구시설/자료실 쪽 단서로 확보한 8자리 날짜를 조합해야 열림. 열지 못해도 3~4단계 진행에는 지장 없음 — 순수하게 마지막 진실 판정에 도움되는 보너스 정보.
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 진행을 막지 않는 순수 보너스 단서. 카버의 집#3(신문 스크랩 속 옛 구전)에서 "..."로 끊겼던 문장의 나머지 부분 — 대니가 유독 이 부분만 따로 떼어 금고에 보관해둔 것. 어디까지나 옛 구전 원문의 연속일 뿐, 서술자나 대니가 그걸 이든과 연결짓는 문장은 전혀 없다. 그럼에도 "사람의 모습을 하고 걸어 다닌다"는 원문 자체가 마지막 진실(T) 판정에 실질적인 힘을 보탠다.
+내용 :
+구석의 작은 금고, 여덟 자리 숫자를 맞추자 열린다. 안에는 종이 한 장이 접혀 있다 — 카버의 집#3에서 봤던 그 복사지의 나머지 부분인 것 같다.
+
+"...그것이 다시 눈을 뜨는 날에는, 사람의 모습을 하고 걸어 다니며, 아무도 알아채지 못한다고 했다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">구석의 작은 금고, 여덟 자리 숫자를 맞추자 열린다.</div>
+  <div>안에는 종이 한 장이 접혀 있다 — 카버의 집#3에서 봤던 그 복사지의 나머지 부분인 것 같다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">"...그것이 다시 눈을 뜨는 날에는, 사람의 모습을 하고 걸어 다니며, 아무도 알아채지 못한다고 했다."</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small safe with an eight-digit dial lock, opened to reveal a single folded photocopied page inside. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 숨겨진 공간
+파일명 : 28_베일라_카버의_집_12
+
+
+## 마커스 3단계 [비밀 공간, 오웬과의 조우]
+
+(진행 중 — 오웬 인트로 컷씬, 오웬의 증언 ①·②, M-E 3개를 다음 논의에서 실제 단서로 채울 예정. 8-2-M 참고.)
+
+
+## 베일라 4단계 [진료소 조사]
+
+
+[clue_29]
 이름 : 진료소#1
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -714,11 +1172,11 @@ HTML :
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small handheld voice recorder lying under an examination chair in a modest clinic room, dim light. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 17_베일라_진료소_1
+단서 그룹 : 크래비스 섬 - 진료소
+파일명 : 29_베일라_진료소_1
 
 
-[clue_18]
+[clue_30]
 이름 : 진료소#2
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -746,11 +1204,11 @@ HTML :
   <div>시트가 흐트러진 채다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. Two wheeled hospital gurneys abandoned haphazardly in a small gravel parking area outside a community hall, rumpled sheets. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 18_베일라_진료소_2
+단서 그룹 : 크래비스 섬 - 진료소
+파일명 : 30_베일라_진료소_2
 
 
-[clue_19]
+[clue_31]
 이름 : 진료소#3
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -778,11 +1236,11 @@ HTML :
   <div>월터의 밴만 보이지 않는다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small gravel parking area beside a community hall with several ordinary cars parked, one conspicuous empty gap among them. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 19_베일라_진료소_3
+단서 그룹 : 크래비스 섬 - 진료소
+파일명 : 31_베일라_진료소_3
 
 
-[clue_20]
+[clue_32]
 이름 : 진료소#4
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -810,11 +1268,11 @@ HTML :
   <div>펼쳐보니 본 적 없는 문자로 빼곡히 적혀 있다. 페이지마다 날짜처럼 보이는 표기와 짧은 문단이 일정한 간격으로 반복된다. 무슨 내용인지는 전혀 알아볼 수 없다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small hidden notebook pulled from the back of a drawer, pages densely filled with an unfamiliar, alien script in neat repeating blocks. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 20_베일라_진료소_4
+단서 그룹 : 크래비스 섬 - 진료소
+파일명 : 32_베일라_진료소_4
 
 
-[clue_21]
+[clue_33]
 이름 : 진료소#5
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -842,48 +1300,11 @@ HTML :
   <div>향수라기보다는 사람의 살 냄새에 가까운 냄새가 난다. 어딘가 낯익은 냄새다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small unlabeled glass bottle sitting alone on a plain shelf, no brand markings. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 21_베일라_진료소_5
+단서 그룹 : 크래비스 섬 - 진료소
+파일명 : 33_베일라_진료소_5
 
 
-[clue_22]
-이름 : 어부의 집#3
-clueId : (자동 생성 예정)
-variantId : (자동 생성 예정)
-이미지 : (추후 업로드 예정)
-groupId : (크래비스 섬 그룹 GroupID)
-유형 : 물증
-단계 : [낯선 이웃] (베일라, 1단계)
-소모AP : 0
-정렬순서 : 45
-중요도 : 보통
-핵심 단서 여부 : N
-교환 가능 여부 : N
-획득 가능 여부 : N
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
-관련 : 베일라
-의도 : 이든이 밤마다 해안에서 본모습으로 돌아와 잠든다는 것(작가 전용, 7장 "진짜 모습" 참고)을 암시하는 목격담. 톰의 1인칭 진술 형태로, "사람만 한 크기의 무언가"라는 표현 이상으로는 정체를 특정하지 않는다 — 그게 사람인지 아닌지조차 텍스트가 단정하지 않는다.
-내용 :
-어획일지 사이에 끼워진 메모 한 장, 톰의 필체다.
-
-"게가 늘기 시작하고 얼마 안 됐을 때, 엔진이 말썽을 부려 예정보다 늦게, 날이 다 저문 뒤에야 섬으로 돌아온 적이 있다. 해안 가까이 배를 대다가 파도치는 물가에서 사람만 한 크기의 무언가를 본 것 같았다. 다시 보니 아무것도 없었다."
-HTML :
-<div class="story-content">
-  <div class="script-direction">어획일지 사이에 끼워진 메모 한 장, 톰의 필체다.</div>
-  <div class="divider-gold"></div>
-  <div class="document-page">
-    <div class="document-body small">"게가 늘기 시작하고 얼마 안 됐을 때, 엔진이 말썽을 부려 예정보다 늦게, 날이 다 저문 뒤에야 섬으로 돌아온 적이 있다. 해안 가까이 배를 대다가 파도치는 물가에서 사람만 한 크기의 무언가를 본 것 같았다. 다시 보니 아무것도 없었다."</div>
-  </div>
-</div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten note slipped between the pages of a fisherman's logbook, plain first-person account. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 22_베일라_어부의_집_3
-
-
-[clue_23]
+[clue_34]
 이름 : 진료소#6
 clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
@@ -911,5 +1332,10 @@ HTML :
   <div>주름 하나, 눌린 자국 하나 없다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A neatly made bed with pristine, unwrinkled sheets in a modest room, looking untouched. Grainy 16mm film still, desaturated cool teal-black color grade.
-단서 그룹 : 크래비스 섬
-파일명 : 23_베일라_진료소_6
+단서 그룹 : 크래비스 섬 - 진료소
+파일명 : 34_베일라_진료소_6
+
+
+## 마커스 4단계 [가장 깊은 곳, 유출 현장]
+
+(진행 중 — M-F 3개, 숨겨진 배·방향 표시를 다음 논의에서 실제 단서로 채울 예정. 8-2-M 참고.)
