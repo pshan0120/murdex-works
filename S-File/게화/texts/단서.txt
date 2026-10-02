@@ -2,7 +2,7 @@
 
 StoryID : 488dc2d2-b646-4b64-80a9-9ebf6343dffd
 
-※ 2026-10-02 전면 재작성. 외계인 설정 폐기 이후의 새 배경사(기획안.md 전면 개정판)에 맞춰 처음부터 다시 쓴다. **현재 1단계(베일라·마커스 각 6개)만 확정돼 있고, 2~4단계는 아직 설계 전이라 포함하지 않는다.** 이후 단계가 확정되는 대로 이 파일에 이어서 추가한다.
+※ 2026-10-02 전면 재작성. 외계인 설정 폐기 이후의 새 배경사(기획안.md 전면 개정판)에 맞춰 처음부터 다시 쓴다. **현재 베일라 1·2단계와 마커스 1·2단계(각 6개)만 확정돼 있고, 나머지 단계는 아직 설계 전이라 포함하지 않는다.** 이후 단계가 확정되는 대로 이 파일에 이어서 추가한다.
 ※ 베일라 1~4단계 → 마커스 1~4단계 순으로, 같은 단계끼리 나란히 비교할 수 있도록 정렬한다.
 ※ 전체 줄거리 요약(참고용): 마을 사람 7명은 전부 20년도 더 전에 소탕된 밀수 조직("모란 일당")의 생존 수뇌부로, 혈연관계 없이 "홀트 집안"을 자처하며 숨어 살아왔다. 20년 전 베일라의 친할아버지가 이들의 정체를 알아채 살해당했다. 베일라의 사촌 어슐라 콜린스는 이 사실을 추적하다 같은 사람들에게 살해당했으나, 인근 연구시설 사고로 유출된 물질 덕에 두족류 인간으로 되살아나 하루 한 명씩 복수해왔다(어젯밤 마지막 희생자로 마을 전체가 빔). 연구시설 쪽은 별개 사건 — 신입 연구원(실은 정부 감사 요원)에게 소장의 비공식 "급속 진화" 연구가 발각되자, 소장 본인이 식수에 시제품을 타 전원이 사망(오웬만 생존)했다. 두 사건은 같은 사고(물질 유출)에서 갈라져 나왔을 뿐, 서로 무관한 비극이다.
 ※ 페어플레이 원칙(내용/HTML 필드): 관찰 가능한 사실만 제공하고, 결론·동기·정체에 대한 어떤 단정도 서술자가 대신 내리지 않는다. [[feedback_clue_fairplay_observability]] 참고.
@@ -34,15 +34,15 @@ groupId : (크래비스 섬 - 그물 걸린 집 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 베일라는 이 섬 주민들을 전혀 모르는 채 처음 들어서므로, 집주인 이름을 알 수 있는 합법적인 경로가 필요하다(2026-10-02 수정 — 이전엔 근거 없이 "월터"라는 이름이 단서명·본문에 먼저 노출됐었음). 문패라는 평범한 사물로 이름을 확인시키고, 이후 모든 클루가 그 이름을 전제로 서술될 수 있는 근거를 마련한다.
+의도 : 집주인 이름을 알려주는 장치이면서 "방어 수단이 있었는데도 못 써보고 죽었다"는 정보까지 주는 단서(2026-10-02 수정). 이전의 문패는 삭제했다 — 숨어 사는 사람들이 문패를 대놓고 걸어둘 리 없다. 대신 개머리판에 이름이 적힌 오래된 장총을 쓴다. 먼지가 앉은 장총이라 오랫동안 쓰지 않았다는 것, 그럼에도 손도 못 대고 당했다는 것이 함께 읽힌다(텍스트는 사실만 쓰고 해석은 쓰지 않는다). 이름은 "월터"만 나오고 성은 붙이지 않는다 — 1단계에서 에드거의 풀네임이 나오면 안 될 뿐 월터는 상관없으며, 마커스는 "에드거"만, 베일라는 "홀트"(가족사진 글귀)만 알아야 통화가 코드 교환으로 성립한다.
 내용 :
-현관 옆, 작은 나무 문패가 걸려 있다. "월터"라는 이름이 적혀 있다.
+벽 한쪽에 장총이 세워져 있다. 총열에는 먼지가 뽀얗게 앉아 있고, 개머리판에는 "월터"라는 이름이 새겨져 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">현관 옆, 작은 나무 문패가 걸려 있다.</div>
-  <div>"월터"라는 이름이 적혀 있다.</div>
+  <div class="script-direction">벽 한쪽에 장총이 세워져 있다.</div>
+  <div>총열에는 먼지가 뽀얗게 앉아 있고, 개머리판에는 "월터"라는 이름이 새겨져 있다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small wooden nameplate mounted beside a modest cottage's front door, a single carved name, dusk light. Grainy 16mm film still, desaturated cool teal-black color grade, 1990s X-Files-style investigative photography.
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An old hunting rifle leaning against a cottage wall, a thick layer of dust along the barrel, a single name carved into the wooden stock. Grainy 16mm film still, desaturated cool teal-black color grade, 1990s X-Files-style investigative photography.
 단서 그룹 : 크래비스 섬 - 그물 걸린 집
 파일명 : 01_베일라_그물_걸린_집_1
 
@@ -98,7 +98,7 @@ groupId : (크래비스 섬 - 그물 걸린 집 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 순수 진행용 도구. 이후 2~4단계에서 다른 집들의 잠긴 문을 강제로 여는 수단이 된다(별도 코드 없이 단계를 진행시키는 물리적 장치).
+의도 : 순수 진행용 도구. 이후 2~4단계에서 다른 집들의 잠긴 창문을 깨고 들어가는 수단이 된다(별도 코드 없이 단계를 진행시키는 물리적 장치).
 내용 :
 그 옆 바닥에 쇠지레 하나가 떨어져 있다. 뱃일에 쓰는 연장인 듯, 끝이 녹슬어 있다.
 HTML :
@@ -130,13 +130,13 @@ groupId : (크래비스 섬 - 그물 걸린 집 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 이 단계의 핵심 발견 — 월터로 보이는 남자가 죽어 있다는 것(이름은 1번 문패 단서로 이미 확인됨 — 베일라가 원래 알던 이름이 아니라는 전제를 유지하기 위해 "~로 보이는"이라는 추정형으로 쓴다). 실제로는 잠든 채 질식사했으므로(7장 "복수의 경위" 참고) "평온하게 잠든 듯한" 묘사는 사인과 맞지 않아 삭제 — 몸싸움(저항)의 흔적은 없지만 질식 자체의 괴로운 흔적은 남아 있는 쪽으로 수정한다. 얼굴의 희미하고 둥근 자국은 훗날 드러날 촉수 흡착 흔적의 복선이지만, 그 정체나 원인은 전혀 단정하지 않는다(페어플레이). 15세 등급에 맞춰 신체 묘사는 암시적으로만 처리(10장 참고) — 색 변화나 체액 등 직접적인 묘사는 쓰지 않는다.
+의도 : 이 단계의 핵심 발견 — 한 남자가 죽어 있다는 것. 이 남자가 장총에 이름이 새겨진 "월터"인지는 텍스트로 말하지 않고 플레이어가 장총 단서와 연결해 추리하게 한다("월터로 보이는" 같은 추정형도 쓰지 않는다 — 2026-10-02 재수정). 실제로는 잠든 채 질식사했으므로(7장 "복수의 경위" 참고) "평온하게 잠든 듯한" 묘사는 사인과 맞지 않아 삭제 — 몸싸움(저항)의 흔적은 없지만 질식 자체의 괴로운 흔적은 남아 있는 쪽으로 수정한다. 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 월터에게는 남기지 않는다(2026-10-02 삭제 — 가장 최근 희생자에게만 남는다). 15세 등급에 맞춰 신체 묘사는 암시적으로만 처리(10장 참고) — 색 변화나 체액 등 직접적인 묘사는 쓰지 않는다.
 내용 :
-안쪽 방, 월터로 보이는 남자가 침대에 쓰러져 있다. 이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없지만, 얼굴에는 작고 둥근 자국들이 희미하게 남아 있다.
+안쪽 방, 한 남자가 침대에 쓰러져 있다. 이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">안쪽 방, 월터로 보이는 남자가 침대에 쓰러져 있다.</div>
-  <div>이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없지만, 얼굴에는 작고 둥근 자국들이 희미하게 남아 있다.</div>
+  <div class="script-direction">안쪽 방, 한 남자가 침대에 쓰러져 있다.</div>
+  <div>이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A dim modest bedroom, a man collapsed across the bed, one hand clenched into the sheets, head tilted back, mouth slightly open, implied suffocation without graphic detail. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 크래비스 섬 - 그물 걸린 집
@@ -236,7 +236,7 @@ groupId : (연구시설 - 일반 구역 그룹 GroupID)
 관련 : 마커스
 의도 : 마이어스가 멀쩡히 업무를 보던 중이었다는 인상을 주는 물증 — 사고가 없었다면 정상적으로 발송됐을 보고서라는 것(7-1 참고). 표면 프로젝트(장갑 강화)용 월간 보고서라, 실제로는 진척이 거의 없는 눈속임용 내용으로 채운다(연구시설#4 라이언의 강도 테스트와 맞물림). 그의 내적 동기나 비공식 연구의 존재는 이 단계에서 전혀 드러내지 않는다.
 내용 :
-소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 일주일 전으로 찍혀 있다.
+소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 7월 말로 찍혀 있다.
 
 [크래비스 해양생태 관측소 월간 연구 진행 보고]
 보고자: 션 마이어스 (소장)
@@ -247,13 +247,13 @@ groupId : (연구시설 - 일반 구역 그룹 GroupID)
 3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.
 HTML :
 <div class="story-content">
-  <div class="script-direction">소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 일주일 전으로 찍혀 있다.</div>
+  <div class="script-direction">소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 7월 말로 찍혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">[크래비스 해양생태 관측소 월간 연구 진행 보고]<br />보고자: 션 마이어스 (소장)<br />보고 기간: 2031년 7월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.<br />3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A typed bureaucratic monthly report lying unsent on a director's desk, a date stamp a week old, plain administrative formatting, otherwise orderly office. Grainy 16mm film still, desaturated cool teal-black color grade.
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A typed bureaucratic monthly report lying unsent on a director's desk, a late-July date stamp, plain administrative formatting, otherwise orderly office. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 일반 구역
 파일명 : 07_마커스_연구시설_1
 
@@ -309,13 +309,13 @@ groupId : (연구시설 - 일반 구역 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
-의도 : 1차 통화 핵심 물증 — "에드거 홀트"라는 이름이 베일라에게 전달돼 2단계 서랍 코드가 된다(8-2 참고). 거래가 끊겼다는 설정은 없음(2026-10-02 확정) — 꾸준히 지속돼온 거래로만 쓴다.
+의도 : 1차 통화 핵심 물증 — "에드거"라는 이름이 베일라에게 전달돼 2단계 서랍 코드가 된다(8-2 참고). 2026-10-02 수정 — 성("홀트")은 적지 않는다. 마커스는 "에드거"만, 베일라는 "홀트"(1단계 가족사진 글귀)만 알아야 서로 코드를 주고받는 통화가 성립한다. 거래가 끊겼다는 설정은 없음 — 꾸준히 지속돼온 거래로만 쓴다.
 내용 :
-장부 한 권. 몇 년째 달마다 "에드거 홀트"라는 이름 앞으로 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다.
+장부 한 권. 몇 년째 달마다 "에드거"라는 이름 앞으로 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">장부 한 권이 있다.</div>
-  <div>몇 년째 달마다 "에드거 홀트"라는 이름 앞으로 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다.</div>
+  <div>몇 년째 달마다 "에드거"라는 이름 앞으로 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A thick procurement ledger open on a desk, repeating monthly entries under the same supplier name over several years. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 일반 구역
@@ -372,22 +372,22 @@ groupId : (연구시설 - 일반 구역 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
-의도 : 이름표 대신 이 사진 하나로 "연구원이 누구누구 있었는지"와 "클로이가 적어도 이 날짜부터는 소속이었는지"를 추론하게 하는 물증(2026-10-02 확정). 포즈 순서와 뒷면 이름 순서를 왼쪽부터 나란히 대응시켜, 캔을 든 사람이 오웬이라는 걸 플레이어가 직접 짝지어 추론하게 한다 — 뒤이어 나오는 연구시설#6의 탄산음료 캔과 연결된다. 네 사람 모두 친해 보인다는 인상만 주고, 이후 벌어진 일과의 대비는 텍스트로 설명하지 않는다.
+의도 : 이름표 대신 이 사진 하나로 "연구원이 누구누구 있었는지", "클로이가 신입이고 이 날짜에 환영받았다는 것"을 추론하게 하는 물증(2026-10-02 수정 — 뒷면 글귀를 "클로이를 환영하며 — 션, 오웬, 앨런 — 2031. 4."로 바꿔 신입이 클로이임을 알 수 있게 함). 포즈 순서와 뒷면 이름 순서를 왼쪽부터 나란히 대응시켜, 캔을 든 사람이 오웬이고 긴 머리의 오른쪽 끝 사람이 클로이라는 걸 플레이어가 직접 짝지어 추론하게 한다 — 연구시설#6의 탄산음료 캔과 연결되고, 2단계 통제구역 복도의 긴 머리카락과도 이어지므로 클로이는 이 팀의 유일한 여성이자 장발이어야 한다. 네 사람 모두 친해 보인다는 인상만 주고, 이후 벌어진 일과의 대비는 텍스트로 설명하지 않는다.
 내용 :
-휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 탄산음료 캔을 들어 보이고 있다. 나머지 두 사람은 나란히 브이 자를 그리고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
+휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 탄산음료 캔을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
 
-"션, 오웬, 앨런, 클로이 — 2031년 4월"
+"클로이를 환영하며 — 션, 오웬, 앨런 — 2031. 4."
 HTML :
 <div class="story-content">
   <div class="script-direction">휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다.</div>
-  <div>맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 탄산음료 캔을 들어 보이고 있다. 나머지 두 사람은 나란히 브이 자를 그리고 있다.</div>
+  <div>맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 탄산음료 캔을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다.</div>
   <div>액자를 들어보니 뒷면에 짧은 글씨가 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">"션, 오웬, 앨런, 클로이 — 2031년 4월"</div>
+    <div class="document-body small">"클로이를 환영하며 — 션, 오웬, 앨런 — 2031. 4."</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A framed group photo on a break room wall, four people posing in a row: the leftmost with an arm around the next person's shoulder, the second person holding up a soda can, the remaining two making peace signs; the back of the frame shows handwritten names and a date. Grainy 16mm film still, desaturated cool teal-black color grade.
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A framed group photo on a break room wall, four people posing in a row: the leftmost with an arm around the next person's shoulder, the second person holding up a soda can, the third making a peace sign, the rightmost a woman with long hair brushed back over her shoulder, smiling; the back of the frame shows handwritten names and a date. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 일반 구역
 파일명 : 11_마커스_연구시설_5
 
@@ -421,3 +421,460 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A break room wastebasket with an assortment of ordinary trash, soda cans noticeably more numerous than anything else in the mix. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 일반 구역
 파일명 : 12_마커스_연구시설_6
+
+
+## 베일라 2단계 [사라진 순서]
+
+※ 2단계는 집이 두 채다. 집 이름은 1단계와 같은 원칙(외형 기반, 소유자 이름·상태 기반 금지)으로 짓는다. 문패·우편물·고지서처럼 집주인 이름을 대놓고 알려주는 장치는 쓰지 않는다(숨어 사는 사람들이라 문패를 걸어둘 리 없다. 1단계 월터의 집만 개머리판에 새긴 이름으로 알린다) — 이 집이 누구의 집인지, 이 사람들이 누구인지는 플레이어가 마커스에게 받은 정보나 이후 단서로 직접 추리한다(이름을 몰라도 상관없고, 3·4단계 단서로 추리하게 해도 된다).
+※ 에드거(1번째)·월터(2번째)는 자다가 당했다. 톰·그레이스(3·4번째)는 같은 날, 같은 집에서 당했다 — 톰은 침대에서 앞선 두 사람과 같은 방식으로 질식했고, 깨어난 그레이스가 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러져 거실에서 질식했다. "톰이 두 시신을 발견하고 살해를 확신했다"는 비트는 3단계에서 드러내며, 이 단계에서는 어떤 해석도 텍스트에 넣지 않는다.
+※ 월터의 집만 열려 있었고(어슐라가 월터의 옷을 입고 나오느라 문을 열어둔 채 떠남) 나머지 집은 전부 잠겨 있다. 컷씬에서 두 집 모두 문과 창이 굳게 잠겨 있어 쇠지레로 창문을 깨고 들어간다고 전달한다(베일라가 쇠지레만으로 문을 부수긴 어려우므로 문이 아니라 창문) — 단서 본문에는 쓰지 않되, 두 집이 밀실 상태라는 사실과 모순되는 묘사(열린 문·창 등)는 쓰지 않는다.
+※ 시신 묘사는 15세 등급에 맞춰 암시적으로만 처리한다(10장). 1차 통화로 받은 코드 "에드거"는 통발 쌓인 집#3(숨김 단서)에만 쓰이며, 못 열어도 진행엔 지장이 없다.
+
+
+[clue_13]
+이름 : 통발 쌓인 집#1
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 통발 쌓인 집 그룹 GroupID)
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 0
+정렬순서 : 110
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 집주인 확인 장치. 이름을 직접 알려주지 않고(1차 통화의 "에드거"는 마커스 쪽에서만 나와야 한다) 사진 한 장으로 추리하게 한다 — 팔뚝만 한 랍스터를 든 어부의 사진이라, 플레이어는 마커스가 연구시설 장부에서 본 "갑각류를 대던 에드거"와 이 집을 스스로 연결할 수 있다. 뺨의 오래된 흉터는 시신(통발 쌓인 집#2)과 3단계의 옛 수배 기사로 이어질 씨앗이다.
+내용 :
+벽에 걸린 사진 액자. 마른 체구의 노인이 팔뚝만 한 랍스터를 한 손으로 높이 들어 보이며 활짝 웃고 있다. 한쪽 뺨에 오래된 흉터가 길게 나 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">벽에 걸린 사진 액자.</div>
+  <div>마른 체구의 노인이 팔뚝만 한 랍스터를 한 손으로 높이 들어 보이며 활짝 웃고 있다. 한쪽 뺨에 오래된 흉터가 길게 나 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A framed photograph on a cottage wall: a thin elderly fisherman grinning broadly, holding up an enormous lobster the size of his forearm, an old scar running down one cheek. Grainy 16mm film still, desaturated cool teal-black color grade, 1990s X-Files-style investigative photography.
+단서 그룹 : 크래비스 섬 - 통발 쌓인 집
+파일명 : 13_베일라_통발_쌓인_집_1
+
+
+[clue_14]
+이름 : 통발 쌓인 집#2
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 통발 쌓인 집 그룹 GroupID)
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 0
+정렬순서 : 120
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 1번째 희생자. 자다가 질식했으므로 저항·몸싸움의 흔적이 없다(2026-10-02 수정 — 이전 초안의 목덜미 자국은 질식 방식과 맞지 않아 삭제). 시신에서는 이름을 확정하지 않고 "사진 속 노인과 같은 흉터"라는 관찰만 겹치게 둔다. 비워진 지 가장 오래됐다는 인상은 탁한 공기로만 전한다.
+내용 :
+안방 침대 위에 마른 노인이 반듯하게 누워 있다. 이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 입은 벌어져 있다. 한쪽 뺨에는 오래된 흉터가 길게 나 있고, 방 안에는 탁한 공기가 배어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">안방 침대 위에 마른 노인이 반듯하게 누워 있다.</div>
+  <div>이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 입은 벌어져 있다. 한쪽 뺨에는 오래된 흉터가 길게 나 있고, 방 안에는 탁한 공기가 배어 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A dim bedroom, a thin elderly man lying straight on the bed with the blanket pulled up to his neck, one hand clenched around the sheet, mouth open, old scar on one cheek, implied suffocation in his sleep without graphic detail, stale heavy atmosphere. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 통발 쌓인 집
+파일명 : 14_베일라_통발_쌓인_집_2
+
+
+[clue_15]
+이름 : 통발 쌓인 집#3
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 통발 쌓인 집 그룹 GroupID)
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 0
+정렬순서 : 130
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '에드거' 입력(1차 통화로 마커스에게 받은 이름)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 일곱 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사("프랭크 모란" 등)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다. (2026-10-02 수정 — 프로젝트의 기존 코드 단서 형식(바스타즈 등)에 맞춰 "숨김"이 아니라 "뒷면 + 질문 HTML"로 바꿈.)
+질문 HTML :
+<div class="story-content">
+  <div>침실 한쪽 서랍에 자물쇠가 달려 있다.</div>
+  <div>암호를 입력해야 열릴 것 같다.</div>
+</div>
+내용 :
+잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다. 이름 일곱 개가 세로로 적혀 있다.
+
+프랭크 모란
+레너드 크로스
+마이클 오코너
+패트리샤 번스
+지미 쇼
+데비 콜
+로니 헤이즈
+HTML :
+<div class="story-content">
+  <div class="script-direction">잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">프랭크 모란<br />레너드 크로스<br />마이클 오코너<br />패트리샤 번스<br />지미 쇼<br />데비 콜<br />로니 헤이즈</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A yellowed sheet of paper taken from a locked drawer, seven names handwritten in a vertical column, worn creases. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 통발 쌓인 집
+파일명 : 15_베일라_통발_쌓인_집_3
+
+
+[clue_16]
+이름 : 빨래 널린 집#1
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 빨래 널린 집 그룹 GroupID)
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 0
+정렬순서 : 140
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 이 집에서 먼저 당한 사람(톰). 앞선 두 사람과 같은 방식으로 자다가 질식했으므로 저항 흔적이 없다. 다만 옆자리 이불이 걷어젖혀진 채 비어 있어 "함께 자던 다른 사람이 깨어나 일어났다"는 것만 관찰로 남긴다 — 이 사람이 누구인지는 쓰지 않는다. 3·4번째 희생자가 같은 날 같은 집에서 죽었다는 설정(2026-10-02 수정)의 첫 단서.
+내용 :
+안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 누워 있다. 입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 누워 있다.</div>
+  <div>입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A dim bedroom, a sturdy man lying on a double bed half-slid off the pillow, mouth open, no sign of struggle, the blanket on the empty side thrown back, implied suffocation in his sleep without graphic detail. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 빨래 널린 집
+파일명 : 16_베일라_빨래_널린_집_1
+
+
+[clue_17]
+이름 : 빨래 널린 집#2
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 빨래 널린 집 그룹 GroupID)
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 0
+정렬순서 : 150
+중요도 : 최고
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 "접힌 종이를 펼치니 무한대 기호가 보인다"고만 쓰고, 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다 — 2026-10-02 수정). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다(2026-10-02 수정).
+내용 :
+거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다. 한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러가 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
+
+펼쳐 보니 무한대 기호가 보인다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다.</div>
+  <div>한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러가 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">∞</div>
+  </div>
+  <div>펼쳐 보니 무한대 기호가 보인다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A living room floor, a woman lying face down with one arm stretched toward the front door, one ankle twisted awkwardly, a ballpoint pen rolled nearby; in the foreground a folded scrap of paper held open, a single thin, trembling hand-drawn infinity-sign shape on it (actually a figure eight whose fold makes it read as sideways). Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 빨래 널린 집
+파일명 : 17_베일라_빨래_널린_집_2
+
+
+[clue_18]
+이름 : 빨래 널린 집#3
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 빨래 널린 집 그룹 GroupID)
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 0
+정렬순서 : 160
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 이 집의 두 사람이 결혼한 지 20년이 넘은 부부였다는 걸 알려주는 물증(2026-10-02 수정 — 이전의 "서류 부재 관찰"은 삭제. 숨어 사는 사람들이 고지서·영수증·증명서를 집에 둘 리 없다). 결혼 20주년 기념사진 액자라 이름이나 서류 없이도 "20년을 함께한 부부"라는 사실만 전달한다. 2011년(정착 연도)과 20년이 맞물리지만 텍스트로는 연결하지 않는다. 가짜 가족 의심 장치가 이 단계에서 빠졌으므로 그 비트는 3단계 이후에 둔다.
+내용 :
+벽에 걸린 사진 액자. 장년의 남녀가 나란히 서서 환하게 웃고 있다. 액자 아래쪽에는 "결혼 20주년"이라고 적혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">벽에 걸린 사진 액자.</div>
+  <div>장년의 남녀가 나란히 서서 환하게 웃고 있다. 액자 아래쪽에는 "결혼 20주년"이라고 적혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A framed photograph on a cottage wall of a middle-aged man and woman standing side by side smiling, a handwritten caption reading "20th anniversary" beneath it. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 빨래 널린 집
+파일명 : 18_베일라_빨래_널린_집_3
+
+
+## 마커스 2단계 [통제구역]
+
+※ 통제구역은 시설 안에서 기밀 장갑 프로젝트가 수행되는 구역이다. 안쪽 철문 같은 자동 진행용 장치는 단서로 두지 않는다(컷씬에서 처리).
+※ 마이어스·오웬·앨런은 비밀 연구를 알고 참여했고, 신입 클로이만 몰랐다(8-0). 클로이가 정부 감사 요원이라는 정체는 이 단계에서 드러내지 않는다 — 환풍구 녹음기·점검 통지서 여백 메모 같은 장치는 쓰지 않는다. 전체 직원 명단(풀네임)도 3·4단계에서 나온다.
+※ 시신 단서는 이름이 물건에 적힌 사실(연구복의 이름 자수)로만 신원을 알리고, 서술자가 "~로 보이는"처럼 신원을 못박지 않는다. 사진 뒷면의 이름 "앨런"과 자수의 이니셜 "A."로 플레이어가 추리한다. 신분증 사진처럼 급속 노화가 너무 빨리 풀리는 장치는 쓰지 않는다.
+※ 시약 합성 재료의 출처 문제는, 합성이 잘못되면 색이 다르게 나온다는 설정으로 해결한다 — 논문은 "RB-CBP는 붉은색"이라 하고, 실제 보관소의 RB-CBP 병들은 전부 초록색이다. 무엇을 만든 건지는 3·4단계에서 밝혀진다.
+※ 1차 통화로 받은 코드 "홀트"는 6번(거래처 자료)에 쓰이며, 못 열어도 진행엔 지장이 없다. 이 단계에서 마커스가 2차 통화로 베일라에게 넘기는 코드는 "앨런"(시신 단서에서 추리)이다.
+
+
+[clue_19]
+이름 : 통제구역#1
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 통제구역 그룹 GroupID)
+유형 : 물증
+단계 : [통제구역] (마커스, 2단계)
+소모AP : 0
+정렬순서 : 210
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 통제구역에 클로이가 몰래 들어왔었다는 흔적. 머리카락만 보여주고 누구의 것인지는 쓰지 않는다 — 플레이어가 1단계 사진의 긴 머리 여성(클로이)과 연결해 추리한다(클로이는 팀의 유일한 장발 여성). 클로이가 접근 권한이 없었다는 설정과 정부 감사 요원이라는 정체는 이 단계에서 드러내지 않는다.
+내용 :
+복도에 긴 머리카락이 떨어져 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">복도에 긴 머리카락이 떨어져 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A sterile corridor floor in a restricted laboratory zone, a single long strand of hair lying on it under fluorescent light. Grainy 16mm film still, desaturated cool teal-black color grade, 1990s X-Files-style investigative photography.
+단서 그룹 : 연구시설 - 통제구역
+파일명 : 19_마커스_통제구역_1
+
+
+[clue_20]
+이름 : 통제구역#2
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 통제구역 그룹 GroupID)
+유형 : 물증
+단계 : [통제구역] (마커스, 2단계)
+소모AP : 0
+정렬순서 : 220
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 급속 노화로 죽은 연구원(앨런 보이드)의 시신. 이름은 연구복의 이름 자수 "A. Boyd"로만 알리고(2026-10-02 수정 — "Dr."는 붙이지 않는다), 사진 뒷면의 "앨런"과 이니셜 "A."로 플레이어가 추리한다 — 신분증 사진 같은 장치는 급속 노화가 너무 일찍 풀려서 쓰지 않는다. "극도로 늙었다"는 사실만 보여주고 왜 그런지는 설명하지 않는다. 외상이 없다는 것과 연구복이 몸에 비해 헐렁하다는 것까지만 관찰로 남긴다. 15세 등급에 맞춰 암시적으로만 처리(10장). 마커스가 베일라에게 넘길 코드 "앨런"의 출처다.
+내용 :
+복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다. 얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다.</div>
+  <div>얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A sterile laboratory corridor, an extremely aged white-haired man in a loose lab coat slumped against the wall, no visible wounds, an embroidered name patch on the chest reading "A. Boyd", implied death without graphic detail. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 통제구역
+파일명 : 20_마커스_통제구역_2
+
+
+[clue_21]
+이름 : 통제구역#3
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 통제구역 그룹 GroupID)
+유형 : 물증
+단계 : [통제구역] (마커스, 2단계)
+소모AP : 0
+정렬순서 : 230
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 정보 ①의 반쪽 — 장갑 연구에 쓰이는 시약 "RB-CBP"(로다민 B 접합 키틴 결합 프로브 — 실제 논문에 나올 법한 이름으로 정함, 2026-10-02 수정)가 합성 직후 붉은색이어야 한다는 사실. 다음 단서(시약 보관소의 초록색 병)와 짝을 이룬다. 논문 본문이라 실제 논문처럼 보이게 쓰되, 연구가 진척된 내용은 담지 않는다. 합성이 잘못되면 색이 다르게 나온다는 서술이 합성 재료의 출처 문제를 없애준다(같은 재료로 다른 걸 만들었다는 게 색 하나로 보임).
+내용 :
+실험대 위에 철해 둔 논문 사본이다. 여백에는 손때와 형광펜 자국이 남아 있다.
+
+[갑각류 외골격의 키틴-단백질 복합 구조 분석을 위한 선택적 염색 기법]
+2.3 시료 전처리
+분석 대상 외골격 시료는 로다민 B 접합 키틴 결합 프로브(RB-CBP) 용액에 24시간 침지한다. RB-CBP는 합성 직후 선명한 붉은색을 띠며, 이는 합성이 올바르게 이루어졌다는 지표다. 용액이 붉은색이 아닌 경우에는 합성에 실패한 것이므로 즉시 폐기하고 재합성해야 한다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">실험대 위에 철해 둔 논문 사본이다. 여백에는 손때와 형광펜 자국이 남아 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[갑각류 외골격의 키틴-단백질 복합 구조 분석을 위한 선택적 염색 기법]<br />2.3 시료 전처리<br />분석 대상 외골격 시료는 로다민 B 접합 키틴 결합 프로브(<span class="emphasis">RB-CBP</span>) 용액에 24시간 침지한다. RB-CBP는 합성 직후 <span class="emphasis">선명한 붉은색</span>을 띠며, 이는 합성이 올바르게 이루어졌다는 지표다. 용액이 붉은색이 아닌 경우에는 합성에 실패한 것이므로 즉시 폐기하고 재합성해야 한다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A stapled photocopy of a scientific paper on a laboratory bench, worn and highlighted in the margins, a paragraph about a reagent that turns bright red. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 통제구역
+파일명 : 21_마커스_통제구역_3
+
+
+[clue_22]
+이름 : 통제구역#4
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 통제구역 그룹 GroupID)
+유형 : 물증
+단계 : [통제구역] (마커스, 2단계)
+소모AP : 0
+정렬순서 : 240
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 정보 ①의 나머지 반쪽 — 보관소의 "RB-CBP" 병들이 전부 초록색이라는 것. 논문이 말한 붉은색과 어긋나므로 "RB-CBP라는 이름표를 붙인 다른 무언가"가 있다는 의문만 남긴다. 그게 진화 연구용 시약이라는 해석은 3·4단계에서 밝혀지므로 텍스트로 설명하지 않는다.
+내용 :
+시약 보관소의 선반마다 "RB-CBP"라고 적힌 병이 줄지어 서 있다. 병 속 용액은 하나같이 짙은 초록색이다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">시약 보관소의 선반마다 "RB-CBP"라고 적힌 병이 줄지어 서 있다.</div>
+  <div>병 속 용액은 하나같이 짙은 초록색이다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. Rows of identical glass reagent bottles on laboratory storage shelves, each labeled "RB-CBP", every bottle filled with deep green liquid. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 통제구역
+파일명 : 22_마커스_통제구역_4
+
+
+[clue_23]
+이름 : 통제구역#5
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 통제구역 그룹 GroupID)
+유형 : 물증
+단계 : [통제구역] (마커스, 2단계)
+소모AP : 0
+정렬순서 : 250
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 장갑 연구는 실제로 진행되지 않고 가짜 보고만 했다는 것. 한 달이 아니라 거의 6개월 분량이 미리 작성돼 있어, 소장이 앞으로 한동안 보고를 직접 할 생각이 없었다는(진짜 연구가 따로 있다는) 인상을 준다. 마커스는 이걸 "예산 관리 부실"로 낙관적으로 읽는다(6장) — 해석은 끝까지 미룬다. 표면 프로젝트 방치와 정부 보고의 형식성을 한 단서로 합쳤다. 1단계 clue_07의 7월 보고서와 같은 양식·문구다.
+내용 :
+서랍 안에 "정기 진행 보고"라는 서류철이 있다. 8월부터 이듬해 1월까지 여섯 달치 보고서가 이미 작성되어 있고, 작성일은 전부 7월 말로 찍혀 있다.
+
+[크래비스 해양생태 관측소 월간 연구 진행 보고]
+보고자: 션 마이어스 (소장)
+보고 기간: 2031년 8월
+
+1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.
+2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.
+3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.
+
+넘겨 보니 나머지 다섯 달치도 보고 기간만 다를 뿐 문장이 같다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">서랍 안에 "정기 진행 보고"라는 서류철이 있다. 8월부터 이듬해 1월까지 여섯 달치 보고서가 이미 작성되어 있고, 작성일은 전부 7월 말로 찍혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[크래비스 해양생태 관측소 월간 연구 진행 보고]<br />보고자: 션 마이어스 (소장)<br />보고 기간: 2031년 8월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.<br />3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
+  </div>
+  <div>넘겨 보니 나머지 다섯 달치도 보고 기간만 다를 뿐 문장이 같다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A thick folder of typed monthly reports pulled from a desk drawer, the top page visible with identical bureaucratic text, a stack of near-identical pages beneath it. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 통제구역
+파일명 : 23_마커스_통제구역_5
+
+
+[clue_24]
+이름 : 통제구역#6
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 통제구역 그룹 GroupID)
+유형 : 물증
+단계 : [통제구역] (마커스, 2단계)
+소모AP : 0
+정렬순서 : 260
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '홀트' 입력(1차 통화로 베일라에게 받은 성)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 보너스(진행과 무관). 마커스는 장부에서 "에드거"라는 이름만 알고 성은 몰랐으므로(1단계 clue_09), 방대한 자료를 뒤질 검색어가 없다 — 베일라가 가족사진에서 본 "홀트"가 그 검색어가 된다. 열리면 정부 공급처 등록 때 에드거 홀트의 신원 조회가 이뤄지지 않았다는 것, 즉 그들이 가명을 쓰고 있다는 정보가 드러난다. 이 정보는 2차 통화로 베일라에게 전달돼 2단계에서 빠진 "가짜 가족 의심"의 자리를 대신한다(3단계).
+질문 HTML :
+<div class="story-content">
+  <div>단말기에 옛 거래처 자료가 폴더 수백 개 분량으로 쌓여 있다.</div>
+  <div>너무 방대해서 어디서부터 찾아야 할지 모르겠다. 검색할 단어가 필요하다.</div>
+</div>
+내용 :
+단말기에서 "홀트" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.
+
+공급처: 홀트 (크래비스 섬)
+대표: 에드거
+품목: 갑각류 표본
+신원 조회 결과: 일치하는 기록 없음
+HTML :
+<div class="story-content">
+  <div class="script-direction">단말기에서 "홀트" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">공급처: 홀트 (크래비스 섬)<br />대표: 에드거<br />품목: 갑각류 표본<br />신원 조회 결과: <span class="emphasis">일치하는 기록 없음</span></div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A dim computer terminal in a laboratory office showing a vendor record screen, a line reading "no matching record" highlighted, stacked folder icons behind it. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 통제구역
+파일명 : 24_마커스_통제구역_6
