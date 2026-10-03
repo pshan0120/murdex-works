@@ -878,3 +878,237 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A dim computer terminal in a laboratory office showing a vendor record screen, a line reading "no matching record" highlighted, stacked folder icons behind it. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 통제구역
 파일명 : 24_마커스_통제구역_6
+
+
+## 베일라 3단계 [낡은 상자]
+
+※ (임시 초안 — 마커스 4단계 키워드 선정용으로 먼저 써본 것. 확정 전.)
+※ 컷씬: 톰·그레이스 이후의 집은 전부 창에 판자를 대고 문을 막아둔 상태다. 베일라는 쇠지레로 창의 판자를 뜯고 들어간다. 집 외형을 묘사할 때 지붕 위쪽에 환풍구나 빈틈이 보이게 쓴다(어슐라가 위쪽 틈으로 들어와 천장 쪽에서 내려온 것). 단서 본문에는 쓰지 않는다.
+※ 이 집의 두 사람(노라·레이)은 자다가 당한 게 아니라 깨어 있다가 저항하며 죽었다. 목과 팔의 자국은 "원형의 멍 자국"으로만 쓴다 — 어떤 말로든 문어를 연상시키는 표현은 쓰지 않는다. 범인이 사람이 아니라는 직접적인 단서(푸른 액체 등)는 4단계로 미룬다.
+※ 이 집이 누구의 집인지, 두 사람이 누구인지는 쪽지·일정표의 이름으로 추리한다. 시신 본문에는 이름 라벨을 쓰지 않는다.
+
+
+[clue_25]
+이름 : 뒤집힌 보트 집#1
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 뒤집힌 보트 집 그룹 GroupID)
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 0
+정렬순서 : 310
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 4번째 날(9/4)의 희생자. 앞선 희생자들과 달리 깨어 있다가 저항하며 죽었다 — 여자(노라)가 먼저 뒤에서 목이 졸렸고, 달려온 남자(레이)가 갈고리로 맞섰으나 여러 곳을 붙잡혀 질식했다. 가장 최근에 죽은 사람들이라 원형의 멍 자국이 남아 있다(2026-10-02 확정 — "흡판"이라는 말은 쓰는 순간 문어라는 걸 알려주므로 쓰지 않는다). 누가 누구인지, 어떻게 침입했는지는 텍스트로 말하지 않는다.
+내용 :
+식탁 옆 바닥에 여자가 쓰러져 있고, 그 옆에 남자가 쓰러져 있다. 식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 원형의 멍 자국이 나 있다. 남자의 팔과 목에도 원형의 멍 자국이 나 있고, 한 손에는 갈고리를 쥐고 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">식탁 옆 바닥에 여자가 쓰러져 있고, 그 옆에 남자가 쓰러져 있다.</div>
+  <div>식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 원형의 멍 자국이 나 있다. 남자의 팔과 목에도 원형의 멍 자국이 나 있고, 한 손에는 갈고리를 쥐고 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A kitchen floor in disarray, a woman and a man lying side by side, a toppled table and chair, scattered broken cups, round bruise marks on their necks and the man's arms, a fishing gaff in the man's hand, no graphic detail. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 25_베일라_뒤집힌_보트_집_1
+
+
+[clue_26]
+이름 : 뒤집힌 보트 집#2
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 뒤집힌 보트 집 그룹 GroupID)
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 0
+정렬순서 : 320
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 이 집 사람들이 잠들지 않으려고 버텼다는 경계의 흔적. 앞선 월터의 장총(쓰지 못한 방어 수단)과 대비되는, "알고 대비했는데도 당했다"는 인상을 만든다. 머리맡 무기 대신 커피를 쓴다.
+내용 :
+싱크대와 식탁 위에 빈 머그잔이 가득 쌓여 있다. 커피 통은 바닥이 보인다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">싱크대와 식탁 위에 빈 머그잔이 가득 쌓여 있다.</div>
+  <div>커피 통은 바닥이 보인다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A kitchen sink and table crowded with dozens of empty coffee mugs, an almost empty coffee tin with its bottom showing. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 26_베일라_뒤집힌_보트_집_2
+
+
+[clue_27]
+이름 : 뒤집힌 보트 집#3
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 뒤집힌 보트 집 그룹 GroupID)
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 0
+정렬순서 : 330
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 정보 ⑦(마을 사람 일곱 명의 이름)과 ⑩(레이·노라가 에드거·월터·톰·그레이스가 죽은 기간 동안 외해 조업 중이었다는 것)을 한 단서로 전달한다. 일곱 이름이 모두 나오지만, 누가 누구와 가족인지·누가 죽었는지는 쓰지 않는다. 이 집 사람이 레이·노라라는 것도 일정표에서 외해 조업자로 확인되는 이름과 쪽지·영수증의 이름이 맞물려 추리된다.
+내용 :
+부엌 벽에 조업 일정표가 붙어 있다.
+
+[9월 조업 일정]
+외해: 레이, 노라 (9월 1일 ~ 3일)
+연안: 에드거, 월터
+어구 정비: 톰, 그레이스
+항구 당번: 대니
+HTML :
+<div class="story-content">
+  <div class="script-direction">부엌 벽에 조업 일정표가 붙어 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[9월 조업 일정]<br />외해: 레이, 노라 (9월 1일 ~ 3일)<br />연안: 에드거, 월터<br />어구 정비: 톰, 그레이스<br />항구 당번: 대니</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A handwritten fishing schedule pinned on a kitchen wall, a short list of names beside work assignments. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 27_베일라_뒤집힌_보트_집_3
+
+
+[clue_28]
+이름 : 뒤집힌 보트 집#4
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 뒤집힌 보트 집 그룹 GroupID)
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 0
+정렬순서 : 340
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 톰·그레이스가 에드거·월터의 변사체를 확인했다는 것(정보 4)과, 마을 사람들이 최근 한 여자를 죽였고 그 보복을 두려워한다는 것(정보 9)을 전한다. 톰이 가까운 곳에 살면서도 쪽지를 남긴 이유는 레이·노라가 외해 조업으로 집을 비웠기 때문이다(일정표와 맞물림). 쪽지를 레이·노라가 읽은 뒤 죽었다는 점이 희생 순서(정보 5)를 완성한다. 쪽지 내용은 사용자 확정 문구를 그대로 쓰고, 작성자는 끝의 "톰"으로만 알린다 — 서술자가 신원을 말하지 않는다.
+내용 :
+식탁 위에 쪽지 한 장이 놓여 있다.
+
+"에드거와 월터가 죽었다. 그 여자가 돌아온 걸까. 유령이 한 짓이라면 우리 모두 끝이다. 조심해라. - 톰"
+HTML :
+<div class="story-content">
+  <div class="script-direction">식탁 위에 쪽지 한 장이 놓여 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">"에드거와 월터가 죽었다. 그 여자가 돌아온 걸까. 유령이 한 짓이라면 우리 모두 끝이다. 조심해라. - 톰"</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A hurried handwritten note lying on a kitchen table, short lines, shaky handwriting. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 28_베일라_뒤집힌_보트_집_4
+
+
+[clue_29]
+이름 : 뒤집힌 보트 집#5
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 뒤집힌 보트 집 그룹 GroupID)
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 0
+정렬순서 : 350
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 베일라
+의도 : 마을과 연구시설 사이에 접점이 있었다는 것(정보 6). 레이가 연구소에 갑각류를 납품했고 수령인이 "A. Boyd"라는 사실만 전한다 — 마커스가 통제구역 시신의 이름 자수 "A. Boyd"로 추리한 앨런과 베일라 쪽에서 서로 확인되는 고리이며, 다음 단서(케이스)의 암호 "앨런"으로 이어지는 근거가 된다.
+내용 :
+서랍 안에 수령증 철이 있다. "크래비스 해양생태 관측소"라고 인쇄된 수령증마다 납품자란에는 "레이", 수령인 서명란에는 "A. Boyd"라고 적혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">서랍 안에 수령증 철이 있다.</div>
+  <div>"크래비스 해양생태 관측소"라고 인쇄된 수령증마다 납품자란에는 "레이", 수령인 서명란에는 "A. Boyd"라고 적혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A binder of printed delivery receipts from a marine ecology observatory, a delivery name filled in and a signature line reading "A. Boyd" on each sheet. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 29_베일라_뒤집힌_보트_집_5
+
+
+[clue_30]
+이름 : 뒤집힌 보트 집#6
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (크래비스 섬 - 뒤집힌 보트 집 그룹 GroupID)
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 0
+정렬순서 : 360
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '앨런' 입력(2차 통화로 마커스에게 받은 이름)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 보너스(진행과 무관). 레이가 연구소에 갑각류를 나르던 표본 운반 케이스 — 앨런이 장비를 지급하며 기본 암호를 자기 이름으로 해뒀고 레이는 바꾸지 않았다. 레이는 잠글 수 있는 유일한 상자라 죄책감 때문에 몰래 모아둔 옛 신문 스크랩을 여기에 넣어뒀다. 열면 정보 1·2·3(모란 일당의 정체, 에드거의 손등 화상, 아서 콜린스의 실종)이 한꺼번에 이어진다 — 에드거 서랍의 일곱 이름이 수배 명단과 같고, 손등 화상이 에드거의 시신·사진과 맞는다. 사진 속 얼굴이 마을 사람과 닮았다는 식의 해석은 텍스트로 쓰지 않는다.
+질문 HTML :
+<div class="story-content">
+  <div>식탁 아래에 뚜껑이 달린 케이스가 놓여 있다. "크래비스 해양생태 관측소 / 관리: A. Boyd"라고 적힌 라벨이 붙어 있다.</div>
+  <div>뚜껑에는 글자 자물쇠가 달려 있다. 암호를 입력해야 열릴 것 같다.</div>
+</div>
+내용 :
+케이스 안에서 누렇게 바랜 신문 스크랩 두 장이 나온다.
+
+[2011년 4월]
+"해안 밀수 조직 일제 소탕, 핵심 수뇌부는 도주"
+수배자: 프랭크 모란, 레너드 크로스, 마이클 오코너, 패트리샤 번스, 지미 쇼, 데비 콜, 로니 헤이즈
+프랭크 모란: 오른쪽 손등에 화상 흉터
+
+[2011년 9월]
+"지역 어부 아서 콜린스, 바닷길에서 실종"
+HTML :
+<div class="story-content">
+  <div class="script-direction">케이스 안에서 누렇게 바랜 신문 스크랩 두 장이 나온다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[2011년 4월]<br />"해안 밀수 조직 일제 소탕, 핵심 수뇌부는 도주"<br />수배자: 프랭크 모란, 레너드 크로스, 마이클 오코너, 패트리샤 번스, 지미 쇼, 데비 콜, 로니 헤이즈<br />프랭크 모란: 오른쪽 손등에 화상 흉터</div>
+  </div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[2011년 9월]<br />"지역 어부 아서 콜린스, 바닷길에서 실종"</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A lockable specimen transport case opened on a floor, yellowed newspaper clippings inside with a list of wanted names and a short headline about a missing fisherman. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 30_베일라_뒤집힌_보트_집_6
