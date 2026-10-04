@@ -2,9 +2,9 @@
 
 StoryID : 488dc2d2-b646-4b64-80a9-9ebf6343dffd
 
-※ 기획안.md 기준 단서 문서. 베일라 1~4단계와 마커스 1~3단계가 작성돼 있고, 마커스 4단계는 아직 설계 전이라 포함하지 않는다. 확정되는 대로 이 파일에 이어서 추가한다.
+※ 기획안.md 기준 단서 문서. 베일라와 마커스의 1~4단계가 모두 작성돼 있다(4단계는 임시 초안).
 ※ 베일라 1~4단계 → 마커스 1~4단계 순으로, 같은 단계끼리 나란히 비교할 수 있도록 정렬한다.
-※ 전체 줄거리 요약(참고용): 마을 사람 7명은 전부 20년도 더 전에 소탕된 밀수 조직("모란 일당")의 생존 수뇌부로, 혈연관계 없이 "홀트 집안"을 자처하며 숨어 살아왔다. 20년 전 베일라의 친할아버지가 이들의 정체를 알아채 살해당했다. 베일라의 사촌 어슐라 콜린스는 이 사실을 추적하다 같은 사람들에게 살해당했으나, 인근 연구시설 사고로 유출된 물질 덕에 두족류 인간으로 되살아나 하루 한 명씩 복수해왔다(어젯밤 마지막 희생자로 마을 전체가 빔). 연구시설 쪽은 별개 사건 — 신입 연구원(실은 정부 감사 요원)에게 소장의 비공식 "급속 진화" 연구가 발각되자, 소장 본인이 시제품을 탄산수라고 속여 전원에게 먹여 전원이 사망(오웬만 한 모금 마시고 개수대에 쏟아버려 치매 노인처럼만 늙고 생존)했다. 두 사건은 같은 사고(물질 유출)에서 갈라져 나왔을 뿐, 서로 무관한 비극이다.
+※ 전체 줄거리 요약(참고용): 마을 사람 7명은 전부 20년도 더 전에 소탕된 밀수 조직("모란 일당")의 생존 수뇌부로, 혈연관계 없이 "홀트 집안"을 자처하며 숨어 살아왔다. 20년 전 베일라의 친할아버지가 이들의 정체를 알아채 살해당했다. 베일라의 사촌 어슐라 콜린스는 이 사실을 추적하다 같은 사람들에게 살해당했으나, 인근 연구시설 사고로 유출된 물질 덕에 두족류 인간으로 되살아나 하루에 한 집씩 복수해왔다(오늘 새벽 마지막 희생자로 마을 전체가 빔). 연구시설 쪽은 별개 사건 — 신입 연구원(실은 정부 감사 요원)에게 소장의 비공식 "급속 진화" 연구가 발각되자, 소장이 건배를 구실로 시제품을 탄 음료를 전원에게 마시게 했는데, 오웬이 몰래 바꿔 둔 보드카의 C2H5OH 때문에 노화가 되어 전원이 사망(오웬만 조금 마시고 개수대에 쏟아버려 치매 노인처럼만 늙고 생존)했다. 두 사건은 같은 사고(물질 유출)에서 갈라져 나왔을 뿐, 서로 무관한 비극이다.
 ※ 페어플레이 원칙(내용/HTML 필드): 관찰 가능한 사실만 제공하고, 결론·동기·정체에 대한 어떤 단정도 서술자가 대신 내리지 않는다. [[feedback_clue_fairplay_observability]] 참고.
 ※ 참고: 게화는 협력 추리물이라 상대에게 숨기는 개별 비밀 단서가 없다. 대부분 자동 지급형이라 "교환 가능 여부" 필드는 N이다. 단, 통화로 받은 코드(암호)를 입력해 여는 보너스 단서가 2단계부터 있다 — 이 단서는 "획득 조건 존재 여부 Y, 시작 표시 상태 뒷면, 질문 HTML 포함" 형식을 쓴다(통발 쌓인 집#3, 연구 구역#6).
 
@@ -372,22 +372,22 @@ groupId : (연구시설 - 일반 구역 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
-의도 : 이름표 대신 이 사진 하나로 "연구원이 누구누구 있었는지", "클로이가 신입이고 이 날짜에 환영받았다는 것"을 추론하게 하는 물증. 포즈 순서와 뒷면 이름 순서를 왼쪽부터 나란히 대응시켜, 캔을 든 사람이 오웬이고 긴 머리의 오른쪽 끝 사람이 클로이라는 걸 플레이어가 직접 짝지어 추론하게 한다 — 연구시설#6의 탄산음료 캔과 연결되고, 3단계 통제 구역 복도의 긴 머리카락과도 이어지므로 클로이는 이 팀의 유일한 여성이자 장발이어야 한다. 네 사람 모두 친해 보인다는 인상만 주고, 이후 벌어진 일과의 대비는 텍스트로 설명하지 않는다.
+의도 : 이름표 대신 이 사진 하나로 "연구원이 누구누구 있었는지", "클로이가 신입이고 이 날짜에 환영받았다는 것"을 추론하게 하는 물증. 포즈 순서와 뒷면 이름 순서를 왼쪽부터 나란히 대응시켜, 술병을 든 사람이 오웬이고 긴 머리의 오른쪽 끝 사람이 클로이라는 걸 플레이어가 직접 짝지어 추론하게 한다 — 연구시설#6의 빈 술병과 연결되고, 3단계 통제 구역 복도의 긴 머리카락과도 이어지므로 클로이는 이 팀의 유일한 여성이자 장발이어야 한다. 네 사람 모두 친해 보인다는 인상만 주고, 이후 벌어진 일과의 대비는 텍스트로 설명하지 않는다.
 내용 :
-휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 탄산음료 캔을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
+휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 술병을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
 
 "클로이를 환영하며 — 션, 오웬, 앨런 — 2031. 4."
 HTML :
 <div class="story-content">
   <div class="script-direction">휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다.</div>
-  <div>맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 탄산음료 캔을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다.</div>
+  <div>맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 술병을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다.</div>
   <div>액자를 들어보니 뒷면에 짧은 글씨가 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">"클로이를 환영하며 — 션, 오웬, 앨런 — 2031. 4."</div>
   </div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A framed group photo on a break room wall, four people posing in a row: the leftmost with an arm around the next person's shoulder, the second person holding up a soda can, the third making a peace sign, the rightmost a woman with long hair brushed back over her shoulder, smiling; the back of the frame shows handwritten names and a date. Grainy 16mm film still, desaturated cool teal-black color grade.
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A framed group photo on a break room wall, four people posing in a row: the leftmost with an arm around the next person's shoulder, the second person holding up a liquor bottle, the third making a peace sign, the rightmost a woman with long hair brushed back over her shoulder, smiling; the back of the frame shows handwritten names and a date. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 일반 구역
 파일명 : 11_마커스_연구시설_5
 
@@ -411,14 +411,14 @@ groupId : (연구시설 - 일반 구역 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
-의도 : 오웬이 우연히 생존한 이유를 암시하는 관찰 가능한 복선(8-0 참고) — "왜 그만 살아남았는가"는 텍스트로 전혀 설명하지 않는다. 특정 책상이 아니라 휴게실 공용 쓰레기통에 두어, 앞서 본 단체사진(연구시설#5)의 "캔을 든 사람" 묘사를 뒷받침하는 확인 물증으로 마지막에 배치한다.
+의도 : 오웬이 우연히 생존한 이유를 암시하는 관찰 가능한 복선(8-0 참고) — "왜 그만 살아남았는가"는 텍스트로 전혀 설명하지 않는다. 특정 책상이 아니라 휴게실 공용 쓰레기통에 두어, 앞서 본 단체사진(연구시설#5)의 "술병을 든 사람" 묘사를 뒷받침하는 확인 물증으로 마지막에 배치한다.
 내용 :
-휴게실 한쪽, 쓰레기통 안에 이런저런 쓰레기가 뒤섞여 있는데, 그중에서도 탄산음료 캔이 유독 많다.
+휴게실 한쪽, 쓰레기통 안에 이런저런 쓰레기가 뒤섞여 있는데, 그중에서도 빈 술병이 유독 많다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">휴게실 한쪽, 쓰레기통 안에 이런저런 쓰레기가 뒤섞여 있는데, 그중에서도 탄산음료 캔이 유독 많다.</div>
+  <div class="script-direction">휴게실 한쪽, 쓰레기통 안에 이런저런 쓰레기가 뒤섞여 있는데, 그중에서도 빈 술병이 유독 많다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A break room wastebasket with an assortment of ordinary trash, soda cans noticeably more numerous than anything else in the mix. Grainy 16mm film still, desaturated cool teal-black color grade.
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A break room wastebasket with an assortment of ordinary trash, empty liquor bottles noticeably more numerous than anything else in the mix. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 일반 구역
 파일명 : 12_마커스_연구시설_6
 
@@ -786,15 +786,15 @@ groupId : (연구시설 - 연구 구역 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 마커스
-의도 : 정보 ①의 나머지 반쪽 — 보관소의 "RB-CBP" 병들이 전부 초록색이라는 것. 논문이 말한 붉은색과 어긋나므로 "RB-CBP라는 이름표를 붙인 다른 무언가"가 있다는 의문만 남긴다. 이 초록색 용액은 급속 노화 물질의 재료이고(완성품이 아님), 3단계 이후에서 마이어스의 연구대로 실험하면 투명한 색에 무색무취의 액체가 나온다는 게 밝혀진다 — 그 해석은 텍스트로 설명하지 않는다.
+의도 : 정보 ①의 나머지 반쪽 — 보관소의 "RB-CBP" 병들이 전부 초록색이라는 것. 같은 보관소의 다른 시약병들 사이에 "C2H5OH / 에틸 알코올"이 섞여 있다(4단계에서 C2H5OH가 알코올임을 알게 하는 복선이므로 본문은 병 이름만 보여주고 중요성을 설명하지 않는다). 논문이 말한 붉은색과 어긋나므로 "RB-CBP라는 이름표를 붙인 다른 무언가"가 있다는 의문만 남긴다. 이 초록색 용액은 급속 노화 물질의 재료이고(완성품이 아님), 3단계 이후에서 마이어스의 연구대로 실험하면 투명한 색에 무색무취의 액체가 나온다는 게 밝혀진다 — 그 해석은 텍스트로 설명하지 않는다.
 내용 :
-시약 보관소의 선반마다 "RB-CBP"라고 적힌 병이 줄지어 서 있다. 병 속 용액은 하나같이 짙은 초록색이다.
+시약 보관소의 선반마다 "RB-CBP"라고 적힌 병이 줄지어 서 있다. 병 속 용액은 하나같이 짙은 초록색이다. 한쪽 칸에는 증류수, 아세톤, "C2H5OH / 에틸 알코올" 같은 다른 시약병들이 섞여 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">시약 보관소의 선반마다 "RB-CBP"라고 적힌 병이 줄지어 서 있다.</div>
-  <div>병 속 용액은 하나같이 짙은 초록색이다.</div>
+  <div>병 속 용액은 하나같이 짙은 초록색이다. 한쪽 칸에는 증류수, 아세톤, "C2H5OH / 에틸 알코올" 같은 다른 시약병들이 섞여 있다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. Rows of identical glass reagent bottles on laboratory storage shelves, each labeled "RB-CBP", every bottle filled with deep green liquid. Grainy 16mm film still, desaturated cool teal-black color grade.
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. Rows of identical glass reagent bottles on laboratory storage shelves, each labeled "RB-CBP", every bottle filled with deep green liquid, with a few other reagent bottles on one shelf including one labeled "C2H5OH / Ethyl alcohol". Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 연구 구역
 파일명 : 22_마커스_연구_구역_4
 
@@ -1177,7 +1177,7 @@ HTML :
 
 ※ (임시 초안 — 확정 전.)
 ※ 통제 구역은 인가자만 출입할 수 있는 구역이다(클로이를 제외한 인원만 가능 — 클로이는 몰래 들어왔다). 이 단계는 "진상의 입구"까지만 보여준다. 노화·건배·개수대·6개월치 가짜 보고서의 이유는 4단계 비밀 구역에서 알린다.
-※ 오웬은 단서가 아니라 단계 지침으로 안내한다(치매 노인처럼 늙은 외형, 자판기 간식과 탄산음료로 버틴 방식은 단서가 완성된 뒤 지침에 쓴다). 오웬이 증언으로 진상을 말하지는 않는다. 오웬은 이 통제 구역에 숨어 지냈다.
+※ 오웬은 치매 노인처럼 늙은 채 이 통제 구역에 숨어 지냈다. 외형과 자판기 간식, 술로 버틴 방식은 단계 지침으로 안내한다. 오웬의 중얼거림은 단서(#5)다. 두서없는 단편만 흘러나오고 진상을 직접 설명하지는 않는다.
 ※ 시신은 2단계 앨런과 같은 방식(이름 자수, 신분증 장치 없음)으로 쓴다. 클로이의 정체(정부 감사 요원)는 이 단계에서 직접 드러내지 않는다. 클로이는 통제 구역을 조사하다 마이어스만 아는 비밀 구역이 있다는 것까지 알아냈으나 들어가는 법은 알아내지 못한 채 이곳에서 죽었다 — 시신에 비밀 구역으로 이어지는 힌트가 있다.
 
 
@@ -1332,7 +1332,7 @@ clueId : (자동 생성 예정)
 variantId : (자동 생성 예정)
 이미지 : (추후 업로드 예정)
 groupId : (연구시설 - 통제 구역 그룹 GroupID)
-유형 : 물증
+유형 : 관찰
 단계 : [통제 구역] (마커스, 3단계)
 소모AP : 0
 정렬순서 : 450
@@ -1341,27 +1341,31 @@ groupId : (연구시설 - 통제 구역 그룹 GroupID)
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
-시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
-관련 : 마커스
-의도 : 오웬이 기억이 사라지기 전에 필사적으로 벽에 남긴 메모. 이름(오웬 프라이스 = 1단계 서명 "프라이스")과 "션이 탄산수라고 줬다, 한 모금"까지만 알리고, 개수대·노화·건배 장소는 4단계로 미룬다. "…번째가 진짜다. 보관함."은 번호가 지워진 보관함(#6)과 베일라의 코드 "8"로 이어진다. 아래로 갈수록 글씨가 흐트러지고 문장이 끊기는 것으로 기억이 사라지는 과정을 보여준다. 오웬을 "치매 노인"이라고 직접 설명하지 않는다.
-내용 :
-벽에 연필로 적은 글이 있다. 아래로 갈수록 글씨가 흐트러진다.
+획득 조건 내용 :
+통제 구역 안쪽 구석에서 노인이 벽에 기대앉아 혼잣말을 중얼거리고 있다. 곁에는 빈 술병이 여러 개 굴러다닌다. 같은 말을 되풀이하다가 끊기곤 한다.
 
-나는 오웬 프라이스다.
-션이 탄산수라고 줬다. 한 모금.
-…번째가 진짜다. 보관함.
-나는 오
+"오웬, 오웬이야. 나는… 프라이스. 프라이스 맞지?"
+"건배라고 했어. 션이. 건배, 건배… 조금만 마셨어."
+"달아. 내 술이 아닌데. 달아. 냄새가 달아."
+"쏟았어. 개수대에. 다 쏟아버렸어."
+"병을 바꿨어. 내가. 내 보드카. 션은 몰라. 션은 몰라…"
+"앨런, 일어나. 앨런. 점심시간이야."
+"…번째가 진짜야. 보관함에 있어. 몇 번째였더라. 몇 번째…"
+"션? 션이 부르네. 션, 나 여기 있어."
 HTML :
 <div class="story-content">
-  <div class="script-direction">벽에 연필로 적은 글이 있다. 아래로 갈수록 글씨가 흐트러진다.</div>
+  <div class="script-direction">통제 구역 안쪽 구석에서 노인이 벽에 기대앉아 혼잣말을 중얼거리고 있다. 곁에는 빈 술병이 여러 개 굴러다닌다. 같은 말을 되풀이하다가 끊기곤 한다.</div>
   <div class="divider-gold"></div>
-  <div class="document-page">
-    <div class="document-body small">나는 오웬 프라이스다.<br />션이 탄산수라고 줬다. 한 모금.<br />…번째가 진짜다. 보관함.<br />나는 오</div>
-  </div>
+  <div>"오웬, 오웬이야. 나는… 프라이스. 프라이스 맞지?"</div>
+  <div>"건배라고 했어. 션이. 건배, 건배… 조금만 마셨어."</div>
+  <div>"달아. 내 술이 아닌데. 달아. 냄새가 달아."</div>
+  <div>"쏟았어. 개수대에. 다 쏟아버렸어."</div>
+  <div>"병을 바꿨어. 내가. 내 보드카. 션은 몰라. 션은 몰라…"</div>
+  <div>"앨런, 일어나. 앨런. 점심시간이야."</div>
+  <div>"…번째가 진짜야. 보관함에 있어. 몇 번째였더라. 몇 번째…"</div>
+  <div>"션? 션이 부르네. 션, 나 여기 있어."</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A bare concrete wall covered in pencil handwriting that starts neat and becomes increasingly shaky and fragmented toward the bottom. Grainy 16mm film still, desaturated cool teal-black color grade.
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An elderly man slumped against a bare concrete corridor wall muttering to himself, several empty glass bottles scattered beside him, dim light. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 통제 구역
 파일명 : 36_마커스_통제_구역_5
 
@@ -1700,3 +1704,303 @@ HTML :
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An opened cellar door with stairs leading down into dim light, a shelf at the bottom with an old worn notebook, a dusty cellar interior. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 크래비스 섬 - 언덕 위 집
 파일명 : 45_베일라_언덕_위_집_7
+
+
+## 마커스 4단계 [비밀 구역]
+
+※ (임시 초안 — 확정 전.)
+※ 비밀 구역은 마이어스만 아는 숨겨진 구역이다(통제 구역 안쪽 벽 너머). 입장은 컷씬으로 처리한다. 마이어스는 건배 이후 이곳으로 돌아와 일을 보다가 쓰러져 죽었다. 건배 이후의 마이어스 기록은 없다. 마이어스는 오웬이 병을 바꿨다는 것을 끝내 모른다.
+※ 단계 단서는 #1~#6 6개, 연계 보조는 #7(마이어스의 컴퓨터 #4를 암호 "evolution"으로 열면 AP 없이 뒷면으로 추가 배치되는 메모장). 컴퓨터 암호의 힌트는 입력창 위의 "나의 꿈"과 연구 노트(#3)의 흐름이다. 3단계 시신의 쪽지 "ution"이 마지막 글자들이다.
+※ 사람에게 적용된다는 내용은 컴퓨터 안(메모장 #7)에서만 나온다. 컴퓨터를 열지 못한 플레이어가 이 물질이 사람에게 쓰일 수 있다는 것을 알지 못하게 하려는 것이다(어슐라가 진화 대상이라는 것이 너무 쉽게 드러나지 않도록). 결과지(#2), 노트(#3), 화이트보드(#5)에는 사람에 대한 언급을 쓰지 않는다("죽음에 가까워질수록" 같은 일반론 정도).
+※ 연구 결과지(#2)와 연구 노트(#3)에는 "진화", "노화", "알코올"이라는 단어를 쓰지 않는다. 결과지는 관찰 결과로 알리고, 노트는 마이어스가 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 쓰되 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다. C2H5OH가 알코올이라는 것은 2단계 시약 보관소의 "C2H5OH / 에틸 알코올" 병으로 안다.
+※ 컴퓨터 안의 메모장(#7)은 계획서가 아니라 마이어스가 기억하려고 적어둔 단편적인 문장들이다.
+※ 금지: 오웬이 병을 바꿨다는 사실(마이어스는 모른다), 건배 이후의 서술, 어슐라에 대한 서술.
+
+
+[clue_46]
+이름 : 비밀 구역#1
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 비밀 구역 그룹 GroupID)
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 0
+정렬순서 : 610
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 마이어스의 시신. 연구원 넷의 행방이 모두 정리된다(앨런, 클로이, 마이어스는 사망, 오웬은 생존). 2단계 앨런, 3단계 클로이와 같은 방식으로 연구복의 이름 자수로 신원을 알린다. 건배 후 일을 보다가 쓰러졌다는 것은 쓰지 않는다. 한 손이 책상 쪽으로 뻗어 있다는 것만 보여준다. 15세 등급에 맞춰 암시적으로만 처리(10장).
+내용 :
+책상 앞 바닥에 연구복을 입은 노인이 쓰러져 있다.
+듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "S. Meyers"라는 이름이 수놓여 있다. 한 손은 책상 쪽으로 뻗어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 앞 바닥에 연구복을 입은 노인이 쓰러져 있다.</div>
+  <div>듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "S. Meyers"라는 이름이 수놓여 있다. 한 손은 책상 쪽으로 뻗어 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An elderly man in an oversized lab coat collapsed on the floor in front of a desk, thin white hair, deeply wrinkled skin, one hand stretched toward the desk, a name embroidered on the chest, no graphic detail. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 46_마커스_비밀_구역_1
+
+[clue_47]
+이름 : 비밀 구역#2
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 비밀 구역 그룹 GroupID)
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 0
+정렬순서 : 620
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 시제품의 반응 규칙을 관찰 결과로 알린다. "진화", "노화", "알코올"이라는 말은 쓰지 않는다. 시제품만 넣은 군은 크기가 늘고 모양이 바뀌며 활동성이 늘고, C2H5OH를 더한 군은 변색과 균열 끝에 전 개체가 죽고, 거기에 NaCl을 더하면 시제품만 넣은 군과 같아진다. 시제품만 넣은 군이 6시간 동안 호흡 정지 직전까지 위기를 겪은 뒤 회복하면서 크기와 비율이 변한다는 것(위기에서 재구성이 일어난다는 것을 관찰로만 보여준다), 위기 없이 소량만 닿은 개체는 변화가 없다는 것(헤엄치다 조금 마시는 것으로는 변하지 않는다는 근거), C2H5OH를 더한 군은 흡수량이 20ml 미만이면 변화가 도중에 멈춘다는 것(4단계 오웬의 상태를 설명)을 쓴다. 사람 환산과 사람에 대한 언급은 쓰지 않는다. 해석은 쓰지 않는다. 플레이어는 시신들의 모습(주름, 하얗게 센 머리)과 이 결과지의 "변색·균열·사멸"을 겹쳐 노화를 추리하고, 2단계 시약 보관소의 "C2H5OH / 에틸 알코올"로 C2H5OH가 알코올임을 안다.
+내용 :
+책상 위에 표가 인쇄된 결과지 한 장이 놓여 있다.
+8차 시제품 / 갑각류 각 6마리 / 24시간 관찰
+
+[대조군] 변화 없음.
+
+[시제품] 6시간: 활동 저하, 일부 호흡 정지 직전. 12시간: 전 개체 회복. 24시간: 전 개체 생존. 크기 증가. 갑각의 폭과 다리 길이의 비율 변화. 활동성 증가.
+
+[시제품 + C2H5OH] 6시간: 갑각 변색, 균열. 12시간: 움직임 정지. 24시간: 전 개체 사멸. 크기와 비율 변화 없음. 흡수량이 20ml 미만이면 도중에 멈춘다.
+
+[시제품 + C2H5OH + NaCl] 시제품 단독과 같은 경과.
+
+※ 시제품이 닿았으나 활동 저하가 없었던 개체는 변화 없음.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 위에 표가 인쇄된 결과지 한 장이 놓여 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">8차 시제품 / 갑각류 각 6마리 / 24시간 관찰<br /><br />[대조군] 변화 없음.<br /><br />[시제품] 6시간: 활동 저하, 일부 호흡 정지 직전. 12시간: 전 개체 회복. 24시간: 전 개체 생존. 크기 증가. 갑각의 폭과 다리 길이의 비율 변화. 활동성 증가.<br /><br />[시제품 + C2H5OH] 6시간: 갑각 변색, 균열. 12시간: 움직임 정지. 24시간: 전 개체 사멸. 크기와 비율 변화 없음. 흡수량이 20ml 미만이면 도중에 멈춘다.<br /><br />[시제품 + C2H5OH + NaCl] 시제품 단독과 같은 경과.<br /><br />※ 시제품이 닿았으나 활동 저하가 없었던 개체는 변화 없음.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A printed laboratory result sheet on a desk with a table of observations in rows, short notations and a footnote, no illustration. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 47_마커스_비밀_구역_2
+
+[clue_48]
+이름 : 비밀 구역#3
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 비밀 구역 그룹 GroupID)
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 0
+정렬순서 : 630
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 마이어스가 이 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 적은 노트. 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다(게로의 수렴, 환경이 정한 모양, 시간을 줄이는 것, 크기가 아니라 모양, 증명하겠다는 각오). 사람에 대한 언급은 쓰지 않는다. 마지막 장은 진지한 과학자의 각오로 쓴다. "진화"라는 단어는 쓰지 않는다. 플레이어가 이 흐름으로 "evolution"을 추리해 컴퓨터 암호를 풀게 한다. C2H5OH와 NaCl에 대한 문장은 알아낸 사실로만 쓰고 결과를 서술하지 않는다. 8차 성공(3단계 보관함)과도 이어진다(초반 실패의 원인).
+내용 :
+책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.
+[1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.
+
+[2] 생물은 환경이 정한 가장 알맞은 모양으로 간다. 걸리는 시간이 수백만 년일 뿐이다.
+
+[3] 시간을 줄일 수 있다면. 장갑 같은 건 부산물이다.
+
+[4] 자라게 하는 것만으로는 안 된다. 크기만 커지고 모양은 그대로다. 모양이 바뀌어야 한다.
+
+[5] RB-CBP 합성 중 이상 반응. 초록. 버리려던 한 방울이 표본에 떨어졌다. 모양이 바뀌었다.
+
+[6] C2H5OH를 쓰면 안 된다. 초반 실패는 전부 그 용매였다.
+
+[7] NaCl이 있으면 C2H5OH가 해를 못 낸다. 이유는 모르겠다. 쓸 수는 있다.
+
+[8] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.
+
+[9] 끝까지 확인한다. 결과로 증명하겠다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경이 정한 가장 알맞은 모양으로 간다. 걸리는 시간이 수백만 년일 뿐이다.<br /><br />[3] 시간을 줄일 수 있다면. 장갑 같은 건 부산물이다.<br /><br />[4] 자라게 하는 것만으로는 안 된다. 크기만 커지고 모양은 그대로다. 모양이 바뀌어야 한다.<br /><br />[5] RB-CBP 합성 중 이상 반응. 초록. 버리려던 한 방울이 표본에 떨어졌다. 모양이 바뀌었다.<br /><br />[6] C2H5OH를 쓰면 안 된다. 초반 실패는 전부 그 용매였다.<br /><br />[7] NaCl이 있으면 C2H5OH가 해를 못 낸다. 이유는 모르겠다. 쓸 수는 있다.<br /><br />[8] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.<br /><br />[9] 끝까지 확인한다. 결과로 증명하겠다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An old worn research notebook open on a desk, short handwritten entries numbered one after another, a pen beside it. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 48_마커스_비밀_구역_3
+
+[clue_49]
+이름 : 비밀 구역#4
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 비밀 구역 그룹 GroupID)
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 0
+정렬순서 : 640
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 'evolution' 입력(3단계 시신의 쪽지 "ution"과 연구 노트로 추리)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 마이어스의 컴퓨터. 암호는 "evolution"이다. 입력창 위에 "나의 꿈"이라는 힌트 문구가 적혀 있고, 연구 노트(#3)에서 마이어스가 원한 것이 진화였다는 걸 읽은 플레이어가 영어 단어로 추리한다. 3단계에서 받은 "ution"이 단어의 끝부분이다. 글자 수는 알리지 않는다. 열면 열려 있는 메모장(#7)이 뒷면으로 추가 배치된다(AP 없이 조사).
+질문 HTML :
+<div class="story-content">
+  <div>책상 위 컴퓨터가 켜져 있다. 화면에는 암호 입력창이 떠 있다.</div>
+  <div>입력창 위에 "나의 꿈"이라고 적혀 있다.</div>
+</div>
+내용 :
+암호가 풀리고 화면이 켜진다.
+화면 한쪽에 메모장 하나가 열려 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">암호가 풀리고 화면이 켜진다.</div>
+  <div>화면 한쪽에 메모장 하나가 열려 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An old desktop computer screen switching on, a small notepad window open at the side, dim green glow. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 49_마커스_비밀_구역_4
+
+[clue_50]
+이름 : 비밀 구역#5
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 비밀 구역 그룹 GroupID)
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 0
+정렬순서 : 650
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 마이어스의 결론 요약. 이 물질은 생명체의 신체를 현재 환경에서 가장 알맞은 구조로 재구성하며(급속 진화) 갑각류의 답은 게라는 것, 죽음에 가까워질수록 재구성이 강하게 일어난다는 것. 사람에 대한 언급은 쓰지 않는다(컴퓨터 안 메모장에서만 나온다). 어슐라가 진화 대상이라는 것이 너무 쉽게 드러나지 않게 하려는 것이다. 이 단서의 "진화"라는 단어가 컴퓨터 암호의 추가 힌트가 된다.
+내용 :
+벽의 화이트보드에 마커로 적은 글이 남아 있다.
+8차 시제품 요약
+
+- 생명체의 신체를 현재 환경에서 가장 알맞은 구조로 재구성한다(급속 진화).
+- 갑각류의 답은 게.
+- 죽음에 가까워질수록 재구성이 강하게 일어난다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">벽의 화이트보드에 마커로 적은 글이 남아 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">8차 시제품 요약<br /><br />- 생명체의 신체를 현재 환경에서 가장 알맞은 구조로 재구성한다(급속 진화).<br />- 갑각류의 답은 게.<br />- 죽음에 가까워질수록 재구성이 강하게 일어난다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A whiteboard on a laboratory wall with a few lines of marker handwriting in a short bulleted summary, faded smudges around the edges. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 50_마커스_비밀_구역_5
+
+[clue_51]
+이름 : 비밀 구역#6
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 비밀 구역 그룹 GroupID)
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 0
+정렬순서 : 660
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '게' 입력(3차 통화로 베일라에게 받은 단어)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 보너스(진행과 무관). 수조의 라벨은 "랍스터"뿐인데 안의 개체들이 게의 모습이다. 일부는 랍스터와 게가 합쳐진 중간 모습이다. 원래 랍스터 수조였는데 시제품이 들어가 게화가 이루어졌다는 관찰 증거다. 베일라가 준 "게"가 그대로 쓰인다. 해석(시제품 때문이라는 말, 진화)은 쓰지 않는다.
+질문 HTML :
+<div class="story-content">
+  <div>벽 쪽 수조에 갑각류 여러 마리가 있다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
+  <div>무엇을 자세히 살펴볼지 입력해야 할 것 같다.</div>
+</div>
+내용 :
+"게"를 살펴본다.
+수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 넓게 눌려 가는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">"게"를 살펴본다.</div>
+  <div>수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 넓게 눌려 가는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A glass tank in a dim laboratory, crabs and half-formed creatures that look like a mix of lobster and crab, a small label reading lobster on the tank. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 51_마커스_비밀_구역_6
+
+[clue_52]
+이름 : 비밀 구역#7
+clueId : (자동 생성 예정)
+variantId : (자동 생성 예정)
+이미지 : (추후 업로드 예정)
+groupId : (연구시설 - 비밀 구역 그룹 GroupID)
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 0
+정렬순서 : 670
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 비밀 구역#4(마이어스의 컴퓨터)를 암호로 열면 뒷면으로 추가 배치(연계 보조 단서, AP 없이 조사)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 연계 보조 단서. 컴퓨터에 열려 있는 메모장. 계획서가 아니라 마이어스가 기억하려고 적어둔 단편적인 문장들이다. 중단 명령(감사국, 클로이), 6개월치 보고서, "사람이라고 다를 것은 없겠지"라는 확신, 설립 8주년을 구실로 한 건배, 무알콜로 준비한 칵테일(휴게실 냉장고), 마지막에 시제품 100ml를 섞을 것, 자신도 마신다, 신념. 건배 이후의 기록은 없고 오웬이 병을 바꾼 것도 쓰지 않는다. 마이어스는 일부러 해치려 한 사람이 아니라 진심으로 믿은 사람이라는 인상을 남긴다.
+질문 HTML :
+<div class="story-content">
+  <div>메모장이 열려 있다.</div>
+</div>
+내용 :
+열려 있는 메모장에 짧은 문장들이 줄지어 적혀 있다.
+- 8/30 오후 감사국 명령. 라이언이 감사국이었다.
+- 처음부터 그랬다.
+- 보고서 9월~2월 서랍. 반년은 어떻게든 했어야 하는데.
+- 사람이라고 다를 것은 없겠지.
+- 오늘이 설립 8주년. 이걸로 건배.
+- 칵테일. 무알콜로 준비. 휴게실 냉장고.
+- 8차 100ml. 마지막에, 건배 직전에 섞을 것.
+- 나도 마신다.
+- 내가 틀리지 않았다는 걸 보여줄 수 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">열려 있는 메모장에 짧은 문장들이 줄지어 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">- 8/30 오후 감사국 명령. 라이언이 감사국이었다.<br />- 처음부터 그랬다.<br />- 보고서 9월~2월 서랍. 반년은 어떻게든 했어야 하는데.<br />- 사람이라고 다를 것은 없겠지.<br />- 오늘이 설립 8주년. 이걸로 건배.<br />- 칵테일. 무알콜로 준비. 휴게실 냉장고.<br />- 8차 100ml. 마지막에, 건배 직전에 섞을 것.<br />- 나도 마신다.<br />- 내가 틀리지 않았다는 걸 보여줄 수 있다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A notepad window on an old computer screen with several short lines of text, dim green glow. Grainy 16mm film still, desaturated cool teal-black color grade.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 52_마커스_비밀_구역_7
