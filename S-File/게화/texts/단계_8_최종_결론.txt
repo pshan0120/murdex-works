@@ -1,0 +1,48 @@
+StoryID : 488dc2d2-b646-4b64-80a9-9ebf6343dffd
+StepID : a91427d6-1523-41c2-b147-80bee2afe10d
+
+1. 순서
+8
+
+2. 단계 이름
+최종 결론
+
+3. 단계 유형
+CONCLUSION
+
+4. 예상 소요 시간
+15분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: High intensity dark orchestral hybrid, sustained tense strings held at a constant high pitch of tension, deep pulsing synth bass, faint tide rumble, sparse wordless choir pad accents, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 최종 질문</div>
+  <p>더는 시간을 끌 수 없습니다. 지금까지 알아낸 모든 것을 바탕으로, 각자에게 배정된 질문 3개에 직접 글로 답을 적어 제출하십시오. 질문은 역할마다 다릅니다.</p>
+  <p class="emphasis">이 단계는 정답을 맞히는 시험이면서, 두 사람이 하루 동안 쌓아온 추리를 기록하는 시간이기도 합니다. 확신이 없더라도 아는 데까지 적어 주세요.</p>
+  <div class="section-title">2. 답변 규칙</div>
+  <ul>
+    <li><span class="highlight">각자 작성</span>: 답안은 사람마다 따로 작성하고 제출합니다. 서로의 답안은 보이지 않습니다.</li>
+    <li><span class="highlight">침묵 속의 답변</span>: 질문이 시작되면 더 이상의 토론이나 정보 공유는 불가능합니다. 오직 본인의 판단에 따라 답을 적으십시오.</li>
+    <li><span class="highlight">자유 서술</span>: 질문마다 문장으로 서술하면 됩니다. 길게 쓸 필요는 없지만, 무엇이 어떻게 이어지는지 구체적으로 적을수록 좋습니다. 알고 있는 내용은 어느 칸에 적어도 인정됩니다.</li>
+    <li><span class="highlight">제출 후 수정 불가</span>: 제출하면 답안을 고칠 수 없으니, 제출 전에 한 번 더 읽어 보세요.</li>
+  </ul>
+  <div class="section-title">3. 채점과 점수</div>
+  <ul>
+    <li><span class="highlight">각자 채점</span>: 두 사람의 답안은 각각 채점되고, 최종 점수는 두 사람 점수의 평균입니다.</li>
+    <li><span class="highlight">발표는 엔딩 뒤에</span>: 점수는 다음 단계에서 엔딩 낭독을 모두 마친 뒤 발표됩니다.</li>
+  </ul>
+  <div class="section-title">4. 다음 단계 안내</div>
+  <p>두 사람이 모두 제출을 마쳤다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오. 다음 단계에서 엔딩이 낭독되고, 낭독이 끝나면 점수가 발표됩니다. 엔딩은 점수와 관계없이 모두에게 같습니다.</p>
+</div>
+
+8. 대본 관리 (구조화, DB 입력용)
+
+※ 질문 3개(역할별)와 채점 기준은 texts/최종질문_채점기준.md를 따른다. 엔딩 낭독 대본은 이 단계가 아니라 마지막 단계(단계 9)의 엔딩으로 등록한다(엔딩.txt, 엔딩_대본.txt).

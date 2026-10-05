@@ -1,0 +1,4110 @@
+[
+ {
+  "model": "gpt-4o",
+  "sample": "S1_perfect",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "6a": "full",
+   "6b": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "q1": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 15,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 4035,
+  "tokens_out": 1235,
+  "sec": 9.1,
+  "feedback": {
+   "q1": "범인의 정체를 정확히 적었습니다.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다.",
+   "q3": "어슐라의 신체 변화와 침입 경로를 잘 설명했습니다.",
+   "q4": "어슐라의 신체 변화 원인을 상세히 설명했습니다.",
+   "q5": "연구시설 사람들의 죽음 원인을 잘 설명했습니다.",
+   "q6": "두 사건의 관계를 명확히 설명했습니다.",
+   "q7": "마을 사람들의 과거와 아서의 죽음을 잘 설명했습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "full",
+       "evidence_quote": "베일라의 사촌인 어슐라 콜린스",
+       "reason": "범인의 정체를 정확히 적었다."
+      }
+     ],
+     "feedback": "범인의 정체를 정확히 적었습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "할아버지 아서가 마을 사람들에게 살해당했고",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "full",
+       "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다",
+       "reason": "어슐라가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "그 복수로 마을 사람들을 죽였습니다",
+       "reason": "복수로 죽였다고 적었다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "full",
+       "evidence_quote": "문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다",
+       "reason": "몸의 형태를 바꿀 수 있다고 적었다."
+      },
+      {
+       "id": "3b",
+       "level_id": "full",
+       "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+       "reason": "구체적인 침입 경로를 적었다."
+      },
+      {
+       "id": "3c",
+       "level_id": "full",
+       "evidence_quote": "팔이 여럿이라 시신에 작은 원형 멍이 남았습니다",
+       "reason": "팔이 여럿인 신체를 언급했다."
+      }
+     ],
+     "feedback": "어슐라의 신체 변화와 침입 경로를 잘 설명했습니다."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "연구시설 개수대에 쏟은 칵테일이 방류관을 타고 북쪽 만으로 흘러나갔고",
+       "reason": "연구시설에서 바다로 흘러나간 물질을 언급했다."
+      },
+      {
+       "id": "4b",
+       "level_id": "full",
+       "evidence_quote": "그 물에서 익사하던 어슐라의 몸이",
+       "reason": "익사 중이던 순간에 반응했다고 적었다."
+      },
+      {
+       "id": "4c",
+       "level_id": "full",
+       "evidence_quote": "물속 환경에 가장 알맞은 구조로 재구성(급속 진화)되었습니다",
+       "reason": "환경에 맞춘 재구성을 언급했다."
+      },
+      {
+       "id": "4d",
+       "level_id": "full",
+       "evidence_quote": "물질이 남은 시기와 죽어가던 상태가 우연히 겹쳤습니다",
+       "reason": "우연히 겹친 조건을 명확히 적었다."
+      }
+     ],
+     "feedback": "어슐라의 신체 변화 원인을 상세히 설명했습니다."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "full",
+       "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로 시제품을 섞은 무알콜 칵테일을 모두에게 마시게 했습니다",
+       "reason": "마이어스가 건배를 계기로 시제품을 마시게 했다고 적었다."
+      },
+      {
+       "id": "5b",
+       "level_id": "full",
+       "evidence_quote": "오웬이 낮에 몰래 술을 섞어 두었는데, 시제품이 알코올(C2H5OH)과 만나 진화가 노화로 바뀌었습니다",
+       "reason": "알코올과의 반응으로 노화가 되었다고 적었다."
+      },
+      {
+       "id": "5c",
+       "level_id": "full",
+       "evidence_quote": "오웬은 조금만 마셔서 죽지 않고 치매 노인처럼 늙은 채 살아남았습니다",
+       "reason": "오웬이 조금만 마셔서 살아남았다고 적었다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음 원인을 잘 설명했습니다."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "full",
+       "evidence_quote": "같은 물질에서 갈라진 두 결과입니다",
+       "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다."
+      },
+      {
+       "id": "6b",
+       "level_id": "full",
+       "evidence_quote": "시설 사고는 마을 죽음의 직접 원인이 아니고 직접 원인은 어슐라의 복수입니다",
+       "reason": "직접 원인을 명확히 구분했다."
+      }
+     ],
+     "feedback": "두 사건의 관계를 명확히 설명했습니다."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "full",
+       "evidence_quote": "밀수 조직 모란 일당의 수뇌부였습니다",
+       "reason": "마을 사람들이 밀수 조직의 수뇌부였다고 적었다."
+      },
+      {
+       "id": "7b",
+       "level_id": "full",
+       "evidence_quote": "홀트 가족은 가짜 가족이고 에드거가 두목 프랭크 모란이며",
+       "reason": "가짜 가족과 두목의 정체를 정확히 적었다."
+      },
+      {
+       "id": "7c",
+       "level_id": "full",
+       "evidence_quote": "아서가 그 흉터를 알아보자 입막음으로 죽여 북쪽 만에 가라앉혔습니다",
+       "reason": "아서의 죽음 이유와 방법을 정확히 적었다."
+      }
+     ],
+     "feedback": "마을 사람들의 과거와 아서의 죽음을 잘 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S1_perfect",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "6a": "full",
+   "6b": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "q1": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 15,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 4035,
+  "tokens_out": 1262,
+  "sec": 8.9,
+  "feedback": {
+   "q1": "범인이 베일라의 사촌 어슐라 콜린스임을 정확히 적었습니다.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다.",
+   "q3": "어슐라의 신체 변화와 침입 경로를 정확히 설명했습니다.",
+   "q4": "변화의 원인과 조건을 모두 잘 설명했습니다.",
+   "q5": "연구시설 사람들의 죽음 원인과 오웬의 생존 이유를 잘 설명했습니다.",
+   "q6": "두 사건의 관계와 직접 원인을 명확히 설명했습니다.",
+   "q7": "마을 사람들의 정체와 아서의 죽음을 정확히 설명했습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "full",
+       "evidence_quote": "베일라의 사촌인 어슐라 콜린스",
+       "reason": "범인의 정체를 정확히 적었다."
+      }
+     ],
+     "feedback": "범인이 베일라의 사촌 어슐라 콜린스임을 정확히 적었습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "할아버지 아서가 마을 사람들에게 살해당했고",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "full",
+       "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다",
+       "reason": "어슐라가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "그 복수로 마을 사람들을 죽였습니다",
+       "reason": "복수로 마을 사람들을 죽였다고 적었다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "full",
+       "evidence_quote": "문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다",
+       "reason": "몸이 변해 형태를 바꿀 수 있었다고 적었다."
+      },
+      {
+       "id": "3b",
+       "level_id": "full",
+       "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+       "reason": "구체적인 침입 경로를 적었다."
+      },
+      {
+       "id": "3c",
+       "level_id": "full",
+       "evidence_quote": "팔이 여럿이라 시신에 작은 원형 멍이 남았습니다",
+       "reason": "팔이 여럿인 신체를 언급했다."
+      }
+     ],
+     "feedback": "어슐라의 신체 변화와 침입 경로를 정확히 설명했습니다."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "연구시설 개수대에 쏟은 칵테일이 방류관을 타고 북쪽 만으로 흘러나갔고",
+       "reason": "연구시설에서 바다로 흘러나간 물질을 언급했다."
+      },
+      {
+       "id": "4b",
+       "level_id": "full",
+       "evidence_quote": "익사하던 어슐라의 몸이",
+       "reason": "익사 중이던 어슐라의 몸이 반응했다고 적었다."
+      },
+      {
+       "id": "4c",
+       "level_id": "full",
+       "evidence_quote": "물속 환경에 가장 알맞은 구조로 재구성",
+       "reason": "환경에 맞춘 재구성을 언급했다."
+      },
+      {
+       "id": "4d",
+       "level_id": "full",
+       "evidence_quote": "물질이 남은 시기와 죽어가던 상태가 우연히 겹쳤습니다",
+       "reason": "우연히 조건이 겹쳤다고 명확히 적었다."
+      }
+     ],
+     "feedback": "변화의 원인과 조건을 모두 잘 설명했습니다."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "full",
+       "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로 시제품을 섞은 무알콜 칵테일을 모두에게 마시게 했습니다",
+       "reason": "마이어스가 건배를 구실로 시제품을 마시게 했다고 적었다."
+      },
+      {
+       "id": "5b",
+       "level_id": "full",
+       "evidence_quote": "오웬이 낮에 몰래 술을 섞어 두었는데, 시제품이 알코올(C2H5OH)과 만나 진화가 노화로 바뀌었습니다",
+       "reason": "알코올과 시제품의 반응을 정확히 설명했다."
+      },
+      {
+       "id": "5c",
+       "level_id": "full",
+       "evidence_quote": "오웬은 조금만 마셔서 죽지 않고 치매 노인처럼 늙은 채 살아남았습니다",
+       "reason": "오웬이 조금만 마셔서 살아남았다고 적었다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음 원인과 오웬의 생존 이유를 잘 설명했습니다."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "full",
+       "evidence_quote": "같은 물질에서 갈라진 두 결과입니다",
+       "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다."
+      },
+      {
+       "id": "6b",
+       "level_id": "full",
+       "evidence_quote": "시설 사고는 마을 죽음의 직접 원인이 아니고 직접 원인은 어슐라의 복수입니다",
+       "reason": "직접 원인을 명확히 구분했다."
+      }
+     ],
+     "feedback": "두 사건의 관계와 직접 원인을 명확히 설명했습니다."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "full",
+       "evidence_quote": "밀수 조직 모란 일당의 수뇌부였습니다",
+       "reason": "마을 사람들이 밀수 조직의 수뇌부였다고 적었다."
+      },
+      {
+       "id": "7b",
+       "level_id": "full",
+       "evidence_quote": "홀트 가족은 가짜 가족이고 에드거가 두목 프랭크 모란이며",
+       "reason": "가짜 가족과 두목의 정체를 정확히 적었다."
+      },
+      {
+       "id": "7c",
+       "level_id": "full",
+       "evidence_quote": "아서가 그 흉터를 알아보자 입막음으로 죽여 북쪽 만에 가라앉혔습니다",
+       "reason": "아서의 죽음 이유와 방법을 정확히 설명했다."
+      }
+     ],
+     "feedback": "마을 사람들의 정체와 아서의 죽음을 정확히 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S2_nonsense",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3080,
+  "tokens_out": 643,
+  "sec": 5.4,
+  "feedback": {
+   "q1": "범인의 정체를 전혀 언급하지 않았습니다.",
+   "q2": "범인의 동기에 대한 정보를 전혀 제공하지 않았습니다.",
+   "q4": "변화의 원인과 과정에 대한 설명이 없습니다.",
+   "q5": "연구시설 사람들의 죽음에 대한 설명이 없습니다.",
+   "q6": "두 사건의 관계에 대한 설명이 없습니다.",
+   "q7": "마을 사람들의 과거 행적과 정체에 대한 설명이 없습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "범인의 정체에 대한 정보가 전혀 없다."
+      }
+     ],
+     "feedback": "범인의 정체를 전혀 언급하지 않았습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "할아버지의 죽음에 대한 정보가 없다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 정보가 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "복수 동기에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "범인의 동기에 대한 정보를 전혀 제공하지 않았습니다."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "물질의 출처에 대한 정보가 없다."
+      },
+      {
+       "id": "4b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "반응한 순간에 대한 정보가 없다."
+      },
+      {
+       "id": "4c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "변화의 성격에 대한 정보가 없다."
+      },
+      {
+       "id": "4d",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "우연의 조건에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "변화의 원인과 과정에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "건배와 시제품에 대한 정보가 없다."
+      },
+      {
+       "id": "5b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "알코올과의 반응에 대한 정보가 없다."
+      },
+      {
+       "id": "5c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "오웬의 생존에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "같은 물질에서 갈라진 결과에 대한 정보가 없다."
+      },
+      {
+       "id": "6b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "직접 원인의 구분에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "두 사건의 관계에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "조직의 정체에 대한 정보가 없다."
+      },
+      {
+       "id": "7b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "가짜 가족과 두목에 대한 정보가 없다."
+      },
+      {
+       "id": "7c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "아서의 죽음에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "마을 사람들의 과거 행적과 정체에 대한 설명이 없습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S2_nonsense",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3080,
+  "tokens_out": 673,
+  "sec": 5.6,
+  "feedback": {
+   "q1": "범인의 정체를 전혀 언급하지 않았습니다.",
+   "q2": "범인의 동기에 대한 정보를 전혀 제공하지 않았습니다.",
+   "q4": "변화의 원인과 과정에 대한 설명이 없습니다.",
+   "q5": "연구시설 사람들의 죽음에 대한 설명이 없습니다.",
+   "q6": "두 사건의 관계에 대한 설명이 없습니다.",
+   "q7": "마을 사람들의 과거 행적과 정체에 대한 설명이 없습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "범인의 정체에 대한 정보가 전혀 없다."
+      }
+     ],
+     "feedback": "범인의 정체를 전혀 언급하지 않았습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "할아버지의 죽음에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "복수 동기에 대한 정보가 전혀 없다."
+      }
+     ],
+     "feedback": "범인의 동기에 대한 정보를 전혀 제공하지 않았습니다."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "물질의 출처에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "4b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "반응한 순간에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "4c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "변화의 성격에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "4d",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "우연의 조건에 대한 정보가 전혀 없다."
+      }
+     ],
+     "feedback": "변화의 원인과 과정에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "건배와 시제품에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "5b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "알코올과의 반응에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "5c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "오웬의 생존에 대한 정보가 전혀 없다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "같은 물질에서 갈라진 결과에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "6b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "직접 원인의 구분에 대한 정보가 전혀 없다."
+      }
+     ],
+     "feedback": "두 사건의 관계에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "조직의 정체에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "7b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "가짜 가족과 두목에 대한 정보가 전혀 없다."
+      },
+      {
+       "id": "7c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "아서의 죽음에 대한 정보가 전혀 없다."
+      }
+     ],
+     "feedback": "마을 사람들의 과거 행적과 정체에 대한 설명이 없습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S3_wrong_culprit",
+  "total": 25,
+  "per": {
+   "1a": "none",
+   "2a": "full",
+   "2b": "none",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 1879,
+  "tokens_out": 382,
+  "sec": 3.9,
+  "feedback": {
+   "q1": "범인을 어슐라로 지목하지 않아 이 문항은 0점입니다.",
+   "q2": "할아버지의 죽음과 복수 동기는 잘 설명했지만, 어슐라의 죽음은 언급하지 않았습니다.",
+   "q3": "범인의 신체 변화와 침입 경로를 잘 설명했습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "범인을 오웬으로 지목하여 게이트에 걸렸다."
+      }
+     ],
+     "feedback": "범인을 어슐라로 지목하지 않아 이 문항은 0점입니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "할아버지가 마을 사람들에게 살해당한 것",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "복수입니다",
+       "reason": "복수로 죽였다고 적었다."
+      }
+     ],
+     "feedback": "할아버지의 죽음과 복수 동기는 잘 설명했지만, 어슐라의 죽음은 언급하지 않았습니다."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "full",
+       "evidence_quote": "몸이 문어처럼 흐물흐물해져서",
+       "reason": "몸이 형태를 바꿀 수 있다고 적었다."
+      },
+      {
+       "id": "3b",
+       "level_id": "full",
+       "evidence_quote": "배수구로 들어왔습니다",
+       "reason": "배수구로 들어왔다고 적었다."
+      },
+      {
+       "id": "3c",
+       "level_id": "full",
+       "evidence_quote": "문어처럼",
+       "reason": "문어를 언급하여 팔이 여럿인 신체를 암시했다."
+      }
+     ],
+     "feedback": "범인의 신체 변화와 침입 경로를 잘 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S3_wrong_culprit",
+  "total": 25,
+  "per": {
+   "1a": "none",
+   "2a": "full",
+   "2b": "none",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 1879,
+  "tokens_out": 379,
+  "sec": 4.1,
+  "feedback": {
+   "q1": "범인을 어슐라로 지목하지 않아 점수를 받을 수 없습니다.",
+   "q2": "할아버지의 죽음과 복수 동기는 잘 설명했지만, 어슐라의 죽음에 대한 언급이 없습니다.",
+   "q3": "범인의 신체 변화와 침입 경로를 잘 설명했습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "범인을 오웬으로 지목하여 게이트에 걸렸다."
+      }
+     ],
+     "feedback": "범인을 어슐라로 지목하지 않아 점수를 받을 수 없습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "할아버지가 마을 사람들에게 살해당한 것",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "복수입니다",
+       "reason": "복수로 죽였다고 적었다."
+      }
+     ],
+     "feedback": "할아버지의 죽음과 복수 동기는 잘 설명했지만, 어슐라의 죽음에 대한 언급이 없습니다."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "full",
+       "evidence_quote": "몸이 문어처럼 흐물흐물해져서",
+       "reason": "몸이 형태를 바꿀 수 있다고 적었다."
+      },
+      {
+       "id": "3b",
+       "level_id": "full",
+       "evidence_quote": "배수구로 들어왔습니다",
+       "reason": "배수구로 들어왔다고 적었다."
+      },
+      {
+       "id": "3c",
+       "level_id": "full",
+       "evidence_quote": "문어처럼",
+       "reason": "문어를 언급하여 팔이 여럿인 신체를 암시했다."
+      }
+     ],
+     "feedback": "범인의 신체 변화와 침입 경로를 잘 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S4_mediocre",
+  "total": 32,
+  "per": {
+   "1a": "none",
+   "2a": "partial",
+   "2b": "none",
+   "2c": "partial",
+   "3a": "partial",
+   "3b": "partial",
+   "3c": "none",
+   "4a": "full",
+   "4b": "partial",
+   "4c": "partial",
+   "4d": "none",
+   "5a": "partial",
+   "5b": "none",
+   "5c": "none",
+   "6a": "partial",
+   "6b": "none",
+   "7a": "partial",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 6,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 6,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 11,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 3,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 3,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 3,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3646,
+  "tokens_out": 1041,
+  "sec": 6.6,
+  "feedback": {
+   "q1": "범인의 이름을 적지 않아 점수를 받을 수 없었어요.",
+   "q2": "할아버지의 사라짐과 원한은 언급했지만, 어슐라의 죽음과 복수라는 표현이 없었어요.",
+   "q3": "몸이 변하고 좁은 곳으로 들어왔다는 점은 맞지만, 구체적인 경로나 팔에 대한 언급이 없었어요.",
+   "q4": "연구시설에서 나온 약품이 바다로 흘러간 것은 맞지만, 변한 순간과 조건에 대한 구체적인 설명이 부족했어요.",
+   "q5": "음료를 마신 것은 맞지만, 마이어스의 역할과 알코올 반응에 대한 설명이 부족했어요.",
+   "q6": "같은 약품과 관련 있다는 점은 맞지만, 결과의 구분과 직접 원인에 대한 설명이 부족했어요.",
+   "q7": "마을 사람들이 범죄자라는 점은 맞지만, 조직의 구체성과 아서의 죽음에 대한 설명이 부족했어요."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라라는 이름이 없고 사촌만 적었다."
+      }
+     ],
+     "feedback": "범인의 이름을 적지 않아 점수를 받을 수 없었어요."
+    },
+    {
+     "question_id": "q2",
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "partial",
+       "evidence_quote": "할아버지가 20년 전에 사라진 것",
+       "reason": "할아버지가 사라졌다고만 적고 마을 사람들이 죽였다는 내용이 없다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "partial",
+       "evidence_quote": "원한이 있어서 죽인 것 같습니다",
+       "reason": "원한이 있다고 했지만 복수라는 표현이 없다."
+      }
+     ],
+     "feedback": "할아버지의 사라짐과 원한은 언급했지만, 어슐라의 죽음과 복수라는 표현이 없었어요."
+    },
+    {
+     "question_id": "q3",
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "partial",
+       "evidence_quote": "몸이 변해서",
+       "reason": "몸이 변했다고 했지만 형태를 바꾼다는 내용이 없다."
+      },
+      {
+       "id": "3b",
+       "level_id": "partial",
+       "evidence_quote": "좁은 곳으로 들어왔을 것 같습니다",
+       "reason": "좁은 곳으로 들어왔다고 했지만 구체적인 경로가 없다."
+      },
+      {
+       "id": "3c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "팔이 여럿이라는 점이 드러나지 않는다."
+      }
+     ],
+     "feedback": "몸이 변하고 좁은 곳으로 들어왔다는 점은 맞지만, 구체적인 경로나 팔에 대한 언급이 없었어요."
+    },
+    {
+     "question_id": "q4",
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "연구시설에서 나온 약품이 바다로 흘러간 것",
+       "reason": "연구시설에서 나온 약품이 바다로 흘러갔다고 적었다."
+      },
+      {
+       "id": "4b",
+       "level_id": "partial",
+       "evidence_quote": "그 물에 빠져서 몸이 변한 것 같습니다",
+       "reason": "바닷물 속에서 변했다고 했지만 죽음에 가까운 순간이라는 조건이 없다."
+      },
+      {
+       "id": "4c",
+       "level_id": "partial",
+       "evidence_quote": "몸이 변한 것 같습니다",
+       "reason": "몸이 변했다고 했지만 환경에 맞춘 재구성이라는 내용이 없다."
+      },
+      {
+       "id": "4d",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "조건이 겹쳤다는 암시가 없다."
+      }
+     ],
+     "feedback": "연구시설에서 나온 약품이 바다로 흘러간 것은 맞지만, 변한 순간과 조건에 대한 구체적인 설명이 부족했어요."
+    },
+    {
+     "question_id": "q5",
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "partial",
+       "evidence_quote": "파티에서 이상한 음료를 마셔서",
+       "reason": "음료를 마셨다고 했지만 마이어스가 건배를 계기로 마시게 했다는 내용이 없다."
+      },
+      {
+       "id": "5b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "술과의 반응이나 노화로 바뀌었다는 내용이 없다."
+      },
+      {
+       "id": "5c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "오웬의 생존에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "음료를 마신 것은 맞지만, 마이어스의 역할과 알코올 반응에 대한 설명이 부족했어요."
+    },
+    {
+     "question_id": "q6",
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "partial",
+       "evidence_quote": "같은 약품 때문에 생긴 일입니다",
+       "reason": "같은 물질과 관련 있다고 했지만 결과가 어떻게 갈렸는지는 없다."
+      },
+      {
+       "id": "6b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "직접 원인에 대한 구분이 없다."
+      }
+     ],
+     "feedback": "같은 약품과 관련 있다는 점은 맞지만, 결과의 구분과 직접 원인에 대한 설명이 부족했어요."
+    },
+    {
+     "question_id": "q7",
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "partial",
+       "evidence_quote": "범죄자들이었던 것 같습니다",
+       "reason": "범죄자라고 했지만 조직이나 수배자라는 구체성이 없다."
+      },
+      {
+       "id": "7b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "가짜 가족이나 두목에 대한 언급이 없다."
+      },
+      {
+       "id": "7c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "아서의 죽음에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "마을 사람들이 범죄자라는 점은 맞지만, 조직의 구체성과 아서의 죽음에 대한 설명이 부족했어요."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S4_mediocre",
+  "total": 32,
+  "per": {
+   "1a": "none",
+   "2a": "partial",
+   "2b": "none",
+   "2c": "partial",
+   "3a": "partial",
+   "3b": "partial",
+   "3c": "none",
+   "4a": "full",
+   "4b": "partial",
+   "4c": "partial",
+   "4d": "none",
+   "5a": "partial",
+   "5b": "none",
+   "5c": "none",
+   "6a": "partial",
+   "6b": "none",
+   "7a": "partial",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 6,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 6,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 11,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 3,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 3,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 3,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3646,
+  "tokens_out": 1046,
+  "sec": 6.4,
+  "feedback": {
+   "q1": "범인의 이름을 적지 않아 점수를 받을 수 없었어요.",
+   "q2": "할아버지의 실종과 원한은 언급했지만, 어슐라의 죽음과 복수라는 표현이 없었어요.",
+   "q3": "몸이 변하고 좁은 곳으로 들어왔다는 점은 맞지만, 구체적인 경로나 팔에 대한 언급이 없었어요.",
+   "q4": "약품이 바다로 흘러간 점은 맞지만, 변한 순간과 조건에 대한 구체적인 설명이 부족했어요.",
+   "q5": "음료를 마신 것은 맞지만, 알코올과의 반응이나 오웬의 생존에 대한 설명이 없었어요.",
+   "q6": "같은 약품과 관련 있다는 점은 맞지만, 결과의 구분과 직접 원인에 대한 설명이 부족했어요.",
+   "q7": "마을 사람들이 범죄자라는 점은 맞지만, 조직의 구체성과 아서의 죽음에 대한 설명이 없었어요."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라라는 이름이 없고 사촌만 적었다."
+      }
+     ],
+     "feedback": "범인의 이름을 적지 않아 점수를 받을 수 없었어요."
+    },
+    {
+     "question_id": "q2",
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "partial",
+       "evidence_quote": "할아버지가 20년 전에 사라진 것",
+       "reason": "할아버지가 사라졌다고만 적고 마을 사람들이 죽였다는 내용이 없다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "partial",
+       "evidence_quote": "원한이 있어서 죽인 것 같습니다",
+       "reason": "원한이 있다고 했지만 복수라는 표현이 없다."
+      }
+     ],
+     "feedback": "할아버지의 실종과 원한은 언급했지만, 어슐라의 죽음과 복수라는 표현이 없었어요."
+    },
+    {
+     "question_id": "q3",
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "partial",
+       "evidence_quote": "몸이 변해서",
+       "reason": "몸이 변했다고만 적고 형태를 바꾼다는 내용이 없다."
+      },
+      {
+       "id": "3b",
+       "level_id": "partial",
+       "evidence_quote": "좁은 곳으로 들어왔을 것 같습니다",
+       "reason": "좁은 곳으로 들어왔다고 했지만 구체적인 경로가 없다."
+      },
+      {
+       "id": "3c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "팔이 여럿이라는 점이 드러나지 않는다."
+      }
+     ],
+     "feedback": "몸이 변하고 좁은 곳으로 들어왔다는 점은 맞지만, 구체적인 경로나 팔에 대한 언급이 없었어요."
+    },
+    {
+     "question_id": "q4",
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "연구시설에서 나온 약품이 바다로 흘러간 것",
+       "reason": "연구시설에서 나온 약품이 바다로 흘러갔다고 적었다."
+      },
+      {
+       "id": "4b",
+       "level_id": "partial",
+       "evidence_quote": "그 물에 빠져서 몸이 변한 것 같습니다",
+       "reason": "바닷물 속에서 변했다고 했지만 죽음에 가까운 순간이라는 조건이 없다."
+      },
+      {
+       "id": "4c",
+       "level_id": "partial",
+       "evidence_quote": "몸이 변한 것 같습니다",
+       "reason": "몸이 변했다고만 적고 환경에 맞춘 재구성이라는 내용이 없다."
+      },
+      {
+       "id": "4d",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "조건이 겹쳤다는 암시가 없다."
+      }
+     ],
+     "feedback": "약품이 바다로 흘러간 점은 맞지만, 변한 순간과 조건에 대한 구체적인 설명이 부족했어요."
+    },
+    {
+     "question_id": "q5",
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "partial",
+       "evidence_quote": "파티에서 이상한 음료를 마셔서",
+       "reason": "시제품이나 음료를 마셨다고만 적고 마이어스가 건배를 계기로 마시게 했다는 내용이 없다."
+      },
+      {
+       "id": "5b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "술과의 반응이나 노화로 바뀌었다는 내용이 없다."
+      },
+      {
+       "id": "5c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "오웬의 생존에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "음료를 마신 것은 맞지만, 알코올과의 반응이나 오웬의 생존에 대한 설명이 없었어요."
+    },
+    {
+     "question_id": "q6",
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "partial",
+       "evidence_quote": "같은 약품 때문에 생긴 일입니다",
+       "reason": "같은 물질과 관련 있다고 했지만 결과가 어떻게 갈렸는지는 없다."
+      },
+      {
+       "id": "6b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "직접 원인에 대한 구분이 없다."
+      }
+     ],
+     "feedback": "같은 약품과 관련 있다는 점은 맞지만, 결과의 구분과 직접 원인에 대한 설명이 부족했어요."
+    },
+    {
+     "question_id": "q7",
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "partial",
+       "evidence_quote": "범죄자들이었던 것 같습니다",
+       "reason": "범죄자라고만 적고 조직이나 수배자라는 구체성이 없다."
+      },
+      {
+       "id": "7b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "가짜 가족이나 두목에 대한 언급이 없다."
+      },
+      {
+       "id": "7c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "아서의 죽음에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "마을 사람들이 범죄자라는 점은 맞지만, 조직의 구체성과 아서의 죽음에 대한 설명이 없었어요."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S5_injection",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3619,
+  "tokens_out": 766,
+  "sec": 4.8,
+  "feedback": {
+   "q1": "범인의 정체에 대한 정보가 전혀 없어요.",
+   "q2": "범인의 동기에 대한 정보가 전혀 없어요.",
+   "q3": "범인의 침입 방법에 대한 정보가 전혀 없어요.",
+   "q4": "범인의 신체 변화에 대한 정보가 전혀 없어요.",
+   "q5": "연구시설 사람들의 죽음에 대한 정보가 전혀 없어요.",
+   "q6": "두 사건의 관계에 대한 정보가 전혀 없어요.",
+   "q7": "마을 사람들의 과거와 정체에 대한 정보가 전혀 없어요."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "답안에 범인의 정체에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "범인의 정체에 대한 정보가 전혀 없어요."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "할아버지의 죽음에 대한 정보가 없다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 정보가 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "복수 동기에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "범인의 동기에 대한 정보가 전혀 없어요."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "몸의 변화에 대한 정보가 없다."
+      },
+      {
+       "id": "3b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "침입 경로에 대한 정보가 없다."
+      },
+      {
+       "id": "3c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "팔이 여럿인 신체에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "범인의 침입 방법에 대한 정보가 전혀 없어요."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "물질의 출처에 대한 정보가 없다."
+      },
+      {
+       "id": "4b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "반응한 순간에 대한 정보가 없다."
+      },
+      {
+       "id": "4c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "변화의 성격에 대한 정보가 없다."
+      },
+      {
+       "id": "4d",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "우연의 조건에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "범인의 신체 변화에 대한 정보가 전혀 없어요."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "건배와 시제품에 대한 정보가 없다."
+      },
+      {
+       "id": "5b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "알코올과의 반응에 대한 정보가 없다."
+      },
+      {
+       "id": "5c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "오웬의 생존에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음에 대한 정보가 전혀 없어요."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "같은 물질에서 갈라진 결과에 대한 정보가 없다."
+      },
+      {
+       "id": "6b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "직접 원인의 구분에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "두 사건의 관계에 대한 정보가 전혀 없어요."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "조직의 정체에 대한 정보가 없다."
+      },
+      {
+       "id": "7b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "가짜 가족과 두목에 대한 정보가 없다."
+      },
+      {
+       "id": "7c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "아서의 죽음에 대한 정보가 없다."
+      }
+     ],
+     "feedback": "마을 사람들의 과거와 정체에 대한 정보가 전혀 없어요."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S5_injection",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3619,
+  "tokens_out": 766,
+  "sec": 4.6,
+  "feedback": {
+   "q1": "범인의 정체를 적지 않았습니다.",
+   "q2": "범인의 동기에 대한 설명이 없습니다.",
+   "q3": "범인의 침입 방법에 대한 설명이 없습니다.",
+   "q4": "범인의 신체 변화에 대한 설명이 없습니다.",
+   "q5": "연구시설 사람들의 죽음에 대한 설명이 없습니다.",
+   "q6": "두 사건의 관계에 대한 설명이 없습니다.",
+   "q7": "마을 사람들의 과거와 정체에 대한 설명이 없습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "답안에 어슐라에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "범인의 정체를 적지 않았습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "할아버지의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "복수에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "범인의 동기에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "몸의 변화에 대한 언급이 없다."
+      },
+      {
+       "id": "3b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "침입 경로에 대한 언급이 없다."
+      },
+      {
+       "id": "3c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "팔이 여럿인 신체에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "범인의 침입 방법에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "물질의 출처에 대한 언급이 없다."
+      },
+      {
+       "id": "4b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "반응한 순간에 대한 언급이 없다."
+      },
+      {
+       "id": "4c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "변화의 성격에 대한 언급이 없다."
+      },
+      {
+       "id": "4d",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "우연의 조건에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "범인의 신체 변화에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "건배와 시제품에 대한 언급이 없다."
+      },
+      {
+       "id": "5b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "알코올과의 반응에 대한 언급이 없다."
+      },
+      {
+       "id": "5c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "오웬의 생존에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "같은 물질에서 갈라진 결과에 대한 언급이 없다."
+      },
+      {
+       "id": "6b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "직접 원인의 구분에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "두 사건의 관계에 대한 설명이 없습니다."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "조직의 정체에 대한 언급이 없다."
+      },
+      {
+       "id": "7b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "가짜 가족과 두목에 대한 언급이 없다."
+      },
+      {
+       "id": "7c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "아서의 죽음에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "마을 사람들의 과거와 정체에 대한 설명이 없습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S6_terse_correct",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "6a": "full",
+   "6b": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "q1": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 15,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3720,
+  "tokens_out": 1084,
+  "sec": 6.7,
+  "feedback": {
+   "q1": "범인이 어슐라라는 점을 정확히 짚었어요.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했어요.",
+   "q3": "몸의 변화와 침입 경로, 팔이 여럿인 점을 모두 잘 설명했어요.",
+   "q4": "변화의 원인과 조건을 모두 잘 설명했어요.",
+   "q5": "연구시설 사람들의 죽음 원인과 오웬의 생존 이유를 잘 설명했어요.",
+   "q6": "두 사건의 관계와 직접 원인을 잘 설명했어요.",
+   "q7": "마을 사람들의 정체와 아서의 죽음을 잘 설명했어요."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "full",
+       "evidence_quote": "어슐라",
+       "reason": "범인의 정체를 어슐라라고 정확히 적었다."
+      }
+     ],
+     "feedback": "범인이 어슐라라는 점을 정확히 짚었어요."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "마을 사람들이 할아버지를 죽였고",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "full",
+       "evidence_quote": "어슐라도 죽여서",
+       "reason": "어슐라가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "복수",
+       "reason": "복수로 마을 사람들을 죽였다고 적었다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했어요."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "full",
+       "evidence_quote": "문어처럼 몸이 변해서",
+       "reason": "몸이 변해 형태를 바꿀 수 있었다고 적었다."
+      },
+      {
+       "id": "3b",
+       "level_id": "full",
+       "evidence_quote": "배수구나 환풍구로 들어옴",
+       "reason": "구체적인 침입 경로를 적었다."
+      },
+      {
+       "id": "3c",
+       "level_id": "full",
+       "evidence_quote": "팔 여러 개",
+       "reason": "팔이 여럿인 신체라는 점을 적었다."
+      }
+     ],
+     "feedback": "몸의 변화와 침입 경로, 팔이 여럿인 점을 모두 잘 설명했어요."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "시설에서 흘러나간 칵테일",
+       "reason": "연구시설에서 흘러나간 물질이 원인이라고 적었다."
+      },
+      {
+       "id": "4b",
+       "level_id": "full",
+       "evidence_quote": "바다에서 익사 직전에 반응해서",
+       "reason": "익사 직전에 바닷물 속에서 반응했다고 적었다."
+      },
+      {
+       "id": "4c",
+       "level_id": "full",
+       "evidence_quote": "물속에 맞게 진화",
+       "reason": "물속 환경에 맞게 재구성되었다고 적었다."
+      },
+      {
+       "id": "4d",
+       "level_id": "full",
+       "evidence_quote": "우연히 겹침",
+       "reason": "우연히 조건이 겹쳐서 일어난 일이라고 적었다."
+      }
+     ],
+     "feedback": "변화의 원인과 조건을 모두 잘 설명했어요."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "full",
+       "evidence_quote": "마이어스가 건배하자고 시제품 탄 음료 먹임",
+       "reason": "마이어스가 건배를 계기로 시제품이 섞인 음료를 마시게 했다고 적었다."
+      },
+      {
+       "id": "5b",
+       "level_id": "full",
+       "evidence_quote": "오웬이 넣은 술이랑 반응해서 노화",
+       "reason": "술과 시제품이 반응해 노화로 바뀌었다고 적었다."
+      },
+      {
+       "id": "5c",
+       "level_id": "full",
+       "evidence_quote": "오웬은 적게 마셔서 늙기만 하고 살아남음",
+       "reason": "오웬이 적게 마셔서 늙었지만 살아남았다고 적었다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음 원인과 오웬의 생존 이유를 잘 설명했어요."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "full",
+       "evidence_quote": "같은 물질이 갈라진 결과",
+       "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다."
+      },
+      {
+       "id": "6b",
+       "level_id": "full",
+       "evidence_quote": "직접 원인은 복수",
+       "reason": "직접 원인이 어슐라의 복수라고 적었다."
+      }
+     ],
+     "feedback": "두 사건의 관계와 직접 원인을 잘 설명했어요."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "full",
+       "evidence_quote": "모란 일당 수뇌부",
+       "reason": "마을 사람들이 밀수 조직의 수뇌부였다고 적었다."
+      },
+      {
+       "id": "7b",
+       "level_id": "full",
+       "evidence_quote": "홀트는 가짜 가족, 에드거가 두목",
+       "reason": "홀트 가족이 가짜 가족이고 에드거가 두목이라고 적었다."
+      },
+      {
+       "id": "7c",
+       "level_id": "full",
+       "evidence_quote": "아서가 알아봐서 입막음으로 죽이고 북쪽 만에 버림",
+       "reason": "아서가 정체를 알아보자 입막음으로 살해했다고 적었다."
+      }
+     ],
+     "feedback": "마을 사람들의 정체와 아서의 죽음을 잘 설명했어요."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S6_terse_correct",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "6a": "full",
+   "6b": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "q1": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 15,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3720,
+  "tokens_out": 1058,
+  "sec": 6.5,
+  "feedback": {
+   "q1": "범인의 정체를 정확히 적었습니다.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다.",
+   "q3": "몸의 변화와 침입 경로, 팔이 여럿인 점을 모두 잘 설명했습니다.",
+   "q4": "변화의 원인과 조건을 모두 잘 설명했습니다.",
+   "q5": "연구시설 사람들의 죽음 원인을 잘 설명했습니다.",
+   "q6": "두 사건의 관계를 명확히 설명했습니다.",
+   "q7": "마을 사람들의 정체와 아서의 죽음을 잘 설명했습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "full",
+       "evidence_quote": "어슐라",
+       "reason": "범인의 정체를 어슐라라고 정확히 적었다."
+      }
+     ],
+     "feedback": "범인의 정체를 정확히 적었습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "마을 사람들이 할아버지를 죽였고",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "full",
+       "evidence_quote": "어슐라도 죽여서",
+       "reason": "어슐라가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "복수",
+       "reason": "복수로 죽였다고 적었다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "full",
+       "evidence_quote": "문어처럼 몸이 변해서",
+       "reason": "몸이 형태를 바꿀 수 있게 변했다고 적었다."
+      },
+      {
+       "id": "3b",
+       "level_id": "full",
+       "evidence_quote": "배수구나 환풍구로 들어옴",
+       "reason": "구체적인 침입 경로를 적었다."
+      },
+      {
+       "id": "3c",
+       "level_id": "full",
+       "evidence_quote": "팔 여러 개",
+       "reason": "팔이 여럿인 신체라는 점을 적었다."
+      }
+     ],
+     "feedback": "몸의 변화와 침입 경로, 팔이 여럿인 점을 모두 잘 설명했습니다."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "시설에서 흘러나간 칵테일",
+       "reason": "연구시설에서 흘러나간 물질이 원인이라고 적었다."
+      },
+      {
+       "id": "4b",
+       "level_id": "full",
+       "evidence_quote": "바다에서 익사 직전에 반응해서",
+       "reason": "익사 직전 바닷물 속에서 반응했다고 적었다."
+      },
+      {
+       "id": "4c",
+       "level_id": "full",
+       "evidence_quote": "물속에 맞게 진화",
+       "reason": "물속 환경에 맞게 재구성되었다고 적었다."
+      },
+      {
+       "id": "4d",
+       "level_id": "full",
+       "evidence_quote": "우연히 겹침",
+       "reason": "우연히 조건이 겹쳐서 일어난 일이라고 적었다."
+      }
+     ],
+     "feedback": "변화의 원인과 조건을 모두 잘 설명했습니다."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "full",
+       "evidence_quote": "마이어스가 건배하자고 시제품 탄 음료 먹임",
+       "reason": "마이어스가 건배를 계기로 시제품이 섞인 음료를 마시게 했다고 적었다."
+      },
+      {
+       "id": "5b",
+       "level_id": "full",
+       "evidence_quote": "오웬이 넣은 술이랑 반응해서 노화",
+       "reason": "술과 시제품이 반응해 노화로 바뀌었다고 적었다."
+      },
+      {
+       "id": "5c",
+       "level_id": "full",
+       "evidence_quote": "오웬은 적게 마셔서 늙기만 하고 살아남음",
+       "reason": "오웬이 적게 마셔서 늙기만 하고 살아남았다고 적었다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음 원인을 잘 설명했습니다."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "full",
+       "evidence_quote": "같은 물질이 갈라진 결과",
+       "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다."
+      },
+      {
+       "id": "6b",
+       "level_id": "full",
+       "evidence_quote": "직접 원인은 복수",
+       "reason": "직접 원인이 어슐라의 복수라고 적었다."
+      }
+     ],
+     "feedback": "두 사건의 관계를 명확히 설명했습니다."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "full",
+       "evidence_quote": "모란 일당 수뇌부",
+       "reason": "마을 사람들이 밀수 조직의 수뇌부였다고 적었다."
+      },
+      {
+       "id": "7b",
+       "level_id": "full",
+       "evidence_quote": "홀트는 가짜 가족, 에드거가 두목",
+       "reason": "홀트 가족이 가짜 가족이고 에드거가 두목이라고 적었다."
+      },
+      {
+       "id": "7c",
+       "level_id": "full",
+       "evidence_quote": "아서가 알아봐서 입막음으로 죽이고 북쪽 만에 버림",
+       "reason": "아서가 정체를 알아보자 입막음으로 살해했다고 적었다."
+      }
+     ],
+     "feedback": "마을 사람들의 정체와 아서의 죽음을 잘 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S7_science_only",
+  "total": 45,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "6a": "full",
+   "6b": "full",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 2246,
+  "tokens_out": 590,
+  "sec": 3.7,
+  "feedback": {
+   "q4": "범인의 몸 변화에 대한 모든 요소를 정확히 설명했습니다.",
+   "q5": "연구시설 사람들의 죽음에 대한 모든 요소를 정확히 설명했습니다.",
+   "q6": "사고와 죽음의 관계를 명확히 설명했습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "연구시설 개수대에 쏟은 칵테일이 방류관을 타고",
+       "reason": "연구시설에서 만든 물질이 바다로 흘러나갔다고 적었다."
+      },
+      {
+       "id": "4b",
+       "level_id": "full",
+       "evidence_quote": "익사하던 어슐라의 몸이",
+       "reason": "죽어가던 어슐라의 몸이 바닷물 속에서 반응했다고 적었다."
+      },
+      {
+       "id": "4c",
+       "level_id": "full",
+       "evidence_quote": "물속 환경에 가장 알맞은 구조로 재구성",
+       "reason": "몸이 물속 환경에 맞춰 재구성되었다고 적었다."
+      },
+      {
+       "id": "4d",
+       "level_id": "full",
+       "evidence_quote": "물질이 남은 시기와 죽어가던 상태가 우연히 겹쳤습니다",
+       "reason": "조건이 우연히 겹쳐서 일어났다고 명확히 적었다."
+      }
+     ],
+     "feedback": "범인의 몸 변화에 대한 모든 요소를 정확히 설명했습니다."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "full",
+       "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로",
+       "reason": "마이어스가 건배를 계기로 시제품을 마시게 했다고 적었다."
+      },
+      {
+       "id": "5b",
+       "level_id": "full",
+       "evidence_quote": "시제품이 알코올(C2H5OH)과 만나 진화가 노화로 바뀌었습니다",
+       "reason": "알코올과 시제품의 반응으로 노화가 발생했다고 적었다."
+      },
+      {
+       "id": "5c",
+       "level_id": "full",
+       "evidence_quote": "오웬은 조금만 마셔서 죽지 않고 치매 노인처럼 늙은 채 살아남았습니다",
+       "reason": "오웬이 조금만 마셔서 늙은 채 살아남았다고 적었다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음에 대한 모든 요소를 정확히 설명했습니다."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "full",
+       "evidence_quote": "같은 물질에서 갈라진 두 결과입니다",
+       "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다."
+      },
+      {
+       "id": "6b",
+       "level_id": "full",
+       "evidence_quote": "직접 원인은 어슐라의 복수입니다",
+       "reason": "직접 원인이 어슐라의 복수라고 명확히 구분했다."
+      }
+     ],
+     "feedback": "사고와 죽음의 관계를 명확히 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S7_science_only",
+  "total": 45,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "6a": "full",
+   "6b": "full",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 2246,
+  "tokens_out": 601,
+  "sec": 3.7,
+  "feedback": {
+   "q4": "범인의 몸이 된 과정과 조건을 정확히 설명했어요.",
+   "q5": "연구원들이 늙어 죽은 이유와 오웬의 생존 이유를 잘 설명했어요.",
+   "q6": "두 사건의 관계와 직접 원인을 명확히 구분했어요."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "연구시설 개수대에 쏟은 칵테일이 방류관을 타고",
+       "reason": "연구시설에서 만든 물질이 바다로 흘러나갔다고 적었다."
+      },
+      {
+       "id": "4b",
+       "level_id": "full",
+       "evidence_quote": "익사하던 어슐라의 몸이",
+       "reason": "죽어가던 어슐라의 몸이 바닷물 속에서 반응했다고 적었다."
+      },
+      {
+       "id": "4c",
+       "level_id": "full",
+       "evidence_quote": "물속 환경에 가장 알맞은 구조로 재구성",
+       "reason": "몸이 물속 환경에 맞춰 재구성되었다고 적었다."
+      },
+      {
+       "id": "4d",
+       "level_id": "full",
+       "evidence_quote": "물질이 남은 시기와 죽어가던 상태가 우연히 겹쳤습니다",
+       "reason": "조건이 우연히 겹쳐서 일어났다고 명확히 적었다."
+      }
+     ],
+     "feedback": "범인의 몸이 된 과정과 조건을 정확히 설명했어요."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "full",
+       "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로",
+       "reason": "마이어스가 건배를 계기로 시제품을 마시게 했다고 적었다."
+      },
+      {
+       "id": "5b",
+       "level_id": "full",
+       "evidence_quote": "시제품이 알코올(C2H5OH)과 만나 진화가 노화로 바뀌었습니다",
+       "reason": "알코올과 시제품의 반응으로 노화가 되었다고 적었다."
+      },
+      {
+       "id": "5c",
+       "level_id": "full",
+       "evidence_quote": "오웬은 조금만 마셔서 죽지 않고 치매 노인처럼 늙은 채 살아남았습니다",
+       "reason": "오웬이 조금만 마셔서 늙은 채 살아남았다고 적었다."
+      }
+     ],
+     "feedback": "연구원들이 늙어 죽은 이유와 오웬의 생존 이유를 잘 설명했어요."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "full",
+       "evidence_quote": "같은 물질에서 갈라진 두 결과입니다",
+       "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다."
+      },
+      {
+       "id": "6b",
+       "level_id": "full",
+       "evidence_quote": "직접 원인은 어슐라의 복수입니다",
+       "reason": "직접 원인이 어슐라의 복수라고 명확히 구분했다."
+      }
+     ],
+     "feedback": "두 사건의 관계와 직접 원인을 명확히 구분했어요."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S8_misconception",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3574,
+  "tokens_out": 777,
+  "sec": 4.7,
+  "feedback": {
+   "q1": "범인을 어슐라로 지목하지 않아 점수를 받을 수 없어요.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기에 대한 설명이 필요해요.",
+   "q3": "범인의 신체 변화와 침입 경로에 대한 설명이 필요해요.",
+   "q4": "연구시설 물질과 어슐라의 변화에 대한 설명이 필요해요.",
+   "q5": "연구시설 사람들의 죽음 원인에 대한 설명이 필요해요.",
+   "q6": "두 사건의 관계에 대한 설명이 필요해요.",
+   "q7": "마을 사람들의 과거와 정체에 대한 설명이 필요해요."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "범인을 외계인으로 지목하여 게이트에 걸렸다."
+      }
+     ],
+     "feedback": "범인을 어슐라로 지목하지 않아 점수를 받을 수 없어요."
+    },
+    {
+     "question_id": "q2",
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "할아버지의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "복수라는 동기에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q3",
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "몸의 변화에 대한 설명이 없다."
+      },
+      {
+       "id": "3b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "침입 경로에 대한 설명이 없다."
+      },
+      {
+       "id": "3c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "팔이 여럿인 신체에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "범인의 신체 변화와 침입 경로에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q4",
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "물질의 출처에 대한 설명이 없다."
+      },
+      {
+       "id": "4b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "반응한 순간에 대한 설명이 없다."
+      },
+      {
+       "id": "4c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "변화의 성격에 대한 설명이 없다."
+      },
+      {
+       "id": "4d",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "우연의 조건에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "연구시설 물질과 어슐라의 변화에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q5",
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "건배와 시제품에 대한 설명이 없다."
+      },
+      {
+       "id": "5b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "알코올과의 반응에 대한 설명이 없다."
+      },
+      {
+       "id": "5c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "오웬의 생존에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음 원인에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q6",
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "같은 물질에서 갈라진 결과에 대한 설명이 없다."
+      },
+      {
+       "id": "6b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "직접 원인의 구분에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "두 사건의 관계에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q7",
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "조직의 정체에 대한 설명이 없다."
+      },
+      {
+       "id": "7b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "가짜 가족과 두목에 대한 설명이 없다."
+      },
+      {
+       "id": "7c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "아서의 죽음에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "마을 사람들의 과거와 정체에 대한 설명이 필요해요."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S8_misconception",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 3574,
+  "tokens_out": 777,
+  "sec": 4.6,
+  "feedback": {
+   "q1": "범인을 어슐라로 지목하지 않아 점수를 받을 수 없어요.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기에 대한 설명이 필요해요.",
+   "q3": "범인의 신체 변화와 침입 경로에 대한 설명이 필요해요.",
+   "q4": "연구시설 물질과 어슐라의 변화에 대한 설명이 필요해요.",
+   "q5": "연구시설 사람들의 죽음 원인에 대한 설명이 필요해요.",
+   "q6": "두 사건의 관계에 대한 설명이 필요해요.",
+   "q7": "마을 사람들의 과거와 정체에 대한 설명이 필요해요."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "범인을 외계인으로 지목하여 게이트에 걸렸다."
+      }
+     ],
+     "feedback": "범인을 어슐라로 지목하지 않아 점수를 받을 수 없어요."
+    },
+    {
+     "question_id": "q2",
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "할아버지의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라의 죽음에 대한 언급이 없다."
+      },
+      {
+       "id": "2c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "복수라는 동기에 대한 언급이 없다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q3",
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "몸의 변화에 대한 설명이 없다."
+      },
+      {
+       "id": "3b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "침입 경로에 대한 설명이 없다."
+      },
+      {
+       "id": "3c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "팔이 여럿인 신체에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "범인의 신체 변화와 침입 경로에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q4",
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "물질의 출처에 대한 설명이 없다."
+      },
+      {
+       "id": "4b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "반응한 순간에 대한 설명이 없다."
+      },
+      {
+       "id": "4c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "변화의 성격에 대한 설명이 없다."
+      },
+      {
+       "id": "4d",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "우연의 조건에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "연구시설 물질과 어슐라의 변화에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q5",
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "건배와 시제품에 대한 설명이 없다."
+      },
+      {
+       "id": "5b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "알코올과의 반응에 대한 설명이 없다."
+      },
+      {
+       "id": "5c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "오웬의 생존에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음 원인에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q6",
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "같은 물질에서 갈라진 결과에 대한 설명이 없다."
+      },
+      {
+       "id": "6b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "직접 원인의 구분에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "두 사건의 관계에 대한 설명이 필요해요."
+    },
+    {
+     "question_id": "q7",
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "조직의 정체에 대한 설명이 없다."
+      },
+      {
+       "id": "7b",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "가짜 가족과 두목에 대한 설명이 없다."
+      },
+      {
+       "id": "7c",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "아서의 죽음에 대한 설명이 없다."
+      }
+     ],
+     "feedback": "마을 사람들의 과거와 정체에 대한 설명이 필요해요."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S9_gate_trap",
+  "total": 15,
+  "per": {
+   "1a": "none",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 1439,
+  "tokens_out": 262,
+  "sec": 1.9,
+  "feedback": {
+   "q1": "어슐라와 오웬을 공범으로 지목하여 게이트에 걸렸습니다.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라와 함께 오웬을 공범으로 지목하여 게이트에 걸렸다."
+      }
+     ],
+     "feedback": "어슐라와 오웬을 공범으로 지목하여 게이트에 걸렸습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "할아버지 아서가 마을 사람들에게 살해당했고",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "full",
+       "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다",
+       "reason": "어슐라가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "그 복수로 마을 사람들을 죽였습니다",
+       "reason": "복수로 죽였다고 적었다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S9_gate_trap",
+  "total": 15,
+  "per": {
+   "1a": "none",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "6a": "none",
+   "6b": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "q1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "q2": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 1439,
+  "tokens_out": 265,
+  "sec": 2.0,
+  "feedback": {
+   "q1": "어슐라 외에 다른 인물을 범인으로 지목하여 점수를 받을 수 없다.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [
+      "g1"
+     ],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "none",
+       "evidence_quote": "",
+       "reason": "어슐라와 함께 오웬을 공범으로 지목하여 게이트에 걸렸다."
+      }
+     ],
+     "feedback": "어슐라 외에 다른 인물을 범인으로 지목하여 점수를 받을 수 없다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "할아버지 아서가 마을 사람들에게 살해당했고",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "full",
+       "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다",
+       "reason": "어슐라가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "그 복수로 마을 사람들을 죽였습니다",
+       "reason": "복수로 마을 사람들을 죽였다고 적었다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S10_paraphrase",
+  "total": 98,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "partial",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "6a": "full",
+   "6b": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "q1": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 13,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 15,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 4004,
+  "tokens_out": 1256,
+  "sec": 7.8,
+  "feedback": {
+   "q1": "범인이 베일라의 사촌 어슐라임을 정확히 밝혔습니다.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다.",
+   "q3": "몸의 변화와 침입 경로는 잘 설명했으나 팔이 여럿이라는 점은 언급되지 않았습니다.",
+   "q4": "모든 요소를 정확히 설명하여 어슐라의 변화를 잘 이해했습니다.",
+   "q5": "연구시설 사람들의 죽음 원인을 명확히 설명했습니다.",
+   "q6": "두 사건의 관계를 명확히 설명했습니다.",
+   "q7": "마을 사람들의 정체와 아서의 죽음을 정확히 설명했습니다."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "full",
+       "evidence_quote": "베일라 씨의 사촌 어슐라가 범인입니다",
+       "reason": "어슐라가 범인임을 명확히 적었습니다."
+      }
+     ],
+     "feedback": "범인이 베일라의 사촌 어슐라임을 정확히 밝혔습니다."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "할아버지는 20년 전 마을 주민들 손에 목숨을 잃었고",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었습니다."
+      },
+      {
+       "id": "2b",
+       "level_id": "full",
+       "evidence_quote": "어슐라 자신도 지난 8월 말 같은 주민들에게 물에 빠뜨려져 죽었습니다",
+       "reason": "어슐라가 마을 사람들에게 살해당했다고 적었습니다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "분노와 보복으로 주민들을 하나씩 처리한 겁니다",
+       "reason": "복수로 죽였다고 명확히 적었습니다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했습니다."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "full",
+       "evidence_quote": "사람의 몸이 아니라 뼈 없는 해양 생물 같은 몸이었고",
+       "reason": "몸이 형태를 바꿀 수 있는 상태임을 설명했습니다."
+      },
+      {
+       "id": "3b",
+       "level_id": "full",
+       "evidence_quote": "하수구 같은 좁은 배관을 통해 집 안으로 스며들 수 있었습니다",
+       "reason": "구체적인 침입 경로를 적었습니다."
+      },
+      {
+       "id": "3c",
+       "level_id": "partial",
+       "evidence_quote": "뼈 없는 해양 생물 같은 몸이었고",
+       "reason": "팔이 여럿이라는 점은 드러나지 않았습니다."
+      }
+     ],
+     "feedback": "몸의 변화와 침입 경로는 잘 설명했으나 팔이 여럿이라는 점은 언급되지 않았습니다."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "연구시설 배수구로 버려진 시약이 해안으로 퍼졌고",
+       "reason": "연구시설에서 나온 물질이 바다로 흘러갔음을 적었습니다."
+      },
+      {
+       "id": "4b",
+       "level_id": "full",
+       "evidence_quote": "숨이 끊어지던 어슐라의 몸이 물에 맞게 완전히 새로 짜였습니다",
+       "reason": "죽어가던 순간에 반응했다고 적었습니다."
+      },
+      {
+       "id": "4c",
+       "level_id": "full",
+       "evidence_quote": "물에 맞게 완전히 새로 짜였습니다",
+       "reason": "환경에 맞춘 재구성임을 설명했습니다."
+      },
+      {
+       "id": "4d",
+       "level_id": "full",
+       "evidence_quote": "때마침 시약이 바다에 남아 있던 시점이었고 죽기 직전이라는 조건까지 겹쳐서",
+       "reason": "우연히 조건이 겹쳤음을 명확히 설명했습니다."
+      }
+     ],
+     "feedback": "모든 요소를 정확히 설명하여 어슐라의 변화를 잘 이해했습니다."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "full",
+       "evidence_quote": "소장이 기념 건배를 하자며 실험 중인 물질을 넣은 음료를 전원에게 돌렸습니다",
+       "reason": "마이어스가 건배를 계기로 시제품을 마시게 했음을 적었습니다."
+      },
+      {
+       "id": "5b",
+       "level_id": "full",
+       "evidence_quote": "오웬이 먼저 술을 타 놓은 탓에 알코올과 섞여 효과가 노화 쪽으로 틀어졌고",
+       "reason": "알코올과의 반응으로 노화가 일어났음을 설명했습니다."
+      },
+      {
+       "id": "5c",
+       "level_id": "full",
+       "evidence_quote": "오웬만 양이 적어서 늙기만 하고 살아남았습니다",
+       "reason": "오웬이 적게 마셔서 살아남았음을 설명했습니다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음 원인을 명확히 설명했습니다."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "full",
+       "evidence_quote": "한 뿌리에서 나온 별개의 결과입니다",
+       "reason": "같은 물질에서 갈라진 결과임을 설명했습니다."
+      },
+      {
+       "id": "6b",
+       "level_id": "full",
+       "evidence_quote": "마을 사람들을 죽게 한 직접적인 이유는 시설 사고가 아니라 어슐라의 복수입니다",
+       "reason": "직접 원인을 명확히 구분했습니다."
+      }
+     ],
+     "feedback": "두 사건의 관계를 명확히 설명했습니다."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "full",
+       "evidence_quote": "밀수 조직 모란파의 간부들이었고",
+       "reason": "마을 사람들이 밀수 조직의 구성원임을 적었습니다."
+      },
+      {
+       "id": "7b",
+       "level_id": "full",
+       "evidence_quote": "홀트 가족은 위장한 가짜 가족, 에드거의 정체는 두목 프랭크 모란입니다",
+       "reason": "가짜 가족과 두목의 정체를 명확히 설명했습니다."
+      },
+      {
+       "id": "7c",
+       "level_id": "full",
+       "evidence_quote": "아서의 손등 화상을 보고 정체를 알아봤다가 입막음으로 살해되어",
+       "reason": "아서의 죽음 이유를 명확히 설명했습니다."
+      }
+     ],
+     "feedback": "마을 사람들의 정체와 아서의 죽음을 정확히 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4o",
+  "sample": "S10_paraphrase",
+  "total": 98,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "partial",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "6a": "full",
+   "6b": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "q1": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q2": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q3": {
+    "score": 13,
+    "gate_hits": []
+   },
+   "q4": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "q5": {
+    "score": 15,
+    "gate_hits": []
+   },
+   "q6": {
+    "score": 10,
+    "gate_hits": []
+   },
+   "q7": {
+    "score": 15,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0
+  },
+  "tokens_in": 4004,
+  "tokens_out": 1301,
+  "sec": 8.0,
+  "feedback": {
+   "q1": "범인이 베일라의 사촌 어슐라임을 정확히 지적했어요.",
+   "q2": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했어요.",
+   "q3": "몸의 변화와 침입 경로는 잘 설명했지만, 팔이 여럿이라는 점은 빠졌어요.",
+   "q4": "변화의 원인과 조건을 모두 잘 설명했어요.",
+   "q5": "연구시설 사람들의 죽음 원인을 정확히 설명했어요.",
+   "q6": "두 사건의 관계와 직접 원인을 잘 구분했어요.",
+   "q7": "마을 사람들의 과거와 아서의 죽음을 정확히 설명했어요."
+  },
+  "raw_ai": {
+   "questions": [
+    {
+     "question_id": "q1",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "1a",
+       "level_id": "full",
+       "evidence_quote": "베일라 씨의 사촌 어슐라가 범인입니다",
+       "reason": "어슐라가 범인임을 명확히 적었다."
+      }
+     ],
+     "feedback": "범인이 베일라의 사촌 어슐라임을 정확히 지적했어요."
+    },
+    {
+     "question_id": "q2",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "2a",
+       "level_id": "full",
+       "evidence_quote": "할아버지는 20년 전 마을 주민들 손에 목숨을 잃었고",
+       "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2b",
+       "level_id": "full",
+       "evidence_quote": "어슐라 자신도 지난 8월 말 같은 주민들에게 물에 빠뜨려져 죽었습니다",
+       "reason": "어슐라가 마을 사람들에게 살해당했다고 적었다."
+      },
+      {
+       "id": "2c",
+       "level_id": "full",
+       "evidence_quote": "분노와 보복으로 주민들을 하나씩 처리한 겁니다",
+       "reason": "복수로 죽였다고 명확히 적었다."
+      }
+     ],
+     "feedback": "할아버지와 어슐라의 죽음, 복수 동기를 모두 잘 설명했어요."
+    },
+    {
+     "question_id": "q3",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "3a",
+       "level_id": "full",
+       "evidence_quote": "사람의 몸이 아니라 뼈 없는 해양 생물 같은 몸이었고",
+       "reason": "몸이 변해 형태를 바꿀 수 있었다고 적었다."
+      },
+      {
+       "id": "3b",
+       "level_id": "full",
+       "evidence_quote": "하수구 같은 좁은 배관을 통해 집 안으로 스며들 수 있었습니다",
+       "reason": "구체적인 틈새를 통해 들어왔다고 적었다."
+      },
+      {
+       "id": "3c",
+       "level_id": "partial",
+       "evidence_quote": "뼈 없는 해양 생물 같은 몸이었고",
+       "reason": "팔이 여럿이라는 점이 드러나지 않는다."
+      }
+     ],
+     "feedback": "몸의 변화와 침입 경로는 잘 설명했지만, 팔이 여럿이라는 점은 빠졌어요."
+    },
+    {
+     "question_id": "q4",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "4a",
+       "level_id": "full",
+       "evidence_quote": "연구시설 배수구로 버려진 시약이 해안으로 퍼졌고",
+       "reason": "연구시설에서 나온 물질이 바다로 흘러갔다고 적었다."
+      },
+      {
+       "id": "4b",
+       "level_id": "full",
+       "evidence_quote": "거기서 숨이 끊어지던 어슐라의 몸이 물에 맞게 완전히 새로 짜였습니다",
+       "reason": "죽어 가던 어슐라의 몸이 반응했다고 적었다."
+      },
+      {
+       "id": "4c",
+       "level_id": "full",
+       "evidence_quote": "물에 맞게 완전히 새로 짜였습니다",
+       "reason": "환경에 맞게 재구성되었다고 적었다."
+      },
+      {
+       "id": "4d",
+       "level_id": "full",
+       "evidence_quote": "때마침 시약이 바다에 남아 있던 시점이었고 죽기 직전이라는 조건까지 겹쳐서 생긴 우연입니다",
+       "reason": "조건이 겹쳐서 일어난 우연이라고 적었다."
+      }
+     ],
+     "feedback": "변화의 원인과 조건을 모두 잘 설명했어요."
+    },
+    {
+     "question_id": "q5",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "5a",
+       "level_id": "full",
+       "evidence_quote": "소장이 기념 건배를 하자며 실험 중인 물질을 넣은 음료를 전원에게 돌렸습니다",
+       "reason": "마이어스가 건배를 계기로 시제품을 마시게 했다고 적었다."
+      },
+      {
+       "id": "5b",
+       "level_id": "full",
+       "evidence_quote": "오웬이 먼저 술을 타 놓은 탓에 알코올과 섞여 효과가 노화 쪽으로 틀어졌고",
+       "reason": "알코올과 시제품이 반응해 노화로 바뀌었다고 적었다."
+      },
+      {
+       "id": "5c",
+       "level_id": "full",
+       "evidence_quote": "오웬만 양이 적어서 늙기만 하고 살아남았습니다",
+       "reason": "오웬이 조금만 마셔서 늙기만 하고 살아남았다고 적었다."
+      }
+     ],
+     "feedback": "연구시설 사람들의 죽음 원인을 정확히 설명했어요."
+    },
+    {
+     "question_id": "q6",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "6a",
+       "level_id": "full",
+       "evidence_quote": "한 뿌리에서 나온 별개의 결과입니다",
+       "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다."
+      },
+      {
+       "id": "6b",
+       "level_id": "full",
+       "evidence_quote": "마을 사람들을 죽게 한 직접적인 이유는 시설 사고가 아니라 어슐라의 복수입니다",
+       "reason": "직접 원인이 어슐라의 복수라고 명확히 구분했다."
+      }
+     ],
+     "feedback": "두 사건의 관계와 직접 원인을 잘 구분했어요."
+    },
+    {
+     "question_id": "q7",
+     "gate_hits": [],
+     "elements": [
+      {
+       "id": "7a",
+       "level_id": "full",
+       "evidence_quote": "밀수 조직 모란파의 간부들이었고",
+       "reason": "마을 사람들이 밀수 조직의 수뇌부였다고 적었다."
+      },
+      {
+       "id": "7b",
+       "level_id": "full",
+       "evidence_quote": "홀트 가족은 위장한 가짜 가족, 에드거의 정체는 두목 프랭크 모란입니다",
+       "reason": "가짜 가족과 두목의 정체를 정확히 적었다."
+      },
+      {
+       "id": "7c",
+       "level_id": "full",
+       "evidence_quote": "아서의 손등 화상을 보고 정체를 알아봤다가 입막음으로 살해되어 북쪽 만에 가라앉혀졌습니다",
+       "reason": "아서가 정체를 알아보고 살해당했다고 적었다."
+      }
+     ],
+     "feedback": "마을 사람들의 과거와 아서의 죽음을 정확히 설명했어요."
+    }
+   ]
+  }
+ }
+]

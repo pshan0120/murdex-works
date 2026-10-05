@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" font-family="'Nanum Pen Script','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <defs>
+    <clipPath id="map"><rect x="10" y="10" width="880" height="600"/></clipPath>
+    <pattern id="net" width="9" height="9" patternUnits="userSpaceOnUse">
+      <path d="M0,0 L9,9 M9,0 L0,9" stroke="#5a4a30" stroke-width="0.9"/>
+    </pattern>
+    <pattern id="wave" width="26" height="14" patternUnits="userSpaceOnUse">
+      <path d="M0,8 Q6.5,2 13,8 T26,8" fill="none" stroke="#5f7f7a" stroke-width="1.1"/>
+    </pattern>
+    <filter id="paper" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="3" seed="9"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.12"/></feComponentTransfer>
+    </filter>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4a3b27"/>
+    </marker>
+  </defs>
+
+  <rect width="900" height="620" fill="#d9d0b4"/>
+  <g clip-path="url(#map)">
+    <!-- 바다 -->
+    <path d="M0,0 L112,0 C132,150 100,300 126,430 C142,520 112,570 122,620 L0,620 Z" fill="#a9bfb8"/>
+    <path d="M0,0 L112,0 C132,150 100,300 126,430 C142,520 112,570 122,620 L0,620 Z" fill="url(#wave)" opacity="0.8"/>
+    <path d="M112,0 C132,150 100,300 126,430 C142,520 112,570 122,620" fill="none" stroke="#4a3b27" stroke-width="2.4"/>
+
+    <!-- 바닷길 -->
+    <path d="M0,300 L110,300" stroke="#c7b681" stroke-width="12" stroke-linecap="butt"/>
+    <path d="M0,294 L110,294 M0,306 L110,306" stroke="#4a3b27" stroke-width="1" stroke-dasharray="4 4"/>
+
+    <!-- 고도선 -->
+    <g fill="none" stroke="#8a7650" stroke-width="1.3" stroke-dasharray="5 5" opacity="0.8">
+      <ellipse cx="760" cy="300" rx="50" ry="40"/>
+      <ellipse cx="760" cy="300" rx="100" ry="80"/>
+      <ellipse cx="760" cy="300" rx="160" ry="125"/>
+      <ellipse cx="760" cy="300" rx="230" ry="175"/>
+    </g>
+
+    <!-- 곶(위쪽) -->
+    <path d="M440,10 C452,40 470,70 500,96 C530,112 560,100 590,80 C600,50 600,30 596,10 Z" fill="#b7a98a" stroke="#4a3b27" stroke-width="2"/>
+    <path d="M460,30 l12,10 l10,-8 M520,50 l10,12 l12,-8 M560,28 l8,10" stroke="#5a4a30" stroke-width="1.4" fill="none"/>
+    <text x="500" y="76" font-size="20" fill="#3a2f20">곶</text>
+
+    <!-- 길 -->
+    <g fill="none" stroke="#7a6a4c" stroke-width="3.2" stroke-linecap="round">
+      <path d="M120,300 C180,298 290,308 380,310 C500,312 620,306 730,300"/>
+      <path d="M192,300 C190,280 190,262 192,246"/>
+      <path d="M192,246 C216,236 240,224 254,214"/>
+      <path d="M200,304 C204,340 202,380 200,406"/>
+      <path d="M380,310 C400,270 420,236 440,212"/>
+    </g>
+    <!-- 곶 너머로 가는 길(점선) -->
+    <path d="M440,212 C450,160 470,110 520,60" fill="none" stroke="#7a6a4c" stroke-width="2.2" stroke-dasharray="3 6"/>
+    <text x="612" y="64" font-size="20" fill="#3a2f20">곶 너머 북쪽 만</text>
+    <path d="M608,58 C590,56 575,52 560,46" fill="none" stroke="#4a3b27" stroke-width="1.6" marker-end="url(#a)"/>
+
+    <!-- 빈집 -->
+    <g fill="#c2b79b" stroke="#8a7d5f" stroke-width="1.2">
+      <rect x="300" y="250" width="18" height="14"/><rect x="330" y="360" width="18" height="14"/>
+      <rect x="470" y="270" width="18" height="14"/><rect x="520" y="350" width="18" height="14"/>
+      <rect x="560" y="240" width="18" height="14"/><rect x="600" y="370" width="18" height="14"/>
+      <rect x="660" y="230" width="18" height="14"/><rect x="650" y="390" width="18" height="14"/>
+      <rect x="380" y="430" width="18" height="14"/>
+      <rect x="470" y="450" width="18" height="14"/><rect x="540" y="130" width="18" height="14" opacity="0"/>
+      <rect x="520" y="200" width="18" height="14"/>
+      <rect x="610" y="170" width="18" height="14"/><rect x="560" y="470" width="18" height="14"/>
+    </g>
+
+    <!-- 선착장 -->
+    <path d="M122,300 L92,300" stroke="#4a3b27" stroke-width="6"/>
+    <g fill="#4a3b27"><ellipse cx="86" cy="286" rx="9" ry="4"/><ellipse cx="76" cy="318" rx="9" ry="4"/><ellipse cx="94" cy="332" rx="9" ry="4"/></g>
+    <text x="30" y="270" font-size="20" fill="#3a2f20">서쪽 만</text>
+    <text x="14" y="364" font-size="16" fill="#3a2f20">← 바닷길</text>
+    <text x="14" y="382" font-size="16" fill="#3a2f20">(본토)</text>
+
+    <!-- 집 아이콘 정의 -->
+    <!-- 통발 쌓인 집 -->
+    <g transform="translate(176,226)">
+      <rect x="0" y="6" width="26" height="18" fill="#e4dcc3" stroke="#4a3b27" stroke-width="1.8"/>
+      <polygon points="-3,6 13,-8 29,6" fill="#c0ab7a" stroke="#4a3b27" stroke-width="1.8"/>
+      <g fill="#cdbd94" stroke="#4a3b27" stroke-width="1.2">
+        <rect x="-26" y="14" width="13" height="10" rx="2"/><rect x="-26" y="3" width="13" height="10" rx="2"/>
+        <rect x="-12" y="14" width="13" height="10" rx="2"/><rect x="-12" y="3" width="13" height="10" rx="2"/>
+        <rect x="-19" y="-8" width="13" height="10" rx="2"/>
+      </g>
+    </g>
+    <text x="132" y="150" font-size="18" fill="#3a2f20"><tspan x="132" dy="0">마당에 통발이</tspan><tspan x="132" dy="20">쌓인 집</tspan></text>
+
+    <!-- 빨래 널린 집 -->
+    <g transform="translate(248,192)">
+      <rect x="0" y="6" width="26" height="18" fill="#e4dcc3" stroke="#4a3b27" stroke-width="1.8"/>
+      <polygon points="-3,6 13,-8 29,6" fill="#c0ab7a" stroke="#4a3b27" stroke-width="1.8"/>
+      <path d="M34,0 L34,26 M80,0 L80,26 M34,4 L80,4" stroke="#4a3b27" stroke-width="1.6" fill="none"/>
+      <g fill="#f1ede0" stroke="#4a3b27" stroke-width="1.1">
+        <rect x="40" y="5" width="7" height="11"/><rect x="50" y="5" width="7" height="13"/><rect x="60" y="5" width="7" height="11"/><rect x="70" y="5" width="7" height="12"/>
+      </g>
+    </g>
+    <text x="250" y="140" font-size="18" fill="#3a2f20"><tspan x="250" dy="0">마당에 빨래가</tspan><tspan x="250" dy="20">널린 집</tspan></text>
+
+    <!-- 뒤집힌 보트 집 -->
+    <g transform="translate(430,190)">
+      <rect x="0" y="6" width="26" height="18" fill="#e4dcc3" stroke="#4a3b27" stroke-width="1.8"/>
+      <polygon points="-3,6 13,-8 29,6" fill="#c0ab7a" stroke="#4a3b27" stroke-width="1.8"/>
+      <path d="M36,24 C40,6 70,6 76,24 Z" fill="#b99a64" stroke="#4a3b27" stroke-width="1.6"/>
+      <path d="M40,24 L72,24" stroke="#4a3b27" stroke-width="2"/>
+    </g>
+    <text x="410" y="138" font-size="18" fill="#3a2f20"><tspan x="410" dy="0">마당에 보트가</tspan><tspan x="410" dy="20">뒤집혀 있는 집</tspan></text>
+
+    <!-- 그물 걸린 집 -->
+    <g transform="translate(188,410)">
+      <rect x="0" y="6" width="26" height="18" fill="#e4dcc3" stroke="#4a3b27" stroke-width="1.8"/>
+      <polygon points="-3,6 13,-8 29,6" fill="#c0ab7a" stroke="#4a3b27" stroke-width="1.8"/>
+      <rect x="34" y="4" width="54" height="26" fill="url(#net)" stroke="#4a3b27" stroke-width="1.4"/>
+    </g>
+    <text x="150" y="468" font-size="18" fill="#3a2f20">마당에 그물이 널린 집</text>
+
+    <!-- 마을회관 -->
+    <g transform="translate(364,292)">
+      <rect x="0" y="6" width="42" height="26" fill="#e4dcc3" stroke="#4a3b27" stroke-width="2"/>
+      <polygon points="-4,6 21,-12 46,6" fill="#c0ab7a" stroke="#4a3b27" stroke-width="2"/>
+      <rect x="17" y="18" width="8" height="14" fill="#9a8a62"/>
+    </g>
+    <text x="356" y="346" font-size="18" fill="#3a2f20">마을회관(비어 있음)</text>
+
+    <!-- 언덕 위 집 -->
+    <g transform="translate(718,280)">
+      <rect x="0" y="6" width="28" height="20" fill="#e4dcc3" stroke="#4a3b27" stroke-width="2.2"/>
+      <polygon points="-4,6 14,-10 32,6" fill="#c0ab7a" stroke="#4a3b27" stroke-width="2.2"/>
+    </g>
+    <text x="690" y="342" font-size="18" fill="#3a2f20">언덕 위의 집</text>
+    <text x="780" y="232" font-size="17" fill="#6a583a">높음 ▲</text>
+    <text x="150" y="332" font-size="17" fill="#6a583a">낮음</text>
+  </g>
+
+  <!-- 방위 -->
+  <g transform="translate(850,70)" fill="#3a2f20" font-size="20" text-anchor="middle">
+    <path d="M0,-30 L9,6 L0,0 L-9,6 Z"/>
+    <text x="0" y="30">N</text>
+  </g>
+
+  <!-- 제목 -->
+  <rect x="10" y="10" width="880" height="600" fill="none" stroke="#4a3b27" stroke-width="3"/>
+  <text x="170" y="52" font-size="30" fill="#2e2417" font-weight="bold">크래비스 마을 약도</text>
+
+  <!-- 범례 -->
+  <g transform="translate(640,500)">
+    <rect x="0" y="0" width="236" height="96" fill="#e6dec6" stroke="#4a3b27" stroke-width="1.6"/>
+    <rect x="14" y="14" width="18" height="14" fill="#c2b79b" stroke="#8a7d5f" stroke-width="1.2"/>
+    <text x="42" y="26" font-size="17" fill="#3a2f20">빈집</text>
+    <path d="M14,46 L32,46" stroke="#7a6a4c" stroke-width="3.2"/>
+    <text x="42" y="52" font-size="17" fill="#3a2f20">길</text>
+    <path d="M14,70 L32,70" stroke="#8a7650" stroke-width="1.5" stroke-dasharray="5 5"/>
+    <text x="42" y="76" font-size="17" fill="#3a2f20">고도선(안쪽이 높음)</text>
+  </g>
+
+  <rect width="900" height="620" filter="url(#paper)" opacity="0.9"/>
+</svg>

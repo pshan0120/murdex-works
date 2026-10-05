@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14323a"/>
+      <stop offset="1" stop-color="#0b1d23"/>
+    </linearGradient>
+    <radialGradient id="deep" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#04101a"/>
+      <stop offset="1" stop-color="#0a2029" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#6fc2bd"/>
+    </marker>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="4"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.07"/></feComponentTransfer>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="760" fill="url(#sea)"/>
+
+  <!-- 북쪽 만: 깊은 물 -->
+  <ellipse cx="540" cy="278" rx="190" ry="80" fill="url(#deep)"/>
+
+  <!-- 본토(북쪽) -->
+  <path d="M0,0 L1200,0 L1200,150 C1120,170 1040,190 960,182 C880,175 820,160 760,176 C700,192 640,206 580,200 C520,194 470,164 410,162 C350,160 300,190 250,188 C190,184 100,160 0,172 Z" fill="#4a4d3f" stroke="#6b6e5a" stroke-width="2"/>
+
+  <!-- 섬(남쪽) -->
+  <path d="M350,472 C333,430 350,385 378,362 C370,322 378,280 406,244 C434,272 442,322 440,354 C494,328 574,332 626,348 C700,360 760,384 790,446 C816,516 786,596 714,634 C634,674 482,676 412,636 C362,606 356,524 350,472 Z" fill="#4f5242" stroke="#767966" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- 서쪽 만(얕음) -->
+  <ellipse cx="338" cy="462" rx="34" ry="48" fill="#235a61"/>
+
+  <!-- 바닷길 -->
+  <path d="M262,190 C262,262 272,356 318,440" fill="none" stroke="#b9a77a" stroke-width="16" stroke-linecap="round"/>
+  <path d="M255,190 C255,262 265,356 311,440 M269,190 C269,262 279,356 325,440" fill="none" stroke="#5a4f33" stroke-width="1.2" stroke-dasharray="4 5"/>
+
+  <!-- 본토 해안 길(시설) -->
+  <path d="M262,184 C390,168 520,196 640,174" fill="none" stroke="#9a9d86" stroke-width="2.2" stroke-dasharray="6 5"/>
+  <text x="330" y="150" fill="#d9d6c3" font-size="13">바닷길 어귀에서 해안 길로 도보 약 15분</text>
+
+  <!-- 고도선 -->
+  <g fill="none" stroke="#9a9d86" stroke-width="1.2" stroke-dasharray="3 4" opacity="0.65">
+    <ellipse cx="546" cy="446" rx="34" ry="24"/>
+    <ellipse cx="546" cy="446" rx="68" ry="48"/>
+    <ellipse cx="546" cy="446" rx="104" ry="72"/>
+    <ellipse cx="546" cy="446" rx="140" ry="98"/>
+  </g>
+
+  <!-- 마을 길 -->
+  <path d="M322,460 L390,452 L434,462 L546,446" fill="none" stroke="#8d8f7a" stroke-width="2"/>
+
+  <!-- 샘의 집에서 보이는 바닷길 -->
+  <path d="M538,444 L330,438" stroke="#7bd0cb" stroke-width="1.4" stroke-dasharray="2 5" opacity="0.85"/>
+  <text x="60" y="424" fill="#7bd0cb" font-size="12">샘의 집에서 내려다보이는 바닷길 →</text>
+
+  <!-- 비탈길 / 연체화 경로 -->
+  <path d="M546,450 C530,500 480,540 376,510" fill="none" stroke="#c9b27a" stroke-width="1.8" stroke-dasharray="5 4"/>
+  <path d="M546,450 L376,508" fill="none" stroke="#d9806f" stroke-width="1.8" stroke-dasharray="2 4"/>
+  <text x="470" y="568" fill="#c9b27a" font-size="13">비탈길(사람 약 15분)</text>
+  <text x="392" y="540" fill="#d9806f" font-size="13">연체화한 몸(몇 분)</text>
+
+  <!-- 방류관 / 해류 -->
+  <path d="M668,218 C650,262 620,296 572,326" fill="none" stroke="#6fc2bd" stroke-width="2.2" marker-end="url(#arr)"/>
+  <path d="M556,332 C530,340 506,340 484,338" fill="none" stroke="#6fc2bd" stroke-width="1.4" stroke-dasharray="3 5" marker-end="url(#arr)"/>
+  <text x="450" y="226" fill="#8fd6d1" font-size="15" font-weight="bold">북쪽 만</text>
+  <text x="450" y="244" fill="#8fd6d1" font-size="13">수심 깊음 · 물살 느림</text>
+  <text x="450" y="261" fill="#8fd6d1" font-size="12">시설 방류 물질이 오래 남는다</text>
+  <text x="686" y="244" fill="#8fd6d1" font-size="11">방류관(8/30 밤)</text>
+
+  <!-- 레이의 납품 뱃길 -->
+  <path d="M478,336 C540,292 620,244 664,214" fill="none" stroke="#e0e0cf" stroke-width="1.4" stroke-dasharray="1 5" opacity="0.8"/>
+  
+
+  <!-- 사망 지점 -->
+  <path d="M466,336 l12,12 M478,336 l-12,12" stroke="#c9564a" stroke-width="3" stroke-linecap="round"/>
+  <text x="494" y="378" fill="#e08074" font-size="12">아서(2011) · 어슐라(2031) 사망 지점</text>
+
+  <!-- 연구시설(본토) -->
+  <rect x="640" y="146" width="46" height="30" fill="#7b7e69" stroke="#cfd0bc" stroke-width="1.5"/>
+  <path d="M668,176 L668,206" stroke="#cfd0bc" stroke-width="5"/>
+  <text x="700" y="140" fill="#e8e4d6" font-size="15" font-weight="bold">연구시설</text>
+  <text x="700" y="158" fill="#bdbaa7" font-size="12">본토 해안 · 선착장이 북쪽 만 쪽</text>
+
+  <!-- 선착장 -->
+  <path d="M322,470 L308,470" stroke="#cfd0bc" stroke-width="5"/>
+  <circle cx="302" cy="476" r="3" fill="#cfd0bc"/>
+  <circle cx="296" cy="482" r="3" fill="#cfd0bc"/>
+  <circle cx="306" cy="484" r="3" fill="#cfd0bc"/>
+  <text x="196" y="560" fill="#8fd6d1" font-size="14" font-weight="bold">서쪽 만</text>
+  <text x="196" y="578" fill="#8fd6d1" font-size="12">얕음 · 조석 큼 · 선착장(배 3척)</text>
+
+  <!-- 마을 집 마커 -->
+  <g font-size="12" font-weight="bold" text-anchor="middle" fill="#14160f">
+    <circle cx="375" cy="508" r="10" fill="#e8c46b"/><text x="375" y="512">1</text>
+    <circle cx="364" cy="430" r="10" fill="#e8c46b"/><text x="364" y="434">2</text>
+    <circle cx="390" cy="416" r="10" fill="#e8c46b"/><text x="390" y="420">3</text>
+    <circle cx="450" cy="408" r="10" fill="#e8c46b"/><text x="450" y="412">4</text>
+    <circle cx="546" cy="446" r="11" fill="#e8c46b" stroke="#c9564a" stroke-width="2"/><text x="546" y="450">5</text>
+  </g>
+  <rect x="424" y="454" width="20" height="16" fill="#9a9d86" stroke="#d9d6c3" stroke-width="1.2"/>
+  <text x="434" y="486" fill="#d9d6c3" font-size="12" text-anchor="middle">회관</text>
+
+  <!-- 외해 -->
+  <path d="M860,330 C890,400 890,490 860,560" fill="none" stroke="#6fc2bd" stroke-width="3" opacity="0.7" marker-end="url(#arr)"/>
+  <path d="M780,680 C720,710 640,716 560,704" fill="none" stroke="#6fc2bd" stroke-width="3" opacity="0.7" marker-end="url(#arr)"/>
+  <text x="900" y="440" fill="#8fd6d1" font-size="14" font-weight="bold">외해</text>
+  <text x="900" y="458" fill="#8fd6d1" font-size="12">조류 강함</text>
+  <text x="900" y="474" fill="#8fd6d1" font-size="12">레이·노라 조업 쪽</text>
+
+  <!-- 바닷길 설명 -->
+  <text x="70" y="290" fill="#e8d9a8" font-size="14" font-weight="bold">바닷길</text>
+  <text x="70" y="308" fill="#e8d9a8" font-size="12">걸어서 약 30분</text>
+  <text x="70" y="324" fill="#e8d9a8" font-size="12">개방일에만(주 1회, 아침·밤)</text>
+
+  <!-- 본토 표기 -->
+  <text x="1060" y="60" fill="#d9d6c3" font-size="19" font-weight="bold">본토</text>
+  <text x="1060" y="82" fill="#bdbaa7" font-size="14">메릴 카운티</text>
+
+  <!-- 방위 -->
+  <g transform="translate(1120,260)" fill="#d9d6c3" font-size="16" font-weight="bold" text-anchor="middle">
+    <path d="M0,-26 L9,6 L0,0 L-9,6 Z"/>
+    <text x="0" y="28">N</text>
+  </g>
+
+  <!-- 제목 -->
+  <text x="20" y="36" fill="#f0ecdb" font-size="26" font-weight="bold">크래비스 섬 전체 지도</text>
+  <text x="20" y="58" fill="#bdbaa7" font-size="14">작가용 · 지도_설정.md 기준 · 위가 북(본토는 북쪽, 섬은 그 남쪽)</text>
+
+  <!-- 범례 -->
+  <g transform="translate(0,370)">
+    <rect x="960" y="64" width="224" height="326" fill="#0d1a1e" stroke="#3b5156" stroke-width="1.5" opacity="0.95"/>
+    <text x="974" y="88" fill="#f0ecdb" font-size="15" font-weight="bold">마을의 집</text>
+    <g font-size="12" fill="#e8e4d6">
+      <circle cx="984" cy="108" r="8" fill="#e8c46b"/><text x="980" y="112" font-size="11" font-weight="bold" fill="#14160f">1</text>
+      <text x="1000" y="112">그물 걸린 집(월터)</text>
+      <circle cx="984" cy="132" r="8" fill="#e8c46b"/><text x="980" y="136" font-size="11" font-weight="bold" fill="#14160f">2</text>
+      <text x="1000" y="136">통발 쌓인 집(에드거)</text>
+      <circle cx="984" cy="156" r="8" fill="#e8c46b"/><text x="980" y="160" font-size="11" font-weight="bold" fill="#14160f">3</text>
+      <text x="1000" y="160">빨래 널린 집(톰·그레이스)</text>
+      <circle cx="984" cy="180" r="8" fill="#e8c46b"/><text x="980" y="184" font-size="11" font-weight="bold" fill="#14160f">4</text>
+      <text x="1000" y="184">뒤집힌 보트 집(레이·노라)</text>
+      <circle cx="984" cy="204" r="8" fill="#e8c46b" stroke="#c9564a" stroke-width="2"/><text x="980" y="208" font-size="11" font-weight="bold" fill="#14160f">5</text>
+      <text x="1000" y="208">언덕 위 집(샘)</text>
+    </g>
+    <text x="974" y="238" fill="#f0ecdb" font-size="15" font-weight="bold">표시</text>
+    <g font-size="12" fill="#e8e4d6">
+      <path d="M974,256 L1000,256" stroke="#9a9d86" stroke-width="2.2" stroke-dasharray="6 5"/><text x="1008" y="260">본토 해안 길</text>
+      <path d="M974,278 L1000,278" stroke="#b9a77a" stroke-width="8"/><text x="1008" y="282">바닷길</text>
+      <path d="M974,300 L1000,300" stroke="#6fc2bd" stroke-width="2.2"/><text x="1008" y="304">해류 / 방류</text>
+      <path d="M974,322 L1000,322" stroke="#9a9d86" stroke-width="1.2" stroke-dasharray="3 4"/><text x="1008" y="326">고도선(안쪽이 높음)</text>
+      <path d="M980,338 l10,10 M990,338 l-10,10" stroke="#c9564a" stroke-width="3"/><text x="1008" y="348">사망 지점</text>
+      <path d="M974,370 L1000,370" stroke="#e0e0cf" stroke-width="1.6" stroke-dasharray="1 5"/><text x="1008" y="374">레이의 납품 뱃길</text>
+    </g>
+  </g>
+
+  <rect width="1200" height="760" filter="url(#grain)" opacity="0.8"/>
+</svg>

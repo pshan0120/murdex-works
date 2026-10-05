@@ -731,12 +731,12 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 관련 : 공통
 의도 : 피해자가 격렬히 저항했음을 물리적으로 시사. 예전에는 "타인의 것으로 보이는 피부 조직"까지 명시해 clue_22와의 교차가 사실상 확정적이었으나, 난이도 조정을 위해 그 조직 정보를 빼고 핏자국만 남김. clue_22(소장의 긁힌 자국)와 조합하면 여전히 같은 결론에 이를 수 있지만, 더 이상 "타인의 피부"라는 결정적 물증이 아니라 정황 조합에 기반한 추론이 되도록 함.
 내용 :
-시신의 오른손 손톱 밑에는 붉은 핏자국이 거칠게 끼어 있었다.
+시신의 오른손 손톱 밑에 피가 끼어 있었다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">기록 보관실</span> 시신의 손톱 밑에서 발견한 흔적이다.</div>
   <div class="divider"></div>
-  <div>시신의 오른손 손톱 밑에는 붉은 핏자국이 거칠게 끼어 있었다.</div>
+  <div>시신의 오른손 손톱 밑에 피가 끼어 있었다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a lifeless hand, dried blood and tissue fragments visible under the fingernails. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : B구역
@@ -1016,13 +1016,13 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 관련 : 공통
 의도 : 조수 알렉스가 단순한 동료가 아니라 클레이의 연인이었으며, 복제체(알렉스)의 첫 각성 당시 클레이를 대신해 목숨을 잃었다는 사실을 최종적으로 확정하는 결정적 단서. 마커스에게는 누나의 진짜 죽음의 경위와 희생을, 베일라에게는 자신이 사랑한 '알렉스'라는 이름이 어디서 비롯되었는지를 동시에 완성시켜주는 열쇠. (2026-09-06 보강) "복제 인간이 원본을 보면 폭주한다"는 설정이 아무 근거 없이 던져진다는 지적에 따라, 클레이 본인의 당혹스러운 회고를 덧붙임. 성공한 배양 개체는 AIex 한 명뿐이므로 "반복 관찰된 패턴"으로 서술하면 안 되고, 지금 막 겪은 이 한 번의 사건에 대한 클레이의 즉각적인 회고여야 함. 원인을 완전히 설명하지는 않되(SF물의 "아직 규명되지 않은 부작용"으로 남김), 최소한 "원본을 인식하는 순간 본능적 수준에서 이성을 잃었다"는 관찰과 클레이 스스로도 이해 못한다는 태도까지만 제시.
 내용 :
-다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다. "…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운 연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. 그리고 다시는, 눈을 뜨지 못했다. …그날 이후 단 하루도 그 순간을 잊은 적이 없다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는. …지금도 그 순간을 이해할 수 없다. 나를 알아보자마자, 마치 '자리는 하나뿐'이라는 감각이 본능 깊숙이 각인된 것처럼 이성을 완전히 잃었다. 신경학적으로는 아직 아무것도 설명할 수 없다."
+다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다. "…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 차가운 연구소에도 온기가 돌았다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. 그리고 다시는, 눈을 뜨지 못했다. …그날 이후 단 하루도 그 순간을 잊은 적이 없다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는. …지금도 그 순간을 이해할 수 없다. 나를 알아보자마자, 마치 '둘 중 하나만 존재할 수 있다'는 감각이 본능 깊숙이 새겨진 것처럼 이성을 완전히 잃었다. 신경학적으로는 아직 아무것도 설명할 수 없다."
 HTML :
 <div class="story-content">
   <div class="script-direction">다른 페이지들보다 유독 손때가 묻고 헤진 한 페이지. 잉크가 군데군데 번져 있다.</div>
   <div class="divider"></div>
   <div class="document-page">
-    <div class="document-body small">"…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 외로운 연구소는 더 이상 지옥이 아니었다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. 그리고 다시는, 눈을 뜨지 못했다. …그날 이후 단 하루도 그 순간을 잊은 적이 없다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는. …지금도 그 순간을 이해할 수 없다. 나를 알아보자마자, 마치 '자리는 하나뿐'이라는 감각이 본능 깊숙이 각인된 것처럼 이성을 완전히 잃었다. 신경학적으로는 아직 아무것도 설명할 수 없다."</div>
+    <div class="document-body small">"…그녀가 조수로 들어온 지 2년째 되던 날, 나는 결국 고백했다. 그녀도 같은 마음이라 답해주었다. 그날 이후 이 차가운 연구소에도 온기가 돌았다. …배양이 성공했다. 완벽한 육체였다. 하지만 눈을 뜬 순간, 그것은 나를 알아보자마자 짐승처럼 달려들었다. 나는 아무것도 할 수 없었다. 그런데 그녀가, 망설임도 없이 내 앞을 막아섰다. 그리고 다시는, 눈을 뜨지 못했다. …그날 이후 단 하루도 그 순간을 잊은 적이 없다. 나는 그것을 완전히 없애지 못했다. 그저 기억을 지우고, 멀리 내보내는 것밖에는. …지금도 그 순간을 이해할 수 없다. 나를 알아보자마자, 마치 '둘 중 하나만 존재할 수 있다'는 감각이 본능 깊숙이 새겨진 것처럼 이성을 완전히 잃었다. 신경학적으로는 아직 아무것도 설명할 수 없다."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a worn, tear-stained journal page, ink smudged in places, resting near the base of a large incubation capsule. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.

@@ -8,7 +8,7 @@
 유전자로 만들어진 복제 개체입니다).
 ※ DB 참고: question_id=20d5476f-3f51-425a-b8ec-472dbce59f60,
   옵션 "진짜"=dc476384-e64f-49ae-85af-74a526262a90,
-  옵션 "가짜(정답)"=75b9ab9e-e680-4812-b50b-240f6ba4d823, question_order=1 (제압 질문=0, 행동 질문=2).
+  옵션 "가짜(정답)"=75b9ab9e-e680-4812-b50b-240f6ba4d823, question_order=0 (제압 질문=1, 행동 질문=2. 2026-10-05에 정체 질문을 첫 번째로 변경).
 -->
 <div class="story-content">
   <div class="section-title">지금까지의 정보를 종합했을 때, 눈앞의 이 사람은 누구라고 생각합니까?</div>

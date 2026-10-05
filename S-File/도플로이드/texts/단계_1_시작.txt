@@ -114,6 +114,11 @@ https://cdn1.suno.ai/7a796fff-e5d3-4cbd-8cdb-3e2def5de534.mp3
       <span class="highlight">지침 확인 필수</span>: 매 단계가 시작될 때마다 본인의 역할 시트에 새로운 지침이나 목표가
       갱신될 수 있습니다. 대화를 시작하기 전 반드시 새로운 지침을 먼저 확인하십시오.
     </li>
+    <li>
+      <span class="highlight">단계 진행</span>: 소요 시간이 설정된 단계도 있으나, 시간이 지난다고 해서 강제로 진행되지는 않습니다.
+      두 사람 모두 <strong>NEXT</strong> 버튼으로 준비 완료를 표시하면 다음 단계로 넘어갈 수 있고, 대화가 더 필요하다면
+      충분히 나눈 뒤 넘어가도 괜찮습니다. 설정된 시간이 지나면 NEXT 버튼이 깜빡여 알려드립니다.
+    </li>
   </ul>
   <div class="section-title">5. 액션포인트(AP) 관리</div>
   <p>단서를 조사할 때 <strong>'액션포인트(AP)'</strong>가 소모됩니다.</p>

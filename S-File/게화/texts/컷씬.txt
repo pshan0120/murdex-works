@@ -1,0 +1,184 @@
+[게화 단계별 컷씬 시퀀스]
+* 아트 디렉션: Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A remote north-Atlantic coastal setting: tidal causeway, wet gravel and sand, low sea fog, weathered fishing-village houses, a plain government research building on a rocky shore. Naturalistic lighting from practical sources only: overcast dawn light, a flashlight beam cutting through mist and shadow, dim interior bulbs. Rest of the frame in deep shadow. Desaturated cool teal-black color grade, subtle film grain, analog imperfections. No creatures or monsters visible, no recognizable faces, no text overlays.
+* 전환 원칙: 각 단계 컷씬은 두 장면으로 구성한다(컷 1은 섬의 베일라, 컷 2는 본토 시설의 마커스). 4단계부터는 컷 1이 "두 시간이 지나 약속한 시각이 됐다"는 한 줄로 시작한다. 다음 단계로 넘어가는 계기(쇠지레, 출입 카드 등)는 단서에 의존하지 않고 컷씬이 사실로 서술한다.
+
+########################################
+[단계 2: 대면]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+새벽, 바닷길 어귀의 선착장.
+안개 속에서 썰물이 자갈을 끌어내립니다.
+갓길에 차 한 대가 서 있고,
+선착장 끝에서는 노인 한 사람이 그물을 손질합니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A small fishing pier at dawn on a rocky northern coast, low fog over the water, a rental car parked on the gravel shoulder with its engine off, an old fisherman in a heavy coat mending a net at the far end of the pier, a faint pale strip of causeway beginning to appear in the distance. Faces not visible. Desaturated cool teal-black color grade, naturalistic overcast dawn light, subtle film grain, analog imperfections.
+
+* 파일명: 단계2_대면_컷1
+
+========================================
+[컷 2]
+========================================
+* 자막:
+안개 낀 아침, 바닷길이 열리는 시간.
+젖은 모래 위로 두 사람의 발자국이 이어집니다.
+길의 끝, <span class="emphasis">크래비스</span> 섬의 낮은 비탈이
+안개 속에서 모습을 드러냅니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A tidal causeway at dawn, a narrow strip of wet gravel and sand stretching between dark water on both sides, two sets of footprints leading toward a low island rising out of heavy sea fog in the distance. No people visible. Desaturated cool teal-black color grade, naturalistic overcast light, subtle film grain, analog imperfections.
+
+* 파일명: 단계2_대면_컷2
+
+########################################
+[단계 3: 1차 조사]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+섬의 서쪽 만. 마을 입구에 낡은 표지판 하나가 서 있습니다.
+<span class="emphasis">CRABIS</span>
+집들은 하나같이 문을 걸어 잠갔는데,
+마당에 그물이 널린 집 한 곳만 문이 열려 있습니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. The entrance of an empty fishing village on a hillside at dawn, a weathered wooden sign reading "CRABIS" in the foreground, rows of shuttered houses climbing the slope, and in the middle distance one house with its door standing open and fishing nets spread across its yard. Low fog, no people visible. Desaturated cool teal-black color grade, naturalistic overcast light, subtle film grain, analog imperfections.
+
+* 파일명: 단계3_1차조사_컷1
+
+========================================
+[컷 2]
+========================================
+* 자막:
+본토 해안, 바닷길 어귀에서 길을 따라 조금 떨어진 곳.
+간판 없는 낮은 건물 하나가 바다를 향해 서 있습니다.
+창은 모두 어둡고, 어디에서도 사람의 기척이 없습니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A plain low concrete government research building with no signage standing on a rocky coastline facing the sea, all windows dark, a small jetty extending into gray water beside it, thin morning fog drifting across the shore. No people visible. Desaturated cool teal-black color grade, naturalistic overcast light, subtle film grain, analog imperfections.
+
+* 파일명: 단계3_1차조사_컷2
+
+########################################
+[단계 4: 2차 조사]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+두 시간이 흘렀습니다. 약속한 시각이 되어
+두 사람은 알아낸 것을 서로 나눕니다.
+베일라는 집을 나서며 현관 옆 공구통에서
+쇠지레 하나를 챙깁니다.
+나머지 집들은 문도 창도 굳게 잠겨 있습니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A weathered iron crowbar leaning against a doorframe beside an open toolbox in a dim fisherman's porch, and beyond it in the yard a row of neighboring houses with every door and window shut tight, low fog between them. No people visible. Desaturated cool teal-black color grade, naturalistic overcast light, subtle film grain, analog imperfections.
+
+* 파일명: 단계4_2차조사_컷1
+
+========================================
+[컷 2]
+========================================
+* 자막:
+마커스는 일반 구역을 지나
+연구 구역으로 이어지는 안쪽 철문 앞에 섭니다.
+철문은 반쯤 열려 있습니다.
+안쪽에서 누군가 밀고 나가려다 멈춘 듯한 틈입니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A plain institutional corridor with a heavy steel interior door standing half open, a narrow gap of dark space beyond it, dim fluorescent light flickering overhead, scuffed linoleum floor. No people visible. Desaturated cool teal-black color grade, naturalistic practical lighting, subtle film grain, analog imperfections.
+
+* 파일명: 단계4_2차조사_컷2
+
+########################################
+[단계 5: 3차 조사]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+두 시간이 흘렀습니다. 알아낸 것을 전화로 나누고
+두 사람은 다시 흩어집니다.
+다음 집은 창마다 판자가 덧대어져 있습니다.
+지붕 위 환풍구에는 어둡게 빈틈이 벌어져 있습니다.
+베일라가 판자 틈에 쇠지레를 밀어 넣습니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A fishing-village house with every window nailed over with rough wooden boards, a small boat lying overturned in the yard, and on the roof a dark ventilation opening with a gap around its cover, low fog, flashlight glow on the boards. No people visible. Desaturated cool teal-black color grade, naturalistic overcast light, subtle film grain, analog imperfections.
+
+* 파일명: 단계5_3차조사_컷1
+
+========================================
+[컷 2]
+========================================
+* 자막:
+복도 바닥에 연구복을 입은 노인이 쓰러져 있습니다.
+가슴께 주머니에서 출입 카드 한 장이 삐져나와 있습니다.
+마커스가 그 카드를 통제 구역 문의 리더기에 가져다 댑니다.
+짧은 전자음과 함께 문이 열립니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A research facility corridor, an electronic card reader beside a gray steel door glowing a dim green as the door slides open, a plastic access card held up to the reader by a gloved hand at the edge of frame, dim fluorescent light, a lab coat sleeve visible on the floor in the foreground in shadow. No face visible, no graphic detail. Desaturated cool teal-black color grade, naturalistic practical lighting, subtle film grain, analog imperfections.
+
+* 파일명: 단계5_3차조사_컷2
+
+########################################
+[단계 6: 4차 조사]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+두 시간이 흘렀습니다. 약속한 시각이 되어
+두 사람은 알아낸 것을 서로 나눕니다.
+마지막 집은 마을에서 가장 높은 곳에 있습니다.
+비탈을 오르다 돌아보면, 아래로 바닷길이 한눈에 내려다보입니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A view looking down a hillside from the highest house of a fishing village, rooftops stepping down toward a gray bay, the tidal causeway visible as a pale thin line running out across the water toward the mainland in the fog. Rough boarded window in the foreground edge. No people visible. Desaturated cool teal-black color grade, naturalistic overcast light, subtle film grain, analog imperfections.
+
+* 파일명: 단계6_4차조사_컷1
+
+========================================
+[컷 2]
+========================================
+* 자막:
+통제 구역의 벽 한 곳, 이음새 사이로
+가느다란 빛이 새어 나옵니다.
+안쪽에서 수동 레버를 내려야 잠기는 문입니다.
+누군가 서두르다 레버를 내리지 못한 채 지나갔습니다.
+마커스가 벽을 밀자 문이 열립니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A bare concrete corridor wall with a hidden panel seam, a thin vertical line of cold light leaking through the gap, a manual metal lever visible on the inner edge of the slightly open panel, dust on the floor, dim light. No people visible. Desaturated cool teal-black color grade, naturalistic practical lighting, subtle film grain, analog imperfections.
+
+* 파일명: 단계6_4차조사_컷2
+
+########################################
+[단계 7: 최종 추리]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+해가 기울기 시작합니다.
+다시 물이 빠지기 시작한 바닷길 위로
+안개가 낮게 깔립니다.
+오늘 밤, 바닷길이 두 번째로 열립니다.
+두 사람은 지금까지 알아낸 모든 것을 맞춰 봅니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A tidal causeway at dusk, the sea slowly pulling back to reveal a pale strip of wet sand between dark water on both sides, low fog rolling over it, the last faint light fading in a deep blue-gray sky, a small island silhouette on one side and a dark coastline on the other. No people visible. Desaturated cool teal-black color grade, naturalistic dusk light, subtle film grain, analog imperfections.
+
+* 파일명: 단계7_최종추리_컷1

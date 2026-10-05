@@ -100,10 +100,10 @@ groupId : (크래비스 섬 - 그물 걸린 집 그룹 GroupID)
 관련 : 베일라
 의도 : 순수 진행용 도구. 이후 2~4단계에서 다른 집들의 잠긴 창문을 깨고 들어가는 수단이 된다(별도 코드 없이 단계를 진행시키는 물리적 장치).
 내용 :
-그 옆 바닥에 쇠지레 하나가 떨어져 있다. 뱃일에 쓰는 연장인 듯, 끝이 녹슬어 있다.
+옷장 옆 바닥에 쇠지레 하나가 떨어져 있다. 뱃일에 쓰는 연장인 듯, 끝이 녹슬어 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">그 옆 바닥에 쇠지레 하나가 떨어져 있다.</div>
+  <div class="script-direction">옷장 옆 바닥에 쇠지레 하나가 떨어져 있다.</div>
   <div>뱃일에 쓰는 연장인 듯, 끝이 녹슬어 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An old rusted crowbar lying on a wooden floor beside a disturbed wardrobe, the kind used for boat maintenance. Grainy 16mm film still, desaturated cool teal-black color grade.
@@ -279,10 +279,10 @@ groupId : (연구시설 - 일반 구역 그룹 GroupID)
 관련 : 마커스
 의도 : 오웬이 사실상 2인자였다는 걸 관찰로만 보여주는 물증 — "그래서 신뢰받았다" 같은 해석은 넣지 않는다. 서명은 이름이 아니라 성(姓)으로 남기는 미국식 관례를 따라 "프라이스"로 적는다 — 이게 "오웬"과 같은 사람이라는 연결은 이 단계에서 짓지 않고, 이후 오웬을 직접 만나는 단계에서 자연스럽게 풀린다.
 내용 :
-한 책상 위, 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 있다. 전부 여백에 짧은 메모와 함께 "프라이스"라는 서명이 달려 있다.
+책상 위에 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 놓여 있다. 전부 여백에 짧은 메모와 함께 "프라이스"라는 서명이 달려 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">한 책상 위, 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 있다.</div>
+  <div class="script-direction">책상 위에 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 놓여 있다.</div>
   <div>전부 여백에 짧은 메모와 함께 "프라이스"라는 서명이 달려 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A small stack of colleagues' report copies on a desk, each with handwritten margin notes and the same reviewer's surname signature. Grainy 16mm film still, desaturated cool teal-black color grade.
@@ -376,7 +376,7 @@ groupId : (연구시설 - 일반 구역 그룹 GroupID)
 내용 :
 휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 술병을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
 
-"클로이를 환영하며 — 션, 오웬, 앨런 — 2031. 4."
+"클로이를 환영하며. 션, 오웬, 앨런. 2031. 4."
 HTML :
 <div class="story-content">
   <div class="script-direction">휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다.</div>
@@ -384,7 +384,7 @@ HTML :
   <div>액자를 들어보니 뒷면에 짧은 글씨가 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">"클로이를 환영하며 — 션, 오웬, 앨런 — 2031. 4."</div>
+    <div class="document-body small">"클로이를 환영하며. 션, 오웬, 앨런. 2031. 4."</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A framed group photo on a break room wall, four people posing in a row: the leftmost with an arm around the next person's shoulder, the second person holding up a liquor bottle, the third making a peace sign, the rightmost a woman with long hair brushed back over her shoulder, smiling; the back of the frame shows handwritten names and a date. Grainy 16mm film still, desaturated cool teal-black color grade.
@@ -484,11 +484,11 @@ groupId : (크래비스 섬 - 통발 쌓인 집 그룹 GroupID)
 관련 : 베일라
 의도 : 1번째 희생자. 자다가 질식했으므로 저항·몸싸움의 흔적이 없다. 시신에서는 이름을 확정하지 않고 "사진 속 노인과 같은 손등의 화상 자국"이라는 관찰만 겹치게 둔다. 비워진 지 가장 오래됐다는 인상은 탁한 공기로만 전한다.
 내용 :
-안방 침대 위에 마른 노인이 반듯하게 누워 있다. 이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있고, 방 안에는 탁한 공기가 배어 있다.
+안방 침대 위에 마른 노인이 반듯하게 누워 있다. 이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.
 HTML :
 <div class="story-content">
   <div class="script-direction">안방 침대 위에 마른 노인이 반듯하게 누워 있다.</div>
-  <div>이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있고, 방 안에는 탁한 공기가 배어 있다.</div>
+  <div>이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A dim bedroom, a thin elderly man lying straight on the bed with the blanket pulled up to his neck, one hand clenched around the sheet with an old burn scar on its back, mouth open, implied suffocation in his sleep without graphic detail, stale heavy atmosphere. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 크래비스 섬 - 통발 쌓인 집
@@ -596,13 +596,13 @@ groupId : (크래비스 섬 - 빨래 널린 집 그룹 GroupID)
 관련 : 베일라
 의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 "접힌 종이를 펼치니 무한대 기호가 보인다"고만 쓰고, 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다.
 내용 :
-거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다. 한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러가 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
+거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다. 한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
 
 펼쳐 보니 무한대 기호가 보인다.
 HTML :
 <div class="story-content">
   <div class="script-direction">거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다.</div>
-  <div>한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러가 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
+  <div>한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
     <div class="document-body small">∞</div>
@@ -717,11 +717,11 @@ groupId : (연구시설 - 연구 구역 그룹 GroupID)
 관련 : 마커스
 의도 : 급속 노화로 죽은 연구원(앨런 보이드)의 시신. 이름은 연구복의 이름 자수 "A. Boyd"로만 알리고, 사진 뒷면의 "앨런"과 이니셜 "A."로 플레이어가 추리한다 — 신분증 사진 같은 장치는 급속 노화가 너무 일찍 풀려서 쓰지 않는다. "극도로 늙었다"는 사실만 보여주고 왜 그런지는 설명하지 않는다. 외상이 없다는 것과 연구복이 몸에 비해 헐렁하다는 것까지만 관찰로 남긴다. 15세 등급에 맞춰 암시적으로만 처리(10장). 마커스가 베일라에게 넘길 코드 "앨런"의 출처다.
 내용 :
-복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다. 얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.
+복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다. 얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다.</div>
-  <div>얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.</div>
+  <div>얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A sterile laboratory corridor, an extremely aged white-haired man in a loose lab coat slumped against the wall, no visible wounds, an embroidered name patch on the chest reading "A. Boyd", implied death without graphic detail. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 연구 구역
@@ -1022,17 +1022,17 @@ groupId : (크래비스 섬 - 뒤집힌 보트 집 그룹 GroupID)
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 베일라
-의도 : 마을 사람들이 최근 한 여자를 죽였고 그 보복을 두려워한다는 것(정보 9), 앞선 두 사람이 죽었다는 것, 이 쪽지를 레이·노라가 읽은 뒤 죽었다는 희생 순서(정보 5)를 전한다. 톰이 가까운 곳에 살면서도 쪽지를 남긴 이유는 레이·노라가 외해 조업으로 집을 비웠기 때문이다(일정표와 맞물림). 가명 대신 **실명**으로, 남은 사람들에게 보내는 경고로 쓴다: 에드거는 "두목", 월터는 "레너드", 경고를 받는 사람은 "지미, 데비, 로니", 작성자 톰은 "마이클"이다. 이 집이 지미·데비(레이·노라)의 집이라 받는 사람 둘은 이 집 부부이고, 남은 "로니"가 마지막 집(샘의 집, 4단계) 주인의 실명이다 — 이 이름이 4단계에서 비밀코드가 되며, 보너스 없이도 추리된다. 서술자가 가명과 실명을 연결해주지 않는다.
+의도 : 마을 사람들이 최근 한 여자를 죽였고 그 보복을 두려워한다는 것(정보 9), 앞선 두 사람이 죽었다는 것, 이 쪽지를 레이·노라가 읽은 뒤 죽었다는 희생 순서(정보 5)를 전한다. 받는 사람도 그 자리에 있었으므로 일시, 장소, 방법을 자세히 쓰지 않고 "사흘 전에 해치운"이라는 상대 시점의 말만 쓴다. 이 쪽지는 에드거와 월터의 시신을 확인한 9/3에 쓰였고(월터의 쪽지 "어제부터 안 보인다", 일정표의 레이·노라 외해 9/1~3과 맞물린다), 사흘 전은 8/31이다. 장소(북쪽 만)와 익사는 이 쪽지가 아니라 2단계 [대면]에서 어부가 지도에 그려 준 해류와 "수영 금지", 어부의 말(20년 전에 그 근처 물에서 사람이 사라졌다), 샘의 노트에서 추리한다. 그 여자가 누구인지는 쓰지 않는다. 톰이 가까운 곳에 살면서도 쪽지를 남긴 이유는 레이·노라가 외해 조업으로 집을 비웠기 때문이다(일정표와 맞물림). 가명 대신 **실명**으로, 남은 사람들에게 보내는 경고로 쓴다: 에드거는 "두목", 월터는 "레너드", 경고를 받는 사람은 "지미, 데비, 로니", 작성자 톰은 "마이클"이다. 이 집이 지미·데비(레이·노라)의 집이라 받는 사람 둘은 이 집 부부이고, 남은 "로니"가 마지막 집(샘의 집, 4단계) 주인의 실명이다 — 이 이름이 4단계에서 비밀코드가 되며, 보너스 없이도 추리된다. 서술자가 가명과 실명을 연결해주지 않는다.
 내용 :
 식탁 위에 쪽지 한 장이 놓여 있다.
 
-"두목과 레너드가 죽었다. 지미, 데비, 로니도 조심해라. 그 여자가 돌아온 걸까. 유령이 한 짓이라면 우리 모두 끝이다. - 마이클"
+"두목과 레너드가 죽었다. 지미, 데비, 로니도 조심해라. 사흘 전에 해치운 그 여자가 돌아온 걸까. 유령이 한 짓이라면 우리 모두 끝이다. - 마이클"
 HTML :
 <div class="story-content">
   <div class="script-direction">식탁 위에 쪽지 한 장이 놓여 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">"두목과 레너드가 죽었다. 지미, 데비, 로니도 조심해라. 그 여자가 돌아온 걸까. 유령이 한 짓이라면 우리 모두 끝이다. - 마이클"</div>
+    <div class="document-body small">"두목과 레너드가 죽었다. 지미, 데비, 로니도 조심해라. 사흘 전에 해치운 그 여자가 돌아온 걸까. 유령이 한 짓이라면 우리 모두 끝이다. - 마이클"</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A hurried handwritten note lying on a kitchen table, short lines, shaky handwriting. Grainy 16mm film still, desaturated cool teal-black color grade.
@@ -1233,11 +1233,11 @@ groupId : (연구시설 - 통제 구역 그룹 GroupID)
 관련 : 마커스
 의도 : 클로이의 시신(급속 노화). 2단계 앨런과 같은 방식으로 이름 자수 "C. Ryan"과 하얗게 센 긴 머리로 신원을 알려, 1단계 사진의 긴 머리 여성과 복도의 긴 머리카락(#1)이 이어지게 한다. 클로이는 통제 구역을 조사하다 비밀 구역이 있다는 것까지 알아냈으나 들어가는 법은 알아내지 못했다 — 이 시신 단서를 얻으면 뒷면 단서 1개(통제 구역#7 연구복 주머니의 쪽지 "ution")가 AP 없이 추가로 배치된다. 15세 등급에 맞춰 암시적으로만 처리(10장).
 내용 :
-복도 끝 벽 앞 바닥에 연구복을 입은 노인이 엎드려 있다. 긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "C. Ryan"이라는 이름이 수놓여 있다.
+복도 끝 벽 앞 바닥에 연구복을 입은 노인이 엎드려 있다. 긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "C. Ryan"이라는 이름이 수놓여 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">복도 끝 벽 앞 바닥에 연구복을 입은 노인이 엎드려 있다.</div>
-  <div>긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "C. Ryan"이라는 이름이 수놓여 있다.</div>
+  <div>긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "C. Ryan"이라는 이름이 수놓여 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A sterile laboratory floor just inside a heavy door, an extremely aged person with long white hair lying face down in a loose lab coat, no visible wounds, an embroidered name patch on the chest reading "C. Ryan", implied death without graphic detail. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 통제 구역
@@ -1341,7 +1341,12 @@ groupId : (연구시설 - 통제 구역 그룹 GroupID)
 교환 가능 여부 : N
 획득 가능 여부 : N
 획득 조건 존재 여부 : N
-획득 조건 내용 :
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : Y
+관련 : 마커스
+의도 : 오웬의 중얼거림이 핵심 흔적이다(8-0 참고). 사고의 경위(건배, 조금만 마신 것, 달라진 술맛, 개수대에 쏟은 것, 술병을 바꾼 것)가 두서없이 흘러나오지만, 오웬은 진상을 직접 설명하지 못하고 같은 말을 되풀이한다. 마이어스와 앨런을 아직 살아 있는 사람처럼 부르는 데서 정신이 온전하지 않다는 것이 드러난다. "…번째가 진짜야. 보관함에 있어"는 통제 구역#6 보관함 코드의 단서다. 해석과 결론은 쓰지 않는다.
+내용 :
 통제 구역 안쪽 구석에서 노인이 벽에 기대앉아 혼잣말을 중얼거리고 있다. 곁에는 빈 술병이 여러 개 굴러다닌다. 같은 말을 되풀이하다가 끊기곤 한다.
 
 "오웬, 오웬이야. 나는… 프라이스. 프라이스 맞지?"
@@ -1519,11 +1524,11 @@ groupId : (크래비스 섬 - 언덕 위 집 그룹 GroupID)
 의도 : 밀실의 첫 번째 방비. 이 집이 지금까지 중 가장 철저히 막혀 있었다는 것과, 문으로는 아무도 들어오지 않았다는 것.
 내용 :
 현관문 앞에 장롱과 탁자가 쌓여 있다.
-문에는 안쪽 빗장이 걸려 있다. 쌓인 가구는 문 앞에 그대로 놓여 있다.
+문에는 안쪽 빗장이 걸려 있다. 쌓인 가구는 건드린 흔적 없이 그대로다.
 HTML :
 <div class="story-content">
   <div class="script-direction">현관문 앞에 장롱과 탁자가 쌓여 있다.</div>
-  <div>문에는 안쪽 빗장이 걸려 있다. 쌓인 가구는 문 앞에 그대로 놓여 있다.</div>
+  <div>문에는 안쪽 빗장이 걸려 있다. 쌓인 가구는 건드린 흔적 없이 그대로다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A front door barricaded from inside with a heavy wardrobe and a table stacked against it, a wooden bar across the door. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 크래비스 섬 - 언덕 위 집
@@ -1550,12 +1555,12 @@ groupId : (크래비스 섬 - 언덕 위 집 그룹 GroupID)
 관련 : 베일라
 의도 : 밀실의 두 번째 방비와 감시 틈. 창, 틈새, 환풍구, 굴뚝이 모두 막혀 있고 손댄 흔적이 없다는 것(침입이 이 경로들로 이뤄지지 않았다). 바닷길 쪽 판자의 틈은 샘이 밖을 살폈다는 것과 이 집에서 바닷길을 건너오는 사람이 보인다는 것을 알린다. 베일라가 뜯고 들어온 창은 컷씬에서 다루므로 본문은 '나머지 창'으로 쓴다.
 내용 :
-나머지 창에도 판자가 새 못으로 박혀 있다.
-창틀과 벽의 틈에는 천이 끼워지고 테이프가 붙어 있고, 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.
+모든 창에 판자가 새 못으로 박혀 있다.
+창틀과 벽 사이의 틈에는 천이 끼워지고 테이프가 붙어 있고, 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">나머지 창에도 판자가 새 못으로 박혀 있다.</div>
-  <div>창틀과 벽의 틈에는 천이 끼워지고 테이프가 붙어 있고, 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.</div>
+  <div class="script-direction">모든 창에 판자가 새 못으로 박혀 있다.</div>
+  <div>창틀과 벽 사이의 틈에는 천이 끼워지고 테이프가 붙어 있고, 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. Window boards nailed with fresh nails, strips of cloth and tape stuffed into window frame gaps, a vent covered with a plank, one board with a narrow slit and a chair in front of it, a faint view of a causeway through the slit. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 크래비스 섬 - 언덕 위 집
@@ -1676,7 +1681,7 @@ groupId : (크래비스 섬 - 언덕 위 집 그룹 GroupID)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 연계 보조 단서이자 보너스(진행과 무관). 시신이 앞을 막고 있던 부엌 구석의 문(지하실 문)의 글자 자물쇠이고, 샘이 도망쳐 닿으려 했지만 열지 못한 곳이다. 코드는 이 집 주인의 실명 "로니"(성은 입력하지 않는다). 열면 20년 전 아서 콜린스의 최후를 적은 샘의 기록이 나온다. 에드거의 손등 화상을 알아본 아서가 살해당했고, 시신과 배가 북쪽 만에 가라앉혀졌다는 것. 샘은 직접 가담하지 않고 지켜만 봤다(알고도 침묵한 공범). 기록은 샘의 1인칭이므로 그의 말 안에서만 쓰고, 서술자가 해석을 덧붙이지 않는다. 어슐라가 20년간 추적했다는 내용은 엔딩에서만 밝히므로 여기에 쓰지 않는다.
+의도 : 연계 보조 단서이자 보너스(진행과 무관). 시신이 앞을 막고 있던 부엌 구석의 문(지하실 문)의 글자 자물쇠이고, 샘이 도망쳐 닿으려 했지만 열지 못한 곳이다. 코드는 이 집 주인의 실명 "로니"(성은 입력하지 않는다). 열면 20년 전 아서 콜린스의 최후를 적은 샘의 기록이 나온다. 에드거의 손등 화상을 알아본 아서가 살해당했고, 시신이 북쪽 만에 가라앉혀졌다는 것. 샘은 직접 가담하지 않고 지켜만 봤다(알고도 침묵한 공범). 기록은 샘의 1인칭이므로 그의 말 안에서만 쓰고, 서술자가 해석을 덧붙이지 않는다. 어슐라가 20년간 추적했다는 내용은 엔딩에서만 밝히므로 여기에 쓰지 않는다.
 질문 HTML :
 <div class="story-content">
   <div>시신이 막고 있던 구석의 문에는 글자 자물쇠가 달려 있다.</div>
@@ -1690,7 +1695,7 @@ groupId : (크래비스 섬 - 언덕 위 집 그룹 GroupID)
 
 형님은 웃었다. 그날 밤 월터를 불렀다.
 
-그는 곧 떠나지 못했다. 며칠 뒤 밤, 형님과 월터와 톰과 그레이스가 그를 배에 태우고 북쪽 만으로 나갔다. 나는 막내라 따라가서 지켜만 봤다. 물이 깊어서 그의 배는 소리도 없이 내려갔다.
+그는 섬을 떠나지 못했다. 며칠 뒤 밤, 형님과 월터와 톰과 그레이스가 그를 북쪽 만으로 데려갔다. 나는 막내라 따라가서 지켜만 봤다. 물이 깊어서 그는 소리도 없이 가라앉았다.
 
 아무것도 하지 못했다. 그 뒤로 20년 동안 아무에게도 말하지 않았다.
 HTML :
@@ -1698,7 +1703,7 @@ HTML :
   <div class="script-direction">잠금이 풀린 문 안쪽으로 지하로 내려가는 계단이 이어진다. 계단 아래 선반 위에 낡은 노트 한 권이 놓여 있다. 첫 장에 이렇게 적혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">그 노인의 이름은 나중에야 알았다. 아서 콜린스.<br /><br />그해 9월, 그는 통발을 걷으러 왔다가 에드거 형님 집에서 하룻밤 묵었다. 저녁 식사 때 형님이 소매를 걷었고, 그 노인은 한참 형님의 손등을 봤다. 아침에 떠나기 전에 그가 물었다. 혹시 전에 뭍 쪽 일을 하신 적이 있으십니까.<br /><br />형님은 웃었다. 그날 밤 월터를 불렀다.<br /><br />그는 곧 떠나지 못했다. 며칠 뒤 밤, 형님과 월터와 톰과 그레이스가 그를 배에 태우고 북쪽 만으로 나갔다. 나는 막내라 따라가서 지켜만 봤다. 물이 깊어서 그의 배는 소리도 없이 내려갔다.<br /><br />아무것도 하지 못했다. 그 뒤로 20년 동안 아무에게도 말하지 않았다.</div>
+    <div class="document-body small">그 노인의 이름은 나중에야 알았다. 아서 콜린스.<br /><br />그해 9월, 그는 통발을 걷으러 왔다가 에드거 형님 집에서 하룻밤 묵었다. 저녁 식사 때 형님이 소매를 걷었고, 그 노인은 한참 형님의 손등을 봤다. 아침에 떠나기 전에 그가 물었다. 혹시 전에 뭍 쪽 일을 하신 적이 있으십니까.<br /><br />형님은 웃었다. 그날 밤 월터를 불렀다.<br /><br />그는 섬을 떠나지 못했다. 며칠 뒤 밤, 형님과 월터와 톰과 그레이스가 그를 북쪽 만으로 데려갔다. 나는 막내라 따라가서 지켜만 봤다. 물이 깊어서 그는 소리도 없이 가라앉았다.<br /><br />아무것도 하지 못했다. 그 뒤로 20년 동안 아무에게도 말하지 않았다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An opened cellar door with stairs leading down into dim light, a shelf at the bottom with an old worn notebook, a dusty cellar interior. Grainy 16mm film still, desaturated cool teal-black color grade.
@@ -1739,11 +1744,11 @@ groupId : (연구시설 - 비밀 구역 그룹 GroupID)
 의도 : 마이어스의 시신. 연구원 넷의 행방이 모두 정리된다(앨런, 클로이, 마이어스는 사망, 오웬은 생존). 2단계 앨런, 3단계 클로이와 같은 방식으로 연구복의 이름 자수로 신원을 알린다. 건배 후 일을 보다가 쓰러졌다는 것은 쓰지 않는다. 한 손이 책상 쪽으로 뻗어 있다는 것만 보여준다. 15세 등급에 맞춰 암시적으로만 처리(10장).
 내용 :
 책상 앞 바닥에 연구복을 입은 노인이 쓰러져 있다.
-듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "S. Meyers"라는 이름이 수놓여 있다. 한 손은 책상 쪽으로 뻗어 있다.
+듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "S. Meyers"라는 이름이 수놓여 있다. 한 손은 책상 쪽으로 뻗어 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">책상 앞 바닥에 연구복을 입은 노인이 쓰러져 있다.</div>
-  <div>듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하게 남고, 가슴께에는 "S. Meyers"라는 이름이 수놓여 있다. 한 손은 책상 쪽으로 뻗어 있다.</div>
+  <div>듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "S. Meyers"라는 이름이 수놓여 있다. 한 손은 책상 쪽으로 뻗어 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. An elderly man in an oversized lab coat collapsed on the floor in front of a desk, thin white hair, deeply wrinkled skin, one hand stretched toward the desk, a name embroidered on the chest, no graphic detail. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 비밀 구역
@@ -1940,7 +1945,7 @@ groupId : (연구시설 - 비밀 구역 그룹 GroupID)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 보너스(진행과 무관). 수조의 라벨은 "랍스터"뿐인데 안의 개체들이 게의 모습이다. 일부는 랍스터와 게가 합쳐진 중간 모습이다. 원래 랍스터 수조였는데 시제품이 들어가 게화가 이루어졌다는 관찰 증거다. 베일라가 준 "게"가 그대로 쓰인다. 해석(시제품 때문이라는 말, 진화)은 쓰지 않는다.
+의도 : 진행과는 무관하지만 마커스의 최종 질문 m3의 6c 근거다(암호 "게"를 받지 못하면 이 요소 점수를 놓친다). 수조의 라벨은 "랍스터"뿐인데 안의 개체들이 게의 모습이다. 일부는 랍스터와 게가 합쳐진 중간 모습이다. 원래 랍스터 수조였는데 시제품이 들어가 게화가 이루어졌다는 관찰 증거다. 베일라가 준 "게"가 그대로 쓰인다. 해석(시제품 때문이라는 말, 진화)은 쓰지 않는다.
 질문 HTML :
 <div class="story-content">
   <div>벽 쪽 수조에 갑각류 여러 마리가 있다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
@@ -1948,11 +1953,11 @@ groupId : (연구시설 - 비밀 구역 그룹 GroupID)
 </div>
 내용 :
 "게"를 살펴본다.
-수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 넓게 눌려 가는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.
+수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 납작하게 넓어지는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">"게"를 살펴본다.</div>
-  <div>수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 넓게 눌려 가는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
+  <div>수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 납작하게 넓어지는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A glass tank in a dim laboratory, crabs and half-formed creatures that look like a mix of lobster and crab, a small label reading lobster on the tank. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 연구시설 - 비밀 구역

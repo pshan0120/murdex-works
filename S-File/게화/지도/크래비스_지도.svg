@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <defs>
+    <pattern id="wave" width="30" height="16" patternUnits="userSpaceOnUse">
+      <path d="M0,9 Q7.5,3 15,9 T30,9" fill="none" stroke="#8fa8a3" stroke-width="1.1"/>
+    </pattern>
+    <filter id="paper" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" seed="9"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.14"/></feComponentTransfer>
+    </filter>
+    <marker id="pen" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M1,1 L9,5 L1,9" fill="none" stroke="#244fb3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="penred" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M1,1 L9,5 L1,9" fill="none" stroke="#b3281f" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- 종이 -->
+  <rect width="1200" height="760" fill="#e3d9bc"/>
+
+  <!-- 바다 -->
+  <rect x="18" y="18" width="1164" height="724" fill="#b9cbc6" stroke="#4a3b27" stroke-width="2"/>
+  <rect x="18" y="18" width="1164" height="724" fill="url(#wave)" opacity="0.7"/>
+
+  <!-- 본토(북쪽) -->
+  <path d="M18,18 L1182,18 L1182,150 C1120,170 1040,190 960,182 C880,175 820,160 760,176 C700,192 640,206 580,200 C520,194 470,164 410,162 C350,160 300,190 250,188 C190,184 100,160 18,172 Z" fill="#d3c59c" stroke="#4a3b27" stroke-width="2"/>
+
+  <!-- 섬 -->
+  <path d="M350,472 C333,430 350,385 378,362 C370,322 378,280 406,244 C434,272 442,322 440,354 C494,328 574,332 626,348 C700,360 760,384 790,446 C816,516 786,596 714,634 C634,674 482,676 412,636 C362,606 356,524 350,472 Z" fill="#d3c59c" stroke="#4a3b27" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- 바닷길 -->
+  <path d="M262,190 C262,262 272,356 318,440" fill="none" stroke="#c7b681" stroke-width="14" stroke-linecap="round"/>
+  <path d="M256,190 C256,262 266,356 312,440 M268,190 C268,262 278,356 324,440" fill="none" stroke="#4a3b27" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- 해안 길 -->
+  <path d="M262,184 C390,168 520,196 640,174" fill="none" stroke="#7a6a4c" stroke-width="2.4" stroke-dasharray="7 5"/>
+
+  <!-- 마을 -->
+  <g fill="#b9a97d" stroke="#6b5a3a" stroke-width="1">
+    <rect x="372" y="436" width="9" height="7"/><rect x="392" y="418" width="9" height="7"/><rect x="418" y="446" width="9" height="7"/>
+    <rect x="452" y="414" width="9" height="7"/><rect x="480" y="452" width="9" height="7"/><rect x="520" y="436" width="9" height="7"/>
+    <rect x="546" y="446" width="9" height="7"/>
+  </g>
+
+  <!-- 연구시설 -->
+  <rect x="640" y="146" width="40" height="26" fill="#a99c7c" stroke="#4a3b27" stroke-width="1.6"/>
+  <path d="M660,172 L660,200" stroke="#4a3b27" stroke-width="5"/>
+
+  <!-- 선착장(두 사람이 선 곳) -->
+  <path d="M262,184 L246,196" stroke="#4a3b27" stroke-width="5"/>
+
+  <!-- 인쇄된 글자 -->
+  <g fill="#3a2f20" font-size="15">
+    <text x="1030" y="62" font-size="20" font-weight="bold">본토</text>
+    <text x="1030" y="84" font-size="14">메릴 카운티</text>
+    <text x="690" y="140" font-size="15" font-weight="bold">해양생태 관측소</text>
+    <text x="150" y="214" font-size="14">선착장</text>
+    <text x="100" y="296" font-size="14">바닷길</text>
+    <text x="100" y="314" font-size="12">(간조 때)</text>
+    <text x="560" y="610" font-size="22" font-weight="bold" text-anchor="middle">크래비스 섬</text>
+    <text x="460" y="478" font-size="14" text-anchor="middle">크래비스 마을</text>
+    <text x="300" y="140" font-size="13">해안 길</text>
+  </g>
+  <g transform="translate(1120,330)" fill="#3a2f20" font-size="16" font-weight="bold" text-anchor="middle">
+    <path d="M0,-26 L9,6 L0,0 L-9,6 Z"/>
+    <text x="0" y="28">N</text>
+  </g>
+  <text x="38" y="52" fill="#3a2f20" font-size="26" font-weight="bold">메릴 카운티 해안 안내도</text>
+
+  <!-- ===== 어부가 펜으로 그린 것 ===== -->
+  <!-- 큰 물의 흐름(바깥으로 빠짐) -->
+  <g fill="none" stroke="#244fb3" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1010,300 C1070,360 1076,440 1050,510 C1036,546 1006,570 962,584" marker-end="url(#pen)"/>
+    <path d="M742,690 C690,712 620,716 556,706 C520,700 492,692 470,682" marker-end="url(#pen)"/>
+    <!-- 본토와 섬 사이로 밀려드는 물 -->
+    <path d="M1010,238 C940,236 868,246 806,262 C760,274 720,286 676,300" marker-end="url(#pen)"/>
+    <path d="M900,300 C840,300 770,308 706,324 C664,334 640,340 612,346" marker-end="url(#pen)"/>
+    <!-- 북쪽 후미 안에서 맴도는 물 -->
+    <path d="M590,320 C560,338 516,338 496,318 C480,298 504,274 534,278 C562,282 572,306 552,318 C538,326 520,314 526,302" stroke-width="3"/>
+  </g>
+
+  <!-- 후미를 두른 동그라미와 메모 -->
+  <path d="M470,262 C500,246 580,250 626,284 C650,308 628,356 560,360 C500,362 452,340 450,304 C448,284 456,270 470,262 Z" fill="none" stroke="#b3281f" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="1 0"/>
+  <g fill="#b3281f" font-family="'Nanum Pen Script','Malgun Gothic',cursive" font-size="30" font-weight="bold">
+    <text x="800" y="388" transform="rotate(-4 800 388)">깊음. 물살 이상</text>
+    <text x="790" y="440" transform="rotate(-4 790 440)" font-size="46">수영 금지!!</text>
+  </g>
+  <path d="M796,372 C740,366 690,356 644,340" fill="none" stroke="#b3281f" stroke-width="3" stroke-linecap="round" marker-end="url(#penred)"/>
+  <g fill="#244fb3" font-family="'Nanum Pen Script','Malgun Gothic',cursive" font-size="26">
+    <text x="860" y="228" transform="rotate(-3 860 228)">물 들어오는 쪽</text>
+    <text x="930" y="640" transform="rotate(4 930 640)">바깥으로 빠짐</text>
+  </g>
+
+  <rect width="1200" height="760" filter="url(#paper)" opacity="0.8"/>
+</svg>

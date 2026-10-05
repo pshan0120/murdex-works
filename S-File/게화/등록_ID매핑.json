@@ -1,0 +1,304 @@
+{
+ "story_id": "7169e13b-5160-4a9b-9769-8ffd19763aa7",
+ "roles": {
+  "베일라": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+  "마커스": "feda1c8d-9aaa-4a26-aad5-1f37f5715625"
+ },
+ "steps": {
+  "시작": "047eb9de-ee61-452c-b34e-a3196ceb9b4c",
+  "대면": "9a995366-20d6-47af-9d3e-d7786a503750",
+  "1차 조사": "ecdfcf1f-ec33-45f1-b217-f19d6bc23f83",
+  "2차 조사": "fd397183-2b31-4a50-b246-17b54f29b069",
+  "3차 조사": "c9838f1a-661b-4fc9-91dc-54688d2631ee",
+  "4차 조사": "aa3ce82c-6813-4a13-b049-da80bcaa53f7",
+  "최종 추리": "3bf99f9d-7bb2-4b2b-9920-aea41fa64760",
+  "최종 결론": "a91427d6-1523-41c2-b147-80bee2afe10d",
+  "끝": "5dfe5828-7ee6-42ad-907e-d14d14608367"
+ },
+ "groups": {
+  "크래비스 섬 - 그물 걸린 집": "3725bb31-4ac1-43ba-8733-ff455439ff90",
+  "크래비스 섬 - 통발 쌓인 집": "d603888a-f347-40ff-b57a-6a65c5b5b9de",
+  "크래비스 섬 - 빨래 널린 집": "5a4e1a69-fd17-4d02-8c3a-a321f343b589",
+  "연구시설 - 일반 구역": "4eb34960-c4da-4f97-a7f4-8082d3bc7a97",
+  "연구시설 - 연구 구역": "af207c9c-04ae-4f6f-acf3-357dd7f52303",
+  "크래비스 섬 - 뒤집힌 보트 집": "e42273e7-745c-4332-9e41-5bc42c8aaf9f",
+  "연구시설 - 통제 구역": "4649dabd-9abb-4d4a-b706-1b7106842025",
+  "크래비스 섬 - 언덕 위 집": "9fdba7b0-c930-4ba5-9387-f03e4329f2bb",
+  "연구시설 - 비밀 구역": "87195e30-bd54-4c33-8d2a-a555e4d36ccf"
+ },
+ "clues": {
+  "clue_01": {
+   "clue_id": "1a34757b-cd6e-4de1-a11b-4c128b93d720",
+   "variant_id": "0de5f4e5-bf28-47c7-92b2-abbb9b65b7d5",
+   "name": "그물 걸린 집#1"
+  },
+  "clue_02": {
+   "clue_id": "c24a4ed5-4244-4c8b-9a30-0ba0d2be1fe2",
+   "variant_id": "77f7ee3a-24b5-4fe6-8370-79f4a0170f20",
+   "name": "그물 걸린 집#2"
+  },
+  "clue_03": {
+   "clue_id": "c028e034-d70c-4898-8aa0-cedbf4c6406f",
+   "variant_id": "ce5f9ba1-a1ce-4a95-9de4-e8b2ab78665e",
+   "name": "그물 걸린 집#3"
+  },
+  "clue_04": {
+   "clue_id": "d1461893-19c6-4702-8285-d1f29810d868",
+   "variant_id": "421b7fbe-fb26-4418-819e-41957c350d55",
+   "name": "그물 걸린 집#4"
+  },
+  "clue_05": {
+   "clue_id": "8fcfd24a-a7dc-4d04-98d7-0e963562daee",
+   "variant_id": "8cab1d8c-647b-4bc0-bc66-bb04ce64afeb",
+   "name": "그물 걸린 집#5"
+  },
+  "clue_06": {
+   "clue_id": "1668d652-ac0f-47ee-a7fe-46ae4040c67d",
+   "variant_id": "7d34d61a-9463-4fc3-97ed-7ac412dc2897",
+   "name": "그물 걸린 집#6"
+  },
+  "clue_07": {
+   "clue_id": "68c3f519-77cf-4b0f-92a7-8fcdabcb64c9",
+   "variant_id": "c1f31439-75ed-480c-8e4b-224c612827f6",
+   "name": "연구시설#1"
+  },
+  "clue_08": {
+   "clue_id": "158b320b-246a-445c-bc63-cb7e3e5e8918",
+   "variant_id": "12f409a4-858c-4890-87d3-87c35508bd25",
+   "name": "연구시설#2"
+  },
+  "clue_09": {
+   "clue_id": "7e1372ba-b4a6-4c0b-826f-3474e13e466a",
+   "variant_id": "e7cfcaaa-59d9-4352-be26-d7270198d977",
+   "name": "연구시설#3"
+  },
+  "clue_10": {
+   "clue_id": "87957b9f-f1de-4379-b5f8-e364af9011d2",
+   "variant_id": "2b89c7f1-5066-446f-8a8b-626cf9cb0666",
+   "name": "연구시설#4"
+  },
+  "clue_11": {
+   "clue_id": "2d56f30d-d53d-4cfa-a1ca-279ede09f2de",
+   "variant_id": "6aadd668-9749-4ad9-b410-5ed0b84ef5d5",
+   "name": "연구시설#5"
+  },
+  "clue_12": {
+   "clue_id": "7abc373b-4f64-4575-8374-95a310dc9088",
+   "variant_id": "751fb881-f470-4b59-aef9-d2a89034c970",
+   "name": "연구시설#6"
+  },
+  "clue_13": {
+   "clue_id": "c4cf3191-e0fa-4c63-b508-ffb14ddb6d8c",
+   "variant_id": "c09c3a34-c23c-4139-92b0-0f97c2bf9b6a",
+   "name": "통발 쌓인 집#1"
+  },
+  "clue_14": {
+   "clue_id": "6a6fc31b-c31f-4f6b-8a40-39380a0a0520",
+   "variant_id": "919f394d-0e59-4a4e-877f-f16c3c5770bf",
+   "name": "통발 쌓인 집#2"
+  },
+  "clue_15": {
+   "clue_id": "f372fff1-9488-4acc-93d1-e5abfecee050",
+   "variant_id": "cb0d40f3-ebe8-471c-9027-5ce74002a64a",
+   "name": "통발 쌓인 집#3"
+  },
+  "clue_16": {
+   "clue_id": "d6808499-7bef-4d7a-b2b6-56982cee5d14",
+   "variant_id": "29d63ef1-5a76-4898-b4d5-6312fd90ec17",
+   "name": "빨래 널린 집#1"
+  },
+  "clue_17": {
+   "clue_id": "70b2678e-b7d8-45c7-8013-d917d12d0efb",
+   "variant_id": "c72616ea-3ad8-4120-8a40-14c4b2c7db4a",
+   "name": "빨래 널린 집#2"
+  },
+  "clue_18": {
+   "clue_id": "6f73d9b6-6043-489a-a3df-76dd91b4b32a",
+   "variant_id": "31bcf103-6652-461b-b599-01548f649fec",
+   "name": "빨래 널린 집#3"
+  },
+  "clue_19": {
+   "clue_id": "44f0548c-1ce6-436e-bb3d-27b41dcb4181",
+   "variant_id": "95104803-21ed-4f38-8495-cb803272691f",
+   "name": "연구 구역#1"
+  },
+  "clue_20": {
+   "clue_id": "d1153f65-63f5-4569-aafd-f83d89817ab6",
+   "variant_id": "2f98e074-9b92-44ef-b450-49508ac87a41",
+   "name": "연구 구역#2"
+  },
+  "clue_21": {
+   "clue_id": "eafced9c-ae38-4177-b8c3-9761c7c4de69",
+   "variant_id": "b36a5522-0edb-4a8c-895c-f9ea9d62efa7",
+   "name": "연구 구역#3"
+  },
+  "clue_22": {
+   "clue_id": "03250235-357a-4075-87a2-daf07e7645cb",
+   "variant_id": "b9b51f53-f2bd-4741-9935-9c099e16385a",
+   "name": "연구 구역#4"
+  },
+  "clue_23": {
+   "clue_id": "69189212-c4e5-4236-81c6-d92a37d67adf",
+   "variant_id": "0cd13805-3185-4045-a5ba-46ca2b5f397c",
+   "name": "연구 구역#5"
+  },
+  "clue_24": {
+   "clue_id": "ff290543-bae6-4bc8-ab76-daec28a73f49",
+   "variant_id": "3dffab76-8503-47ca-a146-a93731683bb8",
+   "name": "연구 구역#6"
+  },
+  "clue_25": {
+   "clue_id": "6496ad40-a220-4767-8706-9f1e40de1456",
+   "variant_id": "6278d243-f6cd-4a1e-9609-4b87e1c8e675",
+   "name": "뒤집힌 보트 집#1"
+  },
+  "clue_26": {
+   "clue_id": "780a068f-66c5-4224-bc58-898158343ae8",
+   "variant_id": "6ee0f4b4-8e35-4763-89b8-5b3670ef5d30",
+   "name": "뒤집힌 보트 집#2"
+  },
+  "clue_27": {
+   "clue_id": "c10c4b53-d05b-45a3-adca-35896b5ed358",
+   "variant_id": "66665895-fe5e-4a91-b97f-c0eb33f6b740",
+   "name": "뒤집힌 보트 집#3"
+  },
+  "clue_28": {
+   "clue_id": "2b0883b8-7208-444c-8a1a-da9180a4c12b",
+   "variant_id": "a065796f-5f01-4a3c-ae5e-a886d009e90a",
+   "name": "뒤집힌 보트 집#4"
+  },
+  "clue_29": {
+   "clue_id": "c31cf3ee-3386-43cd-b8bb-60921d34e46d",
+   "variant_id": "0f6a4d8f-88c5-4131-970f-79e8d5922453",
+   "name": "뒤집힌 보트 집#5"
+  },
+  "clue_30": {
+   "clue_id": "1eb44cf2-3c62-4d2b-a570-4da1f3eb873e",
+   "variant_id": "18197024-9cf7-4ec6-9a75-8862cec0faa1",
+   "name": "뒤집힌 보트 집#6"
+  },
+  "clue_31": {
+   "clue_id": "6ff77edf-b2a6-4eaf-9d12-5e220c9211fb",
+   "variant_id": "b9dc61e8-cb99-4451-8ee6-ba9ec9eafe23",
+   "name": "뒤집힌 보트 집#7"
+  },
+  "clue_32": {
+   "clue_id": "534f56a8-2c66-40d5-a426-5a264872ab45",
+   "variant_id": "9a18f5e3-61d8-4899-9b48-9624d245d8c9",
+   "name": "통제 구역#1"
+  },
+  "clue_33": {
+   "clue_id": "922194de-012d-487e-a4ef-411dcca5286c",
+   "variant_id": "4cd2d59d-aa95-4cb7-a2d8-658e31f8a908",
+   "name": "통제 구역#2"
+  },
+  "clue_34": {
+   "clue_id": "c7d5be80-0fd1-41cf-9f40-b861abdc118c",
+   "variant_id": "a9d5a527-a187-4a67-a40b-0095f5ad33a4",
+   "name": "통제 구역#3"
+  },
+  "clue_35": {
+   "clue_id": "a95cea97-709f-478f-80fc-aca0823a4be7",
+   "variant_id": "c0f7bd0b-8b0d-4fc4-8d86-61df28387402",
+   "name": "통제 구역#4"
+  },
+  "clue_36": {
+   "clue_id": "9cefbbdf-f051-4fdf-8310-6b3e9e2bb4a2",
+   "variant_id": "a840f56d-e6c4-4b36-ab5a-9acf84ee9334",
+   "name": "통제 구역#5"
+  },
+  "clue_37": {
+   "clue_id": "bb4d4e9d-fd77-4b4e-b899-b53e99de1932",
+   "variant_id": "825c8695-d1f7-41ed-97fe-37bd01312178",
+   "name": "통제 구역#6"
+  },
+  "clue_38": {
+   "clue_id": "8c2626c5-8c35-4363-aed8-525f41c6145b",
+   "variant_id": "b1b730c1-83cd-4b4f-ae29-3ac7ec6ee021",
+   "name": "통제 구역#7"
+  },
+  "clue_39": {
+   "clue_id": "1972ac18-976f-47c3-a557-f2a889560153",
+   "variant_id": "f3ba4f4f-0aa1-4151-a328-928c6cbd4004",
+   "name": "언덕 위 집#1"
+  },
+  "clue_40": {
+   "clue_id": "9339d904-655e-43b1-bff5-e6117289af23",
+   "variant_id": "9621c2c4-2f26-4e3e-9462-6d26a7e5842f",
+   "name": "언덕 위 집#2"
+  },
+  "clue_41": {
+   "clue_id": "20dbaf63-dfa8-4941-809b-775124e072d4",
+   "variant_id": "83498ea4-7731-47eb-8c5c-14caca1f131a",
+   "name": "언덕 위 집#3"
+  },
+  "clue_42": {
+   "clue_id": "21c3e2f6-20ec-45c9-868e-789083117eaf",
+   "variant_id": "da3dd8bf-17f4-4507-81e7-8156246b84a2",
+   "name": "언덕 위 집#4"
+  },
+  "clue_43": {
+   "clue_id": "440e80dd-dd30-4f33-b6bf-fd41337ab19e",
+   "variant_id": "4f56aac2-b034-48d1-a142-06a075173013",
+   "name": "언덕 위 집#5"
+  },
+  "clue_44": {
+   "clue_id": "4d8dbc59-4335-49ad-97fe-6fa2210af258",
+   "variant_id": "929ab84e-8350-42a8-a5d0-b6ae8920dd58",
+   "name": "언덕 위 집#6"
+  },
+  "clue_45": {
+   "clue_id": "dc38093f-ed46-4cd6-97ca-c1843f3cbaa4",
+   "variant_id": "7980f602-1ddd-4ebc-9781-e71286f595a9",
+   "name": "언덕 위 집#7"
+  },
+  "clue_46": {
+   "clue_id": "51c9596e-bc57-41c3-8a25-468e3989363b",
+   "variant_id": "5cee9729-29ba-4c8d-8127-0579b8932d9e",
+   "name": "비밀 구역#1"
+  },
+  "clue_47": {
+   "clue_id": "35fffe53-c94b-416d-b4b2-0ac86ad8119b",
+   "variant_id": "0923a838-20d7-4a37-b3fa-dc8a1a6c6213",
+   "name": "비밀 구역#2"
+  },
+  "clue_48": {
+   "clue_id": "c5a418f3-f2fa-4464-9e3f-29d90ee91e8b",
+   "variant_id": "e9538f25-bc98-4ebc-ac7b-5f7cde0ea2e1",
+   "name": "비밀 구역#3"
+  },
+  "clue_49": {
+   "clue_id": "2cfe074b-4c94-4acc-9e9c-9f2e71809641",
+   "variant_id": "ad3015fa-c4a8-4176-bd12-b3e54cde798e",
+   "name": "비밀 구역#4"
+  },
+  "clue_50": {
+   "clue_id": "368d0f6b-8d35-46df-b70b-c021b81ff1be",
+   "variant_id": "28ea4c25-42ef-4349-b57b-234d07401aa3",
+   "name": "비밀 구역#5"
+  },
+  "clue_51": {
+   "clue_id": "c6794f3a-5adc-48b8-ae18-1aaca7984c9e",
+   "variant_id": "65b4c2a9-e52c-4229-9886-362d9729a9f2",
+   "name": "비밀 구역#6"
+  },
+  "clue_52": {
+   "clue_id": "ff79b8f5-8f6e-4ca0-a6e5-7b629162ec07",
+   "variant_id": "84b0b2ce-9c61-4e9f-bc9c-57047956c0e1",
+   "name": "비밀 구역#7"
+  }
+ },
+ "questions": {
+  "m1": "4e7cf95a-92f7-4865-b51a-9a19b62c84ea",
+  "m2": "105c394a-ee02-4ebe-9721-408863ec881e",
+  "m3": "ce2d18fc-9935-467d-9792-94a1359ad189",
+  "v1": "125f03f2-957a-4c31-8e9c-c9a429a2f353",
+  "v2": "16df93ea-10a9-464b-9254-a487a78c05d0",
+  "v3": "274e2c7d-b4e7-465e-9a61-5a0726c42ff8"
+ },
+ "npcs": {
+  "어부": "23b07013-b397-4346-b4cd-97a901836ed5",
+  "어슐라": "e435921c-af56-4c30-86b1-57bc21f71e15"
+ },
+ "ending_id": "6676dbc9-0245-48cc-b665-fe194925b3bb"
+}
