@@ -1,0 +1,163 @@
+StoryID : 7169e13b-5160-4a9b-9769-8ffd19763aa7
+RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
+
+1. 역할 이름
+사립탐정
+
+2. 캐릭터 이름
+베일라
+
+3. 역할 순서
+1
+
+4. 역할 요약
+어릴 적 와본 섬마을에 말하지 못한 이유를 안고 돌아온 사립탐정
+
+이미지생성용 프롬프트: Extreme close-up half-body portrait of a sharp-eyed woman in her late 20s, wearing a weathered navy field jacket, hair damp from sea mist, a wary and tired gaze that hasn't fully softened. She stands on a wet gravel path at the edge of a tidal flat at dawn, low fog behind her. Grainy 16mm film still, 1990s X-Files-style investigative photography, desaturated cool teal-black color grade.
+
+5. 역할 이미지
+(무시 - 사용자 직접 업로드 예정)
+
+6. 공개 정보
+<div class="story-content">
+  <ul>
+    <li><strong>역할</strong>: 메인주 메릴 카운티 출신으로 지역 사정에 밝아 자문 자격으로 합류한 사립탐정</li>
+    <li><strong>나이</strong>: 27세</li>
+    <li><strong>성별</strong>: 여성</li>
+  </ul>
+</div>
+
+7. 역할 시트
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">공통 정보</div>
+    <div class="intro-narrative">
+      <p>메인주 <span class="emphasis">메릴 카운티</span>. 외지인의 발길이 드문 해안 지역이다. 이 해안의 연구시설에서 매달 정부로 보내던 보고서가 9월 1일 마감일에 도착하지 않았고, 이틀이 지나도록 연락이 닿지 않았다. FBI는 이 건을 <span class="character-marcus">마커스</span>에게 정식으로 맡겼다.</p>
+      <p>조사 지역이 메릴 카운티라는 걸 확인한 <span class="character-marcus">마커스</span>는 1년 전 사건에서 알게 된 <span class="character-veyla">베일라</span>의 고향이 이곳이라는 걸 떠올렸다. 그는 9월 4일 그녀에게 연락해 이 지역 사정을 아는 사람이 필요하다고 말했다. <span class="character-veyla">베일라</span>는 승낙하며, 어릴 때 크래비스 섬에 가 본 적이 있고 20년 전 그 근처에서 친할아버지가 실종됐다는 이야기도 덧붙였다. 두 사람은 각자 비행기로 이동해 오늘 아침 해안에서 합류했다.</p>
+      <p>오늘, 바닷길이 열리는 시간에 맞춰 두 사람은 함께 <span class="emphasis">크래비스</span> 섬으로 향한다.</p>
+    </div>
+    <ol class="info-list">
+      <li><strong>해안의 연구시설</strong>: 바닷길 어귀에서 해안 길을 따라 조금 떨어진 곳에 있는 정부 산하 시설. 겉으로는 해양생태 관측소로 알려져 있고, 소장 닥터 션 마이어스가 8년째 이끌어왔다. 정확히 무슨 연구를 하는 곳인지는 <span class="character-marcus">마커스</span>도 깊이 알지 못한다.</li>
+      <li><strong><span class="emphasis">크래비스</span></strong>: 바닷길로 이어지는 작은 섬마을. 주민이 많지 않고 외부와의 교류가 드물다.</li>
+      <li><strong>바닷길</strong>: 평소엔 물에 잠겨 있다가, 약 일주일에 한 번 가장 낮은 썰물이 오는 날에만 모래톱이 드러나 걸어서 건널 수 있다. 그날은 아침과 밤, 두 번 몇 시간씩 열린다. 오늘이 그날이다. 닫히면 섬에 있는 사람은 다음 개방 때까지 본토로 나올 수 없고, 본토에 있는 사람은 섬으로 들어갈 수 없다.</li>
+      <li><strong>조사 방식</strong>: 두 사람은 현장을 나눠 조사한다. 어릴 때 섬에 가 본 적이 있는 <span class="character-veyla">베일라</span>는 섬마을을, FBI 수사관인 <span class="character-marcus">마커스</span>는 본토의 연구시설을 맡는다. 두 현장이 같은 일에서 이어진 것인지 확인하려면 서로 알아낸 것을 맞춰봐야 하므로, 두 시간마다 알아낸 것을 공유하기로 약속했다.</li>
+    </ol>
+  </section>
+  <section class="content-section">
+    <div class="section-title">캐릭터 배경</div>
+    <p>당신은 27세, 먼 도시에서 일하는 사립탐정이다. 남의 뒤를 캐는 일로 밥벌이를 하지만, 정작 자신의 사정은 남에게 곧잘 털어놓지 않는 편이다. 일감은 늘 들쭉날쭉했고, 요즘은 특히 그랬다.</p>
+    <p>고향은 메인주 메릴 카운티다. 그곳을 떠나온 지는 오래됐다. 어릴 때 가족과 몇 번 놀러 간 적 있는 섬이 이 근처에 있었다. 물때에 맞춰야만 드나들 수 있어서, 나들이거리처럼 기억되는 곳이다.</p>
+    <p>9월 4일 저녁, 오랜만에 <span class="character-marcus">마커스</span>에게서 전화가 왔다. 1년 전 어떤 사건에서 알게 된 뒤로, 가끔 안부만 주고받던 사이였다. "메릴 카운티 해안 쪽에 일이 좀 생겼는데요." 그가 말했다. "그쪽 사정을 아는 사람이 필요해서 연락했습니다."</p>
+    <p>"갈게요." 당신은 별다른 고민 없이 대답했다. 전화를 끊고 나서야 지도를 펴서 해안선을 따라 손끝으로 짚어갔다. 문득 오래된 기억 하나가 떠올랐다. 20년 전 이 근처에서 당신의 할아버지가 돌아오지 않은 적이 있었다. 공식적으로는 조류에 휩쓸린 사고였지만 가족은 끝내 진상을 알지 못했다. 당신은 그 이야기를 <span class="character-marcus">마커스</span>에게도 꺼냈다.</p>
+    <p>9월 5일에 비행기로 고향 쪽 해안에 도착했고, 오늘 아침 <span class="character-marcus">마커스</span>를 만나 그가 건넨 자료를 함께 훑어봤다. 어릴 때 가 본 섬은 당신이, 연구시설은 FBI 수사관인 그가 맡는 편이 낫겠다고 둘 다 동의했다.</p>
+  </section>
+  <section class="content-section">
+    <div class="section-title">타임라인</div>
+    <ul class="goal-list">
+      <li><strong>9월 4일 저녁</strong>: <span class="character-marcus">마커스</span>가 전화로 메릴 카운티 조사에 자문을 청함. 승낙함.</li>
+      <li><strong>9월 5일</strong>: 비행기로 고향 쪽 해안에 도착함.</li>
+      <li><strong>9월 6일 아침</strong>: 바닷길 어귀에서 <span class="character-marcus">마커스</span>와 합류함. 개방 시간에 맞춰 함께 바닷길을 건너기 시작함.</li>
+      <li><strong>오늘 낮</strong>: 섬마을에서 주민들의 행방을 확인함. 두 시간마다 <span class="character-marcus">마커스</span>와 알아낸 것을 공유함.</li>
+      <li><strong>오늘 밤</strong>: 바닷길이 두 번째로 열림.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">인물 관계</div>
+    <p>
+      <strong><span class="character-marcus">마커스</span>에 대해</strong>: 1년 전 사건을 함께 겪은 사람. 서로의 약점을 알면서도 등을 돌리지 않았던 사이라, 망설임 없이 그를 믿고 따라나섰다.
+    </p>
+  </section>
+</div>
+
+8. 숨기고 싶은 비밀
+<div class="story-content">
+  <p class="guide-text">이 역할에는 따로 숨겨야 할 비밀이 없습니다. 아는 것은 모두 마커스와 나누어도 좋습니다.</p>
+</div>
+
+9. 단계별 역할 지침
+
+[대면] (단계_2)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>낯익은 얼굴</strong>: 방금 마주한 여자는 <span class="character-ursula">어슐라</span>다. 어릴 때부터 함께 자랐지만 어른이 된 뒤로 연락이 뜸해진 사촌이다.</li>
+      <li><strong>어부의 지도</strong>: 선착장의 늙은 어부가 지도에 물의 흐름을 그려 주고, 섬 북쪽 후미는 깊고 물살이 이상하니 절대 들어가지 말라고 일렀다. 이십 년 전 통발을 걷으러 건너갔다가 그 근처 물에 휩쓸려 사라진 사람 이야기는 당신의 할아버지 일과 겹친다. 이 지도는 이후 조사에서 계속 쓸 수 있다.</li>
+      <li><strong>섬의 기척</strong>: 어부는 지난 개방일에 섬 사람이 한 명도 건너오지 않았다고 했다.</li>
+    </ul>
+  </section>
+</div>
+
+[1차 조사] (단계_3)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>마을 확인</strong>: 마을이 왜 이렇게 비어 있는지 확인한다. 열려 있는 집이 있다면 거기서부터 시작한다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">어슐라의 한마디</div>
+    <ul class="goal-list">
+      <li><span class="character-ursula">어슐라</span>: "그물 널린 마당이라니, 할아버지 집 같지 않아? 어릴 때 저 그물 사이로 숨바꼭질하다가 네가 발이 걸려서 울었잖아. …이 집은 문이 열려 있네. 들어가 보자."</li>
+    </ul>
+  </section>
+</div>
+
+[2차 조사] (단계_4)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>잠긴 집들</strong>: 나머지 집은 문과 창이 굳게 잠겨 있다. 처음 집에서 얻은 것을 쓸 방법을 찾는다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">어슐라의 한마디</div>
+    <ul class="goal-list">
+      <li><span class="character-ursula">어슐라</span>: "한 가지만 말할게. 아까 통화에서 연구시설 얘기를 들었잖아. 거기서 사고가 있었다면, 이렇게 한꺼번에 쓰러지는 건 독성 물질 때문일지도 몰라. 겁에 질린 사람들이 문을 잠그고 숨은 거라면 이 밀실도 설명되잖아. 누가 한 짓이라고만 생각하지 않는 게 좋겠어."</li>
+    </ul>
+  </section>
+</div>
+
+[3차 조사] (단계_5)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>더 단단히 막은 집</strong>: 창에 판자를 덧댄 집이 나타난다. 이 마을 사람들이 무엇을 두려워했는지 확인한다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">어슐라의 한마디</div>
+    <ul class="goal-list">
+      <li><span class="character-ursula">어슐라</span>: "이 섬에 유령이 나온다는 소문이 있대. 웃기지?"</li>
+    </ul>
+  </section>
+</div>
+
+[4차 조사] (단계_6)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>마지막 집</strong>: 마을에서 가장 높은 곳에 있는 집이 남았다. 이곳에서 알아낸 것을 모아 지금까지의 조각을 맞춘다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">어슐라의 한마디</div>
+    <ul class="goal-list">
+      <li><span class="character-ursula">어슐라</span>: "여기가 마지막 집이네. 나는 밖에서 기다릴게. 이런 건 오래 못 보겠어. …아까 말한 유령 소문, 이 집은 그걸 막으려고 지은 요새 같아. 이 사람은 끝까지 믿었나 봐."</li>
+    </ul>
+  </section>
+</div>
+
+[최종 추리] (단계_7)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>모든 조각 맞추기</strong>: 마을과 시설에서 각자 알아낸 것을 <span class="character-marcus">마커스</span>와 모두 맞춰본다. 최종 질문은 직접 조사한 마을의 일을 묻는다. 암호로 여는 단서에 정답의 일부가 있으니, <span class="character-marcus">마커스</span>와 암호를 빠짐없이 주고받는다.</li>
+    </ul>
+  </section>
+</div>

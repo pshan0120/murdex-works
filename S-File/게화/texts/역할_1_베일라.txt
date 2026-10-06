@@ -1,4 +1,4 @@
-StoryID : 488dc2d2-b646-4b64-80a9-9ebf6343dffd
+StoryID : 7169e13b-5160-4a9b-9769-8ffd19763aa7
 RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
 
 1. 역할 이름
@@ -104,7 +104,18 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   </section>
 </div>
 
-[2차 조사] (단계_4)
+[1차 추리] (단계_4)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">통화 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>1차 통화</strong>: 약속한 시각이 되어 <span class="character-marcus">마커스</span>와 전화로 연결된다. 1차 조사에서 알아낸 것을 말로 전하고, 상대가 알아낸 것을 듣는다.</li>
+      <li><strong>다음 조사 준비</strong>: 서로의 이야기에서 다음 조사에 쓸 만한 이름이나 단어가 있는지 살피고, 필요하다 싶으면 물어 둔다.</li>
+    </ul>
+  </section>
+</div>
+
+[2차 조사] (단계_5)
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
@@ -120,7 +131,18 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   </section>
 </div>
 
-[3차 조사] (단계_5)
+[2차 추리] (단계_6)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">통화 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>2차 통화</strong>: 약속한 시각이 되어 <span class="character-marcus">마커스</span>와 전화로 연결된다. 2차 조사에서 알아낸 것을 말로 전하고, 상대가 알아낸 것을 듣는다.</li>
+      <li><strong>다음 조사 준비</strong>: 서로의 이야기에서 다음 조사에 쓸 만한 이름이나 단어가 있는지 살피고, 필요하다 싶으면 물어 둔다.</li>
+    </ul>
+  </section>
+</div>
+
+[3차 조사] (단계_7)
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
@@ -136,7 +158,18 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   </section>
 </div>
 
-[4차 조사] (단계_6)
+[3차 추리] (단계_8)
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">통화 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li><strong>3차 통화</strong>: 약속한 시각이 되어 <span class="character-marcus">마커스</span>와 전화로 연결된다. 3차 조사에서 알아낸 것을 말로 전하고, 상대가 알아낸 것을 듣는다.</li>
+      <li><strong>다음 조사 준비</strong>: 서로의 이야기에서 다음 조사에 쓸 만한 이름이나 단어가 있는지 살피고, 필요하다 싶으면 물어 둔다.</li>
+    </ul>
+  </section>
+</div>
+
+[4차 조사] (단계_9)
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
@@ -152,7 +185,7 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   </section>
 </div>
 
-[최종 추리] (단계_7)
+[최종 추리] (단계_10)
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>

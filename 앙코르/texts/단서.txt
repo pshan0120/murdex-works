@@ -6,7 +6,7 @@ StoryID : a02510c3-97f4-4c2f-b437-7126d0654578
 따르되, 내용은 `기획안_v2_2026-09-22.md` §7-D 확정 전문, 이미지 프롬프트는 `단서_이미지_프롬프트.txt`의
 장면 설명에 공통 접두/접미와 강아지·사람 묘사를 조합해 만들었습니다(2026-09-25).
 
-- clueId / variantId / groupId / 이미지 URL은 실제 DB 등록 시 생성되므로 지금은 미정입니다.
+- clueId / variantId / groupId는 실제 DB에 등록된 UUID로 반영 완료되었습니다.
 - 소모AP는 단서당 1(단계당 6개 = AP 6과 1:1). 예외: 1살 3월(구조적, 0 AP, 단계 시작 시 자동 획득).
 - 레퍼런스 이미지는 `works/앙코르_리와인드/images/references/`의 아리 파일을 그대로 재사용합니다
   (새 앙코르 images 폴더로 복사 필요). 1살=ari_age1_medium.jpg, 2살=ari_age2_medium.jpg,
@@ -17,10 +17,10 @@ StoryID : a02510c3-97f4-4c2f-b437-7126d0654578
 
 [clue_01]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 78dcd4f9-a5b8-4b43-89fe-d6b71a5d756e
+variantId : 4a3aa0a2-882c-42b3-a356-14c77f793c87
 이미지 : 01_1살_3월_이웃_노인이_강아지를_건네줌.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 732353e2-1564-478d-80ae-08e02b1ad6a6
 유형 : 관찰
 단계 : 1살
 소모AP : 0
@@ -54,10 +54,10 @@ HTML :
 
 [clue_02]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : d3dfb744-4574-4bda-99a9-a5c6a5f658b3
+variantId : e3bdc9dd-c77f-4e7b-b21f-a23af1ad4fdb
 이미지 : 02_1살_5월_무심한_손길_배경엔_아내의_빈자리.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 732353e2-1564-478d-80ae-08e02b1ad6a6
 유형 : 관찰
 단계 : 1살
 소모AP : 1
@@ -91,10 +91,10 @@ HTML :
 
 [clue_03]
 이름 : 7월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 03420ec5-0d8b-4380-8caf-4cb90e4828b9
+variantId : e4075b74-6578-458b-b4d1-2483c9778f27
 이미지 : 03_1살_7월_물어뜯긴_슬리퍼.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 732353e2-1564-478d-80ae-08e02b1ad6a6
 유형 : 관찰
 단계 : 1살
 소모AP : 1
@@ -128,10 +128,10 @@ HTML :
 
 [clue_04]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 2f4867fa-21e5-49dd-a776-ef2de2c115fe
+variantId : 34cccfe2-4acf-4c4a-bbc3-67d08114134b
 이미지 : 04_1살_8월_새로_놓인_강아지_물건_유품_곁에.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 732353e2-1564-478d-80ae-08e02b1ad6a6
 유형 : 관찰
 단계 : 1살
 소모AP : 1
@@ -165,10 +165,10 @@ HTML :
 
 [clue_05]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 85db6c25-04f5-4083-adda-c3788cfa73d2
+variantId : c2329904-dc13-4b17-a06d-c935e1726601
 이미지 : 05_1살_10월_헤집어진_신발장_그래도_흔드는_꼬리.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 732353e2-1564-478d-80ae-08e02b1ad6a6
 유형 : 관찰
 단계 : 1살
 소모AP : 1
@@ -202,10 +202,10 @@ HTML :
 
 [clue_06]
 이름 : 12월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : da64f444-9c0c-4c3b-bdd2-20e11b556bf0
+variantId : 691890d7-8d44-4ddf-aa19-0e4dc804c0af
 이미지 : 06_1살_12월_이름_부르자_돌아보는_순간.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 732353e2-1564-478d-80ae-08e02b1ad6a6
 유형 : 관찰
 단계 : 1살
 소모AP : 1
@@ -239,10 +239,10 @@ HTML :
 
 [clue_07]
 이름 : 2월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 20490d64-0df9-49fc-a4b5-2cea35433216
+variantId : c5983bc2-0435-456f-93d5-228e6fa49d0f
 이미지 : 07_2살_2월_마트에서_목줄_고르기.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 515b832f-5544-4cd2-bf43-463045c436c8
 유형 : 관찰
 단계 : 2살
 소모AP : 1
@@ -276,10 +276,10 @@ HTML :
 
 [clue_08]
 이름 : 4월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : e0a8ba4f-20f7-408c-ad3e-ed44679c9467
+variantId : c0a45b20-e368-45e9-950d-026fb73811b2
 이미지 : 08_2살_4월_새_목줄_신난_첫걸음.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 515b832f-5544-4cd2-bf43-463045c436c8
 유형 : 관찰
 단계 : 2살
 소모AP : 1
@@ -313,10 +313,10 @@ HTML :
 
 [clue_09]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 3f729ded-b5f0-43fa-b5a2-18f5ca36dbac
+variantId : 3467c442-f8f1-4199-a0e8-9f1a86ceee44
 이미지 : 09_2살_5월_이웃과의_인사.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 515b832f-5544-4cd2-bf43-463045c436c8
 유형 : 관찰
 단계 : 2살
 소모AP : 1
@@ -350,10 +350,10 @@ HTML :
 
 [clue_10]
 이름 : 7월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 4886dcdc-6581-4b69-93dc-29ffa6e88b23
+variantId : 498ff538-f29f-4ec1-bf33-be7093477d37
 이미지 : 10_2살_7월_다른_개를_보고_겁먹은_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 515b832f-5544-4cd2-bf43-463045c436c8
 유형 : 관찰
 단계 : 2살
 소모AP : 1
@@ -369,11 +369,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 2살 7월 단서. 장면: 다른 개를 보고 겁먹은 강아지.
 내용 :
-산책 코스에 조금씩 자신이 붙자, 이번엔 좀 더 멀리 공원까지 걸어보기로 했다. 넓은 잔디밭을 마주하자 신이 나서 앞장서다가, 저만치서 다른 개 한 마리와 마주쳤다. 순식간에 꼬리를 내리고 다리 뒤로 숨었다. 억지로 끌어내지 않고 몇 걸음 떨어져 지켜만 보았다. 한참을 그러고 있더니, 조심스레 코를 내밀어 냄새를 맡았다. 그 조심스러운 몸짓을 지켜보다가, 문득 자신도 다르지 않다는 생각이 들었다. 아내를 보내고 나서, 누구와도 선뜻 가까워지지 못한 채 그저 멀찍이서 지켜보기만 하던 나날이었다.
+산책 코스에 조금씩 자신이 붙자, 이번엔 좀 더 멀리 공원까지 걸어보기로 했다. 넓은 잔디밭을 마주하자 신이 나서 앞장서다가, 저만치서 다른 개 한 마리와 마주쳤다. 순식간에 꼬리를 내리고 다리 뒤로 숨었다. 억지로 끌어내지 않고 몇 걸음 떨어져 지켜만 보았다. 한참을 그러고 있더니, 조심스레 코를 내밀어 냄새를 맡았다. 그 조심스러운 몸짓을 지켜보다가, 문득 나도 다르지 않다는 생각이 들었다. 아내를 보내고 나서, 누구와도 선뜻 가까워지지 못한 채 그저 멀찍이서 지켜보기만 하던 나날이었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">산책 코스에 조금씩 자신이 붙자, 이번엔 좀 더 멀리 공원까지 걸어보기로 했다. 넓은 잔디밭을 마주하자 신이 나서 앞장서다가, 저만치서 다른 개 한 마리와 마주쳤다. 순식간에 꼬리를 내리고 다리 뒤로 숨었다. 억지로 끌어내지 않고 몇 걸음 떨어져 지켜만 보았다. 한참을 그러고 있더니, 조심스레 코를 내밀어 냄새를 맡았다. 그 조심스러운 몸짓을 지켜보다가, 문득 자신도 다르지 않다는 생각이 들었다. 아내를 보내고 나서, 누구와도 선뜻 가까워지지 못한 채 그저 멀찍이서 지켜보기만 하던 나날이었다.</div>
+    <div class="document-body">산책 코스에 조금씩 자신이 붙자, 이번엔 좀 더 멀리 공원까지 걸어보기로 했다. 넓은 잔디밭을 마주하자 신이 나서 앞장서다가, 저만치서 다른 개 한 마리와 마주쳤다. 순식간에 꼬리를 내리고 다리 뒤로 숨었다. 억지로 끌어내지 않고 몇 걸음 떨어져 지켜만 보았다. 한참을 그러고 있더니, 조심스레 코를 내밀어 냄새를 맡았다. 그 조심스러운 몸짓을 지켜보다가, 문득 나도 다르지 않다는 생각이 들었다. 아내를 보내고 나서, 누구와도 선뜻 가까워지지 못한 채 그저 멀찍이서 지켜보기만 하던 나날이었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic 16:9 watercolor illustration that completely fills every pixel of the canvas from edge to edge with NO white space NO white margin NO border NO blank edges. In a peaceful neighborhood park with a green open lawn under soft July summer sunlight. Camera positioned low at grass level. In the foreground, an elderly Korean man in lightweight summer slacks stands gently on the grass, holding a leash (cropped at chest/waist level by the top edge of the image, strictly NO human face visible, head completely above the frame). Tightly cowed behind the man's legs and ankles, a small 2-year-old juvenile Yorkshire Terrier (two-thirds adult size, petite toy breed matching the reference dog) peeks out timidly. The little Yorkie has its tail tucked low between its legs, its pointed V-shaped ears slightly tilted back in cautious fear, but its tiny black nose curiously sniffing toward the distance. In the far background across the green park lawn, another friendly dog (a fluffy medium-sized golden dog) is walking calmly at a distance, minding its own business. Soft watercolor children's book illustration style, lush summer greens, muted warm pastels, gentle diffused lighting, heartwarming emotional mood. Avoid: visible human face, headless floating neck, giant dog, floppy ears, rural rice field, traditional hanok, apartment skyscraper, white border, white margin, text, watermark.
@@ -387,10 +387,10 @@ HTML :
 
 [clue_11]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 90d902c3-9584-4ff5-843d-a84d62f494de
+variantId : 4b521161-7595-4a3f-9acc-1c0e2cbcc8c3
 이미지 : 11_2살_9월_진료대_위에서_떠는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 515b832f-5544-4cd2-bf43-463045c436c8
 유형 : 관찰
 단계 : 2살
 소모AP : 1
@@ -424,10 +424,10 @@ HTML :
 
 [clue_12]
 이름 : 11월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 99b18458-9368-47d8-a129-1237a4c601bc
+variantId : 7c7abb8e-1b36-4d86-b3d0-3c2248dae0f1
 이미지 : 12_2살_11월_현관에서_산책을_기다리는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 515b832f-5544-4cd2-bf43-463045c436c8
 유형 : 관찰
 단계 : 2살
 소모AP : 1
@@ -461,10 +461,10 @@ HTML :
 
 [clue_13]
 이름 : 1월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 94ee8657-3a49-443b-9a8a-d159a1a1291e
+variantId : baff9b1d-a540-47f6-a05b-b1c6ad5c526d
 이미지 : 13_3살_1월_소파에_기대오는_강아지_조용한_거실.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 86a4737c-fb80-4cc2-a7b1-957bfdc8b1fe
 유형 : 관찰
 단계 : 3살
 소모AP : 1
@@ -498,10 +498,10 @@ HTML :
 
 [clue_14]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : edfa7275-1da3-4994-924d-5c99a0cb0f82
+variantId : 9292c31c-ed1c-4a4e-9b86-2f188717858f
 이미지 : 14_3살_3월_아침_이불_속으로_파고드는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 86a4737c-fb80-4cc2-a7b1-957bfdc8b1fe
 유형 : 관찰
 단계 : 3살
 소모AP : 1
@@ -535,10 +535,10 @@ HTML :
 
 [clue_15]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : a98a1ae3-78dd-423c-a942-c84f6fd6d92d
+variantId : df22916c-9faa-4695-9068-efab5d2ce2d6
 이미지 : 15_3살_5월_미끄러운_마루_위에서_뛰노는_강아지_복선.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 86a4737c-fb80-4cc2-a7b1-957bfdc8b1fe
 유형 : 관찰
 단계 : 3살
 소모AP : 1
@@ -572,10 +572,10 @@ HTML :
 
 [clue_16]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 67f3b13b-575d-4959-b3a7-90e066714190
+variantId : d824a95a-21c2-401a-a506-53ca22c47b5a
 이미지 : 16_3살_9월_명절_조촐한_저녁.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 86a4737c-fb80-4cc2-a7b1-957bfdc8b1fe
 유형 : 관찰
 단계 : 3살
 소모AP : 1
@@ -609,10 +609,10 @@ HTML :
 
 [clue_17]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 33b1f4c3-bedf-4c65-9926-285e336c8774
+variantId : 72fb33da-d44a-4dd0-9fdb-89d5c4085ee3
 이미지 : 17_3살_10월_밤마다_방을_순찰하는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 86a4737c-fb80-4cc2-a7b1-957bfdc8b1fe
 유형 : 관찰
 단계 : 3살
 소모AP : 1
@@ -628,11 +628,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 3살 10월 단서. 장면: 밤마다 방을 순찰하는 강아지.
 내용 :
-어느 날부턴가 {dog_name}는(은) 잠자리에 들기 전 꼭 방마다 한 바퀴를 돌고 나서야 제자리로 돌아갔다. 마치 집 안에 별일이 없는지 확인이라도 하는 것 같았다. 처음엔 그 모습이 신기해서 지켜보기만 했는데, 어느새 그 마지막 바퀴가 끝나기를 기다렸다가 불을 끄는 게 자신의 버릇이 되어 있었다.
+어느 날부턴가 {dog_name}는(은) 잠자리에 들기 전 꼭 방마다 한 바퀴를 돌고 나서야 제자리로 돌아갔다. 마치 집 안에 별일이 없는지 확인이라도 하는 것 같았다. 처음엔 그 모습이 신기해서 지켜보기만 했는데, 어느새 그 마지막 바퀴가 끝나기를 기다렸다가 불을 끄는 게 내 버릇이 되어 있었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">어느 날부턴가 {dog_name}는(은) 잠자리에 들기 전 꼭 방마다 한 바퀴를 돌고 나서야 제자리로 돌아갔다. 마치 집 안에 별일이 없는지 확인이라도 하는 것 같았다. 처음엔 그 모습이 신기해서 지켜보기만 했는데, 어느새 그 마지막 바퀴가 끝나기를 기다렸다가 불을 끄는 게 자신의 버릇이 되어 있었다.</div>
+    <div class="document-body">어느 날부턴가 {dog_name}는(은) 잠자리에 들기 전 꼭 방마다 한 바퀴를 돌고 나서야 제자리로 돌아갔다. 마치 집 안에 별일이 없는지 확인이라도 하는 것 같았다. 처음엔 그 모습이 신기해서 지켜보기만 했는데, 어느새 그 마지막 바퀴가 끝나기를 기다렸다가 불을 끄는 게 내 버릇이 되어 있었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic 16:9 watercolor illustration that completely fills every pixel of the canvas from edge to edge with NO white space NO white margin NO border NO blank edges. Inside the quiet hallway and bedroom doorway of a modest Korean single-family house late on an autumn night in October. Right at the open doorway of a bedroom, a small 3-year-old adult Yorkshire Terrier (miniature toy breed matching the adult dog reference, erect pointed V-shaped ears, compact toy-breed proportions, dark grey-black saddle with golden tan accents on face and paws) stops at the wooden threshold and inquisitively pokes its cute head deep into the room, leaning forward curiously to thoroughly inspect and check the room interior before bedtime. View showing the dog from behind-side angle as it gazes directly deep inside the quiet bedroom. In the bedroom, cozy bed and quiet furniture silhouettes in the dim light. In the hallway, a soft warm amber night-light casts a gentle glow across the wooden floor. Beside the door frame, an elderly Korean man in comfortable pajamas stands patiently, waiting for the little dog to finish inspecting the room before turning off the lights (camera cropped naturally at chest level, strictly NO human face visible, only his torso, pajama pants, and wrinkled hand resting near the wall light switch). Serene, heartwarming nocturnal bedtime atmosphere. Soft watercolor children's book illustration style, gentle color bleeding, cozy nocturnal palette (dusty midnight blue, deep warm amber glow, soft cream, muted wood tones), delicate thin brown outlines. Avoid: human face, visible human head, scary atmosphere, horror, giant dog, floppy ears, drooping ears, apartment high-rise, traditional hanok, white border, white margin, text, watermark, photo, 3D render.
@@ -646,10 +646,10 @@ HTML :
 
 [clue_18]
 이름 : 12월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 9c42d0b8-206c-40df-b934-c00104a434bd
+variantId : 934748b5-4ddb-4138-830a-f9414fa20568
 이미지 : 18_3살_12월_거울_앞_풀어진_표정.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 86a4737c-fb80-4cc2-a7b1-957bfdc8b1fe
 유형 : 관찰
 단계 : 3살
 소모AP : 1
@@ -683,10 +683,10 @@ HTML :
 
 [clue_19]
 이름 : 1월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : a167fba8-7577-4117-9ed5-6ca43645fe43
+variantId : d9d596fc-e1b5-451f-9677-3a44cfc1e02b
 이미지 : 19_4살_1월_재래시장에서_강아지_간식_좌판을_봄.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : d13d0ca3-806a-4fa2-aa7e-e6c2274ddd48
 유형 : 관찰
 단계 : 4살
 소모AP : 1
@@ -720,10 +720,10 @@ HTML :
 
 [clue_20]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : e34f23f2-19d6-43c2-b339-38a5283b3931
+variantId : 2b84d8d0-a073-48ea-9f9d-b88195837b9f
 이미지 : 20_4살_3월_밥그릇_두_개_나란히_놓인_저녁.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : d13d0ca3-806a-4fa2-aa7e-e6c2274ddd48
 유형 : 관찰
 단계 : 4살
 소모AP : 1
@@ -739,11 +739,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 4살 3월 단서. 장면: 밥그릇 두 개 나란히 놓인 저녁.
 내용 :
-냉장고 안이 예전보다 한결 덜 휑했다. 혼자 먹자고 밥을 차리는 건 늘 귀찮았는데, 사료를 데워주는 김에 자기 밥도 같이 짓게 됐다. 국이라도 끓여놓으면 하루 이틀은 편했다. 시장에서 장을 볼 때도 예전보다 뭘 더 담게 됐다. 누구 하나 챙겨야 할 존재가 있다는 게, 결국 자신을 챙기는 일로도 이어질 줄은 몰랐다. 예전 같으면 김에 밥만 말아 먹고 넘어갔을 저녁을, 이제는 나름 갖춰서 먹고 있었다. 밥그릇 두 개를 나란히 놓고 먹는 저녁이, 그렇게 조금씩 익숙해져 갔다.
+냉장고 안이 예전보다 한결 덜 휑했다. 혼자 먹자고 밥을 차리는 건 늘 귀찮았는데, 사료를 데워주는 김에 자기 밥도 같이 짓게 됐다. 국이라도 끓여놓으면 하루 이틀은 편했다. 시장에서 장을 볼 때도 예전보다 뭘 더 담게 됐다. 누구 하나 챙겨야 할 존재가 있다는 게, 결국 나를 챙기는 일로도 이어질 줄은 몰랐다. 예전 같으면 김에 밥만 말아 먹고 넘어갔을 저녁을, 이제는 나름 갖춰서 먹고 있었다. 밥그릇 두 개를 나란히 놓고 먹는 저녁이, 그렇게 조금씩 익숙해져 갔다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">냉장고 안이 예전보다 한결 덜 휑했다. 혼자 먹자고 밥을 차리는 건 늘 귀찮았는데, 사료를 데워주는 김에 자기 밥도 같이 짓게 됐다. 국이라도 끓여놓으면 하루 이틀은 편했다. 시장에서 장을 볼 때도 예전보다 뭘 더 담게 됐다. 누구 하나 챙겨야 할 존재가 있다는 게, 결국 자신을 챙기는 일로도 이어질 줄은 몰랐다. 예전 같으면 김에 밥만 말아 먹고 넘어갔을 저녁을, 이제는 나름 갖춰서 먹고 있었다. 밥그릇 두 개를 나란히 놓고 먹는 저녁이, 그렇게 조금씩 익숙해져 갔다.</div>
+    <div class="document-body">냉장고 안이 예전보다 한결 덜 휑했다. 혼자 먹자고 밥을 차리는 건 늘 귀찮았는데, 사료를 데워주는 김에 자기 밥도 같이 짓게 됐다. 국이라도 끓여놓으면 하루 이틀은 편했다. 시장에서 장을 볼 때도 예전보다 뭘 더 담게 됐다. 누구 하나 챙겨야 할 존재가 있다는 게, 결국 나를 챙기는 일로도 이어질 줄은 몰랐다. 예전 같으면 김에 밥만 말아 먹고 넘어갔을 저녁을, 이제는 나름 갖춰서 먹고 있었다. 밥그릇 두 개를 나란히 놓고 먹는 저녁이, 그렇게 조금씩 익숙해져 갔다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic 16:9 watercolor illustration, full bleed edge-to-edge, absolutely NO borders, NO margins, NO frames. Inside the cozy dining area of the Korean single-family house on a pleasant March spring evening. View from an oblique angle showing an elderly Korean man in a comfortable soft sage-green spring knit cardigan eating his solo dinner at the wooden dining table. Strictly ONE single rice bowl for the solo diner: on the table is ONLY ONE bowl of white rice, one small pot of hot stew, and two small side dishes — ABSOLUTELY NO second rice bowl, NO extra bowls on the table. Utensils: only the spoon he is holding. Lighting and ceiling: ABSOLUTELY NO hanging pendant lamps, NO ceiling lamps hanging down low, completely clear upper space with soft gentle ambient warm room lighting. The man is cropped at chest level, strictly NO human face, head completely above the top frame border. Down on the wooden floor beside the table, a very small 4-year-old adult Yorkshire Terrier (petite miniature toy breed, only 2-3 kg, visibly tiny scale next to the wooden chair leg, compact toy-breed proportions matching adult dog reference, erect pointed V-shaped ears, dark grey-black saddle with golden tan accents on face and paws) happily munches kibble from its small clean dog bowl. A heartwarming scene of companionable dinnertime. Soft watercolor children's book illustration style, gentle color bleeding, warm nostalgic pastel palette (soft warm wood, sage green, warm cream), delicate thin soft brown outlines. Avoid: hanging pendant lamp, low light fixture, ceiling lamp in frame, second rice bowl, extra rice bowl, two rice bowls, duplicate cutlery, human face, human head, low floor table, calendar, text, oversized dog, white border, white margin, photo, 3D render.
@@ -757,10 +757,10 @@ HTML :
 
 [clue_21]
 이름 : 6월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 9316e46c-2774-4b64-9eae-af65e6f0d09e
+variantId : 3ba34d6c-f657-42fe-b495-e21bf714ce16
 이미지 : 21_4살_6월_함께_비를_맞고_이불_속에서_앓는_밤.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : d13d0ca3-806a-4fa2-aa7e-e6c2274ddd48
 유형 : 관찰
 단계 : 4살
 소모AP : 1
@@ -794,10 +794,10 @@ HTML :
 
 [clue_22]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : bf8fa0b6-93bf-4e34-a233-09adc093f07e
+variantId : 588a64ed-60ee-4c15-9a69-1379319f2228
 이미지 : 22_4살_8월_마당에서_뛰노는_강아지_손님의_시선.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : d13d0ca3-806a-4fa2-aa7e-e6c2274ddd48
 유형 : 관찰
 단계 : 4살
 소모AP : 1
@@ -831,10 +831,10 @@ HTML :
 
 [clue_23]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 065af9d8-1f99-4d71-ab6b-066f854530ea
+variantId : e859b4c5-e10f-41a6-864f-462fb319d4ac
 이미지 : 23_4살_9월_조건_없이_곁을_지키는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : d13d0ca3-806a-4fa2-aa7e-e6c2274ddd48
 유형 : 관찰
 단계 : 4살
 소모AP : 1
@@ -868,10 +868,10 @@ HTML :
 
 [clue_24]
 이름 : 11월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 4390111f-480a-4d00-a154-3a8b6d2a595c
+variantId : 3747abf3-32ab-45d8-bc53-b24aec8f92ca
 이미지 : 24_4살_11월_동사무소_게시판의_유기동물_안내문.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : d13d0ca3-806a-4fa2-aa7e-e6c2274ddd48
 유형 : 관찰
 단계 : 4살
 소모AP : 1
@@ -905,10 +905,10 @@ HTML :
 
 [clue_25]
 이름 : 2월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 85f2f733-6caf-4f50-ad3b-9503950faf19
+variantId : e55886a4-f81a-4b14-9ddd-751878243074
 이미지 : 25_5살_2월_골목에서_우연히_마주친_이웃.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 26e31a94-01b5-439e-932f-1b2a7cb7f41c
 유형 : 관찰
 단계 : 5살
 소모AP : 1
@@ -942,10 +942,10 @@ HTML :
 
 [clue_26]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 1b62e1d8-21aa-4fce-bfe9-76faa41ce349
+variantId : ac64e640-7998-452f-b46d-647493635c37
 이미지 : 26_5살_3월_오래된_진료_기록을_꺼내봄.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 26e31a94-01b5-439e-932f-1b2a7cb7f41c
 유형 : 관찰
 단계 : 5살
 소모AP : 1
@@ -979,10 +979,10 @@ HTML :
 
 [clue_27]
 이름 : 4월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 6d32dc07-8607-4043-8459-9d879ce6222f
+variantId : 2d22f26c-aa8f-4fe5-8772-e7de2fd6c374
 이미지 : 27_5살_4월_요양원_면회실.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 26e31a94-01b5-439e-932f-1b2a7cb7f41c
 유형 : 관찰
 단계 : 5살
 소모AP : 1
@@ -1016,10 +1016,10 @@ HTML :
 
 [clue_28]
 이름 : 7월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : fd6bcac3-9352-448b-a1b6-24041576001c
+variantId : 43366585-78ec-496f-8f42-31eaf9728e29
 이미지 : 28_5살_7월_사진첩을_함께_보는_면회.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 26e31a94-01b5-439e-932f-1b2a7cb7f41c
 유형 : 관찰
 단계 : 5살
 소모AP : 1
@@ -1053,10 +1053,10 @@ HTML :
 
 [clue_29]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 7f378ab0-3921-4e95-a9cb-0ab1972cad04
+variantId : 0e53a8dd-f37e-4053-8b7a-1ff3d8f5888f
 이미지 : 29_5살_9월_반찬을_나르는_손.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 26e31a94-01b5-439e-932f-1b2a7cb7f41c
 유형 : 관찰
 단계 : 5살
 소모AP : 1
@@ -1090,10 +1090,10 @@ HTML :
 
 [clue_30]
 이름 : 11월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : e1b9cf43-f856-4a2d-b652-3d7133364e18
+variantId : 953ab043-a0fa-4f05-8b97-43b7d45294dc
 이미지 : 30_5살_11월_겨울옷_입히기.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 26e31a94-01b5-439e-932f-1b2a7cb7f41c
 유형 : 관찰
 단계 : 5살
 소모AP : 1
@@ -1109,11 +1109,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 5살 11월 단서. 장면: 겨울옷 입히기.
 내용 :
-찬바람이 불기 시작하자 서랍 속에 넣어뒀던 {dog_name} 옷을 꺼내 입혔다. 작년 이맘때도 그랬듯, 이제는 손에 제법 익은 일이었다. 옷 입기 싫다고 버둥대는 모습에 웃음이 났다. 문득 이 관계가 참 이상하다는 생각이 들었다. 원치 않게 떠맡은 {dog_name}가(이), 결국 잃어버렸던 인연 하나를 다시 이어준 셈이었다. 아내를 보내고 나서는 누구와도 새로 가까워질 일이 없으리라 여겼는데, 이렇게 또 사람 하나를 곁에 두게 될 줄은 몰랐다.
+찬바람이 불기 시작하자 서랍 속에 넣어뒀던 {dog_name} 옷을 꺼내 입혔다. 작년 이맘때도 그랬듯, 이제는 손에 제법 익은 일이었다. 옷 입기 싫다고 버둥대는 모습에 웃음이 났다. 문득 이 관계가 참 이상하다는 생각이 들었다. 아내를 보내고 나서는 누구에게도 새로 정을 붙일 일이 없으리라 여겼는데, 이렇게 또 작은 식구 하나를 곁에 두게 될 줄은 몰랐다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">찬바람이 불기 시작하자 서랍 속에 넣어뒀던 {dog_name} 옷을 꺼내 입혔다. 작년 이맘때도 그랬듯, 이제는 손에 제법 익은 일이었다. 옷 입기 싫다고 버둥대는 모습에 웃음이 났다. 문득 이 관계가 참 이상하다는 생각이 들었다. 원치 않게 떠맡은 {dog_name}가(이), 결국 잃어버렸던 인연 하나를 다시 이어준 셈이었다. 아내를 보내고 나서는 누구와도 새로 가까워질 일이 없으리라 여겼는데, 이렇게 또 사람 하나를 곁에 두게 될 줄은 몰랐다.</div>
+    <div class="document-body">찬바람이 불기 시작하자 서랍 속에 넣어뒀던 {dog_name} 옷을 꺼내 입혔다. 작년 이맘때도 그랬듯, 이제는 손에 제법 익은 일이었다. 옷 입기 싫다고 버둥대는 모습에 웃음이 났다. 문득 이 관계가 참 이상하다는 생각이 들었다. 아내를 보내고 나서는 누구에게도 새로 정을 붙일 일이 없으리라 여겼는데, 이렇게 또 작은 식구 하나를 곁에 두게 될 줄은 몰랐다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic 16:9 watercolor illustration, full bleed edge-to-edge, the artwork completely fills the canvas to all four edges, absolutely NO borders, NO margins, NO frames, NO drawn line frames. A charming, heartwarming late autumn November evening inside a cozy modern detached living room in South Korea. On a soft patterned floor rug over light timber flooring, an elderly Korean man's gentle weathered hands are affectionately trying to dress a tiny 5-year-old adult Yorkshire Terrier dog (matching reference image: petite toy-breed proportions, only 2-3 kg, neatly groomed puppy-cut fur, erect pointed V-shaped ears, dark slate saddle, golden-tan legs and face, short docked tail) into a tiny knitted winter sweater vest (cozy mustard-yellow or warm red wool). The little dog is playfully wriggling and squirming with its front paws raised in a cute reluctant struggle. The elderly owner is seated on the rug, seen strictly from the chest down (strictly NO human face, head completely cropped out of the frame, absolutely NO facial features visible). Soft warm ambient evening indoor lighting. Nostalgic storybook watercolor illustration style, delicate outlines, soft color blending, warm cozy palette (warm honey wood, soft beige, mustard knit, rich amber light). Avoid: human face, human head, facial features, oversized dog, floppy ears, long untrimmed fur, text, letters, borders, margins, photo, 3D render.
@@ -1127,10 +1127,10 @@ HTML :
 
 [clue_31]
 이름 : 2월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 51aa8382-aac0-41f3-aa32-418ca4167264
+variantId : 63ef421f-0b9d-4d1d-8fdc-908601be57a0
 이미지 : 31_6살_2월_낡은_인형만_찾는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : e464a2d6-1b8c-4aa1-9026-3c53ac9b4810
 유형 : 관찰
 단계 : 6살
 소모AP : 1
@@ -1146,11 +1146,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 6살 2월 단서. 장면: 낡은 인형만 찾는 강아지.
 내용 :
-동네 마트에 갔다가 장난감 코너에 들렀다. 예전에 사준 공을 잃어버린 지 며칠 됐던 참이었다. 며칠째 뭔가 아쉬운 얼굴로 빈손을 핥고 있는 게 마음에 걸렸다. 비슷한 색깔, 비슷한 크기로 하나 새로 골라 사다 줬는데, {dog_name}는(은) 코를 한 번 대보고는 이내 거들떠보지도 않았다. 몇 번을 다시 굴려줘도 시큰둥했다. 결국 서랍 깊숙이 넣어뒀던, 여기저기 해진 낡은 인형을 꺼내 주고 나서야 그제야 꼬리를 흔들며 달려들었다. 새것보다 손때 묻은 것만 찾는 게, 어째 저를 닮았다는 생각이 들었다. 그 낡은 인형을 다시 버리지 못하고 서랍 맨 앞자리로 옮겨두었다.
+동네 마트에 갔다가 장난감 코너에 들렀다. 예전에 사준 공을 잃어버린 지 며칠 됐던 참이었다. 며칠째 뭔가 아쉬운 얼굴로 빈손을 핥고 있는 게 마음에 걸렸다. 비슷한 색깔, 비슷한 크기로 하나 새로 골라 사다 줬는데, {dog_name}는(은) 코를 한 번 대보고는 이내 거들떠보지도 않았다. 몇 번을 다시 굴려줘도 시큰둥했다. 결국 서랍 깊숙이 넣어뒀던, 여기저기 해진 낡은 인형을 꺼내 주고 나서야 그제야 꼬리를 흔들며 달려들었다. 새것보다 손때 묻은 것만 찾는 게, 어째 나를 닮았다는 생각이 들었다. 그 낡은 인형을 다시 버리지 못하고 서랍 맨 앞자리로 옮겨두었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">동네 마트에 갔다가 장난감 코너에 들렀다. 예전에 사준 공을 잃어버린 지 며칠 됐던 참이었다. 며칠째 뭔가 아쉬운 얼굴로 빈손을 핥고 있는 게 마음에 걸렸다. 비슷한 색깔, 비슷한 크기로 하나 새로 골라 사다 줬는데, {dog_name}는(은) 코를 한 번 대보고는 이내 거들떠보지도 않았다. 몇 번을 다시 굴려줘도 시큰둥했다. 결국 서랍 깊숙이 넣어뒀던, 여기저기 해진 낡은 인형을 꺼내 주고 나서야 그제야 꼬리를 흔들며 달려들었다. 새것보다 손때 묻은 것만 찾는 게, 어째 저를 닮았다는 생각이 들었다. 그 낡은 인형을 다시 버리지 못하고 서랍 맨 앞자리로 옮겨두었다.</div>
+    <div class="document-body">동네 마트에 갔다가 장난감 코너에 들렀다. 예전에 사준 공을 잃어버린 지 며칠 됐던 참이었다. 며칠째 뭔가 아쉬운 얼굴로 빈손을 핥고 있는 게 마음에 걸렸다. 비슷한 색깔, 비슷한 크기로 하나 새로 골라 사다 줬는데, {dog_name}는(은) 코를 한 번 대보고는 이내 거들떠보지도 않았다. 몇 번을 다시 굴려줘도 시큰둥했다. 결국 서랍 깊숙이 넣어뒀던, 여기저기 해진 낡은 인형을 꺼내 주고 나서야 그제야 꼬리를 흔들며 달려들었다. 새것보다 손때 묻은 것만 찾는 게, 어째 나를 닮았다는 생각이 들었다. 그 낡은 인형을 다시 버리지 못하고 서랍 맨 앞자리로 옮겨두었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic 16:9 watercolor illustration, full bleed edge-to-edge, the artwork completely fills the canvas to all four edges, absolutely NO borders, NO margins, NO frames, NO drawn line frames. A charming, warm late winter February afternoon inside a quiet modern living room in South Korea. On a soft cozy rug over warm wooden flooring, a tiny 6-year-old adult Yorkshire Terrier dog (matching reference image: petite toy-breed proportions, only 2-3 kg, neatly groomed puppy-cut fur, erect pointed V-shaped ears, dark slate-grey saddle, golden-tan paws and face, tiny docked tail) is happily lying down, clutching and resting its chin lovingly over a worn, well-loved, slightly scuffed vintage stuffed fabric toy, looking thoroughly content. A few feet away, a brand-new pristine colorful rubber ball toy lies completely ignored. In the soft-focus background, only an elderly person's comfortable wool socks and house slippers are visible by a wooden chair (strictly NO human face, head completely out of frame). Warm winter afternoon sunlight spills across the floorboards. Nostalgic storybook watercolor illustration, delicate line work, soft color bleeding, comforting warm pastel palette (warm honey wood, cream beige, soft sage, gentle golden light). Avoid: human face, human head, facial features, oversized dog, floppy ears, long untrimmed coat, text, letters, borders, margins, photo, 3D render.
@@ -1164,10 +1164,10 @@ HTML :
 
 [clue_32]
 이름 : 4월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 468b7c70-9e5b-4e7f-9658-28eafc2ab14d
+variantId : 6603584a-d4e4-42d8-892c-dfd5e2c017a0
 이미지 : 32_6살_4월_사료를_거부하는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : e464a2d6-1b8c-4aa1-9026-3c53ac9b4810
 유형 : 관찰
 단계 : 6살
 소모AP : 1
@@ -1201,10 +1201,10 @@ HTML :
 
 [clue_33]
 이름 : 6월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 4b1622fe-705f-44d1-96b1-9c4a2011055e
+variantId : 9890f89a-8a9f-417e-9371-2472d3f6e8ca
 이미지 : 33_6살_6월_천둥_치는_밤_침대_밑으로.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : e464a2d6-1b8c-4aa1-9026-3c53ac9b4810
 유형 : 관찰
 단계 : 6살
 소모AP : 1
@@ -1238,10 +1238,10 @@ HTML :
 
 [clue_34]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 00b5377f-a9ff-4001-8e21-5567a5ac093f
+variantId : f32755e9-e1a8-442d-9a56-158e7f033c74
 이미지 : 34_6살_8월_택배기사에게만_짖는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : e464a2d6-1b8c-4aa1-9026-3c53ac9b4810
 유형 : 관찰
 단계 : 6살
 소모AP : 1
@@ -1275,10 +1275,10 @@ HTML :
 
 [clue_35]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : d000b73e-3575-41f8-9e93-6543ab0b749b
+variantId : dc18dd4f-121c-4914-b200-6c7a0a358d66
 이미지 : 35_6살_10월_좁은_틈에_웅크린_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : e464a2d6-1b8c-4aa1-9026-3c53ac9b4810
 유형 : 관찰
 단계 : 6살
 소모AP : 1
@@ -1312,10 +1312,10 @@ HTML :
 
 [clue_36]
 이름 : 12월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 3eb1260f-90bf-447c-b709-a45ac78aa976
+variantId : 91ccb866-a42c-4520-8112-86aefd60a661
 이미지 : 36_6살_12월_강아지의_모든_것을_알게_된_주인.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : e464a2d6-1b8c-4aa1-9026-3c53ac9b4810
 유형 : 관찰
 단계 : 6살
 소모AP : 1
@@ -1349,10 +1349,10 @@ HTML :
 
 [clue_37]
 이름 : 2월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 567bbbcd-6dec-44a5-9a58-635e31ef6fff
+variantId : 145fc616-9ce0-48a4-83b9-534489c5cd2b
 이미지 : 37_7살_2월_겨울_공원에서_시작된_산책_모임.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 57342310-a345-4597-8cfe-d5844d789195
 유형 : 관찰
 단계 : 7살
 소모AP : 1
@@ -1386,10 +1386,10 @@ HTML :
 
 [clue_38]
 이름 : 4월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : ade708be-13db-44af-8ad6-e52c95ffb809
+variantId : c7dc3b20-2106-424a-b4a8-f1e22a289e14
 이미지 : 38_7살_4월_벚꽃_나들이.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 57342310-a345-4597-8cfe-d5844d789195
 유형 : 관찰
 단계 : 7살
 소모AP : 1
@@ -1423,10 +1423,10 @@ HTML :
 
 [clue_39]
 이름 : 6월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : c2a15dbd-5d24-4bf3-a3ce-cc9c6ae76310
+variantId : 5a0ec9e6-e088-4fe1-9385-0f49643c413f
 이미지 : 39_7살_6월_첫_초대_집들이.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 57342310-a345-4597-8cfe-d5844d789195
 유형 : 관찰
 단계 : 7살
 소모AP : 1
@@ -1460,10 +1460,10 @@ HTML :
 
 [clue_40]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 3904b767-b21b-425a-b938-d6924aa38030
+variantId : 25ffe7fc-1d70-432e-9f27-6c3c4293a327
 이미지 : 40_7살_8월_동창회_사진첩을_보여주는_손.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 57342310-a345-4597-8cfe-d5844d789195
 유형 : 관찰
 단계 : 7살
 소모AP : 1
@@ -1497,10 +1497,10 @@ HTML :
 
 [clue_41]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 41103da5-f2c1-4e5d-b450-7e1ba45cae04
+variantId : ef56ac5f-4240-4200-8559-cd8d9d410f9d
 이미지 : 41_7살_10월_작은_반려견_행사.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 57342310-a345-4597-8cfe-d5844d789195
 유형 : 관찰
 단계 : 7살
 소모AP : 1
@@ -1534,10 +1534,10 @@ HTML :
 
 [clue_42]
 이름 : 12월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : aa291acb-f33d-4447-ba63-97fd964cd993
+variantId : 546a3273-e0b9-4e3c-98c9-e70debecce01
 이미지 : 42_7살_12월_빼곡한_달력_기다리는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 57342310-a345-4597-8cfe-d5844d789195
 유형 : 관찰
 단계 : 7살
 소모AP : 1
@@ -1571,10 +1571,10 @@ HTML :
 
 [clue_43]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 24cd3a86-2f7a-4dd5-9290-11940f4bc76e
+variantId : f521f026-4d2d-47b8-b356-3f48690e94bf
 이미지 : 43_8살_3월_세_발로_뛰는_강아지.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : ba322e8a-5b6d-4374-8a47-dbde19a8f072
 유형 : 관찰
 단계 : 8살
 소모AP : 1
@@ -1608,10 +1608,10 @@ HTML :
 
 [clue_44]
 이름 : 4월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 7e356e83-a2b3-4e89-a9b9-78d6a0a8355c
+variantId : 5a2cfe94-0b23-4f29-9bd4-22e26772ef6b
 이미지 : 44_8살_4월_병원_엑스레이를_보여주는_의사.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : ba322e8a-5b6d-4374-8a47-dbde19a8f072
 유형 : 관찰
 단계 : 8살
 소모AP : 1
@@ -1645,10 +1645,10 @@ HTML :
 
 [clue_45]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 83e42020-3444-44ea-8dc5-7f1bdb41f68e
+variantId : 407671d3-b5e9-4340-be9c-71f58405dbef
 이미지 : 45_8살_5월_수술_당일_기다리는_손.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : ba322e8a-5b6d-4374-8a47-dbde19a8f072
 유형 : 관찰
 단계 : 8살
 소모AP : 1
@@ -1682,10 +1682,10 @@ HTML :
 
 [clue_46]
 이름 : 6월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 5b56a9e6-d2a2-4182-88fa-18be440d3224
+variantId : ab169540-1ad5-4c76-b0db-2e764b05ddea
 이미지 : 46_8살_6월_보호대를_찬_재활.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : ba322e8a-5b6d-4374-8a47-dbde19a8f072
 유형 : 관찰
 단계 : 8살
 소모AP : 1
@@ -1719,10 +1719,10 @@ HTML :
 
 [clue_47]
 이름 : 7월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : aa343b1e-9d09-434d-93d6-8512b362977e
+variantId : a28d0646-8915-4034-bc11-2bc94ace24c8
 이미지 : 47_8살_7월_보호대_없이_안도의_순간.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : ba322e8a-5b6d-4374-8a47-dbde19a8f072
 유형 : 관찰
 단계 : 8살
 소모AP : 1
@@ -1756,10 +1756,10 @@ HTML :
 
 [clue_48]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 43985e07-8216-4c35-b5b4-39f94e8d0eae
+variantId : 1a42ad5d-d386-4154-858b-be9d95e8b3ad
 이미지 : 48_8살_9월_미끄럼_방지_매트_설치.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : ba322e8a-5b6d-4374-8a47-dbde19a8f072
 유형 : 관찰
 단계 : 8살
 소모AP : 1
@@ -1793,10 +1793,10 @@ HTML :
 
 [clue_49]
 이름 : 1월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 16d6fb37-3402-4bb3-b7a5-c14d5a8fa6f5
+variantId : aaf489ba-fdef-4b25-907a-61e32ac28327
 이미지 : 49_9살_1월_냉장고에_붙은_할_일_목록.jpg
-groupId : (미정 — DB 등록 시 생성)
+groupId : 889cc627-2699-4f85-8634-8d111fd58f0d
 유형 : 관찰
 단계 : 9살
 소모AP : 1
@@ -1830,10 +1830,10 @@ HTML :
 
 [clue_50]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
-이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+clueId : dcfd9192-14d7-4ef8-9aa4-c65b4f3dc895
+variantId : 22427e92-c731-42d4-a7dc-eedf39c977eb
+이미지 : 50_9살_3월_첫_생일_작은_케이크.jpg
+groupId : 889cc627-2699-4f85-8634-8d111fd58f0d
 유형 : 관찰
 단계 : 9살
 소모AP : 1
@@ -1867,10 +1867,10 @@ HTML :
 
 [clue_51]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
-이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+clueId : 41b4bd37-96ab-403e-9849-9b0d66b56579
+variantId : c94cbf29-6608-4168-bf78-5f3c001ff5d1
+이미지 : 51_9살_5월_마당에서_빗질_흰_털_발견.jpg
+groupId : 889cc627-2699-4f85-8634-8d111fd58f0d
 유형 : 관찰
 단계 : 9살
 소모AP : 1
@@ -1904,10 +1904,10 @@ HTML :
 
 [clue_52]
 이름 : 7월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
-이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+clueId : a0e381b7-2476-4755-ac26-972f25986124
+variantId : 2ff76f63-9f2b-48be-96d8-40e70464bf26
+이미지 : 52_9살_7월_계곡_여행.jpg
+groupId : 889cc627-2699-4f85-8634-8d111fd58f0d
 유형 : 관찰
 단계 : 9살
 소모AP : 1
@@ -1941,10 +1941,10 @@ HTML :
 
 [clue_53]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
-이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+clueId : c5ae4a62-7e9a-42c6-a070-5a38175f9a5b
+variantId : 616ad4a9-bd51-4001-b304-88e80a0cca08
+이미지 : 53_9살_9월_사진첩_정리.jpg
+groupId : 889cc627-2699-4f85-8634-8d111fd58f0d
 유형 : 관찰
 단계 : 9살
 소모AP : 1
@@ -1978,10 +1978,10 @@ HTML :
 
 [clue_54]
 이름 : 11월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
-이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+clueId : 56fc2517-20d6-4895-b6c0-9fb26ce4c270
+variantId : 01cfff8b-56b5-4bc2-9058-93f41b0984fe
+이미지 : 54_9살_11월_요양원_면회_무릎_위의_강아지.jpg
+groupId : 889cc627-2699-4f85-8634-8d111fd58f0d
 유형 : 관찰
 단계 : 9살
 소모AP : 1
@@ -2015,10 +2015,10 @@ HTML :
 
 [clue_55]
 이름 : 2월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 79472abe-91b4-4d2d-9ec9-114617ddd947
+variantId : d2164e31-7087-4f79-af11-884dbcc704f3
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 39c69be4-2022-4169-a46f-839909555397
 유형 : 관찰
 단계 : 10살
 소모AP : 1
@@ -2052,10 +2052,10 @@ HTML :
 
 [clue_56]
 이름 : 4월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 7f78797a-845a-43b7-81a4-3bc8839f255f
+variantId : 7ab4410d-d1c7-4964-a6ed-3234e43a8d55
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 39c69be4-2022-4169-a46f-839909555397
 유형 : 관찰
 단계 : 10살
 소모AP : 1
@@ -2089,10 +2089,10 @@ HTML :
 
 [clue_57]
 이름 : 6월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 1b2b51ff-b531-437b-a8ba-bd13ac03b127
+variantId : 071306d2-abfc-4592-b276-cd62a55a3cdb
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 39c69be4-2022-4169-a46f-839909555397
 유형 : 관찰
 단계 : 10살
 소모AP : 1
@@ -2126,10 +2126,10 @@ HTML :
 
 [clue_58]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 9bc1e397-3412-42b3-b815-e308bbc17e73
+variantId : e013a952-ca4a-4c0e-9773-c3a17cb1c6fe
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 39c69be4-2022-4169-a46f-839909555397
 유형 : 관찰
 단계 : 10살
 소모AP : 1
@@ -2163,10 +2163,10 @@ HTML :
 
 [clue_59]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : b8b9e426-7e97-4704-a569-de7f68acc1b0
+variantId : 16cb8eef-82f7-4bbe-acda-1c1a39dd8489
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 39c69be4-2022-4169-a46f-839909555397
 유형 : 관찰
 단계 : 10살
 소모AP : 1
@@ -2200,10 +2200,10 @@ HTML :
 
 [clue_60]
 이름 : 12월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 03f051e7-4fbc-4087-9f31-524e46c1b8f8
+variantId : b3ed0bc1-77ff-4b30-aedf-ae1c19e82685
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 39c69be4-2022-4169-a46f-839909555397
 유형 : 관찰
 단계 : 10살
 소모AP : 1
@@ -2237,10 +2237,10 @@ HTML :
 
 [clue_61]
 이름 : 1월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 768bcae4-e8d0-406b-8e2c-d4a2e9c88889
+variantId : e09a7ba6-b306-4afe-9a26-b28943a0136b
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 28fcc885-516a-4de3-b599-49d5b8851569
 유형 : 관찰
 단계 : 11살
 소모AP : 1
@@ -2274,10 +2274,10 @@ HTML :
 
 [clue_62]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 81e94199-04e2-47bf-bc8a-c45752dd880e
+variantId : b81ff6fc-b3b5-46e5-b960-22774fed8bf4
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 28fcc885-516a-4de3-b599-49d5b8851569
 유형 : 관찰
 단계 : 11살
 소모AP : 1
@@ -2311,10 +2311,10 @@ HTML :
 
 [clue_63]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : fd09b4ef-f166-44b9-bd13-d683700cc995
+variantId : e30125ca-eabe-499f-a3b1-cadc7a017a0f
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 28fcc885-516a-4de3-b599-49d5b8851569
 유형 : 관찰
 단계 : 11살
 소모AP : 1
@@ -2348,10 +2348,10 @@ HTML :
 
 [clue_64]
 이름 : 7월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 8de33a53-8719-4e2e-b32e-37a8ac30e2ff
+variantId : 70a91f1b-4d20-444d-9f82-8392cf2a626b
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 28fcc885-516a-4de3-b599-49d5b8851569
 유형 : 관찰
 단계 : 11살
 소모AP : 1
@@ -2385,10 +2385,10 @@ HTML :
 
 [clue_65]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 45e1fb73-3cdd-4e15-9743-d8cd389319f3
+variantId : e2791968-b727-4a85-8ae5-db2d46c84854
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 28fcc885-516a-4de3-b599-49d5b8851569
 유형 : 관찰
 단계 : 11살
 소모AP : 1
@@ -2422,10 +2422,10 @@ HTML :
 
 [clue_66]
 이름 : 11월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 8c7724c8-adb2-4a2f-a3a8-ee86fcfb59dc
+variantId : 60355027-e620-4479-80df-a893b574e83f
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 28fcc885-516a-4de3-b599-49d5b8851569
 유형 : 관찰
 단계 : 11살
 소모AP : 1
@@ -2459,10 +2459,10 @@ HTML :
 
 [clue_67]
 이름 : 2월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : ea1520d9-1b55-4b1d-b214-ccaa474ba3d1
+variantId : 11b06702-761b-4e9a-8337-46a72eb0fe34
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : a35a68df-82b3-4797-8841-3f15e1d9b94c
 유형 : 관찰
 단계 : 12살
 소모AP : 1
@@ -2496,10 +2496,10 @@ HTML :
 
 [clue_68]
 이름 : 4월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 4cc6029f-d652-4ca8-91c4-2f9987babf54
+variantId : e771f052-341a-400e-8d59-f17269381a26
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : a35a68df-82b3-4797-8841-3f15e1d9b94c
 유형 : 관찰
 단계 : 12살
 소모AP : 1
@@ -2515,11 +2515,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 12살 4월 단서. 장면: 산책 모임, 느려진 속도.
 내용 :
-산책 모임에서 걷는 속도가 어느새 예전만 못하다는 걸 다들 눈치챈 모양이었다. 누구 하나 먼저 말을 꺼내지 않았는데도, 앞장서던 사람들이 자연스레 보조를 맞춰줬다. {dog_name}도 이제는 무리 앞으로 나서기보다 뒤쪽에서 천천히 따라오는 쪽이 편한 눈치였다. 예전엔 제일 먼저 지치는 쪽이 자신이었는데, 이제는 순서가 뒤바뀐 셈이었다. 그래도 다 같이 걷는 그 시간만큼은, 속도와 상관없이 여전히 좋았다. 헤어질 때쯤엔 다음 주에도 이 페이스로 보자는 말이 자연스레 나왔다.
+산책 모임에서 걷는 속도가 어느새 예전만 못하다는 걸 다들 눈치챈 모양이었다. 누구 하나 먼저 말을 꺼내지 않았는데도, 앞장서던 사람들이 자연스레 보조를 맞춰줬다. {dog_name}도 이제는 무리 앞으로 나서기보다 뒤쪽에서 천천히 따라오는 쪽이 편한 눈치였다. 예전엔 제일 먼저 지치는 쪽이 나였는데, 이제는 순서가 뒤바뀐 셈이었다. 그래도 다 같이 걷는 그 시간만큼은, 속도와 상관없이 여전히 좋았다. 헤어질 때쯤엔 다음 주에도 이 페이스로 보자는 말이 자연스레 나왔다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">산책 모임에서 걷는 속도가 어느새 예전만 못하다는 걸 다들 눈치챈 모양이었다. 누구 하나 먼저 말을 꺼내지 않았는데도, 앞장서던 사람들이 자연스레 보조를 맞춰줬다. {dog_name}도 이제는 무리 앞으로 나서기보다 뒤쪽에서 천천히 따라오는 쪽이 편한 눈치였다. 예전엔 제일 먼저 지치는 쪽이 자신이었는데, 이제는 순서가 뒤바뀐 셈이었다. 그래도 다 같이 걷는 그 시간만큼은, 속도와 상관없이 여전히 좋았다. 헤어질 때쯤엔 다음 주에도 이 페이스로 보자는 말이 자연스레 나왔다.</div>
+    <div class="document-body">산책 모임에서 걷는 속도가 어느새 예전만 못하다는 걸 다들 눈치챈 모양이었다. 누구 하나 먼저 말을 꺼내지 않았는데도, 앞장서던 사람들이 자연스레 보조를 맞춰줬다. {dog_name}도 이제는 무리 앞으로 나서기보다 뒤쪽에서 천천히 따라오는 쪽이 편한 눈치였다. 예전엔 제일 먼저 지치는 쪽이 나였는데, 이제는 순서가 뒤바뀐 셈이었다. 그래도 다 같이 걷는 그 시간만큼은, 속도와 상관없이 여전히 좋았다. 헤어질 때쯤엔 다음 주에도 이 페이스로 보자는 말이 자연스레 나왔다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames. A small senior adult Yorkshire Terrier dog (matching ari_adult_short.jpg reference: petite toy-breed proportions, only 2-3 kg, erect V-shaped ears, short trimmed fur, slightly faded silvery-grey coat with soft grey-white muzzle and gentle calm eyes, short docked tail). a small group of elderly people and their dogs walking slowly together on a park path, the pace visibly gentle and unhurried, warm afternoon light. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, in a quiet modest modern suburban setting, strictly NOT an apartment high-rise, NOT a Hanok. Avoid: Hanok, traditional Korean tile roof, giwa, daecheong-maru, wooden lattice doors, human face, human head, visible facial features, apartment high-rise, text, signs, letters, words, oversized dog, borders, margins, photo, 3D render.
@@ -2533,10 +2533,10 @@ HTML :
 
 [clue_69]
 이름 : 6월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 87dce6c4-a08b-4739-9a59-92092ff9db88
+variantId : 83a6c164-ad4f-4662-9c32-94b9c55088a4
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : a35a68df-82b3-4797-8841-3f15e1d9b94c
 유형 : 관찰
 단계 : 12살
 소모AP : 1
@@ -2552,11 +2552,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 12살 6월 단서. 장면: 나란히 든 낮잠.
 내용 :
-어느 날 낮, 볕이 잘 드는 방석 위에서 {dog_name}가(이) 한나절 내내 잠들어 있는 걸 봤다. 예전엔 잠깐 눈만 붙이던 녀석이었는데, 요즘은 낮잠 시간이 부쩍 길어져 있었다. 깨울까 말까 망설이다가, 그냥 옆에 앉아 책이나 펼쳤다. 몇 장 넘기지도 못하고 어느새 자신도 꾸벅꾸벅 졸고 있었다. 눈을 떠보니 해가 뉘엿뉘엿 저물어 있었다. 둘이 나란히 낮잠을 자는 게, 이상하게 하루 중 가장 편안한 시간이 되어 있었다.
+어느 날 낮, 볕이 잘 드는 방석 위에서 {dog_name}가(이) 한나절 내내 잠들어 있는 걸 봤다. 예전엔 잠깐 눈만 붙이던 녀석이었는데, 요즘은 낮잠 시간이 부쩍 길어져 있었다. 깨울까 말까 망설이다가, 그냥 옆에 앉아 책이나 펼쳤다. 몇 장 넘기지도 못하고 어느새 나도 꾸벅꾸벅 졸고 있었다. 눈을 떠보니 해가 뉘엿뉘엿 저물어 있었다. 둘이 나란히 낮잠을 자는 게, 이상하게 하루 중 가장 편안한 시간이 되어 있었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">어느 날 낮, 볕이 잘 드는 방석 위에서 {dog_name}가(이) 한나절 내내 잠들어 있는 걸 봤다. 예전엔 잠깐 눈만 붙이던 녀석이었는데, 요즘은 낮잠 시간이 부쩍 길어져 있었다. 깨울까 말까 망설이다가, 그냥 옆에 앉아 책이나 펼쳤다. 몇 장 넘기지도 못하고 어느새 자신도 꾸벅꾸벅 졸고 있었다. 눈을 떠보니 해가 뉘엿뉘엿 저물어 있었다. 둘이 나란히 낮잠을 자는 게, 이상하게 하루 중 가장 편안한 시간이 되어 있었다.</div>
+    <div class="document-body">어느 날 낮, 볕이 잘 드는 방석 위에서 {dog_name}가(이) 한나절 내내 잠들어 있는 걸 봤다. 예전엔 잠깐 눈만 붙이던 녀석이었는데, 요즘은 낮잠 시간이 부쩍 길어져 있었다. 깨울까 말까 망설이다가, 그냥 옆에 앉아 책이나 펼쳤다. 몇 장 넘기지도 못하고 어느새 나도 꾸벅꾸벅 졸고 있었다. 눈을 떠보니 해가 뉘엿뉘엿 저물어 있었다. 둘이 나란히 낮잠을 자는 게, 이상하게 하루 중 가장 편안한 시간이 되어 있었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames. A small senior adult Yorkshire Terrier dog (matching ari_adult_short.jpg reference: petite toy-breed proportions, only 2-3 kg, erect V-shaped ears, short trimmed fur, slightly faded silvery-grey coat with soft grey-white muzzle and gentle calm eyes, short docked tail). only an elderly Korean man's thin arms, hands, and torso visible, wearing a light summer short-sleeve shirt or linen top in muted colors, face and head completely out of frame (cropped out), strictly NO human face visible. an elderly man dozing in a chair by a sunlit window, an open book fallen onto his lap, the dog fast asleep on a nearby cushion in the same patch of sunlight, peaceful quiet light. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, inside a modest cozy modern detached house interior with warm light wooden floors, modern standing furniture, simple modern windows and furnishings, barefoot or in socks, strictly NOT a Hanok, NOT traditional style. Avoid: Hanok, traditional Korean tile roof, giwa, daecheong-maru, wooden lattice doors, human face, human head, visible facial features, apartment high-rise, text, signs, letters, words, oversized dog, borders, margins, photo, 3D render.
@@ -2570,10 +2570,10 @@ HTML :
 
 [clue_70]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : a1c33ed2-e0b1-4f85-a157-4821e8aeddd1
+variantId : e3734cf0-0d94-4209-91bc-5748df5933d2
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : a35a68df-82b3-4797-8841-3f15e1d9b94c
 유형 : 관찰
 단계 : 12살
 소모AP : 1
@@ -2607,10 +2607,10 @@ HTML :
 
 [clue_71]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 44317669-74e6-44db-b06e-d42698c4fdb2
+variantId : 94c561bf-5444-415e-9015-e39a9b4c8b3a
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : a35a68df-82b3-4797-8841-3f15e1d9b94c
 유형 : 관찰
 단계 : 12살
 소모AP : 1
@@ -2644,10 +2644,10 @@ HTML :
 
 [clue_72]
 이름 : 12월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 53b7c6f7-f39e-4129-99ab-54af0009862b
+variantId : cb6a7b3d-bd2c-4444-839d-b9155802612f
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : a35a68df-82b3-4797-8841-3f15e1d9b94c
 유형 : 관찰
 단계 : 12살
 소모AP : 1
@@ -2681,10 +2681,10 @@ HTML :
 
 [clue_73]
 이름 : 1월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 2e15a8d0-9b22-4c0b-abe6-f4aab731ec03
+variantId : 915ac2de-116c-485f-b719-b58d35e10999
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : c5f57eb4-6fda-4fa6-944e-1e60da4cd103
 유형 : 관찰
 단계 : 13살
 소모AP : 1
@@ -2718,10 +2718,10 @@ HTML :
 
 [clue_74]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 0f596a8d-b2cc-4f35-b392-5019615d0a9b
+variantId : 59f929c6-ea96-42f9-9b45-9e94c6543334
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : c5f57eb4-6fda-4fa6-944e-1e60da4cd103
 유형 : 관찰
 단계 : 13살
 소모AP : 1
@@ -2755,10 +2755,10 @@ HTML :
 
 [clue_75]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 89715fb0-2149-43ec-af4d-9c335cac14d1
+variantId : 64b9c1bf-72b0-4145-a3fb-381e9e46912a
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : c5f57eb4-6fda-4fa6-944e-1e60da4cd103
 유형 : 관찰
 단계 : 13살
 소모AP : 1
@@ -2792,10 +2792,10 @@ HTML :
 
 [clue_76]
 이름 : 6월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 1a90170a-3e95-4d1b-892b-59cad319155d
+variantId : 44ea6764-11e0-46b8-a226-656a74060c0c
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : c5f57eb4-6fda-4fa6-944e-1e60da4cd103
 유형 : 관찰
 단계 : 13살
 소모AP : 1
@@ -2829,10 +2829,10 @@ HTML :
 
 [clue_77]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : a63933b8-18cc-4189-b2ba-8ccc6fd9b526
+variantId : 5a23c1d1-d68a-4474-8df8-2a60d0b5458f
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : c5f57eb4-6fda-4fa6-944e-1e60da4cd103
 유형 : 관찰
 단계 : 13살
 소모AP : 1
@@ -2866,10 +2866,10 @@ HTML :
 
 [clue_78]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 4e69d257-071c-428e-acef-84bc4f9e5e67
+variantId : 18587652-ed75-42d0-8feb-5067dfe01c9a
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : c5f57eb4-6fda-4fa6-944e-1e60da4cd103
 유형 : 관찰
 단계 : 13살
 소모AP : 1
@@ -2903,10 +2903,10 @@ HTML :
 
 [clue_79]
 이름 : 2월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : b742c8a5-2221-40a1-b8fe-bbbc94c69e19
+variantId : cba73c72-bd78-462b-856d-006f041a473c
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 7ee17f78-9808-4c76-a270-882f50c7a91e
 유형 : 관찰
 단계 : 14살
 소모AP : 1
@@ -2940,10 +2940,10 @@ HTML :
 
 [clue_80]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 9706cd64-040e-410f-90d9-16eea5341e00
+variantId : b4455dfb-7dbe-4c1c-b9fa-e1f4e736d61b
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 7ee17f78-9808-4c76-a270-882f50c7a91e
 유형 : 관찰
 단계 : 14살
 소모AP : 1
@@ -2977,10 +2977,10 @@ HTML :
 
 [clue_81]
 이름 : 4월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 6b3fb019-7b6d-4d38-8730-9c73483bc602
+variantId : 783fa578-dae9-46c6-a376-94be8541e3d8
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 7ee17f78-9808-4c76-a270-882f50c7a91e
 유형 : 관찰
 단계 : 14살
 소모AP : 1
@@ -3014,10 +3014,10 @@ HTML :
 
 [clue_82]
 이름 : 6월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 2d14ca13-9f8d-4852-bf9e-aeb8f94deec2
+variantId : 3a513994-73c0-4226-8a0c-c275cdc84e8e
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 7ee17f78-9808-4c76-a270-882f50c7a91e
 유형 : 관찰
 단계 : 14살
 소모AP : 1
@@ -3051,10 +3051,10 @@ HTML :
 
 [clue_83]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : e624207f-50a8-4d7d-80cc-4f86c5fc9d53
+variantId : 4215b5c3-3095-4479-b2d4-2380ad5a3ee5
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 7ee17f78-9808-4c76-a270-882f50c7a91e
 유형 : 관찰
 단계 : 14살
 소모AP : 1
@@ -3088,10 +3088,10 @@ HTML :
 
 [clue_84]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : b8a15e86-4818-4177-9ec1-f665af2db4e7
+variantId : 3649466b-492d-489e-ac05-a50e64753405
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 7ee17f78-9808-4c76-a270-882f50c7a91e
 유형 : 관찰
 단계 : 14살
 소모AP : 1
@@ -3125,10 +3125,10 @@ HTML :
 
 [clue_85]
 이름 : 1월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : db16b738-9fa5-4f07-ab38-7ee938736ad5
+variantId : 4b4e7761-aa29-4fb8-bd08-092e3dec6d57
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 2f8754f8-cdb9-4639-ab89-346648c79665
 유형 : 관찰
 단계 : 15살
 소모AP : 1
@@ -3162,10 +3162,10 @@ HTML :
 
 [clue_86]
 이름 : 3월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : ad136598-3ab5-4b54-ae95-21488b912ebe
+variantId : 0d6d57bf-0c2f-484d-b91d-d8ed5c22a550
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 2f8754f8-cdb9-4639-ab89-346648c79665
 유형 : 관찰
 단계 : 15살
 소모AP : 1
@@ -3181,11 +3181,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 15살 3월 단서. 장면: 온종일 곁을 지키는 강아지.
 내용 :
-어느새 {dog_name}는(은) 하루 종일 곁을 떠나지 않는 게 당연한 일과가 되어 있었다. 화장실에 갈 때도 문 앞까지 따라와 기다렸고, 잠깐 마당에 나가도 창문 너머로 지켜보고 있었다. 밥그릇을 다 비우고 나서도, 먹으라고 챙겨주기 전까지는 절대 먼저 자리를 뜨지 않았다. 약 먹을 시간이 되면 어디선가 알아채고 먼저 다가와 앉기까지 했다. 처음엔 우연이겠거니 싶었는데, 몇 번을 겪고 나니 확실했다. 십몇 년 전, 이 녀석을 처음 데려왔을 땐 상상도 못 했던 모습이었다. 그때는 오히려 자신이 이 작은 것을 돌봐야 하는 쪽이었는데, 이제는 완전히 반대가 되어 있었다.
+어느새 {dog_name}는(은) 하루 종일 곁을 떠나지 않는 게 당연한 일과가 되어 있었다. 화장실에 갈 때도 문 앞까지 따라와 기다렸고, 잠깐 마당에 나가도 창문 너머로 지켜보고 있었다. 밥그릇을 다 비우고 나서도, 먹으라고 챙겨주기 전까지는 절대 먼저 자리를 뜨지 않았다. 약 먹을 시간이 되면 어디선가 알아채고 먼저 다가와 앉기까지 했다. 처음엔 우연이겠거니 싶었는데, 몇 번을 겪고 나니 확실했다. 십몇 년 전, 이 녀석을 처음 데려왔을 땐 상상도 못 했던 모습이었다. 그때는 오히려 내가 이 작은 것을 돌봐야 하는 쪽이었는데, 이제는 완전히 반대가 되어 있었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">어느새 {dog_name}는(은) 하루 종일 곁을 떠나지 않는 게 당연한 일과가 되어 있었다. 화장실에 갈 때도 문 앞까지 따라와 기다렸고, 잠깐 마당에 나가도 창문 너머로 지켜보고 있었다. 밥그릇을 다 비우고 나서도, 먹으라고 챙겨주기 전까지는 절대 먼저 자리를 뜨지 않았다. 약 먹을 시간이 되면 어디선가 알아채고 먼저 다가와 앉기까지 했다. 처음엔 우연이겠거니 싶었는데, 몇 번을 겪고 나니 확실했다. 십몇 년 전, 이 녀석을 처음 데려왔을 땐 상상도 못 했던 모습이었다. 그때는 오히려 자신이 이 작은 것을 돌봐야 하는 쪽이었는데, 이제는 완전히 반대가 되어 있었다.</div>
+    <div class="document-body">어느새 {dog_name}는(은) 하루 종일 곁을 떠나지 않는 게 당연한 일과가 되어 있었다. 화장실에 갈 때도 문 앞까지 따라와 기다렸고, 잠깐 마당에 나가도 창문 너머로 지켜보고 있었다. 밥그릇을 다 비우고 나서도, 먹으라고 챙겨주기 전까지는 절대 먼저 자리를 뜨지 않았다. 약 먹을 시간이 되면 어디선가 알아채고 먼저 다가와 앉기까지 했다. 처음엔 우연이겠거니 싶었는데, 몇 번을 겪고 나니 확실했다. 십몇 년 전, 이 녀석을 처음 데려왔을 땐 상상도 못 했던 모습이었다. 그때는 오히려 내가 이 작은 것을 돌봐야 하는 쪽이었는데, 이제는 완전히 반대가 되어 있었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames. A small senior adult Yorkshire Terrier dog (matching ari_adult_short.jpg reference: petite toy-breed proportions, only 2-3 kg, erect V-shaped ears, short trimmed fur, slightly faded silvery-grey coat with soft grey-white muzzle and gentle calm eyes, short docked tail). only an elderly Korean man's thin arms, hands, and torso visible, wearing a simple worn cardigan or light knit sweater in muted colors appropriate to the season, face and head completely out of frame (cropped out), strictly NO human face visible. the dog lying pressed against a closed bathroom door waiting, then following close behind an elderly man's slow footsteps down a hallway, warm indoor light. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, inside a modest cozy modern detached house interior with warm light wooden floors, modern standing furniture, simple modern windows and furnishings, barefoot or in socks, strictly NOT a Hanok, NOT traditional style. Avoid: Hanok, traditional Korean tile roof, giwa, daecheong-maru, wooden lattice doors, human face, human head, visible facial features, apartment high-rise, text, signs, letters, words, oversized dog, borders, margins, photo, 3D render.
@@ -3199,10 +3199,10 @@ HTML :
 
 [clue_87]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : a7567435-7c88-48bb-b64b-577c1932d1a9
+variantId : ae1d4939-85a5-4c95-975e-d865ce241c89
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 2f8754f8-cdb9-4639-ab89-346648c79665
 유형 : 관찰
 단계 : 15살
 소모AP : 1
@@ -3218,11 +3218,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 15살 5월 단서. 장면: 죄책감 섞인 간식.
 내용 :
-장에 들렀다가, 평소라면 거들떠보지도 않았을 비싼 간식 코너 앞에 한참을 서 있었다. 이것저것 골라 담다 보니, 어느새 양손 가득이었다. 계산하고 나오면서 문득 웃음이 났다. 처음 이 녀석을 떠안았을 땐 밥값도 아까워했던 게 자신이었다. 그 시절 못 해준 것들이 뒤늦게 자꾸 눈에 밟혔다. 집에 돌아와 간식을 펼쳐놓자, {dog_name}는(은) 뭐가 이렇게 많냐는 듯 눈을 동그랗게 뜨고 이것저것 냄새부터 맡았다. 미안한 마음을 이렇게라도 갚고 싶었지만, 정작 {dog_name}에게는 그런 게 하나도 중요하지 않아 보였다. 그냥 곁에 있어주는 것만으로 충분하다는 듯, 간식보다 무릎 위로 먼저 올라왔다.
+장에 들렀다가, 평소라면 거들떠보지도 않았을 비싼 간식 코너 앞에 한참을 서 있었다. 이것저것 골라 담다 보니, 어느새 양손 가득이었다. 계산하고 나오면서 문득 웃음이 났다. 처음 이 녀석을 떠안았을 땐 밥값도 아까워했던 게 나였다. 그 시절 못 해준 것들이 뒤늦게 자꾸 눈에 밟혔다. 집에 돌아와 간식을 펼쳐놓자, {dog_name}는(은) 뭐가 이렇게 많냐는 듯 눈을 동그랗게 뜨고 이것저것 냄새부터 맡았다. 미안한 마음을 이렇게라도 갚고 싶었지만, 정작 {dog_name}에게는 그런 게 하나도 중요하지 않아 보였다. 그냥 곁에 있어주는 것만으로 충분하다는 듯, 간식보다 무릎 위로 먼저 올라왔다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">장에 들렀다가, 평소라면 거들떠보지도 않았을 비싼 간식 코너 앞에 한참을 서 있었다. 이것저것 골라 담다 보니, 어느새 양손 가득이었다. 계산하고 나오면서 문득 웃음이 났다. 처음 이 녀석을 떠안았을 땐 밥값도 아까워했던 게 자신이었다. 그 시절 못 해준 것들이 뒤늦게 자꾸 눈에 밟혔다. 집에 돌아와 간식을 펼쳐놓자, {dog_name}는(은) 뭐가 이렇게 많냐는 듯 눈을 동그랗게 뜨고 이것저것 냄새부터 맡았다. 미안한 마음을 이렇게라도 갚고 싶었지만, 정작 {dog_name}에게는 그런 게 하나도 중요하지 않아 보였다. 그냥 곁에 있어주는 것만으로 충분하다는 듯, 간식보다 무릎 위로 먼저 올라왔다.</div>
+    <div class="document-body">장에 들렀다가, 평소라면 거들떠보지도 않았을 비싼 간식 코너 앞에 한참을 서 있었다. 이것저것 골라 담다 보니, 어느새 양손 가득이었다. 계산하고 나오면서 문득 웃음이 났다. 처음 이 녀석을 떠안았을 땐 밥값도 아까워했던 게 나였다. 그 시절 못 해준 것들이 뒤늦게 자꾸 눈에 밟혔다. 집에 돌아와 간식을 펼쳐놓자, {dog_name}는(은) 뭐가 이렇게 많냐는 듯 눈을 동그랗게 뜨고 이것저것 냄새부터 맡았다. 미안한 마음을 이렇게라도 갚고 싶었지만, 정작 {dog_name}에게는 그런 게 하나도 중요하지 않아 보였다. 그냥 곁에 있어주는 것만으로 충분하다는 듯, 간식보다 무릎 위로 먼저 올라왔다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames. A small senior adult Yorkshire Terrier dog (matching ari_adult_short.jpg reference: petite toy-breed proportions, only 2-3 kg, erect V-shaped ears, short trimmed fur, slightly faded silvery-grey coat with soft grey-white muzzle and gentle calm eyes, short docked tail). only an elderly Korean man's thin arms, hands, and torso visible, wearing a simple worn cardigan or light knit sweater in muted colors appropriate to the season, face and head completely out of frame (cropped out), strictly NO human face visible. a kitchen counter covered with an unusually large pile of expensive dog treats and toys, the dog more interested in climbing into an elderly man's lap than the treats themselves, warm evening light. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, inside a modest cozy modern detached house interior with warm light wooden floors, modern standing furniture, simple modern windows and furnishings, barefoot or in socks, strictly NOT a Hanok, NOT traditional style. Avoid: Hanok, traditional Korean tile roof, giwa, daecheong-maru, wooden lattice doors, human face, human head, visible facial features, apartment high-rise, text, signs, letters, words, oversized dog, borders, margins, photo, 3D render.
@@ -3236,10 +3236,10 @@ HTML :
 
 [clue_88]
 이름 : 7월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 1653df73-01d5-4c45-9799-33d30dcd2dc6
+variantId : df03091e-ce11-444d-9d06-d85dd43eb032
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 2f8754f8-cdb9-4639-ab89-346648c79665
 유형 : 관찰
 단계 : 15살
 소모AP : 1
@@ -3273,10 +3273,10 @@ HTML :
 
 [clue_89]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : a6a05e8c-142d-4b3d-9786-8f1d02e1c64e
+variantId : 523753fb-6af9-4d22-8700-095ddece123e
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 2f8754f8-cdb9-4639-ab89-346648c79665
 유형 : 관찰
 단계 : 15살
 소모AP : 1
@@ -3310,10 +3310,10 @@ HTML :
 
 [clue_90]
 이름 : 12월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 91e55370-da25-41ea-8c4d-4deb3d257961
+variantId : 6b0a2ac8-7ff7-4126-88e3-b59e26b02e1b
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 2f8754f8-cdb9-4639-ab89-346648c79665
 유형 : 관찰
 단계 : 15살
 소모AP : 1
@@ -3347,10 +3347,10 @@ HTML :
 
 [clue_91]
 이름 : 2월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 0bd50ec4-5af3-4b6c-923f-8c30dbdad75d
+variantId : c3c13877-f699-4173-bc70-e527e70b78d6
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 441b2657-8016-4a53-88be-fe860ecbc5ec
 유형 : 관찰
 단계 : 16살
 소모AP : 1
@@ -3384,10 +3384,10 @@ HTML :
 
 [clue_92]
 이름 : 5월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 50bad2bf-64cd-4b80-835e-ebfaadad60dd
+variantId : 78625050-80eb-4bf5-842d-58a3500eaa2e
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 441b2657-8016-4a53-88be-fe860ecbc5ec
 유형 : 관찰
 단계 : 16살
 소모AP : 1
@@ -3403,11 +3403,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 16살 5월 단서. 장면: 1층으로 옮긴 침실.
 내용 :
-바뀐 약도 그리 큰 효과는 없었다. 몸은 조금씩, 그러나 분명하게 예전만 못해지고 있었다. 계단을 오르내리는 일조차 힘에 부쳐, 이제는 아예 1층으로 침실을 옮겼다. 그 변화를 {dog_name}도 금세 알아챈 듯, 새 잠자리 옆에 자기 자리를 다시 만들었다. 어느 날은 한나절 넘게 정신을 차리지 못해 가족처럼 지내던 이웃이 대신 병원에 데려다준 일도 있었다. 그런 날이 반복될수록, 스스로도 이제 어느 정도인지 조금씩 실감이 났다. 그래도 끼니때마다 {dog_name}의 밥그릇을 채워주는 것만큼은, 힘들어도 손수 해내려 애썼다. 그 작은 일과 하나가, 아직은 자신이 이 녀석을 돌보고 있다는 걸 확인하는 방법이었다.
+바뀐 약도 그리 큰 효과는 없었다. 몸은 조금씩, 그러나 분명하게 예전만 못해지고 있었다. 계단을 오르내리는 일조차 힘에 부쳐, 이제는 아예 1층으로 침실을 옮겼다. 그 변화를 {dog_name}도 금세 알아챈 듯, 새 잠자리 옆에 자기 자리를 다시 만들었다. 어느 날은 한나절 넘게 정신을 차리지 못해 가족처럼 지내던 이웃이 대신 병원에 데려다준 일도 있었다. 그런 날이 반복될수록, 스스로도 이제 어느 정도인지 조금씩 실감이 났다. 그래도 끼니때마다 {dog_name}의 밥그릇을 채워주는 것만큼은, 힘들어도 손수 해내려 애썼다. 그 작은 일과 하나가, 아직은 내가 이 녀석을 돌보고 있다는 걸 확인하는 방법이었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">바뀐 약도 그리 큰 효과는 없었다. 몸은 조금씩, 그러나 분명하게 예전만 못해지고 있었다. 계단을 오르내리는 일조차 힘에 부쳐, 이제는 아예 1층으로 침실을 옮겼다. 그 변화를 {dog_name}도 금세 알아챈 듯, 새 잠자리 옆에 자기 자리를 다시 만들었다. 어느 날은 한나절 넘게 정신을 차리지 못해 가족처럼 지내던 이웃이 대신 병원에 데려다준 일도 있었다. 그런 날이 반복될수록, 스스로도 이제 어느 정도인지 조금씩 실감이 났다. 그래도 끼니때마다 {dog_name}의 밥그릇을 채워주는 것만큼은, 힘들어도 손수 해내려 애썼다. 그 작은 일과 하나가, 아직은 자신이 이 녀석을 돌보고 있다는 걸 확인하는 방법이었다.</div>
+    <div class="document-body">바뀐 약도 그리 큰 효과는 없었다. 몸은 조금씩, 그러나 분명하게 예전만 못해지고 있었다. 계단을 오르내리는 일조차 힘에 부쳐, 이제는 아예 1층으로 침실을 옮겼다. 그 변화를 {dog_name}도 금세 알아챈 듯, 새 잠자리 옆에 자기 자리를 다시 만들었다. 어느 날은 한나절 넘게 정신을 차리지 못해 가족처럼 지내던 이웃이 대신 병원에 데려다준 일도 있었다. 그런 날이 반복될수록, 스스로도 이제 어느 정도인지 조금씩 실감이 났다. 그래도 끼니때마다 {dog_name}의 밥그릇을 채워주는 것만큼은, 힘들어도 손수 해내려 애썼다. 그 작은 일과 하나가, 아직은 내가 이 녀석을 돌보고 있다는 걸 확인하는 방법이었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames. A small senior adult Yorkshire Terrier dog (matching ari_adult_short.jpg reference: petite toy-breed proportions, only 2-3 kg, erect V-shaped ears, short trimmed fur, slightly faded silvery-grey coat with soft grey-white muzzle and gentle calm eyes, short docked tail). a simple bed newly set up on the ground floor of the house, the dog already curled into a new spot beside it, morning light through a window. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, inside a modest cozy modern detached house interior with warm light wooden floors, modern standing furniture, simple modern windows and furnishings, barefoot or in socks, strictly NOT a Hanok, NOT traditional style. Avoid: Hanok, traditional Korean tile roof, giwa, daecheong-maru, wooden lattice doors, human face, human head, visible facial features, apartment high-rise, text, signs, letters, words, oversized dog, borders, margins, photo, 3D render.
@@ -3421,10 +3421,10 @@ HTML :
 
 [clue_93]
 이름 : 8월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 81642aeb-aca5-4984-93ec-b08425928087
+variantId : 641b1ceb-ba41-472c-9aef-d0e948ebecc6
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 441b2657-8016-4a53-88be-fe860ecbc5ec
 유형 : 관찰
 단계 : 16살
 소모AP : 1
@@ -3458,10 +3458,10 @@ HTML :
 
 [clue_94]
 이름 : 9월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : f95daab2-a227-4fcb-95d0-d0d23079d902
+variantId : 0b053727-d3cf-4a59-863b-7e45558912b3
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 441b2657-8016-4a53-88be-fe860ecbc5ec
 유형 : 관찰
 단계 : 16살
 소모AP : 1
@@ -3495,10 +3495,10 @@ HTML :
 
 [clue_95]
 이름 : 10월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 2ee404c2-4d5a-4360-a00a-e2ed4e85d410
+variantId : 9d472d5e-0d5a-4dea-99bd-c954a5079c08
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 441b2657-8016-4a53-88be-fe860ecbc5ec
 유형 : 관찰
 단계 : 16살
 소모AP : 1
@@ -3532,10 +3532,10 @@ HTML :
 
 [clue_96]
 이름 : 11월
-clueId : (미정 — DB 등록 시 생성)
-variantId : (미정 — DB 등록 시 생성)
+clueId : 2887faf1-6256-4251-b1e8-ac99d388fbc5
+variantId : b5782854-79fc-42e7-9dfd-5301c3c79939
 이미지 : (미정 — 이미지 생성·업로드 후 기입)
-groupId : (미정 — DB 등록 시 생성)
+groupId : 441b2657-8016-4a53-88be-fe860ecbc5ec
 유형 : 관찰
 단계 : 16살
 소모AP : 1
@@ -3551,11 +3551,11 @@ groupId : (미정 — DB 등록 시 생성)
 관련 : 공통
 의도 : 16살 11월 단서. 장면: 마지막 밤.
 내용 :
-요양보호사가 다녀간 지 얼마 안 된 저녁이었다. 그날따라 유난히 숨쉬기가 힘들었다. {dog_name}를(을) 곁에 눕혀 달라고 겨우 손짓으로 부탁했다. {dog_name}는(은) 조심스레 다가와 품 안에 자리를 잡고 웅크렸다. 작은 심장이 뛰는 소리가 손끝에 느껴졌다. 오랫동안 하고 싶었던 말들을, 나직하게 하나씩 건넸다. 데려와줘서 고마웠다고, 원치 않게 떠맡았던 그 시절이 미안했다고, 그리고 그동안 정말 행복했다고. {dog_name}는(은) 가만히 그 목소리에 귀를 기울이듯 움직이지 않았다. 어느 순간부터 숨소리가 점점 느려지는 게 스스로도 느껴졌다. 마지막으로 {dog_name}의 머리를 한 번 더 쓰다듬었다. 그렇게 온기를 나누다가, 조용히 눈을 감았다. ```
+요양보호사가 다녀간 지 얼마 안 된 저녁이었다. 그날따라 유난히 숨쉬기가 힘들었다. {dog_name}를(을) 곁에 눕혀 달라고 겨우 손짓으로 부탁했다. {dog_name}는(은) 조심스레 다가와 품 안에 자리를 잡고 웅크렸다. 작은 심장이 뛰는 소리가 손끝에 느껴졌다. 오랫동안 하고 싶었던 말들을, 나직하게 하나씩 건넸다. 데려와줘서 고마웠다고, 원치 않게 떠맡았던 그 시절이 미안했다고, 그리고 그동안 정말 행복했다고. {dog_name}는(은) 가만히 그 목소리에 귀를 기울이듯 움직이지 않았다. 어느 순간부터 숨소리가 점점 느려지는 게 스스로도 느껴졌다. 마지막으로 {dog_name}의 머리를 한 번 더 쓰다듬었다. 그렇게 온기를 나누다가, 조용히 눈을 감았다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">요양보호사가 다녀간 지 얼마 안 된 저녁이었다. 그날따라 유난히 숨쉬기가 힘들었다. {dog_name}를(을) 곁에 눕혀 달라고 겨우 손짓으로 부탁했다. {dog_name}는(은) 조심스레 다가와 품 안에 자리를 잡고 웅크렸다. 작은 심장이 뛰는 소리가 손끝에 느껴졌다. 오랫동안 하고 싶었던 말들을, 나직하게 하나씩 건넸다. 데려와줘서 고마웠다고, 원치 않게 떠맡았던 그 시절이 미안했다고, 그리고 그동안 정말 행복했다고. {dog_name}는(은) 가만히 그 목소리에 귀를 기울이듯 움직이지 않았다. 어느 순간부터 숨소리가 점점 느려지는 게 스스로도 느껴졌다. 마지막으로 {dog_name}의 머리를 한 번 더 쓰다듬었다. 그렇게 온기를 나누다가, 조용히 눈을 감았다. ```</div>
+    <div class="document-body">요양보호사가 다녀간 지 얼마 안 된 저녁이었다. 그날따라 유난히 숨쉬기가 힘들었다. {dog_name}를(을) 곁에 눕혀 달라고 겨우 손짓으로 부탁했다. {dog_name}는(은) 조심스레 다가와 품 안에 자리를 잡고 웅크렸다. 작은 심장이 뛰는 소리가 손끝에 느껴졌다. 오랫동안 하고 싶었던 말들을, 나직하게 하나씩 건넸다. 데려와줘서 고마웠다고, 원치 않게 떠맡았던 그 시절이 미안했다고, 그리고 그동안 정말 행복했다고. {dog_name}는(은) 가만히 그 목소리에 귀를 기울이듯 움직이지 않았다. 어느 순간부터 숨소리가 점점 느려지는 게 스스로도 느껴졌다. 마지막으로 {dog_name}의 머리를 한 번 더 쓰다듬었다. 그렇게 온기를 나누다가, 조용히 눈을 감았다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames. A small senior adult Yorkshire Terrier dog (matching ari_adult_short.jpg reference: petite toy-breed proportions, only 2-3 kg, erect V-shaped ears, short trimmed fur, slightly faded silvery-grey coat with soft grey-white muzzle and gentle calm eyes, short docked tail). only an elderly Korean man's thin arms, hands, and torso visible, wearing a simple worn cardigan or light knit sweater in muted colors appropriate to the season, face and head completely out of frame (cropped out), strictly NO human face visible. a dim quiet bedroom at night, an elderly man lying in bed with the dog gently cradled against his chest, both very still, a single soft warm light source, deeply peaceful and tender mood. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, inside a modest cozy modern detached house interior with warm light wooden floors, modern standing furniture, simple modern windows and furnishings, barefoot or in socks, strictly NOT a Hanok, NOT traditional style. Avoid: Hanok, traditional Korean tile roof, giwa, daecheong-maru, wooden lattice doors, human face, human head, visible facial features, apartment high-rise, text, signs, letters, words, oversized dog, borders, margins, photo, 3D render.
