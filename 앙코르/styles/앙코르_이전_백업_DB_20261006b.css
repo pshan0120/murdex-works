@@ -25,6 +25,12 @@
     border-radius: 12px;
 }
 
+/* 엔딩 제목("언젠가는") 아래 본문 카드가 제목에 너무 붙어 보여서(제목 영역의 아래 여백 16px뿐), 이 작품의 엔딩 본문 카드를 아래로 띄운다.
+   엔딩 카드 id(ending-<ending_id>)로 한정해 단서·소개 등 다른 곳의 .story-content에는 영향이 없다. */
+#ending-0dfcaf28-b63e-4a69-a7ed-1884be415f1f .story-content {
+    margin-top: 1.75rem;
+}
+
 /* 엔딩의 일기 위젯(iframe)은 본문 카드의 안쪽 패딩에 갇혀 글이 들어갈 가로 폭이 좁아져서, 카드 좌우 끝까지 넓힌다.
    (위젯 안쪽에 자체 좌우 여백이 있다.) 둥근 모서리는 iframe 뒤 배경색이 비쳐 가장자리에 옅은 선처럼 보이므로 없앤다. */
 .story-content iframe[src*="/tools/encore/diary-story"] {
