@@ -11,7 +11,7 @@ StepID : fd397183-2b31-4a50-b246-17b54f29b069
 INVESTIGATION
 
 4. 예상 소요 시간
-10분
+5분
 
 5. 자동 진행 여부
 N
@@ -23,20 +23,22 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1791268329/murdex/images/7169
 # Suno Prompt: Investigative X-Files style ambient score, soft analog synth arpeggio, subtle ticking clock percussion, damp coastal atmosphere with faint distant surf, faint dissonant strings, quiet unease, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
 
 7. 지급 AP
-사립탐정 베일라 : 0
-FBI 수사관 마커스 : 0
+사립탐정 베일라 : 6
+FBI 수사관 마커스 : 6
 
 8. 단계 설명
 
 <div class="story-content">
-  <div class="section-title">1. 단계 안내</div>
-  <p>
-    1. 단서 수령: 이번 단계의 단서가 단서함에 자동으로 지급됩니다. 새 지침이 갱신되었으니 <span class="highlight">내 역할</span>을 먼저 확인하세요.<br />
-    2. 단서 조사: 단서를 하나씩 열어 확인하십시오. 조사한 단서는 본인만 확인할 수 있으며, 건네주거나 보드에 공개할 수 없습니다. 단서의 제목만은 서로에게 공개됩니다.<br />
-    3. 암호 입력: 상대에게서 들은 암호가 있거나 스스로 추리한 암호가 있다면, 뒷면으로 놓인 단서에 입력해 열어 보세요.<br />
-    4. 통화 준비: 조사 시간이 끝나갈 무렵에는 2차 추리(통화)에서 전달할 내용을 정리해 두세요.<br />
-    5. 단계 완료: 조사가 충분히 마무리되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 2차 추리(통화) 단계로 진행하십시오.
-  </p>
+  <div class="section-title">1. 단서 조사</div>
+  <p>새 지침이 갱신되었으니 <span class="highlight">내 역할</span>을 먼저 확인하고, 게임보드에서 단서를 하나씩 조사하십시오. 단서 하나를 조사할 때마다 1AP를 쓰며, 이번 단계에는 모든 단서를 조사할 수 있는 만큼 AP가 주어집니다. 조사한 단서는 <strong>내 단서</strong>에서 다시 볼 수 있습니다.</p>
+  <div class="section-title">2. 비밀코드</div>
+  <p>뒷면으로 놓인 단서는 비밀코드를 정확히 입력하면 조사할 수 있습니다.</p>
+  <div class="section-title">3. 조사 시간에는 말을 아끼기</div>
+  <p>각자 자신의 단서 조사에 집중해 주세요. 게임이 강제하는 규칙은 아니지만, 상대가 어디까지 알아냈는지 모르는 채로 조사하는 것이 이 작품의 묘미입니다. 대화는 추리 단계에서 나눕니다.</p>
+  <div class="section-title">4. 정보 공유와 추리</div>
+  <p>다음 단계(2차 추리)에서는 서로 조사한 정보를 말로 공유하고, 그것을 바탕으로 함께 추리하게 됩니다. 조사 시간이 끝나갈 무렵에는 공유할 내용을 정리해 두세요.</p>
+  <div class="section-title">5. 다음 단계 안내</div>
+  <p>조사가 충분히 마무리되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계(2차 추리)로 진행하십시오.</p>
 </div>
 
 9. 대본 관리 (구조화, DB 입력용)

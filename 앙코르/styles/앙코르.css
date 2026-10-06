@@ -220,6 +220,21 @@
     background: linear-gradient(90deg, transparent, #E3A0AC, transparent);
 }
 
+/* 제목 바로 아래에 두는 한 줄 부제. 제목의 아래 여백(3.5rem)을 부제가 있을 때만 줄여 둘이 붙어 보이게 한다. */
+.intro-subtitle {
+    font-family: "Gowun Batang", serif;
+    font-size: 1rem;
+    color: #E3A0AC;
+    text-align: center;
+    letter-spacing: 0.04em;
+    margin-bottom: 2.6rem;
+    word-break: keep-all;
+}
+
+.intro-title-cinematic:has(+ .intro-subtitle) {
+    margin-bottom: 1.4rem;
+}
+
 .intro-paragraph {
     font-size: 1.02rem;
     line-height: 1.9;
