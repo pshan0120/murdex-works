@@ -14,7 +14,10 @@
 * 강아지는 이 몽타주에 등장하지 않는다(강아지는 1살 3월 단서부터 등장).
 * 캡션 표기: 화면 하단 자막 1~2줄. 이미지 안에는 글자를 넣지 않는다.
 * intro_cutscenes 필드 매핑: 각 컷 = {id, type, caption, mediaUrl, durationSeconds, autoPlay}.
-  durationSeconds는 미정(제안 5~6초, 마지막 10번 컷은 7초 정도로 여운). 이미지 URL은 생성·업로드 후 기입.
+  durationSeconds는 6초, 자막이 긴 8번 컷과 여운을 주는 10번 컷만 7초로 등록했다.
+* 등록 현황(2026-10-07): 프롤로그 몽타주 10컷은 `murdex-api/scripts/register_encore_prologue_cutscenes.py`로 업로드해 프롤로그 단계(순서 1)의
+  intro_cutscenes에 등록 완료(autoPlay=false, 등록된 URL 목록은 `images/prologue_intro_cutscenes.json`). 1살~16살 단계별 컷씬 16컷도
+  등록 완료(2026-10-07, `scripts/register_encore_stage_cutscenes.py`, 5초/컷, autoPlay=false, 목록 `images/stage_intro_cutscenes.json`).
 
 공통 접두: Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge.
 공통 접미: warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older detached house or humble rented room interiors, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs in the image. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
@@ -34,10 +37,11 @@
 * 자막:
 여름 골목 어귀, 우연히 마주친 두 사람의 눈이 마주쳤다.
 
-* 이미지 프롬프트:
-{공통 접두} A summer afternoon at the mouth of a quiet residential alley, dappled sunlight through leaves. A Korean man in his early twenties with short neat black hair in a plain collared shirt and a Korean woman in her early twenties with simple shoulder-length black hair in plain modest clothing have just rounded the corner and stopped, their eyes meeting across a few steps of distance, both faces clearly visible with shy surprised expressions. Modest old brick walls and a small hanging laundry line in the background. {공통 접미}
+* 이미지 프롬프트 (기준 캐릭터 생성용):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A summer afternoon at the mouth of a quiet residential alley, dappled sunlight through leaves. A Korean man in his early twenties with short neat black hair, ordinary and unremarkable appearance, gentle and shy expression, in a plain short-sleeve collared shirt, and a Korean woman in her early twenties with simple shoulder-length straight black hair and warm gentle expression in plain modest clothing, having just rounded the corner and stopped, their eyes meeting across a few steps of distance, both faces clearly visible with shy surprised expressions. Modest old brick walls and a small hanging laundry line in the background. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older residential alley. Strictly NO text, NO letters, NO words, NO signs in the image. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷1
+* (제작 팁) 이 컷의 완성 이미지를 이후 컷들(컷 2~5) 생성 시 레퍼런스 이미지로 첨부합니다.
 
 ========================================
 [컷 2]
@@ -45,8 +49,8 @@
 * 자막:
 많은 걸 갖추진 못했지만, 두 사람에겐 그걸로 충분한 날이었다.
 
-* 이미지 프롬프트:
-{공통 접두} Inside a very small humble rented room, a Korean man and a Korean woman both in their mid-twenties sit on the floor at a low round table sharing a single modest meal of simple side dishes and a pot of noodles, laughing softly at each other, faces clearly visible and content. Sparse furnishings, a bare bulb glowing warmly, a folded blanket in the corner. {공통 접미}
+* 이미지 프롬프트 (컷 1 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep only the facial identity and watercolor art style of the man and woman from the reference image, but change their outfits and hairstyle completely to casual indoor domestic homewear. Inside a very small humble rented room, the Korean man wearing a loose simple cotton t-shirt and the Korean woman with her hair loosely tied in a low ponytail wearing comfortable house clothes, both in their mid-twenties, sit on the floor at a low round table sharing a single modest meal of simple side dishes and a pot of noodles, laughing softly at each other, faces clearly visible and content. Sparse furnishings, a bare bulb glowing warmly, a folded blanket in the corner. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest humble rented room interior. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷2
 
@@ -56,8 +60,8 @@
 * 자막:
 낡은 집이었지만, 함께 벽지를 바르고 나니 그럴듯한 보금자리가 되었다.
 
-* 이미지 프롬프트:
-{공통 접두} Inside an old worn single-family house room being renovated, a Korean man and a Korean woman both around twenty-eight stand side by side on a folding step stool and floor, smoothing a sheet of fresh floral wallpaper onto the wall together, wallpaper paste bucket and brushes on newspaper on the floor, faces clearly visible with pleased tired smiles, afternoon light through a bare window. {공통 접미}
+* 이미지 프롬프트 (컷 1 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep only the facial identity and watercolor art style of the man and woman from the reference image, but change their outfits and hairstyle completely into practical dusty renovation work clothes. Inside an old worn single-family house room being renovated, the Korean man in a worn work shirt with sleeves rolled up and the Korean woman with her hair tied up in a practical bun wearing an apron, both around twenty-eight, stand side by side on a folding step stool and floor, smoothing a sheet of fresh floral wallpaper onto the wall together, wallpaper paste bucket and brushes on newspaper on the floor, faces clearly visible with pleased tired smiles, afternoon light through a bare window. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older house interior. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷3
 
@@ -67,8 +71,8 @@
 * 자막:
 특별할 것 없는 저녁이었다. 마주 앉아 오늘 있었던 일을 나누는 것으로 충분했다.
 
-* 이미지 프롬프트:
-{공통 접두} An ordinary evening in a modest kitchen-dining area, a Korean man and a Korean woman both in their mid-thirties sit facing each other across a small dining table with two chairs, a simple home-cooked dinner between them, talking and listening to each other with calm affectionate expressions, faces clearly visible, warm pendant lamp light. {공통 접미}
+* 이미지 프롬프트 (컷 1 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep only the facial identity and watercolor art style of the man and woman from the reference image, but age them slightly to mid-thirties and change their outfits and hairstyle completely into cozy evening everyday clothes. An ordinary evening in a modest kitchen-dining area, the Korean man wearing a casual knit vest over a plain shirt and the Korean woman with her hair in a soft half-up hairstyle wearing a modest cardigan, both in their mid-thirties, sit facing each other across a small dining table with two chairs, a simple home-cooked dinner between them, talking and listening to each other with calm affectionate expressions, faces clearly visible, warm pendant lamp light. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older home dining area. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷4
 
@@ -78,8 +82,8 @@
 * 자막:
 계절이 몇 번 바뀌는 동안에도, 식탁의 의자 수는 변하지 않았다.
 
-* 이미지 프롬프트:
-{공통 접두} A modest dining table with exactly two wooden chairs at the center of the frame in a plain home kitchen, a Korean man and a Korean woman both in their mid-forties seated at it, their faces clearly visible and calm; through the window beside the table the same garden view is shown in four soft seasonal bands left to right (spring blossoms, green summer leaves, autumn foliage, winter bare branches) to suggest the passing of seasons, no children's belongings anywhere in the room, only the two chairs. {공통 접미}
+* 이미지 프롬프트 (컷 1 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep only the facial identity and watercolor art style of the man and woman from the reference image, but age them naturally to their mid-forties and change their outfits and hairstyle completely into mature simple domestic clothing. A modest dining table with exactly two wooden chairs at the center of the frame in a plain home kitchen, the Korean man in a dark muted sweater and the Korean woman with a neat short haircut in a plain knit blouse, both in their mid-forties, seated at it, their faces clearly visible and calm; through the window beside the table the same garden view is shown in four soft seasonal bands left to right (spring blossoms, green summer leaves, autumn foliage, winter bare branches) to suggest the passing of seasons, no children's belongings anywhere in the room, only the two chairs. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older house interior. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷5
 * (제작 메모) 아이 없이 둘만의 삶이었다는 것을 "의자 두 개, 아이 물건 없음"으로만 암시한다. 설명 문구·자막에 언급하지 않는다.
@@ -90,10 +94,11 @@
 * 자막:
 머리가 희끗해지는 동안에도, 아침마다 나란히 차를 마시는 습관만은 그대로였다.
 
-* 이미지 프롬프트:
-{공통 접두} Early morning light in a modest sunlit living room, a Korean man and a Korean woman both in their early fifties with hair noticeably streaked with grey at the temples sit side by side on a floor cushion by the window, each holding a small teacup, calm familiar expressions, faces clearly visible, a small teapot between them, soft steam rising. {공통 접미}
+* 이미지 프롬프트 (컷 1 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep the facial identity and watercolor art style of the man and woman from the reference image, but age them noticeably to their early fifties: their hair noticeably streaked with grey at the temples, mild gentle wrinkles around eyes, changing their outfits completely into comfortable morning loungewear cardigans. Early morning light in a modest sunlit living room, the Korean man and Korean woman both in their early fifties sit side by side on a floor cushion by the window, each holding a small teacup, calm familiar expressions, faces clearly visible, a small teapot between them, soft steam rising. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older house living room. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷6
+* (제작 팁) 이 컷(컷 6)의 결과물을 이후 60대 단계(컷 7~8)의 새로운 레퍼런스 이미지로 첨부하면 노화 표현이 훨씬 자연스럽습니다.
 
 ========================================
 [컷 7]
@@ -101,8 +106,8 @@
 * 자막:
 어느 날부터, 아내의 걸음이 눈에 띄게 느려졌다.
 
-* 이미지 프롬프트:
-{공통 접두} A quiet residential street in late afternoon, a Korean couple in their early sixties walking home; the woman with neatly tied grey hair walks a few steps behind and slightly slower, while the man with grey hair turns halfway back with a patient gentle look, waiting for her, both faces visible. Simple cardigans, warm low sun. {공통 접미}
+* 이미지 프롬프트 (컷 6 또는 컷 1 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep the facial identity and watercolor art style from the reference image, but age them into their early sixties: short grey hair for the man and neatly tied grey hair for the woman, gentle wrinkles, changing their outfits to simple autumn walking cardigans. A quiet residential street in late afternoon, the Korean couple in their early sixties walking home; the woman walks a few steps behind and slightly slower, while the man turns halfway back with a patient gentle look, waiting for her, both faces visible. Simple worn clothes, warm low sunset. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest neighborhood street. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷7
 
@@ -112,8 +117,8 @@
 * 자막:
 병원 복도에서 보내는 시간이 늘어갔다. 손을 잡아주는 것 말고는, 해줄 수 있는 게 많지 않았다.
 
-* 이미지 프롬프트:
-{공통 접두} A long hospital corridor with cool pale light, a Korean man in his mid-sixties in a worn cardigan sits on a bench beside a Korean woman in her mid-sixties in a wheelchair who is visibly thinner and pale, he holds her hand in both of his, both faces visible with quiet weary calm expressions, other people blurred far in the background. Slightly subdued, muted colors for this scene. {공통 접미}
+* 이미지 프롬프트 (컷 6 또는 컷 1 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep the facial identity and watercolor art style from the reference image, but show the couple in their mid-sixties: the woman is frail, visibly thin and pale in a patient gown and wheelchair with soft grey hair, the man has short grey hair and gentle weary wrinkles wearing a worn loose cardigan. A long hospital corridor with cool pale light, the Korean man sits on a wooden bench beside his wife in a wheelchair, holding her fragile hand in both of his, both faces visible with quiet weary calm expressions, other people blurred far in the background. Subdued, slightly muted colors for this poignant scene. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette, thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷8
 
@@ -123,8 +128,8 @@
 * 자막:
 그해 겨울, 침대 옆자리가 비었다.
 
-* 이미지 프롬프트:
-{공통 접두} A modest bedroom on a quiet winter morning, soft grey light and faint snow visible through the window, a neatly made empty side of a double bed with a folded pillow, and a Korean man in his mid-sixties in a cardigan sitting alone on the edge of the other side, seen in quiet profile looking at the empty half, face partly visible and still. {공통 접미}
+* 이미지 프롬프트 (남편 레퍼런스 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep only the facial identity and watercolor art style of the Korean man from the reference image, showing him in his mid-sixties: short grey hair, thin build, quiet sorrowful stillness, wearing a worn dark cardigan over pajamas. A modest bedroom on a quiet winter morning, soft grey light and faint snow visible through the window, a neatly made empty side of a double bed with a folded pillow, and the Korean man in his mid-sixties sitting alone on the edge of the other side, seen in quiet profile looking at the empty half, face partly visible and still. The woman is NOT present. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, muted slate blue, grey, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older house bedroom. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷9
 
@@ -134,17 +139,17 @@
 * 자막:
 집 안의 모든 소리가 사라진 것 같았다. 그 적막 속에서, 하루하루를 그저 흘려보냈다.
 
-* 이미지 프롬프트:
-{공통 접두} A very quiet plain living room and dining area in dim dusty afternoon light, a Korean man in his mid-sixties with grey hair sits alone at a small dining table that has two chairs, one chair empty, a wall clock and a cold cup of tea in front of him, his face visible and blank with resigned stillness, dust motes floating in a shaft of window light, a stillness that suggests days passing without change. {공통 접미}
+* 이미지 프롬프트 (남편 레퍼런스 이미지 첨부):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Keep only the facial identity and watercolor art style of the Korean man from the reference image, showing him in his mid-sixties: short grey hair, thin build, resigned stillness, wearing simple plain house clothes. A very quiet plain living room and dining area in dim dusty afternoon light, the Korean man sits alone at a small dining table that has two chairs, one chair empty, a wall clock and a cold cup of tea in front of him, his face visible and blank with resigned stillness, dust motes floating in a shaft of window light, a stillness that suggests days passing without change. The woman is NOT present. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older house interior. Strictly NO text, NO letters, NO words, NO signs. No dog in the scene. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 프롤로그_컷10
 * (제작 메모) 이 컷 직후 이웃이 강아지를 맡기고 가는 장면(1살 3월 단서)으로 이어진다.
 
 [제작 시 확인할 것]
+- 나노바나나(Gemini) 사용 시: 프롬프트에 안내된 대로 기준 이미지(컷 1 또는 컷 6)를 파일 첨부한 상태에서 프롬프트를 전송합니다.
 - 10컷 전부에서 남편·아내가 나이만 다를 뿐 같은 사람으로 보이는지(얼굴형·눈매).
 - 컷 5의 "의자 두 개, 아이 물건 없음"이 자막 없이도 읽히는지.
 - 컷 8~10의 무거운 장면이 과하게 비극적으로 그려지지 않는지(절제된 톤 유지).
-- 프롬프트 안의 `{공통 접두}`/`{공통 접미}`는 위 공통 블록 문장으로 치환해서 사용.
 
 
 ########################################
@@ -175,7 +180,7 @@
 커다란 슬리퍼가 코앞에서 꼼짝도 하지 않아요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view across the wooden floor of an unfamiliar entryway of an old single-family house at dusk, a pair of large worn slippers standing very close in the foreground with the hem of grey trousers above them, the front door ajar behind letting in soft evening light and the blurred green of a small yard. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person puppy's eye-view shot placed very low to the wooden floor (about 20 cm above the ground), looking slightly up at an adult human with natural tall proportions towering high above. Strictly NO dog visible in the frame (no paws, no snout, no fur, no tail). In the close foreground, a pair of large worn indoor slippers resting on the entryway floor, and the long, straight, upright legs of an elderly Korean man in grey trousers standing tall, extending straight up and disappearing naturally out of the top edge of the frame. Strictly NO human torso, NO face, NO compressed proportions. Through the open front door behind him, soft evening light and the blurred green yard are visible. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, modest older detached single-family house entryway. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 1살_컷1
 
@@ -188,7 +193,7 @@
 밖에서 마른 흙 냄새가 나요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view from the entryway floor toward a slightly open front door, a narrow bright gap showing the pale winter yard with dry soil and bare branches, a leash hanging on a wall hook at the edge of the frame and a pair of slippers by the door. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view from the entryway floor toward a slightly open front door, a narrow bright gap showing the pale winter yard with dry soil and bare branches, a leash hanging on a wall hook at the edge of the frame and a pair of slippers by the door. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 2살_컷1
 
@@ -201,7 +206,7 @@
 무릎에서 따뜻한 냄새가 나요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view from the living room floor beside a modest sofa on a quiet overcast winter afternoon, an elderly man's knee in grey trousers and a hand resting on it visible above at the edge of the frame, a small side table with a framed photo blurred in the background. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view from the living room floor beside a modest sofa on a quiet overcast winter afternoon, an elderly man's knee in grey trousers and a hand resting on it visible above at the edge of the frame, a small side table with a framed photo blurred in the background. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 3살_컷1
 
@@ -214,7 +219,7 @@
 발소리가 천천히 뒤따라와요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view through short dry winter grass and small early sprouts in a small yard, a pair of worn shoes walking slowly a few steps behind at the edge of the frame, the wall of an old single-family house and a wooden gate blurred in the background. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view through short dry winter grass and small early sprouts in a small yard, a pair of worn shoes walking slowly a few steps behind at the edge of the frame, the wall of an old single-family house and a wooden gate blurred in the background. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 4살_컷1
 
@@ -227,7 +232,7 @@
 골목 끝에서 좋은 냄새가 나요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view along a quiet residential alley paved with worn concrete in early spring, several pairs of legs and shoes far ahead, one elderly man's shoes close by carrying a grocery bag at the frame edge, low garden walls and a bare tree blurred in the background. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view along a quiet residential alley paved with worn concrete in early spring, several pairs of legs and shoes far ahead, one elderly man's shoes close by carrying a grocery bag at the frame edge, low garden walls and a bare tree blurred in the background. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 5살_컷1
 
@@ -240,7 +245,7 @@
 오는 발소리를 가만히 기다려요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view across a wooden floor toward a window where a bright warm patch of sunlight lies on the floor, a worn stuffed toy resting at the edge of the sunlit patch, the hem of a cardigan and slippers passing by in the soft background. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view across a wooden floor toward a window where a bright warm patch of sunlight lies on the floor, a worn stuffed toy resting at the edge of the sunlit patch, the hem of a cardigan and slippers passing by in the soft background. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 6살_컷1
 
@@ -253,7 +258,7 @@
 코끝이 시려도 좋은 냄새가 나요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view under a park bench in a small neighborhood park on a cold winter morning, several pairs of legs and boots gathered nearby, faint white breath in the air, other dogs' leashes trailing at the edges of the frame, bare trees blurred in the background. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view under a park bench in a small neighborhood park on a cold winter morning, several pairs of legs and boots gathered nearby, faint white breath in the air, other dogs' leashes trailing at the edges of the frame, bare trees blurred in the background. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 7살_컷1
 
@@ -266,20 +271,20 @@
 볕이 등 뒤로 따뜻하게 내려앉아요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view across a small sunlit yard in early spring, soft loose soil and new green sprouts in the foreground, a rubber ball resting a few steps ahead, an elderly man's slippers standing at the edge of the frame on the porch step. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view across a small sunlit yard in early spring, soft loose soil and new green sprouts in the foreground, a rubber ball resting a few steps ahead, an elderly man's slippers standing at the edge of the frame on the porch step. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 8살_컷1
 
 ========================================
-[9살 단계 컷씬 - 9살 (1월, 새해)]
+[9살 단계 컷씬 - 9살 (가을)]
 ========================================
-* 장면: 새 달력 소리
+* 장면: 바스락거리는 가을 낙엽길
 * 자막:
-새 종이 넘기는 소리가 나요.
-주인 손에서 잉크 냄새가 나요.
+발을 디딜 때마다 바스락거리는 소리가 즐거워요.
+노랗게 물든 낙엽 무더기 속에서 가을 냄새가 나요.
 
-* 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view across a kitchen floor in the morning of a new year, the lower part of a refrigerator door with a small paper note held by a magnet, an elderly man's hand and cardigan sleeve lowered toward the frame edge holding a pen, soft window light. {단계별 컷 공통 접미}
+* 이미지 프롬프트 (리와인드 단계_11 대체 완료):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. Extreme low-angle immersion right inside a thick, fluffy mound of crisp fallen autumn leaves on a neighborhood path — strictly NO dog, NO animal visible anywhere in the frame (zero animals, pure ground-level camera). Golden ginkgo leaves and warm russet maple leaves flank the immediate foreground in crisp close-up detail, rustling dry textures all around. Warm honeyed autumn sunlight filters through the amber leaf canopy above, casting a golden cozy glow across the scene. The surrounding leaf piles naturally occlude and frame the view, completely hiding any distant concrete structures. Rich smell of dry autumn leaves and crisp clean air conveyed visually. Strictly NO humans in frame. Warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, warm ochre, golden yellow, burnt sienna, dusty terracotta), thin soft brown lines, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Absolutely NO text, NO letters, NO words. Absolutely NO outer border, NO picture frame, NO white border.
 
 * 파일명: 9살_컷1
 
@@ -292,7 +297,7 @@
 아침 소리가 천천히 다가와요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view along the floor of a bedroom in the early winter morning, the folded edge of a thick blanket on a floor mattress in the foreground, an elderly man's bare feet and the hem of his trousers at the edge of the frame, pale light through curtains. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view along the floor of a bedroom in the early winter morning, the folded edge of a thick blanket on a floor mattress in the foreground, an elderly man's bare feet and the hem of his trousers at the edge of the frame, pale light through curtains. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 10살_컷1
 
@@ -305,33 +310,33 @@
 담요에서 오래된 냄새가 나요.
 
 * 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view across a living room floor where a patch of winter sunlight has moved onto a worn folded blanket, dust motes drifting in the light, an elderly man's slippers slowly crossing in the blurred background. {단계별 컷 공통 접미}
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person dog's-eye-view shot with the camera placed very low, about 30 cm above the ground, looking out at the world; strictly NO dog visible in the frame (no paws, no snout, no fur, no tail, no shadow of a dog). Low view across a living room floor where a patch of winter sunlight has moved onto a worn folded blanket, dust motes drifting in the light, an elderly man's slippers slowly crossing in the blurred background. Any human shown is only an elderly Korean man's lower legs, worn slippers or shoes, cardigan sleeve or hand, strictly NO human face. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft blue, warm wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting, shallow depth of field with soft blurred background. Set in South Korea, in and around a modest older detached single-family house with a small yard, NOT an apartment or high-rise. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border, NO rounded corners.
 
 * 파일명: 11살_컷1
 
 ========================================
-[12살 단계 컷씬 - 12살 (2월, 겨울)]
+[12살 단계 컷씬 - 12살 (겨울 끝)]
 ========================================
-* 장면: 계단 앞
+* 장면: 골목길 낮은 돌계단 앞
 * 자막:
 계단이 조금 높아 보여요.
 발소리가 천천히 함께 올라가요.
 
-* 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view at the foot of a short outdoor stairway by the entrance of an old house in soft daylight, the steps rising high in front of the camera, an elderly man's slippered feet pausing on the first step at the edge of the frame. {단계별 컷 공통 접미}
+* 이미지 프롬프트 (재생성용):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A first-person senior dog's-eye-view shot placed very low to the ground (about 20 cm) at the foot of a short outdoor stone stairway in a quiet residential village alley. Three weathered low stone steps rise slightly high in front of the camera. Pausing gently on the bottom step at the edge of the frame, an elderly Korean man's worn walking shoes and the hem of his trousers are visible, stopping and waiting patiently for the dog. Strictly NO cars, NO vehicles, NO human torso, NO face. Soft late-winter daylight, quiet neighborhood walls in soft blur bokeh. warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft moss green, pale stone grey), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, older residential village alley. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border.
 
 * 파일명: 12살_컷1
 
 ========================================
 [13살 단계 컷씬 - 13살 (1월, 겨울)]
 ========================================
-* 장면: 현관의 외투
+* 장면: 낡은 단독주택 현관의 외투
 * 자막:
 외투 냄새가 차가워요.
 문 앞에서 발소리가 오래 서성여요.
 
-* 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view of an entryway floor on a cold winter afternoon, the lower hem of a dark winter coat and a pair of shoes being put on slowly at the edge of the frame, the door half open onto a pale grey yard. {단계별 컷 공통 접미}
+* 이미지 프롬프트 (재생성용 - 클로즈업/왜곡 방지):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. An intimate ground-level dog's-eye-view shot (about 20 cm high) focused on sensory details in an entryway of a modest older detached house. Extreme close-up on the lower folds of a heavy padded winter coat draped over a low wooden stool in the foreground, with its cold textured fabric filling part of the frame. Worn wooden flooring below. In the soft blurred background with shallow depth of field, an elderly man's warm winter shoes and trouser cuffs hesitate quietly near the wooden door threshold. Strictly NO wide-angle room shots, NO cramming entire doors or shoe racks, NO modern apartment foyer, NO shiny marble tiles, NO modern steel doors. Strictly NO human upper body, NO torso, NO face, NO miniature figures, NO dwarf proportions. Soft cold winter daylight. Warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, charcoal grey, warm worn wood tones), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older detached single-family house. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border.
 
 * 파일명: 13살_컷1
 
@@ -343,40 +348,62 @@
 길이 길게 뻗어 있어요.
 발소리가 자주 멈춰서 나도 멈춰 기다려요.
 
-* 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view along a quiet neighborhood path in early spring, a long stretch of pavement ahead with faint green along the edges, an elderly man's shoes stopped a little behind at the edge of the frame, soft slightly overcast light. {단계별 컷 공통 접미}
+* 이미지 프롬프트 (재생성용 - 클로즈업/왜곡 방지):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. A ground-level dog's-eye-view shot placed about 20 cm above the ground along a quiet village alley in early spring. In the near foreground at the side of the frame, an elderly Korean man's worn walking shoes and trouser hems are paused gently on the quiet ground, shown in natural full-size adult scale and sharp close-up detail. Beside the paused feet, the quiet paved alley path stretches peacefully forward into the distance, with small tender green spring sprouts emerging along the curb edge. The quiet residential fences and roofs are softly blurred in the background with shallow depth of field. Strictly NO wide full-body human figures, NO upper body, NO torso, NO face, NO miniature people, NO cars. Gentle overcast early spring sunlight. Warm and sincere mood, soft watercolor illustration style, gentle color bleeding and blending at the edges, muted pastel palette (cream, dusty pink, soft spring green, warm asphalt grey), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, quiet rural village alley with detached houses. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border.
 
 * 파일명: 14살_컷1
 
 ========================================
 [15살 단계 컷씬 - 15살 (1월, 겨울)]
 ========================================
-* 장면: 조용한 아침 방
+* 장면: 조용한 전원주택 아침 방
 * 자막:
 아침 냄새가 조용해요.
 이불 속에서 낮은 숨소리가 들려요.
 
-* 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view along the floor of a quiet bedroom in the early winter morning, the edge of a blanket on a floor mattress and one thin hand resting outside it near the floor at the edge of the frame, pale window light, everything very still. {단계별 컷 공통 접미}
+* 이미지 프롬프트 (재생성용 - 클로즈업/왜곡 방지):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. An intimate low-angle macro shot (about 15 cm high) resting right by the warm floor bedding in an ordinary modest Korean single-family house on a silent winter morning. Extreme close-up on the soft folds of a cozy quilted cotton floor mattress and thick warm blanket. Peeking gently from beneath the blanket folds, a soft flannel pajama sleeve cuff and an elderly man's thin wrinkled hand rest comfortably and peacefully on the warm wood-patterned floor. In the soft blurred background with shallow depth of field, gentle pale winter morning sunlight filters softly through a simple sheer white fabric curtain hanging over an ordinary modern glass window. Strictly NO traditional Korean Hanok, NO Giwa tiled roofs, NO wooden lattice sliding paper doors, NO historical ancient architecture, NO apartment high-rises. Strictly NO wide full-room shots, NO human face, NO upper body, NO torso, NO miniature figures. Immense quiet tenderness, peaceful breathing atmosphere, soft watercolor illustration style, gentle color bleeding, muted pastel palette (cream, dusty pink, soft winter lavender, warm cotton white, pale honey wood), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in an ordinary 1990s Korean suburban detached home. Strictly NO text, NO letters, NO words, NO signs. Absolutely NO outer border, NO picture frame, NO white border.
+
+* 이미지 프롬프트 v3 (2026-10-07, 12살_컷1.jpg를 스타일·카메라 높이 레퍼런스로 첨부해서 생성. 주인은 계속 침대를 쓰므로 바닥 이불이 아니라 침대 옆 바닥에서 올려다본다. v2의 "floor mattress"는 설정 오류라 삭제):
+Watercolor picture-book illustration, 16:9 widescreen, painted edge to edge. Same soft watercolor style and floor-level camera height as the attached reference image. The camera sits on the wooden bedroom floor, about 20 cm high, right beside a wooden bed, looking up at the side of the bed. Foreground: a pair of worn slippers on the floor next to the bed. Above them, the side of the mattress and the hem of a pale duvet falling over its edge, and one thin, wrinkled elderly hand relaxed and hanging slightly over the edge of the mattress, palm down, the sleeve of a plain pajama top at the wrist. Background: a low window with sheer curtains and soft white winter morning light, an old wooden dresser slightly blurred. Muted palette of cream, dusty pink and pale blue, thin brown outlines, gentle color bleeding, shallow depth of field, calm and tender mood. The camera stays at floor level, nobody is visible except the one hand, no text.
 
 * 파일명: 15살_컷1
 
 ========================================
 [16살 단계 컷씬 - 16살 (2월, 겨울)]
 ========================================
-* 장면: 느린 신발 소리
+* 장면: 단독주택 마루와 낡은 현관 턱
 * 자막:
 현관에서 신발 소리가 느려요.
 가까이 가서 발 옆에 붙어 있어요.
 
-* 이미지 프롬프트:
-{단계별 컷 공통 접두} Low view of a quiet entryway floor in soft winter light, an elderly man's slippers shuffling slowly across the frame and one hand reaching down toward the floor near the edge of the frame, the wooden threshold and a shoe rack blurred beyond. {단계별 컷 공통 접미}
+* 이미지 프롬프트 (재생성용 - 클로즈업/왜곡 방지):
+Wide horizontal cinematic landscape aspect ratio, 16:9. Full bleed edge-to-edge watercolor illustration, absolutely NO borders, NO margins, NO frames, and NO outlines surrounding the picture canvas. The artwork must extend seamlessly all the way to every edge. An intimate first-person close-up shot placed about 20 cm low on the warm aged wooden floorboards right beside the elderly owner's feet. Close-up in the immediate frame are an elderly Korean man's worn indoor slippers and trousers at natural adult scale. Reaching down from above, a weathered, wrinkled elderly hand hovers tenderly near the floor right in front of the viewer, about to gently stroke. In the soft bokeh blurred background, the weathered wooden step to the entryway is softly out of focus. Strictly NO modern apartment foyer, NO shiny marble tiles, NO modern built-in shoe cabinets, NO sensor ceiling lights. Strictly NO wide-angle room views, NO human upper body, NO torso, NO face, NO miniature/doll-like figures. Profound tenderness and affectionate bond, soft watercolor illustration style, gentle color bleeding, muted pastel palette (cream, dusty pink, warm oak wood, soft slate grey), thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Set in South Korea, modest older detached house. Strictly NO text, NO letters, NO words. Absolutely NO outer border, NO picture frame, NO white border.
+
+* 이미지 프롬프트 v3 (2026-10-07, 12살_컷1.jpg를 스타일·카메라 높이 레퍼런스로 첨부해서 생성. 실내인데 구두처럼 나와서 슬리퍼를 "천 소재, 뒤꿈치 트인 회청색 실내 슬리퍼 + 양말"로 못 박았다. v2의 "위에서 내려오는 손"은 손이 렌즈 앞에 거대하게 떠서 이상하게 나오므로 손을 빼고 발만 그린다. 자막에도 손은 없다):
+Watercolor picture-book illustration, 16:9 widescreen, painted edge to edge. Same soft watercolor style and floor-level camera height as the attached reference image. The camera sits on the wooden floor, about 15 cm high, right beside the feet of an elderly man standing quietly in the entryway of a small old house, looking along the floor toward the open front door. Foreground, large and close: soft, flat, cloth house slippers in faded grey-blue felt with an open heel, pale cotton socks showing at the ankles, and the hems of loose soft indoor trousers, his feet close together and very still on the indoor wooden floor. These are clearly indoor slippers, not leather shoes or boots. Behind him, the low wooden threshold, an open wooden door and the sunlit yard softly blurred. Muted palette of cream, dusty pink, warm oak and soft slate grey, thin brown outlines, gentle color bleeding, shallow depth of field, tender and slow mood. Only his legs below the knee are in the frame, no hands, no text.
 
 * 파일명: 16살_컷1
 
 [제작 시 확인할 것(단계별 컷씬)]
 - 16컷 전부에서 강아지 몸(발·주둥이·꼬리 포함)이 프레임에 나오지 않는지.
-- 아파트·고층 건물이 배경에 섞이지 않는지(단독주택+마당 설정).
+- 아파트·고층 건물이 배경에 섞이지 않는지(단독주택+마당+한적한 전원마을 설정).
+- 인물 왜곡 방지: 화폭에 방 전체/문 전체를 억지로 다 우겨넣으려 하지 말고, 로우앵글 클로즈업(발목, 신발, 손, 이불자락 등 1~2개 감각 오브젝트) + 배경 아웃포커스(Bokeh)를 사용할 것.
+- 사람 얼굴과 상체(Torso)가 절대 나오지 않고, 자연스러운 성인 비율의 발/슬리퍼/손/바지단만 나오는지(난쟁이·인형화 방지: NO miniature figures, NO dwarf proportions).
 - 자막이 단서 내용을 재서술하지 않고 계절·장소·감각만 여는지, 나이·시간 언급이 없는지.
-- 프롬프트 안의 `{단계별 컷 공통 접두}`/`{단계별 컷 공통 접미}`는 위 공통 문장으로 치환해서 사용.
 - 프롤로그 단계는 몽타주가 컷씬 역할을 하고, "이별 이후"(순서18)는 엔딩 화면이 대신하므로 둘 다 단계별 컷씬을 두지 않는다.
+
+[15살·16살 재생성 메모, 2026-10-07]
+- 긴 프롬프트가 실패한 이유: (1) "NO dog / NO face / NO apartment / NO bed"처럼 금지어를 열 개 넘게 나열하면 이미지 모델이 그 단어를 오히려 그린다(특히 dog, bed, face).
+  (2) "dog's eye view"가 모델에게는 모호해서 사람 눈높이의 침대 옆 장면으로 해석된다. 시점은 "camera sits on the floor, about 25 cm high"처럼 카메라 위치로 말해야 한다.
+  (3) 한 프롬프트에 장면·시점·금지·화풍이 뒤섞여 있어 앞부분의 장면 묘사가 희석된다. v2는 장면 하나만 긍정문으로 짧게 쓰고 레퍼런스 이미지로 화풍·높이를 고정했다.
+- 15살 v2에서 "Korean floor mattress"를 넣은 것은 제 설정 착오였다(주인은 프롤로그 컷9부터 계속 침대를 쓴다). v3에서 침대 옆 바닥 시점으로 고쳤다.
+- 그래도 사람 몸통이 나오면 "nobody is visible except the one hand"를 강조하고, 카메라 높이를 "20 cm"로 반복해서 못 박는다.
+
+[단계별 컷씬 등록 현황, 2026-10-07]
+- 리와인드 이미지 11장(2,3,4,5,6,7,8,9,10,11,14살)은 리와인드 단계에 올라가 있는 Cloudinary URL을 그대로 재활용했고(로컬 이미지와 동일함을 확인),
+  새 이미지 5장(1,12,13,15,16살)만 새로 업로드했다. 재활용 이미지는 URL을 공유하므로 리와인드 쪽에서 해당 파일을 삭제하면 이쪽도 깨진다.
+- 위 "단계별 컷씬" 섹션의 프롬프트와 자막은 처음 계획안이다. 실제로는 리와인드 이미지를 재활용하면서 이미지에 맞게 자막을 다시 썼고,
+  실제 등록된 자막은 `scripts/register_encore_stage_cutscenes.py`의 CAPTIONS가 정본이다(3살 털실 담요, 10살 의자 다리, 16살 슬리퍼 등).
+- 재활용 이미지의 알려진 불일치: 4살(1월 겨울인데 봄 풀)·5살(2월인데 가을 갈대길)의 계절, 10살의 어린이 장난감, 12살 배경의 아파트 단지,
+  2살·7살에서 강아지 귀가 프레임에 보이는 점.
