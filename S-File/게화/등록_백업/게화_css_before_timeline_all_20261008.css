@@ -588,88 +588,63 @@
     text-shadow: 0 0 8px rgba(186, 255, 214, 0.6);
 }
 
-/* 타임라인 표: 모든 화면에서 날짜별 카드로 보여 준다 */
-.story-content table.timeline,
-.story-content table.timeline tbody,
-.story-content table.timeline tr,
-.story-content table.timeline td {
-    display: block;
-    width: 100%;
-    box-sizing: border-box;
-}
+/* 타임라인 표: 모바일에서는 날짜별 카드로 보여 준다 */
+@media (max-width: 640px) {
+    .story-content table.timeline,
+    .story-content table.timeline tbody,
+    .story-content table.timeline tr,
+    .story-content table.timeline td {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
 
-.story-content table.timeline {
-    border: none;
-    background: transparent;
-    margin: 1rem 0;
-}
+    .story-content table.timeline {
+        border: none;
+        background: transparent;
+        margin: 1rem 0;
+    }
 
-.story-content table.timeline thead {
-    display: none;
-}
+    .story-content table.timeline thead {
+        display: none;
+    }
 
-.story-content table.timeline tr {
-    margin: 0 0 0.9rem;
-    border: 1px solid rgba(127, 212, 201, 0.25);
-    border-radius: 8px;
-    overflow: hidden;
-    background: rgba(10, 22, 22, 0.6);
-}
-
-.story-content table.timeline td {
-    border: none;
-    text-align: left;
-    padding: 0.65rem 0.9rem;
-}
-
-.story-content table.timeline td.tl-date {
-    background: rgba(127, 212, 201, 0.12);
-    color: #7fd4c9;
-    font-weight: 700;
-    font-family: "Nanum Myeongjo", serif;
-}
-
-.story-content table.timeline td.tl-body + td.tl-body {
-    border-top: 1px solid rgba(127, 212, 201, 0.15);
-}
-
-.story-content table.timeline td.tl-body[data-label]::before {
-    content: attr(data-label);
-    display: block;
-    margin-bottom: 0.2rem;
-    font-size: 0.78rem;
-    letter-spacing: 0.02em;
-    color: #7fd4c9;
-    opacity: 0.85;
-}
-
-.story-content table.timeline td.empty {
-    display: none;
-}
-
-/* 넓은 화면: 섬마을과 본토 연구시설을 카드 안에서 좌우로 나란히 놓는다 */
-@media (min-width: 641px) {
     .story-content table.timeline tr {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
+        margin: 0 0 0.9rem;
+        border: 1px solid rgba(127, 212, 201, 0.25);
+        border-radius: 8px;
+        overflow: hidden;
+        background: rgba(10, 22, 22, 0.6);
+    }
+
+    .story-content table.timeline td {
+        border: none;
+        text-align: left;
+        padding: 0.65rem 0.9rem;
     }
 
     .story-content table.timeline td.tl-date {
-        grid-column: 1 / -1;
-    }
-
-    .story-content table.timeline td.tl-body:nth-child(2):last-child,
-    .story-content table.timeline tr:has(td.empty) td.tl-body:not(.empty) {
-        grid-column: 1 / -1;
+        background: rgba(127, 212, 201, 0.12);
+        color: #7fd4c9;
+        font-weight: 700;
+        font-family: "Nanum Myeongjo", serif;
     }
 
     .story-content table.timeline td.tl-body + td.tl-body {
-        border-top: none;
-        border-left: 1px solid rgba(127, 212, 201, 0.15);
+        border-top: 1px solid rgba(127, 212, 201, 0.15);
     }
 
-    .story-content table.timeline tr:has(td.empty) td.tl-body + td.tl-body,
-    .story-content table.timeline td.empty + td.tl-body {
-        border-left: none;
+    .story-content table.timeline td.tl-body[data-label]::before {
+        content: attr(data-label);
+        display: block;
+        margin-bottom: 0.2rem;
+        font-size: 0.78rem;
+        letter-spacing: 0.02em;
+        color: #7fd4c9;
+        opacity: 0.85;
+    }
+
+    .story-content table.timeline td.empty {
+        display: none;
     }
 }

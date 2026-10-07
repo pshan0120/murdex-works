@@ -1,0 +1,5537 @@
+[
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_perfect",
+  "total": 100,
+  "per": {
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "full",
+   "6b": "full",
+   "6c": "full"
+  },
+  "q": {
+   "m1": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 3081,
+  "cached": 0,
+  "tokens_out": 1222,
+  "sec": 16.3,
+  "feedback": {
+   "m1": "마이어스가 건배를 구실로 시제품 음료를 모두에게 마시게 한 점과 오웬이 술을 몰래 섞어 시제품과 반응해 노화가 일어난 점, 오웬이 조금만 마셔 살아남은 점을 잘 적었습니다.",
+   "m2": "시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나가 섬 북쪽 만에 모였고, 물질이 생명체를 환경에 맞게 재구성하며 죽음에 가까울수록 강하게 반응한다는 조건을 모두 잘 적었습니다.",
+   "m3": "두 사건이 같은 물질에서 갈라진 결과임을 밝히고, 마을 죽음의 직접 원인과 연구시설 사고의 배경 구분, 수조와 바다 생물의 변화를 같은 현상으로 묶은 점을 모두 잘 적었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스(소장)가 건배(기념 행사)를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다고 적었다.",
+     "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로 시제품을 섞은 무알콜 칵테일을 모두에게 마시게 했습니다.",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5b",
+     "reason": "오웬이 몰래 섞은 술(알코올, C2H5OH)과 시제품이 반응해 진화가 노화로 바뀌었다고 적었다.",
+     "evidence_quote": "오웬이 낮에 몰래 술을 섞어 두었는데, 시제품이 알코올(C2H5OH)과 만나 진화가 노화로 바뀌었습니다.",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬은 조금만 마셔서 죽지 않고 늙은 채(치매 노인처럼) 살아남았다고 적었다.",
+     "evidence_quote": "오웬은 조금만 마셔서 죽지 않고 치매 노인처럼 늙은 채 살아남았습니다.",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설의 시제품(시약, 칵테일 등)이 시설의 개수대나 배수구(배수관)를 통해 바다로 흘러나갔다고 적었다.",
+     "evidence_quote": "8월 30일 밤 연구시설 개수대에 쏟은 시제품 칵테일이 배수관을 타고 바다로 흘러나갔습니다.",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "그 물질이 해류를 타고 섬 북쪽 만(후미)에 모여 고였다고 적었다.",
+     "evidence_quote": "지도에 그려진 해류를 따라 섬 북쪽 만에 모여 고였고, 다음 날 낮에도 남아 있었습니다.",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "그 물질이 생명체의 몸을 환경에 가장 알맞은 구조로 재구성(급속 진화, 적응)한다고 적었다.",
+     "evidence_quote": "이 물질은 생명체의 몸을 그 환경에 가장 알맞은 구조로 다시 만들고(급속 진화)",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와, 죽음에 가까운 상태의 생명체라는 조건이 겹칠 때 반응이 강하게 일어난다고 적었다.",
+     "evidence_quote": "죽음에 가까울수록 강하게 일어납니다. 물질이 옅어지기 전에 그 물속에서 죽어가던 생명체가 있었다면 반응이 일어날 수 있었습니다.",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "6a",
+     "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다(마신 사람은 노화, 바다에서는 어슐라의 재구성).",
+     "evidence_quote": "같은 물질에서 갈라진 두 결과입니다. 마신 연구원들은 노화로 죽었고 바다로 흘러간 물질은 어슐라를 재구성했습니다.",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인은 어슐라의 복수이고, 연구시설 사고는 그 배경이라고 구분해서 적었다.",
+     "evidence_quote": "시설 사고는 마을 죽음의 직접 원인이 아니고 직접 원인은 어슐라의 복수입니다.",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6c",
+     "reason": "연구시설 수조에서 랍스터가 게의 모습으로 변해 가는 것과 섬 주변 바다에서 게가 이상하게 늘어난 것(또는 바다 생물이 게를 닮아 가는 것)을 같은 물질이 일으킨 같은 현상으로 묶어 적었다.",
+     "evidence_quote": "시설 수조의 랍스터가 게의 모습으로 변해 가는 것과 섬 앞바다 통발에 게가 이상하게 올라온 것도 같은 물질이 생물을 바꾼 같은 현상입니다.",
+     "source_question_id": "m3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "마이어스가 건배를 구실로 시제품 음료를 모두에게 마시게 한 점과 오웬이 술을 몰래 섞어 시제품과 반응해 노화가 일어난 점, 오웬이 조금만 마셔 살아남은 점을 잘 적었습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나가 섬 북쪽 만에 모였고, 물질이 생명체를 환경에 맞게 재구성하며 죽음에 가까울수록 강하게 반응한다는 조건을 모두 잘 적었습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질에서 갈라진 결과임을 밝히고, 마을 죽음의 직접 원인과 연구시설 사고의 배경 구분, 수조와 바다 생물의 변화를 같은 현상으로 묶은 점을 모두 잘 적었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_perfect",
+  "total": 100,
+  "per": {
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "full",
+   "6b": "full",
+   "6c": "full"
+  },
+  "q": {
+   "m1": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 3081,
+  "cached": 2944,
+  "tokens_out": 1218,
+  "sec": 15.8,
+  "feedback": {
+   "m1": "마이어스가 건배를 구실로 시제품 음료를 모두에게 마시게 한 점과 오웬이 술을 몰래 섞어 시제품과 반응해 진화가 노화로 바뀐 점, 오웬이 조금만 마셔 살아남은 점을 잘 적었습니다.",
+   "m2": "시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나가 섬 북쪽 만에 모였고, 물질이 생명체 몸을 환경에 맞게 재구성하며 죽음에 가까울수록 반응이 강하다는 점을 모두 잘 적었습니다.",
+   "m3": "두 사건이 같은 물질에서 갈라진 결과임을 밝히고, 마을 죽음의 직접 원인과 연구시설 사고의 배경 구분, 수조와 바다 생물의 변화를 같은 현상으로 묶은 점을 모두 잘 적었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스(소장)가 건배(기념 행사)를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다고 적었다.",
+     "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로 시제품을 섞은 무알콜 칵테일을 모두에게 마시게 했습니다",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5b",
+     "reason": "오웬이 몰래 섞은 술(알코올, C2H5OH)과 시제품이 반응해 진화가 노화로 바뀌었다고 적었다.",
+     "evidence_quote": "오웬이 낮에 몰래 술을 섞어 두었는데, 시제품이 알코올(C2H5OH)과 만나 진화가 노화로 바뀌었습니다",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬은 조금만 마셔서 죽지 않고 늙은 채(치매 노인처럼) 살아남았다고 적었다.",
+     "evidence_quote": "오웬은 조금만 마셔서 죽지 않고 치매 노인처럼 늙은 채 살아남았습니다",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설의 시제품(시약, 칵테일 등)이 시설의 개수대나 배수구(배수관)를 통해 바다로 흘러나갔다고 적었다.",
+     "evidence_quote": "8월 30일 밤 연구시설 개수대에 쏟은 시제품 칵테일이 배수관을 타고 바다로 흘러나갔습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "그 물질이 해류를 타고 섬 북쪽 만(후미)에 모여 고였다고 적었다.",
+     "evidence_quote": "지도에 그려진 해류를 따라 섬 북쪽 만에 모여 고였고",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "그 물질이 생명체의 몸을 환경에 가장 알맞은 구조로 재구성(급속 진화, 적응)한다고 적었다.",
+     "evidence_quote": "이 물질은 생명체의 몸을 그 환경에 가장 알맞은 구조로 다시 만들고(급속 진화)",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와, 죽음에 가까운 상태의 생명체라는 조건이 겹칠 때 반응이 강하게 일어난다고 적었다.",
+     "evidence_quote": "죽음에 가까울수록 강하게 일어납니다. 물질이 옅어지기 전에 그 물속에서 죽어가던 생명체가 있었다면 반응이 일어날 수 있었습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "6a",
+     "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다(마신 사람은 노화, 바다에서는 어슐라의 재구성).",
+     "evidence_quote": "같은 물질에서 갈라진 두 결과입니다. 마신 연구원들은 노화로 죽었고 바다로 흘러간 물질은 어슐라를 재구성했습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인은 어슐라의 복수이고, 연구시설 사고는 그 배경이라고 구분해서 적었다.",
+     "evidence_quote": "시설 사고는 마을 죽음의 직접 원인이 아니고 직접 원인은 어슐라의 복수입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6c",
+     "reason": "연구시설 수조에서 랍스터가 게의 모습으로 변해 가는 것과 섬 주변 바다에서 게가 이상하게 늘어난 것(또는 바다 생물이 게를 닮아 가는 것)을 같은 물질이 일으킨 같은 현상으로 묶어 적었다.",
+     "evidence_quote": "시설 수조의 랍스터가 게의 모습으로 변해 가는 것과 섬 앞바다 통발에 게가 이상하게 올라온 것도 같은 물질이 생물을 바꾼 같은 현상입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "마이어스가 건배를 구실로 시제품 음료를 모두에게 마시게 한 점과 오웬이 술을 몰래 섞어 시제품과 반응해 진화가 노화로 바뀐 점, 오웬이 조금만 마셔 살아남은 점을 잘 적었습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나가 섬 북쪽 만에 모였고, 물질이 생명체 몸을 환경에 맞게 재구성하며 죽음에 가까울수록 반응이 강하다는 점을 모두 잘 적었습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질에서 갈라진 결과임을 밝히고, 마을 죽음의 직접 원인과 연구시설 사고의 배경 구분, 수조와 바다 생물의 변화를 같은 현상으로 묶은 점을 모두 잘 적었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_nonsense",
+  "total": 0,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2670,
+  "cached": 2432,
+  "tokens_out": 748,
+  "sec": 10.4,
+  "feedback": {
+   "m1": "원인과 사건 경과에 관한 구체적 설명이 전혀 없어 중요한 부분을 놓쳤습니다.",
+   "m2": "답안이 없어서 물질의 경로와 영향에 대해 전혀 알 수 없습니다.",
+   "m3": "두 사건의 관계를 구체적으로 설명하지 않고 단답형으로만 적어 놓쳐 중요한 연결 고리를 놓쳤습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5b",
+     "reason": "답안에 술과 시제품의 반응이나 노화로 바뀌었다는 내용이 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "답안에 오웬이 살아남았다는 내용이나 이유가 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "답안에 연구시설의 시제품이 개수대나 배수구를 통해 바다로 흘러나갔다는 내용이 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4b",
+     "reason": "답안에 물질이 해류를 타고 섬 북쪽 만에 모여 고였다는 내용이 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "답안에 물질이 생명체 몸을 환경에 맞게 재구성한다는 내용이 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4d",
+     "reason": "답안에 물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹칠 때 반응이 강하게 일어난다는 내용이 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "답안에 두 결과가 같은 물질에서 갈라졌다는 내용이 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6b",
+     "reason": "답안에 마을 사람들의 죽음의 직접 원인과 연구시설 사고의 배경 구분 내용가 없고, 두 사건이 이어진다는 내용만 'ㅇㅇ'으로 적혀 있으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6c",
+     "reason": "답안에 연구시설 수조와 섬 주변 바다 생물의 같은 현상에 대한 내용이 없고, 해당 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "원인과 사건 경과에 관한 구체적 설명이 전혀 없어 중요한 부분을 놓쳤습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "답안이 없어서 물질의 경로와 영향에 대해 전혀 알 수 없습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건의 관계를 구체적으로 설명하지 않고 단답형으로만 적어 놓쳐 중요한 연결 고리를 놓쳤습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_nonsense",
+  "total": 0,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2670,
+  "cached": 2432,
+  "tokens_out": 613,
+  "sec": 8.0,
+  "feedback": {
+   "m1": "연구시설 사람들에게 무슨 일이 있었는지 원인까지 구체적으로 적지 못했습니다.",
+   "m2": "연구시설에서 바깥으로 흘러나간 물질과 그 경로, 영향에 대해 전혀 언급하지 못했습니다.",
+   "m3": "두 사건의 관계를 단순히 인정만 했을 뿐, 구체적인 내용이나 구분을 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 마이어스가 건배로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 관련 내용가 전혀 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5b",
+     "reason": "술(알코올)과 시제품의 반응이나 노화로 바뀌었다는 내용이 전혀 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이나 이유가 전혀 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "시제품이 개수대나 배수구를 통해 바다로 흘러나갔다는 내용이 전혀 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4b",
+     "reason": "물질이 섬 북쪽 만에 모여 고였다는 내용이 전혀 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "물질이 생명체 몸을 환경에 맞게 재구성한다는 내용이 전혀 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹쳐야 반응이 강하다는 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "두 결과가 같은 물질에서 갈라졌다는 내용이 없고, 관련 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음 직접 원인과 연구시설 사고 배경 구분 내용가 없고, 단순히 'ㅇㅇ'로만 답했다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6c",
+     "reason": "수조와 바다 생물의 같은 현상에 대한 언급이 전혀 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "연구시설 사람들에게 무슨 일이 있었는지 원인까지 구체적으로 적지 못했습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "연구시설에서 바깥으로 흘러나간 물질과 그 경로, 영향에 대해 전혀 언급하지 못했습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건의 관계를 단순히 인정만 했을 뿐, 구체적인 내용이나 구분을 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_mediocre",
+  "total": 24,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "partial",
+   "4b": "none",
+   "4c": "partial",
+   "4d": "none",
+   "6a": "partial",
+   "6b": "partial",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 12,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 12,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2772,
+  "cached": 2432,
+  "tokens_out": 913,
+  "sec": 11.5,
+  "feedback": {
+   "m1": "연구시설 사람들이 이상한 음료를 마셔 늙은 것은 적었으나, 마이어스가 건배로 시제품을 섞어 모두에게 마시게 했다는 점과 알코올과의 반응, 오웬의 생존은 빠졌다.",
+   "m2": "약품이 바다로 흘러간 것과 몸이 변한 것은 적었으나, 구체적 경로와 물질의 환경 적응 재구성 능력, 반응 조건은 부족했다.",
+   "m3": "두 사건이 같은 약품과 관련 있다고만 적었고, 결과의 갈림, 직접 원인 구분, 수조와 바다 생물 변화를 같은 현상으로 묶은 점은 놓쳤다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 단지 이상한 음료를 마셨다고만 적었다.",
+     "evidence_quote": "시설 사람들이 파티에서 이상한 음료를 마셔서 늙은 것 같습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5b",
+     "reason": "술(알코올)과 시제품이 반응해 진화가 노화로 바뀌었다는 내용이 없고, 술이나 알코올과 관련되었다는 언급도 없다.",
+     "evidence_quote": "시설 사람들이 파티에서 이상한 음료를 마셔서 늙은 것 같습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이 없고, 오웬에 관한 언급 자체가 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설에서 나온 약품이 바다로 흘러간 것으로 적었으나, 개수대나 배수구 같은 구체적 경로는 없다.",
+     "evidence_quote": "연구시설에서 나온 약품이 바다로 흘러간 것 같고",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4b",
+     "reason": "약품이 바다로 흘러간 것은 적었으나, 섬 북쪽 만(후미)에 모여 고였다는 내용은 없고, 섬 쪽으로 갔다는 언급도 없다.",
+     "evidence_quote": "연구시설에서 나온 약품이 바다로 흘러간 것 같고",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "몸이 변했다는 내용은 있으나, 그 물질이 생명체 몸을 환경에 가장 알맞은 구조로 재구성한다는 내용은 없다.",
+     "evidence_quote": "그 물에 빠져서 몸이 변한 것 같습니다.",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹쳐야 반응이 강하게 일어난다는 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "두 사건이 같은 물질과 관련 있다고만 적었고, 두 결과가 갈라졌다는 내용은 없다.",
+     "evidence_quote": "같은 약품 때문에 생긴 일입니다.",
+     "source_question_id": "m3",
+     "level_id": "partial"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인과 연구시설 사고의 배경을 구분한 내용이 없고, 두 사건이 이어진다고만 적었다.",
+     "evidence_quote": "같은 약품 때문에 생긴 일입니다.",
+     "source_question_id": "m3",
+     "level_id": "partial"
+    },
+    {
+     "id": "6c",
+     "reason": "수조와 섬 주변 바다 생물의 변화를 같은 현상으로 묶었다는 내용이 없고, 바다 생물이나 수조 생물 변했다는 언급도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "연구시설 사람들이 이상한 음료를 마셔 늙은 것은 적었으나, 마이어스가 건배로 시제품을 섞어 모두에게 마시게 했다는 점과 알코올과의 반응, 오웬의 생존은 빠졌다."
+    },
+    {
+     "question_id": "m2",
+     "text": "약품이 바다로 흘러간 것과 몸이 변한 것은 적었으나, 구체적 경로와 물질의 환경 적응 재구성 능력, 반응 조건은 부족했다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 약품과 관련 있다고만 적었고, 결과의 갈림, 직접 원인 구분, 수조와 바다 생물 변화를 같은 현상으로 묶은 점은 놓쳤다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_mediocre",
+  "total": 30,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "partial",
+   "4b": "partial",
+   "4c": "partial",
+   "4d": "none",
+   "6a": "partial",
+   "6b": "partial",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 18,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 12,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2772,
+  "cached": 0,
+  "tokens_out": 798,
+  "sec": 10.6,
+  "feedback": {
+   "m1": "시제품이 섞인 음료를 모두에게 마시게 했다는 점과 알코올과의 반응, 오웬의 생존에 관한 내용이 빠졌습니다.",
+   "m2": "시제품이 개수대나 배수구를 통해 바다로 흘러나갔다는 경로와, 물질이 섬 북쪽 만에 모였다는 점, 환경에 맞춘 재구성이라는 구체적 변화 내용이 부족합니다.",
+   "m3": "두 사건이 같은 물질과 관련 있다는 점은 적었으나, 결과가 갈라진 점과 직접 원인과 배경의 구분, 수조와 바다 생물의 같은 현상 연결이 빠졌습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 단지 이상한 음료를 마셨다고만 적었다.",
+     "evidence_quote": "시설 사람들이 파티에서 이상한 음료를 마셔서 늙은 것 같습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5b",
+     "reason": "술(알코올)과 시제품이 반응해 진화가 노화로 바뀌었다는 내용이 없고, 술과 관련 있다는 내용도 없다.",
+     "evidence_quote": "시설 사람들이 파티에서 이상한 음료를 마셔서 늙은 것 같습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이 없고, 이유도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "시제품이나 약품이 바다로 흘러나갔다는 내용은 있으나, 개수대나 배수구 같은 경로는 없다.",
+     "evidence_quote": "연구시설에서 나온 약품이 바다로 흘러간 것 같고",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4b",
+     "reason": "물질이 섬 근처 바다로 갔다는 내용은 있으나, 북쪽 만(후미)에 모였다는 내용은 없다.",
+     "evidence_quote": "연구시설에서 나온 약품이 바다로 흘러간 것 같고",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4c",
+     "reason": "몸이 변했다는 내용은 있으나, 환경에 맞춘 재구성이라는 내용은 없다.",
+     "evidence_quote": "그 물에 빠져서 몸이 변한 것 같습니다.",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4d",
+     "reason": "반응이 일어나는 조건에 관한 내용이 전혀 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "두 사건이 같은 물질과 관련 있다고만 적었고, 결과가 어떻게 갈렸는지는 없다.",
+     "evidence_quote": "같은 약품 때문에 생긴 일입니다.",
+     "source_question_id": "m3",
+     "level_id": "partial"
+    },
+    {
+     "id": "6b",
+     "reason": "두 사건이 이어진다고만 적었고, 직접 원인과 배경을 구분하지 않았다.",
+     "evidence_quote": "같은 약품 때문에 생긴 일입니다.",
+     "source_question_id": "m3",
+     "level_id": "partial"
+    },
+    {
+     "id": "6c",
+     "reason": "바다 생물이나 수조 생물의 변화가 언급되지 않았고, 같은 현상으로 묶지도 않았다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "시제품이 섞인 음료를 모두에게 마시게 했다는 점과 알코올과의 반응, 오웬의 생존에 관한 내용이 빠졌습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품이 개수대나 배수구를 통해 바다로 흘러나갔다는 경로와, 물질이 섬 북쪽 만에 모였다는 점, 환경에 맞춘 재구성이라는 구체적 변화 내용이 부족합니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질과 관련 있다는 점은 적었으나, 결과가 갈라진 점과 직접 원인과 배경의 구분, 수조와 바다 생물의 같은 현상 연결이 빠졌습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_injection",
+  "total": 0,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {},
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [
+   "m1",
+   "m2",
+   "m3"
+  ],
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "cached": 0,
+  "sec": 0,
+  "feedback": {},
+  "raw_ai": {}
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_injection",
+  "total": 0,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {},
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [
+   "m1",
+   "m2",
+   "m3"
+  ],
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "cached": 0,
+  "sec": 0,
+  "feedback": {},
+  "raw_ai": {}
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_terse",
+  "total": 100,
+  "per": {
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "full",
+   "6b": "full",
+   "6c": "full"
+  },
+  "q": {
+   "m1": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2893,
+  "cached": 2432,
+  "tokens_out": 927,
+  "sec": 12.4,
+  "feedback": {
+   "m1": "마이어스가 건배를 구실로 시제품 음료를 마시게 한 점과 오웬의 술과 반응해 노화가 일어난 점, 오웬이 살아남은 이유를 잘 적었습니다.",
+   "m2": "시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나가 북쪽 만에 모였고, 생명체 몸을 환경에 맞게 재구성하며 반응 조건도 정확히 적었습니다.",
+   "m3": "두 사건이 같은 물질에서 갈라졌고, 직접 원인과 배경을 구분했으며, 수조와 바다 생물의 변화를 같은 현상으로 묶은 점이 잘 드러났습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다고 적었다.",
+     "evidence_quote": "마이어스가 건배하자고 시제품 탄 음료 먹임",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5b",
+     "reason": "오웬이 몰래 섞은 술(알코올)과 시제품이 반응해 진화가 노화로 바뀌었다고 적었다.",
+     "evidence_quote": "오웬이 넣은 술이랑 반응해서 노화",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬은 조금만 마셔서 죽지 않고 늙은 채 살아남았다고 적었다.",
+     "evidence_quote": "오웬은 적게 마셔서 늙기만 하고 살아남음",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설의 시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나갔다고 적었다.",
+     "evidence_quote": "개수대에 쏟은 칵테일이 배수관으로 바다에 나감",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "그 물질이 해류를 타고 섬 북쪽 만에 모여 고였다고 적었다.",
+     "evidence_quote": "해류 타고 북쪽 만에 고임",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "그 물질이 생명체의 몸을 환경에 가장 알맞은 구조로 재구성(급속 진화)한다고 적었다.",
+     "evidence_quote": "몸을 환경에 맞는 구조로 다시 만듦(급속 진화)",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹칠 때 반응이 강하게 일어난다고 적었다.",
+     "evidence_quote": "죽어 갈수록 강함. 물질이 옅어지기 전이라 가능",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "6a",
+     "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다(마신 사람은 노화, 바다에서는 어슐라의 재구성).",
+     "evidence_quote": "같은 물질이 갈라진 결과. 마신 사람은 노화, 바다는 어슐라 진화",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인은 어슐라의 복수이고, 연구시설 사고는 그 배경이라고 구분해서 적었다.",
+     "evidence_quote": "직접 원인은 복수",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6c",
+     "reason": "수조에서 랍스터가 게로 변하는 것과 섬 앞바다 게 이상 현상을 같은 물질이 일으킨 같은 현상으로 묶어 적었다.",
+     "evidence_quote": "수조 랍스터가 게로 변하는 것도 섬 앞바다 게 이상 현상도 같은 물질 때문",
+     "source_question_id": "m3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "마이어스가 건배를 구실로 시제품 음료를 마시게 한 점과 오웬의 술과 반응해 노화가 일어난 점, 오웬이 살아남은 이유를 잘 적었습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나가 북쪽 만에 모였고, 생명체 몸을 환경에 맞게 재구성하며 반응 조건도 정확히 적었습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질에서 갈라졌고, 직접 원인과 배경을 구분했으며, 수조와 바다 생물의 변화를 같은 현상으로 묶은 점이 잘 드러났습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_terse",
+  "total": 100,
+  "per": {
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "full",
+   "6b": "full",
+   "6c": "full"
+  },
+  "q": {
+   "m1": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2893,
+  "cached": 2688,
+  "tokens_out": 969,
+  "sec": 12.5,
+  "feedback": {
+   "m1": "마이어스가 건배를 구실로 시제품 음료를 모두에게 마시게 했고, 오웬이 술을 몰래 섞어 반응해 노화가 일어났으며 오웬은 적게 마셔 살아남은 점을 잘 적었습니다.",
+   "m2": "시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나가 북쪽 만에 모였고, 그 물질이 생명체를 환경에 맞게 재구성하며 죽음에 가까울수록 강하게 반응한다는 조건까지 정확히 적었습니다.",
+   "m3": "두 사건이 같은 물질에서 갈라진 결과임을 밝히고, 마을 죽음의 직접 원인과 연구시설 사고의 배경 구분, 수조와 바다 생물의 변화를 같은 현상으로 묶은 점이 모두 잘 드러났습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다고 적었다.",
+     "evidence_quote": "마이어스가 건배하자고 시제품 탄 음료 먹임",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5b",
+     "reason": "오웬이 몰래 섞은 술(알코올)과 시제품이 반응해 진화가 노화로 바뀌었다고 적었다.",
+     "evidence_quote": "오웬이 넣은 술이랑 반응해서 노화",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬은 조금만 마셔서 죽지 않고 늙은 채 살아남았다고 적었다.",
+     "evidence_quote": "오웬은 적게 마셔서 늙기만 하고 살아남음",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설의 시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나갔다고 적었다.",
+     "evidence_quote": "개수대에 쏟은 칵테일이 배수관으로 바다에 나감",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "그 물질이 해류를 타고 섬 북쪽 만에 모여 고였다고 적었다.",
+     "evidence_quote": "해류 타고 북쪽 만에 고임",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "그 물질이 생명체의 몸을 환경에 가장 알맞은 구조로 재구성(급속 진화)한다고 적었다.",
+     "evidence_quote": "몸을 환경에 맞는 구조로 다시 만듦(급속 진화)",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹칠 때 반응이 강하게 일어난다고 적었다.",
+     "evidence_quote": "죽어 갈수록 강함. 물질이 옅어지기 전이라 가능",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "6a",
+     "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다(마신 사람은 노화, 바다에서는 어슐라의 재구성).",
+     "evidence_quote": "같은 물질이 갈라진 결과. 마신 사람은 노화, 바다는 어슐라 진화",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인은 어슐라의 복수이고, 연구시설 사고는 그 배경이라고 구분해서 적었다.",
+     "evidence_quote": "직접 원인은 복수",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6c",
+     "reason": "수조에서 랍스터가 게로 변하는 것과 섬 주변 바다에서 게가 이상하게 늘어난 것을 같은 물질이 일으킨 같은 현상으로 묶어 적었다.",
+     "evidence_quote": "수조 랍스터가 게로 변하는 것도 섬 앞바다 게 이상 현상도 같은 물질 때문",
+     "source_question_id": "m3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "마이어스가 건배를 구실로 시제품 음료를 모두에게 마시게 했고, 오웬이 술을 몰래 섞어 반응해 노화가 일어났으며 오웬은 적게 마셔 살아남은 점을 잘 적었습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나가 북쪽 만에 모였고, 그 물질이 생명체를 환경에 맞게 재구성하며 죽음에 가까울수록 강하게 반응한다는 조건까지 정확히 적었습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질에서 갈라진 결과임을 밝히고, 마을 죽음의 직접 원인과 연구시설 사고의 배경 구분, 수조와 바다 생물의 변화를 같은 현상으로 묶은 점이 모두 잘 드러났습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_one_only",
+  "total": 40,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 6,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2782,
+  "cached": 1920,
+  "tokens_out": 434,
+  "sec": 6.2,
+  "feedback": {
+   "m2": "물질이 흘러나간 경로와 위치, 그리고 그 물질이 생명체에 미치는 영향과 반응 조건을 모두 잘 적었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "4a",
+     "reason": "답안에 연구시설의 시제품 칵테일이 개수대에 쏟아져 배수관을 타고 바다로 흘러나갔다고 명확히 적혀 있다.",
+     "evidence_quote": "8월 30일 밤 연구시설 개수대에 쏟은 시제품 칵테일이 배수관을 타고 바다로 흘러나갔습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "답안에 그 물질이 해류를 따라 섬 북쪽 만에 모여 고였다고 적혀 있다.",
+     "evidence_quote": "지도에 그려진 해류를 따라 섬 북쪽 만에 모여 고였고",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "답안에 물질이 생명체 몸을 환경에 알맞은 구조로 재구성(급속 진화)한다고 적혀 있다.",
+     "evidence_quote": "이 물질은 생명체의 몸을 그 환경에 가장 알맞은 구조로 다시 만들고(급속 진화)",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "답안에 물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태의 생명체라는 조건이 겹칠 때 반응이 강하게 일어난다고 적혀 있다.",
+     "evidence_quote": "죽음에 가까울수록 강하게 일어납니다. 물질이 옅어지기 전에 그 물속에서 죽어가던 생명체가 있었다면 반응이 일어날 수 있었습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m2",
+     "text": "물질이 흘러나간 경로와 위치, 그리고 그 물질이 생명체에 미치는 영향과 반응 조건을 모두 잘 적었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_one_only",
+  "total": 40,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 6,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2782,
+  "cached": 2560,
+  "tokens_out": 457,
+  "sec": 6.6,
+  "feedback": {
+   "m2": "물질이 흘러나간 경로와 장소, 그리고 생명체에 미치는 급속 진화 효과와 반응 조건을 모두 잘 적었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "4a",
+     "reason": "답안에 연구시설의 시제품 칵테일이 개수대에 쏟아져 배수관을 타고 바다로 흘러나갔다고 적혀 있어 단계 full 기준을 충족한다.",
+     "evidence_quote": "8월 30일 밤 연구시설 개수대에 쏟은 시제품 칵테일이 배수관을 타고 바다로 흘러나갔습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "답안에 물질이 해류를 따라 섬 북쪽 만에 모여 고였다고 적혀 있어 단계 full 기준을 충족한다.",
+     "evidence_quote": "지도에 그려진 해류를 따라 섬 북쪽 만에 모여 고였고",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "답안에 물질이 생명체 몸을 환경에 가장 알맞은 구조로 다시 만든다고(급속 진화) 적혀 있어 단계 full 기준을 충족한다.",
+     "evidence_quote": "이 물질은 생명체의 몸을 그 환경에 가장 알맞은 구조로 다시 만들고(급속 진화)",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "답안에 물질이 옅어지기 전이라는 시기와 죽음에 가까울수록 강하다는 조건이 겹칠 때 반응이 강하게 일어난다고 적혀 있어 단계 full 기준을 충족한다.",
+     "evidence_quote": "죽음에 가까울수록 강하게 일어납니다. 물질이 옅어지기 전에 그 물속에서 죽어가던 생명체가 있었다면 반응이 일어날 수 있었습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m2",
+     "text": "물질이 흘러나간 경로와 장소, 그리고 생명체에 미치는 급속 진화 효과와 반응 조건을 모두 잘 적었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_misconception",
+  "total": 0,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2739,
+  "cached": 2560,
+  "tokens_out": 884,
+  "sec": 12.4,
+  "feedback": {
+   "m1": "연구시설 사람들에게 무슨 일이 있었는지 원인과 함께 적지 못했고, 독가스라는 틀린 원인을 썼습니다.",
+   "m2": "연구시설에서 흘러나간 물질과 그 경로, 흘러간 곳과 일으킬 수 있는 변화를 전혀 적지 못했습니다.",
+   "m3": "마을과 연구시설 사건의 관계를 부정하여, 두 사건의 연결과 구분된 원인, 같은 현상에 대해 전혀 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 독가스가 새어 나와서 죽었다고만 적었다.",
+     "evidence_quote": "독가스가 새어 나와서 죽었습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5b",
+     "reason": "답안에 술(알코올)과 시제품의 반응이나 노화로 바뀌었다는 내용이 없고, 독가스가 원인이라고만 적었다.",
+     "evidence_quote": "독가스가 새어 나와서 죽었습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이 없고, 독가스가 원인이라고만 적었다.",
+     "evidence_quote": "독가스가 새어 나와서 죽었습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "답안에 연구시설의 시제품이나 약품이 개수대나 배수구를 통해 바다로 흘러나갔다는 내용이 없고, 우주에서 온 바이러스에 감염되었다고만 적었다.",
+     "evidence_quote": "우주에서 온 바이러스에 감염되었습니다.",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4b",
+     "reason": "답안에 물질이 해류를 타고 섬 북쪽 만에 모여 고였다는 내용이 없고, 우주에서 온 바이러스에 감염되었다고만 적었다.",
+     "evidence_quote": "우주에서 온 바이러스에 감염되었습니다.",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "답안에 물질이 생명체 몸을 환경에 맞게 재구성한다는 내용이 없고, 우주에서 온 바이러스에 감염되었다고만 적었다.",
+     "evidence_quote": "우주에서 온 바이러스에 감염되었습니다.",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4d",
+     "reason": "답안에 물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹쳐야 반응이 강하게 일어난다는 내용이 없고, 우주에서 온 바이러스에 감염되었다고만 적었다.",
+     "evidence_quote": "우주에서 온 바이러스에 감염되었습니다.",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "답안에 두 결과가 같은 물질에서 갈라졌다는 내용이 없고, 마을과 연구시설 사건이 관계 없다고만 적었다.",
+     "evidence_quote": "관계 없습니다.",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6b",
+     "reason": "답안에 마을 사람들의 죽음의 직접 원인과 연구시설 사고의 배경을 구분한 내용이 없고, 두 사건이 관계 없다고만 적었다.",
+     "evidence_quote": "관계 없습니다.",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6c",
+     "reason": "답안에 연구시설 수조와 섬 주변 바다 생물의 같은 현상에 대한 내용이 없고, 두 사건이 관계 없다고만 적었다.",
+     "evidence_quote": "관계 없습니다.",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "연구시설 사람들에게 무슨 일이 있었는지 원인과 함께 적지 못했고, 독가스라는 틀린 원인을 썼습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "연구시설에서 흘러나간 물질과 그 경로, 흘러간 곳과 일으킬 수 있는 변화를 전혀 적지 못했습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "마을과 연구시설 사건의 관계를 부정하여, 두 사건의 연결과 구분된 원인, 같은 현상에 대해 전혀 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_misconception",
+  "total": 0,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2739,
+  "cached": 1920,
+  "tokens_out": 834,
+  "sec": 10.4,
+  "feedback": {
+   "m1": "연구시설 사람들에게 시제품이 섞인 음료를 마시게 한 사실과 알코올과의 반응, 오웬의 생존에 대해 적지 못했습니다.",
+   "m2": "시제품이 개수대나 배수구를 통해 바다로 흘러나가 북쪽 만에 모였고, 생명체를 환경에 맞게 재구성한다는 점을 놓쳤습니다.",
+   "m3": "마을과 연구시설 사건이 같은 물질에서 갈라진 결과라는 점과 직접 원인 구분, 수조와 바다 생물의 같은 현상 연결을 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 독가스가 새어 나와서 죽었다고만 적었다.",
+     "evidence_quote": "독가스가 새어 나와서 죽었습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5b",
+     "reason": "답안에 술(알코올)과 시제품의 반응이나 노화로 바뀌었다는 내용이 없고, 독가스가 원인이라고만 적었다.",
+     "evidence_quote": "독가스가 새어 나와서 죽었습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이 없고, 독가스가 원인이라고만 적었다.",
+     "evidence_quote": "독가스가 새어 나와서 죽었습니다.",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "시설에서 바깥으로 흘러나간 것이 시제품이라는 내용이 없고, 우주에서 온 바이러스에 감염되었다고만 적었다.",
+     "evidence_quote": "우주에서 온 바이러스에 감염되었습니다.",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4b",
+     "reason": "물질이 어디로 갔는지에 대한 내용이 없고, 우주에서 온 바이러스에 감염되었다고만 적었다.",
+     "evidence_quote": "우주에서 온 바이러스에 감염되었습니다.",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "물질이 생명체 몸을 환경에 맞게 재구성한다는 내용이 없고, 우주에서 온 바이러스에 감염되었다고만 적었다.",
+     "evidence_quote": "우주에서 온 바이러스에 감염되었습니다.",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4d",
+     "reason": "반응이 일어나는 조건에 대한 내용이 없고, 우주에서 온 바이러스에 감염되었다고만 적었다.",
+     "evidence_quote": "우주에서 온 바이러스에 감염되었습니다.",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "두 결과가 같은 물질에서 갈라졌다는 내용이 없고, 마을과 연구시설 사건이 관계 없다고만 적었다.",
+     "evidence_quote": "관계 없습니다.",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인과 연구시설 사고의 배경 구분이 없고, 두 사건이 관계 없다고만 적었다.",
+     "evidence_quote": "관계 없습니다.",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6c",
+     "reason": "수조와 바다 생물의 같은 현상에 대한 내용이 없고, 두 사건이 관계 없다고만 적었다.",
+     "evidence_quote": "관계 없습니다.",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "연구시설 사람들에게 시제품이 섞인 음료를 마시게 한 사실과 알코올과의 반응, 오웬의 생존에 대해 적지 못했습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품이 개수대나 배수구를 통해 바다로 흘러나가 북쪽 만에 모였고, 생명체를 환경에 맞게 재구성한다는 점을 놓쳤습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "마을과 연구시설 사건이 같은 물질에서 갈라진 결과라는 점과 직접 원인 구분, 수조와 바다 생물의 같은 현상 연결을 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_paraphrase",
+  "total": 100,
+  "per": {
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "full",
+   "6b": "full",
+   "6c": "full"
+  },
+  "q": {
+   "m1": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 3012,
+  "cached": 1920,
+  "tokens_out": 1052,
+  "sec": 12.5,
+  "feedback": {
+   "m1": "마이어스가 건배를 구실로 시제품 음료를 돌리고, 오웬이 술을 섞어 노화 반응을 일으킨 점과 오웬이 살아남은 이유를 잘 적었습니다.",
+   "m2": "시제품이 배수구를 통해 바다로 흘러나가 북쪽 만에 모였고, 생명체 몸을 환경에 맞게 재구성하며 반응 조건도 정확히 적었습니다.",
+   "m3": "두 사건이 같은 물질에서 갈라진 결과임을 명확히 하고, 직접 원인 구분과 수조와 바다 생물의 같은 현상도 잘 설명했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다고 적었다.",
+     "evidence_quote": "소장이 기념 건배를 하자며 실험 중인 물질을 넣은 음료를 전원에게 돌렸습니다",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5b",
+     "reason": "오웬이 몰래 섞은 술(알코올)과 시제품이 반응해 진화가 노화로 바뀌었다고 적었다.",
+     "evidence_quote": "오웬이 먼저 술을 타 놓은 탓에 알코올과 섞여 효과가 노화 쪽으로 틀어졌고",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬은 조금만 마셔서 죽지 않고 늙은 채(치매 노인처럼) 살아남았다고 적었다.",
+     "evidence_quote": "오웬만 양이 적어서 늙기만 하고 살아남았습니다",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설의 시제품(시약)이 시설의 배수구를 통해 바다로 흘러나갔다고 적었다.",
+     "evidence_quote": "연구시설 배수구로 버려진 시약이",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "그 물질이 해류를 타고 섬 북쪽 만(후미)에 모여 고였다고 적었다.",
+     "evidence_quote": "해류를 타고 섬 북쪽 후미에 모여 있었습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "그 물질이 생명체의 몸을 환경에 가장 알맞은 구조로 재구성(급속 진화, 적응)한다고 적었다.",
+     "evidence_quote": "몸을 주변 환경에 알맞은 형태로 새로 짜 놓는 성질이 있고",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와, 죽음에 가까운 상태의 생명체라는 조건이 겹칠 때 반응이 강하게 일어난다고 적었다.",
+     "evidence_quote": "죽음에 가까운 생명체일수록 더 강하게 반응합니다. 시약이 옅어지기 전이어야 일어나는 일이라 시기가 맞아야 했습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "6a",
+     "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다(마신 사람은 노화, 바다에서는 어슐라의 재구성).",
+     "evidence_quote": "한 뿌리에서 나온 별개의 결과입니다. 시설에서는 마신 사람이 노화로 죽었고, 흘러간 물질은 바다에서 어슐라를 바꿔 놓았습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인은 어슐라의 복수이고, 연구시설 사고는 그 배경이라고 구분해서 적었다.",
+     "evidence_quote": "마을 사람들을 죽게 한 직접적인 이유는 시설 사고가 아니라 어슐라의 복수입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6c",
+     "reason": "연구시설 수조에서 랍스터가 게의 모습으로 변해 가는 것과 섬 주변 바다에서 게가 이상하게 늘어난 것(또는 바다 생물이 게를 닮아 가는 것)을 같은 물질이 일으킨 같은 현상으로 묶어 적었다.",
+     "evidence_quote": "시설 수조에서 랍스터가 게로 바뀌어 가는 것과 섬 앞에서 잡힌 이상한 게들도 같은 물질이 일으킨 같은 변화입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "마이어스가 건배를 구실로 시제품 음료를 돌리고, 오웬이 술을 섞어 노화 반응을 일으킨 점과 오웬이 살아남은 이유를 잘 적었습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품이 배수구를 통해 바다로 흘러나가 북쪽 만에 모였고, 생명체 몸을 환경에 맞게 재구성하며 반응 조건도 정확히 적었습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질에서 갈라진 결과임을 명확히 하고, 직접 원인 구분과 수조와 바다 생물의 같은 현상도 잘 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_paraphrase",
+  "total": 100,
+  "per": {
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "full",
+   "6b": "full",
+   "6c": "full"
+  },
+  "q": {
+   "m1": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 3012,
+  "cached": 2816,
+  "tokens_out": 1102,
+  "sec": 12.7,
+  "feedback": {
+   "m1": "마이어스가 건배를 구실로 시제품 음료를 돌리고, 오웬이 술을 섞어 노화 반응을 일으킨 점과 오웬이 살아남은 이유를 잘 적었습니다.",
+   "m2": "시제품이 배수구를 통해 바다로 흘러나가 섬 북쪽 만에 모였고, 생명체를 환경에 맞게 재구성하며 반응 조건도 정확히 적었습니다.",
+   "m3": "두 사건이 같은 물질에서 갈라진 결과임을 명확히 하고, 직접 원인 구분과 수조와 바다 생물의 같은 현상도 잘 설명했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스(소장)가 건배(기념 행사)를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다고 적었다.",
+     "evidence_quote": "소장이 기념 건배를 하자며 실험 중인 물질을 넣은 음료를 전원에게 돌렸습니다",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5b",
+     "reason": "오웬이 몰래 섞은 술(알코올, C2H5OH)과 시제품이 반응해 진화가 노화로 바뀌었다고 적었다.",
+     "evidence_quote": "오웬이 먼저 술을 타 놓은 탓에 알코올과 섞여 효과가 노화 쪽으로 틀어졌고",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬은 조금만 마셔서 죽지 않고 늙은 채(치매 노인처럼) 살아남았다고 적었다.",
+     "evidence_quote": "오웬만 양이 적어서 늙기만 하고 살아남았습니다",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설의 시제품(시약, 칵테일 등)이 시설의 개수대나 배수구(배수관)를 통해 바다로 흘러나갔다고 적었다.",
+     "evidence_quote": "연구시설 배수구로 버려진 시약이 해류를 타고",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "그 물질이 해류를 타고 섬 북쪽 만(후미)에 모여 고였다고 적었다.",
+     "evidence_quote": "해류를 타고 섬 북쪽 후미에 모여 있었습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "그 물질이 생명체의 몸을 환경에 가장 알맞은 구조로 재구성(급속 진화, 적응)한다고 적었다.",
+     "evidence_quote": "이 시약은 몸을 주변 환경에 알맞은 형태로 새로 짜 놓는 성질이 있고",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와, 죽음에 가까운 상태의 생명체라는 조건이 겹칠 때 반응이 강하게 일어난다고 적었다.",
+     "evidence_quote": "죽음에 가까운 생명체일수록 더 강하게 반응합니다. 시약이 옅어지기 전이어야 일어나는 일이라 시기가 맞아야 했습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "6a",
+     "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다(마신 사람은 노화, 바다에서는 어슐라의 재구성).",
+     "evidence_quote": "연구시설의 사고와 마을 연쇄 죽음은 한 뿌리에서 나온 별개의 결과입니다. 시설에서는 마신 사람이 노화로 죽었고, 흘러간 물질은 바다에서 어슐라를 바꿔 놓았습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인은 어슐라의 복수이고, 연구시설 사고는 그 배경이라고 구분해서 적었다.",
+     "evidence_quote": "마을 사람들을 죽게 한 직접적인 이유는 시설 사고가 아니라 어슐라의 복수입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6c",
+     "reason": "연구시설 수조에서 랍스터가 게의 모습으로 변해 가는 것과 섬 주변 바다에서 게가 이상하게 늘어난 것(또는 바다 생물이 게를 닮아 가는 것)을 같은 물질이 일으킨 같은 현상으로 묶어 적었다.",
+     "evidence_quote": "시설 수조에서 랍스터가 게로 바뀌어 가는 것과 섬 앞에서 잡힌 이상한 게들도 같은 물질이 일으킨 같은 변화입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "마이어스가 건배를 구실로 시제품 음료를 돌리고, 오웬이 술을 섞어 노화 반응을 일으킨 점과 오웬이 살아남은 이유를 잘 적었습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품이 배수구를 통해 바다로 흘러나가 섬 북쪽 만에 모였고, 생명체를 환경에 맞게 재구성하며 반응 조건도 정확히 적었습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질에서 갈라진 결과임을 명확히 하고, 직접 원인 구분과 수조와 바다 생물의 같은 현상도 잘 설명했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_no_destination",
+  "total": 20,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "full",
+   "4b": "none",
+   "4c": "full",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 6,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2688,
+  "cached": 1920,
+  "tokens_out": 353,
+  "sec": 4.6,
+  "feedback": {
+   "m2": "개수대와 배수관을 통한 바다 유출과 물질의 재구성 작용을 잘 적었으나, 물질이 섬 북쪽 만에 모였다는 점과 반응 조건은 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "4a",
+     "reason": "답안에 연구시설의 시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나갔다고 명확히 적혀 있다.",
+     "evidence_quote": "개수대에 쏟은 칵테일이 배수관으로 바다에 흘러나갔습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "답안에 물질이 섬 북쪽 만(후미)에 모였다는 내용이 없으므로 partial 기준도 충족하지 않는다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "답안에 물질이 생명체 몸을 환경에 가장 알맞은 구조로 재구성한다고 적혀 있어 full 기준을 충족한다.",
+     "evidence_quote": "그 물질은 생명체의 몸을 환경에 가장 알맞은 구조로 재구성합니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "답안에 반응이 일어나는 조건(물질이 옅어지기 전, 죽음에 가까운 상태)이 언급되지 않았다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m2",
+     "text": "개수대와 배수관을 통한 바다 유출과 물질의 재구성 작용을 잘 적었으나, 물질이 섬 북쪽 만에 모였다는 점과 반응 조건은 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_no_destination",
+  "total": 20,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "full",
+   "4b": "none",
+   "4c": "full",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 6,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2688,
+  "cached": 2560,
+  "tokens_out": 353,
+  "sec": 4.6,
+  "feedback": {
+   "m2": "개수대와 배수관을 통한 바다 유출과 물질의 재구성 작용은 잘 적었으나, 물질이 섬 북쪽 만에 모였다는 점과 반응 조건은 빠졌다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "4a",
+     "reason": "답안에 연구시설의 시제품 칵테일이 개수대와 배수관을 통해 바다로 흘러나갔다고 명확히 적혀 있다.",
+     "evidence_quote": "개수대에 쏟은 칵테일이 배수관으로 바다에 흘러나갔습니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "답안에 물질이 섬 북쪽 만(후미)에 모였다는 내용이 없으므로 partial 기준도 충족하지 않는다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "답안에 물질이 생명체 몸을 환경에 가장 알맞은 구조로 재구성한다고 적혀 있어 full 기준에 부합한다.",
+     "evidence_quote": "그 물질은 생명체의 몸을 환경에 가장 알맞은 구조로 재구성합니다",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "답안에 반응이 일어나는 조건(물질이 옅어지기 전, 죽음에 가까운 상태)이 전혀 언급되지 않았다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m2",
+     "text": "개수대와 배수관을 통한 바다 유출과 물질의 재구성 작용은 잘 적었으나, 물질이 섬 북쪽 만에 모였다는 점과 반응 조건은 빠졌다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_misplaced",
+  "total": 100,
+  "per": {
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "full",
+   "6b": "full",
+   "6c": "full"
+  },
+  "q": {
+   "m1": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2997,
+  "cached": 1920,
+  "tokens_out": 1047,
+  "sec": 12.1,
+  "feedback": {
+   "m3": "마을과 연구시설 사건의 관계를 매우 잘 설명했으나, 질문이 m3임에도 m1과 m2 내용도 모두 포함해 답변했다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스(소장)가 건배(기념 행사)를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다고 적었다.",
+     "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로 시제품을 섞은 무알콜 칵테일을 모두에게 마시게 했습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "5b",
+     "reason": "오웬이 몰래 섞은 술(알코올, C2H5OH)과 시제품이 반응해 진화가 노화로 바뀌었다고 적었다.",
+     "evidence_quote": "오웬이 낮에 몰래 술을 섞어 두었는데, 시제품이 알코올(C2H5OH)과 만나 진화가 노화로 바뀌었습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬은 조금만 마셔서 죽지 않고 늙은 채(치매 노인처럼) 살아남았다고 적었다.",
+     "evidence_quote": "오웬은 조금만 마셔서 죽지 않고 치매 노인처럼 늙은 채 살아남았습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설의 시제품(시약, 칵테일 등)이 시설의 개수대나 배수구(배수관)를 통해 바다로 흘러나갔다고 적었다.",
+     "evidence_quote": "8월 30일 밤 연구시설 개수대에 쏟은 시제품 칵테일이 배수관을 타고 바다로 흘러나갔습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "그 물질이 해류를 타고 섬 북쪽 만(후미)에 모여 고였다고 적었다.",
+     "evidence_quote": "지도에 그려진 해류를 따라 섬 북쪽 만에 모여 고였고, 다음 날 낮에도 남아 있었습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "그 물질이 생명체의 몸을 환경에 가장 알맞은 구조로 재구성(급속 진화, 적응)한다고 적었다.",
+     "evidence_quote": "이 물질은 생명체의 몸을 그 환경에 가장 알맞은 구조로 다시 만들고(급속 진화)",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와, 죽음에 가까운 상태의 생명체라는 조건이 겹칠 때 반응이 강하게 일어난다고 적었다.",
+     "evidence_quote": "죽음에 가까울수록 강하게 일어납니다. 물질이 옅어지기 전에 그 물속에서 죽어가던 생명체가 있었다면 반응이 일어날 수 있었습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6a",
+     "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다(마신 사람은 노화, 바다에서는 어슐라의 재구성).",
+     "evidence_quote": "같은 물질에서 갈라진 두 결과입니다. 마신 연구원들은 노화로 죽었고 바다로 흘러간 물질은 어슐라를 재구성했습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인은 어슐라의 복수이고, 연구시설 사고는 그 배경이라고 구분해서 적었다.",
+     "evidence_quote": "시설 사고는 마을 죽음의 직접 원인이 아니고 직접 원인은 어슐라의 복수입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6c",
+     "reason": "연구시설 수조에서 랍스터가 게의 모습으로 변해 가는 것과 섬 주변 바다에서 게가 이상하게 늘어난 것(또는 바다 생물이 게를 닮아 가는 것)을 같은 물질이 일으킨 같은 현상으로 묶어 적었다.",
+     "evidence_quote": "시설 수조의 랍스터가 게의 모습으로 변해 가는 것과 섬 앞바다 통발에 게가 이상하게 올라온 것도 같은 물질이 생물을 바꾼 같은 현상입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m3",
+     "text": "마을과 연구시설 사건의 관계를 매우 잘 설명했으나, 질문이 m3임에도 m1과 m2 내용도 모두 포함해 답변했다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_misplaced",
+  "total": 100,
+  "per": {
+   "5a": "full",
+   "5b": "full",
+   "5c": "full",
+   "4a": "full",
+   "4b": "full",
+   "4c": "full",
+   "4d": "full",
+   "6a": "full",
+   "6b": "full",
+   "6c": "full"
+  },
+  "q": {
+   "m1": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2997,
+  "cached": 2816,
+  "tokens_out": 1045,
+  "sec": 13.5,
+  "feedback": {
+   "m3": "마을과 연구시설 사건의 관계를 매우 잘 설명했으나, 질문이 역할별로 다르므로 다른 문항 답안도 확인해야 한다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스(소장)가 건배(기념 행사)를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다고 적었다.",
+     "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로 시제품을 섞은 무알콜 칵테일을 모두에게 마시게 했습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "5b",
+     "reason": "오웬이 몰래 섞은 술(알코올, C2H5OH)과 시제품이 반응해 진화가 노화로 바뀌었다고 적었다.",
+     "evidence_quote": "오웬이 낮에 몰래 술을 섞어 두었는데, 시제품이 알코올(C2H5OH)과 만나 진화가 노화로 바뀌었습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬은 조금만 마셔서 죽지 않고 늙은 채(치매 노인처럼) 살아남았다고 적었다.",
+     "evidence_quote": "오웬은 조금만 마셔서 죽지 않고 치매 노인처럼 늙은 채 살아남았습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "4a",
+     "reason": "연구시설의 시제품(시약, 칵테일 등)이 시설의 개수대나 배수구(배수관)를 통해 바다로 흘러나갔다고 적었다.",
+     "evidence_quote": "8월 30일 밤 연구시설 개수대에 쏟은 시제품 칵테일이 배수관을 타고 바다로 흘러나갔습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "그 물질이 해류를 타고 섬 북쪽 만(후미)에 모여 고였다고 적었다.",
+     "evidence_quote": "지도에 그려진 해류를 따라 섬 북쪽 만에 모여 고였고, 다음 날 낮에도 남아 있었습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "그 물질이 생명체의 몸을 환경에 가장 알맞은 구조로 재구성(급속 진화, 적응)한다고 적었다.",
+     "evidence_quote": "이 물질은 생명체의 몸을 그 환경에 가장 알맞은 구조로 다시 만들고(급속 진화)",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와, 죽음에 가까운 상태의 생명체라는 조건이 겹칠 때 반응이 강하게 일어난다고 적었다.",
+     "evidence_quote": "죽음에 가까울수록 강하게 일어납니다. 물질이 옅어지기 전에 그 물속에서 죽어가던 생명체가 있었다면 반응이 일어날 수 있었습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6a",
+     "reason": "같은 물질에서 두 결과가 갈라졌다고 적었다(마신 사람은 노화, 바다에서는 어슐라의 재구성).",
+     "evidence_quote": "같은 물질에서 갈라진 두 결과입니다. 마신 연구원들은 노화로 죽었고 바다로 흘러간 물질은 어슐라를 재구성했습니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인은 어슐라의 복수이고, 연구시설 사고는 그 배경이라고 구분해서 적었다.",
+     "evidence_quote": "시설 사고는 마을 죽음의 직접 원인이 아니고 직접 원인은 어슐라의 복수입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    },
+    {
+     "id": "6c",
+     "reason": "연구시설 수조에서 랍스터가 게의 모습으로 변해 가는 것과 섬 주변 바다에서 게가 이상하게 늘어난 것(또는 바다 생물이 게를 닮아 가는 것)을 같은 물질이 일으킨 같은 현상으로 묶어 적었다.",
+     "evidence_quote": "시설 수조의 랍스터가 게의 모습으로 변해 가는 것과 섬 앞바다 통발에 게가 이상하게 올라온 것도 같은 물질이 생물을 바꾼 같은 현상입니다",
+     "source_question_id": "m3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m3",
+     "text": "마을과 연구시설 사건의 관계를 매우 잘 설명했으나, 질문이 역할별로 다르므로 다른 문항 답안도 확인해야 한다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_wrong_domain",
+  "total": 6,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "partial",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 6,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2942,
+  "cached": 1920,
+  "tokens_out": 901,
+  "sec": 11.0,
+  "feedback": {
+   "m1": "범인과 복수에 대해 적었으나, 시제품과 건배, 알코올과의 반응, 오웬의 생존 등 연구시설 사건의 구체적 원인은 적지 못했습니다.",
+   "m2": "어슐라가 몸을 바꾼 점은 적었으나, 연구시설 시제품이 배수구를 통해 바다로 흘러나가 북쪽 만에 모였고, 생명체를 재구성하는 물질이라는 점은 적지 못했습니다.",
+   "m3": "마을과 연구시설 사건의 관계를 묻는 질문에 밀수 조직과 가족 관계를 적었으나, 두 사건이 같은 물질에서 갈라졌고 직접 원인과 배경을 구분한 점은 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 시제품이나 음료를 마셨다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5b",
+     "reason": "술(알코올)과 시제품이 반응해 진화가 노화로 바뀌었다는 내용이 없고, 술(알코올)과 관련 있다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이 없고, 오웬에 관한 언급 자체가 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "시제품이나 약품이 개수대나 배수구를 통해 바다로 흘러나갔다는 내용이 없고, 배수구나 개수대가 언급된 것은 어슐라가 들어왔다는 내용이나 환풍구, 창틈이지만 연구시설에서 바깥으로 흘러나간 물질과는 무관하다.",
+     "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4b",
+     "reason": "물질이 섬 북쪽 만에 모여 고였다는 내용이 없고, 섬 근처나 섬 쪽으로 갔다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "물질이 생명체 몸을 환경에 맞게 재구성한다는 내용이 없고, 몸이 변한다는 내용도 어슐라가 몸을 바꿨다는 것 외에는 없다.",
+     "evidence_quote": "어슐라는 되살아나면서 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹칠 때 반응이 강하게 일어난다는 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "두 사건이 같은 물질에서 갈라졌다는 내용이 없고, 두 결과가 어떻게 갈렸는지에 대한 언급도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인이 어슐라의 복수이고 연구시설 사고는 그 배경이라는 구분이 없고, 두 사건이 이어진다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6c",
+     "reason": "수조와 바다 생물의 같은 현상에 대한 언급이 없고, 바다 생물이나 수조 생물이 변했다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "범인과 복수에 대해 적었으나, 시제품과 건배, 알코올과의 반응, 오웬의 생존 등 연구시설 사건의 구체적 원인은 적지 못했습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "어슐라가 몸을 바꾼 점은 적었으나, 연구시설 시제품이 배수구를 통해 바다로 흘러나가 북쪽 만에 모였고, 생명체를 재구성하는 물질이라는 점은 적지 못했습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "마을과 연구시설 사건의 관계를 묻는 질문에 밀수 조직과 가족 관계를 적었으나, 두 사건이 같은 물질에서 갈라졌고 직접 원인과 배경을 구분한 점은 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "마_wrong_domain",
+  "total": 0,
+  "per": {
+   "5a": "none",
+   "5b": "none",
+   "5c": "none",
+   "4a": "none",
+   "4b": "none",
+   "4c": "none",
+   "4d": "none",
+   "6a": "none",
+   "6b": "none",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2942,
+  "cached": 2816,
+  "tokens_out": 797,
+  "sec": 9.6,
+  "feedback": {
+   "m1": "범인과 복수에 관한 내용은 적었으나, 시제품과 건배, 알코올 반응, 오웬의 생존 등 연구시설 사건의 구체적 원인을 놓쳤습니다.",
+   "m2": "어슐라의 변신과 몸의 변화만 적었고, 연구시설 시제품이 배수구를 통해 바다로 흘러나가 북쪽 만에 모였으며 생명체를 재구성한다는 핵심 내용을 빠뜨렸습니다.",
+   "m3": "마을과 연구시설 사건의 관계를 범죄 조직 이야기로만 적어, 같은 물질에서 갈라진 결과와 직접 원인 구분, 수조와 바다 생물의 같은 현상 등 중요한 연결 고리를 놓쳤습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 시제품이나 음료를 마셨다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5b",
+     "reason": "술(알코올)과 시제품이 반응해 진화가 노화로 바뀌었다는 내용이 없고, 술(알코올)과 관련 있다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이 없고, 오웬에 관한 언급도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "시제품이 연구시설의 개수대나 배수구를 통해 바다로 흘러나갔다는 내용이 없고, 물질이 바다로 흘러나갔다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4b",
+     "reason": "물질이 해류를 타고 섬 북쪽 만에 모여 고였다는 내용이 없고, 섬 근처나 바다로 갔다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4c",
+     "reason": "물질이 생명체 몸을 환경에 맞게 재구성한다는 내용이 없고, 몸이 변한다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹칠 때 반응이 강하게 일어난다는 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "두 결과가 같은 물질에서 갈라졌다는 내용이 없고, 두 사건이 같은 물질과 관련 있다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인과 연구시설 사고의 배경을 구분해서 적은 내용이 없고, 두 사건이 이어진다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6c",
+     "reason": "수조와 바다 생물의 같은 현상에 관한 내용이 없고, 바다 생물이나 수조의 생물이 변했다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "범인과 복수에 관한 내용은 적었으나, 시제품과 건배, 알코올 반응, 오웬의 생존 등 연구시설 사건의 구체적 원인을 놓쳤습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "어슐라의 변신과 몸의 변화만 적었고, 연구시설 시제품이 배수구를 통해 바다로 흘러나가 북쪽 만에 모였으며 생명체를 재구성한다는 핵심 내용을 빠뜨렸습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "마을과 연구시설 사건의 관계를 범죄 조직 이야기로만 적어, 같은 물질에서 갈라진 결과와 직접 원인 구분, 수조와 바다 생물의 같은 현상 등 중요한 연결 고리를 놓쳤습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_perfect",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2665,
+  "cached": 2432,
+  "tokens_out": 843,
+  "sec": 10.0,
+  "feedback": {
+   "v1": "범인의 이름과 사촌 관계, 할아버지와 어슐라의 죽음, 복수 동기 모두 잘 적었으나 다른 인물을 범인으로 적지 않아 좋았습니다.",
+   "v2": "몸의 변화, 구체적 침입 경로, 팔이 여럿인 신체 특징을 모두 정확히 적었습니다.",
+   "v3": "마을 사람들의 조직 정체, 가짜 가족과 두목, 아서의 죽음 이유를 모두 잘 적었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라 콜린스와 베일라의 사촌임을 정확히 적었다.",
+     "evidence_quote": "범인은 베일라의 사촌인 어슐라 콜린스입니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "베일라와 어슐라의 할아버지 아서가 마을 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "20년 전 할아버지 아서가 마을 사람들에게 살해당했고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 8월 31일에 같은 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "되살아난 어슐라가 복수로 마을 사람들을 죽였다고 적었다.",
+     "evidence_quote": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "어슐라가 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었다고 적었다.",
+     "evidence_quote": "어슐라는 되살아나면서 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다.",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구, 환풍구, 창틈으로 들어왔다고 구체적인 경로를 적었다.",
+     "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 존재임을 적고 원형 멍 자국이 남았다고 적었다.",
+     "evidence_quote": "팔이 여럿이라 시신에 작은 원형 멍이 남았습니다.",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 2011년 소탕 때 도주한 밀수 조직 모란 일당의 수뇌부였다고 적었다.",
+     "evidence_quote": "마을 사람들은 2011년 소탕 때 도주한 밀수 조직 모란 일당의 수뇌부였습니다.",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "홀트 가족이 가짜 가족이고 에드거가 두목 프랭크 모란이라고 적었다.",
+     "evidence_quote": "홀트 가족은 가짜 가족이고 에드거가 두목 프랭크 모란이며",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거의 정체를 알아보자 입막음으로 살해해 북쪽 만에 가라앉혔다고 적었다.",
+     "evidence_quote": "아서가 그 흉터를 알아보자 입막음으로 죽여 북쪽 만에 가라앉혔습니다.",
+     "source_question_id": "v3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 이름과 사촌 관계, 할아버지와 어슐라의 죽음, 복수 동기 모두 잘 적었으나 다른 인물을 범인으로 적지 않아 좋았습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸의 변화, 구체적 침입 경로, 팔이 여럿인 신체 특징을 모두 정확히 적었습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들의 조직 정체, 가짜 가족과 두목, 아서의 죽음 이유를 모두 잘 적었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_perfect",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2665,
+  "cached": 2432,
+  "tokens_out": 838,
+  "sec": 9.8,
+  "feedback": {
+   "v1": "범인의 이름과 정체, 할아버지와 어슐라의 죽음, 복수 동기까지 모두 잘 적었으나 다른 인물을 범인으로 적지 않아 게이트는 없다.",
+   "v2": "몸의 변화, 구체적 침입 경로, 팔이 여럿인 신체 특징을 모두 정확히 적었다.",
+   "v3": "마을 사람들의 조직 정체, 가짜 가족과 두목, 아서의 죽음 경위까지 모두 잘 적었다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라 콜린스와 베일라의 사촌임을 정확히 적었다.",
+     "evidence_quote": "범인은 베일라의 사촌인 어슐라 콜린스입니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "베일라와 어슐라의 할아버지 아서가 마을 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "20년 전 할아버지 아서가 마을 사람들에게 살해당했고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 8월 31일에 같은 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "되살아난 어슐라가 복수로 마을 사람들을 죽였다고 적었다.",
+     "evidence_quote": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "어슐라가 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있다고 적었다.",
+     "evidence_quote": "어슐라는 되살아나면서 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구, 환풍구, 창틈으로 들어왔다고 구체적으로 적었다.",
+     "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라 시신에 작은 원형 멍이 남았다고 적었다.",
+     "evidence_quote": "팔이 여럿이라 시신에 작은 원형 멍이 남았습니다",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 2011년 소탕 때 도주한 밀수 조직 모란 일당의 수뇌부였다고 적었다.",
+     "evidence_quote": "마을 사람들은 2011년 소탕 때 도주한 밀수 조직 모란 일당의 수뇌부였습니다",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "홀트 가족이 가짜 가족이고 에드거가 두목 프랭크 모란이라고 적었다.",
+     "evidence_quote": "홀트 가족은 가짜 가족이고 에드거가 두목 프랭크 모란이며",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거의 정체를 알아보고 입막음으로 살해해 북쪽 만에 가라앉혔다고 적었다.",
+     "evidence_quote": "아서가 그 흉터를 알아보자 입막음으로 죽여 북쪽 만에 가라앉혔습니다",
+     "source_question_id": "v3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 이름과 정체, 할아버지와 어슐라의 죽음, 복수 동기까지 모두 잘 적었으나 다른 인물을 범인으로 적지 않아 게이트는 없다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸의 변화, 구체적 침입 경로, 팔이 여럿인 신체 특징을 모두 정확히 적었다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들의 조직 정체, 가짜 가족과 두목, 아서의 죽음 경위까지 모두 잘 적었다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_nonsense",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2416,
+  "cached": 1920,
+  "tokens_out": 467,
+  "sec": 5.7,
+  "feedback": {
+   "v1": "범인의 정체와 동기, 할아버지와 어슐라의 죽음에 관한 내용을 적지 못했습니다.",
+   "v3": "마을 사람들에 대해 구체적인 조직이나 인물 정보를 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 정체에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지의 죽음에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라의 죽음에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "동기에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3a",
+     "reason": "몸의 변화에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "3b",
+     "reason": "침입 경로에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 신체에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "조직의 정체에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서의 죽음에 관한 내용가 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 정체와 동기, 할아버지와 어슐라의 죽음에 관한 내용을 적지 못했습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들에 대해 구체적인 조직이나 인물 정보를 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_nonsense",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2416,
+  "cached": 2176,
+  "tokens_out": 509,
+  "sec": 6.1,
+  "feedback": {
+   "v1": "범인의 정체와 동기, 할아버지와 어슐라의 죽음에 관한 내용을 적지 못했습니다.",
+   "v3": "마을 사람들의 조직과 가족 관계, 아서의 죽음에 관한 구체적인 정보를 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 정체에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지의 죽음에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라의 죽음에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "동기인 복수에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3a",
+     "reason": "몸의 변화에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "3b",
+     "reason": "침입 경로에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 신체에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들의 조직 정체에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서의 죽음에 관한 내용이 없으므로 가장 낮은 단계 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 정체와 동기, 할아버지와 어슐라의 죽음에 관한 내용을 적지 못했습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들의 조직과 가족 관계, 아서의 죽음에 관한 구체적인 정보를 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_wrong_culprit",
+  "total": 26,
+  "per": {
+   "1a": "none",
+   "2a": "full",
+   "2b": "none",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "partial",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "v2": {
+    "score": 26,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2452,
+  "cached": 2304,
+  "tokens_out": 558,
+  "sec": 6.6,
+  "feedback": {
+   "v1": "범인을 오웬이라고 적어 범인 정체를 맞히지 못했고, 할아버지의 죽음과 복수 동기는 잘 적었으나 어슐라의 죽음과 조직 관련 내용은 빠졌다.",
+   "v2": "몸이 문어처럼 변하고 배수구로 침입한 점은 잘 적었으나 팔이 여럿이라는 점은 언급하지 않았다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인을 오웬이라고 적어 어슐라가 아니므로 none이다.",
+     "evidence_quote": "범인은 오웬입니다.",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지가 마을 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "20년 전 할아버지가 마을 사람들에게 살해당한 것",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라의 죽음에 관한 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "복수라고 적었다.",
+     "evidence_quote": "복수입니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "몸이 문어처럼 흐물흐물해졌다고 적었다.",
+     "evidence_quote": "몸이 문어처럼 흐물흐물해져서",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구로 들어왔다고 적었다.",
+     "evidence_quote": "배수구로 들어왔습니다",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "문어처럼 몸이 흐물흐물해졌다고 적었으나 팔이 여럿이라는 점은 적지 않았다.",
+     "evidence_quote": "몸이 문어처럼 흐물흐물해져서",
+     "source_question_id": "v2",
+     "level_id": "partial"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 밀수 조직 수뇌부였다는 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족이나 두목에 관한 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서의 죽음에 관한 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [
+    "g1"
+   ],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인을 오웬이라고 적어 범인 정체를 맞히지 못했고, 할아버지의 죽음과 복수 동기는 잘 적었으나 어슐라의 죽음과 조직 관련 내용은 빠졌다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸이 문어처럼 변하고 배수구로 침입한 점은 잘 적었으나 팔이 여럿이라는 점은 언급하지 않았다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_wrong_culprit",
+  "total": 26,
+  "per": {
+   "1a": "none",
+   "2a": "full",
+   "2b": "none",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "partial",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "v2": {
+    "score": 26,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2452,
+  "cached": 2304,
+  "tokens_out": 604,
+  "sec": 7.2,
+  "feedback": {
+   "v1": "범인을 오웬이라고 적어 어슐라가 아니므로 범인 정체는 인정받지 못했으나, 할아버지의 죽음과 복수 동기는 잘 적었습니다.",
+   "v2": "몸이 문어처럼 흐물흐물해졌고 배수구로 들어왔다는 점은 잘 적었으나, 팔이 여럿이라는 점은 빠졌습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인을 오웬이라고 적어 어슐라가 아니므로 none이다.",
+     "evidence_quote": "범인은 오웬입니다.",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지가 마을 사람들에게 살해당했다고 적었으므로 full이다.",
+     "evidence_quote": "20년 전 할아버지가 마을 사람들에게 살해당한 것",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라의 죽음에 관한 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "복수로 죽였다고 적었으므로 full이다.",
+     "evidence_quote": "복수입니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "몸이 문어처럼 흐물흐물해졌다고 적었으므로 full이다.",
+     "evidence_quote": "몸이 문어처럼 흐물흐물해져서",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구로 들어왔다고 적었으므로 full이다.",
+     "evidence_quote": "배수구로 들어왔습니다",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "문어처럼 몸이 흐물흐물해졌다고 적었으나 팔이 여럿이라는 점은 적지 않아 partial이다.",
+     "evidence_quote": "몸이 문어처럼 흐물흐물해져서",
+     "source_question_id": "v2",
+     "level_id": "partial"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 밀수 조직 수뇌부였다는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 관한 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거의 정체를 알아보고 살해당했다는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [
+    "g1"
+   ],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인을 오웬이라고 적어 어슐라가 아니므로 범인 정체는 인정받지 못했으나, 할아버지의 죽음과 복수 동기는 잘 적었습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸이 문어처럼 흐물흐물해졌고 배수구로 들어왔다는 점은 잘 적었으나, 팔이 여럿이라는 점은 빠졌습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_mediocre",
+  "total": 43,
+  "per": {
+   "1a": "partial",
+   "2a": "partial",
+   "2b": "partial",
+   "2c": "partial",
+   "3a": "partial",
+   "3b": "partial",
+   "3c": "none",
+   "7a": "partial",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 25,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 12,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 6,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2510,
+  "cached": 2304,
+  "tokens_out": 734,
+  "sec": 8.3,
+  "feedback": {
+   "v1": "범인이 베일라의 사촌임을 알았으나 이름 어슐라를 적지 않았고, 할아버지의 죽음과 어슐라의 죽음에 대해 살해당했다는 점을 명확히 적지 못했습니다.",
+   "v2": "몸이 변하고 좁은 곳으로 들어갔다는 점은 적었으나 구체적인 틈새 경로나 팔이 여럿인 신체에 관한 내용은 빠졌습니다.",
+   "v3": "마을 사람들이 범죄자였다는 점은 적었으나 조직의 구체적 정체와 가짜 가족, 두목 에드거에 관한 내용은 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "베일라의 사촌이라고 적었으나 이름 어슐라는 없으므로 partial 단계이다.",
+     "evidence_quote": "베일라의 사촌인 것 같고",
+     "source_question_id": "v1",
+     "level_id": "partial"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지가 20년 전에 사라진 것과 관련 있다고 적었으나 살해당했다는 내용은 없다.",
+     "evidence_quote": "할아버지가 20년 전에 사라진 것과 관련이 있어요",
+     "source_question_id": "v1",
+     "level_id": "partial"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라가 죽었다고만 적었고 마을 사람들이 죽였다는 내용은 없다.",
+     "evidence_quote": "베일라의 사촌인 것 같고, 마을 사람들에게 원한이 있어서 죽인 것 같습니다",
+     "source_question_id": "v1",
+     "level_id": "partial"
+    },
+    {
+     "id": "2c",
+     "reason": "원한이 있어서 죽였다고 적었으나 복수라는 표현은 없다.",
+     "evidence_quote": "마을 사람들에게 원한이 있어서 죽인 것 같습니다",
+     "source_question_id": "v1",
+     "level_id": "partial"
+    },
+    {
+     "id": "3a",
+     "reason": "몸이 변했다고만 적었고 형태를 바꾼다는 구체적 내용은 없다.",
+     "evidence_quote": "몸이 변해서 좁은 곳으로 들어왔을 것 같습니다",
+     "source_question_id": "v2",
+     "level_id": "partial"
+    },
+    {
+     "id": "3b",
+     "reason": "좁은 곳으로 들어왔다고만 적었고 구체적인 틈새 경로는 없다.",
+     "evidence_quote": "좁은 곳으로 들어왔을 것 같습니다",
+     "source_question_id": "v2",
+     "level_id": "partial"
+    },
+    {
+     "id": "3c",
+     "reason": "연체동물이나 팔이 여럿이라는 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 범죄자였다고만 적었고 조직이나 수뇌부라는 구체적 내용은 없다.",
+     "evidence_quote": "마을 사람들은 나쁜 짓을 한 범죄자들이었던 것 같습니다",
+     "source_question_id": "v3",
+     "level_id": "partial"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족이나 두목에 관한 내용가 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서의 죽음에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인이 베일라의 사촌임을 알았으나 이름 어슐라를 적지 않았고, 할아버지의 죽음과 어슐라의 죽음에 대해 살해당했다는 점을 명확히 적지 못했습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸이 변하고 좁은 곳으로 들어갔다는 점은 적었으나 구체적인 틈새 경로나 팔이 여럿인 신체에 관한 내용은 빠졌습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들이 범죄자였다는 점은 적었으나 조직의 구체적 정체와 가짜 가족, 두목 에드거에 관한 내용은 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_mediocre",
+  "total": 37,
+  "per": {
+   "1a": "partial",
+   "2a": "partial",
+   "2b": "none",
+   "2c": "partial",
+   "3a": "partial",
+   "3b": "partial",
+   "3c": "none",
+   "7a": "partial",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 19,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 12,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 6,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2510,
+  "cached": 2304,
+  "tokens_out": 714,
+  "sec": 7.8,
+  "feedback": {
+   "v1": "범인이 베일라의 사촌임을 알았으나 이름 어슐라를 적지 않았고, 할아버지의 죽음과 복수 동기를 부분적으로만 언급했습니다.",
+   "v2": "범인의 몸이 변했다는 점과 좁은 곳으로 침입했다는 점을 적었으나 구체적인 형태 변화와 침입 경로는 부족합니다.",
+   "v3": "마을 사람들이 범죄자였다는 점만 적었고 조직의 구체적 정체나 가짜 가족, 두목에 관한 내용은 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "베일라의 사촌이라고 적었으나 이름 어슐라는 없으므로 partial 단계이다.",
+     "evidence_quote": "베일라의 사촌인 것 같고",
+     "source_question_id": "v1",
+     "level_id": "partial"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지가 20년 전에 사라진 것과 관련 있다고 적었으나 마을 사람들이 죽였다는 내용은 없다.",
+     "evidence_quote": "할아버지가 20년 전에 사라진 것과 관련이 있어요",
+     "source_question_id": "v1",
+     "level_id": "partial"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라가 죽었다가 되살아났다고만 적었고, 마을 사람들이 죽였다는 내용은 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "원한이 있어서 죽였다고 적었으나 복수라는 표현은 없다.",
+     "evidence_quote": "마을 사람들에게 원한이 있어서 죽인 것 같습니다",
+     "source_question_id": "v1",
+     "level_id": "partial"
+    },
+    {
+     "id": "3a",
+     "reason": "몸이 변했다고만 적었고 형태를 바꾼다는 구체적 내용은 없다.",
+     "evidence_quote": "몸이 변해서 좁은 곳으로 들어왔을 것 같습니다",
+     "source_question_id": "v2",
+     "level_id": "partial"
+    },
+    {
+     "id": "3b",
+     "reason": "좁은 곳으로 들어왔다고만 적었고 구체적인 틈새 경로는 없다.",
+     "evidence_quote": "좁은 곳으로 들어왔을 것 같습니다",
+     "source_question_id": "v2",
+     "level_id": "partial"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라는 내용은 없고 연체동물 등도 언급하지 않았다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 범죄자였다고만 적었고 조직이나 수뇌부라는 구체성은 없다.",
+     "evidence_quote": "마을 사람들은 나쁜 짓을 한 범죄자들이었던 것 같습니다",
+     "source_question_id": "v3",
+     "level_id": "partial"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족이나 두목에 관한 내용는 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 마을 사람들에게 살해당했다는 내용는 없고, 입막음이나 북쪽 만에 가라앉혔다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인이 베일라의 사촌임을 알았으나 이름 어슐라를 적지 않았고, 할아버지의 죽음과 복수 동기를 부분적으로만 언급했습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "범인의 몸이 변했다는 점과 좁은 곳으로 침입했다는 점을 적었으나 구체적인 형태 변화와 침입 경로는 부족합니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들이 범죄자였다는 점만 적었고 조직의 구체적 정체나 가짜 가족, 두목에 관한 내용은 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_injection",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {},
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [
+   "v1",
+   "v2",
+   "v3"
+  ],
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "cached": 0,
+  "sec": 0,
+  "feedback": {},
+  "raw_ai": {}
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_injection",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {},
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [
+   "v1",
+   "v2",
+   "v3"
+  ],
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "cached": 0,
+  "sec": 0,
+  "feedback": {},
+  "raw_ai": {}
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_terse",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2525,
+  "cached": 2304,
+  "tokens_out": 653,
+  "sec": 7.3,
+  "feedback": {
+   "v1": "범인의 이름과 복수 동기를 잘 적었으나 어슐라가 베일라의 사촌임을 명확히 적은 점이 좋습니다.",
+   "v2": "몸의 변화와 침입 경로, 팔이 여럿인 신체를 모두 구체적으로 잘 적었습니다.",
+   "v3": "조직의 정체와 가짜 가족, 두목, 아서의 죽음까지 모두 정확히 적었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라를 적었고, 베일라의 사촌임을 명시했다.",
+     "evidence_quote": "어슐라",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지를 마을 사람들이 죽였다고 적었다.",
+     "evidence_quote": "마을 사람들이 할아버지를 죽였고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 죽였다고 적었으나 마을 사람들이 죽였다는 내용은 없으나 문맥상 복수 대상이므로 살해당한 것으로 본다.",
+     "evidence_quote": "어슐라도 죽여서 복수",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "복수라는 동기를 명확히 적었다.",
+     "evidence_quote": "복수",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "몸이 문어처럼 변했다고 적어 형태를 바꾼다는 내용을 포함한다.",
+     "evidence_quote": "문어처럼 몸이 변해서",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구와 환풍구라는 구체적인 틈새 경로를 적었다.",
+     "evidence_quote": "배수구나 환풍구로 들어옴",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여러 개라는 점을 명확히 적었다.",
+     "evidence_quote": "팔 여러 개",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "7a",
+     "reason": "모란 일당 수뇌부라고 적어 조직과 수뇌부임을 명확히 했다.",
+     "evidence_quote": "모란 일당 수뇌부",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "홀트가 가짜 가족이고 에드거가 두목임을 적었다.",
+     "evidence_quote": "홀트는 가짜 가족, 에드거가 두목",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 알아봐서 입막음으로 죽이고 북쪽 만에 버렸다고 적었다.",
+     "evidence_quote": "아서가 알아봐서 입막음으로 죽이고 북쪽 만에 버림",
+     "source_question_id": "v3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 이름과 복수 동기를 잘 적었으나 어슐라가 베일라의 사촌임을 명확히 적은 점이 좋습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸의 변화와 침입 경로, 팔이 여럿인 신체를 모두 구체적으로 잘 적었습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "조직의 정체와 가짜 가족, 두목, 아서의 죽음까지 모두 정확히 적었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_terse",
+  "total": 96,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "partial",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "v1": {
+    "score": 36,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2525,
+  "cached": 2304,
+  "tokens_out": 668,
+  "sec": 7.5,
+  "feedback": {
+   "v1": "범인의 이름과 복수 동기를 잘 적었으나 어슐라가 마을 사람들에게 죽임을 당했다는 점은 부분적으로만 적었습니다.",
+   "v2": "몸의 변화, 침입 경로, 팔이 여럿인 신체를 모두 구체적으로 잘 적었습니다.",
+   "v3": "마을 사람들의 조직 정체와 가짜 가족, 두목, 아서의 죽음까지 모두 정확히 적었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라를 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "어슐라",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지를 마을 사람들이 죽였다고 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "마을 사람들이 할아버지를 죽였고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 죽였다고 적었으나 마을 사람들이 죽였다는 내용은 없으므로 partial 단계에 해당한다.",
+     "evidence_quote": "어슐라도 죽여서 복수",
+     "source_question_id": "v1",
+     "level_id": "partial"
+    },
+    {
+     "id": "2c",
+     "reason": "복수라고 명확히 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "복수",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "몸이 문어처럼 변했다고 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "문어처럼 몸이 변해서",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구와 환풍구라는 구체적인 틈새 경로를 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "배수구나 환풍구로 들어옴",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔 여러 개라고 명확히 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "팔 여러 개",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "7a",
+     "reason": "모란 일당 수뇌부라고 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "모란 일당 수뇌부",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "홀트는 가짜 가족이고 에드거가 두목이라고 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "홀트는 가짜 가족, 에드거가 두목",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 알아봐서 입막음으로 죽이고 북쪽 만에 버렸다고 적었으므로 full 단계에 해당한다.",
+     "evidence_quote": "아서가 알아봐서 입막음으로 죽이고 북쪽 만에 버림",
+     "source_question_id": "v3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 이름과 복수 동기를 잘 적었으나 어슐라가 마을 사람들에게 죽임을 당했다는 점은 부분적으로만 적었습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸의 변화, 침입 경로, 팔이 여럿인 신체를 모두 구체적으로 잘 적었습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들의 조직 정체와 가짜 가족, 두목, 아서의 죽음까지 모두 정확히 적었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_one_only",
+  "total": 40,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2452,
+  "cached": 1920,
+  "tokens_out": 617,
+  "sec": 7.8,
+  "feedback": {
+   "v1": "범인의 정체와 할아버지, 어슐라의 죽음, 복수 동기를 잘 적었으나 몸의 변화, 침입 경로, 팔이 여럿인 신체와 마을 사람들의 조직 관련 내용은 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라 콜린스와 베일라의 사촌임을 정확히 적었다.",
+     "evidence_quote": "범인은 베일라의 사촌인 어슐라 콜린스입니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "베일라와 어슐라의 할아버지 아서가 마을 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "20년 전 할아버지 아서가 마을 사람들에게 살해당했고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 8월 31일에 같은 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "되살아난 어슐라가 복수로 마을 사람들을 죽였다고 적었다.",
+     "evidence_quote": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "몸의 변화에 관한 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3b",
+     "reason": "침입 경로에 관한 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 신체에 관한 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 20년 전 소탕된 밀수 조직 수뇌부였다는 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 관한 내용이 없으므로 가장 낮은 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거의 정체를 알아보고 입막음으로 살해당했다는 내용이 없으므로 partial도 아니고 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 정체와 할아버지, 어슐라의 죽음, 복수 동기를 잘 적었으나 몸의 변화, 침입 경로, 팔이 여럿인 신체와 마을 사람들의 조직 관련 내용은 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_one_only",
+  "total": 40,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2452,
+  "cached": 2176,
+  "tokens_out": 549,
+  "sec": 6.5,
+  "feedback": {
+   "v1": "범인의 정체와 할아버지, 어슐라의 죽음, 복수 동기를 잘 적었으나 몸의 변화나 침입 경로, 마을 사람들의 조직 정체는 적지 않았다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라 콜린스를 정확히 적었다.",
+     "evidence_quote": "범인은 베일라의 사촌인 어슐라 콜린스입니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지 아서가 마을 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "20년 전 할아버지 아서가 마을 사람들에게 살해당했고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 같은 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "되살아난 어슐라가 복수로 마을 사람들을 죽였다고 적었다.",
+     "evidence_quote": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "몸이 변했다는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3b",
+     "reason": "침입 경로에 관한 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 밀수 조직 수뇌부였다는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 관한 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거의 정체를 알아보고 입막음 당했다는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 정체와 할아버지, 어슐라의 죽음, 복수 동기를 잘 적었으나 몸의 변화나 침입 경로, 마을 사람들의 조직 정체는 적지 않았다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_misconception",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "v2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2472,
+  "cached": 2304,
+  "tokens_out": 629,
+  "sec": 7.5,
+  "feedback": {
+   "v1": "범인을 어슐라가 아닌 외계인으로 잘못 지목해 범인 정체 부분을 놓쳤고, 동기와 할아버지·어슐라의 죽음도 적지 못했습니다.",
+   "v2": "침입 경로와 몸의 변화에 대해 텔레포트라는 비현실적 수단만 적어 구체적 경로나 신체 변화는 놓쳤습니다.",
+   "v3": "마을 사람들을 평범한 어부라고만 적어 조직의 정체와 관련된 중요한 사실을 전혀 적지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인을 외계인이라고 적어 어슐라가 아니므로 none 단계이다.",
+     "evidence_quote": "외계인이 범인입니다",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지의 죽음에 대해 언급이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라의 죽음에 대해 언급이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "복수 동기에 대한 언급이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3a",
+     "reason": "몸의 변화에 대해 텔레포트로 들어왔다고만 적었고, 몸의 형태 변화나 연체동물 같은 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "텔레포트로 들어왔습니다",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "3b",
+     "reason": "침입 경로로 텔레포트를 적었으나 틈새나 구체적 경로가 아니므로 none 단계이다.",
+     "evidence_quote": "텔레포트로 들어왔습니다",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 신체에 대한 언급이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 밀수 조직 수뇌부였다는 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 대한 언급이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서의 죽음에 대해 언급이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [
+    "g1"
+   ],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인을 어슐라가 아닌 외계인으로 잘못 지목해 범인 정체 부분을 놓쳤고, 동기와 할아버지·어슐라의 죽음도 적지 못했습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "침입 경로와 몸의 변화에 대해 텔레포트라는 비현실적 수단만 적어 구체적 경로나 신체 변화는 놓쳤습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들을 평범한 어부라고만 적어 조직의 정체와 관련된 중요한 사실을 전혀 적지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_misconception",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "v2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2472,
+  "cached": 2304,
+  "tokens_out": 523,
+  "sec": 6.2,
+  "feedback": {
+   "v1": "범인을 어슐라가 아닌 외계인으로 지목하여 범인 정체 부분을 모두 놓쳤습니다.",
+   "v2": "범인의 침입 경로와 몸의 변화에 관한 구체적 설명이 없어 관련 요소를 인정받지 못했습니다.",
+   "v3": "마을 사람들의 조직 정체와 관련된 중요한 사실을 전혀 적지 않아 모두 놓쳤습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인을 외계인이라고 하여 어슐라가 아니므로 none 단계이다.",
+     "evidence_quote": "외계인이 범인입니다",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지의 죽음에 관한 내용가 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라의 죽음에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "복수 동기에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3a",
+     "reason": "몸의 변화에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "3b",
+     "reason": "침입 경로에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 신체에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들의 조직 정체에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서의 죽음에 관한 내용이 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [
+    "g1"
+   ],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인을 어슐라가 아닌 외계인으로 지목하여 범인 정체 부분을 모두 놓쳤습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "범인의 침입 경로와 몸의 변화에 관한 구체적 설명이 없어 관련 요소를 인정받지 못했습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들의 조직 정체와 관련된 중요한 사실을 전혀 적지 않아 모두 놓쳤습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_gate_trap",
+  "total": 30,
+  "per": {
+   "1a": "none",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "v2": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 3,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2536,
+  "cached": 2304,
+  "tokens_out": 552,
+  "sec": 6.6,
+  "feedback": {
+   "v1": "범인이 어슐라임과 복수 동기, 할아버지와 어슐라의 죽음을 잘 적었으나, 오웬을 함께 범인으로 적어 규칙 위반이다.",
+   "v2": "범인의 몸 변화, 침입 경로, 팔이 여럿인 신체 특징을 모두 정확히 적었다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인으로 어슐라와 함께 오웬도 지목하여 규칙에 위배되므로 none 단계이다.",
+     "evidence_quote": "어슐라와 오웬이 공범입니다.",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지 아서가 마을 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "20년 전 할아버지 아서가 마을 사람들에게 살해당했고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 같은 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "되살아난 어슐라가 복수로 마을 사람들을 죽였다고 적었다.",
+     "evidence_quote": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "어슐라가 문어 같은 연체동물 몸으로 형태를 바꿀 수 있었다고 적었다.",
+     "evidence_quote": "어슐라는 되살아나면서 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다.",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구, 환풍구, 창틈으로 들어왔다고 구체적으로 적었다.",
+     "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 존재라고 적었고, 원형 멍 자국도 언급했다.",
+     "evidence_quote": "팔이 여럿이라 시신에 작은 원형 멍이 남았습니다.",
+     "source_question_id": "v2",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [
+    "g1"
+   ],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인이 어슐라임과 복수 동기, 할아버지와 어슐라의 죽음을 잘 적었으나, 오웬을 함께 범인으로 적어 규칙 위반이다."
+    },
+    {
+     "question_id": "v2",
+     "text": "범인의 몸 변화, 침입 경로, 팔이 여럿인 신체 특징을 모두 정확히 적었다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_gate_trap",
+  "total": 30,
+  "per": {
+   "1a": "none",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "v2": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2536,
+  "cached": 2304,
+  "tokens_out": 631,
+  "sec": 7.7,
+  "feedback": {
+   "v1": "범인이 어슐라임은 맞지만 오웬도 함께 범인으로 적어 게이트에 걸렸고, 할아버지와 어슐라의 죽음과 복수 동기는 잘 적었다.",
+   "v2": "몸의 변화, 침입 경로, 팔이 여럿인 신체를 모두 구체적으로 잘 적었다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인으로 어슐라와 함께 오웬도 지목하여 게이트 규칙에 해당한다.",
+     "evidence_quote": "어슐라와 오웬이 공범입니다.",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지 아서가 마을 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "20년 전 할아버지 아서가 마을 사람들에게 살해당했고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 같은 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "되살아난 어슐라가 복수로 마을 사람들을 죽였다고 적었다.",
+     "evidence_quote": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "어슐라가 문어 같은 연체동물 몸으로 형태를 바꿀 수 있었다고 적었다.",
+     "evidence_quote": "어슐라는 되살아나면서 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다.",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구, 환풍구, 창틈으로 들어왔다고 구체적 경로를 적었다.",
+     "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 존재라고 적었다.",
+     "evidence_quote": "팔이 여럿이라 시신에 작은 원형 멍이 남았습니다.",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "7a",
+     "reason": "해당 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "해당 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "해당 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [
+    "g1"
+   ],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인이 어슐라임은 맞지만 오웬도 함께 범인으로 적어 게이트에 걸렸고, 할아버지와 어슐라의 죽음과 복수 동기는 잘 적었다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸의 변화, 침입 경로, 팔이 여럿인 신체를 모두 구체적으로 잘 적었다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_paraphrase",
+  "total": 90,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "none",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2681,
+  "cached": 2560,
+  "tokens_out": 757,
+  "sec": 9.0,
+  "feedback": {
+   "v1": "범인의 이름과 사촌 관계, 할아버지와 어슐라의 죽음, 복수 동기까지 잘 적었으나 팔이 여럿인 신체에 대한 언급은 없었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름을 어슐라라고 명확히 적었고 베일라의 사촌임을 밝혔다.",
+     "evidence_quote": "베일라 씨의 사촌 어슐라가 범인입니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "어슐라의 할아버지가 20년 전 마을 주민들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라의 할아버지는 20년 전 마을 주민들 손에 목숨을 잃었고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라 자신도 마을 사람들에게 물에 빠뜨려져 죽었다고 적었다.",
+     "evidence_quote": "어슐라 자신도 지난 8월 말 같은 주민들에게 물에 빠뜨려져 죽었습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "분노와 보복으로 주민들을 처리했다고 적어 복수 동기를 명확히 밝혔다.",
+     "evidence_quote": "분노와 보복으로 주민들을 하나씩 처리한 겁니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "어슐라가 뼈 없는 해양 생물 같은 몸으로 형태를 바꿨다고 적었다.",
+     "evidence_quote": "되살아난 어슐라는 사람의 몸이 아니라 뼈 없는 해양 생물 같은 몸이었고",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "하수구 같은 좁은 배관을 통해 집 안으로 들어왔다고 구체적 경로를 적었다.",
+     "evidence_quote": "하수구 같은 좁은 배관을 통해 집 안으로 스며들 수 있었습니다",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라는 점은 적지 않았다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 주민들이 20년 전 소탕된 밀수 조직 모란파의 간부들이라고 적었다.",
+     "evidence_quote": "마을 주민들은 20년 전 경찰이 소탕하던 밀수 조직 모란파의 간부들이었고",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "홀트 가족이 가짜 가족이고 에드거가 두목 프랭크 모란이라고 적었다.",
+     "evidence_quote": "홀트 가족은 위장한 가짜 가족, 에드거의 정체는 두목 프랭크 모란입니다",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거의 정체를 알아보고 입막음으로 살해되어 북쪽 만에 가라앉혔다고 적었다.",
+     "evidence_quote": "아서는 에드거의 손등 화상을 보고 정체를 알아봤다가 입막음으로 살해되어 북쪽 만에 가라앉혀졌습니다",
+     "source_question_id": "v3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 이름과 사촌 관계, 할아버지와 어슐라의 죽음, 복수 동기까지 잘 적었으나 팔이 여럿인 신체에 대한 언급은 없었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_paraphrase",
+  "total": 90,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "none",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2681,
+  "cached": 2560,
+  "tokens_out": 832,
+  "sec": 9.8,
+  "feedback": {
+   "v1": "범인의 정체와 복수 동기, 할아버지와 어슐라의 죽음에 대해 잘 적었으나 팔이 여럿인 신체는 언급하지 못했습니다.",
+   "v2": "몸의 변화와 침입 경로를 구체적으로 적었으나 팔이 여럿이라는 점은 빠졌습니다.",
+   "v3": "마을 사람들의 조직 정체와 가짜 가족, 두목, 아서의 죽음까지 정확히 적었습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름을 어슐라라고 명확히 적었고 베일라의 사촌임을 밝혔다.",
+     "evidence_quote": "베일라 씨의 사촌 어슐라가 범인입니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "어슐라의 할아버지 아서가 20년 전 마을 주민들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라의 할아버지는 20년 전 마을 주민들 손에 목숨을 잃었고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라 자신도 마을 주민들에게 물에 빠뜨려져 죽었다고 적었다.",
+     "evidence_quote": "어슐라 자신도 지난 8월 말 같은 주민들에게 물에 빠뜨려져 죽었습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "분노와 보복으로 주민들을 처리했다고 적어 복수 동기를 명확히 밝혔다.",
+     "evidence_quote": "분노와 보복으로 주민들을 하나씩 처리한 겁니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "어슐라가 사람 몸이 아니라 뼈 없는 해양 생물 같은 몸으로 형태를 바꿨다고 적었다.",
+     "evidence_quote": "되살아난 어슐라는 사람의 몸이 아니라 뼈 없는 해양 생물 같은 몸이었고",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "하수구 같은 좁은 배관을 통해 집 안으로 들어왔다고 구체적 경로를 적었다.",
+     "evidence_quote": "하수구 같은 좁은 배관을 통해 집 안으로 스며들 수 있었습니다",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라는 점은 적지 않았다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 주민들이 20년 전 소탕된 밀수 조직 모란파 간부들이라고 적었다.",
+     "evidence_quote": "마을 주민들은 20년 전 경찰이 소탕하던 밀수 조직 모란파의 간부들이었고",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "홀트 가족이 가짜 가족이고 에드거가 두목 프랭크 모란이라고 적었다.",
+     "evidence_quote": "홀트 가족은 위장한 가짜 가족, 에드거의 정체는 두목 프랭크 모란입니다",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거의 정체를 알아보고 입막음으로 살해되어 북쪽 만에 가라앉혔다고 적었다.",
+     "evidence_quote": "아서는 에드거의 손등 화상을 보고 정체를 알아봤다가 입막음으로 살해되어 북쪽 만에 가라앉혀졌습니다",
+     "source_question_id": "v3",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 정체와 복수 동기, 할아버지와 어슐라의 죽음에 대해 잘 적었으나 팔이 여럿인 신체는 언급하지 못했습니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸의 변화와 침입 경로를 구체적으로 적었으나 팔이 여럿이라는 점은 빠졌습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들의 조직 정체와 가짜 가족, 두목, 아서의 죽음까지 정확히 적었습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_misplaced",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2604,
+  "cached": 2432,
+  "tokens_out": 900,
+  "sec": 10.5,
+  "feedback": {
+   "v1": "범인의 정체와 할아버지와 어슐라의 죽음, 복수 동기, 몸의 변화와 침입 경로, 팔이 여럿인 점, 마을 사람들의 조직 정체와 가짜 가족, 아서의 죽음까지 모두 잘 적었으나 질문이 하나라 일부 요소는 다른 문항에서 답해야 한다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라 콜린스가 명확히 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "범인은 베일라의 사촌인 어슐라 콜린스입니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "베일라와 어슐라의 할아버지 아서가 마을 사람들에게 살해당했다고 명확히 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "20년 전 할아버지 아서가 마을 사람들에게 살해당했고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 8월 31일에 같은 사람들에게 살해당했다고 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였다고 적혀 있어 복수 동기가 명확히 드러난 full 단계 기준을 충족한다.",
+     "evidence_quote": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "어슐라가 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었다고 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "어슐라는 되살아나면서 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구, 환풍구, 창틈으로 들어왔다고 구체적인 틈새 경로가 명확히 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라는 점과 문어라는 표현이 명확히 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "팔이 여럿이라 시신에 작은 원형 멍이 남았습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 2011년 소탕 때 도주한 밀수 조직 모란 일당의 수뇌부였다고 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "마을 사람들은 2011년 소탕 때 도주한 밀수 조직 모란 일당의 수뇌부였습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "홀트 가족이 가짜 가족이고 에드거가 두목 프랭크 모란이라고 명확히 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "홀트 가족은 가짜 가족이고 에드거가 두목 프랭크 모란이며",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거의 정체를 알아보자 입막음으로 살해해 북쪽 만에 가라앉혔다고 명확히 적혀 있어 full 단계 기준을 충족한다.",
+     "evidence_quote": "아서가 그 흉터를 알아보자 입막음으로 죽여 북쪽 만에 가라앉혔습니다",
+     "source_question_id": "v1",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 정체와 할아버지와 어슐라의 죽음, 복수 동기, 몸의 변화와 침입 경로, 팔이 여럿인 점, 마을 사람들의 조직 정체와 가짜 가족, 아서의 죽음까지 모두 잘 적었으나 질문이 하나라 일부 요소는 다른 문항에서 답해야 한다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_misplaced",
+  "total": 100,
+  "per": {
+   "1a": "full",
+   "2a": "full",
+   "2b": "full",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "full",
+   "7a": "full",
+   "7b": "full",
+   "7c": "full"
+  },
+  "q": {
+   "v1": {
+    "score": 40,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 30,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 30,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2604,
+  "cached": 2432,
+  "tokens_out": 790,
+  "sec": 9.4,
+  "feedback": {
+   "v1": "범인의 정체와 동기, 할아버지와 어슐라의 죽음, 몸의 변화와 침입 경로, 마을 사람들의 조직 정체 등 핵심 내용을 모두 잘 적었으나, 질문이 마을 사람들을 죽인 자와 이유를 묻는 점에서 동기와 죽음 관련 내용을 명확히 연결해 썼다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라 콜린스를 정확히 적었다.",
+     "evidence_quote": "범인은 베일라의 사촌인 어슐라 콜린스입니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "베일라와 어슐라의 할아버지 아서가 마을 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "20년 전 할아버지 아서가 마을 사람들에게 살해당했고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라도 같은 사람들에게 살해당했다고 적었다.",
+     "evidence_quote": "어슐라도 8월 31일에 같은 사람들에게 살해당했습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2c",
+     "reason": "되살아난 어슐라가 복수로 마을 사람들을 죽였다고 적었다.",
+     "evidence_quote": "되살아난 어슐라가 그 복수로 마을 사람들을 죽였습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "어슐라가 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었다고 적었다.",
+     "evidence_quote": "어슐라는 되살아나면서 문어 같은 연체동물의 몸이 되어 형태를 바꿀 수 있었습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구, 환풍구, 창틈으로 들어왔다고 구체적인 경로를 적었다.",
+     "evidence_quote": "배수구나 환풍구, 창틈으로 들어왔고",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라 시신에 작은 원형 멍이 남았다고 적었다.",
+     "evidence_quote": "팔이 여럿이라 시신에 작은 원형 멍이 남았습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 2011년 소탕 때 도주한 밀수 조직 모란 일당의 수뇌부였다고 적었다.",
+     "evidence_quote": "마을 사람들은 2011년 소탕 때 도주한 밀수 조직 모란 일당의 수뇌부였습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "홀트 가족이 가짜 가족이고 에드거가 두목 프랭크 모란이라고 적었다.",
+     "evidence_quote": "홀트 가족은 가짜 가족이고 에드거가 두목 프랭크 모란이며",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 손등 화상 흉터를 알아보자 입막음으로 살해해 북쪽 만에 가라앉혔다고 적었다.",
+     "evidence_quote": "아서가 그 흉터를 알아보자 입막음으로 죽여 북쪽 만에 가라앉혔습니다.",
+     "source_question_id": "v1",
+     "level_id": "full"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 정체와 동기, 할아버지와 어슐라의 죽음, 몸의 변화와 침입 경로, 마을 사람들의 조직 정체 등 핵심 내용을 모두 잘 적었으나, 질문이 마을 사람들을 죽인 자와 이유를 묻는 점에서 동기와 죽음 관련 내용을 명확히 연결해 썼다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_wrong_domain",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "v2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2482,
+  "cached": 0,
+  "tokens_out": 512,
+  "sec": 6.5,
+  "feedback": {
+   "v1": "범인을 어슐라가 아닌 마이어스와 오웬으로 잘못 지목하여 범인 정체를 전혀 맞추지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인으로 어슐라가 아닌 마이어스와 오웬을 지목했으므로 none이다.",
+     "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로 시제품을 섞은 무알콜 칵테일을 모두에게 마시게 했습니다.",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지의 죽음에 관한 내용이 전혀 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라의 죽음에 관한 내용이 전혀 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "복수 동기에 관한 내용이 전혀 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3a",
+     "reason": "범인이 몸의 형태를 바꾸었다는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3b",
+     "reason": "범인이 틈새로 침입했다는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 신체라는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 밀수 조직 수뇌부였다는 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 관한 내용이 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서의 죽음에 관한 내용이 전혀 없으므로 none이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [
+    "g1"
+   ],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인을 어슐라가 아닌 마이어스와 오웬으로 잘못 지목하여 범인 정체를 전혀 맞추지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "베_wrong_domain",
+  "total": 0,
+  "per": {
+   "1a": "none",
+   "2a": "none",
+   "2b": "none",
+   "2c": "none",
+   "3a": "none",
+   "3b": "none",
+   "3c": "none",
+   "7a": "none",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 0,
+    "gate_hits": [
+     "g1"
+    ]
+   },
+   "v2": {
+    "score": 0,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 0,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2482,
+  "cached": 2304,
+  "tokens_out": 555,
+  "sec": 7.2,
+  "feedback": {
+   "v1": "범인을 어슐라가 아닌 마이어스와 오웬으로 잘못 지목하여 범인 정체와 동기, 할아버지와 어슐라의 죽음에 관한 중요한 부분을 놓쳤습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인으로 어슐라가 아닌 마이어스와 오웬을 지목했으므로 none 단계이다.",
+     "evidence_quote": "마이어스 소장이 시설 설립 8주년 건배를 구실로 시제품을 섞은 무알콜 칵테일을 모두에게 마시게 했습니다. 오웬이 낮에 몰래 술을 섞어 두었는데",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지의 죽음에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라의 죽음에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "복수 동기에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3a",
+     "reason": "몸의 변화에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3b",
+     "reason": "침입 경로에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿인 신체에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들의 조직 정체에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족과 두목에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서의 죽음에 관한 내용이 전혀 없으므로 none 단계이다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [
+    "g1"
+   ],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인을 어슐라가 아닌 마이어스와 오웬으로 잘못 지목하여 범인 정체와 동기, 할아버지와 어슐라의 죽음에 관한 중요한 부분을 놓쳤습니다."
+    }
+   ]
+  }
+ }
+]

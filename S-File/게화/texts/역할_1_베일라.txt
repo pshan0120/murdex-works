@@ -13,7 +13,7 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
 4. 역할 요약
 지역 사정에 밝고, 작은 어긋남도 놓치지 않는 사립탐정
 
-이미지생성용 프롬프트: Extreme close-up half-body portrait of a sharp-eyed woman in her late 20s, wearing a weathered navy field jacket, hair damp from sea mist, a wary and tired gaze that hasn't fully softened. She stands on a wet gravel path at the edge of a tidal flat at dawn, low fog behind her. Grainy 16mm film still, 1990s X-Files-style investigative photography, desaturated cool teal-black color grade.
+이미지생성용 프롬프트: Extreme close-up half-body portrait of a sharp-eyed woman in her late 20s, the same face as in the earlier portrait but one year older. Shoulder-length black hair, wavy and tangled, damp from sea mist, a few loose strands blowing across her cheek, a small silver hoop earring with a thin pendant. She wears a weathered navy field jacket over a black knit sweater, worn brown leather straps crossing both shoulders. Her gaze is wary and tired, still guarded, with a faint new heaviness under the eyes. She stands on a wet gravel road at the edge of a tidal flat at dawn, low sea fog behind her, the railing of a pier out of focus in the distance. Grainy 16mm film still, 1990s X-Files-style investigative photography, desaturated cool teal-black color grade, naturalistic overcast dawn light, subtle film grain, analog imperfections. Wide horizontal cinematic aspect ratio, 16:9. No text, lettering, signs or labels anywhere in the frame.
 
 5. 역할 이미지
 (무시 - 사용자 직접 업로드 예정)
@@ -42,11 +42,11 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   </section>
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
-    <p>당신은 베일라 콜린스, 27세, 먼 도시에서 일하는 사립탐정이다. 남의 뒤를 캐는 일로 밥벌이를 하지만, 정작 자신의 사정은 남에게 곧잘 털어놓지 않는 편이다. 일감은 늘 들쭉날쭉했고, 요즘은 특히 그랬다.</p>
+    <p>당신은 베일라 콜린스, 27세, 먼 도시에서 일하는 사립탐정이다. 남의 뒤를 캐는 일로 밥벌이를 하지만, 정작 자신의 사정은 남에게 곧잘 털어놓지 않는 편이다. 일이 꾸준히 들어오지 않았고, 요즘은 특히 뜸했다.</p>
     <p>고향은 메인주 메릴 카운티다. 그곳을 떠나온 지는 오래됐다. 어릴 때 가족과 몇 번 놀러 간 적 있는 섬이 이 근처에 있었다. 물때에 맞춰야만 드나들 수 있어서, 나들이거리처럼 기억되는 곳이다.</p>
-    <p>9월 4일 저녁, 오랜만에 <span class="character-marcus">마커스</span>에게서 전화가 왔다. 1년 전 어떤 사건에서 알게 된 뒤로, 가끔 안부만 주고받던 사이였다. "메릴 카운티, 크래비스 섬 근처 해안에 있는 정부 연구시설에서 문제가 생겼습니다." 그가 말했다. "그쪽 사정을 아는 사람이 필요해서 연락했습니다."</p>
+    <p>9월 4일 저녁, 오랜만에 <span class="character-marcus">마커스</span>에게서 전화가 왔다. 1년 전 어떤 사건에서 알게 된 뒤로, 가끔 안부만 주고받던 사이였다. "크래비스 섬 근처 해안에 있는 정부 연구시설에서 문제가 생겼습니다." 그가 말했다. "이 지역 사정을 아는 사람이 필요해서 연락했습니다." 그 시설이 무슨 일을 하는 곳이냐고 묻자, <span class="character-marcus">마커스</span>도 정확히는 모른다고 했다.</p>
     <p>"갈게요." 당신은 별다른 고민 없이 대답했다. 전화를 끊고 나서야 지도를 펴서 해안선을 따라 손끝으로 짚어갔다. 크래비스는 어릴 때 놀러 가던 그 섬의 이름이었다. 문득 오래된 기억 하나가 떠올랐다. 20년 전 이 근처에서 당신의 할아버지 아서 콜린스가 돌아오지 않은 적이 있었다. 공식적으로는 조류에 휩쓸린 사고였지만 가족은 끝내 진상을 알지 못했다. 그 일을 <span class="character-marcus">마커스</span>에게 따로 말하지는 않았다.</p>
-    <p>9월 5일 밤, 비행기로 메릴 카운티 공항에 내렸다. 도착 로비에서 <span class="character-marcus">마커스</span>를 만났다. 1년 만이었지만 길게 인사를 나눌 겨를은 없었다. 해안까지는 공항에서 차로 밤을 새워 달려야 하는 거리였고, <span class="character-marcus">마커스</span>가 렌터카를 빌려 운전대를 잡았다. 당신은 조수석에서 오래된 기억을 더듬어 길을 일러 주었다. 해안이 가까워질 무렵에는 날이 밝아 오고 있었고, 차는 길이 끝나는 곳의 작은 선착장 앞에서 멈췄다.</p>
+    <p>9월 5일 밤, 먼 도시에서 출발한 비행기로 메릴 카운티 공항에 내렸다. <span class="character-marcus">마커스</span>도 다른 도시에서 따로 출발해 비슷한 시각에 도착해 있었고, 두 사람은 도착 로비에서 만났다. 1년 만이었지만 길게 인사를 나눌 겨를은 없었다. 해안까지는 공항에서 차로 밤을 새워 달려야 하는 거리였고, <span class="character-marcus">마커스</span>가 렌터카를 빌려 운전대를 잡았다. 당신은 조수석에서 오래된 기억을 더듬어 길을 일러 주었다. 해안이 가까워질 무렵에는 날이 밝아 오고 있었고, 차는 길이 끝나는 곳의 작은 선착장 앞에서 멈췄다.</p>
   </section>
   <section class="content-section">
     <div class="section-title">인물 관계</div>
@@ -58,7 +58,10 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
 
 8. 숨기고 싶은 비밀
 <div class="story-content">
-  <p class="guide-text">이 역할에는 따로 숨겨야 할 비밀이 없습니다. 아는 것은 모두 마커스와 나누어도 좋습니다.</p>
+  <p class="guide-text">※ 가급적 숨기는 것을 권장하지만, 이야기를 풀어 가는 데 필요하다면 밝혀도 좋습니다.</p>
+  <ul>
+    <li><strong>할아버지의 실종</strong>: 20년 전 이 근처에서 당신의 할아버지 아서 콜린스가 돌아오지 않았다는 사실. <span class="character-marcus">마커스</span>에게는 이 일을 말하지 않았다.</li>
+  </ul>
 </div>
 
 9. 단계별 역할 지침
@@ -72,6 +75,7 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
       <li><strong>어부의 지도</strong>: 선착장의 늙은 어부가 지도에 물의 흐름을 그려 주고, 섬 북쪽 후미는 깊고 물살이 이상하니 절대 들어가지 말라고 일렀다. 이십 년 전 통발을 걷으러 건너갔다가 그 근처 물에 휩쓸려 사라진 사람 이야기는 당신의 할아버지 일과 겹친다. 이 지도는 이후 조사에서 계속 쓸 수 있다.</li>
       <li><strong>바닷길</strong>: 어부의 말로는, 바닷길은 평소엔 물에 잠겨 있다가 가장 낮은 썰물이 오는 날에만 모래톱이 드러나 걸어서 건널 수 있다. 오늘이 그날이어서 아침과 밤, 두 번 몇 시간씩 열린다. 닫히면 섬에 있는 사람은 다음 개방 때까지 본토로 나올 수 없고, 본토에 있는 사람은 섬으로 들어갈 수 없다.</li>
       <li><strong>섬의 기척</strong>: 어부는 지난 개방일에 섬 사람이 한 명도 건너오지 않았다고 했다.</li>
+      <li><strong>말하지 못한 이유</strong>: 어부의 말과 지도의 붉은 동그라미를 보고 할아버지 일이 떠올랐지만, <span class="character-marcus">마커스</span>에게는 말하지 않았다. 어릴 때 가 본 곳이라 익숙하다는 이유를 대며, 시설부터 확인하려던 <span class="character-marcus">마커스</span>를 설득해 섬을 먼저 건너오게 됐다.</li>
     </ul>
   </section>
 </div>
@@ -87,7 +91,7 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   <section class="content-section">
     <div class="section-title">인지 - <span class="character-veyla">베일라</span></div>
     <ul class="goal-list">
-      <li><strong>역할 분담</strong>: 두 사람은 현장을 나눠 조사하기로 했다. 어릴 때 섬에 가 본 적이 있는 <span class="character-veyla">베일라</span>는 섬마을을, FBI 수사관인 <span class="character-marcus">마커스</span>는 본토의 연구시설을 맡는다. 두 현장이 같은 일에서 이어진 것인지 확인하려면 서로 알아낸 것을 맞춰봐야 하므로, 두 시간마다 전화로 알아낸 것을 나누기로 약속했다.</li>
+      <li><strong>역할 분담</strong>: 처음에는 함께 시설부터 볼 생각이었지만, <span class="character-veyla">베일라</span>의 부탁으로 섬을 먼저 건너와 현장을 나눠 조사하기로 했다. <span class="character-veyla">베일라</span>는 섬마을을, FBI 수사관인 <span class="character-marcus">마커스</span>는 본토의 연구시설을 맡는다. 두 현장이 같은 일에서 이어진 것인지 확인하려면 서로 알아낸 것을 맞춰봐야 하므로, 두 시간마다 전화로 알아낸 것을 나누기로 약속했다.</li>
     </ul>
   </section>
   <section class="content-section">
@@ -145,7 +149,7 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   <section class="content-section">
     <div class="section-title">어슐라의 한마디</div>
     <ul class="goal-list">
-      <li><span class="character-ursula">어슐라</span>: "이 섬에 유령이 나온다는 소문이 있대. 웃기지?"</li>
+      <li><span class="character-ursula">어슐라</span>: "이 섬에 유령이 나온다는 소문이 있대. 북쪽 만에서 빠져 죽은 여자가 돌아온 거라나. 웃기지?"</li>
     </ul>
   </section>
 </div>

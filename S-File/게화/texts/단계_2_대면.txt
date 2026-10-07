@@ -81,17 +81,17 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1791268325/murdex/images/7169
 [10] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 시설 인근에 사람이 사는 곳은 크래비스 섬마을뿐이라고 하더군요. 거기부터 확인해야 할 겁니다.
+    대사: 시설은 이 해안 길로 조금만 가면 있습니다. 같이 가서 먼저 확인하죠.
 
 [11] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: 크래비스라면 어릴 때 몇 번 가 본 적 있어요. 그럼 섬은 제가 볼게요. 마커스는 시설을 맡아 줘요. 그쪽은 제가 가 봤자 문 앞에서 돌려보내질 테니까.
+    대사: 시설부터요? 저는 섬 쪽을 먼저 보고 싶은데요. 크래비스라면 어릴 때 몇 번 가 본 적이 있어요.
 
 [12] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 그렇게 하죠. 시설은 제 일입니다.
+    대사: 섬마을은 시설 조사가 끝난 뒤에 보면 됩니다. 정식으로 배정받은 건 시설이니까요.
 
 [13] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라 (사립탐정)
@@ -174,133 +174,153 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1791268325/murdex/images/7169
 [29] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: (지도를 접으며) 어릴 때는 그쪽 얘기만 나오면 어른들이 말을 돌렸어요. 할아버지 일도 그 근처 물이라고만 들었고요.
+    대사: (지도를 접으며) …마커스, 섬부터 보게 해 줘요.
 
 [30] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 그 얘기는 건너가면서 듣겠습니다. 갑시다.
+    대사: (돌아보며) 아까 어부의 이야기에서 손이 멈추셨던데요. 무슨 일입니까?
 
-[31] 화자 타입: DIRECTIVE
+[31] 화자 타입: PLAYER
+    화자: 베일라 (사립탐정)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 별일 아니에요. 어릴 때 가 본 곳이라 제가 보면 더 빨리 알아볼 수 있고요. 지난번에 섬 사람이 한 명도 안 건너왔다잖아요. 시설 보고가 끊긴 때와 겹쳐요.
+
+[32] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: …제 임무는 시설입니다.
+
+[33] 화자 타입: PLAYER
+    화자: 베일라 (사립탐정)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 알아요. 마을 입구까지만이라도요. 알아볼 것도 있고요.
+
+[34] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: (한숨을 쉬며) …열려 있는 동안만입니다. 마을 쪽을 확인하고, 저는 시설로 돌아가겠습니다.
+
+[35] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라 (사립탐정)
     대사: 두 사람이 바닷길로 들어선다. 자갈이 젖어 발소리를 삼키고, 양쪽으로 낮은 물이 천천히 숨을 쉰다. 뒤에서 선착장의 불빛이 점점 작아진다.
 
-[32] 화자 타입: DIRECTIVE
+[36] 화자 타입: DIRECTIVE
     담당 플레이어: 마커스 (FBI 수사관)
     대사: 바닷길의 끝이 가까워졌다. 젖은 모래가 발밑에서 질척거리고, 안개 사이로 섬의 낮은 비탈이 윤곽을 드러낸다.
 
-[33] 화자 타입: PLAYER
+[37] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
     대사: 저기가 마을이군요. 생각보다 조용합니다.
 
-[34] 화자 타입: PLAYER
+[38] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: 어릴 때도 이렇게 조용한 섬이었어요. 물때에 맞춰 들어갔다가 나오던 곳이라서요.
 
-[35] 화자 타입: DIRECTIVE
+[39] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라 (사립탐정)
     대사: 그때 마을 쪽 비탈에서 한 여자가 내려왔다. 걸음이 급하고, 숨이 조금 차 보인다.
 
-[36] 화자 타입: PLAYER
+[40] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
     대사: (걸음을 멈추며) 사람이 있군요.
 
-[37] 화자 타입: DIRECTIVE
+[41] 화자 타입: DIRECTIVE
     담당 플레이어: 마커스 (FBI 수사관)
     대사: 베일라의 걸음도 멈췄다. 그녀는 숨을 삼키고, 한동안 그 여자에게서 눈을 떼지 못했다.
 
-[38] 화자 타입: PLAYER
+[42] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: ...어슐라?
 
-[39] 화자 타입: NPC
+[43] 화자 타입: NPC
     화자: 어슐라
     담당 플레이어: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-ursula">어슐라</span>
     대사: (걸음을 늦추고, 잠깐 숨을 고르며) 베일라. 진짜 너네. 이런 데서 다 만나다니.
 
-[40] 화자 타입: PLAYER
+[44] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: 지금 어디서 오는 길이야? 그동안 어디 있었어, 연락도 없이. 여긴 왜 온 거야?
 
-[41] 화자 타입: NPC
+[45] 화자 타입: NPC
     화자: 어슐라
     담당 플레이어: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-ursula">어슐라</span>
     대사: 근처에 일이 있어서 왔어. 길게 설명할 시간은 없고. ...연락 못 한 건 미안해.
 
-[42] 화자 타입: PLAYER
+[46] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: (마커스를 돌아보며) 아, 마커스. 제 사촌 어슐라예요. 어릴 때부터 같이 자랐어요. 어슐라, 이쪽은 마커스. 같이 일하고 있어.
 
-[43] 화자 타입: PLAYER
+[47] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
     대사: (한 걸음 앞으로 나서며) 마커스라고 합니다. FBI 소속이고, 저쪽 연구시설 일로 이 지역에 왔습니다. 혹시 이 섬에서 연구시설 사람들을 보신 적 있습니까?
 
-[44] 화자 타입: NPC
+[48] 화자 타입: NPC
     화자: 어슐라
     담당 플레이어: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-ursula">어슐라</span>
     대사: (잠깐 베일라 쪽을 보았다가) 연구시설이요? 그쪽 일로 저도 섬을 둘러봤는데, 특별한 건 없었어요. 지금은 돌아가는 길이고요.
 
-[45] 화자 타입: PLAYER
+[49] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: 돌아간다고? 마을이 이렇게 조용한데, 정말 아무것도 못 봤다는 거야?
 
-[46] 화자 타입: NPC
+[50] 화자 타입: NPC
     화자: 어슐라
     담당 플레이어: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-ursula">어슐라</span>
     대사: 마을은... 가 보는 게 좋을지 모르겠어, 베일라.
 
-[47] 화자 타입: PLAYER
+[51] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: 그럼 나랑 같이 가. 오랜만에 만났는데 이대로 보낼 수는 없잖아.
 
-[48] 화자 타입: NPC
+[52] 화자 타입: NPC
     화자: 어슐라
     담당 플레이어: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-ursula">어슐라</span>
     대사: (한참 망설이다가) ...알았어. 대신 오래 있지는 않을 거야.
 
-[49] 화자 타입: DIRECTIVE
+[53] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라 (사립탐정)
     대사: 서쪽 만 쪽 바닷길에는 아직 모래톱이 길게 드러나 있다.
 
-[50] 화자 타입: PLAYER
+[54] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
     대사: 저는 시설을 확인하러 가겠습니다. 두 시간마다 알아낸 걸 공유하는 걸로 하죠.
 
-[51] 화자 타입: PLAYER
+[55] 화자 타입: PLAYER
     화자: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
     대사: 알겠어요. 저는 마을부터 돌아볼게요. 조심해요.
 
-[52] 화자 타입: PLAYER
+[56] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)
     화자 표시 HTML: <span class="character-marcus">마커스</span>
     대사: 그쪽도요. (어슐라를 보며) 베일라를 부탁합니다.
 
-[53] 화자 타입: NPC
+[57] 화자 타입: NPC
     화자: 어슐라
     담당 플레이어: 베일라 (사립탐정)
     화자 표시 HTML: <span class="character-ursula">어슐라</span>
     대사: (잠시 말이 없다가, 희미하게 웃으며) ...걱정 마세요. 이 애는 제가 지킬게요.
 
-[54] 화자 타입: DIRECTIVE
+[58] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라 (사립탐정)
     대사: 마커스는 바닷길 쪽으로 돌아섰다. 안개 속으로 그의 뒷모습이 천천히 멀어졌다.
 
-[55] 화자 타입: DIRECTIVE
+[59] 화자 타입: DIRECTIVE
     담당 플레이어: 마커스 (FBI 수사관)
     대사: 비탈 위쪽의 마을에는 불빛도 인기척도 없었다. 어디선가 갈매기 울음이 한 번 들렸다가 멀어졌다. 베일라와 어슐라는 말없이 비탈 앞에 섰다.
