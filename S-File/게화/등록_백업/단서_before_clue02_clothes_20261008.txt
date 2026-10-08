@@ -66,15 +66,15 @@ groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 집 안이 정돈되어 있지 않다는 인상과 열린 옷장. 옷가지가 바닥에 널려 있다는 것까지만 쓰고, 옷이 없어졌다는 사실은 쓰지 않는다. 옷을 가져갔다는 것을 알려주면 지금 남자 옷을 입고 있는 어슐라가 바로 범인으로 읽히기 때문이다. 옷장은 어지러운 집안 풍경의 한 부분으로만 쓴다(7장).
+의도 : 집 안이 정돈되어 있지 않다는 인상과 열린 옷장. 옷이 없어졌다는 사실은 쓰지 않는다. 옷을 가져갔다는 것을 알려주면 지금 남자 옷을 입고 있는 어슐라가 바로 범인으로 읽히기 때문이다. 옷장은 어지러운 집안 풍경의 한 부분으로만 쓴다(7장).
 내용 :
-집 안은 전체적으로 정돈되어 있지 않다. 탁자 위에는 치우지 않은 접시와 컵이 놓여 있고, 바닥에는 신발과 낚시 도구가 흩어져 있다. 옷장 문도 열려 있고, 그 앞 바닥에는 옷가지가 널려 있다.
+집 안은 전체적으로 정돈되어 있지 않다. 탁자 위에는 치우지 않은 접시와 컵이 놓여 있고, 바닥에는 신발과 낚시 도구가 흩어져 있다. 옷장 문도 열려 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">집 안은 전체적으로 정돈되어 있지 않다.</div>
-  <div>탁자 위에는 치우지 않은 접시와 컵이 놓여 있고, 바닥에는 신발과 낚시 도구가 흩어져 있다. <span class="emphasis">옷장</span> 문도 열려 있고, 그 앞 바닥에는 옷가지가 널려 있다.</div>
+  <div>탁자 위에는 치우지 않은 접시와 컵이 놓여 있고, 바닥에는 신발과 낚시 도구가 흩어져 있다. <span class="emphasis">옷장</span> 문도 열려 있다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A cluttered room interior: unwashed plates and cups on a table, shoes and fishing tools scattered on the floor, and an open wardrobe door in the background with some clothes strewn on the floor in front of it. Grainy 16mm film still, desaturated cool teal-black color grade.
+이미지생성용 프롬프트: Wide horizontal cinematic aspect ratio, 16:9. A cluttered room interior: unwashed plates and cups on a table, shoes and fishing tools scattered on the floor, and an open wardrobe door in the background. Grainy 16mm film still, desaturated cool teal-black color grade.
 단서 그룹 : 크래비스 섬 - 그물 걸린 집
 파일명 : 02_베일라_그물_걸린_집_2
 
