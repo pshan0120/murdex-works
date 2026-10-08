@@ -1,0 +1,2054 @@
+# 게화 - 상세 단서 목록 (Detailed Clues)
+
+StoryID : 7169e13b-5160-4a9b-9769-8ffd19763aa7
+
+※ 기획안.md 기준 단서 문서. 베일라와 마커스의 1~4단계가 모두 작성돼 있다(4단계는 임시 초안).
+※ 베일라 1~4단계 → 마커스 1~4단계 순으로, 같은 단계끼리 나란히 비교할 수 있도록 정렬한다.
+※ 전체 줄거리 요약(참고용): 마을 사람 7명은 전부 20년도 더 전에 소탕된 밀수 조직("모란 일당")의 생존 수뇌부로, 혈연관계 없이 "홀트 집안"을 자처하며 숨어 살아왔다. 20년 전 베일라의 친할아버지가 이들의 정체를 알아채 살해당했다. 베일라의 사촌 어슐라 콜린스는 이 사실을 추적하다 같은 사람들에게 살해당했으나, 인근 연구시설 사고로 유출된 물질 덕에 두족류 인간으로 되살아나 하루에 한 집씩 복수해왔다(오늘 새벽 마지막 희생자로 마을 전체가 빔). 연구시설 쪽은 별개 사건 — 신입 연구원(실은 정부 감사 요원)에게 소장의 비공식 "급속 진화" 연구가 발각되자, 소장이 건배를 구실로 시제품을 탄 음료를 전원에게 마시게 했는데, 오웬이 몰래 바꿔 둔 보드카의 C2H5OH 때문에 노화가 되어 전원이 사망(오웬만 조금 마시고 개수대에 쏟아버려 치매 노인처럼만 늙고 생존)했다. 두 사건은 같은 사고(물질 유출)에서 갈라져 나왔을 뿐, 서로 무관한 비극이다.
+※ 페어플레이 원칙(내용/HTML 필드): 관찰 가능한 사실만 제공하고, 결론·동기·정체에 대한 어떤 단정도 서술자가 대신 내리지 않는다. [[feedback_clue_fairplay_observability]] 참고.
+※ 참고: 게화는 협력 추리물이라 상대에게 숨기는 개별 비밀 단서가 없다. 모든 단서는 게임보드에 뒷면으로 놓이고, 플레이어가 AP 1을 써서 조사해 얻는다(모든 조사 단계에서 AP 6을 준다. 연계 보조 단서는 AP를 쓰지 않는다). 단서는 교환하거나 보드에 공개할 수 없고("교환 가능 여부" 필드는 N), 같은 역할만 조사할 수 있다. 통화로 받은 코드(비밀코드)를 입력해 조사하는 보너스 단서는 2단계부터 있으며 "획득 조건 존재 여부 Y, 질문 HTML 포함" 형식을 쓴다(통발 쌓인 집#3, 연구 구역#6). 연계 보조 단서는 시작 때 숨겨져 있다가 트리거 단서를 조사하면 보드에 뒷면으로 나타난다.
+※ 이미지생성용 프롬프트 구성: (공통 화풍) + (장소 설정: 섬 집 또는 연구시설 구역) + (피사체) + (글자 금지). 섬의 집은 메인주 외딴 섬의 목조 클랩보드 어부 집(폐허나 석조가 아님, 며칠 전까지 사람이 살던 집), 연구시설은 2020년대 해안의 낮은 콘크리트 건물이다. 섬의 집은 모두 전등이 꺼진 상태로 창으로 들어오는 흐린 자연광만 쓰고, 이미지에는 검은 띠(레터박스)나 테두리를 두지 않는다. 인물의 얼굴은 보이지 않게 하고, 글자는 읽히지 않는 필기로만 둔다(이름, 라벨, 문구는 단서 본문이 전달한다).
+
+---
+
+## 베일라 1단계 [빈 집, 깨진 적막]
+
+※ "마을 집들이 모두 잠겨 있는데 이 집만 열려 있다"는 비교 정보는 이 집부터 조사하지 않는 플레이어도 있을 수 있어 단서로 두지 않는다 — 인트로 컷씬(8-2 진입부)에서 먼저 전달하고, 그 결과로 베일라가 이 집에 들어서는 것으로 처리한다.
+
+
+[clue_01]
+이름 : 그물 걸린 집#1
+clueId : 1a34757b-cd6e-4de1-a11b-4c128b93d720
+variantId : 0de5f4e5-bf28-47c7-92b2-abbb9b65b7d5
+이미지 : (추후 업로드 예정)
+groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
+유형 : 물증
+단계 : [빈 집, 깨진 적막] (베일라, 1단계)
+소모AP : 1
+정렬순서 : 10
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 집주인 이름을 알려주는 장치이면서 "방어 수단이 있었는데도 못 써보고 죽었다"는 정보까지 주는 단서. 숨어 사는 사람들이 문패를 대놓고 걸어둘 리 없으므로 개머리판에 이름이 적힌 오래된 장총을 쓴다. 먼지가 앉은 장총이라 오랫동안 쓰지 않았다는 것, 그럼에도 손도 못 대고 당했다는 것이 함께 읽힌다(텍스트는 사실만 쓰고 해석은 쓰지 않는다). 이름은 "월터"만 나오고 성은 붙이지 않는다 — 1단계에서 에드거의 풀네임이 나오면 안 될 뿐 월터는 상관없으며, 마커스는 "에드거"만, 베일라는 "홀트"(가족사진 글귀)만 알아야 통화가 코드 교환으로 성립한다.
+내용 :
+벽 한쪽에 장총이 세워져 있다. 총열에는 먼지가 뽀얗게 앉아 있고, 개머리판에는 "월터"라는 이름이 새겨져 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">벽 한쪽에 장총이 세워져 있다.</div>
+  <div>총열에는 먼지가 뽀얗게 앉아 있고, 개머리판에는 "<span class="emphasis">월터</span>"라는 이름이 새겨져 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with fishing nets hung in the yard, a working fisherman's home with boots, rope and tools around. Subject: An old bolt-action hunting rifle, a plain working fisherman's rifle, leaning against a wooden plank wall between coats and rope, a thin film of dust on the barrel, a rough carved mark on the wooden stock that cannot be read as letters. Close view of the rifle. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 그물 걸린 집
+파일명 : 01_베일라_그물_걸린_집_1
+
+
+[clue_02]
+이름 : 그물 걸린 집#2
+clueId : c24a4ed5-4244-4c8b-9a30-0ba0d2be1fe2
+variantId : 77f7ee3a-24b5-4fe6-8370-79f4a0170f20
+이미지 : (추후 업로드 예정)
+groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
+유형 : 물증
+단계 : [빈 집, 깨진 적막] (베일라, 1단계)
+소모AP : 1
+정렬순서 : 20
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 집 안이 정돈되어 있지 않다는 인상과 열린 옷장. 옷가지가 바닥에 널려 있다는 것까지만 쓰고, 옷이 없어졌다는 사실은 쓰지 않는다. 옷을 가져갔다는 것을 알려주면 지금 남자 옷을 입고 있는 어슐라가 바로 범인으로 읽히기 때문이다. 옷장은 어지러운 집안 풍경의 한 부분으로만 쓴다(7장).
+내용 :
+집 안은 전체적으로 정돈되어 있지 않다. 탁자 위에는 치우지 않은 접시와 컵이 놓여 있고, 바닥에는 신발과 낚시 도구가 흩어져 있다. 옷장 문도 열려 있고, 그 앞 바닥에는 옷가지가 널려 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">집 안은 전체적으로 정돈되어 있지 않다.</div>
+  <div>탁자 위에는 치우지 않은 접시와 컵이 놓여 있고, 바닥에는 신발과 낚시 도구가 흩어져 있다. <span class="emphasis">옷장</span> 문도 열려 있고, 그 앞 바닥에는 옷가지가 널려 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with fishing nets hung in the yard, a working fisherman's home with boots, rope and tools around. Subject: Medium-wide view of an untidy room: unwashed plates and cups on a wooden table, boots and fishing tools on the floor, the wardrobe door standing open with some clothes lying on the floor in front of it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 그물 걸린 집
+파일명 : 02_베일라_그물_걸린_집_2
+
+
+[clue_03]
+이름 : 그물 걸린 집#3
+clueId : c028e034-d70c-4898-8aa0-cedbf4c6406f
+variantId : ce5f9ba1-a1ce-4a95-9de4-e8b2ab78665e
+이미지 : (추후 업로드 예정)
+groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
+유형 : 물증
+단계 : [빈 집, 깨진 적막] (베일라, 1단계)
+소모AP : 1
+정렬순서 : 30
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 순수 진행용 도구. 이후 2~4단계에서 다른 집들의 잠긴 창문을 깨고 들어가는 수단이 된다(별도 코드 없이 단계를 진행시키는 물리적 장치).
+내용 :
+옷장 옆 바닥에 쇠지레 하나가 떨어져 있다. 뱃일에 쓰는 연장인 듯, 끝이 녹슬어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction"><span class="emphasis">옷장</span> 옆 바닥에 <span class="emphasis">쇠지레</span> 하나가 떨어져 있다.</div>
+  <div>뱃일에 쓰는 연장인 듯, 끝이 녹슬어 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with fishing nets hung in the yard, a working fisherman's home with boots, rope and tools around. Subject: A rusty iron pry bar used for boat maintenance lying on the plank floor beside the open wardrobe, rust at its tip. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 그물 걸린 집
+파일명 : 03_베일라_그물_걸린_집_3
+
+
+[clue_04]
+이름 : 그물 걸린 집#4
+clueId : d1461893-19c6-4702-8285-d1f29810d868
+variantId : 421b7fbe-fb26-4418-819e-41957c350d55
+이미지 : (추후 업로드 예정)
+groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
+유형 : 물증
+단계 : [빈 집, 깨진 적막] (베일라, 1단계)
+소모AP : 1
+정렬순서 : 40
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 이 단계의 핵심 발견 — 한 남자가 죽어 있다는 것. 이 남자가 장총에 이름이 새겨진 "월터"인지는 텍스트로 말하지 않고 플레이어가 장총 단서와 연결해 추리하게 한다("월터로 보이는" 같은 추정형도 쓰지 않는다). 실제로는 잠든 채 질식사했으므로(7-1 "복수의 방식" 참고) 평온한 모습으로 쓰지 않는다. 몸싸움(저항)의 흔적은 없지만 질식 자체의 괴로운 흔적은 남아 있게 쓴다. 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 월터에게는 남기지 않는다. 15세 등급에 맞춰 신체 묘사는 암시적으로만 처리(10장 참고) — 색 변화나 체액 등 직접적인 묘사는 쓰지 않는다.
+내용 :
+안쪽 방, 한 남자가 침대에 쓰러져 있다. 이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">안쪽 방, 한 남자가 침대에 쓰러져 있다.</div>
+  <div>이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with fishing nets hung in the yard, a working fisherman's home with boots, rope and tools around. Subject: A bedroom seen from the foot of the bed in dim light: a thin man lying on the bed with one hand clenched around the blanket, head tilted back, mouth slightly open, the bedding undisturbed, no sign of a struggle. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 그물 걸린 집
+파일명 : 04_베일라_그물_걸린_집_4
+
+
+[clue_05]
+이름 : 그물 걸린 집#5
+clueId : 8fcfd24a-a7dc-4d04-98d7-0e963562daee
+variantId : 8cab1d8c-647b-4bc0-bc66-bb04ce64afeb
+이미지 : (추후 업로드 예정)
+groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
+유형 : 물증
+단계 : [빈 집, 깨진 적막] (베일라, 1단계)
+소모AP : 1
+정렬순서 : 50
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 이 시점엔 아직 누구도 "살해"를 의심하지 못했다는 걸 보여주는 물증(공포가 "살해"로 확신에 차는 건 2단계 톰의 발견부터). 실종된 이의 이름은 적지 않는다 — "에드거"라는 이름은 마커스 쪽 1단계 조사(연구시설#3 장부)에서만 나와 1차 통화로 베일라에게 전달돼야 하므로(8-2 참고), 베일라 자신의 단서에서 먼저 노출되면 통화의 의미가 사라진다. 월터 본인의 막연한 걱정 수준으로만 쓴다.
+내용 :
+탁자 위에 쪽지 한 장이 놓여 있다.
+
+"두목이 어제부터 안 보인다. 집에 가봤는데 대답이 없었다. 무슨 일인지 모르겠다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">탁자 위에 쪽지 한 장이 놓여 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">"두목이 어제부터 안 보인다. 집에 가봤는데 대답이 없었다. 무슨 일인지 모르겠다."</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with fishing nets hung in the yard, a working fisherman's home with boots, rope and tools around. Subject: A short handwritten note in pencil lying on a wooden table beside a plate and a cup, a few plain lines of unreadable handwriting. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 그물 걸린 집
+파일명 : 05_베일라_그물_걸린_집_5
+
+
+[clue_06]
+이름 : 그물 걸린 집#6
+clueId : 1668d652-ac0f-47ee-a7fe-46ae4040c67d
+variantId : 7d34d61a-9463-4fc3-97ed-7ac412dc2897
+이미지 : (추후 업로드 예정)
+groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
+유형 : 물증
+단계 : [빈 집, 깨진 적막] (베일라, 1단계)
+소모AP : 1
+정렬순서 : 60
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : "홀트 집안"이라는 성과 다정한 대가족이라는 표면적 인상만 남기는 물증 — 이게 가짜라는 의심은 아직 전혀 심지 않는다. 베일라 쪽에 액자 사진 단서가 많아 가족사진 대신 손글씨 카드를 쓴다. "홀트"라는 성이 전달되고 같은 성의 여럿이 한 가족처럼 서로를 챙긴다는 내용만 전하면 된다.
+내용 :
+탁자 위에 카드 한 장이 놓여 있다. "생일 축하해요"라는 글 아래에 "홀트 가족 일동"이라고 적혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">탁자 위에 카드 한 장이 놓여 있다.</div>
+  <div>"생일 축하해요"라는 글 아래에 "<span class="emphasis">홀트</span> 가족 일동"이라고 적혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with fishing nets hung in the yard, a working fisherman's home with boots, rope and tools around. Subject: A small greeting card standing open on a wooden table, a short handwritten greeting in blue pen with a signature line beneath it, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 그물 걸린 집
+파일명 : 06_베일라_그물_걸린_집_6
+
+
+## 마커스 1단계 [일반 구역]
+
+
+[clue_07]
+이름 : 연구시설#1
+clueId : 68c3f519-77cf-4b0f-92a7-8fcdabcb64c9
+variantId : c1f31439-75ed-480c-8e4b-224c612827f6
+이미지 : (추후 업로드 예정)
+groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
+유형 : 물증
+단계 : [일반 구역] (마커스, 1단계)
+소모AP : 1
+정렬순서 : 10
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 마이어스가 멀쩡히 업무를 보던 중이었다는 인상을 주는 물증 — 사고가 없었다면 정상적으로 발송됐을 보고서라는 것(7-1 참고). 표면 프로젝트(장갑 강화)용 월간 보고서라, 실제로는 진척이 거의 없는 눈속임용 내용으로 채운다(연구시설#4 라이언의 강도 테스트와 맞물림). 그의 내적 동기나 비공식 연구의 존재는 이 단계에서 전혀 드러내지 않는다.
+내용 :
+소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 8월 말로 찍혀 있다.
+
+[크래비스 해양생태 관측소 월간 연구 진행 보고]
+보고자: 션 마이어스 (소장)
+보고 기간: 2031년 8월
+
+1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.
+2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.
+3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.
+HTML :
+<div class="story-content">
+  <div class="script-direction">소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 8월 말로 찍혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[크래비스 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span> (소장)<br />보고 기간: 2031년 8월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.<br />3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A single typed report page lying unsent on an orderly director's desk, a date stamp in the corner, plain official formatting with unreadable text, a desk lamp and a coffee mug. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 일반 구역
+파일명 : 07_마커스_연구시설_1
+
+
+[clue_08]
+이름 : 연구시설#2
+clueId : 158b320b-246a-445c-bc63-cb7e3e5e8918
+variantId : 12f409a4-858c-4890-87d3-87c35508bd25
+이미지 : (추후 업로드 예정)
+groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
+유형 : 물증
+단계 : [일반 구역] (마커스, 1단계)
+소모AP : 1
+정렬순서 : 20
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 오웬이 사실상 2인자였다는 걸 관찰로만 보여주는 물증 — "그래서 신뢰받았다" 같은 해석은 넣지 않는다. 서명은 보고서 위쪽 결재란의 검토자 칸에 흘려 쓴 "O. Price"(이름 첫 글자와 성, 영문)로 남긴다. 이 작품의 다른 영문 표기("A. Boyd", "C. Ryan", "S. Meyers")와 같은 방식이다. 성만 적으면 사람 이름이 아니라 "가격"으로 읽힐 수 있어 쓰지 않는다. 오웬이라는 연결은 같은 단계 사진 뒷면의 "오웬"과 19번의 "오웬 프라이스"를 합쳐야 풀린다 — 이게 "오웬"과 같은 사람이라는 연결은 이 단계에서 짓지 않고, 이후 오웬을 직접 만나는 단계에서 자연스럽게 풀린다.
+내용 :
+책상 위에 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 놓여 있다. 전부 위쪽 검토란에 "O. Price"라는 서명이 있고, 여백에는 짧은 메모가 적혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 위에 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 놓여 있다.</div>
+  <div>전부 위쪽 검토란에 "<span class="emphasis">O. Price</span>"라는 서명이 있고, 여백에는 짧은 메모가 적혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A small stack of photocopied report pages fanned out on a desk. At the top right of each page is a boxed approval block with three small side-by-side boxes, and in the middle box a handwritten cursive signature that reads "O. Price" in dark blue pen. A few short pencil notes in the margins. All other writing is unreadable lines. The only legible writing in the frame is the cursive signature "O. Price" in the approval box.
+단서 그룹 : 연구시설 - 일반 구역
+파일명 : 08_마커스_연구시설_2
+
+
+[clue_09]
+이름 : 연구시설#3
+clueId : 7e1372ba-b4a6-4c0b-826f-3474e13e466a
+variantId : e7cfcaaa-59d9-4352-be26-d7270198d977
+이미지 : (추후 업로드 예정)
+groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
+유형 : 물증
+단계 : [일반 구역] (마커스, 1단계)
+소모AP : 1
+정렬순서 : 30
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 1차 통화 핵심 물증 — "에드거"라는 이름이 베일라에게 전달돼 2단계 서랍 코드가 된다(8-2 참고). 성("홀트")은 적지 않는다. 마커스는 "에드거"만, 베일라는 "홀트"(1단계 가족사진 글귀)만 알아야 서로 코드를 주고받는 통화가 성립한다. 거래가 끊겼다는 설정은 없음 — 꾸준히 지속돼온 거래로만 쓴다.
+내용 :
+장부 한 권. 몇 년째 달마다 "에드거"라는 이름 앞으로 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">장부 한 권이 있다.</div>
+  <div>몇 년째 달마다 "<span class="emphasis">에드거</span>"라는 이름 앞으로 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A thick bound ledger open on a desk, neat columns of repeating monthly entries, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 일반 구역
+파일명 : 09_마커스_연구시설_3
+
+
+[clue_10]
+이름 : 연구시설#4
+clueId : 87957b9f-f1de-4379-b5f8-e364af9011d2
+variantId : 2b89c7f1-5066-446f-8a8b-626cf9cb0666
+이미지 : (추후 업로드 예정)
+groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
+유형 : 물증
+단계 : [일반 구역] (마커스, 1단계)
+소모AP : 1
+정렬순서 : 40
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 표면 프로젝트(장갑 강화)가 실제로 조금은 수행됐다는 흔적 — 신입에게 맡겨진 비교적 표면적인 업무라는 설정(클로이 라이언)이지만 텍스트로는 담당자 이름을 강조하지 않는다.
+내용 :
+책상 위에 게 껍데기 조각이 놓여 있다.
+조각은 여러 개이고, 그 강도를 측정한 듯한 수치가 적힌 표가 함께 놓여 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 위에 <span class="emphasis">게</span> 껍데기 조각이 놓여 있다.</div>
+  <div>조각은 여러 개이고, 그 강도를 측정한 듯한 수치가 적힌 표가 함께 놓여 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: Several crab shell fragments laid out on a desk beside a handwritten table of numbers, a ruler and small calipers. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 일반 구역
+파일명 : 10_마커스_연구시설_4
+
+
+[clue_11]
+이름 : 연구시설#5
+clueId : 2d56f30d-d53d-4cfa-a1ca-279ede09f2de
+variantId : 6aadd668-9749-4ad9-b410-5ed0b84ef5d5
+이미지 : (추후 업로드 예정)
+groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
+유형 : 물증
+단계 : [일반 구역] (마커스, 1단계)
+소모AP : 1
+정렬순서 : 50
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 이름표 대신 이 사진 하나로 "연구원이 누구누구 있었는지", "클로이가 신입이고 이 날짜에 환영받았다는 것"을 추론하게 하는 물증. 포즈 순서와 뒷면 이름 순서를 왼쪽부터 나란히 대응시켜, 술병을 든 사람이 오웬이고 긴 머리의 오른쪽 끝 사람이 클로이라는 걸 플레이어가 직접 짝지어 추론하게 한다 — 연구시설#6의 빈 술병과 연결되고, 3단계 통제 구역 복도의 긴 머리카락과도 이어지므로 클로이는 이 팀의 유일한 여성이자 장발이어야 한다. 네 사람 모두 친해 보인다는 인상만 주고, 이후 벌어진 일과의 대비는 텍스트로 설명하지 않는다.
+내용 :
+휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 술병을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
+
+"클로이를 환영하며. 션, 오웬, 앨런. 2031. 4."
+HTML :
+<div class="story-content">
+  <div class="script-direction">휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다.</div>
+  <div>맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 <span class="emphasis">술병</span>을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다.</div>
+  <div>액자를 들어보니 뒷면에 짧은 글씨가 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">"<span class="emphasis">클로이</span>를 환영하며. <span class="emphasis">션</span>, <span class="emphasis">오웬</span>, <span class="emphasis">앨런</span>. 2031. 4."</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A framed group photograph hanging on a break-room wall: four lab staff posing in a row, the leftmost with an arm around the next person's shoulder, the second holding up a liquor bottle, the third making a peace sign, the rightmost a smiling woman with long hair brushed over her shoulder. Faces are small and soft, no one recognizable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 일반 구역
+파일명 : 11_마커스_연구시설_5
+
+
+[clue_12]
+이름 : 연구시설#6
+clueId : 7abc373b-4f64-4575-8374-95a310dc9088
+variantId : 751fb881-f470-4b59-aef9-d2a89034c970
+이미지 : (추후 업로드 예정)
+groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
+유형 : 물증
+단계 : [일반 구역] (마커스, 1단계)
+소모AP : 1
+정렬순서 : 60
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 오웬이 우연히 생존한 이유를 암시하는 관찰 가능한 복선(8-0 참고) — "왜 그만 살아남았는가"는 텍스트로 전혀 설명하지 않는다. 특정 책상이 아니라 휴게실 공용 쓰레기통에 두어, 앞서 본 단체사진(연구시설#5)의 "술병을 든 사람" 묘사를 뒷받침하는 확인 물증으로 마지막에 배치한다.
+내용 :
+휴게실 한쪽, 쓰레기통이 놓여 있다.
+쓰레기통 안에 이런저런 쓰레기가 뒤섞여 있는데, 그중에서도 빈 술병이 유독 많다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">휴게실 한쪽, 쓰레기통이 놓여 있다.</div>
+  <div>쓰레기통 안에 이런저런 쓰레기가 뒤섞여 있는데, 그중에서도 빈 <span class="emphasis">술병</span>이 유독 많다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A plastic wastebasket in a break room full of ordinary trash, with many empty liquor bottles standing out among it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 일반 구역
+파일명 : 12_마커스_연구시설_6
+
+
+## 베일라 2단계 [사라진 순서]
+
+※ 2단계는 집이 두 채다. 집 이름은 1단계와 같은 원칙(외형 기반, 소유자 이름·상태 기반 금지)으로 짓는다. 문패·우편물·고지서처럼 집주인 이름을 대놓고 알려주는 장치는 쓰지 않는다(숨어 사는 사람들이라 문패를 걸어둘 리 없다. 1단계 월터의 집만 개머리판에 새긴 이름으로 알린다) — 이 집이 누구의 집인지, 이 사람들이 누구인지는 플레이어가 마커스에게 받은 정보나 이후 단서로 직접 추리한다(이름을 몰라도 상관없고, 3·4단계 단서로 추리하게 해도 된다).
+※ 에드거(1번째)·월터(2번째)는 자다가 당했다. 톰·그레이스(3·4번째)는 같은 날, 같은 집에서 당했다 — 톰은 침대에서 앞선 두 사람과 같은 방식으로 질식했고, 깨어난 그레이스가 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러져 거실에서 질식했다. "톰과 그레이스가 사흘째 아침에 에드거·월터의 시신을 확인했다"는 비트는 3단계에서 드러내며, 이 단계에서는 어떤 해석도 텍스트에 넣지 않는다.
+※ 에드거·월터가 죽을 때는 섬에서 밤에 문을 잠그는 사람이 없었다. 톰·그레이스는 두 집에서 시신을 확인한 뒤 열쇠로 문을 다시 잠가두었고, 소식이 퍼진 그날 밤부터 주민들은 문을 걸어 잠갔다. 그래서 월터의 집만 열려 있었고(어슐라가 월터의 옷을 입고 안쪽에서 문을 열고 나온 뒤 다시 잠그지 못함) 나머지 집은 전부 잠겨 있다. 컷씬에서 두 집 모두 문과 창이 굳게 잠겨 있어 쇠지레로 창문을 깨고 들어간다고 전달한다(베일라가 쇠지레만으로 문을 부수긴 어려우므로 문이 아니라 창문) — 단서 본문에는 쓰지 않되, 두 집이 밀실 상태라는 사실과 모순되는 묘사(열린 문·창 등)는 쓰지 않는다.
+※ 시신 묘사는 15세 등급에 맞춰 암시적으로만 처리한다(10장). 1차 통화로 받은 코드 "에드거"는 통발 쌓인 집#3(숨김 단서)에만 쓰이며, 못 열어도 진행엔 지장이 없다.
+
+
+[clue_13]
+이름 : 통발 쌓인 집#1
+clueId : c4cf3191-e0fa-4c63-b508-ffb14ddb6d8c
+variantId : c09c3a34-c23c-4139-92b0-0f97c2bf9b6a
+이미지 : (추후 업로드 예정)
+groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 1
+정렬순서 : 110
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 집주인 확인 장치. 이름을 직접 알려주지 않고(1차 통화의 "에드거"는 마커스 쪽에서만 나와야 한다) 사진 한 장으로 추리하게 한다 — 팔뚝만 한 랍스터를 든 어부의 사진이라, 플레이어는 마커스가 연구시설 장부에서 본 "갑각류를 대던 에드거"와 이 집을 스스로 연결할 수 있다. 랍스터를 든 손의 손등에 있는 오래된 화상 자국은 시신(통발 쌓인 집#2)과 3단계의 옛 수배 기사(손등 화상 흉터)로 이어질 씨앗이다.
+내용 :
+벽에 걸린 사진 액자. 마른 체구의 노인이 팔뚝만 한 랍스터를 한 손으로 들어 보이며 웃고 있다. 랍스터를 든 손의 손등에 오래된 화상 자국이 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">벽에 걸린 사진 액자.</div>
+  <div>마른 체구의 노인이 팔뚝만 한 랍스터를 한 손으로 들어 보이며 웃고 있다. 랍스터를 든 손의 손등에 오래된 <span class="emphasis">화상 자국</span>이 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with lobster traps stacked in the yard, an older man's neat, plain home with a few framed snapshots on the walls. Subject: A framed, slightly faded 1990s snapshot on a plank wall: a thin elderly fisherman grinning, holding up a huge lobster the size of his forearm in one hand, an old burn scar visible on the back of that hand, a dock behind him. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 통발 쌓인 집
+파일명 : 13_베일라_통발_쌓인_집_1
+
+
+[clue_14]
+이름 : 통발 쌓인 집#2
+clueId : 6a6fc31b-c31f-4f6b-8a40-39380a0a0520
+variantId : 919f394d-0e59-4a4e-877f-f16c3c5770bf
+이미지 : (추후 업로드 예정)
+groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 1
+정렬순서 : 120
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 1번째 희생자. 자다가 질식했으므로 저항·몸싸움의 흔적이 없다. 시신에서는 이름을 확정하지 않고 "사진 속 노인과 같은 손등의 화상 자국"이라는 관찰만 겹치게 둔다. 비워진 지 가장 오래됐다는 인상은 탁한 공기로만 전한다.
+내용 :
+안방 침대 위에 마른 노인이 반듯하게 누워 있다. 이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">안방 침대 위에 마른 노인이 반듯하게 누워 있다.</div>
+  <div>이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 <span class="emphasis">화상 자국</span>이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with lobster traps stacked in the yard, an older man's neat, plain home with a few framed snapshots on the walls. Subject: A bedroom seen from the foot of the bed in dim light: a thin elderly man lying straight with the blanket pulled up to his neck, one hand outside the sheet clenched, an old burn scar on its back, mouth open, stale heavy air, no sign of a struggle. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 통발 쌓인 집
+파일명 : 14_베일라_통발_쌓인_집_2
+
+
+[clue_15]
+이름 : 통발 쌓인 집#3
+clueId : f372fff1-9488-4acc-93d1-e5abfecee050
+variantId : cb0d40f3-ebe8-471c-9027-5ce74002a64a
+이미지 : (추후 업로드 예정)
+groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 1
+정렬순서 : 130
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '에드거' 입력(1차 통화로 마커스에게 받은 이름)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 일곱 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사("프랭크 모란" 등)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다.
+질문 HTML :
+<div class="story-content">
+  <div>침실 한쪽 서랍에 자물쇠가 달려 있다.</div>
+  <div>암호를 입력해야 열릴 것 같다.</div>
+</div>
+내용 :
+잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다. 이름 일곱 개가 세로로 적혀 있다.
+
+프랭크 모란
+레너드 크로스
+마이클 번스
+패트리샤 번스
+지미 쇼
+데비 쇼
+로니 헤이즈
+HTML :
+<div class="story-content">
+  <div class="script-direction">잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small"><span class="emphasis">프랭크 모란</span><br /><span class="emphasis">레너드 크로스</span><br /><span class="emphasis">마이클 번스</span><br /><span class="emphasis">패트리샤 번스</span><br /><span class="emphasis">지미 쇼</span><br /><span class="emphasis">데비 쇼</span><br /><span class="emphasis">로니 헤이즈</span></div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with lobster traps stacked in the yard, an older man's neat, plain home with a few framed snapshots on the walls. Subject: Close-up of a yellowed sheet of paper lying flat by itself on the wooden top of a dresser, seven names handwritten in a vertical column that cannot be read, worn creases and old fold lines; a pulled-out empty drawer is blurred beside it. No hands and no people anywhere in the frame. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 통발 쌓인 집
+파일명 : 15_베일라_통발_쌓인_집_3
+
+
+[clue_16]
+이름 : 빨래 널린 집#1
+clueId : d6808499-7bef-4d7a-b2b6-56982cee5d14
+variantId : 29d63ef1-5a76-4898-b4d5-6312fd90ec17
+이미지 : (추후 업로드 예정)
+groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 1
+정렬순서 : 140
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 이 집에서 먼저 당한 사람(톰). 앞선 두 사람과 같은 방식으로 자다가 질식했으므로 저항 흔적이 없다. 다만 옆자리 이불이 걷어젖혀진 채 비어 있어 "함께 자던 다른 사람이 깨어나 일어났다"는 것만 관찰로 남긴다 — 이 사람이 누구인지는 쓰지 않는다. 3·4번째 희생자가 같은 날 같은 집에서 죽었다는 설정의 첫 단서.
+내용 :
+안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 누워 있다. 입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 누워 있다.</div>
+  <div>입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A married couple's tidy home with laundry still hanging in the yard outside the window. Subject: A bedroom seen from the foot of the bed: a sturdy man lying on a double bed, half slid off the pillow, mouth open, no sign of a struggle, the blanket on the empty side thrown back. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 빨래 널린 집
+파일명 : 16_베일라_빨래_널린_집_1
+
+
+[clue_17]
+이름 : 빨래 널린 집#2
+clueId : 70b2678e-b7d8-45c7-8013-d917d12d0efb
+variantId : c72616ea-3ad8-4120-8a40-14c4b2c7db4a
+이미지 : (추후 업로드 예정)
+groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 1
+정렬순서 : 150
+중요도 : 최고
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 "접힌 종이를 펼치니 무한대 기호가 보인다"고만 쓰고, 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다.
+내용 :
+거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다. 한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
+
+펼쳐 보니 무한대 기호가 보인다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다.</div>
+  <div>한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">∞</div>
+  </div>
+  <div>펼쳐 보니 <span class="emphasis">무한대 기호</span>가 보인다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A married couple's tidy home with laundry still hanging in the yard outside the window. Subject: A living room floor seen from a slight distance: a woman lying face down on the plank floor with her head toward the front door, both legs straight out behind her, one arm stretched forward above her head toward the door and the other arm bent beside her body with the hand clenched in a fist around a small folded piece of paper of which only a corner shows and nothing on it is visible. A ballpoint pen lies on the floor near her; a telephone on a side table with a memo pad with one page torn off stands to one side. Her face is hidden by her hair. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 빨래 널린 집
+파일명 : 17_베일라_빨래_널린_집_2
+
+
+[clue_18]
+이름 : 빨래 널린 집#3
+clueId : 6f73d9b6-6043-489a-a3df-76dd91b4b32a
+variantId : 31bcf103-6652-461b-b599-01548f649fec
+이미지 : (추후 업로드 예정)
+groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
+유형 : 물증
+단계 : [사라진 순서] (베일라, 2단계)
+소모AP : 1
+정렬순서 : 160
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 이 집의 두 사람이 결혼한 지 20년이 넘은 부부였다는 걸 알려주는 물증. 결혼 20주년을 새긴 유리잔 한 쌍이라 이름이나 서류 없이도 "20년을 함께한 부부"라는 사실만 전달한다. 2011년(정착 연도)과 20년이 맞물리지만 텍스트로는 연결하지 않는다. 가짜 가족 의심 장치가 이 단계에서 빠졌으므로 그 비트는 3단계 이후에 둔다. 액자 사진 단서가 많아 액자 대신 새긴 기념품을 쓴다.
+내용 :
+거실 장식장에 유리잔 한 쌍이 놓여 있다. 잔마다 "결혼 20주년"이라고 새겨져 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">거실 장식장에 유리잔 한 쌍이 놓여 있다.</div>
+  <div>잔마다 "결혼 20주년"이라고 새겨져 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A married couple's tidy home with laundry still hanging in the yard outside the window. Subject: A glass-fronted display cabinet with a pair of crystal glasses on a shelf, each with a small illegible engraving. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 빨래 널린 집
+파일명 : 18_베일라_빨래_널린_집_3
+
+
+## 마커스 2단계 [연구 구역]
+
+※ 마커스 쪽 구역은 이렇게 나뉜다. 1단계 일반 구역(외부인까지 출입 가능, 크래비스 쪽에서 갑각류를 이 구역에 가져다 줌) → 2단계 연구 구역(연구자들만, 4명 팀원 전원 출입 가능) → 3단계 통제 구역(인가자만 — 클로이를 제외한 인원만 가능, 클로이는 몰래 들어옴) → 4단계 비밀 구역(마이어스만 아는 숨겨진 구역). 이 단계는 연구 구역이며 기밀 장갑 프로젝트가 수행되는 곳이다. 안쪽으로 가는 문 같은 자동 진행용 장치는 단서로 두지 않는다(컷씬에서 처리).
+※ 마이어스·오웬·앨런은 비밀 연구를 알고 참여했고, 신입 클로이만 몰랐다(8-0). 클로이가 정부 감사 요원이라는 정체는 이 단계에서 드러내지 않는다 — 환풍구 녹음기·점검 통지서 여백 메모 같은 장치는 쓰지 않는다.
+※ 시신 단서는 이름이 물건에 적힌 사실(연구복의 이름 자수)로만 신원을 알리고, 서술자가 "~로 보이는"처럼 신원을 못박지 않는다. 사진 뒷면의 이름 "앨런"과 자수의 이니셜 "A."로 플레이어가 추리한다. 신분증 사진처럼 급속 노화가 너무 빨리 풀리는 장치는 쓰지 않는다.
+※ 시약 합성 재료의 출처 문제는, 합성이 잘못되면 색이 다르게 나온다는 설정으로 해결한다 — 논문은 "RB-CBP는 붉은색"이라 하고, 실제 보관소의 RB-CBP 병들은 전부 초록색이다. 이 초록 용액은 급속 노화 물질의 재료이며, 완성품(투명·무색무취)이 어떻게 나오는지는 3·4단계에서 밝혀진다.
+※ 1차 통화로 받은 코드 "홀트"는 6번(거래처 자료)에 쓰이며, 못 열어도 진행엔 지장이 없다. 이 단계에서 마커스가 2차 통화로 베일라에게 넘기는 코드는 "앨런"(시신 단서에서 추리)이다.
+
+
+[clue_19]
+이름 : 연구 구역#1
+clueId : 44f0548c-1ce6-436e-bb3d-27b41dcb4181
+variantId : 95104803-21ed-4f38-8495-cb803272691f
+이미지 : (추후 업로드 예정)
+groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
+유형 : 물증
+단계 : [연구 구역] (마커스, 2단계)
+소모AP : 1
+정렬순서 : 210
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 직원 풀네임(션 마이어스, 오웬 프라이스, 앨런 보이드, 클로이 라이언)이 정리되고, 구역별 출입 권한이 사람마다 다르다는 사실만 보여준다 — 클로이만 통제 구역에 들어갈 권한이 없다. 플레이어가 "클로이는 연구 구역까지만", "통제 구역은 무엇인가"를 추리하고, 3단계 통제 구역에서 만나는 클로이의 머리카락·시신의 의미가 이 표에서 풀린다. 해석은 쓰지 않는다. 마이어스만 아는 비밀 구역은 이 표에 나오지 않는다.
+내용 :
+출입 통제 단말기에 직원별 출입 권한 표가 떠 있다.
+
+[직원별 출입 권한]
+션 마이어스: 일반 · 연구 · 통제
+오웬 프라이스: 일반 · 연구 · 통제
+앨런 보이드: 일반 · 연구 · 통제
+클로이 라이언: 일반 · 연구
+HTML :
+<div class="story-content">
+  <div class="script-direction">출입 통제 단말기에 직원별 출입 권한 표가 떠 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[직원별 출입 권한]<br /><span class="emphasis">션 마이어스</span>: 일반 · 연구 · 통제<br /><span class="emphasis">오웬</span> <span class="emphasis">프라이스</span>: 일반 · 연구 · 통제<br /><span class="emphasis">앨런 보이드</span>: 일반 · 연구 · 통제<br /><span class="emphasis">클로이 라이언</span>: 일반 · 연구</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A wall-mounted access-control terminal with a modern flat touchscreen showing a plain table of four staff rows and three zone columns with check marks, in a clean sans-serif typeface and too small to read, a steel door beside it. The screen glows cool white. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 연구 구역
+파일명 : 19_마커스_연구_구역_1
+
+
+[clue_20]
+이름 : 연구 구역#2
+clueId : d1153f65-63f5-4569-aafd-f83d89817ab6
+variantId : 2f98e074-9b92-44ef-b450-49508ac87a41
+이미지 : (추후 업로드 예정)
+groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
+유형 : 물증
+단계 : [연구 구역] (마커스, 2단계)
+소모AP : 1
+정렬순서 : 220
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 급속 노화로 죽은 연구원(앨런 보이드)의 시신. 이름은 연구복의 이름 자수 "A. Boyd"로만 알리고, 사진 뒷면의 "앨런"과 이니셜 "A."로 플레이어가 추리한다 — 신분증 사진 같은 장치는 급속 노화가 너무 일찍 풀려서 쓰지 않는다. "극도로 늙었다"는 사실만 보여주고 왜 그런지는 설명하지 않는다. 외상이 없다는 것과 연구복이 몸에 비해 헐렁하다는 것까지만 관찰로 남긴다. 15세 등급에 맞춰 암시적으로만 처리(10장). 마커스가 베일라에게 넘길 코드 "앨런"의 출처다.
+내용 :
+복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다. 얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다.</div>
+  <div>얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "<span class="emphasis">A. Boyd</span>"라는 이름이 수놓여 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A pale institutional corridor: an extremely aged person with thin white hair and deeply wrinkled skin, wearing an oversized, loose white lab coat, slumped against the wall, no wounds, an unreadable embroidered patch on the chest. The face is in shadow. Nothing graphic. Fully dressed under the lab coat: a collared shirt, long dark trousers and sturdy shoes; legs and feet are covered, no bare legs and no bare feet. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 연구 구역
+파일명 : 20_마커스_연구_구역_2
+
+
+[clue_21]
+이름 : 연구 구역#3
+clueId : eafced9c-ae38-4177-b8c3-9761c7c4de69
+variantId : b36a5522-0edb-4a8c-895c-f9ea9d62efa7
+이미지 : (추후 업로드 예정)
+groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
+유형 : 물증
+단계 : [연구 구역] (마커스, 2단계)
+소모AP : 1
+정렬순서 : 230
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 정보 ①의 반쪽 — 장갑 연구에 쓰이는 시약 "RB-CBP"(로다민 B 접합 키틴 결합 프로브 — 실제 논문에 나올 법한 이름)가 합성 직후 붉은색이어야 한다는 사실. 다음 단서(시약 보관소의 초록색 병)와 짝을 이룬다. 논문 본문이라 실제 논문처럼 보이게 쓰되, 연구가 진척된 내용은 담지 않는다. 합성이 잘못되면 색이 다르게 나온다는 서술이 합성 재료의 출처 문제를 없애준다(같은 재료로 다른 걸 만들었다는 게 색 하나로 보임).
+내용 :
+실험대 위에 철해 둔 논문 사본이다. 여백에는 손때와 형광펜 자국이 남아 있다.
+
+[갑각류 외골격의 키틴-단백질 복합 구조 분석을 위한 선택적 염색 기법]
+2.3 시료 전처리
+분석 대상 외골격 시료는 로다민 B 접합 키틴 결합 프로브(RB-CBP) 용액에 24시간 침지한다. RB-CBP는 합성 직후 선명한 붉은색을 띠며, 이는 합성이 올바르게 이루어졌다는 지표다. 용액이 붉은색이 아닌 경우에는 합성에 실패한 것이므로 즉시 폐기하고 재합성해야 한다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">실험대 위에 철해 둔 논문 사본이다. 여백에는 손때와 형광펜 자국이 남아 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[갑각류 외골격의 키틴-단백질 복합 구조 분석을 위한 선택적 염색 기법]<br />2.3 시료 전처리<br />분석 대상 외골격 시료는 로다민 B 접합 키틴 결합 프로브(RB-CBP) 용액에 24시간 침지한다. RB-CBP는 합성 직후 <span class="emphasis">선명한 붉은색</span>을 띠며, 이는 합성이 올바르게 이루어졌다는 지표다. 용액이 붉은색이 아닌 경우에는 합성에 실패한 것이므로 즉시 폐기하고 재합성해야 한다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A stapled photocopy of a scientific paper on a laboratory bench, worn, with yellow highlighter marks in the margins, a small beaker of bright red liquid beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 연구 구역
+파일명 : 21_마커스_연구_구역_3
+
+
+[clue_22]
+이름 : 연구 구역#4
+clueId : 03250235-357a-4075-87a2-daf07e7645cb
+variantId : b9b51f53-f2bd-4741-9935-9c099e16385a
+이미지 : (추후 업로드 예정)
+groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
+유형 : 물증
+단계 : [연구 구역] (마커스, 2단계)
+소모AP : 1
+정렬순서 : 240
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 정보 ①의 나머지 반쪽 — 보관소의 "RB-CBP" 병들이 전부 초록색이라는 것. 같은 보관소의 다른 시약병들 사이에 "C2H5OH / 에틸 알코올"이 섞여 있다(4단계에서 C2H5OH가 알코올임을 알게 하는 복선이므로 본문은 병 이름만 보여주고 중요성을 설명하지 않는다). 논문이 말한 붉은색과 어긋나므로 "RB-CBP라는 이름표를 붙인 다른 무언가"가 있다는 의문만 남긴다. 이 초록색 용액은 급속 노화 물질의 재료이고(완성품이 아님), 3단계 이후에서 마이어스의 연구대로 실험하면 투명한 색에 무색무취의 액체가 나온다는 게 밝혀진다 — 그 해석은 텍스트로 설명하지 않는다.
+내용 :
+시약 보관소의 선반마다 "RB-CBP"라고 적힌 병이 줄지어 서 있다. 병 속 용액은 하나같이 짙은 초록색이다. 한쪽 칸에는 증류수, 아세톤, "C2H5OH / 에틸 알코올" 같은 다른 시약병들이 섞여 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">시약 보관소의 선반마다 "RB-CBP"라고 적힌 병이 줄지어 서 있다.</div>
+  <div>병 속 용액은 하나같이 짙은 초록색이다. 한쪽 칸에는 증류수, 아세톤, "C2H5OH / 에틸 알코올" 같은 다른 시약병들이 섞여 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: Rows of identical glass reagent bottles on laboratory shelves, every bottle filled with deep green liquid, with a few other reagent bottles at the end of one shelf; all labels are blank or unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 연구 구역
+파일명 : 22_마커스_연구_구역_4
+
+
+[clue_23]
+이름 : 연구 구역#5
+clueId : 69189212-c4e5-4236-81c6-d92a37d67adf
+variantId : 0cd13805-3185-4045-a5ba-46ca2b5f397c
+이미지 : (추후 업로드 예정)
+groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
+유형 : 물증
+단계 : [연구 구역] (마커스, 2단계)
+소모AP : 1
+정렬순서 : 250
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 장갑 연구는 실제로 진행되지 않고 가짜 보고만 했다는 것. 한 달이 아니라 거의 6개월 분량이 미리 작성돼 있어, 소장이 앞으로 한동안 보고를 직접 할 생각이 없었다는(진짜 연구가 따로 있다는) 인상을 준다. 마커스는 이걸 "예산 관리 부실"로 낙관적으로 읽는다(6장) — 해석은 끝까지 미룬다. 표면 프로젝트 방치와 정부 보고의 형식성을 한 단서로 합쳤다. 1단계 clue_07의 8월 보고서와 같은 양식·문구다. 마이어스는 9월부터 6개월 "집중 연구 기간"을 계획해 이 서류철을 미리 써둔 것이다. 작성일은 쓰지 않는다. 정부에 보내는 보고서에 미리 쓴 날짜가 찍혀 있으면 발송 전에 거짓이 드러나기 때문이다. 미리 썼다는 사실은 아직 오지 않은 달의 보고서가 이미 있다는 것만으로 전달한다.
+내용 :
+서랍 안에 "정기 진행 보고"라는 서류철이 있다. 9월부터 이듬해 2월까지 여섯 달치 보고서가 이미 작성되어 있다.
+
+[크래비스 해양생태 관측소 월간 연구 진행 보고]
+보고자: 션 마이어스 (소장)
+보고 기간: 2031년 9월
+
+1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.
+2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.
+3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.
+
+넘겨 보니 나머지 다섯 달치도 보고 기간만 다를 뿐 문장이 같다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">서랍 안에 "정기 진행 보고"라는 서류철이 있다. 9월부터 이듬해 2월까지 여섯 달치 보고서가 이미 작성되어 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[크래비스 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span> (소장)<br />보고 기간: 2031년 9월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.<br />3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
+  </div>
+  <div>넘겨 보니 나머지 다섯 달치도 보고 기간만 다를 뿐 문장이 같다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A thick folder of typed monthly reports pulled from a desk drawer, the top page visible, a stack of near-identical pages beneath it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 연구 구역
+파일명 : 23_마커스_연구_구역_5
+
+
+[clue_24]
+이름 : 연구 구역#6
+clueId : ff290543-bae6-4bc8-ab76-daec28a73f49
+variantId : 3dffab76-8503-47ca-a146-a93731683bb8
+이미지 : (추후 업로드 예정)
+groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
+유형 : 물증
+단계 : [연구 구역] (마커스, 2단계)
+소모AP : 1
+정렬순서 : 260
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '홀트' 입력(1차 통화로 베일라에게 받은 성)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 보너스(진행과 무관). 마커스는 장부에서 "에드거"라는 이름만 알고 성은 몰랐으므로(1단계 clue_09), 방대한 자료를 뒤질 검색어가 없다 — 베일라가 가족사진에서 본 "홀트"가 그 검색어가 된다. 열리면 정부 공급처 등록 때 에드거 홀트의 신원 조회가 이뤄지지 않았다는 것, 즉 그들이 가명을 쓰고 있다는 정보가 드러난다. 이 정보는 2차 통화로 베일라에게 전달돼 2단계에서 빠진 "가짜 가족 의심"의 자리를 대신한다(3단계).
+질문 HTML :
+<div class="story-content">
+  <div>단말기에 옛 거래처 자료가 폴더 수백 개 분량으로 쌓여 있다.</div>
+  <div>너무 방대해서 어디서부터 찾아야 할지 모르겠다. 검색할 단어가 필요하다.</div>
+</div>
+내용 :
+단말기에서 "홀트" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.
+
+공급처: 홀트 (크래비스 섬)
+대표: 에드거
+품목: 갑각류 표본
+신원 조회 결과: 일치하는 기록 없음
+HTML :
+<div class="story-content">
+  <div class="script-direction">단말기에서 "<span class="emphasis">홀트</span>" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">공급처: <span class="emphasis">홀트</span> (크래비스 섬)<br />대표: <span class="emphasis">에드거</span><br />품목: 갑각류 표본<br />신원 조회 결과: <span class="emphasis">일치하는 기록 없음</span></div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A thin flat-panel monitor on a laboratory office desk showing a plain database record page with one highlighted row and folder icons, a clean sans-serif interface too small to read, cool white glow. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 연구 구역
+파일명 : 24_마커스_연구_구역_6
+
+
+## 베일라 3단계 [낡은 상자]
+
+※ (임시 초안 — 마커스 4단계 키워드 선정용으로 먼저 써본 것. 확정 전.)
+※ 컷씬: 톰·그레이스 이후의 집은 전부 창에 판자를 대고 문을 막아둔 상태다. 베일라는 쇠지레로 창의 판자를 뜯고 들어간다. 집 외형을 묘사할 때 지붕 위쪽에 환풍구나 빈틈이 보이게 쓴다(어슐라가 위쪽 틈으로 들어와 천장 쪽에서 내려온 것). 단서 본문에는 쓰지 않는다.
+※ 이 집의 두 사람(노라·레이)은 자다가 당한 게 아니라 깨어 있다가 저항하며 죽었다. 목과 팔의 자국은 "원형의 멍 자국"으로만 쓴다 — 어떤 말로든 문어를 연상시키는 표현은 쓰지 않는다. 범인이 사람이 아니라는 직접적인 단서(푸른 액체 등)는 4단계로 미룬다.
+※ 이 집이 누구의 집인지, 두 사람이 누구인지는 쪽지·일정표의 이름으로 추리한다. 시신 본문에는 이름 라벨을 쓰지 않는다.
+
+
+[clue_25]
+이름 : 뒤집힌 보트 집#1
+clueId : 6496ad40-a220-4767-8706-9f1e40de1456
+variantId : 6278d243-f6cd-4a1e-9609-4b87e1c8e675
+이미지 : (추후 업로드 예정)
+groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 1
+정렬순서 : 310
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 4번째 날(9/4)의 희생자. 앞선 희생자들과 달리 깨어 있다가 저항하며 죽었다 — 여자(노라)가 먼저 뒤에서 목이 졸렸고, 달려온 남자(레이)가 갈고리로 맞섰으나 여러 곳을 붙잡혀 질식했다. 가장 최근에 죽은 사람들이라 원형의 멍 자국이 남아 있다. 누가 누구인지, 어떻게 침입했는지는 텍스트로 말하지 않는다.
+내용 :
+식탁 옆 바닥에 여자가 쓰러져 있고, 그 옆에 남자가 쓰러져 있다. 식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 팔과 목에도 작은 원형의 멍 자국이 여러 군데 나 있고, 한 손에는 갈고리를 쥐고 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">식탁 옆 바닥에 여자가 쓰러져 있고, 그 옆에 남자가 쓰러져 있다.</div>
+  <div>식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 팔과 목에도 작은 원형의 멍 자국이 여러 군데 나 있고, 한 손에는 갈고리를 쥐고 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A kitchen floor in disarray: a woman and a man lying side by side, a toppled table and chair, broken cups scattered, small round bruise marks on their necks and on the man's forearms, a fishing gaff in the man's hand. Faces are not shown, no blood, nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 25_베일라_뒤집힌_보트_집_1
+
+
+[clue_26]
+이름 : 뒤집힌 보트 집#2
+clueId : 780a068f-66c5-4224-bc58-898158343ae8
+variantId : 6ee0f4b4-8e35-4763-89b8-5b3670ef5d30
+이미지 : (추후 업로드 예정)
+groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 1
+정렬순서 : 320
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 이 집 사람들이 잠들지 않으려고 버텼다는 경계의 흔적. 앞선 월터의 장총(쓰지 못한 방어 수단)과 대비되는, "알고 대비했는데도 당했다"는 인상을 만든다. 머리맡 무기 대신 커피를 쓴다. 두 사람이 사는 집이므로 머그잔은 둘만 두고, 커피를 얼마나 마셨는지는 쓰레기통의 필터와 찌꺼기, 바닥이 보이는 커피 통으로 알린다.
+내용 :
+식탁 위에는 머그잔 두 개가 놓여 있다. 싱크대 옆 쓰레기통에는 쓰고 버린 커피 필터와 찌꺼기가 넘치고, 커피 통은 바닥이 보인다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">식탁 위에는 머그잔 두 개가 놓여 있다.</div>
+  <div>싱크대 옆 쓰레기통에는 쓰고 버린 커피 필터와 찌꺼기가 넘치고, 커피 통은 바닥이 보인다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A kitchen table with just two coffee mugs on it; beside the sink an overflowing trash can full of used coffee filters and wet grounds, and an almost empty coffee tin with its bottom showing. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 26_베일라_뒤집힌_보트_집_2
+
+
+[clue_27]
+이름 : 뒤집힌 보트 집#3
+clueId : c10c4b53-d05b-45a3-adca-35896b5ed358
+variantId : 66665895-fe5e-4a91-b97f-c0eb33f6b740
+이미지 : (추후 업로드 예정)
+groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 1
+정렬순서 : 330
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 정보 ⑦(마을 사람 일곱 명의 이름)과 ⑩(레이·노라가 에드거·월터·톰·그레이스가 죽은 기간 동안 외해 조업 중이었다는 것)을 한 단서로 전달한다. 일곱 이름이 모두 나오지만, 누가 누구와 가족인지·누가 죽었는지는 쓰지 않는다. 이 집 사람이 레이·노라라는 것도 일정표에서 외해 조업자로 확인되는 이름과 영수증의 이름이 맞물려 추리된다(쪽지는 실명으로 쓰이므로 이름 확인용이 아니다).
+내용 :
+부엌 벽에 조업 일정표가 붙어 있다.
+
+[9월 조업 일정]
+외해: 레이, 노라 (9월 1일 ~ 3일)
+연안: 에드거, 월터
+어구 정비: 톰, 그레이스
+항구 당번: 샘
+HTML :
+<div class="story-content">
+  <div class="script-direction">부엌 벽에 조업 일정표가 붙어 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[9월 조업 일정]<br />외해: <span class="emphasis">레이</span>, <span class="emphasis">노라</span> (9월 1일 ~ 3일)<br />연안: <span class="emphasis">에드거</span>, <span class="emphasis">월터</span><br />어구 정비: <span class="emphasis">톰</span>, <span class="emphasis">그레이스</span><br />항구 당번: <span class="emphasis">샘</span></div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A hand-ruled fishing schedule pinned to a kitchen wall, a list of names beside work assignments, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 27_베일라_뒤집힌_보트_집_3
+
+
+[clue_28]
+이름 : 뒤집힌 보트 집#4
+clueId : 2b0883b8-7208-444c-8a1a-da9180a4c12b
+variantId : a065796f-5f01-4a3c-ae5e-a886d009e90a
+이미지 : (추후 업로드 예정)
+groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 1
+정렬순서 : 340
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 마을 사람들이 최근 한 여자를 죽였고 그 보복을 두려워한다는 것(정보 9), 앞선 두 사람이 죽었다는 것, 이 쪽지를 레이·노라가 읽은 뒤 죽었다는 희생 순서(정보 5)를 전한다. 받는 사람도 그 자리에 있었으므로 일시, 장소, 방법을 자세히 쓰지 않고 "사흘 전에 해치운"이라는 상대 시점의 말만 쓴다. 이 쪽지는 에드거와 월터의 시신을 확인한 9/3에 쓰였고(월터의 쪽지 "어제부터 안 보인다", 일정표의 레이·노라 외해 9/1~3과 맞물린다), 사흘 전은 8/31이다. 장소(북쪽 만)와 익사는 이 쪽지가 아니라 2단계 [대면]에서 어부가 지도에 그려 준 해류, 어부의 말(북쪽 후미는 깊고 물살이 이상하니 들어가지 말라는 경고)(20년 전에 그 근처 물에서 사람이 사라졌다), 샘의 노트에서 추리한다. 그 여자가 누구인지는 쓰지 않는다. 톰이 가까운 곳에 살면서도 쪽지를 남긴 이유는 레이·노라가 외해 조업으로 집을 비웠기 때문이다(일정표와 맞물림). 가명 대신 **실명**으로, 남은 사람들에게 보내는 경고로 쓴다: 에드거는 "두목", 월터는 "레너드", 경고를 받는 사람은 "지미, 데비, 로니", 작성자 톰은 "마이클"이다. 이 집이 지미·데비(레이·노라)의 집이라 받는 사람 둘은 이 집 부부이고, 남은 "로니"가 마지막 집(샘의 집, 4단계) 주인의 실명이다 — 이 이름이 4단계에서 비밀코드가 되며, 보너스 없이도 추리된다. 서술자가 가명과 실명을 연결해주지 않는다.
+내용 :
+식탁 위에 쪽지 한 장이 놓여 있다.
+
+"두목과 레너드가 죽었다. 지미, 데비, 로니도 조심해라. 사흘 전에 해치운 그 여자가 돌아온 걸까. 유령이 한 짓이라면 우리 모두 끝이다. - 마이클"
+HTML :
+<div class="story-content">
+  <div class="script-direction">식탁 위에 쪽지 한 장이 놓여 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">"<span class="emphasis">두목</span>과 <span class="emphasis">레너드</span>가 죽었다. <span class="emphasis">지미</span>, <span class="emphasis">데비</span>, <span class="emphasis">로니</span>도 조심해라. 사흘 전에 해치운 그 여자가 돌아온 걸까. 유령이 한 짓이라면 우리 모두 끝이다. - <span class="emphasis">마이클</span>"</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A hurried handwritten note lying on a kitchen table, short lines of shaky, unreadable handwriting. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 28_베일라_뒤집힌_보트_집_4
+
+
+[clue_29]
+이름 : 뒤집힌 보트 집#5
+clueId : c31cf3ee-3386-43cd-b8bb-60921d34e46d
+variantId : 0f6a4d8f-88c5-4131-970f-79e8d5922453
+이미지 : (추후 업로드 예정)
+groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 1
+정렬순서 : 350
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 마을과 연구시설 사이에 접점이 있었다는 것(정보 6). 레이가 연구소에 갑각류를 납품했고 수령인이 "A. Boyd"라는 사실만 전한다 — 마커스가 연구 구역 시신의 이름 자수 "A. Boyd"로 추리한 앨런과 베일라 쪽에서 서로 확인되는 고리이며, 다음 단서(케이스)의 암호 "앨런"으로 이어지는 근거가 된다.
+내용 :
+서랍 안에 수령증 철이 있다. "크래비스 해양생태 관측소"라고 인쇄된 수령증마다 납품자란에는 "레이", 수령인 서명란에는 "A. Boyd"라고 적혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">서랍 안에 수령증 철이 있다.</div>
+  <div>"크래비스 해양생태 관측소"라고 인쇄된 수령증마다 납품자란에는 "<span class="emphasis">레이</span>", 수령인 서명란에는 "<span class="emphasis">A. Boyd</span>"라고 적혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A binder of printed delivery receipts open on a kitchen table, each sheet with a signature line, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 29_베일라_뒤집힌_보트_집_5
+
+
+[clue_30]
+이름 : 뒤집힌 보트 집#6
+clueId : 1eb44cf2-3c62-4d2b-a570-4da1f3eb873e
+variantId : 18197024-9cf7-4ec6-9a75-8862cec0faa1
+이미지 : (추후 업로드 예정)
+groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 1
+정렬순서 : 360
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '앨런' 입력(2차 통화로 마커스에게 받은 이름)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 보너스(진행과 무관). 레이가 연구소에 갑각류를 나르던 표본 운반 케이스 — 앨런이 장비를 지급하며 기본 암호를 자기 이름으로 해뒀고 레이는 바꾸지 않았다. 레이는 잠글 수 있는 유일한 상자라 개인 소지품과 함께 죄책감 때문에 몰래 모아둔 옛 신문 스크랩 두 장을 넣어뒀다(스크랩만 들어 있으면 연구시설이 넣어 보낸 것으로 오해할 수 있어 잡동사니 속에 끼어 있는 걸로 쓴다). 열면 정보 1·2·3(모란 일당의 정체, 에드거의 손등 화상, 아서 콜린스의 실종)이 한꺼번에 이어진다 — 에드거 서랍의 일곱 이름이 수배 명단과 같고, 손등 화상이 에드거의 시신·사진과 맞는다. 수배 명단은 가명↔실명 짝짓기의 소거 재료다: 성이 같으면 부부(마이클·패트리샤 번스, 지미·데비 쇼)이고 성이 다르면 독신(프랭크 모란, 레너드 크로스, 로니 헤이즈)이다. 마을도 부부가 사는 집이 둘(톰·그레이스, 레이·노라)이고 독신이 에드거·월터·샘이다. "두목 + 손등 화상 = 에드거(프랭크 모란)", 쪽지의 "두목과 레너드가 죽었다" = 에드거·월터(레너드 크로스)로 소거하면 남는 로니 헤이즈가 마지막 집 주인이다. 사진 속 얼굴이 마을 사람과 닮았다는 식의 해석은 텍스트로 쓰지 않는다.
+질문 HTML :
+<div class="story-content">
+  <div>식탁 아래에 뚜껑이 달린 케이스가 놓여 있다. "크래비스 해양생태 관측소 / 관리: A. Boyd"라고 적힌 라벨이 붙어 있다.</div>
+  <div>뚜껑에는 글자 자물쇠가 달려 있다. 암호를 입력해야 열릴 것 같다.</div>
+</div>
+내용 :
+케이스 안에는 낚시 바늘 통, 낡은 지갑, 라이터, 구겨진 영수증 같은 잡동사니가 들어 있다. 그 사이에 누렇게 바랜 신문 스크랩 두 장이 끼어 있다.
+
+[2011년 4월]
+"해안 밀수 조직 일제 소탕, 핵심 수뇌부는 도주"
+수배자
+프랭크 모란 (두목, 오른쪽 손등에 화상 흉터)
+레너드 크로스
+마이클 번스, 패트리샤 번스
+지미 쇼, 데비 쇼
+로니 헤이즈
+
+[2011년 9월]
+사람을 찾습니다
+아서 콜린스
+9월 2일, 통발을 걷으러 크래비스 섬 쪽으로 나간 뒤 돌아오지 않았습니다.
+보신 분은 연락 바랍니다. 사례하겠습니다.
+가족 일동
+HTML :
+<div class="story-content">
+  <div class="script-direction">케이스 안에는 낚시 바늘 통, 낡은 지갑, 라이터, 구겨진 영수증 같은 잡동사니가 들어 있다. 그 사이에 누렇게 바랜 신문 스크랩 두 장이 끼어 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[2011년 4월]<br />"해안 밀수 조직 일제 소탕, 핵심 수뇌부는 도주"<br /><span class="emphasis">수배자</span><br />프랭크 모란 (두목, 오른쪽 <span class="emphasis">손등에 화상 흉터</span>)<br />레너드 크로스<br /><span class="emphasis">마이클</span> 번스, <span class="emphasis">패트리샤</span> 번스<br /><span class="emphasis">지미</span> 쇼, <span class="emphasis">데비</span> 쇼<br /><span class="emphasis">로니 헤이즈</span></div>
+  </div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[2011년 9월]<br />사람을 찾습니다<br /><span class="emphasis">아서 콜린스</span><br />9월 2일, 통발을 걷으러 크래비스 섬 쪽으로 나간 뒤 돌아오지 않았습니다.<br />보신 분은 연락 바랍니다. 사례하겠습니다.<br />가족 일동</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A scuffed, lockable plastic transport case opened on a table: a box of fishing hooks, a worn wallet, a lighter, a crumpled receipt, and two yellowed newspaper clippings folded together with unreadable headlines. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 30_베일라_뒤집힌_보트_집_6
+
+
+[clue_31]
+이름 : 뒤집힌 보트 집#7
+clueId : 6ff77edf-b2a6-4eaf-9d12-5e220c9211fb
+variantId : b9dc61e8-cb99-4451-8ee6-ba9ec9eafe23
+이미지 : (추후 업로드 예정)
+groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
+유형 : 물증
+단계 : [낡은 상자] (베일라, 3단계)
+소모AP : 0
+정렬순서 : 370
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 뒤집힌 보트 집#3(조업 일정표)을 조사하면 뒷면으로 추가 배치(연계 보조 단서)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 연계 보조 단서. 베일라가 "게"라는 말을 갖게 하는 단서 — 3차 통화에서 마커스에게 넘기는 코드 "게"의 출처다. 레이·노라가 외해에 있던 3일 동안 통발에 올라온 게 이상하다는 내용만 쓰고, 새우·랍스터가 게로 변했다는 해석은 쓰지 않는다(4단계 진상).
+질문 HTML :
+<div class="story-content">
+  <div>일정표 뒷면에 뭔가 적혀 있다.</div>
+</div>
+내용 :
+일정표 뒷면에 메모가 적혀 있다.
+
+"9/1~3 외해. 통발마다 게만 올라온다. 모양이 이상하다."
+HTML :
+<div class="story-content">
+  <div class="script-direction">일정표 뒷면에 메모가 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">"9/1~3 외해. 통발마다 <span class="emphasis">게</span>만 올라온다. 모양이 이상하다."</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: The back of a pinned fishing schedule with a few lines of rough pencil handwriting, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
+파일명 : 31_베일라_뒤집힌_보트_집_7
+
+
+## 마커스 3단계 [통제 구역]
+
+※ (임시 초안 — 확정 전.)
+※ 통제 구역은 인가자만 출입할 수 있는 구역이다(클로이를 제외한 인원만 가능 — 클로이는 몰래 들어왔다). 이 단계는 "진상의 입구"까지만 보여준다. 노화·건배·개수대·6개월치 가짜 보고서의 이유는 4단계 비밀 구역에서 알린다.
+※ 오웬은 치매 노인처럼 늙은 채 이 통제 구역에 숨어 지냈다. 외형과 자판기 간식, 술로 버틴 방식은 단계 지침으로 안내한다. 오웬의 중얼거림은 단서(#5)다. 두서없는 단편만 흘러나오고 진상을 직접 설명하지는 않는다.
+※ 시신은 2단계 앨런과 같은 방식(이름 자수, 신분증 장치 없음)으로 쓴다. 클로이의 정체(정부 감사 요원)는 이 단계에서 직접 드러내지 않는다. 클로이는 통제 구역을 조사하다 마이어스만 아는 비밀 구역이 있다는 것까지 알아냈으나 들어가는 법은 알아내지 못한 채 이곳에서 죽었다 — 시신에 비밀 구역으로 이어지는 힌트가 있다.
+
+
+[clue_32]
+이름 : 통제 구역#1
+clueId : 534f56a8-2c66-40d5-a426-5a264872ab45
+variantId : 9a18f5e3-61d8-4899-9b48-9624d245d8c9
+이미지 : (추후 업로드 예정)
+groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
+유형 : 물증
+단계 : [통제 구역] (마커스, 3단계)
+소모AP : 1
+정렬순서 : 410
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 통제 구역에 클로이가 몰래 들어왔다는 흔적. 머리카락만 보여주고 누구의 것인지는 쓰지 않는다 — 플레이어가 1단계 사진의 긴 머리 여성(클로이)과 연결하고, 2단계 직원별 출입 권한 표(클로이만 통제 구역 권한 없음)와 겹쳐 읽는다. 정부 감사 요원이라는 정체는 드러내지 않는다.
+내용 :
+복도를 살펴본다.
+긴 머리카락이 떨어져 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">복도를 살펴본다.</div>
+  <div>긴 머리카락이 떨어져 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: Close view of a restricted-zone corridor floor with a single long strand of hair lying on it under fluorescent light. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 통제 구역
+파일명 : 32_마커스_통제_구역_1
+
+
+[clue_33]
+이름 : 통제 구역#2
+clueId : 922194de-012d-487e-a4ef-411dcca5286c
+variantId : 4cd2d59d-aa95-4cb7-a2d8-658e31f8a908
+이미지 : (추후 업로드 예정)
+groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
+유형 : 물증
+단계 : [통제 구역] (마커스, 3단계)
+소모AP : 1
+정렬순서 : 420
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 클로이의 시신(급속 노화). 2단계 앨런과 같은 방식으로 이름 자수 "C. Ryan"과 하얗게 센 긴 머리로 신원을 알려, 1단계 사진의 긴 머리 여성과 복도의 긴 머리카락(#1)이 이어지게 한다. 클로이는 통제 구역을 조사하다 비밀 구역이 있다는 것까지 알아냈으나 들어가는 법은 알아내지 못했다 — 이 시신 단서를 얻으면 뒷면 단서 1개(통제 구역#7 연구복 주머니의 쪽지 "ution")가 AP 없이 추가로 배치된다. 15세 등급에 맞춰 암시적으로만 처리(10장).
+내용 :
+복도 끝 벽 앞 바닥에 연구복을 입은 노인이 엎드려 있다. 긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "C. Ryan"이라는 이름이 수놓여 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">복도 끝 벽 앞 바닥에 연구복을 입은 노인이 엎드려 있다.</div>
+  <div>긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "<span class="emphasis">C. Ryan</span>"이라는 이름이 수놓여 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: The floor just inside a heavy steel door: an extremely aged person with long white hair lying face down in a loose lab coat, no wounds, an unreadable embroidered patch on the chest. The face is hidden. Nothing graphic. Fully dressed under the lab coat: a blouse, long dark trousers and flat shoes; legs and feet are covered, no bare legs and no bare feet. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 통제 구역
+파일명 : 33_마커스_통제_구역_2
+
+
+[clue_34]
+이름 : 통제 구역#3
+clueId : c7d5be80-0fd1-41cf-9f40-b861abdc118c
+variantId : a9d5a527-a187-4a67-a40b-0095f5ad33a4
+이미지 : (추후 업로드 예정)
+groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
+유형 : 물증
+단계 : [통제 구역] (마커스, 3단계)
+소모AP : 1
+정렬순서 : 430
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 정보 1 — 처음엔 정말로 갑각류 외골격 강화 연구를 하다가, 어떤 계기로 생체 성장이 급속하게 가속되는 결과를 얻었다는 것. 연구 노트가 아니라 실험 결과 리포트 수준으로만 쓴다. 2025년 작성으로 두어 "급속 진화"라는 구상이 시작된 시기와 맞춘다.
+내용 :
+실험대 위에 보고서 한 부가 놓여 있다.
+
+[시료 처리 결과 보고: 외골격 강화 시험 7차]
+작성: 2025년 6월
+1. 경도: 처리군과 대조군 사이에 유의미한 차이 없음.
+2. 부수 관찰: 처리군 개체의 성장 속도가 대조군 대비 약 9배로 측정됨. 외골격과 조직 전반에서 동일하게 관찰됨.
+3. 비고: 목표 지표와 무관한 결과이나, 재현 여부 확인 필요.
+HTML :
+<div class="story-content">
+  <div class="script-direction">실험대 위에 보고서 한 부가 놓여 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[시료 처리 결과 보고: 외골격 강화 시험 7차]<br />작성: 2025년 6월<br />1. 경도: 처리군과 대조군 사이에 유의미한 차이 없음.<br />2. 부수 관찰: 처리군 개체의 성장 속도가 대조군 대비 <span class="emphasis">약 9배</span>로 측정됨. 외골격과 조직 전반에서 동일하게 관찰됨.<br />3. 비고: 목표 지표와 무관한 결과이나, 재현 여부 확인 필요.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: A stapled typed laboratory results report on a lab bench, a short numbered findings section, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 통제 구역
+파일명 : 34_마커스_통제_구역_3
+
+
+[clue_35]
+이름 : 통제 구역#4
+clueId : a95cea97-709f-478f-80fc-aca0823a4be7
+variantId : c0f7bd0b-8b0d-4fc4-8d86-61df28387402
+이미지 : (추후 업로드 예정)
+groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
+유형 : 물증
+단계 : [통제 구역] (마커스, 3단계)
+소모AP : 1
+정렬순서 : 440
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 정부가 8월 30일에 이 시설에 승인 범위를 벗어난 연구를 즉시 중단하라고 명령했다는 것. "현장 감사 결과"처럼 누가 알렸는지 드러내는 근거는 쓰지 않는다(정부가 그렇게 쓰면 클로이가 스파이라는 게 바로 드러나므로). 기관명은 실존 기관이 아닌 가상 명칭을 쓴다.
+내용 :
+책상 위에 공문 한 장이 놓여 있다.
+
+[연구 활동 중단 명령]
+수신: 크래비스 해양생태 관측소 소장 션 마이어스
+발신: 해양생태 관리부 감사국
+귀 시설에서 승인 범위를 벗어난 연구 활동이 확인되었으므로, 모든 비인가 실험을 즉시 중단하고 관련 시료와 기록을 보존할 것을 명령한다.
+2031년 8월 30일
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 위에 공문 한 장이 놓여 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[연구 활동 중단 명령]<br />수신: 크래비스 해양생태 관측소 소장 <span class="emphasis">션 마이어스</span><br />발신: 해양생태 관리부 감사국<br />귀 시설에서 승인 범위를 벗어난 연구 활동이 확인되었으므로, 모든 비인가 실험을 즉시 중단하고 관련 시료와 기록을 보존할 것을 명령한다.<br />2031년 8월 30일</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: A single formal official letter on a metal desk, a stamped heading, a short order paragraph and a date at the bottom, unreadable, an official stamp beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 통제 구역
+파일명 : 35_마커스_통제_구역_4
+
+
+[clue_36]
+이름 : 통제 구역#5
+clueId : 9cefbbdf-f051-4fdf-8310-6b3e9e2bb4a2
+variantId : a840f56d-e6c4-4b36-ab5a-9acf84ee9334
+이미지 : (추후 업로드 예정)
+groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
+유형 : 관찰
+단계 : [통제 구역] (마커스, 3단계)
+소모AP : 1
+정렬순서 : 450
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 오웬의 중얼거림이 핵심 흔적이다(8-0 참고). 사고의 경위(건배, 조금만 마신 것, 달라진 술맛, 개수대에 쏟은 것, 술병을 바꾼 것)가 두서없이 흘러나오지만, 오웬은 진상을 직접 설명하지 못하고 같은 말을 되풀이한다. 마이어스와 앨런을 아직 살아 있는 사람처럼 부르는 데서 정신이 온전하지 않다는 것이 드러난다. "…번째가 진짜야. 보관함에 있어"는 통제 구역#6 보관함 코드의 단서다. 해석과 결론은 쓰지 않는다.
+내용 :
+통제 구역 안쪽 구석에서 노인이 벽에 기대앉아 혼잣말을 중얼거리고 있다. 곁에는 빈 술병이 여러 개 굴러다닌다. 같은 말을 되풀이하다가 끊기곤 한다.
+
+"오웬, 오웬이야. 나는… 프라이스. 프라이스 맞지?"
+"건배라고 했어. 션이. 건배, 건배… 조금만 마셨어."
+"달아. 내 술이 아닌데. 달아. 냄새가 달아."
+"쏟았어. 개수대에. 다 쏟아버렸어."
+"병을 바꿨어. 내가. 내 보드카. 션은 몰라. 션은 몰라…"
+"앨런, 일어나. 앨런. 점심시간이야."
+"…번째가 진짜야. 보관함에 있어. 몇 번째였더라. 몇 번째…"
+"션? 션이 부르네. 션, 나 여기 있어."
+HTML :
+<div class="story-content">
+  <div class="script-direction">통제 구역 안쪽 구석에서 노인이 벽에 기대앉아 혼잣말을 중얼거리고 있다. 곁에는 빈 <span class="emphasis">술병</span>이 여러 개 굴러다닌다. 같은 말을 되풀이하다가 끊기곤 한다.</div>
+  <div class="divider-gold"></div>
+  <div>"<span class="emphasis">오웬</span>, <span class="emphasis">오웬</span>이야. 나는… <span class="emphasis">프라이스</span>. <span class="emphasis">프라이스</span> 맞지?"</div>
+  <div>"건배라고 했어. <span class="emphasis">션</span>이. 건배, 건배… 조금만 마셨어."</div>
+  <div>"달아. 내 술이 아닌데. 달아. 냄새가 달아."</div>
+  <div>"쏟았어. 개수대에. 다 쏟아버렸어."</div>
+  <div>"병을 바꿨어. 내가. 내 보드카. <span class="emphasis">션</span>은 몰라. <span class="emphasis">션</span>은 몰라…"</div>
+  <div>"<span class="emphasis">앨런</span>, 일어나. <span class="emphasis">앨런</span>. 점심시간이야."</div>
+  <div>"…번째가 진짜야. <span class="emphasis">보관함</span>에 있어. 몇 번째였더라. 몇 번째…"</div>
+  <div>"<span class="emphasis">션</span>? <span class="emphasis">션</span>이 부르네. <span class="emphasis">션</span>, 나 여기 있어."</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: An aged-looking man slumped against a bare concrete corridor wall, muttering to himself, in a stained lab coat, several empty glass bottles scattered beside him, dim light. His face is in shadow. Fully dressed under the lab coat: a shirt, long trousers and shoes; legs and feet are covered, no bare legs and no bare feet. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 통제 구역
+파일명 : 36_마커스_통제_구역_5
+
+
+[clue_37]
+이름 : 통제 구역#6
+clueId : bb4d4e9d-fd77-4b4e-b899-b53e99de1932
+variantId : 825c8695-d1f7-41ed-97fe-37bd01312178
+이미지 : (추후 업로드 예정)
+groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
+유형 : 물증
+단계 : [통제 구역] (마커스, 3단계)
+소모AP : 1
+정렬순서 : 460
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '8' 입력(2차 통화로 베일라에게 받은 "무한대 기호"를 숫자 8로 추리)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 보너스(진행과 무관). 마이어스가 시제품을 7번 실패하고 8번째 배치에서 성공해 따로 보관한 최종 배치. 잠긴 칸의 번호가 지워져 있어, 마커스는 베일라가 그레이스의 쪽지에서 본 "무한대 기호"(= 8)를 번호로 넣어야 열린다 — 오웬의 벽 메모 "…번째가 진짜다. 보관함."이 그 앞 숫자를 비워둔 채 이 칸을 가리킨다. "8=문어의 팔"과 "8번째 배치"라는 이중 의미가 생긴다. 열면 초록 재료(RB-CBP)로 합성한 결과물이 투명하고 무색무취라는 것이 드러난다 — 물처럼 보인다는 해석은 텍스트로 쓰지 않는다.
+질문 HTML :
+<div class="story-content">
+  <div>벽면에 번호가 붙은 보관함이 줄지어 있다. 대부분 비어 있고, 한 칸만 잠겨 있다.</div>
+  <div>잠긴 칸의 번호는 긁혀 지워져 있다. 번호를 입력해야 열릴 것 같다.</div>
+</div>
+내용 :
+보관함이 열린다. 안에는 투명한 액체가 든 유리병 하나와 종이 한 장이 들어 있다.
+
+[시험 배치 일지]
+재료: RB-CBP 용액
+1차~7차: 실패 (색 · 농도 불균형)
+8차: 투명 · 무색 · 무취. 성장 가속 확인.
+HTML :
+<div class="story-content">
+  <div class="script-direction">보관함이 열린다. 안에는 투명한 액체가 든 유리병 하나와 종이 한 장이 들어 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[시험 배치 일지]<br />재료: RB-CBP 용액<br />1차~7차: 실패 (색 · 농도 불균형)<br /><span class="emphasis">8차</span>: 투명 · 무색 · 무취. 성장 가속 확인.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: The inside of a small steel storage cabinet set into a laboratory wall with its door standing open, a blank numbered plate on the door; on its single shelf stand one clear glass vial of colorless liquid and a typed batch log sheet lying flat beside it, the text unreadable. No hands and no people anywhere in the frame. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 통제 구역
+파일명 : 37_마커스_통제_구역_6
+
+
+[clue_38]
+이름 : 통제 구역#7
+clueId : 8c2626c5-8c35-4363-aed8-525f41c6145b
+variantId : b1b730c1-83cd-4b4f-ae29-3ac7ec6ee021
+이미지 : (추후 업로드 예정)
+groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
+유형 : 물증
+단계 : [통제 구역] (마커스, 3단계)
+소모AP : 0
+정렬순서 : 470
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 통제 구역#2(클로이의 시신)를 조사하면 뒷면으로 추가 배치(연계 보조 단서)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 연계 보조 단서. 마이어스가 출입 통제 단말에 치는 숨겨진 암호 "evolution"의 끝부분 "ution"만 알려주는 단서다 — 클로이는 그가 치는 걸 엿봤지만 끝부분만 봤고 어디에 쓰는지는 몰랐다. 플레이어에게는 지금 당장 무슨 의미인지 알 수 없고(ution은 execution, institution 등 흔한 어미라 정답을 좁힐 수 없다), 4단계 비밀 구역에서 "evolution"이 중요한 비밀코드가 되는 순간 의미가 풀린다. 연구가 아니라 입구·암호에 대한 단어다.
+질문 HTML :
+<div class="story-content">
+  <div>시신의 연구복 주머니가 불룩하다.</div>
+</div>
+내용 :
+주머니에서 구겨진 쪽지가 나온다. 영문 단어의 끝부분만 적혀 있다. 쪽지의 왼쪽 가장자리는 찢겨 나가 있다.
+
+ution
+HTML :
+<div class="story-content">
+  <div class="script-direction">주머니에서 구겨진 쪽지가 나온다. 영문 단어의 끝부분만 적혀 있다. 쪽지의 왼쪽 가장자리는 찢겨 나가 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small"><span class="emphasis">ution</span></div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: A very small crumpled scrap of paper, about the size of half a sticky note, lying by itself on a large bare gray laboratory table; the scrap takes up only a small part of the frame, the tabletop and the dim windowless room are visible around it, no hands and no people. Its left edge is ragged where it was torn off, as if the beginning of a word was lost. On the scrap there is a single short line of blue ballpoint handwriting that reads only "ution" (five lowercase letters), starting right at the torn edge, and absolutely nothing else is written on it. The only writing in the frame is those five letters "ution"; there is no other text, numbers or marks anywhere.
+단서 그룹 : 연구시설 - 통제 구역
+파일명 : 38_마커스_통제_구역_7
+
+
+## 베일라 4단계 [마지막 집]
+
+※ (임시 초안 — 확정 전.)
+※ 샘의 집은 마을 안쪽 높은 곳에 있다. 컷씬: 이 집도 문과 창이 막혀 있어 베일라는 쇠지레로 창의 판자 하나를 뜯고 들어간다(단서 본문에는 쓰지 않는다. 그래서 본문은 "나머지 창"이라고 쓴다). 샘은 바닷길이 열리는 때를 기다리며 버텼다. 바닷길이 일주일에 한 번 열린다는 설정은 인트로·지침으로 전달한다.
+※ 샘은 마지막 밤에 벽장에 숨어 십자가를 쥐고 있었고, 힘에서 밀려 벽장 문이 열리자 부엌 구석의 지하실 문으로 도망쳤으나 잠긴 문을 열지 못한 채 그 앞에서 죽었다. 이름은 단서 본문에 쓰지 않는다. 누구의 집인지는 3단계 쪽지의 "로니"로 소거해 추리한다.
+※ 금지: "문어", "흡판", 바닷물이라는 단정, 구멍의 크기, 부지깽이·칼날 같은 도구 묘사, 침입한 존재의 정체나 신원에 대한 어떤 서술.
+※ 단서 6개(#1~#6) + 연계 보조 1개(#7, 시신을 조사하면 뒷면으로 추가 배치, 코드 "로니").
+
+
+[clue_39]
+이름 : 언덕 위 집#1
+clueId : 1972ac18-976f-47c3-a557-f2a889560153
+variantId : f3ba4f4f-0aa1-4151-a328-928c6cbd4004
+이미지 : (추후 업로드 예정)
+groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
+유형 : 물증
+단계 : [마지막 집] (베일라, 4단계)
+소모AP : 1
+정렬순서 : 510
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 마지막 희생자(9/6 새벽). 일곱 번째 시신이라 앞선 여섯 구와 합쳐 전원 사망이 확인된다. 부엌 구석의 문(지하실 문)을 향해 달리다 그 앞에서 쓰러진 모양이다. 목의 졸린 자국과 작은 원형의 멍 자국이 여러 군데 있어 여러 곳을 동시에 붙잡힌 흔적이다(문어·흡판이라는 말은 쓰지 않는다). 십자가를 쥐고 있어 이 사람이 무엇을 믿고 있었는지만 보여주고, 유령이라고 믿었다는 해석은 쓰지 않는다. 시신이 구석의 문 앞을 막고 있다는 사실만 쓰고 문의 자물쇠는 보조 단서(#7)에서 보이게 한다. 이름 라벨은 쓰지 않는다. 15세 등급에 맞춰 암시적으로만 처리(10장).
+내용 :
+부엌 바닥에 남자가 엎드린 채 쓰러져 있다.
+한 손은 구석에 있는 문을 향해 뻗어 있고, 다른 손에는 나무 십자가를 쥐고 있다. 목에는 졸린 자국이 있고, 그 둘레와 팔에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 몸이 그 문 앞을 막고 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">부엌 바닥에 남자가 엎드린 채 쓰러져 있다.</div>
+  <div>한 손은 구석에 있는 문을 향해 뻗어 있고, 다른 손에는 나무 십자가를 쥐고 있다. 목에는 졸린 자국이 있고, 그 둘레와 팔에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 몸이 그 문 앞을 막고 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, very low light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small windows, every one of them sealed tight from the inside with fresh unpainted wooden planks laid edge to edge with no gaps, reinforced by crossed battens and rows of nails, so that no glass is visible at all, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the room is nearly pitch dark, with only a faint gray seep of light around the edges of the sealed windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The highest house on the island, boarded up like a fortress: every window is sealed tight with fresh wooden planks laid edge to edge across the whole frame, no glass visible and no gaps between the planks, with strips of cloth and tape stuffed around the frames, so almost no daylight gets in. The interior is very dark and gloomy, with only a faint gray seep of light around the window edges, no lamps on. Furniture is pushed and stacked. Subject: A man lying face down on a kitchen floor in front of a closed wooden door in the corner, one arm stretched toward the door, a small wooden cross in his other hand, faint round bruise marks on his neck and arm, heavy furniture around the room. His face is not shown. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 언덕 위 집
+파일명 : 39_베일라_언덕_위_집_1
+
+[clue_40]
+이름 : 언덕 위 집#2
+clueId : 9339d904-655e-43b1-bff5-e6117289af23
+variantId : 9621c2c4-2f26-4e3e-9462-6d26a7e5842f
+이미지 : (추후 업로드 예정)
+groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
+유형 : 물증
+단계 : [마지막 집] (베일라, 4단계)
+소모AP : 1
+정렬순서 : 520
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 밀실의 첫 번째 방비. 이 집이 지금까지 중 가장 철저히 막혀 있었다는 것과, 문으로는 아무도 들어오지 않았다는 것.
+내용 :
+현관문 앞에 장롱과 탁자가 쌓여 있다.
+문에는 안쪽 빗장이 걸려 있다. 쌓인 가구는 건드린 흔적 없이 그대로다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">현관문 앞에 장롱과 탁자가 쌓여 있다.</div>
+  <div>문에는 안쪽 빗장이 걸려 있다. 쌓인 가구는 건드린 흔적 없이 그대로다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, very low light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small windows, every one of them sealed tight from the inside with fresh unpainted wooden planks laid edge to edge with no gaps, reinforced by crossed battens and rows of nails, so that no glass is visible at all, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the room is nearly pitch dark, with only a faint gray seep of light around the edges of the sealed windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The highest house on the island, boarded up like a fortress: every window is sealed tight with fresh wooden planks laid edge to edge across the whole frame, no glass visible and no gaps between the planks, with strips of cloth and tape stuffed around the frames, so almost no daylight gets in. The interior is very dark and gloomy, with only a faint gray seep of light around the window edges, no lamps on. Furniture is pushed and stacked. Subject: A front door barricaded from the inside with a heavy wardrobe and a table stacked against it, a wooden bar across the door. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 언덕 위 집
+파일명 : 40_베일라_언덕_위_집_2
+
+[clue_41]
+이름 : 언덕 위 집#3
+clueId : 20dbaf63-dfa8-4941-809b-775124e072d4
+variantId : 83498ea4-7731-47eb-8c5c-14caca1f131a
+이미지 : (추후 업로드 예정)
+groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
+유형 : 물증
+단계 : [마지막 집] (베일라, 4단계)
+소모AP : 1
+정렬순서 : 530
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 밀실의 두 번째 방비와 감시 틈. 창, 틈새, 환풍구, 굴뚝이 모두 막혀 있고 손댄 흔적이 없다는 것(침입이 이 경로들로 이뤄지지 않았다). 바닷길 쪽 판자의 틈은 샘이 밖을 살폈다는 것과 이 집에서 바닷길을 건너오는 사람이 보인다는 것을 알린다. 베일라가 뜯고 들어온 창은 컷씬에서 다루므로 본문은 '나머지 창'으로 쓴다.
+내용 :
+모든 창에 판자가 새 못으로 박혀 있다.
+창틀과 벽 사이의 틈에는 천이 끼워지고 테이프가 붙어 있고, 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">모든 창에 판자가 새 못으로 박혀 있다.</div>
+  <div>창틀과 벽 사이의 틈에는 천이 끼워지고 테이프가 붙어 있고, 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, very low light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small windows, every one of them sealed tight from the inside with fresh unpainted wooden planks laid edge to edge with no gaps, reinforced by crossed battens and rows of nails, so that no glass is visible at all, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the room is nearly pitch dark, with only a faint gray seep of light around the edges of the sealed windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The highest house on the island, boarded up like a fortress: every window is sealed tight with fresh wooden planks laid edge to edge across the whole frame, no glass visible and no gaps between the planks, with strips of cloth and tape stuffed around the frames, so almost no daylight gets in. The interior is very dark and gloomy, with only a faint gray seep of light around the window edges, no lamps on. Furniture is pushed and stacked. Subject: The inside of one room in the boarded-up house, with every window sealed completely tight by fresh planks nailed edge to edge, rows of new nails, strips of cloth and tape pressed around the frames, and a ventilation grille covered by a plank. On one wall, at eye level, a straight chair stands facing a window. The boards on that window are just as tight and solid as all the others, except that the gap between two of the planks is very slightly open: a hairline crack no wider than a finger, a thin horizontal sliver of pale gray light, and through it only a narrow strip of a foggy tidal causeway far away can be made out. The crack is tiny and subtle, easy to miss, not a hole and not a window opening; everything else about the boards looks properly nailed and neat. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 언덕 위 집
+파일명 : 41_베일라_언덕_위_집_3
+
+[clue_42]
+이름 : 언덕 위 집#4
+clueId : 21c3e2f6-20ec-45c9-868e-789083117eaf
+variantId : da3dd8bf-17f4-4507-81e7-8156246b84a2
+이미지 : (추후 업로드 예정)
+groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
+유형 : 물증
+단계 : [마지막 집] (베일라, 4단계)
+소모AP : 1
+정렬순서 : 540
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 침입 경로. 부엌 싱크대의 배수구 덮개가 뜯겨 있고 끈적한 물기가 아직 마르지 않았다. 바닷물인지 수돗물인지 플레이어가 알 수 없게 '끈적한 물기'로만 쓴다. 구멍의 크기, 도구, 싸움의 흔적은 쓰지 않는다. 물기가 집 안쪽으로 이어지는 것은 다음 단서(벽장)로 연결한다.
+내용 :
+부엌 싱크대 배수구의 덮개가 뜯겨 나가 있다.
+드러난 배수구는 어른 주먹 하나가 겨우 들어갈 크기다. 싱크대 주변 바닥에 끈적한 물기가 아직 마르지 않은 채 남아 있고, 물기는 집 안쪽으로 이어진다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">부엌 싱크대 배수구의 덮개가 뜯겨 나가 있다.</div>
+  <div>드러난 배수구는 어른 주먹 하나가 겨우 들어갈 크기다. 싱크대 주변 바닥에 끈적한 물기가 아직 마르지 않은 채 남아 있고, 물기는 집 안쪽으로 이어진다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, very low light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small windows, every one of them sealed tight from the inside with fresh unpainted wooden planks laid edge to edge with no gaps, reinforced by crossed battens and rows of nails, so that no glass is visible at all, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the room is nearly pitch dark, with only a faint gray seep of light around the edges of the sealed windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The highest house on the island, boarded up like a fortress: every window is sealed tight with fresh wooden planks laid edge to edge across the whole frame, no glass visible and no gaps between the planks, with strips of cloth and tape stuffed around the frames, so almost no daylight gets in. The interior is very dark and gloomy, with only a faint gray seep of light around the window edges, no lamps on. Furniture is pushed and stacked. Subject: A small kitchen with a sink in the foreground, its drain cover torn off and lying bent on the counter, the open drain only small enough for a single fist. From the foot of the sink a single broad, smeared, sticky glistening wet trail, as wide as a person lying down (half a meter to a meter wide), as if something large and soft had been dragged along, runs across the plank floor and straight to a dark doorway in the far wall that leads deeper into the house; the trail is a thin film of moisture, not standing water or puddles, it does not go toward any table or chair, and the floor around it is otherwise dry. Keep the kitchen sparse: no dining table in the middle of the room. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 언덕 위 집
+파일명 : 42_베일라_언덕_위_집_4
+
+[clue_43]
+이름 : 언덕 위 집#5
+clueId : 440e80dd-dd30-4f33-b6bf-fd41337ab19e
+variantId : 4f56aac2-b034-48d1-a142-06a075173013
+이미지 : (추후 업로드 예정)
+groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
+유형 : 물증
+단계 : [마지막 집] (베일라, 4단계)
+소모AP : 1
+정렬순서 : 550
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 샘이 숨어 있던 곳. 사람 한 명이 몸을 웅크려야 들어갈 좁은 벽장이고, 문이 열려 있으며, 벽장 문 바깥에 물기가 묻어 있다. 바깥에서 문을 열려던 힘이 있었다는 것을 물기가 문 바깥에 있다는 사실로만 암시한다. 누가 누구를 끌어내려 했는지는 쓰지 않는다. 물기는 벽장 밖으로 이어진다고만 쓴다(시신이나 다른 단서는 언급하지 않는다. 플레이어가 아직 조사하지 않았을 수 있다).
+내용 :
+사람 한 명이 겨우 몸을 웅크릴 만한 좁은 벽장의 문이 열려 있다.
+문 바깥쪽과 그 앞 바닥에 끈적한 물기가 묻어 있고, 물기는 벽장 밖으로 이어진다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">사람 한 명이 겨우 몸을 웅크릴 만한 좁은 벽장의 문이 열려 있다.</div>
+  <div>문 바깥쪽과 그 앞 바닥에 끈적한 물기가 묻어 있고, 물기는 벽장 밖으로 이어진다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, very low light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small windows, every one of them sealed tight from the inside with fresh unpainted wooden planks laid edge to edge with no gaps, reinforced by crossed battens and rows of nails, so that no glass is visible at all, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows; the room is nearly pitch dark, with only a faint gray seep of light around the edges of the sealed windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The highest house on the island, boarded up like a fortress: every window is sealed tight with fresh wooden planks laid edge to edge across the whole frame, no glass visible and no gaps between the planks, with strips of cloth and tape stuffed around the frames, so almost no daylight gets in. The interior is very dark and gloomy, with only a faint gray seep of light around the window edges, no lamps on. Furniture is pushed and stacked. Subject: A narrow closet with its door open, broad smeared sticky glistening wet marks, half a meter to a meter wide, on the outside of the door and on the floor in front of it, and a wide smeared trail leading away from it, as if something large and soft had squeezed out of the closet and dragged itself across the floor. It is a thin film of moisture, not standing water or puddles. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 언덕 위 집
+파일명 : 43_베일라_언덕_위_집_5
+
+[clue_44]
+이름 : 언덕 위 집#6
+clueId : 4d8dbc59-4335-49ad-97fe-6fa2210af258
+variantId : 929ab84e-8350-42a8-a5d0-b6ae8920dd58
+이미지 : (추후 업로드 예정)
+groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
+유형 : 물증
+단계 : [마지막 집] (베일라, 4단계)
+소모AP : 1
+정렬순서 : 560
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 범인이 오늘 새벽까지 마을에 있었고 집을 나가 비탈 아래로 향했다는 것. 같은 끈적한 물기가 집 밖 비탈 아래로 이어진다는 사실까지만 쓴다. 그 끝에 무엇이 있는지(월터의 집)는 쓰지 않는다. 플레이어가 섬 지도를 보고 추리한다. 바닷물이라는 단정도 쓰지 않는다.
+내용 :
+집 뒤편 벽 밖으로 배수관의 끝이 나와 있다.
+그 주변에 끈적한 물기가 아직 마르지 않은 채 남아 있고, 물기는 비탈 아래로 이어진다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">집 뒤편 벽 밖으로 배수관의 끝이 나와 있다.</div>
+  <div>그 주변에 끈적한 물기가 아직 마르지 않은 채 남아 있고, 물기는 비탈 아래로 이어진다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: outdoors on a windswept island off the coast of Maine, near evening: low gray-blue dusk light, thin fog, rough bare grass and gray rock, no trees. Subject: Seen from behind the highest house on the island, looking down the long grassy slope. In the left foreground is only the back corner of a plain wooden clapboard house whose windows are sealed tight with planks, and the end of a small drain pipe jutting out from its lower wall. Below the pipe there is only a faint damp sheen on the ground, a broad, thin glistening smear about half a meter wide, like the trail of a huge snail, not flowing water and not a stream, that runs down the slope. Far below at the bottom of the slope, a flat tidal causeway lies across the sea, still partly under shallow water and about to reopen, with the faint mainland shore in the fog beyond. The house fills only a small part of the frame; no cross and no religious symbols on the house. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 언덕 위 집
+파일명 : 44_베일라_언덕_위_집_6
+
+[clue_45]
+이름 : 언덕 위 집#7
+clueId : dc38093f-ed46-4cd6-97ca-c1843f3cbaa4
+variantId : 7980f602-1ddd-4ebc-9781-e71286f595a9
+이미지 : (추후 업로드 예정)
+groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
+유형 : 물증
+단계 : [마지막 집] (베일라, 4단계)
+소모AP : 0
+정렬순서 : 570
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 언덕 위 집#1(시신)을 조사하면 뒷면으로 추가 배치(연계 보조 단서). 열려면 암호 '로니' 입력(이 집 주인의 실명. 3단계 톰의 쪽지에서 소거해 추리할 수 있다)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 베일라
+의도 : 연계 보조 단서이자 보너스(진행과 무관). 시신이 앞을 막고 있던 부엌 구석의 문(지하실 문)의 글자 자물쇠이고, 샘이 도망쳐 닿으려 했지만 열지 못한 곳이다. 코드는 이 집 주인의 실명 "로니"(성은 입력하지 않는다). 열면 20년 전 아서 콜린스의 최후를 적은 샘의 기록이 나온다. 에드거의 손등 화상을 알아본 아서가 살해당했고, 시신이 북쪽 만에 가라앉혀졌다는 것. 샘은 직접 가담하지 않고 지켜만 봤다(알고도 침묵한 공범). 기록은 샘의 1인칭이므로 그의 말 안에서만 쓰고, 서술자가 해석을 덧붙이지 않는다. 어슐라가 20년간 추적했다는 내용은 엔딩에서만 밝히므로 여기에 쓰지 않는다.
+질문 HTML :
+<div class="story-content">
+  <div>시신이 막고 있던 구석의 문에는 글자 자물쇠가 달려 있다.</div>
+  <div>암호를 입력해야 열릴 것 같다.</div>
+</div>
+내용 :
+잠금이 풀린 문 안쪽으로 지하로 내려가는 계단이 이어진다. 계단 아래 선반 위에 낡은 노트 한 권이 놓여 있다. 첫 장에 이렇게 적혀 있다.
+그 노인의 이름은 나중에야 알았다. 아서 콜린스.
+
+그해 9월, 그는 통발을 걷으러 왔다가 에드거 두목 집에서 하룻밤 묵었다. 저녁 식사 때 소매를 걷자 드러난 손등을, 노인은 한참 바라봤다. 아침에 떠나기 전에 노인이 물었다. 혹시 전에 뭍 쪽 일을 하신 적이 있으십니까.
+
+두목은 웃었다. 그날 밤 월터를 불렀다.
+
+노인은 섬을 떠나지 못했다. 며칠 뒤 밤, 두목과 월터와 톰과 그레이스가 노인을 북쪽 만으로 데려갔다. 나는 막내라 따라가서 지켜만 봤다. 물이 깊어서 노인은 소리도 없이 가라앉았다.
+
+아무것도 하지 못했다. 그 뒤로 20년 동안 아무에게도 말하지 않았다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">잠금이 풀린 문 안쪽으로 지하로 내려가는 계단이 이어진다. 계단 아래 선반 위에 낡은 노트 한 권이 놓여 있다. 첫 장에 이렇게 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">그 노인의 이름은 나중에야 알았다. <span class="emphasis">아서 콜린스</span>.<br /><br />그해 9월, 그는 통발을 걷으러 왔다가 <span class="emphasis">에드거</span> <span class="emphasis">두목</span> 집에서 하룻밤 묵었다. 저녁 식사 때 소매를 걷자 드러난 손등을, 노인은 한참 바라봤다. 아침에 떠나기 전에 노인이 물었다. 혹시 전에 뭍 쪽 일을 하신 적이 있으십니까.<br /><br /><span class="emphasis">두목</span>은 웃었다. 그날 밤 <span class="emphasis">월터</span>를 불렀다.<br /><br />노인은 섬을 떠나지 못했다. 며칠 뒤 밤, <span class="emphasis">두목</span>과 <span class="emphasis">월터</span>와 <span class="emphasis">톰</span>과 <span class="emphasis">그레이스</span>가 노인을 북쪽 만으로 데려갔다. 나는 막내라 따라가서 지켜만 봤다. 물이 깊어서 노인은 소리도 없이 가라앉았다.<br /><br />아무것도 하지 못했다. 그 뒤로 20년 동안 아무에게도 말하지 않았다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the cellar of a small wooden island house in Maine: a narrow plank staircase, rough bare concrete foundation walls, a low ceiling with exposed joists, a packed-earth and concrete floor. The cellar is completely windowless and unlit: no windows, no lamps, and the only light is a faint gray glow coming down from the open door at the top of the stairs. Subject: Looking along the narrow wooden staircase from near its bottom, the open door at the top is a pale rectangle of dim gray light; at the foot of the stairs stands a plain wooden shelf with one old worn notebook lying on it. Damp walls, stale air. Nothing else in the frame: no furniture, no windows, no people, no hands, no religious symbols. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 크래비스 섬 - 언덕 위 집
+파일명 : 45_베일라_언덕_위_집_7
+
+
+## 마커스 4단계 [비밀 구역]
+
+※ (임시 초안 — 확정 전.)
+※ 비밀 구역은 마이어스만 아는 숨겨진 구역이다(통제 구역 안쪽 벽 너머). 입장은 컷씬으로 처리한다. 마이어스는 건배 이후 이곳으로 돌아와 일을 보다가 쓰러져 죽었다. 건배 이후의 마이어스 기록은 없다. 마이어스는 오웬이 병을 바꿨다는 것을 끝내 모른다.
+※ 단계 단서는 #1~#6 6개, 연계 보조는 #7(마이어스의 컴퓨터 #4를 암호 "evolution"으로 열면 뒷면으로 추가 배치되는 문서). 컴퓨터 암호의 힌트는 입력창 위의 "나의 꿈"과 연구 노트(#3)의 흐름이다. 3단계 시신의 쪽지 "ution"이 마지막 글자들이다.
+※ 사람에게 적용된다는 내용은 컴퓨터 안(문서 #7)에서만 나온다. 컴퓨터를 열지 못한 플레이어가 이 물질이 사람에게 쓰일 수 있다는 것을 알지 못하게 하려는 것이다(어슐라가 진화 대상이라는 것이 너무 쉽게 드러나지 않도록). 결과지(#2), 노트(#3), 화이트보드(#5)에는 사람에 대한 언급을 쓰지 않는다("죽음에 가까워질수록" 같은 일반론 정도).
+※ 연구 결과지(#2)와 연구 노트(#3)에는 "진화", "노화", "알코올"이라는 단어를 쓰지 않는다. 결과지는 관찰 결과로 알리고, 노트는 마이어스가 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 쓰되 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다. C2H5OH가 알코올이라는 것은 2단계 시약 보관소의 "C2H5OH / 에틸 알코올" 병으로 안다.
+※ 컴퓨터 안의 문서(#7)는 계획서가 아니라 마이어스가 기억하려고 적어둔 단편적인 문장들이다.
+※ 금지: 오웬이 병을 바꿨다는 사실(마이어스는 모른다), 건배 이후의 서술, 어슐라에 대한 서술.
+
+
+[clue_46]
+이름 : 비밀 구역#1
+clueId : 51c9596e-bc57-41c3-8a25-468e3989363b
+variantId : 5cee9729-29ba-4c8d-8127-0579b8932d9e
+이미지 : (추후 업로드 예정)
+groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 1
+정렬순서 : 610
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 마이어스의 시신. 연구원 넷의 행방이 모두 정리된다(앨런, 클로이, 마이어스는 사망, 오웬은 생존). 2단계 앨런, 3단계 클로이와 같은 방식으로 연구복의 이름 자수로 신원을 알린다. 건배 후 일을 보다가 쓰러졌다는 것은 쓰지 않는다. 의자에 앉은 채 책상 위로 엎드려 있다는 것만 보여준다(쓰러진 자세 외에 무엇을 하던 중이었는지는 쓰지 않는다). 15세 등급에 맞춰 암시적으로만 처리(10장).
+내용 :
+책상 위로 엎드린 채 연구복을 입은 노인이 쓰러져 있다.
+듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "S. Meyers"라는 이름이 수놓여 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 위로 엎드린 채 연구복을 입은 노인이 쓰러져 있다.</div>
+  <div>듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "<span class="emphasis">S. Meyers</span>"라는 이름이 수놓여 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: An aged person with sparse white hair, in an oversized loose lab coat, sitting in an office chair at a desk and slumped forward, the upper body and head resting on the desk with the head turned away on one folded arm, the other arm hanging down beside the chair, no wounds, an unreadable embroidered patch on the chest. Seen from the side at a moderate distance in natural, realistic body proportions. The face is hidden. Nothing graphic. Fully dressed under the lab coat: a collared shirt, long dark trousers and shoes; legs and feet are covered, no bare legs and no bare feet. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 46_마커스_비밀_구역_1
+
+[clue_47]
+이름 : 비밀 구역#2
+clueId : 35fffe53-c94b-416d-b4b2-0ac86ad8119b
+variantId : 0923a838-20d7-4a37-b3fa-dc8a1a6c6213
+이미지 : (추후 업로드 예정)
+groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 1
+정렬순서 : 620
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 시제품의 반응 규칙을 관찰 결과로 알린다. "진화", "노화", "알코올"이라는 말은 쓰지 않는다. 시제품만 넣은 군은 크기가 늘고 모양이 바뀌며 활동성이 늘고, C2H5OH를 더한 군은 변색과 균열 끝에 전 개체가 죽고, 거기에 NaCl을 더하면 시제품만 넣은 군과 같아진다. 시제품만 넣은 군이 6시간 동안 호흡 정지 직전까지 위기를 겪은 뒤 회복하면서 크기와 비율이 변한다는 것(위기에서 재구성이 일어난다는 것을 관찰로만 보여준다), 위기 없이 소량만 닿은 개체는 변화가 없다는 것(헤엄치다 조금 마시는 것으로는 변하지 않는다는 근거), C2H5OH를 더한 군은 흡수량이 20ml 미만이면 변화가 도중에 멈춘다는 것(4단계 오웬의 상태를 설명)을 쓴다. 사람 환산과 사람에 대한 언급은 쓰지 않는다. 해석은 쓰지 않는다. 플레이어는 시신들의 모습(주름, 하얗게 센 머리)과 이 결과지의 "변색·균열·사멸"을 겹쳐 노화를 추리하고, 2단계 시약 보관소의 "C2H5OH / 에틸 알코올"로 C2H5OH가 알코올임을 안다.
+내용 :
+책상 위에 표가 인쇄된 결과지 한 장이 놓여 있다.
+8차 시제품 / 갑각류 각 6마리 / 24시간 관찰
+
+[대조군] 변화 없음.
+
+[시제품] 6시간: 활동 저하, 일부 호흡 정지 직전. 12시간: 전 개체 회복. 24시간: 전 개체 생존. 크기 증가. 갑각의 폭과 다리 길이의 비율 변화. 활동성 증가.
+
+[시제품 + C2H5OH] 6시간: 갑각 변색, 균열. 12시간: 움직임 정지. 24시간: 전 개체 사멸. 크기와 비율 변화 없음. 흡수량이 20ml 미만이면 도중에 멈춘다.
+
+[시제품 + C2H5OH + NaCl] 시제품 단독과 같은 경과.
+
+※ 시제품이 닿았으나 활동 저하가 없었던 개체는 변화 없음.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 위에 표가 인쇄된 결과지 한 장이 놓여 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">8차 시제품 / 갑각류 각 6마리 / 24시간 관찰<br /><br />[대조군] 변화 없음.<br /><br />[시제품] 6시간: 활동 저하, 일부 호흡 정지 직전. 12시간: 전 개체 회복. 24시간: 전 개체 생존. 크기 증가. 갑각의 폭과 다리 길이의 비율 변화. 활동성 증가.<br /><br />[시제품 + C2H5OH] 6시간: 갑각 변색, 균열. 12시간: 움직임 정지. 24시간: 전 개체 사멸. 크기와 비율 변화 없음. 흡수량이 20ml 미만이면 도중에 멈춘다.<br /><br />[시제품 + C2H5OH + NaCl] 시제품 단독과 같은 경과.<br /><br />※ 시제품이 닿았으나 활동 저하가 없었던 개체는 변화 없음.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: A printed laboratory result sheet on a desk with a table of observation rows, short notations and a footnote, unreadable, a pen beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 47_마커스_비밀_구역_2
+
+[clue_48]
+이름 : 비밀 구역#3
+clueId : c5a418f3-f2fa-4464-9e3f-29d90ee91e8b
+variantId : e9538f25-bc98-4ebc-ac7b-5f7cde0ea2e1
+이미지 : (추후 업로드 예정)
+groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 1
+정렬순서 : 630
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 마이어스가 이 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 적은 노트. 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다(게로의 수렴, 환경이 정한 모양, 시간을 줄이는 것, 크기가 아니라 모양, 증명하겠다는 각오). 사람에 대한 언급은 쓰지 않는다. 마지막 장은 진지한 과학자의 각오로 쓴다. "진화"라는 단어는 쓰지 않는다. 플레이어가 이 흐름으로 "evolution"을 추리해 컴퓨터 암호를 풀게 한다. C2H5OH와 NaCl에 대한 문장은 알아낸 사실로만 쓰고 결과를 서술하지 않는다. 8차 성공(3단계 보관함)과도 이어진다(초반 실패의 원인).
+내용 :
+책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.
+[1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.
+
+[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 다만 그 길에 수백만 년이 걸린다.
+
+[3] 같은 환경이면 같은 모양으로 가고, 환경이 다르면 다른 모양으로 간다.
+
+[4] 그 시간을 줄일 수 있다면. 소재 강화 같은 건 부산물에 지나지 않는다.
+
+[5] 키우기만 해서는 안 된다. 크기만 커질 뿐 모양은 그대로다. 모양이 바뀌어야 한다.
+
+[6] RB-CBP를 합성하다 이상 반응이 일어났다. 색이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 표본의 모양이 바뀌었다.
+
+[7] 용매로 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이 용매 때문이었다.
+
+[8] NaCl이 함께 있으면 C2H5OH가 방해하지 못한다. 이유는 모르겠지만 쓸 수는 있다.
+
+[9] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.
+
+[10] 끝까지 확인한다. 결과로 증명하겠다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">[1] <span class="emphasis">게</span>는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 다만 그 길에 <span class="emphasis">수백만 년</span>이 걸린다.<br /><br />[3] 같은 환경이면 같은 모양으로 가고, 환경이 다르면 다른 모양으로 간다.<br /><br />[4] 그 시간을 줄일 수 있다면. 소재 강화 같은 건 부산물에 지나지 않는다.<br /><br />[5] 키우기만 해서는 안 된다. 크기만 커질 뿐 모양은 그대로다. 모양이 바뀌어야 한다.<br /><br />[6] RB-CBP를 합성하다 이상 반응이 일어났다. 색이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 표본의 모양이 바뀌었다.<br /><br />[7] 용매로 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이 용매 때문이었다.<br /><br />[8] NaCl이 함께 있으면 C2H5OH가 방해하지 못한다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[9] <span class="emphasis">수백만 년</span>이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.<br /><br />[10] 끝까지 확인한다. 결과로 증명하겠다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: An old worn research notebook open on a desk, short numbered handwritten entries, unreadable, a pen beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 48_마커스_비밀_구역_3
+
+[clue_49]
+이름 : 비밀 구역#4
+clueId : 2cfe074b-4c94-4acc-9e9c-9f2e71809641
+variantId : ad3015fa-c4a8-4176-bd12-b3e54cde798e
+이미지 : (추후 업로드 예정)
+groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 1
+정렬순서 : 640
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 'evolution' 입력(3단계 시신의 쪽지 "ution"과 연구 노트로 추리)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 마이어스의 컴퓨터. 암호는 "evolution"이다. 입력창 위에 "나의 꿈"이라는 힌트 문구가 적혀 있고, 연구 노트(#3)에서 마이어스가 원한 것이 진화였다는 걸 읽은 플레이어가 영어 단어로 추리한다. 3단계에서 받은 "ution"이 단어의 끝부분이다. 글자 수는 알리지 않는다. 열면 열려 있는 문서(#7)가 뒷면으로 추가 배치된다(AP 없이 조사).
+질문 HTML :
+<div class="story-content">
+  <div>책상 위 컴퓨터가 켜져 있다. 화면에는 암호 입력창이 떠 있다.</div>
+  <div>입력창 위에 "나의 꿈"이라고 적혀 있다.</div>
+</div>
+내용 :
+암호가 풀리고 화면이 켜진다.
+화면에는 문서 창 하나가 열려 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">암호가 풀리고 화면이 켜진다.</div>
+  <div>화면에는 문서 창 하나가 열려 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: A modern desktop computer with a thin flat-panel monitor switching on in a dim room, a single document window open on the screen, cool blue-white glow. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 49_마커스_비밀_구역_4
+
+[clue_50]
+이름 : 비밀 구역#5
+clueId : 368d0f6b-8d35-46df-b70b-c021b81ff1be
+variantId : 28ea4c25-42ef-4349-b57b-234d07401aa3
+이미지 : (추후 업로드 예정)
+groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 1
+정렬순서 : 650
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 마이어스의 결론 요약. 이 물질은 생명체의 신체를 현재 환경에서 가장 알맞은 구조로 재구성하며(급속 진화) 갑각류의 답은 게라는 것, 죽음에 가까워질수록 재구성이 강하게 일어난다는 것. 사람에 대한 언급은 쓰지 않는다(컴퓨터 안 문서에서만 나온다). 어슐라가 진화 대상이라는 것이 너무 쉽게 드러나지 않게 하려는 것이다. 이 단서의 "진화"라는 단어가 컴퓨터 암호의 추가 힌트가 된다.
+내용 :
+벽의 화이트보드에 마커로 적은 글이 남아 있다.
+8차 시제품 요약
+
+- 생명체의 신체를 현재 환경에서 가장 알맞은 구조로 재구성한다(급속 진화).
+- 갑각류의 답은 게.
+- 죽음에 가까워질수록 재구성이 강하게 일어난다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">벽의 화이트보드에 마커로 적은 글이 남아 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">8차 시제품 요약<br /><br />- 생명체의 신체를 현재 환경에서 가장 알맞은 구조로 재구성한다(<span class="emphasis">급속 진화</span>).<br />- 갑각류의 답은 <span class="emphasis">게</span>.<br />- 죽음에 가까워질수록 재구성이 강하게 일어난다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: A whiteboard on a laboratory wall with a few lines of marker handwriting in a short bulleted list, unreadable, faded smudges around the edges. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 50_마커스_비밀_구역_5
+
+[clue_51]
+이름 : 비밀 구역#6
+clueId : c6794f3a-5adc-48b8-ae18-1aaca7984c9e
+variantId : 65b4c2a9-e52c-4229-9886-362d9729a9f2
+이미지 : (추후 업로드 예정)
+groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 1
+정렬순서 : 660
+중요도 : 보통
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 암호 '게' 입력(3차 통화로 베일라에게 받은 단어)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 진행과는 무관하지만 마커스의 최종 질문 m3의 6c 근거다(암호 "게"를 받지 못하면 이 요소 점수를 놓친다). 수조의 라벨은 "랍스터"뿐인데 안의 개체들이 게의 모습이다. 일부는 랍스터와 게가 합쳐진 중간 모습이다. 원래 랍스터 수조였는데 시제품이 들어가 게화가 이루어졌다는 관찰 증거다. 베일라가 준 "게"가 그대로 쓰인다. 해석(시제품 때문이라는 말, 진화)은 쓰지 않는다.
+질문 HTML :
+<div class="story-content">
+  <div>벽 쪽 수조에 갑각류 여러 마리가 있다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
+  <div>무엇을 자세히 살펴볼지 입력해야 할 것 같다.</div>
+</div>
+내용 :
+"게"를 살펴본다.
+수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 납작하게 넓어지는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">"게"를 살펴본다.</div>
+  <div>수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 납작하게 넓어지는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: A glass tank in a dim laboratory: mostly round-bodied crabs and a few half-transformed creatures with crab-like bodies but long lobster antennae and tail segments; a blank label on the tank. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 51_마커스_비밀_구역_6
+
+[clue_52]
+이름 : 비밀 구역#7
+clueId : ff79b8f5-8f6e-4ca0-a6e5-7b629162ec07
+variantId : 84b0b2ce-9c61-4e9f-bc9c-57047956c0e1
+이미지 : (추후 업로드 예정)
+groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
+유형 : 물증
+단계 : [비밀 구역] (마커스, 4단계)
+소모AP : 0
+정렬순서 : 670
+중요도 : 높음
+핵심 단서 여부 : N
+교환 가능 여부 : N
+획득 가능 여부 : Y
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 비밀 구역#4(마이어스의 컴퓨터)를 암호로 열면 뒷면으로 추가 배치(연계 보조 단서)
+시작 표시 상태 : 뒷면
+단계 시작시 자동 획득 : N
+관련 : 마커스
+의도 : 연계 보조 단서. 컴퓨터에 열려 있는 문서. 계획서가 아니라 마이어스가 기억하려고 적어둔 단편적인 문장들이다. 중단 명령(감사국, 클로이), 6개월치 보고서, "사람이라고 다를 것은 없겠지"라는 확신, 설립 8주년을 구실로 한 건배, 무알콜로 준비한 칵테일(휴게실 냉장고), 마지막에 시제품 100ml를 섞을 것, 자신도 마신다, 신념. 건배 이후의 기록은 없고 오웬이 병을 바꾼 것도 쓰지 않는다. 마이어스는 일부러 해치려 한 사람이 아니라 진심으로 믿은 사람이라는 인상을 남긴다.
+질문 HTML :
+<div class="story-content">
+  <div>문서가 열려 있다.</div>
+</div>
+내용 :
+열려 있는 문서에 짧은 문장들이 줄지어 적혀 있다.
+- 8/30 오후 감사국 명령. 라이언이 감사국이었다.
+- 처음부터 그랬다.
+- 보고서 9월~2월 서랍. 반년은 어떻게든 했어야 하는데.
+- 사람이라고 다를 것은 없겠지.
+- 오늘이 설립 8주년. 이걸로 건배.
+- 칵테일. 무알콜로 준비. 휴게실 냉장고.
+- 8차 100ml. 마지막에, 건배 직전에 섞을 것.
+- 나도 마신다.
+- 내가 틀리지 않았다는 걸 보여줄 수 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">열려 있는 문서에 짧은 문장들이 줄지어 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="document-page">
+    <div class="document-body small">- 8/30 오후 감사국 명령. <span class="emphasis">라이언</span>이 감사국이었다.<br />- 처음부터 그랬다.<br />- 보고서 9월~2월 서랍. 반년은 어떻게든 했어야 하는데.<br />- 사람이라고 다를 것은 없겠지.<br />- 오늘이 설립 8주년. 이걸로 건배.<br />- 칵테일. 무알콜로 준비. 휴게실 냉장고.<br />- 8차 100ml. 마지막에, 건배 직전에 섞을 것.<br />- 나도 마신다.<br />- 내가 틀리지 않았다는 걸 보여줄 수 있다.</div>
+  </div>
+</div>
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: A word-processor document window (not a physical window) on a thin flat-panel monitor with several short lines of plain typed text in a clean sans-serif typeface, too small to read, cool white glow. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+단서 그룹 : 연구시설 - 비밀 구역
+파일명 : 52_마커스_비밀_구역_7
+
+[clue_53]
+이름 : 어부의 지도
+clueId : 0c2703ee-d14f-4acc-8a7f-c3866a09c870
+variantId : 4dfae082-3564-47fd-a1d5-0294ab456e7b
+이미지 : 지도/크래비스_지도.png
+groupId : 237c42b3-2cbc-4ad4-a43b-152c9232a1a9
+유형 : 물증
+단계 : [공통] (공통, 1단계)
+소모AP : 0
+정렬순서 : 1
+중요도 : 높음
+핵심 단서 여부 : Y
+교환 가능 여부 : N
+획득 가능 여부 : N
+획득 조건 존재 여부 : N
+획득 조건 내용 : 없음
+시작 표시 상태 : 앞면
+단계 시작시 자동 획득 : N
+관련 : 공통
+의도 : 대면 단계에서 어부가 그려 준 지도. 두 역할이 같이 보는 공통 단서로, 1차 조사 시작 때 게임보드에 앞면으로 놓여 이후 조사에서 계속 참고할 수 있다. 해류 방향과 북쪽 후미의 붉은 동그라미를 관찰한 그대로 적는다. 지도에는 글자를 덧붙이지 않고, 경고(깊고 물살이 이상하니 수영 금지)는 대면 단계에서 어부가 말로 한다. 해류가 후미 안에서 맴돈다는 것과 큰 물이 바깥으로 빠진다는 것은 그림에 그려진 사실이고, 그 결과(어디에 무엇이 모이는가)는 쓰지 않는다. 해류를 해석하는 것은 플레이어의 몫이다.
+내용 :
+렌터카 업체에서 받은 해안 안내 지도 위에 어부가 펜으로 그려 넣은 것이 있다.
+파란 펜으로 그린 화살표는 동쪽에서 섬 북쪽으로 밀려들어 후미 안에서 둥글게 맴돌고, 큰 물은 바깥으로 빠져나간다.
+북쪽 후미에는 붉은 펜으로 동그라미가 쳐져 있다.
+HTML :
+<div class="story-content">
+  <div class="script-direction">렌터카 업체에서 받은 해안 안내 지도 위에 어부가 펜으로 그려 넣은 것이 있다.</div>
+  <div>파란 펜으로 그린 화살표는 동쪽에서 섬 북쪽으로 밀려들어 후미 안에서 둥글게 맴돌고, 큰 물은 바깥으로 빠져나간다.</div>
+  <div>북쪽 후미에는 붉은 펜으로 동그라미가 쳐져 있다.</div>
+</div>
+이미지생성용 프롬프트: (직접 제작한 지도 이미지 사용: 지도/크래비스_지도.svg, 지도/크래비스_지도.png)
+단서 그룹 : 선착장 - 어부의 지도
+파일명 : 00_공통_어부의_지도
