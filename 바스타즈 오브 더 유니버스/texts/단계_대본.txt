@@ -47,7 +47,7 @@ StepID : 854e7234-0cf5-49ae-aeae-ec6a6ade59b3
 [5] 화자 타입: PLAYER
     화자: 고어후프
     화자 표시 HTML: <span class="character-gorehoof">고어후프</span>
-    대사: <span class="script-direction">(호탕하고 우직하게 웃어젖히며)</span> 으하하! 드디어 내 차례인가! 선봉장 <span class="character-gorehoof">고어후프</span>가 왔다! 내가 본대를 이끌고 그 굳게 닫혀 있던 성문을 정면에서 그냥 박살 내 버렸지! 성 안으로 밀고 들어간 뒤에도 중앙 복도에서 길을 가로막던 건방진 친위대 놈들을 모조리 흠씬 두들겨 패서 눕혀버렸다고! 크하하핫! 야, 기록관! 내 이 멋진 활약상을 아주 큼지막하게 적어둬야 할 거다!
+    대사: <span class="script-direction">(호탕하고 우직하게 웃어젖히며)</span> 으하하! 드디어 내 차례인가! 선봉장 <span class="character-gorehoof">고어후프</span>가 왔다! 내가 본대를 이끌고 그 굳게 닫혀 있던 성문을 정면에서 그냥 박살 내 버렸지! 성 안으로 밀고 들어간 뒤에도 중앙 복도에서 길을 가로막던 건방진 친위대 놈들을 모조리 흠씬 두들겨 패서 눕혀 버렸다고! 크하하핫! 야, 기록관! 내 이 멋진 활약상을 아주 큼지막하게 적어둬야 할 거다!
 
 [6] 화자 타입: PLAYER
     화자: 슬리더
@@ -62,16 +62,20 @@ StepID : 854e7234-0cf5-49ae-aeae-ec6a6ade59b3
 [8] 화자 타입: PLAYER
     화자: 스컬크러셔
     화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
-    대사: <span class="script-direction">(왕좌의 방에 집결한 모두를 내려다보며 목소리를 높인다)</span> 아주 훌륭해! 다들 고생 많았다! 너희가 세운 눈부신 공적은 이 성채의 주춧돌에 영원히 새겨질 거다! 하지만 <span class="character-goldenking">골든 킹</span> 그놈이 쓰러졌다고 끝난 게 아니다. 성채 구석구석에 아직 잔당들의 음모가 도사리고 있고, 챙겨야 할 전리품들도 잔뜩 널려 있지. <strong>저녁 18:00에 열릴 승전 연회 전까지, 성 안을 이 잡듯 샅샅이 뒤져서 남은 위협을 완전히 뿌리뽑아라!</strong><br><br>
-      자, 다들 주목해라! 이제부터 각자 수색할 구역을 정해 주겠다!<br><br>
-      - <span class="character-eldritch">엘드리치</span>는 <span class="emphasis">서재</span>로 이동해 성채 안의 기밀 기록들을 분석하라!<br>
-      - <span class="character-malice">말리스</span>는 <span class="emphasis">연구실</span>을 맡아 남아있는 마법 장치들을 수습하라!<br>
-      - <span class="character-balrog">발로그</span>는 <span class="emphasis">무기고</span>를 수색해 잔당들이 위험 병기를 손에 쥐지 못하게 통제하라!<br>
-      - <span class="character-gorehoof">고어후프</span>는 승전 축제가 열릴 <span class="emphasis">연회장</span> 주변의 잔당들을 소탕하고 보안을 강화하라!<br>
-      - <span class="character-slither">슬리더</span>는 <span class="emphasis">문서고</span>를 수색하여 숨겨진 기밀이나 유용한 정보들을 확보하라!<br>
-      - <span class="character-elantra">엘란트라</span>는 <span class="emphasis">지하창고</span>를 확보하고 적들이 보관해 둔 군수 자원을 점거하라!<br><br>
-      나 <span class="character-skullcrusher">스컬크러셔</span>는 이 성채의 전반적인 경비망을 꼼꼼히 점검하면서 전체 상황을 총괄 지휘하겠다.<br><br>
-      <strong>그럼 저녁에 연회장에서 기분 좋게 승리의 축배를 나누자고. 다들 지체하지 말고 명령받은 구역으로 신속하게 이동하라!</strong>
+    대사: <span class="script-direction">(왕좌의 방에 집결한 모두를 내려다보며 목소리를 높인다)</span> 아주 훌륭해! 다들 고생 많았다! 너희가 세운 눈부신 공적은 이 성채의 주춧돌에 영원히 새겨질 거다! 하지만 <span class="character-goldenking">골든 킹</span> 그놈이 쓰러졌다고 끝난 게 아니다. 성채 구석구석에 아직 잔당들의 음모가 도사리고 있고, 챙겨야 할 전리품들도 잔뜩 널려 있지. <strong>저녁 18:00에 열릴 승전 연회 전까지, 성 안을 이 잡듯 샅샅이 뒤져서 남은 위협을 완전히 뿌리뽑아라!</strong>
+
+[9] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 자, 다들 주목해라! 이제부터 각자 수색할 구역을 정해 주겠다!<br><br>
+- <span class="character-eldritch">엘드리치</span>는 <span class="emphasis">서재</span>로 이동해 성채 안의 기밀 기록들을 분석하라!<br>
+- <span class="character-malice">말리스</span>는 <span class="emphasis">연구실</span>을 맡아 남아있는 마법 장치들을 수습하라!<br>
+- <span class="character-balrog">발로그</span>는 <span class="emphasis">무기고</span>를 수색해 잔당들이 위험 병기를 손에 쥐지 못하게 통제하라!<br>
+- <span class="character-gorehoof">고어후프</span>는 승전 축제가 열릴 <span class="emphasis">연회장</span> 주변의 잔당들을 소탕하고 보안을 강화하라!<br>
+- <span class="character-slither">슬리더</span>는 <span class="emphasis">문서고</span>를 수색하여 숨겨진 기밀이나 유용한 정보들을 확보하라!<br>
+- <span class="character-elantra">엘란트라</span>는 <span class="emphasis">지하창고</span>를 확보하고 적들이 보관해 둔 군수 자원을 점거하라!<br><br>
+나 <span class="character-skullcrusher">스컬크러셔</span>는 이 성채의 전반적인 경비망을 꼼꼼히 점검하면서 전체 상황을 총괄 지휘하겠다.<br><br>
+<strong>그럼 저녁에 연회장에서 기분 좋게 승리의 축배를 나누자고. 다들 지체하지 말고 명령받은 구역으로 신속하게 이동하라!</strong>
 
 
 <!-- ============================================ -->
@@ -84,6 +88,12 @@ StepID : b74329e3-4ed5-4770-aa5f-a439a1bcb210
 
 화자 역할:
     - 스컬크러셔 (수장): PLAYER
+    - 엘드리치 (현자): PLAYER
+    - 말리스 (참모장): PLAYER
+    - 발로그 (특공대장): PLAYER
+    - 고어후프 (선봉장): PLAYER
+    - 슬리더 (암살자): PLAYER
+    - 엘란트라 (대장군): PLAYER
 
 대본
 
@@ -94,18 +104,58 @@ StepID : b74329e3-4ed5-4770-aa5f-a439a1bcb210
 [2] 화자 타입: PLAYER
     화자: 스컬크러셔
     화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
-    대사: 방금 성채 안을 직접 둘러봤다만... 지시한 곳에 마땅히 있어야 할 자리가 비어 있거나, 다들 엉뚱한 일에 정신이 팔려 있더군. 승리의 환희에 취해 긴장이 풀린 건가, 아니면 내가 모르는 다른 꿍꿍이라도 생긴 건가? 이유야 어찌 됐든, 내 눈으로 직접 봤으니 의심을 거둘 수가 없군. 각자 구역을 혼자 쑤시고 다니며 뭘 찾아내고 뭘 감췄을지... 이제 너희 중 누구도 곧이곧대로 믿을 수 없다. 그래서 새로운 명령을 내린다. 지금 이 순간부터 단독 행동은 전면 금지다. 서로가 서로를 철저하게 감시할 수 있도록, 내 지시에 따라 <strong>2명, 2명, 3명씩 세 조</strong>로 나뉘어 움직인다! 우리가 피 흘려 차지한 이 성채에 배신자의 기운이 섞이는 건 딱 질색이니까. 곁에 선 조원을 속일 생각은 아예 접어 둬라. 수색하면서 찾아낸 건 함께 움직이는 이들끼리 숨김없이 털어놓도록. 자, 서로의 뒤를 바짝 쫓아다니며 감시해라. 1시간 뒤에, 너희가 뭘 알아냈는지 내 앞에 낱낱이 밝혀야 할 거다.
+    대사: 방금 성채 안을 직접 둘러봤다만... 지시한 곳에 마땅히 있어야 할 자리가 비어 있거나, 다들 엉뚱한 일에 정신이 팔려 있더군. 승리의 환희에 취해 긴장이 풀린 건가, 아니면 내가 모르는 다른 꿍꿍이라도 생긴 건가? 이유야 어찌 됐든, 내 눈으로 직접 봤으니 의심을 거둘 수가 없군.
 
 [3] 화자 타입: PLAYER
+    화자: 말리스
+    화자 표시 HTML: <span class="character-malice">말리스</span>
+    대사: <span class="script-direction">(정중하게 고개를 숙이며)</span> 의심을 사게 된 것이 유감입니다, 수장. 확인하실 것이 있다면 언제든 응하겠습니다.
+
+[4] 화자 타입: PLAYER
+    화자: 고어후프
+    화자 표시 HTML: <span class="character-gorehoof">고어후프</span>
+    대사: <span class="script-direction">(호탕하게 웃으며)</span> 의심이라니, 섭섭하군, 수장! 하지만 명령이라면 뭐든 따르겠다!
+
+[5] 화자 타입: PLAYER
+    화자: 슬리더
+    화자 표시 HTML: <span class="character-slither">슬리더</span>
+    대사: <span class="script-direction">(서늘하고 나직하게)</span> ...지켜보고 싶다면 그러든가. 그림자는 시선이 닿는다고 사라지지 않으니까.
+
+[6] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 그래서 새로운 명령을 내린다. 지금 이 순간부터 단독 행동은 전면 금지다. 서로가 서로를 철저하게 감시할 수 있도록, 내 지시에 따라 <strong>2명, 2명, 3명씩 세 조</strong>로 나뉘어 움직인다! 우리가 피 흘려 차지한 이 성채에서, 끝까지 일이 꼬이는 건 딱 질색이니까.
+
+[7] 화자 타입: PLAYER
+    화자: 발로그
+    화자 표시 HTML: <span class="character-balrog">발로그</span>
+    대사: <span class="script-direction">(감정이 배제된 어조로)</span> 명령 확인. 2명, 2명, 3명, 세 조로 이동한다. 이상.
+
+[8] 화자 타입: PLAYER
+    화자: 엘란트라
+    화자 표시 HTML: <span class="character-elantra">엘란트라</span>
+    대사: <span class="script-direction">(차분하게)</span> 합리적인 판단이십니다, 수장. 단독 행동이 사라지면 서로의 동선도 자연스럽게 확인될 것입니다.
+
+[9] 화자 타입: PLAYER
+    화자: 엘드리치
+    화자 표시 HTML: <span class="character-eldritch">엘드리치</span>
+    대사: <span class="script-direction">(나직하게 미소를 지으며)</span> 허허, 서로를 지켜보는 눈이 많으면 마음도 놓이는 법이지. 나는 수장의 뜻을 따르겠소.
+
+[10] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: 곁에 선 동료를 속일 생각은 아예 접어 둬라. 수색하면서 찾아낸 건 함께 움직이는 이들끼리 숨김없이 털어놓도록. 자, 서로의 뒤를 바짝 쫓아다니며 감시해라. 1시간 뒤에, 너희가 뭘 알아냈는지 내 앞에 낱낱이 밝혀야 할 거다.
+
+[11] 화자 타입: PLAYER
     화자: 스컬크러셔
     화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
     대사: <span class="script-direction">(엄한 눈빛으로 멤버들을 훑어보며)</span> 하지만 내가 너희 중 누굴 묶어준들 그 속내를 다 믿을 수 있겠나. 그러니 누구와 한 조가 되어 감시할지는 너희가 직접 정해라.
 
-[4] 화자 타입: DIRECTIVE
+[12] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
     대사: (스컬크러셔 플레이어는 낭독을 잠시 멈추고 아래 안내에 따라 조를 편성해 주십시오.) 플레이어 전원이 자유롭게 협의하여 <strong>2명 / 2명 / 3명</strong>으로 조를 편성해 주십시오. (총 7명이므로 한 명도 낙오되어서는 안 됩니다.) 단, 이번 조 편성을 시작으로 앞으로 매 조사 단계마다 <strong>이전 조 편성과 멤버 구성이 겹치지 않게 주의해야 합니다.</strong> 편성이 끝났다면 아래의 마지막 대사를 이어서 읽어주십시오.
 
-[5] 화자 타입: PLAYER
+[13] 화자 타입: PLAYER
     화자: 스컬크러셔
     화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
     대사: <span class="script-direction">(인원 구성을 확인한 뒤 단호한 어조로)</span> ...조는 다 정해졌군. 서로를 감시하는 눈을 거두지 마라. 당장 흩어져라!
@@ -138,7 +188,7 @@ StepID : 08f3639d-f9c4-4a08-bde6-5295c6559141
 [2] 화자 타입: PLAYER
     화자: 발로그
     화자 표시 HTML: <span class="character-balrog">발로그</span>
-    대사: 의자에 앉아 있는 모습 그대로 숨이 끊겼어. 정수리에 깊은 자상이 있더군.
+    대사: 의자에 앉은 자세 그대로 사망했다. 정수리에 깊은 자상이 있었다.
 
 [3] 화자 타입: PLAYER
     화자: 말리스
@@ -185,7 +235,7 @@ StepID : 08f3639d-f9c4-4a08-bde6-5295c6559141
 [12] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: ...지금은 이 기이한 현상보다, 눈앞의 진실부터 밝혀야 합니다.
+    대사: ...지금은 이 기이한 현상보다, 눈앞의 진실부터 밝혀야 해요.
 
 [13] 화자 타입: PLAYER
     화자: 엘란트라
@@ -200,7 +250,7 @@ StepID : 08f3639d-f9c4-4a08-bde6-5295c6559141
 [15] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 정수리에 난 깊은 자상... 일격에 즉사하신 것이 분명해요.
+    대사: ...일격에 즉사하신 것이 분명해요.
 
 [16] 화자 타입: PLAYER
     화자: 발로그
@@ -220,7 +270,7 @@ StepID : 08f3639d-f9c4-4a08-bde6-5295c6559141
 [19] 화자 타입: PLAYER
     화자: 엘드리치
     화자 표시 HTML: <span class="character-eldritch">엘드리치</span>
-    대사: ...그리 하겠소. 내가 정하도록 하지.
+    대사: ...그리하겠소. 내가 정하도록 하지.
 
 [20] 화자 타입: PLAYER
     화자: 스컬크러셔
@@ -230,3 +280,8 @@ StepID : 08f3639d-f9c4-4a08-bde6-5295c6559141
 [21] 화자 타입: DIRECTIVE
     담당 플레이어: 엘드리치
     대사: (엘드리치 플레이어는 아래 안내에 따라 조를 편성해 주십시오.) 엘드리치 플레이어는 <strong>자신을 제외한</strong> 동료들의 조를 자유롭게 편성해 주십시오. 이 과정에서 동료들의 의견을 들어봐도 됩니다. (본인을 제외한 6명을 <strong>2명 / 2명 / 2명</strong>으로 편성해야 합니다.)
+
+[22] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: <span class="script-direction">(편성이 끝나자 싸늘한 시선으로 모두를 훑어보며)</span> ...조는 정해졌군. 범인은 이 안에 있다. 서로의 눈을 똑바로 지켜봐라. 움직여라!
