@@ -222,7 +222,7 @@
       <strong>성기사 류크</strong>: 당신의 실제 정체는 과거 <span class="character-goldenking">골든 킹</span>의 심복이었던 <span class="character-solite">솔라이트</span> 성기사 <span class="character-solite">류크</span>이다.
     </li>
     <li>
-      <strong>스승과 제자</strong>: 당신과 현자 <span class="character-eldritch">엘드리치</span>는 단순한 전우가 아니라, 죽음의 문턱에서 당신을 구해준 그를 스승으로 모시는 깊은 사제 관계이다.
+      <strong>스승과 제자</strong>: 당신과 현자 <span class="character-eldritch">엘드리치</span>는 전우를 넘어, 죽음의 문턱에서 당신을 구해준 그를 스승으로 모시는 깊은 사제 관계이다.
     </li>
   </ul>
 </div>
@@ -232,14 +232,15 @@
 [전반부 조사]
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표 - 스컬크러셔</div>
+    <div class="section-title">메인 목표 - 스컬크러셔</div>
     <ul class="goal-list">
-      <li>
-        <strong>마지막 목격자 색출</strong>: <span class="character-goldenking">골든 킹</span>의 마지막 외침을 엿들었을 뿐만 아니라, 당신이 입막음을 위해 서기관을 살해하는 장면까지 모두 지켜본 자가 누구인지 찾아내라.
-      </li>
-      <li>
-        <strong>수상한 행적 조사</strong>: 자신이 지시한 구역에 있지 않았던 바스타즈 멤버들이 무엇을 하고 있었는지 알아내라.
-      </li>
+      <li><strong>마지막 목격자 색출</strong>: <span class="character-goldenking">골든 킹</span>의 마지막 외침을 엿들었을 뿐만 아니라, 당신이 입막음을 위해 서기관을 살해하는 장면까지 모두 지켜본 자가 누구인지 찾아내라.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표 - 스컬크러셔</div>
+    <ul class="goal-list">
+      <li><strong>수상한 행적 조사</strong>: 자신이 지시한 구역에 있지 않았던 바스타즈 멤버들이 무엇을 하고 있었는지 알아내라.</li>
     </ul>
   </section>
   <section class="content-section">
@@ -263,17 +264,19 @@
   </div>
 
   <section class="content-section">
-    <div class="section-title">목표(엘드리치 사후) - 스컬크러셔</div>
+    <div class="section-title">메인 목표(엘드리치 사후) - 스컬크러셔</div>
     <ul class="goal-list">
-      <li>
-        <strong>범인 검거</strong>: 당신의 스승이자 유일한 이해자였던 <span class="character-eldritch">엘드리치</span>가 살해당했다. 반드시 범인을 찾아내어 스승의 원수를 갚아라.
-      </li>
-      <li>
-        <strong>목격자의 정체를 확정하라</strong>: 서기관을 입막음하던 장면을 지켜본 자가 누구인지, 이제는 확신을 갖고 지목해야 할 때다.
-      </li>
-      <li>
-        <strong>깊은 곳의 기운</strong>: 성채 깊은 곳에서 희미한 빛의 기운이 느껴진다. 그 기운은 지난날 당신이 불리던 이름에 응답할 것이다.
-      </li>
+      <li><strong>처형 대상 가려내기</strong>: 당신의 스승이자 유일한 이해자였던 <span class="character-eldritch">엘드리치</span>가 살해당했다. 반드시 범인을 찾아 처형대에 세워 스승의 원수를 갚아라.</li>
     </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표(엘드리치 사후) - 스컬크러셔</div>
+    <ul class="goal-list">
+      <li><strong>목격자의 정체를 확정하라</strong>: 서기관을 입막음하던 장면을 지켜본 자가 누구인지, 이제는 확신을 갖고 지목해야 할 때다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">추가 정보 - 스컬크러셔</div>
+    <p class="guide-text">성채 깊은 곳에서 희미한 빛의 기운이 느껴진다. 그 기운은 지난날 당신이 불리던 이름에 응답할 것이다.</p>
   </section>
 </div>

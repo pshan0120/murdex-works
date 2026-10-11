@@ -149,9 +149,9 @@
 
   <section class="content-section">
     <div class="section-title">인물 관계</div>
-    <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 성기사 류크를 복수심에 불타는 존재로 빚어낸, 부활을 위한 첫 안배다. 10년간 당신을 스승으로 맹신해 왔지만 한낱 장기 말일 뿐이다. 필요하다면 언제든 정체를 폭로해 파멸시킬 수 있다.</p>
+    <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 추락한 성기사 류크를 거두어 복수심에 불타는 자로 키워낸 것은 부활을 위한 첫 수였다. 10년간 당신을 스승으로 맹신해 왔지만, 그는 필요하다면 언제든 정체를 폭로해 파멸시킬 수 있는 장기 말일 뿐이다.</p>
     <p><strong><span class="character-malice">말리스에 대해</span></strong>: 마력 상실과 잃어버린 딸이라는 치명적 약점을 털어놓은 참모장이다. 오늘은 그녀의 딸이 봉인된 마력석을 쥐고 있다는 말로 굴복을 강요해, 스스로 살의를 품도록 유도했다.</p>
-    <p><strong><span class="character-balrog">발로그에 대해</span></strong>: 30년 전 전장을 이탈한 군단의 패잔병이다. 영혼이 소멸하는 계약으로 옭아매고 공을 세우면 자유를 주겠다 기만해 왔다. 오늘 그 계약이 영원할 것임을 통보하여 죽일 방법만을 궁리하게 만들었다.</p>
+    <p><strong><span class="character-balrog">발로그에 대해</span></strong>: 30년 전 전장을 이탈한 군단의 패잔병이다. 영혼이 소멸하는 계약으로 옭아매고 공을 세우면 자유를 주겠다며 기만해 왔다. 오늘 그 계약이 영원할 것임을 통보하여 죽일 방법만을 궁리하게 만들었다.</p>
     <p><strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 고립되었을 때 아군을 뜯어먹은 과거를 지닌 선봉장이다. 그 증거인 이빨 자국 난 갑옷 파편을 들이밀며 영원한 복종을 요구했다. 명예를 목숨처럼 여기는 자이니 반드시 죽이려 들 것이다.</p>
     <p><strong><span class="character-slither">슬리더에 대해</span></strong>: 10년 전 류크의 등을 찌른 암살자다. 그가 죽이려던 대상이 지금의 수장 스컬크러셔라는 사실을 쪽지로 넌지시 흘렸다. 진실이 폭로될까 두려운 그 역시 숨통을 노릴 것이다.</p>
     <p><strong><span class="character-elantra">엘란트라에 대해</span></strong>: 처음부터 솔라이트의 스파이임을 간파하고 역으로 이용해 온 대장군이다. 오늘 정체를 폭로하겠다는 쪽지를 보냈다. 배신자로 처형당하기 싫다면 당연히 목을 치러 와야 할 것이다.</p>
@@ -216,7 +216,7 @@
 [전반부 조사]
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표 - 엘드리치</div>
+    <div class="section-title">메인 목표 - 엘드리치</div>
     <ul class="goal-list">
       <li><strong>기만 공작</strong>: 당신은 오늘 18시, <span class="character-balrog">발로그</span>가 설치한 트랩을 작동시켜 죽음을 맞이할 것이다. 남은 시간 동안, 멤버들 중 부활의 그릇으로 삼기에 적합한 가장 강한 자를 눈여겨보고, 은밀히 뿌려둔 협박 쪽지들이 만들어낸 의심과 반목을 자연스럽게 부추겨 그에게 혐의가 쏠리도록 유도하라. 현자로서의 신뢰를 잃지 않는 것이 최우선이다.</li>
     </ul>
@@ -227,9 +227,14 @@
 [후반부 조사]
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표(엘드리치 사후) - 엘드리치</div>
+    <div class="section-title">메인 목표(엘드리치 사후) - 엘드리치</div>
     <ul class="goal-list">
       <li><strong>마신 부활</strong>: <span class="character-bastards">바스타즈</span> 멤버 중 한 명을 범인으로 몰아 처형되도록 유도하라. 누구의 육체든 그릇이 될 수 있지만, 마신의 완전한 힘을 되찾으려면 강한 자를 매개체로 삼아야 한다. 특히 처형 대상이, <span class="emphasis">마신인 당신이 다룰 수 있는 무기</span>를 소지하고 있다면 부활 후 당신의 힘은 더욱 강해질 것이다. 대상을 정했다면 집요하게 약점을 파고들어 범인으로 몰아라. 그가 처형되는 순간, 당신은 그의 육체를 차지해 마신 <span class="mystery">다크 시리어스</span>로 완벽히 부활할 것이다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표(엘드리치 사후) - 엘드리치</div>
+    <ul class="goal-list">
       <li><strong>옛 무구의 기운</strong>: 영혼이 된 지금에서야 어렴풋이 느껴지는 기운이 있다. 마신이었던 시절 사용하던 오래된 투구가 아직 이 성채 어딘가에 남아 있는 듯하다. 누군가 그런 물건을 조사해서 획득했다면, 그것을 당신에게 건네주도록 만들어라. 그렇게 하면 훗날 큰 도움이 될 것이다.</li>
     </ul>
     <p class="guide-text">※ 안내: 사망 후 영혼 상태에서는 직접 단서를 조사할 수 없습니다. 다른 플레이어가 해당 단서를 조사해서 당신에게 건네주도록 만들어야 합니다.</p>

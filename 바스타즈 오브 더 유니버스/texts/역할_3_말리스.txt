@@ -99,7 +99,7 @@
     </p>
     <p>
       그리고 <span class="character-eldritch">엘드리치</span> 암살을 암시하며 의중을 떠보았으나, 그는 계약주를 해치는 일은 불가하다며 즉각 거절했다.
-      단호한 그의 모습에 당황한 당신은 <span class="character-eldritch">엘드리치</span>를 해치려는 게 아니라 성 안의 잔당으로부터 보호할 방어용 부비트랩을 설치하는 것이라 다급히 둘러댔다. 다행히 더 따지지 않고 수락하는 그를 보며 안도한 당신은 챙겨 온 도구들을 건넸다. 마침내 <span class="character-balrog">발로그</span>는 <span class="emphasis">투명 망토</span>를 걸치고 서재 방향으로 향했다.
+      단호한 그의 모습에 당황한 당신은 성 안의 잔당으로부터 <span class="character-eldritch">엘드리치</span>를 보호할 방어용 부비트랩을 설치하는 것이라 다급히 둘러댔다. 다행히 더 따지지 않고 수락하는 그를 보며 안도한 당신은 챙겨 온 도구들을 건넸다. 마침내 <span class="character-balrog">발로그</span>는 <span class="emphasis">투명 망토</span>를 걸치고 서재 방향으로 향했다.
     </p>
     <p>
       이후 <span class="emphasis">연구실</span>로 돌아온 당신은 문 앞 복도에서 <span class="character-balrog">발로그</span>를 기다렸다. 이윽고 트랩 설치를 마친 그가 돌아왔고 같이 <span class="emphasis">연구실</span>로 들어갔다. 그에게는 잔당이 나타나면 신호를 줄 테니 <span class="emphasis">서재</span> 쪽으로 마력을 방출하라고 지시했고, 그는 <span class="character-eldritch">엘드리치</span>를 지키기 위해서라면 그리하겠다고 대답했다. 그렇게 모든 준비가 끝났다. 얼마 지나지 않아 <span class="character-skullcrusher">스컬크러셔</span>의 소집 명령이 다시 떨어졌다. 당신은 아무 일도 없었다는 듯 태연한 얼굴로 연회장을 향했다.
@@ -139,7 +139,7 @@
     <div class="section-title">인물 관계</div>
     <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 연합을 이끄는 막강한 수장이지만, 딸을 되찾기 위한 도구일 뿐이다. 오늘 수색을 지시하는 그의 태도에서 수상함을 감지했다. 목적에 방해가 된다면 언제든 내칠 것이다.</p>
     <p><strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 유일하게 의지했던 조력자였으나, 절박함을 이용해 <span class="emphasis">마력석</span>으로 옥죄려 했다. 오늘 밤, 철저히 함정에 빠뜨려 파멸시킬 것이다.</p>
-    <p><strong><span class="character-balrog">발로그에 대해</span></strong>: <span class="character-eldritch">엘드리치</span>에게 목줄이 잡힌 마족 전사다. 방어용 트랩이라는 거짓말에 순순히 넘어간 장기 말이다. 손을 더럽히지 않을 도구이자, 발각될 경우 완벽한 주범이 되어줄 것이다.</p>
+    <p><strong><span class="character-balrog">발로그에 대해</span></strong>: <span class="character-eldritch">엘드리치</span>에게 목줄이 잡힌 마족 전사다. 방어용 트랩이라는 거짓말에 순순히 넘어간 장기 말이다. 손을 더럽히지 않을 도구이자, 발각될 경우 완벽한 주범으로 내세울 방패막이다.</p>
     <p><strong><span class="character-slither">슬리더에 대해</span></strong>: 그림자 속의 암살자다. 훔쳐낸 그의 <span class="emphasis">단검</span>은 살인 사건을 덮을 미끼다. 그가 상황을 파악하기도 전에 범행 도구의 주인으로 몰아붙여 희생양으로 쓸 것이다.</p>
     <p><strong><span class="character-gorehoof">고어후프에 대해</span></strong>: 우직하고 단순한 선봉장이다. 지시라면 의심 없이 따르니, 필요할 때 시선 분산용으로 던져주면 그만이다.</p>
     <p><strong><span class="character-elantra">엘란트라에 대해</span></strong>: 이성적인 대장군이다. 동질감을 느끼면서도 어딘가 기계적인 태도에서 묘한 이질감이 들고, 그녀 역시 무언가 숨기고 있다는 인상을 지울 수 없다. 계획에 위협이 된다면 가장 먼저 그 약점을 찔러 무너뜨릴 것이다.</p>
@@ -177,10 +177,15 @@
 [전반부 조사]
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표 - 말리스</div>
+    <div class="section-title">메인 목표 - 말리스</div>
     <ul class="goal-list">
       <li><strong>트랩 설계의 은폐</strong>: 방어용 트랩이라 속여 <span class="character-balrog">발로그</span>에게 설치하게 한 살인 트랩의 존재를 철저히 숨겨라. 당신이 암살을 모의했다는 정황이 드러나면 꼼짝없이 진범으로 몰리게 될 것이다. <span class="character-balrog">발로그</span>와 말을 맞춰 알리바이를 꾸미고 모든 의심이 당신을 비켜가도록 주의해야 한다.</li>
-      <li><strong>마력석 확보</strong>: <span class="character-eldritch">엘드리치</span>가 협박 쪽지에서 언급한 <span class="emphasis">마력석</span>이 정말 그의 손에 있었는지, 혹은 이 성 안에 있기는 한 것인지부터 확인하라. 만약 사실이라면 무엇보다 최우선으로 찾아내 확보해야 한다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표 - 말리스</div>
+    <ul class="goal-list">
+      <li><strong>마력석 확보</strong>: <span class="character-eldritch">엘드리치</span>가 협박 쪽지에서 언급한 <span class="emphasis">마력석</span>이 정말 그의 손에 있었는지, 혹은 이 성 안에 있기는 한 것인지부터 확인하라. 만약 사실이라면 반드시 찾아내 확보해야 한다.</li>
     </ul>
   </section>
 </div>
@@ -193,9 +198,14 @@
   </div>
 
   <section class="content-section">
-    <div class="section-title">목표(엘드리치 사후) - 말리스</div>
+    <div class="section-title">메인 목표(엘드리치 사후) - 말리스</div>
     <ul class="goal-list">
-      <li><strong>범인 검거</strong>: 당신은 비록 <span class="character-eldritch">엘드리치</span>를 죽이려 살인 트랩을 고안했으나, 그를 실제로 죽인 진범은 따로 있음을 알고 있다. 자신이 암살을 모의한 정황이 들통나 억울하게 범인으로 몰리지 않도록 철저히 숨기는 한편, 진짜로 그의 숨통을 끊은 자가 누구인지 반드시 밝혀내라.</li>
+      <li><strong>처형 대상 가려내기</strong>: 당신은 비록 <span class="character-eldritch">엘드리치</span>를 죽이려 살인 트랩을 고안했으나, 그를 실제로 죽인 진범은 따로 있음을 알고 있다. 자신이 암살을 모의한 정황이 들통나 억울하게 처형 대상으로 몰리지 않도록 철저히 숨기는 한편, 진짜로 그의 숨통을 끊은 자가 누구인지 반드시 밝혀내라.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표(엘드리치 사후) - 말리스</div>
+    <ul class="goal-list">
       <li><strong>마력석 확보</strong>: 딸의 영혼이 잠든 마력석을 반드시 손에 넣어라. 그것이 있어야만 봉인을 풀고 딸을 구해낼 수 있다.</li>
     </ul>
   </section>

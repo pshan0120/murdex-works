@@ -152,9 +152,14 @@
 [전반부 조사]
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표 - 발로그</div>
+    <div class="section-title">메인 목표 - 발로그</div>
     <ul class="goal-list">
       <li><strong>암살 의도 부인</strong>: <span class="character-malice">말리스</span>가 둘러댄 '방어용 부비트랩'이라는 명분을 방패 삼아 암살 의도를 철저히 부인하라. 해당 트랩을 설치한 주체가 당신으로 지목되지 않도록 알리바이를 관리하는 것이 최우선이다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표 - 발로그</div>
+    <ul class="goal-list">
       <li><strong>심연의 적석 확인</strong>: 어딘지 모르게 끌리는 느낌이 있다. 전설로만 들어온 그 보물이 정말 이 성 안에 있는지 확인해야 한다.</li>
     </ul>
   </section>
@@ -168,9 +173,14 @@
   </div>
 
   <section class="content-section">
-    <div class="section-title">목표(엘드리치 사후) - 발로그</div>
+    <div class="section-title">메인 목표(엘드리치 사후) - 발로그</div>
     <ul class="goal-list">
-      <li><strong>범인 검거</strong>: <span class="character-malice">말리스</span>의 부탁으로 직접 설치한 그 장치가 정말로 <span class="character-eldritch">엘드리치</span>를 죽음에 이르게 한 것인지 당신조차 확신이 서지 않는다. 트랩 설치에 가담한 사실이 발각되지 않도록 조심하는 한편, 진짜로 그를 죽인 진범이 따로 있는 것은 아닌지 반드시 밝혀내라.</li>
+      <li><strong>처형 대상 가려내기</strong>: 당신은 범인이 아니다. 당신이 한 일은 <span class="character-malice">말리스</span>의 부탁으로 <span class="emphasis">서재</span>에 트랩을 설치한 것뿐이며, 직접 마력을 방출해 <span class="character-eldritch">엘드리치</span>를 해친 적은 없다. 다만 그 트랩이 그의 죽음에 어떤 영향을 주었는지는 알 수 없다. 트랩 설치에 가담한 사실이 발각되지 않도록 조심하는 한편, 그를 죽음에 이르게 한 것이 무엇인지 반드시 밝혀내라.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표(엘드리치 사후) - 발로그</div>
+    <ul class="goal-list">
       <li><strong>잃어버린 권능 되찾기</strong>: 조사를 거듭할수록 확신이 굳어진다. 심연의 적석은 분명 이 성 어딘가에 있거나, 이미 누군가의 손에 들어가 있을 것이다. 계약은 이미 풀려났지만 그것만으로는 진정한 자유를 찾을 수 없다. 반드시 그것을 손에 넣어야 잃어버렸던 권능을 되찾고 비로소 완전한 자유를 얻을 수 있다.</li>
     </ul>
   </section>

@@ -147,10 +147,15 @@
 [전반부 조사]
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표 - 엘란트라</div>
+    <div class="section-title">메인 목표 - 엘란트라</div>
+    <ul class="goal-list">
+      <li><strong>과거 기록에 대한 대비</strong>: 성채 내부에 과거 <span class="character-solite">솔라이트</span> 스파이로 활동했던 기록이나 보고서가 남아있을 수 있다. 누군가 단서를 찾아내 과거를 추궁할 상황에 대비해 먼저 찾아내야 한다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표 - 엘란트라</div>
     <ul class="goal-list">
       <li><strong>협박 대응</strong>: 스파이 시절의 경험상 협박범에게도 약점은 있다. <span class="character-eldritch">엘드리치</span>의 뒤를 파헤쳐 역으로 입을 막아라.</li>
-      <li><strong>과거 기록에 대한 대비</strong>: 성채 내부에 과거 <span class="character-solite">솔라이트</span> 스파이로 활동했던 기록이나 보고서가 남아있을 수 있다. 누군가 단서를 찾아내 과거를 추궁할 상황에 대비해 먼저 찾아내야 한다.</li>
     </ul>
   </section>
   <section class="content-section">
@@ -172,9 +177,14 @@
   </div>
 
   <section class="content-section">
-    <div class="section-title">목표(엘드리치 사후) - 엘란트라</div>
+    <div class="section-title">메인 목표(엘드리치 사후) - 엘란트라</div>
     <ul class="goal-list">
-      <li><strong>범인 검거</strong>: 협박하던 <span class="character-eldritch">엘드리치</span>가 살해당했으나 긴장을 늦춰서는 안 된다. 누군가 당신의 과거를 약점 삼아 살해범으로 몰아세울 수 있다. 진범을 밝혀내어 자신에게 향하는 의심을 피하라.</li>
+      <li><strong>처형 대상 가려내기</strong>: 협박하던 <span class="character-eldritch">엘드리치</span>가 살해당했으나 긴장을 늦춰서는 안 된다. 누군가 당신의 과거를 약점 삼아 처형 대상으로 몰아세울 수 있다. 진범을 밝혀내어 자신에게 향하는 의심을 피하라.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표(엘드리치 사후) - 엘란트라</div>
+    <ul class="goal-list">
       <li><strong>정찰 보고서 회수</strong>: 성채 어딘가에 존재할 '26호' 명의의 정찰 보고서를 반드시 손에 넣어라. 그것이 남의 손에 들어가면 당신이 <span class="character-solite">솔라이트</span>의 스파이였다는 과거를 부인할 수 없게 된다. 여력이 된다면 관련된 다른 기록들까지 모두 찾아내 그 어떤 흔적도 남기지 않는 편이 가장 안전하다.</li>
     </ul>
   </section>

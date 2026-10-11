@@ -576,6 +576,16 @@
     font-weight: 900;
 }
 
+/* document-page(밝은 종이 배경) 위의 솔라이트: 어두운 배경용 밝은 금빛 그라데이션이 종이색에 묻혀 읽히지 않아 짙은 황금갈색으로 바꿈 */
+.story-content .document-page .character-solite {
+    background: linear-gradient(135deg, #8a5a00, #a64b00);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    text-shadow: none;
+}
+
 .emphasis-box {
     border: 1.5px solid var(--fantasy-gold);
     padding: 1em;

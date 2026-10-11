@@ -118,7 +118,7 @@
 
   <section class="content-section">
     <div class="section-title">인물 관계</div>
-    <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 10년 전 자신을 거둬준 은인이지만, 오늘 서기관을 입막음으로 살해하는 장면을 본 뒤로는 두려운 경계 대상이 되었다.</p>
+    <p><strong><span class="character-skullcrusher">스컬크러셔에 대해</span></strong>: 10년 전 자신을 거둬준 은인이지만, 오늘 서기관을 입막음하려 살해하는 장면을 본 뒤로는 두려운 경계 대상이 되었다.</p>
     <p><strong><span class="character-eldritch">엘드리치에 대해</span></strong>: 오랫동안 따랐지만, 오늘 당신의 약점을 쥐고 협박하는 쪽지를 남긴 탓에 당장 입을 막아야 할 적이 되었다.</p>
     <p><strong><span class="character-malice">말리스에 대해</span></strong>: 머리는 좋지만 속을 알 수 없어 꺼림칙하다. 당신의 비밀을 캐고 다닐까 봐 주시하고 있다.</p>
     <p><strong><span class="character-balrog">발로그에 대해</span></strong>: 이방인이라는 점에선 동질감을 느끼지만, 왜 그가 무력한 <span class="character-eldritch">엘드리치</span>에게 맹종하는지는 이해할 수 없다.</p>
@@ -158,9 +158,14 @@
 [전반부 조사]
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표 - 슬리더</div>
+    <div class="section-title">메인 목표 - 슬리더</div>
     <ul class="goal-list">
       <li><strong>생존과 무기 회수</strong>: <span class="character-skullcrusher">스컬크러셔</span>에게 목격자라는 사실을 들키지 않도록 주의하며, 도난당한 <span class="emphasis">어둠의 단검</span>을 찾아 회수하라.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표 - 슬리더</div>
+    <ul class="goal-list">
       <li><strong>마력석의 열쇠</strong>: 보관함의 마법 자물쇠를 풀 6자리 암호를 알아내야 한다. 다른 이들 몰래 성 안의 과거 기록들을 뒤져 암호의 힌트를 찾아내라.</li>
     </ul>
   </section>
@@ -183,9 +188,14 @@
   </div>
 
   <section class="content-section">
-    <div class="section-title">목표(엘드리치 사후) - 슬리더</div>
+    <div class="section-title">메인 목표(엘드리치 사후) - 슬리더</div>
     <ul class="goal-list">
-      <li><strong>범인 검거</strong>: 당신의 무기를 훔쳐 <span class="character-eldritch">엘드리치</span>를 살해하고 죄를 뒤집어씌우려 한 진범을 찾아내라. 진범의 정체를 밝히는 것만이 당신의 결백을 입증할 유일한 길이다.</li>
+      <li><strong>처형 대상 가려내기</strong>: 당신의 무기를 훔쳐 <span class="character-eldritch">엘드리치</span>를 살해하고 죄를 뒤집어씌우려 한 진범을 찾아내라. 진범의 정체를 밝히는 것만이 당신의 결백을 입증할 유일한 길이다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">서브 목표(엘드리치 사후) - 슬리더</div>
+    <ul class="goal-list">
       <li><strong>재건의 보물 확보</strong>: <span class="emphasis">마력석</span>을 손에 넣거나 <span class="emphasis">그만한 가치를 지닌 보물</span>을 확보하라. 만약 여의치 않다면, <span class="emphasis">전설의 장비들</span> 중 2개 이상을 챙겨도 된다. 그 정도면 고향을 재건할 충분한 밑천이 되어줄 것이다.</li>
     </ul>
   </section>

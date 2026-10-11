@@ -32,7 +32,7 @@ StepID : 854e7234-0cf5-49ae-aeae-ec6a6ade59b3
 [2] 화자 타입: PLAYER
     화자: 엘드리치
     화자 표시 HTML: <span class="character-eldritch">엘드리치</span>
-    대사: <span class="script-direction">(나직하게 미소를 지으며)</span> 허허, 수장의 기세가 참으로 당당하고 드높구려. 나는 현자 <span class="character-eldritch">엘드리치</span>요. 기나긴 10년의 어둠 속에서 우리가 흔들릴 때마다 동료들의 마음을 하나로 모으고, 나아갈 길을 밝히는 게 내 역할이었지. 이번 전투에서도 본진에서 전황을 살피며 자그마한 지혜를 보탰소. 마침내 우리의 큰 뜻을 이루었으니, 참으로 기쁘고 감격스럽구려.
+    대사: <span class="script-direction">(나직하게 미소를 지으며)</span> 허허, 기세가 참으로 당당하고 드높구려. 나는 현자 <span class="character-eldritch">엘드리치</span>요. 기나긴 10년의 어둠 속에서 우리가 흔들릴 때마다 동료들의 마음을 하나로 모으고, 나아갈 길을 밝히는 게 내 역할이었지. 이번 전투에서도 본진에서 전황을 살피며 자그마한 지혜를 보탰소. 마침내 우리의 큰 뜻을 이루었으니, 참으로 기쁘고 감격스럽구려.
 
 [3] 화자 타입: PLAYER
     화자: 말리스
@@ -109,12 +109,12 @@ StepID : b74329e3-4ed5-4770-aa5f-a439a1bcb210
 [3] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: <span class="script-direction">(정중하게 고개를 숙이며)</span> 의심을 사게 된 것이 유감입니다, 수장. 확인하실 것이 있다면 언제든 응하겠습니다.
+    대사: <span class="script-direction">(정중하게 고개를 숙이며)</span> 의심을 사게 된 것이 유감입니다. 확인하실 것이 있다면 언제든 응하겠습니다.
 
 [4] 화자 타입: PLAYER
     화자: 고어후프
     화자 표시 HTML: <span class="character-gorehoof">고어후프</span>
-    대사: <span class="script-direction">(호탕하게 웃으며)</span> 의심이라니, 섭섭하군, 수장! 하지만 명령이라면 뭐든 따르겠다!
+    대사: <span class="script-direction">(호탕하게 웃으며)</span> 의심이라니, 섭섭하군! 하지만 명령이라면 뭐든 따르겠다!
 
 [5] 화자 타입: PLAYER
     화자: 슬리더
@@ -134,12 +134,12 @@ StepID : b74329e3-4ed5-4770-aa5f-a439a1bcb210
 [8] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: <span class="script-direction">(차분하게)</span> 합리적인 판단이십니다, 수장. 단독 행동이 사라지면 서로의 동선도 자연스럽게 확인될 것입니다.
+    대사: <span class="script-direction">(차분하게)</span> 합리적인 판단이십니다. 단독 행동이 사라지면 서로의 동선도 자연스럽게 확인될 것입니다.
 
 [9] 화자 타입: PLAYER
     화자: 엘드리치
     화자 표시 HTML: <span class="character-eldritch">엘드리치</span>
-    대사: <span class="script-direction">(나직하게 미소를 지으며)</span> 허허, 서로를 지켜보는 눈이 많으면 마음도 놓이는 법이지. 나는 수장의 뜻을 따르겠소.
+    대사: <span class="script-direction">(나직하게 미소를 지으며)</span> 허허, 서로를 지켜보는 눈이 많으면 마음도 놓이는 법이지. 나도 그 뜻을 따르겠소.
 
 [10] 화자 타입: PLAYER
     화자: 스컬크러셔
@@ -275,7 +275,7 @@ StepID : 08f3639d-f9c4-4a08-bde6-5295c6559141
 [20] 화자 타입: PLAYER
     화자: 스컬크러셔
     화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
-    대사: 배신을 꿈꾸거나 진실을 숨기려는 놈이 보인다면, 그 즉시 내 손에 목이 날아갈 것이다. 이제 움직여라!
+    대사: 조사가 끝나면 우리 손으로 처형할 자를 정한다. 범인을 찾는 일은 곧 누구를 처형할지 가리는 일이다. 배신을 꿈꾸거나 진실을 숨기려는 놈이 보인다면, 그 즉시 내 손에 목이 날아갈 것이다. 이제 움직여라!
 
 [21] 화자 타입: DIRECTIVE
     담당 플레이어: 엘드리치
