@@ -220,21 +220,6 @@
     background: linear-gradient(90deg, transparent, #E3A0AC, transparent);
 }
 
-/* 제목 바로 아래에 두는 한 줄 부제. 제목의 아래 여백(3.5rem)을 부제가 있을 때만 줄여 둘이 붙어 보이게 한다. */
-.intro-subtitle {
-    font-family: "Gowun Batang", serif;
-    font-size: 1rem;
-    color: #E3A0AC;
-    text-align: center;
-    letter-spacing: 0.04em;
-    margin-bottom: 2.6rem;
-    word-break: keep-all;
-}
-
-.intro-title-cinematic:has(+ .intro-subtitle) {
-    margin-bottom: 1.4rem;
-}
-
 .intro-paragraph {
     font-size: 1.02rem;
     line-height: 1.9;
@@ -387,5 +372,9 @@
     font-size: 0.98rem;
     letter-spacing: -0.01em;
     word-break: keep-all;
+    /* 고운바탕 기본(400)은 획이 가늘어 어두운 모달 위에서 흐리게 읽혔다. 글꼴 분위기는 그대로 두고 색을 진하게 하고
+       0.25px 외곽선으로 획만 살짝 굵게 한다(700으로 올리면 긴 글에서 너무 무거워진다). */
+    color: #3A2519;
+    -webkit-text-stroke: 0.25px #3A2519;
 }
 

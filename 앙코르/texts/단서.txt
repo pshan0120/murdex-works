@@ -7,7 +7,7 @@ StoryID : a02510c3-97f4-4c2f-b437-7126d0654578
 장면 설명에 공통 접두/접미와 강아지·사람 묘사를 조합해 만들었습니다(2026-09-25).
 
 - clueId / variantId / groupId는 실제 DB에 등록된 UUID로 반영 완료되었습니다.
-- 소모AP는 단서당 1(단계당 6개 = AP 6과 1:1). 예외: 1살 3월(구조적, 0 AP, 단계 시작 시 자동 획득).
+- 소모AP는 단서당 1(단계당 6개 = AP 6과 1:1). 예외: 1살 3월(구조적, 0 AP, 단계 시작 시 게임보드에 앞면 공개, 소유 아님).
 - 레퍼런스 이미지는 `works/앙코르_리와인드/images/references/`의 아리 파일을 그대로 재사용합니다
   (새 앙코르 images 폴더로 복사 필요). 1살=ari_age1_medium.jpg, 2살=ari_age2_medium.jpg,
   3살 이상=ari_adult_short.jpg. 강아지가 없는 장면은 레퍼런스 없음.
@@ -32,15 +32,15 @@ groupId : 732353e2-1564-478d-80ae-08e02b1ad6a6
 획득 조건 존재 여부 : N
 획득 조건 내용 : 없음
 시작 표시 상태 : 앞면
-단계 시작시 자동 획득 : Y
+단계 시작시 자동 획득 : N (2026-10-12: 소유가 아니라 단계 시작 때 보드에 앞면으로 공개됨. 공개 가능 여부 Y)
 관련 : 공통
-의도 : 1살 3월 단서. 장면: 이웃 노인이 강아지를 건네줌. (구조적 단서, 0 AP, 단계 시작 시 자동 획득)
+의도 : 1살 3월 단서. 장면: 이웃 노인이 강아지를 건네줌. (구조적 단서, 0 AP, 단계 시작 시 게임보드에 앞면으로 공개)
 내용 :
-이웃 노인이 {dog_name}를(을) 안고 찾아온 건 예고도 없던 일이었다. 요양원에 들어가게 됐다며, 마땅히 맡길 데가 없다고 했다. 몇 마디 인사를 나누고는 서둘러 돌아섰는데, 그 뒷모습이 못내 미안한 듯 자꾸 뒤를 돌아봤다. 개를 키워본 적도, 키우고 싶은 마음도 없었다. 젊어서도 안 하던 일을 이 나이에 왜 해야 하나 싶었다. 아내가 떠난 지 얼마 되지도 않은 집에 무슨 강아지냐고 몇 번을 마다했지만, 결국 품 안에 안겨 있던 작은 것을 떠안고 말았다. 현관에 들어서자마자 낑낑대는 소리가 조용하던 집 안을 채웠다. 아내가 떠난 뒤로 이렇게 시끄러운 적이 없었다.
+이웃 노인이 작은 강아지를 안고 찾아온 건 예고도 없던 일이었다. 아직 이름도 붙여 주지 못한 새끼라고 했다. 요양원에 들어가게 됐다며, 마땅히 맡길 데가 없다고 했다. 몇 마디 인사를 나누고는 서둘러 돌아섰는데, 그 뒷모습이 못내 미안한 듯 자꾸 뒤를 돌아봤다. 개를 키워본 적도, 키우고 싶은 마음도 없었다. 젊어서도 안 하던 일을 이 나이에 왜 해야 하나 싶었다. 아내가 떠난 지 얼마 되지도 않은 집에 무슨 강아지냐고 몇 번을 마다했지만, 결국 품 안에 안겨 있던 작은 것을 떠안고 말았다. 현관에 들어서자마자 낑낑대는 소리가 조용하던 집 안을 채웠다. 아내가 떠난 뒤로 이렇게 시끄러운 적이 없었다. 아내가 앉던 자리 옆에 내려놓고 한참을 들여다보다가 이름을 {dog_name}라고(이라고) 지어 주었다.
 HTML :
 <div class="story-content">
   <div class="document-page type-memo">
-    <div class="document-body">이웃 노인이 {dog_name}를(을) 안고 찾아온 건 예고도 없던 일이었다. 요양원에 들어가게 됐다며, 마땅히 맡길 데가 없다고 했다. 몇 마디 인사를 나누고는 서둘러 돌아섰는데, 그 뒷모습이 못내 미안한 듯 자꾸 뒤를 돌아봤다. 개를 키워본 적도, 키우고 싶은 마음도 없었다. 젊어서도 안 하던 일을 이 나이에 왜 해야 하나 싶었다. 아내가 떠난 지 얼마 되지도 않은 집에 무슨 강아지냐고 몇 번을 마다했지만, 결국 품 안에 안겨 있던 작은 것을 떠안고 말았다. 현관에 들어서자마자 낑낑대는 소리가 조용하던 집 안을 채웠다. 아내가 떠난 뒤로 이렇게 시끄러운 적이 없었다.</div>
+    <div class="document-body">이웃 노인이 작은 강아지를 안고 찾아온 건 예고도 없던 일이었다. 아직 이름도 붙여 주지 못한 새끼라고 했다. 요양원에 들어가게 됐다며, 마땅히 맡길 데가 없다고 했다. 몇 마디 인사를 나누고는 서둘러 돌아섰는데, 그 뒷모습이 못내 미안한 듯 자꾸 뒤를 돌아봤다. 개를 키워본 적도, 키우고 싶은 마음도 없었다. 젊어서도 안 하던 일을 이 나이에 왜 해야 하나 싶었다. 아내가 떠난 지 얼마 되지도 않은 집에 무슨 강아지냐고 몇 번을 마다했지만, 결국 품 안에 안겨 있던 작은 것을 떠안고 말았다. 현관에 들어서자마자 낑낑대는 소리가 조용하던 집 안을 채웠다. 아내가 떠난 뒤로 이렇게 시끄러운 적이 없었다. 아내가 앉던 자리 옆에 내려놓고 한참을 들여다보다가 이름을 {dog_name}라고(이라고) 지어 주었다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic 16:9 watercolor illustration, full bleed edge-to-edge, absolutely NO border NO frame NO margin NO decorative edge, the painting fills the entire canvas completely. Camera positioned at waist height, cropped at chest level, showing only arms, hands, torsos, and legs of two elderly Korean men, their heads and faces are completely above the frame and NOT visible at all. On the left side OUTSIDE the front door, a visiting elderly Korean male neighbor stands on the outdoor concrete porch wearing a dark warm padded jacket and outdoor sneakers, holding out a very tiny trembling Yorkshire Terrier puppy with both hands. The puppy is EXTREMELY TINY, teacup-sized, fits easily in one adult palm, about the size of a coffee mug, only a few months old, much much smaller than an adult Yorkie. On the right side INSIDE the house behind the raised door threshold, the elderly male homeowner stands on the indoor entrance foyer tile floor wearing clean comfortable indoor slippers, dressed in a neat clean beige knit cardigan over a collared shirt, looking tidy and respectable like a retired office worker, reaching out to receive the tiny puppy. There is a clear visible step-up threshold between the outdoor porch and the indoor foyer. The puppy has EARS STANDING STRAIGHT UP in erect pointed V-shape (NOT floppy NOT drooping), shaggy soft black puppy fur with minimal tan accents on legs and cheeks, big glossy round dark eyes, tiny black nose, small white chest patch. A small travel bag on the ground near the visitor's feet. Warm golden interior light spills out through the open wooden front door onto the porch at evening dusk. Background shows a quiet ordinary Korean suburban residential neighborhood. Soft watercolor style, gentle color bleeding, muted pastel palette with cream, dusty pink, soft blue, warm wood tones, thin soft brown outline, warm nostalgic children's picture book aesthetic, gentle diffused lighting. Avoid: large dog, big puppy, floppy ears, drooping ears, folded ears, any border or frame or decorative edge, full body shot showing head, any visible face or head, female homeowner, shabby or ragged clothing, socks outdoors, rural farmhouse, countryside village, mud wall, thatched roof, hanok, bare feet outdoors, realistic, photorealistic, photo, 3D render, other dog breed, chibi, kawaii, apartment building, high-rise, text, watermark, human face.

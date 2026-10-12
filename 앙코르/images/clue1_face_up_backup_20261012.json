@@ -1,0 +1,29 @@
+{
+ "auto_ownership": [
+  {
+   "auto_ownership_id": "e71648b4-465d-48bd-8a56-62bd1b63f344",
+   "clue_id": "78dcd4f9-a5b8-4b43-89fe-d6b71a5d756e",
+   "trigger_step_id": "2355c97b-6051-430c-9a5a-a647babb403c",
+   "target_role_id": "1676b6b0-c872-4b30-a830-8a3ab0bf62e2",
+   "created_at": "2026-09-25 21:42:49",
+   "updated_at": "2026-09-25 21:42:49"
+  }
+ ],
+ "display_rule": [
+  {
+   "rule_id": "c70ecafc-2970-45f5-b7f5-4f740cc6f1a7",
+   "clue_id": "78dcd4f9-a5b8-4b43-89fe-d6b71a5d756e",
+   "trigger_step_id": "2355c97b-6051-430c-9a5a-a647babb403c",
+   "target_display_state": "VISIBLE_BACK",
+   "variant_id": null,
+   "created_at": "2026-09-25 21:42:49",
+   "updated_at": "2026-09-25 21:42:49"
+  }
+ ],
+ "clue": {
+  "clue_id": "78dcd4f9-a5b8-4b43-89fe-d6b71a5d756e",
+  "is_revealable": 0,
+  "is_acquirable": 1,
+  "ap_cost": 0
+ }
+}

@@ -29,3 +29,13 @@
 10. 집 안의 모든 소리가 사라진 것 같았다. 그 적막 속에서, 하루하루를 그저 흘려보냈다.
 
 이 몽타주 직후, 이웃이 강아지를 맡기고 가는 장면(1단계 3월 단서) → 이름 짓기 질문({dog_name}, 기본값 "해피")으로 이어짐.
+
+[역할 프로필 이미지 프롬프트 (2026-10-12, 66세 기준으로 수정)]
+리와인드의 프로필 이미지(젊은 사람이 강아지를 안은 상반신, 얼굴 없음, 흰 배경)를 노인으로 고친다. 구도·강아지·화풍은 그대로.
+시작 나이(66세)로 보이게 한다. 처음 "약 일흔, 앙상한 손, 깊은 주름"으로 요청했더니 너무 늙어 보여서 낮췄다(손은 아직 단단하고 주름은 옅게).
+
+A) 수정용 (기존 프로필 이미지를 첨부해서 사용, 권장):
+Keep the exact same composition, the same Yorkshire Terrier, the same watercolor style and the plain white background. Change only the person holding the dog into a Korean man of sixty-six, who looks healthy and gently aged, clearly older than the original but not frail: sturdy forearms of normal build, slightly weathered hands with a few faint veins and light fine lines on the backs of the hands, no deep wrinkles, a little loose skin at the neck. Replace the cream sweater with a simple muted olive-brown knit cardigan over a plain pale collared shirt, neatly fitted, only slightly worn. His face stays out of the picture: the frame ends just under his chin, as in the original. He holds the dog gently and securely with both arms.
+
+B) 처음부터 생성용 (레퍼런스: ari_adult_short.jpg):
+Square 1:1 watercolor portrait illustration on a plain white background. A healthy Korean man of sixty-six, seen from the neck down, cradling a small adult Yorkshire Terrier against his chest with both arms (matching the ari_adult_short.jpg reference: erect V-shaped ears, silvery-blue and tan coat, round dark eyes, small black nose). His hands are sturdy and slightly weathered, with a few faint veins and light fine lines, not frail. He wears a simple muted olive-brown knit cardigan over a pale collared shirt. The frame ends just under his chin. Soft watercolor style, gentle washes, thin soft brown outline, muted pastel palette, warm and tender mood. No text.
