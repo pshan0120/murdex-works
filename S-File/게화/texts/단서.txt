@@ -133,10 +133,10 @@ groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
 관련 : 베일라
 의도 : 이 단계의 핵심 발견 — 한 남자가 죽어 있다는 것. 이 남자가 장총에 이름이 새겨진 "월터"인지는 텍스트로 말하지 않고 플레이어가 장총 단서와 연결해 추리하게 한다("월터로 보이는" 같은 추정형도 쓰지 않는다). 실제로는 잠든 채 질식사했으므로(7-1 "복수의 방식" 참고) 평온한 모습으로 쓰지 않는다. 몸싸움(저항)의 흔적은 없지만 질식 자체의 괴로운 흔적은 남아 있게 쓴다. 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 월터에게는 남기지 않는다. 15세 등급에 맞춰 신체 묘사는 암시적으로만 처리(10장 참고) — 색 변화나 체액 등 직접적인 묘사는 쓰지 않는다.
 내용 :
-안쪽 방, 한 남자가 침대에 쓰러져 있다. 이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.
+안쪽 방, 한 남자가 침대 위에서 숨져 있다. 이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">안쪽 방, 한 남자가 침대에 쓰러져 있다.</div>
+  <div class="script-direction">안쪽 방, 한 남자가 침대 위에서 숨져 있다.</div>
   <div>이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with fishing nets hung in the yard, a working fisherman's home with boots, rope and tools around. Subject: A bedroom seen from the foot of the bed in dim light: a thin man lying on the bed with one hand clenched around the blanket, head tilted back, mouth slightly open, the bedding undisturbed, no sign of a struggle. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -239,8 +239,8 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 내용 :
 소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 8월 말로 찍혀 있다.
 
-[크래비스 해양생태 관측소 월간 연구 진행 보고]
-보고자: 션 마이어스 (소장)
+[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]
+보고자: 션 마이어스
 보고 기간: 2031년 8월
 
 1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.
@@ -251,7 +251,7 @@ HTML :
   <div class="script-direction">소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 8월 말로 찍혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[크래비스 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span> (소장)<br />보고 기간: 2031년 8월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.<br />3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
+    <div class="document-body small">[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span><br />보고 기간: 2031년 8월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.<br />3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A single typed report page lying unsent on an orderly director's desk, a date stamp in the corner, plain official formatting with unreadable text, a desk lamp and a coffee mug. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -312,11 +312,11 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 관련 : 마커스
 의도 : 1차 통화 핵심 물증 — "에드거"라는 이름이 베일라에게 전달돼 2단계 서랍 코드가 된다(8-2 참고). 성("홀트")은 적지 않는다. 마커스는 "에드거"만, 베일라는 "홀트"(1단계 가족사진 글귀)만 알아야 서로 코드를 주고받는 통화가 성립한다. 거래가 끊겼다는 설정은 없음 — 꾸준히 지속돼온 거래로만 쓴다.
 내용 :
-장부 한 권. 몇 년째 달마다 "에드거"라는 이름 앞으로 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다.
+장부 한 권. 몇 년째 달마다 갑각류 표본을 사들인 내역이 빼곡히 적혀 있고, 거래처는 매번 "에드거"라고 되어 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">장부 한 권이 있다.</div>
-  <div>몇 년째 달마다 "<span class="emphasis">에드거</span>"라는 이름 앞으로 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다.</div>
+  <div>몇 년째 달마다 갑각류 표본을 사들인 내역이 빼곡히 적혀 있고, 거래처는 매번 "<span class="emphasis">에드거</span>"라고 되어 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A thick bound ledger open on a desk, neat columns of repeating monthly entries, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 연구시설 - 일반 구역
@@ -377,13 +377,13 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 관련 : 마커스
 의도 : 이름표 대신 이 사진 하나로 "연구원이 누구누구 있었는지", "클로이가 신입이고 이 날짜에 환영받았다는 것"을 추론하게 하는 물증. 포즈 순서와 뒷면 이름 순서를 왼쪽부터 나란히 대응시켜, 술병을 든 사람이 오웬이고 긴 머리의 오른쪽 끝 사람이 클로이라는 걸 플레이어가 직접 짝지어 추론하게 한다 — 연구시설#6의 빈 술병과 연결되고, 3단계 통제 구역 복도의 긴 머리카락과도 이어지므로 클로이는 이 팀의 유일한 여성이자 장발이어야 한다. 네 사람 모두 친해 보인다는 인상만 주고, 이후 벌어진 일과의 대비는 텍스트로 설명하지 않는다.
 내용 :
-휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 술병을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
+휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 남자는 옆 사람 어깨에 팔을 두르고 있고, 그 옆 남자는 한 손에 술병을 들어 보이고 있다. 세 번째 남자는 브이 자를 그리고 있고, 맨 오른쪽 여자는 긴 머리를 어깨 뒤로 넘기고 웃고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
 
 "클로이를 환영하며. 션, 오웬, 앨런. 2031. 4."
 HTML :
 <div class="story-content">
   <div class="script-direction">휴게실 벽에 걸린 사진 액자. 네 사람이 나란히 서서 포즈를 취하고 있다.</div>
-  <div>맨 왼쪽 사람은 옆 사람 어깨에 팔을 두르고 있고, 그 옆 사람은 한 손에 <span class="emphasis">술병</span>을 들어 보이고 있다. 세 번째 사람은 브이 자를 그리고 있고, 맨 오른쪽 사람은 긴 머리를 어깨 뒤로 넘기고 웃고 있다.</div>
+  <div>맨 왼쪽 남자는 옆 사람 어깨에 팔을 두르고 있고, 그 옆 남자는 한 손에 <span class="emphasis">술병</span>을 들어 보이고 있다. 세 번째 남자는 브이 자를 그리고 있고, 맨 오른쪽 여자는 긴 머리를 어깨 뒤로 넘기고 웃고 있다.</div>
   <div>액자를 들어보니 뒷면에 짧은 글씨가 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
@@ -489,10 +489,10 @@ groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
 관련 : 베일라
 의도 : 1번째 희생자. 자다가 질식했으므로 저항·몸싸움의 흔적이 없다. 시신에서는 이름을 확정하지 않고 "사진 속 노인과 같은 손등의 화상 자국"이라는 관찰만 겹치게 둔다. 비워진 지 가장 오래됐다는 인상은 탁한 공기로만 전한다.
 내용 :
-안방 침대 위에 마른 노인이 반듯하게 누워 있다. 이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.
+안방 침대 위에 마른 노인의 시신이 반듯하게 누워 있다. 이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">안방 침대 위에 마른 노인이 반듯하게 누워 있다.</div>
+  <div class="script-direction">안방 침대 위에 마른 노인의 시신이 반듯하게 누워 있다.</div>
   <div>이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 <span class="emphasis">화상 자국</span>이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with lobster traps stacked in the yard, an older man's neat, plain home with a few framed snapshots on the walls. Subject: A bedroom seen from the foot of the bed in dim light: a thin elderly man lying straight with the blanket pulled up to his neck, one hand outside the sheet clenched, an old burn scar on its back, mouth open, stale heavy air, no sign of a struggle. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -519,14 +519,16 @@ groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 일곱 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사("프랭크 모란" 등)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다.
+의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 종이는 밀수 조직 시절 수뇌부 일곱 명이 서로를 팔지 않겠다고 서명한 서약서다(이름마다 필체가 다르다는 것으로 서명임을 전한다). 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사("프랭크 모란" 등)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다.
 질문 HTML :
 <div class="story-content">
   <div>침실 한쪽 서랍에 자물쇠가 달려 있다.</div>
   <div>암호를 입력해야 열릴 것 같다.</div>
 </div>
 내용 :
-잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다. 이름 일곱 개가 세로로 적혀 있다.
+잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다. 맨 위에 한 줄이 적혀 있고, 그 아래로 필체가 제각각인 이름이 줄줄이 이어진다.
+
+"우리는 서로를 팔지 않는다."
 
 프랭크 모란
 레너드 크로스
@@ -537,10 +539,10 @@ groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
 로니 헤이즈
 HTML :
 <div class="story-content">
-  <div class="script-direction">잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다.</div>
+  <div class="script-direction">잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다. 맨 위에 한 줄이 적혀 있고, 그 아래로 필체가 제각각인 이름이 줄줄이 이어진다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small"><span class="emphasis">프랭크 모란</span><br /><span class="emphasis">레너드 크로스</span><br /><span class="emphasis">마이클 번스</span><br /><span class="emphasis">패트리샤 번스</span><br /><span class="emphasis">지미 쇼</span><br /><span class="emphasis">데비 쇼</span><br /><span class="emphasis">로니 헤이즈</span></div>
+    <div class="document-body small">우리는 서로를 팔지 않는다.<br /><br /><span class="emphasis">프랭크 모란</span><br /><span class="emphasis">레너드 크로스</span><br /><span class="emphasis">마이클 번스</span><br /><span class="emphasis">패트리샤 번스</span><br /><span class="emphasis">지미 쇼</span><br /><span class="emphasis">데비 쇼</span><br /><span class="emphasis">로니 헤이즈</span></div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with lobster traps stacked in the yard, an older man's neat, plain home with a few framed snapshots on the walls. Subject: Close-up of a yellowed sheet of paper lying flat by itself on the wooden top of a dresser, seven names handwritten in a vertical column that cannot be read, worn creases and old fold lines; a pulled-out empty drawer is blurred beside it. No hands and no people anywhere in the frame. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -569,10 +571,10 @@ groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
 관련 : 베일라
 의도 : 이 집에서 먼저 당한 사람(톰). 앞선 두 사람과 같은 방식으로 자다가 질식했으므로 저항 흔적이 없다. 다만 옆자리 이불이 걷어젖혀진 채 비어 있어 "함께 자던 다른 사람이 깨어나 일어났다"는 것만 관찰로 남긴다 — 이 사람이 누구인지는 쓰지 않는다. 3·4번째 희생자가 같은 날 같은 집에서 죽었다는 설정의 첫 단서.
 내용 :
-안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 누워 있다. 입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.
+안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 죽어 있다. 입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 누워 있다.</div>
+  <div class="script-direction">안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 죽어 있다.</div>
   <div>입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A married couple's tidy home with laundry still hanging in the yard outside the window. Subject: A bedroom seen from the foot of the bed: a sturdy man lying on a double bed, half slid off the pillow, mouth open, no sign of a struggle, the blanket on the empty side thrown back. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -601,12 +603,12 @@ groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
 관련 : 베일라
 의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 "접힌 종이를 펼치니 무한대 기호가 보인다"고만 쓰고, 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다.
 내용 :
-거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다. 한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
+거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다. 한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
 
 펼쳐 보니 무한대 기호가 보인다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자가 엎드려 쓰러져 있다.</div>
+  <div class="script-direction">거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다.</div>
   <div>한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
@@ -722,10 +724,10 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 관련 : 마커스
 의도 : 급속 노화로 죽은 연구원(앨런 보이드)의 시신. 이름은 연구복의 이름 자수 "A. Boyd"로만 알리고, 사진 뒷면의 "앨런"과 이니셜 "A."로 플레이어가 추리한다 — 신분증 사진 같은 장치는 급속 노화가 너무 일찍 풀려서 쓰지 않는다. "극도로 늙었다"는 사실만 보여주고 왜 그런지는 설명하지 않는다. 외상이 없다는 것과 연구복이 몸에 비해 헐렁하다는 것까지만 관찰로 남긴다. 15세 등급에 맞춰 암시적으로만 처리(10장). 마커스가 베일라에게 넘길 코드 "앨런"의 출처다.
 내용 :
-복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다. 얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.
+복도 벽에 기대어 연구복을 입은 노인이 숨이 끊긴 채 쓰러져 있다. 얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "A. Boyd"라는 이름이 수놓여 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">복도 벽에 기대어 연구복을 입은 노인이 쓰러져 있다.</div>
+  <div class="script-direction">복도 벽에 기대어 연구복을 입은 노인이 숨이 끊긴 채 쓰러져 있다.</div>
   <div>얼굴에는 깊은 주름이 패여 있고 머리는 완전히 하얗게 셌다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "<span class="emphasis">A. Boyd</span>"라는 이름이 수놓여 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A pale institutional corridor: an extremely aged person with thin white hair and deeply wrinkled skin, wearing an oversized, loose white lab coat, slumped against the wall, no wounds, an unreadable embroidered patch on the chest. The face is in shadow. Nothing graphic. Fully dressed under the lab coat: a collared shirt, long dark trousers and sturdy shoes; legs and feet are covered, no bare legs and no bare feet. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -827,8 +829,8 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 내용 :
 서랍 안에 "정기 진행 보고"라는 서류철이 있다. 9월부터 이듬해 2월까지 여섯 달치 보고서가 이미 작성되어 있다.
 
-[크래비스 해양생태 관측소 월간 연구 진행 보고]
-보고자: 션 마이어스 (소장)
+[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]
+보고자: 션 마이어스
 보고 기간: 2031년 9월
 
 1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.
@@ -841,7 +843,7 @@ HTML :
   <div class="script-direction">서랍 안에 "정기 진행 보고"라는 서류철이 있다. 9월부터 이듬해 2월까지 여섯 달치 보고서가 이미 작성되어 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[크래비스 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span> (소장)<br />보고 기간: 2031년 9월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.<br />3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
+    <div class="document-body small">[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span><br />보고 기간: 2031년 9월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집 표본을 대상으로 압력 테스트를 지속 중이나, 유의미한 수치 변화는 아직 관찰되지 않음.<br />3. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
   </div>
   <div>넘겨 보니 나머지 다섯 달치도 보고 기간만 다를 뿐 문장이 같다.</div>
 </div>
@@ -878,7 +880,7 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 내용 :
 단말기에서 "홀트" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.
 
-공급처: 홀트 (크래비스 섬)
+공급처: 홀트 수산
 대표: 에드거
 품목: 갑각류 표본
 신원 조회 결과: 일치하는 기록 없음
@@ -887,7 +889,7 @@ HTML :
   <div class="script-direction">단말기에서 "<span class="emphasis">홀트</span>" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">공급처: <span class="emphasis">홀트</span> (크래비스 섬)<br />대표: <span class="emphasis">에드거</span><br />품목: 갑각류 표본<br />신원 조회 결과: <span class="emphasis">일치하는 기록 없음</span></div>
+    <div class="document-body small">공급처: <span class="emphasis">홀트</span> 수산<br />대표: <span class="emphasis">에드거</span><br />품목: 갑각류 표본<br />신원 조회 결과: <span class="emphasis">일치하는 기록 없음</span></div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A thin flat-panel monitor on a laboratory office desk showing a plain database record page with one highlighted row and folder icons, a clean sans-serif interface too small to read, cool white glow. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -924,10 +926,10 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 관련 : 베일라
 의도 : 4번째 날(9/4)의 희생자. 앞선 희생자들과 달리 깨어 있다가 저항하며 죽었다 — 여자(노라)가 먼저 뒤에서 목이 졸렸고, 달려온 남자(레이)가 갈고리로 맞섰으나 여러 곳을 붙잡혀 질식했다. 가장 최근에 죽은 사람들이라 원형의 멍 자국이 남아 있다. 누가 누구인지, 어떻게 침입했는지는 텍스트로 말하지 않는다.
 내용 :
-식탁 옆 바닥에 여자가 쓰러져 있고, 그 옆에 남자가 쓰러져 있다. 식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 팔과 목에도 작은 원형의 멍 자국이 여러 군데 나 있고, 한 손에는 갈고리를 쥐고 있다.
+식탁 옆 바닥에 여자의 시신이 있고, 그 옆에 남자도 숨져 있다. 식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 팔과 목에도 작은 원형의 멍 자국이 여러 군데 나 있고, 한 손에는 갈고리를 쥐고 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">식탁 옆 바닥에 여자가 쓰러져 있고, 그 옆에 남자가 쓰러져 있다.</div>
+  <div class="script-direction">식탁 옆 바닥에 여자의 시신이 있고, 그 옆에 남자도 숨져 있다.</div>
   <div>식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 팔과 목에도 작은 원형의 멍 자국이 여러 군데 나 있고, 한 손에는 갈고리를 쥐고 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A kitchen floor in disarray: a woman and a man lying side by side, a toppled table and chair, broken cups scattered, small round bruise marks on their necks and on the man's forearms, a fishing gaff in the man's hand. Faces are not shown, no blood, nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -1066,11 +1068,11 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 관련 : 베일라
 의도 : 마을과 연구시설 사이에 접점이 있었다는 것(정보 6). 레이가 연구소에 갑각류를 납품했고 수령인이 "A. Boyd"라는 사실만 전한다 — 마커스가 연구 구역 시신의 이름 자수 "A. Boyd"로 추리한 앨런과 베일라 쪽에서 서로 확인되는 고리이며, 다음 단서(케이스)의 암호 "앨런"으로 이어지는 근거가 된다.
 내용 :
-서랍 안에 수령증 철이 있다. "크래비스 해양생태 관측소"라고 인쇄된 수령증마다 납품자란에는 "레이", 수령인 서명란에는 "A. Boyd"라고 적혀 있다.
+서랍 안에 수령증 철이 있다. "메릴 카운티 해양생태 관측소"라고 인쇄된 수령증마다 납품자란에는 "레이", 수령인 서명란에는 "A. Boyd"라고 적혀 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">서랍 안에 수령증 철이 있다.</div>
-  <div>"크래비스 해양생태 관측소"라고 인쇄된 수령증마다 납품자란에는 "<span class="emphasis">레이</span>", 수령인 서명란에는 "<span class="emphasis">A. Boyd</span>"라고 적혀 있다.</div>
+  <div>"메릴 카운티 해양생태 관측소"라고 인쇄된 수령증마다 납품자란에는 "<span class="emphasis">레이</span>", 수령인 서명란에는 "<span class="emphasis">A. Boyd</span>"라고 적혀 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A binder of printed delivery receipts open on a kitchen table, each sheet with a signature line, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
@@ -1099,7 +1101,7 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 의도 : 보너스(진행과 무관). 레이가 연구소에 갑각류를 나르던 표본 운반 케이스 — 앨런이 장비를 지급하며 기본 암호를 자기 이름으로 해뒀고 레이는 바꾸지 않았다. 레이는 잠글 수 있는 유일한 상자라 개인 소지품과 함께 죄책감 때문에 몰래 모아둔 옛 신문 스크랩 두 장을 넣어뒀다(스크랩만 들어 있으면 연구시설이 넣어 보낸 것으로 오해할 수 있어 잡동사니 속에 끼어 있는 걸로 쓴다). 열면 정보 1·2·3(모란 일당의 정체, 에드거의 손등 화상, 아서 콜린스의 실종)이 한꺼번에 이어진다 — 에드거 서랍의 일곱 이름이 수배 명단과 같고, 손등 화상이 에드거의 시신·사진과 맞는다. 수배 명단은 가명↔실명 짝짓기의 소거 재료다: 성이 같으면 부부(마이클·패트리샤 번스, 지미·데비 쇼)이고 성이 다르면 독신(프랭크 모란, 레너드 크로스, 로니 헤이즈)이다. 마을도 부부가 사는 집이 둘(톰·그레이스, 레이·노라)이고 독신이 에드거·월터·샘이다. "두목 + 손등 화상 = 에드거(프랭크 모란)", 쪽지의 "두목과 레너드가 죽었다" = 에드거·월터(레너드 크로스)로 소거하면 남는 로니 헤이즈가 마지막 집 주인이다. 사진 속 얼굴이 마을 사람과 닮았다는 식의 해석은 텍스트로 쓰지 않는다.
 질문 HTML :
 <div class="story-content">
-  <div>식탁 아래에 뚜껑이 달린 케이스가 놓여 있다. "크래비스 해양생태 관측소 / 관리: A. Boyd"라고 적힌 라벨이 붙어 있다.</div>
+  <div>식탁 아래에 뚜껑이 달린 케이스가 놓여 있다. "메릴 카운티 해양생태 관측소 / 관리: A. Boyd"라고 적힌 라벨이 붙어 있다.</div>
   <div>뚜껑에는 글자 자물쇠가 달려 있다. 암호를 입력해야 열릴 것 같다.</div>
 </div>
 내용 :
@@ -1240,10 +1242,10 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 관련 : 마커스
 의도 : 클로이의 시신(급속 노화). 2단계 앨런과 같은 방식으로 이름 자수 "C. Ryan"과 하얗게 센 긴 머리로 신원을 알려, 1단계 사진의 긴 머리 여성과 복도의 긴 머리카락(#1)이 이어지게 한다. 클로이는 통제 구역을 조사하다 비밀 구역이 있다는 것까지 알아냈으나 들어가는 법은 알아내지 못했다 — 이 시신 단서를 얻으면 뒷면 단서 1개(통제 구역#7 연구복 주머니의 쪽지 "ution")가 AP 없이 추가로 배치된다. 15세 등급에 맞춰 암시적으로만 처리(10장).
 내용 :
-복도 끝 벽 앞 바닥에 연구복을 입은 노인이 엎드려 있다. 긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "C. Ryan"이라는 이름이 수놓여 있다.
+복도 끝 벽 앞 바닥에 연구복을 입은 노인이 숨이 멎은 채 엎드려 있다. 긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "C. Ryan"이라는 이름이 수놓여 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">복도 끝 벽 앞 바닥에 연구복을 입은 노인이 엎드려 있다.</div>
+  <div class="script-direction">복도 끝 벽 앞 바닥에 연구복을 입은 노인이 숨이 멎은 채 엎드려 있다.</div>
   <div>긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "<span class="emphasis">C. Ryan</span>"이라는 이름이 수놓여 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: The floor just inside a heavy steel door: an extremely aged person with long white hair lying face down in a loose lab coat, no wounds, an unreadable embroidered patch on the chest. The face is hidden. Nothing graphic. Fully dressed under the lab coat: a blouse, long dark trousers and flat shoes; legs and feet are covered, no bare legs and no bare feet. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -1316,7 +1318,7 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 책상 위에 공문 한 장이 놓여 있다.
 
 [연구 활동 중단 명령]
-수신: 크래비스 해양생태 관측소 소장 션 마이어스
+수신: 메릴 카운티 해양생태 관측소 소장 션 마이어스
 발신: 해양생태 관리부 감사국
 귀 시설에서 승인 범위를 벗어난 연구 활동이 확인되었으므로, 모든 비인가 실험을 즉시 중단하고 관련 시료와 기록을 보존할 것을 명령한다.
 2031년 8월 30일
@@ -1325,7 +1327,7 @@ HTML :
   <div class="script-direction">책상 위에 공문 한 장이 놓여 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[연구 활동 중단 명령]<br />수신: 크래비스 해양생태 관측소 소장 <span class="emphasis">션 마이어스</span><br />발신: 해양생태 관리부 감사국<br />귀 시설에서 승인 범위를 벗어난 연구 활동이 확인되었으므로, 모든 비인가 실험을 즉시 중단하고 관련 시료와 기록을 보존할 것을 명령한다.<br />2031년 8월 30일</div>
+    <div class="document-body small">[연구 활동 중단 명령]<br />수신: 메릴 카운티 해양생태 관측소 소장 <span class="emphasis">션 마이어스</span><br />발신: 해양생태 관리부 감사국<br />귀 시설에서 승인 범위를 벗어난 연구 활동이 확인되었으므로, 모든 비인가 실험을 즉시 중단하고 관련 시료와 기록을 보존할 것을 명령한다.<br />2031년 8월 30일</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: A single formal official letter on a metal desk, a stamped heading, a short order paragraph and a date at the bottom, unreadable, an official stamp beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -1498,11 +1500,11 @@ groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
 관련 : 베일라
 의도 : 마지막 희생자(9/6 새벽). 일곱 번째 시신이라 앞선 여섯 구와 합쳐 전원 사망이 확인된다. 벽장에서 끌려 나와 부엌 구석의 문을 향해 도망치다 그 앞에서 붙잡혀 쓰러진 모양이다. 목의 졸린 자국과 작은 원형의 멍 자국이 여러 군데 있어 여러 곳을 동시에 붙잡힌 흔적이다(문어·흡판이라는 말은 쓰지 않는다). 십자가를 쥐고 있어 이 사람이 무엇을 믿고 있었는지만 보여주고, 유령이라고 믿었다는 해석은 쓰지 않는다. 시신이 구석의 문 앞을 막고 있다는 사실만 쓰고 문의 자물쇠는 보조 단서(#7)에서 보이게 한다. 이름 라벨은 쓰지 않는다. 15세 등급에 맞춰 암시적으로만 처리(10장). 몸 둘레 바닥의 끈적한 물기는 40번 이후 단서(싱크대, 벽장, 배수관)의 물기와 이어지는 관찰 사실이다. 어디서 왔는지는 쓰지 않는다.
 내용 :
-부엌 바닥에 남자가 엎드린 채 쓰러져 있다.
+부엌 바닥에 남자의 시신이 엎드려 있다.
 한 손은 구석에 있는 문을 향해 뻗어 있고, 다른 손에는 나무 십자가를 쥐고 있다. 목에는 졸린 자국이 있고, 그 둘레와 팔에는 작은 원형의 멍 자국이 여러 군데 나 있다. 몸 둘레의 바닥에는 끈적한 물기가 아직 마르지 않은 채 남아 있다. 남자의 몸이 그 문 앞을 막고 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">부엌 바닥에 남자가 엎드린 채 쓰러져 있다.</div>
+  <div class="script-direction">부엌 바닥에 남자의 시신이 엎드려 있다.</div>
   <div>한 손은 구석에 있는 문을 향해 뻗어 있고, 다른 손에는 나무 십자가를 쥐고 있다. 목에는 졸린 자국이 있고, 그 둘레와 팔에는 작은 원형의 멍 자국이 여러 군데 나 있다. 몸 둘레의 바닥에는 끈적한 물기가 아직 마르지 않은 채 남아 있다. 남자의 몸이 그 문 앞을 막고 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, very low light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small windows, every one of them sealed tight from the inside with fresh unpainted wooden planks laid edge to edge with no gaps, reinforced by crossed battens and rows of nails, so that no glass is visible at all, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the room is nearly pitch dark, with only a faint gray seep of light around the edges of the sealed windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The highest house on the island, boarded up like a fortress: every window is sealed tight with fresh wooden planks laid edge to edge across the whole frame, no glass visible and no gaps between the planks, with strips of cloth and tape stuffed around the frames, so almost no daylight gets in. The interior is very dark and gloomy, with only a faint gray seep of light around the window edges, no lamps on. No light shines through between the planks: from inside, each window looks like a solid wooden wall, with at most a very faint gray outline around the frame. Furniture is pushed and stacked. Subject: A man lying face down on a kitchen floor in front of a closed wooden door in the corner, one arm stretched toward the door, a small wooden cross in his other hand, faint round bruise marks on his neck and arm, heavy furniture around the room. His face is not shown. Around and beneath his body there are broad blotchy dark wet patches and smeared drag marks on the floorboards where moisture has not yet dried, and a few damp dark spots on the back of his clothes; render it as wet wood and damp cloth, much darker than the dry floor around it, with only small dim highlights, never white, pale, foamy or flowing. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -1750,11 +1752,11 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 관련 : 마커스
 의도 : 마이어스의 시신. 연구원 넷의 행방이 모두 정리된다(앨런, 클로이, 마이어스는 사망, 오웬은 생존). 2단계 앨런, 3단계 클로이와 같은 방식으로 연구복의 이름 자수로 신원을 알린다. 건배 후 일을 보다가 쓰러졌다는 것은 쓰지 않는다. 의자에 앉은 채 책상 위로 엎드려 있다는 것만 보여준다(쓰러진 자세 외에 무엇을 하던 중이었는지는 쓰지 않는다). 15세 등급에 맞춰 암시적으로만 처리(10장).
 내용 :
-책상 위로 엎드린 채 연구복을 입은 노인이 쓰러져 있다.
+책상 위에 엎드린 채 연구복을 입은 노인이 숨져 있다.
 듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "S. Meyers"라는 이름이 수놓여 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">책상 위로 엎드린 채 연구복을 입은 노인이 쓰러져 있다.</div>
+  <div class="script-direction">책상 위에 엎드린 채 연구복을 입은 노인이 숨져 있다.</div>
   <div>듬성듬성 남은 머리카락은 하얗고, 얼굴과 손등의 피부는 깊은 주름으로 처져 있다. 외상이나 피 흔적은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "<span class="emphasis">S. Meyers</span>"라는 이름이 수놓여 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: An aged person with sparse white hair, in an oversized loose lab coat, sitting in an office chair at a desk and slumped forward, the upper body and head resting on the desk with the head turned away on one folded arm, the other arm hanging down beside the chair, no wounds, an unreadable embroidered patch on the chest. Seen from the side at a moderate distance in natural, realistic body proportions. The face is hidden. Nothing graphic. Fully dressed under the lab coat: a collared shirt, long dark trousers and shoes; legs and feet are covered, no bare legs and no bare feet. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
