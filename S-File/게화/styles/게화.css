@@ -673,3 +673,203 @@
         border-left: none;
     }
 }
+
+/* ============================================================
+   신문 스크랩 (뒤집힌 보트 집#6 등)
+   ============================================================ */
+.story-content .news-clip {
+    position: relative;
+    margin: 1.2rem 0;
+    padding: 1rem 1.15rem 1.1rem;
+    background:
+        radial-gradient(ellipse at 20% 15%, rgba(120, 90, 40, 0.16), transparent 55%),
+        radial-gradient(ellipse at 85% 90%, rgba(100, 70, 30, 0.2), transparent 50%),
+        linear-gradient(180deg, #d8ccaa 0%, #cdbf9a 100%);
+    color: #2a2822;
+    font-family: "Noto Serif KR", "Nanum Myeongjo", "Batang", serif;
+    line-height: 1.7;
+    border: 1px solid rgba(110, 90, 55, 0.55);
+    box-shadow: inset 0 0 22px rgba(90, 65, 30, 0.35), 0 4px 12px rgba(0, 0, 0, 0.45);
+    clip-path: polygon(0 3px, 6% 0, 13% 4px, 22% 1px, 31% 4px, 42% 0, 53% 3px, 64% 1px, 75% 4px, 86% 0, 94% 3px, 100% 1px,
+        100% calc(100% - 3px), 92% 100%, 80% calc(100% - 4px), 66% calc(100% - 1px), 52% calc(100% - 4px), 38% 100%, 24% calc(100% - 3px), 12% calc(100% - 1px), 0 calc(100% - 4px));
+}
+
+.story-content .news-clip .news-masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0 0.6rem;
+    padding-bottom: 0.35rem;
+    margin-bottom: 0.7rem;
+    border-bottom: 3px double rgba(42, 40, 34, 0.7);
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    color: rgba(42, 40, 34, 0.75);
+}
+
+.story-content .news-clip .news-masthead span:first-child {
+    font-size: 0.88rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #2a2822;
+}
+
+.story-content .news-clip .news-headline {
+    margin: 0.2rem 0 0.7rem;
+    font-size: 1.28rem;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: -0.01em;
+    color: #1d1b17;
+    word-break: keep-all;
+}
+
+.story-content .news-clip .news-text {
+    margin: 0 0 0.6rem;
+    font-size: 0.9rem;
+    text-align: justify;
+    text-indent: 0.9em;
+    word-break: keep-all;
+    color: #2a2822;
+}
+
+.story-content .news-clip .news-text:last-child {
+    margin-bottom: 0;
+}
+
+/* 신문 안의 강조는 형광펜처럼 표시한다(어두운 배경용 주황 밑줄을 쓰지 않는다) */
+.story-content .news-clip .emphasis {
+    color: #1d1b17;
+    font-weight: 800;
+    text-decoration: none;
+    background: linear-gradient(transparent 55%, rgba(205, 120, 40, 0.42) 55%);
+    padding: 0 0.1em;
+    white-space: nowrap;
+}
+
+/* 광고란(사람을 찾습니다) */
+.story-content .news-clip .news-notice-box {
+    padding: 0.9rem 1rem;
+    border: 2px solid rgba(42, 40, 34, 0.75);
+    outline: 1px solid rgba(42, 40, 34, 0.55);
+    outline-offset: 3px;
+    text-align: center;
+}
+
+.story-content .news-clip .news-notice-title {
+    font-size: 1.35rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    color: #1d1b17;
+}
+
+.story-content .news-clip .news-notice-name {
+    margin: 0.5rem 0 0.6rem;
+    font-size: 1.15rem;
+    font-weight: 800;
+}
+
+.story-content .news-clip .news-notice-box .news-text {
+    text-indent: 0;
+    text-align: center;
+}
+
+.story-content .news-clip .news-notice-sign {
+    margin-top: 0.7rem;
+    text-align: right;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: rgba(42, 40, 34, 0.85);
+}
+
+/* ============================================================
+   조업 일정표 (뒤집힌 보트 집#3)
+   ============================================================ */
+.story-content .schedule-sheet {
+    position: relative;
+    margin: 1.4rem 0 1.2rem;
+    padding: 1.5rem 1rem 1rem;
+    background:
+        repeating-linear-gradient(180deg, transparent 0, transparent 27px, rgba(70, 90, 120, 0.1) 27px, rgba(70, 90, 120, 0.1) 28px),
+        linear-gradient(180deg, #e9e5d8 0%, #dcd6c3 100%);
+    color: #23262b;
+    font-family: "Noto Sans KR", sans-serif;
+    border: 1px solid rgba(110, 105, 85, 0.6);
+    box-shadow: inset 0 0 18px rgba(90, 80, 50, 0.22), 0 4px 12px rgba(0, 0, 0, 0.45);
+    transform: rotate(-0.6deg);
+}
+
+/* 압정 */
+.story-content .schedule-sheet::before {
+    content: "";
+    position: absolute;
+    top: -7px;
+    left: 50%;
+    width: 14px;
+    height: 14px;
+    margin-left: -7px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 30%, #f08a7a 0%, #b53a2e 55%, #7a1f18 100%);
+    box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);
+}
+
+.story-content .schedule-sheet .schedule-title {
+    margin-bottom: 0.7rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid rgba(35, 38, 43, 0.75);
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 900;
+    letter-spacing: 0.14em;
+    color: #1b1d21;
+}
+
+.story-content .schedule-sheet table.schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 0.92rem;
+    background: rgba(255, 255, 255, 0.22);
+}
+
+.story-content .schedule-sheet .schedule-table th,
+.story-content .schedule-sheet .schedule-table td {
+    padding: 0.5rem 0.55rem;
+    border: 1px solid rgba(35, 38, 43, 0.55);
+    text-align: center;
+    vertical-align: middle;
+    color: #23262b;
+    background: none;
+}
+
+.story-content .schedule-sheet .schedule-table th {
+    background: rgba(60, 80, 110, 0.18);
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    font-size: 0.82rem;
+}
+
+.story-content .schedule-sheet .schedule-table th:nth-child(1) { width: 25%; }
+.story-content .schedule-sheet .schedule-table th:nth-child(2) { width: 45%; }
+.story-content .schedule-sheet .schedule-table th:nth-child(3) { width: 30%; }
+
+.story-content .schedule-sheet .schedule-table td.sch-kind {
+    font-weight: 800;
+    background: rgba(60, 80, 110, 0.1);
+}
+
+.story-content .schedule-sheet .schedule-table td.sch-date {
+    font-size: 0.82rem;
+    color: #2b3a55;
+}
+
+.story-content .schedule-sheet .emphasis {
+    color: #1b1d21;
+    font-weight: 800;
+    text-decoration: none;
+    background: linear-gradient(transparent 55%, rgba(205, 120, 40, 0.42) 55%);
+    padding: 0 0.1em;
+    white-space: nowrap;
+}

@@ -1,0 +1,782 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=JetBrains+Mono:wght@400;700&display=swap");
+
+/*
+ * 게화 - 커스텀 테마 CSS
+ * 썰물이 끊긴 섬마을 미스터리 테마
+ * 도플로이드(styles/도플로이드.css)와 같은 구조를 쓰되, 팔레트를 밤바다의 탁한 청록-먹색으로 옮기고
+ * 제목 글꼴은 연구소풍 Orbitron 대신 명조(Nanum Myeongjo)로 바꿔 해안 마을의 고요한 결을 살림.
+ */
+
+/* ============================================================
+   1. 기본 레이아웃 및 텍스트
+   ============================================================ */
+
+.story-content {
+    font-size: 1rem;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    color: #d6d6d6;
+    line-height: 1.8;
+    letter-spacing: -0.01em;
+    background: radial-gradient(ellipse at 50% 0%, rgba(79, 160, 150, 0.06), transparent 60%), #060a0c;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+
+/* 본문 스타일 */
+.story-content p {
+    margin-bottom: 1.2rem;
+    text-align: left;
+    word-break: keep-all;
+}
+
+.story-content ul {
+    list-style-type: disc;
+    margin-bottom: 1.2rem;
+    padding-left: 1.2rem;
+}
+
+.story-content ol {
+    list-style-type: decimal;
+    margin-bottom: 1.2rem;
+    padding-left: 1.2rem;
+}
+
+.story-content li {
+    margin-bottom: 0.8rem;
+}
+
+.story-content .info-list {
+    list-style-type: decimal;
+    padding-left: 1.2rem;
+    margin: 1rem 0;
+}
+
+.story-content .info-list li {
+    margin-bottom: 0.8rem;
+    line-height: 1.7;
+}
+
+.story-content .info-list li:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .info-list li strong {
+    color: #7fd4c9;
+}
+
+/* 제목 및 강조 */
+.story-content .section-title {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: #7fd4c9;
+    margin: 2rem 0 1rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(127, 212, 201, 0.3);
+    letter-spacing: 0.02em;
+    text-shadow: 0 0 10px rgba(127, 212, 201, 0.35);
+}
+
+.story-content .subsection-title {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #e0955a;
+    margin: 1.5rem 0 0.8rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.story-content .subsection-title::before {
+    content: "";
+    width: 0.45em;
+    height: 0.45em;
+    background: currentColor;
+    opacity: 0.7;
+    transform: rotate(45deg);
+    flex: none;
+}
+
+.story-content .highlight {
+    color: #7fd4c9;
+    font-weight: 700;
+    text-shadow: 0 0 5px rgba(127, 212, 201, 0.3);
+}
+
+.story-content .emphasis {
+    color: #e0955a;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* ============================================================
+   2. 박스 및 컴포넌트
+   ============================================================ */
+
+/* 분위기 조성을 위한 인용구 박스 */
+.story-content .quote-box {
+    position: relative;
+    margin: 1rem 0;
+    padding: 1rem;
+    background: rgba(127, 212, 201, 0.03);
+    border: 1px solid rgba(127, 212, 201, 0.1);
+    border-radius: 4px;
+    font-family: "Nanum Myeongjo", serif;
+    color: #e0e0e0;
+    line-height: 2;
+    text-align: center;
+}
+
+.story-content .quote-box::before,
+.story-content .quote-box::after {
+    content: '"';
+    font-family: serif;
+    font-size: 3rem;
+    position: absolute;
+    opacity: 0.1;
+    color: #7fd4c9;
+}
+
+.story-content .quote-box::before {
+    top: 0;
+    left: 1rem;
+}
+
+.story-content .quote-box::after {
+    bottom: -1rem;
+    right: 1rem;
+}
+
+/* 테이블 스타일 */
+.story-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: rgba(10, 22, 22, 0.6);
+    border: 1px solid rgba(127, 212, 201, 0.2);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.story-content th,
+.story-content td {
+    border: 1px solid rgba(127, 212, 201, 0.2);
+    padding: 0.75rem 1rem;
+    text-align: center;
+    word-break: keep-all;
+}
+
+.story-content th {
+    background: rgba(127, 212, 201, 0.12);
+    color: #7fd4c9;
+    font-weight: 700;
+    font-family: "Nanum Myeongjo", serif;
+    letter-spacing: 0.02em;
+    border-bottom: 2px solid rgba(127, 212, 201, 0.3);
+}
+
+.story-content tr:nth-child(even) {
+    background: rgba(127, 212, 201, 0.03);
+}
+
+.story-content tr:hover {
+    background: rgba(127, 212, 201, 0.07);
+}
+
+/* 시스템 메시지 및 가이드 박스 */
+.story-content .system-msg,
+.story-content .guide-box {
+    display: block;
+    margin: 1.5rem 0;
+    padding: 1.25rem;
+    background: rgba(127, 212, 201, 0.05);
+    border: 1px solid rgba(127, 212, 201, 0.2);
+    border-left: 4px solid #7fd4c9;
+    border-radius: 2px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.9rem;
+    color: #7fd4c9;
+}
+
+.story-content .guide-box {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px dashed rgba(255, 255, 255, 0.2);
+    border-left: 4px solid #ffffff;
+    color: #ffffff;
+}
+
+/* 접이식 섹션 (Details/Summary) */
+.story-content details {
+    background: rgba(127, 212, 201, 0.03);
+    border: 1px solid rgba(127, 212, 201, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.story-content details[open] {
+    background: rgba(127, 212, 201, 0.06);
+    border-color: rgba(127, 212, 201, 0.3);
+}
+
+.story-content summary {
+    padding: 1.2rem 1.5rem;
+    font-family: "Nanum Myeongjo", serif;
+    font-weight: 700;
+    color: #7fd4c9;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(127, 212, 201, 0.05);
+    user-select: none;
+}
+
+.story-content summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content summary:hover {
+    background: rgba(127, 212, 201, 0.1);
+}
+
+.story-content .collapsible-content {
+    padding: 1.5rem;
+    border-top: 1px solid rgba(127, 212, 201, 0.1);
+}
+
+/* 구분선 */
+.story-content .divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(127, 212, 201, 0.3), transparent);
+    margin: 2.5rem 0;
+}
+
+/* ============================================================
+   3. 스크립트 및 캐릭터 시스템
+   ============================================================ */
+
+.story-content .script-container {
+    margin: 1.5rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.story-content .script-line {
+    line-height: 1.6;
+    text-align: left;
+    /* 대본은 항상 왼쪽 정렬 */
+}
+
+.story-content .script-character {
+    font-weight: 800;
+    margin-right: 0.8rem;
+    color: #ffffff;
+    padding: 2px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 0.9em;
+    display: inline-block;
+    min-width: 2.5rem;
+    text-align: center;
+}
+
+.story-content .script-direction {
+    font-size: 0.9rem;
+    color: #888888;
+    font-style: italic;
+    margin: 1rem 0;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.story-content .quote-box .script-line {
+    text-align: left;
+    /* 인용구 박스 내부에서도 대본은 왼쪽 정렬 */
+}
+
+/* 플레이어 전용 대본 스타일 */
+.story-content .script-line.my-line {
+    background: rgba(127, 212, 201, 0.12);
+    padding: 8px 12px;
+    border-radius: 6px;
+    border-left: 4px solid #7fd4c9;
+    margin: 0.8rem 0;
+    box-shadow: inset 0 0 20px rgba(127, 212, 201, 0.05);
+}
+
+.story-content .script-character.my-character {
+    background: #7fd4c9;
+    color: #060a0c;
+    box-shadow: 0 0 12px rgba(127, 212, 201, 0.6);
+}
+
+.story-content .script-line.other-character {
+    opacity: 0.4;
+    padding-left: 16px;
+    font-size: 0.9em;
+    border-left: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+/* 캐릭터별 고유 컬러 */
+.character-veyla {
+    color: #ff7fa6 !important;
+    /* Rose - 베일라: 사립탐정. 어릴 적 이 섬에 와 본 적이 있는 쪽 */
+    text-shadow: 0 0 8px rgba(255, 127, 166, 0.5);
+}
+
+.character-marcus {
+    color: #e8a33d !important;
+    /* Amber - 마커스: FBI 수사관. 시설을 맡아 원칙대로 파고드는 쪽 */
+    text-shadow: 0 0 8px rgba(232, 163, 61, 0.5);
+}
+
+.character-ursula {
+    color: #a9c4f5 !important;
+    /* Pale Tide Blue - 어슐라: 물기 어린 창백한 푸른빛. 테마 청록(#7fd4c9)과 구분되도록 색상 계열을 푸른 쪽으로 옮김 */
+    text-shadow: 0 0 6px rgba(169, 196, 245, 0.4);
+}
+
+.character-fisherman {
+    color: #c9b88a !important;
+    /* Weathered Sand - 어부: 바닷길 어귀 선착장의 늙은 어부 */
+    text-shadow: 0 0 6px rgba(201, 184, 138, 0.35);
+}
+
+/* ============================================================
+   4. 엔딩 및 특수 섹션
+   ============================================================ */
+
+.ending-result {
+    margin-top: 3rem;
+    padding: 2rem;
+    border: 2px double rgba(127, 212, 201, 0.4);
+    background: rgba(127, 212, 201, 0.05);
+    text-align: center;
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #ffffff;
+    letter-spacing: 0.15em;
+    text-shadow: 0 0 15px rgba(127, 212, 201, 0.6);
+}
+
+/* 인트로 시네마틱 */
+.intro-section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.intro-title-cinematic {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: clamp(1.0rem, 5vw, 1.5rem);
+    font-weight: 800;
+    color: #ffffff;
+    text-align: center;
+    line-height: 1.6;
+    margin-bottom: 4rem;
+    position: relative;
+    padding-bottom: 2rem;
+    word-break: keep-all;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.intro-title-cinematic::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #7fd4c9, transparent);
+}
+
+.intro-paragraph {
+    font-size: 1.1rem;
+    line-height: 2;
+    margin-bottom: 2rem;
+    opacity: 0.85;
+    color: #e0e0e0;
+}
+
+/* 핵심 특징 섹션 */
+.feature-section {
+    margin: 4rem 0;
+    padding: 1.25rem;
+    background: rgba(127, 212, 201, 0.02);
+    border: 1px solid rgba(127, 212, 201, 0.1);
+    border-radius: 4px;
+}
+
+.feature-header {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #7fd4c9;
+    margin-bottom: 2rem;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+.feature-list-premium {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 2rem;
+}
+
+.feature-item-title {
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.feature-item-title::before {
+    content: "■";
+    font-size: 0.6em;
+    color: #7fd4c9;
+}
+
+.feature-item-desc {
+    font-size: 0.95rem;
+    color: #a0a0a0;
+    padding-left: 1.5rem;
+}
+
+/* 아웃트로 및 기타 */
+.intro-outro {
+    margin-top: 5rem;
+    text-align: center;
+    font-family: "Nanum Myeongjo", serif;
+    font-style: italic;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #d6d6d6;
+}
+
+.ai-notice {
+    margin-top: 4rem;
+    font-size: 0.75rem;
+    opacity: 0.3;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+
+.glitch-text {
+    position: relative;
+    display: inline-block;
+}
+
+/* 모바일 대응 */
+@media (max-width: 640px) {
+    .intro-title-cinematic {
+        font-size: 1.2rem;
+    }
+
+    .intro-paragraph {
+        font-size: 0.95rem;
+    }
+
+    .feature-section {
+        padding: 1.5rem;
+    }
+
+    .ending-result {
+        font-size: 1.2rem;
+    }
+}
+
+/* 문서 및 단서 레이아웃 유틸리티 (게화 코스탈 테마) */
+.story-content .document-page {
+    background: rgba(10, 22, 22, 0.75);
+    border: 1px solid rgba(127, 212, 201, 0.25);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.2rem 0;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.5), 0 4px 12px rgba(0, 0, 0, 0.3);
+    font-family: "Noto Sans KR", sans-serif;
+    color: #d3ede8;
+    line-height: 1.6;
+}
+
+.story-content .document-body {
+    margin-bottom: 0.75rem;
+    color: #bcded8;
+}
+
+.story-content .document-body:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .document-body.small,
+.story-content .small {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    opacity: 0.9;
+}
+
+.story-content .divider-gold {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(196, 180, 150, 0.5), transparent);
+    margin: 1.5rem 0;
+}
+
+/* 단서 그룹 안내 상자 (단서_그룹.txt의 location-box) */
+.story-content .location-box {
+    margin: 0.5rem 0;
+    padding: 0.9rem 1.1rem;
+    background: rgba(127, 212, 201, 0.04);
+    border: 1px solid rgba(127, 212, 201, 0.18);
+    border-left: 3px solid rgba(127, 212, 201, 0.5);
+    border-radius: 2px;
+}
+
+.story-content .location-text {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 0.95rem;
+    line-height: 1.8;
+    color: #cfe6e2;
+    word-break: keep-all;
+}
+
+/* 역할 소개의 목표 목록 화살표를 테마색으로 (기본 테마는 금색) */
+.role-detail .goal-list li::before {
+    color: #7fd4c9;
+}
+
+/* 단말기 로그 스타일 (조위 관측 기록, 항무 기록, 수배 회신 등 - 도플로이드의 보안 터미널을 낡은 계측 장비 판독기로 재해석) */
+.story-content .terminal-log {
+    background: #05080a;
+    border: 1px solid rgba(127, 212, 201, 0.25);
+    border-radius: 4px;
+    padding: 1.1rem 1.4rem;
+    margin: 1.2rem 0;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.92rem;
+    line-height: 1.8;
+    color: #7defd9;
+    text-shadow: 0 0 6px rgba(125, 239, 217, 0.35);
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.6);
+    white-space: pre-wrap;
+}
+
+.story-content .terminal-log .terminal-line {
+    display: block;
+}
+
+.story-content .terminal-log .terminal-line::before {
+    content: "> ";
+    opacity: 0.55;
+}
+
+.story-content .terminal-log .terminal-highlight {
+    color: #baffd6;
+    font-weight: 700;
+    text-shadow: 0 0 8px rgba(186, 255, 214, 0.6);
+}
+
+/* 타임라인 표: 모든 화면에서 날짜별 카드로 보여 준다 */
+.story-content table.timeline,
+.story-content table.timeline tbody,
+.story-content table.timeline tr,
+.story-content table.timeline td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.story-content table.timeline {
+    border: none;
+    background: transparent;
+    margin: 1rem 0;
+}
+
+.story-content table.timeline thead {
+    display: none;
+}
+
+.story-content table.timeline tr {
+    margin: 0 0 0.9rem;
+    border: 1px solid rgba(127, 212, 201, 0.25);
+    border-radius: 8px;
+    overflow: hidden;
+    background: rgba(10, 22, 22, 0.6);
+}
+
+.story-content table.timeline td {
+    border: none;
+    text-align: left;
+    padding: 0.65rem 0.9rem;
+}
+
+.story-content table.timeline td.tl-date {
+    background: rgba(127, 212, 201, 0.12);
+    color: #7fd4c9;
+    font-weight: 700;
+    font-family: "Nanum Myeongjo", serif;
+}
+
+.story-content table.timeline td.tl-body + td.tl-body {
+    border-top: 1px solid rgba(127, 212, 201, 0.15);
+}
+
+.story-content table.timeline td.tl-body[data-label]::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 0.2rem;
+    font-size: 0.78rem;
+    letter-spacing: 0.02em;
+    color: #7fd4c9;
+    opacity: 0.85;
+}
+
+.story-content table.timeline td.empty {
+    display: none;
+}
+
+/* 넓은 화면: 섬마을과 본토 연구시설을 카드 안에서 좌우로 나란히 놓는다 */
+@media (min-width: 641px) {
+    .story-content table.timeline tr {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .story-content table.timeline td.tl-date {
+        grid-column: 1 / -1;
+    }
+
+    .story-content table.timeline td.tl-body:nth-child(2):last-child,
+    .story-content table.timeline tr:has(td.empty) td.tl-body:not(.empty) {
+        grid-column: 1 / -1;
+    }
+
+    .story-content table.timeline td.tl-body + td.tl-body {
+        border-top: none;
+        border-left: 1px solid rgba(127, 212, 201, 0.15);
+    }
+
+    .story-content table.timeline tr:has(td.empty) td.tl-body + td.tl-body,
+    .story-content table.timeline td.empty + td.tl-body {
+        border-left: none;
+    }
+}
+
+/* ============================================================
+   신문 스크랩 (뒤집힌 보트 집#6 등)
+   ============================================================ */
+.story-content .news-clip {
+    position: relative;
+    margin: 1.2rem 0;
+    padding: 1rem 1.15rem 1.1rem;
+    background:
+        radial-gradient(ellipse at 20% 15%, rgba(120, 90, 40, 0.16), transparent 55%),
+        radial-gradient(ellipse at 85% 90%, rgba(100, 70, 30, 0.2), transparent 50%),
+        linear-gradient(180deg, #d8ccaa 0%, #cdbf9a 100%);
+    color: #2a2822;
+    font-family: "Noto Serif KR", "Nanum Myeongjo", "Batang", serif;
+    line-height: 1.7;
+    border: 1px solid rgba(110, 90, 55, 0.55);
+    box-shadow: inset 0 0 22px rgba(90, 65, 30, 0.35), 0 4px 12px rgba(0, 0, 0, 0.45);
+    clip-path: polygon(0 3px, 6% 0, 13% 4px, 22% 1px, 31% 4px, 42% 0, 53% 3px, 64% 1px, 75% 4px, 86% 0, 94% 3px, 100% 1px,
+        100% calc(100% - 3px), 92% 100%, 80% calc(100% - 4px), 66% calc(100% - 1px), 52% calc(100% - 4px), 38% 100%, 24% calc(100% - 3px), 12% calc(100% - 1px), 0 calc(100% - 4px));
+}
+
+.story-content .news-clip .news-masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-bottom: 0.35rem;
+    margin-bottom: 0.7rem;
+    border-bottom: 3px double rgba(42, 40, 34, 0.7);
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    color: rgba(42, 40, 34, 0.75);
+}
+
+.story-content .news-clip .news-masthead span:first-child {
+    font-size: 0.95rem;
+    font-weight: 900;
+    letter-spacing: 0.18em;
+    color: #2a2822;
+}
+
+.story-content .news-clip .news-headline {
+    margin: 0.2rem 0 0.7rem;
+    font-size: 1.28rem;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: -0.01em;
+    color: #1d1b17;
+    word-break: keep-all;
+}
+
+.story-content .news-clip .news-text {
+    margin: 0 0 0.6rem;
+    font-size: 0.9rem;
+    text-align: justify;
+    text-indent: 0.9em;
+    word-break: keep-all;
+    color: #2a2822;
+}
+
+.story-content .news-clip .news-text:last-child {
+    margin-bottom: 0;
+}
+
+/* 신문 안의 강조는 형광펜처럼 표시한다(어두운 배경용 주황 밑줄을 쓰지 않는다) */
+.story-content .news-clip .emphasis {
+    color: #1d1b17;
+    font-weight: 800;
+    text-decoration: none;
+    background: linear-gradient(transparent 55%, rgba(205, 120, 40, 0.42) 55%);
+    padding: 0 0.1em;
+    white-space: nowrap;
+}
+
+/* 광고란(사람을 찾습니다) */
+.story-content .news-clip .news-notice-box {
+    padding: 0.9rem 1rem;
+    border: 2px solid rgba(42, 40, 34, 0.75);
+    outline: 1px solid rgba(42, 40, 34, 0.55);
+    outline-offset: 3px;
+    text-align: center;
+}
+
+.story-content .news-clip .news-notice-title {
+    font-size: 1.35rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    color: #1d1b17;
+}
+
+.story-content .news-clip .news-notice-name {
+    margin: 0.5rem 0 0.6rem;
+    font-size: 1.15rem;
+    font-weight: 800;
+}
+
+.story-content .news-clip .news-notice-box .news-text {
+    text-indent: 0;
+    text-align: center;
+}
+
+.story-content .news-clip .news-notice-sign {
+    margin-top: 0.7rem;
+    text-align: right;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: rgba(42, 40, 34, 0.85);
+}
