@@ -742,6 +742,25 @@
     margin-bottom: 15px;
 }
 
+/* 자백 낭독 후 "다음 낭독자 지목" 안내 — 낭독 대사가 아니라 진행 지시문이므로
+   본문과 점선으로 분리하고, guide-text와 같은 노란 계열의 작은 글씨로 보이게 한다. */
+.story-content .confession-next-call {
+    margin-top: 2em;
+    padding: 0.9em 1em;
+    border-top: 1px dashed rgba(255, 204, 0, 0.5);
+    border-radius: 6px;
+    background: rgba(255, 204, 0, 0.07);
+    color: #ffcc00;
+    font-size: 0.85em;
+    line-height: 1.7;
+}
+
+/* 이 안에서 소리 내어 읽는 문장(따옴표 속 문장)만 본문처럼 또렷하게 */
+.story-content .confession-next-call strong {
+    color: #ffffff;
+    font-weight: 700;
+}
+
 /* --- 작품 소개(Intro) 전용 프리미엄 스타일: 향토 미스터리 --- */
 
 .intro-section {

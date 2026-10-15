@@ -10,9 +10,9 @@
 ========================================
 * 자막:
 안개 낀 아침, 폐쇄를 앞둔
-'<span class="emphasis">클레이 연구소</span>'가 침묵 속에 서 있습니다.
-서로 다른 목적을 품은 두 사람이,
-그 정문 앞에 나란히 도착합니다.
+'클레이 연구소'가 침묵 속에 서 있습니다.
+서로 다른 목적을 품은 두 사람이 정문을 지나,
+소장이 기다리는 방 앞에 나란히 멈춰 섭니다.
 
 * 이미지 프롬프트:
 Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A sleek, state-of-the-art biotech research facility with modern brutalist architecture, secluded in a foggy forest clearing at dawn. Pristine concrete and dark glass structure, quiet, secretive, and high-tech, about to be decommissioned. Cold blue-grey morning light, thin mist clinging to the ground. No people, no characters, empty exterior shot. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Ominous and quiet atmosphere. --ar 16:9 --no border, frame, margin, edge lines, white space, vignette, rust, overgrown, ruins, decay, broken, trash, dilapidated, dirt
@@ -27,10 +27,10 @@ Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide h
 [컷 1]
 ========================================
 * 자막:
-구역을 넘나들려면 소장의 생체 인증이 필요합니다.
-하지만 <span class="emphasis">B구역</span>으로 향하는 문은,
-이미 활짝 열려 있습니다.
-안 좋은 예감에, 두 사람이 그 앞으로 다가섭니다.
+B구역으로 자료를 가지러 간 소장이
+좀처럼 돌아오지 않습니다.
+그가 없이는 어느 구역도 열 수 없는 두 사람은,
+소장실에서 그를 기다립니다.
 
 * 이미지 프롬프트:
 Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. Perspective from an executive office corridor looking toward an open sleek heavy security bulkhead door leading into B-Zone. The heavy steel door is left wide open, revealing a pitch-black unlit corridor beyond. An advanced biometric access panel glowing faintly cyan beside the door frame. Clean sterile executive facility hallway with dark wood paneling accents and cool overhead office lighting. No text, no letters, no characters, no people, no incubation pods. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Tense, ominous atmosphere. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken, pods, capsules
@@ -45,9 +45,10 @@ Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide h
 [컷 1]
 ========================================
 * 자막:
-다음 구역으로 향하는 문 앞.
-생체 인증 스캐너가 붉은빛을 내며
-느릿하게 깜빡입니다.
+쓰러진 남자를 뒤로한 채 B구역을 나서는 세 사람.
+서로를 향한 의심이 침묵 속에 무겁게 내려앉았습니다.
+이제 누구도 홀로 움직이지 않습니다.
+소장의 뒤를 따라, 일행은 다음 구역으로 향합니다.
 
 * 이미지 프롬프트:
 Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A sleek high-tech sealed heavy security door blocking a modern facility corridor, leading into C-Zone. An advanced biometric scanner panel glowing red beside the door frame. Sterile, modern high-tech corridor, pristine metallic walls. No text, no letters, no characters, no people. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Tense, waiting atmosphere. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken
@@ -62,9 +63,10 @@ Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide h
 [컷 1]
 ========================================
 * 자막:
-마지막 구역으로 향하는 문 앞에 다다릅니다.
-유난히 무겁고 육중해 보이는 그 문 앞에서,
-발걸음이 느려집니다.
+규칙적인 기계음이 아직 귓가에 남아 있습니다.
+그 병실을 두고 소장이 내놓은 해명은 끝내 석연치 않았습니다.
+남은 구역은 이제 단 하나.
+세 사람은 말없이 소장의 뒤를 따릅니다.
 
 * 이미지 프롬프트:
 Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A massive, heavy reinforced vault door blocking the end of a sterile laboratory corridor, leading into the basement D-Zone. Biometric scanner glowing dimly beside it. Clean, high-security facility hallway. No text, no letters, no characters, no people. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Heavy, ominous, hesitant atmosphere. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken
@@ -79,10 +81,10 @@ Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide h
 [컷 1]
 ========================================
 * 자막:
-모든 구역의 조사가 끝나갑니다.
-차가운 지하 배양실에는
-낮은 냉각수 펌프 소리만이 정적을 채웁니다.
-결론을 내려야 할 시간이 다가오고 있습니다.
+끝내 서로의 확신은 하나로 모이지 않았습니다.
+낮은 냉각수 펌프 소리만이 정적을 채우는 지하 배양실.
+두 사람이 마주 선 그 곁에서,
+소장은 줄곧 침묵을 지킵니다.
 
 * 이미지 프롬프트:
 Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A state-of-the-art underground incubation laboratory, pristine rows of empty futuristic glass capsules glowing faint cyan, sleek metallic cooling pipes along clean walls. No people, no characters, still and silent. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Calm before the storm, quietly tense atmosphere. --ar 16:9 --no border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken
