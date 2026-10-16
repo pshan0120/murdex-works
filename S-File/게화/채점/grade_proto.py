@@ -159,8 +159,8 @@ def expected_total(R, sample):
     return total
 
 async def main():
-    R = json.load(io.open(HERE + 'rubric.json', encoding='utf-8'))
-    S = json.load(io.open(HERE + 'samples.json', encoding='utf-8'))
+    R = json.load(io.open(HERE + os.environ.get('RUBRIC', 'rubric.json'), encoding='utf-8'))
+    S = json.load(io.open(HERE + os.environ.get('SAMPLES', 'samples.json'), encoding='utf-8'))
     models = sys.argv[1].split(',') if len(sys.argv) > 1 else ['gpt-4o', 'gpt-4o-mini']
     runs = int(sys.argv[2]) if len(sys.argv) > 2 else 2
     sem = asyncio.Semaphore(6)

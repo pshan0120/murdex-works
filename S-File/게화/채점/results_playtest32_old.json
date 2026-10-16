@@ -1,0 +1,546 @@
+[
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "playtest_marcus",
+  "total": 50,
+  "per": {
+   "5a": "partial",
+   "5b": "none",
+   "5c": "partial",
+   "4a": "full",
+   "4b": "full",
+   "4c": "partial",
+   "4d": "none",
+   "6a": "none",
+   "6b": "partial",
+   "6c": "partial"
+  },
+  "q": {
+   "m1": {
+    "score": 12,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 26,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 12,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 3057,
+  "cached": 0,
+  "tokens_out": 939,
+  "sec": 9.7,
+  "feedback": {
+   "m1": "시제품이 섞인 음료를 모두가 마신 점은 적었으나, 마이어스가 건배를 구실로 했다는 점과 술과 시제품의 반응으로 노화가 일어났다는 점은 놓쳤습니다.",
+   "m2": "시제품이 개수대를 통해 바다로 흘러나가 북쪽 만에 모였다는 점은 잘 적었으나, 물질이 환경에 맞게 몸을 재구성한다는 중요한 특성은 부족했습니다.",
+   "m3": "두 사건이 같은 물질과 관련 있다는 점과 직접 원인과 배경을 구분하는 점은 부족했고, 수조와 바다 생물의 같은 현상도 언급하지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 명확하지 않고, 시제품을 마셨다는 내용만 있다.",
+     "evidence_quote": "8주년 무알콜 칵테일에 RB-CBP인가 하는 약품을 넣어 다같이 마심",
+     "source_question_id": "m1",
+     "level_id": "partial"
+    },
+    {
+     "id": "5b",
+     "reason": "술(알코올)과 시제품이 반응해 몸의 변화가 급속한 노화로 바뀌었다는 내용이 없다. 단지 진화에 미친 매드 사이언티스트라는 표현만 있다.",
+     "evidence_quote": "션 이 망나니 새끼가 진화에 미친 매드 사이언티스트",
+     "source_question_id": "m1",
+     "level_id": "none"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이 없고, 진화로 살아남았다는 내용만 있다.",
+     "evidence_quote": "북쪽 해안 실종된 여자가 해당 약물로 인해 죽을 위기에서 진화를 겪고 살아남",
+     "source_question_id": "m3",
+     "level_id": "partial"
+    },
+    {
+     "id": "4a",
+     "reason": "시제품이 개수대에 일부 버려졌고, 바다로 흘러나갔다는 내용이 있다.",
+     "evidence_quote": "프라이스가 개수대에 일부를 버림",
+     "source_question_id": "m1",
+     "level_id": "full"
+    },
+    {
+     "id": "4b",
+     "reason": "물질이 바다로 흘러나가 섬 북쪽 해안(만) 소용돌이에 모였다는 내용이 있다.",
+     "evidence_quote": "바다로 흘러나가 크래비스 북쪽 해안 소용돌이",
+     "source_question_id": "m2",
+     "level_id": "full"
+    },
+    {
+     "id": "4c",
+     "reason": "물질이 생태에 영향을 주고 진화를 겪게 한다는 내용이 있으나, 환경에 맞게 몸을 재구성한다는 명확한 표현은 없다.",
+     "evidence_quote": "크래비스 북쪽 해안 소용돌이의 생태에 영향을 줌",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹쳐야 반응이 강하다는 내용이 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "두 사건이 같은 물질에서 갈라졌다는 내용이 없고, 북쪽 해안에서 진화와 변이가 일어났다는 내용만 있다.",
+     "evidence_quote": "",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인과 연구시설 사고의 배경 구분이 없고, 두 사건이 이어진다는 내용만 있다.",
+     "evidence_quote": "몇몇 사람들은 변이된 해양생물로 인해서 호흡곤란으로 죽음",
+     "source_question_id": "m3",
+     "level_id": "partial"
+    },
+    {
+     "id": "6c",
+     "reason": "수조와 바다 생물의 같은 현상에 대한 언급이 없고, 바다 생물의 변이만 적었다.",
+     "evidence_quote": "몇몇 사람들은 변이된 해양생물로 인해서 호흡곤란으로 죽음",
+     "source_question_id": "m3",
+     "level_id": "partial"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "시제품이 섞인 음료를 모두가 마신 점은 적었으나, 마이어스가 건배를 구실로 했다는 점과 술과 시제품의 반응으로 노화가 일어났다는 점은 놓쳤습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품이 개수대를 통해 바다로 흘러나가 북쪽 만에 모였다는 점은 잘 적었으나, 물질이 환경에 맞게 몸을 재구성한다는 중요한 특성은 부족했습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질과 관련 있다는 점과 직접 원인과 배경을 구분하는 점은 부족했고, 수조와 바다 생물의 같은 현상도 언급하지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "playtest_marcus",
+  "total": 36,
+  "per": {
+   "5a": "partial",
+   "5b": "partial",
+   "5c": "none",
+   "4a": "partial",
+   "4b": "partial",
+   "4c": "partial",
+   "4d": "none",
+   "6a": "none",
+   "6b": "partial",
+   "6c": "none"
+  },
+  "q": {
+   "m1": {
+    "score": 12,
+    "gate_hits": []
+   },
+   "m2": {
+    "score": 18,
+    "gate_hits": []
+   },
+   "m3": {
+    "score": 6,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 3057,
+  "cached": 2816,
+  "tokens_out": 1027,
+  "sec": 9.9,
+  "feedback": {
+   "m1": "시제품을 모두에게 마시게 한 점은 적었으나, 마이어스가 건배를 구실로 했다는 점과 술과 시제품 반응으로 노화가 일어났다는 점은 놓쳤습니다.",
+   "m2": "시제품이 바다로 흘러나가 북쪽 만에 모였다는 점과, 생명체 몸을 환경에 맞게 바꾸는 재구성이라는 점은 적지 못했습니다.",
+   "m3": "두 사건이 같은 물질에서 갈라졌고 직접 원인을 구분한 점이 없으며, 수조와 바다 생물의 같은 현상도 언급하지 못했습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "5a",
+     "reason": "답안에 마이어스가 건배를 구실로 시제품이 섞인 음료를 모두에게 마시게 했다는 내용이 없고, 시제품을 넣어 다같이 마셨다는 내용만 있다.",
+     "evidence_quote": "8주년 무알콜 칵테일에 RB-CBP인가 하는 약품을 넣어 다같이 마심",
+     "source_question_id": "m1",
+     "level_id": "partial"
+    },
+    {
+     "id": "5b",
+     "reason": "술(알코올)과 시제품이 반응해 몸의 변화가 급속한 노화로 바뀌었다는 내용이 없고, 술과 관련 있다고만 적었다.",
+     "evidence_quote": "8주년 무알콜 칵테일에 RB-CBP인가 하는 약품을 넣어 다같이 마심",
+     "source_question_id": "m1",
+     "level_id": "partial"
+    },
+    {
+     "id": "5c",
+     "reason": "오웬이 살아남았다는 내용이 없고, 대신 북쪽 해안 실종된 여자가 약물로 인해 죽을 위기에서 진화를 겪고 살아남았다고 적었다.",
+     "evidence_quote": "북쪽 해안 실종된 여자가 해당 약물로 인해 죽을 위기에서 진화를 겪고 살아남",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "4a",
+     "reason": "시제품이 개수대나 배수구를 통해 바다로 흘러나갔다는 내용이 없고, 개수대에 일부를 버렸다는 내용만 있다.",
+     "evidence_quote": "이상함을 느낀 프라이스가 개수대에 일부를 버림",
+     "source_question_id": "m1",
+     "level_id": "partial"
+    },
+    {
+     "id": "4b",
+     "reason": "물질이 섬 북쪽 만에 모여 고였다는 내용이 없고, 북쪽 해안 소용돌이의 생태에 영향을 줬다고만 적었다.",
+     "evidence_quote": "바다로 흘러나가 크래비스 북쪽 해안 소용돌이의 생태에 영향을 줌",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4c",
+     "reason": "물질이 생명체 몸을 환경에 맞게 바꾸는 재구성이나 진화라는 내용이 없고, 생태에 영향을 줬다는 표현만 있다.",
+     "evidence_quote": "크래비스 북쪽 해안 소용돌이의 생태에 영향을 줌",
+     "source_question_id": "m2",
+     "level_id": "partial"
+    },
+    {
+     "id": "4d",
+     "reason": "물질이 옅어지기 전이라는 시기와 죽음에 가까운 상태라는 조건이 겹쳐야 반응이 강하다는 내용이 없고, 그런 조건 언급 자체가 없다.",
+     "evidence_quote": "",
+     "source_question_id": "m2",
+     "level_id": "none"
+    },
+    {
+     "id": "6a",
+     "reason": "두 사건이 같은 물질에서 갈라졌다는 내용이 없고, 약물로 인해 죽을 위기에서 진화를 겪고 살아남았다는 내용만 있다.",
+     "evidence_quote": "북쪽 해안 실종된 여자가 해당 약물로 인해 죽을 위기에서 진화를 겪고 살아남",
+     "source_question_id": "m3",
+     "level_id": "none"
+    },
+    {
+     "id": "6b",
+     "reason": "마을 사람들의 죽음의 직접 원인과 연구시설 사고의 배경 구분이 없고, 두 사건이 이어진다고만 적었다.",
+     "evidence_quote": "몇몇 사람들은 변이된 해양생물로 인해서 호흡곤란으로 죽음",
+     "source_question_id": "m3",
+     "level_id": "partial"
+    },
+    {
+     "id": "6c",
+     "reason": "수조와 섬 주변 바다 생물의 같은 현상이라는 내용이 없고, 해양생물 변이로 죽음이 있었다고만 적었다.",
+     "evidence_quote": "몇몇 사람들은 변이된 해양생물로 인해서 호흡곤란으로 죽음",
+     "source_question_id": "m3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "m1",
+     "text": "시제품을 모두에게 마시게 한 점은 적었으나, 마이어스가 건배를 구실로 했다는 점과 술과 시제품 반응으로 노화가 일어났다는 점은 놓쳤습니다."
+    },
+    {
+     "question_id": "m2",
+     "text": "시제품이 바다로 흘러나가 북쪽 만에 모였다는 점과, 생명체 몸을 환경에 맞게 바꾸는 재구성이라는 점은 적지 못했습니다."
+    },
+    {
+     "question_id": "m3",
+     "text": "두 사건이 같은 물질에서 갈라졌고 직접 원인을 구분한 점이 없으며, 수조와 바다 생물의 같은 현상도 언급하지 못했습니다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "playtest_veyla",
+  "total": 62,
+  "per": {
+   "1a": "full",
+   "2a": "none",
+   "2b": "none",
+   "2c": "full",
+   "3a": "full",
+   "3b": "full",
+   "3c": "none",
+   "7a": "full",
+   "7b": "partial",
+   "7c": "partial"
+  },
+  "q": {
+   "v1": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 22,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2513,
+  "cached": 2304,
+  "tokens_out": 637,
+  "sec": 6.5,
+  "feedback": {
+   "v1": "범인의 이름과 복수 동기를 잘 적었으나 할아버지와 어슐라의 죽음에 대한 구체적 내용은 빠졌다.",
+   "v2": "몸의 변화와 구체적인 침입 경로를 잘 적었으나 팔이 여럿인 점은 언급하지 않았다.",
+   "v3": "마을 사람들이 밀수업 수뇌부라는 점을 적었으나 가짜 가족과 두목, 아서의 죽음에 대한 내용은 부족했다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라를 적었고 복수 동기도 적었다.",
+     "evidence_quote": "어슐라, 마을 사람들에 대한 복수",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지가 마을 사람들에게 살해당했다는 내용은 없고 죽었다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라가 죽었다가 되살아났다는 내용은 없고 복수 동기만 적었다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "복수라는 동기를 명확히 적었다.",
+     "evidence_quote": "복수",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "진화된 육체를 이용하여 몸의 형태를 바꿨다고 적었다.",
+     "evidence_quote": "진화된 육체를 이용하여 들어감",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구를 통해 들어갔다고 구체적인 침입 경로를 적었다.",
+     "evidence_quote": "배수구 통해서",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라는 내용은 없고 연체동물이나 촉수 언급도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 밀수업 수뇌부라고 적었다.",
+     "evidence_quote": "밀수업 수뇌부들",
+     "source_question_id": "v3",
+     "level_id": "full"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족이나 에드거 두목에 대한 내용은 없고 밀수업 수뇌부라는 내용만 있다.",
+     "evidence_quote": "밀수업 수뇌부들",
+     "source_question_id": "v3",
+     "level_id": "partial"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 살해당했다는 내용은 없고 밀수업 수뇌부라는 내용만 있다.",
+     "evidence_quote": "밀수업 수뇌부들",
+     "source_question_id": "v3",
+     "level_id": "partial"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 이름과 복수 동기를 잘 적었으나 할아버지와 어슐라의 죽음에 대한 구체적 내용은 빠졌다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸의 변화와 구체적인 침입 경로를 잘 적었으나 팔이 여럿인 점은 언급하지 않았다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들이 밀수업 수뇌부라는 점을 적었으나 가짜 가족과 두목, 아서의 죽음에 대한 내용은 부족했다."
+    }
+   ]
+  }
+ },
+ {
+  "model": "gpt-4.1-mini",
+  "sample": "playtest_veyla",
+  "total": 42,
+  "per": {
+   "1a": "full",
+   "2a": "none",
+   "2b": "none",
+   "2c": "full",
+   "3a": "partial",
+   "3b": "full",
+   "3c": "none",
+   "7a": "partial",
+   "7b": "none",
+   "7c": "none"
+  },
+  "q": {
+   "v1": {
+    "score": 20,
+    "gate_hits": []
+   },
+   "v2": {
+    "score": 16,
+    "gate_hits": []
+   },
+   "v3": {
+    "score": 6,
+    "gate_hits": []
+   }
+  },
+  "notes": {
+   "quote_downgrades": 0,
+   "invalid_level": 0,
+   "missing_elem": 0,
+   "injection_quote": 0
+  },
+  "flagged": [],
+  "tokens_in": 2513,
+  "cached": 0,
+  "tokens_out": 695,
+  "sec": 6.7,
+  "feedback": {
+   "v1": "범인의 이름과 복수 동기를 잘 적었으나 할아버지와 어슐라의 죽음에 대한 구체적 내용은 부족합니다.",
+   "v2": "몸이 변했다는 점은 부분적으로 적었고 배수구를 통한 침입 경로는 정확히 적었습니다.",
+   "v3": "마을 사람들이 밀수 조직 수뇌부임을 적었으나 20년 전 소탕과 가짜 가족, 두목 관련 내용은 빠졌습니다."
+  },
+  "raw_ai": {
+   "elements": [
+    {
+     "id": "1a",
+     "reason": "범인의 이름 어슐라를 적었고 복수 동기도 적었다.",
+     "evidence_quote": "어슐라, 마을 사람들에 대한 복수(자기 죽이려고 하고 등등)",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "2a",
+     "reason": "할아버지의 죽음에 대해 마을 사람들이 죽였다는 내용는 없고 죽었다는 내용만 있다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2b",
+     "reason": "어슐라가 죽었다가 되살아났다는 내용은 없고 복수 동기만 적었다.",
+     "evidence_quote": "",
+     "source_question_id": "v1",
+     "level_id": "none"
+    },
+    {
+     "id": "2c",
+     "reason": "복수(자기 죽이려고 하고 등등)라고 명확히 적었다.",
+     "evidence_quote": "어슐라, 마을 사람들에 대한 복수(자기 죽이려고 하고 등등)",
+     "source_question_id": "v1",
+     "level_id": "full"
+    },
+    {
+     "id": "3a",
+     "reason": "진화된 육체를 이용하여 들어갔다고 적어 몸이 변했다는 점을 인정할 수 있다.",
+     "evidence_quote": "진화된 육체를 이용하여 들어감",
+     "source_question_id": "v2",
+     "level_id": "partial"
+    },
+    {
+     "id": "3b",
+     "reason": "배수구를 통해 들어갔다고 구체적인 틈새 경로를 적었다.",
+     "evidence_quote": "배수구 통해서",
+     "source_question_id": "v2",
+     "level_id": "full"
+    },
+    {
+     "id": "3c",
+     "reason": "팔이 여럿이라는 점이나 문어, 촉수 등은 언급하지 않았다.",
+     "evidence_quote": "",
+     "source_question_id": "v2",
+     "level_id": "none"
+    },
+    {
+     "id": "7a",
+     "reason": "마을 사람들이 밀수업 수뇌부라고 적었으나 20년 전 소탕된 조직이라는 점은 없다.",
+     "evidence_quote": "밀수업 수뇌부들로 서로는 고발하지 않기로 맹세함",
+     "source_question_id": "v3",
+     "level_id": "partial"
+    },
+    {
+     "id": "7b",
+     "reason": "가짜 가족이나 에드거 두목에 대한 내용은 없고 가족이 가짜라는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    },
+    {
+     "id": "7c",
+     "reason": "아서가 에드거 정체를 알아보고 입막음으로 살해당했다는 내용은 없고 마을 사람들이 죽였다는 내용도 없다.",
+     "evidence_quote": "",
+     "source_question_id": "v3",
+     "level_id": "none"
+    }
+   ],
+   "gate_hits": [],
+   "feedback": [
+    {
+     "question_id": "v1",
+     "text": "범인의 이름과 복수 동기를 잘 적었으나 할아버지와 어슐라의 죽음에 대한 구체적 내용은 부족합니다."
+    },
+    {
+     "question_id": "v2",
+     "text": "몸이 변했다는 점은 부분적으로 적었고 배수구를 통한 침입 경로는 정확히 적었습니다."
+    },
+    {
+     "question_id": "v3",
+     "text": "마을 사람들이 밀수 조직 수뇌부임을 적었으나 20년 전 소탕과 가짜 가족, 두목 관련 내용은 빠졌습니다."
+    }
+   ]
+  }
+ }
+]

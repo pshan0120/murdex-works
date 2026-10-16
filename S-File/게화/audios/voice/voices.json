@@ -15,6 +15,13 @@
       "speed": 0.9,
       "gpt_model": "GPT_weights_v2/베일라-e15.ckpt",
       "sovits_model": "SoVITS_weights_v2/베일라_e8_s280.pth"
+    },
+    "어부": {
+      "ref_audio": "actor/어부_참고.wav",
+      "ref_text": "오늘도 아주 좋은 날씨구만. 그래, 이 늙은이한테 무슨 재미있는 이야기라도 가져왔나?",
+      "speed": 0.95,
+      "sovits_model": "SoVITS_weights_v2/어부_e8_s272.pth",
+      "gpt_model": "GPT_weights_v2/어부-e15.ckpt"
     }
   }
 }
