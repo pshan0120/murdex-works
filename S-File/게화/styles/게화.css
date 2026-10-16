@@ -729,7 +729,7 @@
 .story-content .news-clip .news-text {
     margin: 0 0 0.6rem;
     font-size: 0.9rem;
-    text-align: justify;
+    text-align: left;
     text-indent: 0.9em;
     word-break: keep-all;
     color: #2a2822;
