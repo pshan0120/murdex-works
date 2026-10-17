@@ -1,0 +1,246 @@
+{
+ "4": {
+  "description": "<div class=\"story-content\">\n  <p class=\"emphasis\">지금은 전화 통화 중입니다. 단서 화면은 보여 줄 수 없고 말로만 전할 수 있습니다.</p>\n  <div class=\"section-title\">1. 정보 공유와 추리</div>\n  <p>1차 조사에서 알아낸 것을 서로 말로 공유하고, 그것을 바탕으로 함께 추리하세요. 이 단계에서는 자유롭게 이야기해도 됩니다. 작품 속에서는 두 사람이 약속한 시각에 전화로 연결되는 시간입니다.</p>\n  <div class=\"section-title\">2. 다음 단계 안내</div>\n  <p>충분히 이야기를 나눴다면, 화면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계(2차 조사)로 진행하십시오.</p>\n</div>",
+  "lines": [
+   {
+    "line_id": "ff3fed50-4201-4369-8f99-5c1154181df4",
+    "step_id": "a89f1039-4297-4648-b120-5fcc1398e293",
+    "line_order": 0,
+    "speaker_type": "DIRECTIVE",
+    "role_id": null,
+    "npc_id": null,
+    "owner_role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "speaker_label_html": null,
+    "line_html": "베일라가 휴대폰을 꺼내 마커스의 번호를 누른다. 연결음이 울린다.",
+    "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1792134694/murdex/images/7169e13b-5160-4a9b-9769-8ffd19763aa7/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_gjrgtq.wav",
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "36db8b05-d654-4185-9a37-c59dd3f7f92e",
+    "step_id": "a89f1039-4297-4648-b120-5fcc1398e293",
+    "line_order": 1,
+    "speaker_type": "PLAYER",
+    "role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "npc_id": null,
+    "owner_role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "speaker_label_html": "<span class=\"character-marcus\">마커스</span>",
+    "line_html": "(전화를 받으며) 마커스입니다.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "5ee6e589-c319-47c3-8c11-65471025c225",
+    "step_id": "a89f1039-4297-4648-b120-5fcc1398e293",
+    "line_order": 2,
+    "speaker_type": "PLAYER",
+    "role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "npc_id": null,
+    "owner_role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "speaker_label_html": "<span class=\"character-veyla\">베일라</span>",
+    "line_html": "저예요. 약속한 시간이 됐어요. 지금 통화 괜찮으세요?",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "3ef93fc8-fac0-4cf8-92c0-994f0915d97e",
+    "step_id": "a89f1039-4297-4648-b120-5fcc1398e293",
+    "line_order": 3,
+    "speaker_type": "DIRECTIVE",
+    "role_id": null,
+    "npc_id": null,
+    "owner_role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "speaker_label_html": null,
+    "line_html": "지금부터 두 사람은 전화로 이야기를 나눕니다. 조사한 내용은 말로만 전할 수 있습니다.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   }
+  ]
+ },
+ "6": {
+  "description": "<div class=\"story-content\">\n  <p class=\"emphasis\">통화가 이어지고 있습니다. 이번에 조사한 내용을 말로 정리해 전해 주세요.</p>\n  <div class=\"section-title\">1. 정보 공유와 추리</div>\n  <p>2차 조사에서 알아낸 것을 서로 말로 공유하고, 그것을 바탕으로 함께 추리하세요. 이 단계에서는 자유롭게 이야기해도 됩니다. 작품 속에서는 두 사람이 약속한 시각에 전화로 연결되는 시간입니다.</p>\n  <div class=\"section-title\">2. 다음 단계 안내</div>\n  <p>충분히 이야기를 나눴다면, 화면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계(3차 조사)로 진행하십시오.</p>\n</div>",
+  "lines": [
+   {
+    "line_id": "2c981310-4d06-439c-94ed-af3d5afc8a77",
+    "step_id": "e513bc6c-eac2-4d0d-8f13-658b655ea69c",
+    "line_order": 0,
+    "speaker_type": "DIRECTIVE",
+    "role_id": null,
+    "npc_id": null,
+    "owner_role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "speaker_label_html": null,
+    "line_html": "마커스가 복도 한쪽에서 베일라의 번호를 누른다. 연결음이 두 번 울린다.",
+    "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1792134694/murdex/images/7169e13b-5160-4a9b-9769-8ffd19763aa7/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_gjrgtq.wav",
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "25d1f895-e4d4-4761-89f9-c7694e6b399e",
+    "step_id": "e513bc6c-eac2-4d0d-8f13-658b655ea69c",
+    "line_order": 1,
+    "speaker_type": "PLAYER",
+    "role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "npc_id": null,
+    "owner_role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "speaker_label_html": "<span class=\"character-veyla\">베일라</span>",
+    "line_html": "(전화를 받으며) 베일라예요.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "c87a6c65-5a1a-4b63-baaf-4870451cb1e2",
+    "step_id": "e513bc6c-eac2-4d0d-8f13-658b655ea69c",
+    "line_order": 2,
+    "speaker_type": "PLAYER",
+    "role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "npc_id": null,
+    "owner_role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "speaker_label_html": "<span class=\"character-marcus\">마커스</span>",
+    "line_html": "마커스입니다. 서로 알아낸 걸 맞춰 보죠.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "9b681eb0-7898-46ef-9801-12d449eaa506",
+    "step_id": "e513bc6c-eac2-4d0d-8f13-658b655ea69c",
+    "line_order": 3,
+    "speaker_type": "DIRECTIVE",
+    "role_id": null,
+    "npc_id": null,
+    "owner_role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "speaker_label_html": null,
+    "line_html": "통화가 이어집니다. 방금 조사한 내용을 말로 전하고, 서로의 이야기를 맞춰 보세요.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   }
+  ]
+ },
+ "8": {
+  "description": "<div class=\"story-content\">\n  <p class=\"emphasis\">세 번째 통화입니다. 앞의 이야기와 이번 내용을 이어서 말로 맞춰 보세요.</p>\n  <div class=\"section-title\">1. 정보 공유와 추리</div>\n  <p>3차 조사에서 알아낸 것을 서로 말로 공유하고, 그것을 바탕으로 함께 추리하세요. 이 단계에서는 자유롭게 이야기해도 됩니다. 작품 속에서는 두 사람이 약속한 시각에 전화로 연결되는 시간입니다.</p>\n  <div class=\"section-title\">2. 다음 단계 안내</div>\n  <p>충분히 이야기를 나눴다면, 화면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계(4차 조사)로 진행하십시오.</p>\n</div>",
+  "lines": [
+   {
+    "line_id": "65b1e97d-ae07-4d0e-b023-097313b4f2a6",
+    "step_id": "2b7db6e5-9405-4b18-bbc3-934a652106c6",
+    "line_order": 0,
+    "speaker_type": "DIRECTIVE",
+    "role_id": null,
+    "npc_id": null,
+    "owner_role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "speaker_label_html": null,
+    "line_html": "베일라가 바람 부는 비탈에서 마커스의 번호를 누른다. 바람 소리 사이로 연결음이 울린다.",
+    "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1792134694/murdex/images/7169e13b-5160-4a9b-9769-8ffd19763aa7/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_gjrgtq.wav",
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "238cace9-44e4-48c1-956d-fa51b50be428",
+    "step_id": "2b7db6e5-9405-4b18-bbc3-934a652106c6",
+    "line_order": 1,
+    "speaker_type": "PLAYER",
+    "role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "npc_id": null,
+    "owner_role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "speaker_label_html": "<span class=\"character-marcus\">마커스</span>",
+    "line_html": "(전화를 받으며) 말씀하세요.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "71852e9a-60da-4821-b0cf-9a5e77270b83",
+    "step_id": "2b7db6e5-9405-4b18-bbc3-934a652106c6",
+    "line_order": 2,
+    "speaker_type": "PLAYER",
+    "role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "npc_id": null,
+    "owner_role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "speaker_label_html": "<span class=\"character-veyla\">베일라</span>",
+    "line_html": "저예요. 지금 통화할 수 있어요?",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "603dd3a3-8c2e-46ee-bbad-ea65775a05d0",
+    "step_id": "2b7db6e5-9405-4b18-bbc3-934a652106c6",
+    "line_order": 3,
+    "speaker_type": "DIRECTIVE",
+    "role_id": null,
+    "npc_id": null,
+    "owner_role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "speaker_label_html": null,
+    "line_html": "세 번째 통화입니다. 새로 알아낸 것과 지금까지의 이야기를 이어서 말로 나눠 보세요.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   }
+  ]
+ },
+ "10": {
+  "description": "<div class=\"story-content\">\n  <p class=\"emphasis\">지금은 전화 통화 중입니다. 마지막으로 추리를 맞출 시간이니 아는 것을 모두 말로 나누세요. 이번 단계에서는 단서를 게임보드에 공개해 보여 줄 수도 있습니다.</p>\n  <div class=\"section-title\">1. 정보 공유와 추리</div>\n  <p>모든 조사가 끝났습니다. 4차 조사에서 알아낸 것을 서로 말로 공유하고, 지금까지의 정보를 맞춰 보세요. 작품 속에서는 마지막 통화입니다.</p>\n  <p>말로 설명하기 어려운 단서는 단서를 열어 <span class=\"highlight\">보드 공개</span> 버튼으로 게임보드에 공개할 수 있습니다. 공개한 단서는 상대도 볼 수 있고 내 단서함에서는 빠지며, 되돌릴 수 없습니다.</p>\n  <p class=\"emphasis\">지금까지 혼자 간직해 온 단서가 있다면, 상대방에게 알릴 수 있는 마지막 기회입니다. 다음 단계부터는 더 이상 정보를 주고받을 수 없습니다.</p>\n  <div class=\"section-title\">2. 단서 정리</div>\n  <p>\n    지금까지 수집된 단서들과 서로의 정보를 바탕으로 마을과 연구시설에서 일어난 일을 재구성하십시오. 다음 항목을 정리해 두면 좋습니다.<br />\n    &nbsp;&nbsp;&nbsp;&nbsp;- 마을 사람들을 죽인 것은 누구(들)이고, 어떤 방법을 썼는가?<br />\n    &nbsp;&nbsp;&nbsp;&nbsp;- 연구시설에서는 어떤 일이 있었는가?<br />\n    &nbsp;&nbsp;&nbsp;&nbsp;- 마을과 연구시설에서 일어난 일은 서로 관계가 있는가?<br />\n    &nbsp;&nbsp;&nbsp;&nbsp;- 마을 사람들은 어떤 사람들이었는가?<br />\n    &nbsp;&nbsp;&nbsp;&nbsp;- 각자 조사하며 알게 된 것 중, 아직 상대방에게 밝히지 않은 사실이 있는가?\n  </p>\n  <div class=\"section-title\">3. 비밀코드 입력</div>\n  <p>아직 조사하지 못한 단서가 있다면 지금이 마지막 기회입니다.</p>\n  <div class=\"section-title\">4. 다음 단계 안내</div>\n  <p>두 사람이 충분히 토론하고 추리를 마쳤다면, 화면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 최종 결론(질문 및 답변) 단계로 진행하십시오.</p>\n</div>",
+  "lines": [
+   {
+    "line_id": "1090d13a-e8c9-4c5c-aed5-af0c5c724b5f",
+    "step_id": "3bf99f9d-7bb2-4b2b-9920-aea41fa64760",
+    "line_order": 0,
+    "speaker_type": "DIRECTIVE",
+    "role_id": null,
+    "npc_id": null,
+    "owner_role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "speaker_label_html": null,
+    "line_html": "해가 기운 뒤 마커스가 베일라에게 전화를 건다. 연결음이 울린다.",
+    "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1792134694/murdex/images/7169e13b-5160-4a9b-9769-8ffd19763aa7/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_gjrgtq.wav",
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "933b3933-5e08-45cc-9701-c57b8f4b3604",
+    "step_id": "3bf99f9d-7bb2-4b2b-9920-aea41fa64760",
+    "line_order": 1,
+    "speaker_type": "PLAYER",
+    "role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "npc_id": null,
+    "owner_role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "speaker_label_html": "<span class=\"character-veyla\">베일라</span>",
+    "line_html": "(전화를 받으며) 네, 베일라예요.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "3906844a-f42a-4f83-9b72-957b56675005",
+    "step_id": "3bf99f9d-7bb2-4b2b-9920-aea41fa64760",
+    "line_order": 2,
+    "speaker_type": "PLAYER",
+    "role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "npc_id": null,
+    "owner_role_id": "feda1c8d-9aaa-4a26-aad5-1f37f5715625",
+    "speaker_label_html": "<span class=\"character-marcus\">마커스</span>",
+    "line_html": "지금까지 알아낸 걸 하나씩 맞춰 보죠.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   },
+   {
+    "line_id": "984a7638-43be-4a2c-a0ba-82b46b8cc493",
+    "step_id": "3bf99f9d-7bb2-4b2b-9920-aea41fa64760",
+    "line_order": 3,
+    "speaker_type": "DIRECTIVE",
+    "role_id": null,
+    "npc_id": null,
+    "owner_role_id": "960f9e80-1fce-42f0-aa79-aa413466c32b",
+    "speaker_label_html": null,
+    "line_html": "통화가 이어집니다. 지금까지 알아낸 것을 말로 나누고, 설명하기 어려운 단서는 게임보드에 공개해 함께 보며 추리를 모아 보세요.",
+    "audio_url": null,
+    "created_at": "2026-10-17 10:54:41",
+    "updated_at": "2026-10-17 10:54:41"
+   }
+  ]
+ }
+}

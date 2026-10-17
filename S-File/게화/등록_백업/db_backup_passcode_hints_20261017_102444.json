@@ -1,0 +1,10 @@
+{
+ "베일라": {
+  "guideline_id": "6905bd06-abfe-49b9-b649-1f1fc4607688",
+  "description": "<div class=\"story-content\">\n  <section class=\"content-section\">\n    <div class=\"section-title\">목표 - <span class=\"character-veyla\">베일라</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>마지막 집</strong>: 마을에서 가장 높은 곳에 있는 집 안으로 들어왔다. 이곳에서 알아낸 것을 모아 지금까지의 조각을 맞춘다.</li>\n    </ul>\n  </section>\n  <section class=\"content-section\">\n    <div class=\"section-title\">어슐라의 한마디</div>\n    <ul class=\"goal-list\">\n      <li><span class=\"character-ursula\">어슐라</span>: \"여기가 마지막 집이네. 나는 밖에서 기다릴게. 이런 건 오래 못 보겠어. …아까 말한 유령 소문, 이 집은 그걸 막으려고 지은 요새 같아. 이 사람은 끝까지 믿었나 봐.\"</li>\n    </ul>\n  </section>\n</div>"
+ },
+ "마커스": {
+  "guideline_id": "417d4227-8b3b-4add-a662-b1b3ff650131",
+  "description": "<div class=\"story-content\">\n  <section class=\"content-section\">\n    <div class=\"section-title\">목표 - <span class=\"character-marcus\">마커스</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>가장 안쪽</strong>: 통제 구역 안쪽 벽 너머, 소장만 아는 숨겨진 구역에 들어와 있다. 소장이 숨긴 연구의 실체를 확인한다.</li>\n    </ul>\n  </section>\n</div>"
+ }
+}

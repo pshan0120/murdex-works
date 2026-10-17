@@ -1,0 +1,40 @@
+{
+ "clue_variants": {
+  "18197024-9cf7-4ec6-9a75-8862cec0faa1": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">케이스 안에는 낚시 바늘 통, 낡은 지갑, 라이터, 구겨진 영수증 같은 잡동사니가 들어 있다. 그 사이에 누렇게 바랜 신문 스크랩 두 장이 끼어 있다.</div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"news-clip\">\n    <div class=\"news-masthead\"><span>Merrill County Courier</span><span>2011년 4월</span></div>\n    <div class=\"news-headline\">해안 밀수 조직 일제 소탕, 핵심 수뇌부는 도주</div>\n    <div class=\"news-text\">경찰은 해안 일대에서 활동해 온 밀수 조직을 일제 소탕했으나, 핵심 수뇌부는 검거 직전 종적을 감춘 것으로 확인됐다. 경찰은 이들을 수배하고 행방을 쫓고 있다.</div>\n    <div class=\"news-text\">수배자는 두목 <span class=\"emphasis\">프랭크 모란</span>, <span class=\"emphasis\">레너드 크로스</span>, <span class=\"emphasis\">마이클 번스</span>, <span class=\"emphasis\">패트리샤 번스</span>, <span class=\"emphasis\">지미 쇼</span>, <span class=\"emphasis\">데비 쇼</span>, <span class=\"emphasis\">로니 헤이즈</span>. 두목 모란은 왼쪽 <span class=\"emphasis\">손등에 화상 흉터</span>가 있는 것으로 알려졌다.</div>\n  </div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"news-clip\">\n    <div class=\"news-masthead\"><span>Merrill County Courier</span><span>2011년 9월</span></div>\n    <div class=\"news-notice-box\">\n      <div class=\"news-notice-title\">사람을 찾습니다</div>\n      <div class=\"news-notice-name\"><span class=\"emphasis\">아서 콜린스</span></div>\n      <div class=\"news-text\">9월 2일, 통발을 걷으러 크래비스 섬 쪽으로 나간 뒤 돌아오지 않았습니다. 보신 분은 연락 바랍니다. 사례하겠습니다.</div>\n      <div class=\"news-notice-sign\">가족 일동</div>\n    </div>\n  </div>\n</div>",
+   "passcode_question_html": "<div class=\"story-content\">\n  <div>식탁 아래에 뚜껑이 달린 케이스가 놓여 있다. \"메릴 카운티 해양생태 관측소 / 관리: A. 보이드\"라고 적힌 라벨이 붙어 있다.</div>\n  <div>뚜껑에는 글자 자물쇠가 달려 있다. 암호를 입력해야 열릴 것 같다.</div>\n</div>"
+  },
+  "ad3015fa-c4a8-4176-bd12-b3e54cde798e": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">암호가 풀리고 화면이 켜진다.</div>\n  <div>화면에는 문서 창 하나가 열려 있다.</div>\n</div>",
+   "passcode_question_html": "<div class=\"story-content\">\n  <div>책상 위 컴퓨터가 켜져 있다. 화면에는 암호 입력창이 떠 있다.</div>\n  <div>입력창 위에 \"나의 꿈 ev\"라고 적혀 있다.</div>\n</div>"
+  },
+  "c1f31439-75ed-480c-8e4b-224c612827f6": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 8월 말로 찍혀 있다.</div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"document-page\">\n    <div class=\"document-body small\">[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class=\"emphasis\">션 마이어스</span><br />보고 기간: 2031년 8월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집한 표본에 압력을 가하는 실험을 계속하고 있으나, 눈에 띄는 변화는 아직 없음.<br />3. 해역 동향: 인근 해역의 갑각류 어획은 예년 수준이며, 이를 먹이로 삼는 문어류도 꾸준히 어획됨.<br />4. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>\n  </div>\n</div>",
+   "passcode_question_html": null
+  },
+  "0cd13805-3185-4045-a5ba-46ca2b5f397c": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">서랍 안에 \"정기 진행 보고\"라는 서류철이 있다. 9월부터 이듬해 2월까지 여섯 달치 보고서가 이미 작성되어 있다.</div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"document-page\">\n    <div class=\"document-body small\">[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class=\"emphasis\">션 마이어스</span><br />보고 기간: 2031년 9월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집한 표본에 압력을 가하는 실험을 계속하고 있으나, 눈에 띄는 변화는 아직 없음.<br />3. 해역 동향: 인근 해역의 갑각류 어획은 예년 수준이며, 이를 먹이로 삼는 문어류도 꾸준히 어획됨.<br />4. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>\n  </div>\n  <div>넘겨 보니 나머지 다섯 달치도 보고 기간만 다를 뿐 문장이 같다.</div>\n</div>",
+   "passcode_question_html": null
+  },
+  "825c8695-d1f7-41ed-97fe-37bd01312178": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">보관함이 열린다. 안에는 투명한 액체가 든 유리병 하나와 종이 한 장이 들어 있다.</div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"document-page\">\n    <div class=\"document-body small\">[시험 제작 일지]<br />재료: RB-CBP 용액<br />1차~7차: 실패 (색과 농도가 고르지 않음)<br /><span class=\"emphasis\">8차</span>: 투명하고 색과 냄새가 없음. 변화가 빨라지는 것 확인.</div>\n  </div>\n</div>",
+   "passcode_question_html": "<div class=\"story-content\">\n  <div>벽면에 번호가 붙은 보관함이 줄지어 있다. 대부분 비어 있고, 한 칸만 잠겨 있다.</div>\n  <div>잠긴 칸의 번호는 긁혀 지워져 있다. 번호를 입력해야 열릴 것 같다.</div>\n</div>"
+  },
+  "65b4c2a9-e52c-4229-9886-362d9729a9f2": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">\"게\"를 살펴본다.</div>\n  <div>수조 안 개체의 대부분은 몸통이 둥글고 넓은 게의 모습이다. 그런데 몇 마리는 몸통이 납작하게 넓어지는 중인데도 길게 뻗은 더듬이와 꼬리 마디는 랍스터의 모습 그대로다. 수조의 라벨에는 \"랍스터\"라고만 적혀 있다.</div>\n</div>",
+   "passcode_question_html": "<div class=\"story-content\">\n  <div>벽 쪽 수조에 갑각류 여러 마리가 있다. 수조의 라벨에는 \"랍스터\"라고만 적혀 있다.</div>\n  <div>무엇을 자세히 살펴볼지 입력해야 할 것 같다.</div>\n</div>"
+  },
+  "7980f602-1ddd-4ebc-9781-e71286f595a9": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">잠금이 풀린 문 안쪽으로 지하로 내려가는 계단이 이어진다. 계단 아래 선반 위에 낡은 노트 한 권이 놓여 있다. 첫 장에 이렇게 적혀 있다.</div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"document-page\">\n    <div class=\"document-body small\">그 노인의 이름은 나중에야 알았다. <span class=\"emphasis\">아서 콜린스</span>.<br /><br />그해 9월, 그는 통발을 걷으러 왔다가 <span class=\"emphasis\">두목</span> 집에서 하룻밤 묵었다. 저녁 식사 때 두목이 소매를 걷자 드러난 손등을, 그는 한참 바라봤다. 아침에 떠나기 전에 그가 물었다. 혹시 전에 뭍 쪽 일을 하신 적이 있으십니까.<br /><br /><span class=\"emphasis\">두목</span>은 웃었다. 그날 밤 <span class=\"emphasis\">레너드</span>를 불렀다.<br /><br />그는 섬을 떠나지 못했다. 며칠 뒤 밤, <span class=\"emphasis\">두목</span>과 <span class=\"emphasis\">레너드</span>와 <span class=\"emphasis\">마이클</span>과 <span class=\"emphasis\">패트리샤</span>가 그를 북쪽 만으로 데려갔다. 나는 막내라 따라가서 지켜만 봤다. 물이 깊어서 그는 소리도 없이 가라앉았다.<br /><br />아무것도 하지 못했다. 그 뒤로 20년 동안 아무에게도 말하지 않았다.</div>\n  </div>\n</div>",
+   "passcode_question_html": "<div class=\"story-content\">\n  <div>시신이 막고 있던 구석의 문에는 글자 자물쇠가 달려 있다.</div>\n  <div>암호를 입력해야 열릴 것 같다.</div>\n</div>"
+  },
+  "cb0d40f3-ebe8-471c-9027-5ce74002a64a": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다. 맨 위에 한 줄이 적혀 있고, 그 아래로 필체가 제각각인 이름이 줄줄이 이어진다.</div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"document-page\">\n    <div class=\"document-body small\">우리는 서로를 팔지 않는다.<br /><br /><span class=\"emphasis\">프랭크 모란</span><br /><span class=\"emphasis\">레너드 크로스</span><br /><span class=\"emphasis\">마이클 번스</span><br /><span class=\"emphasis\">패트리샤 번스</span><br /><span class=\"emphasis\">지미 쇼</span><br /><span class=\"emphasis\">데비 쇼</span><br /><span class=\"emphasis\">로니 헤이즈</span></div>\n  </div>\n</div>",
+   "passcode_question_html": "<div class=\"story-content\">\n  <div>침실 한쪽 서랍에 자물쇠가 달려 있다.</div>\n  <div>암호를 입력해야 열릴 것 같다.</div>\n</div>"
+  },
+  "3dffab76-8503-47ca-a146-a93731683bb8": {
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">단말기에서 \"<span class=\"emphasis\">홀트</span>\" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.</div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"document-page\">\n    <div class=\"document-body small\">공급처: <span class=\"emphasis\">홀트</span> 수산<br />대표: <span class=\"emphasis\">에드거</span><br />품목: 갑각류 표본<br />신원 조회 결과: <span class=\"emphasis\">일치하는 기록 없음</span></div>\n  </div>\n</div>",
+   "passcode_question_html": "<div class=\"story-content\">\n  <div>단말기에 옛 거래처 자료가 폴더 수백 개 분량으로 쌓여 있다.</div>\n  <div>너무 방대해서 어디서부터 찾아야 할지 모르겠다. 검색할 단어가 필요하다.</div>\n</div>"
+  }
+ }
+}

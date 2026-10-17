@@ -873,3 +873,34 @@
     padding: 0 0.1em;
     white-space: nowrap;
 }
+/* 비밀코드 질문 아래의 입력 형식 안내 */
+.story-content .passcode-guide {
+    margin-top: 0.6rem;
+    font-size: 0.8rem;
+    opacity: 0.75;
+}
+/* 비밀코드 힌트(역할 지침 안의 접힘 힌트) */
+.story-content .hint-note {
+    margin: 0.2rem 0 0.6rem;
+    font-size: 0.8rem;
+    opacity: 0.75;
+}
+
+.story-content details.hint-box {
+    margin: 0.4rem 0;
+    padding: 0.1rem 0.8rem;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.03);
+}
+
+.story-content details.hint-box summary {
+    padding: 0.45rem 0;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.story-content details.hint-box p {
+    margin: 0.3rem 0 0.6rem;
+    line-height: 1.6;
+}

@@ -6,7 +6,7 @@ StoryID : 7169e13b-5160-4a9b-9769-8ffd19763aa7
 ※ 베일라 1~4단계 → 마커스 1~4단계 순으로, 같은 단계끼리 나란히 비교할 수 있도록 정렬한다.
 ※ 전체 줄거리 요약(참고용): 마을 사람 7명은 전부 20년도 더 전에 소탕된 밀수 조직("모란 일당")의 생존 수뇌부로, 혈연관계 없이 "홀트 집안"을 자처하며 숨어 살아왔다. 20년 전 베일라의 친할아버지가 이들의 정체를 알아채 살해당했다. 베일라의 사촌 어슐라 콜린스는 이 사실을 추적하다 같은 사람들에게 살해당했으나, 인근 연구시설 사고로 유출된 물질 덕에 두족류 인간으로 되살아나 하루에 한 집씩 복수해왔다(오늘 새벽 마지막 희생자로 마을 전체가 빔). 연구시설 쪽은 별개 사건 — 신입 연구원(실은 정부 감사 요원)에게 소장의 비공식 "급속 진화" 연구가 발각되자, 소장이 건배를 구실로 시제품을 탄 음료를 전원에게 마시게 했는데, 오웬이 몰래 바꿔 둔 보드카의 C2H5OH 때문에 노화가 되어 전원이 사망(오웬만 조금 마시고 개수대에 쏟아버려 치매 노인처럼만 늙고 생존)했다. 두 사건은 같은 사고(물질 유출)에서 갈라져 나왔을 뿐, 서로 무관한 비극이다.
 ※ 페어플레이 원칙(내용/HTML 필드): 관찰 가능한 사실만 제공하고, 결론·동기·정체에 대한 어떤 단정도 서술자가 대신 내리지 않는다. [[feedback_clue_fairplay_observability]] 참고.
-※ 참고: 게화는 협력 추리물이라 상대에게 숨기는 개별 비밀 단서가 없다. 모든 단서는 게임보드에 뒷면으로 놓이고, 플레이어가 AP 1을 써서 조사해 얻는다(모든 조사 단계에서 AP 6을 준다. 연계 보조 단서는 AP를 쓰지 않는다). 단서는 교환하거나 보드에 공개할 수 없고("교환 가능 여부" 필드는 N), 같은 역할만 조사할 수 있다. 통화로 받은 코드(비밀코드)를 입력해 조사하는 보너스 단서는 2단계부터 있으며 "획득 조건 존재 여부 Y, 질문 HTML 포함" 형식을 쓴다(통발 쌓인 집#3, 연구 구역#6). 연계 보조 단서는 시작 때 숨겨져 있다가 트리거 단서를 조사하면 보드에 뒷면으로 나타난다.
+※ 참고: 게화는 협력 추리물이라 상대에게 숨기는 개별 비밀 단서가 없다. 모든 단서는 게임보드에 뒷면으로 놓이고, 플레이어가 AP 1을 써서 조사해 얻는다(모든 조사 단계에서 AP 6을 준다. 연계 보조 단서는 AP를 쓰지 않는다). 단서는 교환하거나 보드에 공개할 수 없고("교환 가능 여부" 필드는 N), 같은 역할만 조사할 수 있다. 다만 최종 추리 단계(10단계)는 단계 설정 "단서 공개 허용"이 켜져 있어 이 단계에서만 소유한 단서를 보드에 공개할 수 있다. 통화로 받은 코드(비밀코드)를 입력해 조사하는 보너스 단서는 2단계부터 있으며 "획득 조건 존재 여부 Y, 질문 HTML 포함" 형식을 쓴다(통발 쌓인 집#3, 연구 구역#6). 연계 보조 단서는 시작 때 숨겨져 있다가 트리거 단서를 조사하면 보드에 뒷면으로 나타난다.
 ※ 이미지생성용 프롬프트 구성: (공통 화풍) + (장소 설정: 섬 집 또는 연구시설 구역) + (피사체) + (글자 금지). 섬의 집은 메인주 외딴 섬의 목조 클랩보드 어부 집(폐허나 석조가 아님, 며칠 전까지 사람이 살던 집), 연구시설은 2020년대 해안의 낮은 콘크리트 건물이다. 섬의 집은 모두 전등이 꺼진 상태로 창으로 들어오는 흐린 자연광만 쓰고, 이미지에는 검은 띠(레터박스)나 테두리를 두지 않는다. 인물의 얼굴은 보이지 않게 하고, 글자는 읽히지 않는 필기로만 둔다(이름, 라벨, 문구는 단서 본문이 전달한다).
 
 ---
@@ -131,13 +131,13 @@ groupId : 3725bb31-4ac1-43ba-8733-ff455439ff90
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 이 단계의 핵심 발견 — 한 남자가 죽어 있다는 것. 이 남자가 장총에 이름이 새겨진 "월터"인지는 텍스트로 말하지 않고 플레이어가 장총 단서와 연결해 추리하게 한다("월터로 보이는" 같은 추정형도 쓰지 않는다). 실제로는 잠든 채 질식사했으므로(7-1 "복수의 방식" 참고) 평온한 모습으로 쓰지 않는다. 몸싸움(저항)의 흔적은 없지만 질식 자체의 괴로운 흔적은 남아 있게 쓴다. 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 월터에게는 남기지 않는다. 15세 등급에 맞춰 신체 묘사는 암시적으로만 처리(10장 참고) — 색 변화나 체액 등 직접적인 묘사는 쓰지 않는다.
+의도 : 이 단계의 핵심 발견 — 한 남자가 죽어 있다는 것. 이 남자가 장총에 이름이 새겨진 "월터"인지는 텍스트로 말하지 않고 플레이어가 장총 단서와 연결해 추리하게 한다("월터로 보이는" 같은 추정형도 쓰지 않는다). 실제로는 잠든 채 질식사했으므로(7-1 "복수의 방식" 참고) 평온한 모습으로 쓰지 않는다. 몸싸움(저항)의 흔적은 없지만 질식 자체의 괴로운 흔적은 남아 있게 쓴다. 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 월터에게는 남기지 않는다. 15세 등급에 맞춰 신체 묘사는 암시적으로만 처리(10장 참고) — 체액 등 직접적인 묘사는 쓰지 않는다. 다만 죽은 지 얼마나 됐는지(월터는 약 4일)를 알리려고 피부가 창백하고 푸른빛이 도는 정도의 완곡한 묘사는 쓴다(2026-10-17, 33차 피드백 반영). 에드거(약 5일)보다 덜하고 톰, 그레이스(약 3일)보다 더 오래된 정도다.
 내용 :
-안쪽 방, 한 남자가 침대 위에서 숨져 있다. 이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.
+안쪽 방, 한 남자가 침대 위에서 숨져 있다. 이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다. 얼굴과 손의 피부는 창백하고 군데군데 푸른빛이 돈다.
 HTML :
 <div class="story-content">
   <div class="script-direction">안쪽 방, 한 남자가 침대 위에서 숨져 있다.</div>
-  <div>이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다.</div>
+  <div>이불을 움켜쥔 손, 뒤로 꺾인 고개, 반쯤 벌어진 입. 누군가와 몸싸움을 벌인 흔적은 어디에도 없다. 얼굴과 손의 피부는 창백하고 군데군데 푸른빛이 돈다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with fishing nets hung in the yard, a working fisherman's home with boots, rope and tools around. Subject: A bedroom seen from the foot of the bed in dim light: a thin man lying on the bed with one hand clenched around the blanket, head tilted back, mouth slightly open, the bedding undisturbed, no sign of a struggle. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 크래비스 섬 - 그물 걸린 집
@@ -245,14 +245,14 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 
 1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.
 2. 외피 강도 실험: 채집한 표본에 압력을 가하는 실험을 계속하고 있으나, 눈에 띄는 변화는 아직 없음.
-3. 해역 동향: 인근 해역의 갑각류 어획은 예년 수준이며, 이를 먹이로 삼는 문어류도 꾸준히 어획됨.
+3. 해역 동향: 인근 해역의 갑각류 어획은 예년 수준이며, 이를 먹이로 삼는 두족류도 꾸준히 어획됨.
 4. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.
 HTML :
 <div class="story-content">
   <div class="script-direction">소장실 책상 위, 완성된 보고서 한 장이 발송되지 않은 채 놓여 있다. 작성일은 8월 말로 찍혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span><br />보고 기간: 2031년 8월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집한 표본에 압력을 가하는 실험을 계속하고 있으나, 눈에 띄는 변화는 아직 없음.<br />3. 해역 동향: 인근 해역의 갑각류 어획은 예년 수준이며, 이를 먹이로 삼는 문어류도 꾸준히 어획됨.<br />4. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
+    <div class="document-body small">[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span><br />보고 기간: 2031년 8월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집한 표본에 압력을 가하는 실험을 계속하고 있으나, 눈에 띄는 변화는 아직 없음.<br />3. 해역 동향: 인근 해역의 <span class="emphasis">갑각류</span> 어획은 예년 수준이며, 이를 먹이로 삼는 <span class="emphasis">두족류</span>도 꾸준히 어획됨.<br />4. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A single typed report page lying unsent on an orderly director's desk, a date stamp in the corner, plain official formatting with unreadable text, a desk lamp and a coffee mug. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -488,13 +488,13 @@ groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 1번째 희생자. 자다가 질식했으므로 저항·몸싸움의 흔적이 없다. 시신에서는 이름을 확정하지 않고 "사진 속 노인과 같은 손등의 화상 자국"이라는 관찰만 겹치게 둔다. 비워진 지 가장 오래됐다는 인상은 탁한 공기로만 전한다.
+의도 : 1번째 희생자. 자다가 질식했으므로 저항·몸싸움의 흔적이 없다. 시신에서는 이름을 확정하지 않고 "사진 속 노인과 같은 손등의 화상 자국"이라는 관찰만 겹치게 둔다. 비워진 지 가장 오래됐다는 인상(약 5일)은 탁한 공기와, 어둡게 변해 가는 피부와 꺼진 뺨으로 전한다. 가장 오래된 시신이라 촉수 자국이 남아 있는지 알아볼 수 없는 것으로 이어진다(날짜는 쓰지 않는다).
 내용 :
-안방 침대 위에 마른 노인의 시신이 반듯하게 누워 있다. 이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.
+안방 침대 위에 마른 노인의 시신이 반듯하게 누워 있다. 이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 모양 그대로이고, 그 손등에는 오래된 화상 자국이 있다. 입은 벌어져 있다. 얼굴과 손의 피부는 어둡게 변해 가고 있고 뺨이 꺼져 있다. 방 안 공기가 탁하다.
 HTML :
 <div class="story-content">
   <div class="script-direction">안방 침대 위에 마른 노인의 시신이 반듯하게 누워 있다.</div>
-  <div>이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 채 굳어 있고, 그 손등에는 오래된 <span class="emphasis">화상 자국</span>이 있다. 입은 벌어져 있고, 방 안 공기가 탁하다.</div>
+  <div>이불이 목까지 덮여 있고 몸싸움을 벌인 흔적은 없다. 이불 밖으로 나온 손은 시트를 움켜쥔 모양 그대로이고, 그 손등에는 오래된 <span class="emphasis">화상 자국</span>이 있다. 입은 벌어져 있다. 얼굴과 손의 피부는 어둡게 변해 가고 있고 뺨이 꺼져 있다. 방 안 공기가 탁하다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The house with lobster traps stacked in the yard, an older man's neat, plain home with a few framed snapshots on the walls. Subject: A bedroom seen from the foot of the bed in dim light: a thin elderly man lying straight with the blanket pulled up to his neck, one hand outside the sheet clenched, an old burn scar on its back, mouth open, stale heavy air, no sign of a struggle. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 크래비스 섬 - 통발 쌓인 집
@@ -516,15 +516,16 @@ groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 암호 '에드거' 입력(1차 통화로 마커스에게 받은 이름)
+획득 조건 내용 : 암호 '에드거' 입력(1차 통화로 마커스에게 받은 이름). 영문 표기(Edgar 등)도 같은 정답으로 인정(variant.passcodes에 함께 등록)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
 의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 종이는 밀수 조직 시절 수뇌부 일곱 명이 서로를 팔지 않겠다고 서명한 서약서다(이름마다 필체가 다르다는 것으로 서명임을 전한다). 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사("프랭크 모란" 등)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다.
 질문 HTML :
 <div class="story-content">
-  <div>침실 한쪽 서랍에 자물쇠가 달려 있다.</div>
+  <div>침실 한쪽 서랍에 글자 자물쇠가 달려 있다.</div>
   <div>암호를 입력해야 열릴 것 같다.</div>
+  <div class="passcode-guide">한글로 입력해 주세요.</div>
 </div>
 내용 :
 잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다. 맨 위에 한 줄이 적혀 있고, 그 아래로 필체가 제각각인 이름이 줄줄이 이어진다.
@@ -796,11 +797,11 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 관련 : 마커스
 의도 : 정보 ①의 나머지 반쪽 — 보관소의 "RB-CBP" 병들이 전부 초록색이라는 것. 같은 보관소의 다른 시약병들 사이에 "C2H5OH / 에틸 알코올"이 섞여 있다(4단계에서 C2H5OH가 알코올임을 알게 하는 복선이므로 본문은 병 이름만 보여주고 중요성을 설명하지 않는다). 논문이 말한 붉은색과 어긋나므로 "RB-CBP라는 이름표를 붙인 다른 무언가"가 있다는 의문만 남긴다. 이 초록색 용액은 급속 노화 물질의 재료이고(완성품이 아님), 3단계 이후에서 마이어스의 연구대로 실험하면 투명한 색에 무색무취의 액체가 나온다는 게 밝혀진다 — 그 해석은 텍스트로 설명하지 않는다.
 내용 :
-시약 보관소의 선반마다 "RB-CBP / 염색 시약"이라고 적힌 병이 줄지어 서 있다. 병 속 용액은 하나같이 짙은 초록색이다. 한쪽 칸에는 증류수, 아세톤, "C2H5OH / 에틸 알코올", "NaCl / 염화나트륨" 같은 다른 시약병들이 섞여 있다.
+시약 보관소의 선반마다 "RB-CBP / 염색 시약"이라고 적힌 병이 줄지어 서 있다. 병 속 용액은 하나같이 짙은 초록색이다. 한쪽 칸에는 증류수, 아세톤, C2H5OH / 에틸 알코올, NaCl / 염화나트륨 같은 다른 시약병들이 섞여 있다.
 HTML :
 <div class="story-content">
-  <div class="script-direction">시약 보관소의 선반마다 "RB-CBP / 염색 시약"이라고 적힌 병이 줄지어 서 있다.</div>
-  <div>병 속 용액은 하나같이 짙은 초록색이다. 한쪽 칸에는 증류수, 아세톤, "C2H5OH / 에틸 알코올", "NaCl / 염화나트륨" 같은 다른 시약병들이 섞여 있다.</div>
+  <div class="script-direction">시약 보관소의 선반마다 "<span class="emphasis">RB-CBP / 염색 시약</span>"이라고 적힌 병이 줄지어 서 있다.</div>
+  <div>병 속 용액은 하나같이 짙은 초록색이다. 한쪽 칸에는 증류수, 아세톤, <span class="emphasis">C2H5OH / 에틸 알코올</span>, <span class="emphasis">NaCl / 염화나트륨</span> 같은 다른 시약병들이 섞여 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: Rows of identical glass reagent bottles on laboratory shelves, every bottle filled with deep green liquid, with a few other reagent bottles at the end of one shelf; all labels are blank or unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 연구시설 - 연구 구역
@@ -836,7 +837,7 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 
 1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.
 2. 외피 강도 실험: 채집한 표본에 압력을 가하는 실험을 계속하고 있으나, 눈에 띄는 변화는 아직 없음.
-3. 해역 동향: 인근 해역의 갑각류 어획은 예년 수준이며, 이를 먹이로 삼는 문어류도 꾸준히 어획됨.
+3. 해역 동향: 인근 해역의 갑각류 어획은 예년 수준이며, 이를 먹이로 삼는 두족류도 꾸준히 어획됨.
 4. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.
 
 넘겨 보니 나머지 다섯 달치도 보고 기간만 다를 뿐 문장이 같다.
@@ -845,7 +846,7 @@ HTML :
   <div class="script-direction">서랍 안에 "정기 진행 보고"라는 서류철이 있다. 9월부터 이듬해 2월까지 여섯 달치 보고서가 이미 작성되어 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span><br />보고 기간: 2031년 9월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집한 표본에 압력을 가하는 실험을 계속하고 있으나, 눈에 띄는 변화는 아직 없음.<br />3. 해역 동향: 인근 해역의 갑각류 어획은 예년 수준이며, 이를 먹이로 삼는 문어류도 꾸준히 어획됨.<br />4. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
+    <div class="document-body small">[메릴 카운티 해양생태 관측소 월간 연구 진행 보고]<br />보고자: <span class="emphasis">션 마이어스</span><br />보고 기간: 2031년 9월<br /><br />1. 표본 채집: 전월과 동일한 수준으로 갑각류 표본 채집을 진행함. 특이사항 없음.<br />2. 외피 강도 실험: 채집한 표본에 압력을 가하는 실험을 계속하고 있으나, 눈에 띄는 변화는 아직 없음.<br />3. 해역 동향: 인근 해역의 <span class="emphasis">갑각류</span> 어획은 예년 수준이며, 이를 먹이로 삼는 <span class="emphasis">두족류</span>도 꾸준히 어획됨.<br />4. 종합 의견: 이번 달도 뚜렷한 진전은 없었음. 다음 달에도 동일한 절차로 실험을 이어갈 예정임.</div>
   </div>
   <div>넘겨 보니 나머지 다섯 달치도 보고 기간만 다를 뿐 문장이 같다.</div>
 </div>
@@ -869,7 +870,7 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 암호 '홀트' 입력(1차 통화로 베일라에게 받은 성)
+획득 조건 내용 : 암호 '홀트' 입력(1차 통화로 베일라에게 받은 성). 영문 표기(Holt 등)도 같은 정답으로 인정(variant.passcodes에 함께 등록)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
@@ -878,6 +879,7 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 <div class="story-content">
   <div>단말기에 옛 거래처 자료가 폴더 수백 개 분량으로 쌓여 있다.</div>
   <div>너무 방대해서 어디서부터 찾아야 할지 모르겠다. 검색할 단어가 필요하다.</div>
+  <div class="passcode-guide">한글로 입력해 주세요.</div>
 </div>
 내용 :
 단말기에서 "홀트" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.
@@ -885,13 +887,13 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 공급처: 홀트 수산
 대표: 에드거
 품목: 갑각류 표본
-신원 조회 결과: 일치하는 기록 없음
+신원 조회 결과: 확인 불가
 HTML :
 <div class="story-content">
   <div class="script-direction">단말기에서 "<span class="emphasis">홀트</span>" 자료를 찾아 열었다. 크래비스 섬의 정기 공급처로 등록된 기록이다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">공급처: <span class="emphasis">홀트</span> 수산<br />대표: <span class="emphasis">에드거</span><br />품목: 갑각류 표본<br />신원 조회 결과: <span class="emphasis">일치하는 기록 없음</span></div>
+    <div class="document-body small">공급처: <span class="emphasis">홀트</span> 수산<br />대표: <span class="emphasis">에드거</span><br />품목: 갑각류 표본<br />신원 조회 결과: <span class="emphasis">확인 불가</span></div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A thin flat-panel monitor on a laboratory office desk showing a plain database record page with one highlighted row and folder icons, a clean sans-serif interface too small to read, cool white glow. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -1108,7 +1110,7 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 암호 '앨런' 입력(2차 통화로 마커스에게 받은 이름)
+획득 조건 내용 : 암호 '앨런' 입력(2차 통화로 마커스에게 받은 이름). 영문 표기(Alan 등)도 같은 정답으로 인정(variant.passcodes에 함께 등록)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
@@ -1117,6 +1119,7 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 <div class="story-content">
   <div>식탁 아래에 뚜껑이 달린 케이스가 놓여 있다. "메릴 카운티 해양생태 관측소 / 관리: A. 보이드"라고 적힌 라벨이 붙어 있다.</div>
   <div>뚜껑에는 글자 자물쇠가 달려 있다. 암호를 입력해야 열릴 것 같다.</div>
+  <div class="passcode-guide">한글로 입력해 주세요.</div>
 </div>
 내용 :
 케이스 안에는 낚시 바늘 통, 낡은 지갑, 라이터, 구겨진 영수증 같은 잡동사니가 들어 있다. 그 사이에 누렇게 바랜 신문 스크랩 두 장이 끼어 있다.
@@ -1426,6 +1429,7 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 <div class="story-content">
   <div>벽면에 번호가 붙은 보관함이 줄지어 있다. 대부분 비어 있고, 한 칸만 잠겨 있다.</div>
   <div>잠긴 칸의 번호는 긁혀 지워져 있다. 번호를 입력해야 열릴 것 같다.</div>
+  <div class="passcode-guide">숫자로 입력해 주세요.</div>
 </div>
 내용 :
 보관함이 열린다. 안에는 투명한 액체가 든 유리병 하나와 종이 한 장이 들어 있다.
@@ -1704,7 +1708,7 @@ groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 언덕 위 집#1(시신)을 조사하면 뒷면으로 추가 배치(연계 보조 단서). 열려면 암호 '로니' 입력(이 집 주인의 실명. 3단계 톰의 쪽지에서 소거해 추리할 수 있다)
+획득 조건 내용 : 언덕 위 집#1(시신)을 조사하면 뒷면으로 추가 배치(연계 보조 단서). 열려면 암호 '로니' 입력(이 집 주인의 실명. 3단계 톰의 쪽지에서 소거해 추리할 수 있다). 영문 표기(Ronnie 등)도 같은 정답으로 인정(variant.passcodes에 함께 등록)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
@@ -1713,6 +1717,7 @@ groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
 <div class="story-content">
   <div>시신이 막고 있던 구석의 문에는 글자 자물쇠가 달려 있다.</div>
   <div>암호를 입력해야 열릴 것 같다.</div>
+  <div class="passcode-guide">한글로 입력해 주세요.</div>
 </div>
 내용 :
 잠금이 풀린 문 안쪽으로 지하로 내려가는 계단이 이어진다. 계단 아래 선반 위에 낡은 노트 한 권이 놓여 있다. 첫 장에 이렇게 적혀 있다.
@@ -1903,6 +1908,7 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 <div class="story-content">
   <div>책상 위 컴퓨터가 켜져 있다. 화면에는 암호 입력창이 떠 있다.</div>
   <div>입력창 위에 "나의 꿈 ev"라고 적혀 있다.</div>
+  <div class="passcode-guide">영문 또는 한글로 입력해 주세요.</div>
 </div>
 내용 :
 암호가 풀리고 화면이 켜진다.
@@ -1979,6 +1985,7 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 <div class="story-content">
   <div>벽 쪽 수조에 갑각류 여러 마리가 있다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
   <div>무엇을 자세히 살펴볼지 입력해야 할 것 같다.</div>
+  <div class="passcode-guide">한글로 입력해 주세요.</div>
 </div>
 내용 :
 "게"를 살펴본다.

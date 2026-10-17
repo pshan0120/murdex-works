@@ -1,0 +1,26 @@
+{
+ "베일라_5": {
+  "guideline_id": "9d1a899d-e28b-41a4-af99-ebe2884c93ca",
+  "description": "<div class=\"story-content\">\n  <section class=\"content-section\">\n    <div class=\"section-title\">목표 - <span class=\"character-veyla\">베일라</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>통발 쌓인 집과 빨래 널린 집</strong>: 문과 창이 굳게 잠겨 있었지만 첫 집에서 챙긴 쇠지레로 문을 열고 들어왔다. 이 집들 안에서 무슨 일이 있었는지 확인한다.</li>\n    </ul>\n  </section>\n  <section class=\"content-section\">\n    <div class=\"section-title\">어슐라의 한마디</div>\n    <ul class=\"goal-list\">\n      <li><span class=\"character-ursula\">어슐라</span>: \"한 가지만 말할게. 아까 통화에서 연구시설 얘기를 들었잖아. 거기서 사고가 있었다면, 이렇게 한꺼번에 쓰러지는 건 독성 물질 때문일지도 몰라. 겁에 질린 사람들이 문을 잠그고 숨은 거라면 이 밀실도 설명되잖아. 누가 한 짓이라고만 생각하지 않는 게 좋겠어.\"</li>\n    </ul>\n  </section>\n</div>"
+ },
+ "마커스_5": {
+  "guideline_id": "343d9f9b-32c1-4d01-b4c0-8acdbb71e2a5",
+  "description": "<div class=\"story-content\">\n  <section class=\"content-section\">\n    <div class=\"section-title\">목표 - <span class=\"character-marcus\">마커스</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>연구자들의 구역</strong>: 일반 구역을 지나 연구자만 드나들 수 있는 구역에 들어와 있다. 본부 자료에 적힌 갑각류 외골격을 응용한 소재 강화 연구가 실제로 진행됐는지, 직원들이 어디서 무엇을 했는지 확인한다.</li>\n    </ul>\n  </section>\n</div>"
+ },
+ "베일라_7": {
+  "guideline_id": "bdff89e7-de7e-46fc-bd20-f0e400613d67",
+  "description": "<div class=\"story-content\">\n  <section class=\"content-section\">\n    <div class=\"section-title\">목표 - <span class=\"character-veyla\">베일라</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>판자로 막은 집</strong>: 창마다 판자가 덧대어져 있었지만 판자를 뜯어내고 안으로 들어왔다. 이 집 사람들이 무엇을 두려워했는지 확인한다.</li>\n    </ul>\n  </section>\n  <section class=\"content-section\">\n    <div class=\"section-title\">어슐라의 한마디</div>\n    <ul class=\"goal-list\">\n      <li><span class=\"character-ursula\">어슐라</span>: \"이 섬에 유령이 나온다는 소문이 있대. 북쪽 만에서 빠져 죽은 여자가 돌아온 거라나. 웃기지?\"</li>\n    </ul>\n  </section>\n</div>"
+ },
+ "마커스_7": {
+  "guideline_id": "52d661a9-5c25-434b-8897-b69ea5a235fb",
+  "description": "<div class=\"story-content\">\n  <section class=\"content-section\">\n    <div class=\"section-title\">목표 - <span class=\"character-marcus\">마커스</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>인가자만의 구역</strong>: 출입 카드로 문을 열고, 인가받은 사람만 드나들 수 있는 통제 구역에 들어와 있다. 여기에 소장이 숨긴 것이 있을지 모른다.</li>\n    </ul>\n  </section>\n  <section class=\"content-section\">\n    <div class=\"section-title\">인지 - <span class=\"character-marcus\">마커스</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>구석의 노인</strong>: 통제 구역 안쪽 구석에 한 노인이 웅크려 앉아 있다. 머리와 손이 많이 늙었고 곁에 빈 술병이 굴러다닌다. 알코올중독자 같은 모습이다. 같은 말을 되풀이하며 중얼거리고, 대화는 되지 않는다.</li>\n    </ul>\n  </section>\n</div>"
+ },
+ "마커스_9": {
+  "guideline_id": "417d4227-8b3b-4add-a662-b1b3ff650131",
+  "description": "<div class=\"story-content\">\n  <section class=\"content-section\">\n    <div class=\"section-title\">목표 - <span class=\"character-marcus\">마커스</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>가장 안쪽</strong>: 통제 구역 안쪽 벽 너머, 소장만 아는 숨겨진 구역에 들어와 있다. 소장이 숨긴 연구의 실체를 확인한다.</li>\n    </ul>\n  </section>\n  <section class=\"content-section\">\n    <div class=\"section-title\">비밀코드 힌트</div>\n    <p class=\"hint-note\">막혔을 때만 하나씩 펼쳐 보세요. 아래로 갈수록 답에 가까워집니다.</p>\n    <details class=\"hint-box\">\n      <summary>비밀 구역#6에 대한 첫 번째 힌트</summary>\n      <p>수조의 암호는 베일라가 통화에서 전해 준 말과 이어져 있습니다. 통화 내용을 다시 떠올려 보세요.</p>\n    </details>\n    <details class=\"hint-box\">\n      <summary>비밀 구역#6에 대한 두 번째 힌트</summary>\n      <p>베일라가 본 단서 가운데 수조 안의 생물과 같은 종류를 말하는 내용이 있었는지 물어보세요.</p>\n    </details>\n    <details class=\"hint-box\">\n      <summary>비밀 구역#6에 대한 세 번째 힌트</summary>\n      <p>그 이야기에서 가장 눈에 띄던 낱말이 암호입니다. 베일라와 함께 다시 확인해 보세요.</p>\n    </details>\n  </section>\n</div>"
+ },
+ "베일라_9": {
+  "guideline_id": "6905bd06-abfe-49b9-b649-1f1fc4607688",
+  "description": "<div class=\"story-content\">\n  <section class=\"content-section\">\n    <div class=\"section-title\">목표 - <span class=\"character-veyla\">베일라</span></div>\n    <ul class=\"goal-list\">\n      <li><strong>마지막 집</strong>: 마을에서 가장 높은 곳에 있는 집 안으로 들어왔다. 이곳에서 알아낸 것을 모아 지금까지의 조각을 맞춘다.</li>\n    </ul>\n  </section>\n  <section class=\"content-section\">\n    <div class=\"section-title\">어슐라의 한마디</div>\n    <ul class=\"goal-list\">\n      <li><span class=\"character-ursula\">어슐라</span>: \"여기가 마지막 집이네. 나는 밖에서 기다릴게. 이런 건 오래 못 보겠어. …아까 말한 유령 소문, 이 집은 그걸 막으려고 지은 요새 같아. 이 사람은 끝까지 믿었나 봐.\"</li>\n    </ul>\n  </section>\n  <section class=\"content-section\">\n    <div class=\"section-title\">비밀코드 힌트</div>\n    <p class=\"hint-note\">막혔을 때만 하나씩 펼쳐 보세요. 아래로 갈수록 답에 가까워집니다.</p>\n    <details class=\"hint-box\">\n      <summary>언덕 위 집#7에 대한 첫 번째 힌트</summary>\n      <p>구석의 문에 넣을 글자는 이 집에 살던 사람과 관련이 있습니다.</p>\n    </details>\n    <details class=\"hint-box\">\n      <summary>언덕 위 집#7에 대한 두 번째 힌트</summary>\n      <p>앞선 단계에서 여러 사람의 이름이 한꺼번에 나온 단서가 있었습니다. 그 이름들을 다시 읽어 보세요.</p>\n    </details>\n    <details class=\"hint-box\">\n      <summary>언덕 위 집#7에 대한 세 번째 힌트</summary>\n      <p>그 이름들 가운데 이미 집에서 마주친 사람들을 하나씩 지워 보세요. 남는 사람이 이 집 주인이고, 성은 빼고 이름만 입력합니다.</p>\n    </details>\n  </section>\n</div>"
+ }
+}
