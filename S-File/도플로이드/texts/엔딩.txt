@@ -4,7 +4,7 @@
 
 제목: 참극: 엇갈린 분노
 EndingID : 9caf4a91-84c1-4004-8b66-f2ec9fa1dd7e
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 베일라(제압 X, 클레이 선택) & 마커스(제압 X, 도플로이드 선택)
 순서: 1
 내용:
@@ -192,7 +192,7 @@ EndingID : c7f043f1-d743-4036-beef-3a87cd70170b
 
 제목: 일방적 자비: 눈먼 확신
 EndingID : b61954ab-369f-46c7-b9cb-7c5b4d5cde17
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 마커스(제압 O, 클레이 선택) & 베일라(제압 X, 제압당함 → 끝까지 저항)
 순서: 5
 내용:
@@ -283,7 +283,7 @@ EndingID : 2036746f-dd30-41fc-abfc-488d15929917
 
 제목: 눈먼 복수: 지워진 진실
 EndingID : 519af200-d104-4707-bffb-7fa6aca46a31
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 베일라(제압 O, 클레이 선택) & 마커스(제압 X, 제압당함 → 끝까지 저항)
 순서: 7
 내용:
@@ -375,7 +375,7 @@ EndingID : b5fdd01c-c566-4477-ab31-f394668a5b6a
 
 제목: 공멸: 서로를 향한 총구
 EndingID : a93c24a8-81c0-4211-ad46-97d3081a4b9d
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 베일라(제압 O) & 마커스(제압 O), 믿음 무관
 순서: 9
 내용:
@@ -609,7 +609,7 @@ EndingID : 5e797a37-baef-41bc-9763-78e5574aec91
 
 제목: 미종결: 엇갈린 기록
 EndingID : b1222c86-d2d3-4113-906e-e23e6db7fdc8
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: (해당 없음 — 어떤 판정 규칙에도 맞지 않을 때 배정되는 기본 엔딩)
 순서: 14
 기본 엔딩: 예

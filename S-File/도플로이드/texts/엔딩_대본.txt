@@ -10,7 +10,7 @@
 
 제목: 참극: 엇갈린 분노
 EndingID : 9caf4a91-84c1-4004-8b66-f2ec9fa1dd7e
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 베일라(제압 X, 클레이 선택) & 마커스(제압 X, 도플로이드 선택)
 
 화자 역할:
@@ -695,7 +695,7 @@ EndingID : c7f043f1-d743-4036-beef-3a87cd70170b
 
 제목: 일방적 자비: 눈먼 확신
 EndingID : b61954ab-369f-46c7-b9cb-7c5b4d5cde17
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 마커스(제압 O, 클레이 선택) & 베일라(제압 X, 제압당함 → 끝까지 저항)
 
 화자 역할:
@@ -1006,7 +1006,7 @@ EndingID : 2036746f-dd30-41fc-abfc-488d15929917
 
 제목: 눈먼 복수: 지워진 진실
 EndingID : 519af200-d104-4707-bffb-7fa6aca46a31
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 베일라(제압 O, 클레이 선택) & 마커스(제압 X, 제압당함 → 끝까지 저항)
 
 화자 역할:
@@ -1340,7 +1340,7 @@ EndingID : b5fdd01c-c566-4477-ab31-f394668a5b6a
 
 제목: 공멸: 서로를 향한 총구
 EndingID : a93c24a8-81c0-4211-ad46-97d3081a4b9d
-엔딩타입: BAD_ENDING
+엔딩타입: NORMAL_ENDING
 조건: 베일라(제압 O) & 마커스(제압 O), 믿음 무관
 
 화자 역할:
