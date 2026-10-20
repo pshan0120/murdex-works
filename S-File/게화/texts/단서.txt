@@ -603,20 +603,16 @@ groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 "접힌 종이를 펼치니 무한대 기호가 보인다"고만 쓰고, 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다.
+의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 설명 없이 접힌 종이 한 장이 나온다고만 쓰고 종이 안의 ∞는 CSS로 접힌 메모지(.note-paper)에 볼펜 글씨처럼 보여 준다(2026-10-21: "펼쳐 보니 무한대 기호가 보인다" 문장 삭제). 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다.
 내용 :
 거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다. 한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
 
-펼쳐 보니 무한대 기호가 보인다.
 HTML :
 <div class="story-content">
   <div class="script-direction">거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다.</div>
   <div>한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
   <div class="divider-gold"></div>
-  <div class="document-page">
-    <div class="document-body small">∞</div>
-  </div>
-  <div>펼쳐 보니 <span class="emphasis">무한대 기호</span>가 보인다.</div>
+  <div class="note-paper"><div class="note-ink">∞</div></div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A married couple's tidy home with laundry still hanging in the yard outside the window. Subject: A living room floor seen from a slight distance: a woman lying face down on the plank floor with her head toward the front door, both legs straight out behind her, one arm stretched forward above her head toward the door and the other arm bent beside her body with the hand clenched in a fist around a small folded piece of paper of which only a corner shows and nothing on it is visible. A ballpoint pen lies on the floor near her; a telephone on a side table with a memo pad with one page torn off stands to one side. Her face is hidden by her hair. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 크래비스 섬 - 빨래 널린 집
