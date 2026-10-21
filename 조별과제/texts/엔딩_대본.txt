@@ -33,6 +33,7 @@ EndingID : 19743242-b5c6-4910-8ea9-d9c7ec833310
 [1] 화자 타입: DIRECTIVE
     담당 플레이어: 이준서
     대사: 강의실 안의 시계 소리가 유난히 크게 들렸다. 밤 9시. 형광등은 전압이 불안정한지 연신 미세하게 깜빡거렸고, 그 아래에서 네 사람은 누구도 입을 떼지 못한 채 노트북 화면의 빈 공간만 바라보고 있었다.
+    효과음: works/효과음/clock/시계_초침_째깍.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_misc_scene_sfx.py --apply)
 
 [2] 화자 타입: DIRECTIVE
     담당 플레이어: 이준서
@@ -403,6 +404,7 @@ EndingID : a6566dcf-e781-477b-a42b-4344c9d5278e
 [15] 화자 타입: DIRECTIVE
     담당 플레이어: 최도윤
     대사: <span class="character-choi">도윤</span>은 동료들의 발소리가 복도 끝에서 사라지는 것을 확인한 뒤, 홀로 발표용 PC 앞에 다시 앉았다. 화면에 띄워진 완벽한 데이터들... 그것은 모두의 노력이었지만, 동시에 <span class="character-choi">도윤</span>의 부정을 입증할 위험한 증거물이었다. 내일 이 파일이 AI 채점 서비스의 알고리즘을 분석받는 순간, <span class="character-choi">도윤</span>이 숨겨온 가짜 참고문헌과 AI의 흔적들은 만천하에 까발려질 것이다.
+    효과음: works/효과음/steps/발소리_복도_멀어짐.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_misc_scene_sfx.py --apply)
 
 [16] 화자 타입: DIRECTIVE
     담당 플레이어: 최도윤
@@ -545,6 +547,7 @@ EndingID : 999c3163-70ab-48ce-9aae-00841a807a27
 [18] 화자 타입: DIRECTIVE
     담당 플레이어: 최도윤
     대사: 복도에는 정적만이 남았다. 계단을 내려가는 <span class="character-han">세린</span>의 하이힐 소리와 <span class="character-hwang">기순</span>의 웃음소리가 멀어질수록, 텅 빈 강의실에 남겨진 두 남자의 속죄는 창밖의 눈발에 파묻혀 누구에게도 닿지 못한 채 공허하게 흩어져 갔다.
+    효과음: works/효과음/steps/발소리_하이힐_멀어짐.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_misc_scene_sfx.py --apply)
 
 [19] 화자 타입: DIRECTIVE
     담당 플레이어: 이준서

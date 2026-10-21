@@ -39,6 +39,7 @@ N
 [1] 화자 타입: DIRECTIVE
     담당 플레이어: 마커스 (FBI 수사관)
     대사: 베일라가 바람 부는 비탈에서 마커스의 번호를 누른다. 바람 소리 사이로 연결음이 울린다.
+    효과음: works/효과음/phone/전화_발신_연결음_바람.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_misc_scene_sfx.py --apply)
 
 [2] 화자 타입: PLAYER
     화자: 마커스 (FBI 수사관)

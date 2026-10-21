@@ -198,6 +198,7 @@ EndingID : 6676dbc9-0245-48cc-b665-fe194925b3bb
 [34] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 마커스가 수첩을 꺼냈다. 펜 뚜껑을 여는 소리가 조용한 물가에 크게 울렸다.
+    효과음: works/효과음/stationery/펜_뚜껑_딸깍.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_misc_scene_sfx.py --apply)
 
 [35] 화자 타입: PLAYER
     화자: 마커스
@@ -319,6 +320,7 @@ EndingID : 6676dbc9-0245-48cc-b665-fe194925b3bb
 [61] 화자 타입: DIRECTIVE
     담당 플레이어: 마커스
     대사: 서랍 속 수첩은 북쪽 만에서 덮은 그대로였다. 일곱 명의 이름을 적으려던 페이지는 여전히 비어 있었다. 그가 서랍을 닫고 열쇠를 돌리는데 휴대폰이 울렸다.
+    효과음: works/효과음/phone/전화_수신_벨.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_misc_scene_sfx.py --apply)
 
 [62] 화자 타입: PLAYER
     화자: 베일라

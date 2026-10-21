@@ -1011,6 +1011,7 @@ EndingID : f020addd-7fa3-46e1-9abd-12c04d57f6c0
 [26] 화자 타입: DIRECTIVE
     담당 플레이어: 고어후프
     대사: <span class="character-slither">슬리더</span>가 벽을 타고 숨으려 했지만, 몰아치는 바람이 은신을 걷어내며 그를 벽에 처박았다.
+    효과음: works/효과음/nature/바람_돌풍.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_misc_scene_sfx.py --apply)
 
 [27] 화자 타입: PLAYER
     화자: 슬리더

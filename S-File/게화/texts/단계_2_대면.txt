@@ -40,6 +40,7 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1791268325/murdex/images/7169
 [1] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라 (사립탐정)
     대사: 새벽 다섯 시가 조금 넘은 바닷가. 안개가 해안 길 위로 낮게 깔려 있고, 멀리서 썰물이 자갈을 끌어내리는 소리가 들린다.
+    효과음: works/효과음/nature/썰물_자갈_끌림.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_misc_scene_sfx.py --apply)
 
 [2] 화자 타입: DIRECTIVE
     담당 플레이어: 마커스 (FBI 수사관)

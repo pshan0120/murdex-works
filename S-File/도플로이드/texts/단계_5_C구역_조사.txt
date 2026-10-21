@@ -47,6 +47,7 @@ FBI 수사관 마커스 : 2
 
 [1] 화자 타입: DIRECTIVE
     대사: <span class="emphasis">B구역</span>에서의 조사를 마친 세 사람은 C구역으로 향하는 철문 앞에 멈춰 섰다. 소장이 문 옆 판독기에 손바닥을 올리자, 붉은빛이 그의 생체 정보를 스캔하며 느릿하게 깜빡였다.
+    효과음: works/효과음/device/장치_판독기_스캔.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_doploid_scene_sfx.py --apply)
     wav 파일: 단계_5_C구역_조사_1.wav
 
 [2] 화자 타입: PLAYER
@@ -91,6 +92,7 @@ FBI 수사관 마커스 : 2
 
 [9] 화자 타입: DIRECTIVE
     대사: 하지만 문이 열리자마자 코를 찌르는 강렬한 소독약 냄새와 함께, '삐- 삐-' 하는 기계음이 규칙적으로 울려 퍼졌다. 안쪽은 휴게실의 흔적은 전혀 없고, 온갖 투석기와 생명 유지 장치로 가득한 극비 중환자 병실이 자리하고 있었다.
+    효과음: works/효과음/hospital/병원_심전도_비프.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_doploid_scene_sfx.py --apply)
     wav 파일: 단계_5_C구역_조사_9.wav
 
 [10] 화자 타입: NPC

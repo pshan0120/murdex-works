@@ -120,6 +120,7 @@ https://cdn1.suno.ai/9b3b6a75-da27-47d8-bb86-0a1d7b6aae8c.mp3
 
 [14] 화자 타입: DIRECTIVE
     대사: 질문이 끝나갈 무렵, 천장의 비상 스피커가 갑자기 지직거리며 켜졌다.
+    효과음: works/효과음/broadcast/방송_스피커_지직.wav (DB audio_url로 연결, 담당 플레이어가 ▶로 재생. 다시 연결할 때는 murdex-api/scripts/sync_doploid_speaker_static.py --apply)
 
 [15] 화자 타입: DIRECTIVE
     대사: <span class="emphasis">"정부 집행팀입니다. 시설 정문에 도착했습니다. 집행 절차 개시 전 모든 인원은 즉시 퇴거하십시오. 5분 후 전 구역 봉쇄를 해제하고 강제 진입합니다."</span>
