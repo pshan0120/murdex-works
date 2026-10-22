@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Nanum+Pen+Script&family=Gowun+Dodum&display=swap");
 /*
  * 앙코르 - 커스텀 테마 CSS
  * 동화책 수채화풍(프롬프트.txt 확정) 기준의 따뜻하고 담백한 톤.
@@ -378,3 +379,67 @@
     -webkit-text-stroke: 0.25px #3A2519;
 }
 
+/* ============================================================
+   7. 손글씨 (쪽지, 편지처럼 인물이 직접 쓴 글)
+   - 단서 본문에서 인물이 종이에 쓴 부분만 <div class="handwriting handwriting-wife"> 등으로 감싸고 문단은 <p>로 나눈다.
+   - handwriting-wife: 아내의 글씨(둥글고 부드러운 필체). handwriting-owner: 주인의 글씨(가늘고 마른 펜 글씨).
+   - 메모지(type-memo)의 가로 줄무늬가 28px 간격이라, 줄 간격과 문단 간격을 28px에 맞춘다.
+   - 메모지 본문의 글자 외곽선(text-stroke)은 손글씨에서 끈다. 손글씨 폰트는 같은 크기에서 작게 보여 본문보다 키운다.
+   ============================================================ */
+
+.story-content .handwriting {
+    display: block;
+    margin: 28px 0;
+    word-break: keep-all;
+    letter-spacing: 0.01em;
+    -webkit-text-stroke: 0;
+}
+
+.story-content .handwriting p {
+    margin: 0 0 28px 0;
+    line-height: 28px;
+}
+
+.story-content .handwriting p:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .handwriting-wife {
+    font-family: "Gaegu", "Gamja Flower", cursive, sans-serif;
+    font-weight: 700;
+    font-size: 1.3em;
+    color: #6B4452;
+}
+
+.story-content .handwriting-owner {
+    font-family: "Nanum Pen Script", "Gamja Flower", cursive, sans-serif;
+    font-size: 1.65em;
+    color: #2F3B4A;
+}
+
+/* ============================================================
+   8. 말로 한 내용 (혼잣말, 인사처럼 입으로 건넨 말)
+   - 종이에 쓴 글(손글씨)과 구분되도록 부드러운 고딕체에 옅은 색, 왼쪽 선을 쓴다. 문단은 <p>, 감싸는 클래스는 spoken.
+   - 가로 줄무늬(28px)에 맞춘다.
+   ============================================================ */
+
+.story-content .spoken {
+    display: block;
+    margin: 28px 0;
+    padding-left: 14px;
+    border-left: 2px solid rgba(138, 90, 78, 0.35);
+    font-family: "Gowun Dodum", "Pretendard Variable", Pretendard, sans-serif;
+    font-size: 1.04em;
+    color: #5B4A42;
+    word-break: keep-all;
+    -webkit-text-stroke: 0;
+}
+
+.story-content .spoken p {
+    margin: 0 0 28px 0;
+    line-height: 28px;
+}
+
+.story-content .spoken p:last-child {
+    margin-bottom: 0;
+}

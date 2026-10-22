@@ -74,7 +74,12 @@ StepID : 854e7234-0cf5-49ae-aeae-ec6a6ade59b3
 - <span class="character-gorehoof">고어후프</span>는 승전 축제가 열릴 <span class="emphasis">연회장</span> 주변의 잔당들을 소탕하고 보안을 강화하라!<br>
 - <span class="character-slither">슬리더</span>는 <span class="emphasis">문서고</span>를 수색하여 숨겨진 기밀이나 유용한 정보들을 확보하라!<br>
 - <span class="character-elantra">엘란트라</span>는 <span class="emphasis">지하창고</span>를 확보하고 적들이 보관해 둔 군수 자원을 점거하라!<br><br>
-나 <span class="character-skullcrusher">스컬크러셔</span>는 이 성채의 전반적인 경비망을 꼼꼼히 점검하면서 전체 상황을 총괄 지휘하겠다.<br><br>
+나 <span class="character-skullcrusher">스컬크러셔</span>는 이 성채의 전반적인 경비망을 꼼꼼히 점검하면서 전체 상황을 총괄 지휘하겠다.
+
+[10] 화자 타입: PLAYER
+    화자: 스컬크러셔
+    화자 표시 HTML: <span class="character-skullcrusher">스컬크러셔</span>
+    대사: <span class="script-direction">(한쪽에서 받아 적고 있던 기록관을 돌아보며)</span> 기록관! 너는 구역에 매이지 말고 성 안 곳곳을 돌며 조사해라! 수색이 이어지는 동안 새로 발견되는 것은 하나도 빼놓지 말고, 그때마다 모두에게 낱낱이 보고하라!<br><br>
 <strong>그럼 저녁에 연회장에서 기분 좋게 승리의 축배를 나누자고. 다들 지체하지 말고 명령받은 구역으로 신속하게 이동하라!</strong>
 
 
