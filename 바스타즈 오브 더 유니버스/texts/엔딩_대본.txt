@@ -42,7 +42,7 @@ EndingID : 9af7209a-02a2-407c-9aff-08a118876b4c
 [4] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: 그 검은 고대 유물로 알려졌으나 실제로는 마신의 것이었습니다. 그런 자를 지휘관으로 믿었다니, 더는 신뢰할 근거가 없군요.
+    대사: 수장의 검은 고대 유물로 알려졌으나 실제로는 마신의 것이었습니다. 그런 자를 지휘관으로 믿었다니, 더는 신뢰할 근거가 없군요.
 
 [5] 화자 타입: PLAYER
     화자: 발로그
@@ -98,7 +98,7 @@ EndingID : 9af7209a-02a2-407c-9aff-08a118876b4c
 [16] 화자 타입: PLAYER
     화자: 슬리더
     화자 표시 HTML: <span class="character-slither">슬리더</span>
-    대사: ...여기까지다. 순순히 끝내주지.
+    대사: ...여기까지다. 조용히 끝내 주지.
 
 [17] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
@@ -144,7 +144,7 @@ EndingID : 9af7209a-02a2-407c-9aff-08a118876b4c
 
 [26] 화자 타입: DIRECTIVE
     담당 플레이어: 고어후프
-    대사: 성채 곳곳에서 <span class="emphasis">영혼석</span>이 빛나기 시작했다. 생전 <span class="character-eldritch">엘드리치</span>가 심어둔 부활의 의식이었다. 어두운 기운이 <span class="character-skullcrusher">스컬크러셔</span>의 시신으로 스며들었다.
+    대사: 성채 곳곳에서 <span class="emphasis">영혼석</span>이 빛나기 시작했다. 생전 <span class="character-eldritch">엘드리치</span>가 준비해 둔 부활 의식이었다. 어두운 기운이 <span class="character-skullcrusher">스컬크러셔</span>의 시신으로 스며들었다.
 
 [27] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
@@ -167,7 +167,7 @@ EndingID : 9af7209a-02a2-407c-9aff-08a118876b4c
 [31] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 전원 흩어져요! 붙잡히면 끝입니다!
+    대사: 전원 흩어져요! 붙잡히면 끝이에요!
 
 [32] 화자 타입: DIRECTIVE
     담당 플레이어: 슬리더
@@ -225,7 +225,7 @@ EndingID : 9af7209a-02a2-407c-9aff-08a118876b4c
 
 [44] 화자 타입: DIRECTIVE
     담당 플레이어: 발로그
-    대사: 아무도 몰랐다. <span class="character-skullcrusher">스컬크러셔</span>가 죽는 순간까지 결백했다는 것을. 그리고 아무도 알지 못했다. <span class="character-eldritch">엘드리치</span>를 죽이려 계획한 것은 <span class="character-malice">말리스</span>와 <span class="character-balrog">발로그</span>였지만, 정작 그 트랩을 작동시켜 그를 죽인 것은 다른 누구도 아닌 <span class="character-eldritch">엘드리치</span> 자신이었다는 사실을. 하지만 이제 그 사실을 아는 이조차 남지 않았다.
+    대사: 아무도 몰랐다. <span class="character-skullcrusher">스컬크러셔</span>가 죽는 순간까지 결백했다는 것을. 그리고 아무도 알지 못했다. <span class="character-eldritch">엘드리치</span>를 죽이려 계획한 것은 <span class="character-malice">말리스</span>와 <span class="character-balrog">발로그</span>였지만, 정작 그 트랩을 작동시켜 그를 죽인 것은 다른 누구도 아닌 <span class="character-eldritch">엘드리치</span> 자신이었다는 사실을. 하지만 이제 그 사실을 밝힐 이는 남지 않았다.
 
 [45] 화자 타입: DIRECTIVE
     담당 플레이어: 슬리더
@@ -406,11 +406,11 @@ EndingID : 36aa992b-8183-4327-ad3f-eb9829997f20
 [34] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: ...허상이라니, 실체가 없어요.
+    대사: ...허상이라니, 실체가 없습니다.
 
 [35] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
-    대사: <span class="character-slither">슬리더</span>의 단검이 마신의 가슴에 꽂혔다. 하지만 피 한 방울 흐르지 않았고, 그는 그대로 튕겨나가 쓰러졌다.
+    대사: <span class="character-slither">슬리더</span>의 단검이 마신의 가슴에 꽂혔다. 하지만 피 한 방울 흐르지 않았고, 그는 그대로 튕겨 나가 쓰러졌다.
 
 [36] 화자 타입: PLAYER
     화자: 슬리더
@@ -451,7 +451,7 @@ EndingID : 36aa992b-8183-4327-ad3f-eb9829997f20
 
 [44] 화자 타입: DIRECTIVE
     담당 플레이어: 말리스
-    대사: 아무도 그 말을 새겨듣지 못했다. <span class="character-balrog">발로그</span> 역시 진심으로 무고하지는 않았다는 것을. 저주를 피하려 살인 트랩인 걸 알면서도 손을 보탰을 뿐이었다. 다만 그조차 몰랐다. 그 트랩을 실제로 작동시킨 것은 다름 아닌 <span class="character-eldritch">엘드리치</span> 자신이었다는 사실을. 하지만 이제 그 사실을 아는 이조차 남지 않았다.
+    대사: 그 말을 새겨듣는 이는 없었다. 아무도 몰랐다. <span class="character-balrog">발로그</span>가 진심으로 무고하지는 않았다는 것을. 저주를 피하려 살인 트랩인 걸 알면서도 손을 보탰을 뿐이었다. 다만 그조차 몰랐다. 그 트랩을 실제로 작동시킨 것은 다름 아닌 <span class="character-eldritch">엘드리치</span> 자신이었다는 사실을. 하지만 이제 그 사실을 밝힐 이는 남지 않았다.
 
 [45] 화자 타입: DIRECTIVE
     담당 플레이어: 발로그
@@ -485,7 +485,7 @@ EndingID : 0e4f9887-aacc-4487-83fb-d8aee2d570d6
 [2] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 문서고에 떨어진 단검, 당신 것이더군요. 흔적 없이 접근할 수 있는 것도 당신뿐이고요.
+    대사: <span class="character-eldritch">엘드리치</span>를 꿰뚫은 단검, 당신 것이더군요. 흔적 없이 접근할 수 있는 것도 당신뿐이고요.
 
 [3] 화자 타입: PLAYER
     화자: 엘란트라
@@ -538,7 +538,7 @@ EndingID : 0e4f9887-aacc-4487-83fb-d8aee2d570d6
 [13] 화자 타입: PLAYER
     화자: 슬리더
     화자 표시 HTML: <span class="character-slither">슬리더</span>
-    대사: 빌어먹을... <span class="character-solite">솔라이트</span> 놈들을 다 죽이기도 전에... 그때, 놈들을 다 죽여 놨어야 했다.
+    대사: 빌어먹을... <span class="character-solite">솔라이트</span> 놈들을 다 죽이기도 전에...
 
 
 [14] 화자 타입: DIRECTIVE
@@ -612,7 +612,7 @@ EndingID : 0e4f9887-aacc-4487-83fb-d8aee2d570d6
 
 [29] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
-    대사: <span class="character-elantra">엘란트라</span>가 궤적을 계산해 창을 던졌다. 하지만 마신은 이미 그 계산 밖에 있었고, 그녀는 대답을 듣지 못한 채 쓰러졌다.
+    대사: <span class="character-elantra">엘란트라</span>가 궤적을 계산해 창을 던졌다. 하지만 마신은 이미 그 계산 밖에 있었고, 그녀는 결과를 확인하지도 못한 채 쓰러졌다.
 
 [30] 화자 타입: PLAYER
     화자: 엘란트라
@@ -666,7 +666,7 @@ EndingID : 0e4f9887-aacc-4487-83fb-d8aee2d570d6
 
 [41] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
-    대사: 아무도 몰랐다. <span class="character-slither">슬리더</span>가 죽는 순간까지 결백했다는 것을. <span class="character-eldritch">엘드리치</span>를 죽이려 트랩을 놓은 건 <span class="character-malice">말리스</span>와 <span class="character-balrog">발로그</span>였으나, 그 손으로는 끝내 그를 죽이지 못했다. 트랩을 작동시킨 건 <span class="character-eldritch">엘드리치</span> 자신이었다. 하지만 이제 그 사실을 아는 이조차 남지 않았다.
+    대사: 아무도 몰랐다. <span class="character-slither">슬리더</span>가 죽는 순간까지 결백했다는 것을. <span class="character-eldritch">엘드리치</span>를 죽이려 트랩을 놓은 건 <span class="character-malice">말리스</span>와 <span class="character-balrog">발로그</span>였으나, 그 손으로는 끝내 그를 죽이지 못했다. 트랩을 작동시킨 건 <span class="character-eldritch">엘드리치</span> 자신이었다. 하지만 이제 그 사실을 밝힐 이는 남지 않았다.
 
 [42] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
@@ -700,7 +700,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 [2] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: 식당 뼈에 남은 이빨 자국, 당신 것이더군요. 이성을 잃으면 무슨 짓을 할지 예측할 수 없는 사람입니다.
+    대사: 식당에 남은 뼈의 이빨 자국, 당신 것이더군요. 이성을 잃으면 무슨 짓을 할지 예측할 수 없는 사람입니다.
 
 [3] 화자 타입: PLAYER
     화자: 발로그
@@ -733,7 +733,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
 [9] 화자 타입: DIRECTIVE
     담당 플레이어: 슬리더
-    대사: <span class="character-balrog">발로그</span>가 공중에서 짓눌러 움직임을 묶었다. <span class="character-elantra">엘란트라</span>의 장창이 무릎 뒤를 끊어 무너뜨렸다. <span class="character-slither">슬리더</span>의 단검이 힘줄을 끊었다.
+    대사: <span class="character-balrog">발로그</span>가 공중에서 짓눌러 움직임을 묶었다. <span class="character-elantra">엘란트라</span>의 장창이 무릎 뒤를 쳐 무너뜨렸다. <span class="character-slither">슬리더</span>의 단검이 힘줄을 끊었다.
 
 [10] 화자 타입: PLAYER
     화자: 말리스
@@ -802,7 +802,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
 [24] 화자 타입: DIRECTIVE
     담당 플레이어: 발로그
-    대사: 짧은 침묵 끝에, 그는 부러진 대검을 고쳐 쥐고 소리쳤다.
+    대사: 짧은 침묵 끝에, 그는 대검을 고쳐 쥐고 소리쳤다.
 
 [25] 화자 타입: PLAYER
     화자: 스컬크러셔
@@ -816,11 +816,11 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 [27] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 전술로는... 상대가 안 됩니다.
+    대사: 전술로는... 상대가 안 돼요.
 
 [28] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
-    대사: <span class="character-elantra">엘란트라</span>의 방패가 정면을 막아섰지만, 방패째로 튕겨나갔다.
+    대사: <span class="character-elantra">엘란트라</span>의 방패가 정면을 막아섰지만, 방패째로 튕겨 나갔다.
 
 [29] 화자 타입: PLAYER
     화자: 엘란트라
@@ -847,7 +847,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
 [34] 화자 타입: DIRECTIVE
     담당 플레이어: 엘드리치
-    대사: 홀로 남은 <span class="character-skullcrusher">스컬크러셔</span>가 부러진 대검을 들었다.
+    대사: 홀로 남은 <span class="character-skullcrusher">스컬크러셔</span>가 대검을 들었다.
 
 [35] 화자 타입: PLAYER
     화자: 스컬크러셔
@@ -865,7 +865,7 @@ EndingID : 27a81bf4-0c24-4f4d-ba11-d444850dcfae
 
 [38] 화자 타입: DIRECTIVE
     담당 플레이어: 발로그
-    대사: 아무도 몰랐다. <span class="character-gorehoof">고어후프</span>가 죽는 순간까지 결백했다는 것을. <span class="character-malice">말리스</span>와 <span class="character-balrog">발로그</span>가 짠 살인 계획도, 실은 끝내 완성되지 못했다. <span class="character-eldritch">엘드리치</span>는 그들의 트랩을 스스로 작동시켜 자기 죽음을 완성했을 뿐이었다. 하지만 이제 그 사실을 아는 이조차 남지 않았다.
+    대사: 아무도 몰랐다. <span class="character-gorehoof">고어후프</span>가 죽는 순간까지 결백했다는 것을. <span class="character-malice">말리스</span>와 <span class="character-balrog">발로그</span>가 짠 살인 계획도, 실은 끝내 완성되지 못했다. <span class="character-eldritch">엘드리치</span>는 그들의 트랩을 스스로 작동시켜 자기 죽음을 완성했을 뿐이었다. 하지만 이제 그 사실을 밝힐 이는 남지 않았다.
 
 [39] 화자 타입: DIRECTIVE
     담당 플레이어: 슬리더
@@ -924,7 +924,7 @@ EndingID : f020addd-7fa3-46e1-9abd-12c04d57f6c0
 [7] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 저는 조언만 했을 뿐입니다. 그걸 살인 트랩으로 만든 건 당신의 선택이었죠.
+    대사: 저는 조언만 했을 뿐이에요. 그걸 살인 트랩으로 만든 건 당신의 선택이었죠.
 
 [8] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
@@ -1087,7 +1087,7 @@ EndingID : f020addd-7fa3-46e1-9abd-12c04d57f6c0
 
 [43] 화자 타입: DIRECTIVE
     담당 플레이어: 발로그
-    대사: <span class="character-balrog">발로그</span>는 죄가 없지 않았다. 하지만 모든 걸 설계한 진짜 머리는 따로 있었다. <span class="character-eldritch">엘드리치</span>를 죽음으로 몰아넣을 계획을 짠 것은 처음부터 <span class="character-malice">말리스</span>였다. 하지만 이제 그 사실을 아는 이조차 남지 않았다.
+    대사: <span class="character-balrog">발로그</span>는 죄가 없지 않았다. 하지만 모든 걸 꾸민 이는 따로 있었다. <span class="character-eldritch">엘드리치</span>를 죽음으로 몰아넣을 계획을 짠 것은 처음부터 <span class="character-malice">말리스</span>였다. 하지만 이제 그 사실을 밝힐 이는 남지 않았다.
 
 [44] 화자 타입: DIRECTIVE
     담당 플레이어: 말리스
@@ -1177,7 +1177,7 @@ EndingID : 4bc626f2-157d-40fa-8eea-f71ba72ed0c8
 [14] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: ...전술적 오판이었나. 어디서부터, 틀어진 거지.
+    대사: ...전술적 오판이었습니까. 어디서부터 틀어진 것인지...
 
 [15] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
@@ -1308,7 +1308,7 @@ EndingID : 4bc626f2-157d-40fa-8eea-f71ba72ed0c8
 
 [43] 화자 타입: DIRECTIVE
     담당 플레이어: 고어후프
-    대사: 아무도 몰랐다. <span class="character-elantra">엘란트라</span>가 죽는 순간까지 결백했다는 것을. <span class="character-malice">말리스</span>는 죽이려 했고 <span class="character-balrog">발로그</span>는 손을 보탰지만, 두 사람의 계획은 결국 허공을 갈랐다. <span class="character-eldritch">엘드리치</span>를 죽인 손은 <span class="character-eldritch">엘드리치</span> 자신의 것이었다. 하지만 이제 그 사실을 아는 이조차 남지 않았다.
+    대사: 아무도 몰랐다. <span class="character-elantra">엘란트라</span>가 죽는 순간까지 결백했다는 것을. <span class="character-malice">말리스</span>는 죽이려 했고 <span class="character-balrog">발로그</span>는 손을 보탰지만, 두 사람의 계획은 결국 허공을 갈랐다. <span class="character-eldritch">엘드리치</span>를 죽인 손은 <span class="character-eldritch">엘드리치</span> 자신의 것이었다. 하지만 이제 그 사실을 밝힐 이는 남지 않았다.
 
 [44] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
@@ -1352,7 +1352,7 @@ EndingID : 30952cb8-4156-4f82-b647-c99aaa3124c0
 [4] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: 그 검은 고대 유물로 알려졌으나 실제로는 마신의 것이었습니다. 그런 자를 지휘관으로 믿었다니, 더는 신뢰할 근거가 없군요.
+    대사: 수장의 검은 고대 유물로 알려졌으나 실제로는 마신의 것이었습니다. 그런 자를 지휘관으로 믿었다니, 더는 신뢰할 근거가 없군요.
 
 [5] 화자 타입: PLAYER
     화자: 발로그
@@ -1408,7 +1408,7 @@ EndingID : 30952cb8-4156-4f82-b647-c99aaa3124c0
 [16] 화자 타입: PLAYER
     화자: 슬리더
     화자 표시 HTML: <span class="character-slither">슬리더</span>
-    대사: ...여기까지다. 순순히 끝내주지.
+    대사: ...여기까지다. 조용히 끝내 주지.
 
 [17] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
@@ -1454,7 +1454,7 @@ EndingID : 30952cb8-4156-4f82-b647-c99aaa3124c0
 
 [26] 화자 타입: DIRECTIVE
     담당 플레이어: 고어후프
-    대사: 성채 곳곳에서 <span class="emphasis">영혼석</span>이 빛나기 시작했다. 어둠이 <span class="character-skullcrusher">스컬크러셔</span>의 시신으로 밀려 들어갔다. 박살 난 투구 틈새로 안광이 번뜩였다.
+    대사: 성채 곳곳에서 <span class="emphasis">영혼석</span>이 빛나기 시작했다. 어둠이 <span class="character-skullcrusher">스컬크러셔</span>의 시신으로 밀려 들어갔다. 금이 간 투구 틈새로 안광이 번뜩였다.
 
 [27] 화자 타입: PLAYER
     화자: 엘드리치
@@ -1522,7 +1522,7 @@ EndingID : 30952cb8-4156-4f82-b647-c99aaa3124c0
 [41] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 드디어 끝났군요. 이제부터 이 성은 저와 <span class="character-balrog">발로그</span>가 이끌겠습니다.
+    대사: 드디어 끝났군요. 이제부터 이 성은 저와 <span class="character-balrog">발로그</span>가 이끌겠어요.
 
 [42] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
@@ -1560,7 +1560,7 @@ EndingID : 57580a4b-31dd-4d85-9376-ccb374a44c69
 [2] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 문서고에 떨어진 단검, 당신 것이더군요. 흔적 없이 접근할 수 있는 것도 당신뿐이고요.
+    대사: <span class="character-eldritch">엘드리치</span>를 꿰뚫은 단검, 당신 것이더군요. 흔적 없이 접근할 수 있는 것도 당신뿐이고요.
 
 [3] 화자 타입: PLAYER
     화자: 엘란트라
@@ -1613,7 +1613,7 @@ EndingID : 57580a4b-31dd-4d85-9376-ccb374a44c69
 [13] 화자 타입: PLAYER
     화자: 슬리더
     화자 표시 HTML: <span class="character-slither">슬리더</span>
-    대사: 빌어먹을... <span class="character-solite">솔라이트</span> 놈들을 다 죽이기도 전에... 그때, 놈들을 다 죽여 놨어야 했다.
+    대사: 빌어먹을... <span class="character-solite">솔라이트</span> 놈들을 다 죽이기도 전에...
 
 
 [14] 화자 타입: DIRECTIVE
@@ -1756,7 +1756,7 @@ EndingID : 9c367959-a6f6-49bd-aac2-d0b5649fa7d9
 [2] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: 식당 뼈에 남은 이빨 자국, 당신 것이더군요. 이성을 잃으면 무슨 짓을 할지 예측할 수 없는 사람입니다.
+    대사: 식당에 남은 뼈의 이빨 자국, 당신 것이더군요. 이성을 잃으면 무슨 짓을 할지 예측할 수 없는 사람입니다.
 
 [3] 화자 타입: PLAYER
     화자: 발로그
@@ -1789,7 +1789,7 @@ EndingID : 9c367959-a6f6-49bd-aac2-d0b5649fa7d9
 
 [9] 화자 타입: DIRECTIVE
     담당 플레이어: 슬리더
-    대사: <span class="character-balrog">발로그</span>가 공중에서 짓눌러 움직임을 묶었다. <span class="character-elantra">엘란트라</span>의 장창이 무릎 뒤를 끊어 무너뜨렸다. <span class="character-slither">슬리더</span>의 단검이 힘줄을 끊었다.
+    대사: <span class="character-balrog">발로그</span>가 공중에서 짓눌러 움직임을 묶었다. <span class="character-elantra">엘란트라</span>의 장창이 무릎 뒤를 쳐 무너뜨렸다. <span class="character-slither">슬리더</span>의 단검이 힘줄을 끊었다.
 
 [10] 화자 타입: PLAYER
     화자: 말리스
@@ -1854,7 +1854,7 @@ EndingID : 9c367959-a6f6-49bd-aac2-d0b5649fa7d9
 [23] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 아직 힘을 다루지 못해요! 돌진만 흘려내면 관절이 빕니다!
+    대사: 아직 힘을 다루지 못해요! 돌진만 흘려내면 관절이 드러나요!
 
 [24] 화자 타입: DIRECTIVE
     담당 플레이어: 발로그
@@ -1970,7 +1970,7 @@ EndingID : d30fdce6-1a40-43a7-a009-67b0a44d476e
 [7] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 저는 조언만 했을 뿐입니다. 그걸 살인 트랩으로 만든 건 당신의 선택이었죠.
+    대사: 저는 조언만 했을 뿐이에요. 그걸 살인 트랩으로 만든 건 당신의 선택이었죠.
 
 [8] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
@@ -2047,7 +2047,7 @@ EndingID : d30fdce6-1a40-43a7-a009-67b0a44d476e
 [24] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 궤적이 흔들려요! 지금이 기회입니다!
+    대사: 궤적이 흔들려요! 지금이 기회예요!
 
 [25] 화자 타입: DIRECTIVE
     담당 플레이어: 고어후프
@@ -2100,7 +2100,7 @@ EndingID : d30fdce6-1a40-43a7-a009-67b0a44d476e
 
 [36] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
-    대사: <span class="character-balrog">발로그</span>는 죄가 없지 않았다. 살인 트랩인 걸 알면서도 기꺼이 손을 보탰으니까. 하지만 모든 걸 설계한 진짜 머리는 따로 있었다. <span class="character-eldritch">엘드리치</span>를 죽이려는 계획을 짠 것은 처음부터 <span class="character-malice">말리스</span>였다.
+    대사: <span class="character-balrog">발로그</span>는 죄가 없지 않았다. 살인 트랩인 걸 알면서도 기꺼이 손을 보탰으니까. 하지만 모든 걸 꾸민 이는 따로 있었다. <span class="character-eldritch">엘드리치</span>를 죽이려는 계획을 짠 것은 처음부터 <span class="character-malice">말리스</span>였다.
 
 [37] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
@@ -2198,7 +2198,7 @@ EndingID : e5b25c5e-c3e5-4f80-932f-2182f91f32cf
 [14] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: ...전술적 오판이었나. 어디서부터, 틀어진 거지.
+    대사: ...전술적 오판이었습니까. 어디서부터 틀어진 것인지...
 
 [15] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
@@ -2373,7 +2373,7 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
 
 [10] 화자 타입: DIRECTIVE
     담당 플레이어: 고어후프
-    대사: 비명이 채 끝나기도 전에 네 명이 그녀를 에워쌌다. <span class="character-skullcrusher">스컬크러셔</span>의 대검이 퇴로를 갈랐고, <span class="character-elantra">엘란트라</span>의 투창이 마지막 도주로마저 끊었다.
+    대사: <span class="character-malice">말리스</span>가 비명을 지를 틈도 없이 네 명이 그녀를 에워쌌다. <span class="character-skullcrusher">스컬크러셔</span>의 대검이 퇴로를 갈랐고, <span class="character-elantra">엘란트라</span>의 투창이 마지막 도주로마저 끊었다.
 
 [11] 화자 타입: DIRECTIVE
     담당 플레이어: 고어후프
@@ -2395,7 +2395,7 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
 
 [15] 화자 타입: DIRECTIVE
     담당 플레이어: 발로그
-    대사: <span class="character-skullcrusher">스컬크러셔</span>의 대검이 내리꽂히며, 그녀의 애원은 거기서 끊겼다. <span class="character-balrog">발로그</span>가 급강하하며 숨통을 끊었다. <span class="character-gorehoof">고어후프</span>는 그 광경을 차마 보지 못하고 고개를 돌렸다.
+    대사: <span class="character-skullcrusher">스컬크러셔</span>의 대검이 내리꽂히며, 그녀의 애원은 거기서 끊겼다. <span class="character-balrog">발로그</span>가 급강하하며 그녀를 내리눌렀다. <span class="character-gorehoof">고어후프</span>는 그 광경을 차마 보지 못하고 고개를 돌렸다.
 
 [16] 화자 타입: PLAYER
     화자: 말리스
@@ -2456,7 +2456,7 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
 [28] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: ...현자님이, 마신이었다고요?
+    대사: ...현자님이, 마신이었다는 말입니까?
 
 [29] 화자 타입: DIRECTIVE
     담당 플레이어: 고어후프
@@ -2485,11 +2485,11 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
 [34] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: 방어할 필요도 없는 상대군요. 전원 공격하세요.
+    대사: 방어할 필요도 없는 상대군요. 전원 공격하십시오.
 
 [35] 화자 타입: DIRECTIVE
     담당 플레이어: 말리스
-    대사: <span class="character-bastards">바스타즈</span>의 맹공이 쏟아졌다. <span class="character-elantra">엘란트라</span>의 일격이 장벽을 깼고, <span class="character-balrog">발로그</span>의 낙격이 형상을 뭉갰다. <span class="character-skullcrusher">스컬크러셔</span>의 대검이 중심을 갈랐고, <span class="character-gorehoof">고어후프</span>의 도끼와 <span class="character-slither">슬리더</span>의 단검이 마무리를 지었다.
+    대사: <span class="character-bastards">바스타즈</span>의 맹공이 쏟아졌다. <span class="character-elantra">엘란트라</span>의 일격이 장벽을 깼고, <span class="character-balrog">발로그</span>의 내리꽂는 일격이 형상을 뭉갰다. <span class="character-skullcrusher">스컬크러셔</span>의 대검이 중심을 갈랐고, <span class="character-gorehoof">고어후프</span>의 도끼와 <span class="character-slither">슬리더</span>의 단검이 마무리를 지었다.
 
 [36] 화자 타입: PLAYER
     화자: 엘드리치
@@ -2506,7 +2506,7 @@ EndingID : ec68b124-b8b3-4058-b159-134c032d178f
 
 [39] 화자 타입: DIRECTIVE
     담당 플레이어: 엘드리치
-    대사: 살아남은 다섯 <span class="character-bastards">바스타즈</span>는 화이트스컬 성을 발판 삼아, 마침내 우주의 새로운 질서를 함께 세워나가기 시작했다.
+    대사: 살아남은 다섯 <span class="character-bastards">바스타즈</span>는 화이트스컬 성을 발판 삼아, 마침내 우주의 새로운 질서를 함께 세워 나가기 시작했다.
 
 
 <!-- ============================================ -->
@@ -2531,7 +2531,7 @@ EndingID : 80b95bc2-3e55-463c-af87-354118714861
 
 [1] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
-    대사: 왕좌의 방을 지배하던 무거운 적막 속에는 살기 대신 풀리지 않은 의문이 가득했다. 아무도 처단되지 않았다는 안도감 아래, 무언가 놓치고 있다는 불길한 예감이 스멀스멀 피어올랐다.
+    대사: 왕좌의 방을 지배하던 무거운 적막 속에는 살기 대신 풀리지 않은 의문이 가득했다. 아무도 처형되지 않았다는 안도감 아래, 무언가 놓치고 있다는 불길한 예감이 스멀스멀 피어올랐다.
 
 [2] 화자 타입: PLAYER
     화자: 스컬크러셔
@@ -2633,12 +2633,12 @@ EndingID : 80b95bc2-3e55-463c-af87-354118714861
 
 [23] 화자 타입: DIRECTIVE
     담당 플레이어: 말리스
-    대사: 검푸른 마력이 왕좌의 방을 차갑게 짓눌렀지만, 오랫동안 쌓인 의구심을 털어낸 <span class="character-bastards">바스타즈</span>들의 눈빛에는 더 이상 흔들림이 없었다.
+    대사: 서기관의 육신이 부풀며 검푸른 마력이 왕좌의 방을 차갑게 짓눌렀다. 갑옷을 두른 마신 <span class="mystery">다크 시리어스</span>의 본모습이 그 속에서 일어섰지만, 의구심을 털어낸 여섯 <span class="character-bastards">바스타즈</span>의 눈빛에는 더 이상 흔들림이 없었다.
 
 [24] 화자 타입: PLAYER
     화자: 말리스
     화자 표시 HTML: <span class="character-malice">말리스</span>
-    대사: 저 몸은 아직 불완전합니다! <span class="character-balrog">발로그</span>, 시야를 흔드세요! 나머진 가슴에 서린 빛을 노리세요!
+    대사: 저 몸은 아직 불완전해요! <span class="character-balrog">발로그</span>, 시야를 흔드세요! 나머진 가슴에 서린 빛을 노리세요!
 
 [25] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
@@ -2661,7 +2661,7 @@ EndingID : 80b95bc2-3e55-463c-af87-354118714861
 [29] 화자 타입: PLAYER
     화자: 엘란트라
     화자 표시 HTML: <span class="character-elantra">엘란트라</span>
-    대사: 이 방패로 네 중심을 무너뜨리겠다!
+    대사: 이 방패로 중심을 무너뜨리겠습니다!
 
 [30] 화자 타입: PLAYER
     화자: 슬리더
@@ -2769,7 +2769,7 @@ EndingID : 80b95bc2-3e55-463c-af87-354118714861
 [52] 화자 타입: PLAYER
     화자: 발로그
     화자 표시 HTML: <span class="character-balrog">발로그</span>
-    대사: 네 계획이 그를 처단할 유일한 기회처럼 보였으니까. 계약에 묶인 나에게는, 그것이 자유를 향한 유일한 틈이었다.
+    대사: 네 계획이 그를 처단할 유일한 기회처럼 보였으니까. 계약에 묶인 나에게는, 그것이 자유를 향한 단 하나의 틈이었다.
 
 [53] 화자 타입: DIRECTIVE
     담당 플레이어: 슬리더
@@ -2793,7 +2793,7 @@ EndingID : 80b95bc2-3e55-463c-af87-354118714861
 [57] 화자 타입: PLAYER
     화자: 고어후프
     화자 표시 HTML: <span class="character-gorehoof">고어후프</span>
-    대사: 나는 몰랐지. 다만 그 대가로 우리는 폐허에 고립되었고... 굶주림에 미쳐, 죽은 전우들의 살을 씹어 삼켰다. 그 이빨 자국을 빌미로 저 마신은 날 평생 노예처럼 부리려 했지.
+    대사: 나는 몰랐지. 다만 그 대가로 우리는 폐허에 고립되었고... 굶주림에 미쳐 전우들을 도살해 그 살을 씹어 삼켰다. 그 이빨 자국을 빌미로 저 마신은 날 평생 노예처럼 부리려 했지.
 
 [58] 화자 타입: PLAYER
     화자: 엘란트라
@@ -2812,7 +2812,7 @@ EndingID : 80b95bc2-3e55-463c-af87-354118714861
 [61] 화자 타입: PLAYER
     화자: 스컬크러셔
     화자 표시 HTML: <span class="character-skullcrusher">류크(스컬크러셔)</span>
-    대사: 우리끼리 피를 흘리는 것은 그가 바랐던 최악의 각본이다. 나는 너희의 죄를 묻지 않겠다. 배신자도, 암살자도, 괴물도... 오늘 옥좌 앞에서 모두 사라질 것이다. 새로운 우주를 세울 동료만이 여기 남을 뿐이다.
+    대사: 우리끼리 피를 흘리는 것은 그가 바랐던 최악의 결말이다. 나는 너희의 죄를 묻지 않겠다. 배신자도, 암살자도, 괴물도... 오늘 왕좌 앞에서 모두 사라질 것이다. 새로운 우주를 세울 동료만이 여기 남을 뿐이다.
 
 [62] 화자 타입: DIRECTIVE
     담당 플레이어: 엘드리치
@@ -2820,11 +2820,11 @@ EndingID : 80b95bc2-3e55-463c-af87-354118714861
 
 [63] 화자 타입: DIRECTIVE
     담당 플레이어: 스컬크러셔
-    대사: 여섯은 폐허가 된 왕좌의 방 한복판에 나란히 섰다. 서로의 비밀을 모두 알고도 등을 맞댄 채 함께 서 있다는 사실이, 그 어떤 승리보다 값진 것이었다.
+    대사: 여섯은 폐허가 된 왕좌의 방 한복판에 모였다. 서로의 비밀을 모두 알고도 등을 맞댄 채 함께 서 있다는 사실이, 그 어떤 승리보다 값진 것이었다.
 
 [64] 화자 타입: DIRECTIVE
     담당 플레이어: 말리스
-    대사: <span class="character-skullcrusher">류크</span>는 투구를 다시 쓰지 않았다. 맨눈으로 새벽빛을 마주하며 목소리를 높였다.
+    대사: <span class="character-skullcrusher">류크</span>는 투구를 다시 쓰지 않았다. 맨얼굴로 새벽빛을 마주하며 목소리를 높였다.
 
 [65] 화자 타입: PLAYER
     화자: 스컬크러셔
@@ -2833,4 +2833,4 @@ EndingID : 80b95bc2-3e55-463c-af87-354118714861
 
 [66] 화자 타입: DIRECTIVE
     담당 플레이어: 엘란트라
-    대사: 동트기 직전, 첫 새벽빛이 <span class="emphasis">왕좌의 방</span> 깊숙이 쏟아져 내렸다. 여섯 <span class="character-bastards">바스타즈</span>의 이름은 그날 이후, 우주 끝까지 울려 퍼지는 전설이 되었다.
+    대사: 동트기 직전, 첫 새벽빛이 <span class="emphasis">왕좌의 방</span> 깊숙이 쏟아져 내렸다. 여섯 <span class="character-bastards">바스타즈</span>의 이름은 그날 이후 전설이 되어 우주 끝까지 울려 퍼졌다.

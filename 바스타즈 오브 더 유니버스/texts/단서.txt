@@ -218,7 +218,6 @@ HTML :
 
 [clue_07]
 이름 : 기록관의 보고#1
-예전 이름 : 서재#3
 clue_id : b6e82cc5-1308-4fc0-ae5f-725c76816513
 variant_id : be8c9675-ac2f-4833-ab2c-4a94f79ff327
 유형 : 물증
@@ -266,7 +265,6 @@ HTML :
 
 [clue_08]
 이름 : 기록관의 보고#2
-예전 이름 : 서재#2
 clue_id : 7d6014d3-3cd1-4c24-88e9-28d121b2a3e2
 variant_id : e8206479-7eff-4b70-a69d-462e63e86571
 유형 : 물증
@@ -310,7 +308,6 @@ HTML :
 
 [clue_09]
 이름 : 기록관의 보고#3
-예전 이름 : 무기고#1
 clue_id : ab174457-51df-46ae-a002-31ea1e78d132
 variant_id : 6660f91f-eb9d-475a-84c8-d2462af97c73
 유형 : 물증
@@ -356,7 +353,6 @@ HTML :
 
 [clue_10]
 이름 : 기록관의 보고#4
-예전 이름 : 기록관의 보고#6 (마법탑#3)
 clue_id : 125eae50-1c52-479f-8936-ac6e7764589c
 variant_id : 45eacaf8-e579-4ce0-b3e2-eed245f1b3f7
 유형 : 물증
@@ -395,7 +391,6 @@ HTML :
 
 [clue_11]
 이름 : 기록관의 보고#5
-예전 이름 : 기록관의 보고#4 (지하창고#3)
 clue_id : 97531b39-af18-4335-bd25-9d956d2e771b
 variant_id : ba5b00e1-dac5-42b8-b558-0da00ae5cc18
 유형 : 증언
@@ -433,7 +428,6 @@ HTML :
 
 [clue_12]
 이름 : 기록관의 보고#6
-예전 이름 : 기록관의 보고#5 (문서고#2)
 clue_id : 1bed31b5-db3b-48b9-bdfd-8a6d2a142676
 variant_id : 136ba46d-2cc0-4121-a7a3-2dc95fd4dcdf
 유형 : 물증
@@ -476,7 +470,6 @@ HTML :
 
 [clue_13]
 이름 : 왕좌의 방#1
-예전 이름 : 왕좌의#방_1
 clue_id : 7a586023-6d59-4629-9a65-adba9e136588
 variant_id : 5339674f-46c6-41c2-b8cd-f94592b76d08
 유형 : 물증
@@ -506,7 +499,6 @@ HTML :
 
 [clue_14]
 이름 : 왕좌의 방#2
-예전 이름 : 왕좌의#방_2
 clue_id : deca4fc1-892f-488b-85e6-6e95281f59af
 variant_id : 61414d2b-d0aa-471c-82be-5bcba26a3ba9
 유형 : 물증
@@ -536,7 +528,6 @@ HTML :
 
 [clue_15]
 이름 : 연구실#1
-예전 이름 : 왕좌의 방#3
 clue_id : cd077b55-80e5-4ba4-ae97-98031d582e77
 variant_id : 1fc24281-d7a7-4a23-bafa-7ce71133d86b
 유형 : 물증
@@ -572,7 +563,6 @@ HTML :
 
 [clue_16]
 이름 : 왕좌의 방#3
-예전 이름 : 왕좌의#방_4
 clue_id : 7e6c04b2-3965-4659-babb-a6d98b6e5e79
 variant_id : 42ced84a-5ae0-4377-8691-e14307cf50f7
 유형 : 물증
@@ -679,7 +669,6 @@ HTML :
 ============================================================
 
 이름 : 연구실#2 (변형)
-예전 이름 : 연구실#1
 clue_id : 432b5216-f7ff-45c3-af44-c2bfcac207dc
 variant_id : ba87b826-a24e-47a2-9c7a-759279aee035
 유형 : 물증
@@ -933,7 +922,6 @@ HTML :
 
 [clue_25]
 이름 : 문서고#2
-예전 이름 : 문서고#3
 clue_id : 3886276d-770a-437b-acd5-434ca4bd8d11
 variant_id : 3cb36659-0945-4a78-b5bb-6dd8733f1ab7
 유형 : 물증
@@ -970,7 +958,6 @@ HTML :
 
 [clue_26]
 이름 : 문서고#3
-예전 이름 : 문서고#4
 clue_id : 662a065d-d4e1-4fc4-9221-76cfb3dfb48c
 variant_id : 8f393920-93d7-41cd-88c4-7c51bae178c4
 유형 : 물증
@@ -1021,7 +1008,6 @@ HTML :
 
 [clue_27]
 이름 : 무기고#1
-예전 이름 : 문서고#4
 clue_id : f3ddea25-c69e-41d1-adc1-5016506f4e88
 variant_id : abe3668f-a859-4d2c-9bee-36e493a110ef
 유형 : 물증
@@ -1165,7 +1151,6 @@ HTML :
 
 [clue_31]
 이름 : 무기고#2
-예전 이름 : 무기고#2
 clue_id : c17b2f82-5978-4d33-a332-d569a35894dc
 variant_id : ce3fafb7-3212-4200-bf9b-e3e5c499e229
 유형 : 물증
@@ -1195,7 +1180,6 @@ HTML :
 
 [clue_32]
 이름 : 서재#2
-예전 이름 : 서재#8
 clue_id : 67011055-0c45-41f1-ada0-e17a1f24a6e5
 variant_id : 1c87e162-4915-4f6a-b499-c0bbccac2aae
 유형 : 물증
@@ -1231,7 +1215,6 @@ HTML :
 
 [clue_33]
 이름 : 왕좌의 방#4
-예전 이름 : 왕좌의#방_5
 clue_id : b3c8e953-f1a8-4706-b052-d5095fb693a9
 variant_id : dff480f7-b811-434c-ad41-6841d8370cff
 유형 : 물증
@@ -1270,7 +1253,6 @@ HTML :
 
 [clue_34]
 이름 : 왕좌의 방#5
-예전 이름 : 왕좌의#방_6
 clue_id : 1453b43e-bbd6-4ac5-9355-8538b43ec5ff
 variant_id : 5a657ea9-5f1a-4624-8d45-939371c2e426
 유형 : 물증
@@ -1310,7 +1292,6 @@ HTML :
 
 [clue_35]
 이름 : 왕좌의 방#6
-예전 이름 : 왕좌의#방_7
 clue_id : 51400323-6496-494d-a3aa-f7bc0a244a34
 variant_id : 35fa9a2d-4a6d-4010-a8a1-d133f46fd236
 유형 : 증언
@@ -1346,7 +1327,6 @@ HTML :
 
 [clue_36]
 이름 : 왕좌의 방#7
-예전 이름 : 왕좌의#방_8
 clue_id : d696a633-4ab8-4783-b7ca-a9697c0bfc6b
 variant_id : 90768d46-72d2-4b6f-9dbd-1c228f694754
 유형 : 물증
@@ -1377,7 +1357,6 @@ HTML :
 
 [clue_37]
 이름 : 서재#3
-예전 이름 : 서재#4
 clue_id : 4a9ab48e-def0-4184-a567-f87593789899
 variant_id : 61f78f08-6831-445f-9943-1a545a0f0d83
 유형 : 관찰
@@ -1407,7 +1386,6 @@ HTML :
 
 [clue_38]
 이름 : 서재#4
-예전 이름 : 서재#5
 clue_id : 99144443-8661-4e1d-9789-12a2a562516b
 variant_id : b20ccf94-54ca-4c07-82eb-36e9befa6375
 유형 : 관찰
@@ -1466,7 +1444,6 @@ HTML :
 ============================================================
 
 이름 : 서재#5 (변형)
-예전 이름 : 서재#4
 clue_id : 3d47f900-553b-4108-8b12-86c45151b81b
 variant_id : b03692f3-6746-430f-9def-230582a43404
 유형 : 물증
@@ -1497,7 +1474,6 @@ HTML :
 
 [clue_40]
 이름 : 서재#6
-예전 이름 : 서재#7
 clue_id : e0155df6-69bd-4b70-ad9d-0bdd34e82935
 variant_id : f71a48f7-c02d-4aa7-bad7-91fe9ca06635
 유형 : 물증
@@ -1612,7 +1588,6 @@ HTML :
 
 [clue_43]
 이름 : 연구실#6
-예전 이름 : 문서고#5
 clue_id : cf01e751-2593-44aa-98ae-35cc27c160e3
 variant_id : f381c31b-3092-4d4a-abf5-4bf06018b1f2
 유형 : 물증
@@ -1648,7 +1623,6 @@ HTML :
 
 [clue_44]
 이름 : 문서고#4
-예전 이름 : 문서고#7
 clue_id : 0977c5b3-2d47-4278-a0c6-537deedeb738
 variant_id : 92416c8e-173d-4d2e-9100-b57a3124de63
 유형 : 물증
@@ -1687,7 +1661,6 @@ HTML :
 
 [clue_45]
 이름 : 문서고#5
-예전 이름 : 문서고#8
 clue_id : 4d5a77a4-2e9e-4c94-a640-184f70c483e1
 variant_id : 07c8b117-9b2c-47fb-b7b9-6957bbebb9fc
 유형 : 물증
@@ -1730,7 +1703,6 @@ HTML :
 
 [clue_46]
 이름 : 문서고#6
-예전 이름 : 문서고#9
 clue_id : 17e1e21c-eac1-4710-ae7b-64c5a947ef3a
 variant_id : 117bf9cc-6fdd-4d7f-a7fb-b0f1492a0625
 유형 : 물증
@@ -1760,7 +1732,6 @@ HTML :
 
 [clue_47]
 이름 : 지하창고#2
-예전 이름 : 지하창고#3 (그 전 지하창고#4)
 clue_id : 86494409-f9fe-4bf4-9765-098f6836d77c
 variant_id : 74c94c9e-59da-4e50-8156-c69d704629d5
 유형 : 물증
@@ -1790,7 +1761,6 @@ HTML :
 
 [clue_48]
 이름 : 지하창고#3
-예전 이름 : 지하창고#4 (그 전 지하창고#5)
 clue_id : cb394a19-4e1a-4ca8-ba8f-98361d748fa9
 variant_id : ec90c11a-1274-4d6b-ad9a-7af2f4f512ff
 유형 : 증언
@@ -1824,7 +1794,6 @@ HTML :
 
 [clue_49]
 이름 : 지하창고#4
-예전 이름 : 지하창고#5 (그 전 지하창고#7)
 clue_id : 68a0c3eb-ab56-4cf8-89f9-20ce2a329a11
 variant_id : 7d80425c-7109-4e0f-894b-72728f188656
 유형 : 관찰
@@ -1854,7 +1823,6 @@ HTML :
 
 [clue_50]
 이름 : 마력석
-예전 이름 : 지하창고#6
 clue_id : d6c8c143-18ad-4fe1-978f-6850016ac0dc
 variant_id : a87b180d-f66c-48e8-b84e-dd381a6aef8b
 유형 : 물증
@@ -1890,7 +1858,6 @@ HTML :
 
 [clue_51]
 이름 : 바람의 장검
-예전 이름 : 지하창고#8
 clue_id : 80ac5bcd-569f-4594-91c0-2779196b637e
 variant_id : c58eb87a-e27c-4811-9aff-1db935c0a8a6
 유형 : 물증
@@ -1930,7 +1897,6 @@ HTML :
 
 [clue_52]
 이름 : 대지의 창
-예전 이름 : 지하창고#9
 clue_id : 2013ba95-9b0e-4624-8131-9060635b36c2
 variant_id : 8bad7c44-5071-4ba7-a1a5-3ba6eeed4bf9
 유형 : 물증
@@ -1970,7 +1936,6 @@ HTML :
 
 [clue_53]
 이름 : 물의 쌍검
-예전 이름 : 지하창고#10
 clue_id : 7cc9b5df-d3da-401d-92b6-2dea4ab10551
 variant_id : d39bf537-7fbd-45fe-9052-9cefecc84524
 유형 : 물증
@@ -2010,7 +1975,6 @@ HTML :
 
 [clue_54]
 이름 : 빛의 검
-예전 이름 : 지하창고#11
 clue_id : 9488b01e-5d94-49cc-a5dc-d977549e70c1
 variant_id : b1e19a59-cd99-4932-bacb-885ee7f7842f
 유형 : 물증
@@ -2083,7 +2047,6 @@ HTML :
 
 [clue_56]
 이름 : 무기고#3
-예전 이름 : 무기고#3
 clue_id : 24d8ceac-cd8b-487c-9fe6-7c8273799f10
 variant_id : c6b22f6d-863f-4ab3-83e4-90aba6ce1df9
 유형 : 물증
@@ -2211,7 +2174,6 @@ HTML :
 ============================================================
 
 이름 : 연구실#7 (변형)
-예전 이름 : 연구실#5
 clue_id : 84d0b2c5-24fd-493e-89fc-b0b999921afc
 variant_id : 899cb622-e225-44d2-9936-003bb11493de
 유형 : 물증
@@ -2228,12 +2190,12 @@ variant_id : 899cb622-e225-44d2-9936-003bb11493de
 관련 : 말리스
 의도 : 마법진이 거대 영적 수렴 장치이며, 그 중심에 강대한 육체를 매개로 영혼이 깃들면 위력이 극대화됨을 해독.
 내용 :
-말리스가 마법 지식을 활용해 도식의 문양들을 해독해 낸 내용이다. "이 도식은 외곽의 원형 선을 따라 마력을 끌어모으는 마법진의 설계도다. 방대한 마력을 제단 중앙으로 모아, 대상이 숨을 거두는 순간 영혼이 깃들게 하면 그 육체를 차지해 부활을 완성할 수 있다고 적혀 있다."
+말리스가 마법 지식을 활용해 도식의 문양들을 해독해 낸 내용이다. "이 도식은 외곽의 원형 선을 따라 마력을 끌어모으는 마법진의 설계도다. 외곽 칸 옆의 별 기호는 영혼이 깃든 돌을 놓는 자리를 뜻한다. 방대한 마력을 제단 중앙으로 모아, 대상이 숨을 거두는 순간 돌에 깃든 영혼을 그 몸으로 옮겨 육체를 차지하면 부활을 완성할 수 있다고 적혀 있다."
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="character-malice">말리스</span>가 마법 지식을 활용해 도식의 문양들을 해독해 낸 내용이다.</div>
   <div class="divider-gold"></div>
-  <div>이 도식은 외곽의 원형 선을 따라 마력을 끌어모으는 <span class="emphasis">마법진</span>의 설계도다. 방대한 마력을 제단 중앙으로 모아, <span class="emphasis">대상</span>이 숨을 거두는 순간 영혼이 깃들게 하면 그 육체를 차지해 <span class="emphasis">부활</span>을 완성할 수 있다고 적혀 있다.</div>
+  <div>이 도식은 외곽의 원형 선을 따라 마력을 끌어모으는 <span class="emphasis">마법진</span>의 설계도다. 외곽 칸 옆의 별 기호는 영혼이 깃든 돌을 놓는 자리를 뜻한다. 방대한 마력을 제단 중앙으로 모아, <span class="emphasis">대상</span>이 숨을 거두는 순간 돌에 깃든 영혼을 그 몸으로 옮겨 육체를 차지하면 <span class="emphasis">부활</span>을 완성할 수 있다고 적혀 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a complex geometric diagram on yellowed leather parchment, now dynamically overlaid with glowing, semi-transparent crimson and violet runic characters that seem to float just above the surface of the leather. At the center of the diagram, a bright, mystical violet light surges from the dense intersecting lines, indicating magical activation. The hand of a dark sorcerer (Malice), wearing dark fingerless leather gloves, is gently tracing the glowing ancient script with a finger, leaving a faint trail of purple magical sparks in the air. Soft chiaroscuro lighting, dark and blurry laboratory background with dusty alchemy bottles. Detailed 1980s fantasy oil painting style. High tension and discovery.
 단서 그룹 : 03_연구실
@@ -2244,7 +2206,6 @@ HTML :
 
 [clue_60]
 이름 : 외곽 망루#1
-예전 이름 : 외곽#망루_1
 clue_id : 22d4f767-a185-40c0-80b1-7ed49b44f2f0
 variant_id : 5687d924-520d-4c80-844e-2f8cfe695f31
 유형 : 증언
@@ -2278,7 +2239,6 @@ HTML :
 
 [clue_61]
 이름 : 외곽 망루#2
-예전 이름 : 외곽#망루_2
 clue_id : a2530ddf-fabc-4f54-9ef3-d81b3d60d546
 variant_id : 7755575a-88f2-4d62-9c9b-cfe618961948
 유형 : 증언
@@ -2312,7 +2272,6 @@ HTML :
 
 [clue_62]
 이름 : 중앙 복도#1
-예전 이름 : 중앙#복도_1
 clue_id : 70ae4261-f8c9-4c34-a40d-d10956829059
 variant_id : f1ed8d73-ed47-46b2-a7b0-f69fa76cf439
 유형 : 증언
@@ -2346,7 +2305,6 @@ HTML :
 
 [clue_63]
 이름 : 중앙 복도#2
-예전 이름 : 중앙#복도_2
 clue_id : 3472e1ca-2f20-4ff8-b328-eb6bffa8113f
 variant_id : 8d5ad3c7-1cac-47ef-87a5-45d913036a2d
 유형 : 증언
@@ -2364,13 +2322,13 @@ variant_id : 8d5ad3c7-1cac-47ef-87a5-45d913036a2d
 관련 : 엘드리치
 의도 : 성 내부 곳곳에 영혼석이 배치되었음을 암시.
 내용 :
-늙은 청소부의 증언이다. "싸움 소리가 한창 시끄럽던 한낮에 다용도실 벽장에 숨어 있었소. 문틈으로 복도를 내다보는데, 분명 아무것도 없는데도 허공이 아지랑이처럼 일렁거리며 스윽 지나가더이다. 그것이 지나간 자리를 보니 어둑한 구석에 별처럼 반짝이는 것들이 남겨져 있었소."
+늙은 청소부의 증언이다. "싸움 소리가 한창 시끄럽던 한낮에 다용도실 벽장에 숨어 있었소. 문틈으로 복도를 내다보는데, 분명 아무것도 없는데도 허공이 아지랑이처럼 일렁거리며 스윽 지나가더이다. 그 뒤로 성 곳곳을 돌며 청소를 하다 보니, 어둑한 구석마다 별처럼 빛나는 작은 돌들이 떨어져 있더이다."
 HTML :
 <div class="story-content">
   <div class="script-direction">늙은 청소부의 증언이다.</div>
   <div class="divider-gold"></div>
   <div class="quote-box">
-    <div>싸움 소리가 한창 시끄럽던 한낮에 다용도실 벽장에 숨어 있었소. 문틈으로 복도를 내다보는데, 분명 아무것도 없는데도 허공이 아지랑이처럼 일렁거리며 스윽 지나가더이다. 그것이 지나간 자리를 보니 어둑한 구석에 <span class="emphasis">별처럼 반짝이는 것</span>들이 남겨져 있었소.</div>
+    <div>싸움 소리가 한창 시끄럽던 한낮에 다용도실 벽장에 숨어 있었소. 문틈으로 복도를 내다보는데, 분명 아무것도 없는데도 허공이 아지랑이처럼 일렁거리며 스윽 지나가더이다. 그 뒤로 성 곳곳을 돌며 청소를 하다 보니, 어둑한 구석마다 <span class="emphasis">별처럼 빛나는 작은 돌들</span>이 떨어져 있더이다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. A dramatic medium shot showing the back of an old, hunched-over cleaner seen from behind, standing in the middle of a grand, empty central corridor of the fortress (based strictly and exclusively on the background seen in 12_중앙_복도.png). No doors, no drainage pipes, and no basement elements are present. The background consists only of the high, repetitive stone arches, massive pillars, and the long, echoing stone floor of the central hallway at night. The old man is clad in tattered brown work clothes, holding a primitive straw broom in one hand, appearing small against the overwhelming scale of the empty corridor. Deep, heavy shadows stretch between the pillars, with a faint, cold moonlight or distant torchlight illuminating the textured stone surfaces. Extremely shallow depth of field, focused on the weary silhouette of the old man. Detailed 1980s fantasy oil painting style. Deep shadows, rich textures, heavy brushstrokes, dramatic chiaroscuro lighting, somber atmosphere. No faces visible, just the lone figure in the dark, silent hallway.
@@ -2380,7 +2338,6 @@ HTML :
 
 [clue_64]
 이름 : 무기고#4
-예전 이름 : 무기고#4
 clue_id : 7291cc8a-4928-448c-9bdf-e810a6da2bde
 variant_id : 6bb1b7bf-e387-4f91-849c-9ef4cf937dad
 유형 : 물증
@@ -2410,7 +2367,6 @@ HTML :
 
 [clue_65]
 이름 : 중앙 복도#3
-예전 이름 : 중앙#복도_3
 clue_id : dabc2d62-a74f-41ce-a6ce-b140a0229704
 variant_id : 0e5b3e9c-1098-43e3-9a4b-8c1bc06750c7
 유형 : 증언
