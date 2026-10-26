@@ -1465,24 +1465,24 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 연계 보조 단서. 마이어스가 출입 통제 단말에 치는 숨겨진 암호 "evolution"의 끝부분 "ution"만 알려주는 단서다 — 클로이는 그가 치는 걸 엿봤지만 끝부분만 봤고 어디에 쓰는지는 몰랐다. 플레이어에게는 지금 당장 무슨 의미인지 알 수 없고(ution은 execution, institution 등 흔한 어미라 정답을 좁힐 수 없다), 4단계 비밀 구역에서 "evolution"이 중요한 비밀코드가 되는 순간 의미가 풀린다. 연구가 아니라 입구·암호에 대한 단어다.
+의도 : 연계 보조 단서. 마이어스가 출입 통제 단말에 치는 숨겨진 암호 "evolution"의 끝부분 "ution"만 알려주는 단서다 — 클로이는 그가 치는 걸 엿봤지만 끝부분만 봤고 어디에 쓰는지는 몰랐다. 쪽지는 "password"와 "evolution" 두 줄이 왼쪽에서 찢겨 "word"와 "ution"만 남은 모양이며(CSS .note-torn으로 찢어진 쪽지처럼 보이게 함), "word"는 이 쪽지가 암호에 관한 것이라는 점만 알린다. 플레이어에게는 지금 당장 무슨 의미인지 알 수 없고(ution은 execution, institution 등 흔한 어미라 정답을 좁힐 수 없다), 4단계 비밀 구역에서 "evolution"이 중요한 비밀코드가 되는 순간 의미가 풀린다. 연구가 아니라 입구·암호에 대한 단어다.
 질문 HTML :
 <div class="story-content">
   <div>시신의 연구복 주머니가 불룩하다.</div>
 </div>
 내용 :
-주머니에서 구겨진 쪽지가 나온다. 영문 단어의 끝부분만 적혀 있다. 쪽지의 왼쪽 가장자리는 찢겨 나가 있다.
+주머니에서 구겨진 쪽지가 나온다. 영문 단어 두 개의 끝부분만 적혀 있다. 쪽지의 왼쪽 가장자리는 찢겨 나가 있다.
+
+word
 
 ution
 HTML :
 <div class="story-content">
-  <div class="script-direction">주머니에서 구겨진 쪽지가 나온다. 영문 단어의 끝부분만 적혀 있다. 쪽지의 왼쪽 가장자리는 찢겨 나가 있다.</div>
+  <div class="script-direction">주머니에서 구겨진 쪽지가 나온다. 영문 단어 두 개의 끝부분만 적혀 있다. 쪽지의 왼쪽 가장자리는 찢겨 나가 있다.</div>
   <div class="divider-gold"></div>
-  <div class="document-page">
-    <div class="document-body small"><span class="emphasis">ution</span></div>
-  </div>
+  <div class="note-torn"><div class="note-torn-body"><div class="note-ink">word</div><div class="note-gap"></div><div class="note-ink">ution</div></div></div>
 </div>
-이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: A very small crumpled scrap of paper, about the size of half a sticky note, lying by itself on a large bare gray laboratory table; the scrap takes up only a small part of the frame, the tabletop and the dim windowless room are visible around it, no hands and no people. Its left edge is ragged where it was torn off, as if the beginning of a word was lost. On the scrap there is a single short line of blue ballpoint handwriting that reads only "ution" (five lowercase letters), starting right at the torn edge, and absolutely nothing else is written on it. The only writing in the frame is those five letters "ution"; there is no other text, numbers or marks anywhere.
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: A very small crumpled scrap of paper, about the size of half a sticky note, lying by itself on a large bare gray laboratory table; the scrap takes up only a small part of the frame, the tabletop and the dim windowless room are visible around it, no hands and no people. Its left edge is ragged where it was torn off, as if the beginning of a word was lost. On the scrap there are exactly two short lines of blue ballpoint handwriting, right-aligned so that both end flush at the right side and begin right at the torn edge: the upper line reads only "word" (four lowercase letters), then one empty line, then the lower line reads only "ution" (five lowercase letters), and absolutely nothing else is written on it. The only writing in the frame is "word" and "ution"; there is no other text, numbers or marks anywhere.
 단서 그룹 : 연구시설 - 통제 구역
 파일명 : 38_마커스_통제_구역_7
 
