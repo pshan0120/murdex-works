@@ -519,5 +519,10 @@
         }
       ]
     }
-  ]
+  ],
+  "ranking": {
+    "enabled": true,
+    "top_n": 5,
+    "min_entries": 5
+  }
 }
