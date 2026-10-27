@@ -1,0 +1,24 @@
+{
+ "note": {
+  "variant_id": "e9538f25-bc98-4ebc-ac7b-5f7cde0ea2e1",
+  "clue_content": "<div class=\"story-content\">\n  <div class=\"script-direction\">책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.</div>\n  <div class=\"divider-gold\"></div>\n  <div class=\"document-page\">\n    <div class=\"document-body small\">[1] <span class=\"emphasis\">게</span>는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.<br /><br />[3] 같은 환경이면 같은 모양으로 가고, 환경이 다르면 다른 모양으로 간다.<br /><br />[4] 그 시간을 줄일 수 있다면. 소재 강화 같은 건 부산물에 지나지 않는다.<br /><br />[5] 키우기만 해서는 안 된다. 크기만 커질 뿐 모양은 그대로다. 모양이 바뀌어야 한다.<br /><br />[6] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[7] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[8] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[9] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.<br /><br />[10] 끝까지 확인한다. 결과로 증명하겠다.</div>\n  </div>\n</div>"
+ },
+ "pc": {
+  "variant_id": "ad3015fa-c4a8-4176-bd12-b3e54cde798e",
+  "passcode_question_html": "<div class=\"story-content\">\n  <div class=\"script-direction\">책상 위 컴퓨터가 켜져 있다. 화면에는 암호 입력창이 떠 있다.</div>\n  <div class=\"login-screen\">\n    <div class=\"login-avatar\"></div>\n    <div class=\"login-field\"><span class=\"login-placeholder\">password</span><span class=\"login-arrow\">→</span></div>\n    <div class=\"login-hint\">hint: 나의 꿈 ev...</div>\n  </div>\n  <div class=\"passcode-guide\">영문 또는 한글로 입력해 주세요.</div>\n</div>"
+ },
+ "steps": {
+  "a89f1039-4297-4648-b120-5fcc1398e293": {
+   "step_id": "a89f1039-4297-4648-b120-5fcc1398e293",
+   "description": "<div class=\"story-content\">\n  <p class=\"emphasis\">지금은 전화 통화 중입니다. 말로 이야기하되, 필요하면 문자를 주고받듯 채팅 기능을 써도 됩니다. 단서 화면은 보여 줄 수 없습니다.</p>\n  <div class=\"section-title\">1. 정보 공유와 추리</div>\n  <p>1차 조사에서 알아낸 것을 서로 말로 공유하고, 그것을 바탕으로 함께 추리하세요. 이 단계에서는 자유롭게 이야기해도 됩니다. 작품 속에서는 두 사람이 약속한 시각에 전화로 연결되는 시간입니다.</p>\n  <p>상대가 조사한 곳에서 나온 낱말, 기호, 숫자를 참고해 보세요. 내 쪽에서 막힌 곳을 푸는 열쇠가 될 수 있습니다. 다만 두 곳의 키워드가 반드시 서로 연결되는 것은 아닙니다.</p>\n  <div class=\"section-title\">2. 다음 단계 안내</div>\n  <p>충분히 이야기를 나눴다면, 화면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계(2차 조사)로 진행하십시오.</p>\n</div>"
+  },
+  "e513bc6c-eac2-4d0d-8f13-658b655ea69c": {
+   "step_id": "e513bc6c-eac2-4d0d-8f13-658b655ea69c",
+   "description": "<div class=\"story-content\">\n  <p class=\"emphasis\">통화가 이어지고 있습니다. 이번에 조사한 내용을 말로 정리해 전해 주세요.</p>\n  <div class=\"section-title\">1. 정보 공유와 추리</div>\n  <p>2차 조사에서 알아낸 것을 서로 말로 공유하고, 그것을 바탕으로 함께 추리하세요. 이 단계에서는 자유롭게 이야기해도 됩니다. 작품 속에서는 두 사람이 약속한 시각에 전화로 연결되는 시간입니다.</p>\n  <p>상대가 조사한 곳에서 나온 낱말, 기호, 숫자를 참고해 보세요. 내 쪽에서 막힌 곳을 푸는 열쇠가 될 수 있습니다. 다만 두 곳의 키워드가 반드시 서로 연결되는 것은 아닙니다.</p>\n  <div class=\"section-title\">2. 다음 단계 안내</div>\n  <p>충분히 이야기를 나눴다면, 화면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계(3차 조사)로 진행하십시오.</p>\n</div>"
+  },
+  "2b7db6e5-9405-4b18-bbc3-934a652106c6": {
+   "step_id": "2b7db6e5-9405-4b18-bbc3-934a652106c6",
+   "description": "<div class=\"story-content\">\n  <p class=\"emphasis\">세 번째 통화입니다. 앞의 이야기와 이번 내용을 이어서 말로 맞춰 보세요.</p>\n  <div class=\"section-title\">1. 정보 공유와 추리</div>\n  <p>3차 조사에서 알아낸 것을 서로 말로 공유하고, 그것을 바탕으로 함께 추리하세요. 이 단계에서는 자유롭게 이야기해도 됩니다. 작품 속에서는 두 사람이 약속한 시각에 전화로 연결되는 시간입니다.</p>\n  <p>상대가 조사한 곳에서 나온 낱말, 기호, 숫자를 참고해 보세요. 내 쪽에서 막힌 곳을 푸는 열쇠가 될 수 있습니다. 다만 두 곳의 키워드가 반드시 서로 연결되는 것은 아닙니다.</p>\n  <div class=\"section-title\">2. 다음 단계 안내</div>\n  <p>충분히 이야기를 나눴다면, 화면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계(4차 조사)로 진행하십시오.</p>\n</div>"
+  }
+ }
+}

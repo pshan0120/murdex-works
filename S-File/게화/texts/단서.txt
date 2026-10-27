@@ -571,13 +571,13 @@ groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 이 집에서 먼저 당한 사람(톰). 앞선 두 사람과 같은 방식으로 자다가 질식했으므로 저항 흔적이 없다. 다만 옆자리 이불이 걷어젖혀진 채 비어 있어 "함께 자던 다른 사람이 깨어나 일어났다"는 것만 관찰로 남긴다 — 이 사람이 누구인지는 쓰지 않는다. 3·4번째 희생자가 같은 날 같은 집에서 죽었다는 설정의 첫 단서.
+의도 : 이 집에서 먼저 당한 사람(톰). 앞선 두 사람과 같은 방식으로 자다가 질식했으므로 저항 흔적이 없다. 다만 옆자리 이불이 걷어젖혀진 채 비어 있어 "함께 자던 다른 사람이 깨어나 일어났다"는 것만 관찰로 남긴다 — 이 사람이 누구인지는 쓰지 않는다. 3·4번째 희생자가 같은 날 같은 집에서 죽었다는 설정의 첫 단서. 9/3 밤에 죽어 발견 시점에 사흘이 지났으므로 목에는 흐릿하게 남은 원형의 멍 자국만 쓴다(2026-10-28 운영자 요청: 원형 멍을 한 단계 일찍 보게 함. 시간이 지나면 흐려지는 흔적의 시작점이며 3단계 레이·노라의 뚜렷한 자국으로 이어진다. 몸싸움 흔적은 여전히 없다).
 내용 :
-안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 죽어 있다. 입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.
+안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 죽어 있다. 입은 벌어져 있고 목에는 흐릿한 원형의 멍 자국이 몇 군데 남아 있다. 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">안방 침대 위, 건장한 체격의 남자가 베개에서 반쯤 미끄러진 채 죽어 있다.</div>
-  <div>입은 벌어져 있고 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.</div>
+  <div>입은 벌어져 있고 목에는 흐릿한 원형의 멍 자국이 몇 군데 남아 있다. 몸싸움을 벌인 흔적은 없다. 옆자리의 이불은 한쪽으로 걷어젖혀진 채 비어 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A married couple's tidy home with laundry still hanging in the yard outside the window. Subject: A bedroom seen from the foot of the bed: a sturdy man lying on a double bed, half slid off the pillow, mouth open, no sign of a struggle, the blanket on the empty side thrown back. His face is in shadow. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 크래비스 섬 - 빨래 널린 집
@@ -603,14 +603,14 @@ groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 설명 없이 접힌 종이 한 장이 나온다고만 쓰고 종이 안의 ∞는 CSS로 접힌 메모지(.note-paper)에 볼펜 글씨처럼 보여 준다(2026-10-21: "펼쳐 보니 무한대 기호가 보인다" 문장 삭제). 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다.
+의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 설명 없이 접힌 종이 한 장이 나온다고만 쓰고 종이 안의 ∞는 CSS로 접힌 메모지(.note-paper)에 볼펜 글씨처럼 보여 준다(2026-10-21: "펼쳐 보니 무한대 기호가 보인다" 문장 삭제). 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다. 발목을 감겼다는 설정에 맞춰 발목과 목에 흐릿하게 남은 원형의 멍 자국을 쓴다(2026-10-28, 톰과 같은 기준). 그레이스의 8과 이 자국이 같은 집에서 만나 팔이 여럿이라는 추리가 한 단계 일찍 열린다.
 내용 :
-거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다. 한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
+거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다. 한쪽 발목이 어색하게 비틀려 있고, 그 발목과 목에는 흐릿한 원형의 멍 자국이 몇 군데 남아 있다. 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
 
 HTML :
 <div class="story-content">
   <div class="script-direction">거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다.</div>
-  <div>한쪽 발목이 어색하게 비틀려 있고, 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
+  <div>한쪽 발목이 어색하게 비틀려 있고, 그 발목과 목에는 흐릿한 원형의 멍 자국이 몇 군데 남아 있다. 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
   <div class="divider-gold"></div>
   <div class="note-paper"><div class="note-ink">∞</div></div>
 </div>
@@ -1742,7 +1742,7 @@ HTML :
 
 ※ (임시 초안 — 확정 전.)
 ※ 비밀 구역은 마이어스만 아는 숨겨진 구역이다(통제 구역 안쪽 벽 너머). 입장은 컷씬으로 처리한다. 마이어스는 건배 이후 이곳으로 돌아와 일을 보다가 쓰러져 죽었다. 건배 이후의 마이어스 기록은 없다. 마이어스는 오웬이 병을 바꿨다는 것을 끝내 모른다.
-※ 단계 단서는 #1~#6 6개, 연계 보조는 #7(마이어스의 컴퓨터 #4를 암호 "evolution"으로 열면 뒷면으로 추가 배치되는 문서). 컴퓨터 암호의 힌트는 입력창 위의 "나의 꿈 ev..."와 연구 노트(#3)의 흐름이다. 3단계 시신의 쪽지 "ution"이 마지막 글자들이다. ev와 ution 사이의 "ol"만 플레이어가 채운다.
+※ 단계 단서는 #1~#6 6개, 연계 보조는 #7(마이어스의 컴퓨터 #4를 암호 "evolution"으로 열면 뒷면으로 추가 배치되는 문서). 컴퓨터 암호의 힌트는 입력창 아래의 "hint: 나의 꿈 e..."와 연구 노트(#3)의 흐름이다. 3단계 시신의 쪽지 "ution"이 마지막 글자들이다. 첫 글자 e와 ution 사이의 "vol"을 플레이어가 채운다(2026-10-28: 이번 테스트에서 너무 쉽게 풀려 힌트를 "ev"에서 "e"로 줄임).
 ※ 사람에게 적용된다는 내용은 컴퓨터 안(문서 #7)에서만 나온다. 컴퓨터를 열지 못한 플레이어가 이 물질이 사람에게 쓰일 수 있다는 것을 알지 못하게 하려는 것이다(어슐라가 진화 대상이라는 것이 너무 쉽게 드러나지 않도록). 결과지(#2), 노트(#3), 화이트보드(#5)에는 사람에 대한 언급을 쓰지 않는다("죽음에 가까워질수록" 같은 일반론 정도).
 ※ 연구 결과지(#2)와 연구 노트(#3)에는 "진화", "노화", "알코올"이라는 단어를 쓰지 않는다. 결과지는 관찰 결과로 알리고, 노트는 마이어스가 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 쓰되 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다. C2H5OH가 알코올이라는 것은 2단계 시약 보관소의 "C2H5OH / 에틸 알코올" 병으로 안다.
 ※ 컴퓨터 안의 문서(#7)는 계획서가 아니라 마이어스가 기억하려고 적어둔 단편적인 문장들이다.
@@ -1845,34 +1845,30 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 마이어스가 이 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 적은 노트. 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다(게로의 수렴, 환경이 정한 모양, 시간을 줄이는 것, 크기가 아니라 모양, 증명하겠다는 각오). 사람에 대한 언급은 쓰지 않는다. 마지막 장은 진지한 과학자의 각오로 쓴다. "진화"라는 단어는 쓰지 않는다. 플레이어가 이 흐름으로 "evolution"을 추리해 컴퓨터 암호를 풀게 한다. C2H5OH와 NaCl에 대한 문장은 알아낸 사실로만 쓰고 결과를 서술하지 않는다. 8차 성공(3단계 보관함)과도 이어진다(초반 실패의 원인).
+의도 : 마이어스가 이 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 적은 노트. 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다(게로의 수렴, 환경이 정한 모양, 포식자가 더 빠르고 더 영리하다는 것, 시간을 줄이는 것, 증명하겠다는 각오). 사람에 대한 언급은 쓰지 않는다. 마지막 장은 진지한 과학자의 각오로 쓴다. "진화"라는 단어는 쓰지 않는다. 플레이어가 이 흐름으로 "evolution"을 추리해 컴퓨터 암호를 풀게 한다. C2H5OH와 NaCl에 대한 문장은 알아낸 사실로만 쓰고 결과를 서술하지 않는다. 8차 성공(3단계 보관함)과도 이어진다(초반 실패의 원인).
 내용 :
 책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.
 [1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.
 
 [2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.
 
-[3] 같은 환경이면 같은 모양으로 가고, 환경이 다르면 다른 모양으로 간다.
+[3] 포식자는 더 빠르고 더 영리하다.
 
-[4] 그 시간을 줄일 수 있다면. 소재 강화 같은 건 부산물에 지나지 않는다.
+[4] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.
 
-[5] 키우기만 해서는 안 된다. 크기만 커질 뿐 모양은 그대로다. 모양이 바뀌어야 한다.
+[5] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.
 
-[6] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.
+[6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.
 
-[7] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.
+[7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.
 
-[8] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.
-
-[9] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.
-
-[10] 끝까지 확인한다. 결과로 증명하겠다.
+[8] 끝까지 확인한다. 결과로 증명하겠다.
 HTML :
 <div class="story-content">
   <div class="script-direction">책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[1] <span class="emphasis">게</span>는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.<br /><br />[3] 같은 환경이면 같은 모양으로 가고, 환경이 다르면 다른 모양으로 간다.<br /><br />[4] 그 시간을 줄일 수 있다면. 소재 강화 같은 건 부산물에 지나지 않는다.<br /><br />[5] 키우기만 해서는 안 된다. 크기만 커질 뿐 모양은 그대로다. 모양이 바뀌어야 한다.<br /><br />[6] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[7] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[8] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[9] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.<br /><br />[10] 끝까지 확인한다. 결과로 증명하겠다.</div>
+    <div class="document-body small">[1] <span class="emphasis">게</span>는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.<br /><br />[3] 포식자는 더 빠르고 더 영리하다.<br /><br />[4] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[5] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.<br /><br />[8] 끝까지 확인한다. 결과로 증명하겠다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: An old worn research notebook open on a desk, short numbered handwritten entries, unreadable, a pen beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -1898,14 +1894,14 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 마이어스의 컴퓨터. 암호는 "evolution"이다. 입력창 안에 "password", 아래에 "hint: 나의 꿈 ev..."가 적혀 있고(통제 구역#7 쪽지의 "word"와 이어져 이 화면이 암호 입력창이라는 것을 알린다. CSS .login-screen으로 컴퓨터 로그인 화면처럼 보이게 함, 사용자 이름과 글자 수를 알리는 점은 넣지 않음), 연구 노트(#3)에서 마이어스가 원한 것이 진화였다는 걸 읽은 플레이어가 영어 단어로 추리한다. 3단계에서 받은 "ution"이 단어의 끝부분이다. 전체 글자 수는 알리지 않고, ev와 ution 사이의 "ol"만 플레이어가 채운다. "진화"로 입력해도 열린다. 열면 열려 있는 문서(#7)가 뒷면으로 추가 배치된다(AP 없이 조사).
+의도 : 마이어스의 컴퓨터. 암호는 "evolution"이다. 입력창 안에 "password", 아래에 "hint: 나의 꿈 e..."가 적혀 있고(통제 구역#7 쪽지의 "word"와 이어져 이 화면이 암호 입력창이라는 것을 알린다. CSS .login-screen으로 컴퓨터 로그인 화면처럼 보이게 함, 사용자 이름과 글자 수를 알리는 점은 넣지 않음), 연구 노트(#3)에서 마이어스가 원한 것이 진화였다는 걸 읽은 플레이어가 영어 단어로 추리한다. 3단계에서 받은 "ution"이 단어의 끝부분이다. 전체 글자 수는 알리지 않고, 첫 글자 e와 ution 사이의 "vol"을 플레이어가 채운다(2026-10-28: 힌트를 "ev..."에서 "e..."로 줄임). "진화"로 입력해도 열린다. 열면 열려 있는 문서(#7)가 뒷면으로 추가 배치된다(AP 없이 조사).
 질문 HTML :
 <div class="story-content">
   <div class="script-direction">책상 위 컴퓨터가 켜져 있다. 화면에는 암호 입력창이 떠 있다.</div>
   <div class="login-screen">
     <div class="login-avatar"></div>
     <div class="login-field"><span class="login-placeholder">password</span><span class="login-arrow">→</span></div>
-    <div class="login-hint">hint: 나의 꿈 ev...</div>
+    <div class="login-hint">hint: 나의 꿈 e...</div>
   </div>
   <div class="passcode-guide">영문 또는 한글로 입력해 주세요.</div>
 </div>
