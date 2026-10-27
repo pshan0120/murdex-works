@@ -520,7 +520,7 @@ groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 종이는 밀수 조직 시절 수뇌부 일곱 명이 서로를 팔지 않겠다고 서명한 서약서다(이름마다 필체가 다르다는 것으로 서명임을 전한다). 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사("프랭크 모란" 등)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다.
+의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 종이는 밀수 조직 시절 수뇌부 일곱 명이 서로를 팔지 않겠다고 서명한 서약서다(이름마다 필체가 다르다는 것으로 서명임을 전한다). 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사(두목 "프랭크 모란"과 조직원 여섯 명)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다.
 질문 HTML :
 <div class="story-content">
   <div>침실 한쪽 서랍에 글자 자물쇠가 달려 있다.</div>
@@ -881,7 +881,7 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 단말기에서 "홀트" 자료를 찾아 열었다. 시설에 갑각류 표본을 납품하는 크래비스 섬의 정기 공급처로 등록된 기록이다.
 
 공급처: 홀트 수산
-대표: 에드거
+대표: 에드거 홀트
 품목: 갑각류 표본
 신원 조회 결과: 확인 불가
 HTML :
@@ -889,7 +889,7 @@ HTML :
   <div class="script-direction">단말기에서 "<span class="emphasis">홀트</span>" 자료를 찾아 열었다. 시설에 갑각류 표본을 납품하는 크래비스 섬의 정기 공급처로 등록된 기록이다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">공급처: <span class="emphasis">홀트</span> 수산<br />대표: <span class="emphasis">에드거</span><br />품목: 갑각류 표본<br />신원 조회 결과: <span class="emphasis">확인 불가</span></div>
+    <div class="document-body small">공급처: <span class="emphasis">홀트</span> 수산<br />대표: <span class="emphasis">에드거 홀트</span><br />품목: 갑각류 표본<br />신원 조회 결과: <span class="emphasis">확인 불가</span></div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A thin flat-panel monitor on a laboratory office desk showing a plain database record page with one highlighted row and folder icons, a clean sans-serif interface too small to read, cool white glow. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -901,7 +901,7 @@ HTML :
 
 ※ (임시 초안 — 마커스 4단계 키워드 선정용으로 먼저 써본 것. 확정 전.)
 ※ 컷씬: 톰·그레이스 이후의 집은 전부 창에 판자를 대고 문을 막아둔 상태다. 베일라는 쇠지레로 창의 판자를 뜯고 들어간다. 집 외형을 묘사할 때 지붕 위쪽에 환풍구나 빈틈이 보이게 쓴다(어슐라가 위쪽 틈으로 들어와 천장 쪽에서 내려온 것). 단서 본문에는 쓰지 않는다.
-※ 이 집의 두 사람(노라·레이)은 자다가 당한 게 아니라 깨어 있다가 저항하며 죽었다. 목과 팔의 자국은 "원형의 멍 자국"으로만 쓴다 — 어떤 말로든 문어를 연상시키는 표현은 쓰지 않는다. 범인이 사람이 아니라는 직접적인 단서(푸른 액체 등)는 4단계로 미룬다.
+※ 이 집의 두 사람(노라·레이)은 자다가 당한 게 아니라 깨어 있다가 저항하며 죽었다. 노라 목의 자국은 "원형의 멍 자국"으로만 쓴다 — 어떤 말로든 문어를 연상시키는 표현은 쓰지 않는다. 범인이 사람이 아니라는 직접적인 단서(푸른 액체 등)는 4단계로 미룬다.
 ※ 이 집이 누구의 집인지, 두 사람이 누구인지는 쪽지·일정표의 이름으로 추리한다. 시신 본문에는 이름 라벨을 쓰지 않는다.
 
 
@@ -924,13 +924,13 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 4번째 날(9/4)의 희생자. 앞선 희생자들과 달리 깨어 있다가 저항하며 죽었다 — 여자(노라)가 먼저 뒤에서 목이 졸렸고, 달려온 남자(레이)가 갈고리로 맞섰으나 여러 곳을 붙잡혀 질식했다. 가장 최근에 죽은 사람들이라 원형의 멍 자국이 남아 있다. 누가 누구인지, 어떻게 침입했는지는 텍스트로 말하지 않는다.
+의도 : 4번째 날(9/4)의 희생자. 앞선 희생자들과 달리 깨어 있다가 저항하며 죽었다 — 여자(노라)가 먼저 뒤에서 목이 졸렸고, 달려온 남자(레이)가 갈고리로 맞섰으나 어슐라가 직접 정면으로 붙잡아 쓰러뜨렸다. 가장 최근에 죽은 사람들이라 원형의 멍 자국이 남아 있되, 어슐라가 노라를 기습해 먼저 죽인 상황이므로 원형의 멍 자국은 노라의 목에만 둔다. 레이는 몸이 부자연스러운 각도로 꺾인 채 발견된다(2026-10-28 운영자 결정. 엔딩 고백 "아내는 불시에 덮쳐 먼저 죽였고, 남편은…정면으로 맞붙어 쓰러뜨렸어요"와 맞춤). 누가 누구인지, 어떻게 침입했는지는 텍스트로 말하지 않는다.
 내용 :
-식탁 옆 바닥에 여자의 시신이 있고, 그 옆에 남자도 숨져 있다. 식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 팔과 목에도 작은 원형의 멍 자국이 여러 군데 나 있고, 한 손에는 갈고리를 쥐고 있다.
+식탁 옆 바닥에 여자의 시신이 있고, 그 옆에 남자도 숨져 있다. 식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자는 한 손에 갈고리를 쥔 채 팔과 몸이 부자연스러운 각도로 꺾여 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">식탁 옆 바닥에 여자의 시신이 있고, 그 옆에 남자도 숨져 있다.</div>
-  <div>식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자의 팔과 목에도 작은 원형의 멍 자국이 여러 군데 나 있고, 한 손에는 갈고리를 쥐고 있다.</div>
+  <div>식탁은 밀려나 있고 의자는 넘어져 있으며 깨진 컵이 흩어져 있다. 여자의 목에는 작은 원형의 멍 자국이 여러 군데 나 있다. 남자는 한 손에 갈고리를 쥔 채 팔과 몸이 부자연스러운 각도로 꺾여 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast gray light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small multi-pane sash windows glowing with gray fog light, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the only light is the dim gray daylight coming through the windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. A small boat lies overturned in the yard outside; the windows are boarded from inside, the kitchen is cramped and untouched by tidiness. Subject: A kitchen floor in disarray: a woman and a man lying side by side, a toppled table and chair, broken cups scattered, small round bruise marks on their necks and on the man's forearms, a fishing gaff in the man's hand. Faces are not shown, no blood, nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 크래비스 섬 - 뒤집힌 보트 집
@@ -1110,7 +1110,7 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 보너스(진행과 무관). 레이가 연구소에 갑각류를 나르던 표본 운반 케이스 — 앨런이 장비를 지급하며 기본 암호를 자기 이름으로 해뒀고 레이는 바꾸지 않았다. 레이는 잠글 수 있는 유일한 상자라 개인 소지품과 함께 죄책감 때문에 몰래 모아둔 옛 신문 스크랩 두 장을 넣어뒀다(스크랩만 들어 있으면 연구시설이 넣어 보낸 것으로 오해할 수 있어 잡동사니 속에 끼어 있는 걸로 쓴다). 열면 정보 1·2·3(모란 일당의 정체, 에드거의 손등 화상, 아서 콜린스의 실종)이 한꺼번에 이어진다 — 에드거 서랍의 일곱 이름이 수배 명단과 같고, 손등 화상이 에드거의 시신·사진과 맞는다. 수배 명단은 가명↔실명 짝짓기의 소거 재료다: 성이 같으면 부부(마이클·패트리샤 번스, 지미·데비 쇼)이고 성이 다르면 독신(프랭크 모란, 레너드 크로스, 로니 헤이즈)이다. 마을도 부부가 사는 집이 둘(톰·그레이스, 레이·노라)이고 독신이 에드거·월터·샘이다. "두목 + 손등 화상 = 에드거(프랭크 모란)", 쪽지의 "두목과 레너드가 죽었다" = 에드거·월터(레너드 크로스)로 소거하면 남는 로니 헤이즈가 마지막 집 주인이다. 사진 속 얼굴이 마을 사람과 닮았다는 식의 해석은 텍스트로 쓰지 않는다.
+의도 : 보너스(진행과 무관). 레이가 연구소에 갑각류를 나르던 표본 운반 케이스 — 앨런이 장비를 지급하며 기본 암호를 자기 이름으로 해뒀고 레이는 바꾸지 않았다. 레이는 잠글 수 있는 유일한 상자라 개인 소지품과 함께 죄책감 때문에 몰래 모아둔 옛 신문 스크랩 두 장을 넣어뒀다(스크랩만 들어 있으면 연구시설이 넣어 보낸 것으로 오해할 수 있어 잡동사니 속에 끼어 있는 걸로 쓴다). 열면 정보 1·2·3(모란 일당의 정체, 에드거의 손등 화상, 아서 콜린스의 실종)이 한꺼번에 이어진다 — 두목 프랭크 모란이 에드거 서랍의 일곱 이름에 들어 있고, 두목과 조직원 여섯 명을 합친 일곱이 마을 사람 수와 같으며, 손등 화상이 에드거의 시신·사진과 맞는다. 수배 기사에는 두목 외의 이름을 쓰지 않는다(2026-10-28 운영자 결정: 모든 수배자를 언급할 필요가 없고, 이름이 많으면 오히려 헷갈린다). 로니를 가리는 소거는 이 기사에 기대지 않는다. "두목 + 손등 화상 = 에드거(프랭크 모란)"이고 쪽지의 "두목과 레너드가 죽었다"는 이미 죽은 에드거·월터이며, 받는 사람 지미·데비는 이 집 부부(레이·노라)이므로 남는 로니가 마지막 집 주인이다(톰의 쪽지와 조업 일정표만으로 풀린다). 사진 속 얼굴이 마을 사람과 닮았다는 식의 해석은 텍스트로 쓰지 않는다.
 질문 HTML :
 <div class="story-content">
   <div>식탁 아래에 뚜껑이 달린 케이스가 놓여 있다. "메릴 카운티 해양생태 관측소 / 관리: A. 보이드"라고 적힌 라벨이 붙어 있다.</div>
@@ -1123,7 +1123,7 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 [Merrill County Courier 2011년 4월]
 해안 밀수 조직 일제 소탕, 핵심 수뇌부는 도주
 경찰은 해안 일대에서 활동해 온 밀수 조직을 일제 소탕했으나, 핵심 수뇌부는 검거 직전 종적을 감춘 것으로 확인됐다. 경찰은 이들을 수배하고 행방을 쫓고 있다.
-수배자는 두목 프랭크 모란, 레너드 크로스, 마이클 번스, 패트리샤 번스, 지미 쇼, 데비 쇼, 로니 헤이즈. 두목 모란은 왼쪽 손등에 화상 흉터가 있는 것으로 알려졌다.
+수배자는 두목 프랭크 모란과 조직원 여섯 명이다. 두목 모란은 왼쪽 손등에 화상 흉터가 있는 것으로 알려졌다.
 
 [Merrill County Courier 2011년 9월]
 사람을 찾습니다
@@ -1138,7 +1138,7 @@ HTML :
     <div class="news-masthead"><span>Merrill County Courier</span><span>2011년 4월</span></div>
     <div class="news-headline">해안 밀수 조직 일제 소탕, 핵심 수뇌부는 도주</div>
     <div class="news-text">경찰은 해안 일대에서 활동해 온 밀수 조직을 일제 소탕했으나, 핵심 수뇌부는 검거 직전 종적을 감춘 것으로 확인됐다. 경찰은 이들을 수배하고 행방을 쫓고 있다.</div>
-    <div class="news-text">수배자는 두목 <span class="emphasis">프랭크 모란</span>, <span class="emphasis">레너드 크로스</span>, <span class="emphasis">마이클 번스</span>, <span class="emphasis">패트리샤 번스</span>, <span class="emphasis">지미 쇼</span>, <span class="emphasis">데비 쇼</span>, <span class="emphasis">로니 헤이즈</span>. 두목 모란은 왼쪽 <span class="emphasis">손등에 화상 흉터</span>가 있는 것으로 알려졌다.</div>
+    <div class="news-text">수배자는 두목 <span class="emphasis">프랭크 모란</span>과 조직원 여섯 명이다. 두목 모란은 왼쪽 <span class="emphasis">손등에 화상 흉터</span>가 있는 것으로 알려졌다.</div>
   </div>
   <div class="divider-gold"></div>
   <div class="news-clip">
@@ -1742,7 +1742,7 @@ HTML :
 
 ※ (임시 초안 — 확정 전.)
 ※ 비밀 구역은 마이어스만 아는 숨겨진 구역이다(통제 구역 안쪽 벽 너머). 입장은 컷씬으로 처리한다. 마이어스는 건배 이후 이곳으로 돌아와 일을 보다가 쓰러져 죽었다. 건배 이후의 마이어스 기록은 없다. 마이어스는 오웬이 병을 바꿨다는 것을 끝내 모른다.
-※ 단계 단서는 #1~#6 6개, 연계 보조는 #7(마이어스의 컴퓨터 #4를 암호 "evolution"으로 열면 뒷면으로 추가 배치되는 문서). 컴퓨터 암호의 힌트는 입력창 아래의 "hint: 나의 꿈 e..."와 연구 노트(#3)의 흐름이다. 3단계 시신의 쪽지 "ution"이 마지막 글자들이다. 첫 글자 e와 ution 사이의 "vol"을 플레이어가 채운다(2026-10-28: 이번 테스트에서 너무 쉽게 풀려 힌트를 "ev"에서 "e"로 줄임).
+※ 단계 단서는 #1~#6 6개, 연계 보조는 #7(마이어스의 컴퓨터 #4를 암호 "evolution"으로 열면 뒷면으로 추가 배치되는 문서). 컴퓨터 암호의 힌트는 입력창 아래의 "hint: 나의 꿈 e********"와 연구 노트(#3)의 흐름이다. 3단계 시신의 쪽지 "ution"이 마지막 글자들이다. 첫 글자 e와 ution 사이의 "vol"을 플레이어가 채운다(2026-10-28: 이번 테스트에서 너무 쉽게 풀려 힌트를 "ev"에서 "e"로 줄임).
 ※ 사람에게 적용된다는 내용은 컴퓨터 안(문서 #7)에서만 나온다. 컴퓨터를 열지 못한 플레이어가 이 물질이 사람에게 쓰일 수 있다는 것을 알지 못하게 하려는 것이다(어슐라가 진화 대상이라는 것이 너무 쉽게 드러나지 않도록). 결과지(#2), 노트(#3), 화이트보드(#5)에는 사람에 대한 언급을 쓰지 않는다("죽음에 가까워질수록" 같은 일반론 정도).
 ※ 연구 결과지(#2)와 연구 노트(#3)에는 "진화", "노화", "알코올"이라는 단어를 쓰지 않는다. 결과지는 관찰 결과로 알리고, 노트는 마이어스가 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 쓰되 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다. C2H5OH가 알코올이라는 것은 2단계 시약 보관소의 "C2H5OH / 에틸 알코올" 병으로 안다.
 ※ 컴퓨터 안의 문서(#7)는 계획서가 아니라 마이어스가 기억하려고 적어둔 단편적인 문장들이다.
@@ -1868,7 +1868,7 @@ HTML :
   <div class="script-direction">책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[1] <span class="emphasis">게</span>는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.<br /><br />[3] 포식자는 더 빠르고 더 영리하다.<br /><br />[4] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[5] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.<br /><br />[8] 끝까지 확인한다. 결과로 증명하겠다.</div>
+    <div class="document-body small">[1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.<br /><br />[3] 포식자는 더 빠르고 더 영리하다.<br /><br />[4] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[5] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.<br /><br />[8] 끝까지 확인한다. 결과로 증명하겠다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: An old worn research notebook open on a desk, short numbered handwritten entries, unreadable, a pen beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -1894,14 +1894,14 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 마이어스의 컴퓨터. 암호는 "evolution"이다. 입력창 안에 "password", 아래에 "hint: 나의 꿈 e..."가 적혀 있고(통제 구역#7 쪽지의 "word"와 이어져 이 화면이 암호 입력창이라는 것을 알린다. CSS .login-screen으로 컴퓨터 로그인 화면처럼 보이게 함, 사용자 이름과 글자 수를 알리는 점은 넣지 않음), 연구 노트(#3)에서 마이어스가 원한 것이 진화였다는 걸 읽은 플레이어가 영어 단어로 추리한다. 3단계에서 받은 "ution"이 단어의 끝부분이다. 전체 글자 수는 알리지 않고, 첫 글자 e와 ution 사이의 "vol"을 플레이어가 채운다(2026-10-28: 힌트를 "ev..."에서 "e..."로 줄임). "진화"로 입력해도 열린다. 열면 열려 있는 문서(#7)가 뒷면으로 추가 배치된다(AP 없이 조사).
+의도 : 마이어스의 컴퓨터. 암호는 "evolution"이다. 입력창 안에 "password", 아래에 "hint: 나의 꿈 e********"가 적혀 있고(통제 구역#7 쪽지의 "word"와 이어져 이 화면이 암호 입력창이라는 것을 알린다. CSS .login-screen으로 컴퓨터 로그인 화면처럼 보이게 함, 사용자 이름은 넣지 않음), 연구 노트(#3)에서 마이어스가 원한 것이 진화였다는 걸 읽은 플레이어가 영어 단어로 추리한다. 3단계에서 받은 "ution"이 단어의 끝부분이다. 힌트는 첫 글자 e와 별표 여덟 개라 전체 아홉 글자임이 드러나고, 첫 글자 e와 ution 사이의 "vol"을 플레이어가 채운다(2026-10-28: 힌트를 "ev..."에서 "e..."로 줄였다가 운영자 요청으로 "e********"로 바꿈. 글자 수는 알리지 않으려던 이전 방침을 바꾼 것). "진화"로 입력해도 열린다. 열면 열려 있는 문서(#7)가 뒷면으로 추가 배치된다(AP 없이 조사).
 질문 HTML :
 <div class="story-content">
   <div class="script-direction">책상 위 컴퓨터가 켜져 있다. 화면에는 암호 입력창이 떠 있다.</div>
   <div class="login-screen">
     <div class="login-avatar"></div>
     <div class="login-field"><span class="login-placeholder">password</span><span class="login-arrow">→</span></div>
-    <div class="login-hint">hint: 나의 꿈 e...</div>
+    <div class="login-hint">hint: 나의 꿈 e********</div>
   </div>
   <div class="passcode-guide">영문 또는 한글로 입력해 주세요.</div>
 </div>
@@ -1936,20 +1936,19 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 마이어스의 결론 요약. 이 물질은 생명체의 신체를 현재 환경에서 가장 알맞은 구조로 재구성하며(급속 진화) 갑각류의 답은 게라는 것, 죽음에 가까워질수록 재구성이 강하게 일어난다는 것. 사람에 대한 언급은 쓰지 않는다(컴퓨터 안 문서에서만 나온다). 어슐라가 진화 대상이라는 것이 너무 쉽게 드러나지 않게 하려는 것이다. 이 단서의 "진화"라는 단어가 컴퓨터 암호의 추가 힌트가 된다.
+의도 : 마이어스의 결론 요약. 이 물질은 생명체의 신체를 현재 환경에서 가장 알맞은 구조로 재구성하며(급속 진화), 죽음에 가까워질수록 재구성이 강하게 일어난다는 것. 사람에 대한 언급은 쓰지 않는다(컴퓨터 안 문서에서만 나온다). 어슐라가 진화 대상이라는 것이 너무 쉽게 드러나지 않게 하려는 것이다. 이 단서의 "진화"라는 단어가 컴퓨터 암호의 추가 힌트가 된다.
 내용 :
 벽의 화이트보드에 마커로 적은 글이 남아 있다.
 8차 시제품 요약
 
 - 수백만 년에 걸쳐 일어날 환경 적응을 한 번에 일으킨다. 몸이 현재 환경에서 가장 알맞은 구조로 바뀐다.
-- 갑각류의 답은 게.
 - 죽음에 가까워질수록 변화가 강하게 일어난다.
 HTML :
 <div class="story-content">
   <div class="script-direction">벽의 화이트보드에 마커로 적은 글이 남아 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">8차 시제품 요약<br /><br />- 수백만 년에 걸쳐 일어날 <span class="emphasis">환경 적응</span>을 한 번에 일으킨다. 몸이 <span class="emphasis">현재 환경에서 가장 알맞은 구조</span>로 바뀐다.<br />- 갑각류의 답은 <span class="emphasis">게</span>.<br />- <span class="emphasis">죽음에 가까워질수록 변화가 강하게</span> 일어난다.</div>
+    <div class="document-body small">8차 시제품 요약<br /><br />- 수백만 년에 걸쳐 일어날 <span class="emphasis">환경 적응</span>을 한 번에 일으킨다. 몸이 <span class="emphasis">현재 환경에서 가장 알맞은 구조</span>로 바뀐다.<br />- <span class="emphasis">죽음에 가까워질수록 변화가 강하게</span> 일어난다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: A whiteboard on a laboratory wall with a few lines of marker handwriting in a short bulleted list, faded smudges around the edges. The marker writing is only meaningless wavy scribble lines with bullet dots; no real words or letters can be made out. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
