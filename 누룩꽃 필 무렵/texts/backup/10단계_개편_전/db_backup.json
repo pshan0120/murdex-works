@@ -1,0 +1,270 @@
+{
+ "story_step": [
+  {
+   "step_id": "f364e220-7d0f-4927-b8ae-e667a16cc62b",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 1,
+   "step_name": "준비",
+   "step_type": "PROLOGUE",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 들어가며</div>\n  <p>\n    안녕하세요, <span class=\"highlight\">누룩꽃 필 무렵</span>에 오신 것을 환영합니다. 여러분은 100년 전통의 은금도가를 방문한 손님들로서, 곧 이곳에서 벌어질 예상치 못한 사건의 중심에 서게 됩니다. 누군가의 거짓말을 꿰뚫어 보고, 얽히고설킨 비밀들 속에서 묵직한 진실을 찾아내는 것은 오직 여러분의 몫입니다. 이 작품은 정해진 이야기와 대사를 배우가 연기하듯 풀어내는 스크립티드 머더 미스터리입니다. 자신이 이 캐릭터를 맡은 배우라고 생각하고 연기해 주십시오. 다만 일반적인 머더 미스터리와 달리 역할에 과몰입하는 것은 금물입니다. 범인 역할을 맡은 플레이어도 자신이 범인인 줄 모르기 때문에, 내 역할이 범인일 가능성을 항상 열어두고 플레이해야 합니다. 본격적인 시작에 앞서 아래 규칙을 꼼꼼히 확인해 주십시오.\n  </p>\n\n  <div class=\"section-title\">2. 준비</div>\n  <p>\n    원활한 게임 진행을 위해, 지금 보고 계신 <span class=\"highlight\">단계 설명</span>을 먼저 꼼꼼히 읽어주는 것이 중요합니다. 모두 숙지하셨다면, 창을 닫고 <span class=\"highlight\">역할</span>을 클릭하여 본인의 역할 정보를 꼼꼼히 읽어 주십시오. \n  </p>\n\n  <div class=\"section-title\">3. 전체 게임 단계 흐름</div>\n  <p>\n    본 시나리오는 다음과 같이 총 9단계로 순차 진행됩니다.\n  </p>\n  <table class=\"data-table text-center\">\n    <thead>\n      <tr>\n        <th>단계</th>\n        <th>진행 시간</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td><strong>1단계: 준비</strong></td>\n        <td>무제한</td>\n      </tr>\n      <tr>\n        <td><strong>2단계: 소개</strong></td>\n        <td>10분</td>\n      </tr>\n      <tr>\n        <td><strong>3단계: 조사</strong></td>\n        <td>20분</td>\n      </tr>\n      <tr>\n        <td><strong>4단계: 발견</strong></td>\n        <td>20분</td>\n      </tr>\n      <tr>\n        <td><strong>5단계: 시험</strong></td>\n        <td>20분</td>\n      </tr>\n      <tr>\n        <td><strong>6단계: 마지막 단서</strong></td>\n        <td>40분</td>\n      </tr>\n      <tr>\n        <td><strong>7단계: 폭로</strong></td>\n        <td>5분</td>\n      </tr>\n      <tr>\n        <td><strong>8단계: 사건의 전말</strong></td>\n        <td>무제한</td>\n      </tr>\n      <tr>\n        <td><strong>9단계: 에필로그</strong></td>\n        <td>무제한</td>\n      </tr>\n    </tbody>\n  </table>\n  <p>\n    위 진행 시간은 권장하는 가이드라인입니다. 시간이 지나도 모든 '당신이 아는 것'과 '당신의 비밀'이 공유되지 않았다면, 충분한 시간을 더 가지고 모두 나눈 뒤에 다음 단계로 넘어가십시오.\n  </p>\n\n  <div class=\"section-title\">4. 진행 방식 및 공통 규칙</div>\n  <p>2단계인 '소개'에서는 각자의 역할을 연기하며 주어진 대본을 순서대로 낭독하는 <strong>대본 리딩</strong> 방식으로 진행되며 상호 심문은 진행하지 않습니다. 본격적인 심문과 조사가 시작되는 3~6단계는 <span class=\"highlight\">단서</span> 탭을 통해 개인 단서를 획득하며, 아래의 원칙에 따라 조사를 진행하십시오.</p>\n  <ul>\n    <li><span class=\"highlight\">당신은 누구인가</span>: 배경 이야기입니다.</li>\n    <li><span class=\"highlight\">당일 타임라인</span>: 사건 당일의 시간대별 행동 기록입니다. 다른 사람과 맞춰보며 모순을 찾아내십시오.</li>\n    <li><span class=\"highlight\">당신의 어두운 면</span>: 어떠한 경우에도 자의적으로 공개해서는 안 됩니다. 어두운 면은 '당신의 비밀'에 의해 자연스럽게 드러나게 됩니다.</li>\n    <li><span class=\"highlight\">당신이 아는 것</span>: 해당 단계에서 반드시 이야기해야 합니다.</li>\n    <li><span class=\"highlight\">당신의 비밀</span>: 해당 단계 혹은 이후 단계에서 다른 사람에 의해 추궁당할 때 밝혀져야 합니다. 이번 단계에서 미처 추궁받지 못해 말하지 못한 비밀이 있다면, 다음 단계들에서 질문을 받았을 때 털어놓을 수 있습니다. (단, 6단계 '마지막 단서' 단계가 끝날 때까지는 각자의 모든 '아는 것'과 '비밀'이 남김없이 공유되어야만 합니다.)</li>\n    <li><span class=\"highlight\">비밀 단서</span>: 이야기가 진행되면서 자연스럽게 공개됩니다.</li>\n    <li>\n      <span class=\"highlight\">발언 순서 지키기(온라인 음성 진행 시)</span>: 디스코드 등 음성 채널로 진행할 경우, 목소리가\n      겹치면 서로의 말이 묻혀 정보가 누락되기 쉽습니다. 자신의 '아는 것'이나 '비밀'을 이야기할 때는 끝까지 다 말한 뒤\n      \"여기까지입니다\"처럼 마무리를 알리는 말을 덧붙여, 다른 사람이 자신의 발언이 끝났음을 확실히 알 수 있게 해주십시오.\n    </li>\n  </ul>\n\n  <div class=\"section-title\">5. 핵심 특수 규칙</div>\n  <p>\n    이 작품에는 일반적인 머더 미스터리 작품과는 다른 매우 특수한 규칙이 존재합니다.\n  </p>\n  <ul>\n    <li><span class=\"highlight\">범인 무지 원칙</span>: <strong>범인은 8단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 어쩌면 자신의 역할이 모든 것을 다 말하지 않고 있을지도 모르죠. 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다. 자신이 맡은 역할이 범인으로 지목된다고 해서 실패하는 것은 아님을 명심하십시오. 같은 이유로, 7단계(폭로)에서 '누가 범인인가?'를 답할 때 <strong>자기 자신을 지목하는 것도 얼마든지 가능합니다.</strong></li>\n    <li><span class=\"highlight\">답변 및 거짓말 원칙</span>: 누군가의 질문에 노골적인 거짓말을 지어낼 수는 없습니다. 단, 답변을 회피하거나 교묘하게 말을 돌리는 것은 허용됩니다.</li>\n    <li><span class=\"highlight\">질문 및 떠보기 주의</span>: 다른 역할이 가진 당신에 대한 '아는 것' 정보는 무조건 진실로 간주됩니다. 따라서 상대방은 당신의 정보를 진실로 믿을 수밖에 없으므로, 거짓 정보로 상대를 '떠보는' 심문은 자제해 주십시오.</li>\n  </ul>\n\n  <div class=\"example-box\">\n    <p><strong>[핵심 특수 규칙 적용 예시]</strong></p>\n    <ul>\n      <li>\n        <strong>CASE #1 (범인 무지 원칙)</strong><br>\n        - <strong>상황</strong>: A의 역할 정보에는 '09:00~10:00 사이 저택 근처에 있었다'라고 적혀 있습니다. 반면 B의 '당신이 아는 것'에는 '당신은 09:00~10:00 사이에 A가 저택 뒤에서 흉기를 숨기는 것을 보았다'라고 적혀 있습니다.<br>\n        - <strong>해설</strong>: 이 경우 B의 목격담이 절대적인 진실입니다. A의 역할 정보가 거짓말을 한 것은 아니지만, A를 담당하는 플레이어조차 모르게 중요한 사실(흉기를 숨긴 사실)이 누락된 것입니다. 결국 A 플레이어 본인도 '내가 진범일지도 모른다'고 의심하며 진행해야 합니다.\n      </li>\n      <li>\n        <strong>CASE #2 (질문 및 떠보기 주의)</strong><br>\n        - <strong>상황</strong>: A가 B의 반응을 떠보기 위해 \"당신이 10시에 피해자와 다투는 걸 봤다\"라고 거짓 정보를 던집니다. (실제 A의 역할 정보에는 그런 내용이 없습니다.)<br>\n        - <strong>해설</strong>: 이 작품의 특성상 타인이 가진 자신에 대한 정보는 무조건 진실로 간주됩니다. 따라서 B는 \"아, 내 역할지에는 안 적혀있지만 내가 그때 다투긴 했구나\"라고 착각하게 됩니다. 거짓 정보가 진실로 둔갑하여 추리 전체가 붕괴되므로 <strong>거짓말을 통한 떠보기 심문은 절대 금지</strong>됩니다.\n      </li>\n      <li>\n        <strong>CASE #3 (답변 및 거짓말 원칙)</strong><br>\n        - <strong>상황</strong>: C는 사건 당시 현장에 있었지만 이를 숨기고 싶어 합니다. 이때 누군가 C에게 \"어제 밤에 어디 있었습니까?\"라고 묻습니다.<br>\n        - <strong>해설</strong>: C는 \"방에서 계속 잤습니다\"처럼 아예 없는 사실을 지어내는 노골적인 거짓말은 할 수 없습니다. 하지만 \"어젯밤엔 술을 너무 많이 마셔서 기억이 잘 안 나네요\"라며 <strong>답변을 회피하거나 자연스럽게 말을 돌리는 것은 허용</strong>됩니다.\n      </li>\n    </ul>\n  </div>\n\n  <div class=\"section-title\">6. 승리 조건 및 마무리</div>\n  <ul>\n    <li>\n      <span class=\"highlight\">최종 추리</span>: 7단계(폭로)에서 <strong>'질문과 답변'</strong> 기능을 통해 최종 추리를 제출하게 됩니다. <strong>누가 범인인가? 어떻게 죽였는가? 왜 죽였는가?</strong> 세 가지 핵심 질문에 대해 시스템에 주어진 객관식 보기 중 하나를 선택하여 답안을 제출하십시오.\n    </li>\n    <li>\n      <span class=\"highlight\">진상 공개</span>: 8단계(사건의 전말)에서 각 플레이어는 지정된 순서에 따라 대본을 읽습니다. 이 과정에서 사건의 모든 진상이 밝혀집니다.\n    </li>\n    <li>\n      <span class=\"highlight\">승리 판정</span>: 진상이 모두 공개된 후, 7단계에서 제출한 객관식 질문의 정답을 가장 많이 맞힌 플레이어가 이 게임의 최종 승리자가 됩니다.\n    </li>\n  </ul>\n\n  <div class=\"section-title\">7. 대화 연습</div>\n  <p>\n    본격적인 조사에 앞서, 이 작품만의 대화 방식을 짧게 연습합니다. 연습은 작품 내용과 전혀 관계없는 가상의 상황이며, 이후 단계에는 영향을 주지 않습니다. 연습에서도 서로를 캐릭터명으로 부르십시오.\n  </p>\n  <p>\n    지금은 여섯 사람이 마을 가을 소풍을 준비하는 모임에 모여 있는 상황입니다. 준비를 함께하는 동안 서로가 하는 일을 조금씩 지켜보았고, 각자 아직 남에게 말하지 못한 작은 실수나 사정도 하나씩 안고 있습니다. 역할 정보를 모두 읽었다면 <span class=\"highlight\">내 단서</span> 메뉴에서 <span class=\"highlight\">[연습] 당신이 아는 것</span>과 <span class=\"highlight\">[연습] 당신의 비밀</span>을 확인하십시오. '아는 것'에는 준비 중에 다른 사람에 대해 보았던 일이, '비밀'에는 아직 아무에게도 말하지 못한 본인의 일이 적혀 있습니다.\n  </p>\n  <p>\n    '아는 것'을 한 가지 말했을 때 그 이야기 속 인물이 자신이라면, 자신의 '비밀'에서 그 일에 해당하는 항목을 털어놓으십시오. 예를 들어 <span class=\"character-seoyeon\">백서연</span>이 \"어제 저녁 마을회관 부엌에서 <span class=\"character-hyunsu\">류현수</span>가 소풍용 김밥 재료를 몰래 먹는 모습을 보았다\"고 말하면, <span class=\"character-hyunsu\">류현수</span>가 자신의 '비밀'을 말하는 식입니다. 자신의 이름이 나오는 이야기가 있는지 귀 기울여 들으십시오.\n  </p>\n  <p>\n    실제 조사에서는 '아는 것'이나 '비밀'의 일부 항목 끝에 <strong>(여기까지 이야기한 뒤, 자연스럽게 [비밀단서#N]를 조사하세요. 비밀코드는 'OOO' 입니다.)</strong>와 같은 안내가 붙어 있습니다. 이 안내는 소리 내어 읽는 내용이 아니라 본인에게 주는 지시입니다. 해당 항목을 말한 직후, 게임 보드에 놓인 비밀단서 카드를 눌러 비밀코드를 입력하고 조사하십시오. 조사한 단서는 모두가 확인할 수 있습니다. 이 과정을 잊고 지나가기 쉬우므로 연습에서 미리 해 봅니다. 연습 단서 중 한 항목에도 이런 안내가 있으니, 해당 항목을 말한 뒤 게임 보드의 <span class=\"highlight\">[연습] 비밀단서</span>를 조사하십시오.\n  </p>\n  <ul>\n    <li>'아는 것'은 항목마다 한 번에 한 가지씩 따로 말하십시오. 한꺼번에 읽지 마십시오.</li>\n    <li>다른 사람이 말하는 도중에는 끼어들지 마십시오. 말을 마치면 \"여기까지입니다\"라고 알려 주십시오.</li>\n    <li>'비밀'은 누군가 관련된 이야기를 꺼내거나 물었을 때만 털어놓으십시오.</li>\n    <li>항목 끝에 조사 안내가 있다면, 그 항목을 말한 직후 곧바로 비밀단서를 조사하십시오.</li>\n  </ul>\n  <p>\n    연습 단서의 모든 항목이 공유되고 <span class=\"highlight\">[연습] 비밀단서</span> 조사까지 마치면 연습이 끝납니다. 연습을 마쳤는지 확인한 뒤 다음 단계로 넘어가십시오.\n  </p>\n\n  <div class=\"section-title\">8. 다음 단계 안내</div>\n  <p>\n    단계 설명과 역할 숙지가 끝났다면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오. 게임이 시작되었습니다. 행운을 빕니다!\n  </p>\n\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789213852/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_chesuw.mp3",
+   "estimated_duration": null,
+   "is_auto_proceed": 0,
+   "outro": null,
+   "pre_next_reminder": "다음 단계로 넘어가기 전, 서막의 대화 연습을 마쳤는지 확인하세요. 연습을 건너뛰면 조사 단계에서 같은 실수가 그대로 나옵니다.\n• [연습] 당신이 아는 것과 [연습] 당신의 비밀이 모두 공유되었나요?\n• 안내가 붙은 항목을 말한 뒤, 게임 보드의 [연습] 비밀단서를 조사했나요?\n• 이 작품은 일반적인 머더 미스터리와 다른 점이 많습니다. 단계가 바뀔 때마다 열리는 단계 설명을 반드시 끝까지 정독한 뒤 진행하세요.",
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": null,
+   "created_at": "2026-06-07 23:43:58",
+   "updated_at": "2026-10-29 22:39:54",
+   "is_final_step": 0
+  },
+  {
+   "step_id": "4fabbaea-b0b9-467c-8b48-3d85a2dbce5e",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 2,
+   "step_name": "소개",
+   "step_type": "INVESTIGATION",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 대본 낭독</div>\n  <p>이 단계에서는 본격적인 조사에 앞서, 서로를 탐색하며 인사를 나누는 시간입니다. 각 플레이어는 자신의 차례가 오면 아래의 대본을 소리 내어 읽으며 자신을 소개하고, 다 읽었다면 버튼을 눌러 다음 사람에게 차례를 넘기십시오. 지시문은 바로 다음 대사를 맡은 <span class=\"character-haejun\">정해준</span> 플레이어가 읽고 넘기십시오.</p>\n\n</div>\n\n<!-- POST_SCRIPT -->\n\n<div class=\"story-content\">\n  <div class=\"section-title\">2. 다음 단계 안내</div>\n  <p>\n    대본 낭독이 모두 끝났다면, <strong><span class=\"character-haejun\">정해준</span></strong> 플레이어는 본인의 역할 시트에 기재된 지침을 확인한 뒤, 안내에 따라 게임 보드에 배치된 <strong><span class=\"emphasis\">[비밀단서#1]</span></strong>을 조사하여 모두에게 공유하십시오. 조사가 충분히 이루어졌다면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.\n  </p>\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789213853/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_z5mtlp.mp3",
+   "estimated_duration": 10,
+   "is_auto_proceed": 0,
+   "outro": null,
+   "pre_next_reminder": "다음 조사 단계부터는 각자에게 개인 단서('당신이 아는 것', '당신의 비밀' 등)가 자동으로 지급됩니다. 이 작품은 일반적인 머더 미스터리와 다른 점이 많으니, 단계가 시작되면 단계 설명을 반드시 정독한 뒤 진행하세요.\n• '당신이 아는 것'은 그 단계 안에 반드시 공개해야 하며, 다른 사람의 비밀을 끌어내는 계기가 됩니다.\n• 한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하세요. 한꺼번에 몰아서 말하지 마세요.\n• 다른 사람이 말하는 중에는 끼어들지 마세요. 말이 끊기면 정보가 모두 전해지지 못합니다.",
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": "[{\"id\": \"6892cf3e-a4f2-4aa9-8252-c5191e12f48a\", \"type\": \"IMAGE\", \"caption\": \"어둑어둑해지는 가을 저녁, 당신은 <span class=\\\"emphasis\\\">은금도가</span>의 안마당에 서 있습니다.\\n최근 남편을 잃은 안주인 <span class=\\\"character-eunju\\\">강은주</span>가 결국 양조장을 매각한다는 소식을 듣고 이곳에 모였습니다.\\n마당에는 당신을 포함해 여섯 명의 방문객이 있지만, 안주인은 보이지 않습니다.\\n어색한 침묵이 길어지자, 누군가 헛기침을 하며 자기소개를 시작합니다.\", \"autoPlay\": false, \"mediaUrl\": \"https://res.cloudinary.com/dkzctfx9z/image/upload/v1783936079/murdex/images/step_intro/c6047a2e-222c-4f0e-b031-f639619888c0/file_lnobb1.jpg\", \"durationSeconds\": 4}]",
+   "created_at": "2026-06-07 23:52:40",
+   "updated_at": "2026-10-29 19:27:21",
+   "is_final_step": 0
+  },
+  {
+   "step_id": "074b3044-7c90-4354-997e-a7bb6d4db011",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 3,
+   "step_name": "조사",
+   "step_type": "INVESTIGATION",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 개요</div>\n  <p>\n    15분이 지나도 안주인 <span class=\"character-eunju\">강은주</span>가 나타나지 않자, 불편하고 무거운 분위기 속에서 누군가의 제안으로 그녀를 찾기 위해 각자 흩어집니다. 플레이어들은 이 기회를 틈타 서로가 왜 <span class=\"emphasis\">은금도가</span>에 오게 되었는지 파악하고 의심스러운 점을 추궁하기 시작하십시오.\n  </p>\n\n  <div class=\"section-title\">2. 단서의 획득과 활용</div>\n  <p>\n    본격적인 조사가 시작되는 3~6단계(조사, 발견, 시험, 마지막 단서)에서는 각 단계가 시작될 때마다 <strong>본인만 소지하는 개인 단서들</strong>을 자동으로 획득하게 됩니다. 모든 플레이어는 <span class=\"highlight\">내 단서</span> 메뉴를 확인하여 이번 단계에 새롭게 주어진 정보들을 파악하고, 아래의 원칙에 따라 서로를 낱낱이 파헤치십시오.\n  </p>\n  <ul>\n    <li>\n      <span class=\"highlight\">당신이 아는 것</span>: 각 단계 시작 시 획득하는 이 단서는 해당 단계 내에 반드시 다른 플레이어들에게 자발적으로 공유되어야 하는 정보입니다. 이 정보는 다른 사람의 비밀을 말하게 만드는 계기가 되므로 빠뜨리지 마십시오. 말하는 방법에도 규칙이 있습니다.\n      <ul>\n        <li>한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하십시오. 가진 정보를 한꺼번에 몰아서 말하지 마십시오.</li>\n        <li>다른 사람이 말하는 중에는 끼어들지 마십시오. 말이 끊기면 정보가 모두 전해지지 못합니다.</li>\n      </ul>\n    </li>\n    <li><span class=\"highlight\">당신의 비밀</span>: 이 단서는 가급적 숨기되, 다른 플레이어로부터 날카로운 질문이나 추궁을 받을 때 어쩔 수 없이 털어놓아야 하는 정보입니다. 만약 이번 단계에서 아무도 묻지 않아 말하지 못했다면, 이어지는 다음 단계들에서 질문을 받았을 때 털어놓을 수 있습니다. (단, 6단계 '마지막 단서' 단계가 끝날 때까지는 각자의 모든 '아는 것'과 '비밀'이 남김없이 공유되어야 합니다.)</li>\n    <li><span class=\"highlight\">비밀 단서</span>: 게임이 진행되며 특정 조건에서 자연스럽게 전체 공개되는 단서입니다. 한 번 공개되면 누구나 언제든 확인할 수 있습니다.</li>\n    <li><span class=\"highlight\">타임라인</span>: 본인만 알고 있는 시간대별 행동 기록입니다. 다른 사람의 알리바이와 맞춰보며 모순을 찾아내십시오.</li>\n    <li><span class=\"highlight\">답변 및 거짓말 원칙</span>: 누군가의 질문에 노골적인 거짓말을 지어낼 수는 없습니다. 단, 답변을 회피하거나 교묘하게 말을 돌리는 것은 허용됩니다.</li>\n  </ul>\n  <p>모든 플레이어가 각 단계에 주어진 '아는 것'과 '비밀' 단서를 전부 밝혔다고 동의할 때, 다음 단계로 넘어갈 수 있습니다.</p>\n\n  <div class=\"section-title\">3. 핵심 특수 규칙</div>\n  <p>미스터리 경험을 극대화하기 위한 특수 규칙을 잊지 마십시오.</p>\n  <ul>\n    <li><span class=\"highlight\">범인 무지 원칙</span>: <strong>범인은 8단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다.</li>\n  </ul>\n\n  <div class=\"section-title\">5. 다음 단계 안내</div>\n  <p>\n    충분한 상호 심문과 조사가 이루어졌고, 모든 비밀이 공유되었다면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.\n  </p>\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789213855/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_dfjsm9.mp3",
+   "estimated_duration": 20,
+   "is_auto_proceed": 0,
+   "outro": null,
+   "pre_next_reminder": "다음 단계로 넘어가기 전, 이번 단계에서 받은 '당신이 아는 것'과 '당신의 비밀'을 모두 공유했는지 확인하세요. 이 작품은 일반적인 머더 미스터리와 다른 점이 많으니, 다음 발견 단계가 시작되면 단계 설명을 반드시 정독한 뒤 진행하세요.\n• '당신이 아는 것'은 그 단계 안에 반드시 공개해야 하며, 다른 사람의 비밀을 끌어내는 계기가 됩니다.\n• 한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하세요. 한꺼번에 몰아서 말하지 마세요.\n• 다른 사람이 말하는 중에는 끼어들지 마세요. 말이 끊기면 정보가 모두 전해지지 못합니다.",
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": "[{\"id\": \"6b63192d-3e38-41ae-93ba-b7ae0e2d2c0f\", \"type\": \"IMAGE\", \"caption\": \"15분이 흘렀지만 <span class=\\\"character-eunju\\\">강은주</span>는 나타나지 않았고, 당신은 낯선 방문객들 사이에서 불편한 기분을 느낍니다.\\n누군가의 제안으로 사람들은 그녀를 찾기 위해 도가 곳곳으로 흩어졌습니다.\\n당신은 이 기회를 틈타 이들이 오늘 왜 이곳에 모였는지 뒷조사를 시작하기로 합니다.\", \"autoPlay\": false, \"mediaUrl\": \"https://res.cloudinary.com/dkzctfx9z/image/upload/v1783936047/murdex/images/step_intro/c6047a2e-222c-4f0e-b031-f639619888c0/file_c9unff.jpg\", \"durationSeconds\": 4}]",
+   "created_at": "2026-06-08 00:11:25",
+   "updated_at": "2026-10-29 15:43:59",
+   "is_final_step": 0
+  },
+  {
+   "step_id": "f5e6d372-d462-4843-a5d3-3e2da3795a7e",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 4,
+   "step_name": "발견",
+   "step_type": "INVESTIGATION",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 개요</div>\n  <p>\n    <span class=\"character-eunju\">강은주</span>를 찾던 중 끔찍한 비명 소리가 울려 퍼집니다. 모두가 미로처럼 복잡하고 어두컴컴한 지하 숙성 토굴로 모여들고, 희미한 달빛 아래 피투성이로 쓰러져 있는 <span class=\"character-eunju\">강은주</span>의 시신을 발견합니다. 사람들은 경찰에 신고하기 위해 본채로 돌아오며 본격적으로 서로를 살인자로 의심합니다.\n  </p>\n\n  <div class=\"section-title\">2. 단서의 획득과 활용</div>\n  <p>\n    본격적인 조사가 진행되는 3~6단계(조사, 발견, 시험, 마지막 단서)에서는 각 단계가 시작될 때마다 <strong>본인만 소지하는 개인 단서들</strong>을 자동으로 획득하게 됩니다. 모든 플레이어는 <span class=\"highlight\">내 단서</span> 메뉴를 확인하여 이번 단계에 새롭게 주어진 정보들을 파악하고, 아래의 원칙에 따라 서로를 낱낱이 파헤치십시오.\n  </p>\n  <ul>\n    <li>\n      <span class=\"highlight\">당신이 아는 것</span>: 각 단계 시작 시 획득하는 이 단서는 해당 단계 내에 반드시 다른 플레이어들에게 자발적으로 공유되어야 하는 정보입니다. 이 정보는 다른 사람의 비밀을 말하게 만드는 계기가 되므로 빠뜨리지 마십시오. 말하는 방법에도 규칙이 있습니다.\n      <ul>\n        <li>한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하십시오. 가진 정보를 한꺼번에 몰아서 말하지 마십시오.</li>\n        <li>다른 사람이 말하는 중에는 끼어들지 마십시오. 말이 끊기면 정보가 모두 전해지지 못합니다.</li>\n      </ul>\n    </li>\n    <li><span class=\"highlight\">당신의 비밀</span>: 이 단서는 가급적 숨기되, 다른 플레이어로부터 날카로운 질문이나 추궁을 받을 때 어쩔 수 없이 공개해야 합니다. (단, 결과적으로는 해당 단계가 끝나기 전까지 모든 플레이어가 이 정보를 알게 되어야만 다음 단계로 넘어갈 수 있습니다.)</li>\n    <li><span class=\"highlight\">비밀 단서</span>: 게임이 진행되며 특정 조건에서 자연스럽게 전체 공개되는 단서입니다. 한 번 공개되면 누구나 언제든 확인할 수 있습니다.</li>\n    <li><span class=\"highlight\">타임라인</span>: 본인만 알고 있는 시간대별 행동 기록입니다. 다른 사람의 알리바이와 맞춰보며 모순을 찾아내십시오.</li>\n    <li><span class=\"highlight\">답변 및 거짓말 원칙</span>: 누군가의 질문에 노골적인 거짓말을 지어낼 수는 없습니다. 단, 답변을 회피하거나 교묘하게 말을 돌리는 것은 허용됩니다.</li>\n  </ul>\n  <p>모든 플레이어가 각 단계에 주어진 '아는 것'과 '비밀' 단서를 전부 밝혔다고 동의할 때, 다음 단계로 넘어갈 수 있습니다.</p>\n\n  <div class=\"section-title\">3. 핵심 특수 규칙</div>\n  <p>미스터리 경험을 극대화하기 위한 특수 규칙을 잊지 마십시오.</p>\n  <ul>\n    <li><span class=\"highlight\">범인 무지 원칙</span>: <strong>범인은 8단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다.</li>\n  </ul>\n\n<div class=\"section-title\">5. 다음 단계 안내</div>\n  <p>\n    충분한 상호 심문과 조사가 이루어졌고, 모든 비밀이 공유되었다면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.\n  </p>\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789213856/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_dihxel.mp3",
+   "estimated_duration": 20,
+   "is_auto_proceed": 0,
+   "outro": null,
+   "pre_next_reminder": "다음 단계로 넘어가기 전, 이번 단계에서 받은 '당신이 아는 것'과 '당신의 비밀'을 모두 공유했는지 확인하세요. 이 작품은 일반적인 머더 미스터리와 다른 점이 많으니, 다음 시험 단계가 시작되면 단계 설명을 반드시 정독한 뒤 진행하세요.\n• '당신이 아는 것'은 그 단계 안에 반드시 공개해야 하며, 다른 사람의 비밀을 끌어내는 계기가 됩니다.\n• 한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하세요. 한꺼번에 몰아서 말하지 마세요.\n• 다른 사람이 말하는 중에는 끼어들지 마세요. 말이 끊기면 정보가 모두 전해지지 못합니다.",
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": "[{\"id\": \"85112169-de5e-41ac-aee5-bfe6c9c6db04\", \"type\": \"IMAGE\", \"caption\": \"지하 숙성 토굴 깊은 곳에서 끔찍한 비명 소리가 울려 퍼집니다.\\n미로 같은 어둠 속을 달려간 끝에 희미한 달빛이 비치는 곳에서 당신은 피투성이가 된 채 싸늘한 주검이 되어 있는 <span class=\\\"character-eunju\\\">강은주</span>를 발견합니다.\\n어둠 때문에 시신을 자세히 살필 수 없자, 사람들은 본채로 돌아가 경찰에 신고하기로 합니다.\\n당신은 이들 중 누군가가 살인범이라고 확신하며 날카로운 질문을 준비합니다.\", \"autoPlay\": false, \"mediaUrl\": \"https://res.cloudinary.com/dkzctfx9z/image/upload/v1783936108/murdex/images/step_intro/c6047a2e-222c-4f0e-b031-f639619888c0/file_gjizre.jpg\", \"durationSeconds\": 4}]",
+   "created_at": "2026-06-08 00:11:54",
+   "updated_at": "2026-10-29 15:43:59",
+   "is_final_step": 0
+  },
+  {
+   "step_id": "eb315c53-b2ef-4fff-8768-92b4e8513038",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 5,
+   "step_name": "시험",
+   "step_type": "INVESTIGATION",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 개요</div>\n  <p>\n    손전등을 들고 다시 토굴로 돌아가 시신을 살피며, <span class=\"character-eunju\">강은주</span>의 목에 예리한 비녀가 꽂혀 사망한 것을 확인합니다. 충격에 빠진 사람들은 새로 발견된 단서들을 곰곰이 생각하며 감춰진 비밀들을 서로 시험하고 압박합니다.\n  </p>\n  <div class=\"section-title\">2. 단서의 획득과 활용</div>\n  <p>\n    본격적인 조사가 진행되는 3~6단계(조사, 발견, 시험, 마지막 단서)에서는 각 단계가 시작될 때마다 <strong>본인만 소지하는 개인 단서들</strong>을 자동으로 획득하게 됩니다. 모든 플레이어는 <span class=\"highlight\">내 단서</span> 메뉴를 확인하여 이번 단계에 새롭게 주어진 정보들을 파악하고, 아래의 원칙에 따라 서로를 낱낱이 파헤치십시오.\n  </p>\n  <ul>\n    <li>\n      <span class=\"highlight\">당신이 아는 것</span>: 각 단계 시작 시 획득하는 이 단서는 해당 단계 내에 반드시 다른 플레이어들에게 자발적으로 공유되어야 하는 정보입니다. 이 정보는 다른 사람의 비밀을 말하게 만드는 계기가 되므로 빠뜨리지 마십시오. 말하는 방법에도 규칙이 있습니다.\n      <ul>\n        <li>한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하십시오. 가진 정보를 한꺼번에 몰아서 말하지 마십시오.</li>\n        <li>다른 사람이 말하는 중에는 끼어들지 마십시오. 말이 끊기면 정보가 모두 전해지지 못합니다.</li>\n      </ul>\n    </li>\n    <li><span class=\"highlight\">당신의 비밀</span>: 이 단서는 가급적 숨기되, 다른 플레이어로부터 날카로운 질문이나 추궁을 받을 때 어쩔 수 없이 공개해야 합니다. (단, 결과적으로는 해당 단계가 끝나기 전까지 모든 플레이어가 이 정보를 알게 되어야만 다음 단계로 넘어갈 수 있습니다.)</li>\n    <li><span class=\"highlight\">비밀 단서</span>: 게임이 진행되며 특정 조건에서 자연스럽게 전체 공개되는 단서입니다. 한 번 공개되면 누구나 언제든 확인할 수 있습니다.</li>\n    <li><span class=\"highlight\">타임라인</span>: 본인만 알고 있는 시간대별 행동 기록입니다. 다른 사람의 알리바이와 맞춰보며 모순을 찾아내십시오.</li>\n    <li><span class=\"highlight\">답변 및 거짓말 원칙</span>: 누군가의 질문에 노골적인 거짓말을 지어낼 수는 없습니다. 단, 답변을 회피하거나 교묘하게 말을 돌리는 것은 허용됩니다.</li>\n  </ul>\n  <p>모든 플레이어가 각 단계에 주어진 '아는 것'과 '비밀' 단서를 전부 밝혔다고 동의할 때, 다음 단계로 넘어갈 수 있습니다.</p>\n\n  <div class=\"section-title\">3. 핵심 특수 규칙</div>\n  <p>미스터리 경험을 극대화하기 위한 특수 규칙을 잊지 마십시오.</p>\n  <ul>\n    <li><span class=\"highlight\">범인 무지 원칙</span>: <strong>범인은 8단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다.</li>\n  </ul>\n\n<div class=\"section-title\">5. 다음 단계 안내</div>\n  <p>\n    충분한 상호 심문과 조사가 이루어졌고, 모든 비밀이 공유되었다면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.\n  </p>\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789213858/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_hquxgn.mp3",
+   "estimated_duration": 20,
+   "is_auto_proceed": 0,
+   "outro": null,
+   "pre_next_reminder": "다음 단계로 넘어가기 전, 이번 단계에서 받은 '당신이 아는 것'과 '당신의 비밀'을 모두 공유했는지 확인하세요. 이 작품은 일반적인 머더 미스터리와 다른 점이 많으니, 다음 마지막 단서 단계가 시작되면 단계 설명을 반드시 정독한 뒤 진행하세요. 마지막 단서 단계는 모두가 협력해서 사건의 진상을 풀어 나가는 단계입니다.\n• '당신이 아는 것'은 그 단계 안에 반드시 공개해야 하며, 다른 사람의 비밀을 끌어내는 계기가 됩니다.\n• 한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하세요. 한꺼번에 몰아서 말하지 마세요.\n• 다른 사람이 말하는 중에는 끼어들지 마세요. 말이 끊기면 정보가 모두 전해지지 못합니다.",
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": "[{\"id\": \"d9796f4b-5f8b-46a0-ab43-bd9489722875\", \"type\": \"IMAGE\", \"caption\": \"당신들은 손전등을 챙겨 미로 같은 어둠을 지나 다시 토굴로 돌아왔습니다.</br>\\n시신을 가까이서 비춰보니 목에 깊게 찔린 예리한 비녀 외에 다른 외상은 보이지 않으며, 그것이 치명상임이 분명해 보입니다.</br>\\n도대체 누가 그녀를 죽이려 했을지 끊임없이 고민하며, 머릿속으로 이 곳에 모인 사람들을 하나둘씩 시험해 봅니다.\", \"autoPlay\": false, \"mediaUrl\": \"https://res.cloudinary.com/dkzctfx9z/image/upload/v1783936134/murdex/images/step_intro/c6047a2e-222c-4f0e-b031-f639619888c0/file_xdvvk6.jpg\", \"durationSeconds\": 4}]",
+   "created_at": "2026-06-08 00:12:15",
+   "updated_at": "2026-10-29 15:43:59",
+   "is_final_step": 0
+  },
+  {
+   "step_id": "3889d6a2-684c-488e-801c-a032f2fefa6f",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 6,
+   "step_name": "마지막 단서",
+   "step_type": "INVESTIGATION",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 개요</div>\n  <p>\n    멀리서 경찰의 사이렌 소리가 들려오기 시작합니다. 수사관들이 들이닥치기 전 남은 짧은 시간 동안, 각자 풀어야 할 마지막 문제들을 서로 대조하며 최종적으로 사건의 진상을 정리하십시오. 이 단계는 모두가 협력해서 사건의 진상을 풀어 나가는 단계이니, 막히는 부분은 서로 도와 가며 맞춰 보십시오.\n  </p>\n\n  <div class=\"section-title\">2. 단서의 획득과 활용</div>\n  <p>\n    본격적인 조사가 진행되는 3~6단계(조사, 발견, 시험, 마지막 단서)에서는 각 단계가 시작될 때마다 <strong>본인만 소지하는 개인 단서들</strong>을 자동으로 획득하게 됩니다. 모든 플레이어는 <span class=\"highlight\">내 단서</span> 메뉴를 확인하여 이번 단계에 새롭게 주어진 정보들을 파악하고, 아래의 원칙에 따라 서로를 낱낱이 파헤치십시오.\n  </p>\n  <ul>\n    <li>\n      <span class=\"highlight\">당신이 아는 것</span>: 각 단계 시작 시 획득하는 이 단서는 해당 단계 내에 반드시 다른 플레이어들에게 자발적으로 공유되어야 하는 정보입니다. 이 정보는 다른 사람의 비밀을 말하게 만드는 계기가 되므로 빠뜨리지 마십시오. 말하는 방법에도 규칙이 있습니다.\n      <ul>\n        <li>한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하십시오. 가진 정보를 한꺼번에 몰아서 말하지 마십시오.</li>\n        <li>다른 사람이 말하는 중에는 끼어들지 마십시오. 말이 끊기면 정보가 모두 전해지지 못합니다.</li>\n      </ul>\n    </li>\n    <li><span class=\"highlight\">당신의 비밀</span>: 이 단서는 가급적 숨기되, 다른 플레이어로부터 날카로운 질문이나 추궁을 받을 때 어쩔 수 없이 공개해야 합니다. (단, 결과적으로는 해당 단계가 끝나기 전까지 모든 플레이어가 이 정보를 알게 되어야만 다음 단계로 넘어갈 수 있습니다.)</li>\n    <li><span class=\"highlight\">비밀 단서</span>: 게임이 진행되며 특정 조건에서 자연스럽게 전체 공개되는 단서입니다. 한 번 공개되면 누구나 언제든 확인할 수 있습니다.</li>\n    <li><span class=\"highlight\">타임라인</span>: 본인만 알고 있는 시간대별 행동 기록입니다. 다른 사람의 알리바이와 맞춰보며 모순을 찾아내십시오.</li>\n    <li><span class=\"highlight\">답변 및 거짓말 원칙</span>: 누군가의 질문에 노골적인 거짓말을 지어낼 수는 없습니다. 단, 답변을 회피하거나 교묘하게 말을 돌리는 것은 허용됩니다.</li>\n  </ul>\n  <p>모든 플레이어가 각 단계에 주어진 '아는 것'과 '비밀' 단서를 전부 밝혔다고 동의할 때, 다음 단계로 넘어갈 수 있습니다.</p>\n\n  <div class=\"section-title\">3. 핵심 특수 규칙</div>\n  <p>미스터리 경험을 극대화하기 위한 특수 규칙을 잊지 마십시오.</p>\n  <ul>\n    <li><span class=\"highlight\">범인 무지 원칙</span>: <strong>범인은 8단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다.</li>\n  </ul>\n\n<div class=\"section-title\">5. 다음 단계 안내</div>\n  <p>\n    충분한 상호 심문과 조사가 이루어졌고, 모든 비밀이 공유되었다면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.\n  </p>\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789213859/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_agwbuy.mp3",
+   "estimated_duration": 40,
+   "is_auto_proceed": 0,
+   "outro": null,
+   "pre_next_reminder": "폭로 단계로 넘어가기 전 마지막 확인입니다. 지금까지 각자의 모든 '아는 것'과 '비밀'이 남김없이 공유되었는지 반드시 확인하세요. 이 단계가 끝나면 더 이상 정보를 나눌 수 없습니다. 폭로 단계는 진행 방식이 크게 달라지니, 시작되면 단계 설명을 꼼꼼히 정독하세요.",
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": "[{\"id\": \"78d20ee4-39c6-47b5-b636-2cab79fafb81\", \"type\": \"IMAGE\", \"caption\": \"멀리서 희미하게 경찰차의 사이렌 소리가 울려 퍼집니다.\\n곧 수사관들이 들이닥쳐 당신에게 대답하기 꺼려지는 질문들을 쏟아낼 것입니다.\\n하지만 아직 몇 분의 시간이 남아 있습니다.\\n모든 진실이 밝혀지기 전, 서로 남은 의문점들을 맞춰볼 마지막 기회입니다.\", \"autoPlay\": false, \"mediaUrl\": \"https://res.cloudinary.com/dkzctfx9z/image/upload/v1783936177/murdex/images/step_intro/c6047a2e-222c-4f0e-b031-f639619888c0/file_lfcfpu.jpg\", \"durationSeconds\": 4}]",
+   "created_at": "2026-06-08 00:12:42",
+   "updated_at": "2026-10-29 15:43:59",
+   "is_final_step": 0
+  },
+  {
+   "step_id": "e7dd36e8-79c5-4d47-a3da-c9bfa1a4622d",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 7,
+   "step_name": "폭로",
+   "step_type": "CONCLUSION",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 개요</div>\n  <p>\n    마침내 진실을 마주할 시간이 도래했습니다. \n    경찰의 사이렌 소리가 잦아들고, 이제 여러분은 <span class=\"emphasis\">은금도가</span>에 얽힌 모든 비밀과 살인 사건의 해답을 제시해야 합니다. \n    각자가 수집한 정보와 추리를 종합하여 최종 결론을 내리십시오.\n  </p>\n\n  <div class=\"section-title\">2. 최종 추리 및 답안 제출</div>\n  <ul>\n    <li><span class=\"highlight\">질문과 답변</span>: 시스템의 <strong>'질문과 답변'</strong> 기능을 통해 최종 추리를 제출하십시오. <strong>누가 범인인가? 어떻게 죽였는가? 왜 죽였는가?</strong> 이 세 가지 질문에 대한 객관식 보기 중 가장 진실에 가깝다고 생각하는 답을 선택해야 합니다. 이 작품은 범인조차 자신이 범인인지 모른 채 진행되므로, <strong>'누가 범인인가?'에서 자기 자신을 선택하는 것도 얼마든지 가능</strong>합니다.</li>\n    <li><span class=\"highlight\">침묵의 선고</span>: 답안 제출 단계가 시작되면 더 이상의 토론이나 정보 공유는 불가능합니다. 오직 본인의 판단에 따라 결정을 내리십시오.</li>\n  </ul>\n\n  <div class=\"section-title\">3. 다음 단계 안내</div>\n  <p>\n    모든 플레이어의 질문에 대한 답변 제출이 완료되었다면 <span class=\"highlight\">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.\n  </p>\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789213860/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_vpl1mu.mp3",
+   "estimated_duration": 5,
+   "is_auto_proceed": 0,
+   "outro": null,
+   "pre_next_reminder": null,
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": null,
+   "created_at": "2026-06-08 00:13:04",
+   "updated_at": "2026-09-12 20:51:01",
+   "is_final_step": 0
+  },
+  {
+   "step_id": "a1d2579e-17fd-43ed-81ed-e83db561c4e1",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 8,
+   "step_name": "사건의 전말",
+   "step_type": "INVESTIGATION",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 개요</div>\n  <p>\n    모든 진실이 밝혀졌습니다. \n    거짓과 기만으로 점철되었던 <span class=\"emphasis\">은금도가</span>의 밤이 저물고, 마침내 감춰졌던 사건의 전말이 모습을 드러냅니다.\n  </p>\n\n  <div class=\"section-title\">2. 진상 공개</div>\n  <p>\n    현재 <strong>게임 보드</strong>에는 첫 번째 낭독자의 <strong>자백 단서</strong>가 배치되어 있습니다. 자백은 릴레이 방식으로 진행되며, 앞 낭독자가 자신의 자백을 모두 읽은 후 다음 낭독자를 호명하면, 다음 낭독자의 자백 단서가 게임 보드에 새롭게 등장하는 방식입니다. 이 과정을 통해 각 캐릭터들이 지금껏 숨기고 있던 은밀한 비밀들이 하나둘씩 밝혀지는 것은 물론, 누가 진범이며 어떻게, 그리고 왜 그런 끔찍한 일을 저질렀는지에 대한 모든 진상까지 드러나게 됩니다.\n  </p>\n  <div class=\"guide-notice type-info\">\n    <p>지침을 확인하세요! 그리고 <strong>자백코드: [1945]</strong>인 첫 번째 낭독자는 게임 보드에 나타난 단서를 조사한 뒤, 자백을 시작하십시오.</p>\n  </div>\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789213862/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_w3kf5j.mp3",
+   "estimated_duration": null,
+   "is_auto_proceed": 0,
+   "outro": null,
+   "pre_next_reminder": null,
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": null,
+   "created_at": "2026-06-08 00:13:32",
+   "updated_at": "2026-09-12 20:51:03",
+   "is_final_step": 0
+  },
+  {
+   "step_id": "3aebe151-99ba-42d1-a1f5-a5d5d9b1cf4a",
+   "story_id": "11ac5811-9d96-4756-ad87-7d18764662ce",
+   "step_order": 9,
+   "step_name": "에필로그",
+   "step_type": "EPILOGUE",
+   "description": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 전체 기록 확인</div>\n  <p>\n    게임을 모두 마쳤습니다. 하단 메뉴를 통해 이 사건에 얽힌 모든 정보를 확인하실 수 있습니다.\n  </p>\n  <ul>\n    <li><span class=\"highlight\">모든 단서 보기</span>: 게임 중 발견하지 못했던 단서를 포함한 모든 단서의 상세 해설을 볼 수 있습니다.</li>\n    <li><span class=\"highlight\">모든 역할시트 보기</span>: 동료들의 숨겨진 과거와 개인 목표가 무엇이었는지 확인하며 서로의 얽힌 서사를 완성해 보세요.</li>\n  </ul>\n\n  <div class=\"section-title\">2. 소감 및 마무리</div>\n  <p>\n    사건의 전말을 모두 확인했다면, 동료들과 함께 플레이 소감을 나누어 보십시오.\n  </p>\n  <ul>\n    <li><span class=\"highlight\">추리의 회상</span>: 어느 시점에 범인을 확신했는지, 혹은 어떤 기만에 속았는지 이야기해 보세요.</li>\n    <li><span class=\"highlight\">역할의 몰입</span>: 각 캐릭터의 입장에서 느꼈던 감정이나 선택의 이유를 공유하며 서로의 오해를 풀어보십시오.</li>\n  </ul>\n\n  <div class=\"section-title\">3. 이용 종료 안내</div>\n  <p>\n    충분한 시간을 가졌다면 하단의 <span class=\"highlight\">이용 종료</span> 버튼을 눌러 게임을 마무리하십시오.\n  </p>\n  <ul>\n    <li><span class=\"highlight\">단계 유지</span>: 이용 종료 전까지는 현재 화면을 자유롭게 확인하실 수 있습니다.</li>\n    <li><span class=\"highlight\">개별 종료</span>: 호스트가 이용 종료를 선택하더라도 다른 플레이어들의 이용은 종료되지 않습니다. 각자 충분히 확인하신 후 개별적으로 종료를 선택해 주십시오.</li>\n  </ul>\n</div>",
+   "audio_url": "https://res.cloudinary.com/dkzctfx9z/video/upload/v1789221477/murdex/images/11ac5811-9d96-4756-ad87-7d18764662ce/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_fs1vir.mp3",
+   "estimated_duration": null,
+   "is_auto_proceed": 0,
+   "outro": "<div class=\"story-content\">\n  <div class=\"section-title\">1. 욕망이 빚어낸 비극</div>\n  <p>\n    모든 것은 1944년, 일본군이 퇴각하며 숨겨둔 군용 금괴를 은금이 발견하면서 시작되었습니다.<br><br>\n    6개월 전, <strong>류현수</strong>는 안방에서 <strong>남기태</strong>의 장부를 몰래 뒤지다 발각되었습니다. 남기태가 경찰에 신고하려 하자 류현수는 촛대로 그를 내리쳐 살해하고, 시신을 은금 저수지에 유기했습니다.<br><br>\n    <strong>정해준</strong>과 그의 사촌 누나 <strong>박단희</strong>는 금괴를 노리고 은금도가를 헐값에 사들이려 했습니다. 강은주가 매각을 거부하자, 박단희가 강은주의 방에서 수면제를 훔치고 정해준이 그것을 갈아 저녁 시음회 소주에 탔습니다. 강은주는 이를 마셨고, 박단희는 그사이 강은주의 유서를 위조했습니다.<br><br>\n    <strong>최도훈</strong>은 그날 저녁 아내 <strong>강은지</strong>와 류현수의 밀회를 목격했습니다. 그는 류현수를 감전시켜 지하 숙성 토굴을 정전시킨 뒤, 어둠 속에서 아내를 죽이려고 뒤따라가 목을 찔렀습니다. 하지만 체형이 비슷한 강은주를 아내로 착각한 것이었습니다.<br><br>\n    수면제에 취한 채 토굴을 걷던 강은주는 결국 최도훈의 손에 목숨을 잃었습니다. 서로 다른 세 개의 범행이 우연히 겹치며 벌어진 비극이었습니다.\n  </p>\n\n  <div class=\"section-title\">2. 작가의 말</div>\n  <p>\n    안녕하세요, '누룩꽃 필 무렵'을 집필한 머덱스 작가입니다.<br><br>\n    본 작품은 머더 미스터리의 고전 명작인 <strong>'분노의 신 포도(The Sour Grapes of Wrath)'</strong>에 대한 깊은 존경을 담아, 한국적인 정서와 '은금도가'라는 배경을 덧입혀 새롭게 재해석한 이야기입니다. 원작이 지닌 매력적인 군상극과 얽히고설킨 인물들의 은밀한 동기들을 한국의 오래된 술도가라는 공간 속에 녹여내고자 노력했습니다. 이 자리를 빌려 훌륭한 기틀을 만들어 준 원작자에게 깊은 감사를 표합니다.<br><br>\n    이번 작품은 단순히 '누가 흉기를 휘둘렀는가'를 넘어, <strong>'우리의 작은 이기심들이 모여 어떻게 거대한 비극을 완성하는가'</strong>를 보여드리고 싶었습니다. 등장인물들은 모두 각자의 뚜렷한 동기와 비밀을 안고 그날 밤 토굴을 향했습니다. 금괴를 노린 자, 살인을 덮으려는 자, 복수하려는 자. 그 무수한 욕망들이 한 공간에서 엉키며 일어난 나비효과가 바로 이 이야기의 본질입니다.<br><br>\n    이 게임을 통해 각자의 입장에 몰입해 보시면서, 때로는 비밀을 지키기 위해 누군가를 속이고 때로는 진실을 좇기 위해 협력하셨기를 바랍니다. 여러분의 훌륭한 추리와 역할극에 깊은 감사를 드립니다.\n  </p>\n</div>",
+   "pre_next_reminder": null,
+   "allow_clue_reveal": 0,
+   "reveal_all_clues_on_start": 0,
+   "intro_cutscenes": null,
+   "created_at": "2026-07-11 02:47:25",
+   "updated_at": "2026-09-12 22:57:58",
+   "is_final_step": 1
+  }
+ ],
+ "clue_variant": [
+  {
+   "variant_id": "d8ca7691-4008-48a2-9ba6-4e58f5371579",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        오늘 아침 아침 식사 자리에서 <span class=\"character-eunju\">은주</span>에게 거짓말을 했습니다.\n        <span class=\"character-dohun\">도훈</span>이 당신에게 폭력을 쓴다고 말했지만, 사실 이는 언니의 동정을 얻기 위한\n        거짓말이었습니다. 어느 정도는 그녀가 어떻게 반응하는지 보고 싶었고, 또\n        <span class=\"character-eunju\">은주</span>가 여전히 <span class=\"character-dohun\">도훈</span>에게 감정이 있는지\n        알아보기 위한 의도도 있었습니다. <span class=\"character-eunju\">은주</span>는\n        <span class=\"character-dohun\">도훈</span>이 학대한다는 사실에 놀란 기색을 보였지만 “네가 자초한 일이다”라는 말도\n        했습니다.\n      </li>\n      <li>\n        당신은 <span class=\"character-dohun\">도훈</span>과 이혼하고 싶지만 경제적으로 그에게 의존하고 있어 그러지 못하고\n        있습니다.\n      </li>\n      <li><span class=\"character-dohun\">도훈</span>의 빚 때문에 집을 팔아야 했고, 지금은 캠핑카에서 살고 있습니다.</li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "e9d30ede-1828-4cbc-9c5a-59dc32807d05",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>당신은 <span class=\"character-kitae\">남기태</span>를 사랑했습니다. 그와 죽기 전까지 불륜 관계였습니다.</li>\n        <li>\n          <span class=\"character-eunju\">은주</span>는 이 관계를 의심했고 <span class=\"character-kitae\">기태</span>에게\n          직접 따졌습니다.\n        </li>\n        <li>\n          그 결과, 두 사람은 부부 관계를 지키려 노력하기로 했고, <span class=\"character-kitae\">기태</span>는 즉시\n          당신과의 관계를 끊었습니다. 그리고 그로부터 며칠 후, <span class=\"character-kitae\">기태</span>는 사망했습니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "065fa487-d891-422b-a6d6-31da2e1d4cc6",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>6개월 전, 당신은 살아있던 <span class=\"character-kitae\">남기태</span>를 마지막으로 만난 사람이었습니다.</li>\n        <li>\n          당신은 종종 그랬던 것처럼 은금도가에서 그와 점심을 같이 했습니다. 점심 후, 출판사 약속 때문에 그를 떠났는데,\n          그때 <span class=\"character-kitae\">기태</span>는 분명 살아 있었습니다.\n        </li>\n        <li>당신은 <span class=\"character-hyunsu\">류현수</span>와 부적절한 관계를 맺고 있습니다.</li>\n        <li>\n          오후 3시 지하 숙성 토굴에서 평소처럼 만난 뒤, <span class=\"character-hyunsu\">현수</span>의 주머니에서 한 장의\n          종이가 떨어지는 걸 보았습니다. 당신은 그것을 주운 뒤 곧장 본채로 가서\n          <span class=\"character-eunju\">은주</span>를 만나려 했습니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "38c8d341-3d01-4979-8ba6-bf376641653d",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>\n          당신은 사촌 누나 <span class=\"character-danhee\">박단희</span>에게 왜 자신에게 부동산업자인 척하며 도가를 싸게\n          사라고 시키는지 이유를 알려달라고 요구했고, 그렇지 않으면 이 짓을 그만두겠다고 했습니다.\n          <span class=\"character-danhee\">단희</span>는 그 땅 뒷산에 수십억 원 상당의 일제강점기 금괴가 묻혀 있다는\n          이야기를 해주었습니다. 그녀의 계획은 다소 무모했지만, 계속해서 이 작은 마을을 떠나고 싶어 안달이 났고 이\n          거래로 당신에게 좋은 수익을 약속했습니다.\n        </li>\n        <li>\n          오후 2시 15분경, <span class=\"character-danhee\">박단희</span>가 몰래 당신의 차로 와서 수면제 한 병을\n          건네주었습니다. 그녀는 그것을 빻아서 주머니에 넣어 가지고 있으라 말했습니다. 만약\n          <span class=\"character-eunju\">은주</span>가 매각을 거부하면, 기회가 생길 때 그녀의 음료에 몰래 타라고\n          했습니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "9d0c2560-5cc6-46bf-bfb0-dde50130ecc2",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        이번 방문 전에 형부 <span class=\"character-kitae\">남기태</span>가 죽었다는 사실을 몰랐습니다. 언니\n        <span class=\"character-eunju\">은주</span>가 고등학교 시절 연인과 결혼한 당신을 아직도 용서하지 못해 만나고 싶지\n        않아 했던 것 같습니다. 그녀가 당신을 삶에서 완전히 밀어내고 싶어 했는지 궁금합니다.\n      </li>\n      <li>\n        오늘 아침 9시 30분경 <span class=\"character-eunju\">은주</span>와 단둘이 아침 식사를 했습니다. 당신은 재정적으로\n        어려움을 겪고 있다고 말하며 도움을 요청했지만, <span class=\"character-eunju\">은주</span>도 형부가 사망할 때 생명\n        보험이 없어 재정적으로 매우 힘든 상태라고 했습니다.\n      </li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "fd4f54d7-4eea-471a-acae-8e3f1069c4a8",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        정오에 <span class=\"character-haejun\">정해준</span>은 은금도가를 매입할 목적으로 방문했습니다. 그때 당신은 속이\n        좋지 않아, <span class=\"character-eunju\">은주</span>가 <span class=\"character-haejun\">해준</span>과 마루에서\n        대화를 나누는 동안 화장실 약장에서 제산제를 찾고 있었습니다.\n      </li>\n      <li>\n        <span class=\"character-haejun\">정해준</span>은 이번 주 자료실에 자주 왔습니다. 그는 마을 역사에 관한 연구 자료를\n        요청했고, 당신은 그를 위해 몇 가지 자료를 찾아 주었습니다.\n      </li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "1eb16b4a-1711-48a5-a044-9ad2352d0415",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>\n          당신은 대형 리조트 디벨로퍼의 책임자가 아닙니다. 건설 회사에서 말단 사원으로 일하고 있습니다. 회사 내에서\n          입지를 다지려고 애쓰고 있습니다. 싸게 땅을 사서 나중에 비싸게 팔아 회사 고위층에게 사업 수완을 증명하고\n          싶었습니다.\n        </li>\n        <li>\n          <span class=\"character-danhee\">박단희</span>는 당신의 이종사촌 누나입니다. 그녀가 은금도가를 사러 내려오라는\n          정보를 줬습니다. 하지만 당신은 돈이 많지 않습니다. 다만 <span class=\"character-danhee\">단희</span> 누나는\n          나중에 이 땅을 당신에게서 이익을 붙여 되사겠다고 약속했습니다. 이유는 말해주지 않았지만 땅을 손에 넣는 데 매우\n          열심인 듯했습니다. 하지만 <span class=\"character-eunju\">은주</span>가 땅값을 당신이 감당할 수 있는 것보다 높게\n          불러서 상황이 여의치 않았습니다. 하루 종일 더 많은 돈을 마련하기 위해 전화도 하고,\n          <span class=\"character-eunju\">은주</span>에게 가격을 낮춰 달라고 설득하기도 했습니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "d6585c76-ad39-4ef1-925a-ae0ebcc12bed",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>\n          유명 방송인이 당신의 마지막 책이 자신에 관한 이야기라며 거액의 소송을 걸었습니다. 그 이후로 재정이 바닥났지만,\n          이제는 <span class=\"character-kitae\">남기태</span> 살인 사건을 소재로 한 새 소설이 출간되어 경제 상황이 조금씩\n          나아지고 있습니다.\n        </li>\n        <li>\n          현재 현금은 거의 없으며, 만약 책 계약이 실패하면 은금도가 옆에 있는 당신의 작은 땅만 남게 됩니다. 만약\n          <span class=\"character-haejun\">정해준</span>이 은금도가를 대형 리조트로 개발한다면, 당신 땅의 가치가 크게\n          떨어질 것으로 예상합니다.\n        </li>\n        <li>\n          당신은 늘 <span class=\"character-eunju\">강은주</span>가 남편 <span class=\"character-kitae\">기태</span>를\n          죽이고 생명보험금을 타려고 했다고 의심해 왔습니다. 사실, 이 의심이 다음 소설의 줄거리이기도 합니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "80f76e53-bc0c-448e-86eb-34b707502c9d",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>당신은 <span class=\"character-kitae\">남기태</span>를 마지막으로 본 사람입니다.</li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "61e0f448-2f79-4574-bb43-a24ed77c6939",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        당신은 은행 계좌정보와 비밀번호가 적힌 쪽지 한 장을 잃어버렸습니다. 오후에\n        <span class=\"character-seoyeon\">백서연</span> 작가가 훔쳐 갔다고 의심하고 있습니다. 그녀가 그 정도로 돈에 궁한\n        줄은 몰랐습니다.\n      </li>\n      <li>\n        <span class=\"character-danhee\">박단희</span>와는 특별한 사이입니다. 그녀는 당신의 자격증 시험 과제를 대신 써주는\n        대가로 당신과 저녁 시간을 함께 보냅니다. 그녀는 사서로서 귀중한 역사적 자료에 접근할 수 있는데, 당신은 그 중\n        일부를 훔쳐 팔아보려 했습니다.\n        <strong>(이 비밀이 공개되었다면, 자연스럽게 [비밀단서#3]를 조사하세요. 비밀코드는 'letter' 입니다.)</strong>\n      </li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "5e62b3fe-0c08-4f59-8b7b-1e1443d784b3",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>\n          오늘 오전 10시 30분, 연못 정원에서 <span class=\"character-eunju\">은주</span>와 대화하는 중에 그녀가 '<span\n            class=\"character-eunji\"\n            >은지</span\n          >가 당신에게 맞고 산다고 했다'고 전했습니다. 당신은 충격을 받았는데, 사실\n          <span class=\"character-eunji\">은지</span>에게 한 번도 손을 댄 적이 없기 때문입니다.\n        </li>\n        <li>\n          오늘 오후 1시에 상사로부터 전화를 받았습니다. 지난 몇 주간 거래처 직원을 성희롱한 혐의로 대기 발령 중이었는데,\n          조사 과정에서 상사가 당신이 회사 돈을 개인 계좌로 빼돌린 증거를 발견했습니다. 상사는 당신에게 해고 사실을\n          알렸습니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "eff5e67a-6f88-439a-8a2d-d16096e9646c",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        오늘 오후 12시 45분쯤, <span class=\"character-seoyeon\">백서연</span> 작가가 당신에게 와서 은금도가에 차를 몰고\n        온 <span class=\"character-haejun\">정해준</span>이라는 남자에 대해 물었습니다. 당신은 어찌어찌 수소문해서 그가\n        대형 리조트 개발업자이며, 은금도가 일대를 사들여 대형 리조트로 개발할 계획임을 알아냈습니다. 오후 1시쯤 이\n        사실을 <span class=\"character-seoyeon\">서연</span>에게 알렸더니, 그녀는 자신의 조용한 전원주택 옆에 대형\n        리조트가 들어선다는 생각에 몹시 분노하며 계획을 막겠다고 다짐했습니다.\n      </li>\n      <li>\n        이번 주 내내 향토사 자료실에 많이 있었습니다. <span class=\"character-danhee\">박단희</span>가 당신의 대학 과제를\n        도와주고 있었기 때문입니다.\n      </li>\n      <li>\n        <span class=\"character-kitae\">기태</span>가 죽은 직후, <span class=\"character-eunju\">은주</span>는 특히 당신에게\n        관심을 많이 보이고 관대했습니다. 당신이 양조장을 떠날까 봐 두려워했기 때문이라고 생각합니다. 혼자가 되고 싶지\n        않았던 거죠.\n      </li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "a2e77b12-c379-48c8-9546-87eab4b10d1d",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        당신은 <span class=\"character-hyunsu\">류현수</span>에게 매우 끌려 그와 잠자리를 함께 하고 있습니다. 또한 그의\n        자격증 과제를 대신 해주고 있습니다.\n      </li>\n      <li>\n        향토사 연구 과제를 쓰던 중, 은금리의 초창기 개척자 중 한 명인 은금(隱金) 최석태 선생이 쓴 편지를 발견했습니다.\n        그는 편지 작성 후 얼마 지나지 않아 근처 은금 저수지에서 익사했습니다.\n      </li>\n      <li>\n        당신은 <span class=\"character-hyunsu\">류현수</span>에게 거의 집착에 가까운 애정을 품고 있습니다. 배경 조사를 한\n        결과, 그는 1년 전 대마초 판매 혐의로 체포되었고, 짧은 징역형을 마친 뒤 이곳으로 숨어들었다고 합니다.\n      </li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "37fbff69-fd3a-4cd2-8ec8-632746011ab9",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        오후 5시 30분, 당신은 연못 수돗가 주변을 청소하고 있었습니다. 그때 <span class=\"character-eunji\">강은지</span>가\n        다가왔고, 대화를 나누던 중 서로에게 끌려 결국 격렬한 키스를 나누게 되었습니다.\n      </li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "8d06b656-ebe9-47ab-abf8-12784f04826c",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        오후 5시 30분경, 연못 정원 근처에서 <span class=\"character-hyunsu\">류현수</span>와 마주쳤고, 대화를 나누며\n        농담도 주고받았습니다. 분위기가 무르익어 키스를 나누었지만, 곧 자리를 떠났습니다.\n        <span class=\"character-dohun\">도훈</span>이 잠든 후에 다시 <span class=\"character-hyunsu\">현수</span>를 만나기로\n        마음먹었기 때문입니다.\n      </li>\n      <li>오후 6시까지 연못 정원을 떠나 침실에서 옷을 갈아입었습니다.</li>\n      <li>\n        오후 6시 45분경, 다시 <span class=\"character-hyunsu\">현수</span>를 찾으러 나섰습니다. 밖에서는 그를 보지 못해\n        지하 숙성 토굴로 향했습니다. 미로 같은 복도를 지나가다 갑자기 <span class=\"character-hyunsu\">현수</span>와\n        마주쳤는데, 그와 동시에 큰 ‘펑’ 소리가 들렸습니다. 불빛이 깜박이다 꺼졌고, 비명을 질렀습니다. 그 이후의 일은\n        기억나지 않다가 결국 다른 사람들과 함께 다시 본채에서 깨어났습니다.\n      </li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "bac8f89c-b8a7-4932-b4ab-f69eb7f08f88",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <ul>\n      <li>\n        당신은 늘 텔레비전 드라마나 영화에서 스타가 되는 꿈을 품어왔습니다. 그랬기에 오늘 도서관 사서 일을\n        그만두었습니다.\n      </li>\n    </ul>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "5024381d-883e-4219-b488-af9db52c2bc1",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>\n          지난 4일간 도서관에서 이 마을에 관한 모든 것을 조사하는 데 시간을 보냈습니다. 새로운 주택 및 리조트 개발\n          마케팅 캠페인을 시작하기 위해 회사에 보고해야 합니다.\n        </li>\n        <li>\n          오늘 오후 <span class=\"character-dohun\">최도훈</span>이 이력서를 건네왔습니다. 그는 너무 간절해 보였지만,\n          당신은 당신의 회사가 현재 채용 중이 아니라고 말해주었습니다. <span class=\"character-dohun\">도훈</span>의 현재\n          일자리 상황이 궁금합니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "857a0147-7a75-47b7-a3a4-42be43847de9",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>\n          오후 2시에 당신은 <span class=\"character-eunji\">은지</span>와 함께 방에 있었습니다.\n          <span class=\"character-eunju\">은주</span>가 <span class=\"character-eunji\">은지</span>에게 대출을 해 주지 않자\n          <span class=\"character-eunji\">은지</span>는 깊은 상심에 빠져 당신 앞에서 울음을 터뜨렸습니다.\n        </li>\n        <li>\n          오후 5시 30분, 당신은 연못가 팔각정에서 새를 관찰하고 있었습니다. 그때 당신의 아내\n          <span class=\"character-eunji\">은지</span>가 <span class=\"character-hyunsu\">류현수</span>와 추파를 던지며\n          키스하는 모습을 목격했습니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  },
+  {
+   "variant_id": "0de830dd-88f7-4896-b67e-21e9f940882b",
+   "clue_content": "<div class=\"story-content\">\n  <div class=\"document-page type-secret\">\n    <div class=\"document-body\">\n      <ul>\n        <li>\n          <span class=\"character-eunji\">은지</span>와는 어려운 결혼 생활 시기를 보내고 있습니다. 일찍 일어나 그녀의\n          마음을 돌리기 위해 은으로 된 예쁜 팔찌를 사러 읍내에 나갔습니다.\n        </li>\n        <li>\n          오전 10시 30분에 휴가 동안 당신과 <span class=\"character-eunji\">은지</span>를 환대해 준 처형\n          <span class=\"character-eunju\">강은주</span>에게 감사의 표시로 문양이 새겨진 비녀를 선물했습니다.\n        </li>\n      </ul>\n    </div>\n    <div class=\"guide-notice type-warning\">\n      당신의 비밀들은 타인에게 추궁받거나 지적받았을 때만 마지못해 이야기 할 수 있습니다. 아무도 당신에게 묻지 않아 이번\n      단계에서 말하지 못했다면, 이후 단계에서 질문을 받을 때 털어놓을 수 있습니다. 단, 6단계(마지막 단서 단계)가 끝날\n      때까지는 숨김없이 모두 밝혀야 합니다.\n    </div>\n  </div>\n</div>"
+  }
+ ],
+ "auto_ownership_ids": [
+  "0c989569-77d1-4e43-8adb-0c51d5f73ca2",
+  "39c5d424-47c8-409a-b05d-72c297bc0b68",
+  "3fff3b06-c7ed-49c4-88f5-173cd664f39a",
+  "5e1fc226-c01b-4d77-9a30-9642e7e74cd5",
+  "7df73543-a56e-4eb9-a905-564bf3b73a00",
+  "82763ef1-1945-4902-a163-fdab7f97133f",
+  "b916fc60-a498-466a-b81b-407d72e125c0",
+  "b935e664-697b-45ca-8d66-06468b303b07",
+  "c12b9325-618e-4887-92a0-dff1e9a676ab",
+  "e600fbcf-9c9a-4e1a-9bfd-8a3e794cf2a3",
+  "f0bd8b23-3498-4fd2-a214-c660b2e551b8",
+  "ff90ec71-185e-4602-be76-ff2c79d063e4"
+ ],
+ "board_rule_ids": [
+  "67fb8bd0-966d-4186-9aa5-677ce3ba6eb0"
+ ]
+}

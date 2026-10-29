@@ -1,0 +1,45 @@
+StoryID : 11ac5811-9d96-4756-ad87-7d18764662ce
+StepID : 4fabbaea-b0b9-467c-8b48-3d85a2dbce5e
+
+1. 순서
+2
+
+2. 단계 이름
+소개
+
+3. 단계 유형
+INVESTIGATION
+
+4. 예상 소요 시간
+10분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+https://cdn1.suno.ai/13acd884-d46f-4c9c-8158-8821baadd545.mp3
+
+# Suno Prompt: Warm restrained Korean folk-drama ambient, gentle gayageum melody, soft janggu brush taps, faint autumn cricket and wind chime texture, polite yet subtly tense courtyard atmosphere, understated and conversational, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 대본 낭독</div>
+  <p>이 단계에서는 본격적인 조사에 앞서, 서로를 탐색하며 인사를 나누는 시간입니다. 각 플레이어는 자신의 차례가 오면 아래의 대본을 소리 내어 읽으며 자신을 소개하고, 다 읽었다면 버튼을 눌러 다음 사람에게 차례를 넘기십시오. 지시문은 바로 다음 대사를 맡은 <span class="character-haejun">정해준</span> 플레이어가 읽고 넘기십시오.</p>
+
+</div>
+
+<!-- POST_SCRIPT -->
+
+<div class="story-content">
+  <div class="section-title">2. 다음 단계 안내</div>
+  <p>
+    대본 낭독이 모두 끝났다면, <strong><span class="character-haejun">정해준</span></strong> 플레이어는 본인의 역할 시트에 기재된 지침을 확인한 뒤, 안내에 따라 게임 보드에 배치된 <strong><span class="emphasis">[비밀단서#1]</span></strong>을 조사하여 모두에게 공유하십시오. 조사가 충분히 이루어졌다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
+  </p>
+</div>
+
+8. 다음 단계 전 리마인더 (story_step.pre_next_reminder — 준비완료/진행 버튼 바로 위에 항상 표시됨)
+다음 조사 단계부터는 각자에게 개인 단서('당신이 아는 것', '당신의 비밀' 등)가 자동으로 지급됩니다. 이 작품은 일반적인 머더 미스터리와 다른 점이 많으니, 단계가 시작되면 단계 설명을 반드시 정독한 뒤 진행하세요.
+• '당신이 아는 것'은 그 단계 안에 반드시 공개해야 하며, 다른 사람의 비밀을 끌어내는 계기가 됩니다.
+• 한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하세요. 한꺼번에 몰아서 말하지 마세요.
+• 다른 사람이 말하는 중에는 끼어들지 마세요. 말이 끊기면 정보가 모두 전해지지 못합니다.

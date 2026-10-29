@@ -1,0 +1,66 @@
+StoryID : 11ac5811-9d96-4756-ad87-7d18764662ce
+StepID : eb315c53-b2ef-4fff-8768-92b4e8513038
+
+1. 순서
+6
+
+2. 단계 이름
+시험
+
+3. 단계 유형
+INVESTIGATION
+
+4. 예상 소요 시간
+20분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+https://cdn1.suno.ai/1d8ec8f0-3714-4c48-904e-7015cc2dda38.mp3
+
+# Suno Prompt: Tight suspenseful Korean neo-noir ambient, sharp staccato janggu pulses, tense haegeum stabs, ticking-clock-like rhythmic tension, cold interrogation atmosphere, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 개요</div>
+  <p>
+    손전등을 들고 다시 토굴로 돌아가 시신을 살피며, <span class="character-eunju">강은주</span>의 목에 예리한 비녀가 꽂혀 사망한 것을 확인합니다. 충격에 빠진 사람들은 새로 발견된 단서들을 곰곰이 생각하며 감춰진 비밀들을 서로 시험하고 압박합니다.
+  </p>
+  <div class="section-title">2. 단서의 획득과 활용</div>
+  <p>
+    본격적인 조사가 진행되는 4~7단계(조사, 발견, 시험, 마지막 단서)에서는 각 단계가 시작될 때마다 <strong>본인만 소지하는 개인 단서들</strong>을 자동으로 획득하게 됩니다. 모든 플레이어는 <span class="highlight">내 단서</span> 메뉴를 확인하여 이번 단계에 새롭게 주어진 정보들을 파악하고, 아래의 원칙에 따라 서로를 낱낱이 파헤치십시오.
+  </p>
+  <ul>
+    <li>
+      <span class="highlight">당신이 아는 것</span>: 각 단계 시작 시 획득하는 이 단서는 해당 단계 내에 반드시 다른 플레이어들에게 자발적으로 공유되어야 하는 정보입니다. 이 정보는 다른 사람의 비밀을 말하게 만드는 계기가 되므로 빠뜨리지 마십시오. 말하는 방법에도 규칙이 있습니다.
+      <ul>
+        <li>한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하십시오. 가진 정보를 한꺼번에 몰아서 말하지 마십시오.</li>
+        <li>다른 사람이 말하는 중에는 끼어들지 마십시오. 말이 끊기면 정보가 모두 전해지지 못합니다.</li>
+      </ul>
+    </li>
+    <li><span class="highlight">당신의 비밀</span>: 이 단서는 가급적 숨기되, 다른 플레이어로부터 날카로운 질문이나 추궁을 받을 때 어쩔 수 없이 공개해야 합니다. (단, 결과적으로는 해당 단계가 끝나기 전까지 모든 플레이어가 이 정보를 알게 되어야만 다음 단계로 넘어갈 수 있습니다.)</li>
+    <li><span class="highlight">비밀 단서</span>: 게임이 진행되며 특정 조건에서 자연스럽게 전체 공개되는 단서입니다. 한 번 공개되면 누구나 언제든 확인할 수 있습니다.</li>
+    <li><span class="highlight">타임라인</span>: 본인만 알고 있는 시간대별 행동 기록입니다. 다른 사람의 알리바이와 맞춰보며 모순을 찾아내십시오.</li>
+    <li><span class="highlight">답변 및 거짓말 원칙</span>: 누군가의 질문에 노골적인 거짓말을 지어낼 수는 없습니다. 단, 답변을 회피하거나 교묘하게 말을 돌리는 것은 허용됩니다.</li>
+  </ul>
+  <p>모든 플레이어가 각 단계에 주어진 '아는 것'과 '비밀' 단서를 전부 밝혔다고 동의할 때, 다음 단계로 넘어갈 수 있습니다.</p>
+
+  <div class="section-title">3. 핵심 특수 규칙</div>
+  <p>미스터리 경험을 극대화하기 위한 특수 규칙을 잊지 마십시오.</p>
+  <ul>
+    <li><span class="highlight">범인 무지 원칙</span>: <strong>범인은 9단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다.</li>
+  </ul>
+
+<div class="section-title">5. 다음 단계 안내</div>
+  <p>
+    충분한 상호 심문과 조사가 이루어졌고, 모든 비밀이 공유되었다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
+  </p>
+</div>
+
+8. 다음 단계 전 리마인더 (story_step.pre_next_reminder — 준비완료/진행 버튼 바로 위에 항상 표시됨)
+다음 단계로 넘어가기 전, 이번 단계에서 받은 '당신이 아는 것'과 '당신의 비밀'을 모두 공유했는지 확인하세요. 이 작품은 일반적인 머더 미스터리와 다른 점이 많으니, 다음 마지막 단서 단계가 시작되면 단계 설명을 반드시 정독한 뒤 진행하세요. 마지막 단서 단계는 모두가 협력해서 사건의 진상을 풀어 나가는 단계입니다.
+• '당신이 아는 것'은 그 단계 안에 반드시 공개해야 하며, 다른 사람의 비밀을 끌어내는 계기가 됩니다.
+• 한 번에 한 가지씩, 해당되는 사안이 나올 때마다 따로 말하세요. 한꺼번에 몰아서 말하지 마세요.
+• 다른 사람이 말하는 중에는 끼어들지 마세요. 말이 끊기면 정보가 모두 전해지지 못합니다.

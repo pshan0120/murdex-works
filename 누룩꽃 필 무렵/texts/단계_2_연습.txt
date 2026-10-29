@@ -1,0 +1,57 @@
+StoryID : 11ac5811-9d96-4756-ad87-7d18764662ce
+StepID : 91928c3a-f6bc-4b38-8ebe-88d2117cb4c6
+
+1. 순서
+2
+
+2. 단계 이름
+연습
+
+3. 단계 유형
+INVESTIGATION
+
+4. 예상 소요 시간
+무제한
+
+5. 자동 진행 여부
+N
+
+6. BGM
+https://cdn1.suno.ai/06eefbe7-e66d-4a06-950c-a1617b63ce7c.mp3
+
+# Suno Prompt: Traditional Korean dark ambient, soft gayageum arpeggios over a low sustained drone, subtle haegeum whisper, distant autumn wind and creaking hanok wood texture, calm narrator-like stillness with a faint undercurrent of dread, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 연습 안내</div>
+  <p>
+    본격적인 조사에 앞서, 이 작품만의 대화 방식을 짧게 연습하는 단계입니다. 연습은 작품 내용과 전혀 관계없는 가상의 상황이며, 이후 단계에는 영향을 주지 않습니다. 연습에서도 서로를 캐릭터명으로 부르십시오.
+  </p>
+  <p>
+    지금은 여섯 사람이 마을 가을 소풍을 준비하는 모임에 모여 있는 상황입니다. 준비를 함께하는 동안 서로가 하는 일을 조금씩 지켜보았고, 각자 아직 남에게 말하지 못한 작은 실수나 사정도 하나씩 안고 있습니다. 이 단계가 시작되면 <span class="highlight">내 단서</span> 메뉴에서 <span class="highlight">[연습] 당신이 아는 것</span>과 <span class="highlight">[연습] 당신의 비밀</span>을 확인할 수 있습니다. '아는 것'에는 준비 중에 다른 사람에 대해 보았던 일이, '비밀'에는 아직 아무에게도 말하지 못한 본인의 일이 적혀 있습니다.
+  </p>
+  <p>
+    '아는 것'을 한 가지 말했을 때 그 이야기 속 인물이 자신이라면, 자신의 '비밀'에서 그 일에 해당하는 항목을 털어놓으십시오. 예를 들어 <span class="character-seoyeon">백서연</span>이 "어제 저녁 마을회관 부엌에서 <span class="character-hyunsu">류현수</span>가 소풍용 김밥 재료를 몰래 먹는 모습을 보았다"고 말하면, <span class="character-hyunsu">류현수</span>가 자신의 '비밀'을 말하는 식입니다. 자신의 이름이 나오는 이야기가 있는지 귀 기울여 들으십시오.
+  </p>
+  <p>
+    실제 조사에서는 '아는 것'이나 '비밀'의 일부 항목 끝에 <strong>(여기까지 이야기한 뒤, 자연스럽게 [비밀단서#N]를 조사하세요. 비밀코드는 'OOO' 입니다.)</strong> 또는 <strong>(이 비밀이 공개되었다면, 자연스럽게 [비밀단서#N]를 조사하세요. 비밀코드는 'OOO' 입니다.)</strong>와 같은 안내가 붙어 있습니다. 이 안내는 소리 내어 읽는 내용이 아니라 본인에게 주는 지시입니다. 해당 항목을 말한 직후, 게임 보드에 놓인 비밀단서 카드를 눌러 비밀코드를 입력하고 조사하십시오. 조사한 단서는 모두가 확인할 수 있습니다. 이 과정을 잊고 지나가기 쉬우므로 연습에서 미리 해 봅니다. 연습에서는 '비밀' 한 항목에 이런 안내가 있으니, 그 비밀을 털어놓은 직후 게임 보드의 <span class="highlight">[연습] 비밀단서</span>를 조사하십시오.
+  </p>
+  <ul>
+    <li>'아는 것'은 항목마다 한 번에 한 가지씩 따로 말하십시오. 한꺼번에 읽지 마십시오.</li>
+    <li>다른 사람이 말하는 도중에는 끼어들지 마십시오. 말을 마치면 "여기까지입니다"라고 알려 주십시오.</li>
+    <li>'비밀'은 누군가 관련된 이야기를 꺼내거나 물었을 때만 털어놓으십시오.</li>
+    <li>항목 끝에 조사 안내가 있다면, 그 항목을 말한 직후 곧바로 비밀단서를 조사하십시오.</li>
+  </ul>
+
+  <div class="section-title">2. 다음 단계 안내</div>
+  <p>
+    연습 단서의 모든 항목이 공유되고 <span class="highlight">[연습] 비밀단서</span> 조사까지 마쳤다면 연습이 끝난 것입니다. 연습을 마쳤는지 확인한 뒤 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오.
+  </p>
+</div>
+
+8. 다음 단계 전 리마인더 (story_step.pre_next_reminder — 준비완료/진행 버튼 바로 위에 항상 표시됨)
+다음 단계로 넘어가기 전, 대화 연습을 마쳤는지 확인하세요. 연습을 건너뛰면 조사 단계에서 같은 실수가 그대로 나옵니다.
+• [연습] 당신이 아는 것과 [연습] 당신의 비밀이 모두 공유되었나요?
+• 안내가 붙은 항목을 말한 뒤, 게임 보드의 [연습] 비밀단서를 조사했나요?
+• 이 작품은 일반적인 머더 미스터리와 다른 점이 많습니다. 단계가 바뀔 때마다 열리는 단계 설명을 반드시 끝까지 정독한 뒤 진행하세요.

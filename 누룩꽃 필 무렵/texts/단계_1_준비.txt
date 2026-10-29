@@ -36,7 +36,7 @@ https://cdn1.suno.ai/06eefbe7-e66d-4a06-950c-a1617b63ce7c.mp3
 
   <div class="section-title">3. 전체 게임 단계 흐름</div>
   <p>
-    본 시나리오는 다음과 같이 총 8단계로 순차 진행됩니다.
+    본 시나리오는 다음과 같이 총 10단계로 순차 진행됩니다.
   </p>
   <table class="data-table text-center">
     <thead>
@@ -51,35 +51,39 @@ https://cdn1.suno.ai/06eefbe7-e66d-4a06-950c-a1617b63ce7c.mp3
         <td>무제한</td>
       </tr>
       <tr>
-        <td><strong>2단계: 소개</strong></td>
-        <td>10분</td>
-      </tr>
-      <tr>
-        <td><strong>3단계: 조사</strong></td>
-        <td>20분</td>
-      </tr>
-      <tr>
-        <td><strong>4단계: 발견</strong></td>
-        <td>20분</td>
-      </tr>
-      <tr>
-        <td><strong>5단계: 시험</strong></td>
-        <td>20분</td>
-      </tr>
-      <tr>
-        <td><strong>6단계: 마지막 단서</strong></td>
-        <td>40분</td>
-      </tr>
-      <tr>
-        <td><strong>7단계: 폭로</strong></td>
-        <td>5분</td>
-      </tr>
-      <tr>
-        <td><strong>8단계: 사건의 전말</strong></td>
+        <td><strong>2단계: 연습</strong></td>
         <td>무제한</td>
       </tr>
       <tr>
-        <td><strong>9단계: 에필로그</strong></td>
+        <td><strong>3단계: 소개</strong></td>
+        <td>10분</td>
+      </tr>
+      <tr>
+        <td><strong>4단계: 조사</strong></td>
+        <td>20분</td>
+      </tr>
+      <tr>
+        <td><strong>5단계: 발견</strong></td>
+        <td>20분</td>
+      </tr>
+      <tr>
+        <td><strong>6단계: 시험</strong></td>
+        <td>20분</td>
+      </tr>
+      <tr>
+        <td><strong>7단계: 마지막 단서</strong></td>
+        <td>40분</td>
+      </tr>
+      <tr>
+        <td><strong>8단계: 폭로</strong></td>
+        <td>5분</td>
+      </tr>
+      <tr>
+        <td><strong>9단계: 사건의 전말</strong></td>
+        <td>무제한</td>
+      </tr>
+      <tr>
+        <td><strong>10단계: 에필로그</strong></td>
         <td>무제한</td>
       </tr>
     </tbody>
@@ -89,13 +93,13 @@ https://cdn1.suno.ai/06eefbe7-e66d-4a06-950c-a1617b63ce7c.mp3
   </p>
 
   <div class="section-title">4. 진행 방식 및 공통 규칙</div>
-  <p>2단계인 '소개'에서는 각자의 역할을 연기하며 주어진 대본을 순서대로 낭독하는 <strong>대본 리딩</strong> 방식으로 진행되며 상호 심문은 진행하지 않습니다. 본격적인 심문과 조사가 시작되는 3~6단계는 <span class="highlight">단서</span> 탭을 통해 개인 단서를 획득하며, 아래의 원칙에 따라 조사를 진행하십시오.</p>
+  <p>2단계인 '연습'에서는 이 작품만의 대화 방식을 짧게 익힙니다. 3단계인 '소개'에서는 각자의 역할을 연기하며 주어진 대본을 순서대로 낭독하는 <strong>대본 리딩</strong> 방식으로 진행되며 상호 심문은 진행하지 않습니다. 본격적인 심문과 조사가 시작되는 4~7단계는 <span class="highlight">단서</span> 탭을 통해 개인 단서를 획득하며, 아래의 원칙에 따라 조사를 진행하십시오.</p>
   <ul>
     <li><span class="highlight">당신은 누구인가</span>: 배경 이야기입니다.</li>
     <li><span class="highlight">당일 타임라인</span>: 사건 당일의 시간대별 행동 기록입니다. 다른 사람과 맞춰보며 모순을 찾아내십시오.</li>
     <li><span class="highlight">당신의 어두운 면</span>: 어떠한 경우에도 자의적으로 공개해서는 안 됩니다. 어두운 면은 '당신의 비밀'에 의해 자연스럽게 드러나게 됩니다.</li>
     <li><span class="highlight">당신이 아는 것</span>: 해당 단계에서 반드시 이야기해야 합니다.</li>
-    <li><span class="highlight">당신의 비밀</span>: 해당 단계 혹은 이후 단계에서 다른 사람에 의해 추궁당할 때 밝혀져야 합니다. 이번 단계에서 미처 추궁받지 못해 말하지 못한 비밀이 있다면, 다음 단계들에서 질문을 받았을 때 털어놓을 수 있습니다. (단, 6단계 '마지막 단서' 단계가 끝날 때까지는 각자의 모든 '아는 것'과 '비밀'이 남김없이 공유되어야만 합니다.)</li>
+    <li><span class="highlight">당신의 비밀</span>: 해당 단계 혹은 이후 단계에서 다른 사람에 의해 추궁당할 때 밝혀져야 합니다. 이번 단계에서 미처 추궁받지 못해 말하지 못한 비밀이 있다면, 다음 단계들에서 질문을 받았을 때 털어놓을 수 있습니다. (단, 7단계 '마지막 단서' 단계가 끝날 때까지는 각자의 모든 '아는 것'과 '비밀'이 남김없이 공유되어야만 합니다.)</li>
     <li><span class="highlight">비밀 단서</span>: 이야기가 진행되면서 자연스럽게 공개됩니다.</li>
     <li>
       <span class="highlight">발언 순서 지키기(온라인 음성 진행 시)</span>: 디스코드 등 음성 채널로 진행할 경우, 목소리가
@@ -109,7 +113,7 @@ https://cdn1.suno.ai/06eefbe7-e66d-4a06-950c-a1617b63ce7c.mp3
     이 작품에는 일반적인 머더 미스터리 작품과는 다른 매우 특수한 규칙이 존재합니다.
   </p>
   <ul>
-    <li><span class="highlight">범인 무지 원칙</span>: <strong>범인은 8단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 어쩌면 자신의 역할이 모든 것을 다 말하지 않고 있을지도 모르죠. 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다. 자신이 맡은 역할이 범인으로 지목된다고 해서 실패하는 것은 아님을 명심하십시오. 같은 이유로, 7단계(폭로)에서 '누가 범인인가?'를 답할 때 <strong>자기 자신을 지목하는 것도 얼마든지 가능합니다.</strong></li>
+    <li><span class="highlight">범인 무지 원칙</span>: <strong>범인은 9단계(사건의 전말)가 끝나기 전까지 자신이 살인자라는 사실을 알 수 없습니다.</strong> 어쩌면 자신의 역할이 모든 것을 다 말하지 않고 있을지도 모르죠. 따라서 모든 플레이어는 스스로도 진범일 수 있다는 사실을 열어두고 의심해야 합니다. 자신이 맡은 역할이 범인으로 지목된다고 해서 실패하는 것은 아님을 명심하십시오. 같은 이유로, 8단계(폭로)에서 '누가 범인인가?'를 답할 때 <strong>자기 자신을 지목하는 것도 얼마든지 가능합니다.</strong></li>
     <li><span class="highlight">답변 및 거짓말 원칙</span>: 누군가의 질문에 노골적인 거짓말을 지어낼 수는 없습니다. 단, 답변을 회피하거나 교묘하게 말을 돌리는 것은 허용됩니다.</li>
     <li><span class="highlight">질문 및 떠보기 주의</span>: 다른 역할이 가진 당신에 대한 '아는 것' 정보는 무조건 진실로 간주됩니다. 따라서 상대방은 당신의 정보를 진실로 믿을 수밖에 없으므로, 거짓 정보로 상대를 '떠보는' 심문은 자제해 주십시오.</li>
   </ul>
@@ -138,30 +142,17 @@ https://cdn1.suno.ai/06eefbe7-e66d-4a06-950c-a1617b63ce7c.mp3
   <div class="section-title">6. 승리 조건 및 마무리</div>
   <ul>
     <li>
-      <span class="highlight">최종 추리</span>: 7단계(폭로)에서 <strong>'질문과 답변'</strong> 기능을 통해 최종 추리를 제출하게 됩니다. <strong>누가 범인인가? 어떻게 죽였는가? 왜 죽였는가?</strong> 세 가지 핵심 질문에 대해 시스템에 주어진 객관식 보기 중 하나를 선택하여 답안을 제출하십시오.
+      <span class="highlight">최종 추리</span>: 8단계(폭로)에서 <strong>'질문과 답변'</strong> 기능을 통해 최종 추리를 제출하게 됩니다. <strong>누가 범인인가? 어떻게 죽였는가? 왜 죽였는가?</strong> 세 가지 핵심 질문에 대해 시스템에 주어진 객관식 보기 중 하나를 선택하여 답안을 제출하십시오.
     </li>
     <li>
-      <span class="highlight">진상 공개</span>: 8단계(사건의 전말)에서 각 플레이어는 지정된 순서에 따라 대본을 읽습니다. 이 과정에서 사건의 모든 진상이 밝혀집니다.
+      <span class="highlight">진상 공개</span>: 9단계(사건의 전말)에서 각 플레이어는 지정된 순서에 따라 대본을 읽습니다. 이 과정에서 사건의 모든 진상이 밝혀집니다.
     </li>
     <li>
-      <span class="highlight">승리 판정</span>: 진상이 모두 공개된 후, 7단계에서 제출한 객관식 질문의 정답을 가장 많이 맞힌 플레이어가 이 게임의 최종 승리자가 됩니다.
+      <span class="highlight">승리 판정</span>: 진상이 모두 공개된 후, 8단계에서 제출한 객관식 질문의 정답을 가장 많이 맞힌 플레이어가 이 게임의 최종 승리자가 됩니다.
     </li>
   </ul>
 
-  <div class="section-title">7. 대화 연습</div>
-  <p>
-    본격적인 조사에 앞서, 이 작품만의 대화 방식을 짧게 연습합니다. 연습은 작품 내용과 전혀 관계없는 가상의 상황이며, 이후 단계에는 영향을 주지 않습니다. 연습에서도 서로를 캐릭터명으로 부르십시오. 역할 정보를 모두 읽었다면 하단의 <span class="highlight">단서</span> 탭에서 <span class="highlight">[연습] 당신이 아는 것</span>과 <span class="highlight">[연습] 당신의 비밀</span>을 확인하십시오.
-  </p>
-  <ul>
-    <li>'아는 것'은 항목마다 한 번에 한 가지씩 따로 말하십시오. 한꺼번에 읽지 마십시오.</li>
-    <li>다른 사람이 말하는 도중에는 끼어들지 마십시오. 말을 마치면 "여기까지입니다"라고 알려 주십시오.</li>
-    <li>'비밀'은 누군가 관련된 이야기를 꺼내거나 물었을 때만 털어놓으십시오.</li>
-  </ul>
-  <p>
-    연습 단서의 모든 항목이 공유되면 연습이 끝납니다.
-  </p>
-
-  <div class="section-title">8. 다음 단계 안내</div>
+  <div class="section-title">7. 다음 단계 안내</div>
   <p>
     단계 설명과 역할 숙지가 끝났다면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 이동해 주십시오. 게임이 시작되었습니다. 행운을 빕니다!
   </p>
