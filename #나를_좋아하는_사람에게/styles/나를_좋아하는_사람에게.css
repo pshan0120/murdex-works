@@ -459,6 +459,30 @@
     font-weight: 800;
 }
 
+/* 김두환 - 창업주. 바랜 금빛, 오래된 권위 */
+.story-content .character-kimduhwan {
+    color: #b59a5b !important;
+    font-weight: 700;
+}
+
+/* 김영철 - 현 회장. 탁한 자줏빛, 모습을 드러내지 않는 위압 */
+.story-content .character-kimyeongcheol {
+    color: #8f79a8 !important;
+    font-weight: 700;
+}
+
+/* 유희철 - 인사 쪽 실세였던 인물. 칙칙한 올리브, 웃는 얼굴 뒤의 그림자 */
+.story-content .character-yoohuicheol {
+    color: #8c8c5e !important;
+    font-weight: 700;
+}
+
+/* 정태호 - 여문혁의 옛 부하. 빛바랜 모래색, 소식이 끊긴 사람 */
+.story-content .character-jeongtaeho {
+    color: #a8927a !important;
+    font-weight: 700;
+}
+
 /* PPT 및 문서 표현 (옛 회사 기록·수첩·도면 느낌) */
 .story-content .document-page {
     font-family: "Gowun Batang", serif;
@@ -790,6 +814,30 @@
     color: #6f94b3;
     border-bottom: 2px solid #6f94b3;
     background: rgba(52, 80, 107, 0.15);
+}
+
+.story-content .speaker-kimduhwan .speaker-label {
+    color: #b59a5b;
+    border-bottom: 2px solid #b59a5b;
+    background: rgba(181, 154, 91, 0.08);
+}
+
+.story-content .speaker-kimyeongcheol .speaker-label {
+    color: #8f79a8;
+    border-bottom: 2px solid #8f79a8;
+    background: rgba(143, 121, 168, 0.08);
+}
+
+.story-content .speaker-yoohuicheol .speaker-label {
+    color: #8c8c5e;
+    border-bottom: 2px solid #8c8c5e;
+    background: rgba(140, 140, 94, 0.08);
+}
+
+.story-content .speaker-jeongtaeho .speaker-label {
+    color: #a8927a;
+    border-bottom: 2px solid #a8927a;
+    background: rgba(168, 146, 122, 0.08);
 }
 
 /* 결정적 발언 강조 */

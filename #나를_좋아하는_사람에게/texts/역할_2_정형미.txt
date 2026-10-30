@@ -11,10 +11,10 @@ RoleID : (미정)
 2
 
 4. 역할 요약
-
+"다들 바쁘신데 오래 붙잡지 않을게요." 이번 소동을 정리하러 나선 조직문화팀 차장.
 
 5. 이미지생성용 프롬프트
-
+Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject placed slightly left of center, looking just past the viewer. A composed Korean woman in her early 40s, a manager on a conglomerate's organizational culture team. Small, slim build with an upright, quietly athletic posture. Shoulder-length dark hair tied in a neat low ponytail, calm attentive eyes and a practiced, courteous professional smile. She wears a belted camel trench coat over a steel-blue blouse and dark slacks, and holds a slim tablet against her chest. Background: a dim meeting room inside an old two-story corporate archive building at night, long conference table, cold fluorescent light, old framed photographs on the wall slightly out of focus, dark window behind her. Semi-realistic digital painting, cinematic low-key lighting, desaturated steel-blue and navy palette with the steel-blue accent, subtle film grain, quiet tension. No text, no letters, no words.
 
 6. 역할 이미지
 (무시 - 사용자 직접 업로드 예정)
@@ -25,10 +25,41 @@ RoleID : (미정)
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
       <p>
+        며칠 전, 사내 메신저 전사 단체방에 낯 뜨거운 장문의 고백글 하나가 올라왔다. 올린
+        사람은 사료관리팀 <span class="character-nohyeongcheol">노형철</span> 대리. 누가 봐도
+        같은 팀 동료에게 쓴 글이었다. 문제는 그 팀에 여자가 단 한 명뿐이라는 것.
+        이름 한 글자 나오지 않았는데도, 얼마 지나지 않아 "그 글,
+        <span class="character-jeongjunhee">정준희</span> 얘기 아니야?"라는 소문이 따라붙었다.
+      </p>
+      <p>
+        글 하나로 시작된 소동이 순식간에 회사 전체의 화젯거리가 되자, 회장 직속 조직문화팀의
+        <span class="character-jeonghyeongmi">정형미</span> 차장이 정식으로 진상조사 자리를
+        마련했다. 자리는 오늘 저녁, 사료관리팀이 일하는 역사관에서 열린다. 글을 올린 사람도
+        소문의 당사자도 모두 그곳 직원인 데다, 역사관이 곧 철거될 예정이라 그 전에 직접 가서
+        매듭짓자는 것이었다.
       </p>
     </div>
     <ul class="info-list">
       <li>
+        <strong>DH그룹</strong>: 1980년 섬유·직물 무역회사 두환상사로 출발해, 수십 년 사이
+        지금의 대기업으로 성장했다. 창업주 <span class="character-kimduhwan">김두환</span>의 뒤를 이어 지금은 외아들 <span class="character-kimyeongcheol">김영철</span>이 회장을
+        맡고 있다.
+      </li>
+      <li>
+        <strong>사내 메신저</strong>: 전 직원이 들어가 있는 전사 단체방과 부서·팀별 단체방이
+        함께 돌아가는 사내 공용 메신저. 메시지마다 올린 사람의 이름이 표시된다.
+      </li>
+      <li>
+        <strong>역사관</strong>: 교외에 있는 작은 2층 건물로, 회사의 옛 자료와 기록을 보관하고
+        전시한다. 사료관리팀 사무실도 이 건물 2층에 있다. 곧 철거될 예정이다.
+      </li>
+      <li>
+        <strong>사료관리팀</strong>: 회사의 역사를 정리하고 역사관을 관리하는 부서. 사내에서는
+        실권 없는 한직으로 통한다.
+      </li>
+      <li>
+        <strong>조직문화팀</strong>: 회장 직속 부서로, 사내 갈등이나 이번 같은 소동을 조사하고
+        수습하는 일을 맡는다.
       </li>
     </ul>
   </section>
@@ -37,6 +68,24 @@ RoleID : (미정)
     <div class="section-title">특징</div>
     <ul>
       <li>
+        <strong>직급</strong>: 차장
+      </li>
+      <li>
+        <strong>소속</strong>: 조직문화팀. 회장 직속인 경영지원본부 아래에서 사내 갈등과 소동을
+        조사하고 수습하는 부서로, 오늘 미팅을 주재하는 것도 당신이다.
+      </li>
+      <li>
+        <strong>사번</strong>: 01315. 2007년 공채로 입사할 때 받은 번호다.
+      </li>
+      <li>
+        <strong>투수의 감각</strong>: 고등학교부터 대학 시절까지 사회인 소프트볼 동호회에서 투수로
+        뛰었다. 공을 놓은 지 오래지만, 무언가를 돌려 던져 원하는 곳에 맞히는 감각은 지금도 몸에
+        남아 있다. 지난 몇 년 동안 허리띠 하나로
+        투석구를 만들어 쓰는 법을 혼자 익혀왔다.
+      </li>
+      <li>
+        <strong>소방수</strong>: 회장 일가의 뒷일을 흔적 없이 정리하는 비공식 조직 "소방수"를
+        이끌고 있다.
       </li>
     </ul>
   </section>
@@ -44,20 +93,256 @@ RoleID : (미정)
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
     <p>
+      고등학교 2학년 때, 정형미는 동네 사회인 소프트볼 동호회에 들어갔다. 나이도 직업도 제각각인
+      사람들 틈에서 그녀가 맡은 자리는 투수였다. 체구가 작아 빠른 공은 던지지 못했다. 대신
+      그녀에게는 제구가 있었다. 팔을 크게 한 바퀴 돌리다 손을 놓는 그 찰나, 공이 어디로 갈지
+      그녀는 언제나 알고 있었다. 대학을 마칠 때까지 주말이면 빠짐없이 마운드에 섰다.
+    </p>
+    <p>
+      2007년, 대학을 졸업하고 DH그룹에 공채로 입사하면서 마운드와는 멀어졌다. 배치된 곳은 인사
+      쪽, 사내 고충과 제보를 받는 창구였다. 사람들은 저마다 억울한 얘기를 들고 찾아왔고, 정형미는 그 얘기들이 결국 어디로 흘러가 어떻게
+      끝나는지를 지켜봤다. 회사에서 끝내 이기는 쪽은 언제나 힘을 쥔 쪽이었다. 옳고 그름은 그다음
+      문제였다.
+    </p>
+    <p>
+      2013년 무렵, 한 직원이 그녀를 찾아왔다. 회장 일가의 비리에 관한 자료를 들고 와서는, 자기
+      이름만은 꼭 지켜달라고 몇 번이나 부탁했다. 정형미는 고개를 끄덕였다. 그리고 며칠 뒤, 그
+      자료와 제보자의 이름을 함께 들고 회장을 직접 찾아갔다. 망설임은 길지 않았다. 이 회사에서 그
+      자료가 갈 수 있는 곳은 어차피 한 군데뿐이었다. 그렇다면 그걸 들고 가는 사람은 자신이어야
+      했다. 제보자는 몇 달 뒤 권고사직으로 회사를 떠났다.
+    </p>
+    <p>
+      이듬해 인사 쪽 조직이 조직문화팀으로 바뀌었다. 초대 팀장은
+      <span class="character-yoohuicheol">유희철</span>이었고, 정형미는 그의 밑으로 옮겨졌다.
+      회장이 붙여준 자리라는 건 굳이 말하지 않아도 알 수 있었다.
+      <span class="character-yoohuicheol">유희철</span>은 그녀에게 일을 하나씩 가르쳤다. 불이
+      번지기 전에 끄는 법. 불이 났었다는 사실조차 아무도 모르게 하는 법. 그들 사이에서 그 일은
+      "소방수"라고 불렸다.
+    </p>
+    <p>
+      "손에 아무것도 들지 않고 끝낼 수 있는 방법을 하나쯤 가지고 있어야 해." 어느 날
+      <span class="character-yoohuicheol">유희철</span>이 그녀가 학생 때 소프트볼 투수였다는 얘기를
+      듣고 한 말이었다. 정형미는 그 말을 오래 곱씹었다. 그 뒤 몇 년 동안, 아무도 없는 밤이면 허리띠
+      하나를 접어 돌을 감싸고 돌리는 연습을 했다. 팔을 돌리다 놓는 찰나의 감각은 마운드 위에서와
+      똑같았다. 게다가 이번에는 힘도 필요 없었다. 작은 체구로도 충분했다.
+    </p>
+    <p>
+      2년 전, <span class="character-yoohuicheol">유희철</span>이
+      <span class="character-yeomoonhyeok">여문혁</span>이라는 노인을 처리하러 나섰다. 회사의
+      오래된 비밀을 너무 많이 캐낸 사람이었다. 그날 이후 두 사람 모두 돌아오지 않았다. 둘이 함께
+      끝났다는 것을 정형미는 알고 있다. 그리고 <span class="character-yeomoonhyeok">여문혁</span>이
+      모아뒀다는 증거는 끝내 어디에서도 나오지 않았다.
+      <span class="character-yoohuicheol">유희철</span>의 빈자리는 자연스럽게 그녀의 몫이 됐다.
+    </p>
+    <p>
+      회장은 그녀에게 점점 더 많은 일을 맡겼다. 원래 그런 일을 오래 해온 사람이 따로 있었다.
+      전략실장 <span class="character-parkhyesu">박혜수</span>. 회장은 굳이 말하지 않았지만,
+      정형미는 자신이 그 사람의 다음 자리로 키워지고 있다는 걸 알았다. 그리고 요즘 회장이
+      <span class="character-parkhyesu">박혜수</span>를 예전처럼 보지 않는다는 것도. 그녀가 오래된
+      지출 기록을 자꾸 들춰본다는 얘기가 회장 귀에까지 들어가 있었다.
+    </p>
+    <p>
+      며칠 전 사내 메신저 단체방에 고백글이 올라왔을 때, 정형미는 처음엔 그저 귀찮은 해프닝으로
+      여겼다. 하지만 소문이 걷잡을 수 없이 번지자, 조직문화팀 차장으로서 손을 놓고 있을 수는
+      없었다. 글을 올린 사람이 하필 <span class="character-yeomoonhyeok">여문혁</span>이 있던
+      사료관리팀 직원이라는 게 조금 마음에 걸렸다. 정형미는 오늘 저녁 그 팀이 일하는 건물에서
+      진상조사 자리를 잡았다. 회사의 첫 사옥이었고, 지금은 다들 역사관이라고만 부르는 구 사옥이었다.
+      그때까지만 해도, 오늘 밤이 이렇게 흘러갈 줄은 몰랐다.
     </p>
   </section>
 
   <section class="content-section">
     <div class="section-title">타임라인</div>
+    <div class="subsection-title">■ 공통 행적</div>
     <ul class="goal-list">
       <li>
+        <strong>18:00</strong>: 역사관 1층 회의실에서 진상조사 미팅 시작.
+        <span class="character-jeonghyeongmi">정형미</span>,
+        <span class="character-yoojeongseok">유정석</span>,
+        <span class="character-nohyeongcheol">노형철</span>,
+        <span class="character-jeongjunhee">정준희</span> 네 명이 참석함
+      </li>
+      <li>
+        <strong>18:30</strong>: <span class="character-parkhyesu">박혜수</span>가 예정에 없이
+        미팅에 합류함
+      </li>
+      <li>
+        <strong>18:45</strong>: 잠깐씩 자리를 비웠던 사람들이 모두 돌아와, 다섯 명이 함께
+        미팅을 이어감
+      </li>
+      <li>
+        <strong>18:45 ~ 19:55</strong>: 미팅이 생각보다 길어짐. 중간에
+        <span class="character-jeonghyeongmi">정형미</span>가 조직문화 교육 영상을 틀기도 함
+      </li>
+      <li>
+        <strong>19:55</strong>: <span class="character-parkhyesu">박혜수</span>가 담배를
+        피우고 오겠다며 자리를 비움
+      </li>
+      <li>
+        <strong>20:10</strong>: <span class="character-jeonghyeongmi">정형미</span>가 미팅을
+        마무리하고, 다들 퇴근하기로 함
+      </li>
+    </ul>
+    <div class="subsection-title">■ 개인 행적</div>
+    <ul class="goal-list">
+      <li>
+        <strong>17:30 무렵</strong>: 구 사옥에 도착해 1층 회의실을 정리하고 미팅을 준비함
+      </li>
+      <li>
+        <strong>17:50</strong>: 1층 복도에서 퇴근하는 <span class="character-hadohoon">하도훈</span>과
+        마주쳐 가볍게 인사를 나눔
+      </li>
+      <li>
+        <strong>18:30</strong>: <span class="character-parkhyesu">박혜수</span>가 예정에 없이
+        들어와 "회장님이 이번 일을 재밌어하셔서, 제가 대신 좀 보러 왔어요"라고 함. 회장에게서 그런
+        얘기를 들은 적은 없었음
+      </li>
+      <li>
+        <strong>18:31</strong>: 확인할 시간을 벌려고 <span class="character-yoojeongseok">유정석</span>에게
+        <span class="character-nohyeongcheol">노형철</span>의 팀원 평가 기록을 가져다 달라고 함.
+        <span class="character-nohyeongcheol">노형철</span>도 화장실에 다녀오겠다며 나감
+      </li>
+      <li>
+        <strong>18:34</strong>: <span class="character-yoojeongseok">유정석</span>이 자료를 들고
+        돌아옴. 자료를 훑어보는 척하며 어떻게 확인할지 궁리함
+      </li>
+      <li>
+        <strong>18:36</strong>: "팀장님과 잠깐 따로 얘기 좀 하시죠"라며
+        <span class="character-yoojeongseok">유정석</span>과 함께 건물 서쪽 흡연구역으로 나감.
+        <span class="character-nohyeongcheol">노형철</span> 얘기를 나누며 담배를 피우는 사이, 회장에게
+        몰래 메시지를 보냄. "전략실장님이 와 계십니다. 회장님께서 보내신 겁니까?"
+      </li>
+      <li>
+        <strong>18:45</strong>: <span class="character-yoojeongseok">유정석</span>과 함께 회의실로
+        돌아옴
+      </li>
+      <li>
+        <strong>18:45 ~ 19:55</strong>: 회장의 회신이 오지 않아 미팅을 끝낼 수 없었음. 조직문화
+        교육 영상을 틀어놓는 식으로 시간을 끎
+      </li>
+      <li>
+        <strong>19:58</strong>: 회장에게서 회신이 옴. 한 줄이었음. "오늘 정리해."
+      </li>
+      <li>
+        <strong>20:00</strong>: "저도 담배 좀"이라며 자리를 비우고 정문으로 나감
+      </li>
+      <li>
+        <strong>20:01</strong>: 서쪽 흡연구역에 <span class="character-parkhyesu">박혜수</span>가
+        없었음. 이상하게 여겨 건물을 한 바퀴 돌아보기로 하고 북쪽 화단 쪽으로 걸어감
+      </li>
+      <li>
+        <strong>20:04</strong>: 동쪽으로 도는 순간 2층 창가에서 담뱃불을 봄. 이 건물에서 담배를
+        피우는 건 당신과 <span class="character-yoojeongseok">유정석</span>,
+        <span class="character-parkhyesu">박혜수</span>뿐이고,
+        <span class="character-yoojeongseok">유정석</span>은 방금까지 회의실에 있었음.
+        <span class="character-parkhyesu">박혜수</span>라고 확신함. 트렌치코트 허리띠를 풀어
+        투석구를 만들고, 발밑 화단에서 알맞은 돌을 주움
+      </li>
+      <li>
+        <strong>20:06</strong>: 첫 발. 빗나가 벽에 맞음
+      </li>
+      <li>
+        <strong>20:07</strong>: 두 번째 발. 창가의 사람이 그대로 쓰러짐
+      </li>
+      <li>
+        <strong>20:07 ~ 20:10</strong>: 허리띠를 다시 코트에 매고, 정문으로 돌아옴
+      </li>
+      <li>
+        <strong>20:10</strong>: 회의실에 들어서자 <span class="character-parkhyesu">박혜수</span>가
+        앉아 있었음. 몹시 창백했지만 살아 있었음. 엉뚱한 사람을 맞혔다는 걸 깨닫고, 순간 표정을
+        감추지 못함. 서둘러 미팅을 마무리하고 다들 퇴근하라고 함. 모두 돌아간 뒤에 혼자 와서 2층을
+        정리할 생각이었음
       </li>
     </ul>
   </section>
 
   <section class="content-section">
     <div class="section-title">인물 관계</div>
+    <div class="subsection-title">
+      <span class="character-parkhyesu">박혜수에 대해</span>
+    </div>
     <p>
+      회장의 전임 해결사. 18년 전 <span class="character-yeomoonhyeok">여문혁</span>을 밀고한 것도,
+      2년 전 그에게 봉투를 전한 것도 그녀였다. 당신이 배운 일의 많은 부분은 그녀가 먼저 해온
+      일이다. 그런 사람이 오늘 회장의 이름을 팔고 이 자리에 나타났다. 회장의 회신은 짧았다. 그리고
+      지금 그녀는 살아서 앉아 있다. 담배를 핑계로 나가 어디에 있었는지, 무엇을 봤는지 알아내야 한다.
+    </p>
+    <p>
+      <strong>말투</strong>: 깍듯한 존댓말. 윗사람으로 예우하되, 조사를 주재하는 사람으로서 물을
+      것은 묻는다.
+    </p>
+
+    <div class="subsection-title">
+      <span class="character-yoojeongseok">유정석에 대해</span>
+    </div>
+    <p>
+      <span class="character-yoohuicheol">유희철</span>의 아들. 회장이 그의 아버지가 해온 일을 생각해
+      이른 나이에 팀장 자리를 줬다는 걸 안다. 그 자리는 <span class="character-yeomoonhyeok">여문혁</span>이
+      비운 자리였다. 그의 아버지가 처리하러 갔던 사람의 의자에 아들이 앉은 셈이다. 실권 없는 팀에 앉혀둔 것도 회장의 뜻이다. 본인은
+      아버지가 무슨 일을 했는지 전혀 모르는 눈치다. 당신에게는 스승의 아들인 셈이다. 18:36에
+      흡연구역에서 함께 있었던 사람이니, 그때 휴대폰을 만지던 당신을 눈여겨봤을지도 모른다.
+    </p>
+    <p>
+      <strong>말투</strong>: 공적인 존댓말. 팀장으로 대접하며 협조를 구하는 말투.
+    </p>
+
+    <div class="subsection-title">
+      <span class="character-nohyeongcheol">노형철에 대해</span>
+    </div>
+    <p>
+      그 고백글을 단체방에 올린 사료관리팀 대리. 오늘 조사의 당사자다. 미팅 내내 "그냥
+      장난이었다"며 넘어가려고만 했다. 그런데 그는 <span class="character-yeomoonhyeok">여문혁</span>이
+      있던 팀의 직원이다. 그 글이 어디서 나왔는지, 혹시 <span class="character-yeomoonhyeok">여문혁</span>이
+      남긴 것을 더 쥐고 있는지 알아내야 한다. 만약 그렇다면, 그건 소방수가 2년 동안 찾지 못한
+      것일 수도 있다.
+    </p>
+    <p>
+      <strong>말투</strong>: 조사하는 사람의 공적인 존댓말. 압박해야 할 때는 단호하게.
+    </p>
+
+    <div class="subsection-title">
+      <span class="character-jeongjunhee">정준희에 대해</span>
+    </div>
+    <p>
+      사료관리팀에 갓 들어온 신입. 팀에 여자가 그녀 하나뿐이라는 이유로 소문의 주인공이 됐다.
+      피해 상황을 진술하라고 부른 사람이다. 오늘 일과는 상관없는 사람이라고 보고 있다.
+    </p>
+    <p>
+      <strong>말투</strong>: 부드러운 존댓말. 피해자를 배려하는 조직문화팀 담당자의 말투.
+    </p>
+
+    <div class="subsection-title">
+      <span class="character-hadohoon">하도훈에 대해</span>
+    </div>
+    <p>
+      사료관리팀 주임. 17:50에 퇴근하는 그와 복도에서 직접 인사까지 나눴다. 그 뒤로 그가 이 건물에
+      돌아와 있었다는 건 알지 못했다.
+    </p>
+
+    <div class="subsection-title">
+      <span class="character-kimyeongcheol">김영철에 대해</span>
+    </div>
+    <p>
+      회장. 당신이 내린 계산의 답이었다. 당신의 충성이 계산이라는 걸 회장도 알고, 그래서 오히려
+      당신을 믿는다. 쓸모가 있는 동안은. 오늘 밤 그가 내린 지시를 당신은 아직 끝내지 못했다.
+      실수를 쉽게 넘기는 사람이 아니다.
+    </p>
+
+    <div class="subsection-title">
+      <span class="character-yoohuicheol">유희철에 대해</span>
+    </div>
+    <p>
+      당신에게 소방수 일을 가르친 사람. 손에 아무것도 들지 않고 끝내는 법을 가지라고 말해준
+      사람이기도 하다. 2년 전 <span class="character-yeomoonhyeok">여문혁</span>을 처리하러 갔다가
+      그와 함께 끝났다.
+    </p>
+
+    <div class="subsection-title">
+      <span class="character-yeomoonhyeok">여문혁에 대해</span>
+    </div>
+    <p>
+      2년 전 <span class="character-yoohuicheol">유희철</span>의 마지막 일. 회사의 오래된 비밀을
+      너무 많이 캐냈던 노인이다. 그가 모아뒀다는 증거는 아직 아무도 찾지 못했다.
     </p>
   </section>
 </div>
@@ -70,29 +355,122 @@ RoleID : (미정)
   </p>
   <ul>
     <li>
+      <strong>2층 창가를 쏜 사람</strong>: 20:06과 20:07, 건물 동쪽 화단에서 투석구로 2층 창가의
+      사람을 맞힌 건 당신이다. 이 사실이 드러나는 순간 모든 것이 끝난다.
+    </li>
+    <li>
+      <strong>원래 노린 사람</strong>: 당신이 노린 건 <span class="character-parkhyesu">박혜수</span>였고,
+      그건 회장의 지시였다. 이게 드러나면 화살은 당신을 넘어 회장에게까지 닿는다.
+    </li>
+    <li>
+      <strong>회장과 주고받은 메시지</strong>: 18:36 흡연구역에서 회장에게 몰래 메시지를 보냈고,
+      19:58에 "오늘 정리해"라는 회신을 받았다. 휴대폰이 열리면, 이 자리를 주재해온 당신이
+      처음부터 회장의 눈과 귀였다는 게 드러난다.
+    </li>
+    <li>
+      <strong>20:00 이후의 행적</strong>: 당신은 서쪽 흡연구역에서 담배만 피우다 돌아왔다고 말해야
+      한다. 실제로는 건물을 돌아 북쪽 화단을 거쳐 동쪽까지 갔다.
+    </li>
+    <li>
+      <strong>트렌치코트의 허리띠</strong>: 지금 코트에 매여 있는 허리띠가 투석구였다. 누군가 당신의
+      코트를 유심히 살피게 두어서는 안 된다.
+    </li>
+    <li>
+      <strong>투석구 연습</strong>: 학생 때 소프트볼을 했다는 얘기는 회식 자리에서 몇 번 한 적이
+      있지만, 몇 년 동안 혼자 투석구를 연습해왔다는 건 아무도 모른다. 이 둘이 이어지면 의심은 곧장 당신에게
+      향한다.
+    </li>
+    <li>
+      <strong>소방수</strong>: 당신이 소방수를 이끌고 있다는 것. 그리고 오늘 이곳으로 오고 있는
+      회장 쪽 사람들이 당신의 사람들이라는 것.
+    </li>
+    <li>
+      <strong>팔아넘긴 제보자</strong>: 2013년 무렵, 보호를 약속한 제보자를 회장에게 넘겼다. 조사를
+      맡은 사람이 그런 짓을 했다는 게 알려지면, 지금 당신이 하는 모든 말의 무게가 사라진다.
+    </li>
+    <li>
+      <strong>2년 전의 진실</strong>: <span class="character-yoohuicheol">유희철</span>과
+      <span class="character-yeomoonhyeok">여문혁</span>이 2년 전 함께 죽었다는 것을 당신은 알고 있다.
+      회사에는 둘 다 실종으로만 알려져 있다.
     </li>
   </ul>
 </div>
 
 9. 단계별 역할 지침
 
-[전반부 조사]
+[전반부 조사] (조사 1단계~추리 1단계: 역사관 1층·2층)
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표 - 정형미</div>
+    <div class="section-title">목표 - <span class="character-jeonghyeongmi">정형미</span></div>
     <ul class="goal-list">
       <li>
+        <strong>수사의 방향</strong>: 시신을 보며 처음 꺼낸 말, "뒤에서 누군가 가격했다, 범인은 그때
+        2층에 올라갔던 사람"이라는 틀을 지켜간다. 창밖에서 날아온 무언가에 맞았을 수 있다는 생각이
+        늦게 떠오를수록 당신에게 유리하다.
+      </li>
+      <li>
+        <strong>시선 돌리기</strong>: <span class="character-parkhyesu">박혜수</span>는 담배를
+        피우러 간다며 나갔는데, 서쪽 흡연구역에는 없었다. 그곳에 있었던 당신이 직접 확인한 사실이다.
+        그 시각 그녀가 어디에 있었는지 따져 묻는 건 조사를 주재하는 사람으로서 당연한 일이다. 다만
+        너무 일찍, 너무 세게 몰아붙이면 당신이 왜 그녀를 찾고 있었는지 되묻는 사람이 생긴다.
+      </li>
+      <li>
+        <strong>당신의 알리바이</strong>: 20:00부터 20:10까지는 서쪽 흡연구역에서 담배를 피웠다고
+        말한다. 정문으로 나가 서쪽으로 걸어간 것까지는 사실이니, 거기서 벗어나지 않는다.
+      </li>
+      <li>
+        <strong>고백글의 출처</strong>: <span class="character-nohyeongcheol">노형철</span>이 그 글을
+        어디서 구했는지, <span class="character-yeomoonhyeok">여문혁</span>이 남긴 것을 더 갖고
+        있는지 알아낸다. 조사를 맡은 사람의 질문이라면 누구도 이상하게 여기지 않는다.
+      </li>
+      <li>
+        <strong>조용한 수습</strong>: 경찰이 들어오면 휴대폰도, 코트도, 건물 바깥도 모두 조사
+        대상이 된다. 회장 쪽 사람들이 오고 있으니, 그때까지 일을 회사 안에 붙잡아둔다.
+      </li>
+      <li>
+        <strong>튀지 않기</strong>: 당신은 이 자리를 꾸린 담당자다. 침착하게 조사를 이끄는 모습
+        그대로 있는 것이 가장 좋은 위장이다.
       </li>
     </ul>
   </section>
 </div>
 
-[후반부 조사]
+[후반부 조사] (조사 2단계~추리 3단계: 옥상·1.5층)
 <div class="story-content">
   <section class="content-section">
-    <div class="section-title">목표 - 정형미</div>
+    <div class="section-title">목표 - <span class="character-jeonghyeongmi">정형미</span></div>
     <ul class="goal-list">
       <li>
+        <strong>소방수의 도착</strong>: 건물에 들이닥친 사람들은 당신의 사람들이다. 그래도 이
+        자리에서는 다른 사람들과 똑같이 놀라고 두려워해야 한다. 다섯 명과 함께 움직이며, 당신의
+        정체가 드러날 만한 행동은 하지 않는다.
+      </li>
+      <li>
+        <strong>여문혁이 남긴 것</strong>: 이 건물 어딘가에서 <span class="character-yeomoonhyeok">여문혁</span>이
+        모아둔 것이 나온다면, 그게 회장에게 닿는 증거인지 확인한다. 그런 것이라면 이 건물 밖으로
+        나가게 해서는 안 된다.
+      </li>
+      <li>
+        <strong>사다리</strong>: 사다리는 당신 손에 둔다. 소방수들이 따라오지 못하게 하겠다는
+        명분이면 아무도 이상하게 여기지 않는다.
+      </li>
+      <li>
+        <strong>범인 지목</strong>: 최종 질문 "<span class="character-hadohoon">하도훈</span>을
+        살해한 범인은 누구인가"에서 당신이 아닌 다른 사람이 지목되게 끝까지 이끈다. 그 시각 2층에
+        있었던 것으로 보이는 사람이 가장 그럴듯하다.
+      </li>
+      <li>
+        <strong>박혜수가 감춘 것</strong>: 최종 질문에서는 당신에게만 "<span class="character-parkhyesu">박혜수</span>가
+        담배를 핑계로 자리를 비운 동안 실제로 한 일은 무엇인가"를 따로 묻는다. 그녀는 흡연구역에
+        없었다. 그 시각 어디서 무엇을 했는지 캐낸다면, 그건 회장 앞에 내밀 수 있는 가장 확실한
+        카드가 된다.
+      </li>
+      <li>
+        <strong>탈출 순서</strong>: 이어서 "사다리를 맨 먼저 내려가, 아래에서 사다리를 붙잡고 있을
+        사람은 누구인가"를 묻는다. 낡은 사다리라 가장 가벼운 사람이 먼저 내려가 버티는지 봐야 한다는
+        말을 자연스럽게 꺼내고, "제가 제일 가벼우니 먼저 내려가서 잡고 있을게요"라고 나선다. 맨 먼저
+        내려가 아래에 혼자 서게 된다면, 그다음에 할 일은 이미 정해져 있다. 사다리를 치운다. 나머지는
+        소방수가 정리할 것이다.
       </li>
     </ul>
   </section>
