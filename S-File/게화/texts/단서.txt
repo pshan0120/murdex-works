@@ -376,7 +376,7 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 이름표 대신 이 사진 하나로 "연구원이 누구누구 있었는지", "클로이가 신입이고 이 날짜에 환영받았다는 것"을 추론하게 하는 물증. 포즈 순서와 뒷면 이름 순서를 왼쪽부터 나란히 대응시켜, 술병을 든 사람이 오웬이고 긴 머리의 오른쪽 끝 사람이 클로이라는 걸 플레이어가 직접 짝지어 추론하게 한다 — 3단계 통제 구역의 오웬 곁에 굴러다니는 빈 술병과 연결되고, 3단계 통제 구역 복도의 긴 머리카락과도 이어지므로 클로이는 이 팀의 유일한 여성이자 장발이어야 한다. 네 사람 모두 친해 보인다는 인상만 주고, 이후 벌어진 일과의 대비는 텍스트로 설명하지 않는다. 휴게실 한쪽의 작은 냉장고는 8/30 낮에 무알콜 칵테일 물병이 놓여 있던 장소를 위한 소품이라 내용물과 용도는 쓰지 않는다(2026-11-01 운영자 요청).
+의도 : 이름표 대신 이 사진 하나로 "연구원이 누구누구 있었는지", "클로이가 신입이고 이 날짜에 환영받았다는 것"을 추론하게 하는 물증. 포즈 순서와 뒷면 이름 순서를 왼쪽부터 나란히 대응시켜, 술병을 든 사람이 오웬이고 긴 머리의 오른쪽 끝 사람이 클로이라는 걸 플레이어가 직접 짝지어 추론하게 한다 — 3단계 통제 구역의 오웬 곁에 굴러다니는 빈 술병과 연결되고, 3단계 통제 구역의 클로이 시신(하얗게 센 긴 머리)과도 이어지므로 클로이는 이 팀의 유일한 여성이자 장발이어야 한다. 네 사람 모두 친해 보인다는 인상만 주고, 이후 벌어진 일과의 대비는 텍스트로 설명하지 않는다. 휴게실 한쪽의 작은 냉장고는 8/30 낮에 무알콜 칵테일 유리병이 놓여 있던 장소를 위한 소품이라 내용물과 용도는 쓰지 않는다(2026-11-01 운영자 요청).
 내용 :
 휴게실 한쪽에 작은 냉장고가 놓여 있고, 그 옆 벽에 사진 액자가 걸려 있다. 네 사람이 나란히 서서 포즈를 취하고 있다. 맨 왼쪽 남자는 옆 사람 어깨에 팔을 두르고 있고, 그 옆 남자는 한 손에 술병을 들어 보이고 있다. 세 번째 남자는 브이 자를 그리고 있고, 맨 오른쪽 여자는 긴 머리를 어깨 뒤로 넘기고 웃고 있다. 액자를 들어보니 뒷면에 짧은 글씨가 있다.
 
@@ -384,7 +384,7 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 HTML :
 <div class="story-content">
   <div class="script-direction">휴게실 한쪽에 작은 냉장고가 놓여 있고, 그 옆 벽에 사진 액자가 걸려 있다. 네 사람이 나란히 서서 포즈를 취하고 있다.</div>
-  <div>맨 왼쪽 남자는 옆 사람 어깨에 팔을 두르고 있고, 그 옆 남자는 한 손에 <span class="emphasis">술병</span>을 들어 보이고 있다. 세 번째 남자는 브이 자를 그리고 있고, 맨 오른쪽 여자는 긴 머리를 어깨 뒤로 넘기고 웃고 있다.</div>
+  <div>맨 왼쪽 남자는 옆 사람 어깨에 팔을 두르고 있고, 그 옆 남자는 한 손에 술병을 들어 보이고 있다. 세 번째 남자는 브이 자를 그리고 있고, 맨 오른쪽 여자는 긴 머리를 어깨 뒤로 넘기고 웃고 있다.</div>
   <div>액자를 들어보니 뒷면에 짧은 글씨가 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
@@ -415,16 +415,16 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 휴게실 안쪽 문이 이어진 바다 쪽 테라스. 관찰 가능한 사실만 보여 준다. 같은 모양의 빈 컵 네 개(연구원 수), 빈 유리 물병, 난간 바깥쪽 벽에 말라붙어 흘러내린 자국. 건배, 술, 칵테일, 누가 쏟았는지는 쓰지 않는다. 이곳에서 무언가를 난간 너머 바다로 쏟았다는 것만 먼저 알리고, 3단계 오웬의 중얼거림과 4단계 컴퓨터 문서가 그것을 확인해 준다(2026-11-01 운영자 결정: 쓰레기통의 빈 술병 단서를 테라스 단서로 교체. 오웬의 술버릇은 단체 사진의 술병과 3단계 오웬 곁의 빈 술병으로 전한다).
+의도 : 휴게실 안쪽 문이 이어진 바다 쪽 테라스. 관찰 가능한 사실만 보여 준다. 빈 컵 네 개(연구원 수), 빈 유리병, 난간 바깥쪽 벽에 남은 마른 자국. 건배, 술, 칵테일, 누가 쏟았는지는 쓰지 않는다. 이곳에서 무언가를 난간 너머 바다로 쏟았다는 것만 먼저 알리고, 3단계 오웬의 중얼거림과 4단계 컴퓨터 문서가 그것을 확인해 준다(2026-11-01 운영자 결정: 쓰레기통의 빈 술병 단서를 테라스 단서로 교체. 오웬의 술버릇은 단체 사진의 술병과 3단계 오웬 곁의 빈 술병으로 전한다. 2026-11-02 운영자 요청으로 오해를 살 표현을 고쳤다. "물병"은 그냥 물을 마신 것으로 읽힐 수 있어 "유리병"으로, "같은 모양의"는 중요하지 않아 뺐고, "길게 흘러내려"는 바다에 들어간 일 없이 벽에서 말라 버린 흔적처럼 읽힐 수 있어 "길게"를 뺐다. 같은 날 다시 "마른 자국이 남아 있다"로 줄이고 "컵 네 개", "마른 자국"의 강조도 뺐다).
 내용 :
 휴게실 안쪽 문이 바다 쪽 테라스로 이어져 있다.
-난간 앞 탁자 위에 같은 모양의 빈 컵 네 개와 빈 유리 물병이 하나 놓여 있다. 난간 바깥쪽 벽에는 마른 자국이 아래로 길게 흘러내려 있다.
+난간 앞 탁자 위에 빈 컵 네 개와 빈 유리병이 하나 놓여 있다. 난간 바깥쪽 벽에는 마른 자국이 남아 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">휴게실 안쪽 문이 바다 쪽 테라스로 이어져 있다.</div>
-  <div>난간 앞 탁자 위에 같은 모양의 빈 <span class="emphasis">컵 네 개</span>와 빈 유리 물병이 하나 놓여 있다. 난간 바깥쪽 벽에는 <span class="emphasis">마른 자국</span>이 아래로 길게 흘러내려 있다.</div>
+  <div>난간 앞 탁자 위에 빈 컵 네 개와 빈 유리병이 하나 놓여 있다. 난간 바깥쪽 벽에는 마른 자국이 남아 있다.</div>
 </div>
-이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: a clean, modern, well-maintained two-story government marine-observation station on the Maine coast built in the 2020s: clean pale painted concrete-block walls, gray linoleum floor indoors, ceiling fluorescent tubes, clean steel door with a window opening from the staff break room onto a spacious, neat outdoor seaside terrace. Subject: A spacious, clean outdoor seaside terrace outside the break room door on a gray overcast day: a neat table beside the terrace railing with four identical empty clear glass tumblers (drinking glasses, not paper cups) and one empty clear glass water pitcher, and on the clean pale concrete outer wall below the railing, a subtle, faint, translucent dried water-stain trail (left by a clear colorless liquid, pale chalky/evaporated residue, NOT dark, NOT brown, NOT red, NOT blood-like) running down toward the gray sea beyond. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: a clean, modern, well-maintained two-story government marine-observation station on the Maine coast built in the 2020s: clean pale painted concrete walls, modern windows and open break room door leading onto a spacious, wide outdoor seaside terrace overlooking the rocky coast and gray ocean. Subject: Medium-close view of a modern table set right beside the terrace railing and the outer concrete parapet wall below the railing on a gray overcast day. On the table, casually scattered as if four people stood around for a toast and set their glasses down (NOT lined up in a neat row, and NOT overlapping so all four are clearly countable), are four identical used lowball/rocks clear glass tumblers and one handleless waisted clear glass carafe (decanter-style glass bottle); both the carafe and the four glasses are mostly empty but show realistic used traces—droplets clinging to the inside glass walls and a thin residual film/puddle of clear liquid at the very bottom. On the exterior seaward gray concrete wall below the metal railing, there is a subtle, natural neutral-gray soaked-concrete moisture stain with a faint tide-line edge running vertically down where a clear colorless liquid was poured over the railing (purely a slightly darker damp-gray concrete tone with a faint water-ring outline—NO white or chalky streaks that look like milk, and NO red, brown, or black stains that look like blood or oil). No people in the frame. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 연구시설 - 일반 구역
 파일명 : 12_마커스_연구시설_6
 
@@ -520,12 +520,11 @@ groupId : d603888a-f347-40ff-b57a-6a65c5b5b9de
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 종이는 밀수 조직 시절 수뇌부 일곱 명이 서로를 팔지 않겠다고 서명한 서약서다(이름마다 필체가 다르다는 것으로 서명임을 전한다). 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사(두목 "프랭크 모란"과 조직원 여섯 명)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다.
+의도 : 보너스(진행과 무관). 서랍의 비밀번호는 집주인 본인의 이름이다 — 마커스가 조달 장부에서 찾아 전달한 "에드거"가 그대로 코드가 된다. 열리는 순간 "이 집이 에드거의 집"이라는 추리가 확인되는 효과도 있다. 안의 종이는 밀수 조직 시절 수뇌부 일곱 명이 서로를 팔지 않겠다고 서명한 서약서다(이름마다 필체가 다르다는 것으로 서명임을 전한다). 이름이 누구인지는 이 시점엔 알 수 없고, 3단계의 옛 수배 기사(두목 "프랭크 모란"과 조직원 여섯 명)와 이어져야 비로소 의미가 풀린다. 이름이 정확히 일곱 개라는 점은 해설하지 않는다. (2026-11-02 운영자 결정: 앞 문구에 이름표를 끼웠던 틈 묘사를 더해 입력할 말이 이름이라는 것만 장면으로 암시한다. 글자 수는 알리지 않는다.) (2026-11-02 운영자 결정: "한글로 입력해 주세요." 안내를 뺐다.) (2026-11-02 운영자 결정: 앞 문구에서 "암호를 입력해야 열릴 것 같다." 문장을 뺐다. 입력창이 이미 암호를 입력하게 한다.)
 질문 HTML :
 <div class="story-content">
   <div>침실 한쪽 서랍에 글자 자물쇠가 달려 있다.</div>
-  <div>암호를 입력해야 열릴 것 같다.</div>
-  <div class="passcode-guide">한글로 입력해 주세요.</div>
+  <div>서랍 앞면에는 이름표를 끼웠던 작은 틈이 비어 있다.</div>
 </div>
 내용 :
 잠긴 서랍에서 누렇게 바랜 종이 한 장이 나온다. 맨 위에 한 줄이 적혀 있고, 그 아래로 필체가 제각각인 이름이 줄줄이 이어진다.
@@ -679,7 +678,7 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 직원 풀네임(션 마이어스, 오웬 프라이스, 앨런 보이드, 클로이 라이언)이 정리되고, 구역별 출입 권한이 사람마다 다르다는 사실만 보여준다 — 클로이만 통제 구역에 들어갈 권한이 없다. 플레이어가 "클로이는 연구 구역까지만", "통제 구역은 무엇인가"를 추리하고, 3단계 통제 구역에서 만나는 클로이의 머리카락·시신의 의미가 이 표에서 풀린다. 해석은 쓰지 않는다. 마이어스만 아는 비밀 구역은 이 표에 나오지 않는다.
+의도 : 직원 풀네임(션 마이어스, 오웬 프라이스, 앨런 보이드, 클로이 라이언)이 정리되고, 구역별 출입 권한이 사람마다 다르다는 사실만 보여준다 — 클로이만 통제 구역에 들어갈 권한이 없다. 플레이어가 "클로이는 연구 구역까지만", "통제 구역은 무엇인가"를 추리하고, 3단계 통제 구역에서 만나는 클로이의 시신의 의미가 이 표에서 풀린다. 해석은 쓰지 않는다. 마이어스만 아는 비밀 구역은 이 표에 나오지 않는다.
 내용 :
 출입 통제 단말기에 직원별 출입 권한 표가 떠 있다.
 
@@ -870,12 +869,13 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 보너스(진행과 무관). 마커스는 장부에서 "에드거"라는 이름만 알고 성은 몰랐으므로(1단계 clue_09), 방대한 자료를 뒤질 검색어가 없다 — 베일라가 가족사진에서 본 "홀트"가 그 검색어가 된다. 열리면 정부 공급처 등록 때 에드거 홀트의 신원 조회가 이뤄지지 않았다는 것, 즉 그들이 가명을 쓰고 있다는 정보가 드러난다. 이 정보는 2차 통화로 베일라에게 전달돼 2단계에서 빠진 "가짜 가족 의심"의 자리를 대신한다(3단계).
+의도 : 보너스(진행과 무관). 마커스는 장부에서 "에드거"라는 이름만 알고 성은 몰랐으므로(1단계 clue_09), 방대한 자료를 뒤질 검색어가 없다 — 베일라가 가족사진에서 본 "홀트"가 그 검색어가 된다. 열리면 정부 공급처 등록 때 에드거 홀트의 신원 조회가 이뤄지지 않았다는 것, 즉 그들이 가명을 쓰고 있다는 정보가 드러난다. 이 정보는 2차 통화로 베일라에게 전달돼 2단계에서 빠진 "가짜 가족 의심"의 자리를 대신한다(3단계). (2026-11-02 운영자 결정: 앞 문구를 "거래처 조회 화면"과 입력창 안내문(placeholder "성 또는 상호"를 같은 날 "상호명 또는 대표자명"으로, 이어서 "상호명 또는 대표자"로 고침)으로 바꿨다. 같은 날 "한글로 입력해 주세요." 안내(passcode-guide)도 뺐다. 폴더 수백 개라는 묘사는 거래처가 그렇게 많을 수 없어 뺐다. 입력창은 컴퓨터 로그인 화면의 .login-screen 스타일을 그대로 쓰며 글자 수는 알리지 않는다.)
 질문 HTML :
 <div class="story-content">
-  <div>단말기에 옛 거래처 자료가 폴더 수백 개 분량으로 쌓여 있다.</div>
-  <div>너무 방대해서 어디서부터 찾아야 할지 모르겠다. 검색할 단어가 필요하다.</div>
-  <div class="passcode-guide">한글로 입력해 주세요.</div>
+  <div class="script-direction">단말기에 거래처 조회 화면이 표시되어 있다.</div>
+  <div class="login-screen">
+    <div class="login-field"><span class="login-placeholder">상호명 또는 대표자</span><span class="login-arrow">→</span></div>
+  </div>
 </div>
 내용 :
 단말기에서 "홀트" 자료를 찾아 열었다. 시설에 갑각류 표본을 납품하는 크래비스 섬의 정기 공급처로 등록된 기록이다.
@@ -1110,12 +1110,11 @@ groupId : e42273e7-745c-4332-9e41-5bc42c8aaf9f
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 보너스(진행과 무관). 레이가 연구소에 갑각류를 나르던 표본 운반 케이스 — 앨런이 장비를 지급하며 기본 암호를 자기 이름으로 해뒀고 레이는 바꾸지 않았다. 레이는 잠글 수 있는 유일한 상자라 개인 소지품과 함께 죄책감 때문에 몰래 모아둔 옛 신문 스크랩 두 장을 넣어뒀다(스크랩만 들어 있으면 연구시설이 넣어 보낸 것으로 오해할 수 있어 잡동사니 속에 끼어 있는 걸로 쓴다). 열면 정보 1·2·3(모란 일당의 정체, 에드거의 손등 화상, 아서 콜린스의 실종)이 한꺼번에 이어진다 — 두목 프랭크 모란이 에드거 서랍의 일곱 이름에 들어 있고, 두목과 조직원 여섯 명을 합친 일곱이 마을 사람 수와 같으며, 손등 화상이 에드거의 시신·사진과 맞는다. 수배 기사에는 두목 외의 이름을 쓰지 않는다(2026-10-28 운영자 결정: 모든 수배자를 언급할 필요가 없고, 이름이 많으면 오히려 헷갈린다). 로니를 가리는 소거는 이 기사에 기대지 않는다. "두목 + 손등 화상 = 에드거(프랭크 모란)"이고 쪽지의 "두목과 레너드가 죽었다"는 이미 죽은 에드거·월터이며, 받는 사람 지미·데비는 이 집 부부(레이·노라)이므로 남는 로니가 마지막 집 주인이다(톰의 쪽지와 조업 일정표만으로 풀린다). 사진 속 얼굴이 마을 사람과 닮았다는 식의 해석은 텍스트로 쓰지 않는다.
+의도 : 보너스(진행과 무관). 레이가 연구소에 갑각류를 나르던 표본 운반 케이스 — 앨런이 장비를 지급하며 기본 암호를 자기 이름으로 해뒀고 레이는 바꾸지 않았다. 레이는 잠글 수 있는 유일한 상자라 개인 소지품과 함께 죄책감 때문에 몰래 모아둔 옛 신문 스크랩 두 장을 넣어뒀다(스크랩만 들어 있으면 연구시설이 넣어 보낸 것으로 오해할 수 있어 잡동사니 속에 끼어 있는 걸로 쓴다). 열면 정보 1·2·3(모란 일당의 정체, 에드거의 손등 화상, 아서 콜린스의 실종)이 한꺼번에 이어진다 — 두목 프랭크 모란이 에드거 서랍의 일곱 이름에 들어 있고, 두목과 조직원 여섯 명을 합친 일곱이 마을 사람 수와 같으며, 손등 화상이 에드거의 시신·사진과 맞는다. 수배 기사에는 두목 외의 이름을 쓰지 않는다(2026-10-28 운영자 결정: 모든 수배자를 언급할 필요가 없고, 이름이 많으면 오히려 헷갈린다). 로니를 가리는 소거는 이 기사에 기대지 않는다. "두목 + 손등 화상 = 에드거(프랭크 모란)"이고 쪽지의 "두목과 레너드가 죽었다"는 이미 죽은 에드거·월터이며, 받는 사람 지미·데비는 이 집 부부(레이·노라)이므로 남는 로니가 마지막 집 주인이다(톰의 쪽지와 조업 일정표만으로 풀린다). 사진 속 얼굴이 마을 사람과 닮았다는 식의 해석은 텍스트로 쓰지 않는다. (2026-11-02 운영자 결정: "한글로 입력해 주세요." 안내를 뺐다.) (2026-11-02 운영자 결정: 앞 문구에서 "암호를 입력해야 열릴 것 같다." 문장을 뺐다. 입력창이 이미 암호를 입력하게 한다.)
 질문 HTML :
 <div class="story-content">
   <div>식탁 아래에 뚜껑이 달린 케이스가 놓여 있다. "메릴 카운티 해양생태 관측소 / 관리: A. 보이드"라고 적힌 라벨이 붙어 있다.</div>
-  <div>뚜껑에는 글자 자물쇠가 달려 있다. 암호를 입력해야 열릴 것 같다.</div>
-  <div class="passcode-guide">한글로 입력해 주세요.</div>
+  <div>뚜껑에는 글자 자물쇠가 달려 있다.</div>
 </div>
 내용 :
 케이스 안에는 낚시 바늘 통, 낡은 지갑, 라이터, 구겨진 영수증 같은 잡동사니가 들어 있다. 그 사이에 누렇게 바랜 신문 스크랩 두 장이 끼어 있다.
@@ -1201,45 +1200,49 @@ HTML :
 
 ※ (임시 초안 — 확정 전.)
 ※ 통제 구역은 인가자만 출입할 수 있는 구역이다(클로이를 제외한 인원만 가능 — 클로이는 몰래 들어왔다). 이 단계는 "진상의 입구"까지만 보여준다. 노화·건배·바다 유출·6개월치 가짜 보고서의 이유는 4단계 비밀 구역에서 알린다.
-※ 오웬은 치매 노인처럼 늙은 채 이 통제 구역에 숨어 지냈다. 외형과 자판기 간식, 술로 버틴 방식은 단계 지침으로 안내한다. 오웬의 중얼거림은 단서(#5)다. 두서없는 단편만 흘러나오고 진상을 직접 설명하지는 않는다.
+※ 오웬은 치매 노인처럼 늙은 채 이 통제 구역에 숨어 지냈다. 외형과 자판기 간식, 술로 버틴 방식은 단계 지침으로 안내한다. 오웬의 중얼거림은 단서(#4)다. 두서없는 단편만 흘러나오고 진상을 직접 설명하지는 않는다.
 ※ 시신은 2단계 앨런과 같은 방식(이름 자수, 신분증 장치 없음)으로 쓴다. 클로이의 정체(정부 감사 요원)는 이 단계에서 직접 드러내지 않는다. 클로이는 통제 구역을 조사하다 마이어스만 아는 비밀 구역이 있다는 것까지 알아냈으나 들어가는 법은 알아내지 못한 채 이곳에서 죽었다 — 시신에 비밀 구역으로 이어지는 힌트가 있다.
 
 
 [clue_32]
-이름 : 통제 구역#1
+이름 : 통제 구역#7
 clueId : 534f56a8-2c66-40d5-a426-5a264872ab45
 variantId : 9a18f5e3-61d8-4899-9b48-9624d245d8c9
 이미지 : (추후 업로드 예정)
 groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 유형 : 물증
 단계 : [통제 구역] (마커스, 3단계)
-소모AP : 1
-정렬순서 : 410
-중요도 : 높음
-핵심 단서 여부 : Y
+소모AP : 0
+정렬순서 : 480
+중요도 : 보통
+핵심 단서 여부 : N
 교환 가능 여부 : N
 획득 가능 여부 : Y
-획득 조건 존재 여부 : N
-획득 조건 내용 : 없음
+획득 조건 존재 여부 : Y
+획득 조건 내용 : 통제 구역#6(주머니 속 쪽지)을 조사하면 뒷면으로 추가 배치(연계 보조 단서)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 통제 구역에 클로이가 몰래 들어왔다는 흔적. 머리카락만 보여주고 누구의 것인지는 쓰지 않는다 — 플레이어가 1단계 사진의 긴 머리 여성(클로이)과 연결하고, 2단계 직원별 출입 권한 표(클로이만 통제 구역 권한 없음)와 겹쳐 읽는다. 정부 감사 요원이라는 정체는 드러내지 않는다.
+의도 : 연계 보조 단서. 클로이가 마이어스를 지켜보며 쪽지 뒷면에 적어 둔 짧은 메모다. 보관함(통제 구역#5)이 숫자 하나만 알면 열리는 잠금장치라는 것만 알리고, 어떤 숫자인지는 쓰지 않는다. 숫자는 베일라가 2차 통화로 전하는 "무한대 기호"(= 8)에서 얻어 세 칸 모두 같은 888로 추리한다. 메모를 쓴 사람, 지켜본 이유, 마이어스의 버릇에 대한 해석은 쓰지 않는다(2026-11-02 운영자 결정, 문구는 "Locker: one digit only"로 한다. 처음에는 한글 "보관함: 한 개의 숫자만"이었으나 배경이 미국이라 영어로 바꿨다. 앞면 쪽지(word, ution)처럼 암호와 직접 관련된 손글씨만 영어로 둔다. 이전의 통제 구역#1(복도의 긴 머리카락) 자리를 이 단서로 바꾸고 번호를 하나씩 당겼다).
+질문 HTML :
+<div class="story-content">
+  <div>쪽지 뒷면에 뭔가 적혀 있다.</div>
+</div>
 내용 :
-복도를 살펴본다.
-긴 머리카락이 떨어져 있다.
+쪽지를 뒤집자 뒷면에 짧은 메모가 적혀 있다.
+
+Locker: one digit only
 HTML :
 <div class="story-content">
-  <div class="script-direction">복도를 살펴본다.</div>
-  <div>긴 머리카락이 떨어져 있다.</div>
+  <div class="script-direction">쪽지를 뒤집자 뒷면에 짧은 메모가 적혀 있다.</div>
+  <div class="divider-gold"></div>
+  <div class="note-torn"><div class="note-torn-body"><div class="note-ink">Locker: one digit only</div></div></div>
 </div>
-이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: Close view of a restricted-zone corridor floor with a single long strand of hair lying on it under fluorescent light. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
+이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Restricted zone: bare concrete corridors and a heavy solid steel door, no windows. Subject: Close-up of the back of a torn, crumpled scrap of paper lying on a gray concrete floor, with one short line of hurried handwriting in dark ink. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 연구시설 - 통제 구역
-파일명 : 32_마커스_통제_구역_1
-
-
+파일명 : 32_마커스_통제_구역_7
 [clue_33]
-이름 : 통제 구역#2
+이름 : 통제 구역#1
 clueId : 922194de-012d-487e-a4ef-411dcca5286c
 variantId : 4cd2d59d-aa95-4cb7-a2d8-658e31f8a908
 이미지 : (추후 업로드 예정)
@@ -1257,7 +1260,7 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 클로이의 시신(급속 노화). 2단계 앨런과 같은 방식으로 이름 자수 "C. 라이언"과 하얗게 센 긴 머리로 신원을 알려, 1단계 사진의 긴 머리 여성과 복도의 긴 머리카락(#1)이 이어지게 한다. 클로이는 통제 구역을 조사하다 비밀 구역이 있다는 것까지 알아냈으나 들어가는 법은 알아내지 못했다 — 이 시신 단서를 얻으면 뒷면 단서 1개(통제 구역#7 연구복 주머니의 쪽지 "ution")가 AP 없이 추가로 배치된다. 15세 등급에 맞춰 암시적으로만 처리(10장).
+의도 : 클로이의 시신(급속 노화). 2단계 앨런과 같은 방식으로 이름 자수 "C. 라이언"과 하얗게 센 긴 머리로 신원을 알려, 1단계 사진의 긴 머리 여성과 이어지게 한다. 클로이는 통제 구역을 조사하다 비밀 구역이 있다는 것까지 알아냈으나 들어가는 법은 알아내지 못했다 — 이 시신 단서를 얻으면 뒷면 단서 1개(통제 구역#6 연구복 주머니의 쪽지 "ution")가 AP 없이 추가로 배치된다. 15세 등급에 맞춰 암시적으로만 처리(10장).
 내용 :
 복도 끝 벽 앞 바닥에 연구복을 입은 노인이 숨이 멎은 채 엎드려 있다. 긴 머리는 하얗게 셌고, 옆으로 돌아간 얼굴에는 깊은 주름이 패여 있다. 외상이나 혈흔은 보이지 않는다. 연구복은 몸에 비해 헐렁하고, 가슴께에는 "C. 라이언"이라는 이름이 수놓여 있다.
 HTML :
@@ -1271,7 +1274,7 @@ HTML :
 
 
 [clue_34]
-이름 : 통제 구역#3
+이름 : 통제 구역#2
 clueId : c7d5be80-0fd1-41cf-9f40-b861abdc118c
 variantId : a9d5a527-a187-4a67-a40b-0095f5ad33a4
 이미지 : (추후 업로드 예정)
@@ -1311,7 +1314,7 @@ HTML :
 
 
 [clue_35]
-이름 : 통제 구역#4
+이름 : 통제 구역#3
 clueId : a95cea97-709f-478f-80fc-aca0823a4be7
 variantId : c0f7bd0b-8b0d-4fc4-8d86-61df28387402
 이미지 : (추후 업로드 예정)
@@ -1352,7 +1355,7 @@ HTML :
 
 
 [clue_36]
-이름 : 통제 구역#5
+이름 : 통제 구역#4
 clueId : 9cefbbdf-f051-4fdf-8310-6b3e9e2bb4a2
 variantId : a840f56d-e6c4-4b36-ab5a-9acf84ee9334
 이미지 : (추후 업로드 예정)
@@ -1370,7 +1373,7 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 오웬의 중얼거림이 핵심 흔적이다(8-0 참고). 사고의 경위가 일어난 순서대로(낮에 몰래 바꾸자는 장난기, 건배, 조금만 마신 것, 맛이 이상해 다 쏟은 것) 두서없이 흘러나오지만, 오웬은 진상을 직접 설명하지 못하고 같은 말을 되풀이한다. 이름은 연구복의 이름 자수 "O. 프라이스"로 알린다(2026-11-01 운영자 결정: 중얼거림의 이름 줄을 뺌. 1단계 결재란 서명 "O. 프라이스", 사진 뒷면의 "오웬", 출입 권한표와 합쳐 같은 사람임을 플레이어가 잇는다). 같은 결정으로 앨런을 부르는 줄, 션이 부르는 줄, "…번째가 진짜야. 보관함에 있어" 줄도 뺐고(보관함 코드는 입력 안내로 얻는다), 이어서 "션이"(후반 단서에서 알게 됨), "바다에"(테라스의 흘러내린 자국이 알려 줌), "션도. 션도 취해 봐야지."(오웬은 그 칵테일을 션이 준비한 줄 몰랐음)도 뺐다. 해석과 결론은 쓰지 않는다.
+의도 : 오웬의 중얼거림이 핵심 흔적이다(8-0 참고). 사고의 경위가 일어난 순서대로(낮에 몰래 바꾸자는 장난기, 건배, 조금만 마신 것, 맛이 이상해 다 쏟은 것) 두서없이 흘러나오지만, 오웬은 진상을 직접 설명하지 못하고 같은 말을 되풀이한다. 이름은 연구복의 이름 자수 "O. 프라이스"로 알린다(2026-11-01 운영자 결정: 중얼거림의 이름 줄을 뺌. 1단계 결재란 서명 "O. 프라이스", 사진 뒷면의 "오웬", 출입 권한표와 합쳐 같은 사람임을 플레이어가 잇는다). 같은 결정으로 앨런을 부르는 줄, 션이 부르는 줄, "…번째가 진짜야. 보관함에 있어" 줄도 뺐고(보관함 코드는 입력 안내로 얻는다), 이어서 "션이"(후반 단서에서 알게 됨), "바다에"(테라스 난간 바깥쪽의 마른 자국이 알려 줌), "션도. 션도 취해 봐야지."(오웬은 그 칵테일을 션이 준비한 줄 몰랐음)도 뺐다. 해석과 결론은 쓰지 않는다.
 내용 :
 통제 구역 안쪽 구석에서 노인이 벽에 기대앉아 혼잣말을 중얼거리고 있다. 연구복 가슴께에는 "O. 프라이스"라는 이름이 수놓여 있다. 곁에는 빈 술병이 여러 개 굴러다닌다. 같은 말을 되풀이하다가 끊기곤 한다.
 
@@ -1379,7 +1382,7 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 "이상해. 맛이 이상해. 다 쏟아버렸어."
 HTML :
 <div class="story-content">
-  <div class="script-direction">통제 구역 안쪽 구석에서 노인이 벽에 기대앉아 혼잣말을 중얼거리고 있다. 연구복 가슴께에는 "<span class="emphasis">O. 프라이스</span>"라는 이름이 수놓여 있다. 곁에는 빈 <span class="emphasis">술병</span>이 여러 개 굴러다닌다. 같은 말을 되풀이하다가 끊기곤 한다.</div>
+  <div class="script-direction">통제 구역 안쪽 구석에서 노인이 벽에 기대앉아 혼잣말을 중얼거리고 있다. 연구복 가슴께에는 "<span class="emphasis">O. 프라이스</span>"라는 이름이 수놓여 있다. 곁에는 빈 술병이 여러 개 굴러다닌다. 같은 말을 되풀이하다가 끊기곤 한다.</div>
   <div class="divider-gold"></div>
   <div>"다 같이 취해야 재밌지. 몰래 바꾸자."</div>
   <div>"건배라고 했어. 건배, 건배… 조금만 마셨어."</div>
@@ -1391,7 +1394,7 @@ HTML :
 
 
 [clue_37]
-이름 : 통제 구역#6
+이름 : 통제 구역#5
 clueId : bb4d4e9d-fd77-4b4e-b899-b53e99de1932
 variantId : 825c8695-d1f7-41ed-97fe-37bd01312178
 이미지 : (추후 업로드 예정)
@@ -1405,16 +1408,14 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 암호 '8' 입력(2차 통화로 베일라에게 받은 "무한대 기호"를 숫자 8로 추리)
+획득 조건 내용 : 암호 '888' 입력(통제 구역#7 쪽지 뒷면 메모 "Locker: one digit only"과 2차 통화로 베일라에게 받은 "무한대 기호"(= 8)를 합쳐 세 칸 모두 8인 888로 추리)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 보너스(진행과 무관). 마이어스가 시제품을 7번 실패하고 8번째 배치에서 성공해 따로 보관한 최종 배치. 잠긴 칸의 번호가 지워져 있어, 마커스는 베일라가 그레이스의 쪽지에서 본 "무한대 기호"(= 8)를 번호로 넣어야 열린다 — 단서의 입력 안내("숫자로 입력해 주세요.")가 번호를 넣어야 한다는 것을 알려 준다(2026-11-01: 오웬의 중얼거림에서 보관함 줄을 뺌). "8=문어의 팔"과 "8번째 배치"라는 이중 의미가 생긴다. 열면 초록 재료(RB-CBP)로 합성한 결과물이 투명하고 무색무취라는 것이 드러난다 — 물처럼 보인다는 해석은 텍스트로 쓰지 않는다.
+의도 : 보너스(진행과 무관). 마이어스가 시제품을 7번 실패하고 8번째 배치에서 성공해 따로 보관한 최종 배치. 숫자 세 자리 자물쇠가 달린 작은 보관함이고(단서 이미지와 같은 모습) 정답은 888이다. 마커스는 쪽지 뒷면 메모(통제 구역#7)에서 숫자 하나만 알면 된다는 것을, 베일라가 그레이스의 쪽지에서 본 "무한대 기호"(= 8)에서 그 숫자를 얻어 888로 추리한다(2026-11-02 운영자 결정: 이전에는 번호가 줄지어 붙은 보관함의 한 칸에 숫자 8을 넣는 구조였으나 이미지와 맞지 않고 숫자의 근거가 베일라 쪽에만 있어 개연성이 약해 바꿨다. 오웬의 중얼거림에서는 2026-11-01에 보관함 줄을 뺐다). "8=문어의 팔"과 "8번째 배치"라는 이중 의미가 생긴다. 열면 초록 재료(RB-CBP)로 합성한 결과물이 투명하고 무색무취라는 것이 드러난다 — 물처럼 보인다는 해석은 텍스트로 쓰지 않는다. (2026-11-02 운영자 결정: 앞 문구에서 "번호를 입력해야 열릴 것 같다." 문장도 뺐다. 입력창이 이미 번호를 입력하게 한다.)
 질문 HTML :
 <div class="story-content">
-  <div>벽면에 번호가 붙은 보관함이 줄지어 있다. 대부분 비어 있고, 한 칸만 잠겨 있다.</div>
-  <div>잠긴 칸의 번호는 긁혀 지워져 있다. 번호를 입력해야 열릴 것 같다.</div>
-  <div class="passcode-guide">숫자로 입력해 주세요.</div>
+  <div>벽에 작은 보관함이 하나 있다. 문에는 숫자 세 자리 자물쇠가 달려 있다.</div>
 </div>
 내용 :
 보관함이 열린다. 안에는 투명한 액체가 든 유리병 하나와 종이 한 장이 들어 있다.
@@ -1437,7 +1438,7 @@ HTML :
 
 
 [clue_38]
-이름 : 통제 구역#7
+이름 : 통제 구역#6
 clueId : 8c2626c5-8c35-4363-aed8-525f41c6145b
 variantId : b1b730c1-83cd-4b4f-ae29-3ac7ec6ee021
 이미지 : (추후 업로드 예정)
@@ -1451,11 +1452,11 @@ groupId : 4649dabd-9abb-4d4a-b706-1b7106842025
 교환 가능 여부 : N
 획득 가능 여부 : Y
 획득 조건 존재 여부 : Y
-획득 조건 내용 : 통제 구역#2(클로이의 시신)를 조사하면 뒷면으로 추가 배치(연계 보조 단서)
+획득 조건 내용 : 통제 구역#1(클로이의 시신)을 조사하면 뒷면으로 추가 배치(연계 보조 단서)
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 연계 보조 단서. 마이어스가 출입 통제 단말에 치는 숨겨진 암호 "evolution"의 끝부분 "ution"만 알려주는 단서다 — 클로이는 그가 치는 걸 엿봤지만 끝부분만 봤고 어디에 쓰는지는 몰랐다. 쪽지는 "password"와 "evolution" 두 줄이 왼쪽에서 찢겨 "word"와 "ution"만 남은 모양이며(CSS .note-torn으로 찢어진 쪽지처럼 보이게 함), "word"는 이 쪽지가 암호에 관한 것이라는 점만 알린다. 플레이어에게는 지금 당장 무슨 의미인지 알 수 없고(ution은 execution, institution 등 흔한 어미라 정답을 좁힐 수 없다), 4단계 비밀 구역에서 "evolution"이 중요한 비밀코드가 되는 순간 의미가 풀린다. 연구가 아니라 입구·암호에 대한 단어다.
+의도 : 연계 보조 단서. 마이어스가 출입 통제 단말에 치는 숨겨진 암호 "evolution"의 끝부분 "ution"만 알려주는 단서다 — 클로이는 그가 치는 걸 엿봤지만 끝부분만 봤고 어디에 쓰는지는 몰랐다. 쪽지는 "password"와 "evolution" 두 줄이 왼쪽에서 찢겨 "word"와 "ution"만 남은 모양이며(CSS .note-torn으로 찢어진 쪽지처럼 보이게 함), "word"는 이 쪽지가 암호에 관한 것이라는 점만 알린다. 플레이어에게는 지금 당장 무슨 의미인지 알 수 없고(ution은 execution, institution 등 흔한 어미라 정답을 좁힐 수 없다), 4단계 비밀 구역에서 "evolution"이 중요한 비밀코드가 되는 순간 의미가 풀린다. 연구가 아니라 입구·암호에 대한 단어다. 이 쪽지를 조사하면 뒷면의 메모(통제 구역#7)가 AP 없이 추가로 배치된다(2026-11-02).
 질문 HTML :
 <div class="story-content">
   <div>시신의 연구복 주머니가 불룩하다.</div>
@@ -1697,12 +1698,10 @@ groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 베일라
-의도 : 연계 보조 단서이자 보너스(진행과 무관). 시신이 앞을 막고 있던 부엌 구석의 문(지하실 문)의 글자 자물쇠이고, 샘이 도망쳐 닿으려 했지만 열지 못한 곳이다. 코드는 이 집 주인의 실명 "로니"(성은 입력하지 않는다). 열면 20년 전 아서 콜린스의 최후를 적은 샘의 기록이 나온다. 에드거의 손등 화상을 알아본 아서가 살해당했고, 시신이 북쪽 만에 가라앉혀졌다는 것. 샘은 직접 가담하지 않고 지켜만 봤다(알고도 침묵한 공범). 기록은 샘의 1인칭이므로 그의 말 안에서만 쓰고, 서술자가 해석을 덧붙이지 않는다. 어슐라가 20년간 추적했다는 내용은 엔딩에서만 밝히므로 여기에 쓰지 않는다.
+의도 : 연계 보조 단서이자 보너스(진행과 무관). 시신이 앞을 막고 있던 부엌 구석의 문(지하실 문)의 글자 자물쇠이고, 샘이 도망쳐 닿으려 했지만 열지 못한 곳이다. 코드는 이 집 주인의 실명 "로니"(성은 입력하지 않는다). 열면 20년 전 아서 콜린스의 최후를 적은 샘의 기록이 나온다. 에드거의 손등 화상을 알아본 아서가 살해당했고, 시신이 북쪽 만에 가라앉혀졌다는 것. 샘은 직접 가담하지 않고 지켜만 봤다(알고도 침묵한 공범). 기록은 샘의 1인칭이므로 그의 말 안에서만 쓰고, 서술자가 해석을 덧붙이지 않는다. 어슐라가 20년간 추적했다는 내용은 엔딩에서만 밝히므로 여기에 쓰지 않는다. (2026-11-02 운영자 결정: "한글로 입력해 주세요." 안내를 뺐다.) (2026-11-02 운영자 결정: 앞 문구에서 "암호를 입력해야 열릴 것 같다." 문장을 뺐다. 입력창이 이미 암호를 입력하게 한다.)
 질문 HTML :
 <div class="story-content">
   <div>시신이 막고 있던 구석의 문에는 글자 자물쇠가 달려 있다.</div>
-  <div>암호를 입력해야 열릴 것 같다.</div>
-  <div class="passcode-guide">한글로 입력해 주세요.</div>
 </div>
 내용 :
 잠금이 풀린 문 안쪽으로 지하로 내려가는 계단이 이어진다. 계단 아래 선반 위에 낡은 노트 한 권이 놓여 있다. 첫 장에 이렇게 적혀 있다.
@@ -1835,7 +1834,7 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 마이어스가 이 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 적은 노트. 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다(게로의 수렴, 환경이 정한 모양, 포식자가 더 빠르고 더 영리하다는 것, 시간을 줄이는 것, 증명하겠다는 각오). 사람에 대한 언급은 쓰지 않는다. 마지막 장은 진지한 과학자의 각오로 쓴다. "진화"라는 단어는 쓰지 않는다. 플레이어가 이 흐름으로 "evolution"을 추리해 컴퓨터 암호를 풀게 한다. C2H5OH와 NaCl에 대한 문장은 알아낸 사실로만 쓰고 결과를 서술하지 않는다. 8차 성공(3단계 보관함)과도 이어진다(초반 실패의 원인).
+의도 : 마이어스가 이 연구를 시작하며 알게 된 것들을 앞장부터 한 장씩 적은 노트. 뒤로 갈수록 그가 원한 것이 진화였다는 것이 읽히게 한다(게로의 수렴, 환경이 정한 모양, 포식자가 더 빠르고 더 영리하다는 것, 시간을 줄이는 것). 사람에 대한 언급은 쓰지 않는다. 마지막 장은 시간을 줄이는 목표로 쓴다(2026-11-02 운영자 요청: 이전의 [8] "끝까지 확인한다. 결과로 증명하겠다."는 비밀 구역#7 문서의 "틀리지 않았다는 걸 보여줄 수 있다"와 겹쳐 뺐다). "진화"라는 단어는 쓰지 않는다. 플레이어가 이 흐름으로 "evolution"을 추리해 컴퓨터 암호를 풀게 한다. C2H5OH와 NaCl에 대한 문장은 알아낸 사실로만 쓰고 결과를 서술하지 않는다. 8차 성공(3단계 보관함)과도 이어진다(초반 실패의 원인).
 내용 :
 책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.
 [1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.
@@ -1851,14 +1850,12 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 [6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.
 
 [7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.
-
-[8] 끝까지 확인한다. 결과로 증명하겠다.
 HTML :
 <div class="story-content">
   <div class="script-direction">책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.<br /><br />[3] 포식자는 더 빠르고 더 영리하다.<br /><br />[4] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[5] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.<br /><br />[8] 끝까지 확인한다. 결과로 증명하겠다.</div>
+    <div class="document-body small">[1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.<br /><br />[3] 포식자는 더 빠르고 더 영리하다.<br /><br />[4] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[5] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: An old worn research notebook open on a desk, short numbered handwritten entries, unreadable, a pen beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
@@ -1884,7 +1881,7 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 마이어스의 컴퓨터. 암호는 "evolution"이다. 입력창 안에 "password", 아래에 "hint: 나의 꿈 e********"가 적혀 있고(통제 구역#7 쪽지의 "word"와 이어져 이 화면이 암호 입력창이라는 것을 알린다. CSS .login-screen으로 컴퓨터 로그인 화면처럼 보이게 함, 사용자 이름은 넣지 않음), 연구 노트(#3)에서 마이어스가 원한 것이 진화였다는 걸 읽은 플레이어가 영어 단어로 추리한다. 3단계에서 받은 "ution"이 단어의 끝부분이다. 힌트는 첫 글자 e와 별표 여덟 개라 전체 아홉 글자임이 드러나고, 첫 글자 e와 ution 사이의 "vol"을 플레이어가 채운다(2026-10-28: 힌트를 "ev..."에서 "e..."로 줄였다가 운영자 요청으로 "e********"로 바꿈. 글자 수는 알리지 않으려던 이전 방침을 바꾼 것). "진화"로 입력해도 열린다. 열면 열려 있는 문서(#7)가 뒷면으로 추가 배치된다(AP 없이 조사).
+의도 : 마이어스의 컴퓨터. 암호는 "evolution"이다. 입력창 안에 "password", 아래에 "hint: 나의 꿈 e********"가 적혀 있고(통제 구역#6 쪽지의 "word"와 이어져 이 화면이 암호 입력창이라는 것을 알린다. CSS .login-screen으로 컴퓨터 로그인 화면처럼 보이게 함, 사용자 이름은 넣지 않음), 연구 노트(#3)에서 마이어스가 원한 것이 진화였다는 걸 읽은 플레이어가 영어 단어로 추리한다. 3단계에서 받은 "ution"이 단어의 끝부분이다. 힌트는 첫 글자 e와 별표 여덟 개라 전체 아홉 글자임이 드러나고, 첫 글자 e와 ution 사이의 "vol"을 플레이어가 채운다(2026-10-28: 힌트를 "ev..."에서 "e..."로 줄였다가 운영자 요청으로 "e********"로 바꿈. 글자 수는 알리지 않으려던 이전 방침을 바꾼 것). "진화"로 입력해도 열린다. 열면 열려 있는 문서(#7)가 뒷면으로 추가 배치된다(AP 없이 조사). (2026-11-02 운영자 결정: "영문 또는 한글로 입력해 주세요." 안내를 뺐다.)
 질문 HTML :
 <div class="story-content">
   <div class="script-direction">책상 위 컴퓨터가 켜져 있다. 화면에는 암호 입력창이 떠 있다.</div>
@@ -1893,7 +1890,6 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
     <div class="login-field"><span class="login-placeholder">password</span><span class="login-arrow">→</span></div>
     <div class="login-hint">hint: 나의 꿈 e********</div>
   </div>
-  <div class="passcode-guide">영문 또는 한글로 입력해 주세요.</div>
 </div>
 내용 :
 암호가 풀리고 화면이 켜진다.
@@ -1964,12 +1960,11 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 진행과는 무관하지만 마커스의 최종 질문 m3의 6c 근거다(암호 "게"를 받지 못하면 이 요소 점수를 놓친다). 수조의 라벨은 "랍스터"뿐인데 안의 개체들이 게의 모습이다. 일부는 랍스터와 게가 합쳐진 중간 모습이다. 원래 랍스터 수조였는데 시제품이 들어가 게화가 이루어졌다는 관찰 증거다. 베일라가 준 "게"가 그대로 쓰인다. 해석(시제품 때문이라는 말, 진화)은 쓰지 않는다.
+의도 : 진행과는 무관하지만 마커스의 최종 질문 m3의 6c 근거다(암호 "게"를 받지 못하면 이 요소 점수를 놓친다). 수조의 라벨은 "랍스터"뿐인데 안의 개체들이 게의 모습이다. 일부는 랍스터와 게가 합쳐진 중간 모습이다. 원래 랍스터 수조였는데 시제품이 들어가 게화가 이루어졌다는 관찰 증거다. 베일라가 준 "게"가 그대로 쓰인다. 해석(시제품 때문이라는 말, 진화)은 쓰지 않는다. (2026-11-02 운영자 결정: "한글로 입력해 주세요." 안내를 뺐다.)
 질문 HTML :
 <div class="story-content">
   <div>벽 쪽 수조에 갑각류 여러 마리가 있다. 수조의 라벨에는 "랍스터"라고만 적혀 있다.</div>
   <div>무엇을 자세히 살펴볼지 입력해야 할 것 같다.</div>
-  <div class="passcode-guide">한글로 입력해 주세요.</div>
 </div>
 내용 :
 "게"를 살펴본다.
@@ -2002,7 +1997,7 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 마커스
-의도 : 연계 보조 단서. 컴퓨터에 열려 있는 문서. 계획서가 아니라 마이어스가 기억하려고 적어둔 단편적인 문장들이다. 중단 명령(감사국, 클로이), 6개월치 보고서, "사람이라고 다를 것은 없겠지"라는 확신, 설립 8주년 건배, 무알콜로 준비한 칵테일, 마지막에 시제품 100ml를 섞을 것, 자신도 마신다, 신념. 테라스와 냉장고는 1단계 테라스 단서가 보여 주므로 쓰지 않는다(2026-11-01 운영자 결정). 건배 이후의 기록은 없고 오웬이 술을 넣은 것도 쓰지 않는다. 마이어스는 일부러 해치려 한 사람이 아니라 진심으로 믿은 사람이라는 인상을 남긴다.
+의도 : 연계 보조 단서. 컴퓨터에 열려 있는 문서. 계획서가 아니라 마이어스가 기억하려고 적어둔 단편적인 문장들이다. 중단 명령(감사국, 클로이), 6개월치 보고서, "사람이라고 다를 것은 없겠지"라는 확신, 설립 8주년 건배, 무알콜로 준비한 칵테일, 마지막에 시제품 100ml를 섞을 것, 자신도 마셔서 증명하겠다는 신념 한 문장(2026-11-02 운영자 요청: "나도 마신다."와 "내가 틀리지 않았다는 걸 보여줄 수 있다."를 한 문장으로 합치고, 너무 길다는 지적에 "나도 마셔서 증명한다."로 줄임. 연구 노트의 마지막 장과 겹치던 내용은 노트에서 뺐다). 테라스와 냉장고는 1단계 테라스 단서가 보여 주므로 쓰지 않는다(2026-11-01 운영자 결정). 건배 이후의 기록은 없고 오웬이 술을 넣은 것도 쓰지 않는다. 마이어스는 일부러 해치려 한 사람이 아니라 진심으로 믿은 사람이라는 인상을 남긴다.
 질문 HTML :
 <div class="story-content">
   <div>문서가 열려 있다.</div>
@@ -2016,14 +2011,13 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 - 오늘이 설립 8주년. 건배.
 - 칵테일. 무알콜로 준비.
 - 8차 100ml. 마지막에, 건배 직전에 섞을 것.
-- 나도 마신다.
-- 내가 틀리지 않았다는 걸 보여줄 수 있다.
+- 나도 마셔서 증명한다.
 HTML :
 <div class="story-content">
   <div class="script-direction">열려 있는 문서에 짧은 문장들이 줄지어 적혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">- 8/30 오후 감사국 명령. <span class="emphasis">라이언</span>이 감사국이었다.<br />- 처음부터 그랬다.<br />- 보고서 9월~2월 서랍. 반년은 어떻게든 했어야 하는데.<br />- 사람이라고 다를 것은 없겠지.<br />- 오늘이 설립 8주년. 건배.<br />- 칵테일. 무알콜로 준비.<br />- 8차 100ml. 마지막에, 건배 직전에 섞을 것.<br />- 나도 마신다.<br />- 내가 틀리지 않았다는 걸 보여줄 수 있다.</div>
+    <div class="document-body small">- 8/30 오후 감사국 명령. <span class="emphasis">라이언</span>이 감사국이었다.<br />- 처음부터 그랬다.<br />- 보고서 9월~2월 서랍. 반년은 어떻게든 했어야 하는데.<br />- 사람이라고 다를 것은 없겠지.<br />- 오늘이 설립 8주년. 건배.<br />- 칵테일. 무알콜로 준비.<br />- 8차 100ml. 마지막에, 건배 직전에 섞을 것.<br />- 나도 마셔서 증명한다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: A word-processor document window (not a physical window) on a thin flat-panel monitor with several short lines of plain typed text in a clean sans-serif typeface, too small to read, cool white glow. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
