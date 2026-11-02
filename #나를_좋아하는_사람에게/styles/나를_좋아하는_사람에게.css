@@ -1322,3 +1322,26 @@
     margin: 0.4rem 0;
     opacity: 0.8;
 }
+
+/* 역할 지침의 비밀코드 힌트 (접어 두고 펼쳐 본다) */
+.story-content .hint-note {
+    margin: 0.2rem 0 0.6rem;
+    font-size: 0.8rem;
+    opacity: 0.75;
+}
+.story-content details.hint-box {
+    margin: 0.4rem 0;
+    padding: 0.1rem 0.8rem;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.03);
+}
+.story-content details.hint-box summary {
+    padding: 0.45rem 0;
+    font-weight: 700;
+    cursor: pointer;
+}
+.story-content details.hint-box p {
+    margin: 0.3rem 0 0.6rem;
+    line-height: 1.6;
+}

@@ -85,7 +85,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       </li>
       <li>
         <strong>잠긴 서랍</strong>: 2층 사무실 당신 책상의 잠긴 서랍에, 전임 팀장의 자리에서 나온
-        물건들을 넣어두고 있다. 열쇠는 당신만 갖고 있다.
+        물건들을 넣어두고 있다. 번호 자물쇠로 잠가 두었다.
       </li>
     </ul>
   </section>
@@ -327,6 +327,9 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       <strong>글을 올린 진짜 이유</strong>: 그 글을 알아보는 사람이 움직이길 기다리고 있다. 오늘 이
       자리에서 누가 그 글에 반응하는지 지켜보고 있다는 걸 들키면, 상대도 당신을 경계하게 된다.
     </li>
+    <li>
+      <strong>서랍 번호</strong>: 책상 서랍은 번호 자물쇠로 잠겨 있고 번호는 전임 팀장의 사번(05087)이다. 그 사번을 찾아내는 사람이 있을 수 있다.
+    </li>
   </ul>
 </div>
 
@@ -367,6 +370,14 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       </li>
     </ul>
   </section>
+  <section class="content-section">
+    <div class="section-title">비밀코드 힌트</div>
+    <p class="hint-note">먼저 직접 풀어 보고, 그래도 풀리지 않을 때 펼쳐 보세요. 다섯 사람의 힌트가 각각 다릅니다. 서로 나누면 답에 닿을 수 있습니다.</p>
+    <details class="hint-box">
+      <summary>층별 안내 화면에 대한 힌트</summary>
+      <p>같은 글자가 유난히 자주 나오는 글이라면, 그 글자 바로 뒤를 살펴볼 만합니다.</p>
+    </details>
+  </section>
 </div>
 
 [후반부 조사] (조사 2단계~추리 3단계: 옥상·1.5층)
@@ -393,5 +404,13 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         했는가"를 따로 묻는다. 당신이 그때 내린 선택이 이 밤의 끝을 바꿀 수 있다.
       </li>
     </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">비밀코드 힌트</div>
+    <p class="hint-note">먼저 직접 풀어 보고, 그래도 풀리지 않을 때 펼쳐 보세요. 다섯 사람의 힌트가 각각 다릅니다. 서로 나누면 답에 닿을 수 있습니다.</p>
+    <details class="hint-box">
+      <summary>서쪽 난간에 대한 힌트</summary>
+      <p>사람이 매달려도 버텨야 하고, 내려간 뒤에는 아래에서 끈을 거둘 수 있어야 합니다.</p>
+    </details>
   </section>
 </div>
