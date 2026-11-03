@@ -14,7 +14,7 @@ RoleID : (미정)
 "제 팀원들 일이니까요." 팀원 둘이 한꺼번에 소동에 얽혀버린 사료관리팀 팀장.
 
 5. 이미지생성용 프롬프트
-Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject placed slightly left of center, looking just past the viewer. A Korean man around 30, the young team leader of a small, overlooked corporate archive team. Medium build, neat short black hair slightly disheveled after a long day, gentle but tired eyes with a faint, hard-to-name melancholy. He wears a light gray shirt with the sleeves rolled up and a loosened muted amber tie, an employee ID lanyard around his neck, and holds a thin folder of personnel files. Background: a dim meeting room inside an old two-story corporate archive building at night, long conference table, cold fluorescent light, old framed photographs on the wall slightly out of focus, dark window behind him. Semi-realistic digital painting, cinematic low-key lighting, desaturated steel-blue and navy palette with the amber accent, subtle film grain, quiet tension. No text, no letters, no words.
+Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject placed slightly left of center, looking just past the viewer. A Korean man around 30, the young team leader of a small, overlooked corporate archive team. Medium build, neat short black hair slightly disheveled after a long day, gentle but tired eyes with a faint, hard-to-name melancholy. He wears a light gray shirt with the sleeves rolled up and a loosened muted amber tie, an employee ID lanyard around his neck, a plain wedding ring on his left hand, and holds a thin folder of personnel files. Background: a dim meeting room inside an old two-story corporate archive building at night, long conference table, cold fluorescent light, old framed photographs on the wall slightly out of focus, dark window behind him. Semi-realistic digital painting, cinematic low-key lighting, desaturated steel-blue and navy palette with the amber accent, subtle film grain, quiet tension. No text, no letters, no words.
 
 6. 역할 이미지
 (무시 - 사용자 직접 업로드 예정)
@@ -50,6 +50,9 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         함께 돌아가는 사내 공용 메신저. 메시지마다 올린 사람의 이름이 표시된다.
       </li>
       <li>
+        <strong>사내 게시판</strong>: 사내 포털에 있는 전 직원 게시판. 그중 익명 라운지에는 작성자 이름 대신 시스템이 사람마다 정해 준 번호가 익명4821 같은 형식으로 표시된다.
+      </li>
+      <li>
         <strong>역사관</strong>: 교외에 있는 작은 2층 건물로, 회사의 옛 자료와 기록을 보관하고
         전시한다. 사료관리팀 사무실도 이 건물 2층에 있다. 곧 철거될 예정이다.
       </li>
@@ -60,6 +63,9 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       <li>
         <strong>조직문화팀</strong>: 회장 직속 부서로, 사내 갈등이나 이번 같은 소동을 조사하고
         수습하는 일을 맡는다.
+      </li>
+      <li>
+        <strong>경비원</strong>: 부지 입구 초소에서 외주 경비원 <span class="character-simyongtaek">심용택</span>이 근무한다. 2021년부터 역사관을 지켜 온 사람이다.
       </li>
     </ul>
   </section>
@@ -160,7 +166,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <span class="character-jeonghyeongmi">정형미</span>,
         <span class="character-yoojeongseok">유정석</span>,
         <span class="character-nohyeongcheol">노형철</span>,
-        <span class="character-jeongjunhee">정준희</span> 네 명이 참석함
+        <span class="character-jeongjunhee">정준희</span> 네 명이 참석함. <span class="character-jeonghyeongmi">정형미</span>는 감기 기운이 있다며 깨끗한 흰 마스크를 쓰고 있었음
       </li>
       <li>
         <strong>18:30</strong>: <span class="character-parkhyesu">박혜수</span>가 예정에 없이
@@ -186,7 +192,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     <div class="subsection-title">■ 개인 행적</div>
     <ul class="goal-list">
       <li>
-        <strong>15:00 무렵</strong>: 본사 회의를 마치고 돌아와 차를 건물 뒤뜰에 세움
+        <strong>15:00 무렵</strong>: 본사 회의를 마치고 돌아와 차를 건물 뒤뜰에 세움. 철거 전 점검으로 2층 사무실 소화기를 살피고 점검표에 서명함
       </li>
       <li>
         <strong>17:30 무렵</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이
@@ -280,7 +286,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     </div>
     <p>
       팀의 대리. 일 처리는 성실하고 말수는 적은 편이다. 전임 팀장을 각별히 챙겼던 사람이라고 들었다.
-      그런 그가 왜 갑자기 그런 글을 전사 단체방에 올렸는지는 아직도 모르겠다. 장난이었다는 말이
+      부임 초에 그가 낡은 상자에서 무언가를 꺼내 자기 책상 서랍에 넣고 잠그는 걸 본 적이 있다. 그런 그가 왜 갑자기 그런 글을 전사 단체방에 올렸는지는 아직도 모르겠다. 장난이었다는 말이
       곧이곧대로 믿기지는 않지만, 일단은 팀장으로서 감싸줘야 할 팀원이다.
     </p>
     <p>
@@ -291,7 +297,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       <span class="character-jeongjunhee">정준희에 대해</span>
     </div>
     <p>
-      얼마 전 스스로 이 팀에 오겠다고 한 신입. 들어오자마자 영문도 모를 소문에 휘말렸다. 팀장으로서
+      얼마 전 스스로 이 팀에 오겠다고 한 신입. 철거에 대비해 문서고 분류를 맡겼고, 어제는 사무실 구석의 소장품 상자도 넘겼다. 들어오자마자 영문도 모를 소문에 휘말렸다. 팀장으로서
       미안하고, 어떻게든 지켜주고 싶다.
     </p>
     <p>
@@ -302,8 +308,8 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       <span class="character-hadohoon">하도훈에 대해</span>
     </div>
     <p>
-      팀의 주임이자 <span class="character-nohyeongcheol">노형철</span>의 입사 동기. 싹싹하고 손이
-      빠른 팀원이었다. 17:50에 분명히 퇴근 인사를 하고 나갔다.
+      팀의 주임이자 <span class="character-nohyeongcheol">노형철</span>의 입사 동기. 앞에서는 "팀장님, 팀장님" 하며 아부를 입에
+      달고 사는 팀원이었다. 그런 그가 익명 라운지에 당신의 뒷말을 썼다는 걸 이달 초에 알았고, 그 뒤로 모르는 척 지내 왔다. 17:50에 분명히 퇴근 인사를 하고 나갔다.
     </p>
 
     <div class="subsection-title">
@@ -347,6 +353,12 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       생각을 떨치지 못하고 있다.
     </li>
     <li>
+      <strong>하도훈의 뒷말</strong>: 사내 익명 라운지에서 익명7315가 당신을 낙하산이라고 뒷말한 글 "우리 새 팀장 한 달 보고"를 읽은 적이 있다. 이달 초 <span class="character-hadohoon">하도훈</span>의 자리를 지나다 그의 화면에 같은 번호가 로그인되어 있는 걸 보고 그가 썼다는 걸 알았다. 그 글을 출력해 번호에 동그라미를 쳐서 책상 서랍에 넣어 두었다. 말을 꺼내면 당신이 라운지를 들여다본다는 티가 나고, 꺼내지 않으면 날마다 그 얼굴을 봐야 해서 며칠째 속을 끓였다. 해칠 생각은 해 본 적 없다. 하지만 그가 죽은 지금, 이 종이가 드러나면 당신이 가장 먼저 의심받는다.
+    </li>
+    <li>
+      <strong>익명 라운지 번호</strong>: 당신의 번호는 익명6083이다. 부임 전 "사료관리팀 새 팀장 나이 들었음?" 글에 "같이 일해 봤는데 사람은 괜찮음. 본인도 어리둥절해하더라"라고 스스로 댓글을 달았다.
+    </li>
+    <li>
       <strong>팀장 캐비닛</strong>: 2층 사무실의 캐비닛은 번호 1012로 잠겨 있다. 당신 생일이다. 안에는 <span class="character-yoohuicheol">유희철</span>이 아버지라는 걸 보여 주는 가족 서류와 그의 실종 관련 서류가 있다.
     </li>
   </ul>
@@ -373,6 +385,9 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       <li>
         <strong>당신의 행적</strong>: 20:01부터 20:07까지 계단 구석에서 아내와 통화했다. 숨길 이유가
         없는 일이니, 누가 묻는다면 있는 그대로 말한다.
+      </li>
+      <li>
+        <strong>서랍 속 종이</strong>: 책상 서랍에 넣어 둔 출력본을 누가 먼저 찾아낼 수 있다. 먼저 털어놓을지, 끝까지 모르는 척할지 정해 둔다.
       </li>
       <li>
         <strong>찜찜한 것들</strong>: 회장의 최측근이 해프닝 하나에 직접 찾아온 일, 퇴근한 팀원이 건물
@@ -410,6 +425,9 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <span class="character-yoohuicheol">유희철</span>이 어떻게 됐는지 알아냈는가"를 따로 묻는다.
         이 건물 어딘가에 그 답이 있다면 반드시 찾아낸다. 다만 그 답이 당신이 바라던 것이 아닐 수도
         있다. 무엇을 알게 되든, 그걸 받아들일지는 당신의 몫이다.
+      </li>
+      <li>
+        <strong>끈</strong>: 옥상에서 1.5층으로 내려가려면 다섯 명 모두 몸에 걸친 것을 내놓아야 한다. 당신은 넥타이를 내놓는다.
       </li>
       <li>
         <strong>범인 지목</strong>: 최종 질문 "<span class="character-hadohoon">하도훈</span>을 살해한
