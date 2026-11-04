@@ -1,0 +1,43 @@
+StoryID : 7f71ed57-6b1d-4e54-9921-a11be7f511b6
+StepID : (DB 등록 시)
+
+1. 순서
+5
+
+2. 단계 이름
+조사 2단계
+
+3. 단계 유형
+INVESTIGATION
+
+4. 예상 소요 시간
+5분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Urgent rooftop night ambience, cold wind texture, relentless low pulse, tense short string stabs, heavy distant door impacts, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <p class="emphasis">옥상 문이 울리고 있습니다. 시간이 많지 않습니다.</p>
+  <div class="section-title">1. 옥상 살펴보기</div>
+  <p>이번 단계의 단서는 모두 공개되어 있고 AP를 쓰지 않습니다. 대화하면서 함께 살펴보고, 옥상에서 본 것을 지금까지의 추리와 맞춰 보세요. 말로 설명하기 어려운 단서는 <span class="highlight">보드 공개</span>로 보여 줄 수 있습니다.</p>
+  <div class="section-title">2. 고리를 쓸 방법</div>
+  <p class="emphasis">서쪽 난간의 고리를 어떻게 쓸지 알아내야 다음 단계로 넘어갈 수 있습니다.</p>
+  <p>비밀코드는 틀려도 불이익이 없습니다. 역할 지침의 접힌 힌트를 나눠 보세요. <span class="highlight">사내 게시판</span>에서 답을 찾을 수 있습니다.</p>
+  <div class="section-title">다음 단계 안내</div>
+  <p>충분히 마무리되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계(장면 3)로 진행하십시오.</p>
+</div>
+
+8. 대본 관리 (구조화, DB 입력용)
+
+※ 이 단계에는 대본이 없다.
+※ 단계 설정 "단서 공개 허용"을 켠다.
+※ 지급 AP를 두지 않는다. 옥상 단서 R-1~R-4는 모두 AP 0이다.
+※ 단계 게이트(REQUIRED_CLUE): 단서 R-4(고리를 쓸 방법)가 앞면으로 공개되어야 다음 단계로 넘어간다.
+※ 시간이 지나도 소방수가 실제로 들어오지는 않는다(기획 §5).

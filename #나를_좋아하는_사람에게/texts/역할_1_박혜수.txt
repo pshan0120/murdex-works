@@ -51,7 +51,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         함께 돌아가는 사내 공용 메신저. 메시지마다 올린 사람의 이름이 표시된다.
       </li>
       <li>
-        <strong>사내 게시판</strong>: 사내 포털에 있는 전 직원 게시판. 그중 익명 라운지에는 작성자 이름 대신 시스템이 사람마다 정해 준 번호가 익명4821 같은 형식으로 표시된다.
+        <strong>사내 게시판</strong>: 사내 포털에 있는 전 직원 게시판. 그중 익명 라운지에는 작성자 이름 대신 시스템이 사람마다 정해 준 번호가 익명4821 같은 형식으로 표시된다. <a href="/tools/site/dh-intranet" target="_blank" rel="noopener">사내 게시판 열기</a>
       </li>
       <li>
         <strong>역사관</strong>: 교외에 있는 작은 2층 건물로, 회사의 옛 자료와 기록을 보관하고
@@ -186,8 +186,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       구 사옥에서 아무것도 찾지 못한 <span class="character-parkhyesu">박혜수</span>는, 이번엔 전략실장 권한으로 볼 수 있는 지출과 인사
       기록을 하나하나 뒤지기 시작했다. <span class="character-yeomoonhyeok">여문혁</span>이 사라지기 직전과 직후, 어디에 썼는지 설명이 안
       되는 돈이 빠져나간 기록이 있었다. 그런 기록은 그때가 처음이 아니었다. <span class="character-jeongtaeho">정태호</span>의 소식이
-      끊겼던 무렵의 오래된 결재 서류에도, 같은 방식으로 처리된 지출이 있었다. 그 서류의 지출
-      명목 칸에 적힌 "소방수"라는 낯선 이름을 발견한 순간, <span class="character-parkhyesu">박혜수</span>는 깨달았다. 두 사람은 그냥 사라진 게
+      끊겼던 무렵의 오래된 결재 서류에도, 같은 방식으로 처리된 지출이 있었다. 지출 명목은 "소방 안전 특별 점검비", 지급처는 "한결안전관리"였다. 구 사옥에 그런 점검이 나온 적은 없었다. 그제야 회장실 사람들이 농담처럼 하던 "소방수를 부른다"는 말이 떠올랐고, <span class="character-parkhyesu">박혜수</span>는 깨달았다. 두 사람은 그냥 사라진 게
       아니었다. 누군가 이 회사 안에서, 아주 오래전부터 사람을 지워왔다.
     </p>
     <p>
@@ -515,7 +514,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
 
 9. 단계별 역할 지침
 
-[전반부 조사] (조사 1단계~추리 1단계: 역사관 1층·2층)
+[전반부 조사] (조사 1단계)
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-parkhyesu">박혜수</span></div>
@@ -559,7 +558,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   </section>
 </div>
 
-[후반부 조사] (조사 2단계~추리 3단계: 옥상·1.5층)
+[조사 2단계]
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-parkhyesu">박혜수</span></div>
@@ -570,27 +569,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         장담할 수 없다. 모두가 살아서 이 건물을 나가는 것을 가장 먼저 생각한다.
       </li>
       <li>
-        <strong>범인 지목</strong>: 최종 질문에서 "<span class="character-hadohoon">하도훈</span>을
-        살해한 범인은 누구인가"에 답해야 한다. 지금까지 모은 단서로 범인을 가려낸다. 범인을 밝히는
-        데 당신이 숨겨온 사실이 필요하다면, 그것을 털어놓을지 끝까지 감출지 스스로 정해야 한다.
-      </li>
-      <li>
         <strong>채찍</strong>: 옥상에서 내려갈 끈이 모자라면, 당신 스카프로는 버티지 못한다. 핸드백 속 채찍을 꺼낼 수밖에 없다. 다 함께 살아서 내려가는 것이 먼저다. 그 뒤 쏟아질 시선은 각오해 둔다.
-      </li>
-      <li>
-        <strong>탈출 순서</strong>: 이어서 "사다리를 맨 먼저 내려가, 아래에서 사다리를 붙잡고 있을
-        사람은 누구인가"를 묻는다. 아래에 혼자 내려간 사람이 사다리를 붙잡아주지 않으면, 나머지는
-        모두 1.5층에 갇힌다. 지금 이 안에서 목숨을 맡길 수 있는 사람이 누구인지 따져보고 고른다.
-      </li>
-      <li>
-        <strong>그가 남긴 것</strong>: 최종 질문에서는 "<span class="character-yeomoonhyeok">여문혁</span>이
-        당신에게 남긴 편지를 찾았는가"도 묻는다. 그가 이 건물 어딘가에 무언가를 숨겨두었다면, 그
-        안에 당신을 향한 것이 있는지 반드시 확인한다.
-      </li>
-      <li>
-        <strong>폭로와 침묵 사이</strong>: <span class="character-yeomoonhyeok">여문혁</span>이 모아둔
-        것들이 회사의 치부를 드러낸다면, 거기에는 당신이 한 일도 함께 적혀 있을지 모른다. 진실을
-        밖으로 내놓을 것인가, 자신을 지키려고 다시 한번 덮을 것인가.
       </li>
     </ul>
   </section>
@@ -601,5 +580,27 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       <summary>서쪽 난간에 대한 힌트</summary>
       <p>이 회사에서 누군가 남긴 말은 지워지지 않는 한 어딘가에 그대로 남아 있습니다.</p>
     </details>
+  </section>
+</div>
+
+[조사 3단계~최종 추리]
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-parkhyesu">박혜수</span></div>
+    <ul class="goal-list">
+      <li>
+        <strong>범인 지목</strong>: 최종 질문에서 "<span class="character-hadohoon">하도훈</span>을
+        살해한 범인은 누구인가"에 답해야 한다. 지금까지 모은 단서로 범인을 가려낸다. 범인을 밝히는
+        데 당신이 숨겨온 사실이 필요하다면, 그것을 털어놓을지 끝까지 감출지 스스로 정해야 한다.
+      </li>
+      <li>
+        <strong>USB</strong>: 1.5층에서 두영물류 장부 원본이 든 USB가 나온다. 최종 질문에서 누가 챙겨 나갈지 투표로 정한다. 당신이 받으면 세상에 내놓을지 숨길지 고르게 된다. 내놓으면 당신도 함께 조사를 받는다.
+      </li>
+      <li>
+        <strong>폭로와 침묵 사이</strong>: <span class="character-yeomoonhyeok">여문혁</span>이 모아둔
+        것들이 회사의 치부를 드러낸다면, 거기에는 당신이 한 일도 함께 적혀 있을지 모른다. 진실을
+        밖으로 내놓을 것인가, 자신을 지키려고 다시 한번 덮을 것인가.
+      </li>
+    </ul>
   </section>
 </div>

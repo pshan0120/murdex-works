@@ -50,7 +50,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         함께 돌아가는 사내 공용 메신저. 메시지마다 올린 사람의 이름이 표시된다.
       </li>
       <li>
-        <strong>사내 게시판</strong>: 사내 포털에 있는 전 직원 게시판. 그중 익명 라운지에는 작성자 이름 대신 시스템이 사람마다 정해 준 번호가 익명4821 같은 형식으로 표시된다.
+        <strong>사내 게시판</strong>: 사내 포털에 있는 전 직원 게시판. 그중 익명 라운지에는 작성자 이름 대신 시스템이 사람마다 정해 준 번호가 익명4821 같은 형식으로 표시된다. <a href="/tools/site/dh-intranet" target="_blank" rel="noopener">사내 게시판 열기</a>
       </li>
       <li>
         <strong>역사관</strong>: 교외에 있는 작은 2층 건물로, 회사의 옛 자료와 기록을 보관하고
@@ -344,7 +344,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       팀장이구나"라는 낙하산 꼬리표가 확실하게 붙는다.
     </li>
     <li>
-      <strong>아버지의 실종</strong>: 2년 전 아버지가 실종됐다는 것. 집안에서도 꺼내지 않는 얘기라,
+      <strong>아버지의 실종</strong>: 2024년 3월 4일 밤부터 아버지와 연락이 끊겼고 차도 나오지 않았다는 것. 집안에서도 꺼내지 않는 얘기라,
       남들 앞에서 그 일을 입에 올리는 것 자체가 괴롭다.
     </li>
     <li>
@@ -366,13 +366,16 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
 
 9. 단계별 역할 지침
 
-[전반부 조사] (조사 1단계~추리 1단계: 역사관 1층·2층)
+[전반부 조사] (조사 1단계)
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-yoojeongseok">유정석</span></div>
     <ul class="goal-list">
       <li>
         <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 10이다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
+      </li>
+      <li>
+        <strong>경찰 신고</strong>: 조사 중에 단 한 번, 아무도 모르게 경찰에 신고할 수 있다. 조사 1단계의 AP는 10이고, 단서 조사와 신고에 1씩 든다. 아까는 회사 이미지를 걱정하는 말에 휴대폰을 내려놓았지만, 그 판단이 마음에 걸린다면 써볼 만하다.
       </li>
       <li>
         <strong>하도훈은 왜 거기 있었나</strong>: <span class="character-hadohoon">하도훈</span>은
@@ -414,7 +417,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   </section>
 </div>
 
-[후반부 조사] (조사 2단계~추리 3단계: 옥상·1.5층)
+[조사 2단계]
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-yoojeongseok">유정석</span></div>
@@ -424,22 +427,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         중요하지 않다. 목숨이 걸린 일이다. 경찰에 알릴 수 있는 순간이 오면 망설이지 않는다.
       </li>
       <li>
-        <strong>아버지가 어떻게 됐는가</strong>: 최종 질문에서는 당신에게만 "아버지
-        <span class="character-yoohuicheol">유희철</span>이 어떻게 됐는지 알아냈는가"를 따로 묻는다.
-        이 건물 어딘가에 그 답이 있다면 반드시 찾아낸다. 다만 그 답이 당신이 바라던 것이 아닐 수도
-        있다. 무엇을 알게 되든, 그걸 받아들일지는 당신의 몫이다.
-      </li>
-      <li>
         <strong>끈</strong>: 옥상에서 1.5층으로 내려가려면 다섯 명 모두 몸에 걸친 것을 내놓아야 한다. 당신은 넥타이를 내놓는다.
-      </li>
-      <li>
-        <strong>범인 지목</strong>: 최종 질문 "<span class="character-hadohoon">하도훈</span>을 살해한
-        범인은 누구인가"에 답해야 한다. 당신의 팀원을 죽인 사람이다. 감정은 잠시 접어두고, 단서로 가려낸다.
-      </li>
-      <li>
-        <strong>탈출 순서</strong>: 이어서 "사다리를 맨 먼저 내려가, 아래에서 사다리를 붙잡고 있을
-        사람은 누구인가"를 묻는다. 아래에 혼자 내려간 사람이 사다리를 붙잡아주지 않으면, 나머지는
-        모두 1.5층에 갇힌다. 팀원들의 목숨까지 걸린 선택이다. 누구를 믿을 수 있는지 따져보고 고른다.
       </li>
     </ul>
   </section>
@@ -450,5 +438,24 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       <summary>서쪽 난간에 대한 힌트</summary>
       <p>묶는 방법에도 저마다 이름이 있습니다.</p>
     </details>
+  </section>
+</div>
+
+[조사 3단계~최종 추리]
+<div class="story-content">
+  <section class="content-section">
+    <div class="section-title">목표 - <span class="character-yoojeongseok">유정석</span></div>
+    <ul class="goal-list">
+      <li>
+        <strong>아버지가 어떻게 됐는가</strong>: 이 건물 어딘가에 아버지가 왜 돌아오지 않았는지 알려 줄 것이 있다면 반드시 찾아내 손에 넣는다. 다만 그 답이 당신이 바라던 것이 아닐 수도 있다.
+      </li>
+      <li>
+        <strong>범인 지목</strong>: 최종 질문 "<span class="character-hadohoon">하도훈</span>을 살해한
+        범인은 누구인가"에 답해야 한다. 당신의 팀원을 죽인 사람이다. 감정은 잠시 접어두고, 단서로 가려낸다.
+      </li>
+      <li>
+        <strong>USB</strong>: 1.5층에서 두영물류 장부 원본이 든 USB가 나온다. 최종 질문에서 누가 챙겨 나갈지 투표로 정한다. 당신이 받으면 세상에 내놓지 않을 생각이다. 장부가 나가면 아버지의 이름도 함께 나가고, 지금 자리도 그 값으로 받은 것이기 때문이다.
+      </li>
+    </ul>
   </section>
 </div>

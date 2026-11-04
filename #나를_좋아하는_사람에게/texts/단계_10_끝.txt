@@ -1,0 +1,35 @@
+StoryID : 7f71ed57-6b1d-4e54-9921-a11be7f511b6
+StepID : (DB 등록 시)
+
+1. 순서
+10
+
+2. 단계 이름
+끝
+
+3. 단계 유형
+EPILOGUE
+
+4. 예상 소요 시간
+무제한
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Bittersweet quiet ending, soft piano, warm distant strings, gentle melancholy, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 엔딩</div>
+  <p>최종 질문의 결과에 따라 엔딩이 낭독됩니다. 대본을 순서대로 읽어 주세요.</p>
+  <div class="section-title">2. 수고하셨습니다</div>
+  <p>끝까지 함께해 주셔서 감사합니다. 엔딩을 마친 뒤에는 서로의 역할과 비밀을 자유롭게 이야기해 보세요.</p>
+</div>
+
+8. 대본 관리 (구조화, DB 입력용)
+
+※ 엔딩은 이 단계에 등록한다. 대본과 판정 규칙은 texts/엔딩_대본.txt, 편지 본문은 texts/엔딩_편지.txt가 정본이다.

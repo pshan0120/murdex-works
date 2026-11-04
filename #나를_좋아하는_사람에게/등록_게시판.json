@@ -1,0 +1,3876 @@
+{
+ "siteKey": "dh-intranet",
+ "storyId": "7f71ed57-6b1d-4e54-9921-a11be7f511b6",
+ "name": "DH그룹 사내 포털",
+ "layoutType": "INTRANET",
+ "roles": [
+  {
+   "roleId": "60eb1032-da68-5d84-af9b-04be3e82b061",
+   "displayName": "박혜수",
+   "displayDept": "전략실",
+   "displayCode": "02028",
+   "permissions": []
+  },
+  {
+   "roleId": "9d773b67-f743-5f25-8c3e-54f832ace51c",
+   "displayName": "정형미",
+   "displayDept": "조직문화팀",
+   "displayCode": "01315",
+   "permissions": []
+  },
+  {
+   "roleId": "cd43c23c-e103-5c0b-bbf4-21c6882b4489",
+   "displayName": "유정석",
+   "displayDept": "사료관리팀",
+   "displayCode": "01782",
+   "permissions": [
+    "TEAM_SARYO"
+   ]
+  },
+  {
+   "roleId": "94125db2-51fb-5d4d-aaae-84a8ada88285",
+   "displayName": "노형철",
+   "displayDept": "사료관리팀",
+   "displayCode": "05230",
+   "permissions": [
+    "TEAM_SARYO"
+   ]
+  },
+  {
+   "roleId": "bd29497d-2159-50a1-8cc4-2ff047c92149",
+   "displayName": "정준희",
+   "displayDept": "사료관리팀",
+   "displayCode": "05318",
+   "permissions": [
+    "TEAM_SARYO"
+   ]
+  }
+ ],
+ "menus": [
+  {
+   "key": "공지사항",
+   "name": "공지사항",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "인사발령",
+   "name": "인사발령",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "사내소식",
+   "name": "사내소식",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "사보 아카이브",
+   "name": "사보 아카이브",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "경조사",
+   "name": "경조사",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "동호회",
+   "name": "동호회",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "구내식당·복지",
+   "name": "구내식당·복지",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "IT·보안",
+   "name": "IT·보안",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "장터",
+   "name": "장터",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "익명 라운지",
+   "name": "익명 라운지",
+   "includeInAll": true,
+   "permission": null,
+   "deniedDisplay": "DENIED"
+  },
+  {
+   "key": "사료관리팀",
+   "name": "사료관리팀",
+   "includeInAll": false,
+   "permission": "TEAM_SARYO",
+   "deniedDisplay": "DENIED"
+  }
+ ],
+ "posts": [
+  {
+   "key": "R1",
+   "menu": "사보 아카이브",
+   "postedAt": "1994-05-02 09:00",
+   "importance": "CORE",
+   "title": "[사보 1994년 5월호] 창업 멤버에게 듣는 옛날이야기",
+   "authorName": "사보 편집부",
+   "viewCount": 412,
+   "contentHtml": "<p>창업 14년 만에 직원이 100명을 넘었습니다. 이를 기념해 편집부가 창업 멤버들을 찾아가 옛이야기를 들어 보았습니다.</p>\n<p>1980년 두환상사의 문을 연 사람은 넷입니다. 김두환 회장, 여문혁 전무, 정태호 상무, 유희철 이사. 여 전무가 옛 부하였던 정 상무를 불러왔고, 유 이사가 막내로 합류했습니다. 회사의 얼굴은 회장이, 장사는 여 전무가 맡았습니다.</p>\n<p>그 시절 창업 멤버들은 서로를 글자로 불렀습니다. 회장은 \"가\", 여 전무는 \"나\". 장부에도 쪽지에도 이름 대신 그 글자를 적었다고 합니다.</p>\n<p>\"이름 쓰기가 귀찮아서 시작한 장난이었지요.\" 여 전무는 웃으며 말했습니다. \"그런데 쪽지에 '나'라고만 적어 두어도 아는 사람은 다 알아봤어요.\"</p>\n<p>직원이 늘면서 이번 달부터 사번도 새로 매깁니다. 그 시절의 글자가 그대로 사번 앞머리에 남았습니다. 김두환 회장 가001, 여문혁 전무 나001, 정태호 상무 나002, 유희철 이사 다001.</p>"
+  },
+  {
+   "key": "R2",
+   "menu": "사보 아카이브",
+   "postedAt": "2005-03-02 09:00",
+   "importance": "CORE",
+   "title": "[사보 2005년 3월호] 사번 체계 개정 안내",
+   "authorName": "인사팀",
+   "viewCount": 688,
+   "contentHtml": "<p>직원 1만 명 돌파와 DH그룹 출범에 맞춰 4월 1일부터 사번 체계를 아래와 같이 바꿉니다.</p>\n<p>새 사번은 본부 번호 2자리와 본부 내 입사 순서 3자리로 이루어집니다.</p>\n<table>\n  <tr><th>본부 번호</th><th>본부</th></tr>\n  <tr><td>01</td><td>경영지원본부</td></tr>\n  <tr><td>02</td><td>영업본부</td></tr>\n  <tr><td>03</td><td>재무본부</td></tr>\n  <tr><td>04</td><td>법무실</td></tr>\n</table>\n<p>기존 사번은 다음과 같이 바뀝니다.</p>\n<table>\n  <tr><th>기존</th><th>새 사번</th></tr>\n  <tr><td>가001</td><td>01001</td></tr>\n  <tr><td>다001</td><td>01002</td></tr>\n  <tr><td>나001</td><td>02001</td></tr>\n  <tr><td>나002</td><td>02002</td></tr>\n  <tr><td>나028</td><td>02028</td></tr>\n</table>\n<p>한 번 받은 사번은 부서를 옮겨도 바뀌지 않습니다.</p>"
+  },
+  {
+   "key": "R3",
+   "menu": "공지사항",
+   "postedAt": "2008-06-25 10:00",
+   "importance": "CORE",
+   "title": "2008년 7월 1일자 조직 개편 안내",
+   "authorName": "한지영",
+   "authorDept": "인사팀",
+   "authorCode": "01188",
+   "viewCount": 3214,
+   "contentHtml": "<p>7월 1일자로 아래와 같이 조직을 개편합니다.</p>\n<ul>\n  <li>사료관리팀 신설: 회사 사사 정리와 사료 보존 담당, 근무지는 역사관</li>\n  <li>초대 사료관리팀장: 여문혁</li>\n  <li>영업본부장: 후임 발령 시까지 대표이사 겸임</li>\n</ul>\n<p>문의는 인사팀으로 부탁드립니다.</p>"
+  },
+  {
+   "key": "R4",
+   "menu": "인사발령",
+   "postedAt": "2008-06-25 10:05",
+   "importance": "SUPPORT",
+   "title": "영업본부 조직 개편에 따른 인사 (2008년 6월 30일자)",
+   "authorName": "한지영",
+   "authorDept": "인사팀",
+   "authorCode": "01188",
+   "viewCount": 5127,
+   "contentHtml": "<p>영업본부 조직 개편에 따라 아래 인원을 6월 30일자로 퇴직 발령합니다.</p>\n<table>\n  <tr><th>사번</th><th>성명</th><th>직급</th></tr>\n  <tr><td>02002</td><td>정태호</td><td>상무</td></tr>\n  <tr><td>02003</td><td>고상철</td><td>이사</td></tr>\n  <tr><td>02004</td><td>민경태</td><td>부장</td></tr>\n  <tr><td>02005</td><td>서동욱</td><td>부장</td></tr>\n  <tr><td>02006</td><td>오병규</td><td>부장</td></tr>\n  <tr><td>02007</td><td>임창수</td><td>차장</td></tr>\n  <tr><td>02008</td><td>남궁현</td><td>차장</td></tr>\n  <tr><td>02009</td><td>백인호</td><td>차장</td></tr>\n  <tr><td>02010</td><td>권태진</td><td>차장</td></tr>\n  <tr><td>02011</td><td>양미숙</td><td>과장</td></tr>\n  <tr><td>02012</td><td>신동렬</td><td>과장</td></tr>\n  <tr><td>02013</td><td>전병철</td><td>과장</td></tr>\n  <tr><td>02014</td><td>황규식</td><td>과장</td></tr>\n  <tr><td>02015</td><td>안재문</td><td>과장</td></tr>\n  <tr><td>02016</td><td>조은하</td><td>대리</td></tr>\n  <tr><td>02017</td><td>곽도영</td><td>대리</td></tr>\n  <tr><td>02018</td><td>문성호</td><td>대리</td></tr>\n  <tr><td>02019</td><td>류병철</td><td>대리</td></tr>\n  <tr><td>02020</td><td>홍지훈</td><td>대리</td></tr>\n  <tr><td>02021</td><td>차민정</td><td>대리</td></tr>\n  <tr><td>02022</td><td>표상우</td><td>대리</td></tr>\n  <tr><td>02023</td><td>장혜린</td><td>주임</td></tr>\n  <tr><td>02024</td><td>구본석</td><td>주임</td></tr>\n  <tr><td>02025</td><td>변영수</td><td>주임</td></tr>\n  <tr><td>02026</td><td>탁현아</td><td>주임</td></tr>\n  <tr><td>02027</td><td>마준영</td><td>주임</td></tr>\n  <tr><td>02029</td><td>석지윤</td><td>주임</td></tr>\n  <tr><td>02030</td><td>피승민</td><td>사원</td></tr>\n  <tr><td>02031</td><td>도은경</td><td>사원</td></tr>\n  <tr><td>02032</td><td>편주호</td><td>사원</td></tr>\n  <tr><td>02033</td><td>길나래</td><td>사원</td></tr>\n</table>\n<p>그동안의 노고에 감사드립니다.</p>",
+   "comments": [
+    {
+     "key": "R4-c1",
+     "postedAt": "2008-06-25 10:41",
+     "deletedLabel": "관리자에 의해 삭제된 댓글입니다."
+    },
+    {
+     "key": "R4-c2",
+     "postedAt": "2008-06-25 11:17",
+     "deletedLabel": "관리자에 의해 삭제된 댓글입니다."
+    },
+    {
+     "key": "R4-c3",
+     "postedAt": "2008-06-26 09:02",
+     "deletedLabel": "관리자에 의해 삭제된 댓글입니다."
+    }
+   ]
+  },
+  {
+   "key": "R5",
+   "menu": "사내소식",
+   "postedAt": "2008-06-30 17:40",
+   "importance": "CORE",
+   "title": "28년 동안 고마웠습니다",
+   "authorName": "정태호",
+   "authorDept": "영업본부",
+   "authorCode": "02002",
+   "viewCount": 2876,
+   "contentHtml": "<p>오늘로 회사를 떠납니다.</p>\n<p>창고 한 칸에서 원단을 나르던 때가 엊그제 같은데 어느새 28년이 지났습니다. 함께 일한 후배들도 오늘 함께 짐을 쌉니다. 그저 미안할 따름입니다.</p>\n<p>이제 일곱 살 된 딸아이와 시간을 더 보내려 합니다. 아이가 아빠 회사에 놀러 오고 싶다고 조르곤 했는데, 끝내 데려오지 못한 것이 조금 아쉽습니다.</p>\n<p>모두 건강하십시오.</p>",
+   "comments": [
+    {
+     "key": "R5-c1",
+     "postedAt": "2008-06-30 17:52",
+     "authorName": "임창수",
+     "authorDept": "영업본부",
+     "authorCode": "02007",
+     "content": "상무님 덕분에 여기까지 왔습니다. 곧 소주 한잔 올리겠습니다."
+    },
+    {
+     "key": "R5-c2",
+     "postedAt": "2008-06-30 18:03",
+     "authorName": "박혜수",
+     "authorDept": "영업본부",
+     "authorCode": "02028",
+     "content": "그동안 감사했습니다, 상무님."
+    },
+    {
+     "key": "R5-c3",
+     "postedAt": "2008-06-30 22:14",
+     "authorName": "여문혁",
+     "authorDept": "영업본부",
+     "authorCode": "02001",
+     "passcodes": [
+      "0417"
+     ],
+     "passcodeHint": "자네 딸 생일",
+     "content": "태호. 몇 해 전 자네 집에서 종이 한 장 펴 놓고 웃던 밤을 기억하나. 그날 내 농담을 자네 딸이 듣고 무서워했다지. 그 아이가 크거든 농담이었다고 일러 주게. 그 종이는 아직 내가 갖고 있네. 몸조심하게."
+    }
+   ]
+  },
+  {
+   "key": "R6",
+   "menu": "사보 아카이브",
+   "postedAt": "2001-05-02 09:00",
+   "importance": "SUPPORT",
+   "title": "[사보 2001년 5월호] 사우 경조사",
+   "authorName": "사보 편집부",
+   "viewCount": 96,
+   "contentHtml": "<ul>\n  <li>결혼: 재무부 김상훈 대리 (4월 7일)</li>\n  <li>득남: 총무부 이경호 과장 (4월 11일)</li>\n  <li>득녀: 정태호 상무 (4월 17일)</li>\n  <li>회갑: 박병수 고문 (4월 21일)</li>\n  <li>결혼: 영업부 윤미란 사원 (4월 28일)</li>\n</ul>\n<p>축하합니다.</p>"
+  },
+  {
+   "key": "R7",
+   "menu": "사보 아카이브",
+   "postedAt": "1996-11-01 09:00",
+   "importance": "SUPPORT",
+   "title": "[사보 1996년 11월호] 사우 경조사",
+   "authorName": "사보 편집부",
+   "viewCount": 74,
+   "contentHtml": "<ul>\n  <li>결혼: 영업부 강현수 사원 (10월 5일)</li>\n  <li>득남: 유희철 이사 (10월 12일)</li>\n  <li>부친상: 총무부 이경호 대리 (10월 19일)</li>\n  <li>득녀: 재무부 오영숙 주임 (10월 26일)</li>\n</ul>\n<p>축하와 위로의 마음을 전합니다.</p>"
+  },
+  {
+   "key": "R8",
+   "menu": "사내소식",
+   "postedAt": "2025-03-17 10:00",
+   "importance": "SUPPORT",
+   "title": "[사람과 일] 조직문화팀 정형미 차장을 만나다",
+   "authorName": "이채원",
+   "authorDept": "조직문화팀",
+   "authorCode": "01744",
+   "viewCount": 1264,
+   "contentHtml": "<p>이번 달에는 사내 고충 상담과 조직문화 진단을 맡고 있는 정형미 차장을 만났습니다.</p>\n<p><strong>회사 생활은 어떻게 시작하셨나요?</strong></p>\n<p>2007년에 입사해 인사팀에서 고충 상담을 맡았습니다. 사람들 이야기를 듣는 일이 지금까지 이어지고 있네요.</p>\n<p><strong>일하면서 가장 신경 쓰는 점은요?</strong></p>\n<p>끝까지 듣는 것입니다. 찾아오신 분은 대부분 말을 다 하기 전까지 진짜 하고 싶은 얘기를 꺼내지 않으세요.</p>\n<p><strong>쉬는 날에는 무엇을 하시나요?</strong></p>\n<p>예전에는 운동을 꽤 했는데 어깨를 다쳐서 그만뒀습니다. 요즘은 주말에 볼링을 칩니다. 공을 굴리는 정도는 괜찮더라고요.</p>"
+  },
+  {
+   "key": "R9",
+   "menu": "사내소식",
+   "postedAt": "2007-05-14 11:00",
+   "importance": "SUPPORT",
+   "title": "2007 전사 체육대회 결과",
+   "authorName": "신미경",
+   "authorDept": "총무팀",
+   "authorCode": "01266",
+   "viewCount": 1503,
+   "contentHtml": "<table>\n  <tr><th>종목</th><th>우승</th></tr>\n  <tr><td>줄다리기</td><td>재무본부</td></tr>\n  <tr><td>이어달리기</td><td>영업본부</td></tr>\n  <tr><td>2인 3각</td><td>법무실</td></tr>\n  <tr><td>과녁 던지기</td><td>경영지원본부</td></tr>\n</table>\n<p>과녁 던지기에서는 경영지원본부가 깜짝 우승을 차지했습니다. 올해 입사한 신입사원의 활약이 대단했다는 후문입니다.</p>\n<p>참가해 주신 모든 분께 감사드립니다.</p>"
+  },
+  {
+   "key": "R10",
+   "menu": "인사발령",
+   "postedAt": "2009-01-05 09:00",
+   "importance": "SUPPORT",
+   "title": "2009년 정기 승진 인사",
+   "authorName": "한지영",
+   "authorDept": "인사팀",
+   "authorCode": "01188",
+   "viewCount": 2210,
+   "contentHtml": "<table>\n  <tr><th>사번</th><th>성명</th><th>소속</th><th>승진 직급</th></tr>\n  <tr><td>01242</td><td>나윤석</td><td>경영지원본부</td><td>차장</td></tr>\n  <tr><td>02028</td><td>박혜수</td><td>영업본부</td><td>대리</td></tr>\n  <tr><td>03288</td><td>윤정훈</td><td>재무본부</td><td>과장</td></tr>\n  <tr><td>04037</td><td>진세희</td><td>법무실</td><td>대리</td></tr>\n</table>"
+  },
+  {
+   "key": "R11",
+   "menu": "인사발령",
+   "postedAt": "2013-01-07 09:00",
+   "importance": "SUPPORT",
+   "title": "2013년 정기 승진 인사",
+   "authorName": "한지영",
+   "authorDept": "인사팀",
+   "authorCode": "01188",
+   "viewCount": 2345,
+   "contentHtml": "<table>\n  <tr><th>사번</th><th>성명</th><th>소속</th><th>승진 직급</th></tr>\n  <tr><td>01315</td><td>정형미</td><td>경영지원본부</td><td>대리</td></tr>\n  <tr><td>02028</td><td>박혜수</td><td>영업본부</td><td>과장</td></tr>\n  <tr><td>02041</td><td>장석규</td><td>영업본부</td><td>대리</td></tr>\n  <tr><td>03288</td><td>윤정훈</td><td>재무본부</td><td>차장</td></tr>\n</table>"
+  },
+  {
+   "key": "R12",
+   "menu": "인사발령",
+   "postedAt": "2017-01-09 09:00",
+   "importance": "SUPPORT",
+   "title": "2017년 정기 승진 인사",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 2587,
+   "contentHtml": "<table>\n  <tr><th>사번</th><th>성명</th><th>소속</th><th>승진 직급</th></tr>\n  <tr><td>01315</td><td>정형미</td><td>조직문화팀</td><td>과장</td></tr>\n  <tr><td>02028</td><td>박혜수</td><td>영업본부</td><td>차장</td></tr>\n  <tr><td>02041</td><td>장석규</td><td>영업본부</td><td>과장</td></tr>\n  <tr><td>04037</td><td>진세희</td><td>법무실</td><td>과장</td></tr>\n</table>"
+  },
+  {
+   "key": "R13",
+   "menu": "인사발령",
+   "postedAt": "2021-01-04 09:00",
+   "importance": "SUPPORT",
+   "title": "2021년 정기 승진 및 보임 인사",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 3120,
+   "contentHtml": "<table>\n  <tr><th>사번</th><th>성명</th><th>소속</th><th>승진 직급</th></tr>\n  <tr><td>01315</td><td>정형미</td><td>조직문화팀</td><td>차장</td></tr>\n  <tr><td>02028</td><td>박혜수</td><td>전략실</td><td>부장</td></tr>\n  <tr><td>03288</td><td>윤정훈</td><td>재무본부</td><td>부장</td></tr>\n</table>\n<p>전략실장 보임: 박혜수 부장</p>",
+   "comments": [
+    {
+     "key": "R13-c1",
+     "postedAt": "2021-01-04 09:47",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "실장님 축하드립니다."
+    }
+   ]
+  },
+  {
+   "key": "R14",
+   "menu": "공지사항",
+   "postedAt": "2014-01-06 10:00",
+   "importance": "SUPPORT",
+   "title": "조직문화팀 신설 안내",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 1644,
+   "contentHtml": "<p>1월 13일자로 인사 쪽 고충 상담 기능을 모아 회장 직속 조직문화팀을 신설합니다.</p>\n<ul>\n  <li>담당 업무: 조직문화 진단, 사내 갈등 조정, 임직원 고충 상담</li>\n  <li>초대 팀장: 유희철 상무</li>\n</ul>\n<p>많은 이용 부탁드립니다.</p>"
+  },
+  {
+   "key": "R15",
+   "menu": "사내소식",
+   "postedAt": "2013-12-20 14:00",
+   "importance": "SUPPORT",
+   "title": "2013년 하반기 사내 표창 수상자",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 978,
+   "contentHtml": "<ul>\n  <li>우수사원상: 장석규 대리 (영업본부), 신규 거래처 확보</li>\n  <li>우수사원상: 윤정훈 차장 (재무본부), 원가 절감</li>\n  <li>우수사원상: 정형미 대리 (경영지원본부 인사팀), 신입사원 입문 교육 개편</li>\n</ul>\n<p>수상자 여러분 축하드립니다.</p>",
+   "comments": [
+    {
+     "key": "R15-c1",
+     "postedAt": "2013-12-20 14:21",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "모두 축하드립니다. 회식은 수상자가 내는 걸로 알고 있겠습니다."
+    },
+    {
+     "key": "R15-c2",
+     "postedAt": "2013-12-20 15:02",
+     "authorName": "권세영",
+     "authorDept": "재무본부",
+     "authorCode": "03466",
+     "content": "정 대리님 축하드려요. 지난번에 고민 잘 들어주셔서 정말 감사했습니다."
+    },
+    {
+     "key": "R15-c3",
+     "postedAt": "2014-03-27 23:41",
+     "deletedLabel": "관리자에 의해 삭제된 댓글입니다."
+    }
+   ]
+  },
+  {
+   "key": "R16",
+   "menu": "인사발령",
+   "postedAt": "2014-01-13 09:00",
+   "importance": "SUPPORT",
+   "title": "2014년 1월 부서 이동",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 1102,
+   "contentHtml": "<table>\n  <tr><th>사번</th><th>성명</th><th>이전 부서</th><th>이동 부서</th></tr>\n  <tr><td>01315</td><td>정형미</td><td>인사팀</td><td>조직문화팀</td></tr>\n  <tr><td>01390</td><td>배수진</td><td>총무팀</td><td>인사팀</td></tr>\n  <tr><td>03507</td><td>함보라</td><td>재무본부</td><td>총무팀</td></tr>\n</table>"
+  },
+  {
+   "key": "R17",
+   "menu": "인사발령",
+   "postedAt": "2024-05-20 09:00",
+   "importance": "SUPPORT",
+   "title": "2024년 5월 수시 인사",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 2941,
+   "contentHtml": "<table>\n  <tr><th>사번</th><th>성명</th><th>이전</th><th>발령</th></tr>\n  <tr><td>01782</td><td>유정석</td><td>경영지원본부 대리</td><td>사료관리팀장 (과장)</td></tr>\n  <tr><td>03655</td><td>민지아</td><td>재무본부 주임</td><td>재무본부 대리</td></tr>\n</table>",
+   "comments": [
+    {
+     "key": "R17-c1",
+     "postedAt": "2024-05-20 09:31",
+     "authorName": "신우진",
+     "authorDept": "경영지원본부",
+     "authorCode": "01779",
+     "content": "유 팀장님!! 동기로서 영광입니다."
+    },
+    {
+     "key": "R17-c2",
+     "postedAt": "2024-05-20 10:12",
+     "authorName": "유정석",
+     "authorDept": "경영지원본부",
+     "authorCode": "01782",
+     "content": "팀장이라고 해도 팀원이 둘입니다. 놀러 오세요. 조금 멉니다."
+    }
+   ]
+  },
+  {
+   "key": "R18",
+   "menu": "인사발령",
+   "postedAt": "2026-10-19 09:00",
+   "importance": "SUPPORT",
+   "title": "2026년 10월 신입사원 부서 배치",
+   "authorName": "배수진",
+   "authorDept": "인사팀",
+   "authorCode": "01390",
+   "viewCount": 3376,
+   "contentHtml": "<table>\n  <tr><th>사번</th><th>성명</th><th>배치 부서</th></tr>\n  <tr><td>01801</td><td>안소율</td><td>경영지원본부</td></tr>\n  <tr><td>02412</td><td>최건우</td><td>영업본부</td></tr>\n  <tr><td>03711</td><td>이도현</td><td>재무본부</td></tr>\n  <tr><td>05318</td><td>정준희</td><td>사료관리팀</td></tr>\n</table>\n<p>신입사원 여러분의 입사를 환영합니다.</p>",
+   "comments": [
+    {
+     "key": "R18-c1",
+     "postedAt": "2026-10-19 09:20",
+     "authorName": "유정석",
+     "authorDept": "사료관리팀",
+     "authorCode": "01782",
+     "content": "정준희 님, 자원해 주셔서 고맙습니다. 길이 멀어요. 조심히 오세요."
+    },
+    {
+     "key": "R18-c2",
+     "postedAt": "2026-10-19 09:26",
+     "authorName": "하도훈",
+     "authorDept": "사료관리팀",
+     "authorCode": "05231",
+     "content": "환영합니다! 환영회 케이크는 제가 쏘겠습니다."
+    }
+   ]
+  },
+  {
+   "key": "R19",
+   "menu": "사내소식",
+   "postedAt": "2025-10-20 13:30",
+   "importance": "SUPPORT",
+   "title": "2025 전사 가을 야유회 후기",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 2206,
+   "contentHtml": "<p>지난 금요일과 토요일, 양평 수련원에서 전사 가을 야유회가 열렸습니다. 올해는 2,300명이 참가했습니다.</p>\n<p>낮에는 본부 대항 족구, 저녁에는 고기와 술이 있었습니다. 고기가 모자라 총무팀이 밤 9시에 한 번 더 장을 봤습니다. 죄송합니다.</p>\n<p>사진은 총무팀 자료실에 올려 두었습니다. 찾으시는 분실물은 총무팀으로 문의 바랍니다.</p>",
+   "comments": [
+    {
+     "key": "R19-c1",
+     "postedAt": "2025-10-20 13:44",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "족구 심판 다시 봅시다. 그건 아웃이 아니었습니다."
+    },
+    {
+     "key": "R19-c2",
+     "postedAt": "2025-10-20 14:10",
+     "authorName": "하도훈",
+     "authorDept": "사료관리팀",
+     "authorCode": "05231",
+     "content": "저희 팀은 셋이 다 갔는데 고기만 먹고 왔습니다."
+    }
+   ]
+  },
+  {
+   "key": "R20",
+   "menu": "익명 라운지",
+   "postedAt": "2026-10-17 09:12",
+   "importance": "CORE",
+   "title": "어제 단체방 그 글 퍼옴",
+   "authorName": "익명9074",
+   "viewCount": 8421,
+   "contentHtml": "<p>못 본 사람 있을까 봐 그대로 옮김. 사료관리팀 노형철 대리가 어제 밤에 전사 단체방에 올린 글임.</p>\n<p>그동안너한테하고싶었던말이있었어처음마음이간건작년가을야유회때였어다들고기굽고술마시느라정신없었는데그날나사람들눈치도안보고계속너만쳐다봤어너는몰랐겠지그뒤로는회사에와도일이손에안잡혔어회의시간에네가발표하는목소리만들어도심장이쿵쾅거렸고복도에서네웃음소리가들리면괜히서류만뒤적거렸어점심시간마다나옥상에혼자올라가서바람맞으며네생각만했어커피한잔같이하자는말이왜그렇게어려운지몰라퇴근시간이넘어도나일부러사무실에남아있었어네자리에불이켜져있으면그것만으로도좋았거든네가아파서결근한날엔나점심도못먹고하루종일네빈자리만쳐다봤어사실나오래전부터이말을하려고몇번을입을열었다가그냥삼켰어네앞에만서면무슨말을해야할지다까먹었거든요즘은나층계를오르내릴때마다너랑마주칠까봐가슴이두근거려서혼났어몇일째잠도제대로못잤어이런기분은처음이야매일매일설레였어이제더는숨기지않을게좋아해진심이야내일저녁일곱시반에정문화단앞에서기다릴게안와도괜찮아그래도기다릴게</p>",
+   "comments": [
+    {
+     "key": "R20-c1",
+     "postedAt": "2026-10-17 09:20",
+     "authorName": "익명1573",
+     "content": "띄어쓰기 어디 갔음. 읽다가 숨 넘어가는 줄."
+    },
+    {
+     "key": "R20-c2",
+     "postedAt": "2026-10-17 09:41",
+     "authorName": "익명8676",
+     "content": "며칠이 맞는 표기다 이 사람아."
+    },
+    {
+     "key": "R20-c3",
+     "postedAt": "2026-10-17 10:05",
+     "authorName": "익명9617",
+     "content": "그래서 상대가 누군데. 사료관리팀이면 남자밖에 없지 않음?"
+    },
+    {
+     "key": "R20-c4",
+     "postedAt": "2026-10-19 09:33",
+     "authorName": "익명8820",
+     "content": "월요일에 사료관리팀으로 여자 신입 왔더라. 그 사람 얘기인 듯."
+    },
+    {
+     "key": "R20-c5",
+     "postedAt": "2026-10-20 18:47",
+     "authorName": "익명9328",
+     "content": "내일 저녁 일곱 시 반이면 지났는데 화단에는 누가 나왔을까."
+    },
+    {
+     "key": "R20-c6",
+     "postedAt": "2026-10-20 19:32",
+     "deletedLabel": "관리자에 의해 삭제된 댓글입니다."
+    },
+    {
+     "key": "R20-c7",
+     "postedAt": "2026-10-21 12:10",
+     "authorName": "익명3379",
+     "content": "그 글 얘기 그만들 하시죠. 당사자도 여기 볼 텐데요."
+    }
+   ]
+  },
+  {
+   "key": "R21",
+   "menu": "익명 라운지",
+   "postedAt": "2024-03-28 18:21",
+   "importance": "SUPPORT",
+   "title": "사료관리팀 여 팀장님 요즘 안 보이신다며?",
+   "authorName": "익명7479",
+   "viewCount": 1755,
+   "contentHtml": "<p>여문혁 팀장님 벌써 몇 주째 출근을 안 하신다던데 아는 사람 있음? 연세가 일흔이 넘으셨으니 아프신 건가.</p>",
+   "comments": [
+    {
+     "key": "R21-c1",
+     "postedAt": "2024-03-28 18:40",
+     "authorName": "익명3807",
+     "content": "그 연세에 무슨 일이래. 걱정되네."
+    },
+    {
+     "key": "R21-c2",
+     "postedAt": "2024-03-29 08:55",
+     "authorName": "익명8607",
+     "content": "회사에서 실종 처리한다는 얘기가 있음."
+    },
+    {
+     "key": "R21-c3",
+     "postedAt": "2024-03-29 09:30",
+     "authorName": "익명4152",
+     "content": "이런 얘기 여기서 하지 맙시다."
+    }
+   ]
+  },
+  {
+   "key": "R22",
+   "menu": "익명 라운지",
+   "postedAt": "2024-05-21 12:48",
+   "importance": "SUPPORT",
+   "title": "사료관리팀 새 팀장 나이 들었음?",
+   "authorName": "익명2688",
+   "viewCount": 2390,
+   "contentHtml": "<p>경영지원본부 대리가 입사 2년 만에 팀장 직행. 서른도 안 됐다는데. 뒤에 누가 있는 거지?</p>",
+   "comments": [
+    {
+     "key": "R22-c1",
+     "postedAt": "2024-05-21 13:01",
+     "authorName": "익명5386",
+     "content": "그런데 그 팀이면 승진인지 귀양인지 모르겠는데."
+    },
+    {
+     "key": "R22-c2",
+     "postedAt": "2024-05-21 14:02",
+     "authorName": "익명6083",
+     "content": "같이 일해 봤는데 사람은 괜찮음. 본인도 어리둥절해하더라."
+    }
+   ]
+  },
+  {
+   "key": "R25",
+   "menu": "익명 라운지",
+   "postedAt": "2024-06-26 19:10",
+   "importance": "CORE",
+   "title": "우리 새 팀장 한 달 보고",
+   "authorName": "익명7315",
+   "viewCount": 1410,
+   "contentHtml": "<p>부임 한 달. 분류표 읽는 법도 아직 모름. 결재는 잘함. 낙하산이 별거 아니고 이런 거임.</p>",
+   "comments": [
+    {
+     "key": "R25-c1",
+     "postedAt": "2024-06-26 19:30",
+     "authorName": "익명6556",
+     "content": "팀장이 이 글 보면 어쩌려고."
+    }
+   ]
+  },
+  {
+   "key": "R23",
+   "menu": "익명 라운지",
+   "postedAt": "2025-11-12 20:33",
+   "importance": "SUPPORT",
+   "title": "조직문화팀 면담 다녀온 사람 있음?",
+   "authorName": "익명6710",
+   "viewCount": 1980,
+   "contentHtml": "<p>다음 주에 면담 잡혔는데 무슨 얘기 하는 자리임? 그쪽 다녀온 사람들이 말을 잘 안 해 줘서 찝찝함.</p>",
+   "comments": [
+    {
+     "key": "R23-c1",
+     "postedAt": "2025-11-12 20:50",
+     "authorName": "익명6923",
+     "content": "정 차장님 앞에 앉아 봤는데 목소리 한 번 안 높이심. 나왔더니 손이 떨리더라."
+    },
+    {
+     "key": "R23-c2",
+     "postedAt": "2025-11-12 21:15",
+     "authorName": "익명7007",
+     "content": "아는 사람이 거기 고충 넣고 얼마 안 가서 퇴사했음. 우연이겠지."
+    },
+    {
+     "key": "R23-c3",
+     "postedAt": "2025-11-13 08:40",
+     "authorName": "익명4152",
+     "content": "다들 말조심. 여기도 누가 보는지 모름."
+    }
+   ]
+  },
+  {
+   "key": "R24",
+   "menu": "인사발령",
+   "postedAt": "2014-03-31 17:00",
+   "importance": "SUPPORT",
+   "title": "2014년 3월 퇴직자 안내",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 642,
+   "contentHtml": "<p>3월 31일자 퇴직자를 안내합니다.</p>\n<table>\n  <tr><th>사번</th><th>성명</th><th>소속</th><th>직급</th><th>사유</th></tr>\n  <tr><td>02096</td><td>심재윤</td><td>영업본부</td><td>과장</td><td>정년</td></tr>\n  <tr><td>03466</td><td>권세영</td><td>재무본부</td><td>대리</td><td>일신상의 사유</td></tr>\n  <tr><td>06077</td><td>나혜선</td><td>생산본부</td><td>차장</td><td>일신상의 사유</td></tr>\n  <tr><td>07150</td><td>육지훈</td><td>해외사업본부</td><td>사원</td><td>일신상의 사유</td></tr>\n</table>\n<p>그동안의 노고에 감사드립니다.</p>"
+  },
+  {
+   "key": "D1",
+   "menu": "익명 라운지",
+   "postedAt": "2024-03-29 00:12",
+   "importance": "SUPPORT",
+   "deletedLabel": "관리자에 의해 삭제된 게시물입니다."
+  },
+  {
+   "key": "D2",
+   "menu": "익명 라운지",
+   "postedAt": "2024-04-02 23:05",
+   "importance": "SUPPORT",
+   "deletedLabel": "관리자에 의해 삭제된 게시물입니다."
+  },
+  {
+   "key": "D3",
+   "menu": "익명 라운지",
+   "postedAt": "2024-04-15 22:40",
+   "importance": "SUPPORT",
+   "deletedLabel": "관리자에 의해 삭제된 게시물입니다."
+  },
+  {
+   "key": "W1",
+   "menu": "익명 라운지",
+   "postedAt": "2008-06-26 19:20",
+   "importance": "SUPPORT",
+   "title": "어제 인사 글에 단 댓글이 없어졌네요",
+   "authorName": "익명6740",
+   "viewCount": 840,
+   "contentHtml": "<p>어제 달았던 댓글이 오늘 보니 사라졌네요. 욕을 한 것도 아닌데요. 댓글도 지워지는 줄은 몰랐습니다.</p>",
+   "comments": [
+    {
+     "key": "W1-c1",
+     "postedAt": "2008-06-26 19:42",
+     "authorName": "익명5789",
+     "content": "저도 그렇습니다."
+    }
+   ]
+  },
+  {
+   "key": "W2",
+   "menu": "익명 라운지",
+   "postedAt": "2014-04-02 21:15",
+   "importance": "SUPPORT",
+   "title": "지난주에 쓴 댓글이 지워졌는데 이유 아시는 분",
+   "authorName": "익명4953",
+   "viewCount": 615,
+   "contentHtml": "<p>관리자에 의해 삭제됐다고만 나오고 따로 연락은 없었습니다. 어디에 물어봐야 하는지도 모르겠습니다.</p>",
+   "comments": [
+    {
+     "key": "W2-c1",
+     "postedAt": "2014-04-02 21:40",
+     "authorName": "익명6642",
+     "content": "정보관리팀에 물어보세요."
+    },
+    {
+     "key": "W2-c2",
+     "postedAt": "2014-04-03 09:12",
+     "authorName": "익명5579",
+     "content": "정보관리팀은 자기들이 한 게 아니라고 합니다."
+    }
+   ]
+  },
+  {
+   "key": "W3",
+   "menu": "익명 라운지",
+   "postedAt": "2024-04-03 08:50",
+   "importance": "SUPPORT",
+   "title": "제 글 왜 삭제됐죠?",
+   "authorName": "익명6710",
+   "viewCount": 1284,
+   "contentHtml": "<p>어젯밤에 올린 글이 아침에 없어졌음. 욕도 없었고 누구 실명도 안 썼음. 신고가 들어온 건가?</p>",
+   "comments": [
+    {
+     "key": "W3-c1",
+     "postedAt": "2024-04-03 09:05",
+     "authorName": "익명3800",
+     "content": "저도 전에 그랬어요. 점심 메뉴 글은 안 지워지던데."
+    },
+    {
+     "key": "W3-c2",
+     "postedAt": "2024-04-03 09:30",
+     "authorName": "구민재",
+     "authorDept": "정보관리팀",
+     "authorCode": "01520",
+     "content": "저희가 지운 건 아닙니다."
+    }
+   ]
+  },
+  {
+   "key": "W4",
+   "menu": "익명 라운지",
+   "postedAt": "2026-10-20 19:45",
+   "importance": "SUPPORT",
+   "title": "방금 쓴 댓글 왜 지워졌음?",
+   "authorName": "익명2047",
+   "viewCount": 932,
+   "contentHtml": "<p>그 글 얘기로 댓글 하나 달았는데 10분 만에 사라짐. 나만 그럼?</p>",
+   "comments": [
+    {
+     "key": "W4-c1",
+     "postedAt": "2026-10-20 19:58",
+     "authorName": "익명3800",
+     "content": "공지 나온 날이라 그런가."
+    }
+   ]
+  },
+  {
+   "key": "K1",
+   "menu": "동호회",
+   "postedAt": "2018-08-27 09:30",
+   "importance": "CORE",
+   "title": "등산 동호회 8월 모임: 매듭 강습 후기",
+   "authorName": "백두식",
+   "authorDept": "생산본부",
+   "authorCode": "06124",
+   "viewCount": 348,
+   "contentHtml": "<p>이번 달은 날이 더워 산 대신 회의실에서 매듭 강습을 했습니다. 강사로 오신 회원 친구분이 가르쳐 준 것 가운데 제일 신기했던 것을 적어 둡니다.</p>\n<p>도적 매듭은 고리나 기둥에 줄을 걸어 묶는 매듭입니다. 한쪽 줄에 사람이 매달려도 버티고, 남은 쪽 끝을 아래에서 당기면 스르르 풀립니다. 내려온 뒤에 줄을 회수할 수 있어, 위에 줄을 두고 오지 않아도 됩니다.</p>\n<p>회원 전원이 배웠습니다. 다음 달에는 정상에 도전합니다.</p>",
+   "comments": [
+    {
+     "key": "K1-c1",
+     "postedAt": "2018-08-27 09:50",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "정상에 가 보신 적이 없는데 내려오는 법부터 배우셨군요."
+    }
+   ]
+  },
+  {
+   "key": "K2",
+   "menu": "사내소식",
+   "postedAt": "2022-06-13 10:00",
+   "importance": "SUPPORT",
+   "title": "역사관 경비 심용택 님, 용감한 시민상 수상",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1287,
+   "contentHtml": "<p>역사관 경비를 맡고 계신 심용택 님이 지난달 퇴근길에 물에 빠진 초등학생을 구해 관할 경찰서에서 용감한 시민상을 받으셨습니다. 소속은 외주 업체이지만 저희 회사를 오래 지켜 주신 분이라 소식을 전합니다.</p>\n<p>표창장을 받으실 때 끝까지 쑥스러워하셨다고 합니다.</p>",
+   "comments": [
+    {
+     "key": "K2-c1",
+     "postedAt": "2022-06-13 10:30",
+     "authorName": "하도훈",
+     "authorDept": "사료관리팀",
+     "authorCode": "05231",
+     "content": "처음 보면 다들 무서워하시는데 정말 좋은 분입니다."
+    }
+   ]
+  },
+  {
+   "key": "K3",
+   "menu": "사내소식",
+   "postedAt": "2023-10-16 14:00",
+   "importance": "CORE",
+   "title": "[이달의 소장품] 창업 초기 광목 견본",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 212,
+   "contentHtml": "<p>이번 달 소장품은 창업 초기에 취급한 광목 견본입니다. 기증자인 옛 거래처 어르신께 당시 쓰임을 여쭸습니다.</p>\n<p><strong>광목은 어디에 많이 쓰였나요?</strong></p>\n<p>\"폭이 넓고 질겨서 안 쓰는 데가 없었지. 곡식 자루도 짓고 허리띠로도 맸어.\"</p>\n<p><strong>견본을 여태 갖고 계신 이유가 있나요?</strong></p>\n<p>\"두환상사 사람들이 처음 들고 온 물건이거든. 버리기가 아까워서.\"</p>",
+   "comments": [
+    {
+     "key": "K3-c1",
+     "postedAt": "2023-10-16 14:40",
+     "authorName": "김태수",
+     "authorDept": "총무팀",
+     "authorCode": "01288",
+     "content": "옛날 생각 나네요. 어릴 때 논에서 이런 천 가운데에 돌을 싸서 빙빙 돌리다 한쪽을 놓아 새를 쫓았습니다."
+    },
+    {
+     "key": "K3-c2",
+     "postedAt": "2023-10-16 15:05",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "저희 동네는 허수아비였습니다."
+    }
+   ]
+  },
+  {
+   "key": "K4",
+   "menu": "사내소식",
+   "postedAt": "2019-11-04 10:00",
+   "importance": "CORE",
+   "title": "2019 준법경영 특강 안내",
+   "authorName": "진세희",
+   "authorDept": "법무실",
+   "authorCode": "04037",
+   "viewCount": 640,
+   "contentHtml": "<p>이달 준법경영 특강을 아래와 같이 엽니다. 전 부서 필수 참석입니다.</p>\n<ul>\n  <li>일시: 11월 14일(목) 15:00</li>\n  <li>장소: 본사 대강당</li>\n  <li>강사: 문성재 변호사(그룹 법률 자문)</li>\n  <li>특별 강연: 서경호 변호사</li>\n</ul>\n<p>문 변호사님이 검찰 시절 동기이신 서경호 변호사를 모셔 왔습니다. 형사 사건 사례를 중심으로 말씀해 주십니다.</p>",
+   "comments": [
+    {
+     "key": "K4-c1",
+     "postedAt": "2019-11-04 10:25",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "졸면 형사 사건입니까?"
+    },
+    {
+     "key": "K4-c2",
+     "postedAt": "2019-11-04 10:40",
+     "authorName": "진세희",
+     "authorDept": "법무실",
+     "authorCode": "04037",
+     "content": "출석은 체크합니다."
+    }
+   ]
+  },
+  {
+   "key": "T1",
+   "menu": "사료관리팀",
+   "postedAt": "2023-03-14 10:20",
+   "importance": "CORE",
+   "title": "사료 분류 요령",
+   "authorName": "여문혁",
+   "authorDept": "사료관리팀",
+   "authorCode": "05087",
+   "viewCount": 12,
+   "contentHtml": "<p>새로 온 자네들을 위해 적어 두네.</p>\n<ul>\n  <li>오래된 종이는 맨손으로 오래 만지지 말 것.</li>\n  <li>사진은 뒷면의 날짜부터 볼 것. 앞면만 보면 헷갈리네.</li>\n  <li>전시용 자료는 1층 전시실, 그 밖의 자료는 2층 문서고.</li>\n  <li>오래된 행정 서류는 문서고 맨 아래 칸에 따로 모아 두었네.</li>\n</ul>\n<p>모르는 건 물어보게. 어차피 시간은 많으니.</p>",
+   "comments": [
+    {
+     "key": "T1-c1",
+     "postedAt": "2023-03-14 11:02",
+     "authorName": "노형철",
+     "authorDept": "사료관리팀",
+     "authorCode": "05230",
+     "content": "잘 읽었습니다, 팀장님. 점심 때 더 여쭤보겠습니다."
+    },
+    {
+     "key": "T1-c2",
+     "postedAt": "2023-03-14 11:30",
+     "authorName": "여문혁",
+     "authorDept": "사료관리팀",
+     "authorCode": "05087",
+     "content": "점심은 자네가 사게."
+    }
+   ]
+  },
+  {
+   "key": "T2",
+   "menu": "사료관리팀",
+   "postedAt": "2023-03-06 09:15",
+   "importance": "SUPPORT",
+   "title": "신입 인사드립니다",
+   "authorName": "하도훈",
+   "authorDept": "사료관리팀",
+   "authorCode": "05231",
+   "viewCount": 9,
+   "contentHtml": "<p>오늘 입사한 하도훈, 노형철입니다. 사번도 연달아 받았습니다. 건물이 생각보다 오래됐지만 열심히 하겠습니다.</p>",
+   "comments": [
+    {
+     "key": "T2-c1",
+     "postedAt": "2023-03-06 09:21",
+     "authorName": "노형철",
+     "authorDept": "사료관리팀",
+     "authorCode": "05230",
+     "content": "잘 부탁드립니다."
+    },
+    {
+     "key": "T2-c2",
+     "postedAt": "2023-03-06 09:40",
+     "authorName": "여문혁",
+     "authorDept": "사료관리팀",
+     "authorCode": "05087",
+     "content": "반갑네. 잘 지내 보세."
+    }
+   ]
+  },
+  {
+   "key": "T3",
+   "menu": "사료관리팀",
+   "postedAt": "2024-04-19 17:35",
+   "importance": "SUPPORT",
+   "title": "전임 팀장 자리 정리 완료",
+   "authorName": "노형철",
+   "authorDept": "사료관리팀",
+   "authorCode": "05230",
+   "viewCount": 7,
+   "contentHtml": "<p>인사팀 요청에 따라 여문혁 팀장님 자리를 정리했습니다. 회사 비품은 총무팀에 반납했습니다.</p>\n<p>특이사항 없음.</p>",
+   "comments": [
+    {
+     "key": "T3-c1",
+     "postedAt": "2024-04-19 17:50",
+     "authorName": "하도훈",
+     "authorDept": "사료관리팀",
+     "authorCode": "05231",
+     "content": "고생했다. 혼자 다 하게 해서 미안."
+    }
+   ]
+  },
+  {
+   "key": "T4",
+   "menu": "사료관리팀",
+   "postedAt": "2024-05-27 09:05",
+   "importance": "SUPPORT",
+   "title": "부임 인사",
+   "authorName": "유정석",
+   "authorDept": "사료관리팀",
+   "authorCode": "01782",
+   "viewCount": 8,
+   "contentHtml": "<p>오늘부터 사료관리팀장을 맡은 유정석입니다. 이 일은 저보다 두 분이 훨씬 잘 아시니 많이 가르쳐 주세요. 앞으로 잘 부탁드립니다.</p>",
+   "comments": [
+    {
+     "key": "T4-c1",
+     "postedAt": "2024-05-27 09:12",
+     "authorName": "하도훈",
+     "authorDept": "사료관리팀",
+     "authorCode": "05231",
+     "content": "환영합니다, 팀장님! 이런 분이 오시다니 저희 팀의 복입니다."
+    }
+   ]
+  },
+  {
+   "key": "T5",
+   "menu": "사료관리팀",
+   "postedAt": "2026-09-07 10:00",
+   "importance": "SUPPORT",
+   "title": "역사관 철거 대비 사료 분류 일정",
+   "authorName": "유정석",
+   "authorDept": "사료관리팀",
+   "authorCode": "01782",
+   "viewCount": 11,
+   "contentHtml": "<p>철거가 확정되어 올해 안에 사료를 모두 옮겨야 합니다.</p>\n<ul>\n  <li>9월: 1층 전시 자료 목록 작성</li>\n  <li>10월: 2층 문서고 분류 (신규 인력 1명 충원 예정)</li>\n  <li>11월: 본사 이관</li>\n</ul>\n<p>건물 안의 개인 물건도 그전에 챙겨 주세요.</p>",
+   "comments": [
+    {
+     "key": "T5-c1",
+     "postedAt": "2026-09-07 10:48",
+     "authorName": "노형철",
+     "authorDept": "사료관리팀",
+     "authorCode": "05230",
+     "content": "알겠습니다."
+    }
+   ]
+  },
+  {
+   "key": "T6",
+   "menu": "사료관리팀",
+   "postedAt": "2026-10-22 09:10",
+   "importance": "SUPPORT",
+   "title": "오늘 점심 환영회",
+   "authorName": "하도훈",
+   "authorDept": "사료관리팀",
+   "authorCode": "05231",
+   "viewCount": 4,
+   "contentHtml": "<p>정준희 님 환영회 오늘 점심 12시, 2층 사무실입니다. 케이크는 제가 사 옵니다. 시키실 메뉴는 11시까지 말씀해 주세요.</p>",
+   "comments": [
+    {
+     "key": "T6-c1",
+     "postedAt": "2026-10-22 09:15",
+     "authorName": "유정석",
+     "authorDept": "사료관리팀",
+     "authorCode": "01782",
+     "content": "고마워요. 저녁에 조사 자리가 있으니 그전에 밝은 기분으로 합시다."
+    },
+    {
+     "key": "T6-c2",
+     "postedAt": "2026-10-22 09:22",
+     "authorName": "정준희",
+     "authorDept": "사료관리팀",
+     "authorCode": "05318",
+     "content": "감사합니다. 저는 아무거나 괜찮습니다."
+    }
+   ]
+  },
+  {
+   "key": "T7",
+   "menu": "사료관리팀",
+   "postedAt": "2026-10-21 16:40",
+   "importance": "SUPPORT",
+   "title": "내일 진상조사 참석 안내",
+   "authorName": "유정석",
+   "authorDept": "사료관리팀",
+   "authorCode": "01782",
+   "viewCount": 4,
+   "contentHtml": "<p>조직문화팀 정형미 차장님이 전사 단체방 글 건으로 진상조사 자리를 여십니다.</p>\n<ul>\n  <li>일시: 내일 18:00</li>\n  <li>장소: 역사관 1층 회의실</li>\n  <li>참석: 유정석, 노형철, 정준희</li>\n</ul>\n<p>하도훈 주임은 해당이 없으니 정시 퇴근하세요.</p>",
+   "comments": [
+    {
+     "key": "T7-c1",
+     "postedAt": "2026-10-21 16:52",
+     "authorName": "하도훈",
+     "authorDept": "사료관리팀",
+     "authorCode": "05231",
+     "content": "네, 먼저 들어가 보겠습니다. 다들 너무 걱정 마세요."
+    }
+   ]
+  },
+  {
+   "key": "F001",
+   "menu": "공지사항",
+   "postedAt": "2006-03-02 09:00",
+   "importance": "FLAVOR",
+   "title": "사내 홈페이지 개편 오픈 안내",
+   "authorName": "권오성",
+   "authorDept": "정보관리팀",
+   "authorCode": "01170",
+   "viewCount": 4120,
+   "contentHtml": "<p>오늘부터 새 사내 홈페이지를 엽니다. 옛 홈페이지 게시물은 정보관리팀이 보관하며, 이곳으로 옮겨 오지 않습니다. 옛 글이 꼭 필요하신 분은 정보관리팀에 신청해 주세요.</p>",
+   "comments": [
+    {
+     "key": "F001-c1",
+     "postedAt": "2006-03-02 09:18",
+     "authorName": "박상길",
+     "authorDept": "영업본부",
+     "authorCode": "02037",
+     "content": "제 옛날 글은 어디 갔나요. 맛집 정리 3년 치인데요."
+    },
+    {
+     "key": "F001-c2",
+     "postedAt": "2006-03-02 09:40",
+     "authorName": "권오성",
+     "authorDept": "정보관리팀",
+     "authorCode": "01170",
+     "content": "보관 중입니다. 신청서는 결재 두 단계입니다."
+    },
+    {
+     "key": "F001-c3",
+     "postedAt": "2006-03-02 09:42",
+     "authorName": "박상길",
+     "authorDept": "영업본부",
+     "authorCode": "02037",
+     "content": "맛집 글을 결재받으라고요?"
+    }
+   ]
+  },
+  {
+   "key": "F002",
+   "menu": "공지사항",
+   "postedAt": "2006-11-13 10:00",
+   "importance": "FLAVOR",
+   "title": "본사 엘리베이터 정기 점검",
+   "authorName": "신미경",
+   "authorDept": "총무팀",
+   "authorCode": "01266",
+   "viewCount": 802,
+   "contentHtml": "<p>11월 15일 오전 9시부터 12시까지 1호기와 2호기 엘리베이터를 점검합니다. 계단을 이용해 주세요.</p>"
+  },
+  {
+   "key": "F003",
+   "menu": "공지사항",
+   "postedAt": "2007-06-04 09:30",
+   "importance": "FLAVOR",
+   "title": "복장 자율화 시범 실시",
+   "authorName": "신미경",
+   "authorDept": "총무팀",
+   "authorCode": "01266",
+   "viewCount": 5210,
+   "contentHtml": "<p>6월부터 8월까지 매주 금요일을 복장 자율의 날로 운영합니다.</p>\n<p>[6월 11일 추가] 반바지는 자율에 포함되지 않습니다. 슬리퍼도 포함되지 않습니다. 영업본부 박상길 대리님, 하와이안 셔츠도 포함되지 않습니다.</p>",
+   "comments": [
+    {
+     "key": "F003-c1",
+     "postedAt": "2007-06-11 10:02",
+     "authorName": "박상길",
+     "authorDept": "영업본부",
+     "authorCode": "02037",
+     "content": "저만 콕 집어서 쓰시는 건 너무하지 않습니까."
+    }
+   ]
+  },
+  {
+   "key": "F004",
+   "menu": "공지사항",
+   "postedAt": "2009-04-06 10:00",
+   "importance": "FLAVOR",
+   "title": "본사 주차 등록 추첨 안내",
+   "authorName": "김태수",
+   "authorDept": "총무팀",
+   "authorCode": "01288",
+   "viewCount": 2640,
+   "contentHtml": "<p>올해 주차 등록 신청자는 412명이고 자리는 130개입니다. 4월 20일에 추첨합니다. 임원 차량이라고 적어 내신 분들도 함께 추첨합니다.</p>",
+   "comments": [
+    {
+     "key": "F004-c1",
+     "postedAt": "2009-04-06 10:12",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "당첨 확률 31.6%입니다."
+    },
+    {
+     "key": "F004-c2",
+     "postedAt": "2009-04-06 10:30",
+     "authorName": "김태수",
+     "authorDept": "총무팀",
+     "authorCode": "01288",
+     "content": "재무본부는 계산이 빠르시네요. 추첨은 공정합니다."
+    }
+   ]
+  },
+  {
+   "key": "F005",
+   "menu": "공지사항",
+   "postedAt": "2011-02-14 11:00",
+   "importance": "FLAVOR",
+   "title": "사내 전화번호부 개편",
+   "authorName": "신미경",
+   "authorDept": "총무팀",
+   "authorCode": "01266",
+   "viewCount": 913,
+   "contentHtml": "<p>사내 전화번호부를 부서순으로 개편했습니다. 번호가 틀린 분은 총무팀으로 알려 주세요. 총무팀 번호도 바뀌었습니다. 새 번호는 전화번호부를 참고해 주세요.</p>"
+  },
+  {
+   "key": "F006",
+   "menu": "공지사항",
+   "postedAt": "2012-09-17 10:00",
+   "importance": "FLAVOR",
+   "title": "하반기 소방훈련 실시",
+   "authorName": "김태수",
+   "authorDept": "총무팀",
+   "authorCode": "01288",
+   "viewCount": 1180,
+   "contentHtml": "<p>9월 21일 오후 2시에 소방훈련을 합니다. 경보가 울리면 계단으로 대피해 주세요.</p>\n<p>작년 훈련 때 \"일이 바빠서\" 자리를 지키신 분이 41명입니다. 올해는 층별로 인원을 확인합니다.</p>",
+   "comments": [
+    {
+     "key": "F006-c1",
+     "postedAt": "2012-09-17 10:21",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "실제로 불이 나도 메일은 쓰고 나갈 것 같습니다."
+    }
+   ]
+  },
+  {
+   "key": "F007",
+   "menu": "공지사항",
+   "postedAt": "2014-02-10 09:00",
+   "importance": "DECOY",
+   "title": "본사 별관 사옥 이전 일정",
+   "authorName": "김태수",
+   "authorDept": "총무팀",
+   "authorCode": "01288",
+   "viewCount": 3302,
+   "contentHtml": "<p>재무본부와 법무실이 3월 8일 본사 별관 사옥으로 이전합니다. 개인 짐은 3월 6일까지 상자에 담아 주세요. 상자에 이름을 꼭 적어 주세요. 지난 이전 때 주인을 찾지 못한 화분이 아직 14개 있습니다.</p>"
+  },
+  {
+   "key": "F008",
+   "menu": "공지사항",
+   "postedAt": "2015-07-01 09:00",
+   "importance": "FLAVOR",
+   "title": "사내 쪽지 종료, 메신저 전환 안내",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 2740,
+   "contentHtml": "<p>7월 31일에 사내 쪽지를 종료하고 사내 메신저로 전환합니다. 메신저에는 전사 단체방과 부서별 단체방이 있으며, 메시지마다 보낸 사람 이름이 표시됩니다. 말씀에 주의해 주세요.</p>",
+   "comments": [
+    {
+     "key": "F008-c1",
+     "postedAt": "2015-07-01 09:44",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "전사 단체방에 잘못 올리는 사람 첫 번째는 누구일까요."
+    },
+    {
+     "key": "F008-c2",
+     "postedAt": "2015-07-01 10:03",
+     "authorName": "구민재",
+     "authorDept": "정보관리팀",
+     "authorCode": "01520",
+     "content": "시험 운영 중 이미 세 분 나왔습니다."
+    }
+   ]
+  },
+  {
+   "key": "F009",
+   "menu": "공지사항",
+   "postedAt": "2016-03-07 08:40",
+   "importance": "DECOY",
+   "title": "사옥 2호기 엘리베이터 고장",
+   "authorName": "김태수",
+   "authorDept": "총무팀",
+   "authorCode": "01288",
+   "viewCount": 2965,
+   "contentHtml": "<p>본사 사옥 2호기가 고장 났습니다. 부품 수급에 며칠 걸릴 예정입니다. 양해 부탁드립니다.</p>",
+   "comments": [
+    {
+     "key": "F009-c1",
+     "postedAt": "2016-03-21 09:01",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "며칠이 2주째입니다."
+    },
+    {
+     "key": "F009-c2",
+     "postedAt": "2016-05-02 09:15",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "덕분에 다리 근육이 생겼습니다. 고맙습니다."
+    },
+    {
+     "key": "F009-c3",
+     "postedAt": "2016-08-16 09:03",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "2호기 생일 축하합니다. 고장 다섯 달째입니다."
+    },
+    {
+     "key": "F009-c4",
+     "postedAt": "2016-08-16 09:40",
+     "authorName": "김태수",
+     "authorDept": "총무팀",
+     "authorCode": "01288",
+     "content": "다음 주에 부품이 옵니다."
+    },
+    {
+     "key": "F009-c5",
+     "postedAt": "2016-11-28 09:10",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "다음 주가 언제인지 여쭤도 될까요."
+    }
+   ]
+  },
+  {
+   "key": "F010",
+   "menu": "공지사항",
+   "postedAt": "2017-04-03 10:00",
+   "importance": "FLAVOR",
+   "title": "비품 신청 절차 변경",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1402,
+   "contentHtml": "<p>비품 신청은 앞으로 전자결재로 받습니다. 신청, 팀장 승인, 총무팀 확인의 3단계입니다. 볼펜 한 자루도 같습니다.</p>",
+   "comments": [
+    {
+     "key": "F010-c1",
+     "postedAt": "2017-04-03 10:12",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "볼펜 신청서를 쓰려면 볼펜이 필요한 건 아니죠?"
+    },
+    {
+     "key": "F010-c2",
+     "postedAt": "2017-04-03 10:20",
+     "authorName": "함보라",
+     "authorDept": "총무팀",
+     "authorCode": "03507",
+     "content": "전자결재입니다."
+    }
+   ]
+  },
+  {
+   "key": "F011",
+   "menu": "공지사항",
+   "postedAt": "2018-08-20 09:30",
+   "importance": "DECOY",
+   "title": "주차타워 1.5층 통제 안내",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1088,
+   "contentHtml": "<p>본사 주차타워 1.5층 경사로 보수 공사로 8월 22일부터 일주일간 1.5층 주차를 통제합니다. 다른 층을 이용해 주세요.</p>",
+   "comments": [
+    {
+     "key": "F011-c1",
+     "postedAt": "2018-08-20 10:05",
+     "authorName": "곽태민",
+     "authorDept": "해외사업본부",
+     "authorCode": "07118",
+     "content": "1.5층이라는 말을 입사 7년 만에 처음 들었습니다. 그런 층이 있었군요."
+    }
+   ]
+  },
+  {
+   "key": "F012",
+   "menu": "공지사항",
+   "postedAt": "2019-01-14 09:00",
+   "importance": "DECOY",
+   "title": "사옥 로비 리모델링",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1530,
+   "contentHtml": "<p>본사 사옥 로비를 2월까지 리모델링합니다. 공사 기간에는 후문을 이용해 주세요. 창업주 흉상은 잠시 지하 창고로 옮깁니다.</p>"
+  },
+  {
+   "key": "F013",
+   "menu": "공지사항",
+   "postedAt": "2020-03-02 08:30",
+   "importance": "FLAVOR",
+   "title": "재택근무 지침",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 7204,
+   "contentHtml": "<ul>\n  <li>근무 시간에는 메신저 상태를 켜 두세요.</li>\n  <li>화상회의에서는 카메라를 켜 주세요.</li>\n  <li>화상회의 중에는 상의와 함께 하의도 착용해 주세요. 일어나실 수 있습니다.</li>\n</ul>",
+   "comments": [
+    {
+     "key": "F013-c1",
+     "postedAt": "2020-03-02 09:01",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "세 번째 항목은 누구 때문에 생겼습니까."
+    },
+    {
+     "key": "F013-c2",
+     "postedAt": "2020-03-02 09:10",
+     "authorName": "오수연",
+     "authorDept": "인사팀",
+     "authorCode": "01433",
+     "content": "말씀드릴 수 없습니다. 임원입니다."
+    }
+   ]
+  },
+  {
+   "key": "F014",
+   "menu": "공지사항",
+   "postedAt": "2021-01-11 10:00",
+   "importance": "FLAVOR",
+   "title": "마스크 배부 안내",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 3320,
+   "contentHtml": "<p>이번 주 층별로 1인당 마스크 10매씩 배부합니다. 총무팀 앞에 줄을 서지 마시고 층별 담당자에게 받아 가세요.</p>"
+  },
+  {
+   "key": "F015",
+   "menu": "공지사항",
+   "postedAt": "2021-09-06 09:00",
+   "importance": "FLAVOR",
+   "title": "전사 단체방 사용 에티켓",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 4412,
+   "contentHtml": "<p>전사 단체방은 직원 전체가 봅니다. 아래 내용은 올리지 말아 주세요.</p>\n<ul>\n  <li>점심 메뉴 투표</li>\n  <li>개인 판매 글</li>\n  <li>\"잘못 보냈습니다\"라는 사과 메시지 (알림이 한 번 더 갑니다)</li>\n</ul>\n<p>사적인 내용이 전사 단체방에 올라가는 일은 앞으로 없기를 바랍니다.</p>"
+  },
+  {
+   "key": "F016",
+   "menu": "공지사항",
+   "postedAt": "2022-03-14 09:30",
+   "importance": "FLAVOR",
+   "title": "2022년 건강검진 안내",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 2980,
+   "contentHtml": "<p>올해 건강검진 대상자는 6월까지 검진을 마쳐 주세요. 검진 전날 회식은 피해 주세요. 작년 간 수치 평균이 올랐습니다.</p>",
+   "comments": [
+    {
+     "key": "F016-c1",
+     "postedAt": "2022-03-14 09:58",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "회식을 잡는 분께 먼저 전달 부탁드립니다."
+    }
+   ]
+  },
+  {
+   "key": "F017",
+   "menu": "공지사항",
+   "postedAt": "2022-01-10 10:00",
+   "importance": "FLAVOR",
+   "title": "연말정산 일정 안내",
+   "authorName": "윤정훈",
+   "authorDept": "재무본부",
+   "authorCode": "03288",
+   "viewCount": 5610,
+   "contentHtml": "<p>1월 28일까지 연말정산 자료를 제출해 주세요. 환급액은 2월 급여에 반영됩니다.</p>",
+   "comments": [
+    {
+     "key": "F017-c1",
+     "postedAt": "2022-02-25 12:01",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "재무본부 사람인 저도 토해 냈습니다. 위로가 되셨으면 합니다."
+    },
+    {
+     "key": "F017-c2",
+     "postedAt": "2022-02-25 12:20",
+     "authorName": "곽태민",
+     "authorDept": "해외사업본부",
+     "authorCode": "07118",
+     "content": "위로가 됩니다."
+    }
+   ]
+  },
+  {
+   "key": "F018",
+   "menu": "공지사항",
+   "postedAt": "2023-04-17 11:00",
+   "importance": "DECOY",
+   "title": "본사 옥상 정원 개방",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 2204,
+   "contentHtml": "<p>본사 옥상 정원을 평일 11시부터 14시까지 개방합니다. 옥상에서 금연이며 음식물은 드시고 치워 주세요.</p>",
+   "comments": [
+    {
+     "key": "F018-c1",
+     "postedAt": "2023-04-17 11:30",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "드디어 바람 쐴 곳이 생겼네요. 그동안 다들 어디서 쐬셨습니까."
+    }
+   ]
+  },
+  {
+   "key": "F019",
+   "menu": "공지사항",
+   "postedAt": "2023-05-08 09:30",
+   "importance": "DECOY",
+   "title": "본사 정문 화단 조경 공사",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1310,
+   "contentHtml": "<p>본사 정문 화단에 봄꽃을 새로 심습니다. 공사 후에는 화단에 들어가지 말아 주세요. 사진은 화단 밖에서 찍어 주세요.</p>"
+  },
+  {
+   "key": "F020",
+   "menu": "공지사항",
+   "postedAt": "2024-02-19 09:00",
+   "importance": "FLAVOR",
+   "title": "정문 주차 차단기 교체",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 990,
+   "contentHtml": "<p>2월 24일에 본사 정문 주차 차단기를 교체합니다. 등록 차량은 번호판 인식으로 바뀝니다. 번호를 잘못 등록한 분이 벌써 12분 있습니다. 본인 차 번호를 확인해 주세요.</p>"
+  },
+  {
+   "key": "F021",
+   "menu": "공지사항",
+   "postedAt": "2024-09-02 09:00",
+   "importance": "DECOY",
+   "title": "사다리차 외벽 청소 안내",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1475,
+   "contentHtml": "<p>9월 5일부터 이틀간 사다리차로 본사 외벽과 창문을 청소합니다. 창문 밖에 사람이 있어도 놀라지 마세요. 블라인드는 내려 두시기 바랍니다.</p>",
+   "comments": [
+    {
+     "key": "F021-c1",
+     "postedAt": "2024-09-05 10:30",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "창밖 작업자분과 눈이 마주쳐 인사했습니다. 재무본부는 11층입니다."
+    }
+   ]
+  },
+  {
+   "key": "F022",
+   "menu": "공지사항",
+   "postedAt": "2025-02-24 10:00",
+   "importance": "FLAVOR",
+   "title": "통근버스 노선 변경",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 2210,
+   "contentHtml": "<p>3월부터 3호차 노선이 바뀝니다. 기존 신도시 정류장은 5분 빨라지니 확인해 주세요.</p>"
+  },
+  {
+   "key": "F023",
+   "menu": "공지사항",
+   "postedAt": "2025-05-26 09:30",
+   "importance": "DECOY",
+   "title": "사내 금연 캠페인",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 1840,
+   "contentHtml": "<p>6월 한 달간 금연 캠페인을 합니다. 담배를 끊고 인증하신 분께 상품권을 드립니다. 흡연구역에서 담배 피우며 신청서를 작성하지 말아 주세요. 실제로 있었습니다.</p>",
+   "comments": [
+    {
+     "key": "F023-c1",
+     "postedAt": "2025-05-26 09:44",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "접니다. 끊을 생각으로 피웠습니다."
+    }
+   ]
+  },
+  {
+   "key": "F024",
+   "menu": "공지사항",
+   "postedAt": "2025-09-15 09:00",
+   "importance": "FLAVOR",
+   "title": "보안 서약서 제출 안내",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 1720,
+   "contentHtml": "<p>9월 말까지 전 직원 보안 서약서를 전자서명으로 제출해 주세요. 서약서 내용을 사진 찍어 단체방에 올리지 말아 주세요.</p>"
+  },
+  {
+   "key": "F025",
+   "menu": "공지사항",
+   "postedAt": "2026-02-09 10:00",
+   "importance": "FLAVOR",
+   "title": "명함 신청 시스템 변경",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 870,
+   "contentHtml": "<p>명함 신청이 온라인으로 바뀝니다. 직함과 이름 오타는 본인 확인 후 인쇄되며, 재인쇄는 본인 부담입니다.</p>"
+  },
+  {
+   "key": "F026",
+   "menu": "공지사항",
+   "postedAt": "2026-04-06 09:30",
+   "importance": "FLAVOR",
+   "title": "회의실 예약 규칙",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 2530,
+   "contentHtml": "<p>예약만 하고 쓰지 않는 회의실이 하루 평균 23건입니다. 앞으로 15분이 지나도록 입실하지 않으면 예약을 취소하고, 3회 반복 시 부서 이름을 공개합니다.</p>",
+   "comments": [
+    {
+     "key": "F026-c1",
+     "postedAt": "2026-04-06 09:51",
+     "authorName": "곽태민",
+     "authorDept": "해외사업본부",
+     "authorCode": "07118",
+     "content": "혹시 저희 본부만 그런 건 아닌지 미리 사과드립니다."
+    }
+   ]
+  },
+  {
+   "key": "F027",
+   "menu": "공지사항",
+   "postedAt": "2026-07-13 09:00",
+   "importance": "FLAVOR",
+   "title": "연차 사용 촉진 안내",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 3105,
+   "contentHtml": "<p>남은 연차를 연말까지 사용해 주세요. 연차를 내고 출근하지 말아 주세요.</p>",
+   "comments": [
+    {
+     "key": "F027-c1",
+     "postedAt": "2026-07-13 09:20",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "두 번째 문장을 팀장님께 꼭 전달 부탁드립니다."
+    }
+   ]
+  },
+  {
+   "key": "F028",
+   "menu": "공지사항",
+   "postedAt": "2026-10-20 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 메신저 이용 재안내",
+   "authorName": "정형미",
+   "authorDept": "조직문화팀",
+   "authorCode": "01315",
+   "viewCount": 4890,
+   "contentHtml": "<p>최근 전사 단체방에 개인적인 글이 올라와 많은 분이 불편을 겪으셨습니다. 조직문화팀에서 사실관계를 확인하고 있습니다.</p>\n<p>확인되지 않은 내용으로 특정 직원을 지목하거나 이야기를 옮기는 일은 삼가 주세요.</p>"
+  },
+  {
+   "key": "F029",
+   "menu": "사내소식",
+   "postedAt": "2007-04-23 14:00",
+   "importance": "FLAVOR",
+   "title": "창립 27주년 기념식",
+   "authorName": "신미경",
+   "authorDept": "총무팀",
+   "authorCode": "01266",
+   "viewCount": 760,
+   "contentHtml": "<p>창립 27주년 기념식을 무사히 마쳤습니다. 기념 수건은 층별로 나눠 드립니다. 올해는 색이 곱습니다.</p>"
+  },
+  {
+   "key": "F030",
+   "menu": "사내소식",
+   "postedAt": "2010-12-13 11:00",
+   "importance": "FLAVOR",
+   "title": "연탄 나눔 봉사 후기",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 540,
+   "contentHtml": "<p>지난 토요일 임직원 62명이 연탄 5천 장을 날랐습니다. 다음 날 팔이 올라가지 않으셨다면 정상입니다. 수고하셨습니다.</p>"
+  },
+  {
+   "key": "F031",
+   "menu": "사내소식",
+   "postedAt": "2011-10-10 09:30",
+   "importance": "FLAVOR",
+   "title": "국제 직물 전시회 수상 소식",
+   "authorName": "곽태민",
+   "authorDept": "해외사업본부",
+   "authorCode": "07118",
+   "viewCount": 1130,
+   "contentHtml": "<p>파리 직물 전시회에서 저희 신소재 원단이 혁신상을 받았습니다. 두환상사 때 원단 보따리를 들고 다니던 선배님들께 이 상을 돌립니다.</p>"
+  },
+  {
+   "key": "F032",
+   "menu": "사내소식",
+   "postedAt": "2013-03-11 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 표어 공모전 공고",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 1240,
+   "contentHtml": "<p>일하기 좋은 회사를 위한 표어를 공모합니다. 대상 상금은 30만 원입니다. 익명으로 제출할 수 있습니다. 심사위원이 웃으면 가산점이 있습니다.</p>"
+  },
+  {
+   "key": "F033",
+   "menu": "사내소식",
+   "postedAt": "2013-04-08 14:00",
+   "importance": "FLAVOR",
+   "title": "표어 공모전 당선작",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 2005,
+   "contentHtml": "<ul>\n  <li>대상: 회의는 짧게, 인생은 길게</li>\n  <li>최우수상: 메일은 간결하게, 참조는 신중하게</li>\n  <li>우수상: 인사는 먼저, 퇴근은 제때</li>\n</ul>",
+   "comments": [
+    {
+     "key": "F033-c1",
+     "postedAt": "2013-04-08 14:20",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "대상 수상자가 다음 주 회의를 두 시간 잡았습니다."
+    }
+   ]
+  },
+  {
+   "key": "F034",
+   "menu": "사내소식",
+   "postedAt": "2013-04-09 11:00",
+   "importance": "FLAVOR",
+   "title": "표어 공모전 아쉽게 떨어진 작품들",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 3890,
+   "contentHtml": "<p>심사위원들이 차마 상을 줄 수 없었지만 오래 웃었던 작품을 소개합니다.</p>\n<ul>\n  <li>월요일은 우리의 적, 금요일은 우리의 희망</li>\n  <li>부장님 말씀, 한 귀로 듣고 수첩에 적는 척</li>\n  <li>우리 회사 좋은 회사, 집이 더 좋은 회사</li>\n  <li>복사기는 잘못이 없다</li>\n  <li>퇴사는 짧고 대출은 길다</li>\n</ul>",
+   "comments": [
+    {
+     "key": "F034-c1",
+     "postedAt": "2013-04-09 11:20",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "\"퇴사는 짧고 대출은 길다\"에 상을 줘야 합니다."
+    }
+   ]
+  },
+  {
+   "key": "F035",
+   "menu": "사내소식",
+   "postedAt": "2015-11-02 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 사진 공모전 결과",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 1670,
+   "contentHtml": "<p>대상은 총무팀 함보라 대리의 \"금요일의 돈가스\"입니다. 심사평: 구도는 평범하나 모두의 마음을 움직였습니다.</p>"
+  },
+  {
+   "key": "F036",
+   "menu": "사내소식",
+   "postedAt": "2016-12-19 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 노래자랑 결과",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 2440,
+   "contentHtml": "<p>대상은 법무실 진세희 대리의 발라드입니다. 인기상은 영업본부 전무님의 트로트로, 네 곡을 연달아 부르셔서 시간 관계상 마이크를 정중히 회수했습니다.</p>"
+  },
+  {
+   "key": "F037",
+   "menu": "사내소식",
+   "postedAt": "2018-05-14 11:00",
+   "importance": "FLAVOR",
+   "title": "2018 체육대회 결과",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1780,
+   "contentHtml": "<p>줄다리기는 재무본부가 3연패했습니다. 영업본부에서 재무본부의 줄이 더 짧았다며 재경기를 요청했으나 받아들이지 않았습니다.</p>",
+   "comments": [
+    {
+     "key": "F037-c1",
+     "postedAt": "2018-05-14 11:30",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "재무본부 분들이 평소에 쥐고 있는 게 많아 악력이 다릅니다."
+    },
+    {
+     "key": "F037-c2",
+     "postedAt": "2018-05-14 11:42",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "예산 말씀이십니까. 내년 예산 기대해 주세요."
+    }
+   ]
+  },
+  {
+   "key": "F038",
+   "menu": "사내소식",
+   "postedAt": "2019-04-22 10:00",
+   "importance": "FLAVOR",
+   "title": "창립 39주년 기념 떡 배부",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1320,
+   "contentHtml": "<p>오늘 층별 탕비실에 기념 떡을 놓아 두었습니다. 1인 1개입니다.</p>\n<p>[11시 추가] 7층 떡이 사라졌습니다. 1인 1개입니다.</p>"
+  },
+  {
+   "key": "F039",
+   "menu": "사내소식",
+   "postedAt": "2020-10-19 10:00",
+   "importance": "FLAVOR",
+   "title": "온라인 체육대회 결과",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 2115,
+   "contentHtml": "<p>올해 체육대회는 온라인으로 열렸습니다. 인기 종목 \"화면 켠 채 오래 버티기\"에서 재무본부 오재민 과장이 7시간 12분으로 우승했습니다. 다음 날 업무 확인을 받으셨습니다.</p>"
+  },
+  {
+   "key": "F040",
+   "menu": "사내소식",
+   "postedAt": "2021-11-15 13:00",
+   "importance": "FLAVOR",
+   "title": "사내 베이킹 대회 후기",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 1205,
+   "contentHtml": "<p>심사위원 세 분 중 두 분이 조퇴하셨습니다. 대상은 끝까지 멀쩡했던 심사위원이 고른 작품입니다. 원인은 조사 중이며 대회와 무관할 가능성이 있습니다.</p>"
+  },
+  {
+   "key": "F041",
+   "menu": "사내소식",
+   "postedAt": "2022-12-26 10:00",
+   "importance": "FLAVOR",
+   "title": "올해의 DH인 선정",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 1490,
+   "contentHtml": "<p>올해의 DH인으로 총무팀 함보라 과장을 선정했습니다. 2호기 엘리베이터를 끝까지 지켜본 공로입니다.</p>",
+   "comments": [
+    {
+     "key": "F041-c1",
+     "postedAt": "2022-12-26 10:20",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "인정합니다. 2호기도 축하합니다."
+    }
+   ]
+  },
+  {
+   "key": "F042",
+   "menu": "사내소식",
+   "postedAt": "2023-03-20 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 유튜브 채널 개설",
+   "authorName": "이채원",
+   "authorDept": "조직문화팀",
+   "authorCode": "01744",
+   "viewCount": 802,
+   "contentHtml": "<p>사내 유튜브 채널을 열었습니다. 첫 영상은 \"회장님의 하루\"입니다. 많은 시청 부탁드립니다.</p>\n<p>[한 달 뒤 추가] 현재 조회수 12회입니다. 그중 9회는 저입니다.</p>"
+  },
+  {
+   "key": "F043",
+   "menu": "사내소식",
+   "postedAt": "2023-06-12 15:00",
+   "importance": "FLAVOR",
+   "title": "대표이사 타운홀 Q&A 모음",
+   "authorName": "이채원",
+   "authorDept": "조직문화팀",
+   "authorCode": "01744",
+   "viewCount": 3320,
+   "contentHtml": "<p>미리 받은 질문 가운데 많이 나온 순서입니다.</p>\n<ol>\n  <li>주차장은요?</li>\n  <li>2호기는요?</li>\n  <li>금요일 돈가스는요?</li>\n  <li>회사의 10년 후 비전은요?</li>\n</ol>\n<p>대표이사께서 네 번째 질문만 답변하셨습니다.</p>"
+  },
+  {
+   "key": "F044",
+   "menu": "사내소식",
+   "postedAt": "2024-05-13 11:00",
+   "importance": "DECOY",
+   "title": "2024 체육대회 결과",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1620,
+   "contentHtml": "<p>공 던지기 우승은 영업본부 신입 최강우 사원입니다. 45미터를 던져 전 야구부의 위엄을 보여 주셨습니다. 던지기 시상식에서 상품 봉투도 던져 드렸습니다.</p>"
+  },
+  {
+   "key": "F045",
+   "menu": "사내소식",
+   "postedAt": "2024-11-18 11:00",
+   "importance": "FLAVOR",
+   "title": "사내 바자회 후기",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 940,
+   "contentHtml": "<p>수익금 412만 원을 전액 기부했습니다. 끝까지 팔리지 않은 물건은 아재개그 연구회의 회지 37부입니다.</p>"
+  },
+  {
+   "key": "F046",
+   "menu": "사내소식",
+   "postedAt": "2025-04-07 16:00",
+   "importance": "FLAVOR",
+   "title": "신입사원 장기자랑",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 1880,
+   "contentHtml": "<p>장기자랑을 강요하던 문화를 없애기로 해서 올해부터 자원자만 무대에 섭니다. 올해 자원자는 0명이었습니다. 대신 부장님들이 나오셨습니다. 내년에는 다시 논의하겠습니다.</p>"
+  },
+  {
+   "key": "F047",
+   "menu": "사내소식",
+   "postedAt": "2025-09-29 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 오디션 결과",
+   "authorName": "이채원",
+   "authorDept": "조직문화팀",
+   "authorCode": "01744",
+   "viewCount": 1460,
+   "contentHtml": "<p>심사위원 특별 무대에서 심사위원 전원이 음이탈을 하여, 합의를 거쳐 심사위원 전원을 탈락시켰습니다. 참가자는 전원 합격했습니다.</p>"
+  },
+  {
+   "key": "F048",
+   "menu": "사내소식",
+   "postedAt": "2026-09-14 10:00",
+   "importance": "DECOY",
+   "title": "사내 에세이 공모: 내 인생의 야유회",
+   "authorName": "이채원",
+   "authorDept": "조직문화팀",
+   "authorCode": "01744",
+   "viewCount": 730,
+   "contentHtml": "<p>이번 에세이 주제는 \"내 인생의 야유회\"입니다. 원고지 5매 이내, 사내 야유회의 추억이면 무엇이든 좋습니다. 특정인 실명은 빼 주세요. 작년 야유회 분실물 이야기도 받습니다.</p>"
+  },
+  {
+   "key": "F049",
+   "menu": "경조사",
+   "postedAt": "2007-09-03 10:00",
+   "importance": "FLAVOR",
+   "title": "[결혼] 영업본부 박상길 대리",
+   "authorName": "박상길",
+   "authorDept": "영업본부",
+   "authorCode": "02037",
+   "viewCount": 310,
+   "contentHtml": "<p>9월 22일 12시, 시청역 웨딩홀에서 결혼합니다. 하와이안 셔츠는 입지 않겠습니다.</p>"
+  },
+  {
+   "key": "F050",
+   "menu": "경조사",
+   "postedAt": "2009-02-18 09:00",
+   "importance": "FLAVOR",
+   "title": "[부고] 재무본부 오재민 사원 부친상",
+   "authorName": "인사팀",
+   "viewCount": 280,
+   "contentHtml": "<p>재무본부 오재민 사원의 부친께서 별세하셨습니다. 삼가 고인의 명복을 빕니다. 발인은 2월 20일입니다.</p>"
+  },
+  {
+   "key": "F051",
+   "menu": "경조사",
+   "postedAt": "2010-06-07 10:00",
+   "importance": "DECOY",
+   "title": "[돌잔치] 총무팀 김태수 차장 아들 돌",
+   "authorName": "김태수",
+   "authorDept": "총무팀",
+   "authorCode": "01288",
+   "viewCount": 215,
+   "contentHtml": "<p>아들 돌잔치를 6월 19일에 합니다. 돌잡이 상에 소화기는 올리지 않습니다.</p>"
+  },
+  {
+   "key": "F052",
+   "menu": "경조사",
+   "postedAt": "2011-05-09 09:10",
+   "importance": "FLAVOR",
+   "title": "[정정] 결혼 소식 신부 성함 오타 사과",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 1720,
+   "contentHtml": "<p>지난주 게시한 결혼 소식에서 신부 성함을 신랑 전 여자친구 성함으로 잘못 적었습니다. 어떻게 알았는지는 묻지 말아 주세요. 신랑 신부께 진심으로 사과드립니다.</p>",
+   "comments": [
+    {
+     "key": "F052-c1",
+     "postedAt": "2011-05-09 09:30",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "신랑은 지금 괜찮습니까."
+    },
+    {
+     "key": "F052-c2",
+     "postedAt": "2011-05-09 09:42",
+     "authorName": "최다솜",
+     "authorDept": "인사팀",
+     "authorCode": "01302",
+     "content": "연차입니다."
+    }
+   ]
+  },
+  {
+   "key": "F053",
+   "menu": "경조사",
+   "postedAt": "2012-08-20 09:00",
+   "importance": "FLAVOR",
+   "title": "[득남] 법무실 진세희 대리",
+   "authorName": "인사팀",
+   "viewCount": 190,
+   "contentHtml": "<p>법무실 진세희 대리가 득남했습니다. 산모와 아기 모두 건강합니다. 축하드립니다.</p>"
+  },
+  {
+   "key": "F054",
+   "menu": "경조사",
+   "postedAt": "2013-10-02 09:00",
+   "importance": "FLAVOR",
+   "title": "[부고] 총무팀 신미경 과장 모친상",
+   "authorName": "인사팀",
+   "viewCount": 240,
+   "contentHtml": "<p>총무팀 신미경 과장의 모친께서 별세하셨습니다. 삼가 고인의 명복을 빕니다.</p>"
+  },
+  {
+   "key": "F055",
+   "menu": "경조사",
+   "postedAt": "2014-04-14 10:00",
+   "importance": "DECOY",
+   "title": "[돌잔치] 영업본부 장석규 대리 딸 돌",
+   "authorName": "장석규",
+   "authorDept": "영업본부",
+   "authorCode": "02041",
+   "viewCount": 330,
+   "contentHtml": "<p>딸 돌잔치에 초대합니다. 돌잡이 상에 결재판을 올렸는데 아내가 치웠습니다.</p>"
+  },
+  {
+   "key": "F056",
+   "menu": "경조사",
+   "postedAt": "2015-03-23 10:00",
+   "importance": "FLAVOR",
+   "title": "[결혼] 총무팀 함보라 님과 조현우 님",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1205,
+   "contentHtml": "<p>4월 11일에 결혼합니다. 같은 층에서 3년 동안 눈치 보며 잘 숨겼습니다. 축의금은 편하게 해 주세요.</p>",
+   "comments": [
+    {
+     "key": "F056-c1",
+     "postedAt": "2015-03-23 10:08",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "두 분 만나는 거 총무팀만 빼고 다 알았습니다."
+    },
+    {
+     "key": "F056-c2",
+     "postedAt": "2015-03-23 10:20",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "사내 커플 축의금은 두 사람 다 아는 경우 두 배인가요, 한 번인가요."
+    }
+   ]
+  },
+  {
+   "key": "F057",
+   "menu": "경조사",
+   "postedAt": "2016-07-11 09:00",
+   "importance": "FLAVOR",
+   "title": "[득녀] 재무본부 오재민 대리",
+   "authorName": "인사팀",
+   "viewCount": 205,
+   "contentHtml": "<p>재무본부 오재민 대리가 득녀했습니다. 축하드립니다.</p>"
+  },
+  {
+   "key": "F058",
+   "menu": "경조사",
+   "postedAt": "2017-02-06 10:00",
+   "importance": "FLAVOR",
+   "title": "[득남] 해외사업본부 곽태민 과장 쌍둥이",
+   "authorName": "곽태민",
+   "authorDept": "해외사업본부",
+   "authorCode": "07118",
+   "viewCount": 870,
+   "contentHtml": "<p>쌍둥이 아들입니다. 이제 해외 출장이 제 휴가입니다. 아내는 이 글을 보지 않습니다.</p>",
+   "comments": [
+    {
+     "key": "F058-c1",
+     "postedAt": "2017-02-06 21:12",
+     "authorName": "곽태민",
+     "authorDept": "해외사업본부",
+     "authorCode": "07118",
+     "content": "아내가 봤습니다. 위 문장은 농담입니다."
+    }
+   ]
+  },
+  {
+   "key": "F059",
+   "menu": "경조사",
+   "postedAt": "2018-10-01 09:00",
+   "importance": "FLAVOR",
+   "title": "[결혼] 영업본부 양준호 대리",
+   "authorName": "인사팀",
+   "viewCount": 180,
+   "contentHtml": "<p>영업본부 양준호 대리가 10월 20일 결혼합니다. 축하드립니다.</p>"
+  },
+  {
+   "key": "F060",
+   "menu": "경조사",
+   "postedAt": "2019-03-18 09:00",
+   "importance": "FLAVOR",
+   "title": "[부고] 인사팀 오수연 과장 빙모상",
+   "authorName": "인사팀",
+   "viewCount": 230,
+   "contentHtml": "<p>인사팀 오수연 과장의 배우자 모친께서 별세하셨습니다. 삼가 고인의 명복을 빕니다.</p>"
+  },
+  {
+   "key": "F061",
+   "menu": "경조사",
+   "postedAt": "2020-09-07 10:00",
+   "importance": "FLAVOR",
+   "title": "[결혼] 비대면 결혼식 안내",
+   "authorName": "민지아",
+   "authorDept": "재무본부",
+   "authorCode": "03655",
+   "viewCount": 660,
+   "contentHtml": "<p>하객 제한으로 결혼식을 온라인으로도 중계합니다. 링크 들어오실 때 음소거 부탁드립니다. 지난번 다른 분 식에서 \"이거 어떻게 끄는 거야\"가 주례사보다 크게 들렸습니다.</p>"
+  },
+  {
+   "key": "F062",
+   "menu": "경조사",
+   "postedAt": "2021-11-22 10:00",
+   "importance": "DECOY",
+   "title": "[돌잔치] 재무본부 민지아 주임 아들 돌",
+   "authorName": "민지아",
+   "authorDept": "재무본부",
+   "authorCode": "03655",
+   "viewCount": 175,
+   "contentHtml": "<p>아들 돌잔치는 가족끼리 조촐하게 합니다. 돌잡이로 마우스를 잡았습니다. 앞날이 걱정됩니다.</p>"
+  },
+  {
+   "key": "F063",
+   "menu": "경조사",
+   "postedAt": "2022-05-02 10:00",
+   "importance": "FLAVOR",
+   "title": "[결혼] 생산본부 세 번째 사내 커플",
+   "authorName": "백두식",
+   "authorDept": "생산본부",
+   "authorCode": "06124",
+   "viewCount": 540,
+   "contentHtml": "<p>저희 팀에서 세 번째 사내 커플이 나왔습니다. 팀장인 제가 앞의 두 쌍도 소개했습니다. 중매비는 받지 않겠습니다. 다만 저희 팀 지원은 환영합니다.</p>"
+  },
+  {
+   "key": "F064",
+   "menu": "경조사",
+   "postedAt": "2023-08-14 09:00",
+   "importance": "FLAVOR",
+   "title": "[득녀] 총무팀 김태수 부장",
+   "authorName": "인사팀",
+   "viewCount": 165,
+   "contentHtml": "<p>총무팀 김태수 부장이 늦둥이 딸을 얻었습니다. 축하드립니다.</p>"
+  },
+  {
+   "key": "F065",
+   "menu": "경조사",
+   "postedAt": "2025-01-20 09:00",
+   "importance": "FLAVOR",
+   "title": "[부고] 영업본부 양준호 과장 조부상",
+   "authorName": "인사팀",
+   "viewCount": 150,
+   "contentHtml": "<p>영업본부 양준호 과장의 조부께서 별세하셨습니다. 삼가 고인의 명복을 빕니다.</p>"
+  },
+  {
+   "key": "F066",
+   "menu": "경조사",
+   "postedAt": "2026-08-24 10:00",
+   "importance": "FLAVOR",
+   "title": "[결혼] 재무본부 고은비 사원",
+   "authorName": "고은비",
+   "authorDept": "재무본부",
+   "authorCode": "03698",
+   "viewCount": 220,
+   "contentHtml": "<p>9월 19일에 결혼합니다. 축의금 관련 문의는 재무본부답게 영수증 처리해 드립니다.</p>"
+  },
+  {
+   "key": "F067",
+   "menu": "동호회",
+   "postedAt": "2007-04-09 09:30",
+   "importance": "FLAVOR",
+   "title": "등산 동호회 창단 첫 산행",
+   "authorName": "백두식",
+   "authorDept": "생산본부",
+   "authorCode": "06124",
+   "viewCount": 380,
+   "contentHtml": "<p>등산 동호회가 창단했습니다. 첫 산행은 북한산입니다. 회장 이름이 백두식이라 회장이 되었습니다.</p>"
+  },
+  {
+   "key": "F068",
+   "menu": "동호회",
+   "postedAt": "2010-10-18 09:30",
+   "importance": "FLAVOR",
+   "title": "등산 동호회 후기: 정상은 다음 기회에",
+   "authorName": "백두식",
+   "authorDept": "생산본부",
+   "authorCode": "06124",
+   "viewCount": 295,
+   "contentHtml": "<p>날씨가 좋았습니다. 중턱의 파전이 훌륭했습니다. 정상은 다음 기회에 가겠습니다.</p>"
+  },
+  {
+   "key": "F069",
+   "menu": "동호회",
+   "postedAt": "2015-05-11 09:30",
+   "importance": "FLAVOR",
+   "title": "등산 동호회 후기: 정상은 또 다음 기회에",
+   "authorName": "백두식",
+   "authorDept": "생산본부",
+   "authorCode": "06124",
+   "viewCount": 402,
+   "contentHtml": "<p>창단 8년 차입니다. 아직 정상에 간 적은 없지만, 전국 산 입구 파전집 지도를 완성했습니다. 회원 모집합니다.</p>",
+   "comments": [
+    {
+     "key": "F069-c1",
+     "postedAt": "2015-05-11 09:50",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "동호회 이름을 바꾸실 때가 된 것 같습니다."
+    }
+   ]
+  },
+  {
+   "key": "F070",
+   "menu": "동호회",
+   "postedAt": "2011-03-14 12:00",
+   "importance": "DECOY",
+   "title": "소프트볼 동호회 신입 회원 모집",
+   "authorName": "강민호",
+   "authorDept": "재무본부",
+   "authorCode": "03412",
+   "viewCount": 310,
+   "contentHtml": "<p>던지기, 치기, 달리기 중 하나만 못하셔도 괜찮습니다. 전부 못하셔도 괜찮습니다. 매주 토요일 오전에 모입니다.</p>"
+  },
+  {
+   "key": "F071",
+   "menu": "동호회",
+   "postedAt": "2012-12-03 12:00",
+   "importance": "FLAVOR",
+   "title": "사내 밴드 \"결재선\" 연말 공연",
+   "authorName": "차준호",
+   "authorDept": "해외사업본부",
+   "authorCode": "07201",
+   "viewCount": 680,
+   "contentHtml": "<p>12월 21일 금요일 저녁 대강당에서 공연합니다. 대표곡은 \"반려\", \"재상신\", \"전결\"입니다. 앙코르곡은 \"퇴근\"입니다.</p>"
+  },
+  {
+   "key": "F072",
+   "menu": "동호회",
+   "postedAt": "2013-09-23 10:00",
+   "importance": "FLAVOR",
+   "title": "바둑 동호회 사내 대국 결과",
+   "authorName": "윤기택",
+   "authorDept": "법무실",
+   "authorCode": "04051",
+   "viewCount": 145,
+   "contentHtml": "<p>우승은 법무실 윤기택입니다. 준우승자가 대국 내용에 이의를 제기하여 법무실에 검토를 요청했습니다. 법무실 윤기택이 검토하겠습니다.</p>"
+  },
+  {
+   "key": "F073",
+   "menu": "동호회",
+   "postedAt": "2014-06-30 09:00",
+   "importance": "FLAVOR",
+   "title": "낚시 동호회 조과 보고",
+   "authorName": "표진성",
+   "authorDept": "생산본부",
+   "authorCode": "06188",
+   "viewCount": 260,
+   "contentHtml": "<p>이번에도 빈손이었습니다. 첨부 사진의 광어는 돌아오는 길 횟집에서 찍은 것입니다. 맛있었습니다.</p>"
+  },
+  {
+   "key": "F074",
+   "menu": "동호회",
+   "postedAt": "2016-04-18 12:00",
+   "importance": "FLAVOR",
+   "title": "러닝 동호회 회원 모집",
+   "authorName": "민지아",
+   "authorDept": "재무본부",
+   "authorCode": "03655",
+   "viewCount": 330,
+   "contentHtml": "<p>매주 수요일 퇴근 후 5킬로미터를 달립니다. 뒤풀이가 러닝보다 깁니다. 그래서 칼로리는 늘어납니다.</p>"
+  },
+  {
+   "key": "F075",
+   "menu": "동호회",
+   "postedAt": "2017-09-11 10:00",
+   "importance": "FLAVOR",
+   "title": "사진 동호회 전시회",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 290,
+   "contentHtml": "<p>로비에서 사진전을 엽니다. 주제는 \"내 책상 위 풍경\"입니다. 작품 절반에 비품 신청서가 찍혀 있습니다.</p>"
+  },
+  {
+   "key": "F076",
+   "menu": "동호회",
+   "postedAt": "2018-03-05 12:00",
+   "importance": "FLAVOR",
+   "title": "독서 동호회 3주년 모임",
+   "authorName": "이수민",
+   "authorDept": "경영지원본부",
+   "authorCode": "01612",
+   "viewCount": 240,
+   "contentHtml": "<p>3년째 모이고 있습니다. 첫 책을 끝까지 읽은 회원은 아직 없습니다. 이번 모임 장소는 호프집입니다. 책은 가져오지 않으셔도 됩니다.</p>"
+  },
+  {
+   "key": "F077",
+   "menu": "동호회",
+   "postedAt": "2019-11-04 12:00",
+   "importance": "FLAVOR",
+   "title": "댄스 동호회 공연 영상",
+   "authorName": "고은비",
+   "authorDept": "재무본부",
+   "authorCode": "03698",
+   "viewCount": 1420,
+   "contentHtml": "<p>창립 기념 무대 영상을 공유합니다. 세 번째 줄에서 혼자 반대로 도시는 분은 저희 회장님입니다. 영상 삭제 요청은 받지 않습니다.</p>"
+  },
+  {
+   "key": "F078",
+   "menu": "동호회",
+   "postedAt": "2020-02-10 09:00",
+   "importance": "DECOY",
+   "title": "다트 동호회 회의실 벽 관련 사과문",
+   "authorName": "양준호",
+   "authorDept": "영업본부",
+   "authorCode": "02187",
+   "viewCount": 870,
+   "contentHtml": "<p>던지기 연습은 앞으로 지정 장소에서만 하겠습니다. 3층 회의실 벽에 구멍을 낸 점 사과드립니다. 다트판에는 하나도 맞지 않았습니다.</p>",
+   "comments": [
+    {
+     "key": "F078-c1",
+     "postedAt": "2020-02-10 09:20",
+     "authorName": "함보라",
+     "authorDept": "총무팀",
+     "authorCode": "03507",
+     "content": "벽 수리비 청구서 보내드렸습니다."
+    }
+   ]
+  },
+  {
+   "key": "F079",
+   "menu": "동호회",
+   "postedAt": "2020-07-06 10:00",
+   "importance": "FLAVOR",
+   "title": "볼링 동호회 정기전 결과",
+   "authorName": "양준호",
+   "authorDept": "영업본부",
+   "authorCode": "02187",
+   "viewCount": 160,
+   "contentHtml": "<p>영업본부 양준호 대리가 평균 92점으로 최하위를 차지했습니다. 다트 동호회와 겸직 중입니다.</p>"
+  },
+  {
+   "key": "F080",
+   "menu": "동호회",
+   "postedAt": "2021-06-14 12:00",
+   "importance": "DECOY",
+   "title": "텃밭 동호회 상추 수확",
+   "authorName": "김태수",
+   "authorDept": "총무팀",
+   "authorCode": "01288",
+   "viewCount": 310,
+   "contentHtml": "<p>본사 옥상 한쪽 화단에서 상추를 수확했습니다. 층별로 나눠 드립니다. 이번 주 구내식당 쌈밥은 저희와 무관합니다.</p>"
+  },
+  {
+   "key": "F081",
+   "menu": "동호회",
+   "postedAt": "2022-02-21 12:00",
+   "importance": "FLAVOR",
+   "title": "보드게임 동호회 회원 모집",
+   "authorName": "이수민",
+   "authorDept": "경영지원본부",
+   "authorCode": "01612",
+   "viewCount": 280,
+   "contentHtml": "<p>매주 목요일 점심시간에 모입니다. 규칙 설명이 점심시간보다 긴 게임은 금요일로 미룹니다.</p>"
+  },
+  {
+   "key": "F082",
+   "menu": "동호회",
+   "postedAt": "2023-01-16 09:00",
+   "importance": "FLAVOR",
+   "title": "아재개그 연구회 창립: 오늘의 한 줄",
+   "authorName": "오진택",
+   "authorDept": "해외사업본부",
+   "authorCode": "07033",
+   "viewCount": 790,
+   "contentHtml": "<p>아재개그 연구회가 창립했습니다. 오늘의 한 줄: 왕이 넘어지면 킹콩.</p>",
+   "comments": [
+    {
+     "key": "F082-c1",
+     "postedAt": "2023-01-16 09:02",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "게시 시각이 업무 시간입니다. 신고합니다."
+    }
+   ]
+  },
+  {
+   "key": "F083",
+   "menu": "동호회",
+   "postedAt": "2024-03-11 09:00",
+   "importance": "FLAVOR",
+   "title": "아재개그 연구회 탈퇴 희망자 안내",
+   "authorName": "오진택",
+   "authorDept": "해외사업본부",
+   "authorCode": "07033",
+   "viewCount": 920,
+   "contentHtml": "<p>회원 전원이 탈퇴를 희망하였습니다. 회칙에 따라 회장의 승인이 필요합니다. 회장은 승인하지 않습니다. 오늘의 한 줄: 소금이 죽으면 죽염.</p>",
+   "comments": [
+    {
+     "key": "F083-c1",
+     "postedAt": "2024-03-11 09:21",
+     "authorName": "양준호",
+     "authorDept": "영업본부",
+     "authorCode": "02187",
+     "content": "법무실에 문의했습니다."
+    },
+    {
+     "key": "F083-c2",
+     "postedAt": "2024-03-11 10:00",
+     "authorName": "윤기택",
+     "authorDept": "법무실",
+     "authorCode": "04051",
+     "content": "회칙을 읽어 보았습니다. 빠져나갈 수 없습니다."
+    }
+   ]
+  },
+  {
+   "key": "F084",
+   "menu": "동호회",
+   "postedAt": "2025-03-24 12:00",
+   "importance": "FLAVOR",
+   "title": "머더미스터리 동호회 회원 모집",
+   "authorName": "이채원",
+   "authorDept": "조직문화팀",
+   "authorCode": "01744",
+   "viewCount": 640,
+   "contentHtml": "<p>범인을 찾는 추리 게임 동호회입니다. 지금까지 5번 모였고, 범인은 대체로 부장님입니다. 게임 뒤 인간관계는 보장하지 않습니다.</p>"
+  },
+  {
+   "key": "F085",
+   "menu": "동호회",
+   "postedAt": "2025-08-04 12:00",
+   "importance": "FLAVOR",
+   "title": "커피 동호회 원두 공동구매",
+   "authorName": "민지아",
+   "authorDept": "재무본부",
+   "authorCode": "03655",
+   "viewCount": 370,
+   "contentHtml": "<p>이번 달 원두는 에티오피아입니다. 재무본부에서 공동구매 영수증을 세 번 확인하겠습니다.</p>"
+  },
+  {
+   "key": "F086",
+   "menu": "동호회",
+   "postedAt": "2026-03-09 12:00",
+   "importance": "FLAVOR",
+   "title": "고양이 돌봄 동호회: 김부장 전담",
+   "authorName": "고은비",
+   "authorDept": "재무본부",
+   "authorCode": "03698",
+   "viewCount": 980,
+   "contentHtml": "<p>주차장 고양이 김부장의 밥과 예방 접종을 맡을 동호회를 만들었습니다. 김부장은 이번 모임에 지각했습니다. 무단 지각 처음입니다.</p>"
+  },
+  {
+   "key": "F087",
+   "menu": "구내식당·복지",
+   "postedAt": "2010-04-05 11:00",
+   "importance": "FLAVOR",
+   "title": "구내식당 메뉴 건의함 개설",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 480,
+   "contentHtml": "<p>구내식당 영양사 남궁선입니다. 건의함을 열었습니다. 제일 많이 들어온 건의는 \"맛있게 해 주세요\"입니다. 구체적으로 부탁드립니다.</p>"
+  },
+  {
+   "key": "F088",
+   "menu": "구내식당·복지",
+   "postedAt": "2012-03-05 11:00",
+   "importance": "FLAVOR",
+   "title": "금요일 돈가스 폐지 안내",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 6210,
+   "contentHtml": "<p>원가 부담으로 이번 달부터 금요일 돈가스를 없애고 잡곡밥과 나물 정식으로 바꿉니다. 건강에 더 좋습니다.</p>",
+   "comments": [
+    {
+     "key": "F088-c1",
+     "postedAt": "2012-03-05 11:03",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "제 인생에서 금요일이 사라졌습니다."
+    },
+    {
+     "key": "F088-c2",
+     "postedAt": "2012-03-05 11:05",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "원가 자료 공개를 요구합니다."
+    },
+    {
+     "key": "F088-c3",
+     "postedAt": "2012-03-05 11:10",
+     "authorName": "박상길",
+     "authorDept": "영업본부",
+     "authorCode": "02037",
+     "content": "이 회사에 제 청춘을 바쳤습니다."
+    },
+    {
+     "key": "F088-c4",
+     "postedAt": "2012-03-05 11:12",
+     "authorName": "곽태민",
+     "authorDept": "해외사업본부",
+     "authorCode": "07118",
+     "content": "해외 출장 중인데 듣고 귀국합니다."
+    }
+   ]
+  },
+  {
+   "key": "F089",
+   "menu": "구내식당·복지",
+   "postedAt": "2012-03-12 11:00",
+   "importance": "FLAVOR",
+   "title": "금요일 돈가스 복원 안내",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 5890,
+   "contentHtml": "<p>일주일 만에 복원합니다. 지난 금요일 잔반이 평소의 일곱 배였습니다. 잘 알겠습니다.</p>"
+  },
+  {
+   "key": "F090",
+   "menu": "구내식당·복지",
+   "postedAt": "2016-08-01 11:00",
+   "importance": "FLAVOR",
+   "title": "민트초코 디저트 도입",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 2240,
+   "contentHtml": "<p>여름 디저트로 민트초코 푸딩을 냅니다.</p>",
+   "comments": [
+    {
+     "key": "F090-c1",
+     "postedAt": "2016-08-01 11:10",
+     "authorName": "양준호",
+     "authorDept": "영업본부",
+     "authorCode": "02187",
+     "content": "치약을 왜 돈 주고 먹습니까."
+    },
+    {
+     "key": "F090-c2",
+     "postedAt": "2016-08-01 11:14",
+     "authorName": "민지아",
+     "authorDept": "재무본부",
+     "authorCode": "03655",
+     "content": "입맛도 예산처럼 고르게 배분되지 않나 봅니다."
+    },
+    {
+     "key": "F090-c3",
+     "postedAt": "2016-08-01 11:20",
+     "authorName": "양준호",
+     "authorDept": "영업본부",
+     "authorCode": "02187",
+     "content": "재무본부가 민트초코였군요. 다 이해됩니다."
+    },
+    {
+     "key": "F090-c4",
+     "postedAt": "2016-08-01 11:26",
+     "deletedLabel": "삭제된 댓글입니다."
+    }
+   ]
+  },
+  {
+   "key": "F091",
+   "menu": "구내식당·복지",
+   "postedAt": "2016-08-08 11:00",
+   "importance": "FLAVOR",
+   "title": "민트초코 사태에 대한 조리실 입장문",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 3120,
+   "contentHtml": "<p>디저트 하나로 본부 간 감정이 상하는 일을 원하지 않습니다. 다음 주부터 민트초코 푸딩은 냉장고 왼쪽 칸, 초코 푸딩은 오른쪽 칸에 둡니다. 서로의 칸을 비난하지 말아 주세요.</p>"
+  },
+  {
+   "key": "F092",
+   "menu": "구내식당·복지",
+   "postedAt": "2017-05-15 11:00",
+   "importance": "FLAVOR",
+   "title": "탕수육 소스 제공 방식 투표 결과",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 2780,
+   "contentHtml": "<p>투표 결과 찍먹 51.2%, 부먹 48.8%입니다. 재무본부의 요청으로 재검표했으나 결과는 같았습니다. 앞으로 소스는 따로 드립니다. 옆 사람 접시에 붓지 말아 주세요.</p>"
+  },
+  {
+   "key": "F093",
+   "menu": "구내식당·복지",
+   "postedAt": "2018-02-05 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 카페 오픈",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1650,
+   "contentHtml": "<p>2층에 사내 카페를 엽니다. 아메리카노 1,500원입니다. 부장님 카드로 \"다 같이 한 잔씩\"은 점심시간을 피해 주세요. 줄이 건물 밖까지 나갑니다.</p>"
+  },
+  {
+   "key": "F094",
+   "menu": "구내식당·복지",
+   "postedAt": "2019-01-07 10:00",
+   "importance": "FLAVOR",
+   "title": "복지 포인트 사용 안내",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 2010,
+   "contentHtml": "<p>올해 복지 포인트는 연말에 사라집니다. 작년에 12월 31일 밤 11시 58분에 복지몰 서버가 멈췄습니다. 미리 써 주세요.</p>"
+  },
+  {
+   "key": "F095",
+   "menu": "구내식당·복지",
+   "postedAt": "2020-09-21 10:00",
+   "importance": "FLAVOR",
+   "title": "안마의자 예약제 시행",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 1340,
+   "contentHtml": "<p>휴게실 안마의자를 30분 예약제로 바꿉니다. 지난달 같은 분이 일주일 내내 점심시간을 쓰셨고, 한 번은 퇴근 시간까지 주무셨습니다.</p>",
+   "comments": [
+    {
+     "key": "F095-c1",
+     "postedAt": "2020-09-21 10:12",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "깨워 주시지 그러셨습니까."
+    }
+   ]
+  },
+  {
+   "key": "F096",
+   "menu": "구내식당·복지",
+   "postedAt": "2021-06-07 11:00",
+   "importance": "FLAVOR",
+   "title": "구내식당 비건 메뉴 시범 운영",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 870,
+   "contentHtml": "<p>수요일마다 비건 메뉴를 냅니다. \"이게 정말 콩이라고요?\"라는 말을 들으면 성공으로 보겠습니다. 첫 주 후기는 \"이게 음식이라고요?\"였습니다. 노력하겠습니다.</p>"
+  },
+  {
+   "key": "F097",
+   "menu": "구내식당·복지",
+   "postedAt": "2022-10-03 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 어린이집 신청 안내",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 1120,
+   "contentHtml": "<p>내년 사내 어린이집 신청을 받습니다. 대기자가 많아 입사 순서로 받을지 추첨할지 논의했습니다. 추첨합니다. 신청서는 인사팀으로 보내 주세요.</p>"
+  },
+  {
+   "key": "F098",
+   "menu": "구내식당·복지",
+   "postedAt": "2023-05-22 10:00",
+   "importance": "FLAVOR",
+   "title": "사내 도서관 연체자 공고",
+   "authorName": "이수민",
+   "authorDept": "경영지원본부",
+   "authorCode": "01612",
+   "viewCount": 1560,
+   "contentHtml": "<p>최장 연체는 11년입니다. 책 제목은 \"실행이 답이다\"입니다. 빌리신 분께서는 이제 실행해 주세요.</p>"
+  },
+  {
+   "key": "F099",
+   "menu": "구내식당·복지",
+   "postedAt": "2024-04-08 10:00",
+   "importance": "FLAVOR",
+   "title": "간식 자판기 교체",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 530,
+   "contentHtml": "<p>3층 간식 자판기를 새것으로 바꿉니다. 옛 자판기 안에서 동전 4만 2천 원과 5년 전 초코바 1개가 나왔습니다. 초코바는 폐기했습니다.</p>"
+  },
+  {
+   "key": "F100",
+   "menu": "구내식당·복지",
+   "postedAt": "2024-07-15 10:00",
+   "importance": "DECOY",
+   "title": "업무시간 점심 사다리 타기 앱 자제 안내",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 2410,
+   "contentHtml": "<p>점심값을 정하는 사다리 타기가 과열되어 오전 업무에 지장을 준다는 제보가 있었습니다. 사다리 타기는 11시 50분 이후에 해 주세요. 사다리 결과로 팀장님께 복수하지 말아 주세요.</p>",
+   "comments": [
+    {
+     "key": "F100-c1",
+     "postedAt": "2024-07-15 10:21",
+     "authorName": "곽태민",
+     "authorDept": "해외사업본부",
+     "authorCode": "07118",
+     "content": "사다리에 걸린 저희 팀장님이 이번 달 58만 원을 쓰셨습니다. 보호해 주세요."
+    }
+   ]
+  },
+  {
+   "key": "F101",
+   "menu": "구내식당·복지",
+   "postedAt": "2025-03-03 11:00",
+   "importance": "FLAVOR",
+   "title": "구내식당 가격 인상 안내",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 3010,
+   "contentHtml": "<p>식자재 가격 상승으로 식대를 500원 올립니다. 양은 그대로입니다.</p>",
+   "comments": [
+    {
+     "key": "F101-c1",
+     "postedAt": "2025-03-03 12:40",
+     "authorName": "양준호",
+     "authorDept": "영업본부",
+     "authorCode": "02187",
+     "content": "오늘 제육 사진 첨부합니다. 그대로인지 함께 봐 주세요."
+    },
+    {
+     "key": "F101-c2",
+     "postedAt": "2025-03-03 12:52",
+     "authorName": "민지아",
+     "authorDept": "재무본부",
+     "authorCode": "03655",
+     "content": "재무본부에서 무게를 재 보겠습니다."
+    }
+   ]
+  },
+  {
+   "key": "F102",
+   "menu": "구내식당·복지",
+   "postedAt": "2026-10-12 11:00",
+   "importance": "FLAVOR",
+   "title": "금요일 돈가스 폐지 재검토",
+   "authorName": "남궁선",
+   "authorDept": "총무팀",
+   "authorCode": "01395",
+   "viewCount": 4380,
+   "contentHtml": "<p>14년 전 일을 기억하시는 분은 많지 않으리라 생각합니다. 원가 부담으로 금요일 돈가스 운영을 재검토합니다.</p>",
+   "comments": [
+    {
+     "key": "F102-c1",
+     "postedAt": "2026-10-12 11:01",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "기억합니다."
+    },
+    {
+     "key": "F102-c2",
+     "postedAt": "2026-10-12 11:02",
+     "authorName": "곽태민",
+     "authorDept": "해외사업본부",
+     "authorCode": "07118",
+     "content": "기억합니다."
+    },
+    {
+     "key": "F102-c3",
+     "postedAt": "2026-10-12 11:02",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "원가 자료 공개를 요구합니다. 14년 만입니다."
+    }
+   ]
+  },
+  {
+   "key": "F103",
+   "menu": "IT·보안",
+   "postedAt": "2008-09-01 09:00",
+   "importance": "FLAVOR",
+   "title": "비밀번호 주기적 변경 안내",
+   "authorName": "권오성",
+   "authorDept": "정보관리팀",
+   "authorCode": "01170",
+   "viewCount": 1020,
+   "contentHtml": "<p>사내 시스템 비밀번호를 90일마다 바꿔 주세요. 끝자리만 1씩 올리는 분이 많습니다. 저희도 압니다.</p>"
+  },
+  {
+   "key": "F104",
+   "menu": "IT·보안",
+   "postedAt": "2012-11-05 09:00",
+   "importance": "FLAVOR",
+   "title": "비밀번호 1234 사용 금지",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 1840,
+   "contentHtml": "<p>점검 결과 직원 312명의 비밀번호가 1234입니다. 다음 주부터 쓸 수 없게 합니다. 12345도 안 됩니다.</p>",
+   "comments": [
+    {
+     "key": "F104-c1",
+     "postedAt": "2012-11-05 09:30",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "저희 집 현관도 같은 번호입니다. 이 글을 보신 분은 잊어 주세요."
+    }
+   ]
+  },
+  {
+   "key": "F105",
+   "menu": "IT·보안",
+   "postedAt": "2015-10-12 09:00",
+   "importance": "DECOY",
+   "title": "비밀번호가 생일인 분들께",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 2130,
+   "contentHtml": "<p>본인 생일이나 자녀 생일을 비밀번호로 쓰시는 분이 정말 많습니다. 쉽게 기억하려는 마음은 알겠습니다. 바꿔 주세요.</p>",
+   "comments": [
+    {
+     "key": "F105-c1",
+     "postedAt": "2015-10-12 09:40",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "자녀 생일은 안전한 줄 알았습니다."
+    },
+    {
+     "key": "F105-c2",
+     "postedAt": "2015-10-12 09:52",
+     "authorName": "구민재",
+     "authorDept": "정보관리팀",
+     "authorCode": "01520",
+     "content": "안전하지 않습니다."
+    }
+   ]
+  },
+  {
+   "key": "F106",
+   "menu": "IT·보안",
+   "postedAt": "2018-06-04 09:00",
+   "importance": "FLAVOR",
+   "title": "비밀번호가 \"비밀번호\"인 분들께",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 2480,
+   "contentHtml": "<p>비밀번호를 비밀번호로 쓰시는 분이 27명 있습니다. 비밀번호 찾기에 \"비밀번호가 뭐였지\"라고 문의하지 말아 주세요. 답변드리기가 난처합니다.</p>"
+  },
+  {
+   "key": "F107",
+   "menu": "IT·보안",
+   "postedAt": "2023-02-13 09:00",
+   "importance": "FLAVOR",
+   "title": "비밀번호를 모니터에 붙이지 마세요",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 2970,
+   "contentHtml": "<p>점검 차 층을 돌았습니다. 모니터에 붙은 메모지 41장을 수거했습니다. 메모지를 키보드 밑으로 옮기신 분들, 그것도 수거했습니다.</p>\n<p>입사 12년 차에 이런 글을 네 번째 씁니다.</p>",
+   "comments": [
+    {
+     "key": "F107-c1",
+     "postedAt": "2023-02-13 09:15",
+     "authorName": "장석규",
+     "authorDept": "영업본부",
+     "authorCode": "02041",
+     "content": "제 메모지 돌려주세요. 비밀번호가 기억나지 않습니다."
+    }
+   ]
+  },
+  {
+   "key": "F108",
+   "menu": "IT·보안",
+   "postedAt": "2013-05-20 09:00",
+   "importance": "FLAVOR",
+   "title": "사내 메신저 정기 점검",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 410,
+   "contentHtml": "<p>5월 25일 토요일 오전 2시부터 6시까지 시스템을 점검합니다. 그 시간에 접속하실 분은 없으리라 믿습니다. 혹시 계시면 푹 쉬세요.</p>"
+  },
+  {
+   "key": "F109",
+   "menu": "IT·보안",
+   "postedAt": "2016-09-26 09:00",
+   "importance": "FLAVOR",
+   "title": "피싱 메일 훈련 결과",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 3410,
+   "contentHtml": "<p>\"[긴급] 올해 상여금 지급 명세\"라는 훈련 메일을 보냈습니다. 열어 본 비율은 사원 12%, 임원 71%입니다. 비밀번호까지 입력하신 임원 세 분께는 따로 연락드렸습니다.</p>"
+  },
+  {
+   "key": "F110",
+   "menu": "IT·보안",
+   "postedAt": "2019-03-11 10:00",
+   "importance": "FLAVOR",
+   "title": "프린터 드라이버 설치 안내",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 880,
+   "contentHtml": "<p>새 프린터 드라이버를 설치해 주세요.</p>\n<p>[오후 추가] 설치하면 인쇄가 되지 않는 문제가 있습니다. 설치하지 말아 주세요.</p>\n<p>[다음 날 추가] 이미 설치하신 분은 정보관리팀으로 오세요. 인쇄물을 들고 오시면 됩니다. 아, 인쇄가 안 되시겠군요.</p>"
+  },
+  {
+   "key": "F111",
+   "menu": "IT·보안",
+   "postedAt": "2020-03-09 09:00",
+   "importance": "FLAVOR",
+   "title": "화상회의 프로그램 사용법",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 4120,
+   "contentHtml": "<ol>\n  <li>왼쪽 아래 마이크 그림을 누르면 음소거가 풀립니다.</li>\n  <li>\"제 말 들리세요?\"는 한 번만 물어 주세요.</li>\n  <li>회의가 끝나면 나가기를 눌러 주세요. 지난주 두 시간 동안 회의실에 혼자 남아 계신 분이 있었습니다.</li>\n</ol>"
+  },
+  {
+   "key": "F112",
+   "menu": "IT·보안",
+   "postedAt": "2022-08-22 09:00",
+   "importance": "FLAVOR",
+   "title": "전사 PC 교체 일정",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 1360,
+   "contentHtml": "<p>9월부터 층별로 PC를 교체합니다. 자료는 미리 옮겨 주세요. 바탕화면에 폴더가 300개 넘는 분은 전날 말씀해 주세요. 하루가 더 걸립니다.</p>"
+  },
+  {
+   "key": "F113",
+   "menu": "IT·보안",
+   "postedAt": "2024-10-07 09:00",
+   "importance": "FLAVOR",
+   "title": "사내 AI 챗봇 시범 운영",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 2160,
+   "contentHtml": "<p>사내 규정을 답해 주는 챗봇을 시범 운영합니다. 어떤 질문이든 친절하게 답합니다. 답은 대체로 \"담당자에게 문의하세요\"입니다. 담당자도 저입니다.</p>"
+  },
+  {
+   "key": "F114",
+   "menu": "IT·보안",
+   "postedAt": "2026-10-19 09:30",
+   "importance": "FLAVOR",
+   "title": "전사 단체방 메시지 회수 관련 안내",
+   "authorName": "구민재",
+   "authorDept": "정보관리팀",
+   "authorCode": "01520",
+   "viewCount": 3920,
+   "contentHtml": "<p>전사 단체방에 올라간 메시지는 올린 분 본인이 5분 안에만 지울 수 있고, 그 뒤에는 정보관리팀도 지우지 않습니다. 주말 사이 비슷한 문의가 많이 왔습니다. 저희도 그 글이 어디서 왔는지는 모릅니다.</p>"
+  },
+  {
+   "key": "F115",
+   "menu": "장터",
+   "postedAt": "2009-03-16 12:00",
+   "importance": "DECOY",
+   "title": "돌침대 팝니다",
+   "authorName": "박상길",
+   "authorDept": "영업본부",
+   "authorCode": "02037",
+   "viewCount": 240,
+   "contentHtml": "<p>허리가 나아서 돌침대를 팝니다. 혼자서는 못 옮깁니다. 저희 집이 4층입니다. 엘리베이터는 없습니다.</p>"
+  },
+  {
+   "key": "F116",
+   "menu": "장터",
+   "postedAt": "2011-08-08 12:00",
+   "importance": "FLAVOR",
+   "title": "유모차 나눔",
+   "authorName": "신미경",
+   "authorDept": "총무팀",
+   "authorCode": "01266",
+   "viewCount": 165,
+   "contentHtml": "<p>아이가 커서 유모차를 나눕니다. 먼저 연락 주시는 분께 드립니다. 바퀴 한쪽이 왼쪽으로 쏠립니다.</p>"
+  },
+  {
+   "key": "F117",
+   "menu": "장터",
+   "postedAt": "2013-06-10 12:00",
+   "importance": "DECOY",
+   "title": "강아지 사료 나눔합니다",
+   "authorName": "이수민",
+   "authorDept": "경영지원본부",
+   "authorCode": "01612",
+   "viewCount": 330,
+   "contentHtml": "<p>우리 강아지가 입맛이 까다로워 안 먹는 사료가 두 포대 있습니다. 필요하신 분 연락 주세요. 사료관리팀에 물어보라는 분이 계셨는데 저도 그 팀에 문의했습니다.</p>",
+   "comments": [
+    {
+     "key": "F117-c1",
+     "postedAt": "2013-06-10 14:20",
+     "authorName": "여문혁",
+     "authorDept": "사료관리팀",
+     "authorCode": "05087",
+     "content": "그 사료는 저희 소관이 아닐세. 그래도 전화 줘서 반가웠네."
+    }
+   ]
+  },
+  {
+   "key": "F118",
+   "menu": "장터",
+   "postedAt": "2014-02-24 12:00",
+   "importance": "FLAVOR",
+   "title": "냄비 세트 팝니다 (미개봉)",
+   "authorName": "익명",
+   "viewCount": 510,
+   "contentHtml": "<p>결혼 선물로 받은 냄비 세트입니다. 결혼은 하지 않게 되었습니다. 미개봉입니다. 이유는 묻지 말아 주세요. 싸게 드립니다.</p>"
+  },
+  {
+   "key": "F119",
+   "menu": "장터",
+   "postedAt": "2024-06-03 12:00",
+   "importance": "DECOY",
+   "title": "고양이 사료 공동구매",
+   "authorName": "고은비",
+   "authorDept": "재무본부",
+   "authorCode": "03698",
+   "viewCount": 290,
+   "contentHtml": "<p>고양이 사료 공동구매합니다. 10포대 이상이면 20% 할인입니다. 주차장 김부장 몫으로 2포대를 미리 빼 두었습니다.</p>"
+  },
+  {
+   "key": "F120",
+   "menu": "장터",
+   "postedAt": "2016-11-14 12:00",
+   "importance": "DECOY",
+   "title": "3단 접이식 사다리 팝니다",
+   "authorName": "표진성",
+   "authorDept": "생산본부",
+   "authorCode": "06188",
+   "viewCount": 185,
+   "contentHtml": "<p>이사하면서 쓸 일이 없어졌습니다. 3단 접이식 사다리입니다. 혼자 들 수 있습니다. 한쪽 다리가 조금 흔들리니 혼자 오르지 마시고 아래에서 잡아 줄 사람과 함께 쓰세요.</p>"
+  },
+  {
+   "key": "F121",
+   "menu": "장터",
+   "postedAt": "2017-01-23 12:00",
+   "importance": "FLAVOR",
+   "title": "러닝머신 팝니다",
+   "authorName": "양준호",
+   "authorDept": "영업본부",
+   "authorCode": "02187",
+   "viewCount": 260,
+   "contentHtml": "<p>거의 새것입니다. 2년 동안 옷걸이로 썼습니다. 옷을 많이 걸어도 튼튼합니다. 러닝머신으로서의 성능은 확인한 적이 없습니다.</p>"
+  },
+  {
+   "key": "F122",
+   "menu": "장터",
+   "postedAt": "2018-12-27 12:00",
+   "importance": "FLAVOR",
+   "title": "커플 잠옷 새 상품 (한쪽만)",
+   "authorName": "익명",
+   "viewCount": 620,
+   "contentHtml": "<p>크리스마스 선물로 샀습니다. 남자 쪽 사이즈만 남았습니다. 여자 쪽은 묻지 말아 주세요.</p>"
+  },
+  {
+   "key": "F123",
+   "menu": "장터",
+   "postedAt": "2019-05-20 12:00",
+   "importance": "FLAVOR",
+   "title": "콘서트 티켓 양도",
+   "authorName": "민지아",
+   "authorDept": "재무본부",
+   "authorCode": "03655",
+   "viewCount": 430,
+   "contentHtml": "<p>그날 마감이 잡혀 못 갑니다. 정가에 드립니다. 재무본부 마감을 대신해 주실 분께는 드릴 수 있습니다.</p>"
+  },
+  {
+   "key": "F124",
+   "menu": "장터",
+   "postedAt": "2020-04-13 12:00",
+   "importance": "FLAVOR",
+   "title": "자전거 팝니다",
+   "authorName": "곽태민",
+   "authorDept": "해외사업본부",
+   "authorCode": "07118",
+   "viewCount": 205,
+   "contentHtml": "<p>쌍둥이가 태어나서 탈 시간이 없습니다. 3년 전 글을 보신 분은 이유를 아실 겁니다.</p>"
+  },
+  {
+   "key": "F125",
+   "menu": "장터",
+   "postedAt": "2021-03-29 12:00",
+   "importance": "FLAVOR",
+   "title": "공기청정기 필터 공동구매",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 310,
+   "contentHtml": "<p>이 글은 제 개인 글입니다. 회사 공지로 오해하고 총무팀에 환불을 요청하시는 분이 많아 적어 둡니다.</p>"
+  },
+  {
+   "key": "F126",
+   "menu": "장터",
+   "postedAt": "2021-09-06 12:00",
+   "importance": "FLAVOR",
+   "title": "등산화 팝니다",
+   "authorName": "백두식",
+   "authorDept": "생산본부",
+   "authorCode": "06124",
+   "viewCount": 240,
+   "contentHtml": "<p>14년 신었습니다. 밑창이 새것 같습니다. 정상에 가 본 적이 없어서 그렇습니다.</p>"
+  },
+  {
+   "key": "F127",
+   "menu": "장터",
+   "postedAt": "2022-03-07 12:00",
+   "importance": "FLAVOR",
+   "title": "정장 나눔합니다",
+   "authorName": "차준호",
+   "authorDept": "해외사업본부",
+   "authorCode": "07201",
+   "viewCount": 355,
+   "contentHtml": "<p>입사 때 맞춘 정장입니다. 상태 좋습니다. 지금 저는 들어가지 않습니다. 사진은 입사 때 저입니다. 지금 사진은 없습니다.</p>"
+  },
+  {
+   "key": "F128",
+   "menu": "장터",
+   "postedAt": "2022-10-17 12:00",
+   "importance": "FLAVOR",
+   "title": "캠핑 장비 일괄 판매",
+   "authorName": "윤기택",
+   "authorDept": "법무실",
+   "authorCode": "04051",
+   "viewCount": 270,
+   "contentHtml": "<p>세 번 썼습니다. 매매 후 반품은 받지 않으며, 분쟁 관할은 서울중앙지방법원으로 합니다.</p>"
+  },
+  {
+   "key": "F129",
+   "menu": "장터",
+   "postedAt": "2023-07-10 12:00",
+   "importance": "FLAVOR",
+   "title": "강아지 산책 도와주실 분",
+   "authorName": "이수민",
+   "authorDept": "경영지원본부",
+   "authorCode": "01612",
+   "viewCount": 195,
+   "contentHtml": "<p>야근이 많아 평일 저녁 산책을 도와주실 분을 찾습니다. 사료는 여전히 까다롭게 먹습니다.</p>"
+  },
+  {
+   "key": "F130",
+   "menu": "장터",
+   "postedAt": "2023-12-04 12:00",
+   "importance": "DECOY",
+   "title": "빈 사무실 화분 분양합니다",
+   "authorName": "함보라",
+   "authorDept": "총무팀",
+   "authorCode": "03507",
+   "viewCount": 640,
+   "contentHtml": "<p>2014년 이전 때 주인을 찾지 못한 화분입니다. 이제 10년이 되었습니다. 다 자라서 화단으로 옮겨야 할 지경입니다. 데려가 주세요.</p>",
+   "comments": [
+    {
+     "key": "F130-c1",
+     "postedAt": "2023-12-04 12:14",
+     "authorName": "오재민",
+     "authorDept": "재무본부",
+     "authorCode": "03351",
+     "content": "그 고무나무 제 것 같습니다. 많이 컸네요."
+    }
+   ]
+  },
+  {
+   "key": "F131",
+   "menu": "장터",
+   "postedAt": "2024-05-13 22:40",
+   "importance": "FLAVOR",
+   "title": "전 여자친구가 준 필름 카메라",
+   "authorName": "익명",
+   "viewCount": 1120,
+   "contentHtml": "<p>2017년 봄에 받았습니다. 그해 벚꽃을 찍겠다고 산에 올라갔고, 그 산은 등산 동호회가 정상에 못 가는 그 산입니다. 저희도 정상에 못 갔습니다. 사진은 한 장도 없습니다. 필름을 넣는 법을 몰랐습니다. 3천 원에 드립니다.</p>",
+   "comments": [
+    {
+     "key": "F131-c1",
+     "postedAt": "2024-05-13 22:58",
+     "authorName": "익명",
+     "content": "3천 원에 사연까지 주시는 겁니까."
+    }
+   ]
+  },
+  {
+   "key": "F132",
+   "menu": "장터",
+   "postedAt": "2025-07-21 12:00",
+   "importance": "FLAVOR",
+   "title": "원룸 양도",
+   "authorName": "고은비",
+   "authorDept": "재무본부",
+   "authorCode": "03698",
+   "viewCount": 360,
+   "contentHtml": "<p>본사 도보 7분 원룸을 양도합니다. 윗집 발소리가 조금 있습니다. 윗집에 사시는 분은 저희 팀 대리님입니다. 제가 이사 가는 이유입니다.</p>"
+  },
+  {
+   "key": "F133",
+   "menu": "장터",
+   "postedAt": "2025-11-03 23:10",
+   "importance": "FLAVOR",
+   "title": "혼수 가전 일괄 판매",
+   "authorName": "익명",
+   "viewCount": 980,
+   "contentHtml": "<p>냉장고, 세탁기, 건조기 전부 미개봉입니다. 사정이 생겼습니다. 네고 안 받습니다. 위로도 안 받습니다.</p>",
+   "comments": [
+    {
+     "key": "F133-c1",
+     "postedAt": "2025-11-03 23:20",
+     "authorName": "익명",
+     "content": "위로 대신 술은 받으십니까."
+    },
+    {
+     "key": "F133-c2",
+     "postedAt": "2025-11-03 23:24",
+     "authorName": "익명",
+     "content": "그건 받습니다."
+    },
+    {
+     "key": "F133-c3",
+     "postedAt": "2025-11-04 00:02",
+     "deletedLabel": "삭제된 댓글입니다."
+    }
+   ]
+  },
+  {
+   "key": "F134",
+   "menu": "장터",
+   "postedAt": "2026-06-15 07:50",
+   "importance": "FLAVOR",
+   "title": "통근버스 옆자리 양도합니다",
+   "authorName": "익명",
+   "viewCount": 1405,
+   "contentHtml": "<p>3호차 7번 자리를 양도합니다. 옆자리는 코 고는 차장님입니다. 코 고는 소리는 신도시부터 시작해 본사 앞까지 이어집니다. 가격은 제가 드리겠습니다.</p>"
+  },
+  {
+   "key": "F135",
+   "menu": "익명 라운지",
+   "postedAt": "2019-03-11 10:12",
+   "importance": "FLAVOR",
+   "title": "3층 탕비실 내 요거트 먹은 사람",
+   "authorName": "익명6977",
+   "viewCount": 480,
+   "contentHtml": "<p>어제 넣어 둔 딸기 요거트 어디 갔음. 화나서 쓰는 건 아니고 진짜 궁금해서 그럼. 아니, 화남.</p>"
+  },
+  {
+   "key": "F136",
+   "menu": "익명 라운지",
+   "postedAt": "2019-03-18 10:05",
+   "importance": "FLAVOR",
+   "title": "요거트 또 없어짐. 이름 써 놨음",
+   "authorName": "익명6977",
+   "viewCount": 720,
+   "contentHtml": "<p>이번엔 뚜껑에 매직으로 이름 크게 써 뒀음. 그런데도 없어짐. 글 읽을 줄 아는 사람이 범인이라는 뜻임.</p>",
+   "comments": [
+    {
+     "key": "F136-c1",
+     "postedAt": "2019-03-18 10:30",
+     "authorName": "익명1498",
+     "content": "3층이면 재무 쪽 아님? 계산은 정확하게 하셔야죠."
+    }
+   ]
+  },
+  {
+   "key": "F137",
+   "menu": "익명 라운지",
+   "postedAt": "2019-03-25 10:02",
+   "importance": "FLAVOR",
+   "title": "이번에는 빈 요거트에 메모가 있음",
+   "authorName": "익명6977",
+   "viewCount": 1390,
+   "contentHtml": "<p>냉장고에 빈 통만 돌려놓고 뚜껑에 이렇게 적어 놨음. \"맛있었습니다.\"</p>\n<p>이건 전쟁임.</p>",
+   "comments": [
+    {
+     "key": "F137-c1",
+     "postedAt": "2019-03-25 10:08",
+     "authorName": "익명8461",
+     "content": "글씨체 대조합시다."
+    },
+    {
+     "key": "F137-c2",
+     "postedAt": "2019-03-25 10:15",
+     "authorName": "익명4005",
+     "content": "결재 서류 필체랑 비슷하지 않음?"
+    }
+   ]
+  },
+  {
+   "key": "F138",
+   "menu": "익명 라운지",
+   "postedAt": "2019-04-01 08:55",
+   "importance": "FLAVOR",
+   "title": "요거트에 와사비 넣어 뒀습니다",
+   "authorName": "익명6977",
+   "viewCount": 2210,
+   "contentHtml": "<p>뚜껑 뜯었다 다시 붙였음. 한 통 전부 와사비 맛임. 이제 기다리면 됨. 3층 분들 오늘 얼굴 빨개진 사람 있으면 제보 바람.</p>"
+  },
+  {
+   "key": "F139",
+   "menu": "익명 라운지",
+   "postedAt": "2019-04-01 14:20",
+   "importance": "FLAVOR",
+   "title": "와사비 요거트 먹은 분이 저희 팀장님인 것 같습니다",
+   "authorName": "익명6977",
+   "viewCount": 3840,
+   "contentHtml": "<p>점심 먹고 팀장님이 탕비실에서 눈물 흘리며 나오셨음. 누가 왜 그러냐고 물으니 \"감기\"라고 하심. 저 이제 어떡함. 제가 그 팀 막내임.</p>",
+   "comments": [
+    {
+     "key": "F139-c1",
+     "postedAt": "2019-04-01 14:25",
+     "authorName": "익명4331",
+     "content": "이직 준비 시작하세요."
+    },
+    {
+     "key": "F139-c2",
+     "postedAt": "2019-04-01 14:31",
+     "authorName": "익명4836",
+     "content": "\"맛있었습니다\" 필체 대조 끝났습니다. 축하합니다."
+    }
+   ]
+  },
+  {
+   "key": "F140",
+   "menu": "익명 라운지",
+   "postedAt": "2019-04-02 09:10",
+   "importance": "FLAVOR",
+   "title": "팀장님이 오늘 연차입니다",
+   "authorName": "익명6977",
+   "viewCount": 2930,
+   "contentHtml": "<p>위장이 안 좋다고 하심. 메신저로 \"요즘 누가 내 음식에 뭘 넣는 것 같다\"고 하심. 본인이 남의 음식을 드신 건 기억 못 하시는 듯함.</p>"
+  },
+  {
+   "key": "F141",
+   "menu": "익명 라운지",
+   "postedAt": "2019-04-05 11:00",
+   "importance": "FLAVOR",
+   "title": "탕비실 냉장고 전체 비움 안내입니다",
+   "authorName": "익명6977",
+   "viewCount": 1560,
+   "contentHtml": "<p>총무팀입니다. 익명으로 쓰는 이유는 저도 이번 일에 얽히기 싫어서입니다. 금요일 오후 6시에 3층 냉장고를 전부 비웁니다. 드실 수 없는 것이 들어 있다는 제보가 있었습니다.</p>"
+  },
+  {
+   "key": "F142",
+   "menu": "익명 라운지",
+   "postedAt": "2020-01-06 18:40",
+   "importance": "FLAVOR",
+   "title": "요거트 범인입니다. 자백합니다",
+   "authorName": "익명5281",
+   "viewCount": 3120,
+   "contentHtml": "<p>작년 봄 일입니다. 처음엔 회식 다음 날 속이 안 좋아 한 번 먹었습니다. 그 뒤로 습관이 되었습니다. 와사비로 깊이 반성했습니다. 내일 3층 냉장고에 딸기 요거트 한 박스 넣어 두겠습니다.</p>\n<p>이번엔 와사비 없습니다. 아마도요.</p>",
+   "comments": [
+    {
+     "key": "F142-c1",
+     "postedAt": "2020-01-07 09:30",
+     "authorName": "익명6610",
+     "content": "받아 갔습니다. 저희 막내가 먼저 드시라고 하네요."
+    }
+   ]
+  },
+  {
+   "key": "F143",
+   "menu": "익명 라운지",
+   "postedAt": "2021-02-08 09:02",
+   "importance": "FLAVOR",
+   "title": "주차장 고양이 봤음?",
+   "authorName": "익명6661",
+   "viewCount": 390,
+   "contentHtml": "<p>B2 기둥 뒤에 턱시도 고양이 한 마리 있음. 출근 시간에 매일 나와 있음. 나보다 먼저 옴.</p>"
+  },
+  {
+   "key": "F144",
+   "menu": "익명 라운지",
+   "postedAt": "2021-02-22 12:30",
+   "importance": "FLAVOR",
+   "title": "그 고양이 이름 김부장으로 정했음",
+   "authorName": "익명7397",
+   "viewCount": 870,
+   "contentHtml": "<p>표정이 우리 부장님이랑 똑같음. 불러도 안 옴. 밥 주면 옴. 먹고 나면 눈도 안 마주침.</p>",
+   "comments": [
+    {
+     "key": "F144-c1",
+     "postedAt": "2021-02-22 12:44",
+     "authorName": "익명7094",
+     "content": "부장이 왜 김부장임?"
+    },
+    {
+     "key": "F144-c2",
+     "postedAt": "2021-02-22 12:50",
+     "authorName": "익명9407",
+     "content": "본부마다 김 부장은 있으니까."
+    }
+   ]
+  },
+  {
+   "key": "F145",
+   "menu": "익명 라운지",
+   "postedAt": "2022-06-20 15:12",
+   "importance": "FLAVOR",
+   "title": "김부장 오늘 결재판 위에서 잠",
+   "authorName": "익명7397",
+   "viewCount": 1240,
+   "contentHtml": "<p>경비실 창틀에 올려 둔 결재판 위에서 세 시간 잠. 아무도 못 치움. 결재가 반려됐다고 보면 됨.</p>"
+  },
+  {
+   "key": "F146",
+   "menu": "익명 라운지",
+   "postedAt": "2023-01-09 09:30",
+   "importance": "FLAVOR",
+   "title": "김부장 승진을 건의합니다",
+   "authorName": "익명7397",
+   "viewCount": 2410,
+   "contentHtml": "<p>근속 2년 차. 무지각. 무단결근 없음. 회식 불참. 불평 없음. 이 정도면 임원감임. 인사철 맞아 정식으로 건의함.</p>",
+   "comments": [
+    {
+     "key": "F146-c1",
+     "postedAt": "2023-01-09 09:48",
+     "authorName": "익명3246",
+     "content": "저보다 고과 잘 받으실 듯."
+    },
+    {
+     "key": "F146-c2",
+     "postedAt": "2023-01-09 10:02",
+     "authorName": "익명6039",
+     "content": "퇴근도 제때 하심. 부럽습니다."
+    }
+   ]
+  },
+  {
+   "key": "F147",
+   "menu": "익명 라운지",
+   "postedAt": "2024-08-14 16:05",
+   "importance": "FLAVOR",
+   "title": "김부장 임원 회의실 난입",
+   "authorName": "익명7397",
+   "viewCount": 3050,
+   "contentHtml": "<p>어떻게 13층까지 갔는지 모르겠음. 분기 실적 발표 중에 테이블에 올라가 빔 프로젝터 앞에 앉으심. 그래프가 가려져서 다들 안심했다고 함.</p>"
+  },
+  {
+   "key": "F148",
+   "menu": "익명 라운지",
+   "postedAt": "2025-04-21 12:10",
+   "importance": "FLAVOR",
+   "title": "김부장 사번 만들어 주세요",
+   "authorName": "익명7397",
+   "viewCount": 2880,
+   "contentHtml": "<p>이제 정식 직원 대우해 줍시다. 99999 어떰. 인사팀 보고 계시죠?</p>",
+   "comments": [
+    {
+     "key": "F148-c1",
+     "postedAt": "2025-04-21 13:00",
+     "authorName": "오수연",
+     "authorDept": "인사팀",
+     "authorCode": "01433",
+     "content": "검토했습니다. 사번은 사람에게만 드립니다. 다만 한 번 받은 사번은 평생 가니 신중하셔야 합니다. 정중히 반려합니다."
+    },
+    {
+     "key": "F148-c2",
+     "postedAt": "2025-04-21 13:05",
+     "authorName": "익명6503",
+     "content": "인사팀 실명으로 답글 다는 건 처음 봄."
+    }
+   ]
+  },
+  {
+   "key": "F149",
+   "menu": "익명 라운지",
+   "postedAt": "2017-03-08 21:30",
+   "importance": "FLAVOR",
+   "title": "옆 팀 대리님한테 커피 사도 될까요",
+   "authorName": "익명9940",
+   "viewCount": 620,
+   "contentHtml": "<p>옆 팀 대리님을 3개월째 좋아함. 말 걸 핑계가 없음. 커피 한 잔 사드리면 이상하게 보일까요.</p>",
+   "comments": [
+    {
+     "key": "F149-c1",
+     "postedAt": "2017-03-08 21:50",
+     "authorName": "익명6769",
+     "content": "그냥 사세요. 커피 한 잔이 인생을 망치진 않음."
+    }
+   ]
+  },
+  {
+   "key": "F150",
+   "menu": "익명 라운지",
+   "postedAt": "2018-03-09 19:15",
+   "importance": "FLAVOR",
+   "title": "커피 산 후기입니다",
+   "authorName": "익명9940",
+   "viewCount": 1240,
+   "contentHtml": "<p>1년 고민하고 어제 샀습니다. 대리님이 웃으며 받으셨습니다. \"제가 카페인을 못 먹어서요. 고마워요.\" 커피는 옆자리 과장님이 드셨습니다.</p>\n<p>그 뒤로 과장님이 저를 자꾸 챙겨 주십니다.</p>"
+  },
+  {
+   "key": "F151",
+   "menu": "익명 라운지",
+   "postedAt": "2020-06-11 20:40",
+   "importance": "FLAVOR",
+   "title": "사내 연애 안 들키는 법 정리",
+   "authorName": "익명6710",
+   "viewCount": 2700,
+   "contentHtml": "<ul>\n  <li>출퇴근 같이 하지 않기</li>\n  <li>회식에서 멀리 앉기</li>\n  <li>메신저에 존댓말 쓰기</li>\n  <li>같은 향수 쓰지 않기</li>\n  <li>사내 사람들이 어차피 다 안다는 사실 받아들이기</li>\n</ul>"
+  },
+  {
+   "key": "F152",
+   "menu": "익명 라운지",
+   "postedAt": "2020-06-12 09:05",
+   "importance": "FLAVOR",
+   "title": "윗글 쓴 사람 누군지 알 것 같음",
+   "authorName": "익명7167",
+   "viewCount": 1980,
+   "contentHtml": "<p>같은 향수 얘기 왜 넣었는지 알 것 같음. 7층 복도 지나갈 때마다 같은 냄새 남. 축하드립니다.</p>"
+  },
+  {
+   "key": "F153",
+   "menu": "익명 라운지",
+   "postedAt": "2023-11-02 16:30",
+   "importance": "FLAVOR",
+   "title": "헤어진 사람이랑 같은 회의 들어감",
+   "authorName": "익명2474",
+   "viewCount": 1430,
+   "contentHtml": "<p>4명 회의인데 하필 마주 앉음. 그분이 \"의견 있으신 분?\" 하셔서 없다고 함. 의견은 많음.</p>"
+  },
+  {
+   "key": "F154",
+   "menu": "익명 라운지",
+   "postedAt": "2025-02-14 08:20",
+   "importance": "FLAVOR",
+   "title": "회식 때 고백했는데 다음 날 결재 올려야 함",
+   "authorName": "익명4135",
+   "viewCount": 2750,
+   "contentHtml": "<p>어제 2차에서 말해 버림. 대답은 못 들음. 그분은 제 결재선 2단계임. 오늘 오전까지 결재 올려야 함. 반려되면 어떤 뜻으로 받아들여야 합니까.</p>",
+   "comments": [
+    {
+     "key": "F154-c1",
+     "postedAt": "2025-02-14 08:41",
+     "authorName": "익명9860",
+     "content": "전결입니다. 혼자 처리하세요."
+    }
+   ]
+  },
+  {
+   "key": "F155",
+   "menu": "익명 라운지",
+   "postedAt": "2016-11-21 23:15",
+   "importance": "FLAVOR",
+   "title": "본사 13층 화장실 밤에 물소리",
+   "authorName": "익명8172",
+   "viewCount": 840,
+   "contentHtml": "<p>야근 중인데 13층 화장실에서 아무도 없는데 물소리가 남. 지금도 남. 나 혼자 있는 층임. 살려 주세요.</p>"
+  },
+  {
+   "key": "F156",
+   "menu": "익명 라운지",
+   "postedAt": "2016-11-22 09:40",
+   "importance": "FLAVOR",
+   "title": "13층 물소리 관련 답변입니다",
+   "authorName": "익명4974",
+   "viewCount": 1100,
+   "contentHtml": "<p>총무팀입니다. 배관 소리입니다. 그리고 13층 임원 층은 오후 10시 이후 출입 기록이 없습니다. 어제 어떻게 계셨던 건지 답변 부탁드립니다.</p>"
+  },
+  {
+   "key": "F157",
+   "menu": "익명 라운지",
+   "postedAt": "2018-02-13 00:21",
+   "importance": "FLAVOR",
+   "title": "자정에 엘리베이터가 혼자 7층에 섬",
+   "authorName": "익명4007",
+   "viewCount": 930,
+   "contentHtml": "<p>아무도 안 눌렀는데 7층에 서서 문이 열림. 아무도 없음. 다시 닫힘. 2호기는 아닌 듯함. 2호기는 원래 안 움직임.</p>"
+  },
+  {
+   "key": "F158",
+   "menu": "익명 라운지",
+   "postedAt": "2022-09-29 22:48",
+   "importance": "DECOY",
+   "title": "본사 옥상 문 밤에 열려 있던 거 본 사람?",
+   "authorName": "익명4249",
+   "viewCount": 760,
+   "contentHtml": "<p>잠겨 있어야 하는 본사 옥상 문이 열려 있고 위에서 빨간 불빛이 깜빡였음. 무서워서 그냥 내려옴.</p>",
+   "comments": [
+    {
+     "key": "F158-c1",
+     "postedAt": "2022-09-29 23:05",
+     "authorName": "익명6078",
+     "content": "저예요. 담배요."
+    },
+    {
+     "key": "F158-c2",
+     "postedAt": "2022-09-29 23:06",
+     "authorName": "익명5869",
+     "content": "열쇠 어떻게 구하셨음?"
+    },
+    {
+     "key": "F158-c3",
+     "postedAt": "2022-09-29 23:10",
+     "authorName": "익명2500",
+     "content": "그건 말 못 함."
+    }
+   ]
+  },
+  {
+   "key": "F159",
+   "menu": "익명 라운지",
+   "postedAt": "2026-10-18 21:30",
+   "importance": "DECOY",
+   "title": "띄어쓰기없이고백했더니차였습니다",
+   "authorName": "익명6710",
+   "viewCount": 3920,
+   "contentHtml": "<p>단체방그글보고용기내서똑같이보냈는데읽씹당함다음날회의에서그분이저보고띄어쓰기배우고오래요</p>",
+   "comments": [
+    {
+     "key": "F159-c1",
+     "postedAt": "2026-10-18 21:40",
+     "authorName": "익명3800",
+     "content": "숨 좀 쉬고 고백하세요."
+    }
+   ]
+  },
+  {
+   "key": "F160",
+   "menu": "익명 라운지",
+   "postedAt": "2026-10-18 13:05",
+   "importance": "DECOY",
+   "title": "그 글 따라 쓰기 챌린지",
+   "authorName": "익명2047",
+   "viewCount": 5120,
+   "contentHtml": "<p>점심메뉴버전: 그동안너한테하고싶었던말이있었어오늘은제발국밥말고다른거먹자</p>\n<p>결재요청버전: 처음마음이간건지난분기실적이었어팀장님부디이번주안에도장찍어주세요심장이빨리뛰어요</p>\n<p>재무본부버전: 작년가을부터네영수증만기다렸어아직안왔어</p>",
+   "comments": [
+    {
+     "key": "F160-c1",
+     "postedAt": "2026-10-18 13:20",
+     "authorName": "익명3800",
+     "content": "재무본부 버전 진심 같음."
+    },
+    {
+     "key": "F160-c2",
+     "postedAt": "2026-10-19 09:02",
+     "authorName": "익명2209",
+     "content": "장난이 지나치면 조직문화팀 부를 듯."
+    }
+   ]
+  },
+  {
+   "key": "F161",
+   "menu": "익명 라운지",
+   "postedAt": "2026-10-19 08:10",
+   "importance": "DECOY",
+   "title": "토요일 일곱 시 반에 본사 정문 화단 구경 간 사람 손",
+   "authorName": "익명6713",
+   "viewCount": 6210,
+   "contentHtml": "<p>글에 \"내일 저녁 일곱시반 정문 화단 앞\"이라고 있어서 토요일에 궁금해서 가 봄. 혼자 간 줄 알았음.</p>"
+  },
+  {
+   "key": "F162",
+   "menu": "익명 라운지",
+   "postedAt": "2026-10-19 08:42",
+   "importance": "DECOY",
+   "title": "화단 앞에 구경꾼 스무 명 있었음, 고백 상대는 없었음",
+   "authorName": "익명6713",
+   "viewCount": 7340,
+   "contentHtml": "<p>다들 산책하는 척 화단만 쳐다봄. 주말에 본사 앞에 왜 왔냐고 서로 묻지 않음. 8시까지 아무도 안 옴. 그래서 다 같이 근처 호프집 감. 좋은 사람들이었음.</p>",
+   "comments": [
+    {
+     "key": "F162-c1",
+     "postedAt": "2026-10-19 09:00",
+     "authorName": "익명5888",
+     "content": "그 글 쓴 사람은 왜 안 왔을까."
+    },
+    {
+     "key": "F162-c2",
+     "postedAt": "2026-10-19 09:20",
+     "authorName": "익명7393",
+     "content": "호프집 2차 사진 올려 주세요."
+    }
+   ]
+  },
+  {
+   "key": "F163",
+   "menu": "익명 라운지",
+   "postedAt": "2026-10-19 11:00",
+   "importance": "DECOY",
+   "title": "정문 화단 밟지 말아 주세요",
+   "authorName": "익명2047",
+   "viewCount": 3010,
+   "contentHtml": "<p>총무팀입니다. 월요일 출근해 보니 본사 정문 화단 국화 일곱 포기가 쓰러져 있습니다. 구경하시는 건 말리지 않겠습니다. 화단 안에는 들어가지 말아 주세요. 3년 전 공지에도 썼습니다.</p>"
+  },
+  {
+   "key": "F164",
+   "menu": "익명 라운지",
+   "postedAt": "2014-09-17 19:02",
+   "importance": "FLAVOR",
+   "title": "회의 때문에 일을 못 해서 회의 잡음",
+   "authorName": "익명6959",
+   "viewCount": 1320,
+   "contentHtml": "<p>회의가 너무 많다는 안건으로 회의가 잡힘. 회의 줄이는 방안은 다음 회의에서 논의하기로 함. 진짜임.</p>"
+  },
+  {
+   "key": "F165",
+   "menu": "익명 라운지",
+   "postedAt": "2015-06-25 18:30",
+   "importance": "FLAVOR",
+   "title": "부장님 \"나 때는\" 횟수 세어 봄",
+   "authorName": "익명9480",
+   "viewCount": 1960,
+   "contentHtml": "<p>오늘 하루 17회. 신기록임. 점심에 5회 몰아서 하심. 팀 단체로 내기 중인데 제가 1등임. 부장님 감사합니다.</p>"
+  },
+  {
+   "key": "F166",
+   "menu": "익명 라운지",
+   "postedAt": "2017-10-11 10:40",
+   "importance": "FLAVOR",
+   "title": "전체 답장 누르신 분 찾습니다",
+   "authorName": "익명8233",
+   "viewCount": 2440,
+   "contentHtml": "<p>\"전체 답장 그만 눌러 주세요\"라는 메일에 전체 답장으로 \"맞습니다\"라고 보내신 분들. 지금 112통째임. 다들 무슨 일이 있어서 이러시는 겁니까.</p>"
+  },
+  {
+   "key": "F167",
+   "menu": "익명 라운지",
+   "postedAt": "2018-11-20 12:40",
+   "importance": "FLAVOR",
+   "title": "퇴사하겠다고 3년째 말하는 선배",
+   "authorName": "익명8141",
+   "viewCount": 1120,
+   "contentHtml": "<p>이번 달까지만 다닌다고 함. 3년째 매달 함. 환송회만 두 번 함. 다음 달에 또 얻어먹을 생각임.</p>"
+  },
+  {
+   "key": "F168",
+   "menu": "익명 라운지",
+   "postedAt": "2019-08-07 15:20",
+   "importance": "FLAVOR",
+   "title": "탕비실 믹스커피 사재기 목격담",
+   "authorName": "익명4633",
+   "viewCount": 840,
+   "contentHtml": "<p>퇴근 전에 믹스커피를 가방에 한 움큼씩 넣는 분을 봄. 집에 가서 드시는 건가. 저도 어제 그렇게 함. 눈이 마주쳤고 서로 못 본 척함.</p>"
+  },
+  {
+   "key": "F169",
+   "menu": "익명 라운지",
+   "postedAt": "2021-04-15 11:30",
+   "importance": "FLAVOR",
+   "title": "화상회의 때 고양이가 대표님 가림",
+   "authorName": "익명3666",
+   "viewCount": 2150,
+   "contentHtml": "<p>우리 집 고양이가 카메라 앞에 앉아서 대표님 발표 중에 제 화면이 큼지막하게 나옴. 대표님이 \"귀엽네요\" 하셨는데 고과에 어떻게 반영될까요.</p>"
+  },
+  {
+   "key": "F170",
+   "menu": "익명 라운지",
+   "postedAt": "2022-01-24 09:50",
+   "importance": "FLAVOR",
+   "title": "월요일 아침 회의 없애기 서명",
+   "authorName": "익명3809",
+   "viewCount": 1680,
+   "contentHtml": "<p>서명 시작함. 현재 3명. 1명은 저. 1명은 제 동기. 나머지 1명은 대표이사 비서라고 적혀 있는데 진짜인지 무서워서 확인 못 함.</p>"
+  },
+  {
+   "key": "F171",
+   "menu": "익명 라운지",
+   "postedAt": "2023-09-12 08:58",
+   "importance": "FLAVOR",
+   "title": "왜 항상 내 앞에서 엘리베이터가 닫힘",
+   "authorName": "익명8683",
+   "viewCount": 720,
+   "contentHtml": "<p>뛰어가면 닫힘. 안에 있는 사람이랑 눈 마주침. 열림 버튼 안 누름. 그분 알아요. 저도 어제 그랬어요.</p>",
+   "comments": [
+    {
+     "key": "F171-c1",
+     "postedAt": "2023-09-12 09:20",
+     "authorName": "익명7315",
+     "content": "저희 건물은 2층까지밖에 없어서 엘리베이터가 없습니다. 옛날 사진 들고 계단 오르내리는 게 운동입니다."
+    }
+   ]
+  },
+  {
+   "key": "F172",
+   "menu": "익명 라운지",
+   "postedAt": "2024-04-02 22:10",
+   "importance": "FLAVOR",
+   "title": "신입이 회식 메뉴 물어봐서 울 뻔함",
+   "authorName": "익명3753",
+   "viewCount": 1560,
+   "contentHtml": "<p>부장 10년 차. 처음으로 신입이 \"부장님 뭐 드시고 싶으세요?\" 하고 물어봄. 늘 내가 정했는데 사실 아무도 안 물어봤던 거였음. 아무거나 좋다고 하니 다 같이 환호함.</p>"
+  },
+  {
+   "key": "F173",
+   "menu": "익명 라운지",
+   "postedAt": "2025-06-30 07:55",
+   "importance": "FLAVOR",
+   "title": "통근버스 코골이 순위 발표",
+   "authorName": "익명7315",
+   "viewCount": 1890,
+   "contentHtml": "<p>3호차 기준. 1위 7번 옆자리 차장님. 2위 뒷좌석 부장님. 3위 저인 듯함. 어제 제 소리에 깼음.</p>"
+  },
+  {
+   "key": "F174",
+   "menu": "익명 라운지",
+   "postedAt": "2026-10-21 14:32",
+   "importance": "FLAVOR",
+   "title": "이 라운지 진짜 익명 맞나요",
+   "authorName": "익명2946",
+   "viewCount": 2204,
+   "contentHtml": "<p>요즘 하도 말이 많아서 궁금함. 여기 쓰는 글 정말 누가 썼는지 모르는 거 맞죠?</p>",
+   "comments": [
+    {
+     "key": "F174-c1",
+     "postedAt": "2026-10-21 14:40",
+     "authorName": "구민재",
+     "authorDept": "정보관리팀",
+     "authorCode": "01520",
+     "content": "맞습니다, 대리님."
+    },
+    {
+     "key": "F174-c2",
+     "postedAt": "2026-10-21 14:41",
+     "authorName": "익명2946",
+     "content": "저 대리라고 쓴 적 없는데요."
+    },
+    {
+     "key": "F174-c3",
+     "postedAt": "2026-10-21 14:42",
+     "authorName": "구민재",
+     "authorDept": "정보관리팀",
+     "authorCode": "01520",
+     "content": "농담입니다."
+    },
+    {
+     "key": "F174-c4",
+     "postedAt": "2026-10-21 14:43",
+     "authorName": "익명2946",
+     "content": "누구한테 하는 농담입니까."
+    }
+   ]
+  },
+  {
+   "key": "F175",
+   "menu": "장터",
+   "postedAt": "2016-05-09 12:30",
+   "importance": "FLAVOR",
+   "deletedLabel": "삭제된 게시물입니다."
+  },
+  {
+   "key": "F176",
+   "menu": "장터",
+   "postedAt": "2021-02-15 12:10",
+   "importance": "FLAVOR",
+   "deletedLabel": "삭제된 게시물입니다."
+  },
+  {
+   "key": "F177",
+   "menu": "동호회",
+   "postedAt": "2019-06-24 12:00",
+   "importance": "FLAVOR",
+   "deletedLabel": "삭제된 게시물입니다."
+  },
+  {
+   "key": "F178",
+   "menu": "익명 라운지",
+   "postedAt": "2022-11-08 22:30",
+   "importance": "FLAVOR",
+   "deletedLabel": "삭제된 게시물입니다."
+  },
+  {
+   "key": "F179",
+   "menu": "사내소식",
+   "postedAt": "2016-02-29 10:00",
+   "importance": "DECOY",
+   "title": "신입사원 복장 안내",
+   "authorName": "오수연",
+   "authorDept": "인사팀",
+   "authorCode": "01433",
+   "viewCount": 1120,
+   "contentHtml": "<p>입사식 날에는 정장을 입어 주세요. 넥타이는 윈저 매듭이 무난합니다. 작년 입사식에서 넥타이를 머리에 묶으신 분이 있었습니다. 입사식은 회식과 다릅니다.</p>"
+  },
+  {
+   "key": "F180",
+   "menu": "사내소식",
+   "postedAt": "2019-09-09 11:00",
+   "importance": "DECOY",
+   "title": "추석 선물 포장 봉사 후기",
+   "authorName": "최다솜",
+   "authorDept": "인사팀",
+   "authorCode": "01302",
+   "viewCount": 415,
+   "contentHtml": "<p>복지관에 보낼 선물 300개를 보자기로 포장했습니다. 보자기 매듭은 나비 매듭으로 통일했습니다. 재무본부에서 온 분들 것은 전부 풀리지 않아, 받는 분이 가위를 쓰셔야 합니다.</p>"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+StoryID : 7f71ed57-6b1d-4e54-9921-a11be7f511b6
+StepID : (DB 등록 시)
+
+1. 순서
+8
+
+2. 단계 이름
+최종 추리
+
+3. 단계 유형
+DEDUCTION
+
+4. 예상 소요 시간
+15분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Melancholic tense ambient, soft sustained strings, sparse piano, faint distant footsteps texture, quiet final reckoning, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <p class="emphasis">모든 조사가 끝났습니다. 아는 것을 나눌 마지막 기회입니다. 다음 단계부터는 더 이상 정보를 주고받을 수 없습니다.</p>
+  <div class="section-title">1. 한 마디씩</div>
+  <p>돌아가며 한 사람씩, 지금 누구를 의심하는지와 왜 그렇게 생각하는지 말해 주세요. 그런 다음 각자 생각을 정리합니다. 마지막으로 보여 줄 단서가 있다면 <span class="highlight">보드 공개</span>로 공개할 수 있습니다.</p>
+  <div class="section-title">2. 정리해 둘 것</div>
+  <ul>
+    <li>하도훈을 죽인 사람은 누구이고, 어떤 방법을 썼는가?</li>
+    <li>그 사람은 왜 하도훈을 노렸는가?</li>
+    <li>USB는 누가 챙겨 나가야 하는가?</li>
+  </ul>
+  <div class="section-title">3. 다음 단계 안내</div>
+  <p>충분히 이야기를 나눴다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 최종 질문으로 진행하십시오.</p>
+</div>
+
+8. 대본 관리 (구조화, DB 입력용)
+
+※ 대본은 탈출 계기까지만 쓰고, 이후는 한 사람씩 한 마디씩 하는 시간으로 둔다.
+※ 단계 설정 "단서 공개 허용"을 켠다.
+※ 정형미의 자원("제가 제일 가벼우니")은 역할 지침에 있으므로 대본에 쓰지 않는다.
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 유정석 (사료관리팀 팀장)
+    대사: 위에서 들리던 소리가 어느 순간 멎는다. 잠시 뒤 건물 아래쪽에서 발소리가 들리고, 손전등 불빛이 문틈으로 스쳐 간다.
+
+[2] 화자 타입: PLAYER
+    화자: 유정석 (사료관리팀 팀장)
+    화자 표시 HTML: <span class="character-yoojeongseok">유정석</span>
+    대사: 외벽을 돌면서 살피고 있어요. 이 문을 찾는 건 시간문제입니다.
+
+[3] 화자 타입: PLAYER
+    화자: 노형철 (사료관리팀 대리)
+    화자 표시 HTML: <span class="character-nohyeongcheol">노형철</span>
+    대사: 문 옆에 접이식 사다리가 있었죠. 그걸 내리면 땅까지 닿습니다. 다만 낡아서 누가 먼저 내려가 아래에서 붙잡아 줘야 해요.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 노형철 (사료관리팀 대리)
+    대사: 책상 서랍에서 USB 하나가 나온다. 라벨에 "두영물류 장부 원본 2005~2008"이라고 적혀 있다. 한 사람이 챙겨 나가야 한다. 아직 몇 분은 남았다. 내려가기 전에 정해야 한다. 누가 하도훈을 죽였는지, 그리고 누구에게 이것을 맡길지.

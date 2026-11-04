@@ -1,0 +1,56 @@
+StoryID : 7f71ed57-6b1d-4e54-9921-a11be7f511b6
+StepID : (DB 등록 시)
+
+1. 순서
+3
+
+2. 단계 이름
+조사 1단계
+
+3. 단계 유형
+INVESTIGATION
+
+4. 예상 소요 시간
+50분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Investigative modern ambient score, soft analog pulse, faint ticking percussion, quiet office tension at night, restrained unease, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 지급 AP
+박혜수 (전략실장) : 10
+정형미 (조직문화팀 차장) : 10
+유정석 (사료관리팀 팀장) : 10
+노형철 (사료관리팀 대리) : 10
+정준희 (사료관리팀 사원) : 10
+
+8. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 단서 조사</div>
+  <p>새 지침이 갱신되었으니 <span class="highlight">내 역할</span>을 먼저 확인하고, 게임보드에서 건물 1층과 2층의 단서를 조사하십시오. 이번 단계에는 10AP가 주어집니다.</p>
+  <p>모두가 단서를 빠짐없이 조사하고 한 번씩 어깨너머로 볼 수 있을 만큼의 AP입니다. 역할에 따라 쓸 수 있는 액션도 있으니, 무엇에 시간을 쓸지 정해 보세요.</p>
+  <div class="section-title">2. 대화와 추리</div>
+  <p>따로 마련된 추리 시간은 없습니다. 조사하면서 언제든 모여 이야기하고 함께 추리하세요. 둘이나 셋이서 <span class="highlight">밀담</span>을 나눠도 좋습니다. 말로 설명하기 어려운 단서는 <span class="highlight">보드 공개</span>로 보여 줄 수 있습니다. 공개한 단서는 되돌릴 수 없습니다.</p>
+  <ul>
+    <li>하도훈은 왜 퇴근한 뒤 다시 이 건물에 있었는가?</li>
+    <li>그는 언제, 어떻게 죽었는가?</li>
+    <li>그 시각 다섯 사람은 각자 어디에 있었는가?</li>
+  </ul>
+  <div class="section-title">3. 층별 안내 화면</div>
+  <p class="emphasis">1층 전시실의 층별 안내 화면에서 숨은 안내를 찾아야 다음 단계로 넘어갈 수 있습니다.</p>
+  <p>비밀코드는 AP를 쓰지 않고, 틀려도 불이익이 없습니다. 막히면 역할 지침의 접힌 힌트를 서로 나눠 보세요. 사내 게시판도 도움이 됩니다.</p>
+  <div class="section-title">다음 단계 안내</div>
+  <p>충분히 마무리되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계(장면 2)로 진행하십시오.</p>
+</div>
+
+9. 대본 관리 (구조화, DB 입력용)
+
+※ 이 단계에는 대본이 없다.
+※ 단계 설정 "단서 공개 허용"을 켠다.
+※ 단계 게이트(REQUIRED_CLUE): 단서 D4(층별 안내 화면)가 앞면으로 공개되어야 다음 단계로 넘어간다.
+※ 다음 단계 전 리마인더(DB story_step.pre_next_reminder): 남은 AP는 다음 단계로 이월되지 않습니다. 조사하지 못한 단서가 있는지 확인하고 진행하세요.

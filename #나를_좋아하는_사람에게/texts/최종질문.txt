@@ -1,0 +1,49 @@
+[최종 질문] 단계 9에 등록한다. 2026-11-05 초안, 사용자 검토 전.
+
+※ 경찰 신고는 묻지 않는다. 판정 규칙이 실제 액션 기록을 읽는다(texts/엔딩_대본.txt).
+※ 범인 투표 결과는 바로 보여 주지 않는다(show_result_after_submit=0). USB 투표 결과는 박혜수가 알고 답하도록 바로 보여 준다(=1). 이 설정의 실제 동작은 등록 때 확인한다.
+※ 두 투표 모두 동률이면 재투표한다(allow_tie=0). 기권 선택지는 없다.
+※ 탈출 투표와 개별 질문은 뺐다(2026-11-05 사용자 지정). 범인을 뽑은 뒤 그 사람을 또 뽑을 리 없어 두 질문의 답이 사실상 같아지기 때문이다.
+
+=== Q1 ===
+코드: Q1
+대상: 전원
+유형: 투표 (is_multiple_choice=1, is_vote=1, allow_tie=0, is_required=1, show_result_after_submit=0)
+순서: 1
+제목:
+<div class="subsection-title">범인 지목</div>
+<p>하도훈을 살해한 범인은 누구인가?</p>
+선택지:
+- 박혜수
+- 정형미
+- 유정석
+- 노형철
+- 정준희
+
+=== Q2 ===
+코드: Q2
+대상: 전원
+유형: 투표 (is_multiple_choice=1, is_vote=1, allow_tie=0, is_required=1, show_result_after_submit=1)
+순서: 2
+제목:
+<div class="subsection-title">USB</div>
+<p>두영물류 장부 원본이 든 USB를 누가 챙겨 나갈 것인가?</p>
+선택지:
+- 박혜수
+- 정형미
+- 유정석
+- 노형철
+- 정준희
+
+=== Q3 ===
+코드: Q3
+대상: 박혜수
+유형: 선택 (is_multiple_choice=1, is_vote=0, is_required=1)
+순서: 3
+의도: 투표에서 박혜수가 USB를 받았을 때만 엔딩에 반영된다. 다른 사람에게는 보이지 않는다.
+제목:
+<div class="subsection-title">USB</div>
+<p>당신이 USB를 받았다면 어떻게 하겠는가? 받지 않았다면 어느 쪽을 골라도 상관없다.</p>
+선택지:
+- 세상에 내놓는다. 나도 함께 조사를 받는다.
+- 숨긴다. 회장을 상대할 카드로 쥐고 있는다.

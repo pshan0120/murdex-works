@@ -1,0 +1,44 @@
+StoryID : 7f71ed57-6b1d-4e54-9921-a11be7f511b6
+StepID : (DB 등록 시)
+
+1. 순서
+9
+
+2. 단계 이름
+최종 질문
+
+3. 단계 유형
+CONCLUSION
+
+4. 예상 소요 시간
+10분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: High intensity dark orchestral hybrid, sustained tense strings held at a constant pitch, deep pulsing synth bass, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 최종 질문</div>
+  <p>더는 시간을 끌 수 없습니다. 지금까지 알아낸 것을 바탕으로 답해 주세요.</p>
+  <ul>
+    <li><span class="highlight">범인 지목</span>: 하도훈을 살해한 범인은 누구인가? 전원이 답해야 하고, 기권할 수 없습니다. 다수결로 정합니다.</li>
+    <li><span class="highlight">USB</span>: USB를 누가 챙겨 나갈 것인가? 전원이 답해야 하고, 다수결로 정합니다.</li>
+  </ul>
+  <p>두 투표 모두 동률이면 다시 의논해 한 사람으로 모일 때까지 <span class="highlight">재투표</span>합니다.</p>
+  <div class="section-title">2. 다음 단계 안내</div>
+  <p>모두 답했다면 화면 <span class="highlight">NEXT</span> 버튼을 눌러 엔딩으로 진행하십시오.</p>
+</div>
+
+8. 대본 관리 (구조화, DB 입력용)
+
+※ 범인 투표를 먼저, USB 투표를 다음에 묻는다. 둘 다 플랫폼의 "동률 금지" 옵션을 켠다.
+※ 질문과 선택지 문구는 texts/최종질문.txt가 정본이다.
+※ 박혜수에게만 USB를 받았을 때의 선택을 묻는다(투표에서 박혜수가 받았을 때만 반영).
+※ 경찰 신고는 질문하지 않고 판정 규칙의 액션 사용 조건(_used_action:<action_id>)으로 읽는다. 질문으로 물으면 그런 액션이 있었다는 것이 드러나기 때문이다.
+※ 개별 엔딩은 없다. 엔딩은 범인 투표, 경찰 신고 액션, USB 투표로 정해지는 공통 엔딩이다(사용자 지정).

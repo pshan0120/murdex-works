@@ -1,0 +1,424 @@
+{
+ "story_id": "7f71ed57-6b1d-4e54-9921-a11be7f511b6",
+ "roles": {
+  "박혜수": "60eb1032-da68-5d84-af9b-04be3e82b061",
+  "정형미": "9d773b67-f743-5f25-8c3e-54f832ace51c",
+  "유정석": "cd43c23c-e103-5c0b-bbf4-21c6882b4489",
+  "노형철": "94125db2-51fb-5d4d-aaae-84a8ada88285",
+  "정준희": "bd29497d-2159-50a1-8cc4-2ff047c92149"
+ },
+ "steps": {
+  "시작": "1539dad8-ccba-55cc-a653-53741e232e34",
+  "장면 1": "df81c69a-8861-53e5-b73b-1af07eedc3c4",
+  "조사 1단계": "758b06eb-8f4a-58e8-ab86-788eebc48efd",
+  "장면 2": "be04cd69-d466-5dd0-b8d5-c2ce5afd5b8e",
+  "조사 2단계": "40554096-30e4-57d5-8a19-6791495bf38e",
+  "장면 3": "e667905b-4a3e-5cd8-85ce-8a5461d283d2",
+  "조사 3단계": "59101e9f-5421-5283-afe5-b0795d143a4a",
+  "최종 추리": "35d8077e-93e9-599a-9b90-557832455a01",
+  "최종 질문": "89a1ec1e-c731-559e-89f7-8a43a04e1063",
+  "끝": "d85f0fba-e2a6-5dec-9855-f463c9c7a23f"
+ },
+ "groups": {
+  "여문혁의 자료": "6948dc3a-944d-5749-aae1-a2576704ec0a",
+  "1.5층의 흔적": "90477ce2-1648-5bcf-b2c7-59d02554e3a5",
+  "옥상": "79637b07-3ce0-54e5-8b38-d8e1359bd307",
+  "경비원 심용택": "8f5bc49f-5593-5033-9828-8e7e26aab887",
+  "1층 회의실과 복도": "142d487c-e967-53d5-8bf0-ef88448e5d41",
+  "1층 전시실": "aa1ddae0-a7d0-5e1a-851a-741c504ab06c",
+  "2층 탕비실과 화장실": "41bb4581-a3ef-5ca3-9253-ca99538b3f5b",
+  "2층 문서고": "81d45d1f-9c5a-555b-8076-a379217459c3",
+  "2층 사료관리팀 사무실": "ba7cfbad-a9b8-5f57-bbdf-aaef6aa703de",
+  "정준희에 대하여": "e57d514d-46fd-5807-8387-f025226a2f89",
+  "노형철에 대하여": "8c4b4def-82c6-5d12-8136-29d77c09a115",
+  "유정석에 대하여": "23558ed1-354a-57cb-a5df-fcd95fa6793a",
+  "정형미에 대하여": "55736b05-b4c7-52a3-a329-5963556a3c91",
+  "박혜수에 대하여": "38a82340-925e-5477-94bb-cfaf473aed7a",
+  "다섯 사람의 모습": "352b46a9-d148-59f0-a016-4175ac081b83"
+ },
+ "clues": {
+  "P1": {
+   "clue_id": "8a56916c-d97d-530c-aad6-f18db4a7aebe",
+   "variant_id": "00b2402b-a2af-5425-b3b6-d1d3b88f91e9",
+   "name": "박혜수의 모습"
+  },
+  "P2": {
+   "clue_id": "cd044ff7-ded5-572b-8633-2e102bdefa4c",
+   "variant_id": "3be518ce-4ff3-5c55-b9ed-b4f4000dfb46",
+   "name": "정형미의 모습"
+  },
+  "P3": {
+   "clue_id": "16dc7f8d-2c10-5640-9954-7b33c76ae4dc",
+   "variant_id": "52950e8a-48d7-50ac-aa93-ff60a3bfe38a",
+   "name": "유정석의 모습"
+  },
+  "P4": {
+   "clue_id": "2eb04f72-095e-5293-af14-29b51befbb7b",
+   "variant_id": "439c6e78-b684-58ec-a93d-d3e1e2018c55",
+   "name": "노형철의 모습"
+  },
+  "P5": {
+   "clue_id": "f4cfe8b8-5037-561c-9882-cffdba923e1e",
+   "variant_id": "799dfdc1-f4d9-5aec-a241-24b78bdbaafc",
+   "name": "정준희의 모습"
+  },
+  "H1": {
+   "clue_id": "5fb5c385-db32-5887-9c0b-6662aeee6420",
+   "variant_id": "809020d7-05d8-526d-8285-f79b3fa6b795",
+   "name": "박혜수에 대하여#1"
+  },
+  "W1": {
+   "clue_id": "54a7b593-57bf-585f-9cc1-32d5597f7440",
+   "variant_id": "21250011-8a22-5b2d-b37f-e0cd2afc6748",
+   "name": "박혜수의 휴대폰"
+  },
+  "J1": {
+   "clue_id": "ac8cf330-a312-58d9-9549-4bc19acfda9b",
+   "variant_id": "92515a5c-637a-581d-8080-f7ff3757510f",
+   "name": "정형미에 대하여#1"
+  },
+  "G2": {
+   "clue_id": "62bf42b1-aa8f-51ef-b926-99b883bab747",
+   "variant_id": "b99320c0-cf41-5f42-93e6-110879e7b601",
+   "name": "정형미에 대하여#2"
+  },
+  "A15": {
+   "clue_id": "af324072-c704-5856-b1c7-e591be0ed0f3",
+   "variant_id": "7eea5ff1-e65e-5ef8-a96b-cc40e245e54b",
+   "name": "정형미에 대하여#3"
+  },
+  "W2": {
+   "clue_id": "3fdad627-58b6-5285-8e25-59050faa54a3",
+   "variant_id": "7b66e430-3f22-5544-acb7-d4ffd99a4523",
+   "name": "정형미의 서류 가방"
+  },
+  "P7": {
+   "clue_id": "7310bb3a-d591-5fe3-93b5-473bce3ca3f4",
+   "variant_id": "65de274d-d8ef-545c-8777-b74d76415118",
+   "name": "유정석에 대하여#1"
+  },
+  "A7": {
+   "clue_id": "e6cdae46-a928-56d6-b754-8aa0e74e5cd1",
+   "variant_id": "b77cf667-f215-5aeb-8cbb-922e3c0c1a51",
+   "name": "유정석에 대하여#2"
+  },
+  "A10": {
+   "clue_id": "f9a61fef-ab83-517c-b660-e8ab04ef6252",
+   "variant_id": "0f944544-a526-5864-8754-ba006cbfbb58",
+   "name": "유정석에 대하여#3"
+  },
+  "A13": {
+   "clue_id": "72a6287c-b9b4-59fd-8c80-0508aa27e2d4",
+   "variant_id": "75685aa5-968e-5b1e-9c18-7d24aec24170",
+   "name": "유정석에 대하여#4"
+  },
+  "G3": {
+   "clue_id": "a93d724e-06b4-507f-a7c6-c9f4458e19d0",
+   "variant_id": "c240f560-ccfb-5bfa-88bf-125dd06743f9",
+   "name": "유정석에 대하여#5"
+  },
+  "W3": {
+   "clue_id": "4f104247-8137-5045-af3c-d76b9a04ce2d",
+   "variant_id": "e234b978-1cb5-58a5-a20f-a908ee077273",
+   "name": "유정석의 팀장 캐비닛"
+  },
+  "A9": {
+   "clue_id": "ab75ce07-ea8b-5cb0-a979-37c1d9bce88a",
+   "variant_id": "40066583-1bce-5de8-bc0a-627c22678110",
+   "name": "노형철에 대하여#1"
+  },
+  "A12": {
+   "clue_id": "fa91e01f-855a-5ab9-b1cb-2f60a11b161c",
+   "variant_id": "783eb3dc-a790-55b2-af27-991b13143108",
+   "name": "노형철에 대하여#2"
+  },
+  "G4": {
+   "clue_id": "442c7069-2fa7-5457-b1c2-151164b7acfc",
+   "variant_id": "c1b7618e-035a-51e6-8b14-0915ce6a85c4",
+   "name": "노형철에 대하여#3"
+  },
+  "W4": {
+   "clue_id": "4791dfa7-0e5a-539e-9b61-15700d546328",
+   "variant_id": "feb160cd-db99-56bb-89bb-3a8b5d22d799",
+   "name": "노형철의 책상 서랍"
+  },
+  "A8": {
+   "clue_id": "eba335e8-8dd8-5a81-9522-79490b4a9f40",
+   "variant_id": "85198214-e7ad-5927-91e7-b37fcd761dfa",
+   "name": "정준희에 대하여#1"
+  },
+  "A11": {
+   "clue_id": "84057b72-7f8d-5201-88c0-77a5762c68a2",
+   "variant_id": "4f2536a5-6fb7-5c92-a1f4-194349d4268f",
+   "name": "정준희에 대하여#2"
+  },
+  "B6": {
+   "clue_id": "bf50f5aa-b67c-530f-97da-d63ce89c31b2",
+   "variant_id": "0db78448-ef21-5015-ac8c-ef963a95b34a",
+   "name": "정준희에 대하여#3"
+  },
+  "G5": {
+   "clue_id": "5631cf5a-90ac-5c66-8b22-d830a51de738",
+   "variant_id": "25a72106-4c8c-5ecf-810a-a9b6cc4b4874",
+   "name": "정준희에 대하여#4"
+  },
+  "W5": {
+   "clue_id": "9af7379e-8883-5e9a-a04b-1cedbac681c1",
+   "variant_id": "5178cf47-b5e9-5d09-b28d-ab54dfee4909",
+   "name": "정준희의 사물함"
+  },
+  "A1": {
+   "clue_id": "18397762-397d-55e0-a69d-df12daaa607b",
+   "variant_id": "81b87995-9428-5f83-89c9-bac0364a0dbd",
+   "name": "하도훈의 시신"
+  },
+  "A2": {
+   "clue_id": "e3d53f04-0dc4-5e35-8522-e0e8ae07e6f4",
+   "variant_id": "8bf05f2a-0af8-5de0-8368-10673b942452",
+   "name": "창틀의 담배꽁초"
+  },
+  "A3": {
+   "clue_id": "886f8749-cdf6-5d42-a75b-ade1b8579b91",
+   "variant_id": "6592eaa1-5d26-55c0-a04c-c929ff2c0b12",
+   "name": "하도훈의 PC"
+  },
+  "A5": {
+   "clue_id": "1a8279b3-e150-5bc9-9d40-0054dd53d9d4",
+   "variant_id": "e5119c2b-ce06-5dce-a9ea-26e395e17eb8",
+   "name": "하도훈의 휴대폰"
+  },
+  "A6": {
+   "clue_id": "53531202-d161-5b22-9189-e96f0140321b",
+   "variant_id": "397a7cc1-79c6-5d12-956b-e2cce2b19780",
+   "name": "시신의 등과 손목"
+  },
+  "B1": {
+   "clue_id": "58ab618f-20a7-52ca-bc53-256026ac58b5",
+   "variant_id": "8cc2cb14-e469-52b4-91e0-ce5e9825023c",
+   "name": "옛 건물 도면"
+  },
+  "B2": {
+   "clue_id": "569d8701-50c6-5278-9757-3d9b40b431cf",
+   "variant_id": "8400f4b2-37dc-5d1e-9a9c-b1d4b5bc59e4",
+   "name": "옛 등기 서류"
+  },
+  "B4": {
+   "clue_id": "da020dd7-c5b1-5e08-a29a-098e2bad6154",
+   "variant_id": "2976a3d8-57c9-5780-8ad3-02b29ab72392",
+   "name": "옛 건물 사진"
+  },
+  "E1": {
+   "clue_id": "eb1926f1-7632-5414-92c6-28a6cff4e93c",
+   "variant_id": "ffd00116-41e5-56bd-970f-1ececea41576",
+   "name": "2층 여자화장실 세면대"
+  },
+  "E2": {
+   "clue_id": "bf65e3bd-49c2-5be5-b185-d3265cd5a1a2",
+   "variant_id": "40528eaf-ceb9-52e5-ae74-a0272e037960",
+   "name": "탕비실 냉장고"
+  },
+  "C1": {
+   "clue_id": "94aecf3d-abd1-5eff-9715-7d481a421e76",
+   "variant_id": "32b40613-614b-5807-9f08-d2af85c4f260",
+   "name": "창업주 동상 안내판"
+  },
+  "C2": {
+   "clue_id": "677672ed-d7e6-55ab-9f4d-a4aa0f6d035d",
+   "variant_id": "ad99182b-cec5-5035-ba71-6887332bd5c7",
+   "name": "창업 멤버 사진"
+  },
+  "D4": {
+   "clue_id": "be44a34e-039c-574c-bcbe-ba398a5c0ae8",
+   "variant_id": "9479e489-e5b1-52eb-95de-85f053a8777e",
+   "name": "층별 안내 화면"
+  },
+  "D1": {
+   "clue_id": "90072dc9-4ec9-57f3-82ee-bd668a21a61b",
+   "variant_id": "4e8c7603-286c-51bd-83f9-4efffa9331db",
+   "name": "회의실 창문"
+  },
+  "D2": {
+   "clue_id": "b2b2517b-94d1-591a-ae65-f63415180bbf",
+   "variant_id": "c8670693-7a62-5c8a-be99-82e0eae62e76",
+   "name": "서쪽 복도 창 너머 재떨이"
+  },
+  "D3": {
+   "clue_id": "525af7fe-59f5-547d-9c49-44850065b087",
+   "variant_id": "3602d669-47c5-59f0-97bc-5d8167f90ae4",
+   "name": "1층 여자화장실 창문"
+  },
+  "G8": {
+   "clue_id": "bf85da19-eb14-560b-942a-a4ce0e2effaa",
+   "variant_id": "ff260388-5ce6-5fda-8dfe-5b00b7cd3ce1",
+   "name": "심용택의 모습"
+  },
+  "G1": {
+   "clue_id": "b5ee6209-adcd-5e8d-9174-05f6dc17a3a3",
+   "variant_id": "32dc7bd3-50d7-5707-a62d-f0fa255bee16",
+   "name": "경비원의 말#1"
+  },
+  "G6": {
+   "clue_id": "4dfd5224-5a94-50ec-8f8a-942885955f37",
+   "variant_id": "91fcd0d4-a223-5726-9778-2225249b3ee4",
+   "name": "경비원의 말#6"
+  },
+  "G7": {
+   "clue_id": "917a0f56-7290-5a87-bdf5-f5069c603e1e",
+   "variant_id": "33e1a912-f0f7-5b43-85bf-29a5c3332c26",
+   "name": "경비원의 말#7"
+  },
+  "G9": {
+   "clue_id": "07398dd2-5cd4-5e84-a2a4-b2bdb5359c27",
+   "variant_id": "f0616201-5549-55bb-bc36-95ca6c6920d4",
+   "name": "경비원의 말#9"
+  },
+  "R-1": {
+   "clue_id": "624c5338-fe8d-5d3b-a382-7ef3ee85aaa0",
+   "variant_id": "23adfc7b-e812-52cf-a1d8-dc0db7f07663",
+   "name": "금 간 앞유리"
+  },
+  "R-2": {
+   "clue_id": "5ea56727-3127-5d1c-83a2-66a292349ff7",
+   "variant_id": "01258680-432e-5e18-8151-ce0a325fa1bc",
+   "name": "옥상 사다리"
+  },
+  "R-3": {
+   "clue_id": "27b069bf-b52c-500b-8c16-6486330c9308",
+   "variant_id": "da94bb20-330a-5586-8ec2-d12565c51a36",
+   "name": "서쪽 난간"
+  },
+  "R-4": {
+   "clue_id": "592b4c1b-7415-59a1-9081-9a0758c96621",
+   "variant_id": "ea7f182f-2f0f-560b-a14d-420b47a1325b",
+   "name": "고리를 쓸 방법"
+  },
+  "M6": {
+   "clue_id": "98f53056-8891-5ab0-8e65-8cefb5c117cb",
+   "variant_id": "8bea3f75-6c65-51f0-8b9d-2cc008b6fc06",
+   "name": "장부 사본"
+  },
+  "N1": {
+   "clue_id": "bf0875cb-c59e-50bf-8be0-a78c1a745e70",
+   "variant_id": "223b633b-c9df-5bdd-bb75-57ba709e1820",
+   "name": "두영물류 등기 사본"
+  },
+  "N2": {
+   "clue_id": "f37a7d6b-da7e-5c4a-84a4-298ce55d6fc7",
+   "variant_id": "4b2fb5ea-ca6c-548e-91c8-6548da409bdb",
+   "name": "2008년 이사회 회의록"
+  },
+  "N3": {
+   "clue_id": "b3393be6-0c47-5fcd-bd13-8cef36ae13ea",
+   "variant_id": "badc3000-4431-5687-9ede-a04f7fa820a2",
+   "name": "2008년 인사 서류"
+  },
+  "N4": {
+   "clue_id": "696c48ac-2bb6-5939-ac76-821c3bc6a5fe",
+   "variant_id": "0b93197b-8322-5027-b737-75a0b3f2b38c",
+   "name": "정태호의 우편"
+  },
+  "N5": {
+   "clue_id": "ef106a49-a632-5675-833f-f303df3bf23a",
+   "variant_id": "2381ccd9-5af2-566f-8c40-4564844daec2",
+   "name": "항공권 예약 확인서"
+  },
+  "M3": {
+   "clue_id": "fc2e4195-5653-581a-8ed3-f9f5033a685e",
+   "variant_id": "38fc6980-159b-5808-82d8-01928c040f4c",
+   "name": "지출 결의서 사본"
+  },
+  "N6": {
+   "clue_id": "dfb36af3-526f-545b-b8a5-5e339626aa50",
+   "variant_id": "7c6b9526-f0e8-5ec4-b22e-7341013688cf",
+   "name": "한결안전관리 사업자등록증"
+  },
+  "M1": {
+   "clue_id": "9d4800a3-d909-5f6c-9401-c730d61bd259",
+   "variant_id": "c180678d-6b72-5af7-846d-2b77d6d35d20",
+   "name": "여문혁의 메모"
+  },
+  "N7": {
+   "clue_id": "681146ba-ff11-503d-be13-f975f68755dd",
+   "variant_id": "4660a9fb-611f-5062-b790-bb57e04f5f50",
+   "name": "탁상 달력"
+  },
+  "M2": {
+   "clue_id": "08a7047a-f1e9-5627-aec9-f9518837d263",
+   "variant_id": "4ee33882-84c4-545d-b81c-923024a123db",
+   "name": "책상 위의 쪽지"
+  },
+  "N8": {
+   "clue_id": "126cd444-8442-5ff9-a9b6-8c8630c37c94",
+   "variant_id": "0f65e374-a0aa-546f-90a2-a8ab19ef9733",
+   "name": "옛 암호 규칙"
+  },
+  "N9": {
+   "clue_id": "9c91ef00-2972-5eb5-8faf-6369d46f1c4c",
+   "variant_id": "a80b9fbe-b2ef-5ddf-9ee5-49934719cd1b",
+   "name": "여문혁의 일지 한 장"
+  },
+  "M4": {
+   "clue_id": "d28f7250-3864-5795-8def-a4a2f86f0f0a",
+   "variant_id": "9b8fbff3-8cd7-5b80-9953-48b3beaa692c",
+   "name": "서류 더미 위의 저울추"
+  },
+  "M8": {
+   "clue_id": "1d478345-4023-52e2-99f4-17dc2516e9cc",
+   "variant_id": "a14b7b44-c271-5d0a-b122-fb05ce06d73e",
+   "name": "접이식 사다리"
+  }
+ },
+ "actions": {
+  "어깨너머로 보기:박혜수": "fe6c4bd4-9591-538d-ab0b-1cc36f8fdd65",
+  "어깨너머로 보기:정형미": "5e5c7422-bc89-54cc-81c5-c15474bdceaf",
+  "어깨너머로 보기:유정석": "e3862fbb-02f0-5aeb-85df-3389897c4c9a",
+  "어깨너머로 보기:노형철": "d5cdfd35-5ca0-54a9-8c9a-7c255dff6b8a",
+  "어깨너머로 보기:정준희": "59abd9ff-a026-5232-86a4-9b00f60c6a64",
+  "경찰 신고:노형철": "5b0c5b15-ee9f-598e-ac3f-257a622ba081",
+  "경찰 신고:정준희": "b52eebbc-a5d2-5c57-905c-1691e1ca3de8",
+  "경찰 신고:유정석": "51b9f724-a956-56fb-aca4-53f786b0eb1c"
+ },
+ "questions": {
+  "Q1": "fa5b86e7-1fc0-509f-ab4d-99c0aee90ac9",
+  "Q2": "c07490df-fc64-5817-9301-c11db9e8af71",
+  "Q3": "db5fd8f3-9113-57b9-9681-81663307049e"
+ },
+ "options": {
+  "Q1": {
+   "박혜수": "32438d20-b118-5b29-bea9-002c975b4d53",
+   "정형미": "83aeb77b-35c3-5de9-9f26-231ea6c95031",
+   "유정석": "17c20f6a-1f41-5c89-a5e3-d4b07b4dbba6",
+   "노형철": "96aa22a0-bb96-5c45-8628-9eb2f50e24f9",
+   "정준희": "cafe4c8f-c487-5e71-b41b-33a862836e93"
+  },
+  "Q2": {
+   "박혜수": "057a3445-e912-5cfb-8525-d338dfe2eed4",
+   "정형미": "c8c016ef-8ec4-5474-8067-dbd74ac75dba",
+   "유정석": "7453fb87-09da-552e-b99f-faa1bdc4d06d",
+   "노형철": "c7b635e0-4847-545a-a0fc-92e80e9e8d84",
+   "정준희": "e385c26d-12f8-54a8-8ee0-720273301e08"
+  },
+  "Q3": {
+   "세상에 내놓는다. 나도 함께 조사를 받는다.": "d1c3ca65-3eda-56fa-a69f-76c17f8decc0",
+   "숨긴다. 회장을 상대할 카드로 쥐고 있는다.": "e7e2467f-b0cb-5478-838b-447b5eab4f8f"
+  }
+ },
+ "endings": {
+  "E1": "417ba778-a873-5ed8-b912-fbcdf7647489",
+  "E2": "e03e5b1a-475d-5821-9337-a57c633357f0",
+  "E3": "ee6d3ef4-b4f8-5c5b-8939-16d60ceb6a60",
+  "E4": "5f9a93a4-f12b-589b-ae16-620efc728a30",
+  "U1": "2da0d361-80de-5482-bbc0-51a0c98738c7",
+  "U2": "61162001-4894-5bf3-90d3-d69ea1a5a280",
+  "U3": "969e4f00-d16a-5c9b-ab6f-40b1399168a1",
+  "U4": "19df5abf-cac0-5571-9c25-b9061b678425",
+  "U5": "30c1a7b4-b94e-57b2-8e1c-a339c808b56e",
+  "U6": "916cce93-cda0-5ed4-a2d8-423ab7afcf58",
+  "Z0": "e71f8470-65e7-579d-b82b-7cb389164de5",
+  "Z1": "04f7423a-74fb-5878-be36-2c1a8e60257a"
+ },
+ "npcs": {
+  "심용택": "7a25869a-8e27-58da-b366-4a69acb682ec"
+ },
+ "site_key": "dh-intranet"
+}
