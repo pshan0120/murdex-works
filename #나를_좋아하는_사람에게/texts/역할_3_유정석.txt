@@ -19,24 +19,44 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
 6. 역할 이미지
 (무시 - 사용자 직접 업로드 예정)
 
+6-1. 공개 정보
+<div class="story-content">
+  <p class="role-quote">"제 팀원들 일이니까요."</p>
+  <ul>
+    <li><strong>소속</strong>: 사료관리팀</li>
+    <li><strong>직급</strong>: 과장급, 사료관리팀 팀장</li>
+    <li><strong>외형</strong>: 키 170cm대 중반, 보통 체격, 짧은 머리가 살짝 흐트러짐</li>
+    <li><strong>복장</strong>: 회색 셔츠(소매를 걷음), 호박색 넥타이(느슨하게 맴), 사원증, 왼손에 결혼반지</li>
+  </ul>
+</div>
+
 7. 역할 시트
 <div class="story-content">
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
       <p>
-        며칠 전, 사내 메신저 전사 단체방에 낯 뜨거운 장문의 고백글 하나가 올라왔다. 올린
-        사람은 사료관리팀 <span class="character-nohyeongcheol">노형철</span> 대리. 누가 봐도
-        같은 팀 동료에게 쓴 글이었다. 문제는 그 팀에 여자가 단 한 명뿐이라는 것.
-        이름 한 글자 나오지 않았는데도, 얼마 지나지 않아 "그 글,
-        <span class="character-jeongjunhee">정준희</span> 얘기 아니야?"라는 소문이 따라붙었다.
+        며칠 전, 사내 메신저 전사 단체방에 낯 뜨거운 장문의 고백글이 올라왔다. 올린 사람은
+        사료관리팀 <span class="character-nohyeongcheol">노형철</span> 대리였고, 누가 봐도 같은 팀 동료에게 쓴 글이었다.
+        그런데 그 팀에 여자는 한 명뿐이었다. 글에 이름은 한 글자도 없었지만, 얼마 지나지 않아
+        "그 글, <span class="character-jeongjunhee">정준희</span> 얘기 아니야?"라는 소문이 돌았다.
       </p>
       <p>
-        글 하나로 시작된 소동이 순식간에 회사 전체의 화젯거리가 되자, 회장 직속 조직문화팀의
-        <span class="character-jeonghyeongmi">정형미</span> 차장이 정식으로 진상조사 자리를
-        마련했다. 자리는 오늘 저녁, 사료관리팀이 일하는 역사관에서 열린다. 글을 올린 사람도
-        소문의 당사자도 모두 그곳 직원인 데다, 역사관이 곧 철거될 예정이라 그 전에 직접 가서
-        매듭짓자는 것이었다.
+        소문이 회사 전체로 퍼지자, 회장 직속 조직문화팀의
+        <span class="character-jeonghyeongmi">정형미</span> 차장이 정식으로 진상조사 자리를 마련했다. 장소는
+        사료관리팀이 일하는 역사관이었다. 글을 올린 사람도 소문의 당사자도 그곳 직원인 데다,
+        건물이 곧 철거될 예정이라 더 미룰 수도 없었다.
+      </p>
+      <p>
+        오늘 저녁 6시, 역사관 1층 회의실에 <span class="character-jeonghyeongmi">정형미</span> 차장과 <span class="character-yoojeongseok">유정석</span> 팀장, <span class="character-nohyeongcheol">노형철</span> 대리, <span class="character-jeongjunhee">정준희</span> 사원이 모였다.
+        30분쯤 지나 <span class="character-parkhyesu">박혜수</span> 전략실장이 예정에 없이 들어왔다.
+        "회장님이 이번 일을 재밌어하셔서, 제가 대신 좀 보러 왔어요."
+      </p>
+      <p>
+        조사는 결론 없이 두 시간 넘게 이어지다 저녁 8시 10분에야 끝났다.
+        <span class="character-jeongjunhee">정준희</span> 사원이 짐을 챙기러 2층에 올라갔고, 잠시 뒤 비명이 들렸다. 모두 뛰어
+        올라가 보니, 사료관리팀 <span class="character-hadohoon">하도훈</span> 주임이 사무실 창틀에 기댄 채 쓰러져 있었고,
+        숨은 이미 끊어져 있었다.
       </p>
     </div>
     <ul class="info-list">
@@ -46,11 +66,12 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         맡고 있다.
       </li>
       <li>
-        <strong>사내 메신저</strong>: 전 직원이 들어가 있는 전사 단체방과 부서·팀별 단체방이
-        함께 돌아가는 사내 공용 메신저. 메시지마다 올린 사람의 이름이 표시된다.
+        <strong>사내 메신저</strong>: 전 직원이 쓰는 메신저. 전사 단체방과 부서별, 팀별 단체방이 있고,
+        메시지마다 올린 사람의 이름이 표시된다.
       </li>
       <li>
-        <strong>사내 게시판</strong>: 사내 포털에 있는 전 직원 게시판. 그중 익명 라운지에는 작성자 이름 대신 시스템이 사람마다 정해 준 번호가 익명4821 같은 형식으로 표시된다. <a href="/tools/site/dh-intranet" target="_blank" rel="noopener">사내 게시판 열기</a>
+        <strong>사내 게시판</strong>: 사내 포털에 있는 전 직원 게시판. 익명 라운지에서는 작성자 이름 대신
+        익명4821 같은 ID가 표시된다. ID는 시스템이 사람마다 하나씩 정해 준다.
       </li>
       <li>
         <strong>역사관</strong>: 교외에 있는 작은 2층 건물로, 회사의 옛 자료와 기록을 보관하고
@@ -74,27 +95,16 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     <div class="section-title">특징</div>
     <ul>
       <li>
-        <strong>직급</strong>: 과장급, 사료관리팀 팀장
+        <strong>사번</strong>: 01782
       </li>
       <li>
-        <strong>소속</strong>: 사료관리팀. 역사관 2층에 사무실이 있다. 팀원은 대리
-        <span class="character-nohyeongcheol">노형철</span>, 주임
-        <span class="character-hadohoon">하도훈</span>, 그리고 얼마 전 들어온 사원
-        <span class="character-jeongjunhee">정준희</span>까지 셋이다.
-      </li>
-      <li>
-        <strong>사번</strong>: 01782. 2022년 경영지원본부에 입사할 때 받은 번호가, 사료관리팀으로
-        옮긴 뒤에도 그대로 남아 있다.
+        <strong>나이</strong>: 30세
       </li>
       <li>
         <strong>생일</strong>: 1996년 10월 12일
       </li>
       <li>
-        <strong>역사관에서 보낸 2년</strong>: 팀장으로 2년 동안 이 건물에서 일했다. 전시실과 자료가
-        어디에 무엇이 있는지는 대강 알고 있다.
-      </li>
-      <li>
-        <strong>흡연자</strong>: 담배를 피운다. 이 건물의 흡연구역은 서쪽에 있다.
+        <strong>흡연</strong>: 담배를 피운다
       </li>
     </ul>
   </section>
@@ -102,156 +112,69 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   <section class="content-section">
     <div class="section-title">캐릭터 배경</div>
     <p>
-      아버지 <span class="character-yoohuicheol">유희철</span>은 집에서 회사 얘기를 하지 않는
-      사람이었다. 창업 때부터 회사를 지켜온 사람이라는 것, 회장 일가와 가깝다는 것 정도만 알았다.
-      밤늦게 전화가 오면 아버지는 늘 베란다로 나가 문을 닫았다. 어린 유정석은 그 유리문 너머로
-      등을 돌린 채 통화하던 아버지의 뒷모습을 자주 봤다.
+      아버지 <span class="character-yoohuicheol">유희철</span>은 집에서 회사 얘기를 하지 않는 사람이었다. 창업 때부터 회사를 지켜온 사람이라는 것, 회장 일가와 가깝다는 것 정도만 알았다. 밤늦게 전화가 오면 아버지는 늘 베란다로 나가 문을 닫았다. 어린 나는 그 유리문 너머로 등을 돌린 채 통화하던 아버지의 뒷모습을 자주 봤다.
     </p>
     <p>
-      2022년, 스물여섯에 같은 회사에 들어갔다. 아버지 회사라는 말이 듣기 싫어서 공채로 지원했고,
-      입사 뒤에도 누구의 아들인지 굳이 말하지 않았다. 배치된 곳은 아버지가 몸담은 경영지원본부의
-      평범한 부서였다. 신입사원 교육 때 회사 연혁을 배우며 창업 멤버 네 사람의 이름을 들었다.
-      <span class="character-kimduhwan">김두환</span>, <span class="character-yeomoonhyeok">여문혁</span>,
-      <span class="character-jeongtaeho">정태호</span>, 그리고 아버지. 그때는 나머지 이름들이
-      그냥 연혁 속 이름일 뿐이었다.
+      2022년, 스물여섯에 같은 회사에 들어갔다. 아버지 회사라는 말이 듣기 싫어서 공채로 지원했고, 입사 뒤에도 누구의 아들인지 굳이 말하지 않았다. 배치된 곳은 아버지가 몸담은 경영지원본부의 평범한 부서였다. 신입사원 교육 때 회사 연혁을 배우며 창업 멤버 네 사람의 이름을 들었다. <span class="character-kimduhwan">김두환</span>, <span class="character-yeomoonhyeok">여문혁</span>, <span class="character-jeongtaeho">정태호</span>, 그리고 아버지. 그때는 아버지 말고는 그냥 연혁 속 이름일 뿐이었다.
     </p>
     <p>
-      2024년 어느 날, 출근한다며 집을 나선 아버지가 돌아오지 않았다. 전화는 꺼져 있었고, 며칠이
-      지나도 연락이 없었다. 회사는 실종으로 처리했고, 별다른 설명은 없었다. 어머니는 그 뒤로 마음을
-      추스르지 못했다. 아버지 얘기는 집 안에서 아무도 꺼내지 않는 말이 됐다.
+      2024년 어느 날, 출근한다며 집을 나선 아버지가 돌아오지 않았다. 전화는 꺼져 있었고, 며칠이 지나도 연락이 없었다. 어머니와 함께 실종 신고를 했지만 소식은 없었고, 회사는 별다른 설명을 하지 않았다. 어머니는 그 뒤로 마음을 추스르지 못했다. 집에서는 아무도 아버지 얘기를 꺼내지 않게 됐다.
     </p>
     <p>
-      그리고 얼마 지나지 않아 인사 발령이 났다. 사료관리팀 팀장. 스물여덟 살이었다. 동기들은
-      축하한다면서도 뒤에서는 "쟤 뒤에 뭐가 있나 보다"라고 수군댔다. 그런데 막상 가보니 본사에서
-      한참 떨어진 교외의 낡은 역사관, 회사 사람 누구도 신경 쓰지 않는 팀이었다. 직함은 올랐는데
-      어딘가로 밀려난 기분. 그 찜찜함은 2년이 지난 지금도 정체를 알 수 없다.
+      그리고 얼마 지나지 않아 인사 발령이 났다. 사료관리팀 팀장. 스물여덟 살이었다. 동기들은 축하한다면서도 뒤에서는 "쟤 뒤에 뭐가 있나 보다"라고 수군댔다. 그런데 막상 가보니 본사에서 한참 떨어진 교외의 낡은 역사관, 회사 사람 누구도 신경 쓰지 않는 팀이었다. 직함은 올랐는데 어딘가로 밀려난 기분이었다. 왜 그런 기분이 드는지는 지금도 모르겠다.
     </p>
     <p>
-      팀장 자리가 비어 있던 건, 전임 팀장이 어느 날부터 회사에 나오지 않게 됐기 때문이라고 했다.
-      이름은 <span class="character-yeomoonhyeok">여문혁</span>. 신입 교육 때 들은 창업 멤버의 그
-      이름이었다. 창업 멤버가 왜 이런 팀의 팀장으로 늙어갔는지는 아무도 제대로 설명해주지 않았다.
-      그가 사라진 게 아버지가 사라진 무렵과 겹친다는 걸 알았을 때, 잠깐 이상하다는 생각이 들기도
-      했다. 하지만 창업 동기라는 것 말고는 두 사람 사이에 무슨 접점이 있었을 리 없다고 여기고
-      덮어뒀다.
+      팀장 자리가 비어 있던 건, 전임 팀장이 어느 날부터 회사에 나오지 않게 됐기 때문이라고 했다. 이름은 <span class="character-yeomoonhyeok">여문혁</span>. 신입 교육 때 들은 창업 멤버의 그 이름이었다. 창업 멤버가 왜 이런 팀의 팀장으로 늙어갔는지는 아무도 제대로 설명해주지 않았다. 그가 사라진 게 아버지가 사라진 무렵과 겹친다는 걸 알았을 때, 잠깐 이상하다는 생각이 들기도 했다. 하지만 오래전 창업을 함께했다는 것 말고 두 사람이 얽힐 일이 있었을 리 없다고 여기고 덮어뒀다.
     </p>
     <p>
-      팀원은 둘이었다. 대리 <span class="character-nohyeongcheol">노형철</span>과 주임
-      <span class="character-hadohoon">하도훈</span>. 둘 다 전임 팀장 밑에서 1년쯤 일한 동기였다.
-      특히 <span class="character-nohyeongcheol">노형철</span>은 그 노인을 꽤 살뜰히 챙겼다고 들었다.
-      전임 팀장의 자리를 정리한 것도 그였다. 힘없는 부서였지만, 유정석은 이 팀원들에게만큼은 괜찮은
-      팀장이고 싶었다. 회식 자리에서 "나도 한때는 잘나갈 뻔했는데" 같은 소리를 흘리는 버릇은
-      있었지만, 팀원들 앞에서 그 이상 무너진 적은 없었다.
+      팀원은 둘이었다. <span class="character-nohyeongcheol">노형철</span> 대리와 <span class="character-hadohoon">하도훈</span> 주임. 둘 다 전임 팀장 밑에서 1년쯤 일한 동기였다. 특히 <span class="character-nohyeongcheol">노형철</span>은 그 노인을 꽤 살뜰히 챙겼다고 들었다. 전임 팀장의 자리를 정리한 것도 그였다. 힘없는 부서였지만, 나는 이 팀원들에게만큼은 괜찮은 팀장이고 싶었다. 회식 자리에서 "나도 한때는 잘나갈 뻔했는데" 같은 소리를 하는 버릇은 있었지만, 팀원들 앞에서 그 이상 약한 모습을 보인 적은 없었다.
     </p>
     <p>
-      올해 역사관 철거가 확정되면서 사료를 정리할 사람이 급히 필요해졌고, 신입
-      <span class="character-jeongjunhee">정준희</span>가 스스로 이 팀에 오겠다고 손을 들었다.
-      다들 기피하는 팀에 자원한 신입이라니, 유정석은 반가우면서도 조금 의아했다.
+      올해 역사관 철거가 확정되면서 사료를 정리할 사람이 급히 필요해졌고, 신입 <span class="character-jeongjunhee">정준희</span>가 스스로 이 팀에 오겠다고 손을 들었다. 다들 기피하는 팀에 자원한 신입이라니, 반가우면서도 조금 의아했다.
     </p>
     <p>
-      그런데 며칠 전, 사내 메신저 전사 단체방에 <span class="character-nohyeongcheol">노형철</span>이
-      난데없는 고백글을 올렸다. 왜 그런 걸 올렸냐고 물었지만, 그는 웃으며 장난이었다고만 했다. 문제는
-      그 뒤였다. 팀에 여자가 하나뿐이라는 이유로, 갓 들어온
-      <span class="character-jeongjunhee">정준희</span>가 소문의 주인공이 돼버렸다. 팀원 둘이 한꺼번에
-      얽힌 일이었다. 조직문화팀에서 오늘 저녁 역사관에서 진상조사를 하겠다는 연락이 왔을 때,
-      유정석은 팀장으로서 당연히 그 자리에 있어야 한다고 생각했다.
+      그런데 며칠 전, 사내 메신저 전사 단체방에 <span class="character-nohyeongcheol">노형철</span>이 난데없는 고백글을 올렸다. 왜 그런 걸 올렸냐고 물었지만, 그는 웃으며 장난이었다고만 했다. 문제는 그 뒤였다. 팀에 여자가 하나뿐이라는 이유로, 갓 들어온 <span class="character-jeongjunhee">정준희</span>가 소문의 주인공이 돼버렸다. 팀원 둘이 한꺼번에 얽힌 일이었다. 조직문화팀에서 오늘 저녁 역사관에서 진상조사를 하겠다는 연락이 왔을 때, 나는 팀장으로서 당연히 그 자리에 있어야 한다고 생각했다.
     </p>
   </section>
 
   <section class="content-section">
     <div class="section-title">타임라인</div>
-    <div class="subsection-title">■ 공통 행적</div>
-    <ul class="goal-list">
-      <li>
-        <strong>18:00</strong>: 역사관 1층 회의실에서 진상조사 미팅 시작.
-        <span class="character-jeonghyeongmi">정형미</span>,
-        <span class="character-yoojeongseok">유정석</span>,
-        <span class="character-nohyeongcheol">노형철</span>,
-        <span class="character-jeongjunhee">정준희</span> 네 명이 참석함. <span class="character-jeonghyeongmi">정형미</span>는 감기 기운이 있다며 깨끗한 흰 마스크를 쓰고 있었음
-      </li>
-      <li>
-        <strong>18:30</strong>: <span class="character-parkhyesu">박혜수</span>가 예정에 없이
-        미팅에 합류함
-      </li>
-      <li>
-        <strong>18:45</strong>: 잠깐씩 자리를 비웠던 사람들이 모두 돌아와, 다섯 명이 함께
-        미팅을 이어감
-      </li>
-      <li>
-        <strong>18:45 ~ 19:55</strong>: 미팅이 생각보다 길어짐. 중간에
-        <span class="character-jeonghyeongmi">정형미</span>가 조직문화 교육 영상을 틀기도 함
-      </li>
-      <li>
-        <strong>19:55</strong>: <span class="character-parkhyesu">박혜수</span>가 담배를
-        피우고 오겠다며 자리를 비움
-      </li>
-      <li>
-        <strong>20:10</strong>: <span class="character-jeonghyeongmi">정형미</span>가 미팅을
-        마무리하고, 다들 퇴근하기로 함
-      </li>
-    </ul>
-    <div class="subsection-title">■ 개인 행적</div>
     <ul class="goal-list">
       <li>
         <strong>15:00 무렵</strong>: 본사 회의를 마치고 돌아와 차를 건물 뒤뜰에 세움. 철거 전 점검으로 2층 사무실 소화기를 살피고 점검표에 서명함
       </li>
       <li>
-        <strong>17:30 무렵</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이
-        역사관에 도착해 1층 회의실을 준비함. 2층 사무실에서 하던 일을 정리함
+        <strong>17:30 무렵</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이 역사관에 도착해 1층 회의실을 준비함. 2층 사무실에서 하던 일을 정리함
       </li>
       <li>
-        <strong>17:50</strong>: <span class="character-hadohoon">하도훈</span>이 "먼저 들어가
-        보겠습니다"라며 퇴근 인사를 하고 나감
+        <strong>17:50</strong>: <span class="character-hadohoon">하도훈</span>이 "먼저 들어가 보겠습니다"라며 퇴근 인사를 하고 나감
       </li>
       <li>
-        <strong>18:00</strong>: 1층 회의실로 내려가 미팅에 참석함
+        <strong>18:00</strong>: 1층 회의실로 내려감. 진상조사 미팅 시작. <span class="character-jeonghyeongmi">정형미</span> 차장과 나, <span class="character-nohyeongcheol">노형철</span>, <span class="character-jeongjunhee">정준희</span> 네 명이 참석함
       </li>
       <li>
-        <strong>18:30</strong>: 전략실장 <span class="character-parkhyesu">박혜수</span>가 예정에
-        없이 들어와 "회장님이 이번 일을 재밌어하셔서, 제가 대신 좀 보러 왔어요"라고 함
+        <strong>18:30 ~ 18:35</strong>: <span class="character-parkhyesu">박혜수</span> 전략실장이 예정 없이 들어와 "회장님이 이번 일을 재밌어하셔서, 제가 대신 좀 보러 왔어요"라고 함. <span class="character-jeonghyeongmi">정형미</span> 차장이 <span class="character-nohyeongcheol">노형철</span>의 팀원 평가 기록을 가져다 달라고 해서, 2층 사무실로 자료를 가지러 올라감. 사무실에는 아무도 없었음. 자료를 들고 회의실로 돌아와 전달함
       </li>
       <li>
-        <strong>18:31</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이
-        <span class="character-nohyeongcheol">노형철</span>의 팀원 평가 기록을 가져다 달라고 해서,
-        2층 사무실로 자료를 가지러 올라감. 사무실에는 아무도 없었음
+        <strong>18:35 ~ 18:45</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이 "팀장님과 잠깐 따로 얘기 좀 하시죠"라고 해서 함께 서쪽 흡연구역으로 나감. 담배를 피우며 <span class="character-nohyeongcheol">노형철</span>의 평소 근무 태도에 대해 이야기함. 그사이 그녀는 휴대폰을 몇 번 들여다봤음
       </li>
       <li>
-        <strong>18:34</strong>: 자료를 들고 회의실로 돌아와 전달함
+        <strong>18:45</strong>: 함께 회의실로 돌아와, 다섯 명이 함께 미팅을 이어감
       </li>
       <li>
-        <strong>18:36</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이 "팀장님과
-        잠깐 따로 얘기 좀 하시죠"라고 해서 함께 서쪽 흡연구역으로 나감. 담배를 피우며
-        <span class="character-nohyeongcheol">노형철</span>의 평소 근무 태도에 대해 이야기함. 그사이
-        <span class="character-jeonghyeongmi">정형미</span> 차장은 휴대폰을 몇 번 들여다봤음
+        <strong>18:45 ~ 19:55</strong>: 미팅이 생각보다 길어짐. <span class="character-nohyeongcheol">노형철</span>이 장난이었다고 넘기려 하는 동안, 팀원들이 불필요하게 몰리지 않도록 중간중간 말을 보탬. <span class="character-jeonghyeongmi">정형미</span> 차장이 "이것도 같이 보시죠"라며 조직문화 교육 영상을 여러 편 이어서 틀었고, <span class="character-nohyeongcheol">노형철</span>과 <span class="character-jeongjunhee">정준희</span>, 나까지 함께 봄. 당사자도 아닌 나까지 보라고 해서 의아했음. <span class="character-parkhyesu">박혜수</span> 실장은 자리에 앉아 있었음
       </li>
       <li>
-        <strong>18:45</strong>: 함께 회의실로 돌아옴
+        <strong>19:55 ~ 20:00</strong>: <span class="character-parkhyesu">박혜수</span> 실장이 담배를 피우고 오겠다며 자리를 비움
       </li>
       <li>
-        <strong>18:45 ~ 19:55</strong>: 미팅이 길어짐. <span class="character-nohyeongcheol">노형철</span>이
-        장난이었다고 넘기려 하는 동안, 팀원들이 불필요하게 몰리지 않도록 중간중간 말을 보탬
+        <strong>20:00 ~ 20:05</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장도 담배를 피우겠다며 나가자 "그럼 우리도 잠깐 쉬죠"라고 제안함. <span class="character-jeongjunhee">정준희</span>는 화장실에 가고, 회의실에는 <span class="character-nohyeongcheol">노형철</span>만 남음. 1층 계단 왼쪽 구석에서 아내에게 전화함. 미팅이 길어져 퇴근이 늦어질 것 같다고 말함
       </li>
       <li>
-        <strong>20:00</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장도 담배를
-        피우겠다며 나가자 "그럼 우리도 잠깐 쉬죠"라고 제안함.
-        <span class="character-jeongjunhee">정준희</span>는 화장실에 가고, 회의실에는
-        <span class="character-nohyeongcheol">노형철</span>만 남음
+        <strong>20:05 ~ 20:10</strong>: 통화가 끝나갈 무렵, 화장실에서 돌아오던 <span class="character-jeongjunhee">정준희</span>가 옆을 지나감. 통화를 끝내고 회의실로 돌아오니 <span class="character-nohyeongcheol">노형철</span>과 <span class="character-jeongjunhee">정준희</span>가 자리에 있었음. 곧 <span class="character-parkhyesu">박혜수</span> 실장이 돌아옴. 안색이 몹시 창백했음
       </li>
       <li>
-        <strong>20:01 ~ 20:07</strong>: 1층 계단 왼쪽 구석에서 아내에게 전화함. 미팅이 길어져
-        퇴근이 늦어질 것 같다고 말함. 통화가 끝나갈 무렵, 화장실에서 돌아오던
-        <span class="character-jeongjunhee">정준희</span>가 옆을 지나감
-      </li>
-      <li>
-        <strong>20:08</strong>: 통화를 끝내고 회의실로 돌아옴. <span class="character-nohyeongcheol">노형철</span>과
-        <span class="character-jeongjunhee">정준희</span>가 자리에 있었음
-      </li>
-      <li>
-        <strong>20:09 무렵</strong>: <span class="character-parkhyesu">박혜수</span> 실장이
-        돌아옴. 안색이 몹시 창백했음
-      </li>
-      <li>
-        <strong>20:10</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이 돌아옴.
-        들어서다 잠깐 멈칫하는 것 같았지만, 곧바로 미팅을 마무리하고 다들 퇴근하자고 함
+        <strong>20:10 ~ 20:15</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이 돌아옴. 들어서다 잠깐 멈칫하는 것 같았지만, 곧바로 미팅을 마무리하고 다들 퇴근하자고 함. <span class="character-jeongjunhee">정준희</span>가 짐을 챙겨 오겠다며 2층으로 올라가고, 잠시 뒤 비명이 들림. 다들 2층으로 뛰어 올라감. 퇴근한 줄 알았던 <span class="character-hadohoon">하도훈</span>이 사무실 창틀에 기댄 채 쓰러져 있었음
       </li>
     </ul>
   </section>
@@ -286,7 +209,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     </div>
     <p>
       팀의 대리. 일 처리는 성실하고 말수는 적은 편이다. 전임 팀장을 각별히 챙겼던 사람이라고 들었다.
-      부임 초에 그가 낡은 상자에서 무언가를 꺼내 자기 책상 서랍에 넣고 잠그는 걸 본 적이 있다. 그런 그가 왜 갑자기 그런 글을 전사 단체방에 올렸는지는 아직도 모르겠다. 장난이었다는 말이
+      부임 초에 그가 책상 서랍을 열어 보다가 내가 다가가자 급히 잠그는 걸 본 적이 있다. 그런 그가 왜 갑자기 그런 글을 전사 단체방에 올렸는지는 아직도 모르겠다. 장난이었다는 말이
       곧이곧대로 믿기지는 않지만, 일단은 팀장으로서 감싸줘야 할 팀원이다.
     </p>
     <p>
@@ -309,16 +232,15 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     </div>
     <p>
       팀의 주임이자 <span class="character-nohyeongcheol">노형철</span>의 입사 동기. 앞에서는 "팀장님, 팀장님" 하며 아부를 입에
-      달고 사는 팀원이었다. 그런 그가 익명 라운지에 당신의 뒷말을 썼다는 걸 이달 초에 알았고, 그 뒤로 모르는 척 지내 왔다. 17:50에 분명히 퇴근 인사를 하고 나갔다.
+      달고 사는 팀원이었다. 그런 그가 익명 라운지에 내 뒷말을 썼다는 걸 이달 초에 알았고, 그 뒤로 모르는 척 지내 왔다. 17:50에 분명히 퇴근 인사를 하고 나갔다.
     </p>
 
     <div class="subsection-title">
       <span class="character-yoohuicheol">유희철에 대해</span>
     </div>
     <p>
-      아버지. 창업 때부터 회사를 지켜온 사람이자, 조직문화팀의 초대 팀장이었다. 집에서는 말수가 적고
-      늘 무언가를 혼자 짊어진 듯한 사람이었다. 2년 전 어느 날 출근길에 나선 뒤로 돌아오지 않았다.
-      아버지가 회사에서 정확히 무슨 일을 했는지, 왜 사라졌는지 당신은 아직 모른다.
+      아버지. 창업 때부터 회사를 지켜온 사람이자, 조직문화팀의 초대 팀장이었다. 2년 전 어느 날 출근길에 나선 뒤로 돌아오지 않았다.
+      아버지가 회사에서 정확히 무슨 일을 했는지, 왜 사라졌는지 나는 아직 모른다.
     </p>
 
     <div class="subsection-title">
@@ -326,43 +248,21 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     </div>
     <p>
       전임 팀장. 한 번도 만난 적은 없다. 창업 멤버였는데 어째서인지 이 팀의 팀장으로 지내다, 2년 전
-      아버지가 사라진 무렵 그도 회사에 나오지 않게 됐다. 그가 비운 자리에 지금 당신이 앉아 있다.
+      아버지가 사라진 무렵 그도 회사에 나오지 않게 됐다. 그가 비운 자리에 지금 내가 앉아 있다.
     </p>
   </section>
 </div>
 
-8. 숨기고 싶은 비밀
+8. 비밀
 
-<div class="story-content">
-  <p class="guide-text">
-    ※ 노출여부가 별도의 감점으로 이어지지는 않으나, 가급적 숨기는 것을 권장합니다.
-  </p>
-  <ul>
-    <li>
-      <strong>아버지가 누구인지</strong>: 창업 멤버 <span class="character-yoohuicheol">유희철</span>이
-      당신의 아버지라는 것. 회사에서는 굳이 말하지 않고 지내왔다. 알려지면 "그래서 그 나이에
-      팀장이구나"라는 낙하산 꼬리표가 확실하게 붙는다.
-    </li>
-    <li>
-      <strong>아버지의 실종</strong>: 2024년 3월 4일 밤부터 아버지와 연락이 끊겼고 차도 나오지 않았다는 것. 집안에서도 꺼내지 않는 얘기라,
-      남들 앞에서 그 일을 입에 올리는 것 자체가 괴롭다.
-    </li>
-    <li>
-      <strong>마음에 걸리는 승진</strong>: 겉으로는 초연한 척하지만, 이 애매한 팀장 자리가 아직도 마음에
-      걸린다. 아버지가 사라지고 얼마 안 돼 받은 발령이라, 그 둘이 무슨 상관이 있는 건 아닐까 하는
-      생각을 떨치지 못하고 있다.
-    </li>
-    <li>
-      <strong>하도훈의 뒷말</strong>: 사내 익명 라운지에서 익명7315가 당신을 낙하산이라고 뒷말한 글 "우리 새 팀장 한 달 보고"를 읽은 적이 있다. 이달 초 <span class="character-hadohoon">하도훈</span>의 자리를 지나다 그의 화면에 같은 번호가 로그인되어 있는 걸 보고 그가 썼다는 걸 알았다. 그 글을 출력해 번호에 동그라미를 쳐서 책상 서랍에 넣어 두었다. 말을 꺼내면 당신이 라운지를 들여다본다는 티가 나고, 꺼내지 않으면 날마다 그 얼굴을 봐야 해서 며칠째 속을 끓였다. 해칠 생각은 해 본 적 없다. 하지만 그가 죽은 지금, 이 종이가 드러나면 당신이 가장 먼저 의심받는다.
-    </li>
-    <li>
-      <strong>익명 라운지 번호</strong>: 당신의 번호는 익명6083이다. 부임 전 "사료관리팀 새 팀장 나이 들었음?" 글에 "같이 일해 봤는데 사람은 괜찮음. 본인도 어리둥절해하더라"라고 스스로 댓글을 달았다.
-    </li>
-    <li>
-      <strong>팀장 캐비닛</strong>: 2층 사무실의 캐비닛은 번호 1012로 잠겨 있다. 당신 생일이다. 안에는 <span class="character-yoohuicheol">유희철</span>이 아버지라는 걸 보여 주는 가족 서류와 그의 실종 관련 서류가 있다.
-    </li>
-  </ul>
-</div>
+※ 항목마다 비밀 한 건으로 등록한다. 굵은 글자가 제목이다.
+
+<ul>
+  <li><strong>아버지</strong>: 창업 멤버 <span class="character-yoohuicheol">유희철</span>이 당신의 아버지다. 회사에서는 말하지 않고 지내 왔다. 2024년 3월 4일 밤부터 연락이 끊겼고 차도 찾지 못했다.</li>
+  <li><strong>하도훈의 뒷말</strong>: 당신을 낙하산이라고 쓴 익명 라운지 글 "우리 새 팀장 한 달 보고"의 작성자 익명7315가 <span class="character-hadohoon">하도훈</span>이라는 걸 이달 초 그의 화면을 보고 알았다. 그 글을 출력해 ID에 동그라미를 쳐서 책상 서랍에 넣어 두었다.</li>
+  <li><strong>팀장 캐비닛</strong>: 2층 사무실 캐비닛의 번호는 당신 생일인 1012다. 안에 아버지와의 가족 서류와 그의 실종 관련 서류가 있다.</li>
+  <li><strong>익명 라운지 ID</strong>: 당신의 ID는 '익명6083'이다.</li>
+</ul>
 
 9. 단계별 역할 지침
 
@@ -372,10 +272,10 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     <div class="section-title">목표 - <span class="character-yoojeongseok">유정석</span></div>
     <ul class="goal-list">
       <li>
-        <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 10이다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
+        <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 9다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
       </li>
       <li>
-        <strong>경찰 신고</strong>: 조사 중에 단 한 번, 아무도 모르게 경찰에 신고할 수 있다. 조사 1단계의 AP는 10이고, 단서 조사와 신고에 1씩 든다. 아까는 회사 이미지를 걱정하는 말에 휴대폰을 내려놓았지만, 그 판단이 마음에 걸린다면 써볼 만하다.
+        <strong>경찰 신고</strong>: 조사 중에 단 한 번, 아무도 모르게 경찰에 신고할 수 있다. 조사 1단계의 AP는 9이고, 단서 조사와 신고에 1씩 든다. 아까는 회사 이미지를 걱정하는 말에 휴대폰을 내려놓았지만, 그 판단이 마음에 걸린다면 써볼 만하다.
       </li>
       <li>
         <strong>하도훈은 왜 거기 있었나</strong>: <span class="character-hadohoon">하도훈</span>은
@@ -385,15 +285,14 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       <li>
         <strong>팀원 지키기</strong>: 글을 올린 <span class="character-nohyeongcheol">노형철</span>,
         소문에 휘말린 <span class="character-jeongjunhee">정준희</span>. 둘 다 당신의 팀원이다.
-        누군가 근거 없이 이 둘에게 의심을 몰아간다면 팀장으로서 막아선다. 그렇다고 눈을 감아주라는
-        뜻은 아니다. 감싸주는 것과 진실을 덮는 것은 다르다.
+        누군가 근거 없이 이 둘에게 의심을 몰아간다면 팀장으로서 막아선다.
       </li>
       <li>
-        <strong>당신의 행적</strong>: 20:01부터 20:07까지 계단 구석에서 아내와 통화했다. 숨길 이유가
+        <strong>당신의 행적</strong>: 20:00 ~ 20:10 사이에 계단 구석에서 아내와 통화했다. 숨길 이유가
         없는 일이니, 누가 묻는다면 있는 그대로 말한다.
       </li>
       <li>
-        <strong>서랍 속 종이</strong>: 책상 서랍에 넣어 둔 출력본을 누가 먼저 찾아낼 수 있다. 먼저 털어놓을지, 끝까지 모르는 척할지 정해 둔다.
+        <strong>서랍 속 종이</strong>: 책상 서랍에 넣어 둔 출력본을 누군가 먼저 찾아낼 수도 있다. 먼저 털어놓을지, 끝까지 모르는 척할지 정해 둔다.
       </li>
       <li>
         <strong>찜찜한 것들</strong>: 회장의 최측근이 해프닝 하나에 직접 찾아온 일, 퇴근한 팀원이 건물
@@ -409,7 +308,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   </section>
   <section class="content-section">
     <div class="section-title">비밀코드 힌트</div>
-    <p class="hint-note">먼저 직접 풀어 보고, 그래도 풀리지 않을 때 펼쳐 보세요. 다섯 사람의 힌트가 각각 다릅니다. 서로 나누면 답에 닿을 수 있습니다.</p>
+    <p class="hint-note">먼저 직접 풀어 보고, 그래도 풀리지 않을 때 펼쳐 보세요. 다섯 사람의 힌트가 각각 다릅니다. 서로 나누면 답을 찾을 수 있습니다.</p>
     <details class="hint-box">
       <summary>층별 안내 화면에 대한 힌트</summary>
       <p>옛날 사람들은 이름 대신 글자 하나로 자신을 나타내기도 했습니다.</p>
@@ -433,7 +332,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   </section>
   <section class="content-section">
     <div class="section-title">비밀코드 힌트</div>
-    <p class="hint-note">먼저 직접 풀어 보고, 그래도 풀리지 않을 때 펼쳐 보세요. 다섯 사람의 힌트가 각각 다릅니다. 서로 나누면 답에 닿을 수 있습니다.</p>
+    <p class="hint-note">먼저 직접 풀어 보고, 그래도 풀리지 않을 때 펼쳐 보세요. 다섯 사람의 힌트가 각각 다릅니다. 서로 나누면 답을 찾을 수 있습니다.</p>
     <details class="hint-box">
       <summary>서쪽 난간에 대한 힌트</summary>
       <p>묶는 방법에도 저마다 이름이 있습니다.</p>
@@ -454,7 +353,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         범인은 누구인가"에 답해야 한다. 당신의 팀원을 죽인 사람이다. 감정은 잠시 접어두고, 단서로 가려낸다.
       </li>
       <li>
-        <strong>USB</strong>: 1.5층에서 두영물류 장부 원본이 든 USB가 나온다. 최종 질문에서 누가 챙겨 나갈지 투표로 정한다. 당신이 받으면 세상에 내놓지 않을 생각이다. 장부가 나가면 아버지의 이름도 함께 나가고, 지금 자리도 그 값으로 받은 것이기 때문이다.
+        <strong>USB</strong>: 1.5층에서 두영물류 장부 원본이 든 USB가 나온다. 최종 질문에서 누가 챙겨 나갈지 투표로 정한다. 당신이 받으면 세상에 내놓지 않을 생각이다. 장부가 나가면 아버지의 이름도 함께 나가고, 지금 자리도 아버지 덕분에 받은 것일 수 있기 때문이다.
       </li>
     </ul>
   </section>

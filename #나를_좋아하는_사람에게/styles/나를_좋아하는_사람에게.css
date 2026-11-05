@@ -1356,3 +1356,12 @@
     border-bottom: 2px solid #7f9a8a;
     background: rgba(127, 154, 138, 0.08);
 }
+
+/* 공개 정보 맨 위의 한 마디 */
+.story-content .role-quote {
+    font-family: "Gowun Batang", serif;
+    font-size: 1.1em;
+    font-weight: 700;
+    color: #e0ded8;
+    margin-bottom: 0.8em;
+}

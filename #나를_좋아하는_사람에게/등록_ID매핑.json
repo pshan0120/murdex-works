@@ -33,35 +33,9 @@
   "노형철에 대하여": "8c4b4def-82c6-5d12-8136-29d77c09a115",
   "유정석에 대하여": "23558ed1-354a-57cb-a5df-fcd95fa6793a",
   "정형미에 대하여": "55736b05-b4c7-52a3-a329-5963556a3c91",
-  "박혜수에 대하여": "38a82340-925e-5477-94bb-cfaf473aed7a",
-  "다섯 사람의 모습": "352b46a9-d148-59f0-a016-4175ac081b83"
+  "박혜수에 대하여": "38a82340-925e-5477-94bb-cfaf473aed7a"
  },
  "clues": {
-  "P1": {
-   "clue_id": "8a56916c-d97d-530c-aad6-f18db4a7aebe",
-   "variant_id": "00b2402b-a2af-5425-b3b6-d1d3b88f91e9",
-   "name": "박혜수의 모습"
-  },
-  "P2": {
-   "clue_id": "cd044ff7-ded5-572b-8633-2e102bdefa4c",
-   "variant_id": "3be518ce-4ff3-5c55-b9ed-b4f4000dfb46",
-   "name": "정형미의 모습"
-  },
-  "P3": {
-   "clue_id": "16dc7f8d-2c10-5640-9954-7b33c76ae4dc",
-   "variant_id": "52950e8a-48d7-50ac-aa93-ff60a3bfe38a",
-   "name": "유정석의 모습"
-  },
-  "P4": {
-   "clue_id": "2eb04f72-095e-5293-af14-29b51befbb7b",
-   "variant_id": "439c6e78-b684-58ec-a93d-d3e1e2018c55",
-   "name": "노형철의 모습"
-  },
-  "P5": {
-   "clue_id": "f4cfe8b8-5037-561c-9882-cffdba923e1e",
-   "variant_id": "799dfdc1-f4d9-5aec-a241-24b78bdbaafc",
-   "name": "정준희의 모습"
-  },
   "H1": {
    "clue_id": "5fb5c385-db32-5887-9c0b-6662aeee6420",
    "variant_id": "809020d7-05d8-526d-8285-f79b3fa6b795",
@@ -90,7 +64,7 @@
   "W2": {
    "clue_id": "3fdad627-58b6-5285-8e25-59050faa54a3",
    "variant_id": "7b66e430-3f22-5544-acb7-d4ffd99a4523",
-   "name": "정형미의 서류 가방"
+   "name": "정형미의 노트북"
   },
   "P7": {
    "clue_id": "7310bb3a-d591-5fe3-93b5-473bce3ca3f4",
@@ -351,11 +325,6 @@
    "clue_id": "126cd444-8442-5ff9-a9b6-8c8630c37c94",
    "variant_id": "0f65e374-a0aa-546f-90a2-a8ab19ef9733",
    "name": "옛 암호 규칙"
-  },
-  "N9": {
-   "clue_id": "9c91ef00-2972-5eb5-8faf-6369d46f1c4c",
-   "variant_id": "a80b9fbe-b2ef-5ddf-9ee5-49934719cd1b",
-   "name": "여문혁의 일지 한 장"
   },
   "M4": {
    "clue_id": "d28f7250-3864-5795-8def-a4a2f86f0f0a",
