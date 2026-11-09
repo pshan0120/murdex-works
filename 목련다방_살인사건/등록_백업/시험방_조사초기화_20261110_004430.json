@@ -1,0 +1,200 @@
+{
+ "created_at": "2026-11-10T00:44:30.769467",
+ "room_id": "a4631152-fdb4-4aec-a217-167a24bd1bcb",
+ "room_clue": [
+  {
+   "room_clue_id": "1dd4b9da-9ce9-4217-94b8-346cdee20485",
+   "clue_id": "07edb15b-8f8d-42f4-b356-4639285a0503",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "580ca88e-31eb-4025-af8e-a2743df3b175",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null
+  },
+  {
+   "room_clue_id": "e51376a6-d5cd-4c60-8b56-4f61f069a143",
+   "clue_id": "08e3f71c-ff70-4da7-8a52-636e37f0431f",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "2a362548-bac4-4c3a-b9c8-78905d8fcdbb",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null
+  },
+  {
+   "room_clue_id": "bc5b8e73-856d-476a-a16b-088ed6da73d1",
+   "clue_id": "34f23665-03eb-4994-a0e1-060406770bae",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "4b077bbf-08ec-49a2-874f-e819c000ff98",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null
+  },
+  {
+   "room_clue_id": "e666b841-f92b-44c3-ba4b-edba4d038f02",
+   "clue_id": "42004fde-029d-49c8-b0e7-dd46d937c590",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "78c42bcd-7571-40bf-8f25-08ac3d079e84",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "action_note": null
+  },
+  {
+   "room_clue_id": "d069917e-c0d8-4e15-8a32-5200d7713a3c",
+   "clue_id": "77ab313c-04b1-46e7-b8de-8f06a62772f3",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "63fb0371-ae47-4900-9e0d-13a1cf288d92",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null
+  },
+  {
+   "room_clue_id": "919ad242-89c7-4e19-93ab-b5ab49466d4f",
+   "clue_id": "a8ad9178-4a71-4549-9a87-4d73df55d22e",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "2f4e7592-fbb6-447d-8b87-63f0ec1c6f12",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null
+  },
+  {
+   "room_clue_id": "218aec47-c2b1-45e3-aea7-304fa8ecd598",
+   "clue_id": "cc7444c4-579c-4c22-b686-d588d1411c70",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "e7cae331-18e8-4fc0-af34-491107e95498",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null
+  },
+  {
+   "room_clue_id": "b7868638-c6ed-4d73-81cb-cd982161fa37",
+   "clue_id": "ce4967a8-d07a-4093-9d2e-d7bf3e56c690",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "f233b522-1094-423a-869d-fdd2958dbd51",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null
+  },
+  {
+   "room_clue_id": "084794a2-9ed7-4521-8fd3-7af93db914ee",
+   "clue_id": "d4256d32-61ae-47a3-ae1a-fc146f2fcaee",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "86e6e620-cb92-45cb-be9a-d060efcfbad0",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null
+  },
+  {
+   "room_clue_id": "dc88f195-129f-413c-810c-d9529aee9f95",
+   "clue_id": "edd18c52-840b-4edc-a619-082d81353236",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "24e9c41e-d479-47bc-a9ba-41eed3d6dacd",
+   "revealed_to_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "revealed_to_role_id": "31a57197-4426-4689-9018-ff2e1ca2c749",
+   "action_type": "REVEALED",
+   "action_by_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "action_note": null
+  },
+  {
+   "room_clue_id": "9aa88187-43a6-453f-b0dd-021afac4bbca",
+   "clue_id": "c2c9f4e7-5f38-43cf-b41d-5d4188b38977",
+   "display_state": "VISIBLE_FRONT",
+   "current_variant_id": "e609e23a-8247-4f3f-a956-06047341e353",
+   "revealed_to_member_id": null,
+   "revealed_to_role_id": null,
+   "action_type": "REVEALED",
+   "action_by_member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "action_note": null
+  }
+ ],
+ "room_clue_read": [
+  {
+   "clue_id": "07edb15b-8f8d-42f4-b356-4639285a0503",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "08e3f71c-ff70-4da7-8a52-636e37f0431f",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "34f23665-03eb-4994-a0e1-060406770bae",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "42004fde-029d-49c8-b0e7-dd46d937c590",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "77ab313c-04b1-46e7-b8de-8f06a62772f3",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "a8ad9178-4a71-4549-9a87-4d73df55d22e",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "cc7444c4-579c-4c22-b686-d588d1411c70",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "ce4967a8-d07a-4093-9d2e-d7bf3e56c690",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "d4256d32-61ae-47a3-ae1a-fc146f2fcaee",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  },
+  {
+   "clue_id": "edd18c52-840b-4edc-a619-082d81353236",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0"
+  }
+ ],
+ "room_trigger_use": [
+  {
+   "room_id": "a4631152-fdb4-4aec-a217-167a24bd1bcb",
+   "trigger_id": "51c8ec4a-cb0e-4c26-83a5-f75535e0130c",
+   "scope_key": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "use_count": 1,
+   "last_used_at": "2026-11-10 00:32:16"
+  },
+  {
+   "room_id": "a4631152-fdb4-4aec-a217-167a24bd1bcb",
+   "trigger_id": "98e30064-fa85-445d-8e54-12c0f4ae783a",
+   "scope_key": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "use_count": 1,
+   "last_used_at": "2026-11-10 00:31:53"
+  },
+  {
+   "room_id": "a4631152-fdb4-4aec-a217-167a24bd1bcb",
+   "trigger_id": "faa4e626-48d7-4fb6-a718-9a144e6ea47d",
+   "scope_key": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "use_count": 1,
+   "last_used_at": "2026-11-10 00:42:52"
+  }
+ ],
+ "room_player": [
+  {
+   "room_player_id": "d20041fd-1a25-4b88-a32f-b5e3d1fa03fe",
+   "member_id": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "ap_spent": 14,
+   "total_ap_spent": 14
+  }
+ ]
+}

@@ -38,8 +38,12 @@ AP 제한: {"role_bak": 28}
         <p>조사에 성공하면 <strong>단서</strong>를 획득하게 됩니다. 획득한 단서는 하단 메뉴의 <span class="highlight">MY</span> > <span class="highlight">내 단서</span>에서 언제든지 다시 읽어볼 수 있습니다.</p>
       </li>
 
+      <li><strong>단서 속 버튼</strong>
+        <p>단서를 열어 보면 내용 아래에 <span class="highlight">버튼</span>이 달려 있기도 합니다. 단서에 적힌 대로 직접 행동해 보는 버튼이며, 누르면 행동력(AP)이 소모되고 단서의 내용이 바뀝니다.</p>
+      </li>
+
       <li><strong>액션 사용</strong>
-        <p>캐릭터에 따라 특수 능력(액션)이 있을 수 있습니다. 하단 메뉴의 <span class="highlight">MY</span> > <span class="highlight">내 액션</span>에서 사용 가능한 액션이 있는지 확인해 보세요.</p>
+        <p>캐릭터에게는 특수 능력(액션)이 있습니다. 하단 메뉴의 <span class="highlight">MY</span> > <span class="highlight">내 액션</span>에서 사용할 수 있는 액션을 확인해 보세요. 단서에 버튼이 없어도, 액션으로 더 깊이 조사할 수 있는 단서가 있습니다.</p>
       </li>
     </ol>
   </div>

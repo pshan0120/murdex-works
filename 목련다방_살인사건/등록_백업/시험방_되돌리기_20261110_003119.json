@@ -1,0 +1,63 @@
+{
+ "created_at": "2026-11-10T00:31:19.005751",
+ "room_id": "a4631152-fdb4-4aec-a217-167a24bd1bcb",
+ "room_clue": [
+  {
+   "clue_id": "c2c9f4e7-5f38-43cf-b41d-5d4188b38977",
+   "original_variant_id": "866a84ac-6c2b-4169-aa68-41183bf5270b",
+   "clue_name": "최 마담의 시신",
+   "room_clue_id": "9aa88187-43a6-453f-b0dd-021afac4bbca",
+   "current_variant_id": "866a84ac-6c2b-4169-aa68-41183bf5270b",
+   "current_name": "최 마담의 시신"
+  },
+  {
+   "clue_id": "42004fde-029d-49c8-b0e7-dd46d937c590",
+   "original_variant_id": "fa625e41-724d-4e29-84ad-b43038375daa",
+   "clue_name": "서류 봉투",
+   "room_clue_id": "e666b841-f92b-44c3-ba4b-edba4d038f02",
+   "current_variant_id": "fa625e41-724d-4e29-84ad-b43038375daa",
+   "current_name": "서류 봉투"
+  },
+  {
+   "clue_id": "7a13bf63-540e-499e-ba6d-0b2a8c478d34",
+   "original_variant_id": "dc2edab8-efa9-4e55-9655-b10b4e26d863",
+   "clue_name": "테이블 위",
+   "room_clue_id": "2d162b79-30b2-49c5-ac3a-394d2ef91cdc",
+   "current_variant_id": "dc2edab8-efa9-4e55-9655-b10b4e26d863",
+   "current_name": "테이블 위"
+  },
+  {
+   "clue_id": "d4256d32-61ae-47a3-ae1a-fc146f2fcaee",
+   "original_variant_id": "86e6e620-cb92-45cb-be9a-d060efcfbad0",
+   "clue_name": "주방 구석",
+   "room_clue_id": "084794a2-9ed7-4521-8fd3-7af93db914ee",
+   "current_variant_id": "86e6e620-cb92-45cb-be9a-d060efcfbad0",
+   "current_name": "주방 구석"
+  },
+  {
+   "clue_id": "edd18c52-840b-4edc-a619-082d81353236",
+   "original_variant_id": "5e024023-b4aa-4bef-a8d0-8bcc2c6ebca8",
+   "clue_name": "종업원 숙소",
+   "room_clue_id": "dc88f195-129f-413c-810c-d9529aee9f95",
+   "current_variant_id": "24e9c41e-d479-47bc-a9ba-41eed3d6dacd",
+   "current_name": "낡은 일기장"
+  },
+  {
+   "clue_id": "08e3f71c-ff70-4da7-8a52-636e37f0431f",
+   "original_variant_id": "2a362548-bac4-4c3a-b9c8-78905d8fcdbb",
+   "clue_name": "낡은 가방",
+   "room_clue_id": "e51376a6-d5cd-4c60-8b56-4f61f069a143",
+   "current_variant_id": "2a362548-bac4-4c3a-b9c8-78905d8fcdbb",
+   "current_name": "낡은 가방"
+  }
+ ],
+ "room_trigger_use": [
+  {
+   "room_id": "a4631152-fdb4-4aec-a217-167a24bd1bcb",
+   "trigger_id": "51c8ec4a-cb0e-4c26-83a5-f75535e0130c",
+   "scope_key": "c6047a2e-222c-4f0e-b031-f639619888c0",
+   "use_count": 1,
+   "last_used_at": "2026-11-10 00:22:48"
+  }
+ ]
+}
