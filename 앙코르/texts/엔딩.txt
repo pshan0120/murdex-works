@@ -127,7 +127,7 @@ Negative prompt: photorealistic, 3D render, exaggerated anime features, chibi, c
   `_clean_story_diary_entry`가 코드로 삭제한다.
 - 신고 버튼(리와인드 화면과 같은 기능)을 diary-story 화면에도 추가했다. entryType=DIARY_ENTRY, age 필드에
   날짜 번호(1~7)를 담아 보낸다.
-- 아직 안 한 것: 단계·질문·이름 기본값(해피)의 DB 등록, 문장 반복(예: "그때 주인의 X가 따뜻했다") 추가 튜닝,
+- 아직 안 한 것: 단계·질문·이름 기본값(아리)의 DB 등록, 문장 반복(예: "그때 주인의 X가 따뜻했다") 추가 튜닝,
   위 "해후 삽화" 이미지 실제 생성·업로드(프롬프트만 작성됨, 2026-09-27) — URL이 정해지면 `encore_router.py`의
   `_STORY_REUNION_IMAGE_URL`에 채우면 프런트가 자동으로 해후 본문 마지막에 보여준다.
 
