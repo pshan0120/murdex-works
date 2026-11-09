@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Nanum+Pen+Script&family=Gowun+Dodum&display=swap");
 /*
  * 앙코르 - 커스텀 테마 CSS
@@ -442,4 +443,19 @@
 
 .story-content .spoken p:last-child {
     margin-bottom: 0;
+}
+
+/* ============================================================
+   9. 아웃트로 추모 문구 ("아리를 추억하며...")
+   - 아웃트로 맨 아래 사진 밑에 두는 짧은 문구. 부드러운 손글씨체(Hi Melody)에 옅은 색, 가운데 정렬.
+   ============================================================ */
+
+.story-content .outro-memorial {
+    margin: 18px 0 8px 0;
+    text-align: center;
+    font-family: "Hi Melody", "Gamja Flower", cursive, sans-serif;
+    font-size: 1.35em;
+    letter-spacing: 0.02em;
+    color: #7A5C50;
+    -webkit-text-stroke: 0;
 }
