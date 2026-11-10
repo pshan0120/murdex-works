@@ -77,10 +77,10 @@ variant_id : 866a84ac-6c2b-4169-aa68-41183bf5270b
 관련 : 공통
 의도 : 없음
 내용 :
-시신은 바닥에 쓰러져 있습니다. 뒤통수 부위에 상처에서 검붉은 피가 바닥으로 흘러나와 있습니다. 앞치마 주머니 안감이 밖으로 뒤집혀 튀어나와 있습니다. 오른쪽 엄지손가락 끝에 옅게 번진 붉은색 자국이 남아 있습니다.
+시신은 바닥에 쓰러져 있습니다. 뒤통수 상처 주변에 피가 조금 묻어 있고, 이미 검게 굳어 있습니다. 앞치마 주머니 안감이 밖으로 뒤집혀 튀어나와 있습니다. 오른쪽 엄지손가락 끝에 옅게 번진 붉은색 자국이 남아 있습니다. 입술에는 립스틱이 번져 있고, 입가에는 하얗게 마른 침 자국이 남아 있습니다.
 HTML :
 <div class="story-content">
-  <p>시신은 바닥에 쓰러져 있습니다. 뒤통수 부위에 상처에서 검붉은 피가 바닥으로 흘러나와 있습니다. 앞치마 주머니 안감이 밖으로 뒤집혀 튀어나와 있습니다. 오른쪽 엄지손가락 끝에 옅게 번진 붉은색 자국이 남아 있습니다.</p>
+  <p>시신은 바닥에 쓰러져 있습니다. 뒤통수 상처 주변에 피가 조금 묻어 있고, 이미 검게 굳어 있습니다. 앞치마 주머니 안감이 밖으로 뒤집혀 튀어나와 있습니다. 오른쪽 엄지손가락 끝에 옅게 번진 붉은색 자국이 남아 있습니다. 입술에는 립스틱이 번져 있고, 입가에는 하얗게 마른 침 자국이 남아 있습니다.</p>
 </div>
 이미지생성용 프롬프트: A dramatic close-up macro shot of a pale right hand lying motionless on a dark floor. The tip of the thumb has a faint, smeared red stain. Next to the hand is a vintage apron with its pocket pulled inside out. The scene avoids showing the full body, focusing only on the hand and the apron pocket. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -105,10 +105,10 @@ variant_id : dc2edab8-efa9-4e55-9655-b10b4e26d863
 관련 : 공통
 의도 : 없음
 내용 :
-테이블 위에는 두 개의 찻잔이 놓여 있습니다. 그 중 하나는 쌍화차가 반쯤 남아 있습니다. 이 잔의 테두리에는 붉은색 립스틱 자국이 묻어 있고, 찻잔 접시에는 약간의 물기가 묻어 있습니다. 맞은편에 놓인 다른 잔은 거의 다 비어 있습니다.
+테이블 위에는 두 개의 찻잔이 놓여 있습니다. 그 중 하나는 쌍화차가 반쯤 남아 있습니다. 이 잔의 테두리에는 붉은색 립스틱 자국이 묻어 있고, 찻잔 접시에는 약간의 물기가 묻어 있습니다. 맞은편에 놓인 다른 잔은 거의 다 비어 있고, 접시에 물기가 거의 없습니다.
 HTML :
 <div class="story-content">
-  <p>테이블 위에는 두 개의 찻잔이 놓여 있습니다. 그 중 하나는 쌍화차가 반쯤 남아 있습니다. 이 잔의 테두리에는 붉은색 립스틱 자국이 묻어 있고, 찻잔 접시에는 약간의 물기가 묻어 있습니다. 맞은편에 놓인 다른 잔은 거의 다 비어 있습니다.</p>
+  <p>테이블 위에는 두 개의 찻잔이 놓여 있습니다. 그 중 하나는 쌍화차가 반쯤 남아 있습니다. 이 잔의 테두리에는 붉은색 립스틱 자국이 묻어 있고, 찻잔 접시에는 약간의 물기가 묻어 있습니다. 맞은편에 놓인 다른 잔은 거의 다 비어 있고, 접시에 물기가 거의 없습니다.</p>
 </div>
 이미지생성용 프롬프트: A top-down overhead shot of a 1980s retro Korean tea house (Dabang) table. Two ceramic tea cups are placed exactly opposite each other, showing that two people were sitting face-to-face. The first cup is half-full with dark brown traditional tea (ssanghwa-cha), and has a very faint, subtle red lipstick smudge on its rim, with a few small water droplets visible on its saucer. The second cup across the table is almost completely empty. 1980s retro film noir style, cinematic lighting, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -298,10 +298,10 @@ variant_id : 22c56bf7-ced6-4c40-854f-b93d9e09c566
 단계 시작시 자동 획득 : N
 관련 : 공통
 의도 : 없음
-신문지를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 강한 마늘 냄새가 납니다.
+신문지를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 희미하게 독한 냄새가 납니다.
 HTML :
 <div class="story-content">
-  <p>신문지를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 <strong>강한 마늘 냄새</strong>가 납니다.</p>
+  <p>신문지를 펴자 갈색 유리병이 하나 들어있습니다. 병 입구 주변에서 희미하게 <strong>독한 냄새</strong>가 납니다.</p>
 </div>
 이미지생성용 프롬프트: A dusty, dark corner of a kitchen cupboard. Moldy wallpaper texture. A small brown glass bottle partially wrapped loosely in old 1980s newspaper is hidden in the shadows. Dust has been recently wiped away, leaving streaks. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 다방 내부
@@ -381,10 +381,10 @@ variant_id : 78c42bcd-7571-40bf-8f25-08ac3d079e84
 관련 : 공통
 의도 : 없음
 내용 :
-서류 봉투 안에는 건물 양도 계약서 2부가 있습니다. 그 중 1부에만 매도인 이름 옆에 붉은 지장이 비뚤어진 각도로 찍혀 있습니다.
+서류 봉투 안에는 건물 양도 계약서 2부가 있습니다. 그 중 1부에만 매도인 이름 옆에 붉은 지장이 찍혀 있고, 한쪽으로 끌리듯 번져 있습니다.
 HTML :
 <div class="story-content">
-  <p>서류 봉투 안에는 건물 양도 계약서 2부가 있습니다. 그 중 1부에만 매도인 이름 옆에 붉은 지장이 비뚤어진 각도로 찍혀 있습니다.</p>
+  <p>서류 봉투 안에는 건물 양도 계약서 2부가 있습니다. 그 중 1부에만 매도인 이름 옆에 붉은 지장이 찍혀 있고, 한쪽으로 끌리듯 번져 있습니다.</p>
 </div>
 이미지생성용 프롬프트: Extreme close-up on the bottom signature area of the contract, based on the attached image. Show only the handwritten Korean names: "매수인(갑): 김팔봉" and "매도인(을): 최순옥". Focus on the space next to Choi Soon-ok's name, where a messy, smeared red thumbprint (red ink pad) is forcefully stamped, looking crooked and unnatural. The rest of the contract's body text above should be blurred and illegible, appearing only as dense lines of ink. No English text allowed; ONLY Korean characters must be visible. High-resolution study of paper texture. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -689,10 +689,10 @@ variant_id : 109d4cbd-b8a5-4001-9248-54dbf9e9481a
 관련 : 공통
 의도 : 없음
 내용 :
-"다방 출입한 사람들? 다 지켜봤지. 저녁 8시 반쯤 미스 양이 나갔고, 밤 9시쯤에 김 사장이 들어갔다가 20분 있다 나갔지. 9시 10분인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 30분 있다가 돌아왔을 거야. 아까 10시 되기 10분 전에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아."
+"다방 출입한 사람들? 다 지켜봤지. 저녁 8시 반쯤 미스 양이 나갔고, 밤 9시쯤에 김 사장이 들어갔다가 20분 있다 얼굴이 허옇게 질려서 뛰쳐나갔지. 9시 10분인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 30분 있다가 돌아왔을 거야. 아까 10시 되기 10분 전에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아."
 HTML :
 <div class="story-content">
-  <p>"다방 출입한 사람들? 다 지켜봤지. <strong>저녁 8시 반쯤</strong> 미스 양이 나갔고, <strong>밤 9시쯤</strong>에 김 사장이 들어갔다가 <strong>20분</strong> 있다 나갔지. <strong>9시 10분</strong>인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 <strong>30분 있다가</strong> 돌아왔을 거야. 아까 <strong>10시 되기 10분 전</strong>에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아."</p>
+  <p>"다방 출입한 사람들? 다 지켜봤지. <strong>저녁 8시 반쯤</strong> 미스 양이 나갔고, <strong>밤 9시쯤</strong>에 김 사장이 들어갔다가 <strong>20분</strong> 있다 얼굴이 허옇게 질려서 뛰쳐나갔지. <strong>9시 10분</strong>인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 <strong>30분 있다가</strong> 돌아왔을 거야. 아까 <strong>10시 되기 10분 전</strong>에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아."</p>
 </div>
 이미지생성용 프롬프트: Close-up of an old 1980s orange public telephone sitting on the counter, based on the attached background image. The cord is messy and tangled. Cinematic lighting. Suggests an urgent phone testimony. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
@@ -773,10 +773,10 @@ variant_id : e86160ca-6b05-4b78-b1e5-5723acf2d692
 관련 : 공통
 의도 : 이 군의 살인 도구(쥐약) 배제
 내용 :
-"쥐약? 그건 쥐들이 먹게 밥이나 음식에 섞어서 뭉쳐줘야 해서 물에 잘 안녹아. 농약은 어떠냐구? 그건 원래부터 물에 타서 쓰는거지."
+"쥐약? 그건 쥐들이 먹게 밥이나 음식에 섞어서 뭉쳐줘야 해서 물에 잘 안녹아. 농약은 어떠냐구? 그건 원래부터 물에 타서 쓰는거지. 독한 건 조금만 타도 사람이 마시면 큰일 나."
 HTML :
 <div class="story-content">
-  <p>"쥐약? 그건 쥐들이 먹게 밥이나 음식에 섞어서 뭉쳐줘야 해서 물에 잘 안녹아. 농약은 어떠냐구? 그건 원래부터 물에 타서 쓰는거지."</p>
+  <p>"쥐약? 그건 쥐들이 먹게 밥이나 음식에 섞어서 뭉쳐줘야 해서 물에 잘 안녹아. 농약은 어떠냐구? 그건 원래부터 물에 타서 쓰는거지. 독한 건 조금만 타도 사람이 마시면 큰일 나."</p>
 </div>
 이미지생성용 프롬프트: An old korean man in a cluttered 1980s agricultural supply store, pointing at a small packet of rat poison and a bottle of liquid pesticide. Dim lighting, dusty atmosphere. 1980s retro film noir style, cinematic lighting, dramatic chiaroscuro, heavy shadows, muted colors, gritty atmospheric texture. Aspect Ratio: 1:1.
 장소 : 없음
