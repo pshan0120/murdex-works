@@ -84,15 +84,14 @@
     font-weight: 700;
     color: #ff4d4d;
     margin: 1.5rem 0 0.8rem 0;
-    display: flex;
-    align-items: center;
-    gap: 0.5em;
+    display: block; /* flex이면 제목 안의 이름 같은 인라인 요소가 따로 쪼개져 좁은 화면에서 깨져 보인다 */
 }
 
 .story-content .subsection-title::before {
     content: ">>";
     font-size: 0.8em;
     opacity: 0.7;
+    margin-right: 0.5em;
 }
 
 .story-content .highlight {

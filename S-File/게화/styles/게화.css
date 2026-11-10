@@ -85,9 +85,7 @@
     font-weight: 700;
     color: #e0955a;
     margin: 1.5rem 0 0.8rem 0;
-    display: flex;
-    align-items: center;
-    gap: 0.5em;
+    display: block; /* flex이면 제목 안의 이름 같은 인라인 요소가 따로 쪼개져 좁은 화면에서 깨져 보인다 */
 }
 
 .story-content .subsection-title::before {
@@ -97,7 +95,9 @@
     background: currentColor;
     opacity: 0.7;
     transform: rotate(45deg);
-    flex: none;
+    display: inline-block;
+    margin-right: 0.6em;
+    vertical-align: 0.1em;
 }
 
 .story-content .highlight {
