@@ -1,0 +1,60 @@
+{
+ "clue": [
+  {
+   "clue_id": "d28f7250-3864-5795-8def-a4a2f86f0f0a",
+   "story_id": "7f71ed57-6b1d-4e54-9921-a11be7f511b6",
+   "group_id": "90477ce2-1648-5bcf-b2c7-59d02554e3a5",
+   "clue_type": "OBSERVATION",
+   "importance_level": "HIGH",
+   "is_revealable": 1,
+   "is_exchangeable": 0,
+   "is_hidden_possession": 0,
+   "ap_cost": 0,
+   "clue_order": 810,
+   "is_acquirable": 0,
+   "is_disposable_read": 0,
+   "has_acquisition_condition": 0,
+   "acquisition_condition": null,
+   "created_at": "2026-11-05 02:17:10",
+   "updated_at": "2026-11-05 02:17:10"
+  }
+ ],
+ "variants": [
+  {
+   "variant_id": "9b8fbff3-8cd7-5b80-9953-48b3beaa692c",
+   "clue_id": "d28f7250-3864-5795-8def-a4a2f86f0f0a",
+   "clue_name": "서류 더미 위의 저울추",
+   "variant_type": "DEFAULT",
+   "clue_content": "<div class=\"story-content\">\n  <p>서류 더미 위에 쇠 저울추가 놓여 있다. 지름 5cm쯤이다. 저울추 위에 먼지가 쌓여 있다.</p>\n</div>",
+   "clue_image_url": null,
+   "is_default": 1,
+   "passcodes": null,
+   "passcode_ap_cost": 0,
+   "passcode_question_html": null,
+   "priority": 0,
+   "created_at": "2026-11-05 02:17:10",
+   "updated_at": "2026-11-05 02:17:10"
+  }
+ ],
+ "display_rules": [
+  {
+   "rule_id": "20959862-f719-5d6a-971e-a4dbfb2623e6",
+   "clue_id": "d28f7250-3864-5795-8def-a4a2f86f0f0a",
+   "trigger_step_id": null,
+   "target_display_state": "HIDDEN",
+   "variant_id": null,
+   "created_at": "2026-11-05 02:17:10",
+   "updated_at": "2026-11-05 02:17:10"
+  },
+  {
+   "rule_id": "fde026f2-237a-5a05-80c8-6d0e0efccab3",
+   "clue_id": "d28f7250-3864-5795-8def-a4a2f86f0f0a",
+   "trigger_step_id": "59101e9f-5421-5283-afe5-b0795d143a4a",
+   "target_display_state": "VISIBLE_FRONT",
+   "variant_id": "9b8fbff3-8cd7-5b80-9953-48b3beaa692c",
+   "created_at": "2026-11-05 02:17:10",
+   "updated_at": "2026-11-05 02:17:10"
+  }
+ ],
+ "file_text": "[clue_65]\n코드 : M4\n이름 : 서류 더미 위의 저울추\nclueId : (DB 등록 시)\nvariantId : (DB 등록 시)\n이미지 : (추후 업로드 예정)\ngroupId : (DB 등록 시)\n유형 : 현장\n단계 : [조사 3단계]\n소모AP : 0\n정렬순서 : 810\n중요도 : 높음\n핵심 단서 여부 : Y\n교환 가능 여부 : N\n획득 가능 여부 : N\n획득 조건 존재 여부 : N\n획득 조건 내용 : 없음\n시작 표시 상태 : 앞면\n단계 시작시 자동 획득 : N\n관련 : 전원\n의도 : 둔기 미끼 저울추(A11)의 결말. 먼지가 쌓여 있어 오늘 쓰인 도구가 아니라는 것이 드러나고, 추리가 허리띠와 돌로 넘어간다. 닫히는 것은 도구뿐이고 동기는 남는다. 눈에 띄는 물건이라 공개한다.\n내용 :\n서류 더미 위에 쇠 저울추가 놓여 있다. 지름 5cm쯤이다. 저울추 위에 먼지가 쌓여 있다.\nHTML :\n<div class=\"story-content\">\n  <p>서류 더미 위에 쇠 저울추가 놓여 있다. 지름 5cm쯤이다. 저울추 위에 먼지가 쌓여 있다.</p>\n</div>\n단서 그룹 : 1.5층의 흔적\n\n\n"
+}

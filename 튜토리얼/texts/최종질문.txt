@@ -1,0 +1,35 @@
+[최종 질문] 단계 7 투표에 등록한다. 2026-11-12 초안, 사용자 검토 전.
+
+※ 두 질문 모두 전원 투표다. 동률이면 재투표한다(allow_tie=0). 기권 선택지는 없다.
+※ 결과는 결말 단계에서 한꺼번에 보여 준다(show_result_after_submit=0).
+
+=== Q1 ===
+코드: Q1
+QuestionID: 6519e20d-fcc7-5b85-96ba-543687ec527c
+대상: 전원
+유형: 투표 (is_multiple_choice=1, is_vote=1, allow_tie=0, is_required=1, show_result_after_submit=0)
+순서: 1
+제목:
+<div class="subsection-title">범인 지목</div>
+<p>점주 오성택을 죽인 사람은 누구인가?</p>
+선택지:
+- 서지훈
+- 정민재
+- 최유나
+- 오하린
+
+=== Q2 ===
+코드: Q2
+QuestionID: 418771bb-f9e9-5e07-bbc5-67e59308822c
+대상: 전원
+유형: 투표 (is_multiple_choice=1, is_vote=1, allow_tie=0, is_required=1, show_result_after_submit=0)
+순서: 2
+의도: 범인을 맞힌 뒤에도 한 번 더 단서를 확인하게 하는 질문. 이 답에 따라 엔딩 A와 B가 갈린다.
+제목:
+<div class="subsection-title">흉기</div>
+<p>범행에 쓰인 물건은 무엇인가?</p>
+선택지:
+- 소화기
+- 대걸레 자루
+- 양동이
+- 알 수 없다

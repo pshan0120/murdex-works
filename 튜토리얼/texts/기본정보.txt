@@ -1,0 +1,51 @@
+StoryID : 0c0e32a8-4136-53ca-902a-1a118c43ca96
+
+[늘푸른마트 살인사건 - 플랫폼 등록 정보] (2026-11-12 초안, 사용자 검토 전, DB 미등록)
+
+※ 기획 정본은 works/튜토리얼/기획안.md다.
+※ 구판 "심야의 편의점"은 _구판 폴더로 옮겼다. 구판 설정을 이 작품에 섞지 않는다.
+
+1. 작품 규격
+- 제목: 늘푸른마트 살인사건
+- 카테고리: CLASSIC
+- 요약: 장대비가 쏟아지는 새벽, 편의점 창고에서 점주가 쓰러진 채 발견됐다.
+- 작품가: 0
+- 플레이 시간: 50분 (시작·역할지 8분, 자기소개 대본 7분, 1차 조사 10분, 중간 토론 7분, 2차 조사 5분, 최종 토론 8분, 투표 3분, 결말 2분)
+- 인원: 4인
+- 권장 연령: 15세 이상
+- 난이도: EASY
+- 태그: MODERN(현대), LOGIC_HEAVY(본격추리), CLOSED_CIRCLE(밀실/고립), MYSTERY(미스터리)
+- 속성: TUTORIAL(튜토리얼), BEGINNER(초심자)
+- 작품 이미지 URL
+https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559614/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/thumbnail/c6047a2e-222c-4f0e-b031-f639619888c0/file_xhzgha.jpg
+- 룸 로비 BGM URL
+(추후 업로드)
+
+
+2. 디자인 가이드
+- 텍스트 컬러: #E8ECEF
+- 배경 컬러: #111619
+- 화풍: 웹툰풍 일러스트(깨끗한 선화, 셀 채색에 부드러운 그라데이션, 살짝 과장된 비율). 머덱스의 다른 작품들이 대부분 실사풍이라 차별화한다. 역할, 컷씬, 포스터, 단서 이미지 모두 같은 화풍을 쓴다.
+- 포스터 프롬프트: Square aspect ratio, 1:1. Centered composition, the store fills the middle of the frame. An old, slightly worn neighborhood corner mart and convenience store on the ground floor of a weathered 3-story building on a rainy street corner at 3 a.m. Heavy monsoon rain, flooded street corner with deep puddles, utility pole and overhead wires. All surrounding buildings in the background are completely dark with lights off, leaving only this corner store glowing in the pitch-dark rainy night. A slightly faded lime-green storefront sign glowing in the rain, stacked plastic drink crates under the eaves. The store windows are heavily fogged with condensation, thick rain streaks, and translucent frosted film so the interior is obscured into a soft, blurry fluorescent glow rather than clear details. No people. Korean webtoon style illustration, clean confident line art, cel shading with soft gradients, muted night palette of deep navy and cool fluorescent white with a single lime-green accent, lonely, tense and quiet mood. No text, no letters, no words.
+- 테마: 비 오는 새벽 편의점. 형광등의 차가운 흰빛과 바깥의 짙은 남색 빗줄기가 대비를 이룬다. 포인트 컬러는 편의점 간판의 연두색 한 가지만 쓴다.
+
+
+3. 상세 소개 (구매 전 노출용)
+<div class="intro-section">
+  <h1 class="intro-title-cinematic">새벽 2시 40분, 늘푸른마트 24 창고</h1>
+  <p>
+    장대비가 쏟아지는 새벽, 큰길가 편의점 창고에서 점주가 쓰러진 채 발견됐다.
+    사거리가 물에 잠겨 경찰은 한참 뒤에야 온다고 한다.
+  </p>
+  <p>
+    매장에 남은 사람은 네 명이다. 야간 알바생, 납품 기사, 위층에 사는 번역가, 그리고 점주의 조카.
+  </p>
+  <p class="emphasis">머덱스가 처음이라면 이 작품부터 시작해 보세요. 50분이면 끝까지 플레이할 수 있습니다.</p>
+</div>
+
+
+4. 룸 로비 안내
+<div class="story-content">
+  <p>네 명이 모두 들어오면 호스트가 역할을 배정합니다. 역할을 받은 뒤 모두 준비 완료를 누르면 시작합니다.</p>
+  <p>처음 하는 분이 있다면, 각 단계 화면 맨 위의 안내를 소리 내어 읽어 주며 진행하면 편합니다.</p>
+</div>

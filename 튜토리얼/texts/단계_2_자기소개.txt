@@ -1,0 +1,133 @@
+StoryID : 0c0e32a8-4136-53ca-902a-1a118c43ca96
+StepID : 20e1f8f1-bdcd-58d6-be13-d8a7952d8eef
+
+1. 순서
+2
+
+2. 단계 이름
+자기소개
+
+3. 단계 유형
+NARRATIVE
+
+4. 예상 소요 시간
+7분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Quiet late-night convenience store ambience, steady rain on glass, refrigerator hum, sparse muted piano notes, calm tension, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 대본 읽기</div>
+  <p>새벽 2시 40분부터 45분까지의 장면을 대본으로 함께 읽습니다. 대사가 한 줄씩 나옵니다.</p>
+  <ul>
+    <li>줄마다 읽을 사람이 정해져 있습니다. 내 차례가 되면 내 화면에 <span class="highlight">다음으로 진행</span> 버튼이 나타납니다.</li>
+    <li>버튼이 보이면 그 줄을 소리 내어 읽고 <span class="highlight">다음으로 진행</span>을 누릅니다. 다른 사람 화면에는 "○○ 진행 중"으로 표시됩니다.</li>
+    <li><span class="highlight">대사</span>는 이름이 붙은 그 인물이 읽습니다. 그 인물이 되어 읽어 주세요.</li>
+    <li><span class="highlight">지시문</span>은 이름 없이 장면을 설명하는 글입니다. 버튼이 나타난 사람이 차분하게 읽으면 됩니다.</li>
+  </ul>
+
+  <div class="section-title">2. 알아 두기</div>
+  <ul>
+    <li>대본 속 자기소개가 곧 이 단계의 자기소개입니다. 대본에 없는 이야기는 아직 꺼내지 않아도 됩니다.</li>
+    <li>다른 사람의 대사를 들으며 이상한 점이 있으면 기억해 두세요. 조사가 시작되면 쓸모가 있습니다.</li>
+  </ul>
+</div>
+
+8. 대본 관리 (구조화, DB 입력용)
+
+※ 담당 지정 원칙: 특정 인물의 행동을 묘사하는 지시문은 그 인물이 아닌 플레이어가 낭독한다. PLAYER 줄은 화자 본인이 담당한다.
+※ 시간 범위는 02:40(비명)부터 02:45(정민재 입장) 직후까지다. 역할지 공통 정보에는 이 장면을 다시 쓰지 않는다.
+※ 대본에는 자기소개 수준의 정보(이름, 하는 일, 오늘 여기 온 까닭)만 넣는다. 누가 언제 어디 있었는지 같은 알리바이와 시각은 조사가 시작된 뒤 플레이어끼리 주고받게 하고, 대본에서 미리 드러내지 않는다(2026-11-13 사용자 지정). 나머지 대사는 공개 정보 범위만 말한다. CCTV 이야기는 대본에 넣지 않는다(2차 조사의 CCTV 녹화기 단서로만 드러난다).
+※ 비명과 정문 종소리 효과음은 파일을 정한 뒤 audio_url로 연결한다.
+
+[1] 화자 타입: DIRECTIVE
+    담당 플레이어: 최유나 (프리랜서 번역가)
+    대사: 새벽 2시 40분, 늘푸른마트 24. 장대비가 유리창을 두드리는 가운데, 창고 쪽에서 비명이 터진다.
+
+[2] 화자 타입: DIRECTIVE
+    담당 플레이어: 정민재 (납품 기사)
+    대사: 창가 테이블에 있던 최유나와 사무실에 있던 오하린이 카운터 옆 복도로 달려간다. 서지훈이 창고 문턱 앞에 주저앉아 있다.
+
+[3] 화자 타입: PLAYER
+    화자: 서지훈 (야간 아르바이트생)
+    화자 표시 HTML: <span class="character-seojihun">서지훈</span>
+    대사: 사, 사장님이… 사장님이 안 움직여요.
+
+[4] 화자 타입: DIRECTIVE
+    담당 플레이어: 정민재 (납품 기사)
+    대사: 문턱 너머 창고 바닥에 점주 오성택이 엎드려 있다. 머리 쪽 바닥에 피가 번져 있다.
+
+[5] 화자 타입: PLAYER
+    화자: 오하린 (점주의 조카)
+    화자 표시 HTML: <span class="character-ohharin">오하린</span>
+    대사: 삼촌! 삼촌, 일어나 봐요!
+
+[6] 화자 타입: PLAYER
+    화자: 최유나 (프리랜서 번역가)
+    화자 표시 HTML: <span class="character-choiyuna">최유나</span>
+    대사: 들어가지 마세요. 아무것도 건드리면 안 될 것 같아요. 신고부터 해요.
+
+[7] 화자 타입: DIRECTIVE
+    담당 플레이어: 오하린 (점주의 조카)
+    대사: 서지훈이 떨리는 손으로 112에 전화를 건다. 통화는 짧게 끝난다.
+
+[8] 화자 타입: PLAYER
+    화자: 서지훈 (야간 아르바이트생)
+    화자 표시 HTML: <span class="character-seojihun">서지훈</span>
+    대사: 사거리가 물에 잠겨서 언제 올지 모르겠대요. 현장에는 아무도 들어가지 말래요.
+
+[9] 화자 타입: DIRECTIVE
+    담당 플레이어: 서지훈 (야간 아르바이트생)
+    대사: 그때 정문 종이 울린다. 비에 흠뻑 젖은 회색 작업복 차림의 남자가 들어선다.
+
+[10] 화자 타입: PLAYER
+    화자: 정민재 (납품 기사)
+    화자 표시 HTML: <span class="character-jeongminjae">정민재</span>
+    대사: 한빛물류입니다. 반품 박스 받으러 왔는데요. 무슨 일 있어요?
+
+[11] 화자 타입: PLAYER
+    화자: 최유나 (프리랜서 번역가)
+    화자 표시 HTML: <span class="character-choiyuna">최유나</span>
+    대사: 사장님이 창고에 쓰러져 계세요. 숨을 안 쉬시는 것 같아요.
+
+[12] 화자 타입: PLAYER
+    화자: 오하린 (점주의 조카)
+    화자 표시 HTML: <span class="character-ohharin">오하린</span>
+    대사: 경찰 올 때까지 아무도 나가지 마세요. 누가 삼촌을 저렇게 만들었는지 모르잖아요.
+
+
+[13] 화자 타입: PLAYER
+    화자: 서지훈 (야간 아르바이트생)
+    화자 표시 HTML: <span class="character-seojihun">서지훈</span>
+    대사: 다들 서로 잘 모르시죠. 저부터 할게요. 서지훈이고, 여기 야간 알바예요. 컵라면 채우러 창고에 들어갔다가 사장님을 봤어요.
+
+[14] 화자 타입: PLAYER
+    화자: 정민재 (납품 기사)
+    화자 표시 HTML: <span class="character-jeongminjae">정민재</span>
+    대사: 한빛물류 정민재입니다. 화요일이랑 금요일 새벽에 여기 물건 내려요.
+
+[15] 화자 타입: PLAYER
+    화자: 최유나 (프리랜서 번역가)
+    화자 표시 HTML: <span class="character-choiyuna">최유나</span>
+    대사: 최유나예요. 이 건물 3층에 살아요. 일하다가 잠깐 내려와 있었어요.
+
+[16] 화자 타입: PLAYER
+    화자: 오하린 (점주의 조카)
+    화자 표시 HTML: <span class="character-ohharin">오하린</span>
+    대사: 오하린이에요. 사장님 조카고, 다음 달에 이 가게를 넘겨받기로 했어요. 오늘은 삼촌이랑 할 얘기가 있어서 왔고요.
+
+[17] 화자 타입: PLAYER
+    화자: 최유나 (프리랜서 번역가)
+    화자 표시 HTML: <span class="character-choiyuna">최유나</span>
+    대사: 경찰이 언제 올지 모르잖아요. 그동안 우리끼리라도 확인해 봐요. 누가 언제 어디 있었는지, 창고에 뭐가 남아 있는지.
+
+[18] 화자 타입: DIRECTIVE
+    담당 플레이어: 오하린 (점주의 조카)
+    대사: 네 사람은 서로를 한 번씩 훑어본다. 매장에는 빗소리와 냉장고 돌아가는 소리만 남는다.

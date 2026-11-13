@@ -1,0 +1,82 @@
+StoryID : 0c0e32a8-4136-53ca-902a-1a118c43ca96
+StepID : 8b51365a-13dd-55d1-8dd9-f245ade450b5
+
+1. 순서
+1
+
+2. 단계 이름
+시작
+
+3. 단계 유형
+PROLOGUE
+
+4. 예상 소요 시간
+8분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Heavy night rain ambience over a soft low synth pad, distant thunder, faint fluorescent hum, calm but uneasy, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 인트로 컷씬
+※ 2026-11-13 등록(scripts/register_tutorial_images.py, URL은 등록_이미지.json). register_tutorial.py --replace 때 다시 넣는다.
+
+[슬라이드 1] (분위기용 한 장. 2시 40분 장면은 자기소개 대본에서 보여 주므로 컷씬에 넣지 않는다)
+이미지 : https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559617/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/step_intro/c6047a2e-222c-4f0e-b031-f639619888c0/file_pty3e3.jpg
+파일 : images/cutscenes/01_시작_컷1.jpg
+이미지 프롬프트 : Widescreen aspect ratio, 16:9. A small Korean franchise convenience store on a wide street corner at 2 a.m. in a torrential summer downpour. Cold white fluorescent light spills from the glass storefront onto the flooded sidewalk. A lime-green store sign glows above the door. The street is empty, rain streaks across the frame, a traffic light blinks yellow in the distance. Korean webtoon style illustration, clean line art, cel shading with soft gradients, atmospheric rain, muted night palette of deep navy and cool fluorescent white with a single lime-green accent, tense and quiet mood. No text, no letters, no words.
+문구 :
+<p>7월, 장마가 한창인 새벽. 큰길가 편의점 하나만 불을 켜 두고 있다.</p>
+
+
+8. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 들어가며</div>
+  <p><span class="highlight">늘푸른마트 살인사건</span>에 오신 것을 환영합니다. 머덱스가 처음인 분들을 위한 짧은 머더 미스터리입니다. 50분 동안 네 사람이 대화하고 단서를 모아 범인을 찾습니다.</p>
+  <p>플레이어 중 한 명이 범인입니다. 범인은 들키지 않으려 하고, 나머지는 범인을 찾으려 합니다. 범인이 아닌 사람에게도 숨기고 싶은 비밀이 하나씩 있습니다.</p>
+
+  <div class="section-title">2. 지금 할 일</div>
+  <ul>
+    <li>화면의 <span class="highlight">내 역할</span>을 열어 내가 맡은 인물의 역할지를 끝까지 읽어 주세요.</li>
+    <li>역할지에는 나만 아는 내용이 들어 있습니다. 다른 사람에게 그대로 보여 주지 마세요.</li>
+    <li>다 읽었으면 <span class="highlight">다음 단계 진행</span>을 누릅니다. 네 사람이 모두 누르면 자기소개 단계로 넘어가 대본을 함께 읽습니다.</li>
+  </ul>
+
+  <div class="section-title">3. 지금 상황</div>
+  <p>7월, 장마가 한창인 새벽입니다. 큰길가 편의점 늘푸른마트 24에 네 사람이 있습니다.</p>
+  <p>새벽 2시 40분에 무슨 일이 벌어지는지는 다음 단계에서 대본으로 함께 읽습니다.</p>
+
+  <div class="section-title">4. 늘푸른마트 24 약도</div>
+  <ul>
+    <li><strong>매장</strong>: 정문은 큰길 쪽에 있습니다. 카운터, 진열대, 창가 테이블이 있습니다.</li>
+    <li><strong>사무실</strong>: 카운터 뒤 작은 방입니다. 점주의 책상과 PC가 있습니다.</li>
+    <li><strong>창고</strong>: 문이 두 개입니다. 카운터 옆 복도로 이어지는 매장 쪽 문에는 잠금장치가 없습니다. 건물 뒤 골목으로 나가는 뒷문은 비밀번호 도어락으로 잠깁니다.</li>
+    <li><strong>음료 냉장고</strong>: 사람이 들어갈 수 있는 냉장고입니다. 창고에서 들어가 뒤쪽에서 음료를 채웁니다.</li>
+    <li><strong>뒷골목</strong>: 납품 트럭을 대는 곳입니다. 정문에서 가려면 건물 한 블록을 돌아야 해서 걸어서 3분쯤 걸립니다. 골목에서 차가 큰길로 나가는 길은 사거리 쪽 하나뿐입니다.</li>
+  </ul>
+
+  <div class="section-title">5. 전체 흐름</div>
+  <table>
+    <thead><tr><th>단계명</th><th style="width: 18%">유형</th><th style="width: 16%">시간</th><th style="width: 18%">지급 AP</th></tr></thead>
+    <tbody>
+      <tr><td>시작</td><td>프롤로그</td><td>8분</td><td>-</td></tr>
+      <tr><td>자기소개</td><td>서사(대본)</td><td>7분</td><td>-</td></tr>
+      <tr><td>1차 조사</td><td>조사</td><td>10분</td><td>인당 5</td></tr>
+      <tr><td>중간 토론</td><td>추리</td><td>7분</td><td>-</td></tr>
+      <tr><td>2차 조사</td><td>조사</td><td>5분</td><td>인당 2</td></tr>
+      <tr><td>최종 토론</td><td>추리</td><td>8분</td><td>-</td></tr>
+      <tr><td>투표</td><td>결론</td><td>3분</td><td>-</td></tr>
+      <tr><td>결말</td><td>에필로그</td><td>2분</td><td>-</td></tr>
+    </tbody>
+  </table>
+
+  <div class="section-title">6. 진행 방법</div>
+  <ul>
+    <li>단계가 바뀌면 이 <span class="highlight">단계 설명</span>을 먼저 읽어 주세요. 그 단계에서 할 일이 적혀 있습니다.</li>
+    <li>시간은 기준일 뿐입니다. 이야기가 길어지면 조금 넘겨도 괜찮습니다.</li>
+  </ul>
+</div>

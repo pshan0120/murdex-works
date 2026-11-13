@@ -1,0 +1,166 @@
+/*
+ * 늘푸른마트 살인사건 - 기본 읽기 스타일
+ * 꾸밈은 최소로 하고 문단·제목·목록 간격만 잡는다.
+ * 머덱스는 커스텀 CSS가 없으면 브라우저 기본 여백과 목록 기호가 모두 지워진 상태로 보인다.
+ */
+
+.story-content {
+    font-size: 0.95rem;
+    line-height: 1.75;
+    color: #e8ecef;
+}
+
+.story-content p {
+    margin: 0 0 0.8em;
+}
+
+.story-content p:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .content-section + .content-section {
+    margin-top: 2em;
+}
+
+.story-content .section-title {
+    font-size: 1.08em;
+    font-weight: 700;
+    color: #b7e36b;
+    margin: 1.6em 0 0.7em;
+    padding-bottom: 0.35em;
+    border-bottom: 1px solid rgba(183, 227, 107, 0.35);
+}
+
+.story-content > .section-title:first-child,
+.story-content .content-section > .section-title:first-child {
+    margin-top: 0;
+}
+
+.story-content .subsection-title {
+    font-weight: 700;
+    margin: 1.2em 0 0.4em;
+}
+
+.story-content ul,
+.story-content ol {
+    margin: 0 0 0.9em;
+    padding-left: 1.3em;
+}
+
+.story-content ul {
+    list-style: disc;
+}
+
+.story-content ol {
+    list-style: decimal;
+}
+
+.story-content ul ul {
+    list-style: circle;
+    margin: 0.4em 0 0;
+}
+
+.story-content li {
+    margin-bottom: 0.45em;
+}
+
+.story-content li:last-child {
+    margin-bottom: 0;
+}
+
+.story-content strong {
+    color: #ffffff;
+}
+
+.story-content .highlight {
+    color: #b7e36b;
+    font-weight: 700;
+}
+
+.story-content .emphasis {
+    margin-top: 1em;
+    padding: 0.6em 0.9em;
+    border-left: 3px solid #b7e36b;
+    background: rgba(183, 227, 107, 0.08);
+}
+
+.story-content .role-quote {
+    font-style: italic;
+    color: #c9d1d6;
+    margin-bottom: 1em;
+}
+
+.story-content .intro-narrative p {
+    margin-bottom: 1em;
+}
+
+.story-content .timeline-list li {
+    margin-bottom: 0.6em;
+}
+
+.story-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.4em 0 1em;
+    font-size: 0.92em;
+}
+
+.story-content th,
+.story-content td {
+    padding: 0.45em 0.6em;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    text-align: left;
+}
+
+.story-content th {
+    color: #b7e36b;
+    font-weight: 700;
+}
+
+.intro-section .intro-title-cinematic {
+    font-size: 1.3em;
+    font-weight: 700;
+    margin-bottom: 0.8em;
+}
+
+.intro-section p {
+    margin: 0 0 0.8em;
+    line-height: 1.75;
+}
+
+.intro-section .emphasis {
+    color: #b7e36b;
+}
+
+.story-content .role-notice {
+    margin: 0 0 1.8em;
+    padding: 0.9em 1.1em;
+    border: 1px solid rgba(255, 107, 107, 0.6);
+    border-radius: 8px;
+    background: rgba(255, 107, 107, 0.08);
+    text-align: center;
+}
+
+.story-content .role-notice.innocent {
+    border-color: rgba(183, 227, 107, 0.6);
+    background: rgba(183, 227, 107, 0.08);
+}
+
+.story-content .role-notice .role-label {
+    font-size: 0.85em;
+    color: #c9d1d6;
+    margin-bottom: 0.3em;
+}
+
+.story-content .role-notice .role-text {
+    font-size: 1.15em;
+    font-weight: 700;
+}
+
+.story-content .is-culprit {
+    color: #ff6b6b;
+}
+
+.story-content .is-innocent {
+    color: #b7e36b;
+}

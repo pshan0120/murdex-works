@@ -24,7 +24,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   <p class="role-quote">"그 글, 제 얘기 아니에요."</p>
   <ul>
     <li><strong>소속</strong>: 사료관리팀</li>
-    <li><strong>직급</strong>: 사원</li>
+    <li><strong>직급</strong>: 사원/사료관리팀</li>
     <li><strong>외형</strong>: 키 160cm대 초반, 마른 체격, 어깨 길이 머리를 뒤로 느슨하게 묶음</li>
     <li><strong>복장</strong>: 흰 블라우스, 코랄 카디건, 새 사원증</li>
   </ul>
@@ -189,7 +189,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <strong>20:00 ~ 20:05</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장도 담배를 피우겠다며 나가자, <span class="character-yoojeongseok">유정석</span>이 잠깐 쉬자고 함. 1층 여자화장실로 감. 화장실 밖 계단 쪽에서 남자가 낮은 목소리로 통화하는 소리가 들림. 내용은 알아듣지 못함
       </li>
       <li>
-        <strong>20:05 ~ 20:10</strong>: 화장실 창문 너머 바깥 어딘가에서, 딱딱한 것끼리 부딪히는 듯한 소리가 어렴풋이 들림. 화장실을 나와 회의실로 돌아가는 길에, 계단 왼쪽 구석에서 통화 중인 <span class="character-yoojeongseok">유정석</span> 옆을 지나감. 무슨 얘기인지는 듣지 못함. 회의실에는 <span class="character-nohyeongcheol">노형철</span>이 혼자 있었고, 곧 <span class="character-yoojeongseok">유정석</span>도 돌아옴. 이어서 <span class="character-parkhyesu">박혜수</span>도 돌아옴. 안색이 몹시 창백했음
+        <strong>20:05 ~ 20:10</strong>: 화장실 창문 너머 바깥 어딘가에서, 딱딱한 것끼리 부딪히는 듯한 소리가 어렴풋이 들림. 화장실을 나와 회의실로 돌아감. 아까 통화하던 사람은 계단 쪽에 보이지 않았음. 회의실에는 <span class="character-nohyeongcheol">노형철</span>이 혼자 있었고, 조금 뒤 <span class="character-yoojeongseok">유정석</span>이 돌아옴. 이어서 <span class="character-parkhyesu">박혜수</span>도 돌아옴. 안색이 몹시 창백했음
       </li>
       <li>
         <strong>20:10 ~ 20:15</strong>: <span class="character-jeonghyeongmi">정형미</span> 차장이 돌아옴. 들어서다 잠깐 멈칫하는 것 같았지만, 곧바로 미팅을 마무리하고 다들 퇴근하라고 함. 탕비실 냉장고에 넣어둔 케이크가 생각나, 짐을 챙겨 오겠다고 말하고 2층으로 올라감. 사료관리팀 사무실에서 창틀에 기댄 채 쓰러져 있는 <span class="character-hadohoon">하도훈</span>을 발견하고 비명을 지름. 다들 2층으로 뛰어 올라옴
@@ -254,7 +254,6 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
 <ul>
   <li><strong>아버지</strong>: 당신은 창업 멤버 <span class="character-jeongtaeho">정태호</span>의 딸이고, 이 건물에서 아버지의 이름이 나오는 기록을 찾고 있다. 면접에서도, 입사한 뒤에도 말하지 않았다.</li>
   <li><strong>분류 일지</strong>: 분류 일지에 당신이 뒤진 자료가 그대로 적혀 있다. 어제 <span class="character-hadohoon">하도훈</span>이 그 일지를 봤다며 옛날 자료 얘기를 꺼냈다. 그가 무엇을 봤는지는 모른다.</li>
-  <li><strong>저울추 상자</strong>: 사무실 구석의 소장품 상자는 어제 당신에게 넘어왔다. 목록에 담당자로 이름이 적혀 있지만 저울추 개수는 아직 세어 보지 않았다.</li>
   <li><strong>사물함</strong>: 2층 사물함의 번호는 아버지의 사번 02002다. 안에 아버지가 누군가와 함께 찍힌 옛 사진과 아버지의 옛 명함이 있다.</li>
 </ul>
 
@@ -271,8 +270,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
       </li>
       <li>
         <strong>당신이 듣고 본 것</strong>: 20:00 ~ 20:05 사이 화장실 밖에서 들린 통화 목소리, 20:05 ~ 20:10 사이
-        창밖에서 들린 딱딱한 소리, 그리고 돌아오는 길에 계단 구석에서 통화하던
-        <span class="character-yoojeongseok">유정석</span>. 다른 사람들의 행적과 맞춰보면 무언가 보일지도
+        창밖에서 들린 딱딱한 소리, 그리고 돌아오는 길에 아무도 없던 계단 쪽. 다른 사람들의 행적과 맞춰보면 무언가 보일지도
         모른다. 언제, 누구에게 꺼낼지는 당신이 정한다.
       </li>
       <li>

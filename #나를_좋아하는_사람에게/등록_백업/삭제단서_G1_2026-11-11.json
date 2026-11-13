@@ -1,0 +1,78 @@
+{
+ "clue": [
+  {
+   "clue_id": "b5ee6209-adcd-5e8d-9174-05f6dc17a3a3",
+   "story_id": "7f71ed57-6b1d-4e54-9921-a11be7f511b6",
+   "group_id": "8f5bc49f-5593-5033-9828-8e7e26aab887",
+   "clue_type": "TESTIMONY",
+   "importance_level": "MEDIUM",
+   "is_revealable": "1",
+   "is_exchangeable": "1",
+   "is_hidden_possession": "0",
+   "ap_cost": "1",
+   "clue_order": "440",
+   "is_acquirable": "1",
+   "is_disposable_read": "0",
+   "has_acquisition_condition": "0",
+   "acquisition_condition": null,
+   "created_at": "2026-11-05 02:17:10",
+   "updated_at": "2026-11-05 02:17:10"
+  }
+ ],
+ "clue_variant": [
+  {
+   "variant_id": "32dc7bd3-50d7-5707-a62d-f0fa255bee16",
+   "clue_id": "b5ee6209-adcd-5e8d-9174-05f6dc17a3a3",
+   "clue_name": "경비원의 말#1",
+   "variant_type": "DEFAULT",
+   "clue_content": "<div class=\"story-content\">\n  <p>\"해가 지고 나서 이따금 찾아오는 손님이 있었습니다.\"</p>\n  <p>어떤 사람이냐고 묻자, 말을 아끼며 누군가의 눈치를 본다.</p>\n</div>",
+   "clue_image_url": null,
+   "is_default": "1",
+   "passcodes": null,
+   "passcode_ap_cost": "0",
+   "passcode_question_html": null,
+   "priority": "0",
+   "created_at": "2026-11-05 02:17:10",
+   "updated_at": "2026-11-05 02:17:10"
+  }
+ ],
+ "clue_display_state_rule": [
+  {
+   "rule_id": "6dbe8893-40b4-5f42-a4c9-833d5aa9a894",
+   "clue_id": "b5ee6209-adcd-5e8d-9174-05f6dc17a3a3",
+   "trigger_step_id": null,
+   "target_display_state": "HIDDEN",
+   "variant_id": null,
+   "created_at": "2026-11-05 02:17:10",
+   "updated_at": "2026-11-05 02:17:10"
+  },
+  {
+   "rule_id": "dd82385c-cab4-51f6-b350-91cd01c57ae4",
+   "clue_id": "b5ee6209-adcd-5e8d-9174-05f6dc17a3a3",
+   "trigger_step_id": "758b06eb-8f4a-58e8-ab86-788eebc48efd",
+   "target_display_state": "VISIBLE_BACK",
+   "variant_id": "32dc7bd3-50d7-5707-a62d-f0fa255bee16",
+   "created_at": "2026-11-05 02:17:10",
+   "updated_at": "2026-11-05 02:17:10"
+  }
+ ],
+ "clue_acquisition_condition": [],
+ "room_clue": [
+  {
+   "room_clue_id": "91d2f221-910d-49ec-a958-05ed09143ba9",
+   "room_id": "7da6912f-095f-4734-9547-9dbf4f469701",
+   "clue_id": "b5ee6209-adcd-5e8d-9174-05f6dc17a3a3",
+   "step_id": "1539dad8-ccba-55cc-a653-53741e232e34",
+   "current_variant_id": "32dc7bd3-50d7-5707-a62d-f0fa255bee16",
+   "is_placed": "b'\\x00'",
+   "revealed_to_role_id": null,
+   "revealed_to_member_id": null,
+   "action_type": "REVEALED",
+   "action_by_member_id": null,
+   "action_note": null,
+   "display_state": "HIDDEN",
+   "created_at": "2026-11-10 22:26:17",
+   "updated_at": "2026-11-10 22:26:17"
+  }
+ ]
+}

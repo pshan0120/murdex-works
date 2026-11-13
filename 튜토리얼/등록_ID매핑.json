@@ -1,0 +1,203 @@
+{
+ "story_id": "0c0e32a8-4136-53ca-902a-1a118c43ca96",
+ "roles": {
+  "서지훈": "2b6fb73c-1dfa-5389-a8c5-e32a64d73bea",
+  "정민재": "e0a5bcef-3aca-5040-9d68-8d8f1c7a1f22",
+  "최유나": "ca1fa496-3b0d-507a-a71f-908025b176fb",
+  "오하린": "c59f9e0e-cbbf-5a3d-bdd5-9919c638fd5e"
+ },
+ "steps": {
+  "시작": "8b51365a-13dd-55d1-8dd9-f245ade450b5",
+  "자기소개": "20e1f8f1-bdcd-58d6-be13-d8a7952d8eef",
+  "1차 조사": "6111dc8c-9d33-5736-be86-f2461bf5ebc6",
+  "중간 토론": "6ccf30c1-8248-54e1-82eb-805c8e99ea7a",
+  "2차 조사": "d268aee4-f556-5f7c-96de-f303adf647fd",
+  "최종 토론": "80220c43-1e1b-514d-8470-a361aa090132",
+  "투표": "c06f793c-d812-5172-bbb0-c5fc78d71259",
+  "결말": "290e87f5-0ca9-5539-ab9a-6d96bf32ebd8"
+ },
+ "groups": {
+  "창고": "df85c3fe-e3cb-5a82-843b-3d237b29ddfb",
+  "카운터": "3004cc40-7f72-57b8-ac55-0d65d1307653",
+  "뒷골목": "260fc805-3cf2-5ba8-9ce6-49a89d1ae2ba",
+  "서지훈에 대하여": "abe86549-36bf-5b8e-9ddc-f69f8062b786",
+  "정민재에 대하여": "b557a776-0652-5501-96c6-460263b3e784",
+  "최유나에 대하여": "f1bacf59-644b-51f6-84db-663e6499c620",
+  "오하린에 대하여": "b151590e-91a5-53f2-8e8f-f9650bc45dee"
+ },
+ "clues": {
+  "A1": {
+   "clue_id": "5e6d48c1-712a-5827-bcbb-f763f5bf7610",
+   "variant_id": "f0a69fd2-99b1-542e-9f23-41f012de48f9",
+   "name": "시신"
+  },
+  "A2": {
+   "clue_id": "163f0ce5-50ba-596c-936c-ba14913ec1d8",
+   "variant_id": "b12b3249-af6f-5b3c-9e8d-f344b55cc6c0",
+   "name": "창고 바닥"
+  },
+  "A3": {
+   "clue_id": "d3ca3fc9-03b5-5e14-b4cd-998998daf8d7",
+   "variant_id": "ca7aa6b1-e68b-50c7-97e7-932a9307aee7",
+   "name": "대걸레"
+  },
+  "A4": {
+   "clue_id": "c2f80332-6b60-504e-bc8b-361afa0f5c9f",
+   "variant_id": "65b69179-fe36-5f42-8255-039d0ba201f4",
+   "name": "납품 전표"
+  },
+  "A5": {
+   "clue_id": "b6e53120-8fb2-5139-b139-107d62ee0e5f",
+   "variant_id": "8ba1f4e4-2099-53b6-8c61-584746334e87",
+   "name": "담배 상자"
+  },
+  "A6": {
+   "clue_id": "d753aa37-2a3e-5995-9335-a3d4587ed989",
+   "variant_id": "e4de8353-b33e-54a7-a9af-4b44de5e46bd",
+   "name": "뒷문 도어락"
+  },
+  "A7": {
+   "clue_id": "8efa68e5-6d34-54ff-a7ca-c251b00cd694",
+   "variant_id": "ffad7b02-ad4a-5c59-acef-f4f4dd216982",
+   "name": "바닥에 떨어진 휴대폰"
+  },
+  "A8": {
+   "clue_id": "89d03eee-73c7-5696-9fc4-7370672c8b9a",
+   "variant_id": "6853c621-de0a-568d-ade8-96e28fe39007",
+   "name": "소화기 거치대"
+  },
+  "B1": {
+   "clue_id": "63ab40bd-8f12-5418-9b54-f124e1f55773",
+   "variant_id": "4fee53fb-b516-55dc-b8f7-ac10a04f9238",
+   "name": "POS 결제 내역"
+  },
+  "C1": {
+   "clue_id": "ee558785-9b5b-519c-87da-29bd6c20371f",
+   "variant_id": "02f62ea0-457f-5b31-9a83-22a2dd11ced9",
+   "name": "사무실 PC"
+  },
+  "C4": {
+   "clue_id": "bc680c74-b806-5ca9-8a7b-42db938ec569",
+   "variant_id": "9005754c-5c31-57c6-9087-a650b97be37c",
+   "name": "현금 점검표"
+  },
+  "C3": {
+   "clue_id": "2208ba44-494d-5123-a7e5-707fa934292d",
+   "variant_id": "51cb0330-8e1f-55c6-ad08-f6b45224f068",
+   "name": "책상 서랍"
+  },
+  "C5": {
+   "clue_id": "52b8bac6-171d-5268-82b5-1794134a9fb6",
+   "variant_id": "40d99e41-7154-57c4-a69e-5239a040b264",
+   "name": "서류철"
+  },
+  "K1": {
+   "clue_id": "4cb084ed-baba-5149-ac0c-a5805d1a7710",
+   "variant_id": "8f64305c-30fd-50b3-a279-2936f67b841f",
+   "name": "서지훈에 대하여#1"
+  },
+  "L1": {
+   "clue_id": "ede8cff6-4253-54f4-a2b5-53250980ef4f",
+   "variant_id": "c77b4a9b-8f8c-5549-8684-4d2e66d7df51",
+   "name": "서지훈에 대하여#2"
+  },
+  "N1": {
+   "clue_id": "84438cdb-b188-53d5-9e96-8d616899d28f",
+   "variant_id": "bef0cfab-e1bc-5c88-a426-80ae5f83bb51",
+   "name": "정민재에 대하여#1"
+  },
+  "K2": {
+   "clue_id": "a725c26f-b4e7-5136-97ff-251b66214f6a",
+   "variant_id": "c1b78d24-675d-57a9-bb77-e37f19dab7a7",
+   "name": "정민재에 대하여#2"
+  },
+  "D1": {
+   "clue_id": "8a0dc05e-dd8e-5967-aac9-590e97a248d2",
+   "variant_id": "d72b212c-3402-5966-98bb-11b85b0eb451",
+   "name": "최유나에 대하여#1"
+  },
+  "S1": {
+   "clue_id": "fd5137a3-dbb7-5cca-a861-5ca6411b5bdd",
+   "variant_id": "81ceb1f0-ea6b-5924-a46e-f48bcf33ee6d",
+   "name": "최유나에 대하여#2"
+  },
+  "K4": {
+   "clue_id": "23570eef-6a66-55b6-ba5f-c9e2d91e93f0",
+   "variant_id": "570fc20f-5132-53e1-9345-2494533b7207",
+   "name": "오하린에 대하여#1"
+  },
+  "S2": {
+   "clue_id": "69af03ad-6fb2-572f-b3ee-0efff9c39c96",
+   "variant_id": "b693387c-d2ca-5ad0-8863-76a1717af82e",
+   "name": "오하린에 대하여#2"
+  },
+  "E1": {
+   "clue_id": "402440b7-96e2-5315-b80b-1926bcbe07ae",
+   "variant_id": "06182e96-4d91-5c9b-9bd4-4f086f4aaebe",
+   "name": "냉장고 안쪽"
+  },
+  "G1": {
+   "clue_id": "2edeb67b-635d-50f3-aafa-750ee9496d49",
+   "variant_id": "c5328958-4123-551f-8792-d2c9bd0a4992",
+   "name": "CCTV 녹화기"
+  },
+  "F3": {
+   "clue_id": "13d9ca7e-b519-5e18-bd53-af4e3a4987e6",
+   "variant_id": "01f658f3-1b24-5ec3-98fc-f36fada169d4",
+   "name": "트럭",
+   "modified_variant_id": "662f8c2a-4fa1-5f0e-86d8-b2e46cb119cd"
+  },
+  "M1": {
+   "clue_id": "520e94c3-2eca-5bc0-977a-adfffe42670c",
+   "variant_id": "eed3de1e-cff7-53c0-9dee-8c4b78974693",
+   "name": "뒷골목 계단"
+  },
+  "L2": {
+   "clue_id": "ef8b4ef1-cd9f-515f-8a2e-2bad40c977f5",
+   "variant_id": "0392bb41-b180-58c9-9708-6fbef13f857d",
+   "name": "서지훈에 대하여#3"
+  },
+  "N2": {
+   "clue_id": "b9f86286-c6d3-5a4c-a8c2-c97c4ca28989",
+   "variant_id": "08ae86e8-2b0d-595e-a826-d588591371f2",
+   "name": "정민재에 대하여#3"
+  },
+  "L3": {
+   "clue_id": "2165349e-366d-5b97-8964-ff4aaf96b651",
+   "variant_id": "1d961fa0-6a5c-5681-b06e-fb0c2ecdd0ed",
+   "name": "최유나에 대하여#3"
+  },
+  "L4": {
+   "clue_id": "59dabc1f-4320-52d7-a6a2-abf3fe9eec21",
+   "variant_id": "b54243fb-6594-5c79-ad84-b16d37b4b20a",
+   "name": "오하린에 대하여#3"
+  }
+ },
+ "actions": {
+  "메모리 카드 빼기": "316f8140-36c8-54dc-90d8-60d49ac4508b"
+ },
+ "questions": {
+  "Q1": "6519e20d-fcc7-5b85-96ba-543687ec527c",
+  "Q2": "418771bb-f9e9-5e07-bbc5-67e59308822c"
+ },
+ "options": {
+  "Q1": {
+   "서지훈": "ee7f1dd1-f5a5-5930-a884-24df498e1913",
+   "정민재": "a41a2554-283c-5d44-91bb-47989765c0e0",
+   "최유나": "ed773588-5aa6-5031-9236-145a3d94ed00",
+   "오하린": "fdcc6375-96b5-5c9e-a8ef-7568feb91c95"
+  },
+  "Q2": {
+   "소화기": "1fe6aebf-3df1-5695-9895-71cc80f0466f",
+   "대걸레 자루": "e74160c8-ed6e-521e-bca8-dbc1888eed26",
+   "양동이": "63363d7d-08ab-5656-89a3-fa3084be7227",
+   "알 수 없다": "9b4a39f1-7a29-5a7e-bab2-541a3e5f57ac"
+  }
+ },
+ "endings": {
+  "A": "a01c03e3-23ef-5d87-9888-76d191b0d364",
+  "B": "6669b849-b6f1-5000-b3d5-a6789bd55a22",
+  "C": "5bc7ae85-2b3b-579f-814c-eb74dbef71d3",
+  "Z0": "bce62f4b-622c-5452-aefd-23f7a72607ae"
+ }
+}

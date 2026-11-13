@@ -1,0 +1,33 @@
+StoryID : 0c0e32a8-4136-53ca-902a-1a118c43ca96
+StepID : c06f793c-d812-5172-bbb0-c5fc78d71259
+
+1. 순서
+7
+
+2. 단계 이름
+투표
+
+3. 단계 유형
+CONCLUSION
+
+4. 예상 소요 시간
+3분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Sparse suspenseful ambience, rain fading to a light drizzle, soft heartbeat-like low pulse, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 질문
+texts/최종질문.txt의 Q1, Q2를 이 단계에 등록한다.
+
+8. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 투표</div>
+  <p>아래 두 질문에 답해 주세요. 네 사람이 모두 답하면 결과가 나옵니다.</p>
+  <p>표가 똑같이 갈리면 다시 투표합니다.</p>
+</div>

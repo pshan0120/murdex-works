@@ -1,0 +1,21 @@
+{
+ "thumbnail_url": "https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559614/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/thumbnail/c6047a2e-222c-4f0e-b031-f639619888c0/file_xhzgha.jpg",
+ "intro_cutscenes": {
+  "1": [
+   {
+    "id": "85aabcd7-c780-4f5e-b652-a0f514822860",
+    "type": "IMAGE",
+    "caption": "7월, 장마가 한창인 새벽. 큰길가 편의점 하나만 불을 켜 두고 있다.",
+    "autoPlay": false,
+    "mediaUrl": "https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559617/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/step_intro/c6047a2e-222c-4f0e-b031-f639619888c0/file_pty3e3.jpg",
+    "durationSeconds": 4
+   }
+  ]
+ },
+ "roles": {
+  "서지훈": "https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559795/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/role/c6047a2e-222c-4f0e-b031-f639619888c0/file_ebixju.jpg",
+  "정민재": "https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559807/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/role/c6047a2e-222c-4f0e-b031-f639619888c0/file_ubibi0.jpg",
+  "최유나": "https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559810/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/role/c6047a2e-222c-4f0e-b031-f639619888c0/file_ggg6be.jpg",
+  "오하린": "https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559813/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/role/c6047a2e-222c-4f0e-b031-f639619888c0/file_roibai.jpg"
+ }
+}

@@ -1,0 +1,34 @@
+StoryID : 0c0e32a8-4136-53ca-902a-1a118c43ca96
+StepID : 290e87f5-0ca9-5539-ab9a-6d96bf32ebd8
+
+1. 순서
+8
+
+2. 단계 이름
+결말
+
+3. 단계 유형
+EPILOGUE
+
+4. 예상 소요 시간
+2분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Gentle melancholic piano over light dawn rain, the storm passing, quiet and reflective, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 엔딩
+texts/엔딩.txt의 판정 규칙과 엔딩을 이 단계에 등록한다.
+
+8. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 결말</div>
+  <p>투표 결과에 따라 결말이 정해졌습니다. 아래 결말을 읽고, 이어서 <span class="highlight">그날 밤의 진실</span>을 확인해 보세요.</p>
+  <div class="section-title">2. 플레이해 주셔서 고맙습니다</div>
+  <p>범인을 맡았던 분이 어떻게 버텼는지, 각자 어떤 비밀을 숨기고 있었는지 함께 이야기해 보세요. 머더 미스터리는 끝난 뒤의 이 대화도 즐거움의 절반입니다.</p>
+</div>
