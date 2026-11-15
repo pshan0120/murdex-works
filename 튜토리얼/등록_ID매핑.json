@@ -101,9 +101,9 @@
    "variant_id": "c77b4a9b-8f8c-5549-8684-4d2e66d7df51",
    "name": "서지훈에 대하여#2"
   },
-  "N1": {
-   "clue_id": "84438cdb-b188-53d5-9e96-8d616899d28f",
-   "variant_id": "bef0cfab-e1bc-5c88-a426-80ae5f83bb51",
+  "N2": {
+   "clue_id": "b9f86286-c6d3-5a4c-a8c2-c97c4ca28989",
+   "variant_id": "08ae86e8-2b0d-595e-a826-d588591371f2",
    "name": "정민재에 대하여#1"
   },
   "K2": {
@@ -116,9 +116,9 @@
    "variant_id": "d72b212c-3402-5966-98bb-11b85b0eb451",
    "name": "최유나에 대하여#1"
   },
-  "S1": {
-   "clue_id": "fd5137a3-dbb7-5cca-a861-5ca6411b5bdd",
-   "variant_id": "81ceb1f0-ea6b-5924-a46e-f48bcf33ee6d",
+  "L3": {
+   "clue_id": "2165349e-366d-5b97-8964-ff4aaf96b651",
+   "variant_id": "1d961fa0-6a5c-5681-b06e-fb0c2ecdd0ed",
    "name": "최유나에 대하여#2"
   },
   "K4": {
@@ -126,9 +126,9 @@
    "variant_id": "570fc20f-5132-53e1-9345-2494533b7207",
    "name": "오하린에 대하여#1"
   },
-  "S2": {
-   "clue_id": "69af03ad-6fb2-572f-b3ee-0efff9c39c96",
-   "variant_id": "b693387c-d2ca-5ad0-8863-76a1717af82e",
+  "L4": {
+   "clue_id": "59dabc1f-4320-52d7-a6a2-abf3fe9eec21",
+   "variant_id": "b54243fb-6594-5c79-ad84-b16d37b4b20a",
    "name": "오하린에 대하여#2"
   },
   "E1": {
@@ -157,19 +157,19 @@
    "variant_id": "0392bb41-b180-58c9-9708-6fbef13f857d",
    "name": "서지훈에 대하여#3"
   },
-  "N2": {
-   "clue_id": "b9f86286-c6d3-5a4c-a8c2-c97c4ca28989",
-   "variant_id": "08ae86e8-2b0d-595e-a826-d588591371f2",
+  "N1": {
+   "clue_id": "84438cdb-b188-53d5-9e96-8d616899d28f",
+   "variant_id": "bef0cfab-e1bc-5c88-a426-80ae5f83bb51",
    "name": "정민재에 대하여#3"
   },
-  "L3": {
-   "clue_id": "2165349e-366d-5b97-8964-ff4aaf96b651",
-   "variant_id": "1d961fa0-6a5c-5681-b06e-fb0c2ecdd0ed",
+  "S1": {
+   "clue_id": "fd5137a3-dbb7-5cca-a861-5ca6411b5bdd",
+   "variant_id": "81ceb1f0-ea6b-5924-a46e-f48bcf33ee6d",
    "name": "최유나에 대하여#3"
   },
-  "L4": {
-   "clue_id": "59dabc1f-4320-52d7-a6a2-abf3fe9eec21",
-   "variant_id": "b54243fb-6594-5c79-ad84-b16d37b4b20a",
+  "S2": {
+   "clue_id": "69af03ad-6fb2-572f-b3ee-0efff9c39c96",
+   "variant_id": "b693387c-d2ca-5ad0-8863-76a1717af82e",
    "name": "오하린에 대하여#3"
   }
  },

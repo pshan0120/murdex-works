@@ -14,10 +14,10 @@ RoleID : ca1fa496-3b0d-507a-a71f-908025b176fb
 "위층에 살아요. 잠깐 일하러 내려왔어요." 창가 자리의 단골손님.
 
 5. 이미지생성용 프롬프트
-Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject placed slightly left of center. A Korean woman around 30, a freelance translator who works late at night. Shoulder-length black hair loosely tied back, a few strands falling over her face, calm but sleepless eyes, a guarded, unreadable expression. She wears an oversized dark cardigan over a plain T-shirt, a pen tucked behind one ear. Background: a convenience store window seat at night, an open laptop and a paper cup of coffee on the narrow counter, heavy rain and blurred streetlights outside the glass. Korean webtoon style illustration, clean confident line art, cel shading with soft gradients, slightly stylized proportions, expressive eyes, muted night palette of deep navy and cool fluorescent white with a single lime-green accent. No text, no letters, no words.
+Square aspect ratio, 1:1. Waist-up portrait, three-quarter view, subject centered. A Korean woman around 30, a freelance translator who works late at night. Shoulder-length black hair loosely tied back, a few strands falling over her face, calm but sleepless eyes, a guarded, unreadable expression. She wears an oversized dark cardigan over a plain T-shirt, a pen tucked behind one ear. Background: a convenience store window seat at night, an open laptop and a paper cup of coffee on the narrow counter, heavy rain and blurred streetlights outside the glass. Korean webtoon style illustration, clean confident line art, cel shading with soft gradients, slightly stylized proportions, expressive eyes, muted night palette of deep navy and cool fluorescent white with a single lime-green accent. No text, no letters, no words.
 
 6. 역할 이미지
-https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559810/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/role/c6047a2e-222c-4f0e-b031-f639619888c0/file_ggg6be.jpg
+https://res.cloudinary.com/dkzctfx9z/image/upload/v1794733556/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/role/c6047a2e-222c-4f0e-b031-f639619888c0/file_xnkgeg.jpg
 
 6-1. 공개 정보
 <div class="story-content">
@@ -59,7 +59,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559810/murdex/images/0c0e
     <div class="section-title">당신이 아는 것</div>
     <ul>
       <li><strong>창가 자리</strong>: 1시 반부터 줄곧 정문이 보이는 창가 테이블에 앉아 있었다. 누가 정문으로 드나들었는지는 당신이 가장 잘 안다.</li>
-      <li><strong>뒷문</strong>: 3층으로 올라가는 건물 입구는 편의점과 따로 있다. 편의점 창고 뒷문의 비밀번호는 모른다.</li>
+      <li><strong>뒷문</strong>: 3층으로 올라가는 건물 입구는 편의점과 따로 있다. 편의점 창고 뒷문 비밀번호는 앞 두 자리 "15"까지만 안다. 끝까지 눌러 본 적은 없다.</li>
     </ul>
   </section>
 
@@ -87,12 +87,15 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559810/murdex/images/0c0e
       </p>
       <p>
         경찰은 다시 조사할 이유가 없다고 했고, 변호사는 차용증이 없으면 돈도 받아 내기 어렵다고 했다. 당신은 넉 달 전
-        이 건물 3층 원룸으로 이사 왔다. 그날 밤 무슨 일이 있었는지 그 사람 입으로 듣고 싶었다. 새벽마다 노트북을 들고 내려와 창가에 앉았다.
+        이 건물 3층 원룸으로 이사 왔다. 그날 밤 무슨 일이 있었는지 그 사람 입으로 듣고 싶었다. 새벽마다 노트북을 들고 내려와 창가에 앉았다. 지켜보다 보니 점주는 화요일과 금요일 새벽 2시 납품이 끝나면 혼자 창고 바닥을 닦았다.
+        그때라면 둘이서만 이야기할 수 있을 것 같아 메모지에 적어 카디건 주머니에 넣어 두었다.
         <span class="character-ohseongtaek">오성택</span>은 당신이 누구인지 알고 있었고, 볼 때마다 못 본 척했다.
       </p>
       <p>
         사흘 전은 아버지의 첫 기일이었다. 당신은 건물 뒤 비상계단 옆 가스 배관에 국화 한 다발을 묶어 두었다.
-        리본에는 "아빠"라고만 적었다. 꽃은 그새 빗속에서 시들었다.
+        리본에는 "아빠"라고만 적었다. 꽃은 그새 빗속에서 시들었다. 그날 골목에서 쓰레기를 내놓고 들어가던 알바생이
+        뒷문 비밀번호를 누르는 것을 어깨 너머로 봤다. 앞 두 자리 "15"까지만 보였다. 점주가 혼자 창고에 있을 때 들어가 따질 수 있을까 싶어
+        수첩 맨 뒤에 적어 두었지만, 끝내 눌러 보지는 않았다.
       </p>
       <p>
         지난주 새벽, 사무실 앞에서 또 말을 꺼냈다. "증거 있어요? 없으면 그만 와요." 그 말에 참았던 것이 터졌다.
@@ -113,7 +116,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559810/murdex/images/0c0e
       <li><strong>02:05</strong> 오늘도 말 한마디 못 붙일 것 같아 속이 끓었다. 노트북 메신저로 친구 수진에게 보냈다. "오늘은 꼭 그 사람 입으로 들을 거야. 안 되면 나도 내가 무슨 짓을 할지 모르겠어."</li>
       <li><strong>02:10쯤</strong> 점주가 창고에서 나와 청소도구함에서 대걸레와 양동이를 꺼내 다시 창고로 들어갔다. 점주가 나오면 붙잡으려고 기다렸다.</li>
       <li><strong>02:20쯤</strong> 남자 손님 한 명이 정문으로 들어와 담배를 사서 금방 나갔다.</li>
-      <li><strong>02:24쯤</strong> 기다리다 지쳐서 카운터에서 아메리카노를 주문하고 카드로 계산했다. 영수증은 주머니에 넣었다.</li>
+      <li><strong>02:24쯤</strong> 기다리다 지쳐서 카운터에서 아메리카노를 주문하고 카드로 계산했다. 자리로 돌아오다 커피를 조금 흘려 영수증 한쪽이 젖었다. 구겨서 주머니에 넣었다.</li>
       <li><strong>02:40</strong> 창고 쪽에서 비명이 들려 매장 쪽 문 앞으로 달려갔다. 문턱 너머로 쓰러진 점주가 보였다. 안으로 들어가지는 않았다. 가방은 창가 의자에 그대로 두고 왔다.</li>
       <li><strong>02:45</strong> 비에 흠뻑 젖은 남자가 정문으로 들어왔다. 납품 기사라고 했다.</li>
     </ul>
@@ -141,6 +144,8 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559810/murdex/images/0c0e
   <li><strong>유나슈퍼의 딸</strong>: 이 자리는 아버지의 가게였다. 점주는 잔금 4천만 원을 끝내 갚지 않았다.</li>
   <li><strong>7월 10일</strong>: 아버지는 이 가게에 다녀간 날 밤 뒤 골목 계단 아래에서 쓰러져 숨졌다. 당신은 점주가 밀었다고 믿는다. 알려지면 당신에게 복수할 이유가 있었다는 것이 드러난다.</li>
   <li><strong>기일의 국화</strong>: 사흘 전 아버지의 첫 기일에 건물 뒤 비상계단 옆 가스 배관에 국화를 묶어 두었다. 리본에 "아빠"라고 적었다. 그 꽃을 보면 당신이 뒷골목에 다녀갔다는 것도, 아버지가 그곳에서 쓰러졌다는 것도 알 수 있다.</li>
+  <li><strong>수첩의 "뒷문 15"</strong>: 사흘 전 알바생이 누르는 것을 어깨 너머로 보고 뒷문 비밀번호 앞 두 자리를 수첩 맨 뒤에 적어 두었다. 들키면 당신도 뒷문을 열 수 있었다는 의심을 받는다.</li>
+  <li><strong>주머니 속 메모</strong>: 카디건 주머니에 "화·금 2시 납품. 끝나면 혼자 창고 청소."라고 적은 메모지가 있다. 점주와 단둘이 이야기하려고 적어 둔 것이지만, 들키면 점주가 혼자 있을 때를 노렸다는 의심을 받는다.</li>
   <li><strong>지난주의 말</strong>: 사무실 앞에서 점주에게 "가만두지 않을 거예요"라고 소리쳤다.</li>
   <li><strong>2시 5분의 메시지</strong>: 친구에게 "안 되면 나도 내가 무슨 짓을 할지 모르겠어"라고 보냈다. 노트북 화면에 메신저 창이 그대로 열려 있다.</li>
   <li><strong>아버지의 수첩</strong>: 창가 의자 위 가방에 들어 있다. 잔금을 적어 둔 페이지를 접어 두었고, 마지막 장에는 당신이 그날 일을 적어 두었다.</li>
@@ -155,7 +160,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559810/murdex/images/0c0e
     <ul class="goal-list">
       <li><strong>범인 찾기</strong>: 당신은 점주를 죽이지 않았다. 범인을 찾아야 의심에서 벗어날 수 있다.</li>
       <li><strong>당신이 본 것</strong>: 정문으로 누가 드나들었는지, 점주가 언제 창고를 드나들었는지는 당신이 가장 잘 안다. 범인을 찾는 데 쓸모가 있다면 나눈다.</li>
-      <li><strong>영수증</strong>: 카디건 주머니에 2시 24분에 산 커피 영수증이 있다. "최유나에 대하여" 묶음에 들어 있어서 다른 사람이 찾아낼 수 있다. 당신이 그 시각 카운터에 있었다는 증거다.</li>
+      <li><strong>영수증</strong>: 카디건 주머니에 2시 24분에 산 커피 영수증이 있다. 커피에 젖어 시각은 번졌지만, 카드 끝자리는 읽힌다. "최유나에 대하여" 묶음에 들어 있고, 2차 조사에서 열린다. 다른 사람이 찾아낼 수 있다. 당신이 그 시각 카운터에 있었다는 증거다.</li>
       <li><strong>아버지 일</strong>: 되도록 숨긴다. 다만 숨기는 바람에 범인으로 몰릴 것 같다면 털어놓는 편이 낫다.</li>
     </ul>
   </section>
@@ -167,7 +172,8 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559810/murdex/images/0c0e
     <div class="section-title">목표 - <span class="character-choiyuna">최유나</span></div>
     <ul class="goal-list">
       <li><strong>뒷골목</strong>: 이번에는 뒷골목이 열린다. 비상계단 옆 국화가 나오면 당신이 뒷골목을 오간다는 의심을 받을 수 있다. 숨길지, 아버지 일을 털어놓고 오늘 밤에는 창가에 있었다고 밝힐지 정한다.</li>
-      <li><strong>범인 지목</strong>: 투표에서 "점주를 죽인 사람은 누구인가"와 "범행에 쓰인 물건은 무엇인가"에 답해야 한다. 모은 단서로 범인을 가려낸다.</li>
+      <li><strong>주머니 속 메모</strong>: "최유나에 대하여" 묶음에서 영수증과 함께 메모가 나올 수 있다. 점주가 혼자 있을 때를 노렸다는 말이 나오면, 따지려 했을 뿐 그 시각에는 카운터에서 커피를 샀다고 밝힐지 정한다.</li>
+      <li><strong>범인 지목</strong>: 투표에서 "점주를 죽인 사람은 누구인가"와 "점주가 공격당한 때는 언제인가"에 답해야 한다. 모은 단서로 범인을 가려낸다.</li>
     </ul>
   </section>
 </div>

@@ -14,10 +14,10 @@ RoleID : e0a5bcef-3aca-5040-9d68-8d8f1c7a1f22
 "반품 박스 받으러 왔는데요." 납품을 마치고 돌아온 물류 기사.
 
 5. 이미지생성용 프롬프트
-Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject placed slightly left of center. A sturdy Korean man in his early 40s, a delivery driver for a logistics company. Short cropped hair damp with rain, weathered face, a polite but guarded expression. He wears a gray work jacket with a small company patch, a towel around his neck, sleeves pushed up, bare hands. Background: a convenience store aisle at night with drink coolers glowing behind him, slightly out of focus, rain-streaked glass. Korean webtoon style illustration, clean confident line art, cel shading with soft gradients, slightly stylized proportions, expressive eyes, muted night palette of deep navy and cool fluorescent white with a single lime-green accent. No text, no letters, no words.
+Square aspect ratio, 1:1. Waist-up portrait, three-quarter view, subject centered. A sturdy Korean man in his early 40s, a delivery driver for a logistics company. Short cropped hair damp with rain, weathered face, a polite but guarded expression. He wears a gray work jacket with a small company patch, a towel around his neck, sleeves pushed up, bare hands. Background: a convenience store aisle at night with drink coolers glowing behind him, slightly out of focus, rain-streaked glass. Korean webtoon style illustration, clean confident line art, cel shading with soft gradients, slightly stylized proportions, expressive eyes, muted night palette of deep navy and cool fluorescent white with a single lime-green accent. No text, no letters, no words.
 
 6. 역할 이미지
-https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559807/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/role/c6047a2e-222c-4f0e-b031-f639619888c0/file_ubibi0.jpg
+https://res.cloudinary.com/dkzctfx9z/image/upload/v1794733553/murdex/images/0c0e32a8-4136-53ca-902a-1a118c43ca96/role/c6047a2e-222c-4f0e-b031-f639619888c0/file_zsjnky.jpg
 
 6-1. 공개 정보
 <div class="story-content">
@@ -158,7 +158,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559807/murdex/images/0c0e
   <li><strong>2시 16분의 전화</strong>: 점주가 2천만 원을 내일 아침까지 가져오지 않으면 경찰서에 가겠다고 했다. 당신 휴대폰 통화 목록에도 1분 12초짜리 통화가 남아 있다.</li>
   <li><strong>지갑 속 명세표</strong>: 지갑의 가족사진 뒤에 지난달 25일 점주에게 100만 원을 보낸 ATM 명세표가 접혀 있다.</li>
   <li><strong>2시 22분</strong>: 당신은 뒷문으로 다시 들어가 점주를 소화기로 내리쳤다. 소화기는 음료 냉장고 안 생수 박스 뒤에 있다.</li>
-  <li><strong>트럭 안</strong>: 조수석에 젖은 목장갑이 있다. 법원에서 온 서류 봉투도 조수석 발밑에 떨어져 있다. 운전석 발판에는 당신 안전화 자국이 찍혀 있고, 블랙박스에는 트럭에 타고 내린 시각이 남아 있다.</li>
+  <li><strong>트럭 안</strong>: 조수석에 젖은 목장갑이 있다. 법원에서 온 서류 봉투도 조수석 발밑에 떨어져 있다. 운전석 발판에는 당신 안전화 자국이 찍혀 있고, 블랙박스에는 움직임이 감지된 시각이 남아 있다.</li>
 </ul>
 
 9. 단계별 역할 지침
@@ -178,7 +178,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559807/murdex/images/0c0e
           <li>창고 바닥의 발자국이나 안전화 밑창: "납품하면서 창고를 몇 번이나 오갔어요. 제 발자국이 있는 게 당연하죠."</li>
           <li>뒷문 도어락 기록: "비밀번호 아는 사람이 저만은 아니잖아요. 저는 트럭에 있었어요."</li>
           <li>점주의 통화 기록이나 당신 휴대폰의 통화 목록: "반품 박스 얘기였어요. 2시 반 넘어서 오라고 하셨어요."</li>
-          <li>점주 통장의 입금 기록: "사장님한테 개인적으로 돈을 빌린 게 있어서 갚고 있었어요."</li>
+          <li>점주 통장의 입금 기록이나 지갑의 송금 명세표: "사장님한테 개인적으로 돈을 빌린 게 있어서 갚고 있었어요."</li>
         </ul>
       </li>
     </ul>
@@ -190,10 +190,10 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794559807/murdex/images/0c0e
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-jeongminjae">정민재</span></div>
     <ul class="goal-list">
-      <li><strong>메모리 카드</strong>: 2차 조사에서 뒷골목이 열리면 액션 "메모리 카드 빼기"를 쓸 수 있다. 트럭 블랙박스에서 메모리 카드를 빼낸다. 1 AP가 든다. 다른 사람이 "트럭" 단서를 먼저 조사하면 모두에게 공개되고 액션은 쓸 수 없으니, 쓰려면 서둘러야 한다.</li>
-      <li><strong>끝까지 버티기</strong>: 음료 냉장고 안쪽과 당신 트럭에 관한 단서가 열린다. 당신에게 불리한 것이 나올 수 있다. 목장갑은 물류 기사라면 누구나 낀다고 말할 수 있다. 법원 서류가 나오면 "다 끝난 일"이라고 넘긴다. 지갑의 송금 명세표가 나오면 "빌린 돈을 갚고 있었다"고 한다.</li>
+      <li><strong>메모리 카드</strong>: 2차 조사에서 뒷골목이 열리면 액션 "메모리 카드 빼기"를 쓸 수 있다. 트럭 블랙박스에서 메모리 카드를 빼낸다. 1 AP가 든다. 트럭 단서는 보드에 "뒷골목#1"로 보인다. 다른 사람이 먼저 조사하면 모두에게 공개되고 액션은 쓸 수 없으니, 쓰려면 서둘러야 한다.</li>
+      <li><strong>끝까지 버티기</strong>: 음료 냉장고 안쪽과 당신 트럭에 관한 단서가 열린다. 당신에게 불리한 것이 나올 수 있다. 목장갑은 물류 기사라면 누구나 낀다고 말할 수 있다. 법원 서류가 나오면 "다 끝난 일"이라고 넘긴다. 블랙박스 움직임 기록이 나오면 비바람에 차가 흔들렸거나 트럭 안에서 전표를 정리했다고 말할 수 있다. 당신 휴대폰 통화 목록이 나와 점주 휴대폰의 2시 16분 통화와 맞춰지면 "반품 박스 얘기였다"고 한다.</li>
       <li><strong>다른 사람의 사정</strong>: 이번 단계에는 다른 세 사람에 관한 단서도 하나씩 열린다. 그들에게 불리한 이야기가 나오면 놓치지 말고 짚는다.</li>
-      <li><strong>투표</strong>: 투표에서 다른 사람을 범인으로 지목한다. 흉기 질문에서도 사람들이 소화기를 고르지 않도록 이끌어 본다.</li>
+      <li><strong>투표</strong>: 투표에서 다른 사람을 범인으로 지목한다. 범행 시각 질문에서도 사람들이 2시 22분 무렵을 고르지 않도록 이끌어 본다.</li>
     </ul>
   </section>
 </div>

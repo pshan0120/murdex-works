@@ -1,4 +1,4 @@
-※ 늘푸른마트 살인사건 엔딩 (2026-11-12 초안, 사용자 검토 전, DB 미등록)
+※ 늘푸른마트 살인사건 엔딩 (2026-11-12 초안, 2026-11-15 단서 조정에 맞춰 해설 정리, DB 등록됨)
 ※ 대본 관리 기능은 쓰지 않고 엔딩 본문만으로 처리한다. 음성과 삽화는 없다.
 ※ EndingID는 등록_ID매핑.json 기준이다.
 ※ 오답으로 지목된 사람은 이름 없이 쓴다.
@@ -6,12 +6,12 @@
 =====================================================
 판정 규칙
 =====================================================
-질문은 texts/최종질문.txt가 정본이다. Q1 범인 투표, Q2 흉기 투표. 둘 다 최다 득표 답으로 판정한다.
+질문은 texts/최종질문.txt가 정본이다. Q1 범인 투표, Q2 범행 시각 투표. 둘 다 최다 득표 답으로 판정한다.
 
 큰 줄기 (하나만 붙는다)
 | 코드 | 제목 | 유형 | Q1 | Q2 |
-| A | 비 그친 아침 | TRUE_ENDING | 정민재 | 소화기 |
-| B | 반쪽짜리 진실 | NORMAL_ENDING | 정민재 | 소화기 아님 |
+| A | 비 그친 아침 | TRUE_ENDING | 정민재 | 2시 22분에서 24분 사이 |
+| B | 반쪽짜리 진실 | NORMAL_ENDING | 정민재 | 그 밖의 시각, 또는 동률 |
 | C | 빗속의 트럭 | BAD_ENDING | 정민재 아님 | 상관없음 |
 
 에필로그 (전원에게 조건 없이)
@@ -25,7 +25,7 @@
 제목: 비 그친 아침
 EndingID : a01c03e3-23ef-5d87-9888-76d191b0d364
 엔딩타입: TRUE_ENDING
-조건: Q1 = 정민재, Q2 = 소화기
+조건: Q1 = 정민재, Q2 = 2시 22분에서 24분 사이
 
 내용:
 <div class="story-content">
@@ -50,20 +50,20 @@ EndingID : a01c03e3-23ef-5d87-9888-76d191b0d364
 제목: 반쪽짜리 진실
 EndingID : 6669b849-b6f1-5000-b3d5-a6789bd55a22
 엔딩타입: NORMAL_ENDING
-조건: Q1 = 정민재, Q2 ≠ 소화기
+조건: Q1 = 정민재, Q2 ≠ 2시 22분에서 24분 사이
 
 내용:
 <div class="story-content">
   <p>
     네 시가 조금 넘어 경찰이 도착했다. 이야기를 들은 경찰은 <span class="character-jeongminjae">정민재</span>부터 따로 불러 앉혔다.
-    하지만 무엇으로 점주를 쳤는지 묻자 사람들의 답이 엇갈렸다.
+    하지만 언제 일이 벌어졌는지 묻자 사람들의 답이 엇갈렸다.
   </p>
   <p>
-    <span class="character-jeongminjae">정민재</span>는 창고에 다시 들어간 것만 인정했다. "얘기만 하고 나왔어요. 그때는 멀쩡하셨어요."
-    흉기를 찾지 못한 경찰은 창고를 통째로 봉쇄했다.
+    <span class="character-jeongminjae">정민재</span>는 그 틈을 놓치지 않았다. "그 시간엔 트럭에 있었어요. 다음 매장 전표를 정리하고 있었다고요."
+    사람마다 말하는 시각이 달라서, 경찰은 그 말을 바로 깨지 못했다.
   </p>
   <p>
-    소화기는 이틀 뒤 음료를 채우러 냉장고에 들어간 본사 직원이 찾아냈다. 그사이 <span class="character-jeongminjae">정민재</span>는
+    경찰이 도어락 기록과 청소 점검표를 다시 맞춰 보기까지 사흘이 걸렸다. 그사이 <span class="character-jeongminjae">정민재</span>는
     변호사를 구했다. 재판은 길어질 것이다.
   </p>
 </div>
@@ -118,18 +118,18 @@ EndingID : bce62f4b-622c-5452-aefd-23f7a72607ae
   <div class="section-title">이렇게 풀 수 있었습니다</div>
   <ul>
     <li><strong>창고 바닥과 청소 점검표</strong>: 점주는 2시 12분에 창고 바닥을 닦고 점검표에 서명했습니다. 그 뒤에 찍힌 발자국은 뒷문으로 오간 격자무늬와, 시신을 발견한 <span class="character-seojihun">서지훈</span>의 잔물결 무늬뿐이었습니다.</li>
-    <li><strong>뒷문 도어락</strong>: 2시 22분에 누군가 비밀번호로 뒷문을 열었습니다. 비밀번호를 아는 사람은 <span class="character-seojihun">서지훈</span>, <span class="character-jeongminjae">정민재</span>, <span class="character-ohharin">오하린</span>이었습니다.</li>
-    <li><strong>POS와 영수증</strong>: <span class="character-seojihun">서지훈</span>은 2시 21분과 24분에 카운터에서 계산을 했습니다. 정문에서 뒷골목까지는 걸어서 3분이 걸립니다.</li>
-    <li><strong>사진첩과 PC</strong>: <span class="character-ohharin">오하린</span>은 2시 19분부터 27분까지 사무실에서 장부를 찍고 있었습니다.</li>
+    <li><strong>뒷문 도어락</strong>: 2시 22분에 누군가 비밀번호로 뒷문을 열었습니다. 비밀번호를 아는 사람은 <span class="character-seojihun">서지훈</span>, <span class="character-jeongminjae">정민재</span>, <span class="character-ohharin">오하린</span>이었습니다. <span class="character-choiyuna">최유나</span> 수첩의 "뒷문 15"는 앞 두 자리뿐이었습니다.</li>
+    <li><strong>POS와 영수증</strong>: <span class="character-seojihun">서지훈</span>은 2시 19분과 24분에 카운터에서 계산을 했습니다. 정문에서 뒷골목까지는 걸어서 3분이 걸려서, 2시 22분에 뒷문을 열고 24분에 카운터로 돌아올 수 없었습니다. <span class="character-choiyuna">최유나</span>의 영수증은 시각이 번졌지만, 카드 끝자리가 POS의 2시 24분 결제와 같았습니다. 그 시각 그녀는 카운터에서 커피를 사고 있었습니다.</li>
+    <li><strong>사진첩과 PC</strong>: <span class="character-ohharin">오하린</span>은 2시 19분부터 27분까지 사무실에서 장부를 찍고 있었습니다. 2시 20분과 23분 사진 사이 3분으로는 뒷골목에 다녀올 수 없었습니다.</li>
     <li><strong>동기</strong>: 네 사람 모두에게 점주를 해칠 만한 이유가 있었습니다. 동기만으로는 범인을 가릴 수 없었고, 출입 기록과 알리바이를 맞춰 봐야 했습니다.</li>
     <li><strong>신발</strong>: 창고 바닥의 굵은 격자무늬와 맞는 신발은 <span class="character-jeongminjae">정민재</span>의 안전화와 <span class="character-ohharin">오하린</span>의 레인부츠였습니다. <span class="character-ohharin">오하린</span>은 그 시각 사무실에서 사진을 찍고 있었습니다. 거치대 아래 고무장화도 격자무늬였지만, 장화는 바싹 말라 있었습니다. 잔물결 무늬는 시신을 발견한 <span class="character-seojihun">서지훈</span>의 운동화였습니다.</li>
-    <li><strong>냉장고와 트럭</strong>: 소화기의 회색 실밥, 트럭 조수석의 회색 목장갑, 운전석 발판에 찍힌 진흙 섞인 격자무늬 자국이 창고와 트럭을 이어 줍니다. 블랙박스가 남아 있었다면 2시 21분에 내리고 25분에 다시 탄 기록도 볼 수 있었습니다.</li>
+    <li><strong>냉장고와 트럭</strong>: 소화기의 회색 실밥, 트럭 조수석의 회색 목장갑, 운전석 발판에 찍힌 진흙 섞인 격자무늬 자국이 창고와 트럭을 이어 줍니다. 블랙박스가 남아 있었다면 도어락이 열리기 바로 전인 2시 21분과 닫힌 바로 뒤인 2시 25분에 움직임이 감지된 기록도 볼 수 있었습니다.</li>
   </ul>
   <div class="section-title">세 사람의 비밀</div>
   <ul>
     <li><span class="character-seojihun">서지훈</span>의 열아홉 살 여동생은 점주에게 만나 달라는 강요를 받고 있었습니다. 동생이 거절하자 점주는 <span class="character-seojihun">서지훈</span>이 돈통에서 꺼내 쓴 118만 원을 들먹이며, 토요일까지 마음을 바꾸지 않으면 오빠를 고발하겠다고 했습니다. 사흘 전 녹화기에서 하드디스크를 뺀 것도 <span class="character-seojihun">서지훈</span>이었습니다. 돈통에서 돈을 꺼내는 장면을 지우려던 것으로, 살인과는 관계가 없었습니다.</li>
-    <li><span class="character-choiyuna">최유나</span>는 이 자리에 있던 유나슈퍼 주인의 딸입니다. 점주는 잔금 4천만 원을 끝내 갚지 않았고, 그녀의 아버지는 지난해 장마철에 이 가게에 다녀간 밤 뒤 골목 계단 아래에서 쓰러져 숨졌습니다. 비상계단 옆 국화는 그녀가 사흘 전 아버지의 첫 기일에 묶어 둔 것이었습니다.</li>
-    <li><span class="character-ohharin">오하린</span>은 권리금 3천만 원을 보낸 뒤에야 매출이 부풀려지고 가게가 사채에 묶여 있다는 것을 알았습니다. 점주의 사망보험금 1억 원의 수익자도 그녀였습니다.</li>
+    <li><span class="character-choiyuna">최유나</span>는 이 자리에 있던 유나슈퍼 주인의 딸입니다. 점주는 잔금 4천만 원을 끝내 갚지 않았고, 그녀의 아버지는 지난해 장마철에 이 가게에 다녀간 밤 뒤 골목 계단 아래에서 쓰러져 숨졌습니다. 비상계단 옆 국화는 그녀가 사흘 전 아버지의 첫 기일에 묶어 둔 것이었습니다. 주머니의 창고 청소 메모는 점주와 단둘이 이야기하려고 적어 둔 것이었습니다.</li>
+    <li><span class="character-ohharin">오하린</span>은 권리금 3천만 원을 보낸 뒤에야 매출이 부풀려지고 가게가 사채에 묶여 있다는 것을 알았습니다. 점주의 사망보험금 1억 원의 수익자도 그녀였습니다. 2시 17분의 보험증권 사진은 장부를 열기 전 서류철을 확인하며 찍은 것이었습니다.</li>
   </ul>
   <p>세 사람 모두 점주를 해칠 이유가 있었습니다. 하지만 그날 밤 2시 22분에 창고 뒷문을 연 사람은 세 사람 중에 없었습니다.</p>
 </div>
