@@ -1,0 +1,44 @@
+StoryID : 0c0e32a8-4136-53ca-902a-1a118c43ca96
+StepID : d268aee4-f556-5f7c-96de-f303adf647fd
+
+1. 순서
+5
+
+2. 단계 이름
+최종 발언
+
+3. 단계 유형
+DEDUCTION
+
+4. 예상 소요 시간
+5분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+(추후 업로드 예정)
+
+# Suno Prompt: Low tense ambient drone, muffled rain, slow soft bass pulse, thoughtful and uneasy, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 다음 단계 전 리마인더
+다음 단계는 투표입니다. 투표 화면이 열리면 더 이상 이야기를 나눌 수 없습니다. 범인을 가리는 데 내 비밀이 필요하다면, 지금이 털어놓을 마지막 기회입니다.
+
+8. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 최종 발언</div>
+  <p>조사가 모두 끝났습니다. 투표에 앞서 한 사람씩 돌아가며 자기 추리를 발표합니다.</p>
+  <ul>
+    <li>순서는 서지훈, 정민재, 최유나, 오하린입니다.</li>
+    <li>한 사람당 1분 안팎으로, 누가 범인이라고 생각하는지와 그렇게 생각한 까닭을 말합니다.</li>
+    <li>발표하는 동안에는 끼어들지 않습니다. 네 사람의 발표가 끝나면 남은 시간에 짧게 묻고 답할 수 있습니다.</li>
+  </ul>
+  <div class="section-title">2. 투표에서 묻는 것</div>
+  <p>다음 단계에서 아래 두 가지를 투표합니다. 가장 많은 표를 받은 답으로 결말이 정해집니다.</p>
+  <ul>
+    <li>점주를 죽인 사람은 누구인가?</li>
+    <li>점주가 공격당한 때는 언제인가?</li>
+  </ul>
+  <p>범인도 똑같이 발표하고 투표합니다. 범인은 다른 사람을 지목해도 됩니다.</p>
+</div>
