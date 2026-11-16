@@ -1,7 +1,20 @@
-"""(2026-11-15 안 ② 적용 정본) 늘푸른마트 살인사건 역할별 밸런스 시뮬레이션 (나를 좋아하는 사람에게 sim_narul.py 방식).
+"""(2026-11-17 정본) 늘푸른마트 살인사건 역할별 밸런스 시뮬레이션 (나를 좋아하는 사람에게 sim_narul.py 방식).
 
 단서마다 역할별 압박 무게를 붙이고, 조사 판을 수만 번 무작위로 돌려
 테이블에 나온 단서 + 역할지 속 증언으로 역할별 압박을 센다.
+
+2026-11-17 반영:
+- 창고#4·#5 합침(A5 삭제) → 1차 20장/AP 20
+- 오하린#3 사진첩 촬영 시각 삭제 → 사진 알리바이 없음. 오하린은 바닥 자국과 정문 목격으로 빠진다
+- 카운터#2 PC 화면에 실제 매출·대부 이자, 카운터#5 서류철에 매출표 4,500만 원 → 오하린 동기 짝
+- 최유나#2 메신저에 수진 01:58 메시지 → 수첩과 짝
+- 트럭: 목장갑·운전석 발판 자국 삭제 → 법원 봉투 + 블랙박스만
+- 회색 실밥 후보: 정민재(작업복), 서지훈(티셔츠), 최유나(짙은 회색 카디건)
+- 목장갑 설정 삭제(실밥은 정민재 작업복 소매). 서지훈의 "늘 목장갑을 낀다"도 삭제
+- 공유(사용자 지정): 찾은 단서는 모두 공개된다. 인물 단서는 남의 것이라 숨길 이유가 없다
+- 정문 목격 증언(최유나·서지훈)은 늘 나온다
+- 신발 젖음·마름 묘사 삭제(고무장화도 후보), 서류철의 보험증권 내용 삭제(사진첩 2차로만)
+이전 정본은 sim_tutorial_2026-11-15.py.
 """
 import random, sys, statistics as st
 from collections import Counter, defaultdict
@@ -11,33 +24,36 @@ R = ["서지훈", "정민재", "최유나", "오하린"]
 SJ, JM, CY, OH = R
 CULPRIT = JM
 
-# code: (조사 가능 제한: None=본인 외 누구나/장소, "ONLY:역할", "NOT:역할"), 공개 여부, 압박{역할:무게}
+# code: (조사 가능 제한: None=누구나, "ONLY:역할", "NOT:역할"), 장소(전원 공개) 여부, 압박{역할:무게}
 S1 = {
     # 창고 (공개)
     "A1": (None, True, {}), "A2": (None, True, {}), "A3": (None, True, {}),
-    "A4": (None, True, {JM: .3}), "A5": (None, True, {}),
-    "A6": (None, True, {SJ: .3, JM: .3, OH: .3}),
-    "A7": ("ONLY:" + OH, True, {JM: .3, SJ: 1}),  # 02:16 통화 상대는 번호만(2026-11-15)
+    "A4": (None, True, {JM: .3}),                        # 담배 상자 + 전표(합침)
+    "A6": (None, True, {SJ: .3, JM: .3, OH: .3}),        # 도어락 02:00/02:10/02:22/02:24
+    "A7": ("ONLY:" + OH, True, {JM: .3, SJ: 1}),         # 02:16 통화 번호 가림, 서지은 문자
     "A8": (None, True, {}),
     # 카운터 (공개)
-    "B1": ("ONLY:" + SJ, True, {SJ: -.4, CY: -.5}),  # B1: 02:19와 02:24 사이 5분(2026-11-15)
-    "C1": (None, True, {OH: -.3}),
-    "C4": (None, True, {SJ: 1.5}), "C3": (None, True, {JM: .8}), "C5": (None, True, {OH: 1.9}),  # C3: 통장 보낸 사람 이름 없음(2026-11-15)
+    "B1": ("ONLY:" + SJ, True, {SJ: -.4, CY: -.5}),
+    "C1": (None, True, {OH: .3}),                        # PC 02:18 로그인 + 실제 매출·대부 이자
+    "C4": (None, True, {SJ: 1.5}), "C3": (None, True, {JM: .8}), "C5": (None, True, {OH: 1.3}),  # 계약서+매출표+보험회사 봉투(증권 내용 삭제)
     # 인물 (본인 제외, 소유)
-    "K1": ("NOT:" + SJ, False, {SJ: .2}), "L1": ("NOT:" + SJ, False, {SJ: 1.5}),
-    "N2": ("NOT:" + JM, False, {JM: .4}), "K2": ("NOT:" + JM, False, {JM: .5}),
-    "D1": ("NOT:" + CY, False, {CY: 1.8}), "L3": ("NOT:" + CY, False, {CY: 1.5}),
-    "K4": ("NOT:" + OH, False, {OH: .5}), "L4": ("NOT:" + OH, False, {OH: 1.5}),
+    "K1": ("NOT:" + SJ, False, {SJ: .1}), "L1": ("NOT:" + SJ, False, {SJ: 1.5}),
+    "N2": ("NOT:" + JM, False, {JM: .4}), "K2": ("NOT:" + JM, False, {JM: .3}),
+    "D1": ("NOT:" + CY, False, {CY: 1.8}), "L3": ("NOT:" + CY, False, {CY: 1.8}),   # 수진 메시지 추가 1.5→1.8
+    "K4": ("NOT:" + OH, False, {OH: .3}), "L4": ("NOT:" + OH, False, {OH: 1.5}),
 }
 S2 = {
-    "E1": (None, True, {JM: .3, SJ: .2}), "G1": (None, True, {SJ: .5}),
-    "F3": (None, True, {JM: 1.6}), "M1": (None, True, {CY: .5}),
+    "E1": (None, True, {JM: .2, SJ: .2, CY: .2}),        # 회색 실밥: 회색 옷 셋
+    "G1": (None, True, {SJ: .5}),
+    "F3": (None, True, {JM: 1.0}),                       # 법원 봉투 + 블랙박스 (목장갑·발판 삭제)
+    "M1": (None, True, {CY: .5}),
     "L2": ("NOT:" + SJ, False, {SJ: 1.5}), "N1": ("NOT:" + JM, False, {JM: 1}),
-    "S1": ("NOT:" + CY, False, {CY: .9}), "S2": ("NOT:" + OH, False, {OH: .6}),  # 영수증 -0.3+메모 +1.2 / 사진 알리바이 -0.6+02:17 보험증권 +1.2
+    "S1": ("NOT:" + CY, False, {CY: .9}),                # 영수증 -0.3 + 메모 +1.2
+    "S2": ("NOT:" + OH, False, {OH: 1.4}),               # 촬영 시각 없음, 보험증권(수익자·계약일)은 여기서만
 }
-F3_VARIANT = {JM: 1.1}
-assert len(S1) == 21 and len(S2) == 8
-EXCULPATE = {"B1", "C1", "S1", "S2"}  # 남의 혐의를 벗겨 주는 단서
+F3_VARIANT = {JM: .4}                                    # 액션 뒤: 법원 봉투 + 켜지지 않는 블랙박스(2026-11-17 빈 슬롯 삭제)
+assert len(S1) == 20 and len(S2) == 8
+EXCULPATE = {"B1", "S1"}  # 남의 혐의를 벗겨 주는 단서(범인이 쥐면 숨길 수 있음)
 
 # 역할지 속 증언: (말하는 사람, 대상, 무게, 꺼낼 확률, 설명)
 TESTI = [
@@ -46,6 +62,7 @@ TESTI = [
     (CY, SJ, -.3, .5, "최유나: 서지훈은 계속 카운터에 있었다"),
     (None, SJ, .3, 1, "공지 사실: 서지훈이 시신 첫 발견"),
 ]
+FRONT_P = 1.0  # 최유나·서지훈이 "2시 20분쯤 담배 손님 말고 정문 드나든 사람 없다"를 꺼낼 확률
 
 
 def can(code, r, table):
@@ -65,10 +82,11 @@ def pick(r, avail, policy, stage):
     return random.choice(avail)
 
 
-def run(policy="random", action_p=.8, hide_p=.6, ap1=5, ap2=2):
+def run(policy="random", action_p=.8, hide_p=0, share_p=1.0, ap1=5, ap2=2, noise=0.0):
     known = set()
     holder = {}
     hand = defaultdict(list)
+    jit = defaultdict(lambda: random.uniform(1 - noise, 1 + noise)) if noise else None
 
     def investigate(table, stage, ap):
         apl = {r: ap for r in R}
@@ -92,66 +110,73 @@ def run(policy="random", action_p=.8, hide_p=.6, ap1=5, ap2=2):
         for c in table:
             if c not in holder:
                 continue
-            pub = table[c][1]
             r = holder[c]
-            if pub:
+            if table[c][1]:
                 known.add(c)
             elif r == CULPRIT and c in EXCULPATE and random.random() < hide_p:
-                pass  # 범인은 남의 혐의를 벗겨 주는 단서를 숨긴다
-            elif random.random() < .9:
+                pass
+            elif random.random() < share_p:
                 known.add(c)
+
+    said = {"front": random.random() < FRONT_P}
+    said.update({i: random.random() < t[3] for i, t in enumerate(TESTI)})
 
     investigate(S1, 1, ap1)
     share(S1)
-    p1 = pressure(known, stage=1)
+    p1 = pressure(known, 1, False, said, jit)
     unfound1 = [c for c in S1 if c not in holder]
     action = investigate(S2, 2, ap2)
     share(S2)
-    p2 = pressure(known, stage=2, variant=action)
+    p2 = pressure(known, 2, action, said, jit)
     unfound2 = [c for c in S2 if c not in holder]
     k = known
-    phys = {"A2", "A3", "K2", "S2"} <= k
-    alibi = {"A6", "B1", "S2"} <= k
-    truck = "F3" in k and ("E1" in k or {"A2", "A3"} <= k)
+    floor = {"A2", "A3", "K2"} <= k                         # 걸레질 뒤 격자무늬 = 정민재 안전화(오하린 레인부츠와 갈라야 함)
+    door = {"A2", "A6"} <= k and said["front"]              # 뒷문으로만 오감 + 정문 드나든 사람 없음 → 바깥 사람
+    truck = "F3" in k and "A6" in k and not action          # 블랙박스 02:21·02:25가 도어락 02:22·02:24 앞뒤
     return dict(p1=p1, p2=p2, unfound1=unfound1, unfound2=unfound2, action=action,
-                phys=phys, alibi=alibi, truck=truck,
+                floor=floor, door=door, truck=truck,
                 held={r: len(hand[r]) for r in R}, known=set(k))
 
 
-def pressure(k, stage, variant=False):
+def pressure(k, stage, variant, said, jit):
     p = {r: 0.0 for r in R}
+    J = (lambda key: jit[key]) if jit else (lambda key: 1.0)
     tables = [S1] + ([S2] if stage == 2 else [])
     for t in tables:
         for c in t:
             if c in k:
                 w = F3_VARIANT if (c == "F3" and variant) else t[c][2]
                 for r, v in w.items():
-                    p[r] += v
-    # 조합
+                    p[r] += v * J(c)
+
+    def add(r, v, key):
+        p[r] += v * J(key)
+    # 조합 (1차)
     floor = 1 if "A3" in k else .5
-    if {"A2", "K2"} <= k: p[JM] += 1 * floor
-    if {"A2", "K4"} <= k: p[OH] += 1 * floor
-    if {"A2", "K1"} <= k: p[SJ] += .2
-    if {"C3", "N2"} <= k: p[JM] += .7  # 날짜, 금액이 맞음
-    if {"D1", "L4"} <= k: p[CY] += .5  # "뒷문 15"와 "1507"
-    if {"D1", "A6"} <= k: p[CY] += .2  # 뒷문을 열 수 있었을지도
+    # 2026-11-17 신발 젖음·마름 묘사 삭제, 고무장화는 누구나 신을 수 있음 → 신발 짝 약하게
+    if {"A2", "K2"} <= k: add(JM, .6 * floor, "A2K2")
+    if {"A2", "K4"} <= k: add(OH, .6 * floor, "A2K4")
+    if {"A2", "K1"} <= k: add(SJ, .2, "A2K1")
+    if {"C3", "N2"} <= k: add(JM, .7, "C3N2")
+    if {"D1", "L4"} <= k: add(CY, .5, "D1L4")     # "뒷문 15"와 "1507"
+    if {"D1", "A6"} <= k: add(CY, .2, "D1A6")
+    if {"D1", "L3"} <= k: add(CY, .5, "D1L3")     # 수진 "그 사람" + 수첩 "늘푸른마트 뒤 계단"
+    if {"C1", "C5"} <= k: add(OH, .8, "C1C5")     # 매출표 4,500만 vs 실제 2,480만 + 대부 이자
+    # 정문 목격: 바닥(매장 쪽 문에서 시작한 격자무늬 없음)과 도어락이 나오면 안쪽 사람이 빠진다
+    if said["front"] and {"A2", "A6"} <= k:
+        add(OH, -.8, "front_OH"); add(CY, -.4, "front_CY"); add(SJ, -.4, "front_SJ")
     if stage == 2:
-        if {"A7", "N1"} <= k: p[JM] += 1.2
-        if {"B1", "S1"} <= k: p[CY] -= .8  # 카드 끝자리로 02:24가 맞춰짐
-        if {"S1", "A3"} <= k: p[CY] += .3  # 메모와 청소 점검표 02:12
-        if {"S2", "C5"} <= k: p[OH] += .3  # 보험증권 사진과 서류철
-        if {"S2", "C1"} <= k: p[OH] -= .5
-        if {"G1", "L2"} <= k: p[SJ] += .5
-        if {"M1", "D1"} <= k: p[CY] += .5
-        if {"F3", "E1"} <= k: p[JM] += .4
-        if {"F3", "A6"} <= k and not variant: p[JM] += .6  # 움직임 감지가 도어락 앞뒤
-        if {"F3", "A2"} <= k: p[JM] += .5
-    # 증언
-    for who, tgt, w, pr, _ in TESTI:
-        if random.random() < pr:
-            p[tgt] += w
-    if "S2" not in k and random.random() < .5:  # 오하린이 사진첩을 먼저 털어놓음
-        p[OH] -= .5
+        if {"A7", "N1"} <= k: add(JM, 1.2, "A7N1")
+        if {"B1", "S1"} <= k: add(CY, -.8, "B1S1")
+        if {"S1", "A3"} <= k: add(CY, .3, "S1A3")
+        if {"S2", "C5"} <= k: add(OH, .3, "S2C5")  # 봉투와 사진
+        if {"S2", "L4"} <= k: add(OH, .3, "S2L4")  # 메모의 보험 서류 위치
+        if {"G1", "L2"} <= k: add(SJ, .5, "G1L2")
+        if {"M1", "D1"} <= k: add(CY, .5, "M1D1")
+        if {"F3", "A6"} <= k and not variant: add(JM, .6, "F3A6")
+    for i, (who, tgt, w, pr, _) in enumerate(TESTI):
+        if said[i]:
+            add(tgt, w, f"T{i}")
     return p
 
 
@@ -173,26 +198,29 @@ def report(name, n=20000, **kw):
     for r in R:
         print(f"{r} | {st.mean(x['p1'][r] for x in res):.2f} | {t1[r]/n*100:.0f}% | "
               f"{st.mean(x['p2'][r] for x in res):.2f} | {t2[r]/n*100:.0f}% | {st.mean(x['held'][r] for x in res):.2f}")
+    second = Counter(); close = 0
+    for x in res:
+        p = x["p2"]; o = sorted(((v, r) for r, v in p.items() if r != JM), reverse=True)
+        second[o[0][1]] += 1
+        if p[JM] - o[0][0] < 1.0: close += 1
+    print("범인 다음으로 의심받는 사람(2차 끝): " + " ".join(f"{r} {second[r]/n*100:.0f}%" for r in R if r != JM)
+          + f" | 정민재와 차이 1점 미만 {close/n*100:.0f}%")
     u1 = Counter(c for x in res for c in x["unfound1"])
     u2 = Counter(c for x in res for c in x["unfound2"])
     print("1차 못 본 단서:", [(c, f"{v/n*100:.0f}%") for c, v in u1.most_common(6)])
     print("2차 못 본 단서:", [(c, f"{v/n*100:.0f}%") for c, v in u2.most_common(6)])
     print(f"블랙박스 액션 사용 {sum(x['action'] for x in res)/n*100:.0f}%")
-    ph = sum(x["phys"] for x in res) / n; al = sum(x["alibi"] for x in res) / n; tr = sum(x["truck"] for x in res) / n
-    anyp = sum(x["phys"] or x["alibi"] or x["truck"] for x in res) / n
-    two = sum((x["phys"] + x["alibi"] + x["truck"]) >= 2 for x in res) / n
-    none_p1 = sum(not (x["phys"] or x["alibi"]) for x in res) / n
-    print(f"풀이 경로: 신발 {ph*100:.0f}% / 알리바이 {al*100:.0f}% / 트럭 {tr*100:.0f}% | 하나 이상 {anyp*100:.0f}% | 둘 이상 {two*100:.0f}%")
-    print(f"1차 단서만으로 풀이 경로(신발·알리바이) 없음 {none_p1*100:.0f}%")
-    s2 = sum("S2" in x["known"] for x in res) / n
-    print(f"오하린 사진첩(S2) 테이블에 나옴 {s2*100:.0f}%  (범인이 들고 숨긴 비율 "
-          f"{sum(('S2' not in x['known']) for x in res)/n*100:.0f}% 중 일부)")
+    f = sum(x["floor"] for x in res) / n; d = sum(x["door"] for x in res) / n; t = sum(x["truck"] for x in res) / n
+    anyp = sum(x["floor"] or x["door"] or x["truck"] for x in res) / n
+    two = sum((x["floor"] + x["door"] + x["truck"]) >= 2 for x in res) / n
+    print(f"풀이 경로: 바닥·신발 {f*100:.0f}% / 출입(도어락+정문) {d*100:.0f}% / 블랙박스 {t*100:.0f}% | 하나 이상 {anyp*100:.0f}% | 둘 이상 {two*100:.0f}%")
     return res
 
 
 if __name__ == "__main__":
-    random.seed(11)
+    random.seed(17)
     report("완전 랜덤", policy="random")
     report("전략적(서지훈 POS·오하린 휴대폰 먼저)", policy="strategic")
-    report("범인이 숨기지 않음", policy="strategic", hide_p=0)
+    report("전략적, 무게 ±40%", policy="strategic", noise=.4)
+    report("참고: 옛 공유 가정(인물 단서 90% 공개, 범인이 남의 알리바이 60% 숨김)", policy="strategic", hide_p=.6, share_p=.9)
     report("범인이 액션을 안 씀", policy="strategic", action_p=0)
