@@ -1,4 +1,4 @@
-"""(2026-11-17 정본) 늘푸른마트 살인사건 역할별 밸런스 시뮬레이션 (나를 좋아하는 사람에게 sim_narul.py 방식).
+"""(2026-11-17 정본, 같은 날 자기 불리 단서 숨김 기준 반영) 늘푸른마트 살인사건 역할별 밸런스 시뮬레이션 (나를 좋아하는 사람에게 sim_narul.py 방식).
 
 단서마다 역할별 압박 무게를 붙이고, 조사 판을 수만 번 무작위로 돌려
 테이블에 나온 단서 + 역할지 속 증언으로 역할별 압박을 센다.
@@ -11,7 +11,9 @@
 - 트럭: 목장갑·운전석 발판 자국 삭제 → 법원 봉투 + 블랙박스만
 - 회색 실밥 후보: 정민재(작업복), 서지훈(티셔츠), 최유나(짙은 회색 카디건)
 - 목장갑 설정 삭제(실밥은 정민재 작업복 소매). 서지훈의 "늘 목장갑을 낀다"도 삭제
-- 공유(사용자 지정): 찾은 단서는 모두 공개된다. 인물 단서는 남의 것이라 숨길 이유가 없다
+- 공유(2026-11-17 같은 날 기준 변경, 사용자 지정): 찾은 단서는 기본적으로 공개한다. 찾은 사람 자신에게 불리한
+  단서(그 역할 무게 > 0)는 숨긴다(0.8, 범인 0.9). 장소 단서는 조사 즉시 전원 공개라 숨길 수 없고,
+  인물 단서는 본인이 못 집으므로 자연히 공개된다. 남의 알리바이를 숨긴다는 옛 가정(EXCULPATE)은 참고 실행에만 쓴다.
 - 정문 목격 증언(최유나·서지훈)은 늘 나온다
 - 신발 젖음·마름 묘사 삭제(고무장화도 후보), 서류철의 보험증권 내용 삭제(사진첩 2차로만)
 이전 정본은 sim_tutorial_2026-11-15.py.
@@ -57,9 +59,10 @@ EXCULPATE = {"B1", "S1"}  # 남의 혐의를 벗겨 주는 단서(범인이 쥐�
 
 # 역할지 속 증언: (말하는 사람, 대상, 무게, 꺼낼 확률, 설명)
 TESTI = [
-    (SJ, CY, 1.0, .7, "서지훈: 지난주 최유나가 점주에게 '가만두지 않을 거예요'"),
-    (CY, OH, .5, .6, "최유나: 오하린이 1시 50분에 와서 점주와 다툼"),
-    (CY, SJ, -.3, .5, "최유나: 서지훈은 계속 카운터에 있었다"),
+    # 2026-11-17 숨길 이유가 없는 증언은 항상 나온다(역할_밸런스_분석_방법.md 3장). 옛 확률 .7/.6/.5
+    (SJ, CY, 1.0, 1, "서지훈: 지난주 최유나가 점주에게 '가만두지 않을 거예요'"),
+    (CY, OH, .5, 1, "최유나: 오하린이 1시 50분에 와서 점주와 다툼"),
+    (CY, SJ, -.3, 1, "최유나: 서지훈은 계속 카운터에 있었다"),
     (None, SJ, .3, 1, "공지 사실: 서지훈이 시신 첫 발견"),
 ]
 FRONT_P = 1.0  # 최유나·서지훈이 "2시 20분쯤 담배 손님 말고 정문 드나든 사람 없다"를 꺼낼 확률
@@ -82,8 +85,12 @@ def pick(r, avail, policy, stage):
     return random.choice(avail)
 
 
-def run(policy="random", action_p=.8, hide_p=0, share_p=1.0, ap1=5, ap2=2, noise=0.0):
+HIDE_SELF_P, HIDE_SELF_P_CULPRIT = .8, .9
+
+
+def run(policy="random", action_p=.8, hide_p=0, share_p=1.0, ap1=5, ap2=2, noise=0.0, hide_self=1.0):
     known = set()
+    hidden = set()
     holder = {}
     hand = defaultdict(list)
     jit = defaultdict(lambda: random.uniform(1 - noise, 1 + noise)) if noise else None
@@ -113,6 +120,8 @@ def run(policy="random", action_p=.8, hide_p=0, share_p=1.0, ap1=5, ap2=2, noise
             r = holder[c]
             if table[c][1]:
                 known.add(c)
+            elif table[c][2].get(r, 0) > 0 and random.random() < (HIDE_SELF_P_CULPRIT if r == CULPRIT else HIDE_SELF_P) * hide_self:
+                hidden.add(c)
             elif r == CULPRIT and c in EXCULPATE and random.random() < hide_p:
                 pass
             elif random.random() < share_p:
@@ -135,12 +144,12 @@ def run(policy="random", action_p=.8, hide_p=0, share_p=1.0, ap1=5, ap2=2, noise
     truck = "F3" in k and "A6" in k and not action          # 블랙박스 02:21·02:25가 도어락 02:22·02:24 앞뒤
     return dict(p1=p1, p2=p2, unfound1=unfound1, unfound2=unfound2, action=action,
                 floor=floor, door=door, truck=truck,
-                held={r: len(hand[r]) for r in R}, known=set(k))
+                held={r: len(hand[r]) for r in R}, known=set(k), hidden=set(hidden))
 
 
 def pressure(k, stage, variant, said, jit):
     p = {r: 0.0 for r in R}
-    J = (lambda key: jit[key]) if jit else (lambda key: 1.0)
+    J = (lambda key: jit[key]) if jit is not None else (lambda key: 1.0)
     tables = [S1] + ([S2] if stage == 2 else [])
     for t in tables:
         for c in t:
@@ -209,6 +218,8 @@ def report(name, n=20000, **kw):
     u2 = Counter(c for x in res for c in x["unfound2"])
     print("1차 못 본 단서:", [(c, f"{v/n*100:.0f}%") for c, v in u1.most_common(6)])
     print("2차 못 본 단서:", [(c, f"{v/n*100:.0f}%") for c, v in u2.most_common(6)])
+    h = Counter(c for x in res for c in x["hidden"])
+    print("끝까지 숨겨진 단서:", [(c, f"{v/n*100:.0f}%") for c, v in h.most_common(6)])
     print(f"블랙박스 액션 사용 {sum(x['action'] for x in res)/n*100:.0f}%")
     f = sum(x["floor"] for x in res) / n; d = sum(x["door"] for x in res) / n; t = sum(x["truck"] for x in res) / n
     anyp = sum(x["floor"] or x["door"] or x["truck"] for x in res) / n
@@ -221,6 +232,8 @@ if __name__ == "__main__":
     random.seed(17)
     report("완전 랜덤", policy="random")
     report("전략적(서지훈 POS·오하린 휴대폰 먼저)", policy="strategic")
+    report("전략적, 무게 ±20%", policy="strategic", noise=.2)
     report("전략적, 무게 ±40%", policy="strategic", noise=.4)
+    report("참고: 아무도 숨기지 않음(18~19장 가정)", policy="strategic", hide_self=0)
     report("참고: 옛 공유 가정(인물 단서 90% 공개, 범인이 남의 알리바이 60% 숨김)", policy="strategic", hide_p=.6, share_p=.9)
     report("범인이 액션을 안 씀", policy="strategic", action_p=0)
