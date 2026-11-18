@@ -31,10 +31,15 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811298/murdex/images/0c0e
 
 7. 역할 시트
 <div class="story-content">
-  <div class="role-notice innocent">
-    <div class="role-label">[ 본인 확인 ]</div>
-    <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
-  </div>
+  <details class="role-reveal">
+    <summary>
+      <span class="role-reveal-label">[ 본인 확인 ]</span>
+      <span class="role-reveal-hint"><span class="when-closed">눌러서 확인하세요</span><span class="when-open">접기</span></span>
+    </summary>
+    <div class="role-notice innocent">
+      <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+    </div>
+  </details>
 
   <section class="content-section">
     <div class="section-title">공통 정보</div>
@@ -127,8 +132,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811298/murdex/images/0c0e
     <div class="subsection-title"><span class="character-choiyuna">최유나</span> - 3층 세입자</div>
     <p>
       넉 달 전 이 건물 3층으로 이사 온 사람. 새벽에 노트북을 들고 내려와 창가에서 일하곤 한다.
-      지난주 새벽, 사무실 앞에서 점주와 크게 다투는 소리를 들었다. "우리 아빠 그렇게 만들어 놓고" 하는
-      그녀의 목소리가 카운터까지 들렸다. 무슨 일인지는 모른다.
+      지난주 새벽, 사무실 앞에서 점주와 크게 다투는 소리를 들었다. 무슨 말인지는 잘 들리지 않았다.
     </p>
     <div class="subsection-title"><span class="character-ohharin">오하린</span> - 점주의 조카</div>
     <p>다음 달부터 이 가게를 맡게 된다고 들었다. 몇 번 얼굴만 본 사이다.</p>

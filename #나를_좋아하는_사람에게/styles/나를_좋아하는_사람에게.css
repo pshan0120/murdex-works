@@ -1091,6 +1091,80 @@
     color: #7c8fc2;
 }
 
+/* --- 본인 확인을 접어 두었다가 눌러서 확인 (2026-11-18) ---
+   접힌 상자는 범인/무고 모두 똑같은 색이어야 한다. 색은 펼친 뒤 안쪽 .role-notice에서만 나온다. */
+.story-content details.role-reveal {
+    margin: 1.5rem 0 2rem 0;
+}
+
+.story-content details.role-reveal > summary {
+    display: block;
+    text-align: center;
+    padding: 1.2rem;
+    border: 2px dashed rgba(232, 226, 212, 0.35);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.04);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+    color: #e8e2d4;
+    letter-spacing: 0.03em;
+    transition: background 0.2s ease;
+}
+
+.story-content details.role-reveal > summary:hover {
+    background: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.story-content details.role-reveal .role-reveal-label {
+    display: block;
+    font-size: 0.85em;
+    font-weight: 700;
+    opacity: 0.75;
+    margin-bottom: 0.4rem;
+}
+
+.story-content details.role-reveal .role-reveal-hint {
+    display: block;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+.story-content details.role-reveal .role-reveal-hint .when-open {
+    display: none;
+}
+
+/* 펼친 뒤: 위 상자는 작은 '접기' 줄로 줄이고, 아래에 색 있는 결과 상자를 보여 준다 */
+.story-content details.role-reveal[open] > summary {
+    padding: 0.4rem;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+    margin-bottom: 0.5rem;
+}
+
+.story-content details.role-reveal[open] .role-reveal-label,
+.story-content details.role-reveal[open] .role-reveal-hint {
+    display: inline;
+    font-size: 0.85em;
+    margin: 0 0.3rem;
+}
+
+.story-content details.role-reveal[open] .role-reveal-hint .when-closed {
+    display: none;
+}
+
+.story-content details.role-reveal[open] .role-reveal-hint .when-open {
+    display: inline;
+    opacity: 0.6;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.story-content details.role-reveal > .role-notice {
+    margin: 0;
+    animation: fadeSlideDown 0.3s ease-out;
+}
+
 /* --- 장소(Location) 표현 스타일 --- */
 .story-content .location-box {
     background: linear-gradient(135deg, rgba(18, 20, 24, 0.8), rgba(34, 37, 42, 0.6));

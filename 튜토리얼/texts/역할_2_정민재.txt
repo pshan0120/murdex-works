@@ -31,10 +31,15 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811302/murdex/images/0c0e
 
 7. 역할 시트
 <div class="story-content">
-  <div class="role-notice">
-    <div class="role-label">[ 본인 확인 ]</div>
-    <div class="role-text">당신은 <span class="is-culprit">범인</span>입니다.</div>
-  </div>
+  <details class="role-reveal">
+    <summary>
+      <span class="role-reveal-label">[ 본인 확인 ]</span>
+      <span class="role-reveal-hint"><span class="when-closed">눌러서 확인하세요</span><span class="when-open">접기</span></span>
+    </summary>
+    <div class="role-notice">
+      <div class="role-text">당신은 <span class="is-culprit">범인</span>입니다.</div>
+    </div>
+  </details>
 
   <section class="content-section">
     <div class="section-title">공통 정보</div>
@@ -180,6 +185,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811302/murdex/images/0c0e
           <li>뒷문: "비밀번호 아는 사람이 저만은 아니잖아요. 안에서 사장님이 누굴 들여보냈을 수도 있고요. 저는 트럭에 있었어요."</li>
           <li>2시 16분 통화: "주문 얘기였어요. 다음 주에 담배를 더 넣어 달라고 하셨어요."</li>
           <li>정문으로 들어온 때: "들어와서 라면 고르고 있었는데 바로 비명이 들렸어요."</li>
+          <li>사무실 쪽을 들여다본 일: "계산하려고 직원을 찾고 있었어요."</li>
           <li>점주에게 보낸 돈: "사장님한테 개인적으로 돈을 빌린 게 있어서 갚고 있었어요."</li>
         </ul>
       </li>

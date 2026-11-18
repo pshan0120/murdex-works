@@ -164,3 +164,87 @@
 .story-content .is-innocent {
     color: #b7e36b;
 }
+
+/* --- 본인 확인을 접어 두었다가 눌러서 확인 (2026-11-18, 나를_좋아하는_사람에게와 같은 방식) ---
+   접힌 상자는 범인/무고 모두 똑같은 색이어야 한다. 색은 펼친 뒤 안쪽 .role-notice에서만 나온다. */
+.story-content details.role-reveal {
+    margin: 0 0 1.8em;
+}
+
+.story-content details.role-reveal > summary {
+    display: block;
+    list-style: none;
+    cursor: pointer;
+    text-align: center;
+    padding: 0.9em 1.1em;
+    border: 1px dashed rgba(232, 236, 239, 0.35);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.04);
+    color: #e8ecef;
+    transition: background 0.2s ease;
+}
+
+.story-content details.role-reveal > summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content details.role-reveal > summary::marker {
+    content: "";
+}
+
+.story-content details.role-reveal > summary:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.story-content details.role-reveal .role-reveal-label {
+    display: block;
+    font-size: 0.85em;
+    color: #c9d1d6;
+    margin-bottom: 0.3em;
+}
+
+.story-content details.role-reveal .role-reveal-hint {
+    display: block;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+.story-content details.role-reveal .role-reveal-hint .when-open {
+    display: none;
+}
+
+/* 펼친 뒤: 위 상자는 작은 '접기' 줄로 줄이고, 아래에 색 있는 결과 상자를 보여 준다 */
+.story-content details.role-reveal[open] > summary {
+    padding: 0.3em;
+    border: none;
+    background: transparent;
+    margin-bottom: 0.5em;
+}
+
+.story-content details.role-reveal[open] .role-reveal-label,
+.story-content details.role-reveal[open] .role-reveal-hint {
+    display: inline;
+    font-size: 0.85em;
+    margin: 0 0.3em;
+}
+
+.story-content details.role-reveal[open] .role-reveal-hint .when-closed {
+    display: none;
+}
+
+.story-content details.role-reveal[open] .role-reveal-hint .when-open {
+    display: inline;
+    opacity: 0.6;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.story-content details.role-reveal > .role-notice {
+    margin: 0;
+    animation: roleRevealIn 0.3s ease-out;
+}
+
+@keyframes roleRevealIn {
+    from { opacity: 0; transform: translateY(-6px); }
+    to { opacity: 1; transform: translateY(0); }
+}

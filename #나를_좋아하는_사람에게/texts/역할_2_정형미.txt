@@ -14,7 +14,7 @@ RoleID : (미정)
 "사실대로만 말씀해 주시면 됩니다." 이번 소동을 정리하러 나선 조직문화팀 차장.
 
 5. 이미지생성용 프롬프트
-Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject placed slightly left of center, looking just past the viewer. A composed Korean woman in her early 40s, a manager on a conglomerate's organizational culture team. Small, slim build with an upright, quietly athletic posture. Shoulder-length dark hair tied in a neat low ponytail, calm attentive eyes above a plain white disposable face mask covering her nose and mouth. She wears a belted camel trench coat over a steel-blue blouse and dark slacks, and holds a slim tablet against her chest. Background: a dim meeting room inside an old two-story corporate archive building at night, long conference table, cold fluorescent light, old framed photographs on the wall slightly out of focus, dark window behind her. Semi-realistic digital painting, cinematic low-key lighting, desaturated steel-blue and navy palette with the steel-blue accent, subtle film grain, quiet tension. No text, no letters, no words.
+Use the first reference image as the exact room: keep its layout, materials, windows and furniture. Use the second reference image only for the painting style. Square aspect ratio, 1:1. Seated upper-body portrait (chest-to-waist up), three-quarter view, subject centered in the frame with the face in the upper middle, seated in a dark office chair at the conference table with the tabletop edge visible at the bottom of the frame and the middle sage-green window of the meeting room behind. A composed Korean woman in her early 40s, a manager on a conglomerate's organizational culture team who is presiding over this evening's inquiry meeting. Small and slim, sitting very upright. Shoulder-length dark hair tied in a neat low ponytail. A plain, clean white disposable face mask covers her nose and mouth because she has a slight cold, so only her calm, attentive eyes show; they hold a hint of guarded watchfulness, as if she is quietly reassessing the room after an unexpected guest has just walked in. Dressed for a chilly late-autumn October evening: a camel trench coat with its fabric belt tied at the waist, worn over a long-sleeved steel-blue blouse, and dark slacks. A closed slim laptop sits on the table in front of her; one hand rests on it while the other holds a pen over a printed document. Early evening dusk in late autumn, warm yellowish ceiling lights, the last deep-blue daylight outside the windows, calm and slightly awkward mood. The steel-blue blouse is the strongest color in the frame. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No text, no letters, no words.
 
 6. 역할 이미지
 (무시 - 사용자 직접 업로드 예정)
@@ -32,6 +32,16 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
 
 7. 역할 시트
 <div class="story-content">
+  <details class="role-reveal">
+    <summary>
+      <span class="role-reveal-label">[ 본인 확인 ]</span>
+      <span class="role-reveal-hint"><span class="when-closed">눌러서 확인하세요</span><span class="when-open">접기</span></span>
+    </summary>
+    <div class="role-notice true-culprit">
+      <div class="role-text">당신은 <span class="is-culprit">범인</span>입니다.</div>
+    </div>
+  </details>
+
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
@@ -109,7 +119,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   </section>
 
   <section class="content-section">
-    <div class="section-title">캐릭터 배경</div>
+    <div class="section-title">배경 이야기</div>
     <p>
       나는 강원도의 작은 읍에서 외동딸로 자랐다. 아버지는 시외버스를 몰았고, 어머니는 읍내 식당에서 일했다. 학교가 끝나면 식당 구석 자리에서 숙제를 하며 어머니가 일을 마치기를 기다렸다.
     </p>
@@ -161,13 +171,10 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <strong>12:00 ~ 17:30</strong>: 본사에서 진상조사 자료를 챙기고, 오후 늦게 역사관으로 출발함
       </li>
       <li>
-        <strong>17:30 무렵</strong>: 역사관에 도착해 1층 회의실을 정리하고 미팅을 준비함. 들어오면서 경비원에게 흡연구역이 어디냐고 물었고, 서쪽이라는 답을 들음
+        <strong>17:30 ~ 18:00</strong>: 역사관에 도착해 1층 회의실을 정리하고 미팅을 준비함. 들어오면서 경비원에게 흡연구역이 어디냐고 물었고, 서쪽이라는 답을 들음. 17:50쯤 회의실을 준비하다 나오는 길에 1층 복도에서 딴 데를 보던 <span class="character-hadohoon">하도훈</span> 주임과 부딪혀 서류 가방을 떨어뜨림. 서류가 쏟아졌고, 그가 허리를 굽실거리며 주워 줌. 무엇을 봤는지는 모름. 그는 퇴근한다며 나감
       </li>
       <li>
-        <strong>17:50</strong>: 회의실을 준비하다 나오는 길에 1층 복도에서 딴 데를 보던 <span class="character-hadohoon">하도훈</span> 주임과 부딪혀 서류 가방을 떨어뜨림. 서류가 쏟아졌고, 그가 허리를 굽실거리며 주워 줌. 무엇을 봤는지는 모름. 그는 퇴근한다며 나감
-      </li>
-      <li>
-        <strong>18:00</strong>: 역사관 1층 회의실에서 진상조사 미팅 시작. 나와 <span class="character-yoojeongseok">유정석</span> 팀장, <span class="character-nohyeongcheol">노형철</span> 대리, <span class="character-jeongjunhee">정준희</span> 사원 네 명이 참석함
+        <strong>18:00 ~ 18:30</strong>: 역사관 1층 회의실에서 진상조사 미팅 시작. 나와 <span class="character-yoojeongseok">유정석</span> 팀장, <span class="character-nohyeongcheol">노형철</span> 대리, <span class="character-jeongjunhee">정준희</span> 사원 네 명이 참석함
       </li>
       <li>
         <strong>18:30 ~ 18:35</strong>: <span class="character-parkhyesu">박혜수</span> 전략실장이 예정 없이 들어와 "회장님이 이번 일을 재밌어하셔서, 제가 대신 좀 보러 왔어요"라고 함. 회장에게서 그런 얘기를 들은 적은 없었음. 확인할 시간을 벌려고 <span class="character-yoojeongseok">유정석</span>에게 <span class="character-nohyeongcheol">노형철</span>의 팀원 평가 기록을 가져다 달라고 함. <span class="character-nohyeongcheol">노형철</span>도 화장실에 다녀오겠다며 나감. <span class="character-yoojeongseok">유정석</span>이 자료를 들고 돌아오자, 자료를 훑어보는 척하며 어떻게 확인할지 궁리함
@@ -176,10 +183,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <strong>18:35 ~ 18:45</strong>: "팀장님과 잠깐 따로 얘기 좀 하시죠"라며 <span class="character-yoojeongseok">유정석</span>과 함께 건물 서쪽 흡연구역으로 나감. <span class="character-nohyeongcheol">노형철</span> 얘기를 나누며 담배를 피우는 사이, 회장에게 몰래 메시지를 보냄. "전략실장님이 와 계십니다. 회장님께서 보내신 겁니까?"
       </li>
       <li>
-        <strong>18:45</strong>: <span class="character-yoojeongseok">유정석</span>과 함께 회의실로 돌아와, 다섯 명이 함께 미팅을 이어감
-      </li>
-      <li>
-        <strong>18:45 ~ 19:55</strong>: 원래 금방 끝낼 생각이었으나, 회장의 회신이 올 때까지 미팅을 끝낼 수 없었음. 시간을 끌려고 그나마 관련 있어 보이는 조직문화 교육 영상을 내 노트북으로 한 편씩 이어서 틂. "이것도 같이 보시죠"라며, <span class="character-nohyeongcheol">노형철</span>만 보면 될 것을 <span class="character-yoojeongseok">유정석</span>과 <span class="character-jeongjunhee">정준희</span>에게도 보게 함. 직급이 위인 <span class="character-parkhyesu">박혜수</span>에게는 같이 보자고 할 수 없었음. 그녀는 자리에 앉아만 있었음
+        <strong>18:45 ~ 19:55</strong>: <span class="character-yoojeongseok">유정석</span>과 회의실로 돌아와 다섯 명이 함께 미팅을 이어감. 원래 금방 끝낼 생각이었으나, 회장의 회신이 올 때까지 미팅을 끝낼 수 없었음. 시간을 끌려고 그나마 관련 있어 보이는 조직문화 교육 영상을 내 노트북으로 한 편씩 이어서 틂. "이것도 같이 보시죠"라며, <span class="character-nohyeongcheol">노형철</span>만 보면 될 것을 <span class="character-yoojeongseok">유정석</span>과 <span class="character-jeongjunhee">정준희</span>에게도 보게 함. 직급이 위인 <span class="character-parkhyesu">박혜수</span>에게는 같이 보자고 할 수 없었음. 그녀는 자리에 앉아만 있었음
       </li>
       <li>
         <strong>19:55 ~ 20:00</strong>: <span class="character-parkhyesu">박혜수</span>가 담배를 피우고 오겠다며 자리를 비움. 회장에게서 회신이 옴. "내가 보낸 적 없다. 박혜수가 제멋대로 간 거다. 안 그래도 몰래 점검비 서류를 뒤지고 다녀서 지켜보던 참이었다. 내일 아침엔 검찰 출신 변호사까지 만난다더군. 키워 줬더니 은혜를 원수로 갚아? 오늘 밤 안에 끝내." 미팅이 끝나면 <span class="character-parkhyesu">박혜수</span>는 돌아가고, 내일 아침 전에 혼자 있는 그녀를 만나기 어려움
@@ -262,7 +266,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     <div class="section-title">목표 - <span class="character-jeonghyeongmi">정형미</span></div>
     <ul class="goal-list">
       <li>
-        <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 9다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
+        <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 10다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
       </li>
       <li>
         <strong>수사의 방향</strong>: 시신을 살피며 당신은 "뒤에서 누군가 가격했다, 범인은 그때 2층에 올라갔던 사람"이라고 말했다. 조사가 계속 그 방향으로 흘러가게 한다. 창밖에서 날아온 무언가에 맞았을 수 있다는 생각이

@@ -31,10 +31,15 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811308/murdex/images/0c0e
 
 7. 역할 시트
 <div class="story-content">
-  <div class="role-notice innocent">
-    <div class="role-label">[ 본인 확인 ]</div>
-    <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
-  </div>
+  <details class="role-reveal">
+    <summary>
+      <span class="role-reveal-label">[ 본인 확인 ]</span>
+      <span class="role-reveal-hint"><span class="when-closed">눌러서 확인하세요</span><span class="when-open">접기</span></span>
+    </summary>
+    <div class="role-notice innocent">
+      <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+    </div>
+  </details>
 
   <section class="content-section">
     <div class="section-title">공통 정보</div>

@@ -98,12 +98,20 @@ Widescreen aspect ratio, 16:9. Interior view of a hidden low-ceilinged storage f
 =====================================================
 [역할 이미지 프롬프트 수정안] L1 확정 뒤에 쓴다
 =====================================================
-바뀐 점: 배경을 레퍼런스 L1로 고정하고, 허리에서 자르는 구도를 분명히 한다(샘플은 무릎 위까지 나왔다).
+바뀐 점: 배경을 레퍼런스 L1로 고정하고, 5명 모두 1층 회의실 의자에 앉아 있는 상반신(가슴~허리 위) 구도로 통일한다. 계절은 10월 늦가을 저녁이므로 가벼운 여름/봄 차림(소매 걷기, 깊게 파인 상의 등)을 피하고 긴소매 가을 복장으로 그린다. 비율은 1:1(정사각형)이다. 게임 화면에서 3:4 세로 틀로 잘리고 원형 아바타로도 쓰이므로 인물, 특히 얼굴을 화면 정중앙에 둔다(2026-11-18).
+[표정 및 시선 처리 (2026-11-18)]
+- 표정: 진상조사 자리이고 각자 숨긴 사정이 있어 누구도 웃을 상황이 아니다. 미소 없이 진지하고 굳은 표정(입을 다문 차분하고 긴장감 있는 무표정)으로 그린다.
+- 시선 방향: 5명 모두 회의실 동쪽 벽(화이트보드/모니터가 있는 벽) 쪽을 바라본다.
+  * 북쪽 줄(박혜수·노형철·유정석, 창문을 등지고 앉음): 정면에서 인물을 볼 때 동쪽 벽은 **화면 오른쪽**이므로, 고개와 시선이 **화면 오른쪽(동쪽 벽 모니터 방향)**을 향한다.
+  * 남쪽 줄(정준희·정형미, 남쪽 벽을 등지고 앉음): 정면에서 인물을 볼 때 동쪽 벽은 **화면 왼쪽**이므로, 고개와 시선이 **화면 왼쪽(동쪽 벽 모니터 방향)**을 향한다.
+[회의실 좌석 배치 (도면도_1층 기준)]
+- 북쪽 줄(창가 3석, 창문을 등지고 앉음, 왼쪽→오른쪽): 1) 박혜수(북-왼쪽 끝자리, 왼쪽 창문 앞, 화면 왼쪽 배경에 북서쪽 모서리와 서쪽 벽 문이 보이고 오른쪽 배경에 가운데 창문이 보임) / 2) 노형철(북-가운데 자리, 정중앙 창문 앞) / 3) 유정석(북-오른쪽 끝자리, 오른쪽 창문 앞, 화면 오른쪽 배경에 북동쪽 모서리와 동쪽 벽이 보임)
+- 남쪽 줄(남쪽 벽 3석, 창문을 마주 보고 앉음, 왼쪽→오른쪽): 4) 정준희(남-왼쪽 끝자리, 뒤쪽은 남쪽 평벽과 남서쪽 모서리/서쪽 벽) / 5) 정형미(남-가운데 자리, 뒤쪽은 남쪽 평벽이고 배경 왼쪽 편에 회의실 남동쪽 출입문이 보임) / 6) 남-오른쪽 끝자리(출입문 바로 앞): 빈자리
 앞부분(공통):
-Use the first reference image as the exact room: keep its layout, materials, windows and furniture. Use the second reference image only for the painting style. Widescreen aspect ratio, 16:9. Waist-up portrait cropped at the waist, three-quarter view, subject placed slightly left of center, looking just past the viewer, standing in front of the conference table with the sage-green windows behind.
+Use the first reference image as the exact room: keep its layout, materials, windows and furniture. Use the second reference image only for the painting style. Square aspect ratio, 1:1. Seated upper-body portrait (chest-to-waist up), three-quarter view, subject centered in the frame with the face in the upper middle, seated in a dark office chair at the conference table with the tabletop visible at the bottom of the frame.
 뒷부분(공통):
-Early evening dusk, warm yellowish ceiling lights, the last deep-blue daylight outside the windows, calm and slightly awkward mood. The [포인트 색] is the strongest color in the frame. Semi-realistic digital painting, painterly brushwork, natural muted palette of aged cream plaster walls, worn varnished wood and faded sage-green window paint, subtle film grain. No text, no letters, no words.
-가운데에는 각 역할지 "5. 이미지생성용 프롬프트"의 인물 묘사 부분만 넣는다.
+Early evening dusk in late autumn, warm yellowish ceiling lights, the last deep-blue daylight outside the windows, quiet tension. The [포인트 색] is the strongest color in the frame. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No text, no letters, no words.
+가운데에는 각 역할지 "5. 이미지생성용 프롬프트"의 좌석 위치 배경 + 인물 묘사 부분을 넣는다.
 
 
 =====================================================

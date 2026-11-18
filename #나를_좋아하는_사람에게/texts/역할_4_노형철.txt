@@ -14,7 +14,7 @@ RoleID : (미정)
 "그냥 장난이었어요." 문제의 고백글을 전사 단체방에 올린 사료관리팀 대리.
 
 5. 이미지생성용 프롬프트
-Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject placed slightly left of center, looking just past the viewer. A quiet, earnest Korean man in his late 20s, an assistant manager on a small corporate archive team. Tall and lean, plain short black hair, a visible five o'clock shadow along his jaw, steady, watchful eyes and an awkward half-smile that tries to look carefree. He wears a white shirt under a muted teal-green knit vest, no tie, and holds a smartphone loosely in both hands. Background: a dim meeting room inside an old two-story corporate archive building at night, long conference table, cold fluorescent light, old framed photographs on the wall slightly out of focus, dark window behind him. Semi-realistic digital painting, cinematic low-key lighting, desaturated steel-blue and navy palette with the teal-green accent, subtle film grain, quiet tension. No text, no letters, no words.
+Use the first reference image as the exact room: keep its layout, materials, windows and furniture. Use the second reference image only for the painting style. Square aspect ratio, 1:1. Seated upper-body portrait (chest-to-waist up), three-quarter view, subject centered in the frame with the face in the upper middle, seated in a dark office chair at the conference table with the tabletop edge visible at the bottom of the frame and the middle sage-green window of the meeting room behind. A tall, lean Korean man in his late 20s, an assistant manager on the small archive team, who posted the confession message that started tonight's inquiry. His tall frame is slightly hunched in the chair. Plain short black hair, a visible five o'clock shadow along his jaw. Steady, watchful eyes behind an awkward half-smile that tries to look carefree, as if he would rather laugh the whole thing off. Dressed for a chilly late-autumn October evening: a long-sleeved white dress shirt under a muted teal-green knit vest, no tie. His hands are loosely clasped on the table around a smartphone. Early evening dusk in late autumn, warm yellowish ceiling lights, the last deep-blue daylight outside the windows, calm and slightly awkward mood. The teal-green knit vest is the strongest color in the frame. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No text, no letters, no words.
 
 6. 역할 이미지
 (무시 - 사용자 직접 업로드 예정)
@@ -32,6 +32,16 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
 
 7. 역할 시트
 <div class="story-content">
+  <details class="role-reveal">
+    <summary>
+      <span class="role-reveal-label">[ 본인 확인 ]</span>
+      <span class="role-reveal-hint"><span class="when-closed">눌러서 확인하세요</span><span class="when-open">접기</span></span>
+    </summary>
+    <div class="role-notice innocent">
+      <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+    </div>
+  </details>
+
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
@@ -109,7 +119,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   </section>
 
   <section class="content-section">
-    <div class="section-title">캐릭터 배경</div>
+    <div class="section-title">배경 이야기</div>
     <p>
       나는 지방 소도시에서 할머니 손에 컸다. 부모님은 서울에서 맞벌이를 하느라 방학이 되어야 얼굴을 볼 수 있었다. 할머니는 무슨 얘기를 하든 옛날이야기로 끝나는 분이었다. 같은 얘기를 열 번째 들어도 처음 듣는 것처럼 맞장구를 쳐 드렸고, 그러다 보니 남의 말을 끝까지 듣는 버릇이 들었다.
     </p>
@@ -158,13 +168,10 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <strong>12:00 ~ 13:00</strong>: 2층 사무실에서 <span class="character-jeongjunhee">정준희</span> 사원의 환영회를 함. 케이크는 <span class="character-hadohoon">하도훈</span> 주임이 사 옴
       </li>
       <li>
-        <strong>13:00 ~ 17:50</strong>: 2층 사무실에서 철거에 대비해 사료를 정리함
+        <strong>13:00 ~ 18:00</strong>: 2층 사무실에서 철거에 대비해 사료를 정리함. 17:50쯤 동기 <span class="character-hadohoon">하도훈</span>이 "먼저 간다"며 퇴근함
       </li>
       <li>
-        <strong>17:50</strong>: 동기 <span class="character-hadohoon">하도훈</span>이 "먼저 간다"며 퇴근함
-      </li>
-      <li>
-        <strong>18:00</strong>: 1층 회의실에서 진상조사 미팅 시작. <span class="character-jeonghyeongmi">정형미</span> 차장, <span class="character-yoojeongseok">유정석</span> 팀장, 나, <span class="character-jeongjunhee">정준희</span> 네 명이 참석함. 글을 올린 당사자로서 질문을 받음
+        <strong>18:00 ~ 18:30</strong>: 1층 회의실에서 진상조사 미팅 시작. <span class="character-jeonghyeongmi">정형미</span> 차장, <span class="character-yoojeongseok">유정석</span> 팀장, 나, <span class="character-jeongjunhee">정준희</span> 네 명이 참석함. 글을 올린 당사자로서 질문을 받음
       </li>
       <li>
         <strong>18:30 ~ 18:35</strong>: <span class="character-parkhyesu">박혜수</span> 전략실장이 예정 없이 들어옴. 해프닝 하나에 회장의 최측근이 직접 나타났다는 게 마음에 걸림. 화장실에 다녀오겠다며 회의실을 나감. 1층 화장실은 2층으로 올라가는 계단 바로 앞에 있음. 화장실 안에 있을 때, 누군가 계단을 올라가는 발소리를 들음. 누구인지는 보지 못함
@@ -173,10 +180,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <strong>18:35 ~ 18:45</strong>: 회의실로 돌아오니 <span class="character-parkhyesu">박혜수</span>와 <span class="character-jeongjunhee">정준희</span>가 있었고, <span class="character-jeonghyeongmi">정형미</span>와 <span class="character-yoojeongseok">유정석</span>은 자리에 없었음
       </li>
       <li>
-        <strong>18:45</strong>: <span class="character-jeonghyeongmi">정형미</span>와 <span class="character-yoojeongseok">유정석</span>이 돌아와, 다섯 명이 함께 미팅을 이어감
-      </li>
-      <li>
-        <strong>18:45 ~ 19:55</strong>: 미팅이 생각보다 길어짐. 왜 그런 글을 올렸느냐는 질문에 "그냥 장난이었다"며 넘어가려 함. 그러면서 이 자리에서 누가 그 글에 유난히 반응하는지 지켜봄. <span class="character-jeonghyeongmi">정형미</span>가 "이것도 같이 보시죠"라며 조직문화 교육 영상을 여러 편 이어서 틀었고, 나와 <span class="character-yoojeongseok">유정석</span>, <span class="character-jeongjunhee">정준희</span>가 함께 봄. 나만 보면 될 텐데 두 사람까지 같이 보게 되어 의아했음. <span class="character-parkhyesu">박혜수</span>는 자리에 앉아 있었음
+        <strong>18:45 ~ 19:55</strong>: <span class="character-jeonghyeongmi">정형미</span>와 <span class="character-yoojeongseok">유정석</span>이 돌아와 다섯 명이 함께 미팅을 이어감. 생각보다 길어짐. 왜 그런 글을 올렸느냐는 질문에 "그냥 장난이었다"며 넘어가려 함. 그러면서 이 자리에서 누가 그 글에 유난히 반응하는지 지켜봄. <span class="character-jeonghyeongmi">정형미</span>가 "이것도 같이 보시죠"라며 조직문화 교육 영상을 여러 편 이어서 틀었고, 나와 <span class="character-yoojeongseok">유정석</span>, <span class="character-jeongjunhee">정준희</span>가 함께 봄. 나만 보면 될 텐데 두 사람까지 같이 보게 되어 의아했음. <span class="character-parkhyesu">박혜수</span>는 자리에 앉아 있었음
       </li>
       <li>
         <strong>19:55 ~ 20:00</strong>: <span class="character-parkhyesu">박혜수</span>가 담배를 피우고 오겠다며 자리를 비움
@@ -259,7 +263,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     <div class="section-title">목표 - <span class="character-nohyeongcheol">노형철</span></div>
     <ul class="goal-list">
       <li>
-        <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 9다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
+        <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 10다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
       </li>
       <li>
         <strong>동기의 죽음</strong>: <span class="character-hadohoon">하도훈</span>은 17:50에
@@ -279,7 +283,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         언제 꺼낼지 신중하게 판단한다.
       </li>
       <li>
-        <strong>경찰 신고</strong>: 조사 중에 단 한 번, 아무도 모르게 경찰에 신고할 수 있다. 조사 1단계의 AP는 9이고, 단서 조사와 신고에 1씩 든다. 회사 안에서 조용히 덮자는 분위기가 마음에 걸린다면 써볼
+        <strong>경찰 신고</strong>: 조사 중에 단 한 번, 아무도 모르게 경찰에 신고할 수 있다. 조사 1단계의 AP는 10이고, 단서 조사와 신고에 1씩 든다. 회사 안에서 조용히 덮자는 분위기가 마음에 걸린다면 써볼
         만하다.
       </li>
       <li>

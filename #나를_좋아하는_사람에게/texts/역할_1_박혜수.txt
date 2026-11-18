@@ -15,7 +15,7 @@ RoleID : (미정)
 전략실장.
 
 5. 이미지생성용 프롬프트
-Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject placed slightly left of center, looking just past the viewer. A poised Korean woman in her late 40s, executive director of a conglomerate's strategy office. Sharp, neatly styled short black hair, composed and unreadable expression with a faint, polite smile that does not reach her eyes. She wears a tailored black blazer over a dark top with light-colored suit trousers, a thin wine-red silk scarf, minimal jewelry, a slim wristwatch. One hand holds a smartphone loosely at her side. Background: a meeting room inside an old two-story building used as a corporate history archive, aged cream plaster walls, worn varnished wooden wainscoting, a long wooden conference table, old framed photographs on the wall slightly out of focus, a window with a faded sage-green painted wooden frame behind her. The wine-red scarf is the strongest color in the frame. Semi-realistic digital painting, painterly brushwork, natural muted palette of aged cream plaster walls, worn varnished wood and faded sage-green window paint, early evening dusk, warm yellowish ceiling lights, the last deep-blue daylight outside the windows, calm and slightly awkward mood, subtle film grain. No text, no letters, no words.
+Use the first reference image as the exact room: keep its layout, materials, windows and furniture. Use the second reference image only for the painting style. Square aspect ratio, 1:1. Seated upper-body portrait (chest-to-waist up), three-quarter view, subject centered in the frame with the face in the upper middle, seated in the far-left dark office chair on the window side of the conference table: directly behind her is the leftmost sage-green window, to the left of her in the background is the room's back-left corner and the left wall with its flush door (and the left end of the conference table is visible on the left side of the lower foreground), while to the right of her in the background is the middle sage-green window. A poised Korean woman in her late 40s, executive director of a conglomerate's strategy office. Sharp, neatly styled short black hair. Her head and gaze are turned slightly toward the right side of the frame (looking toward the presentation monitor on the east wall of the meeting room). She has NO smile at all — her mouth is closed in a serious, cool, guarded, and unreadable neutral expression, her sharp eyes quietly tense and watchful. Dressed for a chilly late-autumn October evening: she wears a structured, full-length long-sleeved black wool blazer (sleeves down to her wrists, not rolled up) over a high-neck dark charcoal knit top that covers her collarbone, with a wine-red silk scarf neatly draped around her neck, minimal jewelry, and a slim wristwatch near her wrist. One hand rests lightly on the conference table beside her smartphone. Early evening dusk in late autumn, warm yellowish ceiling lights, the last deep-blue daylight outside the windows, quiet tension. The wine-red scarf is the strongest color in the frame. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No text, no letters, no words.
 
 6. 역할 이미지
 (무시 - 사용자 직접 업로드 예정)
@@ -33,6 +33,16 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
 
 7. 역할 시트
 <div class="story-content">
+  <details class="role-reveal">
+    <summary>
+      <span class="role-reveal-label">[ 본인 확인 ]</span>
+      <span class="role-reveal-hint"><span class="when-closed">눌러서 확인하세요</span><span class="when-open">접기</span></span>
+    </summary>
+    <div class="role-notice innocent">
+      <div class="role-text">당신은 <span class="is-innocent">범인이 아닙니다</span>.</div>
+    </div>
+  </details>
+
   <section class="content-section">
     <div class="section-title">공통 정보</div>
     <div class="intro-narrative">
@@ -110,7 +120,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
   </section>
 
   <section class="content-section">
-    <div class="section-title">캐릭터 배경</div>
+    <div class="section-title">배경 이야기</div>
     <p>
       나는 지방 소도시의 철물점 집 막내딸로 자랐다. 위로 오빠가 둘 있었고, 집안의 기대는 늘 오빠들 몫이었다. 나는 그게 억울하다고 말하는 대신 성적표로 보여 줬다. 대학도 장학금을 받는 조건으로 겨우 서울에 올라왔다. 등록금을 대 주지 못한 아버지는 미안하다는 말 대신, 여자가 너무 똑똑하면 피곤하게 산다고 했다.
     </p>
@@ -189,10 +199,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <strong>12:00 ~ 18:00</strong>: 본사 전략실에서 일함. 오후에 회사 전화를 쓰지 않고 서경호 변호사에게 내일 10:00 상담을 잡음
       </li>
       <li>
-        <strong>18:00</strong>: 퇴근 시간이 되자마자 본사를 나와 역사관으로 향함. 같은 시각 역사관 1층 회의실에서는 <span class="character-jeonghyeongmi">정형미</span> 차장, <span class="character-yoojeongseok">유정석</span> 팀장, <span class="character-nohyeongcheol">노형철</span> 대리, <span class="character-jeongjunhee">정준희</span> 사원 네 명이 참석한 진상조사 미팅이 시작됨
-      </li>
-      <li>
-        <strong>18:20</strong>: 가는 길에 <span class="character-hadohoon">하도훈</span> 주임에게 전화함. 퇴근하는 중이라는 그에게 "6시 반까지 사무실에 와 있어"라고 말함
+        <strong>18:00 ~ 18:30</strong>: 퇴근 시간이 되자마자 본사를 나와 역사관으로 향함. 같은 시각 역사관 1층 회의실에서는 <span class="character-jeonghyeongmi">정형미</span> 차장, <span class="character-yoojeongseok">유정석</span> 팀장, <span class="character-nohyeongcheol">노형철</span> 대리, <span class="character-jeongjunhee">정준희</span> 사원 네 명이 참석한 진상조사 미팅이 시작됨. 18:20쯤 가는 길에 <span class="character-hadohoon">하도훈</span> 주임에게 전화함. 퇴근하는 중이라는 그에게 "6시 반까지 사무실에 와 있어"라고 말함
       </li>
       <li>
         <strong>18:30 ~ 18:35</strong>: 역사관에 도착해, 이미 미팅이 진행 중인 회의실에 예정 없이 들어가 "회장님이 이번 일을 재밌어하셔서, 제가 대신 좀 보러 왔어요"라고 말함. 곧 <span class="character-jeonghyeongmi">정형미</span>의 부탁으로 <span class="character-yoojeongseok">유정석</span>이 <span class="character-nohyeongcheol">노형철</span>의 팀원 평가 기록을 가지러 나갔고, <span class="character-nohyeongcheol">노형철</span>도 화장실에 다녀오겠다며 나감. <span class="character-yoojeongseok">유정석</span>이 자료를 들고 돌아오자 <span class="character-jeonghyeongmi">정형미</span>가 자료를 훑어봄
@@ -201,10 +208,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
         <strong>18:35 ~ 18:45</strong>: <span class="character-jeonghyeongmi">정형미</span>가 "팀장님과 잠깐 따로 얘기 좀 하시죠"라며 <span class="character-yoojeongseok">유정석</span>과 함께 나가, 회의실에 <span class="character-jeongjunhee">정준희</span>와 둘만 남음. 곧 <span class="character-nohyeongcheol">노형철</span>이 화장실에서 돌아옴
       </li>
       <li>
-        <strong>18:45</strong>: <span class="character-jeonghyeongmi">정형미</span>와 <span class="character-yoojeongseok">유정석</span>이 돌아와, 다섯 명이 함께 미팅을 이어감
-      </li>
-      <li>
-        <strong>18:45 ~ 19:55</strong>: 미팅이 생각보다 길어짐. <span class="character-jeonghyeongmi">정형미</span>가 "이것도 같이 보시죠"라며 조직문화 교육 영상을 여러 편 이어서 틀었고, <span class="character-nohyeongcheol">노형철</span>, <span class="character-yoojeongseok">유정석</span>, <span class="character-jeongjunhee">정준희</span>가 함께 봄. 그녀는 내게는 같이 보라고 하지 않음. 나는 자리에 앉아 사람들의 표정을 살핌. <span class="character-nohyeongcheol">노형철</span>은 "그냥 장난이었다"며 대충 넘어가려고만 함. 그 글이 사실 어떤 글인지 아는 사람이 이 중에 있는지는 끝내 감을 잡지 못함. 다들 퇴근해야 위층에서 기다리는 <span class="character-hadohoon">하도훈</span>을 만날 수 있었음. <span class="character-nohyeongcheol">노형철</span>이 글의 출처를 한마디라도 흘릴까 싶어 끝날 때까지 기다림
+        <strong>18:45 ~ 19:55</strong>: <span class="character-jeonghyeongmi">정형미</span>와 <span class="character-yoojeongseok">유정석</span>이 돌아와 다섯 명이 함께 미팅을 이어감. 생각보다 길어짐. <span class="character-jeonghyeongmi">정형미</span>가 "이것도 같이 보시죠"라며 조직문화 교육 영상을 여러 편 이어서 틀었고, <span class="character-nohyeongcheol">노형철</span>, <span class="character-yoojeongseok">유정석</span>, <span class="character-jeongjunhee">정준희</span>가 함께 봄. 그녀는 내게는 같이 보라고 하지 않음. 나는 자리에 앉아 사람들의 표정을 살핌. <span class="character-nohyeongcheol">노형철</span>은 "그냥 장난이었다"며 대충 넘어가려고만 함. 그 글이 사실 어떤 글인지 아는 사람이 이 중에 있는지는 끝내 감을 잡지 못함. 다들 퇴근해야 위층에서 기다리는 <span class="character-hadohoon">하도훈</span>을 만날 수 있었음. <span class="character-nohyeongcheol">노형철</span>이 글의 출처를 한마디라도 흘릴까 싶어 끝날 때까지 기다림
       </li>
       <li>
         <strong>19:55 ~ 20:00</strong>: 담배를 피우고 오겠다며 회의실을 나와 2층으로 올라감. 2층 여자화장실에서 화장을 고치며, 혹시 누가 따라 올라오지 않는지 계단 쪽 기척을 살핌
@@ -289,7 +293,7 @@ Widescreen aspect ratio, 16:9. Waist-up portrait, three-quarter view, subject pl
     <div class="section-title">목표 - <span class="character-parkhyesu">박혜수</span></div>
     <ul class="goal-list">
       <li>
-        <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 9다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
+        <strong>어깨너머로 보기</strong>: 조사 1단계의 AP는 10다. 단서를 조사할 때마다 1이 들고, 1을 쓰면 다른 사람이 가진 단서 하나를 몰래 엿볼 수 있다.
       </li>
       <li>
         <strong>범인 찾기</strong>: <span class="character-hadohoon">하도훈</span>을 죽인 사람이
