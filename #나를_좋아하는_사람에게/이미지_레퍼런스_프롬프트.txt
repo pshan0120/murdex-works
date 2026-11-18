@@ -1,0 +1,146 @@
+[#나를_좋아하는_사람에게 - 장소 레퍼런스 이미지 프롬프트] 2026-11-17
+
+목적: 역할, 단서, 컷씬 이미지가 모두 같은 건물로 보이게 하려고, 장소별 기준 이미지를 먼저 만든다.
+레퍼런스는 게임에 올리지 않는다. 이미지를 만들 때 생성기에 참고 이미지로 함께 넣는 용도다.
+
+[건물 공통 설정]
+- 1980년대에 지은 낡은 2층 사옥을 고쳐 회사 역사관으로 쓰는 건물이다. 곧 철거될 예정이라 자료를 정리하는 중이다.
+- 재료: 누렇게 바랜 크림색 회벽, 니스 칠이 닳은 나무 징두리 판벽, 바랜 세이지그린 페인트를 칠한 나무 오르내리창, 테라조 바닥, 형광등 천장.
+- 역사관다운 소품: 옛 사진 액자, 유리 진열장, 옛 상패와 트로피. 철거를 앞둔 흔적으로 군데군데 쌓인 자료 상자.
+- 레퍼런스에는 사람, 시신, 피, 흉기를 넣지 않는다. 단서로 나오는 물건(사다리, 끈, 난간 고리, 봉투, 쪽지, 층별 안내 화면 등)도 넣지 않는다.
+
+[공통 꼬리말]
+Semi-realistic digital painting, painterly brushwork, natural muted palette of aged cream plaster walls, worn varnished wood and faded sage-green window paint, subtle film grain. No people. No text, no letters, no words, no readable numbers.
+
+[만드는 순서]
+1차(역할 이미지와 시작 컷씬에 필요): L1 회의실 → L2 전시실 → L3 외관
+2차(조사 1단계 단서와 컷씬): L4 사료관리팀 사무실, L5 문서고, L6 1층 복도와 계단
+3차(조사 2·3단계): L7 옥상, L8 1.5층
+
+[쓰는 법]
+1. L1을 만들 때 01_박혜수.png를 화풍 참고로 넣는다(그림체만 참고하고 공간은 따르지 않게 한다).
+2. L1이 마음에 들면, 이후 레퍼런스는 L1을 화풍 참고로 넣어 만든다.
+3. 역할 이미지: L1(공간) + 먼저 확정한 역할 이미지 하나(구도와 화풍)를 함께 넣는다.
+4. 단서와 컷씬: 그 장소의 레퍼런스(L1~L8) + L1(화풍)을 넣는다.
+5. 프롬프트 앞에 아래 문장을 붙인다.
+   Use the first reference image as the exact room: keep its layout, materials, windows and furniture. Use the second reference image only for the painting style.
+
+
+=====================================================
+L1. 1층 회의실 (역할 이미지 배경, 빛 A)
+=====================================================
+Widescreen aspect ratio, 16:9. Symmetrical interior view of a standard, clean corporate meeting room on the ground floor of a conglomerate's suburban annex building, seen from the south wall looking straight toward the north window wall. The interior is a normal, practical corporate conference room — NOT an exhibition room, with NO trophy cabinets, NO museum display cases, and NO old framed photographs on the walls. Layout matching the floor plan: in the center, a clean modern rectangular conference table placed horizontally (parallel to the back wall), with three dark office conference chairs along the far long side (in front of the windows) and three matching office chairs along the near long side, and no chairs at the left or right ends. On the back wall behind the table is a row of three windows with muted sage-green painted frames. Directly outside the windows, the property's plain concrete perimeter wall (compound boundary wall) is visible right across the yard down to the bottom of the window panes (with NO flowerbed, shrubs, or plants visible at the base of the wall), and a distant dark mountain ridge and deep-blue early evening dusk sky above the top of the wall — NO trees, NO plants, and NO city buildings. Plain, clean light-toned office walls, a simple wall-mounted whiteboard on the right wall, a clean flush office door near the back-left corner, clean office floor tiles, and warm recessed ceiling lights. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No people. No text, no letters, no words, no readable numbers.
+
+파일명: L1_회의실
+
+
+=====================================================
+L2. 1층 전시실 (빛 A)
+=====================================================
+Widescreen aspect ratio, 16:9. Wide interior view of the ground-floor exhibition hall of a conglomerate's company history museum, matching the 1F floor plan. Clean, dignified modern corporate exhibition space (not dilapidated or antique). In the center of the open hall stands a bronze statue of the company founder (a middle-aged Korean man in a suit) on a round stone pedestal, raising one hand high overhead so that his fingertips almost touch the ceiling. Along the left, back, and front walls are rows of sleek glass-enclosed rectangular display cases (three along each wall) holding historical company artifacts, old ledgers, and early textile samples. On the right side of the hall, two freestanding exhibition partition walls extend into the space with framed historical photographs mounted on both sides. Clean light-toned walls, polished floor tiles (matching the meeting room), warm recessed ceiling lights mixed with subtle display case lighting. No windows in the main exhibition hall wall, no screens, no people, no text, no letters, no words, no readable numbers. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain.
+
+파일명: L2_전시실
+
+
+=====================================================
+L3. 건물 외관 정면 (표지·시작 컷 3·조사 1단계 컷 1·끝 컷 1의 기준, 빛 A)
+=====================================================
+※ 정면만 그린다. 동쪽 외벽(폐쇄된 출입문, 철제 계단 흔적)은 단서와 맞물리니 보이지 않게 한다. 도면도 1·2층 기준 정면(남쪽 외벽)에는 창문이 하나도 없고, 건물의 가로 폭이 세로 높이보다 훨씬 길며(약 3.5:1 이상의 넓은 비율), 1층 정문은 중앙이 아니라 오른쪽으로 치우친 위치(왼쪽 벽 길이가 오른쪽 벽 길이의 약 3~4배)에 있다.
+Widescreen aspect ratio, 16:9. Wide-angle straight-on front view of a long, wide two-story corporate archive building from the 1980s in the quiet suburbs, matching the 1F floor plan proportions. The building has a very wide, elongated horizontal proportion (its horizontal width is more than three times its height, seen from a slightly wider distance so more sky and mountain are visible above the flat roof). The entire front cream-colored concrete facade has NO windows at all. Importantly, the ground-floor glass double entrance door (with its security lamp above and paved walkway in front) is NOT in the center — it is positioned well to the right side of the facade (at roughly the three-quarters mark from the left), so the blank wall to the left of the entrance is about three to four times longer than the wall to the right of the entrance. Plain low shrubs along the front base. Behind the building rises a dark mountain ridge against the deep-blue early evening dusk sky. Front view only, side walls not visible. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No windows on the front wall, no people, no vehicles. No text, no letters, no words, no signboard lettering.
+
+파일명: L3_외관
+
+
+=====================================================
+L4. 2층 사료관리팀 사무실 (빛 B)
+=====================================================
+Widescreen aspect ratio, 16:9. Interior view of the second-floor archive team office in a conglomerate's suburban annex building at night, strictly matching the 2F floor plan layout, seen from the south side of the office looking toward the north (back) wall. Clean, standard Korean corporate office interior. Desk arrangement in the center-left: a 2x2 rectangular island of four horizontal office desks where the two far-row desks (north side) have two dark ergonomic office chairs on the back side facing the viewer, and the two near-row desks (south side) have two office chairs in the foreground facing the back wall (each desk with a desktop PC monitor); immediately against the left end of this 2x2 island stands one vertical team leader's desk oriented perpendicular to the 2x2 block with a chair on its left side, forming a 5-desk cluster. Along the back (north) wall there are EXACTLY FOUR windows with muted sage-green frames showing pitch-black night outside: three windows behind the desks and one fourth window to the right. Directly beneath that fourth window on the right, a long rectangular indoor planter box with green plants is placed HORIZONTALLY (left-to-right), flush against the back (north) wall. Along the left (west) wall behind the team leader's seat, there is a sage-green framed window and NO door at all. Clean light-toned office walls, clean office floor tiles, cold white fluorescent ceiling lights at night, pitch-black windows, hushed tension. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No people, no bodies, no blood. No text, no letters, no words, no readable numbers.
+
+파일명: L4_사료관리팀_사무실
+
+
+=====================================================
+L5. 2층 문서고 (빛 B)
+=====================================================
+Widescreen aspect ratio, 16:9. Interior view of the windowless second-floor document archive room in a conglomerate's company history archive building at night, matching the 2F floor plan. Clean, well-organized corporate document storage room (not dilapidated, no windows on any wall). Parallel rows of tall grey steel archive shelving units packed neatly with corporate ring binders, cardboard archival document boxes, and thick file folders across all shelf tiers (no rolled blueprints or tubes), with a straight aisle running between the shelf rows. On the lowest shelf tiers sit older yellowed document folders and archive boxes. Clean light-toned windowless walls, clean floor tiles matching the office, cold white fluorescent ceiling lights overhead casting quiet shadows between the shelf rows. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No windows, no people. No text, no letters, no words, no readable numbers on labels.
+
+파일명: L5_문서고
+
+
+=====================================================
+L6. 1층 복도와 계단 (빛 B)
+=====================================================
+※ 2026-11-18 다시 씀. 억지로 여러 문과 방을 한 화면에 넣지 않고, 계단을 바라보는 시선으로 깔끔한 벽면과 계단의 느낌만 정해 두는 레퍼런스로 만든다.
+※ 참고 이미지: L2_전시실.png(재질과 화풍).
+Widescreen aspect ratio, 16:9. Clean interior view looking directly at the indoor staircase on the ground floor of a conglomerate's company history archive building at night. No doors or other rooms forced into the frame — only the open floor, the clean surrounding walls, and the staircase rising straight ahead between plain light-toned walls with a simple metal handrail. Clean square floor tiles matching the meeting room and exhibition hall, cold white fluorescent ceiling panel lights at night, hushed tension. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No people, no doors, no windows, no text, no letters, no words, no signs.
+
+파일명: L6_1층_복도와_계단
+
+
+=====================================================
+L7. 옥상 (빛 C)
+=====================================================
+※ 동쪽 난간의 고리, 볼트 자국, 사다리는 단서라 넣지 않는다. 단서 이미지를 만들 때 이 레퍼런스에 더해 그린다.
+Widescreen aspect ratio, 16:9. The flat concrete rooftop of a two-story corporate archive building in the quiet suburbs at late night. A concrete stairwell housing (rooftop penthouse) with a closed heavy steel door, a low concrete parapet with a simple metal railing running around the roof edge, weathered concrete roof surface. Beyond the roof edge in the distance rises a dark mountain ridge against the night sky (no city skyscrapers). A faint orange glow from an outdoor security lamp rises from below the edge of the roof. Late night, sparse dim light, deep shadows, heavy tension. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No people, no ladders, no ropes, no hooks or rings. No text, no letters, no words, no readable numbers.
+
+파일명: L7_옥상
+
+
+=====================================================
+L8. 1.5층 (빛 C)
+=====================================================
+※ 콘크리트 건물 내부의 숨겨진 창고 층이다. 1) 층고가 성인 키를 간신히 넘을 만큼 훨씬 더 낮고 답답해야 한다(수납장이나 적재물 윗면이 천장에 거의 닿을 정도). 2) 내부에 구분된 내벽이나 칸막이 없이 한 층 전체가 하나로 넓게 트여 있어야 한다. 3) 천장에 달린 오래된 노출 형광등 3개 중 2개는 고장 나 꺼져 있고 1개만 희미하게 켜져 있어 공간 전체가 매우 어둡다. 4) 텅 비어 있지 않고, 옛 사옥 시절부터 쌓아 둔 각종 낡은 사무집기(철제 캐비닛, 포개 놓은 낡은 사무용 의자와 책상, 구식 모니터·타자기·복사기, 철제 선반, 서류 상자와 문서 더미)가 먼지를 뒤집어쓴 채 곳곳에 가득 쌓여 있고, 켜진 형광등 아래에만 책상과 의자 하나가 놓여 있다. 봉투, 쪽지, 사다리 등 단서 물건은 넣지 않는다.
+Widescreen aspect ratio, 16:9. Interior view of a hidden low-ceilinged storage floor (1.5F) sandwiched between the first and second floors of a concrete office building. 1) Extremely low flat concrete ceiling — barely high enough for a person to stand (about 1.8m high, so old filing cabinets and stacked boxes nearly touch the ceiling), creating a cramped, compressed vertical proportion. 2) A single continuous wide open floor spanning the entire level with NO interior dividing walls, NO partitions, and NO room dividers. 3) Pitch-dark except for three old exposed fluorescent tube fixtures mounted in a row along the low ceiling: TWO of the three fluorescent fixtures are broken and completely dark (turned off), and ONLY ONE single old fluorescent tube is dimly lit, casting a weak, gloomy pool of light in the middle while the rest of the wide space fades into deep shadow. 4) The floor is crowded and cluttered like an abandoned corporate storage attic filled with decades of discarded old office equipment and supplies: old steel filing cabinets, stacked disused office chairs and desks, old boxy CRT computer monitors and printers, dusty metal racks, cardboard archive boxes, and bundles of yellowed papers covered in thick dust, with one old office desk and a single chair cleared under the single working fluorescent light. Semi-realistic digital painting, painterly brushwork, natural muted palette, subtle film grain. No people, no ladders, no ropes, no envelopes, no notes, no USB drives. No text, no letters, no words, no readable numbers.
+
+파일명: L8_1.5층
+
+
+=====================================================
+[역할 이미지 프롬프트 수정안] L1 확정 뒤에 쓴다
+=====================================================
+바뀐 점: 배경을 레퍼런스 L1로 고정하고, 허리에서 자르는 구도를 분명히 한다(샘플은 무릎 위까지 나왔다).
+앞부분(공통):
+Use the first reference image as the exact room: keep its layout, materials, windows and furniture. Use the second reference image only for the painting style. Widescreen aspect ratio, 16:9. Waist-up portrait cropped at the waist, three-quarter view, subject placed slightly left of center, looking just past the viewer, standing in front of the conference table with the sage-green windows behind.
+뒷부분(공통):
+Early evening dusk, warm yellowish ceiling lights, the last deep-blue daylight outside the windows, calm and slightly awkward mood. The [포인트 색] is the strongest color in the frame. Semi-realistic digital painting, painterly brushwork, natural muted palette of aged cream plaster walls, worn varnished wood and faded sage-green window paint, subtle film grain. No text, no letters, no words.
+가운데에는 각 역할지 "5. 이미지생성용 프롬프트"의 인물 묘사 부분만 넣는다.
+
+
+=====================================================
+[도면도 2층 재생성] 2026-11-18
+=====================================================
+지금 images/도면도_2층.png를 참고 이미지로 넣고, 아래 프롬프트로 고친 판을 만든다.
+고치는 점:
+1. 제1자료실과 제2자료실 사이 벽을 없애고 "문서고" 한 방으로 합친다(단서 E 안내 화면, T1·등기 단서의 "문서고 맨 아래 칸"과 맞춘다).
+2. 사료관리팀 사무실에 동쪽 벽과 문을 만든다. 탕비실 서쪽 벽을 그대로 아래로 이어 문서고 윗벽까지 세우고, 그 벽에 복도 쪽으로 여는 문을 낸다(장면 1 "사료관리팀 사무실 문이 열려 있고").
+3. 벽 오른쪽, 탕비실과 문서고 사이에서 계단으로 이어지는 빈 곳이 2층 복도가 된다. 문서고 문은 이 복도 쪽 윗벽으로 옮긴다. 사무실에서 문서고로 바로 들어가는 문은 없앤다.
+4. "TBD" 글자를 지우고 빈 책상으로 둔다.
+※ 한글 글자가 깨져 나오면, 글자 없이 다시 만들고 글자만 따로 얹는다.
+
+Edit the reference image. It is a hand-drawn architectural floor plan of the second floor of a building, drawn in pencil on aged cream paper. Keep everything exactly the same: the canvas size and aspect ratio, the paper texture, the line style, the double border, the title box "역사관 2층" in the bottom right, the outer walls and all windows, the pantry "탕비실" with "냉장고" and "찬장", the restrooms, the staircase "계단" with its arrow, the desks labeled "유정석", "노형철", "정준희" and "하도훈", the chairs, the two "책장", and the "화분들" box. Make only these changes:
+1. Merge the two storage rooms in the lower half into one room. Remove the vertical wall that separates "제2자료실" (bottom left) from "제1자료실" (bottom center), and erase both labels. Write a single label "문서고" in the middle of the merged room. Keep all the shelf rectangles inside exactly where they are. Remove the small door on the wall between the bottom-left storage area and the office above it.
+2. Enclose the office. Draw a new vertical interior wall that continues the left wall of the pantry straight down, from the pantry's bottom-left corner to the top wall of the merged storage room. Put one swing door in this new wall, drawn as a quarter-circle arc like the pantry door, opening toward the open area on the right. That open area, between the pantry and the storage room and leading to the staircase, is the hallway.
+3. Move the door of the merged storage room to its top wall, on the hallway side to the right of the new wall, so the storage room opens only onto the hallway.
+4. Erase the text "TBD" and leave that desk empty with no label.
+Do not add any other rooms, furniture, labels or text. Write the Korean labels exactly as given, in the same hand-lettered style as the rest of the plan.
+
+파일명: 도면도_2층 (확정되면 images/도면도_2층.png를 바꾼다)
+
+
+=====================================================
+[도면도 1층 재생성] 2026-11-18
+=====================================================
+지금 images/도면도_1층.png를 참고 이미지로 넣고, 아래 프롬프트로 고친 판을 만든다.
+그대로 두는 것: 북쪽 벽에 붙은 화단, 서쪽 흡연구역과 자전거 보관소, 주차장, 전시실과 창업주 동상, 진열장, 회의실(창 3개, 의자 6개), 계단, 정문 위치.
+고치는 점:
+1. 동쪽 벽의 문은 그 자리에 두되, 오래전에 폐쇄된 문으로 그린다. 사옥 시절 하역장으로 쓰던 출입문이고, 그 바로 위 동쪽 외벽에 1.5층 문이 있다(1.5층은 도면에 그리지 않는다).
+2. 화장실을 여자화장실(왼쪽, 회의실 옆)과 남자화장실(오른쪽)로 나누고, 두 화장실 모두 북쪽 벽에 작은 창을 낸다.
+※ 정문 화단, 서쪽 복도, 서쪽 창은 넣지 않는다.
+※ 한글 글자가 깨져 나오면, 글자 없이 다시 만들고 글자만 따로 얹는다.
+
+Edit the reference image. It is a hand-drawn architectural floor plan of the ground floor of a building, drawn in pencil on aged cream paper. Keep everything exactly the same: the canvas size and aspect ratio, the paper texture, the line style, the double border, the title box "역사관 1층" in the bottom right, the outer walls and all existing windows, the flowerbed strip "화단" along the top (north) wall, the "흡연 구역" and "자전거 보관소" on the left, both "주차장" areas, the round "창업주 동상", all display cases and partition walls, the meeting room "회의실" with its table, six chairs and three windows, the staircase "계단" with its arrow, and the main entrance door in the bottom wall. Make only these changes:
+1. The door in the middle of the right (east) outer wall stays in the same place, but redraw it as an old, permanently sealed doorway: remove its swing arc, close the opening with a solid wall line, and draw a thin cross-hatched panel inside the opening so it reads as a door that was closed off long ago. Write a small label "폐쇄된 문" right next to it, inside the building.
+2. Split the restroom area to the right of the meeting room into two separate restrooms with a wall between them, each with its own door to the hall below. Label the left one (next to the meeting room) "여자화장실" and the right one "남자화장실". Put one small window in the top (north) outer wall of each restroom, drawn in the same style as the meeting room windows but much narrower.
+Do not add any other rooms, corridors, windows, doors, furniture, labels or text. Write the Korean labels exactly as given, in the same hand-lettered style as the rest of the plan.
+
+파일명: 도면도_1층 (확정되면 images/도면도_1층.png를 바꾼다)

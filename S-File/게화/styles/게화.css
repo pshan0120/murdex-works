@@ -209,6 +209,31 @@
     color: #ffffff;
 }
 
+/* 단계 설명 맨 위의 "꼭 확인" 상자. 강조(.emphasis)와 같은 주황 계열로, 한 단계 설명에서 상자 하나만 쓴다. */
+.story-content .must-read {
+    margin: 1.5rem 0;
+    padding: 1.1rem 1.25rem 0.4rem;
+    background: rgba(224, 149, 90, 0.08);
+    border: 1px solid rgba(224, 149, 90, 0.35);
+    border-left: 4px solid #e0955a;
+    border-radius: 2px;
+}
+
+.story-content .must-read .must-read-title {
+    margin-bottom: 0.9rem;
+    font-weight: 700;
+    color: #e0955a;
+    letter-spacing: 0.04em;
+}
+
+.story-content .must-read ol {
+    margin-bottom: 0.4rem;
+}
+
+.story-content .must-read li {
+    line-height: 1.7;
+}
+
 /* 접이식 섹션 (Details/Summary) */
 .story-content details {
     background: rgba(127, 212, 201, 0.03);
