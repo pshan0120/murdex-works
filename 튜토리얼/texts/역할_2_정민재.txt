@@ -64,6 +64,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811302/murdex/images/0c0e
     <ul>
       <li><strong>뒷문 비밀번호</strong>: 납품하려고 뒷문 비밀번호를 받아 두었다.</li>
       <li><strong>트럭</strong>: 한빛물류 트럭이 뒷골목에 서 있다. 시동을 끄면 블랙박스가 주차 녹화로 바뀐다.</li>
+      <li><strong>지갑</strong>: 지갑의 가족사진 뒤에 지난달 25일 점주에게 100만 원을 보낸 ATM 명세표가 접혀 있다.</li>
       <li><strong>알바생의 창고 정리</strong>: 납품 날이면 2시 반쯤 알바생이 창고에 들어와 새로 들어온 물건을 정리한다. 그동안 카운터가 빈다. 납품이 늦어진 날 창고에서 몇 번 마주쳐서 안다.</li>
     </ul>
   </section>
@@ -143,9 +144,9 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811302/murdex/images/0c0e
     <div class="subsection-title"><span class="character-ohseongtaek">오성택</span> - 점주</div>
     <p>당신의 약점을 쥐고 5월부터 돈을 뜯어 간 사람.</p>
     <div class="subsection-title"><span class="character-seojihun">서지훈</span> - 야간 알바생</div>
-    <p>늘 카운터에 있는 조용한 청년. 인사만 나누는 사이다.</p>
+    <p>야간 알바생. 납품이 늦어진 날 창고에서 몇 번 마주쳐 인사만 나눈 사이다.</p>
     <div class="subsection-title"><span class="character-choiyuna">최유나</span> - 창가의 손님</div>
-    <p>납품을 마치고 가끔 매장에 들를 때 창가 테이블에서 노트북을 두드리던 얼굴이다. 말을 섞어 본 적은 없다.</p>
+    <p>오늘 정문으로 들어왔을 때 창가 테이블에 앉아 있던 손님. 처음 보는 얼굴이다.</p>
     <div class="subsection-title"><span class="character-ohharin">오하린</span> - 점주의 조카</div>
     <p>처음 보는 사람이다.</p>
   </section>
@@ -156,14 +157,7 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811302/murdex/images/0c0e
 ※ 항목마다 비밀 한 건으로 등록한다. 굵은 글자가 제목이다.
 
 <ul>
-  <li><strong>빼돌린 담배</strong>: 4월부터 납품처 몇 곳에서 담배를 덜 내리고 전표는 원래대로 적었다. 5월에 들킨 뒤로 늘푸른마트에서는 빼지 않았지만, 다른 곳에서는 지금도 빼돌린다. 들키면 회사에서 잘리고 횡령으로 고소당한다.</li>
-  <li><strong>집행유예</strong>: 2년 전 음주운전 사고로 집행유예를 받았고, 유예 기간이 다섯 달 남았다. 그 사이 다시 벌을 받으면 감옥에 간다.</li>
-  <li><strong>매달 100만 원</strong>: 5월부터 점주에게 입막음 값으로 매달 100만 원을 보냈다. 점주 통장에 기록이 남아 있을 것이다.</li>
-  <li><strong>2시 16분의 전화</strong>: 점주가 2천만 원을 내일 아침까지 가져오지 않으면 경찰서에 가겠다고 했다. 당신 휴대폰 통화 목록에도 1분 12초짜리 통화가 남아 있다.</li>
-  <li><strong>지갑 속 명세표</strong>: 지갑의 가족사진 뒤에 지난달 25일 점주에게 100만 원을 보낸 ATM 명세표가 접혀 있다.</li>
   <li><strong>2시 22분</strong>: 당신은 뒷문으로 다시 들어가 점주를 소화기로 내리쳤다. 점주는 생수 박스 더미 뒤로 끌어다 가렸다. 소화기는 박스 더미와 벽 사이 틈에 있다.</li>
-  <li><strong>2시 37분</strong>: 정문으로 들어온 것은 사무실의 전표 파일을 찾아 없애려던 것이다. 사무실에 사람이 있어 들어가지 못했다.</li>
-  <li><strong>트럭 안</strong>: 법원에서 온 서류 봉투가 조수석 발밑에 떨어져 있다. 블랙박스에는 움직임이 감지된 시각이 남아 있다.</li>
 </ul>
 
 9. 단계별 역할 지침
@@ -175,9 +169,12 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811302/murdex/images/0c0e
     <p>끝까지 범인으로 지목되지 않는다.</p>
     <div class="section-title">이번 단계에서</div>
     <ul class="goal-list">
-      <li><strong>그 시각 어디 있었는지</strong>: 누가 2시 이후 어디 있었냐고 물으면 "당신이 하는 이야기"대로 답한다. 묻기 전에 먼저 꺼내면 오히려 수상해 보인다.</li>
-      <li><strong>파일</strong>: 점주가 모아 둔 전표 파일이 가게 안 어딘가에 있다. 누군가 찾아내면 당신의 비밀이 드러난다. 찾은 사람이 있는지 대화에서 살피고, 나오면 "사장님한테 개인적으로 빌린 돈이 있었다"고 둘러댄다.</li>
-      <li><strong>의심 돌리기</strong>: 다른 세 사람에게도 점주와 얽힌 사정이 있을지 모른다. 그런 이야기가 나오면 놓치지 말고 짚는다.</li>
+      <li><strong>그 시각 어디 있었는지</strong>: 누가 2시 이후 어디 있었냐고 물으면 "당신이 하는 이야기"대로 답한다. 묻기 전에 먼저 꺼내면 오히려 수상해 보인다.</li>
+
+      <li><strong>파일</strong>: 점주가 모아 둔 전표 파일이 가게 안 어딘가에 있다. 누군가 찾아내면 당신의 비밀이 드러난다. 찾은 사람이 있는지 대화에서 살피고, 나오면 "사장님한테 개인적으로 빌린 돈이 있었다"고 둘러댄다.</li>
+
+      <li><strong>의심 돌리기</strong>: 다른 세 사람에게도 점주와 얽힌 사정이 있을지 모른다. 그런 이야기가 나오면 놓치지 말고 짚는다.</li>
+
       <li>
         <strong>이런 이야기가 나오면</strong>: 아래처럼 둘러댈 수 있다. 꼭 이대로 말할 필요는 없다.
         <ul>
@@ -200,9 +197,12 @@ https://res.cloudinary.com/dkzctfx9z/image/upload/v1794811302/murdex/images/0c0e
     <p>끝까지 범인으로 지목되지 않는다.</p>
     <div class="section-title">이번 단계에서</div>
     <ul class="goal-list">
-      <li><strong>트럭 블랙박스</strong>: 블랙박스에는 움직임이 감지된 시각이 남는다. 누가 보기 전에 메모리 카드를 빼 두고 싶다.</li>
-      <li><strong>끝까지 버티기</strong>: 회색 실밥 이야기가 나오면 회색 옷을 입은 사람이 셋이나 된다고 말한다. 법원 서류가 나오면 "다 끝난 일"이라고 넘긴다. 블랙박스 움직임 기록이 나오면 비바람에 차가 흔들렸거나 트럭 안에서 전표를 정리했다고 말할 수 있다. 2시 16분 통화 이야기가 나오면 "다음 주 주문 얘기였다"고 한다.</li>
-      <li><strong>다른 사람의 사정</strong>: 다른 사람에게 불리한 이야기가 나오면 놓치지 말고 짚는다.</li>
+      <li><strong>트럭 블랙박스</strong>: 블랙박스에는 움직임이 감지된 시각이 남는다. 누가 보기 전에 메모리 카드를 빼 두고 싶다.</li>
+
+      <li><strong>끝까지 버티기</strong>: 회색 실밥 이야기가 나오면 회색을 걸친 사람이 당신 말고도 셋이나 된다고 말한다. 법원 서류가 나오면 "다 끝난 일"이라고 넘긴다. 블랙박스 움직임 기록이 나오면 비바람에 차가 흔들렸거나 트럭 안에서 전표를 정리했다고 말할 수 있다. 2시 16분 통화 이야기가 나오면 "다음 주 주문 얘기였다"고 한다.</li>
+
+      <li><strong>다른 사람의 사정</strong>: 다른 사람에게 불리한 이야기가 나오면 놓치지 말고 짚는다.</li>
+
       <li><strong>범행 시각</strong>: 이야기가 2시 22분 무렵으로 모이면 다른 시각으로 돌려 본다.</li>
     </ul>
   </section>

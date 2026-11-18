@@ -1,14 +1,14 @@
 [최종 질문] 단계 6 투표에 등록한다. 2026-11-12 초안, 사용자 검토 전.
 
 ※ 두 질문 모두 전원 투표다. 기권 선택지는 없다.
-※ Q1(범인)은 동률이면 재투표한다(allow_tie=0). Q2(범행 시각)는 재투표하지 않는다(allow_tie=1). 재투표가 나오면 플레이어가 "내 답이 갈렸다"는 것을 알게 되어 답을 고쳐 낼 수 있기 때문이다(2026-11-15 사용자 지정). Q2가 동률이면 정답 단독 1위가 아니므로 엔딩 B로 간다.
+※ 두 질문 모두 동률이어도 재투표하지 않는다(allow_tie=1). Q1(범인)이 동률이면 정민재 단독 1위가 아니므로 검거 실패(엔딩 C)로 간다. 이 작품은 범인이 매우 불리해서 동률 재투표까지 주면 범인이 더 불리해지기 때문이다(2026-11-18 테스트 40차, 사용자 지정. 2026-11-15의 "Q1 동률이면 재투표"를 바꿈). Q2가 동률이면 정답 단독 1위가 아니므로 엔딩 B로 간다.
 ※ 결과는 결말 단계에서 한꺼번에 보여 준다(show_result_after_submit=0).
 
 === Q1 ===
 코드: Q1
 QuestionID: 6519e20d-fcc7-5b85-96ba-543687ec527c
 대상: 전원
-유형: 투표 (is_multiple_choice=1, is_vote=1, allow_tie=0, is_required=1, show_result_after_submit=0)
+유형: 투표 (is_multiple_choice=1, is_vote=1, allow_tie=1, is_required=1, show_result_after_submit=0)
 순서: 1
 제목:
 <div class="subsection-title">범인 지목</div>
