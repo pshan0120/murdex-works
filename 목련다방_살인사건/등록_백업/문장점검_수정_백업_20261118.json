@@ -1,0 +1,62 @@
+[
+ {
+  "table": "story_step",
+  "column": "description",
+  "value": "<div class=\"story-content\">\n  <div class=\"section-title\">사건, 발생하다</div>\n  \n  <p>1982년 12월, 폭설이 내리는 경기도 외곽의 읍내. 연락을 받고 도착한 <strong>'목련다방'</strong> 내부.</p>\n  \n  <p>당신의 시선 끝에는 두 명의 용의자가 현장에 남아 있습니다.</p>\n  \n  <ul>\n    <li>손톱을 물어뜯으며 초조하게 다리를 떠는 배달원 <span class=\"character-lee\">이 군</span>.</li>\n    <li>초점 없는 눈으로 입술을 깨무는 종업원 <span class=\"character-yang\">미스 양</span>.</li>\n  </ul>\n  \n  <p>당신은 카운터의 낡은 다이얼 전화기를 돌려 관할 파출소에 지원을 요청했습니다. 순경들이 도착하기 전까지, 개인적인 감정을 배제하고 용의자들을 철저히 통제하며 현장을 보존해야 합니다.</p>\n  \n  <hr>\n  \n  <div class=\"beginner-guide\">\n    <h3>튜토리얼: 게임 화면 익히기</h3>\n    <p>이 시나리오는 머덱스 플랫폼의 <strong>기본적인 조작법</strong>을 익히기 위해 제작되었습니다.</p>\n    \n    <ol style=\"margin-top: 12px; line-height: 1.8;\">\n      <li><strong>내 정보 확인</strong>\n        <p>하단 메뉴의 <span class=\"highlight\">MY</span> 버튼을 누르고 <span class=\"highlight\">내 역할</span>을 클릭해 보세요. 당신의 <span class=\"highlight\">캐릭터 배경</span>, <span class=\"highlight\">수사 규칙</span>, 그리고 <span class=\"highlight\">목표</span>가 상세히 적혀 있습니다. 또한, 별도의 <span class=\"emphasis\">비밀 정보</span> 탭을 통해 당신만이 알고 있는 과거의 인연을 꼭 확인하세요.</p>\n      </li>\n      \n      <li><strong>단계 설명 (현재 화면)</strong>\n        <p>지금 보고 계신 화면은 현재 단계의 <strong>사건 개요</strong>입니다. 하단 메뉴의 <span class=\"highlight\">INFO</span> > <span class=\"highlight\">단계 설명</span>을 통해 언제든지 다시 확인할 수 있습니다.</p>\n      </li>\n\n      <li><strong>다음 단계로 이동</strong>\n        <p>내용을 모두 확인하셨다면, 하단 메뉴 바 우측의 <span class=\"highlight\">Next</span> 버튼을 눌러 진행해 주세요.</p>\n      </li>\n    </ol>\n  </div>\n</div>"
+ },
+ {
+  "table": "story_step",
+  "column": "description",
+  "value": "<div class=\"story-content\">\n  <div class=\"section-title\">남겨진 단서를 조사하다</div>\n  \n  <div class=\"script-direction\">\"어이구, 형사양반! 이건 오해요, 오해!\"</div>\n  \n  <p>다방 문을 열고 들어서던 건물주 <span class=\"character-kim\">김 사장</span>이 바닥의 피비린내와 당신을 발견하고 흠칫 놀라 뒷걸음질을 칩니다. 당신은 도망치려는 그의 멱살을 잡아 거칠게 안으로 끌고 들어옵니다.</p>\n\n  <p>현장에 용의자 3인이 모두 모였습니다. 이제 다방 내부를 샅샅이 수색하여 저들의 진술을 깨부술 물증을 확보할 차례입니다.</p>\n  \n  <p>새로운 단서들이 배치되었습니다. 다방 내부의 사물과 흔적을 샅샅이 조사하여 진실에 다가가십시오.</p>\n  \n  <hr>\n\n  <div class=\"beginner-guide\">\n    <h3>튜토리얼: 조사와 행동력(AP)</h3>\n    <p>이번 단계의 핵심은 <strong>단서 수집</strong>입니다. 범인을 잡으려면 증거가 필요합니다.</p>\n    \n    <ol style=\"margin-top: 12px; line-height: 1.8;\">    \n      <li><strong>행동력(AP) 사용</strong>\n        <p>각 단서를 조사할 때마다 하단에 표시된 <span class=\"highlight\">행동력(AP)</span>이 소모됩니다. 당신에게 주어진 AP는 한정되어 있으니 신중하게 선택해야 합니다.</p>\n      </li>\n\n      <li><strong>단서 획득</strong>\n        <p>조사에 성공하면 <strong>단서</strong>를 획득하게 됩니다. 획득한 단서는 하단 메뉴의 <span class=\"highlight\">MY</span> > <span class=\"highlight\">내 단서</span>에서 언제든지 다시 읽어볼 수 있습니다.</p>\n      </li>\n\n      <li><strong>단서 속 버튼</strong>\n        <p>단서를 열어 보면 내용 아래에 <span class=\"highlight\">버튼</span>이 달려 있기도 합니다. 단서에 적힌 대로 직접 행동해 보는 버튼이며, 누르면 행동력(AP)이 소모되고 단서의 내용이 바뀝니다.</p>\n      </li>\n\n      <li><strong>액션 사용</strong>\n        <p>캐릭터에게는 특수 능력(액션)이 있습니다. 하단 메뉴의 <span class=\"highlight\">MY</span> > <span class=\"highlight\">내 액션</span>에서 사용할 수 있는 액션을 확인해 보세요. 단서에 버튼이 없어도, 액션으로 더 깊이 조사할 수 있는 단서가 있습니다.</p>\n      </li>\n    </ol>\n  </div>\n</div>"
+ },
+ {
+  "table": "story_step",
+  "column": "description",
+  "value": "<div class=\"story-content\">\n  <div class=\"section-title\">눈은 여전히 내리고</div>\n  \n  <p>사건의 진상이 밝혀졌고, 살인범은 체포되었습니다. 목련다방을 둘러싼 치정과 채무 관계 역시 조사 파일로 정리되었습니다.</p>\n  \n  <p>이것으로 목련다방 살인사건의 수사가 공식적으로 종료되었습니다. 하지만 도시 곳곳에는 아직 해결되지 않은 수많은 미스터리들이 남아 있습니다.</p>\n  \n  <p>머덱스가 제공하는 다른 <strong>프리미엄 시나리오</strong>를 통해 새로운 사건들을 조사해 보십시오.</p>\n  \n  <hr>\n  \n  <div class=\"beginner-guide\">\n    <h3>튜토리얼 완료!</h3>\n    <p>축하합니다! 머더 미스터리의 기본기를 모두 익히셨습니다.</p>\n    <p>이 창을 닫으면 추리 결과가 공개됩니다. 엔딩을 충분히 즐기신 후, 다른 작품을 이용하시려면 반드시 <span class=\"emphasis\">이용 종료</span>를 해주셔야 합니다. 당신을 기다리는 또 다른 미스터리에서 다시 뵙기를 고대하겠습니다.</p>\n  </div>\n</div>"
+ },
+ {
+  "table": "clue_variant",
+  "column": "clue_content",
+  "value": "<div class=\"story-content\">\n  <p>시신은 바닥에 쓰러져 있습니다. 뒤통수 상처 주변에 피가 조금 묻어 있고, 이미 검게 굳어 있습니다. 앞치마 주머니 안감이 밖으로 뒤집혀 튀어나와 있습니다. 오른쪽 엄지손가락 끝에 옅게 번진 붉은색 자국이 남아 있습니다. 입술에는 립스틱이 번져 있고, 입가에는 하얗게 마른 침 자국이 남아 있습니다.</p>\n</div>"
+ },
+ {
+  "table": "clue_variant",
+  "column": "clue_content",
+  "value": "<div class=\"story-content\">\n  <p>테이블 위에는 두 개의 찻잔이 놓여 있습니다. 그 중 하나는 쌍화차가 반쯤 남아 있습니다. 이 잔의 테두리에는 붉은색 립스틱 자국이 묻어 있고, 찻잔 접시에는 약간의 물기가 묻어 있습니다. 맞은편에 놓인 다른 잔은 거의 다 비어 있고, 접시에 물기가 거의 없습니다.</p>\n</div>"
+ },
+ {
+  "table": "clue_variant",
+  "column": "clue_content",
+  "value": "<div class=\"story-content\">\n  <p>\"다방 출입한 사람들? 다 지켜봤지. <strong>저녁 8시 반쯤</strong> 미스 양이 나갔고, <strong>밤 9시쯤</strong>에 김 사장이 들어갔다가 <strong>20분</strong> 있다 얼굴이 허옇게 질려서 뛰쳐나갔지. <strong>9시 10분</strong>인가 이 군이 오토바이를 타고 나갔고, 그러고 나서 한 <strong>30분 있다가</strong> 돌아왔을 거야. 아까 <strong>10시 되기 10분 전</strong>에 미스 양이 돌아오는 걸 봤어. 직후에 비명 소리가 났고 형사 양반도 뛰어 들어갔잖아.\"</p>\n</div>"
+ },
+ {
+  "table": "clue_variant",
+  "column": "clue_content",
+  "value": "<div class=\"story-content\">\n  <p>미스 양의 주머니에는 <strong>중앙약국</span>에서 <strong>오늘 날짜</span>으로 처방받은 수면제 봉투가 있습니다. 수면제에 대해 묻자 미스 양이 대답합니다. \"요즘 도통 잠을 잘 수가 없어서 지어온 거예요.\"</p>\n</div>"
+ },
+ {
+  "table": "clue_variant",
+  "column": "clue_content",
+  "value": "<div class=\"story-content\">\n  <p>\"마담에 대해 아는 게 있냐고? 그 여자는 뭐든 차갑게 마시는 걸 좋아했지. 얼어 죽어도 아이스였다니까.\"</p>\n</div>"
+ },
+ {
+  "table": "story_step",
+  "column": "outro",
+  "value": "<div class=\"story-content\">\n  <p>기나긴 수사 끝에 목련다방 살인사건의 진상이 밝혀졌습니다.</p>\n  <p>사건의 진범은 <strong>미스 양</strong>이었습니다. 어머니의 수술비마저 가로챈 최 마담의 탐욕이 그녀를 살인으로 내몰았습니다.</p>\n\n  <div class=\"retro-box with-label\" style=\"--box-label: '사건의 전말'\">\n    <div class=\"subsection-title\">살해 트릭</div>\n    <p>미스 양은 마담이 늘 차가운 음료를 고집한다는 점을 노렸습니다. 저녁 8시 30분경 주방 냉동실에 농약을 탄 물로 얼음을 얼려둔 뒤, 의심을 피하고자 일부러 다방 밖으로 나가 알리바이를 확보했습니다. 약국에서 굳이 수면제를 처방받은 것은 훗날 수사가 좁혀올 때를 대비해 준비한 가짜 단서였습니다.</p>\n    \n    <div class=\"subsection-title\">사건 당일 타임라인</div>\n    <ul>\n      <li><strong>20:30 (독살 세팅):</strong> 미스 양이 주방 냉동실에 농약 얼음을 세팅하고 알리바이를 위해 중앙약국으로 출발합니다.</li>\n      <li><strong>21:00 (담판 시작):</strong> 김 사장이 다방에 도착하여 최 마담과 계약 관련 담판을 시작합니다. 최 마담은 평소 습관대로 쌍화차에 직접 문제의 독 얼음을 띄워 마십니다.</li>\n      <li><strong>21:10 (이탈):</strong> 험악한 말싸움을 목격한 이 군이 역전 당구장으로 그릇을 수거하러 나갑니다.</li>\n      <li><strong>21:20 (사망):</strong> 서서히 독이 퍼진 최 마담이 그 자리에서 고꾸라집니다. 놀란 김 사장은 마담이 기절한 줄로만 착각하여 계약서 1부에만 억지 지장을 찍고 도망칩니다. <span class=\"emphasis\">(비뚤어진 지장이 찍힌 이유)</span></li>\n      <li><strong>21:40 (시신 훼손):</strong> 그릇 수거를 마친 이 군이 다방으로 복귀합니다. 자는 줄 알고 금고 열쇠를 훔치려다, 사후 경련으로 시신이 움찔하자 놀라 밀쳐버립니다. 이 충격으로 마담의 머리가 모서리에 부딪히며 출혈이 발생합니다. <span class=\"emphasis\">(시신에 타박상이 생긴 이유)</span></li>\n      <li><strong>21:42~21:50 (절도 및 복귀):</strong> 놀란 이 군은 금고를 열어 50만 원의 현금 뭉치를 가방에 챙깁니다. 도망쳤던 김 사장은 건달 사무실에서 뺨을 맞고 나머지 계약서 1부를 마저 찍기 위해 다시 다방으로 발길을 돌립니다.</li>\n      <li><strong>21:50 (발견 및 제압):</strong> 눈보라로 인해 복귀가 지연된 미스 양이 다방 문을 엽니다. 시신과 돈을 훔치던 이 군을 발견하고 비명을 질렀고, 때마침 도착한 박 반장이 진입하며 현장을 통제합니다. 10분 뒤, 다방으로 돌아온 김 사장 역시 현장에서 제압됩니다.</li>\n    </ul>\n    \n    <div class=\"subsection-title\">오답 해설</div>\n    <ul>\n      <li><strong>김 사장:</strong> 내일 당장 목숨이 위태로운 상황이었으므로 살해 동기는 충분했습니다. 하지만 그는 홀에서 마담과 대면했을 뿐 주방 냉동실 안의 얼음에 접근할 수 없었고, 독살에 쓰일 만한 어떠한 도구도 가지고 있지 않았습니다. 이는 그가 진범이 아니라, 갑작스러운 죽음에 당황하여 서둘러 지장만 훔쳐 찍고 달아난 목격자임을 증명합니다.</li>\n      <li><strong>이 군:</strong> 그가 화상 찜질을 핑계로 주방 얼음에 직접 접근했던 것은 사실입니다. 게다가 그는 독살에 쓸 수 있는 쥐약까지 소지하고 있어 가장 유력한 용의자로 보입니다. 하지만 <strong>'만물상 주인의 증언'</strong>에 따르면 그 쥐약은 물이나 얼음에 녹지 않는 특성이 있어, 음료에 몰래 타서 마담에게 먹일 방법이 없었습니다. 그는 단지 사후 경련에 놀라 시신을 밀치고 돈을 훔친 절도범에 불과합니다.</li>\n    </ul>\n  </div>\n\n  <p>이로써 1982년 겨울밤, 서로의 엇갈린 욕망과 절망이 만들어낸 목련다방의 비극은 막을 내립니다. 플레이해주셔서 감사합니다.</p>\n</div>"
+ },
+ {
+  "table": "story_ending",
+  "column": "ending_story",
+  "value": "<div class=\"story-content\">\n  <p>결정적인 물증을 잡아내지 못한 채, 숨 막히는 시간만 야속하게 흘러갔습니다.</p>\n  \n  <div class=\"script-line\"><span class=\"character-bak\">박 반장</span>: \"심증만으론 아무 놈도 잡아넣을 수 없는 게야. 이놈의 썩어빠진 법 구석이 원래 이따위란 말이지...\"</div>\n  \n  <p>확실한 증거가 없었기에 용의자들은 하나둘씩 경찰의 감시망을 빠져나갔습니다. 현장을 떠나는 그들의 비열한 뒷모습을 보며 <span class=\"character-bak\">박 반장</span>은 허탈하게 마른세수를 했습니다. 저들 중 누군가의 손에는 분명 그녀의 피가 묻어있을 터인데, 자신의 무능함이 또 한 번 그녀를 죽인 것만 같았습니다.</p>\n  \n  <p>다음 날 새벽, 목련다방의 금고는 누군가에 의해 텅 비워져 있었고, 용의자들은 서울 바닥에서 영영 종적을 감췄습니다. 남은 것은 미제 사건이라는 꼬리표와, 평생 박 반장을 따라다닐 지독한 악몽뿐이었습니다.</p>\n  \n  <p><span class=\"character-bak\">박 반장</span>은 텅 빈 다방 소파에 홀로 앉아 박 마담을 내려보았습니다. 아까부터 주방 구석에서 희미하게 맡았던 독한 냄새, 그리고 주방 찬장 뒤편의 부자연스러운 틈새... 그 사소한 파편들의 의미를 조금만 더 일찍 깨달았더라면 진실은 달라졌을지도 모릅니다.</p>\n  \n  <div class=\"script-line\"><span class=\"character-bak\">박 반장</span>: \"결국 이번에도... 자네 억울함을 풀어주지 못했네. 이 무능한 놈을 원망하시게나.\"</div>\n  \n  <p><span class=\"character-bak\">박 반장</span>은 담배에 불을 붙히지 못했습니다.</p>\n</div>"
+ },
+ {
+  "table": "role",
+  "column": "public_info",
+  "value": "<div class=\"story-content\">\n  <div class=\"retro-box\">\n    <p>1982년 12월, 눈 내리는 경기도 외곽의 읍내. 목련다방에 도착한 <span class=\"character-bak\">박 반장</span>은 말없이 출입문을 봉쇄했습니다.</p>\n    <p>당신은 낡은 베이지색 트렌치코트를 입은 강력계 형사입니다. 며칠 감지 않은 반백의 헝클어진 머리와 깊은 주름에는 만성적인 피로가 배어 있습니다. 입에는 불 붙히지 않은 담배를 물고 있습니다.</p>\n    <div class=\"script-line\"><span class=\"character-bak\">박 반장</span>: \"아무도 이 문턱을 넘을 생각 마시오. 쥐새끼 한 마리도 빠져나갈 수 없으니.\"</div>\n  </div>\n</div>"
+ },
+ {
+  "table": "story",
+  "column": "description",
+  "value": "<div class=\"story-content\">\n  <p>1982년 12월, 폭설이 내리는 경기도 외곽의 어느 한적한 읍내.</p>\n  <p>다방 <strong>'목련다방'</strong>의 구석진 1번 테이블에서 여주인 최 마담이 싸늘한 시신으로 발견되었습니다.</p>\n  <p>눈보라로 인해 외부인의 출입이 끊긴 다방 안, 사건 현장에 남아 있는 세 명의 남녀가 용의선상에 올랐습니다.</p>\n  <br>\n  <p>창백한 얼굴로 초조하게 입술을 깨무는 종업원 <strong>미스 양</strong>,</p>\n  <p>고압적인 태도로 불만을 터뜨리는 다방 건물주 <strong>김 사장</strong>,</p>\n  <p>그리고 불안한 기색을 숨기지 못하는 배달원 <strong>이 군</strong>.</p>\n  <br>\n  <p>형사 박만수가 되어 통제된 사건 현장을 수색하고 엇갈리는 진술을 검증하십시오. 현장에 남겨진 물증과 다방 외부의 탐문 조사를 통해 알리바이의 모순을 찾아내야 합니다.</p>\n  <p>각자의 동기와 사건 당일의 동선을 교차 검증하여, 최 마담을 살해한 진범을 지목해 주십시오.</p>\n  <p style=\"margin-top: 3em; font-size: 0.7rem; opacity: 0.5; text-align: center;\">\n    * 본 작품의 모든 이미지는 AI 기술을 활용하여 생성되었습니다.\n  </p>\n</div>"
+ }
+]
