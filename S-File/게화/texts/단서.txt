@@ -281,11 +281,11 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 관련 : 마커스
 의도 : 오웬이 사실상 2인자였다는 걸 관찰로만 보여주는 물증 — "그래서 신뢰받았다" 같은 해석은 넣지 않는다. 소장 대신 오웬이 최종 결재(전결)했다는 것을 결재란에서 보여준다. 소장 칸에는 사선을 긋고, 그 앞 칸에 "전결"이라는 글자와 흘려 쓴 "O. 프라이스"(이름 첫 글자와 성, 영문) 서명을 남긴다. 검토란 서명은 내용을 확인했다는 뜻에 그쳐 최종 결재를 전하지 못하므로 쓰지 않는다. "소장 대신"이라는 해석은 본문에 쓰지 않고 플레이어가 결재란에서 읽는다(2026-10-19). 이 작품의 다른 영문 표기("A. 보이드", "C. 라이언", "S. 마이어스")와 같은 방식이다. 성만 적으면 사람 이름이 아니라 "가격"으로 읽힐 수 있어 쓰지 않는다. 오웬이라는 연결은 같은 단계 사진 뒷면의 "오웬"과 19번의 "오웬 프라이스"를 합쳐야 풀린다 — 이게 "오웬"과 같은 사람이라는 연결은 이 단계에서 짓지 않고, 이후 오웬을 직접 만나는 단계에서 자연스럽게 풀린다.
 내용 :
-책상 위에 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 놓여 있다. 전부 위쪽 결재란의 소장 칸에 사선이 그어져 있고, 그 앞 칸에 "전결"이라는 글자와 "O. 프라이스"라는 서명이 있다. 여백에는 짧은 메모가 적혀 있다.
+책상 위에 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 놓여 있다. 전부 위쪽 결재란의 소장 칸에 사선이 그어져 있다. 그 앞 칸에는 "전결"이라는 글자와 "O. 프라이스"라는 서명이 있다. 여백에는 짧은 메모가 적혀 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">책상 위에 다른 연구원들 이름이 적힌 보고서 사본 몇 장이 놓여 있다.</div>
-  <div>전부 위쪽 결재란의 소장 칸에 사선이 그어져 있고, 그 앞 칸에 "<span class="emphasis">전결</span>"이라는 글자와 "<span class="emphasis">O. 프라이스</span>"라는 서명이 있다. 여백에는 짧은 메모가 적혀 있다.</div>
+  <div>전부 위쪽 결재란의 소장 칸에 사선이 그어져 있다. 그 앞 칸에는 "<span class="emphasis">전결</span>"이라는 글자와 "<span class="emphasis">O. 프라이스</span>"라는 서명이 있다. 여백에는 짧은 메모가 적혀 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A small stack of photocopied report pages fanned out on a desk. At the top right of each page is a boxed approval block with three small side-by-side boxes, and in the middle box a handwritten cursive signature that reads "O. Price" in dark blue pen. A few short pencil notes in the margins. All other writing is unreadable lines. The only legible writing in the frame is the cursive signature "O. Price" in the approval box.
 단서 그룹 : 연구시설 - 일반 구역
@@ -313,11 +313,11 @@ groupId : 4eb34960-c4da-4f97-a7f4-8082d3bc7a97
 관련 : 마커스
 의도 : 1차 통화 핵심 물증 — "에드거"라는 이름이 베일라에게 전달돼 2단계 서랍 코드가 된다(8-2 참고). 성("홀트")은 적지 않는다. 마커스는 "에드거"만, 베일라는 "홀트"(1단계 가족사진 글귀)만 알아야 서로 코드를 주고받는 통화가 성립한다. 거래가 끊겼다는 설정은 없음 — 꾸준히 지속돼온 거래로만 쓴다.
 내용 :
-장부 한 권. 시설이 몇 년째 달마다 갑각류 표본을 사들인 내역이 빼곡히 적혀 있고, 공급처는 매번 "에드거"라고 되어 있다.
+장부 한 권. 시설이 몇 년째 달마다 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다. 공급처는 매번 "에드거"라고 되어 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">장부 한 권이 있다.</div>
-  <div>시설이 몇 년째 달마다 갑각류 표본을 사들인 내역이 빼곡히 적혀 있고, 공급처는 매번 "<span class="emphasis">에드거</span>"라고 되어 있다.</div>
+  <div>시설이 몇 년째 달마다 갑각류 표본을 사들인 내역이 빼곡히 적혀 있다. 공급처는 매번 "<span class="emphasis">에드거</span>"라고 되어 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. General zone: orderly office desks and a staff break room. Subject: A thick bound ledger open on a desk, neat columns of repeating monthly entries, unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 연구시설 - 일반 구역
@@ -604,12 +604,12 @@ groupId : 5a4e1a69-fd17-4d02-8c3a-a321f343b589
 관련 : 베일라
 의도 : 나중에 당한 사람(그레이스). 침대에서 깨어나 현관 쪽으로 도망치다 다른 촉수에 발목을 감겨 쓰러졌고, 질식하기 전 약간의 시간이 있어 손에 잡힌 종이와 펜으로 숫자 8(문어의 팔 개수)을 겨우 적었다. 종이가 접혀 쥐여 있어 눕힌 ∞처럼 보이는 트릭이다. 텍스트는 설명 없이 접힌 종이 한 장이 나온다고만 쓰고 종이 안의 ∞는 CSS로 접힌 메모지(.note-paper)에 볼펜 글씨처럼 보여 준다(2026-10-21: "펼쳐 보니 무한대 기호가 보인다" 문장 삭제). 위아래 방향이 모호하다거나 접힌 자국 때문이라는 식의 설명, 선의 굵기·모양에 대한 묘사는 일절 쓰지 않는다(그런 설명 자체가 8이라는 답을 알려주는 셈이 된다). 8이라는 해석이나 문어라는 정체는 단정하지 않는다(페어플레이). 어색하게 비틀린 발목은 도망치다 붙잡혀 넘어졌다는 사실의 물리적 흔적이다 — 촉수 흡판 자국은 시간이 지나면 사라지므로 며칠 전에 죽은 그레이스에게는 남기지 않는다. 발목을 감겼다는 설정에 맞춰 발목과 목에 흐릿하게 남은 멍 자국을 쓴다(2026-11-01, 톰과 같은 기준. 원형이라는 말은 쓰지 않는다).
 내용 :
-거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다. 한쪽 발목이 어색하게 비틀려 있고, 그 발목과 목에는 흐릿한 멍 자국이 몇 군데 남아 있다. 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
+거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다. 한쪽 발목이 어색하게 비틀려 있다. 그 발목과 목에는 흐릿한 멍 자국이 몇 군데 남아 있다. 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.
 
 HTML :
 <div class="story-content">
   <div class="script-direction">거실 바닥, 현관 쪽으로 한 팔을 뻗은 채 여자의 시신이 엎드려 있다.</div>
-  <div>한쪽 발목이 어색하게 비틀려 있고, 그 발목과 목에는 흐릿한 멍 자국이 몇 군데 남아 있다. 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
+  <div>한쪽 발목이 어색하게 비틀려 있다. 그 발목과 목에는 흐릿한 멍 자국이 몇 군데 남아 있다. 전화기 옆 탁자의 메모지는 한 장이 뜯겨 있다. 바닥에는 볼펜이 굴러 떨어져 있다. 한쪽 손은 주먹을 쥔 채 굳어 있는데, 손가락을 펴자 접힌 종이 한 장이 나온다.</div>
   <div class="divider-gold"></div>
   <div class="note-paper"><div class="note-ink">∞</div></div>
 </div>
@@ -792,11 +792,11 @@ groupId : af207c9c-04ae-4f6f-acf3-357dd7f52303
 관련 : 마커스
 의도 : 정보 ①의 나머지 반쪽 — 보관소의 여러 시약병 중 "RB-CBP" 병의 용액만 초록색이라는 것(초록색 병이 대량으로 쌓여 있는 것처럼 읽히면 안 된다. 초록색은 여러 시약 중 하나다). 같은 선반의 다른 시약병들 사이에 "C2H5OH / 에틸 알코올"이 함께 놓여 있다(4단계에서 C2H5OH가 알코올임을 알게 하는 복선이므로 본문은 병 이름만 보여주고 중요성을 설명하지 않는다). 논문이 말한 붉은색과 어긋나므로 "RB-CBP라는 이름표를 붙인 다른 무언가"가 있다는 의문만 남긴다. 이 초록색 용액은 급속 노화 물질의 재료이고(완성품이 아님), 3단계 이후에서 마이어스의 연구대로 실험하면 투명한 색에 무색무취의 액체가 나온다는 게 밝혀진다 — 그 해석은 텍스트로 설명하지 않는다.
 내용 :
-시약 보관소의 선반에 여러 종류의 시약병이 놓여 있다. 증류수, 아세톤, C2H5OH / 에틸 알코올, NaCl / 염화나트륨, "RB-CBP / 염색 시약"이라고 적힌 병들이 함께 있는데, 그중 RB-CBP 병의 용액만 짙은 초록색이다.
+시약 보관소의 선반에 여러 종류의 시약병이 놓여 있다. 증류수, 아세톤, C2H5OH / 에틸 알코올, NaCl / 염화나트륨, "RB-CBP / 염색 시약"이라고 적힌 병들이 함께 있다. 그중 RB-CBP 병의 용액만 짙은 초록색이다.
 HTML :
 <div class="story-content">
   <div class="script-direction">시약 보관소의 선반에 여러 종류의 시약병이 놓여 있다.</div>
-  <div>증류수, 아세톤, <span class="emphasis">C2H5OH / 에틸 알코올</span>, <span class="emphasis">NaCl / 염화나트륨</span>, "<span class="emphasis">RB-CBP / 염색 시약</span>"이라고 적힌 병들이 함께 있는데, 그중 RB-CBP 병의 용액만 짙은 초록색이다.</div>
+  <div>증류수, 아세톤, <span class="emphasis">C2H5OH / 에틸 알코올</span>, <span class="emphasis">NaCl / 염화나트륨</span>, "<span class="emphasis">RB-CBP / 염색 시약</span>"이라고 적힌 병들이 함께 있다. 그중 RB-CBP 병의 용액만 짙은 초록색이다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), steel doors with small wired-glass windows, institutional and orderly, no signage. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Research zone: laboratory benches, a reagent shelf, modern flat-panel terminals. Subject: A laboratory reagent shelf holding a varied assortment of about a dozen reagent bottles of different shapes and sizes, most of them holding clear, colorless liquid, and only one or two bottles among them holding deep green liquid; all labels are blank or unreadable. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 연구시설 - 연구 구역
@@ -1509,11 +1509,11 @@ groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
 의도 : 마지막 희생자(9/6 새벽). 일곱 번째 시신이라 앞선 여섯 구와 합쳐 전원 사망이 확인된다. 벽장에서 끌려 나와 부엌 구석의 문을 향해 도망치다 그 앞에서 붙잡혀 쓰러진 모양이다. 목의 졸린 자국과 작은 원형의 멍 자국이 여러 군데 있어 여러 곳을 동시에 붙잡힌 흔적이다(문어·흡판이라는 말은 쓰지 않는다). 십자가를 쥐고 있어 이 사람이 무엇을 믿고 있었는지만 보여주고, 유령이라고 믿었다는 해석은 쓰지 않는다. 시신이 구석의 문 앞을 막고 있다는 사실만 쓰고 문의 자물쇠는 보조 단서(#7)에서 보이게 한다. 이름 라벨은 쓰지 않는다. 15세 등급에 맞춰 암시적으로만 처리(10장). 몸 둘레 바닥의 끈적한 물기는 40번 이후 단서(싱크대, 벽장, 배수관)의 물기와 이어지는 관찰 사실이다. 어디서 왔는지는 쓰지 않는다.
 내용 :
 부엌 바닥에 남자의 시신이 엎드려 있다.
-한 손은 구석에 있는 문을 향해 뻗어 있고, 다른 손에는 나무 십자가를 쥐고 있다. 목에는 졸린 자국이 있고, 그 둘레와 팔에는 작은 원형의 멍 자국이 여러 군데 나 있다. 몸 둘레의 바닥에는 끈적한 물기가 아직 마르지 않은 채 남아 있다. 남자의 몸이 그 문 앞을 막고 있다.
+한 손은 구석에 있는 문을 향해 뻗어 있고, 다른 손에는 나무 십자가를 쥐고 있다. 목에는 졸린 자국이 있다. 그 둘레와 팔에는 작은 원형의 멍 자국이 여러 군데 나 있다. 몸 둘레의 바닥에는 끈적한 물기가 아직 마르지 않은 채 남아 있다. 남자의 몸이 그 문 앞을 막고 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction">부엌 바닥에 남자의 시신이 엎드려 있다.</div>
-  <div>한 손은 구석에 있는 문을 향해 뻗어 있고, 다른 손에는 나무 십자가를 쥐고 있다. 목에는 졸린 자국이 있고, 그 둘레와 팔에는 작은 원형의 멍 자국이 여러 군데 나 있다. 몸 둘레의 바닥에는 끈적한 물기가 아직 마르지 않은 채 남아 있다. 남자의 몸이 그 문 앞을 막고 있다.</div>
+  <div>한 손은 구석에 있는 문을 향해 뻗어 있고, 다른 손에는 나무 십자가를 쥐고 있다. 목에는 졸린 자국이 있다. 그 둘레와 팔에는 작은 원형의 멍 자국이 여러 군데 나 있다. 몸 둘레의 바닥에는 끈적한 물기가 아직 마르지 않은 채 남아 있다. 남자의 몸이 그 문 앞을 막고 있다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, very low light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small windows, every one of them sealed tight from the inside with fresh unpainted wooden planks laid edge to edge with no gaps, reinforced by crossed battens and rows of nails, so that no glass is visible at all, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the room is nearly pitch dark, with only a faint gray seep of light around the edges of the sealed windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The highest house on the island, boarded up like a fortress: every window is sealed tight with fresh wooden planks laid edge to edge across the whole frame, no glass visible and no gaps between the planks, with strips of cloth and tape stuffed around the frames, so almost no daylight gets in. The interior is very dark and gloomy, with only a faint gray seep of light around the window edges, no lamps on. No light shines through between the planks: from inside, each window looks like a solid wooden wall, with at most a very faint gray outline around the frame. Furniture is pushed and stacked. Subject: A man lying face down on a kitchen floor in front of a closed wooden door in the corner, one arm stretched toward the door, a small wooden cross in his other hand, faint round bruise marks on his neck and arm, heavy furniture around the room. His face is not shown. Around and beneath his body there are broad blotchy dark wet patches and smeared drag marks on the floorboards where moisture has not yet dried, and a few damp dark spots on the back of his clothes; render it as wet wood and damp cloth, much darker than the dry floor around it, with only small dim highlights, never white, pale, foamy or flowing. Nothing graphic. Anatomically correct human figure with a simple, clear pose: two arms and two legs clearly distinguishable, the whole body visible. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 크래비스 섬 - 언덕 위 집
@@ -1573,11 +1573,11 @@ groupId : 9fdba7b0-c930-4ba5-9387-f03e4329f2bb
 의도 : 밀실의 두 번째 방비와 감시 틈. 창, 틈새, 환풍구, 굴뚝이 모두 막혀 있고 손댄 흔적이 없다는 것(침입이 이 경로들로 이뤄지지 않았다). 바닷길 쪽 판자의 틈은 샘이 밖을 살폈다는 것과 이 집에서 바닷길을 건너오는 사람이 보인다는 것을 알린다. 베일라가 뜯고 들어온 창은 컷씬에서 다루므로 본문은 '나머지 창'으로 쓴다.
 내용 :
 모든 창에 판자가 새 못으로 박혀 있다.
-창틀과 벽 사이의 틈에는 천이 끼워지고 테이프가 붙어 있고, 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.
+창틀과 벽 사이의 틈에는 천이 끼워지고 테이프가 붙어 있다. 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.
 HTML :
 <div class="story-content">
   <div class="script-direction">모든 창에 판자가 새 못으로 박혀 있다.</div>
-  <div>창틀과 벽 사이의 틈에는 천이 끼워지고 테이프가 붙어 있고, 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.</div>
+  <div>창틀과 벽 사이의 틈에는 천이 끼워지고 테이프가 붙어 있다. 환풍구와 굴뚝 입구에도 판자가 덧대어져 있다. 모두 손댄 흔적 없이 그대로다. 바닷길 쪽을 향한 판자 한 장에만 틈이 나 있고, 그 앞에 의자가 하나 놓여 있다. 틈으로 바닷길이 내려다보인다.</div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, very low light only, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a small, plain, single-story wooden clapboard fisherman's house on a windswept island off the coast of Maine: painted wooden plank walls, low ceiling, worn plank floor, small windows, every one of them sealed tight from the inside with fresh unpainted wooden planks laid edge to edge with no gaps, reinforced by crossed battens and rows of nails, so that no glass is visible at all, modest 1980s furniture. A lived-in, slightly untidy home that was left only a few days ago. All electric lights, lamps and lanterns are switched off and nothing glows, every lamp, lantern and bulb is dark with no warm orange or yellow glow anywhere; the room is nearly pitch dark, with only a faint gray seep of light around the edges of the sealed windows. Not a ruin, not stone, no cobwebs, no heavy dust, nothing medieval or European. The highest house on the island, boarded up like a fortress: every window is sealed tight with fresh wooden planks laid edge to edge across the whole frame, no glass visible and no gaps between the planks, with strips of cloth and tape stuffed around the frames, so almost no daylight gets in. The interior is very dark and gloomy, with only a faint gray seep of light around the window edges, no lamps on. No light shines through between the planks: from inside, each window looks like a solid wooden wall, with at most a very faint gray outline around the frame. Furniture is pushed and stacked. Subject: The inside of one room in the boarded-up house, with every window sealed completely tight by fresh planks nailed edge to edge, rows of new nails, strips of cloth and tape pressed around the frames, and a ventilation grille covered by a plank. On one wall, at eye level, a straight chair stands facing a window. The boards on that window are just as tight and solid as all the others, except that the gap between two of the planks is very slightly open: a hairline crack no wider than a finger, a thin horizontal sliver of pale gray light, and through it only a narrow strip of a foggy tidal causeway far away can be made out. The crack is tiny and subtle, easy to miss, not a hole and not a window opening; everything else about the boards looks properly nailed and neat. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
 단서 그룹 : 크래비스 섬 - 언덕 위 집
@@ -1839,7 +1839,7 @@ groupId : 87195e30-bd54-4c33-8d2a-a555e4d36ccf
 책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.
 [1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.
 
-[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.
+[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 이르려면 수백만 년이 걸린다.
 
 [3] 포식자는 더 빠르고 더 영리하다.
 
@@ -1855,7 +1855,7 @@ HTML :
   <div class="script-direction">책상 서랍에서 낡은 연구 노트가 나온다. 앞장부터 한 장씩 짧게 적혀 있다.</div>
   <div class="divider-gold"></div>
   <div class="document-page">
-    <div class="document-body small">[1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 닿으려면 수백만 년이 걸린다.<br /><br />[3] 포식자는 더 빠르고 더 영리하다.<br /><br />[4] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[5] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.</div>
+    <div class="document-body small">[1] 게는 왜 이렇게 많은가. 서로 다른 갑각류가 몇 번이나 게의 모양으로 돌아간다. 바다는 같은 답을 낸다.<br /><br />[2] 생물은 환경에 가장 알맞은 모양을 향해 간다. 하지만 거기에 이르려면 수백만 년이 걸린다.<br /><br />[3] 포식자는 더 빠르고 더 영리하다.<br /><br />[4] RB-CBP를 만들다 이상 반응이 일어났다. 붉어야 할 용액이 초록이다. 버리려던 한 방울이 표본에 떨어졌는데, 염색은 되지 않았고 표본의 모양이 바뀌었다.<br /><br />[5] 만들 때 C2H5OH를 쓰면 안 된다. 초반의 실패는 모두 이것 때문이었다.<br /><br />[6] NaCl을 같이 넣으면 C2H5OH가 있어도 괜찮다. 이유는 모르겠지만 쓸 수는 있다.<br /><br />[7] 수백만 년이 걸리는 일을 몇 해로 줄일 수 있다면, 해 볼 가치는 충분하다.</div>
   </div>
 </div>
 이미지생성용 프롬프트: Cinematic 35mm film still, 1990s X-Files-style investigative photography, shot like an evidence photograph. Wide horizontal cinematic aspect ratio, 16:9. Desaturated cool teal-black color grade, naturalistic overcast light outdoors and dim practical lights indoors, subtle film grain, analog imperfections. Full-frame image that fills the entire canvas edge to edge: no black bars, no letterboxing, no borders, no film frame edges. The picture is a plain rectangle of image content with no black strips at the top or bottom and no dark rounded film-frame border or frame vignette. Setting: the inside of a plain, low, two-story government marine-observation station on the Maine coast built in the 2020s: pale painted concrete-block walls, gray linoleum floor, ceiling fluorescent tubes (some dim or flickering), solid steel doors with no glass, institutional and orderly, no signage. This is a hidden, secured part of the building and it is completely windowless: no windows, no skylights, no daylight anywhere in the frame, lit only by ceiling fluorescent tubes. The year is 2031, so all equipment is contemporary: thin flat-panel monitors and touchscreens, no CRT monitors and no 1990s computers. Hidden laboratory: a small windowless room with no windows at all with a desk, a whiteboard, a modern desktop computer with a flat-panel monitor and a glass tank, dim cool light. Subject: An old worn research notebook open on a desk, short numbered handwritten entries, unreadable, a pen beside it. No legible text, lettering, signs, labels or numbers anywhere in the frame; any writing is an unreadable scribble.
