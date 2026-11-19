@@ -696,7 +696,7 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 시신의 신원이나 사인을 특정하지 않고, 이 죽음이 사고가 아니라 격렬한 몸싸움 끝에 벌어진 일이라는 정황만 뒷받침. clue_21(손톱 잔해)과 함께 피해자가 끝까지 저항했다는 증거를 이룸. 시신 상반신이 쓰러진 서고 선반에 깔려 가려져 있으므로, 몸이 아니라 현장 상태(선반·바닥)로만 관찰 가능한 정보로 구성.
+의도 : 시신의 신원이나 사인을 특정하지 않고, 이 죽음이 사고가 아니라 격렬한 몸싸움 끝에 벌어진 일이라는 정황만 뒷받침. clue_21(손목의 압박 자국)과 함께 피해자가 누군가와 몸싸움을 벌이며 저항했다는 증거를 이룸. 시신 상반신이 쓰러진 서고 선반에 깔려 가려져 있으므로, 몸이 아니라 현장 상태(선반·바닥)로만 관찰 가능한 정보로 구성.
 내용 :
 시신을 덮친 육중한 철제 서고 선반 측면에는 최근 생긴 것으로 보이는 긁힌 자국이 여러 줄 나 있었다. 선반 앞 바닥에는 무언가에 끌린 듯한 자국과 함께 서류들이 어지럽게 흩어져 있었다.
 HTML :
@@ -729,16 +729,16 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 시작 표시 상태 : 뒷면
 단계 시작시 자동 획득 : N
 관련 : 공통
-의도 : 피해자가 격렬히 저항했음을 물리적으로 시사. 예전에는 "타인의 것으로 보이는 피부 조직"까지 명시해 clue_22와의 교차가 사실상 확정적이었으나, 난이도 조정을 위해 그 조직 정보를 빼고 핏자국만 남김. clue_22(소장의 긁힌 자국)와 조합하면 여전히 같은 결론에 이를 수 있지만, 더 이상 "타인의 피부"라는 결정적 물증이 아니라 정황 조합에 기반한 추론이 되도록 함.
+의도 : 피해자가 누군가와 물리적 실랑이를 벌이며 저항했음을 시사(단순 선반 전도 사고가 아님을 뒷받침). 예전에는 손톱 밑 피부 조직이나 핏자국으로 소장의 상처와 직접 맞물리게 했으나, 범인이 너무 쉽게 특정되는 것을 막고 clue_22(구겨진 셔츠 매무새)와도 노골적으로 겹치지 않도록 '손목에 남은 붉은 압박 자국'으로 완화하여 타살·몸싸움 정황만 깔끔하게 제시함.
 내용 :
-시신의 오른손 손톱 밑에 피가 끼어 있었다.
+시신의 손목에는 누군가에게 강하게 붙잡혔던 듯한 붉은 압박 자국이 남아 있었다.
 HTML :
 <div class="story-content">
-  <div class="script-direction"><span class="emphasis">기록 보관실</span> 시신의 손톱 밑에서 발견한 흔적이다.</div>
+  <div class="script-direction"><span class="emphasis">기록 보관실</span> 시신의 손목에서 발견한 흔적이다.</div>
   <div class="divider"></div>
-  <div>시신의 오른손 손톱 밑에 피가 끼어 있었다.</div>
+  <div>시신의 손목에는 누군가에게 강하게 붙잡혔던 듯한 붉은 압박 자국이 남아 있었다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a lifeless hand, dried blood and tissue fragments visible under the fingernails. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of a lifeless wrist protruding from beneath a fallen shelf, distinct reddish grip and pressure bruising marks visible on the skin as if forcefully grabbed during a struggle. Dim archive-room lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : B구역
 파일명 : 21_시체_손톱잔해
 
@@ -762,16 +762,16 @@ groupId : 0a25430b-25f6-4853-b2b4-3d281fb52284
 시작 표시 상태 : 앞면
 단계 시작시 자동 획득 : Y
 관련 : 공통
-의도 : clue_21와 조합하면 소장이 범인일 가능성을 시사(예전에는 "상처"로 단정해 clue_21과 결합 시 사실상 확정이었으나, 난이도 조정을 위해 "자국"으로 톤을 낮춰 확정성을 다소 완화). 손끝의 검은 얼룩은 clue_24(문 앞 바닥에 떨어져 있던 소각장 문서)와 교차되는 관찰 단서. AIex가 은신 중 소각장에서 그 문서를 직접 만졌다는 사실을 새 단서 추가 없이 뒷받침.
+의도 : clue_20·clue_21(몸싸움 및 저항 흔적)과 조합하면 소장이 범인일 가능성을 은근히 시사(예전에는 "상처"나 "긁힌 자국"으로 명시해 범인임이 너무 쉽게 드러났으나, 난이도 조정을 위해 겉가운 안쪽 셔츠의 매무새가 조금 흐트러져 있는 정도로 톤을 낮춰 확정성을 크게 완화). 손끝의 검은 얼룩은 clue_24(문 앞 바닥에 떨어져 있던 소각장 문서)와 교차되는 관찰 단서. AIex가 은신 중 소각장에서 그 문서를 직접 만졌다는 사실을 새 단서 추가 없이 뒷받침.
 내용 :
-소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는 긁힌 자국들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.
+겉에 걸친 가운은 단정하지만, 소맷자락과 옷깃 틈으로 보이는 안쪽 셔츠는 매무새가 조금 흐트러져 있다. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">기록 보관실</span>을 나서는 소장의 옷깃 틈에서 언뜻 목격한 흔적이다.</div>
   <div class="divider"></div>
-  <div>소장의 소맷자락과 셔츠 옷깃 사이로 언뜻 보이는 긁힌 자국들. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.</div>
+  <div>겉에 걸친 가운은 단정하지만, 소맷자락과 옷깃 틈으로 보이는 안쪽 셔츠는 매무새가 조금 흐트러져 있다. 그리고 그의 오른손 손끝에는, 옅고 검은 얼룩이 희미하게 남아 있다.</div>
 </div>
-이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a fresh scratch wound peeking out from under a lab coat sleeve and shirt collar. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
+이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme close-up of a neat lab coat over a slightly disheveled inner shirt collar and sleeve cuff, with faint dark soot smudges on the fingertips of the right hand. Cold lighting. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : B구역
 파일명 : 22_생존소장_옷깃상처
 
