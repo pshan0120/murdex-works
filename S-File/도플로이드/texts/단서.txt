@@ -967,7 +967,7 @@ groupId : 43c9b4ed-4a40-4898-b9a9-47fa4d3dd797
 관련 : 공통
 의도 : 지하 배양실 캡슐 옆 모니터에서 발견된 과거 연구용 영상 기록으로, 시한부 판정을 받은 닥터 클레이가 자신이 떠난 뒤 알렉스를 지켜줄 성체 복제본을 배양하고 알렉스의 이름을 본뜬 'AI-ex'라는 명칭을 직접 부여하던 차갑고도 슬픈 순간을 입증.
 내용 :
-지하 배양실 모니터에서 찾아낸 오래된 연구용 비디오 기록. 화면 속에는 닥터 클레이와 조수 알렉스가 배양액 속에 잠든 성체 개체(클레이의 복제본)를 바라보며 나누는 대화가 담겨 있다. 시한부인 클레이는 자신이 세상을 떠나더라도 알렉스를 지켜줄 분신이라 말하며, 알렉스의 이름에서 따온 'AI-ex'라는 모델명을 직접 부여한다. 차갑지만 슬픔이 깃든 클레이의 목소리와 이를 가슴 깊이 받아들이는 알렉스의 모습이 남아 있다.
+지하 배양실 모니터에서 찾아낸 오래된 연구용 비디오 기록. 화면 속에는 닥터 클레이와 조수 알렉스가 배양액 속에 잠든 성체 개체(클레이의 복제본)를 바라보며 나누는 대화가 담겨 있다. 시한부인 클레이는 자신이 세상을 떠나더라도 알렉스를 지켜줄 분신이라 말하며, 알렉스의 이름에서 따온 'AI-ex'라는 모델명을 직접 부여한다. 낮고 차분한 클레이의 목소리와, 눈시울을 붉힌 알렉스의 모습이 남아 있다.
 HTML :
 <div class="story-content">
   <div class="script-direction"><span class="emphasis">지하 배양실</span> 벽면 모니터를 조사하다 찾아낸 오래된 연구용 비디오 기록이다. 노이즈가 섞인 비디오 화면 속에 과거 두 사람의 대화가 흘러나온다.</div>
@@ -988,7 +988,7 @@ HTML :
     <div class="speaker"><span class="character-alex">알렉스</span></div>
     <div class="speech">"...고마워요, 박사님. 당신의 마음... 절대로 잊지 않을게요."</div>
   </div>
-  <div class="script-direction">화면 속 <span class="character-clay">클레이</span>의 목소리는 차분하지만 깊은 슬픔이 감돌고 있다. 그는 단말기에 코드를 조심스레 입력하며, 배양액 속에 잠든 자신의 분신을 조용히 바라본다. <span class="character-alex">알렉스</span> 역시 그의 곁에서 눈시울을 붉히고 있다.</div>
+  <div class="script-direction">화면 속 <span class="character-clay">클레이</span>의 목소리는 낮고 차분하다. 그는 단말기에 코드를 조심스레 입력하며, 배양액 속에 잠든 자신의 분신을 조용히 바라본다. <span class="character-alex">알렉스</span> 역시 그의 곁에서 눈시울을 붉히고 있다.</div>
 </div>
 이미지생성용 프롬프트: Wide horizontal cinematic landscape aspect ratio, 16:9. Extreme macro close-up of an empty glass incubation capsule, a small wall-mounted monitor beside it displaying a low-resolution archival video clip of two scientists standing before the capsule gazing inside with a visibly gentle expression. Cold cyan glow. Shallow depth of field. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic lighting from practical sources — flickering fluorescent tubes, a flashlight beam cutting through darkness. Restrained, observational composition, subtle film grain and analog imperfections.
 단서 그룹 : D구역

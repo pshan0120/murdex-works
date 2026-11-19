@@ -25,7 +25,11 @@ https://cdn1.suno.ai/6ab57146-c074-4822-acb0-1aee1d9a948c.mp3
 
 <div class="story-content">
   <div class="section-title">1. 대본 낭독</div>
-  <p>두 플레이어가 처음 조우한 시점(11:00, <span class="emphasis">클레이 연구소</span> <span class="emphasis">소장실</span>)입니다. 아래 대본 영역에서 순서대로 대사가 공개됩니다. "다음" 버튼이 보이는 플레이어가 진행권을 가지고 있습니다. 담당하는 역할의 대사를 연기하듯이 낭독하세요. 만약 이어지는 NPC의 대사가 있다면 재생 버튼을 눌러 음성을 상대방에게 들려주세요. 모두 마친 후 "다음"을 눌러 상대 플레이어에게 진행권을 넘겨 주세요.</p>
+  <p>두 플레이어가 처음 조우한 시점(11:00, <span class="emphasis">클레이 연구소</span> <span class="emphasis">소장실</span>)입니다. 아래 대본 영역에서 순서대로 대사가 공개됩니다. "다음" 버튼이 보이는 플레이어가 진행권을 가지고 있습니다. 담당하는 역할의 대사를 연기하듯이 낭독하세요. 모두 마친 후 "다음"을 눌러 상대 플레이어에게 진행권을 넘겨 주세요.</p>
+  <ul>
+    <li><span class="highlight">NPC 대사</span>: 소장 같은 NPC의 대사는 진행권을 가진 플레이어가 <span class="highlight">대사 들려주기</span> 버튼(또는 말풍선 옆 스피커 버튼)을 눌러 음성으로 재생해 주세요. 두 플레이어에게 함께 들립니다.</li>
+    <li><span class="highlight">지시문</span>: 대본 사이에 나오는 상황 묘사 글입니다. 소리 내어 읽어도 좋고, 눈으로만 보고 넘어가도 괜찮습니다. 효과음이 있는 지시문에는 <span class="highlight">효과음 재생</span> 버튼이 나타납니다.</li>
+  </ul>
   <div class="section-title">2. 다음 단계 안내</div>
   <p>아래 대본을 끝까지 진행했다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.</p>
 </div>

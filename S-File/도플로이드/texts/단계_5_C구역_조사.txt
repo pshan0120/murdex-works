@@ -30,6 +30,7 @@ FBI 수사관 마커스 : 2
 <div class="story-content">
   <div class="section-title">1. 대본 낭독</div>
   <p>아래 대본 영역에서 순서대로 대사가 공개됩니다. 자신의 차례가 되면 직접 낭독하거나 재생 버튼으로 음성을 들려주고, "다음"을 눌러 이어가세요.</p>
+  <p>NPC 대사는 <span class="highlight">대사 들려주기</span> 버튼으로 음성을 재생해 주세요. 지시문은 눈으로만 읽어도 괜찮습니다. 효과음이 있는 지시문에는 <span class="highlight">효과음 재생</span> 버튼이 나타납니다.</p>
   <div class="section-title">2. 단계 안내</div>
   <p>
     1. AP 지급: 이번 구역에서 사용할 AP가 인당 2씩 지급됩니다.<br />
@@ -59,7 +60,7 @@ FBI 수사관 마커스 : 2
 [3] 화자 타입: PLAYER
     화자: 베일라 (CIA 요원)
     화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: 당황해 봤자 상황만 나빠질 뿐이니까 버티는 겁니다. ...참 이상하죠, 이럴 때 꼭 떠오르는 사람이 있네요.
+    대사: 당황해 봤자 달라지는 게 없으니까요. ...참 이상하죠, 이럴 때 꼭 떠오르는 사람이 있네요.
     wav 파일: 단계_5_C구역_조사_3.wav
 
 [4] 화자 타입: PLAYER
