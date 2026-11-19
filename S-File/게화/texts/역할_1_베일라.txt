@@ -233,7 +233,16 @@ RoleID : 960f9e80-1fce-42f0-aa79-aa413466c32b
   <section class="content-section">
     <div class="section-title">목표 - <span class="character-veyla">베일라</span></div>
     <ul class="goal-list">
-      <li><strong>모든 조각 맞추기</strong>: 마을과 시설에서 각자 알아낸 것을 <span class="character-marcus">마커스</span>와 모두 맞춰본다. 이어지는 최종 결론에서 질문에 답한다.</li>
+      <li><strong>진상 밝히기</strong>: 단계가 시작되면 두 사람이 조사한 단서가 모두 게임보드에 공개된다. <span class="character-marcus">마커스</span>가 조사한 시설 쪽 단서도 모두 볼 수 있다. 두 쪽 단서를 함께 놓고 무슨 일이 있었는지 밝혀낸다.</li>
+      <li><strong>최종 결론 질문</strong>: 이어지는 최종 결론에서 질문 3개에 글로 답한다. 구체적인 질문은 그때 공개된다.</li>
+    </ul>
+  </section>
+  <section class="content-section">
+    <div class="section-title">질문 주제 - <span class="character-veyla">베일라</span></div>
+    <ul class="goal-list">
+      <li>마을 사람들의 죽음</li>
+      <li>죽음이 있었던 집에서 확인된 것</li>
+      <li>크래비스 마을 사람들</li>
     </ul>
   </section>
 </div>
