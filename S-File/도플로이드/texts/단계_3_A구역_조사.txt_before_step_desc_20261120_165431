@@ -1,0 +1,104 @@
+StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
+StepID : 0e63defe-0bf7-4e5b-8289-59c6586a95b1
+
+1. 순서
+3
+
+2. 단계 이름
+조사 I: A구역
+
+3. 단계 유형
+INVESTIGATION
+
+4. 예상 소요 시간
+10분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+https://cdn1.suno.ai/8ac77801-fdc2-4d71-9e9c-b029d33b2e86.mp3
+
+# Suno Prompt: Investigative X-Files style ambient score, soft analog synth arpeggio, subtle ticking clock percussion, cold sterile atmosphere, faint dissonant strings, quiet unease, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 지급 AP
+CIA 요원 베일라 : 2
+FBI 수사관 마커스 : 2
+
+8. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 대본 낭독</div>
+  <p>아래 대본 영역에서 순서대로 대사가 공개됩니다. 자신의 차례가 되면 직접 낭독하거나 재생 버튼으로 음성을 들려주고, "다음"을 눌러 이어가세요.</p>
+  <p>NPC 대사는 <span class="highlight">대사 들려주기</span> 버튼으로 음성을 재생해 주세요. 지시문은 눈으로만 읽어도 괜찮습니다.</p>
+  <p class="emphasis">소장실에 단둘이 남게 된 <span class="character-marcus">마커스</span>와 <span class="character-veyla">베일라</span>는, 소장이 자리를 비운 틈을 타 주변을 살피기 시작합니다. 눈앞의 소장실은 물론, 오늘 아침 이곳에 들어서며 지나쳤던 로비와 보안 검색대도 다시 떠올려 볼 수 있습니다.</p>
+  <div class="section-title">2. 단계 안내</div>
+  <p>
+    1. AP 지급: 이번 구역에서 사용할 AP가 인당 2씩 지급됩니다.<br />
+    2. 단서 수집: AP를 사용하여 단서를 조사하십시오. 조사한 단서는 본인만 확인할 수 있으며, 상대방에게 알릴지는 전적으로 당신의 선택입니다. 다만 단서의 제목만은 서로에게 공개되니, 누가 무엇을 조사할지 미리 상의할 수 있습니다.<br />
+    3. 자유 토론: 서로 자유롭게 대화를 나누며 추리를 진행하십시오.<br />
+    4. 단계 완료: 조사와 대화가 충분히 마무리되었다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.
+  </p>
+</div>
+
+9. 대본 관리 (구조화, DB 입력용)
+
+※ (2026-11-20) 이 단계의 NPC '클레이' 줄은 DB의 NPC '클레이'(진짜 닥터 클레이)에 연결되어 있다.
+※ (2026-08-14 갱신) 세그먼트 개념 폐지. 대사 하나하나가 개별 진행 단위이며, PLAYER 줄은 화자 본인이 자동 담당자가 되지만 NPC/지시문 줄(1·2·10번)은 작가 도구에서 담당 플레이어를 직접 지정해야 함(아직 DB 미반영이라 이 문서에는 표기하지 않음 — 원문 주석 "클레이의 대사는 마커스가 대신 낭독"을 참고해 지정할 것).
+※ 지시문(DIRECTIVE)에는 화자/화자 표시 HTML이 없음. lineHtml만 입력.
+
+[1] 화자 타입: NPC
+    화자: 클레이
+    화자 표시 HTML: <span class="character-clay">클레이</span>
+    대사: 잠깐, B구역에 자료 좀 가지러 다녀오겠소. 아... 그리고, 다른 구역으로 넘어가고 싶어도 소용없을 거요. 각 구역은 연구소 직원의 생체 정보로만 통과할 수 있는 보안 시스템이 걸려 있는데, 지금 이 연구소에 남은 직원이라곤 나 하나뿐이니, 결국 나 없이는 다른 구역으로 넘어갈 수도 없다는 소리요. 그러니 괜히 연구소 안을 함부로 돌아다니지 마시오.
+    wav 파일: https://res.cloudinary.com/dkzctfx9z/video/upload/v1787119042/murdex/images/16fe248f-fac7-4272-8385-544f02b13b02/audio/c6047a2e-222c-4f0e-b031-f639619888c0/file_lezxf0.wav (재녹음됨)
+
+[2] 화자 타입: DIRECTIVE
+    대사: 클레이가 소장실을 나서 안쪽 셔터 너머로 사라졌다.
+    wav 파일: 단계_3_A구역_조사_2.wav
+
+[3] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 수사관님, 안색이 많이 안 좋아 보이시네요. 밤을 꼬박 새우신 것 같은데.
+    wav 파일: 단계_3_A구역_조사_3.wav
+
+[4] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 그쪽도 편한 얼굴은 아니군요. ...서로 사정은 아직 묻지 않는 게 좋겠습니다.
+    wav 파일: 단계_3_A구역_조사_4.wav
+
+[5] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 그럼 다른 걸 여쭤볼게요. 수사관님은 늘 이렇게 원칙대로만 움직이세요? 가끔은 감이 먼저 오지 않나요?
+    wav 파일: 단계_3_A구역_조사_5.wav
+
+[6] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 감으로 움직이면 증거를 놓칩니다. 전 확인된 것만 믿습니다.
+    wav 파일: 단계_3_A구역_조사_6.wav
+
+[7] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 재미없는 분이시네요. 저는 반대예요. 이상하다 싶으면 일단 파고들고, 이유는 나중에 찾죠. 지금까지는 그 방식이 틀린 적이 없었거든요.
+    wav 파일: 단계_3_A구역_조사_7.wav
+
+[8] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 그러다 크게 데이는 날이 올 겁니다.
+    wav 파일: 단계_3_A구역_조사_8.wav
+
+[9] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 이미 몇 번 데어봤어요. 그래도 안 고쳐지네요.
+    wav 파일: 단계_3_A구역_조사_9.wav
+
+[10] 화자 타입: DIRECTIVE
+    대사: 짧은 침묵이 두 사람 사이에 내려앉았다.
+    wav 파일: 단계_3_A구역_조사_10.wav

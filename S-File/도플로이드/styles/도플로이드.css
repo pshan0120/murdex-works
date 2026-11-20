@@ -559,3 +559,227 @@
     font-weight: 700;
     text-shadow: 0 0 8px rgba(186, 255, 214, 0.6);
 }
+
+/* ============================================================
+   아웃트로 마지막 "다음 이야기": 드라마 다음 회 예고처럼 보이고 바로 이어서 하고 싶어지는 카드
+   ============================================================ */
+.story-content a.next-episode {
+    display: block;
+    margin: 1.2rem 0 0.4rem 0;
+    border: 1px solid rgba(168, 192, 255, 0.28);
+    border-radius: 8px;
+    overflow: hidden;
+    background: #04070b;
+    box-shadow: 0 10px 34px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(0, 0, 0, 0.6);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.3s, box-shadow 0.3s, transform 0.3s;
+}
+
+.story-content a.next-episode:hover {
+    border-color: rgba(168, 192, 255, 0.65);
+    box-shadow: 0 12px 40px rgba(111, 140, 255, 0.28), 0 0 0 1px rgba(0, 0, 0, 0.6);
+    transform: translateY(-2px);
+}
+
+.story-content .next-episode-poster {
+    position: relative;
+    display: block;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: #000;
+}
+
+.story-content .next-episode-poster img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    object-fit: cover;
+    filter: saturate(0.85) contrast(1.08) brightness(0.88);
+    transition: transform 0.9s ease;
+}
+
+.story-content a.next-episode:hover .next-episode-poster img {
+    transform: scale(1.05);
+}
+
+/* 글자가 잘 보이도록 위아래를 어둡게 깔고, 와이드 화면처럼 보이는 검은 띠와 가는 주사선을 덧댄다 */
+.story-content .next-episode-poster::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0.14) 0, rgba(0, 0, 0, 0.14) 1px, transparent 1px, transparent 3px),
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 0) 42%, rgba(0, 0, 0, 0.88) 100%);
+    pointer-events: none;
+}
+
+.story-content .next-episode-poster::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        linear-gradient(#000, #000) top / 100% 6% no-repeat,
+        linear-gradient(#000, #000) bottom / 100% 6% no-repeat;
+    pointer-events: none;
+}
+
+.story-content .next-episode-label {
+    position: absolute;
+    z-index: 2;
+    top: 10%;
+    left: 5%;
+    padding-left: 0.8em;
+    border-left: 2px solid #ff4d4d;
+    font-family: "Orbitron", sans-serif;
+    font-size: clamp(0.6rem, 2.4vw, 0.8rem);
+    font-weight: 700;
+    letter-spacing: 0.36em;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* 가운데 재생 버튼: 눌러서 이어 본다는 느낌을 준다 */
+.story-content .next-episode-play {
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    width: clamp(52px, 12vw, 72px);
+    height: clamp(52px, 12vw, 72px);
+    margin: calc(clamp(52px, 12vw, 72px) / -2) 0 0 calc(clamp(52px, 12vw, 72px) / -2);
+    border: 2px solid rgba(255, 255, 255, 0.85);
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.38);
+    box-shadow: 0 0 0 0 rgba(168, 192, 255, 0.55);
+    animation: next-episode-pulse 2.4s ease-out infinite;
+    transition: background 0.3s, border-color 0.3s;
+}
+
+.story-content .next-episode-play::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -11px 0 0 -7px;
+    border-style: solid;
+    border-width: 11px 0 11px 19px;
+    border-color: transparent transparent transparent #fff;
+}
+
+.story-content a.next-episode:hover .next-episode-play {
+    background: rgba(111, 140, 255, 0.6);
+    border-color: #fff;
+}
+
+@keyframes next-episode-pulse {
+    0% { box-shadow: 0 0 0 0 rgba(168, 192, 255, 0.55); }
+    70% { box-shadow: 0 0 0 18px rgba(168, 192, 255, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(168, 192, 255, 0); }
+}
+
+.story-content .next-episode-caption {
+    position: absolute;
+    z-index: 2;
+    left: 5%;
+    right: 5%;
+    bottom: 9%;
+    display: block;
+}
+
+.story-content .next-episode-series {
+    display: block;
+    font-family: "Orbitron", sans-serif;
+    font-size: clamp(0.6rem, 2.2vw, 0.78rem);
+    font-weight: 700;
+    letter-spacing: 0.3em;
+    color: #a8c0ff;
+}
+
+.story-content .next-episode-title {
+    display: block;
+    margin: 0.1em 0 0.15em 0;
+    font-size: clamp(1.7rem, 7vw, 2.8rem);
+    font-weight: 900;
+    line-height: 1.1;
+    color: #fff;
+    text-shadow: 0 2px 14px rgba(0, 0, 0, 0.85);
+}
+
+.story-content .next-episode-line {
+    display: block;
+    font-size: clamp(0.7rem, 2.6vw, 0.95rem);
+    font-style: italic;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.88);
+    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .story-content .next-episode-play {
+        animation: none;
+    }
+}
+
+/* 말투 비교: 아웃트로 "말투에 숨겨진 단서"에서 클레이와 AIex를 나란히 보여 준다 */
+.story-content .voice-compare {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 14px;
+    margin: 1rem 0;
+}
+
+.story-content .voice-card {
+    padding: 10px 10px 14px 10px;
+    border: 1px solid rgba(168, 192, 255, 0.25);
+    border-radius: 8px;
+    background: rgba(5, 8, 12, 0.6);
+    text-align: center;
+}
+
+.story-content .voice-card-alex {
+    border-color: rgba(255, 77, 77, 0.3);
+}
+
+.story-content .voice-card img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    margin: 0 0 10px 0;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+.story-content .voice-place {
+    font-size: 0.78rem;
+    letter-spacing: 0.06em;
+    color: #8e9bb5;
+}
+
+.story-content .voice-name {
+    margin: 0.2rem 0 0.5rem 0;
+    font-size: 1.05rem;
+    font-weight: 800;
+}
+
+.story-content .voice-quote {
+    font-size: 0.92rem;
+    line-height: 1.55;
+    color: #e3e8f2;
+}
+
+.story-content .voice-tone {
+    display: inline-block;
+    margin-top: 0.6rem;
+    padding: 0.1em 0.7em;
+    border: 1px solid rgba(168, 192, 255, 0.4);
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #a8c0ff;
+}
+
+.story-content .voice-card-alex .voice-tone {
+    border-color: rgba(255, 77, 77, 0.5);
+    color: #ff8a8a;
+}

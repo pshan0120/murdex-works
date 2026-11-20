@@ -1,0 +1,98 @@
+StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
+StepID : bd25842d-d09a-4aa4-bba4-efa3fe369523
+
+1. 순서
+2
+
+2. 단계 이름
+대면
+
+3. 단계 유형
+NARRATIVE
+
+4. 예상 소요 시간
+-
+
+5. 자동 진행 여부
+N
+
+6. BGM
+https://cdn1.suno.ai/6ab57146-c074-4822-acb0-1aee1d9a948c.mp3
+
+# Suno Prompt: Cold institutional dark ambient thriller, slow pulsing synth bass, sparse muted piano notes, distant metallic percussion, restrained tension, 1990s government conspiracy drama score, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 대본 낭독</div>
+  <p>두 플레이어가 처음 조우한 시점(11:00, <span class="emphasis">클레이 연구소</span> <span class="emphasis">소장실</span>)입니다. 아래 대본 영역에서 순서대로 대사가 공개됩니다. "다음" 버튼이 보이는 플레이어가 진행권을 가지고 있습니다. 담당하는 역할의 대사를 연기하듯이 낭독하세요. 모두 마친 후 "다음"을 눌러 상대 플레이어에게 진행권을 넘겨 주세요.</p>
+  <ul>
+    <li><span class="highlight">NPC 대사</span>: 소장 같은 NPC의 대사는 진행권을 가진 플레이어가 <span class="highlight">대사 들려주기</span> 버튼(또는 말풍선 옆 스피커 버튼)을 눌러 음성으로 재생해 주세요. 두 플레이어에게 함께 들립니다.</li>
+    <li><span class="highlight">지시문</span>: 대본 사이에 나오는 상황 묘사 글입니다. 소리 내어 읽어도 좋고, 눈으로만 보고 넘어가도 괜찮습니다. 효과음이 있는 지시문에는 <span class="highlight">효과음 재생</span> 버튼이 나타납니다.</li>
+  </ul>
+  <div class="section-title">2. 다음 단계 안내</div>
+  <p>아래 대본을 끝까지 진행했다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계로 진행하십시오.</p>
+</div>
+
+8. 대본 관리 (구조화, DB 입력용)
+
+※ (2026-11-20) 이 단계의 NPC '클레이' 줄은 DB의 NPC '클레이'(진짜 닥터 클레이)에 연결되어 있다. 얼굴 이미지가 클레이용으로 따로 있다.
+※ (2026-08-14 갱신) 세그먼트 개념 폐지. 이제 대사 하나하나가 개별 진행 단위이며, 화자 타입과 무관하게 "담당 플레이어"를 줄마다 직접 지정해야 함. PLAYER 줄은 화자 본인이 자동으로 담당자가 됨(작가 도구에서 별도 지정 불필요). NPC/지시문 줄은 담당자를 명시 지정 필요 — 아래 각 항목에 "담당 플레이어" 필드로 표시함(실제 DB에는 2026-08-13 저장분 기준 세그먼트 규칙과 동일하게 임시 backfill 해둠 — 뒤따르는 PLAYER 줄의 담당자, 없으면 마지막 PLAYER 줄의 담당자).
+※ 오디오 파일은 works/도플로이드/audios/voice/ 아래 wav를 업로드 전 Cloudinary 등에 먼저 올려야 함 (URL 직접 붙여넣기 방식).
+
+[1] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: FBI에서 특별 파견된 수사관 마커스라고 합니다. 저희 쪽에서 미리 연락은 받으셨겠죠? 정부에서 지시한 불법 연구 기소 건으로, 오후에 도착할 정식 집행팀에 앞서 사전 조사를 나왔습니다. 시간 없으니 바로 본론으로 들어가시죠. 당신이 여기서 무슨 짓을 벌였는지 반드시 알아내야겠습니다.
+    wav 파일: 단계_2_대면_1.wav
+
+[2] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 저도 마찬가지예요. 이 연구소, 그냥 지나칠 수 없는 이유가 있어서 왔거든요.
+    wav 파일: 단계_2_대면_2.wav
+
+[3] 화자 타입: NPC
+    화자: 클레이
+    담당 플레이어: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-clay">클레이</span>
+    대사: ...반갑소, 두 분 다. 앉으시오.
+    wav 파일: 단계_2_대면_3.wav
+
+[4] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: (마주 앉는 순간, 클레이의 얼굴을 보고 흠칫 놀라며) ...알렉스?
+    wav 파일: 단계_2_대면_4.wav
+
+[5] 화자 타입: NPC
+    화자: 클레이
+    담당 플레이어: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-clay">클레이</span>
+    대사: (당황한 기색을 애써 감추며) 그건 내 이름이 아니오. 난 클레이 소장이오, 사람 잘못 봤군.
+    wav 파일: 단계_2_대면_5.wav
+
+[6] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: (애써 평정을 되찾으며) ...반갑습니다. CIA 소속 베일라라고 합니다. 정문에서 마침 마커스 수사관님과 만나서, 함께 들어오게 되었네요. 저 역시 이 연구소에서 확인할 게 좀 있어서 왔습니다.
+    wav 파일: 단계_2_대면_6.wav
+
+[7] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 이쪽은 CIA시군요. 목적은 조금 다를지 모르나 협력할 수 있을 겁니다. 자, 소장님. 변명은 나중에 듣고, 어서 안내부터 하시죠.
+    wav 파일: 단계_2_대면_7.wav
+
+[8] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 네, 시간 낭비할 이유는 없으니까요.
+    wav 파일: 단계_2_대면_8.wav
+
+[9] 화자 타입: NPC
+    화자: 클레이
+    담당 플레이어: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-clay">클레이</span>
+    대사: 좋소. 다만 시간이 많지는 않소. 오후 2시면 정부 집행팀이 도착해 이곳을 완전히 폐쇄할 거요. 그러니 그 전에 끝내는 게 서로에게 나을 테지.
+    wav 파일: 단계_2_대면_9.wav

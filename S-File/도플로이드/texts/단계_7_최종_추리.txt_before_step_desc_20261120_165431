@@ -1,0 +1,105 @@
+StoryID : 16fe248f-fac7-4272-8385-544f02b13b02
+StepID : f18f0c10-8075-4033-83fd-782ee94670f2
+
+1. 순서
+7
+
+2. 단계 이름
+최종 추리
+
+3. 단계 유형
+DEDUCTION
+
+4. 예상 소요 시간
+10분
+
+5. 자동 진행 여부
+N
+
+6. BGM
+https://cdn1.suno.ai/5dd7685c-a7df-42f6-b07d-646b18ab03cc.mp3
+
+# Suno Prompt: Melancholic tense ambient, soft sustained strings, sparse piano, subtle emotional undertone beneath restrained dread, quiet investigative reflection, X-Files style bittersweet suspense, constant unchanging intensity from start to end, no build-up, no climax, no fade in or out, instrumental, no vocals, short steady seamless loop
+
+7. 단계 설명
+
+<div class="story-content">
+  <div class="section-title">1. 대본 낭독</div>
+  <p>아래 대본 영역에서 순서대로 대사가 공개됩니다. 자신의 차례가 되면 직접 낭독하거나 재생 버튼으로 음성을 들려주고, "다음"을 눌러 이어가세요.</p>
+  <p>지시문은 눈으로만 읽어도 괜찮습니다.</p>
+  <div class="section-title">2. 단계 안내</div>
+  <p>사건의 조각들이 맞추어졌습니다. 이제 최종 토론 단계입니다.</p>
+  <p class="emphasis">지금까지 혼자 간직해 온 단서가 있다면, 상대방에게 알릴 수 있는 마지막 기회입니다. 다음 단계부터는 더 이상 정보를 주고받을 수 없습니다.</p>
+  <p>
+    1. 단서 정리: 지금까지 수집된 단서들과 서로의 정보를 바탕으로 사건의 전체 흐름을 재구성하십시오.<br />
+    <br />
+    2. 핵심 추론 항목:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;- 기록 보관실에서 발견된 시체의 정체는 무엇이며, 이 사건의 진범은 누구인가?<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;- 이 연구소에서 실제로 어떤 연구가 진행되어 온 것인가?<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;- 각자 조사하며 알게 된 것 중, 아직 상대방에게 밝히지 않은 사실이 있는가? 그것이 이 사건과 어떻게 연결되는가?<br />
+    <br />
+    3. 단계 완료: 두 사람이 사건의 진상에 대해 충분히 토론하고 추리를 마쳤다면, 화면 <span class="highlight">NEXT</span> 버튼을 눌러 최종 결론(질문 및 답변) 단계로 진행하십시오.
+  </p>
+</div>
+
+9. 대본 관리 (구조화, DB 입력용)
+
+※ 지시문(DIRECTIVE)에는 화자/화자 표시 HTML이 없음. lineHtml만 입력.
+※ (2026-08-14 갱신) 세그먼트 개념 폐지. NPC/지시문 줄(1·10번)도 담당 플레이어를 작가 도구에서 직접 지정해야 함(아직 DB 미반영).
+※ (2026-08-26 갱신) 소장 심문(클레이 NPC 대사 + iframe)을 단계_8로 이동함 — 시간이 부족해지는 문제 때문. 대신 그 자리엔 짧은 마무리 지시문만 남김.
+
+[1] 화자 타입: DIRECTIVE
+    대사: 모든 구역의 조사를 마친 두 사람 사이에, 짧은 정적이 흘렀다.
+    wav 파일: 단계_7_최종_추리_1.wav
+
+[2] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: ...이제 정말 마지막이군요.
+    wav 파일: 단계_7_최종_추리_2.wav
+
+[3] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 네. 여기까지 오는 데, 참 오래 걸렸네요.
+    wav 파일: 단계_7_최종_추리_3.wav
+
+[4] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: ...그러게 말입니다.
+    wav 파일: 단계_7_최종_추리_4.wav
+
+[5] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 수사관님은... 만약 진실이 원하시던 것과 다르면 어떡하실 거예요?
+    wav 파일: 단계_7_최종_추리_5.wav
+
+[6] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 그래도 마주해야겠죠. 피한다고 없어지는 건 아니니까.
+    wav 파일: 단계_7_최종_추리_6.wav
+
+[7] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 저는... 자신이 없어요. 어쩌면 처음부터, 알고 싶지 않았던 걸지도 모르겠어요.
+    wav 파일: 단계_7_최종_추리_7.wav
+
+[8] 화자 타입: PLAYER
+    화자: 마커스 (FBI 수사관)
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 그럼 왜 여기까지 왔습니까?
+    wav 파일: 단계_7_최종_추리_8.wav
+
+[9] 화자 타입: PLAYER
+    화자: 베일라 (CIA 요원)
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: 그야, 모르는 채로 사는 것보다는, 그래도 낫다고 생각했으니까요.
+    wav 파일: 단계_7_최종_추리_9.wav
+
+[10] 화자 타입: DIRECTIVE
+    대사: 더 할 말은 남아 있지 않은 듯했다. 그러나 어느 쪽도, 아직 확신을 갖지는 못했다.
+    wav 파일: 단계_7_최종_추리_10.wav

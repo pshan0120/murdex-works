@@ -36,24 +36,20 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1791268320/murdex/images/7169
     <ol>
       <li>
         <strong>비밀코드</strong>: 뒷면으로 놓인 단서 중에는 비밀코드를 입력해야 조사할 수 있는 것이 있습니다.
-        코드의 답은 앞선 통화에서 상대가 전해 준 말 속에 있습니다. 힌트는 <span class="highlight">내 역할</span>의 단계별 지침에 있습니다.
+        코드의 답은 앞선 통화에서 상대가 전해 준 말 속에 있습니다. 힌트는 <span class="highlight">내 역할</span>의 단계별 지침에 있습니다. 힌트를 확인해서라도 모든 단서를 조사하는 것을 권장합니다.
       </li>
       <li>
-        <strong>메모</strong>: 상대가 전하는 낱말과 숫자는 들은 그대로 메모해 두세요.
+        <strong>메모</strong>: 상대가 전하는 낱말과 숫자는 들은 그대로 화면 가장자리의 <span class="highlight">도구</span>를 열어 [메모장]에 적어 두세요.
         정확한 문구는 단서 화면의 복사 버튼으로 채팅에 붙여넣어 전할 수 있습니다.
       </li>
       <li>
         <strong>최종 질문은 서술형</strong>: 조사가 끝나면 각자 질문 3개에 선택지 없이 직접 글로 답을 적어 제출합니다.
-        질문은 역할마다 다르고 점수는 두 사람 점수의 평균이라, 상대에게 받은 정보가 내 답에도 필요합니다.
+        질문은 역할마다 다르고 각자 채점해 두 사람 점수의 평균이 최종 점수이므로, 상대에게 받은 정보가 내 답에도 필요합니다. 점수는 마지막 단계에서 발표됩니다.
       </li>
     </ol>
   </div>
   <div class="section-title">2. 준비</div>
-  <p>
-    원활한 게임 진행을 위해, 지금 보고 계신 단계 설명을 먼저 꼼꼼히 읽는 것이
-    중요합니다. 안내를 모두 확인하셨다면 <span class="highlight">내 역할</span> 정보를 확인해 주세요. 자신이 맡은
-    캐릭터의 상세 설정, 목표 및 타임라인을 충분히 숙지해 주시기 바랍니다.
-  </p>
+  <p>먼저 지금 보고 계신 단계 설명을 꼼꼼히 읽어 주세요. 창을 닫은 뒤 <span class="highlight">내 역할</span>에서 자신이 맡은 캐릭터의 상세 설정, 목표, 타임라인을 숙지해 주세요. 충분히 숙지했다면 화면 <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계(대면)로 진행할 준비가 되었음을 상대에게 알리세요. 앞으로 매 단계마다 이렇게 단계 설명이 표시됩니다.</p>
   <div class="section-title">3. 전체 게임 단계 흐름</div>
   <p>본 시나리오는 다음과 같이 총 12단계로 순차 진행됩니다.</p>
   <table>
@@ -67,21 +63,21 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1791268320/murdex/images/7169
     <tbody>
       <tr><td>시작</td><td>도입</td><td>10분</td></tr>
       <tr><td>대면</td><td>진행</td><td>-</td></tr>
-      <tr><td>1차 조사</td><td>조사</td><td>5분</td></tr>
+      <tr><td>1차 조사</td><td>조사</td><td>10분</td></tr>
       <tr><td>1차 추리</td><td>추리</td><td>10분</td></tr>
-      <tr><td>2차 조사</td><td>조사</td><td>5분</td></tr>
+      <tr><td>2차 조사</td><td>조사</td><td>10분</td></tr>
       <tr><td>2차 추리</td><td>추리</td><td>10분</td></tr>
-      <tr><td>3차 조사</td><td>조사</td><td>5분</td></tr>
+      <tr><td>3차 조사</td><td>조사</td><td>10분</td></tr>
       <tr><td>3차 추리</td><td>추리</td><td>10분</td></tr>
-      <tr><td>4차 조사</td><td>조사</td><td>5분</td></tr>
-      <tr><td>최종 추리</td><td>추리</td><td>25분</td></tr>
+      <tr><td>4차 조사</td><td>조사</td><td>10분</td></tr>
+      <tr><td>최종 추리</td><td>추리</td><td>20분</td></tr>
       <tr><td>최종 결론</td><td>결론</td><td>15분</td></tr>
       <tr><td>끝</td><td>에필로그</td><td>무제한</td></tr>
     </tbody>
   </table>
   <div class="section-title">4. 단계별 소통 방식</div>
   <ul>
-    <li><strong>1~4차 조사</strong>: 말로 대화하지 않고 각자 단서 조사에 집중합니다. 전할 것이 있으면 <span class="highlight">채팅</span>으로 짧게 주고받을 수 있습니다. 조사 시간은 5분뿐이니 채팅은 짧게 하세요.</li>
+    <li><strong>1~4차 조사</strong>: 말로 대화하지 않고 각자 단서 조사에 집중합니다. 전할 것이 있으면 화면 아래쪽 가운데 입력창의 <span class="highlight">채팅</span>으로 짧게 주고받을 수 있습니다.</li>
     <li><strong>1~3차 추리</strong>: 전화로 대화를 나눌 수 있습니다. 말로 전하기 어려운 내용은 채팅으로 글을 보내도 됩니다.</li>
     <li><strong>최종 추리</strong>: 두 사람이 조사한 단서가 모두 게임보드에 공개됩니다. 대화와 함께 서로의 단서를 보며 추리합니다.</li>
   </ul>
@@ -93,7 +89,7 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1791268320/murdex/images/7169
     </li>
     <li>
       <strong>지침 확인 필수</strong>: 매 단계가 시작될 때마다 본인의 역할 시트에 새로운 지침이나 목표가
-      갱신될 수 있고, 비밀코드 힌트도 이 지침에 있습니다. 대화를 시작하기 전 반드시 새로운 지침을 먼저 확인하십시오.
+      갱신될 수 있습니다. 대화를 시작하기 전 반드시 새로운 지침을 먼저 확인하십시오.
     </li>
   </ul>
   <div class="section-title">6. 단서 규칙</div>
@@ -104,24 +100,10 @@ https://res.cloudinary.com/dkzctfx9z/video/upload/v1791268320/murdex/images/7169
     <li>
       <strong>내 단서</strong>: 조사한 단서는 내 단서에서 다시 볼 수 있습니다.
     </li>
-    <li>
-      <strong>비밀코드</strong>: 조사 단계에는 뒷면으로 놓인 단서가 있으며, 비밀코드를 정확히 입력하면 조사할 수 있습니다. 비밀코드에 대한 힌트는 역할 지침에서 볼 수 있으니, 가급적 힌트를 확인해서라도 모든 단서를 조사하는 것을 권장합니다.
-    </li>
   </ul>
-  <div class="section-title">7. 점수 규칙</div>
-  <ul>
-    <li><strong>최종 질문은 서술형</strong>: 조사가 끝나면 각자 질문 3개에 선택지 없이 직접 글로 답을 적어 제출합니다. 질문은 역할마다 다릅니다.</li>
-    <li><strong>각자 채점</strong>: 두 사람의 답안은 각각 채점됩니다. 최종 점수는 두 사람 점수의 평균입니다. 점수는 마지막 단계에서 발표됩니다.</li>
-  </ul>
-  <div class="section-title">8. 플레이 팁</div>
+  <div class="section-title">7. 플레이 팁</div>
   <ul>
     <li><strong>적극적인 역할 몰입</strong>: 역할 시트에 명시된 성격과 말투를 살려 대화를 나눠보세요.</li>
     <li><strong>빠짐없이 이야기하기</strong>: 확인한 단서는 서로 빠뜨리지 말고 이야기해 주세요.</li>
   </ul>
-  <div class="section-title">9. 다음 단계 안내</div>
-  <p>
-    앞으로 매 단계마다 지금처럼 단계 설명이 표시됩니다. 모두 숙지했으면 창을 닫고
-    <span class="highlight">내 역할</span>에서 자신의 설정을 숙지하세요. 충분히 숙지하였다면 화면
-    <span class="highlight">NEXT</span> 버튼을 눌러 다음 단계(대면)로 진행할 준비가 되었음을 상대에게 알리세요.
-  </p>
 </div>

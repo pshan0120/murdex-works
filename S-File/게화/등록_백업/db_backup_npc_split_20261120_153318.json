@@ -1,0 +1,43 @@
+{
+ "npc_name": {
+  "2bc9c26e-9c7e-11f1-9efd-00163eeec7f2": "소장"
+ },
+ "lines": [
+  {
+   "line_id": "de4d99fa-1a39-4312-ad40-6198c341e8ef",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  },
+  {
+   "line_id": "02a2cbd5-05d3-401d-94bc-6013bafe6992",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  },
+  {
+   "line_id": "ec8af936-47af-4315-939f-a22fa00a9bc8",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  },
+  {
+   "line_id": "65a1f515-03c2-4ee0-91a5-bd19f9107b01",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  },
+  {
+   "line_id": "b03a7b39-992f-11f1-9efd-00163eeec7f2",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  },
+  {
+   "line_id": "b03a7e49-992f-11f1-9efd-00163eeec7f2",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  },
+  {
+   "line_id": "b03a8b63-992f-11f1-9efd-00163eeec7f2",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  },
+  {
+   "line_id": "b03a8e0d-992f-11f1-9efd-00163eeec7f2",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  },
+  {
+   "line_id": "d4fed14f-c0c9-11f1-9efd-00163eeec7f2",
+   "npc_id": "b7d6161e-b811-42d0-bbca-33e9a08e6d68"
+  }
+ ]
+}

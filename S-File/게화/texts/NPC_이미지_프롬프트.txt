@@ -1,0 +1,21 @@
+[게화 NPC 이미지 프롬프트]
+2026-11-20 초안 (41차 피드백 후속). NPC가 대사를 할 때 말풍선 옆에 보일 얼굴 이미지이다.
+
+공통 규칙
+- 비율은 1:1(정사각형). 얼굴을 한가운데에 크게 둔다(게임 화면에서 원형 아바타로 잘린다). 역할 이미지 규칙(works/역할정보_작성규칙.md)과 같다.
+- 화풍은 게화 역할 이미지와 같다(16mm 필름, X-Files풍, 차가운 청록 검은 색감, 새벽의 흐린 빛).
+- 로고(워터마크)와 검은 띠는 murdex-image-cleanup 스킬로 정리한 뒤 올린다.
+
+========================================
+[NPC 1: 어부]  (단계 대본 5줄. 선착장에서 그물을 손질하던 본토 토박이 늙은 어부)
+========================================
+이미지생성용 프롬프트: Extreme close-up half-body portrait of an old local fisherman in his late 60s, a lifelong native of the Maine coast. Sun-weathered, deeply creased face, short white stubble, thick gray eyebrows, pale squinting eyes that look at the viewer with blunt, taciturn wariness. He wears a faded dark wool knit cap and a patched, worn dark oilskin jacket over a thick sweater. Thick, knotted hands hold a coil of fishing net at the bottom of the frame. His face is centered in the frame and fills the middle of the image. He stands on a wooden pier at dawn with low sea fog and dark water behind him, out of focus. Grainy 16mm film still, 1990s X-Files-style investigative photography, desaturated cool teal-black color grade, naturalistic overcast dawn light, subtle film grain, analog imperfections. Square 1:1 aspect ratio. No text, lettering, signs or labels anywhere in the frame.
+
+========================================
+[NPC 2: 어슐라]  (단계 대본 6줄, 엔딩 대본 17줄. 베일라의 고종사촌, 기자 같은 인상)
+========================================
+이미지생성용 프롬프트: Extreme close-up portrait of a woman in her late 20s, with a noticeably pale, slightly drained complexion. A plain, unglamorous, ordinary face that looks like a seasoned local newspaper reporter: observant steady eyes, faint tired shadows beneath them, thin dry lips, no makeup, a quiet, watchful, slightly guarded expression. She wears a wide-brimmed hat pulled low and a long coat buttoned up to the neck, so that only her face is visible between the deep hat brim and the high collar, with just a few straight dark-brown strands of hair at her temples. Her face is centered in the frame and fills the middle of the image. She stands on a hillside village path in low fog at dawn, out of focus behind her. No wetness, no sweat, no water droplets and no moisture on her skin, hair or clothing; everything is completely dry. Grainy 16mm film still, 1990s X-Files-style investigative photography, desaturated cool teal-black color grade, naturalistic overcast dawn light, subtle film grain, analog imperfections. Square 1:1 aspect ratio. No text, lettering, signs or labels anywhere in the frame.
+
+메모
+- 어슐라는 기획안(207행)대로 물기, 땀 같은 묘사를 이미지에도 쓰지 않는다(복장은 자기 모습이 드러나지 않기를 바란 것으로만 보이게 한다). 프롬프트에 "완전히 마른 상태"를 넣었다.
+- 어슐라의 엔딩 대본 17줄도 같은 이미지를 쓴다. 엔딩에서 달라진 얼굴이 필요하면 NPC를 나누어야 한다(운영자 결정).

@@ -1,0 +1,705 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Orbitron:wght@400;700;900&family=JetBrains+Mono:wght@400;700&display=swap");
+
+/* 
+ * 도플로이드 (Doploid) - 커스텀 테마 CSS
+ * 인류 재부팅 프로토콜 / SF 미스터리 테마
+ */
+
+/* ============================================================
+   1. 기본 레이아웃 및 텍스트
+   ============================================================ */
+
+.story-content {
+    font-size: 1rem;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    color: #d1d1d1;
+    line-height: 1.8;
+    letter-spacing: -0.01em;
+    background-color: #05070a;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+
+/* 본문 스타일 */
+.story-content p {
+    margin-bottom: 1.2rem;
+    text-align: left;
+    word-break: keep-all;
+}
+
+.story-content ul {
+    list-style-type: disc;
+    margin-bottom: 1.2rem;
+    padding-left: 1.2rem;
+}
+
+.story-content ol {
+    list-style-type: decimal;
+    margin-bottom: 1.2rem;
+    padding-left: 1.2rem;
+}
+
+.story-content li {
+    margin-bottom: 0.8rem;
+}
+
+.story-content .info-list {
+    list-style-type: decimal;
+    padding-left: 1.2rem;
+    margin: 1rem 0;
+}
+
+.story-content .info-list li {
+    margin-bottom: 0.8rem;
+    line-height: 1.7;
+}
+
+.story-content .info-list li:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .info-list li strong {
+    color: #a8c0ff;
+}
+
+/* 제목 및 강조 */
+.story-content .section-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 900;
+    color: #a8c0ff;
+    margin: 2rem 0 1rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(168, 192, 255, 0.3);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px rgba(168, 192, 255, 0.4);
+}
+
+.story-content .subsection-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #ff4d4d;
+    margin: 1.5rem 0 0.8rem 0;
+    display: block; /* flex이면 제목 안의 이름 같은 인라인 요소가 따로 쪼개져 좁은 화면에서 깨져 보인다 */
+}
+
+.story-content .subsection-title::before {
+    content: ">>";
+    font-size: 0.8em;
+    opacity: 0.7;
+    margin-right: 0.5em;
+}
+
+.story-content .highlight {
+    color: #a8c0ff;
+    font-weight: 700;
+    text-shadow: 0 0 5px rgba(168, 192, 255, 0.3);
+}
+
+.story-content .emphasis {
+    color: #ff4d4d;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* ============================================================
+   2. 박스 및 컴포넌트
+   ============================================================ */
+
+/* 분위기 조성을 위한 인용구 박스 */
+.story-content .quote-box {
+    position: relative;
+    margin: 1rem 0;
+    padding: 1rem;
+    background: rgba(168, 192, 255, 0.03);
+    border: 1px solid rgba(168, 192, 255, 0.1);
+    border-radius: 4px;
+    font-family: "Nanum Myeongjo", serif;
+    color: #e0e0e0;
+    line-height: 2;
+    text-align: center;
+}
+
+.story-content .quote-box::before,
+.story-content .quote-box::after {
+    content: '"';
+    font-family: serif;
+    font-size: 3rem;
+    position: absolute;
+    opacity: 0.1;
+    color: #a8c0ff;
+}
+
+.story-content .quote-box::before {
+    top: 0;
+    left: 1rem;
+}
+
+.story-content .quote-box::after {
+    bottom: -1rem;
+    right: 1rem;
+}
+
+/* 테이블 스타일 */
+.story-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: rgba(10, 17, 28, 0.6);
+    border: 1px solid rgba(168, 192, 255, 0.2);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.story-content th,
+.story-content td {
+    border: 1px solid rgba(168, 192, 255, 0.2);
+    padding: 0.75rem 1rem;
+    text-align: center;
+    word-break: keep-all;
+}
+
+.story-content th {
+    background: rgba(168, 192, 255, 0.12);
+    color: #a8c0ff;
+    font-weight: 700;
+    font-family: "Orbitron", sans-serif;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid rgba(168, 192, 255, 0.3);
+}
+
+.story-content tr:nth-child(even) {
+    background: rgba(168, 192, 255, 0.03);
+}
+
+.story-content tr:hover {
+    background: rgba(168, 192, 255, 0.07);
+}
+
+/* 시스템 메시지 및 가이드 박스 */
+.story-content .system-msg,
+.story-content .guide-box {
+    display: block;
+    margin: 1.5rem 0;
+    padding: 1.25rem;
+    background: rgba(168, 192, 255, 0.05);
+    border: 1px solid rgba(168, 192, 255, 0.2);
+    border-left: 4px solid #a8c0ff;
+    border-radius: 2px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.9rem;
+    color: #a8c0ff;
+}
+
+.story-content .guide-box {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px dashed rgba(255, 255, 255, 0.2);
+    border-left: 4px solid #ffffff;
+    color: #ffffff;
+}
+
+/* 접이식 섹션 (Details/Summary) */
+.story-content details {
+    background: rgba(168, 192, 255, 0.03);
+    border: 1px solid rgba(168, 192, 255, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.story-content details[open] {
+    background: rgba(168, 192, 255, 0.06);
+    border-color: rgba(168, 192, 255, 0.3);
+}
+
+.story-content summary {
+    padding: 1.2rem 1.5rem;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 700;
+    color: #a8c0ff;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(168, 192, 255, 0.05);
+    user-select: none;
+}
+
+.story-content summary::-webkit-details-marker {
+    display: none;
+}
+
+.story-content summary:hover {
+    background: rgba(168, 192, 255, 0.1);
+}
+
+.story-content .collapsible-content {
+    padding: 1.5rem;
+    border-top: 1px solid rgba(168, 192, 255, 0.1);
+}
+
+/* 구분선 */
+.story-content .divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(168, 192, 255, 0.3), transparent);
+    margin: 2.5rem 0;
+}
+
+/* ============================================================
+   3. 스크립트 및 캐릭터 시스템
+   ============================================================ */
+
+.story-content .script-container {
+    margin: 1.5rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.story-content .script-line {
+    line-height: 1.6;
+    text-align: left;
+    /* 대본은 항상 왼쪽 정렬 */
+}
+
+.story-content .script-character {
+    font-weight: 800;
+    margin-right: 0.8rem;
+    color: #ffffff;
+    padding: 2px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+    font-family: "Orbitron", sans-serif;
+    font-size: 0.85em;
+    display: inline-block;
+    min-width: 2.5rem;
+    text-align: center;
+}
+
+.story-content .script-direction {
+    font-size: 0.9rem;
+    color: #888888;
+    font-style: italic;
+    margin: 1rem 0;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.story-content .quote-box .script-line {
+    text-align: left;
+    /* 인용구 박스 내부에서도 대본은 왼쪽 정렬 */
+}
+
+/* 플레이어 전용 대본 스타일 */
+.story-content .script-line.my-line {
+    background: rgba(168, 192, 255, 0.12);
+    padding: 8px 12px;
+    border-radius: 6px;
+    border-left: 4px solid #a8c0ff;
+    margin: 0.8rem 0;
+    box-shadow: inset 0 0 20px rgba(168, 192, 255, 0.05);
+}
+
+.story-content .script-character.my-character {
+    background: #a8c0ff;
+    color: #05070a;
+    box-shadow: 0 0 12px rgba(168, 192, 255, 0.6);
+}
+
+.story-content .script-line.other-character {
+    opacity: 0.4;
+    padding-left: 16px;
+    font-size: 0.9em;
+    border-left: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+/* 캐릭터별 고유 컬러 */
+.character-veyla {
+    color: #ff6b9d !important;
+    /* Rose - 베일라: 집착적인 사랑과 감정 */
+    text-shadow: 0 0 8px rgba(255, 107, 157, 0.5);
+}
+
+.character-marcus {
+    color: #e8a33d !important;
+    /* Amber - 마커스: 정부 수사관, 억눌린 분노 */
+    text-shadow: 0 0 8px rgba(232, 163, 61, 0.5);
+}
+
+.character-clay {
+    color: #a875ff !important;
+    /* Violet - 클레이(AIex): 진위를 알 수 없는 존재의 이질감 */
+    text-shadow: 0 0 8px rgba(168, 117, 255, 0.5);
+}
+
+.character-alex {
+    color: #8c8fa3 !important;
+    /* Slate Lavender - 알렉스: 극에 직접 등장하지 않는, 부재와 기억의 인물 */
+    text-shadow: 0 0 6px rgba(140, 143, 163, 0.4);
+}
+
+/* ============================================================
+   4. 엔딩 및 특수 섹션
+   ============================================================ */
+
+.ending-result {
+    margin-top: 3rem;
+    padding: 2rem;
+    border: 2px double rgba(168, 192, 255, 0.4);
+    background: rgba(168, 192, 255, 0.05);
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: #ffffff;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    text-shadow: 0 0 15px rgba(168, 192, 255, 0.6);
+}
+
+/* 인트로 시네마틱 */
+.intro-section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.intro-title-cinematic {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: clamp(1.0rem, 5vw, 1.5rem);
+    font-weight: 800;
+    color: #ffffff;
+    text-align: center;
+    line-height: 1.6;
+    margin-bottom: 4rem;
+    position: relative;
+    padding-bottom: 2rem;
+    word-break: keep-all;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.intro-title-cinematic::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #a8c0ff, transparent);
+}
+
+.intro-paragraph {
+    font-size: 1.1rem;
+    line-height: 2;
+    margin-bottom: 2rem;
+    opacity: 0.85;
+    color: #e0e0e0;
+}
+
+/* 핵심 특징 섹션 */
+.feature-section {
+    margin: 4rem 0;
+    padding: 1.25rem;
+    background: rgba(168, 192, 255, 0.02);
+    border: 1px solid rgba(168, 192, 255, 0.1);
+    border-radius: 4px;
+}
+
+.feature-header {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #a8c0ff;
+    margin-bottom: 2rem;
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+
+.feature-list-premium {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 2rem;
+}
+
+.feature-item-title {
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.feature-item-title::before {
+    content: "■";
+    font-size: 0.6em;
+    color: #a8c0ff;
+}
+
+.feature-item-desc {
+    font-size: 0.95rem;
+    color: #a0a0a0;
+    padding-left: 1.5rem;
+}
+
+/* 아웃트로 및 기타 */
+.intro-outro {
+    margin-top: 5rem;
+    text-align: center;
+    font-family: "Nanum Myeongjo", serif;
+    font-style: italic;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #d1d1d1;
+}
+
+.ai-notice {
+    margin-top: 4rem;
+    font-size: 0.75rem;
+    opacity: 0.3;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+
+.glitch-text {
+    position: relative;
+    display: inline-block;
+}
+
+/* 모바일 대응 */
+@media (max-width: 640px) {
+    .intro-title-cinematic {
+        font-size: 1.2rem;
+    }
+
+    .intro-paragraph {
+        font-size: 0.95rem;
+    }
+
+    .feature-section {
+        padding: 1.5rem;
+    }
+
+    .ending-result {
+        font-size: 1.2rem;
+    }
+}
+
+/* 문서 및 단서 레이아웃 유틸리티 (도플로이드 SF 테마) */
+.story-content .document-page {
+    background: rgba(10, 20, 32, 0.75);
+    border: 1px solid rgba(168, 192, 255, 0.25);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.2rem 0;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.5), 0 4px 12px rgba(0, 0, 0, 0.3);
+    font-family: "Noto Sans KR", sans-serif;
+    color: #d8e2ff;
+    line-height: 1.6;
+}
+
+.story-content .document-body {
+    margin-bottom: 0.75rem;
+    color: #c0d0f0;
+}
+
+.story-content .document-body:last-child {
+    margin-bottom: 0;
+}
+
+.story-content .document-body.small,
+.story-content .small {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    opacity: 0.9;
+}
+
+.story-content .divider-gold {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(212, 175, 55, 0.5), transparent);
+    margin: 1.5rem 0;
+}
+
+/* 단말기 로그 스타일 (접근 통제 시스템, 보안 로그, 모니터링 화면 등) */
+.story-content .terminal-log {
+    background: #05080a;
+    border: 1px solid rgba(120, 255, 180, 0.25);
+    border-radius: 4px;
+    padding: 1.1rem 1.4rem;
+    margin: 1.2rem 0;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.92rem;
+    line-height: 1.8;
+    color: #7dffb0;
+    text-shadow: 0 0 6px rgba(125, 255, 176, 0.35);
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.6);
+    white-space: pre-wrap;
+}
+
+.story-content .terminal-log .terminal-line {
+    display: block;
+}
+
+.story-content .terminal-log .terminal-line::before {
+    content: "> ";
+    opacity: 0.55;
+}
+
+.story-content .terminal-log .terminal-highlight {
+    color: #baffd6;
+    font-weight: 700;
+    text-shadow: 0 0 8px rgba(186, 255, 214, 0.6);
+}
+
+/* ============================================================
+   아웃트로 마지막 "다음 이야기": 드라마 다음 회 예고처럼 보이는 카드
+   ============================================================ */
+.story-content a.next-episode {
+    display: block;
+    margin: 1.2rem 0 0.4rem 0;
+    border: 1px solid rgba(168, 192, 255, 0.22);
+    border-radius: 6px;
+    overflow: hidden;
+    background: #04070b;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.story-content a.next-episode:hover {
+    border-color: rgba(168, 192, 255, 0.5);
+    box-shadow: 0 8px 32px rgba(168, 192, 255, 0.18);
+}
+
+.story-content .next-episode-poster {
+    position: relative;
+    display: block;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: #000;
+}
+
+.story-content .next-episode-poster img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    object-fit: cover;
+    filter: saturate(0.85) contrast(1.06) brightness(0.92);
+    transition: transform 0.8s ease;
+}
+
+.story-content a.next-episode:hover .next-episode-poster img {
+    transform: scale(1.04);
+}
+
+/* 글자가 잘 보이도록 위아래를 어둡게 하고, 와이드 화면처럼 보이는 검은 띠를 덧댄다 */
+.story-content .next-episode-poster::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.65) 0, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 0) 42%, rgba(0, 0, 0, 0.85) 100%);
+    pointer-events: none;
+}
+
+.story-content .next-episode-poster::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        linear-gradient(#000, #000) top / 100% 6% no-repeat,
+        linear-gradient(#000, #000) bottom / 100% 6% no-repeat;
+    pointer-events: none;
+}
+
+.story-content .next-episode-label {
+    position: absolute;
+    z-index: 2;
+    top: 10%;
+    left: 5%;
+    padding-left: 0.8em;
+    border-left: 2px solid #ff4d4d;
+    font-family: "Orbitron", sans-serif;
+    font-size: clamp(0.6rem, 2.4vw, 0.8rem);
+    font-weight: 700;
+    letter-spacing: 0.36em;
+    color: rgba(255, 255, 255, 0.88);
+}
+
+.story-content .next-episode-caption {
+    position: absolute;
+    z-index: 2;
+    left: 5%;
+    right: 5%;
+    bottom: 10%;
+    display: block;
+}
+
+.story-content .next-episode-series {
+    display: block;
+    font-family: "Orbitron", sans-serif;
+    font-size: clamp(0.6rem, 2.2vw, 0.78rem);
+    font-weight: 700;
+    letter-spacing: 0.3em;
+    color: #a8c0ff;
+}
+
+.story-content .next-episode-title {
+    display: block;
+    margin: 0.1em 0 0.15em 0;
+    font-size: clamp(1.7rem, 7vw, 2.8rem);
+    font-weight: 900;
+    line-height: 1.1;
+    color: #fff;
+    text-shadow: 0 2px 14px rgba(0, 0, 0, 0.85);
+}
+
+.story-content .next-episode-line {
+    display: block;
+    font-size: clamp(0.7rem, 2.6vw, 0.95rem);
+    font-style: italic;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.86);
+    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9);
+}
+
+.story-content .next-episode-foot {
+    display: block;
+    padding: 0.9rem 1rem 1rem 1rem;
+    background: #070b10;
+}
+
+.story-content .next-episode-synopsis {
+    display: block;
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: #c7d0e0;
+}
+
+.story-content .next-episode-cta {
+    display: block;
+    margin-top: 0.55rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: #a8c0ff;
+}
+
+.story-content .next-episode-note {
+    margin-right: 0.5em;
+    padding: 0.05em 0.5em;
+    border: 1px solid rgba(255, 77, 77, 0.6);
+    border-radius: 3px;
+    font-size: 0.8em;
+    color: #ff8a8a;
+}

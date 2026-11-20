@@ -1,0 +1,29 @@
+[도플로이드 NPC 이미지 프롬프트]
+2026-11-20 초안 (41차 피드백 후속, 같은 날 NPC를 클레이와 AIex로 나눔). NPC가 대사를 할 때 말풍선 옆에 보일 얼굴 이미지이다.
+
+공통 규칙
+- 비율은 1:1(정사각형). 얼굴을 한가운데에 크게 둔다(게임 화면에서 원형 아바타로 잘린다). 역할 이미지 규칙(works/역할정보_작성규칙.md)과 같다.
+- 화풍은 도플로이드 역할 이미지와 같다(16mm 필름, X-Files풍, 차가운 청록 색감).
+- 클레이와 AIex는 원본과 복제 인간이라 같은 얼굴이다. 클레이 이미지를 먼저 만들고, AIex는 그 이미지를 참조해(생성 도구의 이미지 참조 또는 같은 시드) 얼굴이 같게 만든다.
+- 두 이미지의 차이는 AIex의 목 옆과 오른쪽 뺨에 아주 살짝 긁힌 자국이 있고, 헤어스타일(앞머리 결)이 아주 약간 달라졌으며, 혈색이 아주 조금 더 좋다는 점이다. 한눈에 다른 사람으로 보이지 않고 자세히 봐야 알 수 있을 정도로 미묘하게 차이를 둔다.
+- 로고(워터마크)와 검은 띠는 murdex-image-cleanup 스킬로 정리한 뒤 올린다.
+
+NPC 구성(DB, 2026-11-20 반영)
+- 클레이: 2단계 대면 3줄, 3단계 1줄. 진짜 닥터 클레이가 말한다(소장실에서 자료를 가지러 가기 전까지).
+- AIex: 4단계 4줄, 5단계 4줄, 8단계 1줄(소장 심문 도입), 엔딩 대본 19줄. 클레이를 행세하는 복제 인간 알렉스가 말한다.
+- 단계 대본에서는 화자 이름이 두 NPC 모두 "클레이"로 표시된다(화자 표시 HTML은 그대로). 그래서 플레이어에게는 엔딩 전까지 클레이 소장 한 사람으로 보이고, 얼굴 이미지만 AIex용이 쓰인다. 엔딩 대본은 화자 이름이 "소장"과 "소장(AIex)"이다.
+- 이전에 "소장"이라는 이름이던 NPC를 "AIex"로 바꾸었다(엔딩 줄 연결은 그대로).
+
+========================================
+[NPC 1: 클레이]  (긁힌 자국 없음)
+========================================
+이미지생성용 프롬프트: Extreme close-up half-body portrait of a slender, reclusive bio-engineering scientist in his late 30s who spends all his days indoors immersed in his research. Lean, refined, scholarly face with clean cheekbones, clean-shaven skin with a naturally fair, slightly pale indoor complexion (not gaunt, not emaciated, no extreme illness). Calm, observant eyes with only subtle, natural tired shadows beneath them from late-night research, carrying a quiet, deeply focused academic intensity. Slightly long, fine, somewhat unkempt ash-brown hair parted and falling loosely across his forehead, neglected from months of solitary laboratory work — clearly distinct from a short-haired field agent. He wears a white laboratory coat over a pale grey-blue collared dress shirt buttoned near the neck, no tie. His face is centered in the frame and fills the middle of the image. Behind him, out of focus, is the dim interior of a private neurology lab with glass specimen shelves and the faint cyan glow of a medical monitor (not a hallway). Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, naturalistic clinical lighting, subtle film grain and analog imperfections. Square 1:1 aspect ratio. No text, lettering, name tags, signs or labels anywhere in the frame.
+
+========================================
+[NPC 2: AIex]  (클레이와 같은 얼굴, 목·오른쪽 뺨의 미세한 긁힌 자국 + 살짝 다른 머리결·혈색)
+========================================
+이미지생성용 프롬프트: The exact same man as in the previous portrait (use that image as the reference so the facial bone structure, features, pale grey-blue shirt collar, white lab coat and background are identical), shown with the same framing, lighting and style, with only three very subtle differences: (1) a few extremely faint, thin, pale scratch lines on the side of his neck just below the jaw and a single equally faint, tiny scratch mark on his right cheek, like light fingernail marks almost the same color as his skin, (2) his ash-brown hair is parted and falls across his forehead in a slightly different arrangement, as if hastily brushed back by hand, and (3) his skin has a very slightly healthier, less drained complexion with faintly lighter shadows under his eyes. All differences must remain subtle so he still clearly looks like the same person at a quick glance, with the scratches only noticeable upon closer inspection. No blood, no open wounds, no bandages, no bruises, no torn clothing. His expression is the same quiet, tensely controlled look. Grainy 16mm film still, 1990s X-Files-style investigative photography. Desaturated cool teal-green color grade, subtle film grain. Square 1:1 aspect ratio. No text, lettering, name tags, signs or labels anywhere in the frame.
+
+메모
+- 긁힌 자국의 이유: 11:16 기록 보관실에서 진짜 클레이가 발버둥 치며 알렉스의 목덜미와 팔을 할퀸 일이 타임라인에 있다. 4단계 이후 AIex 줄부터 이 흔적이 이미지에 남는다.
+- 자국이 너무 잘 보이면 플레이어가 엔딩 전에 두 인물이 다르다는 것을 알아챌 수 있다. 처음 생성한 이미지는 원래 크기와 확대해서 모두 확인한다.
