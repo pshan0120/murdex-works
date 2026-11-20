@@ -163,9 +163,19 @@ EndingID : 9caf4a91-84c1-4004-8b66-f2ec9fa1dd7e
 [32] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[33] 화자 타입: DIRECTIVE
+[33] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[34] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[35] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -358,9 +368,19 @@ EndingID : 94822313-0a04-4538-af00-44f066c5f097
 [38] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[39] 화자 타입: DIRECTIVE
+[39] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[40] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[41] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -525,9 +545,19 @@ EndingID : 34dce5cd-08b7-4509-ba06-5b13b8736aaf
 [32] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[33] 화자 타입: DIRECTIVE
+[33] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[34] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[35] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -688,9 +718,19 @@ EndingID : c7f043f1-d743-4036-beef-3a87cd70170b
 [31] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[32] 화자 타입: DIRECTIVE
+[32] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[33] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[34] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -847,9 +887,19 @@ EndingID : b61954ab-369f-46c7-b9cb-7c5b4d5cde17
 [30] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[31] 화자 타입: DIRECTIVE
+[31] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[32] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[33] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -1001,9 +1051,19 @@ EndingID : 2036746f-dd30-41fc-abfc-488d15929917
 [29] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[30] 화자 타입: DIRECTIVE
+[30] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[31] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[32] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -1169,9 +1229,19 @@ EndingID : 519af200-d104-4707-bffb-7fa6aca46a31
 [32] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[33] 화자 타입: DIRECTIVE
+[33] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[34] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[35] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -1338,9 +1408,19 @@ EndingID : b5fdd01c-c566-4477-ab31-f394668a5b6a
 [32] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[33] 화자 타입: DIRECTIVE
+[33] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[34] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[35] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -1478,9 +1558,19 @@ EndingID : a93c24a8-81c0-4211-ad46-97d3081a4b9d
 [26] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드. ...나쁘지 않네요.
+    대사: 도플...
 
-[27] 화자 타입: DIRECTIVE
+[27] 화자 타입: PLAYER
+    화자: 베일라
+    화자 표시 HTML: <span class="character-veyla">베일라</span>
+    대사: ...로이드!
+
+[28] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[29] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -1713,14 +1803,19 @@ EndingID : 551a9210-db4a-4626-b690-f29de733aafa
 [47] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드.
+    대사: 도플...
 
 [48] 화자 타입: PLAYER
     화자: 베일라
     화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: ...나쁘지 않네요.
+    대사: ...로이드!
 
-[49] 화자 타입: DIRECTIVE
+[49] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[50] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -1922,14 +2017,19 @@ EndingID : 9f2330e9-4cd7-4857-9fde-1def4db9d404
 [40] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드.
+    대사: 도플...
 
 [41] 화자 타입: PLAYER
     화자: 베일라
     화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: ...나쁘지 않네요.
+    대사: ...로이드!
 
-[42] 화자 타입: DIRECTIVE
+[42] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[43] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -2151,14 +2251,19 @@ EndingID : 0083a8b7-e2cf-49ef-99e5-f81b3b7b0fce
 [44] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드.
+    대사: 도플...
 
 [45] 화자 타입: PLAYER
     화자: 베일라
     화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: ...나쁘지 않네요.
+    대사: ...로이드!
 
-[46] 화자 타입: DIRECTIVE
+[46] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[47] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 
@@ -2377,14 +2482,19 @@ EndingID : 5e797a37-baef-41bc-9763-78e5574aec91
 [43] 화자 타입: PLAYER
     화자: 마커스
     화자 표시 HTML: <span class="character-marcus">마커스</span>
-    대사: 도플로이드.
+    대사: 도플...
 
 [44] 화자 타입: PLAYER
     화자: 베일라
     화자 표시 HTML: <span class="character-veyla">베일라</span>
-    대사: ...나쁘지 않네요.
+    대사: ...로이드!
 
-[45] 화자 타입: DIRECTIVE
+[45] 화자 타입: PLAYER
+    화자: 마커스
+    화자 표시 HTML: <span class="character-marcus">마커스</span>
+    대사: 도플로이드. ...이제 이 칸을 채울 수 있겠군요.
+
+[46] 화자 타입: DIRECTIVE
     담당 플레이어: 베일라
     대사: 두 사람은 그렇게, 세상에 없던 이름 하나를 함께 완성했다. 서류 위에 적힌 그 단어는, 그날 이전에는 어디에도 존재하지 않았던 이름이었다.
 

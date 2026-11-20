@@ -79,19 +79,14 @@
 }
 
 .story-content .subsection-title {
-    font-family: "Orbitron", sans-serif;
-    font-size: 1.1rem;
+    margin: 1.8rem 0 0.7rem 0;
+    padding-left: 0.7rem;
+    border-left: 3px solid #a8c0ff;
+    font-size: 1.05rem;
     font-weight: 700;
-    color: #ff4d4d;
-    margin: 1.5rem 0 0.8rem 0;
+    line-height: 1.4;
+    color: #e6ebf5;
     display: block; /* flex이면 제목 안의 이름 같은 인라인 요소가 따로 쪼개져 좁은 화면에서 깨져 보인다 */
-}
-
-.story-content .subsection-title::before {
-    content: ">>";
-    font-size: 0.8em;
-    opacity: 0.7;
-    margin-right: 0.5em;
 }
 
 .story-content .highlight {
@@ -103,8 +98,6 @@
 .story-content .emphasis {
     color: #ff4d4d;
     font-weight: 700;
-    text-decoration: underline;
-    text-underline-offset: 4px;
 }
 
 /* ============================================================
@@ -782,4 +775,11 @@
 .story-content .voice-card-alex .voice-tone {
     border-color: rgba(255, 77, 77, 0.5);
     color: #ff8a8a;
+}
+
+.story-content .voice-face {
+    margin-top: 0.55rem;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: #9aa7c0;
 }
