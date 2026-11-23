@@ -2,7 +2,7 @@
 * 아트 디렉션: Cinematic 35mm film still, 1990s X-Files-style investigative photography. High-tech, sleek modern aesthetic with desaturated cool teal-green color grade. Naturalistic lighting from practical sources — crisp LED light strips, flashlight beam cutting through mist and shadow. Restrained, observational composition, subtle atmospheric grain. Full frame edge-to-edge, completely fill the canvas, NO white borders, NO paper edges. No text, no letters, no words.
 
 ########################################
-[단계 2: 대면]
+[단계 1: 시작]
 ########################################
 
 ========================================
@@ -17,7 +17,45 @@
 * 이미지 프롬프트:
 Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A sleek, state-of-the-art biotech research facility with modern brutalist architecture, secluded in a foggy forest clearing at dawn. Pristine concrete and dark glass structure, quiet, secretive, and high-tech, about to be decommissioned. Cold blue-grey morning light, thin mist clinging to the ground. No people, no characters, empty exterior shot. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Ominous and quiet atmosphere. --ar 16:9 --no border, frame, margin, edge lines, white space, vignette, rust, overgrown, ruins, decay, broken, trash, dilapidated, dirt
 
-* 파일명: 단계2_대면_컷1
+* 파일명: 단계1_시작_컷1
+
+* 제작 메모: 2026-11-23 새로 만든 정문 이미지(16:9, 간판과 필름 테두리 없음). 이전 이미지(영문 간판, 필름 테두리, 정사각형)는 교체했다.
+
+########################################
+[단계 2: 대면]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+문이 열리고,
+소장실 안쪽에서 낮은 목소리가 두 사람을 맞이합니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. Interior of a sleek, high-tech executive director's office in a biotech research facility, seen from the open doorway. A tall man in a crisp white lab coat stands beside a large dark desk in front of a tall window with soft foggy forest light, turning his head toward the door to look at the camera. Medium shot, waist-up, three-quarter view. His face is clearly visible and softly lit by the window light: a composed, weary, calm expression with a trace of hidden unease, fine slightly thin dark brown hair combed back, clean unmarked skin. Quiet, formal, slightly uneasy atmosphere. No other people. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken, blood, wounds, bandage
+
+* 파일명: 단계2_대면_컷2
+
+* 제작 메모: 클레이(진짜)의 얼굴이 크게 나오는 컷. 참조 이미지: images/npcs/01_클레이.jpg. 파일 이름이 컷2인 것은 생성 순서 때문이며 이 단계의 컷은 이 한 장이다.
+
+########################################
+[단계 3: 조사 I: A구역]
+########################################
+
+========================================
+[컷 1]
+========================================
+* 자막:
+소장은 두 사람을 소장실에 남기고
+보안문 너머로 걸어갑니다.
+
+* 이미지 프롬프트:
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A heavy sleek security door standing open in a modern sterile corridor, an advanced biometric palm scanner panel glowing faintly cyan on the wall beside it. A man in a white lab coat is seen from behind and slightly from the side, walking through the doorway into the dim corridor beyond, one bare hand just lifted from the scanner panel, clean unmarked skin. Fine, slightly thin dark brown hair. His face is never visible. He is small in the frame and the door and scanner dominate. Empty, quiet, slightly ominous atmosphere. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken, blood, wounds, bandage, frontal face, face looking at camera, close-up of face
+
+* 파일명: 단계3_A구역_컷1
+
+* 제작 메모: 새 컷씬. 클레이가 보이는 마지막 컷이다(보안문의 손바닥 스캐너로 들어가는 뒷모습). 참조 이미지: images/npcs/01_클레이.jpg.
 
 ########################################
 [단계 4: 조사 II: B구역]
@@ -37,6 +75,8 @@ Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide h
 
 * 파일명: 단계4_B구역진입_컷1
 
+* 제작 메모: 2026-11-23 새로 만든 16:9 이미지로 교체했다. 사람 없는 열린 보안문(클레이는 이미 떠났고 AIex는 아직 나타나지 않는다). 이전 이미지는 572px 정사각형이었다.
+
 ########################################
 [단계 5: 조사 III: C구역]
 ########################################
@@ -51,9 +91,11 @@ Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide h
 소장의 뒤를 따라, 일행은 다음 구역으로 향합니다.
 
 * 이미지 프롬프트:
-Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A sleek high-tech sealed heavy security door blocking a modern facility corridor, leading into C-Zone. An advanced biometric scanner panel glowing red beside the door frame. Sterile, modern high-tech corridor, pristine metallic walls. No text, no letters, no characters, no people. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Tense, waiting atmosphere. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. Shallow depth of field close-up of a biometric palm scanner on a wall, glowing, with a man's bare hand pressed flat on it and the cuff of a white lab coat visible. The scanner glow is the focal point. The background is an empty sterile corridor, out of focus. On the back of the hand and wrist there are a few extremely faint, thin, pale lines like old fingernail marks, almost the same color as the skin, barely noticeable and not the focus of the image. No face is visible. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken, blood, wounds, bandage, frontal face, face looking at camera, close-up of face
 
 * 파일명: 단계5_C구역진입_컷1
+
+* 제작 메모: 스캐너에 손을 올린 AIex의 손. 기존의 문 앞 글자(C)가 있던 이미지를 이 이미지로 교체했다. 참조 이미지: images/npcs/02_AIex.jpg.
 
 ########################################
 [단계 6: 최종 조사: D구역]
@@ -69,9 +111,11 @@ Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide h
 두 사람은 말없이 소장의 뒤를 따릅니다.
 
 * 이미지 프롬프트:
-Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A massive, heavy reinforced vault door blocking the end of a sterile laboratory corridor, leading into the basement D-Zone. Biometric scanner glowing dimly beside it. Clean, high-security facility hallway. No text, no letters, no characters, no people. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Heavy, ominous, hesitant atmosphere. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A massive reinforced vault door at the end of a sterile laboratory corridor, a biometric scanner glowing dimly beside it. A man in a white lab coat stands before it, seen from behind and slightly from the side, his head turned away so that only the back and the edge of his head are visible, the scanner glow lightly rimming the side of his head. Thick, full dark brown hair. No other people. His face is never visible and nothing on his skin is visible. Heavy, hesitant atmosphere. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken, blood, wounds, bandage, frontal face, face looking at camera, close-up of face
 
 * 파일명: 단계6_D구역진입_컷1
+
+* 제작 메모: 금고문 앞에 선 AIex의 옆모습. 기존의 문 앞 글자(D)가 있던 이미지를 교체했다. 참조 이미지: images/npcs/02_AIex.jpg.
 
 ########################################
 [단계 8: 최종 결론]
@@ -87,6 +131,8 @@ Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide h
 소장은 줄곧 침묵을 지킵니다.
 
 * 이미지 프롬프트:
-Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A state-of-the-art underground incubation laboratory, pristine rows of empty futuristic glass capsules glowing faint cyan, sleek metallic cooling pipes along clean walls. No people, no characters, still and silent. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. Calm before the storm, quietly tense atmosphere. --ar 16:9 --no border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken
+Cinematic 35mm film still, 1990s X-Files-style investigative photography. Wide horizontal cinematic landscape aspect ratio, 16:9. A state-of-the-art underground incubation laboratory with rows of empty futuristic glass capsules glowing faint cyan. A man in a white lab coat stands in the middle distance turning slowly toward the camera, three-quarter view, lit mostly from behind and from the side by the cyan glow of the capsules so that his face is in soft shadow: the face is visible with a tense but controlled expression, but fine skin detail is not visible. Full, dense dark brown hair with its outline lit by the glow. No other people. Still, silent, quietly tense atmosphere. Desaturated cool teal-green color grade, naturalistic lighting. Restrained, observational composition, subtle film grain. --ar 16:9 --no text, letters, signage, watermark, border, frame, margin, edge lines, white space, vignette, rust, decay, dirt, grimy, ruins, broken, blood, wounds, bandage
 
 * 파일명: 단계8_최종결론_컷1
+
+* 제작 메모: 배양실에서 고개를 돌린 AIex. 참조 이미지: images/npcs/02_AIex.jpg.
