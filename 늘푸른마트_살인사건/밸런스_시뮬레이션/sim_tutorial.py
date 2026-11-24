@@ -30,21 +30,21 @@ CULPRIT = JM
 S1 = {
     # 창고 (공개)
     "A1": (None, True, {SJ: .3}), "A2": (None, True, {SJ: .3}), "A3": (None, True, {}),  # 2026-11-18 시신은 박스 더미 뒤, 잔물결 자국이 박스 더미 앞까지
-    "A4": (None, True, {JM: .3}),                        # 담배 상자 + 전표(합침)
     "A6": (None, True, {SJ: .3, JM: .3, OH: .3}),        # 도어락 02:00/02:10/02:22/02:24
     "A7": ("ONLY:" + OH, True, {JM: .3, SJ: 1, OH: .4}), # 02:16 통화 번호 가림, 서지은 문자, 02:39 하린이 전화(2026-11-18)
-    "A8": (None, True, {}),
     # 카운터 (공개)
     "B1": ("ONLY:" + SJ, True, {SJ: -.4}),  # 2026-11-18 영수증 카드 끝자리 삭제로 최유나와 바로 이어지지 않음
     "C1": (None, True, {OH: .3, JM: .1}),               # PC 02:18 로그인 + 실제 매출·대부 이자 + "20,000,000 (예정)"(2026-11-18 테스트 40차, 이름 없음)
-    "C4": (None, True, {SJ: 1.5}), "C3": (None, True, {JM: .8}), "C5": (None, True, {OH: 1.3}),  # 계약서+매출표+보험회사 봉투(증권 내용 삭제)
+    "C4": (None, True, {SJ: 1.5}), "C5": (None, True, {OH: 1.3}),  # 계약서+매출표+보험회사 봉투(증권 내용 삭제)
     # 인물 (본인 제외, 소유)
     "K1": ("NOT:" + SJ, False, {SJ: .1}), "L1": ("NOT:" + SJ, False, {SJ: 1.5}),
-    "N2": ("NOT:" + JM, False, {JM: .4}), "K2": ("NOT:" + JM, False, {JM: .3}),
+    "K2": ("NOT:" + JM, False, {JM: .3}),
     "D1": ("NOT:" + CY, False, {CY: 1.9}), "L3": ("NOT:" + CY, False, {CY: 1.8}),   # 수진 메시지 추가 1.5→1.8
     "K4": ("NOT:" + OH, False, {OH: .3}), "L4": ("NOT:" + OH, False, {OH: 1.5}),
 }
 S2 = {
+    # 2026-11-24 1차에서 옮겨 옴(창고#6 담배 상자·전표, 창고#7 거치대·고무장화, 카운터#5 전표 사본·통장, 정민재에 대하여#2 지갑)
+    "A4": (None, True, {JM: .3}), "A8": (None, True, {}), "C3": (None, True, {JM: .8}), "N2": ("NOT:" + JM, False, {JM: .4}),
     "E1": (None, True, {JM: .2, SJ: .2, CY: .2, OH: .15}),  # 회색 실밥: 회색 옷 셋 + 오하린 회색 양말(2026-11-18, 손잡이와 안 맞아 약하게)
     "G1": (None, True, {SJ: .5}),
     "F3": (None, True, {JM: 1.2}),  # 2026-11-18 법원 서류에 "집행유예"                       # 법원 봉투 + 블랙박스 (목장갑·발판 삭제)
@@ -54,7 +54,7 @@ S2 = {
     "S2": ("NOT:" + OH, False, {OH: 1.7}),               # 촬영 시각 없음, 보험증권(수익자·계약일·사망보험금 1억, 2026-11-18)은 여기서만
 }
 F3_VARIANT = {JM: .6}                                    # 액션 뒤: 법원 봉투 + 켜지지 않는 블랙박스(2026-11-17 빈 슬롯 삭제)
-assert len(S1) == 20 and len(S2) == 8
+assert len(S1) == 16 and len(S2) == 12  # 2026-11-24 20/8 → 16/12
 EXCULPATE = {"B1", "S1"}  # 남의 혐의를 벗겨 주는 단서(범인이 쥐면 숨길 수 있음)
 
 # 역할지 속 증언: (말하는 사람, 대상, 무게, 꺼낼 확률, 설명)
@@ -94,7 +94,7 @@ def pick(r, avail, policy, stage):
 HIDE_SELF_P, HIDE_SELF_P_CULPRIT = .8, .9
 
 
-def run(policy="random", action_p=.8, hide_p=0, share_p=1.0, ap1=5, ap2=2, noise=0.0, hide_self=1.0):
+def run(policy="random", action_p=.8, hide_p=0, share_p=1.0, ap1=5, ap2=3, noise=0.0, hide_self=1.0):
     known = set()
     hidden = set()
     holder = {}

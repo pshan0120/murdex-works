@@ -9,9 +9,10 @@
   - 컷씬은 그 단계가 시작될 때 나온다. 자막과 그림에는 직전 단계까지 플레이어가 이미 아는 것만 쓴다. 그 단계를 진행해야 알게 되는 것, 다음에 올 사람이나 사건을 예고하는 말은 넣지 않는다(2026-11-17 사용자 지정).
   - 시작 단계 컷은 작품 소개문에 나온 내용까지만 쓴다. 역할지를 읽어야 아는 날짜, 부서, 인물 세부는 쓰지 않는다. "역사관"이라는 이름도 장면 1 대본에서 처음 나오므로 시작 컷에는 쓰지 않는다.
   - 장면 뒤의 컷은 그 장면 대본에 나온 사실까지만 쓴다. 각 컷 아래 "근거"에 대본 줄 번호를 적었다.
+  - 장면 1에도 컷씬을 두지 않는다(2026-11-24 컷 1 삭제). 대본이 오후 5시 반 하도훈의 퇴근 장면으로 시작한다. 그 시각은 시작 단계 컷 3이 이미 보여 준다.
   - 장면 2, 장면 3, 최종 추리, 최종 질문에는 컷씬을 두지 않는다. 장면 2는 대본 [1]이 전조등과 승합차로 시작해 같은 장면을 두 번 보게 되고, 장면 3은 옷가지를 이어 끈을 만드는 장면이라 그림이 허리띠를 강조하면 J1과의 연결을 대신 짚어 주게 된다.
   - 단서로 나오는 물건(사다리, 끈, 난간 고리, 볼트 자국, 봉투, 쪽지 등)은 그리지 않는다. 시신, 피, 흉기도 그리지 않는다.
-  - 인물의 생김새도 대본에 나온 만큼만 그린다. 심용택은 장면 1 [20]의 "몸집이 큰"까지만 쓰고, 흰머리는 단서 G8에서 나오므로 모자로 가린다.
+  - 인물의 생김새도 대본에 나온 만큼만 그린다. 심용택은 장면 1 [30]의 "몸집이 큰"까지만 쓰고, 흰머리는 단서 G8에서 나오므로 모자로 가린다.
   - 자막은 상황 묘사이고, 플레이어에게 무엇을 하라고 말하지 않는다.
 
 ########################################
@@ -61,24 +62,6 @@ Widescreen aspect ratio, 16:9. The front of an old, modest two-story building at
 * 파일명: 단계1_시작_컷3
 
 ########################################
-[단계 2: 장면 1]
-########################################
-
-========================================
-[컷 1]
-========================================
-* 자막:
-같은 날 저녁.
-창밖은 어느새 캄캄합니다.
-
-* 근거: 시작 단계까지의 정보. 시각과 회의 상황은 대본 [1]이 말하므로 자막에 쓰지 않는다.
-
-* 이미지 프롬프트:
-Widescreen aspect ratio, 16:9. Close view of a long wooden conference table in an old meeting room after a long evening meeting: half-empty paper cups of cold coffee, scattered printed documents, a pen left on a notepad, chairs pulled out at odd angles. Blurred figures sit slumped at the far end of the table, out of focus, faces not visible. The window behind is pitch black. Semi-realistic digital painting, painterly brushwork, natural muted palette of aged cream plaster walls, worn varnished wood and faded sage-green window paint, night, warm ceiling lights turning cold and flat against pitch-black windows, tired and uneasy mood, subtle film grain. No recognizable faces. No text, no letters, no words, no readable numbers.
-
-* 파일명: 단계2_장면1_컷1
-
-########################################
 [단계 3: 조사 1단계]
 ########################################
 
@@ -89,7 +72,7 @@ Widescreen aspect ratio, 16:9. Close view of a long wooden conference table in a
 정문은 안에서 잠겼습니다.
 경비원 심용택이 그 앞을 지키고 서 있습니다.
 
-* 근거: 장면 1 [19]~[21]
+* 근거: 장면 1 [29]~[31]
 
 * 이미지 프롬프트:
 Widescreen aspect ratio, 16:9. Inside the entrance lobby of an old building at night, seen from behind a very large, broad-shouldered security guard in a dark uniform and a uniform cap, standing still in front of a locked glass double door. Outside the glass, only darkness and a single distant security lamp. Worn terrazzo floor, cream plaster walls, a wooden notice board on the wall with blank paper. Semi-realistic digital painting, painterly brushwork, natural muted palette of aged cream plaster walls, worn varnished wood and faded sage-green window paint, night, cold white fluorescent light, pitch-black glass, hushed tension, subtle film grain. No face visible. No text, no letters, no words, no readable numbers.
@@ -103,7 +86,7 @@ Widescreen aspect ratio, 16:9. Inside the entrance lobby of an old building at n
 2층 사료관리팀 사무실의 문은 열린 채입니다.
 복도에는 형광등 소리만 낮게 울립니다.
 
-* 근거: 장면 1 [8]
+* 근거: 장면 1 [18]
 
 * 이미지 프롬프트:
 Widescreen aspect ratio, 16:9. A long, narrow second-floor corridor in an old office building at night, cream plaster walls with worn wooden wainscoting, a scuffed linoleum floor. At the far end, an office door stands open and cold light spills out across the floor. Nothing inside the room is visible from here. The corridor is empty. Semi-realistic digital painting, painterly brushwork, natural muted palette of aged cream plaster walls, worn varnished wood and faded sage-green window paint, night, cold white fluorescent light, pitch-black windows, hushed tension, subtle film grain. No people, no bodies, no blood. No text, no letters, no words, no readable numbers.
