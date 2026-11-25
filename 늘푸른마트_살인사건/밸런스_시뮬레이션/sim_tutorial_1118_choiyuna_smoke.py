@@ -15,7 +15,7 @@ def patched(k, stage, variant, said, jit):
     p = ORIG(k, stage, variant, said, jit)
     if OPT.get("elim") and {"A2", "A6"} <= k:
         for r in (SJ, OH): p[r] -= .8
-        if "S1" in k or "B1" in k: p[CY] -= .8
+        if "B1" in k: p[CY] -= .8  # 2026-11-25 슬리퍼(S1)는 빼는 근거에서 제외
     return p
 
 
