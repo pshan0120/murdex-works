@@ -136,6 +136,16 @@ Do not add any other rooms, furniture, labels or text. Write the Korean labels e
 
 
 =====================================================
+[도면도 2층 탕비실 창 추가] 2026-11-26
+=====================================================
+살해 장소를 사무실에서 탕비실로 옮겼다. 지금 images/도면도_2층.png에는 탕비실 북쪽 벽에 창이 없으므로 하나 낸다. 지금 그림을 참고 이미지로 넣는다.
+
+Edit the reference image. It is a hand-drawn architectural floor plan of the second floor of a building, drawn in pencil on aged cream paper. Keep everything exactly the same: the canvas size and aspect ratio, the paper texture, the line style, the double border, the title box, every room, wall, door, window, label and piece of furniture. Make only one change: add one window to the top (north) outer wall of the pantry "탕비실", drawn in the same style and size as the office windows on the same wall. Do not add any other windows, doors, labels or text.
+
+파일명: 도면도_2층 (확정되면 images/도면도_2층.png를 바꾼다)
+
+
+=====================================================
 [도면도 1층 재생성] 2026-11-18
 =====================================================
 지금 images/도면도_1층.png를 참고 이미지로 넣고, 아래 프롬프트로 고친 판을 만든다.
